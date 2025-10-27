@@ -1,0 +1,129 @@
+<title>Vibrant Hotline Miami Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="hotline miami wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hotline-miami-wallpaper">
+                            <span itemprop="name">hotline miami wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hotline Miami Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Hotline Miami wallpaper that captures the essence of the game's vibrant, retro aesthetic. Featuring iconic graphics and characters, these wallpapers bring a burst of color to your screen. Ideal for fans seeking to express their passion for this cult classic! Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotline miami 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpaperaccess.com/full/4616021.jpg' alt='Hotline miami 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="3424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpaperaccess.com/full/4616021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a cool phone wallpaper! : r/HotlineMiami">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/made-a-cool-phone-wallpaper-v0-kea3whr2um8d1.jpg?width=1440&format=pjpg&auto=webp&s=1036bd24d45ad8bcffe2901d337cafaec612fce4' alt='Made a cool phone wallpaper! : r/HotlineMiami'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/made-a-cool-phone-wallpaper-v0-kea3whr2um8d1.jpg?width=1440&format=pjpg&auto=webp&s=1036bd24d45ad8bcffe2901d337cafaec612fce4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotline Miami Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/59/e6/af59e6ed70b652862ae8e6c7f8ee4fa8.jpg' alt='Hotline Miami Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/59/e6/af59e6ed70b652862ae8e6c7f8ee4fa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Hotline Miami HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/976/976896.png' alt='Download Video Game Hotline Miami HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/976/976896.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I photoshopped Hotline Miami colorscheme to *that* Hotline Miami ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/efcje6bc9dm51.png' alt='I photoshopped Hotline Miami colorscheme to *that* Hotline Miami ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/efcje6bc9dm51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hotline Miami Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hotline-miami-hv1qrubq39ldpipm.jpg' alt='100+] Hotline Miami Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hotline-miami-hv1qrubq39ldpipm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Hotline Miami wallpapers (Artworks by protski.com) ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f2/ab/a2/f2aba2d7fe1dd239ed30fd7904c56179.jpg' alt='19 Hotline Miami wallpapers (Artworks by protski.com) ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f2/ab/a2/f2aba2d7fe1dd239ed30fd7904c56179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper The game, People, Background, Miami, Hotline Miami ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/c/c9/hotline-miami-hotline-miami-synthpop-synth-retrowave-darkw-9.webp' alt='Wallpaper The game, People, Background, Miami, Hotline Miami ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/c/c9/hotline-miami-hotline-miami-synthpop-synth-retrowave-darkw-9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Hotline Miami 2 ~ Jacket and Beard">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2467490712373760119/A38963EADDB16E6B98839F910D069CFD4135875A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Hotline Miami 2 ~ Jacket and Beard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2467490712373760119/A38963EADDB16E6B98839F910D069CFD4135875A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotline miami 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/157/630/HD-wallpaper-hotline-miami.jpg' alt='Hotline miami 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/157/630/HD-wallpaper-hotline-miami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

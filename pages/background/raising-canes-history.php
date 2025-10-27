@@ -1,0 +1,129 @@
+<title>Raising Cane's: A Brief History of the Iconic Chicken Chain</title>
+                    <meta name="description" content="Discover the fascinating history of Raising Cane's, from its humble beginnings in Louisiana to a multi-state chicken phenomenon. Learn about its commitment to quality and signature flavors that have made it a favorite for chicken lovers everywhere, all in a concise overview.">
+                    <meta name="keywords" content="raising cane's history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/raising-canes-history">
+                            <span itemprop="name">raising cane's history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Raising Cane's: A Brief History of the Iconic Chicken Chain</h1>
+                <p>Raising Cane's was founded in 1996 by Todd Graves and Craig Silvey in Baton Rouge, Louisiana. The restaurant quickly became popular for its focus on quality chicken fingers, served with their signature Cane's Sauce. Today, it operates over 600 locations across the U.S. and beyond, emphasizing simplicity and fresh ingredients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who We Are | Raising Cane's">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/raisingcanes/N2FiZTkzYzctMDA4My00MDkxLTllMWUtYjk1YTM3NjZhMTky_6cff2950-c896-4153-bfea-54574e44df8e_timelinedreamimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=0%2C0%2C1280%2C1280&w=420&h=420' alt='Who We Are | Raising Cane's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raising Cane's" />
+                                </span>
+                                <a href='https://images.prismic.io/raisingcanes/N2FiZTkzYzctMDA4My00MDkxLTllMWUtYjk1YTM3NjZhMTky_6cff2950-c896-4153-bfea-54574e44df8e_timelinedreamimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=0%2C0%2C1280%2C1280&w=420&h=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How I Built This: Todd Graves shares what's behind the tasty ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/raisingcanes/Y2ZhMGU5ZTktYjI4Ny00NWE1LWFmNjEtYWQ3YzZiMGExZjJl_bb545159-7297-4e37-bafa-14ad737c183b_toddandcrewshovel.jpg?auto=compress,format&rect=0,0,1280,960&w=1280&h=960' alt='How I Built This: Todd Graves shares what's behind the tasty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raising Cane's" />
+                                </span>
+                                <a href='https://images.prismic.io/raisingcanes/Y2ZhMGU5ZTktYjI4Ny00NWE1LWFmNjEtYWQ3YzZiMGExZjJl_bb545159-7297-4e37-bafa-14ad737c183b_toddandcrewshovel.jpg?auto=compress,format&rect=0,0,1280,960&w=1280&h=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From risking his life to betting everything on... Chicken fingers. This is  the story of Todd Graves - founder of Raising Cane’s. Learn how Todd funded  his dream through high-risk jobs, like working on ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3429462003709257977' alt='From risking his life to betting everything on... Chicken fingers. This is  the story of Todd Graves - founder of Raising Cane’s. Learn how Todd funded  his dream through high-risk jobs, like working on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3429462003709257977' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raising Cane's founder named one of best CEOs to work for in country">
+                                <img itemprop="contentUrl url" src='https://gray-wafb-prod.gtv-cdn.com/resizer/v2/4UZFZXEPQFDENBITUTSHHE3MAM.jpg?auth=0d66c1aa98c17c070ee773f252d750bdd11fb4f7584d7a5138c2b6eb7a9d60f7&width=980&height=1272&smart=true' alt='Raising Cane's founder named one of best CEOs to work for in country'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WAFB" />
+                                </span>
+                                <a href='https://gray-wafb-prod.gtv-cdn.com/resizer/v2/4UZFZXEPQFDENBITUTSHHE3MAM.jpg?auth=0d66c1aa98c17c070ee773f252d750bdd11fb4f7584d7a5138c2b6eb7a9d60f7&width=980&height=1272&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who We Are | Raising Cane's">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/raisingcanes/YjVkNWUwYjMtYzY3NS00ODM3LThhMjUtNDE4NjIyZjJmNGFl_27627edf-9b43-473c-bacb-8a6534dbbde9_who-we-are-basic-hero2.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=924%2C0%2C650%2C1000&w=400&h=615' alt='Who We Are | Raising Cane's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raising Cane's" />
+                                </span>
+                                <a href='https://images.prismic.io/raisingcanes/YjVkNWUwYjMtYzY3NS00ODM3LThhMjUtNDE4NjIyZjJmNGFl_27627edf-9b43-473c-bacb-8a6534dbbde9_who-we-are-basic-hero2.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=924%2C0%2C650%2C1000&w=400&h=615' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Todd Graves Built Raising Cane's Into a Billion-Dollar Empire ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/655bea659c7d23cb3b9dcb58?width=700' alt='How Todd Graves Built Raising Cane's Into a Billion-Dollar Empire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/655bea659c7d23cb3b9dcb58?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raising Cane's Chicken Fingers - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Raising_Cane%27s_Chicken_Fingers_logo.svg/1200px-Raising_Cane%27s_Chicken_Fingers_logo.svg.png' alt='Raising Cane's Chicken Fingers - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Raising_Cane%27s_Chicken_Fingers_logo.svg/1200px-Raising_Cane%27s_Chicken_Fingers_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Untold Truth Of Raising Cane's Chicken Fingers">
+                                <img itemprop="contentUrl url" src='https://www.mashed.com/img/gallery/the-untold-truth-of-raising-canes-chicken-fingers/intro-1660337047.jpg' alt='The Untold Truth Of Raising Cane's Chicken Fingers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashed" />
+                                </span>
+                                <a href='https://www.mashed.com/img/gallery/the-untold-truth-of-raising-canes-chicken-fingers/intro-1660337047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who We Are | Raising Cane's">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/raisingcanes/ODUzYWYzMTUtMTBmYS00YmNkLTlmMTEtMTY0Y2VjMTExMTM2_d33fca0a-de42-4b66-8cad-e76ae36ffddc_timelinemuralimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=160%2C0%2C960%2C960&w=420&h=420' alt='Who We Are | Raising Cane's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raising Cane's" />
+                                </span>
+                                <a href='https://images.prismic.io/raisingcanes/ODUzYWYzMTUtMTBmYS00YmNkLTlmMTEtMTY0Y2VjMTExMTM2_d33fca0a-de42-4b66-8cad-e76ae36ffddc_timelinemuralimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=160%2C0%2C960%2C960&w=420&h=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who We Are | Raising Cane's">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/raisingcanes/OTJmZWQxODUtYTczOS00YTE2LWI0YmYtM2YwMDYxMTRlZGI3_f4225dd3-ae84-4c0e-a729-da286a034eb8_timelinedogimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=211%2C0%2C854%2C854&w=420&h=420' alt='Who We Are | Raising Cane's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raising Cane's" />
+                                </span>
+                                <a href='https://images.prismic.io/raisingcanes/OTJmZWQxODUtYTczOS00YTE2LWI0YmYtM2YwMDYxMTRlZGI3_f4225dd3-ae84-4c0e-a729-da286a034eb8_timelinedogimg.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=211%2C0%2C854%2C854&w=420&h=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Sweet Treats Galore: Discover Our Candy Shop!</title>
+                    <meta name="description" content="Indulge in a sweet adventure at our candy shop! Explore a variety of treats, from nostalgic candies to modern delights. Perfect for all ages, our shop promises a magical experience filled with joy and delicious flavors. Visit us today for a candy experience to remember!">
+                    <meta name="keywords" content="candy shop background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-shop-background">
+                            <span itemprop="name">candy shop background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sweet Treats Galore: Discover Our Candy Shop!</h1>
+                <p>Step into a world of sweetness in our candy shop, where vibrant colors and delightful scents greet you at the door. From classic chocolates to quirky gummies, our wide selection caters to all tastes. Perfect for kids and the young at heart, our shop is a haven for sugar lovers, promising joy and nostalgia with every treat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Candy Shop Candyland Girl Birthday Party Pink Backdrops Sweet  Lollipop Shoppe Pink Cute Dessert Candy Shop Ice Cream Girls Birthday Baby  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719qak56WxL.jpg' alt='Amazon.com : Candy Shop Candyland Girl Birthday Party Pink Backdrops Sweet  Lollipop Shoppe Pink Cute Dessert Candy Shop Ice Cream Girls Birthday Baby  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719qak56WxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Candy Shop Interior Fabric Backdrop">
+                                <img itemprop="contentUrl url" src='https://snobbydrops.com/cdn/shop/files/pink-candy-shop-interior-fabric-backdrop.png?v=1702919699' alt='Pink Candy Shop Interior Fabric Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snobby Drops" />
+                                </span>
+                                <a href='https://snobbydrops.com/cdn/shop/files/pink-candy-shop-interior-fabric-backdrop.png?v=1702919699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Christmas Candy Shop Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/Kate_Christmas_Candy_Shop_Backdrop_for_Photography_7x5ft_BH1030489D.jpg?v=1657010622&width=1000' alt='Kate Christmas Candy Shop Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/Kate_Christmas_Candy_Shop_Backdrop_for_Photography_7x5ft_BH1030489D.jpg?v=1657010622&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Store Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1548465557-b33c4e98cbe9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjBzdG9yZXxlbnwwfHwwfHx8MA%3D%3D' alt='Candy Store Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1548465557-b33c4e98cbe9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjBzdG9yZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Candy Shop Backdrop, Candy Theme Decor - Etsy Israel">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19857440/r/il/e9e9b2/4066350800/il_fullxfull.4066350800_8g6q.jpg' alt='Editable Candy Shop Backdrop, Candy Theme Decor - Etsy Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2520">
+                                <meta itemprop="height" content="2392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19857440/r/il/e9e9b2/4066350800/il_fullxfull.4066350800_8g6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Shop Christmas Holiday Winter Backdrop D851">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/D851-1.jpg?v=1656488317' alt='Candy Shop Christmas Holiday Winter Backdrop D851'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/D851-1.jpg?v=1656488317' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Store Interior Stock Illustrations – 663 Candy Store ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/candy-store-interior-design-brightly-colored-candy-store-interior-pink-walls-shelves-displays-filled-array-326180587.jpg' alt='Candy Store Interior Stock Illustrations – 663 Candy Store ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/candy-store-interior-design-brightly-colored-candy-store-interior-pink-walls-shelves-displays-filled-array-326180587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="candystore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/00/a4/f900a485554984b2c765bf8e9175f5a2.jpg' alt='candystore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/00/a4/f900a485554984b2c765bf8e9175f5a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Shop Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/candy-shop-empty-interior-with-various-pastry_107791-1730.jpg' alt='Candy Shop Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/candy-shop-empty-interior-with-various-pastry_107791-1730.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Christmas Candy Shops Photography Backdrop Santa's Toy Shop  Candy Cane Snow World Red Photography Background Merry Xmas Happy New Year  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Z3T55MGzL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Christmas Candy Shops Photography Backdrop Santa's Toy Shop  Candy Cane Snow World Red Photography Background Merry Xmas Happy New Year  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Z3T55MGzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

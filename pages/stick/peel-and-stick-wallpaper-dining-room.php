@@ -1,0 +1,129 @@
+<title>Elevate Your Dining Room with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Explore the ease of peel and stick wallpaper for your dining room! Quickly refresh your space with stylish designs that are simple to apply and remove. Perfect for renters or anyone looking for a temporary update without the mess of traditional wallpaper!">
+                    <meta name="keywords" content="peel and stick wallpaper dining room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-dining-room">
+                            <span itemprop="name">peel and stick wallpaper dining room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Dining Room with Peel and Stick Wallpaper</h1>
+                <p>Transform your dining room effortlessly with peel and stick wallpaper! This simple DIY solution offers a variety of designs to match your style, from modern patterns to classic prints. Easy to install and removable, it allows you to refresh your space without the commitment of traditional wallpaper. Perfect for a quick makeover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/3_d13a1354-8793-4831-a3ae-3e1c0e7aa21d.jpg?v=1701298246&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/3_d13a1354-8793-4831-a3ae-3e1c0e7aa21d.jpg?v=1701298246&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Rose Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/files/NW49008-C_1000x1000.jpg?v=1682903890' alt='Vintage Rose Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/files/NW49008-C_1000x1000.jpg?v=1682903890' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloom Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/bloom-wallpaper-peel-stick-561289.jpg?v=1677191915' alt='Bloom Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1343">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/bloom-wallpaper-peel-stick-561289.jpg?v=1677191915' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B954">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6061235339_43hg.jpg?v=1722533606&width=1946' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B954'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6061235339_43hg.jpg?v=1722533606&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/233/1198/modern-leaf-peel-and-stick-wallpaper__77437.1720041643.jpg?c=2' alt='Modern Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/233/1198/modern-leaf-peel-and-stick-wallpaper__77437.1720041643.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmithHönig Peel and Stick Wallpaper Living + Dining Rooms | SmithHönig">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0027/7141/9249/files/Pantera-Forest-Wallpaper.png' alt='SmithHönig Peel and Stick Wallpaper Living + Dining Rooms | SmithHönig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SmithHönig" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0027/7141/9249/files/Pantera-Forest-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Floral Wallpaper Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/a61d6d/2084392334/il_570xN.2084392334_9teq.jpg' alt='Removable Wallpaper Peel and Stick Floral Wallpaper Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/a61d6d/2084392334/il_570xN.2084392334_9teq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper in the dining room - Re-Fabbed">
+                                <img itemprop="contentUrl url" src='https://www.re-fabbed.com/wp-content/uploads/2022/07/wallpaper-in-dining-room7-1024x736.jpg' alt='wallpaper in the dining room - Re-Fabbed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Re-Fabbed" />
+                                </span>
+                                <a href='https://www.re-fabbed.com/wp-content/uploads/2022/07/wallpaper-in-dining-room7-1024x736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving dinner">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/thanksgiving-dinner-removable-wallpaper-in-mid-century-modern-style-dining-room.jpg' alt='Thanksgiving dinner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/thanksgiving-dinner-removable-wallpaper-in-mid-century-modern-style-dining-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Redecorating Your Dining Room With Removable Wallpaper | Tempaper ...">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/articles/Rrjcliftondesignsllc2.jpg?v=1638380264' alt='Redecorating Your Dining Room With Removable Wallpaper | Tempaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/articles/Rrjcliftondesignsllc2.jpg?v=1638380264' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

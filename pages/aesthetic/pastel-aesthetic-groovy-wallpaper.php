@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pastel aesthetic groovy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastel-aesthetic-groovy-wallpaper">
+                            <span itemprop="name">pastel aesthetic groovy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Groovy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-flat-groovy-psychedelic-background_23-2149085757.jpg' alt='Pastel Groovy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-flat-groovy-psychedelic-background_23-2149085757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract rainbow wavy background in style 60-70-ies. Vintage ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/431/180/non_2x/abstract-rainbow-wavy-background-in-style-60-70-ies-vintage-groovy-pastel-retro-background-hippie-aesthetics-vector.jpg' alt='Abstract rainbow wavy background in style 60-70-ies. Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/431/180/non_2x/abstract-rainbow-wavy-background-in-style-60-70-ies-vintage-groovy-pastel-retro-background-hippie-aesthetics-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy smiley pattern Danish pastel aesthetic image for wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/b1/ec/9eb1ec24bb8cb0355da898d2efedf0bb.jpg' alt='Groovy smiley pattern Danish pastel aesthetic image for wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/b1/ec/9eb1ec24bb8cb0355da898d2efedf0bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Groovy Paper Patterns Pastel Digital Paper Scrapbook Digital rainbow  forever Groovy Birthday Groovy Baby Groovy One Two Groovy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35356012/r/il/8a442c/4160919099/il_fullxfull.4160919099_c80z.jpg' alt='Retro Groovy Paper Patterns Pastel Digital Paper Scrapbook Digital rainbow  forever Groovy Birthday Groovy Baby Groovy One Two Groovy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1306">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35356012/r/il/8a442c/4160919099/il_fullxfull.4160919099_c80z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Background Images – Browse 271,956 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/01/52/36/360_F_501523654_iTeRiR15SpnekpBQCWf11sip7THqF5oU.jpg' alt='Groovy Background Images – Browse 271,956 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/01/52/36/360_F_501523654_iTeRiR15SpnekpBQCWf11sip7THqF5oU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 70's Groovy Background Star Pattern Pastel Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/70-s-groovy-background-gha0ukk9pouwkfx8.jpg' alt='Download 70's Groovy Background Star Pattern Pastel Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/70-s-groovy-background-gha0ukk9pouwkfx8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat Hand Drawn Pastel Colored Groovy Background, Psychedelic ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-flat-hand-drawn-pastel-colored-groovy-background-picture-image_1591136.jpg' alt='Flat Hand Drawn Pastel Colored Groovy Background, Psychedelic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-flat-hand-drawn-pastel-colored-groovy-background-picture-image_1591136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Groovy Aesthetic Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' alt='Retro Groovy Aesthetic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 70's Groovy Background Wavy Blue And Pastel Colors ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/70-s-groovy-background-2048-x-2732-cr965er3tjntac2d.jpg' alt='Download 70's Groovy Background Wavy Blue And Pastel Colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/70-s-groovy-background-2048-x-2732-cr965er3tjntac2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210924/pngtree-colorful-groovy-hand-drawn-background-image_907377.png' alt='Groovy Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210924/pngtree-colorful-groovy-hand-drawn-background-image_907377.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

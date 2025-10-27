@@ -1,0 +1,129 @@
+<title>Stunning Space Travel Wallpaper for Cosmic Dreamers</title>
+                    <meta name="description" content="Discover beautiful space travel wallpaper that brings the universe to your screen. Perfect for all space lovers, our top-quality images showcase breathtaking celestial scenes, inspiring your cosmic dreams. Explore our collection and transform your device today!">
+                    <meta name="keywords" content="space travel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-travel-wallpaper">
+                            <span itemprop="name">space travel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Travel Wallpaper for Cosmic Dreamers</h1>
+                <p>Transform your device with stunning space travel wallpaper! From mesmerizing nebulae to breathtaking views of distant galaxies, our collection captures the beauty and mystery of the cosmos. Perfect for space enthusiasts, these wallpapers will inspire you to dream big and explore the universe. Download now and elevate your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="476,800+ Space Travel Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/182062885/photo/space-station-in-earth-orbit.jpg?s=612x612&w=0&k=20&c=F_P2YJ3QDbSW2n6dWkh6JNYeQGI1-2q-wOBk9-sw_Xo=' alt='476,800+ Space Travel Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/182062885/photo/space-station-in-earth-orbit.jpg?s=612x612&w=0&k=20&c=F_P2YJ3QDbSW2n6dWkh6JNYeQGI1-2q-wOBk9-sw_Xo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="476,800+ Space Travel Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1131418344/photo/space-shuttle-in-the-rays-of-sun.jpg?s=612x612&w=0&k=20&c=sWDbIkxaV4-0Ou8cgUJa6a06bcF78hkJ5GvL8WZmJr4=' alt='476,800+ Space Travel Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1131418344/photo/space-shuttle-in-the-rays-of-sun.jpg?s=612x612&w=0&k=20&c=sWDbIkxaV4-0Ou8cgUJa6a06bcF78hkJ5GvL8WZmJr4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper - Space Exploration | Sci-Fi Space Station">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/71/c2/e671c2f769de9d75d130ed5455951bd5.jpg' alt='Phone Wallpaper - Space Exploration | Sci-Fi Space Station'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/71/c2/e671c2f769de9d75d130ed5455951bd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eve Online Space Travel And Adventure Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/eve-online-space-travel-and-adventure-9a879pol8p4h8m1u.jpg' alt='Eve Online Space Travel And Adventure Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/eve-online-space-travel-and-adventure-9a879pol8p4h8m1u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="93,200+ Space Exploration Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1353874144/photo/astronaut-in-outer-space-spaceman-with-starry-and-galactic-background-sci-fi-digital-wallpaper.jpg?s=612x612&w=0&k=20&c=v66dk0cM4PWc0uOV7uVtaYWQv57deKvWjBBS6LgeHxQ=' alt='93,200+ Space Exploration Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1353874144/photo/astronaut-in-outer-space-spaceman-with-starry-and-galactic-background-sci-fi-digital-wallpaper.jpg?s=612x612&w=0&k=20&c=v66dk0cM4PWc0uOV7uVtaYWQv57deKvWjBBS6LgeHxQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Travel, space, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/768/367/HD-wallpaper-space-travel-other-space.jpg' alt='Space Travel, space, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/768/367/HD-wallpaper-space-travel-other-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Astronaut In Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-astronaut-in-space-tablet-r6u541xlrlviv0cy.jpg' alt='300+] Astronaut In Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-astronaut-in-space-tablet-r6u541xlrlviv0cy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD “space traveler” astronaut wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/458/8/HD-wallpaper-space-travel-astronaut-falcon-galaxy-space-thumbnail.jpg' alt='HD “space traveler” astronaut wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/458/8/HD-wallpaper-space-travel-astronaut-falcon-galaxy-space-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Interstellar Travel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/interstellar-travel-1920-x-1080-wallpaper-8q23niu29wrpy2h8.jpg' alt='100+] Interstellar Travel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/interstellar-travel-1920-x-1080-wallpaper-8q23niu29wrpy2h8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: space exploration 4k images for backgrounds desktop ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/413/135/819/space-exploration-4k-images-for-backgrounds-desktop-wallpaper-preview.jpg' alt='HD wallpaper: space exploration 4k images for backgrounds desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/413/135/819/space-exploration-4k-images-for-backgrounds-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Perfect iPhone SE Wallpaper Dimensions Explained</title>
+                    <meta name="description" content="Discover the ideal wallpaper dimensions for your iPhone SE. Learn the optimal sizes for both 1st and 2nd generations, ensuring a stunning visual experience on your device. Optimize your home and lock screen wallpapers for the best quality and clarity with our quick guide.">
+                    <meta name="keywords" content="iphone se wallpaper dimensions">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-se-wallpaper-dimensions">
+                            <span itemprop="name">iphone se wallpaper dimensions</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect iPhone SE Wallpaper Dimensions Explained</h1>
+                <p>For iPhone SE wallpaper dimensions, optimal sizes are 1136 x 640 pixels for the 1st generation and 1334 x 750 pixels for the 2nd generation. Using these dimensions ensures your wallpapers fit perfectly without distortion or pixelation, providing a vibrant and immersive visual experience for your device's home and lock screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE — Screen sizes and interfaces compared! | iMore">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/yN8bkeAYfKJuSZ3kcLgrpD-320-80.jpg' alt='iPhone SE — Screen sizes and interfaces compared! | iMore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iMore" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/yN8bkeAYfKJuSZ3kcLgrpD-320-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Dimensions - SimplyMac">
+                                <img itemprop="contentUrl url" src='https://www.simplymac.com/wp-content/uploads/iphone-wallpaper1.webp' alt='iPhone Wallpaper Dimensions - SimplyMac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyMac" />
+                                </span>
+                                <a href='https://www.simplymac.com/wp-content/uploads/iphone-wallpaper1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are iPhone wallpaper dimensions? | AppleInsider">
+                                <img itemprop="contentUrl url" src='https://photos5.appleinsider.com/gallery/39774-76347-bgf-xl.jpg' alt='What are iPhone wallpaper dimensions? | AppleInsider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AppleInsider" />
+                                </span>
+                                <a href='https://photos5.appleinsider.com/gallery/39774-76347-bgf-xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Different iOS Wallpaper Sizes: A Guide for Apple ...">
+                                <img itemprop="contentUrl url" src='https://9meters.com/nitropack_static/eKbrFKoVYkaMxmikCJhDVCrzNwUDlcnj/assets/images/optimized/rev-18e8344/9meters.com/wp-content/uploads/image-6-20241027-053205.png' alt='What Are the Different iOS Wallpaper Sizes: A Guide for Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9meters" />
+                                </span>
+                                <a href='https://9meters.com/nitropack_static/eKbrFKoVYkaMxmikCJhDVCrzNwUDlcnj/assets/images/optimized/rev-18e8344/9meters.com/wp-content/uploads/image-6-20241027-053205.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The complete guide to iPhone screen resolutions and sizes (Updated ...">
+                                <img itemprop="contentUrl url" src='https://www.appmysite.com/blog/wp-content/uploads/2022/01/56.png' alt='The complete guide to iPhone screen resolutions and sizes (Updated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AppMySite" />
+                                </span>
+                                <a href='https://www.appmysite.com/blog/wp-content/uploads/2022/01/56.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple iPhone SE (9th Gen) Dimensions & Drawings | Dimensions.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/61640ad3d11565656bad2aef_Dimensions-Digital-Apple-iPhones-Apple-iPhone-SE-9th-Gen-Dimensions.svg' alt='Apple iPhone SE (9th Gen) Dimensions & Drawings | Dimensions.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dimensions.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/61640ad3d11565656bad2aef_Dimensions-Digital-Apple-iPhones-Apple-iPhone-SE-9th-Gen-Dimensions.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Guide to Smartphone Wallpaper Size | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/web/no2/5fb357b0c1415e1dc38f53548c8b79bb.png' alt='Quick Guide to Smartphone Wallpaper Size | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/web/no2/5fb357b0c1415e1dc38f53548c8b79bb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimensions iPhone SE Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-se-wallpapers/download/93606/Dimensions-iphone-se-wallpaper-ilikewallpaper_com.jpg' alt='Dimensions iPhone SE Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-se-wallpapers/download/93606/Dimensions-iphone-se-wallpaper-ilikewallpaper_com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE 2022: viewport, screen size, CSS pixel ratio, cross ...">
+                                <img itemprop="contentUrl url" src='https://blisk.io/img/devicesInBlisk/preview/phones/iphone-se-2022.png' alt='iPhone SE 2022: viewport, screen size, CSS pixel ratio, cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blisk" />
+                                </span>
+                                <a href='https://blisk.io/img/devicesInBlisk/preview/phones/iphone-se-2022.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/9d/a0/169da03b10a51c13592a47d0cb003bc8.jpg' alt='Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/9d/a0/169da03b10a51c13592a47d0cb003bc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

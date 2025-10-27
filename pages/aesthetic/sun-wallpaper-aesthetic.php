@@ -1,0 +1,129 @@
+<title>Sun Wallpaper Aesthetic: Brighten Your Space</title>
+                    <meta name="description" content="Add a cheerful touch to your home with sun wallpaper aesthetic designs. Perfect for capturing the essence of sunlight, these wallpapers uplift your space while providing a sense of calm and warmth. Explore varying styles and find the perfect match for your decor needs today!">
+                    <meta name="keywords" content="sun wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/sun-wallpaper-aesthetic">
+                            <span itemprop="name">sun wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sun Wallpaper Aesthetic: Brighten Your Space</h1>
+                <p>Transform your space with sun wallpaper aesthetic that radiates warmth and positivity. Whether it’s a bold, sunburst pattern or soft, dreamy sunrises, these wallpapers bring a touch of nature indoors. Perfect for creating a vibrant atmosphere in any room, embrace the beauty of sunlight to illuminate your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sun wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFd549KsVs/1/0/900w/canva-aesthetic-simple-sun-phone-wallpaper-EGOu9zJPxUQ.jpg' alt='Free and customizable sun wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFd549KsVs/1/0/900w/canva-aesthetic-simple-sun-phone-wallpaper-EGOu9zJPxUQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Sun Aesthetic Wallpaper Lockscreen iPhone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/17/ea/79/17ea79b631d0b9d465fae43c89b7d4fe.jpg' alt='Retro Sun Aesthetic Wallpaper Lockscreen iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/17/ea/79/17ea79b631d0b9d465fae43c89b7d4fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sun Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-sun-cute-iphone-u8rgmx0ajurgqmy7-2.jpg' alt='Aesthetic Sun Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-sun-cute-iphone-u8rgmx0ajurgqmy7-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/87/a5/7f/87a57fa9e6208128630bcbeea6384003.jpg' alt='sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/87/a5/7f/87a57fa9e6208128630bcbeea6384003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic White Outlined Sun Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/boho-aesthetic-white-outlined-sun-zjvnw0oiiukjtms6.jpg' alt='Boho Aesthetic White Outlined Sun Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/boho-aesthetic-white-outlined-sun-zjvnw0oiiukjtms6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Sun With Neutral Colours Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/boho-aesthetic-sun-with-neutral-colours-rznrrp0050l0dnkk.jpg' alt='Boho Aesthetic Sun With Neutral Colours Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1508">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/boho-aesthetic-sun-with-neutral-colours-rznrrp0050l0dnkk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sun wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFcj-rzeNs/1/0/900w/canva-wallpaper-sunshine-sun-ilustration-minimalist-yellow-Ym2bAGbrGuQ.jpg' alt='Free and customizable sun wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFcj-rzeNs/1/0/900w/canva-wallpaper-sunshine-sun-ilustration-minimalist-yellow-Ym2bAGbrGuQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun and moon | Wallpaper | Sun | Moon | Pink | Blue | Yellow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/9a/31/669a3166bbe3997f26f5ce4d8cb5d481.jpg' alt='Sun and moon | Wallpaper | Sun | Moon | Pink | Blue | Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/9a/31/669a3166bbe3997f26f5ce4d8cb5d481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sun wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFsZNWICWo/1/0/450w/canva-sun-phone-wallpaper-TvhYHZjFp5I.jpg' alt='Free and customizable sun wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFsZNWICWo/1/0/450w/canva-sun-phone-wallpaper-TvhYHZjFp5I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Sun Wallpaper Mural | Kids Wallpaper | WallpaperMural ...">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/products/SunshineMural_Artwork_533x.jpg?v=1736861780' alt='Boho Sun Wallpaper Mural | Kids Wallpaper | WallpaperMural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/products/SunshineMural_Artwork_533x.jpg?v=1736861780' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

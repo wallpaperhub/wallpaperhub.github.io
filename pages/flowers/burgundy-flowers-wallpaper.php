@@ -1,0 +1,129 @@
+<title>Burgundy Flowers Wallpaper: Elegant Floral Designs for Your Home</title>
+                    <meta name="description" content="Enhance your living space with stunning burgundy flowers wallpaper. Perfect for adding sophistication and warmth to any room, our collection features intricate floral patterns that transform walls into works of art. Discover the beauty and elegance of burgundy blooms in your home today!">
+                    <meta name="keywords" content="burgundy flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/burgundy-flowers-wallpaper">
+                            <span itemprop="name">burgundy flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Burgundy Flowers Wallpaper: Elegant Floral Designs for Your Home</h1>
+                <p>Burgundy flowers wallpaper brings a touch of elegance to any room, blending rich hues with floral patterns that captivate the eye. Ideal for creating a cozy yet vibrant atmosphere, these wallpapers are perfect for accent walls or entire spaces. Elevate your decor with the timeless beauty of burgundy blossoms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Flowers Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13614377/p/f/l/O9GZ87GyC0jrJJDurh2l8oQsoQSl3Ya2g2Q4ABNUaKwrJGqGTBRKT-k/Vintage%20Black%20Dramatic%20Glamour%20Summer%20Romanticism%3A%20Maximalism%20Moody%20Florals%20-%20Grand%20Millennial%20burgundy%20Roses%20and%20Nostalgic%20Gothic%20Mystic%20Night%20Flowers%204-%20Antique%20Botany%20and%20Victorian%20Goth%20inspired%20black%20nature.jpg' alt='Burgundy Flowers Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13614377/p/f/l/O9GZ87GyC0jrJJDurh2l8oQsoQSl3Ya2g2Q4ABNUaKwrJGqGTBRKT-k/Vintage%20Black%20Dramatic%20Glamour%20Summer%20Romanticism%3A%20Maximalism%20Moody%20Florals%20-%20Grand%20Millennial%20burgundy%20Roses%20and%20Nostalgic%20Gothic%20Mystic%20Night%20Flowers%204-%20Antique%20Botany%20and%20Victorian%20Goth%20inspired%20black%20nature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Flowers">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/69986/burgundy-flowers.jpg?h=699&q=85' alt='Burgundy Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/69986/burgundy-flowers.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Floral Wallpaper Floral Wallpaper Blooming Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/5d0603/2736536150/il_fullxfull.2736536150_hqh0.jpg' alt='Burgundy Floral Wallpaper Floral Wallpaper Blooming Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/5d0603/2736536150/il_fullxfull.2736536150_hqh0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Burgundy Flowers 10.4" L x 25" W Wallpaper Panel |  Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/64891044/compr-r85/2355/235546708/Burgundy+Flowers+Wallpaper+Floral+Tile.jpg' alt='Red Barrel Studio® Burgundy Flowers 10.4" L x 25" W Wallpaper Panel |  Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/64891044/compr-r85/2355/235546708/Burgundy+Flowers+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A vibrant burgundy flower stands in contrast against the ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/burgundy-flower-ukjh01i0u0o7xps4.jpg' alt='Download A vibrant burgundy flower stands in contrast against the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/burgundy-flower-ukjh01i0u0o7xps4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Velveteen Dark Moody Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/66629/velveteen_dark_moody_flowers_burgundy_red_wallpaper_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Velveteen Dark Moody Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/66629/velveteen_dark_moody_flowers_burgundy_red_wallpaper_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/90/bc/a390bc87075b4a5a25e37dffa9014954.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/90/bc/a390bc87075b4a5a25e37dffa9014954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flowers & wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/aa/45/56aa4580c336a0ab5bf91ad0e78cd604.jpg' alt='flowers & wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/aa/45/56aa4580c336a0ab5bf91ad0e78cd604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Flower Jungle Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/46059/burgundy_flower_jungle_limited.jpg' alt='Burgundy Flower Jungle Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/46059/burgundy_flower_jungle_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Flowers Images – Browse 111,117 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/24/28/90/360_F_624289073_RecIjLZhqxHSMr0qSbtbTux9nCk2VsZ1.jpg' alt='Burgundy Flowers Images – Browse 111,117 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/24/28/90/360_F_624289073_RecIjLZhqxHSMr0qSbtbTux9nCk2VsZ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

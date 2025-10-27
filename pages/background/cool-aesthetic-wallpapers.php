@@ -1,0 +1,129 @@
+<title>Cool Aesthetic Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore our vibrant collection of cool aesthetic wallpapers! Perfect for personalizing your devices with stunning images that reflect your unique style. Download high-quality designs for a fresh new look today!">
+                    <meta name="keywords" content="cool aesthetic wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-aesthetic-wallpapers">
+                            <span itemprop="name">cool aesthetic wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Aesthetic Wallpapers for Every Style</h1>
+                <p>Discover a stunning collection of cool aesthetic wallpapers that transform your screen into a work of art. From dreamy landscapes to vibrant abstract designs, there's something for every taste. Elevate your mood and personalize your devices with high-quality images that reflect your unique style. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep It Cool Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-aesthetic-neon-collage-sjxb078jbxpd7lj3.webp' alt='Keep It Cool Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-aesthetic-neon-collage-sjxb078jbxpd7lj3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtY2hvbmctMDAxLmpwZw.jpg' alt='Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtY2hvbmctMDAxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Aesthetic Purple Music Tapes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-aesthetic-purple-music-tapes-oh94muwg1q5s1wpd.jpg' alt='Cool Aesthetic Purple Music Tapes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-aesthetic-purple-music-tapes-oh94muwg1q5s1wpd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Cool Aesthetic Wallpaper Background Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0b/34/5c/0b345c24b99529611731cd9597ca132c.jpg' alt='90 Cool Aesthetic Wallpaper Background Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0b/34/5c/0b345c24b99529611731cd9597ca132c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Phone Wallpapers | Aesthetic Wallpapers for Phone">
+                                <img itemprop="contentUrl url" src='https://atd-bloges.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/04/16142033/edgy-dark-aesthetic-phone-wallpapers-19-485x1024.webp' alt='Aesthetic Phone Wallpapers | Aesthetic Wallpapers for Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Time Design" />
+                                </span>
+                                <a href='https://atd-bloges.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/04/16142033/edgy-dark-aesthetic-phone-wallpapers-19-485x1024.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-iphone-8k436w42fxqrt0xb.jpg' alt='300+] Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-iphone-8k436w42fxqrt0xb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/154/30/HD-wallpaper-purple-aesthetic-aesthetic-purple.jpg' alt='HD aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/154/30/HD-wallpaper-purple-aesthetic-aesthetic-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46 Aesthetic wallpaper ideas | aesthetic wallpapers, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/60/d2/b0/60d2b07d3d0dd1a522468b7edec610e8.jpg' alt='46 Aesthetic wallpaper ideas | aesthetic wallpapers, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/60/d2/b0/60d2b07d3d0dd1a522468b7edec610e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34) Cool Aesthetic - Cool IMG. Aesthetic, Aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/848/885/HD-wallpaper-34-cool-aesthetic-cool-img-aesthetic-aesthetic-iphone-aesthetic-background.jpg' alt='34) Cool Aesthetic - Cool IMG. Aesthetic, Aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/848/885/HD-wallpaper-34-cool-aesthetic-cool-img-aesthetic-aesthetic-iphone-aesthetic-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

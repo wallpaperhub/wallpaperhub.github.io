@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History of Ice Skating</title>
+                    <meta name="description" content="Uncover the intriguing background of ice skating, from its ancient origins to its evolution into a popular sport and pastime. Explore the journey that made this winter activity a favorite among enthusiasts around the globe!">
+                    <meta name="keywords" content="ice skating background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ice-skating-background">
+                            <span itemprop="name">ice skating background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History of Ice Skating</h1>
+                <p>Ice skating has a rich history that dates back thousands of years. Originating in the frozen landscapes of Northern Europe, it evolved from practical means of travel to a beloved recreational activity. Today, it encompasses artistic performances, competitive sports, and leisurely fun, uniting enthusiasts on ice rinks worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Rink" Images – Browse 153,497 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/04/09/09/360_F_304090933_kxeRt0XMH5KETNYwMcCPZlHQNwmJV6g6.jpg' alt='Ice Rink" Images – Browse 153,497 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/04/09/09/360_F_304090933_kxeRt0XMH5KETNYwMcCPZlHQNwmJV6g6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43,200+ Ice Rink Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/530118781/photo/dramatic-ice-hockey-arena.jpg?s=612x612&w=0&k=20&c=VyTSj9Lu3CWoJMXi21FAbZ55DnxaSRS8rbiajAxpezg=' alt='43,200+ Ice Rink Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/530118781/photo/dramatic-ice-hockey-arena.jpg?s=612x612&w=0&k=20&c=VyTSj9Lu3CWoJMXi21FAbZ55DnxaSRS8rbiajAxpezg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Skating Rink Stock Illustrations – 14,153 Ice Skating Rink ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-ice-skating-rink-festive-banner-mockup-outdoor-illuminated-holiday-lights-large-blank-entrance-340903459.jpg' alt='Ice Skating Rink Stock Illustrations – 14,153 Ice Skating Rink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-ice-skating-rink-festive-banner-mockup-outdoor-illuminated-holiday-lights-large-blank-entrance-340903459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Skating Images – Browse 658,461 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/43/44/37/360_F_1043443735_5rzt9cEIGieGjRKWAMNUe8bM3ibS9qsM.jpg' alt='Ice Skating Images – Browse 658,461 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/43/44/37/360_F_1043443735_5rzt9cEIGieGjRKWAMNUe8bM3ibS9qsM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,000+ Ice Skating Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1847520824/vector/happy-couple-ice-skating-on-rink-outdoors-vector-illustration-winter-sports-background.jpg?s=612x612&w=0&k=20&c=gjUzxS5Ka9bm3U1MFq7KLqZRNo2eGzVSHwa8s3ctztk=' alt='15,000+ Ice Skating Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1847520824/vector/happy-couple-ice-skating-on-rink-outdoors-vector-illustration-winter-sports-background.jpg?s=612x612&w=0&k=20&c=gjUzxS5Ka9bm3U1MFq7KLqZRNo2eGzVSHwa8s3ctztk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Magical Ice Skating Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/5/e/b5ec198f-653d-4b68-af81-0018ffe8a2a2_large/magical-ice-skating-stockcake.jpg' alt='Free Magical Ice Skating Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/5/e/b5ec198f-653d-4b68-af81-0018ffe8a2a2_large/magical-ice-skating-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Skating Silhouette Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/407/606/small_2x/ice-skates-on-frozen-lake-vibrant-sunset-sky-with-silhouetted-trees-photo.jpg' alt='Ice Skating Silhouette Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/407/606/small_2x/ice-skates-on-frozen-lake-vibrant-sunset-sky-with-silhouetted-trees-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo of People Ice Skating · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/10556555/pexels-photo-10556555.jpeg' alt='Photo of People Ice Skating · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6192">
+                                <meta itemprop="height" content="4128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/10556555/pexels-photo-10556555.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pristine Ice Skating Boots On Glacial Surface Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pristine-ice-skating-boots-on-glacial-surface-z4nbiqrm7chjhmeo.jpg' alt='Pristine Ice Skating Boots On Glacial Surface Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pristine-ice-skating-boots-on-glacial-surface-z4nbiqrm7chjhmeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Skating Backgrounds Photos and Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2101690603/display_1500/stock-photo--hockey-ice-rink-sport-arena-empty-field-stadium-2101690603.jpg' alt='Ice Skating Backgrounds Photos and Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2101690603/display_1500/stock-photo--hockey-ice-rink-sport-arena-empty-field-stadium-2101690603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Optimize Your Designs: Background Mask in AutoCAD</title>
+                    <meta name="description" content="Discover how to effectively use the background mask feature in AutoCAD to enhance your designs. This concise guide helps you mask unwanted details, ensuring clarity and focus in your presentations. Ideal for professionals seeking to elevate their visual communication skills with AutoCAD.">
+                    <meta name="keywords" content="background mask autocad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-mask-autocad">
+                            <span itemprop="name">background mask autocad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Designs: Background Mask in AutoCAD</h1>
+                <p>Background mask in AutoCAD is a feature that allows users to apply a mask to specific areas of a drawing. This enhances presentation quality by obscuring unwanted details and emphasizing important elements. Ideal for creating presentations, LEED documentation, or any project where clarity is essential, it streamlines visual communication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AutoCAD I 09-20 Using a Background Mask">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Gjch1ybFqEU/maxresdefault.jpg' alt='AutoCAD I 09-20 Using a Background Mask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Gjch1ybFqEU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="changing "background mask" base color - Autodesk Community">
+                                <img itemprop="contentUrl url" src='https://forums.autodesk.com/t5/image/serverpage/image-id/563511i2EFA62AB1FE2FC90/image-size/large?v=v2&px=999' alt='changing "background mask" base color - Autodesk Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autodesk Forums" />
+                                </span>
+                                <a href='https://forums.autodesk.com/t5/image/serverpage/image-id/563511i2EFA62AB1FE2FC90/image-size/large?v=v2&px=999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AutoCAD Tutorial - How to do background masking on Mtext">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cXel_S3rGo4/sddefault.jpg' alt='AutoCAD Tutorial - How to do background masking on Mtext'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cXel_S3rGo4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's About Time… Text Frame and Background mask for Text | AutoCAD ...">
+                                <img itemprop="contentUrl url" src='https://autocadtips1.com/wp-content/uploads/2015/03/text-frame-for-mtext.jpg' alt='It's About Time… Text Frame and Background mask for Text | AutoCAD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AutoCAD Tips" />
+                                </span>
+                                <a href='https://autocadtips1.com/wp-content/uploads/2015/03/text-frame-for-mtext.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Put a Mask on that Symbol | CADproTips">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cadprotips.com/wp-content/uploads/2014/03/04-attribute-def3.jpg' alt='Put a Mask on that Symbol | CADproTips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CADproTips" />
+                                </span>
+                                <a href='https://i0.wp.com/cadprotips.com/wp-content/uploads/2014/03/04-attribute-def3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create background fill for your AutoCAD text - Micrographics">
+                                <img itemprop="contentUrl url" src='https://www.mgfx.co.za/wp-content/uploads/2021/02/How-to-create-background-fill-for-your-AutoCAD-text-6-Add-background-mask.jpg' alt='How to create background fill for your AutoCAD text - Micrographics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Micrographics" />
+                                </span>
+                                <a href='https://www.mgfx.co.za/wp-content/uploads/2021/02/How-to-create-background-fill-for-your-AutoCAD-text-6-Add-background-mask.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masking with AEC Polygons">
+                                <img itemprop="contentUrl url" src='http://www.archidigm.com/lounge/architectural_desktop/general_tips/masking_0.gif' alt='Masking with AEC Polygons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARCHIdigm" />
+                                </span>
+                                <a href='http://www.archidigm.com/lounge/architectural_desktop/general_tips/masking_0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to mask out the background of your dimension in Autodesk Autocad.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PtdmuJC9nAo/maxresdefault.jpg' alt='How to mask out the background of your dimension in Autodesk Autocad.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PtdmuJC9nAo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background mask for Dimensional Text - Lynn Allen's Blog">
+                                <img itemprop="contentUrl url" src='https://lynn.blogs.com/.a/6a00d83420027e53ef0192abf48bb5970d-pi' alt='Background mask for Dimensional Text - Lynn Allen's Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="412">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lynn Allen's Blog" />
+                                </span>
+                                <a href='https://lynn.blogs.com/.a/6a00d83420027e53ef0192abf48bb5970d-pi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text attribute mask does not work in AutoCAD">
+                                <img itemprop="contentUrl url" src='https://help.autodesk.com/sfdcarticles/img/0EM30000000USgv' alt='Text attribute mask does not work in AutoCAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autodesk" />
+                                </span>
+                                <a href='https://help.autodesk.com/sfdcarticles/img/0EM30000000USgv' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

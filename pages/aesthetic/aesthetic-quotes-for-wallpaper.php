@@ -1,0 +1,129 @@
+<title>Aesthetic Quotes for Wallpaper: Inspire Your Space</title>
+                    <meta name="description" content="Discover a collection of aesthetic quotes for wallpaper that elevate your home decor. Find inspiration and positivity with stylish designs that fit any aesthetic. Transform your living space into a sanctuary of creativity and motivation with captivating quotes that make a statement. Explore now!">
+                    <meta name="keywords" content="aesthetic quotes for wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-quotes-for-wallpaper">
+                            <span itemprop="name">aesthetic quotes for wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Quotes for Wallpaper: Inspire Your Space</h1>
+                <p>Transform your space with aesthetic quotes for wallpaper that inspire and uplift. Whether you prefer minimalist designs or vibrant typography, these quotes serve as daily reminders of positivity and creativity. Perfect for home offices, bedrooms, or any corner needing a touch of motivation, embrace beauty and inspiration on your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Quote Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/05/large-157.jpg' alt='Aesthetic Quote Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/05/large-157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Inspirational Quote Pastel Wallpaper for Iphone | Your ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/49/e7/b649e71ebfe9be4c3e5326b73ae23185.jpg' alt='Aesthetic Inspirational Quote Pastel Wallpaper for Iphone | Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/49/e7/b649e71ebfe9be4c3e5326b73ae23185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Wallpaper for iPhone - 45 Aesthetic & Inspirational Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/9c/aa/519caafcc6a517d796c736ca5af4bfd7.jpg' alt='Quote Wallpaper for iPhone - 45 Aesthetic & Inspirational Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/9c/aa/519caafcc6a517d796c736ca5af4bfd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Aesthetic Quotes Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-aesthetic-quotes-7d1prprbicf81nss.jpg' alt='100+] Cute Aesthetic Quotes Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-aesthetic-quotes-7d1prprbicf81nss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Quote iPhone Wallpapers | High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0xOC5qcGc.jpg' alt='Inspirational Quote iPhone Wallpapers | High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0xOC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic quotes 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/make-motivational-quotes-aesthetic-p2k8se5cpois3kk4.jpg' alt='Aesthetic quotes 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/make-motivational-quotes-aesthetic-p2k8se5cpois3kk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Happy Aesthetic Quote Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-aesthetic-quote-40wukym7408b5dnu.jpg' alt='100+] Happy Aesthetic Quote Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-aesthetic-quote-40wukym7408b5dnu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Quotes Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyNDYtaW5zdGFncmFtc3RvcnktMDIta3pkdHN5dnguanBn.jpg' alt='Wallpaper Quotes Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyNDYtaW5zdGFncmFtc3RvcnktMDIta3pkdHN5dnguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Quotes Positive Words Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-quotes-positive-words-gyuakywnrj1e8ojl.jpg' alt='Aesthetic Quotes Positive Words Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-quotes-positive-words-gyuakywnrj1e8ojl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Quotes & Background for Your Phone [], Stress Quotes, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/617/36/HD-wallpaper-aesthetic-quotes-background-for-your-phone-stress-quotes.jpg' alt='Aesthetic Quotes & Background for Your Phone [], Stress Quotes, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/617/36/HD-wallpaper-aesthetic-quotes-background-for-your-phone-stress-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

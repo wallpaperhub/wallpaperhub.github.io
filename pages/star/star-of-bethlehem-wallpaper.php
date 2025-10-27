@@ -1,0 +1,129 @@
+<title>Beautiful Star of Bethlehem Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover enchanting Star of Bethlehem wallpaper that elevates your home decor. Ideal for creating a serene atmosphere, this design perfectly encapsulates holiday magic. Easy to apply and remove, it's the perfect choice for a seasonal refresh or a year-round reminder of peace and joy!">
+                    <meta name="keywords" content="star of bethlehem wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-of-bethlehem-wallpaper">
+                            <span itemprop="name">star of bethlehem wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Star of Bethlehem Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning Star of Bethlehem wallpaper! This beautiful design captures the essence of the holiday season, bringing tranquility and beauty to your home. Perfect for bedrooms, living rooms, or seasonal decor, it serves as a gentle reminder of peace and hope. Embrace the charm and spirit of the season today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+ Star Of Bethlehem Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1724154376/vector/bright-star-of-bethlehem-or-christmas-star-silhouettes-of-jesus-christ-mary-joseph-and.jpg?s=612x612&w=0&k=20&c=w_DzVyRN1EKhUVNPk5Gz4AzWbYTMS5sTJ2Z1SjHqFCI=' alt='400+ Star Of Bethlehem Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1724154376/vector/bright-star-of-bethlehem-or-christmas-star-silhouettes-of-jesus-christ-mary-joseph-and.jpg?s=612x612&w=0&k=20&c=w_DzVyRN1EKhUVNPk5Gz4AzWbYTMS5sTJ2Z1SjHqFCI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,600+ Bethlehem Star Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1759438584/photo/a-bright-and-large-star-shines-brightly-blessing-baby-jesus-in-the-manger-of-the-stable-a.jpg?s=612x612&w=0&k=20&c=y2dQJX5raZ35McCA_wCFlDwdmtxJwt5Ia3v4-uHjnr8=' alt='3,600+ Bethlehem Star Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1759438584/photo/a-bright-and-large-star-shines-brightly-blessing-baby-jesus-in-the-manger-of-the-stable-a.jpg?s=612x612&w=0&k=20&c=y2dQJX5raZ35McCA_wCFlDwdmtxJwt5Ia3v4-uHjnr8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,700+ Star Of Bethlehem Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1700600443/photo/bright-star-shines-over-the-road-at-night-birth-of-jesus-concept-star-of-bethlehem.jpg?s=612x612&w=0&k=20&c=DenMY4xn8z3I5pfredlsIxFHCBAJufihaorVtLXVR-0=' alt='6,700+ Star Of Bethlehem Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1700600443/photo/bright-star-shines-over-the-road-at-night-birth-of-jesus-concept-star-of-bethlehem.jpg?s=612x612&w=0&k=20&c=DenMY4xn8z3I5pfredlsIxFHCBAJufihaorVtLXVR-0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Bethlehem Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/light-star-christmas-night-abstract-260nw-2377462601.jpg' alt='Star Bethlehem Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/light-star-christmas-night-abstract-260nw-2377462601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Of Bethlehem Graphic Images – Browse 24,563 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/06/70/37/360_F_406703760_hC68qq3Co4O0b72ld88H9dM19No2B8xj.jpg' alt='Star Of Bethlehem Graphic Images – Browse 24,563 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/06/70/37/360_F_406703760_hC68qq3Co4O0b72ld88H9dM19No2B8xj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Artwork Bethlehem Star | Motion Video Background">
+                                <img itemprop="contentUrl url" src='https://skitguys.com/media/images/video/_800x418_crop_center-center_82_none/_Christmas_Artwork_Bethlehem_Star_MOW-HD.jpg?mtime=1560984765' alt='Christmas Artwork Bethlehem Star | Motion Video Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://skitguys.com/media/images/video/_800x418_crop_center-center_82_none/_Christmas_Artwork_Bethlehem_Star_MOW-HD.jpg?mtime=1560984765' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bethlehem.. | Bethlehem christmas, Christmas star, Star of bethlehem">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/bb/e2/3dbbe259bb839366069abde22bd98be6.jpg' alt='Bethlehem.. | Bethlehem christmas, Christmas star, Star of bethlehem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/bb/e2/3dbbe259bb839366069abde22bd98be6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Free Star-Of-Bethlehem & Bethlehem Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2024/11/23/14/30/ai-generated-9219172_640.jpg' alt='30,000+ Free Star-Of-Bethlehem & Bethlehem Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2024/11/23/14/30/ai-generated-9219172_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,600+ Bethlehem Star Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1441739274/photo/star-of-bethlehem-or-christmas-star.jpg?s=612x612&w=0&k=20&c=7Vu9FvWtR0A2hZS6r-rfWHpGzRJTSCmJ9f8R3hwfeHE=' alt='3,600+ Bethlehem Star Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1441739274/photo/star-of-bethlehem-or-christmas-star.jpg?s=612x612&w=0&k=20&c=7Vu9FvWtR0A2hZS6r-rfWHpGzRJTSCmJ9f8R3hwfeHE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Star of Bethlehem Christmas Worship Background ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1481149589645_262.jpg' alt='ShareFaith Media » Star of Bethlehem Christmas Worship Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1481149589645_262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

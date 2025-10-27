@@ -1,0 +1,129 @@
+<title>Essential Guide to Clerics in D&D 5e</title>
+                    <meta name="description" content="Discover the power of Clerics in D&D 5e! Learn about their roles, unique abilities, and how they can enhance your gameplay with divine spells and support magic. Perfect for players wanting to master this versatile class.">
+                    <meta name="keywords" content="cleric 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cleric-5e">
+                            <span itemprop="name">cleric 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Clerics in D&D 5e</h1>
+                <p>In Dungeons & Dragons 5e, the Cleric is a versatile divine spellcaster who serves a higher power. They wield healing magic, support allies, and can turn undead foes. With unique domains, Clerics can focus on various aspects like life, war, or trickery, shaping their abilities to fit any party dynamic. Perfect for any adventuring group!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cleric Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/avatars/thumbnails/6/371/420/618/636272706155064423.png' alt='The Cleric Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/avatars/thumbnails/6/371/420/618/636272706155064423.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleric | Eladriell's D&D Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/eladriells-dd/images/d/d0/Cleric.jpg/revision/latest?cb=20191203065649' alt='Cleric | Eladriell's D&D Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eladriell's D&D Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/eladriells-dd/images/d/d0/Cleric.jpg/revision/latest?cb=20191203065649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Group of Clerics is called a Priesthood – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/01/erathis-cleric.jpg?resize=534%2C772' alt='A Group of Clerics is called a Priesthood – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/01/erathis-cleric.jpg?resize=534%2C772' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dungeons & Dragons 5E cleric class explained | Dicebreaker">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/dnd-cleric-images-8.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' alt='Dungeons & Dragons 5E cleric class explained | Dicebreaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dicebreaker" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/dnd-cleric-images-8.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should I Play a D&D 5e Cleric? - D&D for Beginners - Firelight ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/70fbf4_1cd2a4f7e13c41dca1f26f209607005a~mv2.png/v1/fill/w_980,h_1226,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/70fbf4_1cd2a4f7e13c41dca1f26f209607005a~mv2.png' alt='Should I Play a D&D 5e Cleric? - D&D for Beginners - Firelight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Firelight Fables" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/70fbf4_1cd2a4f7e13c41dca1f26f209607005a~mv2.png/v1/fill/w_980,h_1226,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/70fbf4_1cd2a4f7e13c41dca1f26f209607005a~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e] Cleric Subclass: Time Domain : r/UnearthedArcana">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/3Kq7wVVLxTyeg1-vsAsAYy8rqW1r7qAWBiSCcJRoVqs.jpg?width=640&crop=smart&auto=webp&s=730976cf16f33bd27004b5d42fce7690b8c8b51c' alt='5e] Cleric Subclass: Time Domain : r/UnearthedArcana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/3Kq7wVVLxTyeg1-vsAsAYy8rqW1r7qAWBiSCcJRoVqs.jpg?width=640&crop=smart&auto=webp&s=730976cf16f33bd27004b5d42fce7690b8c8b51c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the Cleric DnD 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/04/Cleric-5E-Class-Guide-Featured-Image.webp' alt='The Ultimate Guide to the Cleric DnD 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/04/Cleric-5E-Class-Guide-Featured-Image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleric 101: Life Domain | Dungeons & Dragons">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/thumbnails/5/547/300/437/half-elf.png' alt='Cleric 101: Life Domain | Dungeons & Dragons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/thumbnails/5/547/300/437/half-elf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should I Play a D&D 5e Cleric? - D&D for Beginners - Firelight ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/70fbf4_abb262700c2b454986c323fed2f61969~mv2.png/v1/fill/w_568,h_598,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/70fbf4_abb262700c2b454986c323fed2f61969~mv2.png' alt='Should I Play a D&D 5e Cleric? - D&D for Beginners - Firelight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Firelight Fables" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/70fbf4_abb262700c2b454986c323fed2f61969~mv2.png/v1/fill/w_568,h_598,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/70fbf4_abb262700c2b454986c323fed2f61969~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleric – 5th Edition SRD">
+                                <img itemprop="contentUrl url" src='http://www.d20pfsrd.com/wp-content/uploads/sites/12/2017/01/cleric_comm_by_yamao-d5ooj81-320-2.png' alt='Cleric – 5th Edition SRD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5e SRD" />
+                                </span>
+                                <a href='http://www.d20pfsrd.com/wp-content/uploads/sites/12/2017/01/cleric_comm_by_yamao-d5ooj81-320-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

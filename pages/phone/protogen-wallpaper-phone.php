@@ -1,0 +1,129 @@
+<title>Vibrant Protogen Phone Wallpapers for Every Aesthetic</title>
+                    <meta name="description" content="Discover a collection of eye-catching Protogen wallpapers that will transform your phone's appearance. Perfect for sci-fi enthusiasts and digital art lovers alike, our wallpapers offer a unique blend of creativity and technology. Explore now to find your ideal backdrop and personalize your device!">
+                    <meta name="keywords" content="protogen wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/protogen-wallpaper-phone">
+                            <span itemprop="name">protogen wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Protogen Phone Wallpapers for Every Aesthetic</h1>
+                <p>Transform your phone's aesthetic with stunning Protogen wallpaper! Enhance your screen with dynamic designs that showcase the futuristic and artful side of Protogen technology. Perfect for fans of sci-fi and digital art, these wallpapers will elevate your device's look and inspire creativity. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper (Geo) by Akimates on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/852ade99-9c78-45ea-bedd-9718602c0302/dg4lvjx-2f682088-987c-4a38-85ea-0b54df54d0f4.png/v1/fill/w_600,h_1333,q_70,strp/phone_wallpaper__geo__by_akimates_dg4lvjx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjcwMCIsInBhdGgiOiJcL2ZcLzg1MmFkZTk5LTljNzgtNDVlYS1iZWRkLTk3MTg2MDJjMDMwMlwvZGc0bHZqeC0yZjY4MjA4OC05ODdjLTRhMzgtODVlYS0wYjU0ZGY1NGQwZjQucG5nIiwid2lkdGgiOiI8PTEyMTUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.G2F6kNW3Wxz1z-P2UxbsVBDY9xyGPthYvKb58ssWIvI' alt='Phone Wallpaper (Geo) by Akimates on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/852ade99-9c78-45ea-bedd-9718602c0302/dg4lvjx-2f682088-987c-4a38-85ea-0b54df54d0f4.png/v1/fill/w_600,h_1333,q_70,strp/phone_wallpaper__geo__by_akimates_dg4lvjx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjcwMCIsInBhdGgiOiJcL2ZcLzg1MmFkZTk5LTljNzgtNDVlYS1iZWRkLTk3MTg2MDJjMDMwMlwvZGc0bHZqeC0yZjY4MjA4OC05ODdjLTRhMzgtODVlYS0wYjU0ZGY1NGQwZjQucG5nIiwid2lkdGgiOiI8PTEyMTUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.G2F6kNW3Wxz1z-P2UxbsVBDY9xyGPthYvKb58ssWIvI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Protogen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/protogen-bzudwcmiihlawmfc.jpg' alt='100+] Protogen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/protogen-bzudwcmiihlawmfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Protogen Pink Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/protogen-300yh8j7jbicxsme.jpg' alt='Download Protogen Pink Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/protogen-300yh8j7jbicxsme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Protogen Phone Wallpaper Commission by Misqtical -- Fur ...">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/misqtical/1680633159/1680633159.misqtical_angel_proto_phone_wallpaper_commission.png' alt='Angel Protogen Phone Wallpaper Commission by Misqtical -- Fur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1145">
+                                <meta itemprop="height" content="2397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/misqtical/1680633159/1680633159.misqtical_angel_proto_phone_wallpaper_commission.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SerperiorGleaf on X: "Finished wallpaper for zerodrawings_ on ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EzBr3_wVUAMNnHn.jpg:large' alt='SerperiorGleaf on X: "Finished wallpaper for zerodrawings_ on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="921">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EzBr3_wVUAMNnHn.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My perfect phone background :3 : r/protogen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/etdgliu4qsdb1.jpg' alt='My perfect phone background :3 : r/protogen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/etdgliu4qsdb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Protogen wallpaper by dante_protogen - Download on ZEDGE™ | 530e">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=xQadzrkUq77Sfvm82O4kotbUNKUU6EYi8Uupj686X_yL_U-rNlPcafHau82ztRbTKuVn5CiAP4Hn4STpjgDbmRtp7DFW1dTwlr61-kj6EVi-FI6jSB31NaOa5q-h5eTQXQki5zqdAn78JQw9AoDZCuVhKJJPqpl8WgMlkVQvwJk0JlUfVaqBEX6lR61X1LKzoFxehAhinPxkVzj4Jk4UlcvjRDiVBXAJL-91N7hbPzoy9opdazV3up0HFkQ' alt='Protogen wallpaper by dante_protogen - Download on ZEDGE™ | 530e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=xQadzrkUq77Sfvm82O4kotbUNKUU6EYi8Uupj686X_yL_U-rNlPcafHau82ztRbTKuVn5CiAP4Hn4STpjgDbmRtp7DFW1dTwlr61-kj6EVi-FI6jSB31NaOa5q-h5eTQXQki5zqdAn78JQw9AoDZCuVhKJJPqpl8WgMlkVQvwJk0JlUfVaqBEX6lR61X1LKzoFxehAhinPxkVzj4Jk4UlcvjRDiVBXAJL-91N7hbPzoy9opdazV3up0HFkQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a cute protogen(pawstanoodle) : r/protogen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zr6qnyujygj81.jpg' alt='Found a cute protogen(pawstanoodle) : r/protogen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zr6qnyujygj81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Protogen Pixelated Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/protogen-gdj8gmgd0fmsztuf.jpg' alt='Download Protogen Pixelated Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/protogen-gdj8gmgd0fmsztuf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carbon Protogen, animo, furry, furry animo, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/951/707/HD-wallpaper-carbon-protogen-animo-furry-furry-animo.jpg' alt='Carbon Protogen, animo, furry, furry animo, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/951/707/HD-wallpaper-carbon-protogen-animo-furry-furry-animo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

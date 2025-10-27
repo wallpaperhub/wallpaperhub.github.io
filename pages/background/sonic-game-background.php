@@ -1,0 +1,129 @@
+<title>Sonic Game Background: A High-Speed Adventure</title>
+                    <meta name="description" content="Explore the dynamic world of Sonic, the iconic blue hedgehog! Discover the backstory, characters, and captivating settings of this legendary game franchise. Join Sonic on thrilling high-speed adventures and experience why this series continues to captivate fans worldwide!">
+                    <meta name="keywords" content="sonic game background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sonic-game-background">
+                            <span itemprop="name">sonic game background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sonic Game Background: A High-Speed Adventure</h1>
+                <p>The Sonic game franchise is renowned for its high-speed gameplay, created by Sega in the early 90s. Set in vibrant, fantastical worlds, players control Sonic, a blue hedgehog capable of incredible speeds. The series features various characters, including Tails and Knuckles, and iconic villains like Dr. Eggman. Its engaging levels and memorable music make Sonic a beloved gaming icon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sonic background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/c8/e2/c4c8e2c0479659b201eed1b5c284d6a7.jpg' alt='sonic background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/c8/e2/c4c8e2c0479659b201eed1b5c284d6a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic the Hedgehog | SEGA">
+                                <img itemprop="contentUrl url" src='https://cdn.sega.co.uk/mhc-sega/public/content/media/images/raster/miller_hero_background.jpg' alt='Sonic the Hedgehog | SEGA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEGA" />
+                                </span>
+                                <a href='https://cdn.sega.co.uk/mhc-sega/public/content/media/images/raster/miller_hero_background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've had the hope of seeing Sonic try to tackle a real open world ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lk428zow1p271.png?width=984&format=png&auto=webp&s=0e83dcabdceef78881ff3e068525d1c703c611b9' alt='I've had the hope of seeing Sonic try to tackle a real open world ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lk428zow1p271.png?width=984&format=png&auto=webp&s=0e83dcabdceef78881ff3e068525d1c703c611b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Sonic The Hedgehog 2 Sonic The Hedgehog ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/420/thumb-1920-420340.jpg' alt='Download Video Game Sonic The Hedgehog 2 Sonic The Hedgehog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/420/thumb-1920-420340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sonic The Hedgehog Video Game Sonic The Hedgehog (1991 ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/929/thumb-1920-929519.png' alt='Download Sonic The Hedgehog Video Game Sonic The Hedgehog (1991 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/929/thumb-1920-929519.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic the Hedgehog Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/sonic-level-1-virtual-background-for-zoom-1024x576.jpeg' alt='Sonic the Hedgehog Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/sonic-level-1-virtual-background-for-zoom-1024x576.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relive the Classic Sonic Games That Defined a Generation - Xbox Wire">
+                                <img itemprop="contentUrl url" src='https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/06/ORIGINS_SCREENSHOT_1-10a39355fd1b133be78d.jpg' alt='Relive the Classic Sonic Games That Defined a Generation - Xbox Wire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox Wire" />
+                                </span>
+                                <a href='https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/06/ORIGINS_SCREENSHOT_1-10a39355fd1b133be78d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Hill | Sonic Wiki Zone | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sonic/images/3/3e/Sonic-the-hedgehog-20th-anniversary-project-untitled-20110418073635973.jpg/revision/latest?cb=20211003203909' alt='Green Hill | Sonic Wiki Zone | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sonic Wiki Zone - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sonic/images/3/3e/Sonic-the-hedgehog-20th-anniversary-project-untitled-20110418073635973.jpg/revision/latest?cb=20211003203909' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Your Free Sonic The Hedgehog 2 - 4K Ultra HD Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/420/420334.jpg' alt='Download Your Free Sonic The Hedgehog 2 - 4K Ultra HD Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/420/420334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Hill Zone (Sonic)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/5f/c9/6c5fc9aa73e5a539fc2de9bc39523341.jpg' alt='Green Hill Zone (Sonic)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/5f/c9/6c5fc9aa73e5a539fc2de9bc39523341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

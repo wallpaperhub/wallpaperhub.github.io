@@ -1,0 +1,129 @@
+<title>Vibrant Pink and Green Peel and Stick Wallpaper for Stylish Spaces</title>
+                    <meta name="description" content="Discover the charm of pink and green peel and stick wallpaper! Ideal for any room, this easy-to-remove option brings vibrant color and personality to your home. Perfect for DIY projects and renters, update your decor effortlessly with this chic wallpaper. Shop now for a fresh new look!">
+                    <meta name="keywords" content="pink and green peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/pink-and-green-peel-and-stick-wallpaper">
+                            <span itemprop="name">pink and green peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink and Green Peel and Stick Wallpaper for Stylish Spaces</h1>
+                <p>Transform your space with pink and green peel and stick wallpaper! This trendy decor option effortlessly adds a splash of color and personality to any room. Perfect for renters and DIY enthusiasts, it's easy to apply and remove, leaving no residue behind. Elevate your interior design with this stylish and versatile wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and Pink Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-green-and-pink-floral-peel-and-stick-wallpaper-green-pennylane-15976799666262.png?v=1619788490' alt='Green and Pink Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-green-and-pink-floral-peel-and-stick-wallpaper-green-pennylane-15976799666262.png?v=1619788490' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Transform Pink and Green Palm Peel and Stick Wallpaper : Tools  & Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1ZFFVqhYeL.jpg' alt='Amazon.com: Transform Pink and Green Palm Peel and Stick Wallpaper : Tools  & Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1ZFFVqhYeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK11644RL Botanical Print Green and Pink Peel and Stick  Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61vxTnxa-3L.jpg' alt='RoomMates RMK11644RL Botanical Print Green and Pink Peel and Stick  Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61vxTnxa-3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick ...">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c_grande.jpg?v=1644721582' alt='Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c_grande.jpg?v=1644721582' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Pink and Kelly Green Garden Block Floral Vinyl Peel and Stick  Wallpaper Roll (30.75 sq. ft.) NW45301">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0d9b0051-1f1e-415c-a115-66a091aefd9a/svn/nextwall-wallpaper-rolls-nw45301-31_600.jpg' alt='NextWall Pink and Kelly Green Garden Block Floral Vinyl Peel and Stick  Wallpaper Roll (30.75 sq. ft.) NW45301'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0d9b0051-1f1e-415c-a115-66a091aefd9a/svn/nextwall-wallpaper-rolls-nw45301-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaf Peel and Stick Removable Wallpaper 4160 | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/Leaf_Green_Peel_and_Stick_Removable_Wallpaper_Floral_443974160_05_f4ed05b7-b892-4148-8ddf-cb18f7efa484_1024x1024.jpg?v=1723298003' alt='Green Leaf Peel and Stick Removable Wallpaper 4160 | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/Leaf_Green_Peel_and_Stick_Removable_Wallpaper_Floral_443974160_05_f4ed05b7-b892-4148-8ddf-cb18f7efa484_1024x1024.jpg?v=1723298003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Tropical Floral Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 362">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4115503518_gmut.jpg' alt='Pink Green Tropical Floral Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 362'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4115503518_gmut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sewzinski Boho Florals Pink Green Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.urbndata.com/is/image/UrbanOutfitters/80644164_065_b?$xlarge$&fit=constrain&qlt=80&wid=640' alt='Sewzinski Boho Florals Pink Green Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban Outfitters" />
+                                </span>
+                                <a href='https://images.urbndata.com/is/image/UrbanOutfitters/80644164_065_b?$xlarge$&fit=constrain&qlt=80&wid=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Peel & Stick Wallpaper Green/pink - Opalhouse™: Removable ...">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_c78ba6b7-14b8-4638-be2c-71ed1abacfe1' alt='Floral Peel & Stick Wallpaper Green/pink - Opalhouse™: Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_c78ba6b7-14b8-4638-be2c-71ed1abacfe1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flamingo Peel and Stick Removable Wallpaper 7624">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Flamingo_Pink__Peel_and_Stick_Removable_Wallpaper_Animal_212247624_05_grande.jpg?v=1642619997' alt='Pink Flamingo Peel and Stick Removable Wallpaper 7624'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Flamingo_Pink__Peel_and_Stick_Removable_Wallpaper_Animal_212247624_05_grande.jpg?v=1642619997' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

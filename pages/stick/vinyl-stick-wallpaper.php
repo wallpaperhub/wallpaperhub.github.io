@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vinyl Stick Wallpaper</title>
+                    <meta name="description" content="Discover the transformative power of vinyl stick wallpaper! Easily apply and remove this stylish solution that enhances any room. Perfect for renters and DIY enthusiasts alike, it offers a range of designs to match your style. Refresh your space without the mess!">
+                    <meta name="keywords" content="vinyl stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/vinyl-stick-wallpaper">
+                            <span itemprop="name">vinyl stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vinyl Stick Wallpaper</h1>
+                <p>Vinyl stick wallpaper is an innovative and stylish way to transform any space effortlessly. Easy to apply and remove, it offers endless design possibilities, allowing you to showcase your personality. Whether you're refreshing a room or adding a unique touch, vinyl stick wallpaper is durable, moisture-resistant, and perfect for any decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Arthouse Black Bird Garden Vinyl Peel and Stick Wallpaper Roll  30.75 sq. ft. AS20400">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9c9a5541-aacf-42a1-af71-def573642491/svn/nextwall-wallpaper-rolls-as20400-64_600.jpg' alt='NextWall Arthouse Black Bird Garden Vinyl Peel and Stick Wallpaper Roll  30.75 sq. ft. AS20400'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9c9a5541-aacf-42a1-af71-def573642491/svn/nextwall-wallpaper-rolls-as20400-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eilyliafe 121"x16.5" Colorful Contact Paper Boho Peel and Stick Wallpaper  Leaf Wallpaper Self Adhesive Removable Wallpaper for Walls Furniture ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81e3aA1SWfL.jpg' alt='Eilyliafe 121"x16.5" Colorful Contact Paper Boho Peel and Stick Wallpaper  Leaf Wallpaper Self Adhesive Removable Wallpaper for Walls Furniture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81e3aA1SWfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malmberg Vinyl Peel & Stick Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-vinyl-peel-stick-wallpaper-roll.jpg' alt='Malmberg Vinyl Peel & Stick Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perigold" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-vinyl-peel-stick-wallpaper-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GLOW4U Peel and Stick Rustic Wood Plank Wallpaper Removable  Self Adhesive Vinyl Contact Paper for Kitchen Backsplash Countertop Table  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711galkWTHL.jpg' alt='Amazon.com: GLOW4U Peel and Stick Rustic Wood Plank Wallpaper Removable  Self Adhesive Vinyl Contact Paper for Kitchen Backsplash Countertop Table  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711galkWTHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Leaves Wallpaper, Self Adhesive Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/2f2875/6102287427/il_570xN.6102287427_3trz.jpg' alt='Golden Leaves Wallpaper, Self Adhesive Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/2f2875/6102287427/il_570xN.6102287427_3trz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Verdigris and Orange Folk Floral Vinyl Peel and Stick Wallpaper  Roll 30.75 sq. ft. NW47101">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3ca371de-5d87-433c-8200-28c6dd585ab2/svn/nextwall-wallpaper-rolls-nw47101-c3_600.jpg' alt='NextWall Verdigris and Orange Folk Floral Vinyl Peel and Stick Wallpaper  Roll 30.75 sq. ft. NW47101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3ca371de-5d87-433c-8200-28c6dd585ab2/svn/nextwall-wallpaper-rolls-nw47101-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Gold and White Peel and Stick  Wallpaper Geometric Stripe Contact Paper Self Adhesive Removable Wallpaper  Modern ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81BsDETu24L.jpg' alt='Amazon.com: Peel and Stick Wallpaper Gold and White Peel and Stick  Wallpaper Geometric Stripe Contact Paper Self Adhesive Removable Wallpaper  Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1703">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81BsDETu24L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 30.75-sq ft Black Vinyl Novelty Self-adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/04e45fae-9788-426a-b516-2bdc35639bcf/61268698.jpg?size=pdhz' alt='RoomMates 30.75-sq ft Black Vinyl Novelty Self-adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/04e45fae-9788-426a-b516-2bdc35639bcf/61268698.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Grey Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3039">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c5655241-eb23-4e05-bba0-a6844dd2728f/svn/nuwallpaper-wallpaper-rolls-nu3039-64_600.jpg' alt='NuWallpaper Grey Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3039'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c5655241-eb23-4e05-bba0-a6844dd2728f/svn/nuwallpaper-wallpaper-rolls-nu3039-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly 17.7" x 236" Floral Peel and Stick Wallpaper Boho Mushroom  Removable Wallpaper Vinyl Self Adhesive Flower Wall Paper for Bathroom">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Abyssaly-17-7-x-236-Floral-Peel-and-Stick-Wallpaper-Boho-Mushroom-Removable-Wallpaper-Vinyl-Self-Adhesive-Flower-Wall-Paper-for-Bathroom_03e55d8c-c707-41a5-abb0-89547542acf5.67a623fc70311faef418ee5b51a58057.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Abyssaly 17.7" x 236" Floral Peel and Stick Wallpaper Boho Mushroom  Removable Wallpaper Vinyl Self Adhesive Flower Wall Paper for Bathroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Abyssaly-17-7-x-236-Floral-Peel-and-Stick-Wallpaper-Boho-Mushroom-Removable-Wallpaper-Vinyl-Self-Adhesive-Flower-Wall-Paper-for-Bathroom_03e55d8c-c707-41a5-abb0-89547542acf5.67a623fc70311faef418ee5b51a58057.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

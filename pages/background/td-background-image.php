@@ -1,0 +1,129 @@
+<title>Enhance Your Tables: Using Background Images in TD Elements</title>
+                    <meta name="description" content="Discover how to effectively use background images in table cells (td elements) to elevate your web design. Learn simple CSS techniques for optimal styling and engaging visuals tailored for mobile users.">
+                    <meta name="keywords" content="td background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/td-background-image">
+                            <span itemprop="name">td background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Tables: Using Background Images in TD Elements</h1>
+                <p>A "td background image" refers to the usage of images within table cells (td elements) in HTML. This technique enhances visual appeal and can be useful for branding or presentation purposes. By applying CSS properties, you can set images as backgrounds, control their size, and manage their positioning, creating an engaging user experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free TD Background edit for any use : r/Totaldrama">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/per0miwnoen91.png?auto=webp&s=5e0da328009c0d6596a32a77a849333b2c621bba' alt='Free TD Background edit for any use : r/Totaldrama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/per0miwnoen91.png?auto=webp&s=5e0da328009c0d6596a32a77a849333b2c621bba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Td Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2236633273/display_1500/stock-photo-toronto-on-canada-june-close-up-of-td-canada-trust-logo-on-the-building-at-its-branch-2236633273.jpg' alt='Td Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2236633273/display_1500/stock-photo-toronto-on-canada-june-close-up-of-td-canada-trust-logo-on-the-building-at-its-branch-2236633273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Td Bank Logo Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/fort-lauderdale-flausa-april-10-260nw-627012110.jpg' alt='Td Bank Logo Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/fort-lauderdale-flausa-april-10-260nw-627012110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Td Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/toronto-canada-april-10-2021-260nw-1953806617.jpg' alt='Td Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/toronto-canada-april-10-2021-260nw-1953806617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing TD Workshop - TD's First Innovation Space in Philly ...">
+                                <img itemprop="contentUrl url" src='https://stories.td.com/volumes/default/article_image_carousel/_articleImageCarouselFeatured/workshop_slideshow1_tds.png' alt='Introducing TD Workshop - TD's First Innovation Space in Philly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TD Stories - TD Bank" />
+                                </span>
+                                <a href='https://stories.td.com/volumes/default/article_image_carousel/_articleImageCarouselFeatured/workshop_slideshow1_tds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | The letter td is on a black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/letter-td-is-black-background_853558-82.jpg' alt='Premium Vector | The letter td is on a black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/letter-td-is-black-background_853558-82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TD-Bank-logo.jpg | Philanthropy Network Greater Philadelphia">
+                                <img itemprop="contentUrl url" src='https://philanthropynetwork.org/sites/default/files/TD-Bank-logo.jpg' alt='TD-Bank-logo.jpg | Philanthropy Network Greater Philadelphia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2144">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philanthropy Network Greater Philadelphia" />
+                                </span>
+                                <a href='https://philanthropynetwork.org/sites/default/files/TD-Bank-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TD launches new generative AI pilots">
+                                <img itemprop="contentUrl url" src='https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2024/05/TD-IMAGE-1.jpg' alt='TD launches new generative AI pilots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retail Banker International" />
+                                </span>
+                                <a href='https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2024/05/TD-IMAGE-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | The letter td is on a black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/letter-td-is-black-background_853558-150.jpg' alt='Premium Vector | The letter td is on a black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/letter-td-is-black-background_853558-150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TD Unveils New Digital Cash Flow Tools Powered by Predictive AI ...">
+                                <img itemprop="contentUrl url" src='https://wpassets.brainstation.io/app/uploads/2020/12/13094859/TD-digital1.jpg' alt='TD Unveils New Digital Cash Flow Tools Powered by Predictive AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrainStation" />
+                                </span>
+                                <a href='https://wpassets.brainstation.io/app/uploads/2020/12/13094859/TD-digital1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

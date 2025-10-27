@@ -1,0 +1,129 @@
+<title>Understanding UC Background Checks: What to Expect</title>
+                    <meta name="description" content="Discover the importance of UC background checks for ensuring safety and integrity in the University of California community. Learn what these checks typically include and how they contribute to a secure environment for students and staff. Stay informed about the process and its significance.">
+                    <meta name="keywords" content="uc background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/uc-background-check">
+                            <span itemprop="name">uc background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding UC Background Checks: What to Expect</h1>
+                <p>A UC background check is an essential process undertaken by the University of California to ensure the safety and integrity of its community. This check typically includes criminal history, educational verification, and employment history. Such measures help maintain a secure environment for students, staff, and faculty alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Authorization - Human Resources - UC Davis">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/49475985/1/500x640/background-check-authorization-human-resources-uc-davis.jpg' alt='Background Check Authorization - Human Resources - UC Davis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/49475985/1/500x640/background-check-authorization-human-resources-uc-davis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Safety's keys, background checks, lost and found services ...">
+                                <img itemprop="contentUrl url" src='https://www.uc.edu/news/articles/2024/09/n21280867/jcr:content/image.img.cq5dam.thumbnail.500.500.jpg/1727711961110.jpg' alt='Public Safety's keys, background checks, lost and found services ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Cincinnati" />
+                                </span>
+                                <a href='https://www.uc.edu/news/articles/2024/09/n21280867/jcr:content/image.img.cq5dam.thumbnail.500.500.jpg/1727711961110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is this a scam? : r/UCDavis">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/is-this-a-scam-v0-hujmjzchbgpd1.jpg?width=1284&format=pjpg&auto=webp&s=5078c983e4ed60e216b6d8071cccc5bf44b78a82' alt='Is this a scam? : r/UCDavis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/is-this-a-scam-v0-hujmjzchbgpd1.jpg?width=1284&format=pjpg&auto=webp&s=5078c983e4ed60e216b6d8071cccc5bf44b78a82' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UC San Diego Authorization of Background Investigation">
+                                <img itemprop="contentUrl url" src='x-raw-image:///458e0b7a41e2100ecd040e9c956213e9a5fd5d3671298ffbb601aa5685d76dbb' alt='UC San Diego Authorization of Background Investigation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ucsdpds.org" />
+                                </span>
+                                <a href='x-raw-image:///458e0b7a41e2100ecd040e9c956213e9a5fd5d3671298ffbb601aa5685d76dbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the UC hiring process | University of Cincinnati">
+                                <img itemprop="contentUrl url" src='https://www.uc.edu/news/articles/2023/02/n21144231/jcr:content/image.img.cq5dam.thumbnail.500.500.jpg/1675283889942.jpg' alt='Understanding the UC hiring process | University of Cincinnati'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Cincinnati" />
+                                </span>
+                                <a href='https://www.uc.edu/news/articles/2023/02/n21144231/jcr:content/image.img.cq5dam.thumbnail.500.500.jpg/1675283889942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Human Resources - Background Checks">
+                                <img itemprop="contentUrl url" src='https://hr.ucdavis.edu/sites/g/files/dgvnsk8016/files/styles/sf_focus_box/public/images/focus_box/Capture13.PNG?h=49a02242&itok=j_HYNkh3' alt='Human Resources - Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UC Davis Human Resources" />
+                                </span>
+                                <a href='https://hr.ucdavis.edu/sites/g/files/dgvnsk8016/files/styles/sf_focus_box/public/images/focus_box/Capture13.PNG?h=49a02242&itok=j_HYNkh3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Background Checks">
+                                <img itemprop="contentUrl url" src='https://sample-background-checks.govbackgroundchecks.com/screenshots/sample-background-checks/6.jpg' alt='Sample Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://sample-background-checks.govbackgroundchecks.com/screenshots/sample-background-checks/6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gillian Dauer, M.S.Ed. on LinkedIn: Well folks, the background ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQHbKiq_vgUWEA/feedshare-shrink_800/feedshare-shrink_800/0/1710519378623?e=2147483647&v=beta&t=eybfQW5GwKj01OGbzLCT3YWn8dc808H8kaAV4exqOU0' alt='Gillian Dauer, M.S.Ed. on LinkedIn: Well folks, the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQHbKiq_vgUWEA/feedshare-shrink_800/feedshare-shrink_800/0/1710519378623?e=2147483647&v=beta&t=eybfQW5GwKj01OGbzLCT3YWn8dc808H8kaAV4exqOU0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Madness Fuels Record Q1 For Firearm Background Checks In The ...">
+                                <img itemprop="contentUrl url" src='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map-1200x901.png' alt='March Madness Fuels Record Q1 For Firearm Background Checks In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biometrica Systems" />
+                                </span>
+                                <a href='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map-1200x901.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uscis Fbi Background Check">
+                                <img itemprop="contentUrl url" src='https://uscis-fbi-background-check.govbackgroundchecks.com/screenshots/uscis-fbi-background-check/0.jpg' alt='Uscis Fbi Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://uscis-fbi-background-check.govbackgroundchecks.com/screenshots/uscis-fbi-background-check/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

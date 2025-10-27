@@ -1,0 +1,129 @@
+<title>Transform Your Space with Living Walls Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of living walls wallpaper, an eco-friendly decor choice that enhances any room's ambiance. With stunning plant designs, this wallpaper not only beautifies your space but also improves air quality. Elevate your home decor effortlessly with vibrant nature-inspired patterns!">
+                    <meta name="keywords" content="living walls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/living-walls-wallpaper">
+                            <span itemprop="name">living walls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Living Walls Wallpaper</h1>
+                <p>Living walls wallpaper is an innovative decor solution that brings the beauty of nature indoors. This eco-friendly option combines vibrant plant designs and textures, creating a stunning visual impact while improving air quality. Perfect for any room, living walls wallpaper offers a refreshing ambiance and fosters a serene environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="livingwalls Wallpaper » Buy online | Wallcover">
+                                <img itemprop="contentUrl url" src='https://www.wallcover.com/media/catalog/category/metropolitan-stories-the-wall-livingwalls-overview.jpg' alt='livingwalls Wallpaper » Buy online | Wallcover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcover" />
+                                </span>
+                                <a href='https://www.wallcover.com/media/catalog/category/metropolitan-stories-the-wall-livingwalls-overview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="livingwalls Wallpaper » Buy online | Wallcover">
+                                <img itemprop="contentUrl url" src='https://www.wallcover.com/media/catalog/category/xxl-wallpaper-livingwalls-overview.jpg' alt='livingwalls Wallpaper » Buy online | Wallcover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcover" />
+                                </span>
+                                <a href='https://www.wallcover.com/media/catalog/category/xxl-wallpaper-livingwalls-overview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Art Wallpaper - Living Room Wall Mural - Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/9ff2bc/4022969282/il_fullxfull.4022969282_rp6f.jpg' alt='Colorful Art Wallpaper - Living Room Wall Mural - Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/9ff2bc/4022969282/il_fullxfull.4022969282_rp6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Murals | Ever Wallpaper US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/collections/living-room-wallpaper-mural_460x460_b4e023b5-83ce-4d3c-833f-63ecaf8b3678.webp?v=1660283229&width=750' alt='Living Room Wallpaper Murals | Ever Wallpaper US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/collections/living-room-wallpaper-mural_460x460_b4e023b5-83ce-4d3c-833f-63ecaf8b3678.webp?v=1660283229&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/96000/96241/u97555pig1_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/96000/96241/u97555pig1_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Peel & Stick Removable Wallpaper | Peel&Stick – Peel ...">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/FlorianWallpaperInLivingRoomWithNeutralCreamAndBeigeSofaWithFeathersNexttoSofa.jpg?v=1736949235&width=533' alt='Living Room Peel & Stick Removable Wallpaper | Peel&Stick – Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/FlorianWallpaperInLivingRoomWithNeutralCreamAndBeigeSofaWithFeathersNexttoSofa.jpg?v=1736949235&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="livingwalls Wallpaper » Buy online | Wallcover">
+                                <img itemprop="contentUrl url" src='https://www.wallcover.com/media/catalog/category/drawn-into-nature-livingwalls-overview.jpg' alt='livingwalls Wallpaper » Buy online | Wallcover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcover" />
+                                </span>
+                                <a href='https://www.wallcover.com/media/catalog/category/drawn-into-nature-livingwalls-overview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reyhui Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large  Nature Scenery Wall Mural for Living Room (not self-Adhesive) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X6LQdEMNL.jpg' alt='Reyhui Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large  Nature Scenery Wall Mural for Living Room (not self-Adhesive) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X6LQdEMNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/95000/95779/u97427pig18mr_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/95000/95779/u97427pig18mr_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Murals | Ever Wallpaper US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1155_c7384d8b-6b3e-4d6e-8848-00b3858aa69e.jpg?v=1657614507&width=533' alt='Living Room Wallpaper Murals | Ever Wallpaper US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1155_c7384d8b-6b3e-4d6e-8848-00b3858aa69e.jpg?v=1657614507&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

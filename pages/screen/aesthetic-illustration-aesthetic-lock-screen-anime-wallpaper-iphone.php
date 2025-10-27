@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Anime Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of aesthetic anime wallpapers for your iPhone lock screen. Elevate your device's style with unique, captivating designs that reflect your love for anime. Perfect for those seeking personalization and creativity at their fingertips. Download your favorites today!">
+                    <meta name="keywords" content="aesthetic illustration aesthetic lock screen anime wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/aesthetic-illustration-aesthetic-lock-screen-anime-wallpaper-iphone">
+                            <span itemprop="name">aesthetic illustration aesthetic lock screen anime wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Anime Lock Screen Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning aesthetic anime lock screen wallpapers. Explore a curated collection that combines vibrant colors and charming characters, making your device a canvas of creativity. Elevate your mobile experience with these eye-catching designs that reflect your unique style and passion for anime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper lock screen anime aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/a2/9b/08a29bd8fabf1a4953e8ec654e374595.jpg' alt='wallpaper lock screen anime aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/a2/9b/08a29bd8fabf1a4953e8ec654e374595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Anime Aesthetic Iphone Lock Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-anime-aesthetic-if3k6rqib74cwyat.jpg' alt='Download Kawaii Anime Aesthetic Iphone Lock Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-anime-aesthetic-if3k6rqib74cwyat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Anime Aesthetic Iphone Lock Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-anime-aesthetic-t5oowphw9a0j6gq1.jpg' alt='Download Kawaii Anime Aesthetic Iphone Lock Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-anime-aesthetic-t5oowphw9a0j6gq1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Aesthetic Anime iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/a3/28/32a32840102c42a02a8a0b16f972921d.jpg' alt='Awesome Aesthetic Anime iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/a3/28/32a32840102c42a02a8a0b16f972921d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Anime Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/itachi-collage-aesthetic-anime-iphone-9rvoepdf2i5h7awt.jpg' alt='100+] Aesthetic Anime Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/itachi-collage-aesthetic-anime-iphone-9rvoepdf2i5h7awt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Aesthetic anime ideas | aesthetic anime, aesthetic wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/73/2b/8e/732b8e951c3ff8d8ff51b47d0948a427.jpg' alt='63 Aesthetic anime ideas | aesthetic anime, aesthetic wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/73/2b/8e/732b8e951c3ff8d8ff51b47d0948a427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, aesthetic, blue, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/243/121/HD-wallpaper-huh-aesthetic-anime-anime-aesthetic-demon-slayer-iphone-nani-otaku-tanjiro-weeb.jpg' alt='Anime, aesthetic, blue, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/243/121/HD-wallpaper-huh-aesthetic-anime-anime-aesthetic-demon-slayer-iphone-nani-otaku-tanjiro-weeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lock Screen Shield Hero Yuno Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-lock-screen-shield-hero-yuno-xk7x8p2y2czqj0bc.jpg' alt='Anime Lock Screen Shield Hero Yuno Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-lock-screen-shield-hero-yuno-xk7x8p2y2czqj0bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jiro lockscreen, aesthetic, anime, background, jiro, lockscreen ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/819/48/HD-wallpaper-jiro-lockscreen-aesthetic-anime-background-jiro-lockscreen-mha-my-hero-academia-purple-purple-aesthetic.jpg' alt='Jiro lockscreen, aesthetic, anime, background, jiro, lockscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/819/48/HD-wallpaper-jiro-lockscreen-aesthetic-anime-background-jiro-lockscreen-mha-my-hero-academia-purple-purple-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper- Anime : r/AestheticWallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/byvk5jsjsl651.jpg' alt='Aesthetic Wallpaper- Anime : r/AestheticWallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/byvk5jsjsl651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

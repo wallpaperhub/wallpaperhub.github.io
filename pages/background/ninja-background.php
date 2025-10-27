@@ -1,0 +1,129 @@
+<title>Unveiling the Legend: The Fascinating History of Ninjas</title>
+                    <meta name="description" content="Discover the captivating world of ninjas, exploring their origins, roles, and legendary skills. Learn how these stealthy figures shaped Japanese history and culture, while separating fact from fiction in this intriguing journey. Perfect for history buffs and fans of martial arts alike!">
+                    <meta name="keywords" content="ninja background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ninja-background">
+                            <span itemprop="name">ninja background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Legend: The Fascinating History of Ninjas</h1>
+                <p>The history of ninjas is rich with intrigue, tracing back to feudal Japan. Originally known as "shinobi," they served as spies and assassins, employing stealth and strategy. Ninjas utilized specialized skills in martial arts, espionage, and survival techniques. Their iconic image is shaped by folklore and popular culture, blending myth and reality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/032/419/822/non_2x/illustration-graphic-of-ninja-assassin-samurai-training-at-night-on-a-full-moon-perfect-for-wallpaper-poster-etc-vector.jpg' alt='Ninja Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/032/419/822/non_2x/illustration-graphic-of-ninja-assassin-samurai-training-at-night-on-a-full-moon-perfect-for-wallpaper-poster-etc-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Shadow Images – Browse 17,733 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/88/09/19/360_F_988091972_fQW7pEEbECoLF4OPi8nFGllxYYq5ycSC.jpg' alt='Ninja Shadow Images – Browse 17,733 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/88/09/19/360_F_988091972_fQW7pEEbECoLF4OPi8nFGllxYYq5ycSC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Background Images – Browse 56,434 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/74/84/51/360_F_574845149_YokijZnhROo2ODT9G3VOTOWoUg23ekXd.jpg' alt='Ninja Background Images – Browse 56,434 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/74/84/51/360_F_574845149_YokijZnhROo2ODT9G3VOTOWoUg23ekXd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Backgrounds: Over 32,741 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ninja-run-on-roofs-flat-260nw-1990265297.jpg' alt='Ninja Backgrounds: Over 32,741 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ninja-run-on-roofs-flat-260nw-1990265297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-samurai-dawn-background_23-2149050331.jpg' alt='Ninja Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-samurai-dawn-background_23-2149050331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Ninja Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/490934456/vector/silhouette-ninja-cutting-bamboo-sword.jpg?s=612x612&w=0&k=20&c=IN1-szXAtmQmmCpD3OTAYoHtZ9dZGt4-bCYW_mjnMBc=' alt='1,900+ Ninja Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/490934456/vector/silhouette-ninja-cutting-bamboo-sword.jpg?s=612x612&w=0&k=20&c=IN1-szXAtmQmmCpD3OTAYoHtZ9dZGt4-bCYW_mjnMBc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stealthy Ninja Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stealthy-ninja-j6vpsoa55v0q9l16.jpg' alt='Stealthy Ninja Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stealthy-ninja-j6vpsoa55v0q9l16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop-wallpaper-top-45-ninja-cool-anime-ninja by solarpauly on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cc442e2-5efa-4c52-8527-ced60d80e32f/dgxy0br-d9a0400d-185d-40f2-b4e8-0d191dbaa1d5.jpg/v1/fill/w_707,h_1131,q_70,strp/desktop_wallpaper_top_45_ninja_cool_anime_ninja_by_solarpauly_dgxy0br-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MCIsInBhdGgiOiJcL2ZcLzRjYzQ0MmUyLTVlZmEtNGM1Mi04NTI3LWNlZDYwZDgwZTMyZlwvZGd4eTBici1kOWEwNDAwZC0xODVkLTQwZjItYjRlOC0wZDE5MWRiYWExZDUuanBnIiwid2lkdGgiOiI8PTg1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vl4Ql1AftLE9rtL0_yRMDhINLOlkoioXnOSkfCkKE6I' alt='Desktop-wallpaper-top-45-ninja-cool-anime-ninja by solarpauly on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cc442e2-5efa-4c52-8527-ced60d80e32f/dgxy0br-d9a0400d-185d-40f2-b4e8-0d191dbaa1d5.jpg/v1/fill/w_707,h_1131,q_70,strp/desktop_wallpaper_top_45_ninja_cool_anime_ninja_by_solarpauly_dgxy0br-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MCIsInBhdGgiOiJcL2ZcLzRjYzQ0MmUyLTVlZmEtNGM1Mi04NTI3LWNlZDYwZDgwZTMyZlwvZGd4eTBici1kOWEwNDAwZC0xODVkLTQwZjItYjRlOC0wZDE5MWRiYWExZDUuanBnIiwid2lkdGgiOiI8PTg1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vl4Ql1AftLE9rtL0_yRMDhINLOlkoioXnOSkfCkKE6I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Background Images – Browse 56,434 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/54/69/20/360_F_554692065_sEOYQa32gAIk8P2dFWosnStNtnwdSmsR.jpg' alt='Ninja Background Images – Browse 56,434 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/54/69/20/360_F_554692065_sEOYQa32gAIk8P2dFWosnStNtnwdSmsR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Background by Mendez1996 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea6256ec-9ab1-4486-9aed-11f6d376eabd/dge8p12-66adaedb-bab8-4525-9289-0fe9ada50519.png/v1/fill/w_1280,h_720,q_80,strp/ninja_background_by_mendez1996_dge8p12-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZWE2MjU2ZWMtOWFiMS00NDg2LTlhZWQtMTFmNmQzNzZlYWJkXC9kZ2U4cDEyLTY2YWRhZWRiLWJhYjgtNDUyNS05Mjg5LTBmZTlhZGE1MDUxOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.39zX7hOc5KlC7XxviWzU-bQrqcvnknJdyI_3384T6LM' alt='Ninja Background by Mendez1996 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea6256ec-9ab1-4486-9aed-11f6d376eabd/dge8p12-66adaedb-bab8-4525-9289-0fe9ada50519.png/v1/fill/w_1280,h_720,q_80,strp/ninja_background_by_mendez1996_dge8p12-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZWE2MjU2ZWMtOWFiMS00NDg2LTlhZWQtMTFmNmQzNzZlYWJkXC9kZ2U4cDEyLTY2YWRhZWRiLWJhYjgtNDUyNS05Mjg5LTBmZTlhZGE1MDUxOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.39zX7hOc5KlC7XxviWzU-bQrqcvnknJdyI_3384T6LM' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

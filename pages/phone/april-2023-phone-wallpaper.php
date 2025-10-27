@@ -1,0 +1,129 @@
+<title>Fresh April 2023 Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant and refreshing phone wallpapers for April 2023. Choose from floral designs, serene landscapes, and unique abstract art to personalize your device. Perfect for spring, these wallpapers will enhance your home screen and showcase your style.">
+                    <meta name="keywords" content="april 2023 phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/april-2023-phone-wallpaper">
+                            <span itemprop="name">april 2023 phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh April 2023 Phone Wallpapers for Your Device</h1>
+                <p>April 2023 brings fresh and vibrant phone wallpapers to refresh your device's look. Explore stunning designs featuring blooming flowers, calming landscapes, and abstract art that inspire positivity. Customize your screen with these eye-catching wallpapers and express your personal style this season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/04/04-2023-wallpaper-iphone-calendar-scaled.jpg' alt='April 2023 Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/04/04-2023-wallpaper-iphone-calendar-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable April 2023 Calendar - The Knit Picks Staff ...">
+                                <img itemprop="contentUrl url" src='https://blog.knitpicks.com/wp-content/uploads/2023/04/wallpapers_2023_iphone_April.jpg' alt='Free Downloadable April 2023 Calendar - The Knit Picks Staff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knit Picks Blog" />
+                                </span>
+                                <a href='https://blog.knitpicks.com/wp-content/uploads/2023/04/wallpapers_2023_iphone_April.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://cdn-apggb.nitrocdn.com/LzbfelFnrubfWWOPIrfJxIsGugDTgtLD/assets/images/optimized/rev-166558c/www.ohsolovelyblog.com/wp-content/uploads/2023/02/April-2023-wallpapers-OhSoLovelyBlog.com-SundayStart21.jpg' alt='April 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://cdn-apggb.nitrocdn.com/LzbfelFnrubfWWOPIrfJxIsGugDTgtLD/assets/images/optimized/rev-166558c/www.ohsolovelyblog.com/wp-content/uploads/2023/02/April-2023-wallpapers-OhSoLovelyBlog.com-SundayStart21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/04/04-2023-wallpaper-iphone-art-scaled.jpg' alt='April 2023 Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/04/04-2023-wallpaper-iphone-art-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-cute-glitter-414x896.jpg' alt='April 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1725">
+                                <meta itemprop="height" content="3733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-cute-glitter-414x896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-easter-414x896.jpg' alt='April 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1725">
+                                <meta itemprop="height" content="3733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-easter-414x896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/02/April-2023-wallpapers-OhSoLovelyBlog.com-SundayStart20.jpg' alt='April 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/02/April-2023-wallpapers-OhSoLovelyBlog.com-SundayStart20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Calendar Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12139461.jpg' alt='April 2023 Calendar Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12139461.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-blue-theme-414x896.jpg' alt='April 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1725">
+                                <meta itemprop="height" content="3733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/04-2023/april-2023-wallpaper-calendar-blue-theme-414x896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April // wallpaper , backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/2c/53/5b2c5333f63508683d97693af35a6cd2.jpg' alt='April // wallpaper , backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1033">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/2c/53/5b2c5333f63508683d97693af35a6cd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

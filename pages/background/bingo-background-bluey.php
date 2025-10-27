@@ -1,0 +1,129 @@
+<title>Bluey’s Bingo: The Adorable Blue Heeler Puppy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="bingo background bluey">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bingo-background-bluey">
+                            <span itemprop="name">bingo background bluey</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bluey’s Bingo: The Adorable Blue Heeler Puppy</h1>
+                <p>Bingo from "Bluey" is a lovable Blue Heeler puppy known for her playful antics and adventurous spirit. As Bluey's younger sister, she represents curiosity and imagination, often joining in games that promote creativity and family bonding. The show's vibrant colors and engaging storytelling make Bingo a favorite among children and parents alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's Bingo HD Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/135/thumb-1920-1357971.png' alt='Bluey's Bingo HD Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/135/thumb-1920-1357971.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is now a Bingo wallpaper!! Leave Ideas on who I should do ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-is-now-a-bingo-wallpaper-leave-ideas-on-who-i-should-v0-503pe4rlgv5c1.jpeg?auto=webp&s=d13327abfb64f467bcc32e9254fe886a46a3c496' alt='Here is now a Bingo wallpaper!! Leave Ideas on who I should do ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-is-now-a-bingo-wallpaper-leave-ideas-on-who-i-should-v0-503pe4rlgv5c1.jpeg?auto=webp&s=d13327abfb64f467bcc32e9254fe886a46a3c496' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Junior Bluey & Bingo">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/10822/Bluey_and_Bingo_Disney_Fabric.jpg' alt='Disney Junior Bluey & Bingo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Quilted Nursery Fabric Store" />
+                                </span>
+                                <a href='https://media.rainpos.com/10822/Bluey_and_Bingo_Disney_Fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey and Bingo Butterflies Wallpaper - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2022/03/Butterflies-BlueyBingo.jpg' alt='Bluey and Bingo Butterflies Wallpaper - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2022/03/Butterflies-BlueyBingo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey and Bingo wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/fa/16/05fa1606415a6529ebf4db6bafe8b50c.jpg' alt='Bluey and Bingo wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/fa/16/05fa1606415a6529ebf4db6bafe8b50c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey bingo wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/3f/78/6a3f78df49692482b074f02dfdfbbfc4.jpg' alt='Bluey bingo wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/3f/78/6a3f78df49692482b074f02dfdfbbfc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Bluey Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/01/Show-and-Tell.png' alt='New Bluey Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/01/Show-and-Tell.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUEY+BINGO WALLPAPER     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/a3/dc/3aa3dcfef0647dc0ae883f444eb785a0.jpg' alt='BLUEY+BINGO WALLPAPER     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/a3/dc/3aa3dcfef0647dc0ae883f444eb785a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Bluey wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/ba/24/88ba243f7ef60fb3f04d7e0d3351a6cf.jpg' alt='Bingo Bluey wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/ba/24/88ba243f7ef60fb3f04d7e0d3351a6cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey phone wallpapers: Dress up - CBeebies">
+                                <img itemprop="contentUrl url" src='https://childrens-binary.files.bbci.co.uk/childrens-binarystore/cbeebies/Bluey-Costume-Wallpaper-1.png' alt='Bluey phone wallpapers: Dress up - CBeebies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://childrens-binary.files.bbci.co.uk/childrens-binarystore/cbeebies/Bluey-Costume-Wallpaper-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

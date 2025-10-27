@@ -1,0 +1,129 @@
+<title>Vibrant Messi Cartoon Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant Messi cartoon wallpapers that bring joy and excitement to your screens. Perfect for fans, these artistic designs celebrate the football legend in a fun way. Elevate your device's look with unique and colorful Messi-themed artistry. Download now for a fresh, sporty vibe!">
+                    <meta name="keywords" content="messi cartoon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-cartoon-wallpaper">
+                            <span itemprop="name">messi cartoon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Messi Cartoon Wallpapers for Fans</h1>
+                <p>Transform your device with stunning Messi cartoon wallpapers! Featuring vibrant colors and dynamic designs, these wallpapers celebrate the legendary footballer in a fun, artistic way. Perfect for fans of all ages, they add personality to your screens while capturing the spirit of Messi's incredible talent on the field.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little MESSI">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/98/2d/b9982d9da4165803ac75f7a10961ddd1.jpg' alt='Little MESSI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/98/2d/b9982d9da4165803ac75f7a10961ddd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Cartoon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/d2/e7/5ed2e77f1bf212bcdfc706649d32930d.jpg' alt='Messi Cartoon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/d2/e7/5ed2e77f1bf212bcdfc706649d32930d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi Wallpaper for phone by sadmanX5 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09f04d25-8a97-481d-a423-1c7234f1a4d9/dfidgn6-e62c1001-d594-4de4-98c2-a6e342677d26.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZjA0ZDI1LThhOTctNDgxZC1hNDIzLTFjNzIzNGYxYTRkOVwvZGZpZGduNi1lNjJjMTAwMS1kNTk0LTRkZTQtOThjMi1hNmUzNDI2NzdkMjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.40weH93FxTZjOTJh3AQZhDYuCbTcxYUnbKkHFrKW668' alt='Leo Messi Wallpaper for phone by sadmanX5 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09f04d25-8a97-481d-a423-1c7234f1a4d9/dfidgn6-e62c1001-d594-4de4-98c2-a6e342677d26.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZjA0ZDI1LThhOTctNDgxZC1hNDIzLTFjNzIzNGYxYTRkOVwvZGZpZGduNi1lNjJjMTAwMS1kNTk0LTRkZTQtOThjMi1hNmUzNDI2NzdkMjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.40weH93FxTZjOTJh3AQZhDYuCbTcxYUnbKkHFrKW668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi Animated Wallpaper for Barça Fans">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7119253675037478150&location=0&aid=1988' alt='Leo Messi Animated Wallpaper for Barça Fans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7119253675037478150&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi, barcelona, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/233/308/HD-wallpaper-messi-barcelona.jpg' alt='Messi, barcelona, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/233/308/HD-wallpaper-messi-barcelona.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/03/98/0f0398fe005ef107fb3d4dc274e65af8.jpg' alt='124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/03/98/0f0398fe005ef107fb3d4dc274e65af8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Drawing Soccer Argentinian Lionel Messi Sports 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/102/1026632.png' alt='Download Drawing Soccer Argentinian Lionel Messi Sports 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4092">
+                                <meta itemprop="height" content="2893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/102/1026632.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Cartoon Style Wallpapers - Free Sports Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/12/lionel-messi-cartoon-style-wallpaper.jpg' alt='Lionel Messi Cartoon Style Wallpapers - Free Sports Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="3171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/12/lionel-messi-cartoon-style-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cartoon angry Lionel Messi playing football, ultra detailed ...">
+                                <img itemprop="contentUrl url" src='https://img.recraft.ai/oYdeouE_8dXpCJIlFr0EMuSuob-wGIy0p0f4Fq7kc8k/rs:fit:1024:1280:0/q:95/g:no/plain/abs://prod/images/3e3ab12f-5a22-4c9e-bc1a-c6e032cc515d@svg' alt='cartoon angry Lionel Messi playing football, ultra detailed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recraft" />
+                                </span>
+                                <a href='https://img.recraft.ai/oYdeouE_8dXpCJIlFr0EMuSuob-wGIy0p0f4Fq7kc8k/rs:fit:1024:1280:0/q:95/g:no/plain/abs://prod/images/3e3ab12f-5a22-4c9e-bc1a-c6e032cc515d@svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo messi art, football, leomessi barcelona, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/946/78/HD-wallpaper-leo-messi-art-football-leomessi-barcelona.jpg' alt='Leo messi art, football, leomessi barcelona, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/946/78/HD-wallpaper-leo-messi-art-football-leomessi-barcelona.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

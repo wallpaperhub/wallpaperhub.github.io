@@ -1,0 +1,129 @@
+<title>Bee Wallpaper: Peel & Stick Magic</title>
+                    <meta name="description" content="Add a sweet buzz to your decor with our peel and stick bee wallpaper. Easy to install and remove, it's perfect for any room. Create a playful atmosphere with this charming design that combines nature and style effortlessly. Discover the simplicity of fresh decor today!">
+                    <meta name="keywords" content="peel and stick bee wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-bee-wallpaper">
+                            <span itemprop="name">peel and stick bee wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bee Wallpaper: Peel & Stick Magic</h1>
+                <p>Transform your space with charming peel and stick bee wallpaper! Perfect for adding a touch of whimsy and nature indoors, this easy-to-apply wallpaper allows for quick updates without the mess. Removable and repositionable, it suits any room style, from nurseries to living areas, creating a buzzing atmosphere in your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Honey Bees Endangered Species ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uyyZqRPOL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Honey Bees Endangered Species ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uyyZqRPOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower & Honey Bee Wallpaper | Vintage Botanical Print – Anewall">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/vintage_honey_bee_wallpaper_bf3e6061-8af4-4d75-a270-c1491954e7f9.jpg?v=1589481197' alt='Flower & Honey Bee Wallpaper | Vintage Botanical Print – Anewall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/vintage_honey_bee_wallpaper_bf3e6061-8af4-4d75-a270-c1491954e7f9.jpg?v=1589481197' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honey Bee Floral Contact Paper | Peel And Stick Wallpaper | Removable  Wallpaper | Shelf Liner | Drawer Liner | Peel and Stick Paper 1274">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3959141073_7fq6.jpg?v=1737086620&width=3000' alt='Honey Bee Floral Contact Paper | Peel And Stick Wallpaper | Removable  Wallpaper | Shelf Liner | Drawer Liner | Peel and Stick Paper 1274'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3959141073_7fq6.jpg?v=1737086620&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AUCOOMA Boho Peel and Stick Wallpaper Beehive Honeybee Large Yellow Flowers  Removable Decor Wallpaper 17.7 x 118.1 Inches - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81upkm0ichL.jpg' alt='AUCOOMA Boho Peel and Stick Wallpaper Beehive Honeybee Large Yellow Flowers  Removable Decor Wallpaper 17.7 x 118.1 Inches - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81upkm0ichL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bee Hive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33689/bee-hive-wallpaper-2x.jpg?q=1694030443' alt='Bee Hive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33689/bee-hive-wallpaper-2x.jpg?q=1694030443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Honey Bee Gold Vinyl Peel & Stick Repositionable ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/92936250-b507-415e-a72b-4ceff1176df4/svn/roommates-wallpaper-rolls-rmk11474wp-76_600.jpg' alt='RoomMates Honey Bee Gold Vinyl Peel & Stick Repositionable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/92936250-b507-415e-a72b-4ceff1176df4/svn/roommates-wallpaper-rolls-rmk11474wp-76_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Bumblebee Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 148">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3976417399_ks1f.jpg' alt='Floral Bumblebee Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 148'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2369">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3976417399_ks1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Honey Bees Endangered Species ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71SUUeZDOgL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Honey Bees Endangered Species ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71SUUeZDOgL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Honey Bee Gold Vinyl Peel & Stick Repositionable Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK11474WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6aa71b32-1430-4c25-acba-ba0713a8ac30/svn/roommates-wallpaper-rolls-rmk11474wp-c3_600.jpg' alt='RoomMates Honey Bee Gold Vinyl Peel & Stick Repositionable Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK11474WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6aa71b32-1430-4c25-acba-ba0713a8ac30/svn/roommates-wallpaper-rolls-rmk11474wp-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bee Peel and Stick Wallpaper Yellow Honey Bees Wall Mural Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16895977/r/il/af3511/4394888195/il_570xN.4394888195_pkj5.jpg' alt='Bee Peel and Stick Wallpaper Yellow Honey Bees Wall Mural Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16895977/r/il/af3511/4394888195/il_570xN.4394888195_pkj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

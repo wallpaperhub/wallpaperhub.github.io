@@ -1,0 +1,129 @@
+<title>Stunning Motley Crue Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a vibrant collection of Motley Crue wallpapers for your iPhone! Perfect for fans wanting to add a touch of rock 'n' roll to their screens. Choose from numerous designs that embody the energy and legacy of this legendary band. Download your favorite wallpaper now for a fresh, bold look!">
+                    <meta name="keywords" content="motley crue wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/motley-crue-wallpaper-iphone">
+                            <span itemprop="name">motley crue wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Motley Crue Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Motley Crue wallpapers! Choose from iconic album artwork, electrifying concert shots, and the lavish lifestyle of rock's legends. Perfect for fans who want to showcase their love for this legendary band. Discover a variety of designs that reflect the spirit of rock 'n' roll. Upgrade your device now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley crue wallpaper iPhone Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/76/17/c7761761243e0ae60071147da2135eca.jpg' alt='Motley crue wallpaper iPhone Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/76/17/c7761761243e0ae60071147da2135eca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MOTLEY CRUE wallpaper by GHOSTRIDER1436 - Download on ZEDGE™ | a3ef">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/8f/56/2a/8f562a47619cda2f5fdbfad1afe02544.jpg' alt='MOTLEY CRUE wallpaper by GHOSTRIDER1436 - Download on ZEDGE™ | a3ef'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/8f/56/2a/8f562a47619cda2f5fdbfad1afe02544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final tour, crue, end, metal, motley, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/455/822/HD-wallpaper-final-tour-crue-end-metal-motley.jpg' alt='Final tour, crue, end, metal, motley, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/455/822/HD-wallpaper-final-tour-crue-end-metal-motley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out jadynrocknroll1985's Shuffles Mötley Crüe wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/5d/63/f1/5d63f1b0e4b5f4e96e3de4b90e5591c5.jpg' alt='Check out jadynrocknroll1985's Shuffles Mötley Crüe wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/5d/63/f1/5d63f1b0e4b5f4e96e3de4b90e5591c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley crue, music, art, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/88/959/HD-wallpaper-motley-crue-music-art.jpg' alt='Motley crue, music, art, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/88/959/HD-wallpaper-motley-crue-music-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Legendary Motley Crue Band Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/motley-crue-2c8swvum2xrnod67.jpg' alt='Download The Legendary Motley Crue Band Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/motley-crue-2c8swvum2xrnod67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MOTLEY CRUE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/4a/7e/e94a7e9d71d78e2d53bbdf610b78488b.jpg' alt='MOTLEY CRUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/4a/7e/e94a7e9d71d78e2d53bbdf610b78488b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue, glam metal, motley crue, rock, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/663/20/HD-wallpaper-motley-crue-glam-metal-motley-crue-rock.jpg' alt='Motley Crue, glam metal, motley crue, rock, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/663/20/HD-wallpaper-motley-crue-glam-metal-motley-crue-rock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Rocking out on stage at Livewire – Motley Crue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/motley-crue-lk3mjrbek2elm3v1.jpg' alt='Download Rocking out on stage at Livewire – Motley Crue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/motley-crue-lk3mjrbek2elm3v1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue Wallpaper - IXpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/9c/c5/189cc5d1b1b8539bfc76567930dd6084.jpg' alt='Motley Crue Wallpaper - IXpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/9c/c5/189cc5d1b1b8539bfc76567930dd6084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

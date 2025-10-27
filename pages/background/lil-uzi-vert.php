@@ -1,0 +1,129 @@
+<title>"Lil Uzi Vert: The Emo Rap Icon"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lil uzi vert">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lil-uzi-vert">
+                            <span itemprop="name">lil uzi vert</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Lil Uzi Vert: The Emo Rap Icon"</h1>
+                <p>Lil Uzi Vert is an American rapper and songwriter known for his unique blend of hip-hop and emo influences. Gaining fame with tracks like "XO TOUR Llif3," he captivates audiences with his energetic performances and eclectic style. Uzi's lyrical themes often touch on love, heartbreak, and the struggles of fame, making him a relatable figure in modern music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/44/Lil_Uzi_Vert_%282018%29.png' alt='Lil Uzi Vert - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/44/Lil_Uzi_Vert_%282018%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIL UZI VERT - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/D7F42F_JM3U/sddefault.jpg' alt='LIL UZI VERT - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/D7F42F_JM3U/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert | Singers Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/singerss/images/5/52/Luv.jpg/revision/latest?cb=20171222212612' alt='Lil Uzi Vert | Singers Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Singers Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/singerss/images/5/52/Luv.jpg/revision/latest?cb=20171222212612' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert's 'Pink Tape' Review">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/06/Lil-Uzi-Album-Review.jpg' alt='Lil Uzi Vert's 'Pink Tape' Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/06/Lil-Uzi-Album-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert diamond: how did he embed it in his forehead ...">
+                                <img itemprop="contentUrl url" src='https://media.gq-magazine.co.uk/photos/601d6b9ffc954a7c0aefcf64/16:9/w_2560%2Cc_limit/LiluziForehead.png' alt='Lil Uzi Vert diamond: how did he embed it in his forehead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British GQ" />
+                                </span>
+                                <a href='https://media.gq-magazine.co.uk/photos/601d6b9ffc954a7c0aefcf64/16:9/w_2560%2Cc_limit/LiluziForehead.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert Releases New Album 'Eternal Atake 2': Stream It Now">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2024/10/Lil-Uzi-Vert-coachella-2024-au-y-billboard-1548.jpg?w=942&h=623&crop=1' alt='Lil Uzi Vert Releases New Album 'Eternal Atake 2': Stream It Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2024/10/Lil-Uzi-Vert-coachella-2024-au-y-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Lil Uzi Vert, The First Rockstar Of Post-Obama Rap | The FADER">
+                                <img itemprop="contentUrl url" src='https://thefader-res.cloudinary.com/private_images/w_1440,c_limit,f_auto,q_auto:best/Fader_105_Lil_Uzi_RachelChandler_WEB_201606300002_yoo383/lil-uzi-vert-interview-the-perfect-luv.jpg' alt='Meet Lil Uzi Vert, The First Rockstar Of Post-Obama Rap | The FADER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fader" />
+                                </span>
+                                <a href='https://thefader-res.cloudinary.com/private_images/w_1440,c_limit,f_auto,q_auto:best/Fader_105_Lil_Uzi_RachelChandler_WEB_201606300002_yoo383/lil-uzi-vert-interview-the-perfect-luv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2OQoKY-default.jpg' alt='Lil Uzi Vert Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2OQoKY-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert's 'Eternal Atake' delivers on production, falters in ...">
+                                <img itemprop="contentUrl url" src='https://badgerherald.com/wp-content/uploads/2017/12/lil-uzi-vert.jpg' alt='Lil Uzi Vert's 'Eternal Atake' delivers on production, falters in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Badger Herald" />
+                                </span>
+                                <a href='https://badgerherald.com/wp-content/uploads/2017/12/lil-uzi-vert.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Uzi Vert Appears to Have Re-Implanted His $24 Million Forehead ...">
+                                <img itemprop="contentUrl url" src='https://consequence.net/wp-content/uploads/2021/07/Lil-Uzi-Vert-1.jpg' alt='Lil Uzi Vert Appears to Have Re-Implanted His $24 Million Forehead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consequence.net" />
+                                </span>
+                                <a href='https://consequence.net/wp-content/uploads/2021/07/Lil-Uzi-Vert-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

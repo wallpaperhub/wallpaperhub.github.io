@@ -1,0 +1,129 @@
+<title>Stunning Winter Wallpapers for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="winter wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/winter-wallpaper-phone">
+                            <span itemprop="name">winter wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Winter Wallpapers for Your Phone</h1>
+                <p>Bring the beauty of winter to your phone with stunning winter wallpapers! Choose from serene snowy landscapes, frosted trees, and cozy cabin scenes that capture the magic of the season. Whether you love the tranquility of a winter wonderland or festive holiday themes, find the perfect backdrop to keep you in the holiday spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Winter Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_2020010302.jpg' alt='Free Winter Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_2020010302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Cozy winter wallpapers for iPhone (Free 4K download) - iGeeksBlog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/84/a9/3e84a9dc0df9ffb278b0440687399d4f.jpg' alt='20+ Cozy winter wallpapers for iPhone (Free 4K download) - iGeeksBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/84/a9/3e84a9dc0df9ffb278b0440687399d4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Winter Snowflake Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-winter-snowflake-phone-vuvxfyj8mkp873o3.jpg' alt='Cute Winter Snowflake Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-winter-snowflake-phone-vuvxfyj8mkp873o3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Holiday Free Phone Wallpaper | Weekly Inspiration -">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/appleslicesllc.com/wp-content/uploads/2019/12/Winter_Holiday_Free_Phone_Backgrounds_From_Apple_Slices_LLC_02%404x-20-1-scaled.jpg?w=1280&ssl=1' alt='Winter Holiday Free Phone Wallpaper | Weekly Inspiration -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Slices -" />
+                                </span>
+                                <a href='https://i0.wp.com/appleslicesllc.com/wp-content/uploads/2019/12/Winter_Holiday_Free_Phone_Backgrounds_From_Apple_Slices_LLC_02%404x-20-1-scaled.jpg?w=1280&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter phone 2025 background">
+                                <img itemprop="contentUrl url" src='https://www.itakeyou.co.uk/wp-content/uploads/2021/11/winter-wallpaper.jpg' alt='Winter phone 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.itakeyou.co.uk/wp-content/uploads/2021/11/winter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Winter Cabin Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_2020010305.jpg' alt='Free Winter Cabin Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_2020010305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Phone Wallpapers | Arizon life and style | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-garland-576x1024.png' alt='Winter Phone Wallpapers | Arizon life and style | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-garland-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Your Phone This Winter with Snowflake Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' alt='Transform Your Phone This Winter with Snowflake Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/82/c7/e6/82c7e68e422f54a31834767b09a368c5.jpg' alt='Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/82/c7/e6/82c7e68e422f54a31834767b09a368c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Winter Aesthetic Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/winter-aesthetic-phone-j2yug085zaw5jmr6.jpg' alt='100+] Winter Aesthetic Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/winter-aesthetic-phone-j2yug085zaw5jmr6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

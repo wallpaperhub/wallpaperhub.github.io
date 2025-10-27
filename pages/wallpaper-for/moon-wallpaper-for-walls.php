@@ -1,0 +1,129 @@
+<title>Stunning Moon Wallpaper for Your Walls</title>
+                    <meta name="description" content="Discover beautiful moon wallpaper that brings a celestial touch to your home. Ideal for any room, our moon designs create a tranquil ambiance. Shop now for enchanting wallpapers that elevate your decor and inspire dreams of the night sky.">
+                    <meta name="keywords" content="moon wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/moon-wallpaper-for-walls">
+                            <span itemprop="name">moon wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moon Wallpaper for Your Walls</h1>
+                <p>Transform your space with captivating moon wallpaper for walls. Perfect for bedrooms, home theaters, or nurseries, moon-themed designs create a serene atmosphere that sparks imagination. Choose from enchanting night skies to realistic lunar surfaces. Elevate your decor with a touch of celestial magic and unwind under the moonlight, every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moon Wallpaper & Wall Mural Cloudy Moon Decor Landscape Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/0e94c9/3895108404/il_fullxfull.3895108404_tfw0.jpg' alt='Dark Moon Wallpaper & Wall Mural Cloudy Moon Decor Landscape Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1636">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/0e94c9/3895108404/il_fullxfull.3895108404_tfw0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Full Moon and Stars Wallpaper Galaxy Night Sky Tree  murals Bedroom Room Decor Home Living Room tv Background Large Wall Mural -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vprydLbeL.jpg' alt='Amazon.com: BZHXBZ - Full Moon and Stars Wallpaper Galaxy Night Sky Tree  murals Bedroom Room Decor Home Living Room tv Background Large Wall Mural -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vprydLbeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Peel and Stick Wallpaper Wallpaper design with ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/85000/85619/u95521pig9_1200.webp' alt='Wall Mural Peel and Stick Wallpaper Wallpaper design with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/85000/85619/u95521pig9_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpaper Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/1230/645/moon-hero.jpg' alt='Moon Wallpaper Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/1230/645/moon-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/61733/landscape/wallpaper/room71.jpg?w=2000&q=80' alt='Moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/61733/landscape/wallpaper/room71.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Moon Wallpaper, Clouds Wall Mural, Sky Wall Decor, Night View ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/fe922c/1719862276/il_570xN.1719862276_8orv.jpg' alt='3D Moon Wallpaper, Clouds Wall Mural, Sky Wall Decor, Night View ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/fe922c/1719862276/il_570xN.1719862276_8orv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Mural Wallpaper | Kids Room — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-lune---chambre-enfant-3_1200x1200_crop_center.jpg?v=1721497464' alt='Moon Mural Wallpaper | Kids Room — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-lune---chambre-enfant-3_1200x1200_crop_center.jpg?v=1721497464' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/49952/landscape/wallpaper/room45.jpg?w=2000&q=80' alt='Moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/49952/landscape/wallpaper/room45.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Moon 2153 Wallpaper Mural Paper Wall Print Indoor Murals CA ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/nsUAAOSwdmdivmgc/s-l400.jpg' alt='3D Moon 2153 Wallpaper Mural Paper Wall Print Indoor Murals CA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/nsUAAOSwdmdivmgc/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Full Moon Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42564_WP-01.jpg' alt='Ocean Full Moon Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42564_WP-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

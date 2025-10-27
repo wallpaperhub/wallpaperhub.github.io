@@ -1,0 +1,129 @@
+<title>Purple Collage Wallpaper: Revamp Your Space!</title>
+                    <meta name="description" content="Explore our captivating purple collage wallpaper! Ideal for enhancing any room's aesthetic, this design features a delightful mix of purples, perfect for adding personality to your decor. Easy to install and maintain, it's the perfect choice for a stylish and vibrant transformation!">
+                    <meta name="keywords" content="purple collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-collage-wallpaper">
+                            <span itemprop="name">purple collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Collage Wallpaper: Revamp Your Space!</h1>
+                <p>Transform your space with stunning purple collage wallpaper! This vibrant design combines various shades of purple, creating a unique visual appeal that adds depth and personality to any room. Perfect for accent walls, bedrooms, or creative spaces, our wallpaper brings warmth and sophistication to your decor. Express yourself with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆lilac wallpaper collage☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/31/4d/fa314dc1b65fc1d7fd2b8b7b8197bfd8.jpg' alt='☆lilac wallpaper collage☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/31/4d/fa314dc1b65fc1d7fd2b8b7b8197bfd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/99/41/0f99411534048d1a5a9d774cd3f4c1cd.jpg' alt='Purple wallpaper collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/99/41/0f99411534048d1a5a9d774cd3f4c1cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Inspired With The Beauty Of This Creative Purple Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/be-inspired-with-the-beauty-of-this-creative-purple-aesthetic-collage-6so52bntqx122ff1.jpg' alt='Be Inspired With The Beauty Of This Creative Purple Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/be-inspired-with-the-beauty-of-this-creative-purple-aesthetic-collage-6so52bntqx122ff1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Collage Of Purple Pictures And Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-collage-of-purple-pictures-and-clouds-se0dltuaqj34g299.jpg' alt='A Collage Of Purple Pictures And Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-collage-of-purple-pictures-and-clouds-se0dltuaqj34g299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Aesthetic Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-aesthetic-collage-zx7fkbpkknsa06xe.jpg' alt='100+] Purple Aesthetic Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-aesthetic-collage-zx7fkbpkknsa06xe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Neon Purple Wall Collage Kit, Purple Aesthetic Collage Kit ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23658690/r/il/fedbd6/4066080863/il_fullxfull.4066080863_rae4.jpg' alt='100 Neon Purple Wall Collage Kit, Purple Aesthetic Collage Kit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23658690/r/il/fedbd6/4066080863/il_fullxfull.4066080863_rae4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wall Collage Kit | Lavender Light Purple Aesthetic (set of ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18363275/r/il/6c7d94/2803204414/il_fullxfull.2803204414_dvqn.jpg' alt='Photo Wall Collage Kit | Lavender Light Purple Aesthetic (set of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18363275/r/il/6c7d94/2803204414/il_fullxfull.2803204414_dvqn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Various Shades Of Purple Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/various-shades-of-purple-collage-ls5jv1sruo9hxmea.jpg' alt='Various Shades Of Purple Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/various-shades-of-purple-collage-ls5jv1sruo9hxmea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so pretty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/10/49/851049ce5ec348cbff455633f0f8d58b.jpg' alt='so pretty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/10/49/851049ce5ec348cbff455633f0f8d58b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Collage | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1997814231.6846/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Purple Aesthetic Collage | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1997814231.6846/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

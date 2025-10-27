@@ -1,0 +1,129 @@
+<title>Tithes and Offerings: Understanding Their Importance</title>
+                    <meta name="description" content="Explore the significance of tithes and offerings in faith communities. Understand their historical roots, how they foster generosity, and their role in supporting the mission of the church. Discover the spiritual benefits of giving as a reflection of gratitude and faith.">
+                    <meta name="keywords" content="tithes and offering background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tithes-and-offering-background">
+                            <span itemprop="name">tithes and offering background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tithes and Offerings: Understanding Their Importance</h1>
+                <p>Tithes and offerings are rooted in ancient traditions, where believers would give a portion of their resources to support religious ministries and communities. This practice reflects gratitude, faith, and a commitment to collective welfare. It fosters a spirit of generosity, reinforcing community bonds and supporting the church's mission.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes And Offerings – Motion Worship – Video Loops, Countdowns ...">
+                                <img itemprop="contentUrl url" src='https://www.motionworship.com/thumb/Announcements/TithesOfferingsGoldRaysHD.jpg' alt='Tithes And Offerings – Motion Worship – Video Loops, Countdowns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Worship" />
+                                </span>
+                                <a href='https://www.motionworship.com/thumb/Announcements/TithesOfferingsGoldRaysHD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Journey Tithes and Offerings Still | Still Background">
+                                <img itemprop="contentUrl url" src='https://d20jno9famfelf.cloudfront.net/_800x418_crop_center-center_82_none/Spring-Journey-Tithes-and-Offerings-Still_CNM-HD.jpg?mtime=1620143068' alt='Spring Journey Tithes and Offerings Still | Still Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://d20jno9famfelf.cloudfront.net/_800x418_crop_center-center_82_none/Spring-Journey-Tithes-and-Offerings-Still_CNM-HD.jpg?mtime=1620143068' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes And Offerings – Motion Worship – Video Loops, Countdowns ...">
+                                <img itemprop="contentUrl url" src='https://www.motionworship.com/thumb/Announcements/TithesOfferingsBlueRaysHD.jpg' alt='Tithes And Offerings – Motion Worship – Video Loops, Countdowns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Worship" />
+                                </span>
+                                <a href='https://www.motionworship.com/thumb/Announcements/TithesOfferingsBlueRaysHD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes and Offering Sermon PowerPoint for Church | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1369769976196_53/slide-02.jpg' alt='Tithes and Offering Sermon PowerPoint for Church | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1369769976196_53/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Winter Tithes & Offerings | Still Background">
+                                <img itemprop="contentUrl url" src='https://d20jno9famfelf.cloudfront.net/_1200x630_crop_center-center_82_none/Colorful_Winter_Tithes_CNM-HD.jpg?mtime=1534228833' alt='Colorful Winter Tithes & Offerings | Still Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://d20jno9famfelf.cloudfront.net/_1200x630_crop_center-center_82_none/Colorful_Winter_Tithes_CNM-HD.jpg?mtime=1534228833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motion Background about tithes and offering - SermonCentral.com">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/10364_thumbnail.jpg' alt='Motion Background about tithes and offering - SermonCentral.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/10364_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes and Offerings">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tithes-and-offerings-design-template-d172deabb002174189b61a6b34d6a6ee_screen.jpg?ts=1635507696' alt='Tithes and Offerings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tithes-and-offerings-design-template-d172deabb002174189b61a6b34d6a6ee_screen.jpg?ts=1635507696' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Bless the Lord Christian Tithes and Offerings ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1436908425192_2/1436908425192_22.jpg' alt='ShareFaith Media » Bless the Lord Christian Tithes and Offerings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1436908425192_2/1436908425192_22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes And Offerings Bright Field | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate-1.imgix.net/sermon-graphics/24a3c2d7-f64f-91ca-e52d-5a547332c9b4/preview0.jpg?auto=format&q=40&w=635&s=302adc3846abd2e8ea9bab9db0dbf4e1' alt='Tithes And Offerings Bright Field | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate-1.imgix.net/sermon-graphics/24a3c2d7-f64f-91ca-e52d-5a547332c9b4/preview0.jpg?auto=format&q=40&w=635&s=302adc3846abd2e8ea9bab9db0dbf4e1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Hands Tithing Sermon PowerPoint | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1515110509358_21/slide-02.jpg' alt='Open Hands Tithing Sermon PowerPoint | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1515110509358_21/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

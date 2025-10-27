@@ -1,0 +1,129 @@
+<title>Adorable Purple Dog Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our charming collection of cute purple dog wallpapers! Perfect for pet enthusiasts, these vibrant designs will add a playful touch to your devices. Browse now to find the ideal wallpaper that reflects your love for dogs and brightens up your screen!">
+                    <meta name="keywords" content="cute purple dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/cute-purple-dog-wallpaper">
+                            <span itemprop="name">cute purple dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Purple Dog Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable cute purple dog wallpaper! Perfect for dog lovers and anyone who appreciates unique pet designs, our collection showcases vibrant and playful pups that brighten your screen. Ideal for personalizing your phone or tablet, these wallpapers bring joy and character to your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic dog  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/fc/03/38fc03e556724ed4aa5fb6b4597e6786.jpg' alt='Purple aesthetic dog  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/fc/03/38fc03e556724ed4aa5fb6b4597e6786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Border Collie, small puppy, white black dog ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/5f/21/b35f211186d8712016f5278c2df3f3b4.jpg' alt='Download wallpapers Border Collie, small puppy, white black dog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/5f/21/b35f211186d8712016f5278c2df3f3b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Cute Dog Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20221129/original/pngtree-seamless-decorative-pattern-with-muzzle-and-portraits-of-cute-domestic-dogs-picture-image_1968886.jpg' alt='Purple Cute Dog Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20221129/original/pngtree-seamless-decorative-pattern-with-muzzle-and-portraits-of-cute-domestic-dogs-picture-image_1968886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel purple wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/de/6a/e7/de6ae76b0765acb91ecca1171e6526ce.jpg' alt='Pastel purple wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/de/6a/e7/de6ae76b0765acb91ecca1171e6526ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog image for You">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/2d/b9/f52db918c638e4afb88a2e8a88f4ed4c.jpg' alt='Dog image for You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/2d/b9/f52db918c638e4afb88a2e8a88f4ed4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Flower Baby Animal Dog Animal Puppy HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/102/1023933.jpg' alt='Download Purple Flower Baby Animal Dog Animal Puppy HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/102/1023933.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,600+ Purple Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391267244/photo/funny-puppy-dog-celebrating-birthday-carnival-or-mothers-day-with-a-purple-ribbon-decoration.jpg?s=612x612&w=0&k=20&c=-nswDc2lz485gyZK479nVShLExZ6Z-4Bk_4qbPu0-GQ=' alt='12,600+ Purple Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391267244/photo/funny-puppy-dog-celebrating-birthday-carnival-or-mothers-day-with-a-purple-ribbon-decoration.jpg?s=612x612&w=0&k=20&c=-nswDc2lz485gyZK479nVShLExZ6Z-4Bk_4qbPu0-GQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog, border collie, flowers, happy, purple, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/244/663/HD-wallpaper-dog-border-collie-flowers-happy-purple.jpg' alt='Dog, border collie, flowers, happy, purple, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/244/663/HD-wallpaper-dog-border-collie-flowers-happy-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Flower Baby Animal Puppy Dog Animal Dachshund 4k ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/116/1167736.jpg' alt='Download Purple Flower Baby Animal Puppy Dog Animal Dachshund 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/116/1167736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,600+ Purple Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1389655833/photo/puppy-dog-border-collie-on-multicolored-studio-dark-background-in-neon-gradient-pink-purple.jpg?s=612x612&w=0&k=20&c=Cf7tQ5CZFzVEO6lwFubRapFGWVNvK4v1xS3MaTmu9K0=' alt='12,600+ Purple Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1389655833/photo/puppy-dog-border-collie-on-multicolored-studio-dark-background-in-neon-gradient-pink-purple.jpg?s=612x612&w=0&k=20&c=Cf7tQ5CZFzVEO6lwFubRapFGWVNvK4v1xS3MaTmu9K0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

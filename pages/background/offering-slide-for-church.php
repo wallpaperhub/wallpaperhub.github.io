@@ -1,0 +1,129 @@
+<title>Engaging Offering Slides for Church Services</title>
+                    <meta name="description" content="Discover creative offering slides for church services that inspire generosity and foster community engagement. Learn how to effectively present giving opportunities with visual appeal and meaningful content, enhancing the worship experience and encouraging participation.">
+                    <meta name="keywords" content="offering slide for church">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/offering-slide-for-church">
+                            <span itemprop="name">offering slide for church</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Offering Slides for Church Services</h1>
+                <p>Offering slides for church services are a powerful way to engage the congregation during the giving moment. These visually appealing slides can highlight the purpose of giving, showcase project updates, and inspire generosity. Consider using scripture, images, and clear calls to action to encourage contributions and create a sense of community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes and Offering Church Event Slides | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1356674492144_24/img_mouseover3.jpg' alt='Tithes and Offering Church Event Slides | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1356674492144_24/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes and Offering Sermon PowerPoint for Church | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1369769976196_53/slide-02.jpg' alt='Tithes and Offering Sermon PowerPoint for Church | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1369769976196_53/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes And Offerings Bright Field | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate-1.imgix.net/sermon-graphics/24a3c2d7-f64f-91ca-e52d-5a547332c9b4/preview0.jpg?auto=format&q=40&w=635&s=302adc3846abd2e8ea9bab9db0dbf4e1' alt='Tithes And Offerings Bright Field | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate-1.imgix.net/sermon-graphics/24a3c2d7-f64f-91ca-e52d-5a547332c9b4/preview0.jpg?auto=format&q=40&w=635&s=302adc3846abd2e8ea9bab9db0dbf4e1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tithes-And-Offering-Fall-Twilight_Title-Slide-1 - Ministry Pass">
+                                <img itemprop="contentUrl url" src='https://ministrypass-prod.s3.amazonaws.com/uploads/2019/04/Tithes-And-Offering-Fall-Twilight_Title-Slide-1.jpg' alt='Tithes-And-Offering-Fall-Twilight_Title-Slide-1 - Ministry Pass'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ministry Pass" />
+                                </span>
+                                <a href='https://ministrypass-prod.s3.amazonaws.com/uploads/2019/04/Tithes-And-Offering-Fall-Twilight_Title-Slide-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Preaching Slide: Tithes and Offerings - Wheat ...">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/6502_thumbnail.jpg' alt='Church Preaching Slide: Tithes and Offerings - Wheat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/6502_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Only Christ Offering Still | Playback Media | WorshipHouse Media">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/st/ora/st/onlychristofferingstill.jpg' alt='Only Christ Offering Still | Playback Media | WorshipHouse Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorshipHouse Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/st/ora/st/onlychristofferingstill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Hands Tithing Sermon PowerPoint | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1515110509358_21/slide-02.jpg' alt='Open Hands Tithing Sermon PowerPoint | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1515110509358_21/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 church slide ideas I like | tithing, church, sharefaith">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/50/21/3b/50213b99e4af5027d0075b77aae2f2fc.jpg' alt='8 church slide ideas I like | tithing, church, sharefaith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/50/21/3b/50213b99e4af5027d0075b77aae2f2fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Giving Church Launch - The Free Methodist Church in Canada">
+                                <img itemprop="contentUrl url" src='https://fmcic.ca/wp-content/uploads/Offering-Slide_7.jpg' alt='Digital Giving Church Launch - The Free Methodist Church in Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Free Methodist Church in Canada" />
+                                </span>
+                                <a href='https://fmcic.ca/wp-content/uploads/Offering-Slide_7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Offering Church PowerPoint – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1304046453469_371/slide-02.jpg' alt='ShareFaith Media » Offering Church PowerPoint – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1304046453469_371/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

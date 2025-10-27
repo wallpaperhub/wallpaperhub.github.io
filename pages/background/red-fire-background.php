@@ -1,0 +1,129 @@
+<title>Enhance Your Designs with a Fiery Red Background</title>
+                    <meta name="description" content="Discover the power of a red fire background! Perfect for designs that need to pop, this intense color evokes passion and energy. Use it to captivate your audience across all platforms. Transform your visuals and unleash creativity with this bold choice!">
+                    <meta name="keywords" content="red fire background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-fire-background">
+                            <span itemprop="name">red fire background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Designs with a Fiery Red Background</h1>
+                <p>A red fire background creates a striking visual impact, evoking feelings of warmth, passion, and intensity. It can be used effectively in designs for posters, social media graphics, or websites to draw attention and convey a sense of urgency. The vibrant hue can enhance creativity, making it perfect for artistic expressions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fire Background Images – Browse 2,002,036 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/09/60/14/360_F_809601420_WnRax4mUvIs2Sb6tY5TxpPbT6MRagWt2.jpg' alt='Red Fire Background Images – Browse 2,002,036 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/09/60/14/360_F_809601420_WnRax4mUvIs2Sb6tY5TxpPbT6MRagWt2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fire Background by mrOrlandoMagicFan200 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/dfw5c2r-b4ef0c6e-d883-4678-a42e-e321c83dfe9e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGZ3NWMyci1iNGVmMGM2ZS1kODgzLTQ2NzgtYTQyZS1lMzIxYzgzZGZlOWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.N4gS7XhWfNOvUAoCJn9HFSiUQ2pacbmNXSBlWRTllU0' alt='Red Fire Background by mrOrlandoMagicFan200 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/dfw5c2r-b4ef0c6e-d883-4678-a42e-e321c83dfe9e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGZ3NWMyci1iNGVmMGM2ZS1kODgzLTQ2NzgtYTQyZS1lMzIxYzgzZGZlOWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.N4gS7XhWfNOvUAoCJn9HFSiUQ2pacbmNXSBlWRTllU0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Red Fire Background with Fiery Flames and Intense Heat ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-red-fire-background-fiery-flames-intense-heat-capturing-raw-power-energy-combustion-explore-diverse-322499501.jpg' alt='Abstract Red Fire Background with Fiery Flames and Intense Heat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-red-fire-background-fiery-flames-intense-heat-capturing-raw-power-energy-combustion-explore-diverse-322499501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fire Background Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/fire-flame-with-sparkle-black-background_84443-7822.jpg?semt=ais_hybrid' alt='Red Fire Background Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/fire-flame-with-sparkle-black-background_84443-7822.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smokey Red Flames Digital Paper Background Seamless Texture - Red ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/a9ad55/3622887697/il_fullxfull.3622887697_kddp.jpg' alt='Smokey Red Flames Digital Paper Background Seamless Texture - Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/a9ad55/3622887697/il_fullxfull.3622887697_kddp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Fire Images – Browse 708,062 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/27/20/48/360_F_27204804_W4xfVhxDw5zn9seribLSiwHDbvlkG0Md.jpg' alt='Red And Blue Fire Images – Browse 708,062 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/27/20/48/360_F_27204804_W4xfVhxDw5zn9seribLSiwHDbvlkG0Md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red Fire Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-fire-background-na0r6a991986yftd.jpg' alt='100+] Red Fire Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-fire-background-na0r6a991986yftd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Red Fire Background with Fiery Flames and Intense Heat ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-red-fire-background-fiery-flames-intense-heat-capturing-raw-power-energy-combustion-explore-diverse-322499485.jpg' alt='Abstract Red Fire Background with Fiery Flames and Intense Heat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-red-fire-background-fiery-flames-intense-heat-capturing-raw-power-energy-combustion-explore-diverse-322499485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="479,200+ Red Fire Pics Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/113494458/photo/fire-isolated-over-black-background.jpg?s=612x612&w=0&k=20&c=u6STGsSpJAyBN8kDeqnVUla4-0SnLpdaTsehFsey2p0=' alt='479,200+ Red Fire Pics Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/113494458/photo/fire-isolated-over-black-background.jpg?s=612x612&w=0&k=20&c=u6STGsSpJAyBN8kDeqnVUla4-0SnLpdaTsehFsey2p0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire frame on red background 1852249 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/852/249/large_2x/fire-frame-on-red-background-free-photo.jpg' alt='Fire frame on red background 1852249 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3484">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/852/249/large_2x/fire-frame-on-red-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

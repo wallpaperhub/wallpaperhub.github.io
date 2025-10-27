@@ -1,0 +1,129 @@
+<title>Stunning Dead Space 3 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best Dead Space 3 wallpapers to elevate your device's look. From eerie environments to iconic characters, find stunning visuals that capture the essence of the game. Perfect for fans and gamers alike, transform your screens with these unique and immersive wallpapers today!">
+                    <meta name="keywords" content="dead space 3 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/dead-space-3-wallpaper">
+                            <span itemprop="name">dead space 3 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dead Space 3 Wallpapers for Your Device</h1>
+                <p>Explore the haunting universe of Dead Space 3 with stunning wallpapers that immerse you in the chilling atmosphere of the game. Featuring iconic characters and eerie landscapes, these wallpapers are perfect for bringing a touch of sci-fi horror to your device. Download the perfect Dead Space 3 wallpaper today and enhance your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3 HD Wallpaper: Unleash the Frozen Fear">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/321/321173.jpg' alt='Dead Space 3 HD Wallpaper: Unleash the Frozen Fear'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/321/321173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isaac Clarke: Epic HD Wallpaper from Dead Space 3">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/371/thumb-1920-371382.jpg' alt='Isaac Clarke: Epic HD Wallpaper from Dead Space 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/371/thumb-1920-371382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_dead_space_3_01_ipad.jpg&height=450&width=506&crop-to-fit&sharpen' alt='Dead Space 3 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_dead_space_3_01_ipad.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3 wallpaper - Opera add-ons">
+                                <img itemprop="contentUrl url" src='https://addons-media.operacdn.com/media/CACHE/images/themes/85/87185/1.0-rev1/images/363f20b4-b0b5-48a0-8a8c-5e491022c16e/526631a83314a82643da90f90b388c10.jpg' alt='Dead Space 3 wallpaper - Opera add-ons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opera add-ons" />
+                                </span>
+                                <a href='https://addons-media.operacdn.com/media/CACHE/images/themes/85/87185/1.0-rev1/images/363f20b4-b0b5-48a0-8a8c-5e491022c16e/526631a83314a82643da90f90b388c10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weapons, Armor, Isaac Clarke, Electronic Arts, DLC, Dead ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3840x2155/f/d4/dead-space-3-awakened-mertvoe.jpg' alt='Wallpaper Weapons, Armor, Isaac Clarke, Electronic Arts, DLC, Dead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3840x2155/f/d4/dead-space-3-awakened-mertvoe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3 Wallpaper by Nexus by DubstepDesignsHD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6a7e31-21b4-4b1b-b6e8-9e6eaefd159b/d600q8h-853766c3-b949-4aea-ae28-9b21150d1efb.jpg/v1/fill/w_1024,h_576,q_75,strp/dead_space_3_wallpaper_by_nexus_by_dubstepdesignshd_d600q8h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvM2I2YTdlMzEtMjFiNC00YjFiLWI2ZTgtOWU2ZWFlZmQxNTliXC9kNjAwcThoLTg1Mzc2NmMzLWI5NDktNGFlYS1hZTI4LTliMjExNTBkMWVmYi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BiqU789-x_NIdNJLaWZZLtQ1DTQ6jXyI2FVyPVixNiM' alt='Dead Space 3 Wallpaper by Nexus by DubstepDesignsHD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6a7e31-21b4-4b1b-b6e8-9e6eaefd159b/d600q8h-853766c3-b949-4aea-ae28-9b21150d1efb.jpg/v1/fill/w_1024,h_576,q_75,strp/dead_space_3_wallpaper_by_nexus_by_dubstepdesignshd_d600q8h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvM2I2YTdlMzEtMjFiNC00YjFiLWI2ZTgtOWU2ZWFlZmQxNTliXC9kNjAwcThoLTg1Mzc2NmMzLWI5NDktNGFlYS1hZTI4LTliMjExNTBkMWVmYi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BiqU789-x_NIdNJLaWZZLtQ1DTQ6jXyI2FVyPVixNiM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Dead Space 3 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/371/371773.jpg' alt='Download Video Game Dead Space 3 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/371/371773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3 Live Wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81U+psk57SL.png' alt='Dead Space 3 Live Wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81U+psk57SL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Space 3, A Ten Year Reunion - WayTooManyGames">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/waytoomany.games/wp-content/uploads/2023/02/DS3.jpg?resize=860%2C280&ssl=1' alt='Dead Space 3, A Ten Year Reunion - WayTooManyGames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WayTooManyGames" />
+                                </span>
+                                <a href='https://i0.wp.com/waytoomany.games/wp-content/uploads/2023/02/DS3.jpg?resize=860%2C280&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review From a Gaming Expert: Dead Space 3 – Gray Areas">
+                                <img itemprop="contentUrl url" src='https://grayareas.live/wp-content/uploads/2013/02/dead-space-3-campaign-review1.jpg' alt='Review From a Gaming Expert: Dead Space 3 – Gray Areas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gray Areas" />
+                                </span>
+                                <a href='https://grayareas.live/wp-content/uploads/2013/02/dead-space-3-campaign-review1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

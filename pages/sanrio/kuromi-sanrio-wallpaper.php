@@ -1,0 +1,129 @@
+<title>Cute Kuromi Sanrio Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of adorable Kuromi Sanrio wallpapers! Perfect for expressing your unique style on any device, these wallpapers are vibrant, stylish, and designed for fans of all ages. Upgrade your home screen today with Kuromi's edgy yet cute designs!">
+                    <meta name="keywords" content="kuromi sanrio wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/kuromi-sanrio-wallpaper">
+                            <span itemprop="name">kuromi sanrio wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Kuromi Sanrio Wallpapers for Your Device</h1>
+                <p>Discover the charm of Kuromi with our vibrant Sanrio wallpaper collection! Perfect for fans and those who adore cute, edgy aesthetics, these wallpapers bring a unique flair to your screen. Whether you’re a long-time Kuromi lover or just exploring, our diverse styles will add personality to your device. Transform your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/6b/76/f36b766730d6e36b5533315c4f3e50bd.jpg' alt='Kuromi Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/6b/76/f36b766730d6e36b5533315c4f3e50bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Kuromi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kuromi-ouap9qsclxqc7ngt.jpg' alt='200+] Kuromi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kuromi-ouap9qsclxqc7ngt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="620 Kuromi ideas | hello kitty, sanrio wallpaper, hello kitty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/38/06/49/3806497a390afb47f59f074f47673ed2.jpg' alt='620 Kuromi ideas | hello kitty, sanrio wallpaper, hello kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/38/06/49/3806497a390afb47f59f074f47673ed2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Kuromi Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' alt='Sanrio Kuromi Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio on X: "Take #Kuromi on the go with new backgrounds for your ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fe4l5uNXwAE-vCM?format=jpg&name=4096x4096' alt='Sanrio on X: "Take #Kuromi on the go with new backgrounds for your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="2501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fe4l5uNXwAE-vCM?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute-kuromi-desktop-wallpaper by ashkittycat on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efcd56f5-1acb-4e1b-900d-a411f3b31346/dfsib97-aa021ff8-35e0-4507-9184-2cfffb48a714.jpg/v1/fill/w_1280,h_800,q_75,strp/cute_kuromi_desktop_wallpaper_by_ashkittycat_dfsib97-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZWZjZDU2ZjUtMWFjYi00ZTFiLTkwMGQtYTQxMWYzYjMxMzQ2XC9kZnNpYjk3LWFhMDIxZmY4LTM1ZTAtNDUwNy05MTg0LTJjZmZmYjQ4YTcxNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8c4cBXXmC27xaMaXqIHhuCHHB0xcRS5oFTDxhL2KbO4' alt='Cute-kuromi-desktop-wallpaper by ashkittycat on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efcd56f5-1acb-4e1b-900d-a411f3b31346/dfsib97-aa021ff8-35e0-4507-9184-2cfffb48a714.jpg/v1/fill/w_1280,h_800,q_75,strp/cute_kuromi_desktop_wallpaper_by_ashkittycat_dfsib97-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZWZjZDU2ZjUtMWFjYi00ZTFiLTkwMGQtYTQxMWYzYjMxMzQ2XC9kZnNpYjk3LWFhMDIxZmY4LTM1ZTAtNDUwNy05MTg0LTJjZmZmYjQ4YTcxNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8c4cBXXmC27xaMaXqIHhuCHHB0xcRS5oFTDxhL2KbO4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Kuromi Flying On Baku Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/flying-kuromi-wallpaper-kawaii-hoshi-1536x960.jpg' alt='Kawaii Kuromi Flying On Baku Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/flying-kuromi-wallpaper-kawaii-hoshi-1536x960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Alisa_1991 on Kuromi ☆ BG | Hello kitty iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/32/75/10327500d333168dffb7800cc73762fc.jpg' alt='Pin by Alisa_1991 on Kuromi ☆ BG | Hello kitty iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/32/75/10327500d333168dffb7800cc73762fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Sanrio Kitty, hello, iphone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/547/89/HD-wallpaper-kuromi-sanrio-kitty-hello-iphone.jpg' alt='Kuromi Sanrio Kitty, hello, iphone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/547/89/HD-wallpaper-kuromi-sanrio-kitty-hello-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper 4K, Cartoon, Hello Kitty">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kuromi-hello-kitty-2880x1800-9493.png' alt='Kuromi Wallpaper 4K, Cartoon, Hello Kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kuromi-hello-kitty-2880x1800-9493.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

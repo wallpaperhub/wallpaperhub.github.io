@@ -1,0 +1,129 @@
+<title>Minimalist Plant iPhone Wallpaper: Nature Meets Style</title>
+                    <meta name="description" content="Elevate your iPhone's look with our minimalist plant wallpapers. Featuring chic designs that blend nature with simplicity, these wallpapers are perfect for creating a calming atmosphere on your screen. Discover the perfect blend of style and tranquility today!">
+                    <meta name="keywords" content="minimalist plant iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/minimalist-plant-iphone-wallpaper">
+                            <span itemprop="name">minimalist plant iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist Plant iPhone Wallpaper: Nature Meets Style</h1>
+                <p>Discover the beauty of simplicity with our minimalist plant iPhone wallpaper collection. These serene designs feature lush greenery and elegant plant silhouettes that enhance your device's aesthetic without overwhelming it. Perfect for nature lovers and those seeking calm, these wallpapers bring a touch of tranquility to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic plant wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' alt='Minimalistic plant wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green leafed plant iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/e5/b9/ebe5b94ecb275377ea52fb79796ac934.jpg' alt='green leafed plant iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/e5/b9/ebe5b94ecb275377ea52fb79796ac934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable plant wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3ws9dcmE/1/0/450w/canva-light-gray-and-green-plant-phone-wallpaper-JHHAEhD0cVs.jpg' alt='Free and customizable plant wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3ws9dcmE/1/0/450w/canva-light-gray-and-green-plant-phone-wallpaper-JHHAEhD0cVs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Minimal iPhone wallpaper, white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/5c/d0/bb5cd044932a957374d3d65cd180eeb6.jpg' alt='Download premium image of Minimal iPhone wallpaper, white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/5c/d0/bb5cd044932a957374d3d65cd180eeb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plant Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plant-iphone-zp4mdfpnp1aa0p75.jpg' alt='100+] Plant Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plant-iphone-zp4mdfpnp1aa0p75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaves Iphone In The Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/monstera-leaves-iphone-9qiwis3w3ozjtqk9.webp' alt='Leaves Iphone In The Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/monstera-leaves-iphone-9qiwis3w3ozjtqk9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plant, leaves, wall, minimalism, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/868/910/HD-wallpaper-plant-leaves-wall-minimalism.jpg' alt='Plant, leaves, wall, minimalism, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/868/910/HD-wallpaper-plant-leaves-wall-minimalism.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Minimal Plant Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533038590840-1cde6e668a91?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1pbmltYWwlMjBwbGFudHxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Minimal Plant Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533038590840-1cde6e668a91?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1pbmltYWwlMjBwbGFudHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Minimalist Plant On Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/minimalist-plant-on-a-table-top-baby-colors-best-of-2024-and-2025-wallpapers-for-your-apple-ios-iphone-x-11-12-13-14-15-and-16-including-plus-pro-pro-max-and-se-30-11-2024-1733012072-hd-wallpaper.webp' alt='Most Popular Minimalist Plant On Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/minimalist-plant-on-a-table-top-baby-colors-best-of-2024-and-2025-wallpapers-for-your-apple-ios-iphone-x-11-12-13-14-15-and-16-including-plus-pro-pro-max-and-se-30-11-2024-1733012072-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Aesthetic Green Rubber Plant Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minimalist-aesthetic-green-rubber-plant-t2ifwkyzjx2zfkd3.jpg' alt='Minimalist Aesthetic Green Rubber Plant Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minimalist-aesthetic-green-rubber-plant-t2ifwkyzjx2zfkd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

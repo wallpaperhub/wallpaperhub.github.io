@@ -1,0 +1,129 @@
+<title>Superman Wallpaper for iPhone: Heroic Designs</title>
+                    <meta name="description" content="Discover the best Superman wallpaper for your iPhone! Explore a collection of dynamic and vibrant designs that capture the essence of the iconic superhero. Perfect for fans looking to add a heroic touch to their devices, these wallpapers are easy to download and customize. Embrace your inner hero today!">
+                    <meta name="keywords" content="iphone superman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-superman-wallpaper">
+                            <span itemprop="name">iphone superman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Superman Wallpaper for iPhone: Heroic Designs</h1>
+                <p>Transform your iPhone with stunning Superman wallpaper! Featuring the iconic superhero in action, these vibrant designs bring a touch of heroism to your device. Whether you're a lifelong fan or new to the Superman craze, these wallpapers will inspire and motivate you every day. Elevate your smartphone aesthetic now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy the new Superman Wallpaper for your iphones in 4k : r/superman">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p4ic4wgq329e1.jpeg' alt='Enjoy the new Superman Wallpaper for your iphones in 4k : r/superman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p4ic4wgq329e1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Grunge iPhone 11 Pro Max Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/iphone/iphone-11/images/640/superman-grunge-iphone-11-pro-max-wallpaper.png' alt='Superman Grunge iPhone 11 Pro Max Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/iphone/iphone-11/images/640/superman-grunge-iphone-11-pro-max-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Gaming Glowing Superman Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-gaming-glowing-superman-tmrzi8632xm9nxdx.jpg' alt='Iphone Gaming Glowing Superman Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-gaming-glowing-superman-tmrzi8632xm9nxdx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Gunn shares phone friendly wallpaper version of the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bb5jrnlfkccd1.jpeg' alt='James Gunn shares phone friendly wallpaper version of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bb5jrnlfkccd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman And Superman Symbol Iphone Metallic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/batman-and-superman-symbol-iphone-metallic-d13dl1mdue2hzhp4.jpg' alt='Batman And Superman Symbol Iphone Metallic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/batman-and-superman-symbol-iphone-metallic-d13dl1mdue2hzhp4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman iPhone 11 Wallpaper | iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/superman.png' alt='Superman iPhone 11 Wallpaper | iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/superman.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Kai2day's Design By Humans Collective Store">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/fc/e1/d4fce105b66d97e2a5d2c4983cc3a482.jpg' alt='Shop Kai2day's Design By Humans Collective Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/fc/e1/d4fce105b66d97e2a5d2c4983cc3a482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Textured Superman Symbol Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-textured-superman-symbol-iphone-puil3mi77anulqnh.jpg' alt='Dark Textured Superman Symbol Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-textured-superman-symbol-iphone-puil3mi77anulqnh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Superman Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/superman-iphone-e6a75xjwzb4oltl8.jpg' alt='100+] Superman Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/superman-iphone-e6a75xjwzb4oltl8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Belle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57afa154440243d6c7e92525/18171570-5ac3-4602-a76e-53bd5467b5d1/Superman+wallpaper+7.png' alt='Jonathan Belle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="3168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jonathan Belle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57afa154440243d6c7e92525/18171570-5ac3-4602-a76e-53bd5467b5d1/Superman+wallpaper+7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

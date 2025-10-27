@@ -1,0 +1,129 @@
+<title>Discover St. Louis History: From Founding to Iconic Landmarks</title>
+                    <meta name="description" content="Explore the intriguing history of St. Louis, from its founding in 1764 to its role in shaping American expansion. Uncover unique events, cultural milestones, and the significance of landmarks like the Gateway Arch in this vibrant city.">
+                    <meta name="keywords" content="st louis history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/st-louis-history">
+                            <span itemprop="name">st louis history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover St. Louis History: From Founding to Iconic Landmarks</h1>
+                <p>St. Louis, founded in 1764, boasts a rich history marked by its strategic location on the Mississippi River. It flourished as a trade hub, played a key role in westward expansion, and witnessed significant events like the 1904 World's Fair. Its iconic Gateway Arch symbolizes both innovation and the spirit of exploration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Louis | Gateway to the West & Home of the Blues | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/24/70924-050-0C100798/street-Louisiana-Purchase-Exposition-Missouri-St-Louis-1904.jpg' alt='St. Louis | Gateway to the West & Home of the Blues | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1166">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/24/70924-050-0C100798/street-Louisiana-Purchase-Exposition-Missouri-St-Louis-1904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A history of St. Louis">
+                                <img itemprop="contentUrl url" src='https://www.museum.state.il.us/RiverWeb/landings/Ambot/Archives/History69/cover.gif' alt='A history of St. Louis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Illinois State Museum" />
+                                </span>
+                                <a href='https://www.museum.state.il.us/RiverWeb/landings/Ambot/Archives/History69/cover.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Founding of St. Louis | Laclede's Landing">
+                                <img itemprop="contentUrl url" src='https://www.lacledeslanding.com/wp-content/uploads/2020/06/Founding-of-St-Louis.jpg' alt='The Founding of St. Louis | Laclede's Landing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laclede's Landing" />
+                                </span>
+                                <a href='https://www.lacledeslanding.com/wp-content/uploads/2020/06/Founding-of-St-Louis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of St. Louis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/St._Louis_riverfront_after_demolition_for_Gateway_Arch_%281942%29.jpg/220px-St._Louis_riverfront_after_demolition_for_Gateway_Arch_%281942%29.jpg' alt='History of St. Louis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/St._Louis_riverfront_after_demolition_for_Gateway_Arch_%281942%29.jpg/220px-St._Louis_riverfront_after_demolition_for_Gateway_Arch_%281942%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These Historical Photos Show How Much St. Louis Has Changed | STLPR">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/aa61afd/2147483647/strip/true/crop/823x507+102+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwmu%2Ffiles%2F201405%2Fballons.jpg' alt='These Historical Photos Show How Much St. Louis Has Changed | STLPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="STLPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/aa61afd/2147483647/strip/true/crop/823x507+102+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwmu%2Ffiles%2F201405%2Fballons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - St Louis MI">
+                                <img itemprop="contentUrl url" src='https://www.stlouismi.com/wp-content/uploads/bb-plugin/cache/oldMILLSTR11-landscape-afe4964d43746ba0effd68c925fb4a49-602e3e708efc8.jpg' alt='History - St Louis MI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St Louis MI" />
+                                </span>
+                                <a href='https://www.stlouismi.com/wp-content/uploads/bb-plugin/cache/oldMILLSTR11-landscape-afe4964d43746ba0effd68c925fb4a49-602e3e708efc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of St. Louis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Das_illustrirte_Mississippithal_-_dargestellt_in_80_nach_der_natur_aufgenommenen_ansichten_vom_wasserfalle_zu_St._Anthony_an_bis_zum_gulf_von_Mexico_%281857%29_%2814774698314%29.jpg/220px-thumbnail.jpg' alt='History of St. Louis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Das_illustrirte_Mississippithal_-_dargestellt_in_80_nach_der_natur_aufgenommenen_ansichten_vom_wasserfalle_zu_St._Anthony_an_bis_zum_gulf_von_Mexico_%281857%29_%2814774698314%29.jpg/220px-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The City of St. Louis founded 259 years ago | ksdk.com">
+                                <img itemprop="contentUrl url" src='https://media.ksdk.com/assets/KSDK/images/95e8d326-5162-4ae3-b9d0-b94b37212a4c/95e8d326-5162-4ae3-b9d0-b94b37212a4c_1140x641.jpg' alt='The City of St. Louis founded 259 years ago | ksdk.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSDK" />
+                                </span>
+                                <a href='https://media.ksdk.com/assets/KSDK/images/95e8d326-5162-4ae3-b9d0-b94b37212a4c/95e8d326-5162-4ae3-b9d0-b94b37212a4c_1140x641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gateway Arch 'Biography' Reveals Complex History Of An American ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2013/05/24/ap650925031-b5786551719295cdfb8d18d5585b137d1c0c9af3.jpg?s=800&c=85&f=jpeg' alt='Gateway Arch 'Biography' Reveals Complex History Of An American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2013/05/24/ap650925031-b5786551719295cdfb8d18d5585b137d1c0c9af3.jpg?s=800&c=85&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000 Years of St. Louis Area History in 10 minutes! (1904 Worlds Fair  Footage!)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xNhsx4c0tuo/maxresdefault.jpg' alt='1,000 Years of St. Louis Area History in 10 minutes! (1904 Worlds Fair  Footage!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xNhsx4c0tuo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

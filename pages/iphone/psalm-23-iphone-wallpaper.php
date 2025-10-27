@@ -1,0 +1,129 @@
+<title>Inspiring Psalm 23 iPhone Wallpaper for Daily Motivation</title>
+                    <meta name="description" content="Discover the perfect Psalm 23 iPhone wallpaper that inspires peace and faith. This visually captivating design serves as a daily reminder of guidance and protection, enhancing your device while uplifting your spirit. Download now for an inspiring daily boost!">
+                    <meta name="keywords" content="psalm 23 iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/psalm-23-iphone-wallpaper">
+                            <span itemprop="name">psalm 23 iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Psalm 23 iPhone Wallpaper for Daily Motivation</h1>
+                <p>Enhance your device with a Psalm 23 iPhone wallpaper that radiates peace and comfort. This beautiful design features the inspiring verses of the beloved Psalm, reminding you of divine guidance and protection. Perfect for daily motivation, this wallpaper keeps your faith front and center while adding a serene touch to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalms 23 wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/fe/39/e2fe391b2362ab36fc3e55c369d6644b.jpg' alt='Psalms 23 wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/fe/39/e2fe391b2362ab36fc3e55c369d6644b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 23 Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/f8/26/edf8267c3a50a2a85b2e72fd4e9d6f1f.jpg' alt='Psalm 23 Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/f8/26/edf8267c3a50a2a85b2e72fd4e9d6f1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twilight Psalm 23:1-3 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Twilight_Psalm_23_Web-1.png' alt='Twilight Psalm 23:1-3 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Twilight_Psalm_23_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Images for Your Encouragement | Psalm 23:1">
+                                <img itemprop="contentUrl url" src='https://presencepoint.com/wp-content/uploads/2021/09/iPh11_828x1792_Ps23.png' alt='Wallpaper Images for Your Encouragement | Psalm 23:1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Presence Point" />
+                                </span>
+                                <a href='https://presencepoint.com/wp-content/uploads/2021/09/iPh11_828x1792_Ps23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 23, bible, verses, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/847/78/HD-wallpaper-psalm-23-bible-verses.jpg' alt='Psalm 23, bible, verses, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/847/78/HD-wallpaper-psalm-23-bible-verses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 23 Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/61/92/80/619280f248cb4b49792a1baa3dbfcf2b.jpg' alt='Psalm 23 Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1139">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/61/92/80/619280f248cb4b49792a1baa3dbfcf2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSALM 23 | Orangewood Church">
+                                <img itemprop="contentUrl url" src='https://thechurchco-production.s3.amazonaws.com/uploads/sites/2676/2022/05/Ps23_lockscreen.jpg' alt='PSALM 23 | Orangewood Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3750">
+                                <meta itemprop="height" content="6667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orangewood Church" />
+                                </span>
+                                <a href='https://thechurchco-production.s3.amazonaws.com/uploads/sites/2676/2022/05/Ps23_lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Wood Psalm 23:1-3 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Daisy_Wood_Psalm_23_Web-1.jpg' alt='Daisy Wood Psalm 23:1-3 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Daisy_Wood_Psalm_23_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 23 - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/52083-psalm23.1100w.tn.jpg' alt='Psalm 23 - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/52083-psalm23.1100w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 23 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4508060.jpg' alt='Psalm 23 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4508060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

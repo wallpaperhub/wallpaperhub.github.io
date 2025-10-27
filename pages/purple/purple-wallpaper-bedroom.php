@@ -1,0 +1,129 @@
+<title>Elegant Purple Wallpaper Ideas for Your Bedroom</title>
+                    <meta name="description" content="Add a touch of elegance to your bedroom with stunning purple wallpaper. Discover design ideas that harmonize relaxation and creativity, creating a perfect retreat. Learn how to decorate effectively to enhance ambiance and style. Explore now for inspiration that transforms your space into a serene sanctuary!">
+                    <meta name="keywords" content="purple wallpaper bedroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-wallpaper-bedroom">
+                            <span itemprop="name">purple wallpaper bedroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Wallpaper Ideas for Your Bedroom</h1>
+                <p>Transform your bedroom into a serene sanctuary with purple wallpaper. This rich color evokes relaxation and creativity, making it perfect for a calming space. Complement with soft furnishings and decor to create a cohesive look. Whether bold or muted, purple wallpaper brings elegance and personality to your bedroom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Purple Colour Wallpaper: Elevating Your Space with Elegance">
+                                <img itemprop="contentUrl url" src='https://d3mbwbgtcl4x70.cloudfront.net/Screenshot_2024_11_12_183854_d6214cb2a8.webp' alt='10+ Purple Colour Wallpaper: Elevating Your Space with Elegance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1107">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jugyah" />
+                                </span>
+                                <a href='https://d3mbwbgtcl4x70.cloudfront.net/Screenshot_2024_11_12_183854_d6214cb2a8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Purple Star Wallpaper Mural, Galaxy Planets That Peel and Stick  Large Wallpaper Mural, Suitable for Bedroom Living Room Children's Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811S8IugHNL._AC_UF894,1000_QL80_.jpg' alt='Custom Purple Star Wallpaper Mural, Galaxy Planets That Peel and Stick  Large Wallpaper Mural, Suitable for Bedroom Living Room Children's Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811S8IugHNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' alt='Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Magical purple heather Peel and Stick Removable  Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Magical-purple-heather-Peel-and-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_65c998bc-540d-461b-b6b1-746675db57f9.bd8041148d39483d599a7ae25b1b496d.jpeg' alt='Modern Wallpaper Murals 3D Magical purple heather Peel and Stick Removable  Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Magical-purple-heather-Peel-and-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_65c998bc-540d-461b-b6b1-746675db57f9.bd8041148d39483d599a7ae25b1b496d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/485673/pr22/2/414/purple-glitter-purple-glitter-wallpaper.jpg' alt='Purple Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/485673/pr22/2/414/purple-glitter-purple-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/35a0b9/2906735116/il_570xN.2906735116_ltdp.jpg' alt='Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/35a0b9/2906735116/il_570xN.2906735116_ltdp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Black Peony Floral Wallpaper Bedroom Purple Botanical  Flowers Leaf murals Living Room tv Background Large Wall Mural Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714nEl8nrEL.jpg' alt='Amazon.com: BZHXBZ - Black Peony Floral Wallpaper Bedroom Purple Botanical  Flowers Leaf murals Living Room tv Background Large Wall Mural Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714nEl8nrEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' alt='Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1326">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Purple Marble Effect Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/abstract-crack-wall-mural-lounge_217aac69-3899-4d4a-81c5-afebd2bce21d.jpg?v=1675324187&width=1445' alt='Abstract Purple Marble Effect Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/abstract-crack-wall-mural-lounge_217aac69-3899-4d4a-81c5-afebd2bce21d.jpg?v=1675324187&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067">
+                                <img itemprop="contentUrl url" src='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' alt='Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tualca" />
+                                </span>
+                                <a href='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Floral Wallpaper Patterns: Elegance for Every Room</title>
+                    <meta name="description" content="Add charm to your home with our stunning floral wallpaper patterns. Discover vibrant designs that brighten up spaces, enhance decor, and create a warm, inviting atmosphere. Perfect for any room, these wallpapers showcase your personality while adding a touch of nature indoors.">
+                    <meta name="keywords" content="wallpaper floral pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/wallpaper-floral-pattern">
+                            <span itemprop="name">wallpaper floral pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Floral Wallpaper Patterns: Elegance for Every Room</h1>
+                <p>Transform your space with beautiful floral wallpaper patterns that bring life and color to any room. Whether you prefer vibrant blooms or subtle botanical prints, floral designs offer a timeless elegance. Perfect for accent walls, these wallpapers create a warm, inviting atmosphere while expressing your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' alt='Dark Floral II Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Camellia Wildflower Floral Wallpaper Peel and Stick Wallpaper  Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3", White ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818sHXztwtL._AC_UF894,1000_QL80_.jpg' alt='Black White Camellia Wildflower Floral Wallpaper Peel and Stick Wallpaper  Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3", White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818sHXztwtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Floral Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' alt='Wildflowers Floral Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery Garden - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0614_1s_Elegant-pink-and-light-taupe-floral-pattern-wallpaper-Gallery-Garden_Repeating-Pattern-Sample-1.jpg?v=1734715564' alt='Gallery Garden - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0614_1s_Elegant-pink-and-light-taupe-floral-pattern-wallpaper-Gallery-Garden_Repeating-Pattern-Sample-1.jpg?v=1734715564' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall NW45702 Vintage Floral Navy Blue Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250901.jpg' alt='NextWall NW45702 Vintage Floral Navy Blue Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Floral Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-883597.jpg?v=1716312335' alt='Big Floral Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-883597.jpg?v=1716312335' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Classic Minimalist Floral Wallpaper R9303">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' alt='Green Classic Minimalist Floral Wallpaper R9303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caltero Large Floral Peel and Stick Wallpaper Vintage Floral Wallpaper Boho  Floral Contact Paper Leaf Wallpaper Self Adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Caltero-Large-Floral-Peel-Stick-Wallpaper-Vintage-Boho-Contact-Paper-Leaf-Self-Adhesive-Removable-Wallpaper-17-71-x-118_c6f7c70b-511f-42c2-bcdf-04658f712227.5c7490a82b79588cc4c8a5e230e2ed35.jpeg' alt='Caltero Large Floral Peel and Stick Wallpaper Vintage Floral Wallpaper Boho  Floral Contact Paper Leaf Wallpaper Self Adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Caltero-Large-Floral-Peel-Stick-Wallpaper-Vintage-Boho-Contact-Paper-Leaf-Self-Adhesive-Removable-Wallpaper-17-71-x-118_c6f7c70b-511f-42c2-bcdf-04658f712227.5c7490a82b79588cc4c8a5e230e2ed35.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick- Farm Floral Wall Wallpaper, Wildwood  Wallpaper Daisy Flower Wallpaper Dark Floral Contact Paper Stick On  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81EFgySFnCL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick- Farm Floral Wall Wallpaper, Wildwood  Wallpaper Daisy Flower Wallpaper Dark Floral Contact Paper Stick On  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81EFgySFnCL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' alt='Muted Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

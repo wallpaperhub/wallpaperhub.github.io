@@ -1,0 +1,129 @@
+<title>Stunning Scenic Wallpaper: Elevate Your Walls</title>
+                    <meta name="description" content="Discover the beauty of scenic wallpaper for walls! From serene landscapes to vibrant cityscapes, our collection enhances your home decor with style. Perfect for creating a unique atmosphere, these wallpapers bring captivating views indoors. Explore options that inspire and transform your space today!">
+                    <meta name="keywords" content="scenic wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/scenic-wallpaper-for-walls">
+                            <span itemprop="name">scenic wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Scenic Wallpaper: Elevate Your Walls</h1>
+                <p>Transform your space with stunning scenic wallpaper! Whether it's a serene forest, a vibrant city skyline, or breathtaking mountains, these wall coverings add depth and personality to any room. Perfect for creating a calming atmosphere or making a bold statement, scenic wallpapers are a stylish choice that enchants and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fightal - Beautiful Nature Jungle Landscape Forest Wallpaper Living Room  Woodland feng Shui Scenic Lake Large Wall Mural Bedroom Waterfall Scenery  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lgzsv8DUL.jpg' alt='Fightal - Beautiful Nature Jungle Landscape Forest Wallpaper Living Room  Woodland feng Shui Scenic Lake Large Wall Mural Bedroom Waterfall Scenery  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lgzsv8DUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scenic Wallpaper Murals of Landscape and Nature – Eazywallz">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Autumn-Forest-2-Wall-Mural-2_859e0594-2c03-4024-afd5-b07e9a4e9cf4_1000x.jpg?v=1628807149' alt='Scenic Wallpaper Murals of Landscape and Nature – Eazywallz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Autumn-Forest-2-Wall-Mural-2_859e0594-2c03-4024-afd5-b07e9a4e9cf4_1000x.jpg?v=1628807149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fightal - Beautiful Nature Jungle Landscape Forest Wallpaper Living Room  Woodland feng Shui Scenic Lake Large Wall Mural Bedroom Waterfall Scenery  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mCSMg1ZKL.jpg' alt='Fightal - Beautiful Nature Jungle Landscape Forest Wallpaper Living Room  Woodland feng Shui Scenic Lake Large Wall Mural Bedroom Waterfall Scenery  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mCSMg1ZKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scenic Wall Mural, Vintage Forest Scene Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10833868/r/il/73bebc/4248112768/il_570xN.4248112768_9jgt.jpg' alt='Vintage Scenic Wall Mural, Vintage Forest Scene Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10833868/r/il/73bebc/4248112768/il_570xN.4248112768_9jgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Scenic Landscape Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/3/13_4_1.jpg' alt='Mountain Scenic Landscape Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/3/13_4_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scenic Landscape">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/63424/landscape/wallpaper/room43.jpg?w=2000&q=80' alt='Scenic Landscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/63424/landscape/wallpaper/room43.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Wall Murals for Home Decor | Ever Wallpaper US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/collections/nature-landscape-wallpaper-for-home-decor.jpg?v=1660291864&width=750' alt='Landscape Wall Murals for Home Decor | Ever Wallpaper US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/collections/nature-landscape-wallpaper-for-home-decor.jpg?v=1660291864&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village Landscape Oil Painting Mural Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/999e81/4066804280/il_fullxfull.4066804280_wzyv.jpg' alt='Village Landscape Oil Painting Mural Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2434">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/999e81/4066804280/il_fullxfull.4066804280_wzyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Scenic Wallpaper Vintage Wall Mural YD-04013">
+                                <img itemprop="contentUrl url" src='https://tualca.com/cdn/shop/files/Landscape_Scenic_Wallpaper_Vintage_Wall_Mural_YD-04013_4.jpg?v=1724161497&width=1946' alt='Landscape Scenic Wallpaper Vintage Wall Mural YD-04013'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tualca" />
+                                </span>
+                                <a href='https://tualca.com/cdn/shop/files/Landscape_Scenic_Wallpaper_Vintage_Wall_Mural_YD-04013_4.jpg?v=1724161497&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reyhui Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large  Nature Scenery Wall Mural for Living Room (not self-Adhesive) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X6LQdEMNL.jpg' alt='Reyhui Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large  Nature Scenery Wall Mural for Living Room (not self-Adhesive) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X6LQdEMNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

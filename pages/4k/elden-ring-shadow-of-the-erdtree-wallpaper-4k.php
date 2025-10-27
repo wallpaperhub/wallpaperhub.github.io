@@ -1,0 +1,129 @@
+<title>Elden Ring Shadow of the Erdtree 4K Wallpaper</title>
+                    <meta name="description" content="Discover high-quality 4K wallpapers featuring Elden Ring: Shadow of the Erdtree. Elevate your screens with captivating visuals that bring the game's enchanting world to life. Perfect for gamers and fans looking to enhance their devices with striking art and fantasy elements.">
+                    <meta name="keywords" content="elden ring shadow of the erdtree wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/elden-ring-shadow-of-the-erdtree-wallpaper-4k">
+                            <span itemprop="name">elden ring shadow of the erdtree wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elden Ring Shadow of the Erdtree 4K Wallpaper</h1>
+                <p>Transform your device with stunning 4K wallpapers from Elden Ring: Shadow of the Erdtree. Explore breathtaking visuals that capture the dark fantasy essence of the game, showcasing epic landscapes and intricate character designs. Perfect for fans eager to immerse themselves in this captivating universe every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows of the Erdrtree 4K Wallpaper (16:9 | 21:9) : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/shadows-of-the-erdrtree-4k-wallpaper-16-9-21-9-v0-azar7iszbwka1.png?width=3840&format=png&auto=webp&s=8780496592ce2e05cc6621d477c9b86c68d409e7' alt='Shadows of the Erdrtree 4K Wallpaper (16:9 | 21:9) : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/shadows-of-the-erdrtree-4k-wallpaper-16-9-21-9-v0-azar7iszbwka1.png?width=3840&format=png&auto=webp&s=8780496592ce2e05cc6621d477c9b86c68d409e7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-5y0dp40ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=2cbe2de9100a3d77ed5d1efd48d0cba9c47afa6b' alt='Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-5y0dp40ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=2cbe2de9100a3d77ed5d1efd48d0cba9c47afa6b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Elden Ring Shadow of the Erdtree - 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Elden Ring Shadow of the Erdtree - 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-ye7dv70ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=54ba4e532389c712096d4f53fbe5220d7e45aea9' alt='Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-ye7dv70ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=54ba4e532389c712096d4f53fbe5220d7e45aea9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring: Shadow of the Erdtree 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/136/1363595.jpeg' alt='Elden Ring: Shadow of the Erdtree 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/136/1363595.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Erdtree Wallpaper. : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/shadow-of-the-erdtree-wallpaper-v0-akq4cc5zq58d1.jpg?width=3840&format=pjpg&auto=webp&s=e7bf7bff1adaa3ff61504656c6f55d5dca5f84be' alt='Shadow of the Erdtree Wallpaper. : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/shadow-of-the-erdtree-wallpaper-v0-akq4cc5zq58d1.jpg?width=3840&format=pjpg&auto=webp&s=e7bf7bff1adaa3ff61504656c6f55d5dca5f84be' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::ELDEN RING SHADOW OF THE ERDTREE 4K">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2489997933111747427/86C54F1D19A7C4CE62696F08C8E3A288AB239233/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::ELDEN RING SHADOW OF THE ERDTREE 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2489997933111747427/86C54F1D19A7C4CE62696F08C8E3A288AB239233/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's like 100 MORE environment screenshots in 4K to use as ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/heres-like-100-more-environment-screenshots-in-4k-to-use-as-v0-OdiurmQhB7HNiEZLKdDxwcU_F3qizHXF0Qun8S1RejQ.jpg?auto=webp&s=5469e972b0297a27e7071e86d39ccd48472681bc' alt='Here's like 100 MORE environment screenshots in 4K to use as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/heres-like-100-more-environment-screenshots-in-4k-to-use-as-v0-OdiurmQhB7HNiEZLKdDxwcU_F3qizHXF0Qun8S1RejQ.jpg?auto=webp&s=5469e972b0297a27e7071e86d39ccd48472681bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-wyue2j0ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=e81a35e53a38ade6e03b0f399400af1f61cbb510' alt='Shadow of the Erdtree | Landscape 4K Wallpapers : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shadow-of-the-erdtree-landscape-4k-wallpapers-v0-wyue2j0ifq8d1.jpg?width=4096&format=pjpg&auto=webp&s=e81a35e53a38ade6e03b0f399400af1f61cbb510' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamie Moran on X: "Elden Ring Shadow of the Erdtree New 4K in Game ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GG6HFc4W8AAmid_.jpg:large' alt='Jamie Moran on X: "Elden Ring Shadow of the Erdtree New 4K in Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GG6HFc4W8AAmid_.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

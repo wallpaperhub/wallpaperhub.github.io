@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="original xbox background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/original-xbox-background">
+                            <span itemprop="name">original xbox background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For All You Original Xbox Fans! Microsoft Has Just Added A Dynamic ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/880qkyx8w2z61.jpg' alt='For All You Original Xbox Fans! Microsoft Has Just Added A Dynamic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/880qkyx8w2z61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Xbox Wallpaper by fartchicken22 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6c094e6b-351b-47aa-8222-25c337e1ac74/dh9ehks-cb48cadc-ef2f-4f5f-ba45-64db8e94b791.png' alt='Original Xbox Wallpaper by fartchicken22 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6c094e6b-351b-47aa-8222-25c337e1ac74/dh9ehks-cb48cadc-ef2f-4f5f-ba45-64db8e94b791.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relive The Past With A Free Original Xbox Dynamic Theme On Series ...">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/05/OG-Xbox-Dashboard.jpg' alt='Relive The Past With A Free Original Xbox Dynamic Theme On Series ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/05/OG-Xbox-Dashboard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The original Xbox background is here to haunt the Xbox Series X ...">
+                                <img itemprop="contentUrl url" src='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22509331/Screen_Shot_2021_05_12_at_9.12.40_AM.png?quality=90&strip=all&crop=11.65625,0,76.6875,100' alt='The original Xbox background is here to haunt the Xbox Series X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Verge" />
+                                </span>
+                                <a href='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22509331/Screen_Shot_2021_05_12_at_9.12.40_AM.png?quality=90&strip=all&crop=11.65625,0,76.6875,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Backgrounds at Xbox — Arlen Pringle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/53a24656e4b0a181d6550c16/781ec498-8e57-4331-841a-af88f478d994/Garrion_Template-TheOriginal_2340x1326.jpg' alt='Dynamic Backgrounds at Xbox — Arlen Pringle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="1326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arlen Pringle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/53a24656e4b0a181d6550c16/781ec498-8e57-4331-841a-af88f478d994/Garrion_Template-TheOriginal_2340x1326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone still find the OG Xbox dashboard, futuristic and So ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8lhrjontf0581.jpg' alt='Does anyone still find the OG Xbox dashboard, futuristic and So ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8lhrjontf0581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 custom Xbox One backgrounds | VentureBeat">
+                                <img itemprop="contentUrl url" src='https://venturebeat.com/wp-content/uploads/2014/11/xboxone-originalxbox-template.jpg' alt='8 custom Xbox One backgrounds | VentureBeat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VentureBeat" />
+                                </span>
+                                <a href='https://venturebeat.com/wp-content/uploads/2014/11/xboxone-originalxbox-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original XBOX BIOS Wallpaper 2 by SamBox436 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfr287o-65000509-16d6-4d9f-a5d4-313f2f1471c7.png/v1/fill/w_1192,h_670,q_70,strp/original_xbox_bios_wallpaper_2_by_sambox436_dfr287o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnIyODdvLTY1MDAwNTA5LTE2ZDYtNGQ5Zi1hNWQ0LTMxM2YyZjE0NzFjNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tILu1Fv-hgKQKgJK0w2wz4U-WMvDaEw-c-RQ6KPFVgo' alt='Original XBOX BIOS Wallpaper 2 by SamBox436 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfr287o-65000509-16d6-4d9f-a5d4-313f2f1471c7.png/v1/fill/w_1192,h_670,q_70,strp/original_xbox_bios_wallpaper_2_by_sambox436_dfr287o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnIyODdvLTY1MDAwNTA5LTE2ZDYtNGQ5Zi1hNWQ0LTMxM2YyZjE0NzFjNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tILu1Fv-hgKQKgJK0w2wz4U-WMvDaEw-c-RQ6KPFVgo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In the Game: Eerie Echoes from the Past--Unraveling the Enigma of ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/biffbampop.com/wp-content/uploads/2023/05/xboxscreen002.png?fit=2495%2C1413&ssl=1' alt='In the Game: Eerie Echoes from the Past--Unraveling the Enigma of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2495">
+                                <meta itemprop="height" content="1413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biff Bam Pop!" />
+                                </span>
+                                <a href='https://i0.wp.com/biffbampop.com/wp-content/uploads/2023/05/xboxscreen002.png?fit=2495%2C1413&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xbox Series X/S gets original Xbox-themed dynamic background ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/tMt48dcCfDuUxX6GnHTKVc.jpg' alt='Xbox Series X/S gets original Xbox-themed dynamic background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/tMt48dcCfDuUxX6GnHTKVc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

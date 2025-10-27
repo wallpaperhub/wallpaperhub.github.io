@@ -1,0 +1,129 @@
+<title>Discover the Vibrant World of Sprayground Backpacks</title>
+                    <meta name="description" content="Explore Sprayground's innovative backpacks that combine art and functionality. Ideal for those who want to stand out, these bags are designed with striking graphics and durable materials, perfect for everyday use and self-expression.">
+                    <meta name="keywords" content="sprayground">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sprayground">
+                            <span itemprop="name">sprayground</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Vibrant World of Sprayground Backpacks</h1>
+                <p>Sprayground is a unique brand revolutionizing the backpack industry with vibrant, eye-catching designs that blend art and fashion. Designed for self-expression, these bags feature playful graphics and durable materials. Perfect for kids and adults alike, Sprayground elevates everyday carry with style and flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground Drip Checkerboard Shark Backpack | Liberty Center">
+                                <img itemprop="contentUrl url" src='https://scene7.zumiez.com/is/image/zumiez/product_main_medium_2x/Sprayground-Drip-Checkerboard-Shark-Backpack-_384869-front-US.jpg' alt='Sprayground Drip Checkerboard Shark Backpack | Liberty Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Center" />
+                                </span>
+                                <a href='https://scene7.zumiez.com/is/image/zumiez/product_main_medium_2x/Sprayground-Drip-Checkerboard-Shark-Backpack-_384869-front-US.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground Green Money Bear DLXSV Backpack">
+                                <img itemprop="contentUrl url" src='http://4feetshoes.com/cdn/shop/files/Green_20Multi048697-01.jpg?v=1732450033' alt='Sprayground Green Money Bear DLXSV Backpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4Feetshoes" />
+                                </span>
+                                <a href='http://4feetshoes.com/cdn/shop/files/Green_20Multi048697-01.jpg?v=1732450033' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground 3AM Infiniti Backpack, 910B5494NSZ ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Al3Q2ZqNL._AC_UY1000_.jpg' alt='Sprayground 3AM Infiniti Backpack, 910B5494NSZ ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Al3Q2ZqNL._AC_UY1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NWT Sprayground 'What the Beep' Shark Backpack | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/yioAAOSweQZl-LvH/s-l1200.jpg' alt='NWT Sprayground 'What the Beep' Shark Backpack | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/yioAAOSweQZl-LvH/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground X Squid Game Lined Up Front Man & Pink Guard Shark DLXSV  Backpack">
+                                <img itemprop="contentUrl url" src='http://mainlandskateandsurf.com/cdn/shop/files/sprayground-backpack-squid-game-lined-up-DLXSV-backpack-9106987NSZ.png?v=1730938382' alt='Sprayground X Squid Game Lined Up Front Man & Pink Guard Shark DLXSV  Backpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mainland Skate & Surf" />
+                                </span>
+                                <a href='http://mainlandskateandsurf.com/cdn/shop/files/sprayground-backpack-squid-game-lined-up-DLXSV-backpack-9106987NSZ.png?v=1730938382' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground Diablo Bear Repel Backpack | Liberty Center">
+                                <img itemprop="contentUrl url" src='https://cdn.mall.adeptmind.ai/https%3A%2F%2Fscene7.zumiez.com%2Fis%2Fimage%2Fzumiez%2Fproduct_main_medium_2x%2FSprayground-Diablo-Bear-Repel-Backpack-_384889-front-US.jpg_large.webp' alt='Sprayground Diablo Bear Repel Backpack | Liberty Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Center" />
+                                </span>
+                                <a href='https://cdn.mall.adeptmind.ai/https%3A%2F%2Fscene7.zumiez.com%2Fis%2Fimage%2Fzumiez%2Fproduct_main_medium_2x%2FSprayground-Diablo-Bear-Repel-Backpack-_384889-front-US.jpg_large.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPRAYGROUND 3AM TEAR IT UP DLXSV BACKPACK- B6023 LIMITED EDITION ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/XA4AAOSwZSVm74xp/s-l1200.jpg' alt='SPRAYGROUND 3AM TEAR IT UP DLXSV BACKPACK- B6023 LIMITED EDITION ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/XA4AAOSwZSVm74xp/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPRAYGROUND - Richie Rich Comic and Street Art Backpack ...">
+                                <img itemprop="contentUrl url" src='https://cristianoshop.com/164351/sprayground-zaino-richie-rich-comic-and-street-art.jpg' alt='SPRAYGROUND - Richie Rich Comic and Street Art Backpack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cristiano shop" />
+                                </span>
+                                <a href='https://cristianoshop.com/164351/sprayground-zaino-richie-rich-comic-and-street-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sprayground Kids Denim Drip Backpack in Multicolour (46cm)">
+                                <img itemprop="contentUrl url" src='http://www.childsplayclothing.com/cdn/shop/files/SPRA4034_MULTICOLOURED_1.jpg?v=1731082743&width=3000' alt='Sprayground Kids Denim Drip Backpack in Multicolour (46cm)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Childsplay Clothing" />
+                                </span>
+                                <a href='http://www.childsplayclothing.com/cdn/shop/files/SPRA4034_MULTICOLOURED_1.jpg?v=1731082743&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPRAYGROUND Ghost Gang Pacman Mystery PACMANMYSTERY backpack ...">
+                                <img itemprop="contentUrl url" src='https://faraone.shop/cdn/shop/files/a24-sprayground-pacmanmysterymulticolor_1600x.jpg?v=1734354233' alt='SPRAYGROUND Ghost Gang Pacman Mystery PACMANMYSTERY backpack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Faraone." />
+                                </span>
+                                <a href='https://faraone.shop/cdn/shop/files/a24-sprayground-pacmanmysterymulticolor_1600x.jpg?v=1734354233' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

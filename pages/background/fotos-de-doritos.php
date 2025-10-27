@@ -1,0 +1,129 @@
+<title>Deliciosas Fotos de Doritos: ¡Mira Las Mejores!</title>
+                    <meta name="description" content="Explora nuestra colección de impresionantes fotos de Doritos. Descubre diferentes presentaciones, sabores y la textura que hace a este snack tan especial. Perfecto para compartir en redes sociales o simplemente disfrutar en casa. ¡Deleita tu vista y tu paladar con estas explosiones de color y sabor!">
+                    <meta name="keywords" content="fotos de doritos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fotos-de-doritos">
+                            <span itemprop="name">fotos de doritos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deliciosas Fotos de Doritos: ¡Mira Las Mejores!</h1>
+                <p>Las fotos de Doritos son irresistibles para todos los amantes de esta deliciosa botana. Capturan la textura crujiente y el vibrante color de estos nachos, perfectos para cualquier ocasión. Ya sea en una fiesta, como snack o en un antojo, cada imagen destaca el sabor y la diversión que Doritos ofrece. ¡Comparte y disfruta!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORITOS® Nacho Cheese Flavored Tortilla Chips | Doritos">
+                                <img itemprop="contentUrl url" src='https://www.doritos.com/sites/doritos.com/files/2024-06/new-nacho-cheese%202024.png' alt='DORITOS® Nacho Cheese Flavored Tortilla Chips | Doritos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doritos" />
+                                </span>
+                                <a href='https://www.doritos.com/sites/doritos.com/files/2024-06/new-nacho-cheese%202024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doritos Cool Ranch Flavored Tortilla Chips">
+                                <img itemprop="contentUrl url" src='https://melrosestore.com/media/catalog/product/cache/a8101ab0c3d357cb5d5c2fa9b8a3fb34/8/2/8211-0099-doritos-cool-ranch-tortilla-chips-snack-_2.50.png' alt='Doritos Cool Ranch Flavored Tortilla Chips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melrose" />
+                                </span>
+                                <a href='https://melrosestore.com/media/catalog/product/cache/a8101ab0c3d357cb5d5c2fa9b8a3fb34/8/2/8211-0099-doritos-cool-ranch-tortilla-chips-snack-_2.50.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doritos® Golden Sriracha Tortilla Chips - Shop Now at Snacks.com">
+                                <img itemprop="contentUrl url" src='https://digitalassets.pepsico.com/m/51e0e46a53679a9a/Hi_Res-00028400759045_C1C1.jpg' alt='Doritos® Golden Sriracha Tortilla Chips - Shop Now at Snacks.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snacks.com" />
+                                </span>
+                                <a href='https://digitalassets.pepsico.com/m/51e0e46a53679a9a/Hi_Res-00028400759045_C1C1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORITOS® FLAMIN' HOT® COOL RANCH® Flavored Tortilla Chips | Doritos">
+                                <img itemprop="contentUrl url" src='https://www.doritos.com/sites/doritos.com/files/2024-10/Doritos%20FH%20Cool%20Ranch%202024.png' alt='DORITOS® FLAMIN' HOT® COOL RANCH® Flavored Tortilla Chips | Doritos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doritos" />
+                                </span>
+                                <a href='https://www.doritos.com/sites/doritos.com/files/2024-10/Doritos%20FH%20Cool%20Ranch%202024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORITOS® Salsa Verde Flavored Tortilla Chips | Doritos">
+                                <img itemprop="contentUrl url" src='https://www.doritos.com/sites/doritos.com/files/2018-08/new-salsa-verde.png' alt='DORITOS® Salsa Verde Flavored Tortilla Chips | Doritos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doritos" />
+                                </span>
+                                <a href='https://www.doritos.com/sites/doritos.com/files/2018-08/new-salsa-verde.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doritos Mexican Tacos Flavor">
+                                <img itemprop="contentUrl url" src='http://sugoimart.com/cdn/shop/files/EcomProductTemplate_2_1__0003_Layer0_2020864f-7c62-4aba-baae-852d54206487.png?v=1692156884' alt='Doritos Mexican Tacos Flavor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="745">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sugoi Mart" />
+                                </span>
+                                <a href='http://sugoimart.com/cdn/shop/files/EcomProductTemplate_2_1__0003_Layer0_2020864f-7c62-4aba-baae-852d54206487.png?v=1692156884' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Doritos - Chips de tortilla sabor Nacho Cheese, 40 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X8ncBUEKL.jpg' alt='Amazon.com: Doritos - Chips de tortilla sabor Nacho Cheese, 40 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X8ncBUEKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORITOS® FLAMIN' HOT® Nacho Flavored Tortilla Chips | Doritos">
+                                <img itemprop="contentUrl url" src='https://www.doritos.com/sites/doritos.com/files/2024-06/new-nacho-flamin-hot-2024%20copia.png' alt='DORITOS® FLAMIN' HOT® Nacho Flavored Tortilla Chips | Doritos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doritos" />
+                                </span>
+                                <a href='https://www.doritos.com/sites/doritos.com/files/2024-06/new-nacho-flamin-hot-2024%20copia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORITOS Tortilla Chips Nacho Party Size - 14.5 OZ - safeway">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/970031792?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' alt='DORITOS Tortilla Chips Nacho Party Size - 14.5 OZ - safeway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Safeway" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/970031792?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doritos Sweet & Tangy BBQ Flavored Tortilla Chips - Shop Now at ...">
+                                <img itemprop="contentUrl url" src='https://www.snacks.com/_next/image?url=https%3A%2F%2Fdigitalassets.pepsico.com%2Fm%2F1d222fe880ddf8ea%2FHi_Res-00028400697354_C1C1.jpg&w=3840&q=75' alt='Doritos Sweet & Tangy BBQ Flavored Tortilla Chips - Shop Now at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snacks.com" />
+                                </span>
+                                <a href='https://www.snacks.com/_next/image?url=https%3A%2F%2Fdigitalassets.pepsico.com%2Fm%2F1d222fe880ddf8ea%2FHi_Res-00028400697354_C1C1.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

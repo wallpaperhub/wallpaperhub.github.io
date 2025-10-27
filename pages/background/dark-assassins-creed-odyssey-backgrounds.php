@@ -1,0 +1,129 @@
+<title>Dark Themes in Assassin's Creed Odyssey: Explore the Shadows</title>
+                    <meta name="description" content="Discover the dark backgrounds of Assassin's Creed Odyssey. Unveil the mysteries, secrets, and emotional depth nestled in Ancient Greece's shadows while engaging in thrilling gameplay. Dive into a captivating narrative enhanced by a darker aesthetic that heightens the in-game experience. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="dark assassin's creed odyssey backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-assassins-creed-odyssey-backgrounds">
+                            <span itemprop="name">dark assassin's creed odyssey backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Themes in Assassin's Creed Odyssey: Explore the Shadows</h1>
+                <p>Dark background themes in Assassin's Creed Odyssey enhance the immersive experience, diving into the shadows of Ancient Greece. Players explore deep, emotional narratives and dark twists in the storylines of historical figures while uncovering secrets. The darker aesthetic complements the game's intrigue and mystery, inviting players into a world of stealth and strategy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 1920x1080 Assassin's Creed Odyssey Background Black ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-assassin-s-creed-odyssey-background-1920-x-1080-zcw6ntai87uj3ags.jpg' alt='Download 1920x1080 Assassin's Creed Odyssey Background Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-assassin-s-creed-odyssey-background-1920-x-1080-zcw6ntai87uj3ags.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Wallpapers (67 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/7/2/6595-1080x1920-phone-1080p-assassins-creed-background-image.jpg' alt='Assassin's Creed Wallpapers (67 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/7/2/6595-1080x1920-phone-1080p-assassins-creed-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Assassin's Creed Odyssey Background Archer In Hood ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/assassin-s-creed-odyssey-background-ruadss2l9wch5r3w.jpg' alt='Download Assassin's Creed Odyssey Background Archer In Hood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/assassin-s-creed-odyssey-background-ruadss2l9wch5r3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Odyssey, Kassandra, DEPTH EFFECT optimized, phone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/assassins-creed-odyssey-kassandra-depth-effect-optimized-v0-dduasipheoic1.jpg?width=640&crop=smart&auto=webp&s=cbf35a9ed532fe6e29c6770914fde5edb23ce472' alt='Assassin's Creed Odyssey, Kassandra, DEPTH EFFECT optimized, phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/assassins-creed-odyssey-kassandra-depth-effect-optimized-v0-dduasipheoic1.jpg?width=640&crop=smart&auto=webp&s=cbf35a9ed532fe6e29c6770914fde5edb23ce472' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Assassin's Creed Video Game Assassin's Creed Odyssey HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/103/thumb-1920-1031906.jpg' alt='Download Assassin's Creed Video Game Assassin's Creed Odyssey HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/103/thumb-1920-1031906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassins Creed Assassins Creed Odyssey Dark Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w.wallha.com/ws/6/gyAul2ES.jpg' alt='Assassins Creed Assassins Creed Odyssey Dark Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallha.com" />
+                                </span>
+                                <a href='https://w.wallha.com/ws/6/gyAul2ES.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Assassin's Creed Odyssey Background Dark Figure ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/assassin-s-creed-odyssey-background-m76zngquwc3h78i5.jpg' alt='Download Assassin's Creed Odyssey Background Dark Figure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/assassin-s-creed-odyssey-background-m76zngquwc3h78i5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Odyssey, Kassandra, DEPTH EFFECT optimized, phone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/assassins-creed-odyssey-kassandra-depth-effect-optimized-v0-au2zwkebxpic1.jpeg?width=1179&format=pjpg&auto=webp&s=d165d654b4a7311cc4ed0fa8620220e3a16e1323' alt='Assassin's Creed Odyssey, Kassandra, DEPTH EFFECT optimized, phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/assassins-creed-odyssey-kassandra-depth-effect-optimized-v0-au2zwkebxpic1.jpeg?width=1179&format=pjpg&auto=webp&s=d165d654b4a7311cc4ed0fa8620220e3a16e1323' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed: Odyssey UltraWide 21:9 wallpapers or desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_assassins_creed_odyssey_05_2560x1080.jpg&height=506&sharpen' alt='Assassin's Creed: Odyssey UltraWide 21:9 wallpapers or desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_assassins_creed_odyssey_05_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper ubisoft, Creed, Assassins, Odyssey, kassandra, Assassins ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/c/e4/assassins-creed-odyssey-kredo-assasina-odisseia-ubisoft-kass.jpg' alt='Wallpaper ubisoft, Creed, Assassins, Odyssey, kassandra, Assassins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/c/e4/assassins-creed-odyssey-kredo-assasina-odisseia-ubisoft-kass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

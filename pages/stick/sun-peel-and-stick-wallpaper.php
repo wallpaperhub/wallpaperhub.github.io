@@ -1,0 +1,129 @@
+<title>Brighten Your Home with Sun Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Transform your space with sun peel and stick wallpaper! Easy to apply and remove, it’s perfect for renters or DIY enthusiasts seeking a quick style upgrade. Enjoy vibrant designs that bring warmth and cheer to any room with minimal effort. Refresh your home today!">
+                    <meta name="keywords" content="sun peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/sun-peel-and-stick-wallpaper">
+                            <span itemprop="name">sun peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Home with Sun Peel and Stick Wallpaper</h1>
+                <p>Sun peel and stick wallpaper is the perfect solution to brighten up any room effortlessly. With its easy application and removal, you can transform your space in minutes! This stylish wallpaper features vibrant sun designs that create a warm, inviting atmosphere. Ideal for renters or those wanting a seasonal update without commitment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall Decor  Home Decor Wall Art Printable Wall Art Room Decor 3689">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3639072156_9a2s_92b07e95-f059-4a54-b336-b2cf11a1f07d.jpg' alt='Boho Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall Decor  Home Decor Wall Art Printable Wall Art Room Decor 3689'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3639072156_9a2s_92b07e95-f059-4a54-b336-b2cf11a1f07d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/SU14133_PEEL_N_STICK_WALLPAPER_SUN_LIVINGROOM.jpg?v=1661875632' alt='Sun Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/SU14133_PEEL_N_STICK_WALLPAPER_SUN_LIVINGROOM.jpg?v=1661875632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sun Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_3.jpg' alt='Cute Sun Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Gold Cream Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 322">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4136698993_k785.jpg' alt='Boho Gold Cream Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 322'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2414">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4136698993_k785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/SU14133-SUN-ROLL-RGB_a4d58670-8416-4ce7-892e-7313934d64b1_1800x1800.jpg?v=1663767628' alt='Sun Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/SU14133-SUN-ROLL-RGB_a4d58670-8416-4ce7-892e-7313934d64b1_1800x1800.jpg?v=1663767628' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Saffron Sun Bohemia Vinyl Peel and Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a35bb217-69f5-483d-b374-84a1c383aeaa/svn/tempaper-wallpaper-rolls-bh16007-1f_600.jpg' alt='Tempaper Saffron Sun Bohemia Vinyl Peel and Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a35bb217-69f5-483d-b374-84a1c383aeaa/svn/tempaper-wallpaper-rolls-bh16007-1f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Mountains Peel and Stick Wallpaper Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/334baf/3485695174/il_fullxfull.3485695174_p2pr.jpg' alt='Sun Mountains Peel and Stick Wallpaper Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/334baf/3485695174/il_fullxfull.3485695174_p2pr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Yellow Sun Removable Peel and Stick Wallpaper, 20.5 in X 16.5 ft,  Made in The USA - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91O-iaRls3L.jpg' alt='Tempaper Yellow Sun Removable Peel and Stick Wallpaper, 20.5 in X 16.5 ft,  Made in The USA - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91O-iaRls3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sun Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_peel_and_stick.jpg' alt='Cute Sun Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_peel_and_stick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall Decor  Home Decor Wall Art Printable Wall Art Room Decor 3689">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686678615_mdcs_5553a9cc-69a7-4eea-967e-3b9bfb91b5dc.jpg?v=1644723817&width=3000' alt='Boho Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall Decor  Home Decor Wall Art Printable Wall Art Room Decor 3689'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686678615_mdcs_5553a9cc-69a7-4eea-967e-3b9bfb91b5dc.jpg?v=1644723817&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

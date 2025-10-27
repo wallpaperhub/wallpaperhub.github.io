@@ -1,0 +1,129 @@
+<title>Explore the Field of Dreams in Dubuque County</title>
+                    <meta name="description" content="Discover the Field of Dreams in Dubuque County, a must-visit destination for baseball fans. Experience the iconic diamond, learn its history, and create unforgettable memories in this enchanting setting. Perfect for families and sports lovers alike!">
+                    <meta name="keywords" content="field of dreams (dubuque county">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/field-of-dreams-dubuque-county">
+                            <span itemprop="name">field of dreams (dubuque county</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Field of Dreams in Dubuque County</h1>
+                <p>Nestled in Dubuque County, the Field of Dreams is a legendary baseball diamond that captures the hearts of fans and families alike. This iconic site invites visitors to explore its lush landscapes, learn about its history, and even step onto the diamond. Celebrate America's pastime in this magical setting that inspires dreams.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field of Dreams (Dubuque County, Iowa) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Field_of_Dreams_%287017559801%29.jpg' alt='Field of Dreams (Dubuque County, Iowa) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4a/Field_of_Dreams_%287017559801%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field of Dreams Movie Site | Dyersville, Iowa | Travel Iowa">
+                                <img itemprop="contentUrl url" src='https://www.traveliowa.com/userdocs/places/7288_View_from_Hewitts_Creek.JPG?width=1920&format=jpg&autorotate=true' alt='Field of Dreams Movie Site | Dyersville, Iowa | Travel Iowa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Iowa" />
+                                </span>
+                                <a href='https://www.traveliowa.com/userdocs/places/7288_View_from_Hewitts_Creek.JPG?width=1920&format=jpg&autorotate=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visit the Field of Dreams in Dyersville - Cornfields and High Heels">
+                                <img itemprop="contentUrl url" src='https://fieldsandheels.com/wp-content/uploads/2021/08/wp-16286252088042662602206514561061-scaled.jpg' alt='Visit the Field of Dreams in Dyersville - Cornfields and High Heels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cornfields and High Heels" />
+                                </span>
+                                <a href='https://fieldsandheels.com/wp-content/uploads/2021/08/wp-16286252088042662602206514561061-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field of Dreams Movie Site">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/630a76d9a964ca5d8d0e4ff6/5066e167-0713-4f2f-8ed6-4b08dd11a32a/DJI_0366.JPG' alt='Field of Dreams Movie Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fieldofdreamsmoviesite.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/630a76d9a964ca5d8d0e4ff6/5066e167-0713-4f2f-8ed6-4b08dd11a32a/DJI_0366.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iowa's Field of Dreams site set for $80M sports-tourism ...">
+                                <img itemprop="contentUrl url" src='https://ballparkdigest.com/wp-content/uploads/2022/04/fodmoviesite-dev.jpg' alt='Iowa's Field of Dreams site set for $80M sports-tourism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballpark Digest" />
+                                </span>
+                                <a href='https://ballparkdigest.com/wp-content/uploads/2022/04/fodmoviesite-dev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLB's 'Field of Dreams' game in Iowa postponed to 2021 because of ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/200803200715-field-of-dreams-file.jpg?q=w_2000,h_1302,x_0,y_0,c_fill' alt='MLB's 'Field of Dreams' game in Iowa postponed to 2021 because of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/200803200715-field-of-dreams-file.jpg?q=w_2000,h_1302,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field of Dreams Movie Site | Travel Dubuque">
+                                <img itemprop="contentUrl url" src='https://www.traveldubuque.com/images/uploads/partner-images/field-of-dreams.jpg' alt='Field of Dreams Movie Site | Travel Dubuque'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Dubuque" />
+                                </span>
+                                <a href='https://www.traveldubuque.com/images/uploads/partner-images/field-of-dreams.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="$12.5M allocated by Iowa Gov. Kim Reynolds for Field of Dreams stadium">
+                                <img itemprop="contentUrl url" src='https://www.desmoinesregister.com/gcdn/presto/2021/07/15/PDEM/df4df4ba-26e9-43f8-b607-3c34edae4960-20210713_001_fod_bp.JPG?width=1733&height=974&fit=crop&format=pjpg&auto=webp' alt='$12.5M allocated by Iowa Gov. Kim Reynolds for Field of Dreams stadium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1733">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Des Moines Register" />
+                                </span>
+                                <a href='https://www.desmoinesregister.com/gcdn/presto/2021/07/15/PDEM/df4df4ba-26e9-43f8-b607-3c34edae4960-20210713_001_fod_bp.JPG?width=1733&height=974&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field of Dreams Movie Site: Baseball Heaven in an Iowa Cornfield">
+                                <img itemprop="contentUrl url" src='https://www.roadunraveled.com/wp-content/uploads/2021/08/Field-of-Dreams-Filming-Location.jpg' alt='Field of Dreams Movie Site: Baseball Heaven in an Iowa Cornfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Road Unraveled" />
+                                </span>
+                                <a href='https://www.roadunraveled.com/wp-content/uploads/2021/08/Field-of-Dreams-Filming-Location.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upcoming Events — Field of Dreams Movie Site">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/630a76d9a964ca5d8d0e4ff6/1700083388037-KN1XC4RU2762C07ZFPNH/6fa3a1627511513e6f278d35a2d35e83d64954534e32174c39359d217ee10653-medium.jpg' alt='Upcoming Events — Field of Dreams Movie Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Field of Dreams Movie Site" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/630a76d9a964ca5d8d0e4ff6/1700083388037-KN1XC4RU2762C07ZFPNH/6fa3a1627511513e6f278d35a2d35e83d64954534e32174c39359d217ee10653-medium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

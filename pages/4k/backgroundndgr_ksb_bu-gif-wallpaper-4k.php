@@ -1,0 +1,129 @@
+<title>Vibrant 4K GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of vibrant 4K GIF wallpapers that elevate your device's aesthetic. Perfect for smartphones and tablets, these dynamic backgrounds add a touch of personality and flair to your screens. Discover your ideal animated wallpaper today!">
+                    <meta name="keywords" content="background:ndgr_ksb_bu= gif wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/backgroundndgr_ksb_bu-gif-wallpaper-4k">
+                            <span itemprop="name">background:ndgr_ksb_bu= gif wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K GIF Wallpapers for Your Device</h1>
+                <p>Discover stunning 4K GIF wallpapers that transform your device's background into a visual masterpiece. Our collection features vibrant colors and dynamic animations that enhance your screen experience. Perfect for personalizing your smartphone, tablet, or computer, these wallpapers bring life and energy to any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/tdC6N1RKNp4swre2JY/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/tdC6N1RKNp4swre2JY/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' alt='Gif Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/IkYj09qh5rOzP95Yse/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/IkYj09qh5rOzP95Yse/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/QWaEIkQ2s4tyinxdOK/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/QWaEIkQ2s4tyinxdOK/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/whoXRhu4Qj07eomK5x/giphy.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/whoXRhu4Qj07eomK5x/giphy.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIF - Wallpaper - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' alt='Wallpaper GIF - Wallpaper - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Gif Wallpapers">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/364/black-background-with-goku-dragon-ball-z_312.gif' alt='Goku Gif Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/364/black-background-with-goku-dragon-ball-z_312.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh and New Gifs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/6e/5f/5f6e5f70945d4c615e55c4ee5ab921ac.gif' alt='Fresh and New Gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/6e/5f/5f6e5f70945d4c615e55c4ee5ab921ac.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Gif Wallpapers">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/1405/goku-beast-mode_312.gif' alt='Goku Gif Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/1405/goku-beast-mode_312.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

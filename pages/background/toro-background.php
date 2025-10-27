@@ -1,0 +1,129 @@
+<title>Toro: Behind the Brand and Its Legacy</title>
+                    <meta name="description" content="Discover the history and evolution of Toro, a leader in outdoor equipment. From its founding in 1914 to its commitment to innovation, learn how Toro has shaped the lawn care industry with durable and reliable products designed for all users.">
+                    <meta name="keywords" content="toro background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toro-background">
+                            <span itemprop="name">toro background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Toro: Behind the Brand and Its Legacy</h1>
+                <p>Toro is a brand renowned for its innovation in outdoor equipment, particularly lawnmowers and other gardening tools. Established in 1914, it has become a staple for both residential and commercial users, emphasizing durability and performance. The company's heritage lies in delivering quality products for lawn care enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toro! Let's Party discord wallpaper | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://assets.userstyles.org/assets_packs/type=style/user_id=1293605/screenshot_001c8c0b-1386-4808-ab5d-8db847053db4.webp' alt='Toro! Let's Party discord wallpaper | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="935">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://assets.userstyles.org/assets_packs/type=style/user_id=1293605/screenshot_001c8c0b-1386-4808-ab5d-8db847053db4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toro Wallpaper by koloromuj on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3872b3c2-6899-415d-a3a1-e7176d58bdab/d2m0pxx-06648310-d260-467d-8ea1-3bb89fd59e55.jpg/v1/fill/w_900,h_563,q_75,strp/toro_wallpaper_by_koloromuj_d2m0pxx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvMzg3MmIzYzItNjg5OS00MTVkLWEzYTEtZTcxNzZkNThiZGFiXC9kMm0wcHh4LTA2NjQ4MzEwLWQyNjAtNDY3ZC04ZWExLTNiYjg5ZmQ1OWU1NS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hqSLZt4Ux-UWZXUm-wv6x08JmCIuwzhhw3sKxEozLYA' alt='Toro Wallpaper by koloromuj on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3872b3c2-6899-415d-a3a1-e7176d58bdab/d2m0pxx-06648310-d260-467d-8ea1-3bb89fd59e55.jpg/v1/fill/w_900,h_563,q_75,strp/toro_wallpaper_by_koloromuj_d2m0pxx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvMzg3MmIzYzItNjg5OS00MTVkLWEzYTEtZTcxNzZkNThiZGFiXC9kMm0wcHh4LTA2NjQ4MzEwLWQyNjAtNDY3ZC04ZWExLTNiYjg5ZmQ1OWU1NS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hqSLZt4Ux-UWZXUm-wv6x08JmCIuwzhhw3sKxEozLYA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="toro inoue ^_^">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/1f/9c/731f9c8ce3efa568f2b7d2a19989fa77.jpg' alt='toro inoue ^_^'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/1f/9c/731f9c8ce3efa568f2b7d2a19989fa77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="toro cat roblox wallpaper(doesnt work) | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://assets.userstyles.org/assets_packs/type=style/user_id=3705701/screenshot_dd75215e-b1fb-474f-a00b-a99704799b24.jpeg' alt='toro cat roblox wallpaper(doesnt work) | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://assets.userstyles.org/assets_packs/type=style/user_id=3705701/screenshot_dd75215e-b1fb-474f-a00b-a99704799b24.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❥ toro widget">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/78/79/d87879f5341852e84a928985f81995e6.jpg' alt='❥ toro widget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/78/79/d87879f5341852e84a928985f81995e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="toro<3 | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://assets.userstyles.org/assets_packs/type=style/user_id=3965440/screenshot_b63c9ed9-abd0-4465-86c8-3f377183925a.webp' alt='toro<3 | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://assets.userstyles.org/assets_packs/type=style/user_id=3965440/screenshot_b63c9ed9-abd0-4465-86c8-3f377183925a.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toro inoue lockscreen   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/be/8e/3bbe8e64a2166ab1e59cec10d4772de4.jpg' alt='Toro inoue lockscreen   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/be/8e/3bbe8e64a2166ab1e59cec10d4772de4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PlayStation All-Stars Bio: Toro Inoue">
+                                <img itemprop="contentUrl url" src='https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2012/11/Toro-Grass.jpg' alt='PlayStation All-Stars Bio: Toro Inoue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation LifeStyle" />
+                                </span>
+                                <a href='https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2012/11/Toro-Grass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toro revlotech figure wallpaper : r/DokoDemoIssyo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t562nrf3oaq41.png' alt='Toro revlotech figure wallpaper : r/DokoDemoIssyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t562nrf3oaq41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Toro Cat Computer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11455207.jpg' alt='Aesthetic Toro Cat Computer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="823">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11455207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

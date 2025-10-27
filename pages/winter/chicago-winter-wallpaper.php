@@ -1,0 +1,129 @@
+<title>Chicago Winter Wallpapers: Embrace the Chill</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="chicago winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/chicago-winter-wallpaper">
+                            <span itemprop="name">chicago winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chicago Winter Wallpapers: Embrace the Chill</h1>
+                <p>Embrace the beauty of Chicago winters with stunning wallpapers that capture the city's iconic skyline blanketed in snow. From cozy scenes of winter festivities to serene landscapes, these wallpapers bring the magic of chilly days into your home. Transform your screen with picturesque views of winter in the Windy City!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,400+ Chicago Winter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300896464/photo/chicago-skyline-and-frozen-lake-michigan-aerial-view.jpg?s=612x612&w=0&k=20&c=dhAajKZqifSiwM5Yt6SFNnn4WvgWrVLyCpEmDLp0zUo=' alt='4,400+ Chicago Winter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300896464/photo/chicago-skyline-and-frozen-lake-michigan-aerial-view.jpg?s=612x612&w=0&k=20&c=dhAajKZqifSiwM5Yt6SFNnn4WvgWrVLyCpEmDLp0zUo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Chicago Winter Photos Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/636861540/photo/subway-train-in-downtown-chicago-il.jpg?s=612x612&w=0&k=20&c=Gtjj4LlIynXYSHMMSf4-njBFpKDTm3AiBG4iYN1-Wrs=' alt='4,300+ Chicago Winter Photos Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/636861540/photo/subway-train-in-downtown-chicago-il.jpg?s=612x612&w=0&k=20&c=Gtjj4LlIynXYSHMMSf4-njBFpKDTm3AiBG4iYN1-Wrs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Winter Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1672115680863-9353a690495a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2FnbyUyMHdpbnRlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Chicago Winter Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1672115680863-9353a690495a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2FnbyUyMHdpbnRlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Winter Photos, Download The BEST Free Chicago Winter Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2346006/pexels-photo-2346006.jpeg?cs=srgb&dl=pexels-imagevain-2346006.jpg&fm=jpg' alt='Chicago Winter Photos, Download The BEST Free Chicago Winter Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2819">
+                                <meta itemprop="height" content="3524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2346006/pexels-photo-2346006.jpeg?cs=srgb&dl=pexels-imagevain-2346006.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,400+ Chicago Winter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1496517315/photo/chicago-winter.jpg?s=612x612&w=0&k=20&c=8WBthhQjDTK4_NpmoJdWUI99k6bANjTqP_fSvAPD_Lo=' alt='4,400+ Chicago Winter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1496517315/photo/chicago-winter.jpg?s=612x612&w=0&k=20&c=8WBthhQjDTK4_NpmoJdWUI99k6bANjTqP_fSvAPD_Lo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Winter Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1612543021176-adff544be28a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpY2FnbyUyMHdpbnRlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Chicago Winter Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1612543021176-adff544be28a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpY2FnbyUyMHdpbnRlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Winter Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bc/18/a0/bc18a0c02adee65c1d8f0c64318af0ef.jpg' alt='Chicago Winter Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bc/18/a0/bc18a0c02adee65c1d8f0c64318af0ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, ice, Bay, Chicago, night city, Chicago ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2071x1200/4/81/chicago-chikago-zima-led.jpg' alt='Wallpaper winter, ice, Bay, Chicago, night city, Chicago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2071">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2071x1200/4/81/chicago-chikago-zima-led.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,289 Chicago Background Winter Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/winter-panorama-frozen-chicago-600nw-173704799.jpg' alt='3,289 Chicago Background Winter Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/winter-panorama-frozen-chicago-600nw-173704799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, lights, river, building, ice, skyscrapers, the ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2048x1365/7/31/illinois-chicago-usa-chikago-6060.jpg' alt='Wallpaper winter, lights, river, building, ice, skyscrapers, the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2048x1365/7/31/illinois-chicago-usa-chikago-6060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

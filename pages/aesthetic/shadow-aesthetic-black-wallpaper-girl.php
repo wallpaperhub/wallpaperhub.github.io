@@ -1,0 +1,129 @@
+<title>Shadow Aesthetic Black Wallpaper: Captivating Girl Designs</title>
+                    <meta name="description" content="Discover stunning shadow aesthetic black wallpapers featuring graceful girl silhouettes. Perfect for adding a mysterious touch to your devices, these designs blend elegance with a dark allure. Transform your aesthetic with wallpapers that inspire creativity and evoke emotion. Perfect for minimalist and dark theme lovers!">
+                    <meta name="keywords" content="shadow aesthetic black wallpaper girl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/shadow-aesthetic-black-wallpaper-girl">
+                            <span itemprop="name">shadow aesthetic black wallpaper girl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shadow Aesthetic Black Wallpaper: Captivating Girl Designs</h1>
+                <p>Explore the enchanting realm of shadow aesthetic black wallpaper featuring captivating girl silhouettes. This sleek and elegant design envelops your space in mystery and allure, perfect for those who appreciate a blend of darkness and beauty. Transform your screens with these striking visuals that evoke emotions and inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Black aesthetic ideas | black aesthetic, black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/76/d1/78/76d17876db861eaf707d4d85ee6075ce.jpg' alt='110 Black aesthetic ideas | black aesthetic, black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/76/d1/78/76d17876db861eaf707d4d85ee6075ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dark Wallpapers Hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/54/25/135425465db48c7f1f23cfc33acafa67.jpg' alt='Aesthetic Dark Wallpapers Hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/54/25/135425465db48c7f1f23cfc33acafa67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpapers | Download Free Black Wallpapers 2023">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/18/67/4e/18674e89150baf4dba73086c87db72aa.jpg' alt='Black Aesthetic Wallpapers | Download Free Black Wallpapers 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/18/67/4e/18674e89150baf4dba73086c87db72aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Girl Shadow Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-girl-shadow-4f0zuyq0u1atc592.jpg' alt='Aesthetic Girl Shadow Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-girl-shadow-4f0zuyq0u1atc592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61+ Black Aesthetic Wallpaper Choices (FREE) | Bridal Shower 101">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/0f/80/a00f805ffbdde892b7a08a4c7c81ec57.jpg' alt='61+ Black Aesthetic Wallpaper Choices (FREE) | Bridal Shower 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/0f/80/a00f805ffbdde892b7a08a4c7c81ec57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Girl Dark Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/a3/83/41a383dec39e0e6fc72132dae2444b7f.jpg' alt='iPhone Girl Dark Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/a3/83/41a383dec39e0e6fc72132dae2444b7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Girl Shadow Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/girl-shadow-wqjkmr8ezhb8k89j.jpg' alt='100+] Girl Shadow Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1727">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/girl-shadow-wqjkmr8ezhb8k89j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Shadow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/43/14/af43146bad81b8ea594e644fb1df4814.jpg' alt='Rose Shadow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/43/14/af43146bad81b8ea594e644fb1df4814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ᴺᵉᶠᵉˡⁱᵇᵃᵗᵃ on X: "but I have always felt that june, july ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1756248243435188224/Xp1DqjSI_400x400.jpg' alt='ᴺᵉᶠᵉˡⁱᵇᵃᵗᵃ on X: "but I have always felt that june, july ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1756248243435188224/Xp1DqjSI_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Silhouette Dark Instagram Profile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/girl-silhouette-dark-instagram-profile-0awot2evrm195wmn.jpg' alt='Girl Silhouette Dark Instagram Profile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/girl-silhouette-dark-instagram-profile-0awot2evrm195wmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

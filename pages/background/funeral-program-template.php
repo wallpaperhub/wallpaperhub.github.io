@@ -1,0 +1,129 @@
+<title>Funeral Program Template: Create a Lasting Tribute</title>
+                    <meta name="description" content="Discover the perfect funeral program template to honor your loved one. Designed for ease and personalization, our templates help you create a beautiful tribute that captures lasting memories while simplifying the planning process. Suitable for all mobile devices for convenient access and customization.">
+                    <meta name="keywords" content="funeral program template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funeral-program-template">
+                            <span itemprop="name">funeral program template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funeral Program Template: Create a Lasting Tribute</h1>
+                <p>A funeral program template provides a structured design to honor and remember a loved one. It typically includes essential details like the order of service, personal tributes, and visuals. Utilizing a template helps families create a heartfelt keepsake that commemorates precious memories while streamlining the planning process during a difficult time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Page Purple Bloom Funeral Program Template (11 x 17 inches)">
+                                <img itemprop="contentUrl url" src='https://funeraltemplates.com/cdn/shop/files/funeral-program-template-12-page-purple-bloom-funeral-program-template-11-x-17-inches-42697420603624_1500x.jpg?v=1706269386' alt='12 Page Purple Bloom Funeral Program Template (11 x 17 inches)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funeral Program Templates" />
+                                </span>
+                                <a href='https://funeraltemplates.com/cdn/shop/files/funeral-program-template-12-page-purple-bloom-funeral-program-template-11-x-17-inches-42697420603624_1500x.jpg?v=1706269386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize a free funeral program template">
+                                <img itemprop="contentUrl url" src='https://edit.org/img/blog/yli-editable-free-blank-funeral-program-templates.webp' alt='Customize a free funeral program template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edit.org" />
+                                </span>
+                                <a href='https://edit.org/img/blog/yli-editable-free-blank-funeral-program-templates.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Funeral Program Template, Printable Celebration of Life ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/ce/08/abce08acd11244a64b34aa704466f787.jpg' alt='Classic Funeral Program Template, Printable Celebration of Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/ce/08/abce08acd11244a64b34aa704466f787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Program Template, Editable Memorial Program Template ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19625564/r/il/908ead/2449283950/il_fullxfull.2449283950_dudv.jpg' alt='Funeral Program Template, Editable Memorial Program Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19625564/r/il/908ead/2449283950/il_fullxfull.2449283950_dudv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Page Golden Funeral Program Template (11 x 17 inches)">
+                                <img itemprop="contentUrl url" src='https://funeraltemplates.com/cdn/shop/products/funeral-program-template-4-page-golden-funeral-program-template-11-x-17-inches-15873460797519_1445x.jpg?v=1628278877' alt='4 Page Golden Funeral Program Template (11 x 17 inches)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1390">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funeral Program Templates" />
+                                </span>
+                                <a href='https://funeraltemplates.com/cdn/shop/products/funeral-program-template-4-page-golden-funeral-program-template-11-x-17-inches-15873460797519_1445x.jpg?v=1628278877' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joyful Funeral Program Template">
+                                <img itemprop="contentUrl url" src='https://www.funeralprogramsite.com/cdn/shop/products/img_proxy_64f1bd64-d234-4b41-b58c-c266d456ee59.jpg?v=1721009351&width=1445' alt='Joyful Funeral Program Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Funeral Program Site" />
+                                </span>
+                                <a href='https://www.funeralprogramsite.com/cdn/shop/products/img_proxy_64f1bd64-d234-4b41-b58c-c266d456ee59.jpg?v=1721009351&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Program Template [PSD] - BrandPacks">
+                                <img itemprop="contentUrl url" src='https://brandpacks.com/wp-content/uploads/edd/2023/06/funeral-program-template-cover.jpg' alt='Funeral Program Template [PSD] - BrandPacks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrandPacks" />
+                                </span>
+                                <a href='https://brandpacks.com/wp-content/uploads/edd/2023/06/funeral-program-template-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman's Funeral Program Template - Customizable & Downloadable ...">
+                                <img itemprop="contentUrl url" src='https://quickdigitalfiles.com/cdn/shop/files/womans-funeral-program-template-digital-download-562428_2048x.jpg?v=1715750326' alt='Woman's Funeral Program Template - Customizable & Downloadable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1546">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quick Digital Files" />
+                                </span>
+                                <a href='https://quickdigitalfiles.com/cdn/shop/files/womans-funeral-program-template-digital-download-562428_2048x.jpg?v=1715750326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Funeral Program Template, Memorial Service Template, Red ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20470346/r/il/5b5749/5908485336/il_570xN.5908485336_kdp5.jpg' alt='Editable Funeral Program Template, Memorial Service Template, Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20470346/r/il/5b5749/5908485336/il_570xN.5908485336_kdp5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Page Cross Funeral Program Template">
+                                <img itemprop="contentUrl url" src='https://funeraltemplates.com/cdn/shop/products/funeral-program-template-4-page-cross-funeral-program-template-28514369011791_1445x.jpg?v=1628356942' alt='4 Page Cross Funeral Program Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1389">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funeral Program Templates" />
+                                </span>
+                                <a href='https://funeraltemplates.com/cdn/shop/products/funeral-program-template-4-page-cross-funeral-program-template-28514369011791_1445x.jpg?v=1628356942' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Is Ralph Lauren Still Alive? Here’s What You Need to Know</title>
+                    <meta name="description" content="Discover the latest news about Ralph Lauren's life and career. Is the fashion legend still among us? Find out all the details about this iconic designer's enduring influence on the fashion industry. Stay updated with facts and insights about Ralph Lauren's legacy in American fashion.">
+                    <meta name="keywords" content="is ralph lauren still alive">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-ralph-lauren-still-alive">
+                            <span itemprop="name">is ralph lauren still alive</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is Ralph Lauren Still Alive? Here’s What You Need to Know</h1>
+                <p>Ralph Lauren, the iconic American fashion designer, is indeed still alive. Born on October 14, 1939, he continues to influence the world of fashion with his timeless designs and classic American style. As of now, he remains an active figure in the industry, showcasing his innovative spirit and dedication to luxury fashion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/da/Ralph_Lauren_2013.jpg' alt='Ralph Lauren - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/da/Ralph_Lauren_2013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5f4d624c9203e6bccfc46e87/0x0.jpg?format=jpg&crop=1139,1140,x1084,y371,safe&height=416&width=416&fit=bounds' alt='Ralph Lauren'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5f4d624c9203e6bccfc46e87/0x0.jpg?format=jpg&crop=1139,1140,x1084,y371,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Style, Wife & Education">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-605832996.jpg' alt='Ralph Lauren - Style, Wife & Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-605832996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren">
+                                <img itemprop="contentUrl url" src='https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwd145f6c7/assets/images/LEADERSHIP/LEADERSHIP_BIO_RALPH.jpg' alt='Ralph Lauren'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ralph Lauren" />
+                                </span>
+                                <a href='https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwd145f6c7/assets/images/LEADERSHIP/LEADERSHIP_BIO_RALPH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy 83rd Birthday! Ralph Lauren (born Ralph Lifshitz) is an ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2948982299979323552' alt='Happy 83rd Birthday! Ralph Lauren (born Ralph Lifshitz) is an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2948982299979323552' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 fun facts from the new Ralph Lauren HBO documentary - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/60bee16/2147483647/strip/false/crop/4270x3110+0+0/resize/1486x1082!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2F55%2Fd675170d4172b54c8cd869eb32b4%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177833146.jpg' alt='5 fun facts from the new Ralph Lauren HBO documentary - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/60bee16/2147483647/strip/false/crop/4270x3110+0+0/resize/1486x1082!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2F55%2Fd675170d4172b54c8cd869eb32b4%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177833146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren at 80: the designer's life and work in pictures">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ralph-lauren-at-the-the-annex-in-new-york-city-new-york-news-photo-1571062257.jpg' alt='Ralph Lauren at 80: the designer's life and work in pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harper's BAZAAR" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ralph-lauren-at-the-the-annex-in-new-york-city-new-york-news-photo-1571062257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren documentary 'Very Ralph' spotlights iconic American ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/191028100815-ralph-lauren-5.jpg?q=w_1110,c_fill' alt='Ralph Lauren documentary 'Very Ralph' spotlights iconic American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/191028100815-ralph-lauren-5.jpg?q=w_1110,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren Made History Today">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2191837132-677994665bdfc.jpg?crop=0.648xw:1.00xh;0.184xw,0&resize=1200:*' alt='Ralph Lauren Made History Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harper's BAZAAR" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2191837132-677994665bdfc.jpg?crop=0.648xw:1.00xh;0.184xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/faces/lauren-ralph-image.jpg' alt='Ralph Lauren - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/faces/lauren-ralph-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

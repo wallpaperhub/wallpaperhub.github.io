@@ -1,0 +1,129 @@
+<title>Vibrant Bisexual Wallpaper for Proud Spaces</title>
+                    <meta name="description" content="Discover stunning bisexual wallpaper designs that celebrate love and identity. Transform your space with vibrant colors and creative patterns, perfect for expressing pride and inclusivity. Join the movement and enhance your decor with style!">
+                    <meta name="keywords" content="bisexual wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bisexual-wallpaper">
+                            <span itemprop="name">bisexual wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Bisexual Wallpaper for Proud Spaces</h1>
+                <p>Explore the vibrant world of bisexual wallpaper that celebrates love and identity. Whether you’re looking to refresh your space or express your pride, these stunning designs showcase the colors of the bisexual flag in creative patterns. Perfect for anyone wanting to add a touch of inclusivity to their decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Pride Sky Wallpaper Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43476199/r/il/89898c/4941563843/il_fullxfull.4941563843_5ipq.jpg' alt='Bisexual Pride Sky Wallpaper Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43476199/r/il/89898c/4941563843/il_fullxfull.4941563843_5ipq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jewellcav here's my comp entry    got bi wallpaper ☺️ hope it's ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/5d/58/235d587c1757a2fd32bc92ba464739ba.jpg' alt='jewellcav here's my comp entry    got bi wallpaper ☺️ hope it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/5d/58/235d587c1757a2fd32bc92ba464739ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual pride heart aesthetic wallpaper lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2e/54/f4/2e54f47552ad5864d3621933ada311d6.jpg' alt='Bisexual pride heart aesthetic wallpaper lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2e/54/f4/2e54f47552ad5864d3621933ada311d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Bisexual Pride Flag Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vibrant-bisexual-pride-flag-collage-dgdthqeyu13bzqe7.jpg' alt='Vibrant Bisexual Pride Flag Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vibrant-bisexual-pride-flag-collage-dgdthqeyu13bzqe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Bisexual Flag Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rainbow-bisexual-flag-7tg19166zpet5qfq.jpg' alt='Rainbow Bisexual Flag Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rainbow-bisexual-flag-7tg19166zpet5qfq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual wallpaper by OmegaBlue123 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/657af6c8-4516-47ba-8943-ecc64c5f1209/dfql7b0-10612a18-93ec-4846-a213-d17237be8e54.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1N2FmNmM4LTQ1MTYtNDdiYS04OTQzLWVjYzY0YzVmMTIwOVwvZGZxbDdiMC0xMDYxMmExOC05M2VjLTQ4NDYtYTIxMy1kMTcyMzdiZThlNTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kGNq0C6Kg7wc0oCQIh4MN-BbCNRONKNuTej9TcSJ3BM' alt='Bisexual wallpaper by OmegaBlue123 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2388">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/657af6c8-4516-47ba-8943-ecc64c5f1209/dfql7b0-10612a18-93ec-4846-a213-d17237be8e54.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1N2FmNmM4LTQ1MTYtNDdiYS04OTQzLWVjYzY0YzVmMTIwOVwvZGZxbDdiMC0xMDYxMmExOC05M2VjLTQ4NDYtYTIxMy1kMTcyMzdiZThlNTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kGNq0C6Kg7wc0oCQIh4MN-BbCNRONKNuTej9TcSJ3BM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pride #bisexual">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/d7/2f/50d72f45757d03aae978f5682ea8d7a6.jpg' alt='pride #bisexual'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/d7/2f/50d72f45757d03aae978f5682ea8d7a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Landscape Wallpaper by Peasby on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/380779f6-a115-429d-9a86-4ad0bfffd349/debd97h-8b1bb7aa-9487-4d4f-99d3-e2f8b1271daa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4MDc3OWY2LWExMTUtNDI5ZC05YTg2LTRhZDBiZmZmZDM0OVwvZGViZDk3aC04YjFiYjdhYS05NDg3LTRkNGYtOTlkMy1lMmY4YjEyNzFkYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t_RsbwREgXwKVAAfGPzMlMrCPUS1Pw7mM4LzcJwVg28' alt='Bisexual Landscape Wallpaper by Peasby on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/380779f6-a115-429d-9a86-4ad0bfffd349/debd97h-8b1bb7aa-9487-4d4f-99d3-e2f8b1271daa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4MDc3OWY2LWExMTUtNDI5ZC05YTg2LTRhZDBiZmZmZDM0OVwvZGViZDk3aC04YjFiYjdhYS05NDg3LTRkNGYtOTlkMy1lMmY4YjEyNzFkYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t_RsbwREgXwKVAAfGPzMlMrCPUS1Pw7mM4LzcJwVg28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace Your True Self with Beautiful Bi Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7185161145680956678&location=0&aid=1988' alt='Embrace Your True Self with Beautiful Bi Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7185161145680956678&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Aesthetic Tri Colour Flag Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bisexual-aesthetic-tri-colour-flag-kfklks9344cklq9q.jpg' alt='Bisexual Aesthetic Tri Colour Flag Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bisexual-aesthetic-tri-colour-flag-kfklks9344cklq9q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mint Green Aesthetic: Embrace a Calm and Stylish Vibe</title>
+                    <meta name="description" content="Discover the mint green aesthetic, a trend that combines tranquility and style. Explore its calming effects in fashion, interiors, and art, and learn how to incorporate this refreshing color into your life for a serene vibe.">
+                    <meta name="keywords" content="mint green aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mint-green-aesthetic">
+                            <span itemprop="name">mint green aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mint Green Aesthetic: Embrace a Calm and Stylish Vibe</h1>
+                <p>Mint green aesthetic embodies a refreshing and calming vibe, perfect for those who appreciate tranquility in design. This color evokes feelings of serene nature, often paired with delicate whites, soft pastels, and natural wood textures. Whether in fashion, interiors, or art, mint green adds a soothing touch to any space, creating a harmonious atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Mint Green Collage Kit, Green Pastel Wall Collage, Mint ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23658690/r/il/21b281/4202262089/il_fullxfull.4202262089_rw81.jpg' alt='100 Mint Green Collage Kit, Green Pastel Wall Collage, Mint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23658690/r/il/21b281/4202262089/il_fullxfull.4202262089_rw81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Aesthetics: mint green ideas | mint green, mint, pastel green">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/72/88/b3/7288b3912740e7857049b652caa232d3.jpg' alt='250 Aesthetics: mint green ideas | mint green, mint, pastel green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/72/88/b3/7288b3912740e7857049b652caa232d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mint Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mint-green-aesthetic-6t3r2vp6s1siwh3f.jpg' alt='100+] Mint Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mint-green-aesthetic-6t3r2vp6s1siwh3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Mint green aesthetic ideas | mint green aesthetic, green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/0f/d7/c60fd7eb2c2468512bc976e1b9260f5f.jpg' alt='10 Mint green aesthetic ideas | mint green aesthetic, green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/0f/d7/c60fd7eb2c2468512bc976e1b9260f5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mint Green Aesthetic Coconut Tree Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-mint-green-aesthetic-coconut-tree-1p27e7wh3a4clqks.jpg' alt='Cute Mint Green Aesthetic Coconut Tree Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-mint-green-aesthetic-coconut-tree-1p27e7wh3a4clqks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Wall Collage Kit, Sage Green Collage Kit, Green ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/70eb3f/2786426062/il_570xN.2786426062_ipmh.jpg' alt='Mint Green Wall Collage Kit, Sage Green Collage Kit, Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/70eb3f/2786426062/il_570xN.2786426062_ipmh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nine Mint Items Pastel Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/nine-mint-items-pastel-green-aesthetic-tuucwcritn63ztzm.jpg' alt='Nine Mint Items Pastel Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/nine-mint-items-pastel-green-aesthetic-tuucwcritn63ztzm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Mint Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-mint-green-aesthetic-okv9t4u8y27aynqk.jpg' alt='100+] Cute Mint Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-mint-green-aesthetic-okv9t4u8y27aynqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mint green aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/482/429/HD-wallpaper-mi-cuarto-mint-green-green-mint-green-aesthetic-mint-green-and-white-thumbnail.jpg' alt='HD mint green aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/482/429/HD-wallpaper-mi-cuarto-mint-green-green-mint-green-aesthetic-mint-green-and-white-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

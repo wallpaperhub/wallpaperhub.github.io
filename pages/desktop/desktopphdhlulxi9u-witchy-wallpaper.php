@@ -1,0 +1,129 @@
+<title>Enchanting Witchy Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Add a touch of magic to your workspace with our enchanting witchy wallpapers! Explore a variety of mystical designs perfect for desktops, and create an inspiring atmosphere that sparks creativity. Ideal for those who love the whimsical and the magical! Download your favorite today!">
+                    <meta name="keywords" content="desktop:phdhlulxi9u= witchy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktopphdhlulxi9u-witchy-wallpaper">
+                            <span itemprop="name">desktop:phdhlulxi9u= witchy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Witchy Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop into a mystical realm with our witchy wallpaper collection! Featuring enchanting designs, ranging from celestial motifs to dark, whimsical illustrations, you can immerse yourself in a spellbinding atmosphere. Perfect to inspire creativity and add a touch of magic to your workspace!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witchy Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/witchy-desktop-xl9f4pczu2trfk5w.jpg' alt='100+] Witchy Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/witchy-desktop-xl9f4pczu2trfk5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witchy Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/witchy-desktop-gpfasi192x1tvu54.jpg' alt='100+] Witchy Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/witchy-desktop-gpfasi192x1tvu54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witchy Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/witchy-desktop-wxpzz4153u0nvv20.jpg' alt='100+] Witchy Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1701">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/witchy-desktop-wxpzz4153u0nvv20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-pastel-pattern-background-halloween-celebration_23-2149698883.jpg' alt='Witchy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-pastel-pattern-background-halloween-celebration_23-2149698883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witchy Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/witchy-desktop-qn7ya91xtq2679wv.jpg' alt='100+] Witchy Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/witchy-desktop-qn7ya91xtq2679wv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Witchcraft pattern Dark horror background with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/witchcraft-pattern-dark-horror-background-with-human-skull-mushroom-mystical-mouth-flower-moon-seamless-print-witch-hand-drawn-symbol-black-spooky-halloween-vector-illustration-horror-wallpaper_166089-2614.jpg' alt='Premium Vector | Witchcraft pattern Dark horror background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/witchcraft-pattern-dark-horror-background-with-human-skull-mushroom-mystical-mouth-flower-moon-seamless-print-witch-hand-drawn-symbol-black-spooky-halloween-vector-illustration-horror-wallpaper_166089-2614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A witchy desktop wallpaper ~ drawn by me    feel free to use! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-witchy-desktop-wallpaper-drawn-by-me-feel-free-to-use-v0-apdv21no8hgc1.jpeg?auto=webp&s=f5cb19ff459bb6cdd4b946e28de770c398d6d392' alt='A witchy desktop wallpaper ~ drawn by me    feel free to use! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-witchy-desktop-wallpaper-drawn-by-me-feel-free-to-use-v0-apdv21no8hgc1.jpeg?auto=webp&s=f5cb19ff459bb6cdd4b946e28de770c398d6d392' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Wallpaper Desktop Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-illustration-set-moon-phases-different-stages-moonlight-activity-vintage-engraving_364130-531.jpg' alt='Witchy Wallpaper Desktop Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-illustration-set-moon-phases-different-stages-moonlight-activity-vintage-engraving_364130-531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-pattern-with-lucky-charms-icons-symbols-isolated_1310786-36382.jpg?semt=ais_hybrid' alt='Witchy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-pattern-with-lucky-charms-icons-symbols-isolated_1310786-36382.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30574228/r/il/59e5fa/5411817494/il_570xN.5411817494_7eg2.jpg' alt='Witchy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30574228/r/il/59e5fa/5411817494/il_570xN.5411817494_7eg2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

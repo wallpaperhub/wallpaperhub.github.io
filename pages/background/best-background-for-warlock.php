@@ -1,0 +1,129 @@
+<title>Top Warlock Backgrounds: Enhance Your Character</title>
+                    <meta name="description" content="Discover the best backgrounds for your Warlock character. From the Haunted One to the Sage, learn how each background can enhance your magical abilities and enrich your role-playing experience. Optimize your character for combat and storytelling with the perfect background choice!">
+                    <meta name="keywords" content="best background for warlock">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-background-for-warlock">
+                            <span itemprop="name">best background for warlock</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Warlock Backgrounds: Enhance Your Character</h1>
+                <p>When choosing the best background for your Warlock character, consider options like the Haunted One, which enhances your dark mystique, or the Sage, which emphasizes your knowledge of magic. Both backgrounds enrich storytelling and provide unique abilities, making your Warlock stand out in combat and roleplay. Choose wisely!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the Warlock D&D 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/01/Article-Featured-Image-1200-x-630-px.webp' alt='The Ultimate Guide to the Warlock D&D 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/01/Article-Featured-Image-1200-x-630-px.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated warlock wallpaper made by me. ( @Wkmz_ on twitter )">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/SegngaG50mwUkaOCTIp96Vyj5UjL9rt20R55Aq_w5ec.png?format=pjpg&auto=webp&s=9cb09bb887c19323dffd39b8b731efd387b15565' alt='Animated warlock wallpaper made by me. ( @Wkmz_ on twitter )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/SegngaG50mwUkaOCTIp96Vyj5UjL9rt20R55Aq_w5ec.png?format=pjpg&auto=webp&s=9cb09bb887c19323dffd39b8b731efd387b15565' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 DND Warlock Backgrounds">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/ca3797_fdc4b48ab1754b3fb89b202bfa45c1e8~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/ca3797_fdc4b48ab1754b3fb89b202bfa45c1e8~mv2.png' alt='40 DND Warlock Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enter the Arcverse" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/ca3797_fdc4b48ab1754b3fb89b202bfa45c1e8~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/ca3797_fdc4b48ab1754b3fb89b202bfa45c1e8~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5e: Genie Warlock Build Guide">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/06/DD-warlock.jpg' alt='D&D 5e: Genie Warlock Build Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/06/DD-warlock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Warlock build">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-warlock-subclass.jpg' alt='Best Baldur's Gate 3 Warlock build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-warlock-subclass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone asked me to make a warlock wallpaper so here it is : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j6alq7wjz7141.jpg' alt='Someone asked me to make a warlock wallpaper so here it is : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="1717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j6alq7wjz7141.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the Warlock D&D 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/01/dnd-warlock-5e-guide-race.webp' alt='The Ultimate Guide to the Warlock D&D 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/01/dnd-warlock-5e-guide-race.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The DnD 5e Warlock Guide (2022) | Arcane Eye">
+                                <img itemprop="contentUrl url" src='https://arcaneeye.com/wp-content/uploads/2020/03/5d772211f51e2e768237d007232742b6-e1584019045193-769x481.jpg' alt='The DnD 5e Warlock Guide (2022) | Arcane Eye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arcane Eye" />
+                                </span>
+                                <a href='https://arcaneeye.com/wp-content/uploads/2020/03/5d772211f51e2e768237d007232742b6-e1584019045193-769x481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dungeons & Dragons 5E warlock class explained | Dicebreaker">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/0-dungeons-and-dragons-warlock-5e-guide.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Dungeons & Dragons 5E warlock class explained | Dicebreaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dicebreaker" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/0-dungeons-and-dragons-warlock-5e-guide.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E Warlock Subclasses Ranked, Part 2 – Mythcreants">
+                                <img itemprop="contentUrl url" src='https://mythcreants.com/wp-content/uploads/2021/11/Witch-824x550.jpg' alt='D&D 5E Warlock Subclasses Ranked, Part 2 – Mythcreants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mythcreants" />
+                                </span>
+                                <a href='https://mythcreants.com/wp-content/uploads/2021/11/Witch-824x550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

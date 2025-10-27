@@ -1,0 +1,129 @@
+<title>Vibrant Pink Aesthetic Neon Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the perfect blend of style and energy with our pink aesthetic neon wallpaper! Bright, bold, and unique, these designs are ideal for transforming any space into a creative haven. Easy to apply and perfect for mobile decor inspiration. Brighten your walls today!">
+                    <meta name="keywords" content="pink aesthetic wallpaper neon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-aesthetic-wallpaper-neon">
+                            <span itemprop="name">pink aesthetic wallpaper neon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Aesthetic Neon Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning pink aesthetic wallpaper featuring neon designs! Perfect for bedrooms, studios, or any creative corner, these wallpapers bring vibrant energy and style. Embrace a soft yet bold look that sparks joy and creativity, while making a statement with bright neon hues. Elevate your décor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Pink Aesthetic Butterflies Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-pink-aesthetic-butterflies-yslp5rj1uhq84yqg.jpg' alt='Neon Pink Aesthetic Butterflies Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-pink-aesthetic-butterflies-yslp5rj1uhq84yqg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon pink aesthetic collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' alt='Neon pink aesthetic collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Pink Aesthetic Finger Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-pink-aesthetic-finger-heart-xzhm7gfwda5jjp8m.jpg' alt='Neon Pink Aesthetic Finger Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-pink-aesthetic-finger-heart-xzhm7gfwda5jjp8m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Pink Neon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1581300740943-cfa5f847db2c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG5lb258ZW58MHx8MHx8fDA%3D' alt='30k+ Pink Neon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1581300740943-cfa5f847db2c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG5lb258ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Pink Aesthetic Collage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/32/d1/ec32d1b11b64666014f4f49048b997af.jpg' alt='Neon Pink Aesthetic Collage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/32/d1/ec32d1b11b64666014f4f49048b997af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETICS WALLPAPER - PINK AESTHETIC NEON WALLPAPER - Wattpad">
+                                <img itemprop="contentUrl url" src='https://img.wattpad.com/5d922e312495b4f8bac512e8e7acdddd5f849ae3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f564b5a374974696477452d5a32513d3d2d313139373236353437382e3136643738343637333338633834633732373137333537343231322e706e67?s=fit&w=720&h=720' alt='AESTHETICS WALLPAPER - PINK AESTHETIC NEON WALLPAPER - Wattpad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="271">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wattpad" />
+                                </span>
+                                <a href='https://img.wattpad.com/5d922e312495b4f8bac512e8e7acdddd5f849ae3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f564b5a374974696477452d5a32513d3d2d313139373236353437382e3136643738343637333338633834633732373137333537343231322e706e67?s=fit&w=720&h=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Girly, Pink Neon Light, pink, neon light, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/769/851/HD-wallpaper-aesthetic-girly-pink-neon-light-pink-neon-light.jpg' alt='Aesthetic Girly, Pink Neon Light, pink, neon light, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/769/851/HD-wallpaper-aesthetic-girly-pink-neon-light-pink-neon-light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Neon Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/bf/83/c9bf83b71bfde0ccc8fca73625d53f73.jpg' alt='Pink Neon Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/bf/83/c9bf83b71bfde0ccc8fca73625d53f73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Neon Pink Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-pink-aesthetic-pictures-ltu32uwcv6dcjmwc.jpg' alt='200+] Neon Pink Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-pink-aesthetic-pictures-ltu32uwcv6dcjmwc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Neon Pink Aesthetics HD wallpapers, quotes & ideas - Vowlenu">
+                                <img itemprop="contentUrl url" src='https://vowlenu.com/wp-content/uploads/2022/03/neon-pink-aesthetic-cloud.png' alt='Best Neon Pink Aesthetics HD wallpapers, quotes & ideas - Vowlenu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vowlenu" />
+                                </span>
+                                <a href='https://vowlenu.com/wp-content/uploads/2022/03/neon-pink-aesthetic-cloud.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Top Hair Salon Music: Vibe & Relaxation</title>
+                    <meta name="description" content="Discover how the right hair salon music enhances your beauty experience! Explore playlists that create the perfect vibe for relaxation and style, keeping clients happy while they wait or get pampered. Transform your salon atmosphere with captivating tunes today!">
+                    <meta name="keywords" content="hair salon music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hair-salon-music">
+                            <span itemprop="name">hair salon music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Hair Salon Music: Vibe & Relaxation</h1>
+                <p>Hair salon music sets the perfect atmosphere for relaxation and style. Choosing the right playlist can enhance the client experience, promoting a soothing environment while keeping the energy lively. From upbeat pop hits to calming acoustic melodies, the right tunes can create a memorable visit that clients will love and remember.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music for hairdressers & beauty salons ✂️ parlour music, music for manicure  & make-up studios">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9DU-pgEuSB4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTihCMA8=&rs=AOn4CLAPeA59fN_GtQyrELjqXW1qqGfzIw' alt='Music for hairdressers & beauty salons ✂️ parlour music, music for manicure  & make-up studios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9DU-pgEuSB4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTihCMA8=&rs=AOn4CLAPeA59fN_GtQyrELjqXW1qqGfzIw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Hair Salon Music by #1 Hits Now, Deep House Lounge, Chill Out ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51XO2Ue97sL._UXNaN_FMjpg_QL85_.jpg' alt='Play Hair Salon Music by #1 Hits Now, Deep House Lounge, Chill Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51XO2Ue97sL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hair Salon Music - playlist by straaain | Spotify">
+                                <img itemprop="contentUrl url" src='https://mosaic.scdn.co/300/ab67616d00001e02330f11fb125bb80b760f9e19ab67616d00001e02bd6c207be091d0b107405b93ab67616d00001e02d5a8395b0d80b8c48a5d851cab67616d00001e02e3ca6c05694d90f27b5412d8' alt='Hair Salon Music - playlist by straaain | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://mosaic.scdn.co/300/ab67616d00001e02330f11fb125bb80b760f9e19ab67616d00001e02bd6c207be091d0b107405b93ab67616d00001e02d5a8395b0d80b8c48a5d851cab67616d00001e02e3ca6c05694d90f27b5412d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salon music for hairdressers   , nail studios      & for makeup    music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_fSxaS1toK8/maxresdefault.jpg' alt='Salon music for hairdressers   , nail studios      & for makeup    music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_fSxaS1toK8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty Music, Vol. 1 (Salon, Hair, Kosmetic, Nail) - Compilation ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2731debea74537adc70491f0a36' alt='Beauty Music, Vol. 1 (Salon, Hair, Kosmetic, Nail) - Compilation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2731debea74537adc70491f0a36' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Megan Moroney - "Hair Salon"">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fjtwaIJ1L5Q/maxresdefault.jpg' alt='Megan Moroney - "Hair Salon"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fjtwaIJ1L5Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salon Music - Compilation by Various Artists | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273c9dab448978eb0b32b376aad' alt='Salon Music - Compilation by Various Artists | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273c9dab448978eb0b32b376aad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Music for Beauty Salon, Nail Salon, Hair Salon #bestmusic #beautysalon  #backgroundmusic">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sBKFxAlc-NU/maxresdefault.jpg' alt='Best Music for Beauty Salon, Nail Salon, Hair Salon #bestmusic #beautysalon  #backgroundmusic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sBKFxAlc-NU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Salon Songs 2024 - Clean Hair Salon Music - playlist by ...">
+                                <img itemprop="contentUrl url" src='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840a62fca13d7354b49938f324' alt='Best Salon Songs 2024 - Clean Hair Salon Music - playlist by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840a62fca13d7354b49938f324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hair Salon - Megan Moroney: Song Lyrics, Music Videos & Concerts">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/04XY8Pfa-84/maxresdefault.jpg' alt='Hair Salon - Megan Moroney: Song Lyrics, Music Videos & Concerts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shazam" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/04XY8Pfa-84/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

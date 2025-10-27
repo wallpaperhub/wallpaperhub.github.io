@@ -1,0 +1,129 @@
+<title>Discover the Ultimate D&D Wiki: Your Guide to Adventure</title>
+                    <meta name="description" content="Explore the D&D Wiki for essential resources, character guides, and gameplay tips for Dungeons & Dragons. Perfect for both newcomers and veteran players looking for lore and rules. Unleash your imagination and elevate your D&D experience today!">
+                    <meta name="keywords" content="dnd wiki">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-wiki">
+                            <span itemprop="name">dnd wiki</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Ultimate D&D Wiki: Your Guide to Adventure</h1>
+                <p>Dungeons & Dragons (D&D) is a dynamic tabletop RPG where players create characters and embark on epic quests. The DnD Wiki serves as a comprehensive resource for players and Dungeon Masters, offering rules, lore, and guides. It's an essential tool for enhancing your gaming experience, whether you're a novice or a seasoned player.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dungeons and Dragons Wiki">
+                                <img itemprop="contentUrl url" src='https://dnd-wiki.org/w/images/1/13/Defensive_roll.jpg' alt='Dungeons and Dragons Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dnd-wiki.org" />
+                                </span>
+                                <a href='https://dnd-wiki.org/w/images/1/13/Defensive_roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warforged | World of Erah D&D Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/world-of-erah-dnd/images/4/47/Warforged.png/revision/latest?cb=20230114193010' alt='Warforged | World of Erah D&D Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Erah D&D Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/world-of-erah-dnd/images/4/47/Warforged.png/revision/latest?cb=20230114193010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreclaimers (5e Race) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='https://www.dandwiki.com/w/images/3/3f/Foreclaimer.jpg' alt='Foreclaimers (5e Race) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='https://www.dandwiki.com/w/images/3/3f/Foreclaimer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tome of Prowess (3.5e Sourcebook) - Dungeons and Dragons Wiki">
+                                <img itemprop="contentUrl url" src='https://dnd-wiki.org/w/images/3/30/Standard_melee.jpg' alt='Tome of Prowess (3.5e Sourcebook) - Dungeons and Dragons Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeons and Dragons Wiki" />
+                                </span>
+                                <a href='https://dnd-wiki.org/w/images/3/30/Standard_melee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters in Dungeons & Dragons - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2f/DnD_Gnoll.png' alt='Monsters in Dungeons & Dragons - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2f/DnD_Gnoll.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dullahan (5e Race) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='http://orig05.deviantart.net/88de/f/2010/126/3/f/3fd931a214e696d6fb0b1aaf45b8838d.jpg' alt='Dullahan (5e Race) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='http://orig05.deviantart.net/88de/f/2010/126/3/f/3fd931a214e696d6fb0b1aaf45b8838d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ix | Rustage DnD Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/one20piece20d26d20by20rustage/images/9/93/Masked.png/revision/latest?cb=20230625054029' alt='Ix | Rustage DnD Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2060">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rustage DnD Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/one20piece20d26d20by20rustage/images/9/93/Masked.png/revision/latest?cb=20230625054029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vecna - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Vecna%2C_as_portrayed_in_3rd_Edition.jpg/220px-Vecna%2C_as_portrayed_in_3rd_Edition.jpg' alt='Vecna - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Vecna%2C_as_portrayed_in_3rd_Edition.jpg/220px-Vecna%2C_as_portrayed_in_3rd_Edition.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Category:Race | Dungeons and Dragons Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dungeons/images/9/95/Genasi_subraces_5e.png/revision/latest/smart/width/250/height/250?cb=20190216213541' alt='Category:Race | Dungeons and Dragons Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeons and Dragons Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dungeons/images/9/95/Genasi_subraces_5e.png/revision/latest/smart/width/250/height/250?cb=20190216213541' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Threat (3.5e Class) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='https://www.dandwiki.com/w/images/7/7c/Eli_by_sandara.jpg' alt='Threat (3.5e Class) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='https://www.dandwiki.com/w/images/7/7c/Eli_by_sandara.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

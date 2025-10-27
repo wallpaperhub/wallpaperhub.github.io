@@ -1,0 +1,129 @@
+<title>Embrace Nature: The Beauty of Grass and Sky</title>
+                    <meta name="description" content="Discover the tranquil beauty of grass and sky, where nature's vibrant greens meet expansive blue. Experience a refreshing escape into the serenity of the outdoors, perfect for rejuvenation and connection. Explore the harmony between these elements and appreciate the simple joys they bring to our lives.">
+                    <meta name="keywords" content="grass and sky">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grass-and-sky">
+                            <span itemprop="name">grass and sky</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Nature: The Beauty of Grass and Sky</h1>
+                <p>Grass and sky create a stunning visual tapestry that inspires peace and tranquility. The lush green blades sway gently, reflecting the vitality of nature, while the vast blue expanse above evokes a sense of freedom. Together, they offer a serene escape, inviting us to bask in the beauty of simple pleasures and connect with the earth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Sky Images – Browse 11,420,737 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/78/24/37/360_F_278243749_YcfWHYJO7cwU3Lq9RG6YX4HzYYvhjSQ7.jpg' alt='Grass Sky Images – Browse 11,420,737 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/78/24/37/360_F_278243749_YcfWHYJO7cwU3Lq9RG6YX4HzYYvhjSQ7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Sky Images – Browse 11,420,737 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/52/25/90/360_F_252259052_VJVoUob3KBPPCnwbKCGsYYrsCS1d519R.jpg' alt='Grass Sky Images – Browse 11,420,737 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/52/25/90/360_F_252259052_VJVoUob3KBPPCnwbKCGsYYrsCS1d519R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Green Grass Blue Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1597801038590-9e3a24bcd6b7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JlZW4lMjBncmFzcyUyMGJsdWUlMjBza3l8ZW58MHx8MHx8fDA%3D' alt='1K+ Green Grass Blue Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1597801038590-9e3a24bcd6b7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JlZW4lMjBncmFzcyUyMGJsdWUlMjBza3l8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Grass Blue Sky Images – Browse 5,161,200 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/44/07/20/360_F_344072044_0CAzA6k81QSuaphRsMwl6PfjzxIGYF0P.jpg' alt='Green Grass Blue Sky Images – Browse 5,161,200 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/44/07/20/360_F_344072044_0CAzA6k81QSuaphRsMwl6PfjzxIGYF0P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green fields and the blue sky stock video 135931236">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/135931236/video/green-fields-and-the-blue-sky.jpg?s=640x640&k=20&c=U3TWrKsRGOiR_TWL-TGJoJWRz3KTT-4jlP8y8JBut-0=' alt='Green fields and the blue sky stock video 135931236'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/135931236/video/green-fields-and-the-blue-sky.jpg?s=640x640&k=20&c=U3TWrKsRGOiR_TWL-TGJoJWRz3KTT-4jlP8y8JBut-0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Green grass field with blue sky and white clouds background,  40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/57/22/34/1000_F_157223470_w00l5XGUuweJcspKqWugvDfg1v5lekCQ.jpg' alt='Poster, Print Green grass field with blue sky and white clouds background,  40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/57/22/34/1000_F_157223470_w00l5XGUuweJcspKqWugvDfg1v5lekCQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="253,754 Green Grass And Sky Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/154930429/photo/digital-composition-of-green-meadow-and-blue-sky.jpg?s=612x612&w=gi&k=20&c=9O6bClZUArydfg-vJAlnJbsD6D3nDUBEEz6r5zAI864=' alt='253,754 Green Grass And Sky Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/154930429/photo/digital-composition-of-green-meadow-and-blue-sky.jpg?s=612x612&w=gi&k=20&c=9O6bClZUArydfg-vJAlnJbsD6D3nDUBEEz6r5zAI864=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Landscape view of green grass on slope with blue ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/landscape-view-green-grass-slope-with-blue-sky-background_252965-1113.jpg' alt='Premium Photo | Landscape view of green grass on slope with blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/landscape-view-green-grass-slope-with-blue-sky-background_252965-1113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Sky Clouds Background by Thomasvogel">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/grass-sky-clouds-background-thomasvogel.jpg' alt='Grass Sky Clouds Background by Thomasvogel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/grass-sky-clouds-background-thomasvogel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Grass Field Under Blue Sky · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/53545/background-blue-clean-clear-53545.jpeg' alt='Green Grass Field Under Blue Sky · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/53545/background-blue-clean-clear-53545.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

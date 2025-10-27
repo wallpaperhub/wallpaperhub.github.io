@@ -1,0 +1,129 @@
+<title>Revving Up: The Thrill of Street Racing</title>
+                    <meta name="description" content="Explore the exhilarating world of street racing, its origins, and the community it has fostered. Discover the thrill of high-speed competition, the risks involved, and its cultural impact in our concise guide to this adrenaline-fueled phenomenon.">
+                    <meta name="keywords" content="street racing background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/street-racing-background">
+                            <span itemprop="name">street racing background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revving Up: The Thrill of Street Racing</h1>
+                <p>Street racing has its roots in the underground car culture, where speed enthusiasts compete in unregulated, often illegal races on public streets. Originating in the mid-20th century, it has evolved into a global phenomenon, influenced by movies, music, and a passionate community. The thrill of street racing attracts adrenaline junkies, but it also poses serious legal and safety risks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Racing Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blurred-traffic-light-trails-road_1359-1009.jpg' alt='Street Racing Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blurred-traffic-light-trails-road_1359-1009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Racing Road Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/037/247/930/non_2x/ai-generated-speed-racing-advertisment-background-with-copy-space-free-photo.jpg' alt='Racing Road Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/037/247/930/non_2x/ai-generated-speed-racing-advertisment-background-with-copy-space-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Street Racing Night Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1312124155/photo/a-white-car-on-the-road-with-a-blurred-traffic-background.jpg?s=612x612&w=0&k=20&c=-UhmNGFKKtFtMsWLWdnGlFi7KZ1Wd98mM0o3HPmMpeA=' alt='250+ Street Racing Night Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1312124155/photo/a-white-car-on-the-road-with-a-blurred-traffic-background.jpg?s=612x612&w=0&k=20&c=-UhmNGFKKtFtMsWLWdnGlFi7KZ1Wd98mM0o3HPmMpeA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Thrilling Night Street Racing Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/street-racing-nuxv3axzce4wsipu.jpg' alt='Download Thrilling Night Street Racing Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/street-racing-nuxv3axzce4wsipu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Cars Seized By CMPD In Street Racing Crackdown | Charlotte, NC ...">
+                                <img itemprop="contentUrl url" src='https://patch.com/img/cdn20/shutterstock/22921643/20210506/044603/styles/patch_image/public/shutterstock-258760424___06164104398.jpg' alt='60 Cars Seized By CMPD In Street Racing Crackdown | Charlotte, NC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patch" />
+                                </span>
+                                <a href='https://patch.com/img/cdn20/shutterstock/22921643/20210506/044603/styles/patch_image/public/shutterstock-258760424___06164104398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Racing Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1680199304427-d2a10c5f0157?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHN0cmVldCUyMHJhY2luZ3xlbnwwfHwwfHx8MA%3D%3D' alt='Street Racing Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1680199304427-d2a10c5f0157?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHN0cmVldCUyMHJhY2luZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Speedway, Racing, Sports Background Images, Cool Racing Track ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/e9/03/35e903deb57f6669e5b376c3699189f6.jpg' alt='Free Speedway, Racing, Sports Background Images, Cool Racing Track ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/e9/03/35e903deb57f6669e5b376c3699189f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Racing - Tuned Cars and Adrenaline, Police Lights and Death ...">
+                                <img itemprop="contentUrl url" src='https://s1.cdn.autoevolution.com/images/news/street-racing-tuned-cars-and-adrenaline-police-lights-and-death-43812_1.jpg' alt='Street Racing - Tuned Cars and Adrenaline, Police Lights and Death ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="autoevolution" />
+                                </span>
+                                <a href='https://s1.cdn.autoevolution.com/images/news/street-racing-tuned-cars-and-adrenaline-police-lights-and-death-43812_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Beginning of Racing on the Road Racetrack Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beginning-racing-road-racetrack-background-153847689.jpg' alt='The Beginning of Racing on the Road Racetrack Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beginning-racing-road-racetrack-background-153847689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Racing Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/032/752/136/small/captivating-night-drifts-with-a-sport-car-wheel-drifting-amidst-the-dazzling-city-lights-generative-ai-photo.jpg' alt='Street Racing Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/032/752/136/small/captivating-night-drifts-with-a-sport-car-wheel-drifting-amidst-the-dazzling-city-lights-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

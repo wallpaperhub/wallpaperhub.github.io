@@ -1,0 +1,129 @@
+<title>Edgy Phone Wallpapers for Baddies: Stand Out!</title>
+                    <meta name="description" content="Explore fierce and stylish wallpapers for your phone designed for baddies! Find the perfect edgy designs and stunning aesthetics that reflect your unique personality. Elevate your mobile experience with wallpapers that make a bold statement every time you use your device!">
+                    <meta name="keywords" content="wallpaper for phone baddie">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wallpaper-for-phone-baddie">
+                            <span itemprop="name">wallpaper for phone baddie</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy Phone Wallpapers for Baddies: Stand Out!</h1>
+                <p>Transform your phone into a statement piece with bold and edgy wallpapers perfect for baddies. Whether you prefer fierce designs, minimalist aesthetics, or vibrant colors, find the perfect wallpaper that reflects your personality. Stand out from the crowd and showcase your unique style every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink baddie wallpaper!  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' alt='Pink baddie wallpaper!  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Baddie wallpapers ideas | aesthetic iphone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/01/e8/26/01e826224ee8e09b7adf1a4418609790.jpg' alt='16 Baddie wallpapers ideas | aesthetic iphone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/01/e8/26/01e826224ee8e09b7adf1a4418609790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic baddie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' alt='Aesthetic baddie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Baddie Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-baddie-collage-rn45vnqyr118coty.jpg' alt='Iphone Baddie Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-baddie-collage-rn45vnqyr118coty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trippy Aesthetic Baddie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trippy-aesthetic-baddie-holding-pink-gun-soai4s1ktieeokzc.jpg' alt='100+] Trippy Aesthetic Baddie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1036">
+                                <meta itemprop="height" content="1842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trippy-aesthetic-baddie-holding-pink-gun-soai4s1ktieeokzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD baddies wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie-thumbnail.jpg' alt='HD baddies wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Baddie Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baddie-aesthetic-ehkwotn3x0sr94b8.jpg' alt='200+] Baddie Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baddie-aesthetic-ehkwotn3x0sr94b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Baddie Not Today Satan Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/iphone-baddie-red-neon-lights-zd471hsakn844fvi.webp' alt='Iphone Baddie Not Today Satan Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/iphone-baddie-red-neon-lights-zd471hsakn844fvi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BADDIE WALLPAPER,S✨     | Gallery posted by Kayla Davis | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7340070422946398725&index=0&sign=6e058a3b75891feaaaca7b815423d1f1' alt='BADDIE WALLPAPER,S✨     | Gallery posted by Kayla Davis | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7340070422946398725&index=0&sign=6e058a3b75891feaaaca7b815423d1f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Phone Wallpaper / Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45097147/r/il/1e3449/5174698999/il_1080xN.5174698999_gxwm.jpg' alt='Baddie Phone Wallpaper / Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45097147/r/il/1e3449/5174698999/il_1080xN.5174698999_gxwm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

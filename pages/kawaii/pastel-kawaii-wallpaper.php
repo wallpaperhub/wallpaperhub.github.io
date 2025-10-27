@@ -1,0 +1,129 @@
+<title>Adorable Pastel Kawaii Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover the charm of pastel kawaii wallpapers! Perfect for personalizing your phone or computer, these cute designs bring joy and creativity to your screens. Explore a variety of whimsical patterns and colors, making your digital environment as playful and delightful as you are!">
+                    <meta name="keywords" content="pastel kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/pastel-kawaii-wallpaper">
+                            <span itemprop="name">pastel kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel Kawaii Wallpapers for Every Device</h1>
+                <p>Pastel kawaii wallpaper adds a charming touch to any digital space. Bursting with soft colors and cute designs, these wallpapers feature adorable characters, whimsical patterns, and dreamy landscapes. Perfect for anyone looking to infuse their device with a sense of playfulness and cheer, these wallpapers brighten your screen with pastel perfection!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Pastel Kawaii party ideas | kawaii, kawaii wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/40/e6/ba40e6ff89a02d15b143cdf841c10d6f.jpg' alt='900+ Pastel Kawaii party ideas | kawaii, kawaii wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/40/e6/ba40e6ff89a02d15b143cdf841c10d6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple night drink, Art, Cute, Kawaii, Pastel, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/688/157/HD-wallpaper-purple-night-drink-art-cute-kawaii-pastel.jpg' alt='Purple night drink, Art, Cute, Kawaii, Pastel, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/688/157/HD-wallpaper-purple-night-drink-art-cute-kawaii-pastel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii pastel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/fa/d3/7ffad34e644df9677ab753f2d4545481.jpg' alt='Kawaii pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/fa/d3/7ffad34e644df9677ab753f2d4545481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Pastel Pink Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-pastel-pink-background-ozkezqyll4lgqdck.jpg' alt='Download Kawaii Pastel Pink Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-pastel-pink-background-ozkezqyll4lgqdck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii, cute, moon, pastel, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/149/918/HD-wallpaper-kawaii-cute-moon-pastel-purple.jpg' alt='Kawaii, cute, moon, pastel, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/149/918/HD-wallpaper-kawaii-cute-moon-pastel-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Cute Characters And Drawing Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-purple-camera-cute-bear-lc4egsgdqdn578yf.webp' alt='Pastel Cute Characters And Drawing Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-purple-camera-cute-bear-lc4egsgdqdn578yf.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute bear with small flower pastel seamless ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-bear-with-small-flower-pastel-seamless-pattern-kawaii-wallpaper_513640-3190.jpg' alt='Premium Vector | Cute bear with small flower pastel seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-bear-with-small-flower-pastel-seamless-pattern-kawaii-wallpaper_513640-3190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Aesthetic Wallpapers for iPhone (+ Vaporwave / Pastel Kawaii)">
+                                <img itemprop="contentUrl url" src='https://flourishmentary.b-cdn.net/wp-content/uploads/2022/02/pastel-kawaii-aesthetic-iphone-wallpaper-2.jpg' alt='66 Aesthetic Wallpapers for iPhone (+ Vaporwave / Pastel Kawaii)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flourishmentary" />
+                                </span>
+                                <a href='https://flourishmentary.b-cdn.net/wp-content/uploads/2022/02/pastel-kawaii-aesthetic-iphone-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lo-fi Pastel Train Pink Wallpapers Anime Cute Kawaii Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49656304/r/il/2be1fc/5987657241/il_570xN.5987657241_5nkb.jpg' alt='Lo-fi Pastel Train Pink Wallpapers Anime Cute Kawaii Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49656304/r/il/2be1fc/5987657241/il_570xN.5987657241_5nkb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pastel Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/8I0XERh9txGaGqeBlQzAUFNfci4KAKROIipXBmkXt1ymIDLdNoyxuNRGxGihH2pD_w=w526-h296-rw' alt='Kawaii Pastel Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/8I0XERh9txGaGqeBlQzAUFNfci4KAKROIipXBmkXt1ymIDLdNoyxuNRGxGihH2pD_w=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

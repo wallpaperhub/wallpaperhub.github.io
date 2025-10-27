@@ -1,0 +1,129 @@
+<title>Rich Aesthetic Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Explore a curated collection of rich aesthetic wallpaper that adds elegance and sophistication to any room. Perfect for creating a stunning backdrop, our designs boast rich textures and vibrant colors, ideal for enhancing your home décor. Transform your walls today!">
+                    <meta name="keywords" content="rich aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/rich-aesthetic-wallpaper">
+                            <span itemprop="name">rich aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rich Aesthetic Wallpaper: Elevate Your Space</h1>
+                <p>Discover the allure of rich aesthetic wallpaper that transforms your spaces into luxurious retreats. With opulent textures and vivid colors, these wallpapers add depth and character to any room. From vintage florals to modern geometric patterns, embrace a style that reflects your personality and elevates your home décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rich Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luxury-lifestyle-collage-dark-aesthetic-jpg-4wbukvbzuhlym32x.jpg' alt='100+] Rich Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luxury-lifestyle-collage-dark-aesthetic-jpg-4wbukvbzuhlym32x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich Lockscreen ○ Wallpaper ○ Aesthetic | Vision board wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/47/85/b74785ebd4fe05edbc44fb9c06e28a16.jpg' alt='Rich Lockscreen ○ Wallpaper ○ Aesthetic | Vision board wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/47/85/b74785ebd4fe05edbc44fb9c06e28a16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/f3/4c/2df34cdd7736e299a3408c1c00c5d4ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/f3/4c/2df34cdd7736e299a3408c1c00c5d4ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rich Aesthetic Wallpapers | page 2 | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luxury-lifestyle-collage-jpg-1vd406j460hdvp39.jpg' alt='100+] Rich Aesthetic Wallpapers | page 2 | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luxury-lifestyle-collage-jpg-1vd406j460hdvp39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich girl aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/79/a6/9479a67e342001eff3eff08fcc6ab4da.jpg' alt='Rich girl aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1139">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/79/a6/9479a67e342001eff3eff08fcc6ab4da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8581540.jpg' alt='Rich Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8581540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich girl aesthetic    | Classy wallpaper, Iphone wallpaper, Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/4e/0d/274e0d525cf71aa759328fad9920be98.jpg' alt='Rich girl aesthetic    | Classy wallpaper, Iphone wallpaper, Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/4e/0d/274e0d525cf71aa759328fad9920be98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Luxury Fashion Collage_ Rich Girl Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luxury-fashion-collage-rich-girl-aesthetic-v8x5jw9k94vanv5v.jpg' alt='Download Luxury Fashion Collage_ Rich Girl Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1035">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luxury-fashion-collage-rich-girl-aesthetic-v8x5jw9k94vanv5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Black Collage Wallpapers : Rich Girl Aesthetic 1 - Fab Mood ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/01/wallpaper-collage-10.jpg' alt='14 Black Collage Wallpapers : Rich Girl Aesthetic 1 - Fab Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/01/wallpaper-collage-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/63/19/dc631931176ec0240fd080c89d53d584.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/63/19/dc631931176ec0240fd080c89d53d584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

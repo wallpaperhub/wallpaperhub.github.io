@@ -1,0 +1,129 @@
+<title>Transform Your Space with Sage Green Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of sage green wallpaper! Perfect for adding a calming touch to your home, this elegant hue complements any decor style, making your space inviting and serene. Explore various designs to find the ideal match for your aesthetic today!">
+                    <meta name="keywords" content="sage green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sage-green-wallpaper">
+                            <span itemprop="name">sage green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Sage Green Wallpaper</h1>
+                <p>Sage green wallpaper brings a serene and calming touch to any interior space, blending beautifully with various decor styles. Its muted tones are perfect for creating a cozy atmosphere while promoting relaxation. Ideal for bedrooms, living rooms, or offices, sage green adds a refreshing, natural vibe that complements both modern and traditional aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/e4/eb/8de4eba3ef8f18969b40778fde73c51a.jpg' alt='Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/e4/eb/8de4eba3ef8f18969b40778fde73c51a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World of Wallpaper Japanese Garden Inspired Oriental Asian Themed Wallpaper  for Living Room and Bedroom Cherry Blossom Trees and Oriental Birds - Sage  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8178OvkIw1L.jpg' alt='World of Wallpaper Japanese Garden Inspired Oriental Asian Themed Wallpaper  for Living Room and Bedroom Cherry Blossom Trees and Oriental Birds - Sage  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8178OvkIw1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sage green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGKi25Uu_o/1/0/450w/canva-green-simple-watercolor-floral-phone-wallpaper-M-KnvjdpxaQ.jpg' alt='Free and customizable sage green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGKi25Uu_o/1/0/450w/canva-green-simple-watercolor-floral-phone-wallpaper-M-KnvjdpxaQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Spring Blossom Wallpaper in Sage Green">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-SpringBlossom-SageGreen_ILW50359_WEB.webp?crop=center&height=850&v=1705418097&width=850' alt='Sample of Spring Blossom Wallpaper in Sage Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-SpringBlossom-SageGreen_ILW50359_WEB.webp?crop=center&height=850&v=1705418097&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Sage green textured iPhone wallpaper, | Free Photo ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/sage-green-textured-iphone-wallpaper-free-photo-rawpixel--comrawpixel8320832.jpg' alt='Free: Sage green textured iPhone wallpaper, | Free Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/sage-green-textured-iphone-wallpaper-free-photo-rawpixel--comrawpixel8320832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves Sage Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/autumn-leaves-sage-green-wallpaper-744399.jpg?v=1669816567' alt='Autumn Leaves Sage Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/autumn-leaves-sage-green-wallpaper-744399.jpg?v=1669816567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green wallpaper for phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f6/44/7b/f6447bcc2e3ec9dc05d0f42801e3d28b.jpg' alt='Sage green wallpaper for phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f6/44/7b/f6447bcc2e3ec9dc05d0f42801e3d28b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green leaf">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/sage-green-leaf-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Sage green leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/sage-green-leaf-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Upholstery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/sage-green-wall-and-bees-wfn2qm8zrbtr8qu7.webp' alt='Sage Green Upholstery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/sage-green-wall-and-bees-wfn2qm8zrbtr8qu7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ava Sage Green - S10180">
+                                <img itemprop="contentUrl url" src='https://www.scandinavianwallpaper.com/cdn/shop/products/S10180_Ava_Sage-Green_Sandberg-Wallpaper_product-2100x2100-8389a539-21da-4367-abd8-8745e34963fb.jpg?v=1663774456&width=1946' alt='Ava Sage Green - S10180'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1575">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandinavian Wallpaper" />
+                                </span>
+                                <a href='https://www.scandinavianwallpaper.com/cdn/shop/products/S10180_Ava_Sage-Green_Sandberg-Wallpaper_product-2100x2100-8389a539-21da-4367-abd8-8745e34963fb.jpg?v=1663774456&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

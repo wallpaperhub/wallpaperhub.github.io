@@ -1,0 +1,129 @@
+<title>Stunning Live Wallpapers for iPhone 14</title>
+                    <meta name="description" content="Discover beautiful live wallpapers for your iPhone 14! Transform your device with captivating animations and enhance your mobile experience. Download your favorite designs and make your home screen stand out today!">
+                    <meta name="keywords" content="live wallpaper iphone 14">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/live-wallpaper-iphone-14">
+                            <span itemprop="name">live wallpaper iphone 14</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Wallpapers for iPhone 14</h1>
+                <p>Experience your iPhone 14 like never before with stunning live wallpapers! Transform your home and lock screens with dynamic animations that breathe life into your device. Whether you prefer nature scenes, abstract art, or vibrant colors, there's a perfect live wallpaper for everyone. Elevate your iPhone experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get iPhone 14 LIVE wallpapers in any iPhone">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/gCq4Xdv0opg/maxresdefault.jpg' alt='How to get iPhone 14 LIVE wallpapers in any iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/gCq4Xdv0opg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Plus Live Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PSTSwU1pXDc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9UlK1Ni5fOkjaKHZJ0GlUQ9bTng' alt='iPhone 14 Plus Live Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PSTSwU1pXDc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9UlK1Ni5fOkjaKHZJ0GlUQ9bTng' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro live wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBlZvsGzAhf/2/image.jpg' alt='iPhone 14 Pro live wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="2478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBlZvsGzAhf/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone 14 Pro Max Wallpapers Stock and Live 4K : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Q8KqZAXasLTSGhgrsKI3HkiffRCwGy8bnez2Nif1W8M.jpg?auto=webp&s=602fca4f98603339aa73f6365e88cce30b8dae4f' alt='Download iPhone 14 Pro Max Wallpapers Stock and Live 4K : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Q8KqZAXasLTSGhgrsKI3HkiffRCwGy8bnez2Nif1W8M.jpg?auto=webp&s=602fca4f98603339aa73f6365e88cce30b8dae4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tutorial Live Wallpapers ☺️">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7141832194804157702&location=0&aid=1988' alt='Tutorial Live Wallpapers ☺️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7141832194804157702&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Black 3d Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-14-pro-black-3d-ygld9pcpin20x6mw.jpg' alt='Iphone 14 Pro Black 3d Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-14-pro-black-3d-ygld9pcpin20x6mw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Event - Peek Performance | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/Live-Wallpaper.mov-00m02s96-B315597A-764C-44FE-B992-DE7D57D1AA35.jpg' alt='Apple Event - Peek Performance | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/Live-Wallpaper.mov-00m02s96-B315597A-764C-44FE-B992-DE7D57D1AA35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro will get live wallpapers that adapt to the always-on ...">
+                                <img itemprop="contentUrl url" src='https://www.gizchina.com/wp-content/uploads/images/2022/04/imagem_2022-04-20_133722742-700x394.png?mrf-size=m' alt='iPhone 14 Pro will get live wallpapers that adapt to the always-on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gizchina.com" />
+                                </span>
+                                <a href='https://www.gizchina.com/wp-content/uploads/images/2022/04/imagem_2022-04-20_133722742-700x394.png?mrf-size=m' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro 3d Microscopic Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-3d-microscopic-blue-yhruhmvfj1bts0iq.jpg' alt='Iphone 14 Pro 3d Microscopic Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-3d-microscopic-blue-yhruhmvfj1bts0iq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="live wallpapers – Unicorn Apps">
+                                <img itemprop="contentUrl url" src='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpapers-Black-750x1624.jpg' alt='live wallpapers – Unicorn Apps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unicorn Apps" />
+                                </span>
+                                <a href='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpapers-Black-750x1624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Rustic Country Western Aesthetic Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore our collection of country western aesthetic wallpaper, designed to bring a touch of rustic charm to your home. Perfect for cozy interiors, our wallpapers capture the spirit of the countryside with beautiful designs and inviting colors. Transform your space today!">
+                    <meta name="keywords" content="country western country aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/country-western-country-aesthetic-wallpaper">
+                            <span itemprop="name">country western country aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rustic Country Western Aesthetic Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning country western aesthetic wallpapers that evoke the charm of rustic landscapes and cowboy culture. Featuring rich textures, beautiful scenery, and warm color palettes, these wallpapers bring the essence of the countryside into your home. Perfect for any room, they create a cozy, inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="western wallpaper!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/f7/43/56f74339f62b5d530bb36e64a19d647e.jpg' alt='western wallpaper!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/f7/43/56f74339f62b5d530bb36e64a19d647e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/c3/fe/e5c3fe6ac946880913c3441ea2ca17b9.jpg' alt='Western aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/c3/fe/e5c3fe6ac946880913c3441ea2ca17b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western theme macbook wallpaper - Jess Handel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d0/4e/1c/d04e1ca61b16daf58b18655c9ce2e71d.png' alt='Western theme macbook wallpaper - Jess Handel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d0/4e/1c/d04e1ca61b16daf58b18655c9ce2e71d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western background ideas. country background, western wall art ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/974/382/HD-wallpaper-western-background-ideas-country-background-western-wall-art-western-aesthetic-western-asthetic.jpg' alt='Western background ideas. country background, western wall art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/974/382/HD-wallpaper-western-background-ideas-country-background-western-wall-art-western-aesthetic-western-asthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' alt='Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Country Girl, Western Asthetic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/692/1023/HD-wallpaper-aesthetic-country-girl-western-asthetic.jpg' alt='Aesthetic Country Girl, Western Asthetic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/692/1023/HD-wallpaper-aesthetic-country-girl-western-asthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ANERZA Western Room Decor, Wall Collage Kit Aesthetic Pictures ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zfRTWgsmL._AC_UF1000,1000_QL80_.jpg' alt='ANERZA Western Room Decor, Wall Collage Kit Aesthetic Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="903">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.amazon.sa" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zfRTWgsmL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute country hotsell wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-country-girl-aesthetic-zkczye2b1zg2ibjc.jpg' alt='Cute country hotsell wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cala Restaurante" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-country-girl-aesthetic-zkczye2b1zg2ibjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Western Life Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-country-western-life-collage-0y0k0rwwzor9ocrx.jpg' alt='Cute Country Western Life Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-country-western-life-collage-0y0k0rwwzor9ocrx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cowgirl wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/4a/fd/2b4afd4ca6fe965825077e3f816f324b.jpg' alt='cowgirl wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/4a/fd/2b4afd4ca6fe965825077e3f816f324b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

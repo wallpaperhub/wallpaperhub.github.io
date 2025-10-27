@@ -1,0 +1,129 @@
+<title>Elegant Vintage French Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Discover the beauty of vintage French wallpaper. Transform your home with elegant patterns and rich textures that add a touch of classic style. Perfect for any decor, these wallpapers offer a unique charm that speaks of history and artistry. Explore your options and elevate your space today!">
+                    <meta name="keywords" content="vintage french wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-french-wallpaper">
+                            <span itemprop="name">vintage french wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Vintage French Wallpaper for Timeless Decor</h1>
+                <p>Vintage French wallpaper brings a touch of elegance and nostalgia to any space. Characterized by intricate patterns, rich textures, and timeless color palettes, these wallpapers can transform ordinary rooms into extraordinary showcases of style. Perfect for those who appreciate the charm of classic design, vintage French wallpaper offers a unique blend of art and history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Vintage French Damasks High Standard Textured Wallpaper Wall  Paper for Livingroom Kitchen Bedroom,20.8 In32.8 Ft=57 Sq.ft (Blue ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HmINIZcWL.jpg' alt='Blooming Wall Vintage French Damasks High Standard Textured Wallpaper Wall  Paper for Livingroom Kitchen Bedroom,20.8 In32.8 Ft=57 Sq.ft (Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HmINIZcWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage French Maps Wallpaper • Contemporary • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-FrenchMaps-1-1100x1318.jpg' alt='Vintage French Maps Wallpaper • Contemporary • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-FrenchMaps-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage French Wallpaper Peel and Stick French Country Style ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/cea612/5819922903/il_570xN.5819922903_on70.jpg' alt='Vintage French Wallpaper Peel and Stick French Country Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/cea612/5819922903/il_570xN.5819922903_on70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HaokHome Vintage French Damask Peel & Stick Brown Vinyl Self Adhesive Wall  Paper Design for Walls - 1 roll:W17.7*L118 inches">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/files/Vintage_French_Damask_Peel_Stick_Brown_Vinyl_Self_Adhesive_Wall_Paper_Design_for_Walls-3.jpg?v=1720686206&width=1445' alt='HaokHome Vintage French Damask Peel & Stick Brown Vinyl Self Adhesive Wall  Paper Design for Walls - 1 roll:W17.7*L118 inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/files/Vintage_French_Damask_Peel_Stick_Brown_Vinyl_Self_Adhesive_Wall_Paper_Design_for_Walls-3.jpg?v=1720686206&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook French Country Bernadette Jacobean Wallpaper - Pomme & Antique Ruby">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/FC60404_125eed54-000a-4bc6-aa50-cfa7a7e610f1.jpg?v=1707364929' alt='Seabrook French Country Bernadette Jacobean Wallpaper - Pomme & Antique Ruby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/FC60404_125eed54-000a-4bc6-aa50-cfa7a7e610f1.jpg?v=1707364929' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAOKHOME Vintage French Damask Peel and Stick Wallpaper Deep Yellow/Mist  Blue/Brown Vinyl Self Adhesive Wall Paper Design for Walls Bathroom Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71xFJmf7XkL._AC_UF894,1000_QL80_.jpg' alt='HAOKHOME Vintage French Damask Peel and Stick Wallpaper Deep Yellow/Mist  Blue/Brown Vinyl Self Adhesive Wall Paper Design for Walls Bathroom Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71xFJmf7XkL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Vintage Blooms French Leaf & Petals Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/yellow-vintage-blooms-french-leaf-petal-xuqz-l.jpg' alt='Yellow Vintage Blooms French Leaf & Petals Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/yellow-vintage-blooms-french-leaf-petal-xuqz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest VF31104 French Bouquet Vintage Turquoise Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202043.jpg' alt='Wallquest VF31104 French Bouquet Vintage Turquoise Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202043.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage french stripped floral pattern Classic Wallpaper patterns ...">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/77143.jpg' alt='Vintage french stripped floral pattern Classic Wallpaper patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/77143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antiqued Rose Floral Wallpaper, Vintage French Victorian, Burgundy Faded  Country Flower, Distressed Faux Texture – By The Yard SP24431so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/8117ac/751992336/il_570xN.751992336_s3cd.jpg' alt='Antiqued Rose Floral Wallpaper, Vintage French Victorian, Burgundy Faded  Country Flower, Distressed Faux Texture – By The Yard SP24431so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/8117ac/751992336/il_570xN.751992336_s3cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

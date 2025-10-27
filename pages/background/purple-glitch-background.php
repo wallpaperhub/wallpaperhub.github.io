@@ -1,0 +1,129 @@
+<title>Purple Glitch Background: A Unique Visual Experience</title>
+                    <meta name="description" content="Explore captivating purple glitch backgrounds that enhance your digital content. Ideal for artists, gamers, and influencers, these dynamic designs offer a striking aesthetic that stands out on any platform. Perfect for creating memorable visuals that resonate with your audience.">
+                    <meta name="keywords" content="purple glitch background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-glitch-background">
+                            <span itemprop="name">purple glitch background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Glitch Background: A Unique Visual Experience</h1>
+                <p>Discover the allure of a purple glitch background that blends vibrant hues and dynamic patterns. Perfect for digital art, gaming, and social media, this eye-catching backdrop adds a modern twist to your projects. It captures attention with its unique visual appeal, allowing creativity to flourish in a sea of purple shades.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitch Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/glitch-background_1217-1312.jpg' alt='Purple Glitch Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/glitch-background_1217-1312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Visual effect film texture">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/064/145/small_2x/glitch-visual-effect-film-texture-video.jpg' alt='Glitch Visual effect film texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/064/145/small_2x/glitch-visual-effect-film-texture-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitch Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/glitch-background_23-2148090238.jpg' alt='Purple Glitch Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/glitch-background_23-2148090238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple glitch background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/15/50/purple-glitch-background-vector-17431550.jpg' alt='Purple glitch background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/15/50/purple-glitch-background-vector-17431550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple digital glitch background. Violet pixel distortion glitch transition  4K">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/purple-digital-glitch-background-violet-footage-168926903_iconl.jpeg' alt='Purple digital glitch background. Violet pixel distortion glitch transition  4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/purple-digital-glitch-background-violet-footage-168926903_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitch Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-cyberpunk-purple-glitch-background-260nw-2263220913.jpg' alt='Purple Glitch Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-cyberpunk-purple-glitch-background-260nw-2263220913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitch Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-neon-background-with-glitch-effect_126980-551.jpg' alt='Purple Glitch Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-neon-background-with-glitch-effect_126980-551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant, Purple/violet Digital Pixel Glitch Background/texture ...">
+                                <img itemprop="contentUrl url" src='https://c.stocksy.com/a/MJBB00/z9/2665092.jpg' alt='Vibrant, Purple/violet Digital Pixel Glitch Background/texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stocksy" />
+                                </span>
+                                <a href='https://c.stocksy.com/a/MJBB00/z9/2665092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright moving square layers. Design. Neon shimmering layers move in dark  computer space. Failure with neon cracks in matrix layers">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/303/595/small_2x/bright-moving-square-layers-design-neon-shimmering-layers-move-in-dark-computer-space-failure-with-neon-cracks-in-matrix-layers-video.jpg' alt='Bright moving square layers. Design. Neon shimmering layers move in dark  computer space. Failure with neon cracks in matrix layers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/303/595/small_2x/bright-moving-square-layers-design-neon-shimmering-layers-move-in-dark-computer-space-failure-with-neon-cracks-in-matrix-layers-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract cyber glitch digital background 4k stock video 1411664504">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411664504/video/abstract-cyber-glitch-digital-background-4k.jpg?s=640x640&k=20&c=9qlijcrw31N8r_jZHXYrx5JA6FK5oqwnST3MTyeWxeM=' alt='Abstract cyber glitch digital background 4k stock video 1411664504'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411664504/video/abstract-cyber-glitch-digital-background-4k.jpg?s=640x640&k=20&c=9qlijcrw31N8r_jZHXYrx5JA6FK5oqwnST3MTyeWxeM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

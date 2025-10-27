@@ -1,0 +1,129 @@
+<title>Pineapple iPhone Wallpaper: Tropical Vibes for Your Screen</title>
+                    <meta name="description" content="Explore stunning pineapple iPhone wallpapers that bring a burst of tropical flair to your device. Perfect for summer enthusiasts, our collection features vibrant designs that brighten your home screen and showcase your unique style. Download now for an instant refresh!">
+                    <meta name="keywords" content="pineapple iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pineapple-iphone-wallpaper">
+                            <span itemprop="name">pineapple iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pineapple iPhone Wallpaper: Tropical Vibes for Your Screen</h1>
+                <p>A pineapple iPhone wallpaper adds a vibrant touch to your device, capturing the tropical essence of summer. With its bold colors and refreshing design, it’s perfect for anyone looking to brighten up their home screen. Discover various pineapple-themed wallpapers that enhance your style while keeping it fun and fresh.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pineapple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pineapple-iphone-jqe15zb9nxbv54pt.jpg' alt='100+] Pineapple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pineapple-iphone-jqe15zb9nxbv54pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Iphone Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d5f33818836703.562d026c0e5b8.jpg' alt='Pineapple Iphone Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d5f33818836703.562d026c0e5b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Pineapple Wallpaper for iPhone [Free Downloads]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/35/bd/c935bd851e493411e6ec15613ef03850.jpg' alt='35 Pineapple Wallpaper for iPhone [Free Downloads]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/35/bd/c935bd851e493411e6ec15613ef03850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Pineapple Wallpaper for iPhone [Free Downloads]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/7b/18/287b1843ff5e99b7a383a7798643108a.jpg' alt='35 Pineapple Wallpaper for iPhone [Free Downloads]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/7b/18/287b1843ff5e99b7a383a7798643108a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Iphone Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/829a9718836703.562d026c0117b.jpg' alt='Pineapple Iphone Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/829a9718836703.562d026c0117b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pineapple wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.815954606.2202/flat,750x1000,075,t.u2.jpg' alt='Blue Pineapple wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.815954606.2202/flat,750x1000,075,t.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Pineapple Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3NtYWxsZGVzaWduY29tcGFueTAxX21pbmltYWxpc3RfcGluZWFwcGxlX19taW5pbWFsX3dhbGxwYXBlcl9hOTdjZmI3Zi1lZThmLTRmOGQtOTI1Mi01YTA1MjJlNTljZGUuanBn.jpg' alt='Iphone Wallpaper Pineapple Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3NtYWxsZGVzaWduY29tcGFueTAxX21pbmltYWxpc3RfcGluZWFwcGxlX19taW5pbWFsX3dhbGxwYXBlcl9hOTdjZmI3Zi1lZThmLTRmOGQtOTI1Mi01YTA1MjJlNTljZGUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 25+ Pineapple wallpaper ideas on Pinterest | Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5d/db/c6/5ddbc6237546bee78b80f03848e3abd8.jpg' alt='Best 25+ Pineapple wallpaper ideas on Pinterest | Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5d/db/c6/5ddbc6237546bee78b80f03848e3abd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Iphone 2021 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pineapple-iphone-2021-whkmytq2wq58rv22.jpg' alt='Pineapple Iphone 2021 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pineapple-iphone-2021-whkmytq2wq58rv22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Pineapple-with-sunglasses-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Pineapple-with-sunglasses-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

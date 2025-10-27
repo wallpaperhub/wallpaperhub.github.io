@@ -1,0 +1,129 @@
+<title>Red Wood Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the elegance of red wood wallpaper, designed to enhance your home's aesthetic. Perfect for any room, this wallpaper combines style and functionality, offering a vibrant wood-like experience. Ideal for accent walls and cozy interiors. Upgrade your decor effortlessly with our premium selection!">
+                    <meta name="keywords" content="red wood wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-wood-wallpaper">
+                            <span itemprop="name">red wood wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red Wood Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning red wood wallpaper, bringing warmth and sophistication to any room. Ideal for creating a cozy atmosphere, this wallpaper mimics the beauty of natural wood grain while ensuring durability and easy maintenance. Perfect for living rooms, bedrooms, or accent walls that make a statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Background Images – Browse 4,620,541 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/87/65/03/360_F_287650363_FMJQVBOpG370B9ix4CuP3UdRLcF4RD9X.jpg' alt='Red Wood Background Images – Browse 4,620,541 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/87/65/03/360_F_287650363_FMJQVBOpG370B9ix4CuP3UdRLcF4RD9X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520418764023-b1ca3dc2793b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwd29vZHxlbnwwfHwwfHx8MA%3D%3D' alt='Red Wood Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520418764023-b1ca3dc2793b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwd29vZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wooden-background-pattern-colored-design_21730-10838.jpg?semt=ais_hybrid' alt='Red Wood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wooden-background-pattern-colored-design_21730-10838.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-background-texture-with-dark-gradient-resembling-red-wooden-wall-abstract-background_1164292-6156.jpg?semt=ais_hybrid' alt='Red Wood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-background-texture-with-dark-gradient-resembling-red-wooden-wall-abstract-background_1164292-6156.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper red, wood, pattern for mobile and desktop, section ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/9/89/pattern-wood-red.webp' alt='Wallpaper red, wood, pattern for mobile and desktop, section ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/9/89/pattern-wood-red.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="old red wood background with wooden vintage texture in elegant ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/06/50/40/1000_F_306504008_j1qJGimXGvyqlcZN0VyjxiQYswi0BHfl.jpg' alt='old red wood background with wooden vintage texture in elegant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/06/50/40/1000_F_306504008_j1qJGimXGvyqlcZN0VyjxiQYswi0BHfl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340+ Red Wood Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366122985/photo/red-painted-wooden-board-texture-and-background.jpg?s=612x612&w=0&k=20&c=NrdA0BytXzbfAW6jLQmb_lWKyScB1NkzvNJdyAZDadU=' alt='340+ Red Wood Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366122985/photo/red-painted-wooden-board-texture-and-background.jpg?s=612x612&w=0&k=20&c=NrdA0BytXzbfAW6jLQmb_lWKyScB1NkzvNJdyAZDadU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Distressed Background Images – Browse 16,344 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/80/29/09/360_F_1080290981_WZdoVhytGqW55IC2V6GcjRFGKS6xx89B.jpg' alt='Red Wood Distressed Background Images – Browse 16,344 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/80/29/09/360_F_1080290981_WZdoVhytGqW55IC2V6GcjRFGKS6xx89B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-striped-cardboard-texture_1194-5431.jpg' alt='Red Wood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-striped-cardboard-texture_1194-5431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Red Wood Texture Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/textures.world/wp-content/uploads/2024/10/10-Red-Wood-Texture-Background.jpg?ssl=1' alt='20 Red Wood Texture Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures.World" />
+                                </span>
+                                <a href='https://i0.wp.com/textures.world/wp-content/uploads/2024/10/10-Red-Wood-Texture-Background.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

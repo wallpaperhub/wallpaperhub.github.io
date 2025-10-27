@@ -1,0 +1,129 @@
+<title>Cozy Christmas Wallpapers for iPhone: Festive Designs</title>
+                    <meta name="description" content="Discover the perfect cozy Christmas wallpapers for your iPhone. Enjoy festive designs that capture the warmth of the holiday season. Personalize your device with cheerful patterns, Snowy landscapes, and joyful scenes to spread Christmas cheer each time you check your phone!">
+                    <meta name="keywords" content="cozy christmas wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cozy-christmas-wallpaper-iphone">
+                            <span itemprop="name">cozy christmas wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Christmas Wallpapers for iPhone: Festive Designs</h1>
+                <p>Embrace the holiday spirit with our cozy Christmas wallpaper for iPhone! Transform your screen into a winter wonderland filled with festive patterns, twinkling lights, and heartwarming scenes. Perfect for adding a touch of warmth and joy to your device, these wallpapers are designed to make your holiday season even merrier!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Jolly Christmas Wallpaper Iphone - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c6/16/f1/c616f1f72da771769326153375b50092.jpg' alt='25+ Jolly Christmas Wallpaper Iphone - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c6/16/f1/c616f1f72da771769326153375b50092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Aesthetic – Xmas Wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/e9/62/47e962c213f643bf79cefa2b9212f50d.jpg' alt='Christmas Aesthetic – Xmas Wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/e9/62/47e962c213f643bf79cefa2b9212f50d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Christmas iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11794645.jpg' alt='Cozy Christmas iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11794645.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get into the festive spirit with our latest collection of free phone  wallpapers: Christmas Forest! This cozy collection brings the holiday magic  right to your screen with beautiful evergreen trees, ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' alt='Get into the festive spirit with our latest collection of free phone  wallpapers: Christmas Forest! This cozy collection brings the holiday magic  right to your screen with beautiful evergreen trees, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Christmas wallpapers for smartphone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/c7/fb/47c7fb3b6e44e16e750b1352f0ae753a.jpg' alt='Gorgeous Christmas wallpapers for smartphone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="491">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/c7/fb/47c7fb3b6e44e16e750b1352f0ae753a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cozy christmas wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBs5wFPytNh/1/image.jpg' alt='cozy christmas wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBs5wFPytNh/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas iPhone Wallpaper❄   | Gallery posted by L ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7299888741894849030&index=2&sign=9662ae53a3d3ecca0b2c2535d0985e68' alt='Aesthetic Christmas iPhone Wallpaper❄   | Gallery posted by L ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7299888741894849030&index=2&sign=9662ae53a3d3ecca0b2c2535d0985e68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Holidays 55 Cozy Christmas iPhone Wallpaper Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/13/e8/a113e88704b0cf83b205c6f30fb26c04.jpg' alt='Christmas Holidays 55 Cozy Christmas iPhone Wallpaper Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/13/e8/a113e88704b0cf83b205c6f30fb26c04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper, Christmas Phone Wallpaper, Cozy Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22865550/r/il/5e3975/5576653239/il_fullxfull.5576653239_3cn7.jpg' alt='Christmas Wallpaper, Christmas Phone Wallpaper, Cozy Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22865550/r/il/5e3975/5576653239/il_fullxfull.5576653239_3cn7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Christmas Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/97shSFy-FANgfpZx0WH8b5a9fyI=/fit-in/792x1187/filters:format_auto():upscale()/2020/12/09/932/n/1922507/09bc2b5c70409ef8_eugenivy_now-374abd8l9pU-unsplash.jpg' alt='iPhone Christmas Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/97shSFy-FANgfpZx0WH8b5a9fyI=/fit-in/792x1187/filters:format_auto():upscale()/2020/12/09/932/n/1922507/09bc2b5c70409ef8_eugenivy_now-374abd8l9pU-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

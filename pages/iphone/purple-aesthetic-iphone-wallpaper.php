@@ -1,0 +1,129 @@
+<title>Purple Aesthetic iPhone Wallpapers: Chic and Stylish</title>
+                    <meta name="description" content="Discover a collection of stunning purple aesthetic iPhone wallpapers. Elevate your device’s look with vibrant gradients and artistic designs, perfectly crafted for those who love unique aesthetics. Explore now and find your next favorite background!">
+                    <meta name="keywords" content="purple aesthetic iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/purple-aesthetic-iphone-wallpaper">
+                            <span itemprop="name">purple aesthetic iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Aesthetic iPhone Wallpapers: Chic and Stylish</h1>
+                <p>Enhance your iPhone screen with beautiful purple aesthetic wallpapers. These stunning backgrounds feature gradients, floral designs, and abstract patterns in varying shades of purple. Perfect for those who appreciate a blend of tranquility and creativity, these wallpapers will transform your device into a stylish and calming space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collage In Purple Aesthetic Iphone Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-illustration-purple-aesthetic-iphone-display-2ydjnv1kxdrrlxgf.webp' alt='Collage In Purple Aesthetic Iphone Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-illustration-purple-aesthetic-iphone-display-2ydjnv1kxdrrlxgf.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1jLTAwMy5qcGc.jpg' alt='Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1jLTAwMy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Purple Aesthetic Iphone Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/gorgeous-purple-aesthetic-iphone-theme-1h9ig7azuscbkoff.jpg' alt='Gorgeous Purple Aesthetic Iphone Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/gorgeous-purple-aesthetic-iphone-theme-1h9ig7azuscbkoff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Pastel Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-pastel-iphone-e691uk5z2elnn8us.jpg' alt='100+] Purple Pastel Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-pastel-iphone-e691uk5z2elnn8us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/cd/26/7ecd26c352de808cc92976f84270e518.jpg' alt='Purple Aesthetic IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/cd/26/7ecd26c352de808cc92976f84270e518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                                                   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/79/db/9c79dba26b6d34497c1154b784b8f698.jpg' alt='                                                                   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/79/db/9c79dba26b6d34497c1154b784b8f698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/kawaii-purple-sky-with-moon-77wr9b85irtsmxa8.webp' alt='Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/kawaii-purple-sky-with-moon-77wr9b85irtsmxa8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-purple-iphone-ijereiasvkz8cn44.jpg' alt='100+] Pastel Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-purple-iphone-ijereiasvkz8cn44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light purple aesthetic wallpaper | Purple aesthetic, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/00/89/8f00890893d4337d261a031ef085d4bf.jpg' alt='Light purple aesthetic wallpaper | Purple aesthetic, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/00/89/8f00890893d4337d261a031ef085d4bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Aesthetic IPhone Wallpaper by happvz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c772b7ab-dca0-4d06-a720-0959f6a3bec0/ded78uy-4e469f5c-528a-439a-bda2-68dd0b37f95e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3NzJiN2FiLWRjYTAtNGQwNi1hNzIwLTA5NTlmNmEzYmVjMFwvZGVkNzh1eS00ZTQ2OWY1Yy01MjhhLTQzOWEtYmRhMi02OGRkMGIzN2Y5NWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ua5OTFFYKQIvAN7YKOR70DSAj9rFFGODLlH6gUZBBZs' alt='Dark Purple Aesthetic IPhone Wallpaper by happvz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c772b7ab-dca0-4d06-a720-0959f6a3bec0/ded78uy-4e469f5c-528a-439a-bda2-68dd0b37f95e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3NzJiN2FiLWRjYTAtNGQwNi1hNzIwLTA5NTlmNmEzYmVjMFwvZGVkNzh1eS00ZTQ2OWY1Yy01MjhhLTQzOWEtYmRhMi02OGRkMGIzN2Y5NWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ua5OTFFYKQIvAN7YKOR70DSAj9rFFGODLlH6gUZBBZs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

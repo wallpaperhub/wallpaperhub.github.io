@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Among Us Maps</title>
+                    <meta name="description" content="Discover the different Among Us maps! Learn about their layouts, tasks, and strategies to outsmart impostors. Master each environment to enhance your gameplay and teamwork. Perfect for new and seasoned players alike!">
+                    <meta name="keywords" content="among us maps">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/among-us-maps">
+                            <span itemprop="name">among us maps</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Among Us Maps</h1>
+                <p>Among Us maps offer unique environments for players to navigate, complete tasks, and identify impostors. Each map features distinct rooms, including Medbay, Electrical, and Navigation, with strategic gameplay elements. Understanding these layouts is key to mastering the game and enhancing teamwork. Explore the intriguing designs of each map!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us maps guide">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/uploads/2021/02/among-us-maps-skeld.jpg' alt='Among Us maps guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/uploads/2021/02/among-us-maps-skeld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Skeld | Among Us Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/among-us-wiki/images/3/35/The_Skeld_map.png/revision/latest?cb=20201111005126' alt='The Skeld | Among Us Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8565">
+                                <meta itemprop="height" content="4794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Among Us Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/among-us-wiki/images/3/35/The_Skeld_map.png/revision/latest?cb=20201111005126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us MIRA HQ Map Guide – Map, Vents, & Tips for Moving Around">
+                                <img itemprop="contentUrl url" src='https://static.fanbyte.com/uploads/2020/08/Among-Us-MIRA-HQ-Map.jpg' alt='Among Us MIRA HQ Map Guide – Map, Vents, & Tips for Moving Around'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fanbyte" />
+                                </span>
+                                <a href='https://static.fanbyte.com/uploads/2020/08/Among-Us-MIRA-HQ-Map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Airship | Among Us Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/among-us-wiki/images/a/a1/The_Airship_map.png/revision/latest?cb=20220622191604' alt='The Airship | Among Us Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7000">
+                                <meta itemprop="height" content="3852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Among Us Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/among-us-wiki/images/a/a1/The_Airship_map.png/revision/latest?cb=20220622191604' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us' Skeld Map Is Gorgeous In Cartoony 3D Recreation">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/among-us-skeld-map-header.jpg' alt='Among Us' Skeld Map Is Gorgeous In Cartoony 3D Recreation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/among-us-skeld-map-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us The Skeld Map Guide - Map, Vents, & Tips for Moving Around">
+                                <img itemprop="contentUrl url" src='https://static.fanbyte.com/uploads/2020/08/Among-Us-The-Skeled-Map.jpg' alt='Among Us The Skeld Map Guide - Map, Vents, & Tips for Moving Around'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fanbyte" />
+                                </span>
+                                <a href='https://static.fanbyte.com/uploads/2020/08/Among-Us-The-Skeled-Map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us - Skeld Map Wall Poster, 14.725" x 22.375" - Walmart.com">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Among-Us-Skeld-Map-Wall-Poster-14-725-x-22-375_e652be7c-5e95-455c-a0b2-18d87ef0119b.bbb96d7ce8de3c21916d307c0d841657.jpeg' alt='Among Us - Skeld Map Wall Poster, 14.725" x 22.375" - Walmart.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Among-Us-Skeld-Map-Wall-Poster-14-725-x-22-375_e652be7c-5e95-455c-a0b2-18d87ef0119b.bbb96d7ce8de3c21916d307c0d841657.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a Hi-Rez map of Polus with details for you guys! : r/AmongUs">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e0uuv4nxxbr51.png?auto=webp&s=6f49053374b4980aca9986e8a6c4ea6f2d14e1fd' alt='Here's a Hi-Rez map of Polus with details for you guys! : r/AmongUs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5183">
+                                <meta itemprop="height" content="3601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e0uuv4nxxbr51.png?auto=webp&s=6f49053374b4980aca9986e8a6c4ea6f2d14e1fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us' Map Guide: Learn the Locations and Kill Zones (Skeld ...">
+                                <img itemprop="contentUrl url" src='https://d.techtimes.com/en/full/374414/electrical.png?w=836&f=111ca30545788b099bf5224400a2dbca' alt='Among Us' Map Guide: Learn the Locations and Kill Zones (Skeld ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Times" />
+                                </span>
+                                <a href='https://d.techtimes.com/en/full/374414/electrical.png?w=836&f=111ca30545788b099bf5224400a2dbca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AmongUs map that could work for a sci-fi tie-in : r/battlemaps">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ldfi6xzs56t51.png' alt='AmongUs map that could work for a sci-fi tie-in : r/battlemaps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8636">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ldfi6xzs56t51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

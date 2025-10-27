@@ -1,0 +1,129 @@
+<title>How to Run Tcpdump in the Background</title>
+                    <meta name="description" content="Learn how to run tcpdump in the background effortlessly. Capture network packets without disrupting your tasks using simple commands. This easy guide offers quick tips for effective packet analysis while keeping your command line free for additional work.">
+                    <meta name="keywords" content="run tcpdump in background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/run-tcpdump-in-background">
+                            <span itemprop="name">run tcpdump in background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Run Tcpdump in the Background</h1>
+                <p>Running tcpdump in the background allows you to capture network packets efficiently without interrupting your workflow. Use the command `tcpdump -i [interface] -w [filename] &` to initiate the capture process. The `&` symbol places the job in the background, freeing your terminal for other commands while tcpdump runs silently.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tcpdump command | Linux#">
+                                <img itemprop="contentUrl url" src='https://geek-university.com/wp-content/images/linux/tcpdump_read_file.jpg' alt='tcpdump command | Linux#'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geek University" />
+                                </span>
+                                <a href='https://geek-university.com/wp-content/images/linux/tcpdump_read_file.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Started with TCPdump: Capture and Analyze Network Traffic | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*Eg51RvcJm_zI2ldS' alt='Get Started with TCPdump: Capture and Analyze Network Traffic | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*Eg51RvcJm_zI2ldS' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lab 51 – Packet capture with tcpdump - 101Labs.net">
+                                <img itemprop="contentUrl url" src='https://www.101labs.net/wp-content/uploads/2022/04/51-8.png' alt='Lab 51 – Packet capture with tcpdump - 101Labs.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="919">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="101 Labs" />
+                                </span>
+                                <a href='https://www.101labs.net/wp-content/uploads/2022/04/51-8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="linux - How to display interface in tcpdump output flow? - Server ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/lnpIA.jpg' alt='linux - How to display interface in tcpdump output flow? - Server ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Server Fault" />
+                                </span>
+                                <a href='https://i.sstatic.net/lnpIA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wireshark & tcpdump: A Debugging Power Couple">
+                                <img itemprop="contentUrl url" src='https://cdn.hashnode.com/res/hashnode/image/upload/v1711875529541/aa044341-182d-43c8-93fc-2509a8da7be4.png?auto=compress,format&format=webp' alt='Wireshark & tcpdump: A Debugging Power Couple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2024">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DebugAgent" />
+                                </span>
+                                <a href='https://cdn.hashnode.com/res/hashnode/image/upload/v1711875529541/aa044341-182d-43c8-93fc-2509a8da7be4.png?auto=compress,format&format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using tcpdump with DD-WRT | Big Dan the Blogging Man">
+                                <img itemprop="contentUrl url" src='https://bigdanzblog.wordpress.com/wp-content/uploads/2017/09/buff-tcpdump-fig02.png' alt='Using tcpdump with DD-WRT | Big Dan the Blogging Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Dan the Blogging Man - WordPress.com" />
+                                </span>
+                                <a href='https://bigdanzblog.wordpress.com/wp-content/uploads/2017/09/buff-tcpdump-fig02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Started with TCPdump: Capture and Analyze Network Traffic | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*Dg3bpmacWvingm3f' alt='Get Started with TCPdump: Capture and Analyze Network Traffic | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="881">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*Dg3bpmacWvingm3f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lab 51 – Packet capture with tcpdump - 101Labs.net">
+                                <img itemprop="contentUrl url" src='https://www.101labs.net/wp-content/uploads/2022/04/51-5.png' alt='Lab 51 – Packet capture with tcpdump - 101Labs.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="101 Labs" />
+                                </span>
+                                <a href='https://www.101labs.net/wp-content/uploads/2022/04/51-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TCPdump Guide - NETWORK ENCYCLOPEDIA">
+                                <img itemprop="contentUrl url" src='https://networkencyclopedia.com/wp-content/uploads/2022/03/tcpdump-for-windows-1024x576.webp' alt='TCPdump Guide - NETWORK ENCYCLOPEDIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Network Encyclopedia" />
+                                </span>
+                                <a href='https://networkencyclopedia.com/wp-content/uploads/2022/03/tcpdump-for-windows-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspecting network traffic with tcpdump and Wireshark">
+                                <img itemprop="contentUrl url" src='https://witestlab.poly.edu/blog/content/images/2023/09/1-wireshark-window.svg' alt='Inspecting network traffic with tcpdump and Wireshark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WITest" />
+                                </span>
+                                <a href='https://witestlab.poly.edu/blog/content/images/2023/09/1-wireshark-window.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

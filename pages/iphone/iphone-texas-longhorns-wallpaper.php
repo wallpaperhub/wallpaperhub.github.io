@@ -1,0 +1,129 @@
+<title>Texas Longhorns iPhone Wallpapers: Show Your Team Pride!</title>
+                    <meta name="description" content="Discover the best Texas Longhorns wallpapers for your iPhone! Elevate your device with eye-catching designs that reflect your loyalty to the Longhorns. Perfect for fans looking to showcase their team spirit anytime, anywhere. Explore and download your favorite wallpapers today!">
+                    <meta name="keywords" content="iphone texas longhorns wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-texas-longhorns-wallpaper">
+                            <span itemprop="name">iphone texas longhorns wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Texas Longhorns iPhone Wallpapers: Show Your Team Pride!</h1>
+                <p>Show your team spirit with stunning Texas Longhorns wallpapers for your iPhone! Customize your device with vibrant images that celebrate the Longhorns’ legacy and culture. Perfect for any loyal fan, these wallpapers will keep you inspired and connected to your favorite college football team wherever you go. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Texas Longhorns iPhone Wallpaper HD on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/ab/c2/3fabc25f3077787c954bbe839b093a5b.jpg' alt='   Free download Texas Longhorns iPhone Wallpaper HD on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/ab/c2/3fabc25f3077787c954bbe839b093a5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Longhorns phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/a6/62/46a6624fba69bdd78f459b212bf0cbb1.jpg' alt='Texas Longhorns phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/a6/62/46a6624fba69bdd78f459b212bf0cbb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who wants this phone wallpaper?... - Texas Longhorns Football ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156714496788271' alt='Who wants this phone wallpaper?... - Texas Longhorns Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156714496788271' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - University of Texas Athletics">
+                                <img itemprop="contentUrl url" src='https://texaslonghorns.com/images/2020/9/10/New_iPhone_1892x4096.jpg' alt='Wallpaper - University of Texas Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Athletics" />
+                                </span>
+                                <a href='https://texaslonghorns.com/images/2020/9/10/New_iPhone_1892x4096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Longhorns, texas, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/970/596/HD-wallpaper-longhorns-texas.jpg' alt='Longhorns, texas, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/970/596/HD-wallpaper-longhorns-texas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/c2/4d/acc24d3fe7837b6f3b00edebba1cd6b5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/c2/4d/acc24d3fe7837b6f3b00edebba1cd6b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Strong and Proud Texas Longhorn Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/texas-longhorn-5r22gex6854gs3ur.jpg' alt='Download Strong and Proud Texas Longhorn Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1017">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/texas-longhorn-5r22gex6854gs3ur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Longhorns, texas, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/343/697/HD-wallpaper-longhorns-texas.jpg' alt='Longhorns, texas, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/343/697/HD-wallpaper-longhorns-texas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Texas Longhorns Football Schedule: Downloadable Smartphone ...">
+                                <img itemprop="contentUrl url" src='https://longhornswire.usatoday.com/wp-content/uploads/sites/97/2023/08/LonghornsWire_WP_23.png' alt='2023 Texas Longhorns Football Schedule: Downloadable Smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Longhorns Wire - USA Today" />
+                                </span>
+                                <a href='https://longhornswire.usatoday.com/wp-content/uploads/sites/97/2023/08/LonghornsWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Longhorns iPhone Wallpapers - Free and Easy to Install">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/f3/68/d8f3686cf53e7374eb6275364c06f657.jpg' alt='Texas Longhorns iPhone Wallpapers - Free and Easy to Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/f3/68/d8f3686cf53e7374eb6275364c06f657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

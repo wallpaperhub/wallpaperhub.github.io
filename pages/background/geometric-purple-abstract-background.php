@@ -1,0 +1,129 @@
+<title>Vibrant Geometric Purple Abstract Background for Creative Designs</title>
+                    <meta name="description" content="Discover a stunning geometric purple abstract background that enhances your creative projects. Perfect for digital use, this design combines vibrant colors and dynamic shapes, adding a modern flair that captivates and inspires. Ideal for wallpapers, artwork, or professional presentations.">
+                    <meta name="keywords" content="geometric purple abstract background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/geometric-purple-abstract-background">
+                            <span itemprop="name">geometric purple abstract background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Geometric Purple Abstract Background for Creative Designs</h1>
+                <p>Experience the captivating allure of a geometric purple abstract background. This mesmerizing design features vibrant shades of purple intertwined with dynamic shapes, creating a visually striking composition. Perfect for digital projects, wallpapers, or artwork, it adds a contemporary touch to any space, evoking creativity and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Geometric Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148909931.jpg' alt='Purple Geometric Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148909931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Geometric Purple Images – Browse 1,533,709 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/33/10/70/360_F_633107016_xHAgkS9dVg4z4L0rmSpYMUXKXYRrGpP1.jpg' alt='Background Geometric Purple Images – Browse 1,533,709 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/33/10/70/360_F_633107016_xHAgkS9dVg4z4L0rmSpYMUXKXYRrGpP1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract geometric polygon purple background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-geometric-polygon-purple-background-illustration-perfect-wallpaper-backdrop-postcard_565280-546.jpg' alt='Premium Vector | Abstract geometric polygon purple background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-geometric-polygon-purple-background-illustration-perfect-wallpaper-backdrop-postcard_565280-546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern abstract geometric purple background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/75/31/modern-abstract-geometric-purple-background-vector-3207531.jpg' alt='Modern abstract geometric purple background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/75/31/modern-abstract-geometric-purple-background-vector-3207531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Geometric Purple Background 4901408 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/901/408/non_2x/abstract-geometric-purple-background-free-vector.jpg' alt='Abstract Geometric Purple Background 4901408 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/901/408/non_2x/abstract-geometric-purple-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Geometric Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/189/698/small/overlapping-triangle-geometric-background-free-vector.jpg' alt='Purple Geometric Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/189/698/small/overlapping-triangle-geometric-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple geometric texture abstract background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/22/46/purple-geometric-texture-abstract-background-vector-13192246.jpg' alt='Purple geometric texture abstract background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/22/46/purple-geometric-texture-abstract-background-vector-13192246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Purple Background Images – Browse 1,541,668 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/55/19/58/360_F_655195846_gWlocOayntahRqmkn7m50PcDtl9w88wl.jpg' alt='Geometric Purple Background Images – Browse 1,541,668 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/55/19/58/360_F_655195846_gWlocOayntahRqmkn7m50PcDtl9w88wl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Geometric Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/modern-geometric-background-wave-gradient_343694-1644.jpg' alt='Purple Abstract Geometric Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/modern-geometric-background-wave-gradient_343694-1644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="218,300+ Purple Geometric Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1346119741/vector/vector-background-with-color-abstract-wave-dots.jpg?s=612x612&w=0&k=20&c=7lIA0ZrDzwp6HDrXyvgQLOrmATIy2o4bN8HBHoDH-G4=' alt='218,300+ Purple Geometric Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1346119741/vector/vector-background-with-color-abstract-wave-dots.jpg?s=612x612&w=0&k=20&c=7lIA0ZrDzwp6HDrXyvgQLOrmATIy2o4bN8HBHoDH-G4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

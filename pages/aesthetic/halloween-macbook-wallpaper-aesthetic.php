@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween MacBook Wallpaper Aesthetic Ideas</title>
+                    <meta name="description" content="Discover the ultimate Halloween MacBook wallpaper collection that brings aesthetic charm to your device. Explore unique designs featuring spooky themes and vibrant colors that celebrate the season. Perfect for adding a festive flair while keeping your workspace inspiring and stylish!">
+                    <meta name="keywords" content="halloween macbook wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/halloween-macbook-wallpaper-aesthetic">
+                            <span itemprop="name">halloween macbook wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween MacBook Wallpaper Aesthetic Ideas</h1>
+                <p>Transform your MacBook this Halloween with stunning aesthetic wallpapers! From spooky pumpkins and eerie moonlit nights to whimsical witches and ghostly skies, find the perfect backdrop to set the mood. Embrace the seasonal spirit while adding a touch of creativity to your workspace. Unleash your Halloween vibes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween macbook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/32/c1/df32c11a54eee9099846cbc9afbd1950.jpg' alt='halloween macbook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/32/c1/df32c11a54eee9099846cbc9afbd1950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mac halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/35/e8/4935e8905dde5d3a19b441c076080732.jpg' alt='mac halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/35/e8/4935e8905dde5d3a19b441c076080732.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween MacBook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ff/c7/0b/ffc70bcfb4c0067f05a12d3a10ac321b.jpg' alt='halloween MacBook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ff/c7/0b/ffc70bcfb4c0067f05a12d3a10ac321b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuYZ3qnoQ/1/0/1600w/canva-minimalist-illustrative-halloween-desktop-wallpaper-YfcoNvm5jUQ.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuYZ3qnoQ/1/0/1600w/canva-minimalist-illustrative-halloween-desktop-wallpaper-YfcoNvm5jUQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall desktop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/54/85/2b5485a4dda6518da22ff97c141158de.jpg' alt='Fall desktop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/54/85/2b5485a4dda6518da22ff97c141158de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbook Halloween wallpaper | Aesthetic Spooky Laptop Wallpaper Digital  Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37924724/r/il/726fde/4205049292/il_fullxfull.4205049292_8ezk.jpg' alt='Macbook Halloween wallpaper | Aesthetic Spooky Laptop Wallpaper Digital  Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37924724/r/il/726fde/4205049292/il_fullxfull.4205049292_8ezk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Macbook Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-macbook-uqr9ioezfyyxitoc.jpg' alt='100+] Halloween Macbook Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-macbook-uqr9ioezfyyxitoc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic Macbook Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9856426.jpg' alt='Halloween Aesthetic Macbook Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3255">
+                                <meta itemprop="height" content="1829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9856426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/ae/cb/02aecb5d4c99b374cbfeaa4b6144ab23.jpg' alt='Aesthetic Halloween wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/ae/cb/02aecb5d4c99b374cbfeaa4b6144ab23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

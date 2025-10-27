@@ -1,0 +1,129 @@
+<title>Generate Eye-Catching Transparent QR Codes Quickly!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="transparent qr code generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-qr-code-generator">
+                            <span itemprop="name">transparent qr code generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Generate Eye-Catching Transparent QR Codes Quickly!</h1>
+                <p>Discover the ease of creating transparent QR codes with our intuitive generator. Whether for marketing, event promotion, or personal use, our tool allows you to customize QR codes seamlessly with transparent backgrounds. Enhance your branding and make your codes stand out while ensuring they are scannable and user-friendly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent QR Code Generator (PNG Format) | QR Generator Blog">
+                                <img itemprop="contentUrl url" src='https://qrgenerator.org/blog/wp-content/uploads/2021/10/qr-code-transparent-.jpg' alt='Transparent QR Code Generator (PNG Format) | QR Generator Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QR Code Generator Free for Lifetime" />
+                                </span>
+                                <a href='https://qrgenerator.org/blog/wp-content/uploads/2021/10/qr-code-transparent-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent QR Code Generator: Download in PNG Format">
+                                <img itemprop="contentUrl url" src='https://www.uniqode.com/blog/wp-content/uploads/2023/03/Make-design-engaging-and-attractive-with-transparent-QR-Codes-2.png' alt='Transparent QR Code Generator: Download in PNG Format'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uniqode" />
+                                </span>
+                                <a href='https://www.uniqode.com/blog/wp-content/uploads/2023/03/Make-design-engaging-and-attractive-with-transparent-QR-Codes-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom designer QR Code generator with support for vector images ...">
+                                <img itemprop="contentUrl url" src='https://ventipix.com/images/qr/designer-qr-codes.png' alt='Custom designer QR Code generator with support for vector images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="231">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ventipix" />
+                                </span>
+                                <a href='https://ventipix.com/images/qr/designer-qr-codes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designer QR code with logo | Free QR code design | QR Planet">
+                                <img itemprop="contentUrl url" src='https://cdn.qrplanet.com/proxy/qrcdr/plugins/qr-templates/preview/b5c55b48724f79bdc90093bf6095a3b0.svg' alt='Designer QR code with logo | Free QR code design | QR Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QR Planet" />
+                                </span>
+                                <a href='https://cdn.qrplanet.com/proxy/qrcdr/plugins/qr-templates/preview/b5c55b48724f79bdc90093bf6095a3b0.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qr code transparent background | Premium AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/qr-code-transparent-background_679658-11344.jpg' alt='Qr code transparent background | Premium AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/qr-code-transparent-background_679658-11344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QR code PNG transparent image download, size: 480x480px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/uploads/qr_code/qr_code_PNG33.png' alt='QR code PNG transparent image download, size: 480x480px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/uploads/qr_code/qr_code_PNG33.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QR code PNG transparent image download, size: 985x985px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/qr_code_PNG34.png' alt='QR code PNG transparent image download, size: 985x985px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/qr_code_PNG34.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black QR Code Barcode PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/download-black-qr-code-barcode-png-704081694711798fcch0jaztk.png' alt='Download Black QR Code Barcode PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/download-black-qr-code-barcode-png-704081694711798fcch0jaztk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Create a QR Code with a Transparent Background?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eBEHmzUBSQ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3H9R6rWB7QDBwOq-QoovrO5H4gA' alt='How To Create a QR Code with a Transparent Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eBEHmzUBSQ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3H9R6rWB7QDBwOq-QoovrO5H4gA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Create a White QR Code in 4 Steps">
+                                <img itemprop="contentUrl url" src='https://www.uniqode.com/blog/wp-content/uploads/2023/10/how-to-create-a-white-QR-Code.png' alt='How To Create a White QR Code in 4 Steps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uniqode" />
+                                </span>
+                                <a href='https://www.uniqode.com/blog/wp-content/uploads/2023/10/how-to-create-a-white-QR-Code.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

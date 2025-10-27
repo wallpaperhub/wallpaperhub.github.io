@@ -1,0 +1,129 @@
+<title>Revamp Your Web Design with CSS Gradient Animation</title>
+                    <meta name="description" content="Discover the magic of CSS gradient animation to elevate your web design. Learn how to implement smooth color transitions that grab attention and enhance user experience. Perfect for modern websites, this technique adds dynamism and elegance effortlessly. Join the trend and make your web projects shine!">
+                    <meta name="keywords" content="css gradient animation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-gradient-animation">
+                            <span itemprop="name">css gradient animation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Web Design with CSS Gradient Animation</h1>
+                <p>CSS gradient animations bring life to your web designs, creating smooth transitions between colors. Using keyframes and CSS properties like `background`, `animation`, and `linear-gradient`, you can create stunning visual effects. These animations enhance user experience and engagement, making your projects stand out with dynamic backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Morphing Gradients Animated Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ml-B-W91gtw/sddefault.jpg' alt='CSS Morphing Gradients Animated Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ml-B-W91gtw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We can finally animate CSS gradient - DEV Community">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvda3askm2sbfjl717q9q.png' alt='We can finally animate CSS gradient - DEV Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvda3askm2sbfjl717q9q.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Gradient Animation">
+                                <img itemprop="contentUrl url" src='https://assets.aceternity.com/background-gradient-animation.png' alt='Background Gradient Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aceternity UI" />
+                                </span>
+                                <a href='https://assets.aceternity.com/background-gradient-animation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animating CSS Gradients, using only CSS | by Dave Lunny | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*AcYLHh0_ve4TNRi6HLFcPA.jpeg' alt='Animating CSS Gradients, using only CSS | by Dave Lunny | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*AcYLHh0_ve4TNRi6HLFcPA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Gradient Background with Pure CSS | HTML & CSS ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LqRfQVcn3FY/hqdefault.jpg' alt='Animated Gradient Background with Pure CSS | HTML & CSS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LqRfQVcn3FY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Gradient Background with CSS">
+                                <img itemprop="contentUrl url" src='https://stackdiary.com/wp-content/uploads/2022/11/Animated-Gradient-Background-with-CSS.png' alt='Animated Gradient Background with CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Diary" />
+                                </span>
+                                <a href='https://stackdiary.com/wp-content/uploads/2022/11/Animated-Gradient-Background-with-CSS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS3 Only Gradient Background Animation || HTML, CSS3 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0opookDE4bk/sddefault.jpg' alt='CSS3 Only Gradient Background Animation || HTML, CSS3 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0opookDE4bk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Linear Gradient Animation | Codeconvey">
+                                <img itemprop="contentUrl url" src='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' alt='CSS Background Linear Gradient Animation | Codeconvey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codeconvey" />
+                                </span>
+                                <a href='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Animated Gradient Examples To Enhance Your Web Design">
+                                <img itemprop="contentUrl url" src='https://www.sliderrevolution.com/wp-content/uploads/2024/09/css-animated-gradient-f.jpg' alt='CSS Animated Gradient Examples To Enhance Your Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slider Revolution" />
+                                </span>
+                                <a href='https://www.sliderrevolution.com/wp-content/uploads/2024/09/css-animated-gradient-f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css-animated-gradient - Webflow">
+                                <img itemprop="contentUrl url" src='https://screenshots.webflow.com/sites/5b23021beb14e0ec2cf813d8/20180615000502_0d2e48a5ec28adeeff23b2de4c0ccca1.png' alt='css-animated-gradient - Webflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Webflow" />
+                                </span>
+                                <a href='https://screenshots.webflow.com/sites/5b23021beb14e0ec2cf813d8/20180615000502_0d2e48a5ec28adeeff23b2de4c0ccca1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

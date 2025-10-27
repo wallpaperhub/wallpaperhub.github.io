@@ -1,0 +1,129 @@
+<title>Vibrant 4K Google Pixel Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant 4K wallpapers for your Google Pixel. Enhance your device's look with stunning visuals that capture beauty and creativity. Perfect for personalization, these wallpapers are designed to make your screen stand out! Explore now and find your favorite!">
+                    <meta name="keywords" content="google pixel wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/google-pixel-wallpaper-4k">
+                            <span itemprop="name">google pixel wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Google Pixel Wallpapers for Your Device</h1>
+                <p>Elevate your device's aesthetics with stunning Google Pixel wallpaper in 4K resolution. Designed for clarity and vibrancy, these wallpapers showcase breathtaking landscapes, abstract designs, and artistic themes tailored for your Google Pixel experience. Enjoy rich colors and incredible details that bring your screen to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Google Pixel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/google-pixel-qb51lwkqt7f4dhzj.jpg' alt='200+] Google Pixel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/google-pixel-qb51lwkqt7f4dhzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Pixel 4, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/944/551/HD-wallpaper-google-pixel-4.jpg' alt='Google Pixel 4, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/944/551/HD-wallpaper-google-pixel-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Pixel 4k Blue Liquid Metal Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/google-pixel-4k-blue-liquid-metal-p8g8x828zpohykd0.jpg' alt='Google Pixel 4k Blue Liquid Metal Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/google-pixel-4k-blue-liquid-metal-p8g8x828zpohykd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google pixel wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/648/161/HD-wallpaper-pixel-4a-google-pixel-4-thumbnail.jpg' alt='Google pixel wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/648/161/HD-wallpaper-pixel-4a-google-pixel-4-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Pixel Wallpapers - Most Popular Google Pixel Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/6b/d1/a56bd14067a3f6408c3ec73910586822.jpg' alt='Google Pixel Wallpapers - Most Popular Google Pixel Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/6b/d1/a56bd14067a3f6408c3ec73910586822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Google Pixel 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/google-pixel-4k-6dtgcbc0wf6h4e72.jpg' alt='100+] Google Pixel 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/google-pixel-4k-6dtgcbc0wf6h4e72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Pixel 4k Abstract Lines Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/google-pixel-4k-abstract-lines-lbd5tze7h50okqt4.jpg' alt='Google Pixel 4k Abstract Lines Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/google-pixel-4k-abstract-lines-lbd5tze7h50okqt4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Pixel Wallpapers - Most Popular Google Pixel Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/cb/7a/0dcb7a328268d7468aeb420795805b65.jpg' alt='Google Pixel Wallpapers - Most Popular Google Pixel Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/cb/7a/0dcb7a328268d7468aeb420795805b65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 5 Wallpaper : r/mkbhd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lp9ki3k8i4t51.png' alt='Pixel 5 Wallpaper : r/mkbhd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lp9ki3k8i4t51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google pixel wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/google-pixel-4k-pastel-colours-iyubrn2eeznyfnzz.jpg' alt='Google pixel wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/google-pixel-4k-pastel-colours-iyubrn2eeznyfnzz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

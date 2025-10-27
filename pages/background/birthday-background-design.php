@@ -1,0 +1,129 @@
+<title>Stunning Birthday Background Designs for Every Celebration</title>
+                    <meta name="description" content="Discover amazing birthday background designs that enhance your celebration! From elegant themes to fun and colorful styles, find the perfect backdrop for your special day. Elevate your event and create memorable photos with our diverse selection of birthday backgrounds.">
+                    <meta name="keywords" content="birthday background design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-background-design">
+                            <span itemprop="name">birthday background design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Birthday Background Designs for Every Celebration</h1>
+                <p>Celebrate your special day with stunning birthday background designs! Choose from vibrant colors and playful themes to match your party's vibes. Whether you're planning an elegant gathering or a fun, whimsical celebration, these backgrounds can elevate your decorations and photographs. Make your birthday unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Birthday Background Stock Illustrations – 198,769 Elegant ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-balloons-ribbon-brown-shade-birthday-card-background-d-realistic-luxury-style-illustration-vector-217252494.jpg' alt='Elegant Birthday Background Stock Illustrations – 198,769 Elegant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-balloons-ribbon-brown-shade-birthday-card-background-d-realistic-luxury-style-illustration-vector-217252494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Background Images – Browse 7,218,860 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/85/02/87/360_F_485028755_j29d8R7HiMExnBddsk2llmryr6V0MrsT.jpg' alt='Birthday Background Images – Browse 7,218,860 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/85/02/87/360_F_485028755_j29d8R7HiMExnBddsk2llmryr6V0MrsT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Happy birthday background design with realistic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/happy-birthday-background-design-with-realistic-bunch-flying-golden-balloons_22857-857.jpg' alt='Premium Vector | Happy birthday background design with realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/happy-birthday-background-design-with-realistic-bunch-flying-golden-balloons_22857-857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Happy Birthday Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240813/pngtree-happy-birthday-typography-vector-design-for-greeting-cards-and-poster-with-image_16159004.jpg' alt='Vector Happy Birthday Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240813/pngtree-happy-birthday-typography-vector-design-for-greeting-cards-and-poster-with-image_16159004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable happy birthday background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGS_pIbYkY/1/0/1131w/canva-black-and-pink-cute-birthday-background-poster-jL4tQYA06a8.jpg' alt='Free and customizable happy birthday background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGS_pIbYkY/1/0/1131w/canva-black-and-pink-cute-birthday-background-poster-jL4tQYA06a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Birthday Photo Frame Design With Pastel Balloons And Cake ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20250119/-22elegant-birthday-photo-frame-design-with-pastel-balloons-and-cake-22_11416677.jpg!w700wp' alt='Elegant Birthday Photo Frame Design With Pastel Balloons And Cake ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20250119/-22elegant-birthday-photo-frame-design-with-pastel-balloons-and-cake-22_11416677.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable happy birthday background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE9XG0hOgk/1/0/1600w/canva-pink-red-colorful-birthday-zoom-virtual-background-32bHJ9XZg4U.jpg' alt='Free and customizable happy birthday background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE9XG0hOgk/1/0/1600w/canva-pink-red-colorful-birthday-zoom-virtual-background-32bHJ9XZg4U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="happy birthday background design with balloons in blue color ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/787/179/non_2x/happy-birthday-background-design-with-balloons-in-blue-color-illustration-vector.jpg' alt='happy birthday background design with balloons in blue color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1737">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/787/179/non_2x/happy-birthday-background-design-with-balloons-in-blue-color-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Background Design Graphic by distrologo · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/02/08/Happy-birthday-background-design-Graphics-24890381-1.jpg' alt='Happy Birthday Background Design Graphic by distrologo · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4584">
+                                <meta itemprop="height" content="3056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/02/08/Happy-birthday-background-design-Graphics-24890381-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,000+ Blue Birthday Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1424198505/vector/birthday-greeting-vector-template-design-happy-birthday-text-in-white-board-space-with.jpg?s=612x612&w=0&k=20&c=7ZyZ8DCU3j8bYvjyctMD9KZwe0JwLu2nMRGxIPzYMyU=' alt='20,000+ Blue Birthday Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1424198505/vector/birthday-greeting-vector-template-design-happy-birthday-text-in-white-board-space-with.jpg?s=612x612&w=0&k=20&c=7ZyZ8DCU3j8bYvjyctMD9KZwe0JwLu2nMRGxIPzYMyU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

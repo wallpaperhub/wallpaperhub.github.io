@@ -1,0 +1,129 @@
+<title>Adorable Kawaii Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of charming kawaii wallpapers perfect for your smartphone or tablet. Elevate your screen's aesthetic with cute designs and playful colors that bring a smile to your face. Download now and showcase your kawaii style effortlessly!">
+                    <meta name="keywords" content="cute kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-kawaii-wallpaper">
+                            <span itemprop="name">cute kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii Wallpapers for Your Devices</h1>
+                <p>Brighten up your device with delightful cute kawaii wallpapers! Adorn your screens with adorable characters, pastel colors, and whimsical designs that bring joy and charm to your daily life. Explore a variety of themes, from cute animals to sweet treats, and express your unique personality with every glance at your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE31HZz2bE/1/0/450w/canva-aesthetic-pink-and-yellow-and-green-kawaii-cutephone-wallpaper-WoQYc_dFPKc.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE31HZz2bE/1/0/450w/canva-aesthetic-pink-and-yellow-and-green-kawaii-cutephone-wallpaper-WoQYc_dFPKc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZhS3kV3w/1/0/900w/canva-pink-modern-kawaii-cocktail-phone-wallpaper-FFzDyzx2c38.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZhS3kV3w/1/0/900w/canva-pink-modern-kawaii-cocktail-phone-wallpaper-FFzDyzx2c38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii wallpaper aesthetic pink wallpaper pastel pink wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/a3/2b/4da32b2d6248d1957176540e6913d97e.jpg' alt='Kawaii wallpaper aesthetic pink wallpaper pastel pink wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/a3/2b/4da32b2d6248d1957176540e6913d97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Purple Camera Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-kawaii-purple-camera-i7ruz8r3m686echj.webp' alt='Cute Kawaii Purple Camera Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-kawaii-purple-camera-i7ruz8r3m686echj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Cute kawaii pics ideas | kawaii, cute wallpapers, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/ab/35/4cab35fdd98b78c36ac9baeb8fca922b.jpg' alt='900+ Cute kawaii pics ideas | kawaii, cute wallpapers, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/ab/35/4cab35fdd98b78c36ac9baeb8fca922b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Experience The Joy Of Cute Kawaii Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/experience-the-joy-of-cute-kawaii-w1rhik5yy4oesrow.webp' alt='Experience The Joy Of Cute Kawaii Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/experience-the-joy-of-cute-kawaii-w1rhik5yy4oesrow.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kawaii Cats Peach And Goma Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kawaii-ib8elx8tzfilgs74.jpg' alt='Download Cute Kawaii Cats Peach And Goma Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kawaii-ib8elx8tzfilgs74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Wallpaper HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/1vu3zPmRAkeSCJ6OPyvxEw-INsTJQMw0XDFfSlMJbQw2U3b1H9ziVWF6dKhWa7nnQV4=w526-h296-rw' alt='Cute Kawaii Wallpaper HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/1vu3zPmRAkeSCJ6OPyvxEw-INsTJQMw0XDFfSlMJbQw2U3b1H9ziVWF6dKhWa7nnQV4=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii wallpapers      : r/Kawaii">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ltbt3rkr7fa61.jpg?width=736&format=pjpg&auto=webp&s=958f2c33bc1f0217ca6e335a51f74411816b4add' alt='Cute kawaii wallpapers      : r/Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ltbt3rkr7fa61.jpg?width=736&format=pjpg&auto=webp&s=958f2c33bc1f0217ca6e335a51f74411816b4add' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute asthestic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/25/58/4d2558c71ead947e7a70da4464ef8dc6.jpg' alt='Cute asthestic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/25/58/4d2558c71ead947e7a70da4464ef8dc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

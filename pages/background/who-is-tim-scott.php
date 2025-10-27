@@ -1,0 +1,129 @@
+<title>Who Is Tim Scott? | U.S. Senator from South Carolina</title>
+                    <meta name="description" content="Explore the life and career of Tim Scott, U.S. Senator from South Carolina. Discover his contributions to politics, focus on economic growth, and advocacy for social justice in our concise overview.">
+                    <meta name="keywords" content="who is tim scott">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-is-tim-scott">
+                            <span itemprop="name">who is tim scott</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Is Tim Scott? | U.S. Senator from South Carolina</h1>
+                <p>Tim Scott is an American politician serving as the junior U.S. Senator from South Carolina since 2013. A member of the Republican Party, he is known for his focus on economic opportunity, education reform, and social justice. Scott is notable for being the first African American senator from the South since Reconstruction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bf/Tim_Scott_official_portrait.jpg' alt='Tim Scott - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bf/Tim_Scott_official_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott is a Republican U.S. senator from South Carolina who was ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/181918-050-15B0CFE5/Tim-Scott.jpg' alt='Tim Scott is a Republican U.S. senator from South Carolina who was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1263">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/181918-050-15B0CFE5/Tim-Scott.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott Is Engaged to Be Married - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2024/01/21/multimedia/21politics-live-tim-scott-engaged-hkfw/21politics-live-tim-scott-engaged-hkfw-mediumSquareAt3X.jpg' alt='Tim Scott Is Engaged to Be Married - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2024/01/21/multimedia/21politics-live-tim-scott-engaged-hkfw/21politics-live-tim-scott-engaged-hkfw-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott is a Republican U.S. senator from South Carolina who was ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/181918-050-15B0CFE5/Tim-Scott.jpg?w=400&h=300&c=crop' alt='Tim Scott is a Republican U.S. senator from South Carolina who was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/181918-050-15B0CFE5/Tim-Scott.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Tim Scott">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044205380834' alt='Profile for Tim Scott'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044205380834' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOP Sen. Tim Scott says goodbye to campaign trail as he ends ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2023/11/12/ap23313095164778-cbe5a732a518c1406005c0e694a381f32f627bc0.jpg?s=1100&c=50&f=jpeg' alt='GOP Sen. Tim Scott says goodbye to campaign trail as he ends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2023/11/12/ap23313095164778-cbe5a732a518c1406005c0e694a381f32f627bc0.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Tim Scott? 55 Things You Need to Know About the GOP ...">
+                                <img itemprop="contentUrl url" src='https://www.politico.com/dims4/default/ceb8ee9/2147483647/strip/true/crop/2000x1333+0+0/resize/1290x860!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4d%2Fac%2F2eed74eb404c84755513595ce518%2F55things-tim-scott.jpg' alt='Who is Tim Scott? 55 Things You Need to Know About the GOP ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://www.politico.com/dims4/default/ceb8ee9/2147483647/strip/true/crop/2000x1333+0+0/resize/1290x860!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4d%2Fac%2F2eed74eb404c84755513595ce518%2F55things-tim-scott.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In pictures: US Sen. Tim Scott | CNN Politics">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230419114053-01-tim-scott.jpg?q=w_3000,c_fill' alt='In pictures: US Sen. Tim Scott | CNN Politics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230419114053-01-tim-scott.jpg?q=w_3000,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott marries Mindy Noce in South Carolina">
+                                <img itemprop="contentUrl url" src='https://thehill.com/wp-content/uploads/sites/2/2024/08/tim-scott-mindy-noce-GettyImages.jpg' alt='Tim Scott marries Mindy Noce in South Carolina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hill" />
+                                </span>
+                                <a href='https://thehill.com/wp-content/uploads/sites/2/2024/08/tim-scott-mindy-noce-GettyImages.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Scott - Ballotpedia">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tim_Scott.jpeg' alt='Tim Scott - Ballotpedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballotpedia" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tim_Scott.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

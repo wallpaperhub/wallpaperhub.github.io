@@ -1,0 +1,129 @@
+<title>Adorable Pastel Marshmallow Wallpaper for Sweet Aesthetic</title>
+                    <meta name="description" content="Explore our collection of pastel cute marshmallow wallpaper! Perfect for lovers of soft, sweet designs, these wallpapers will transform your screen into a delightful haven. Download now and enjoy a whimsical touch on your device!">
+                    <meta name="keywords" content="pastel cute marshmallow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/pastel-cute-marshmallow-wallpaper">
+                            <span itemprop="name">pastel cute marshmallow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel Marshmallow Wallpaper for Sweet Aesthetic</h1>
+                <p>Transform your device with our pastel cute marshmallow wallpaper! Bursting with delightful shades of pink, blue, and yellow, these kawaii designs will brighten your screens and bring a smile to your face. Perfect for anyone who loves sweet aesthetics, our wallpapers are sure to add a charming touch to your digital environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Marshmallows Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-rainbow-marshmallows-1l6saqvcyzr54dat.jpg' alt='Pastel Rainbow Marshmallows Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-rainbow-marshmallows-1l6saqvcyzr54dat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Marshmallow Smiles Design - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-marshmallow-smiles-design-1.webp' alt='Cute Marshmallow Smiles Design - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-marshmallow-smiles-design-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1001 + amazingly cute backgrounds to grace your screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/c1/41/fec1418d19a376bb431ff01a756310b9.jpg' alt='▷ 1001 + amazingly cute backgrounds to grace your screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/c1/41/fec1418d19a376bb431ff01a756310b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel 3d Marshmallow Faces Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/soft-light-3d-heart-marshmallow-9urd6i5xvwmzr4l1.webp' alt='Pastel 3d Marshmallow Faces Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/soft-light-3d-heart-marshmallow-9urd6i5xvwmzr4l1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/99/aa/06/99aa06d942ed957ac6923eff7871fcfb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/99/aa/06/99aa06d942ed957ac6923eff7871fcfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Close up marshmallow in coffee cup, Pastel background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/close-up-marshmallow-coffee-cup-pastel-background_69110-125.jpg' alt='Premium Photo | Close up marshmallow in coffee cup, Pastel background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/close-up-marshmallow-coffee-cup-pastel-background_69110-125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmallows, cute, fluffy, food, girly, happiness, pink, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/206/700/HD-wallpaper-marshmallows-cute-fluffy-food-girly-happiness-pink.jpg' alt='Marshmallows, cute, fluffy, food, girly, happiness, pink, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/206/700/HD-wallpaper-marshmallows-cute-fluffy-food-girly-happiness-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Marshmallow Wallpapers - Top Free Cute Marshmallow Backgrounds A5">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/8d/8b/c98d8b86655ce49f1fa0e49bec7e677f.jpg' alt='Cute Marshmallow Wallpapers - Top Free Cute Marshmallow Backgrounds A5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/8d/8b/c98d8b86655ce49f1fa0e49bec7e677f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Pastel Marshmallow Minis Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/3d-pastel-marshmallow-minis-uz3gwxjf1a89509s.jpg' alt='3d Pastel Marshmallow Minis Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/3d-pastel-marshmallow-minis-uz3gwxjf1a89509s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Marshmallow Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/marshmallow-phone-jaz02sjf44mrfxcu.jpg' alt='100+] Marshmallow Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/marshmallow-phone-jaz02sjf44mrfxcu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

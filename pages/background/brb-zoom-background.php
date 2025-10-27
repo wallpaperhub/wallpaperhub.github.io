@@ -1,0 +1,129 @@
+<title>Creative "BRB" Zoom Backgrounds for Your Next Meeting</title>
+                    <meta name="description" content="Discover unique and engaging "BRB" Zoom backgrounds to personalize your virtual meetings. From playful designs to stunning visuals, find the perfect backdrop that reflects your style and keeps your calls vibrant and interesting! Ideal for professionals and casual users alike.">
+                    <meta name="keywords" content="brb zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brb-zoom-background">
+                            <span itemprop="name">brb zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative "BRB" Zoom Backgrounds for Your Next Meeting</h1>
+                <p>Need a fun Zoom background for your next virtual meeting? Embrace the phrase "brb" with creative backgrounds that convey your personality. From tropical beaches to cozy coffee shops, these designs add flair to your calls. Make sure your Zoom background stands out while keeping it professional and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Productive Backgrounds in Zoom Meetings">
+                                <img itemprop="contentUrl url" src='https://34.201.222.12/wp-content/uploads/2021/05/brb-message-.jpeg' alt='Productive Backgrounds in Zoom Meetings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teq" />
+                                </span>
+                                <a href='https://34.201.222.12/wp-content/uploads/2021/05/brb-message-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brb Images – Browse 1,090 Stock Photos, Vectors, and Video | Adobe ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/99/87/36/360_F_499873620_ZgnmSlpKMETlk8l17tcCCZJAmLXp5IsF.jpg' alt='Brb Images – Browse 1,090 Stock Photos, Vectors, and Video | Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/99/87/36/360_F_499873620_ZgnmSlpKMETlk8l17tcCCZJAmLXp5IsF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - dar5hak/minimal-zoom-backgrounds: Zoom backgrounds with ...">
+                                <img itemprop="contentUrl url" src='https://repository-images.githubusercontent.com/329693502/08b80980-59ba-11eb-9249-7c7caa045c43' alt='GitHub - dar5hak/minimal-zoom-backgrounds: Zoom backgrounds with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://repository-images.githubusercontent.com/329693502/08b80980-59ba-11eb-9249-7c7caa045c43' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,022 Brb Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/green-sticky-note-pinned-office-260nw-43910533.jpg' alt='1,022 Brb Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/green-sticky-note-pinned-office-260nw-43910533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Right Back Images – Browse 112,966 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/99/30/39/360_F_299303908_MMUEyrdiikWwIcpjU6jJXq1BKqqdGyWT.jpg' alt='Be Right Back Images – Browse 112,966 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/99/30/39/360_F_299303908_MMUEyrdiikWwIcpjU6jJXq1BKqqdGyWT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brb background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EMGBAF/chat-acronym-brb-as-be-right-back-yellow-paint-line-on-the-road-against-EMGBAF.jpg' alt='Brb background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EMGBAF/chat-acronym-brb-as-be-right-back-yellow-paint-line-on-the-road-against-EMGBAF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BRB by am-y on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/535f406c-1ad1-4179-bcc5-057d253311fb/doplwj-1a336043-a17e-476b-a676-70b1d0b7759e.jpg/v1/fill/w_1024,h_768,q_75,strp/brb_by_am_y_doplwj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNTM1ZjQwNmMtMWFkMS00MTc5LWJjYzUtMDU3ZDI1MzMxMWZiXC9kb3Bsd2otMWEzMzYwNDMtYTE3ZS00NzZiLWE2NzYtNzBiMWQwYjc3NTllLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.43o2MC_lo0JC_baVNFeFAYYVentoXw8lIq50xN7ihmw' alt='BRB by am-y on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/535f406c-1ad1-4179-bcc5-057d253311fb/doplwj-1a336043-a17e-476b-a676-70b1d0b7759e.jpg/v1/fill/w_1024,h_768,q_75,strp/brb_by_am_y_doplwj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNTM1ZjQwNmMtMWFkMS00MTc5LWJjYzUtMDU3ZDI1MzMxMWZiXC9kb3Bsd2otMWEzMzYwNDMtYTE3ZS00NzZiLWE2NzYtNzBiMWQwYjc3NTllLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.43o2MC_lo0JC_baVNFeFAYYVentoXw8lIq50xN7ihmw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Right Back Free Zoom Template">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/be-right-back-free-zoom-template-design-79b1bbbf2d7c59f85eaa9572d125b12e_screen.jpg?ts=1650795890' alt='Be Right Back Free Zoom Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/be-right-back-free-zoom-template-design-79b1bbbf2d7c59f85eaa9572d125b12e_screen.jpg?ts=1650795890' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twitch Be Right Back Screen Black Cat, Cute Cat Twitch Background, Twitch  BRB Screen, Twitch Streamer Profile">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34466454/r/il/e77f12/4204041465/il_570xN.4204041465_6z4e.jpg' alt='Twitch Be Right Back Screen Black Cat, Cute Cat Twitch Background, Twitch  BRB Screen, Twitch Streamer Profile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34466454/r/il/e77f12/4204041465/il_570xN.4204041465_6z4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text BRB BE RIGHT BACK 3d digital technology animated on black background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/074/175/original/text-brb-be-right-back-3d-digital-technology-animated-on-black-background-free-video.jpg' alt='Text BRB BE RIGHT BACK 3d digital technology animated on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/074/175/original/text-brb-be-right-back-3d-digital-technology-animated-on-black-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

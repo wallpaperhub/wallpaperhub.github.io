@@ -1,0 +1,129 @@
+<title>Stunning Fall Cell Phone Wallpapers: Embrace Autumn's Beauty</title>
+                    <meta name="description" content="Discover the perfect fall cell phone wallpapers to transform your device! From colorful foliage to cozy autumn scenes, find stunning designs that celebrate the season. Easy to download and optimized for any screen size—get ready to enjoy the beauty of fall right in your pocket!">
+                    <meta name="keywords" content="fall cell phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/fall-cell-phone-wallpaper">
+                            <span itemprop="name">fall cell phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall Cell Phone Wallpapers: Embrace Autumn's Beauty</h1>
+                <p>Enhance your phone with stunning fall cell phone wallpapers. Celebrate the beauty of autumn with vibrant leaves, cozy landscapes, and warm colors that fill your screen with seasonal charm. Perfectly crafted for any fall lover, these wallpapers will bring the essence of fall right to your fingertips. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpapers | Downloads | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Pumpkins.jpg' alt='FREE Fall Phone Wallpapers | Downloads | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1008335.jpg' alt='Fall phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1008335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    Fall Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e0/d5/5b/e0d55bbbcd91ce188e9c2c6f149dedc9.jpg' alt='    Fall Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e0/d5/5b/e0d55bbbcd91ce188e9c2c6f149dedc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Best Autumn phone wallpaper ideas | autumn phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/d8/d2/19/d8d219f7a9320cd9cd8a172630a07a6a.jpg' alt='47 Best Autumn phone wallpaper ideas | autumn phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/d8/d2/19/d8d219f7a9320cd9cd8a172630a07a6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Autumn Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/maple-leaves-in-autumn-phone-updlmw6zht0sjohn.jpg' alt='100+] Autumn Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/maple-leaves-in-autumn-phone-updlmw6zht0sjohn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpapers | Downloads | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Leaves-Blue.jpg' alt='FREE Fall Phone Wallpapers | Downloads | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Leaves-Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Gorgeous Free Fall Phone Wallpapers - Days Inspired">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2023/07/fall-phone-wallpapers-94-512x1024.jpg' alt='100+ Gorgeous Free Fall Phone Wallpapers - Days Inspired'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2023/07/fall-phone-wallpapers-94-512x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Fall Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/7b/06/0e7b066b436cd3f1b3e33fec0185ce34.jpg' alt='Free Fall Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/7b/06/0e7b066b436cd3f1b3e33fec0185ce34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e0/ba/d7/e0bad7c4536be3e330d9f7f735d0bb2e.jpg' alt='Fall phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e0/ba/d7/e0bad7c4536be3e330d9f7f735d0bb2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox Fall Magic Background, iPhone wallpaper, Cell phone background, iPhone  lock screen, Cell phone wallpaper, Phone background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13432603/r/il/61ad5c/1333583560/il_570xN.1333583560_miwg.jpg' alt='Fox Fall Magic Background, iPhone wallpaper, Cell phone background, iPhone  lock screen, Cell phone wallpaper, Phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13432603/r/il/61ad5c/1333583560/il_570xN.1333583560_miwg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

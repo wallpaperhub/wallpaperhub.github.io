@@ -1,0 +1,129 @@
+<title>Vibrant Neon Wallpaper for Your Phone: Stand Out!</title>
+                    <meta name="description" content="Discover a collection of eye-catching neon wallpapers for your phone. Perfect for adding a modern vibe, these vibrant designs will make your device truly yours. Explore options that fit your style and brighten up your screen today!">
+                    <meta name="keywords" content="neon wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/neon-wallpaper-phone">
+                            <span itemprop="name">neon wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Wallpaper for Your Phone: Stand Out!</h1>
+                <p>Transform your phone's aesthetic with stunning neon wallpaper. Bright colors and dynamic designs can breathe new life into your device, making it stand out. Perfect for those who want a vibrant, modern look, neon wallpapers cater to various styles—from abstract art to minimalistic designs. Explore endless options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Skyline Phone Wallpapers : r/worldflipper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yarm3c6tvv581.png?width=640&crop=smart&auto=webp&s=baea3652e5d40367a2f232524de56326eecfad87' alt='Neon Skyline Phone Wallpapers : r/worldflipper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yarm3c6tvv581.png?width=640&crop=smart&auto=webp&s=baea3652e5d40367a2f232524de56326eecfad87' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80Nl9ibGFja193YWxscGFwZXJfbW9ub2Nocm9tZV9uZW9uX2xpZ2h0X2hleGFnb183NTNhYThiOS03NGM2LTRlY2QtOWZhNi1lODlkODIyNzg3OTdfMS5qcGc.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80Nl9ibGFja193YWxscGFwZXJfbW9ub2Nocm9tZV9uZW9uX2xpZ2h0X2hleGFnb183NTNhYThiOS03NGM2LTRlY2QtOWZhNi1lODlkODIyNzg3OTdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon city aesthetic wallpaper iphone android wallpaper phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/29/ed/6429edabd261df9dd23faca488174ab2.jpg' alt='neon city aesthetic wallpaper iphone android wallpaper phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/29/ed/6429edabd261df9dd23faca488174ab2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Wallpapers (78 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/6/b/56138-1284x2778-phone-hd-neon-wallpaper.jpg' alt='Neon Wallpapers (78 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2568">
+                                <meta itemprop="height" content="5556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/6/b/56138-1284x2778-phone-hd-neon-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some neon wallpapers for your phone : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zielbesdsuc61.jpg' alt='Some neon wallpapers for your phone : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zielbesdsuc61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Neon Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-phone-15szhaxeb4u1g05l.jpg' alt='200+] Neon Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-phone-15szhaxeb4u1g05l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Skyline Wallpapers (32 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/a/0/1391027-2160x3840-mobile-4k-neon-skyline-background-image.jpg' alt='Neon Skyline Wallpapers (32 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/a/0/1391027-2160x3840-mobile-4k-neon-skyline-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Trendy Neon Wallpapers For iPhone (HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' alt='50 Free Trendy Neon Wallpapers For iPhone (HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some neon wallpapers for your phone : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vxjr2c0dsuc61.jpg?width=640&crop=smart&auto=webp&s=8a092488ee7fc21a1780d1d529862f37164a2345' alt='Some neon wallpapers for your phone : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vxjr2c0dsuc61.jpg?width=640&crop=smart&auto=webp&s=8a092488ee7fc21a1780d1d529862f37164a2345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaves Neon Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/leaves-neon-phone-7m82r7ymjznif0fi.jpg' alt='Leaves Neon Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/leaves-neon-phone-7m82r7ymjznif0fi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

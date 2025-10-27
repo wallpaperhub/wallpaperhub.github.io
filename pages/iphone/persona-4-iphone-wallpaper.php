@@ -1,0 +1,129 @@
+<title>Download Stunning Persona 4 iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of breathtaking Persona 4 iPhone wallpapers. Customize your device with stunning visuals of your favorite characters and scenes from the game. Perfect for fans looking to express their love for Persona 4 in style. Download now and make your iPhone stand out!">
+                    <meta name="keywords" content="persona 4 iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/persona-4-iphone-wallpaper">
+                            <span itemprop="name">persona 4 iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Stunning Persona 4 iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning Persona 4 wallpapers! Dive into the vibrant world of Inaba and its unforgettable characters. From the iconic Investigation Team to breathtaking landscapes, choose wallpapers that ignite your passion for the game. Perfect for fans who want to showcase their love for Persona 4 on their devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 4 Golden iPhone Wallpaper : r/persona4golden">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/DSJXO0yW1PiKNAKvgNlsa0ALfSd4sD4d5B2gQXgQX0A.jpg?auto=webp&s=23cc84b6128769f6c8f90fa9e6f432080cf9a102' alt='Persona 4 Golden iPhone Wallpaper : r/persona4golden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/DSJXO0yW1PiKNAKvgNlsa0ALfSd4sD4d5B2gQXgQX0A.jpg?auto=webp&s=23cc84b6128769f6c8f90fa9e6f432080cf9a102' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 4 Wallpapers (77+ pictures) - WallpaperSet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/f3/a6/55f3a6cde3e6455b9bb1edd6c1e02d54.jpg' alt='Persona 4 Wallpapers (77+ pictures) - WallpaperSet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/f3/a6/55f3a6cde3e6455b9bb1edd6c1e02d54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a set of backgrounds based on persona 4, I think they ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-a-set-of-backgrounds-based-on-persona-4-i-think-they-v0-41urj7mt4csa1.jpg?width=1920&format=pjpg&auto=webp&s=595f1c7f08dcec3f9100074df26ae28c86a515f4' alt='I made a set of backgrounds based on persona 4, I think they ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="4155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-a-set-of-backgrounds-based-on-persona-4-i-think-they-v0-41urj7mt4csa1.jpg?width=1920&format=pjpg&auto=webp&s=595f1c7f08dcec3f9100074df26ae28c86a515f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a phone wallpaper out of my favorite photo from the art book ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i38wsmorpq451.jpg' alt='Made a phone wallpaper out of my favorite photo from the art book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i38wsmorpq451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 4, chie, kanji, naoto, narukami, person, rise, teddie ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/240/586/HD-wallpaper-persona-4-chie-kanji-naoto-narukami-persona-rise-teddie-yosuke-yukiko.jpg' alt='Persona 4, chie, kanji, naoto, narukami, person, rise, teddie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/240/586/HD-wallpaper-persona-4-chie-kanji-naoto-narukami-persona-rise-teddie-yosuke-yukiko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 4, persona 4 golden, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/949/918/HD-wallpaper-persona-4-persona-4-golden.jpg' alt='Persona 4, persona 4 golden, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/949/918/HD-wallpaper-persona-4-persona-4-golden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 4 pattern wallpaper for iPhone | Ryuichi Iizuka | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/6108/6253688115_2897c4fbec_z.jpg' alt='Persona 4 pattern wallpaper for iPhone | Ryuichi Iizuka | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/6108/6253688115_2897c4fbec_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faz (@ScrambledFaz) on X | Persona, Persona 4 wallpaper, Persona 5">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/9f/ac/419fac741a73e45be02c79d277aff0cb.jpg' alt='Faz (@ScrambledFaz) on X | Persona, Persona 4 wallpaper, Persona 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/9f/ac/419fac741a73e45be02c79d277aff0cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Persona 4 IPhone 11 wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/055/003/062/large/jaxon-heidenreich-asset.jpg?1665892348' alt='ArtStation - Persona 4 IPhone 11 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/055/003/062/large/jaxon-heidenreich-asset.jpg?1665892348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Persona 4 Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/406/thumb-1920-406365.jpg' alt='Download Video Game Persona 4 Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/406/thumb-1920-406365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

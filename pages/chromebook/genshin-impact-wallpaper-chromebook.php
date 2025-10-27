@@ -1,0 +1,129 @@
+<title>Stunning Genshin Impact Wallpapers for Chromebook</title>
+                    <meta name="description" content="Discover captivating Genshin Impact wallpapers tailored for your Chromebook. Elevate your device with stunning visuals that showcase your favorite characters and breathtaking landscapes from Teyvat. Perfect for fans looking to bring their gaming passion to life on their screens!">
+                    <meta name="keywords" content="genshin impact wallpaper chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/genshin-impact-wallpaper-chromebook">
+                            <span itemprop="name">genshin impact wallpaper chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Genshin Impact Wallpapers for Chromebook</h1>
+                <p>Looking for the perfect Genshin Impact wallpaper for your Chromebook? Dive into a world of vibrant landscapes and stunning characters with high-quality images that reflect the beauty of Teyvat. Whether you prefer Anemo, Geo, or any elemental hero, customize your tech with captivating visuals that inspire your adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/genshin-impact-1920x1080.jpg' alt='Genshin Impact Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/genshin-impact-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Wallpaper HD & Background | Chrome Theme New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2020/10/29.jpg' alt='Genshin Impact Wallpaper HD & Background | Chrome Theme New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2020/10/29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xiao's HD Wallpaper: A Celestial Journey in Genshin Impact by sealgege">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/120/1204356.png' alt='Xiao's HD Wallpaper: A Celestial Journey in Genshin Impact by sealgege'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2780">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/120/1204356.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2021/05/22/21867498/19fb8c0ff0e27428841a05ddbfc0851d_3933469727756591456.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2021/05/22/21867498/19fb8c0ff0e27428841a05ddbfc0851d_3933469727756591456.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Halloween Qiqi (Genshin Impact) Guoba (Genshin Impact ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/118/1187085.png' alt='Download Halloween Qiqi (Genshin Impact) Guoba (Genshin Impact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/118/1187085.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Genshin Impact Wallpaper Time! (2) | Images :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/43c01b126391095.612cd831f2446.png' alt='  Genshin Impact Wallpaper Time! (2) | Images :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/fs/43c01b126391095.612cd831f2446.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qiqi Genshin Impact Wallpaper & Background | Qiqi Chrome Theme Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2021/08/qiqi-genshin-impact-wallpaper-background.jpg' alt='Qiqi Genshin Impact Wallpaper & Background | Qiqi Chrome Theme Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2021/08/qiqi-genshin-impact-wallpaper-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game, Genshin Impact, Aether (Genshin Impact), Kazuha ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/465/651/HD-wallpaper-video-game-genshin-impact-aether-genshin-impact-kazuha-genshin-impact.jpg' alt='Video Game, Genshin Impact, Aether (Genshin Impact), Kazuha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/465/651/HD-wallpaper-video-game-genshin-impact-aether-genshin-impact-kazuha-genshin-impact.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just thought the new Halloween themed wallpapers needed a full ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3echt62ld0x71.png' alt='Just thought the new Halloween themed wallpapers needed a full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3546">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3echt62ld0x71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharing my chromebook background | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/3096dfb7-45d7-497a-9c2c-7f38c12a7d51' alt='Sharing my chromebook background | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genshin Impact Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/3096dfb7-45d7-497a-9c2c-7f38c12a7d51' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

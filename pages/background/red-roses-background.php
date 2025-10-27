@@ -1,0 +1,129 @@
+<title>Elegant Red Rose Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover stunning red rose backgrounds perfect for enhancing your decor or digital spaces. These beautiful floral designs evoke romance and elegance, making them ideal for special occasions or personal touches. Explore a variety of styles to find the perfect red rose backdrop for you!">
+                    <meta name="keywords" content="red roses background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-roses-background">
+                            <span itemprop="name">red roses background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Red Rose Backgrounds for Every Occasion</h1>
+                <p>Red roses, with their captivating beauty and rich symbolism of love, grace many backgrounds, from enchanting gardens to romantic wallpapers. They evoke passion and elegance, making them a perfect choice for events and decor. Whether in vibrant reds or soft pinks, red roses effortlessly enhance any setting with their timeless charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/3e/86/9b3e8663c92bcb30d53140da7967c979.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/3e/86/9b3e8663c92bcb30d53140da7967c979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses Background" Images – Browse 1,373 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/34/70/52/360_F_934705227_Z9odkAhXXPtNql01UQpG9qBP06tm7ovU.jpg' alt='Red Roses Background" Images – Browse 1,373 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/34/70/52/360_F_934705227_Z9odkAhXXPtNql01UQpG9qBP06tm7ovU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses Background​ | Gallery Yopriceville - High-Quality Free ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/4230' alt='Red Roses Background​ | Gallery Yopriceville - High-Quality Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6200">
+                                <meta itemprop="height" content="4134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/4230' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses Passion For Valentines Day Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/531296093/photo/red-roses-passion-for-valentines-day-background.jpg?s=612x612&w=0&k=20&c=ge1wU4mKi73ifnVCidDpdgq9JqZlLTsqOshIyfOHFBM=' alt='Red Roses Passion For Valentines Day Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/531296093/photo/red-roses-passion-for-valentines-day-background.jpg?s=612x612&w=0&k=20&c=ge1wU4mKi73ifnVCidDpdgq9JqZlLTsqOshIyfOHFBM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/ac/d8/7aacd82025551cd9716853f18578d351.jpg' alt='Red Roses iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/ac/d8/7aacd82025551cd9716853f18578d351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Red Roses Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/natural-red-roses-background-color-600nw-1927126163.jpg' alt='Deep Red Roses Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/natural-red-roses-background-color-600nw-1927126163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iphone X Red Roses White Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-x-roses-background-f8e5ccnwufsr415q.jpg' alt='Download Iphone X Red Roses White Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-x-roses-background-f8e5ccnwufsr415q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Close-up Shot of Red Roses in Bloom · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/8796536/pexels-photo-8796536.jpeg' alt='A Close-up Shot of Red Roses in Bloom · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/8796536/pexels-photo-8796536.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wall 3D Bright Red Roses Fabric Rolling Up Curtain Floral ...">
+                                <img itemprop="contentUrl url" src='https://www.ketiestory.com/cdn/shop/files/DSC03802.jpg?v=1736217360&width=2000' alt='Flower Wall 3D Bright Red Roses Fabric Rolling Up Curtain Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KetieStory" />
+                                </span>
+                                <a href='https://www.ketiestory.com/cdn/shop/files/DSC03802.jpg?v=1736217360&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable rose background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGL1iMNj28/2/0/900w/canva-pink-and-red-watercolor-with-rose-illustration-phone-wallpaper--AEbJjqLsvU.jpg' alt='Free and customizable rose background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGL1iMNj28/2/0/900w/canva-pink-and-red-watercolor-with-rose-illustration-phone-wallpaper--AEbJjqLsvU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

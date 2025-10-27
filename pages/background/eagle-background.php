@@ -1,0 +1,129 @@
+<title>Discover the Majestic World of Eagles</title>
+                    <meta name="description" content="Explore the fascinating background of eagles, their habitats, and significance in culture. Discover what makes these majestic birds a symbol of freedom and strength. Dive into their world today! Perfect for enthusiasts and nature lovers alike.">
+                    <meta name="keywords" content="eagle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eagle-background">
+                            <span itemprop="name">eagle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Majestic World of Eagles</h1>
+                <p>Eagles are majestic birds known for their strength and keen eyesight. They inhabit diverse environments, from mountains to forests, and symbolize freedom and power in various cultures. With their impressive wingspans and exceptional hunting skills, eagles are at the top of the food chain, showcasing nature's beauty and resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/186/023/small/photorealistic-image-of-a-majestic-eagle-soaring-in-the-sky-ai-generative-photo.jpg' alt='Eagle Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/186/023/small/photorealistic-image-of-a-majestic-eagle-soaring-in-the-sky-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Eagle Images – Browse 37,036 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/03/43/86/360_F_1003438633_1rrzYVzXSdwITubN08qkPkfnxTa6pPRd.jpg' alt='Fire Eagle Images – Browse 37,036 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/03/43/86/360_F_1003438633_1rrzYVzXSdwITubN08qkPkfnxTa6pPRd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A close up of a bald eagle with a black background photo – Free ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1715002383611-63488b956401?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A close up of a bald eagle with a black background photo – Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1715002383611-63488b956401?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flaming Eagle Stock Illustrations – 1,053 Flaming Eagle Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flaming-eagle-fiery-freedom-concept-captivating-image-features-high-detailed-fire-set-against-plain-background-exuding-333171479.jpg' alt='Flaming Eagle Stock Illustrations – 1,053 Flaming Eagle Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flaming-eagle-fiery-freedom-concept-captivating-image-features-high-detailed-fire-set-against-plain-background-exuding-333171479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Eagle Soaring High Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/6/1/8/61883a25-6380-4a07-b403-a1481566364c_large/eagle-soaring-high-stockcake.jpg' alt='Free Eagle Soaring High Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/6/1/8/61883a25-6380-4a07-b403-a1481566364c_large/eagle-soaring-high-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Black Background Eagle Stock Illustrations – 1,412 Fire Black ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/eagle-face-vibrant-colors-black-background-generated-ai-342677823.jpg' alt='Fire Black Background Eagle Stock Illustrations – 1,412 Fire Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/eagle-face-vibrant-colors-black-background-generated-ai-342677823.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Background" Images – Browse 196 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/29/71/17/360_F_929711758_EHhnBlDmkdmaExmVM5SxCNKZAHZUhimX.jpg' alt='Eagle Background" Images – Browse 196 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/29/71/17/360_F_929711758_EHhnBlDmkdmaExmVM5SxCNKZAHZUhimX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88 Best Eagle background ideas in 2025 | eagle pictures, eagle ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/0a/5a/91/0a5a916f0842160a8ec695f6cbdb7450.jpg' alt='88 Best Eagle background ideas in 2025 | eagle pictures, eagle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/0a/5a/91/0a5a916f0842160a8ec695f6cbdb7450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Lovers | Facebook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/6b/c2/a56bc231a848e46053b0e3e333684c6f.jpg' alt='Eagle Lovers | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/6b/c2/a56bc231a848e46053b0e3e333684c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blazing Eagle Stock Illustrations – 516 Blazing Eagle Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fierce-bald-eagle-against-blazing-fire-background-symbolizing-strength-power-freedom-dramatic-intense-scene-fierce-bald-338852912.jpg' alt='Blazing Eagle Stock Illustrations – 516 Blazing Eagle Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fierce-bald-eagle-against-blazing-fire-background-symbolizing-strength-power-freedom-dramatic-intense-scene-fierce-bald-338852912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

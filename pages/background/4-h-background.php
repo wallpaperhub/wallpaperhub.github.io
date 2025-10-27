@@ -1,0 +1,129 @@
+<title>Discover the Impact of 4-H: Empowering Youth Through Hands-On Learning</title>
+                    <meta name="description" content="Explore the transformative power of 4-H, a program that equips youth with essential life skills and promotes community engagement. Learn how 4-H nurtures future leaders through fun, hands-on projects. Join the movement today and empower the next generation!">
+                    <meta name="keywords" content="4-h background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/4-h-background">
+                            <span itemprop="name">4-h background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Impact of 4-H: Empowering Youth Through Hands-On Learning</h1>
+                <p>4-H is a youth development organization that empowers young people to develop skills in leadership, citizenship, and life through hands-on learning. Originating in the early 20th century, 4-H has grown to encompass various projects, from agriculture to technology, fostering personal growth and community involvement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-H Clovers Scrapbook Paper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-l38ey9htbw/images/stencil/1280x1280/products/2014/4264/LS292-f__89563.1580592277.jpg?c=2' alt='4-H Clovers Scrapbook Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1277">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shop it takes two" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-l38ey9htbw/images/stencil/1280x1280/products/2014/4264/LS292-f__89563.1580592277.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-H Pledge Print - Dark Background">
+                                <img itemprop="contentUrl url" src='http://shop4-h.org/cdn/shop/products/4-h-pledge-print-dark-background-900111.jpg?v=1636387859' alt='4-H Pledge Print - Dark Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shop 4-H" />
+                                </span>
+                                <a href='http://shop4-h.org/cdn/shop/products/4-h-pledge-print-dark-background-900111.jpg?v=1636387859' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National 4-H Week - National 4-H Council">
+                                <img itemprop="contentUrl url" src='https://www.4-h.org/wp-content/uploads/2024/07/30182313/Virtual-Backgrounds2.jpg' alt='National 4-H Week - National 4-H Council'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4-H" />
+                                </span>
+                                <a href='https://www.4-h.org/wp-content/uploads/2024/07/30182313/Virtual-Backgrounds2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4H Club">
+                                <img itemprop="contentUrl url" src='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20190102120440/4H-Club-Logo.jpg' alt='4H Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pattern Crew" />
+                                </span>
+                                <a href='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20190102120440/4H-Club-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-H on X: "Tomorrow, 10/7 is #National4HWeek spirit day!    Show ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EjpWoODWsAIXTyy.jpg:large' alt='4-H on X: "Tomorrow, 10/7 is #National4HWeek spirit day!    Show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EjpWoODWsAIXTyy.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cornell Cooperative Extension | Our History">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/assets.cce.cornell.edu/slides/68389/image/sized/4H_Emblem.Rainbow.jpg' alt='Cornell Cooperative Extension | Our History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cornell Cooperative Extension Chemung County - Cornell University" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/assets.cce.cornell.edu/slides/68389/image/sized/4H_Emblem.Rainbow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-H - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5e/4H_Emblem.svg' alt='4-H - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5e/4H_Emblem.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Resources | Mississippi State University Extension Service">
+                                <img itemprop="contentUrl url" src='http://extension.msstate.edu/sites/default/files/department-images/Virtual%20Backgrounds/zvb_4H_green_grad.jpg' alt='Digital Resources | Mississippi State University Extension Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mississippi State University Extension Service |" />
+                                </span>
+                                <a href='http://extension.msstate.edu/sites/default/files/department-images/Virtual%20Backgrounds/zvb_4H_green_grad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall for 4-H - California 4-H Brand Toolkit">
+                                <img itemprop="contentUrl url" src='https://ucanr.edu/sites/CA_4-H_Brand_Toolkit/files/357285.png' alt='Fall for 4-H - California 4-H Brand Toolkit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UC ANR" />
+                                </span>
+                                <a href='https://ucanr.edu/sites/CA_4-H_Brand_Toolkit/files/357285.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New enrollment for 4-H is March 17 - Alamosa Citizen">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.alamosacitizen.com/wp-content/uploads/2023/03/4_h_COMM.jpg?fit=1200%2C800&ssl=1' alt='New enrollment for 4-H is March 17 - Alamosa Citizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamosa Citizen" />
+                                </span>
+                                <a href='https://i0.wp.com/www.alamosacitizen.com/wp-content/uploads/2023/03/4_h_COMM.jpg?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

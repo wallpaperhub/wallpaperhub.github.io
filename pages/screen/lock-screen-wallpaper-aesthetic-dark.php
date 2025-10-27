@@ -1,0 +1,129 @@
+<title>Dark Aesthetic Lock Screen Wallpapers: Unique & Stylish</title>
+                    <meta name="description" content="Discover a stunning collection of dark aesthetic lock screen wallpapers. Perfect for those who appreciate artistry and allure, our selections bring your device to life with striking visuals. Transform your screen into a reflection of your unique style and mood, all while enhancing your mobile experience.">
+                    <meta name="keywords" content="lock screen wallpaper aesthetic dark">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-wallpaper-aesthetic-dark">
+                            <span itemprop="name">lock screen wallpaper aesthetic dark</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Aesthetic Lock Screen Wallpapers: Unique & Stylish</h1>
+                <p>Enhance your device's personality with aesthetic dark lock screen wallpapers. From ethereal night skies to haunting landscapes, find the perfect backdrop that resonates with your vibe. These wallpapers evoke mystique and elegance, providing a unique glimpse every time you glance at your screen. Illuminate your tech with captivating visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Still with you aesthetic dark wallpaper for iphone lock screen and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' alt='Still with you aesthetic dark wallpaper for iphone lock screen and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Waves Lockscreen Aesthetic iPhone Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3f/81/7b/3f817bb3534c8afa7806c7884fb5993f.jpg' alt='Dark Waves Lockscreen Aesthetic iPhone Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3f/81/7b/3f817bb3534c8afa7806c7884fb5993f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark lockscreen 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/82/6a/cb/826acb8447088f47c8a78d2b661a9900.jpg' alt='Dark lockscreen 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1144">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/82/6a/cb/826acb8447088f47c8a78d2b661a9900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi, aesthetic, black, dark, glitch, hello, lock screen, minimalist ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/918/636/HD-wallpaper-hi-aesthetic-black-dark-glitch-hello-lock-screen-minimalist-simple.jpg' alt='Hi, aesthetic, black, dark, glitch, hello, lock screen, minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/918/636/HD-wallpaper-hi-aesthetic-black-dark-glitch-hello-lock-screen-minimalist-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loneliness Aesthetic Lockscreen With A Poetic Quote Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/loneliness-aesthetic-lockscreen-with-a-poetic-quote-fqmqm533ogoghefn.jpg' alt='Loneliness Aesthetic Lockscreen With A Poetic Quote Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/loneliness-aesthetic-lockscreen-with-a-poetic-quote-fqmqm533ogoghefn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Lockscreen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6889808.png' alt='Dark Lockscreen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6889808.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Aesthetic Dark Wallpapers For iPhone (Free HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1b/16/b6/1b16b6c25c33868e0aab9d0daa7aec9f.jpg' alt='25 Aesthetic Dark Wallpapers For iPhone (Free HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1b/16/b6/1b16b6c25c33868e0aab9d0daa7aec9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black lockscreen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/126/HD-wallpaper-locked-amoled-black-draw-gray-iphone-key-lockscreen-thumbnail.jpg' alt='HD black lockscreen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/126/HD-wallpaper-locked-amoled-black-draw-gray-iphone-key-lockscreen-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glittering-black-phone-lock-screen-9q65nw3grb5ua9e3.jpg' alt='Download Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glittering-black-phone-lock-screen-9q65nw3grb5ua9e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Aesthetic Black Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4723655.jpg' alt='Lockscreen Aesthetic Black Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4723655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

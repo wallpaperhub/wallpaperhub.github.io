@@ -1,0 +1,129 @@
+<title>Stunning Code Geass iPhone Wallpapers - Download Now!</title>
+                    <meta name="description" content="Discover a curated collection of breathtaking Code Geass wallpapers for your iPhone. Perfect for fans, these high-quality images transform your device while showcasing iconic characters and memorable moments. Elevate your home screen and express your anime passion effortlessly!">
+                    <meta name="keywords" content="code geass wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/code-geass-wallpaper-iphone">
+                            <span itemprop="name">code geass wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Code Geass iPhone Wallpapers - Download Now!</h1>
+                <p>Transform your iPhone with stunning Code Geass wallpapers! Featuring your favorite characters like Lelouch and Suzaku, these wallpapers capture the essence of this iconic anime. Whether you prefer dramatic scenes or stylish artwork, our collection has something for every fan. Personalize your device and show your love for Code Geass today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass iPhone Wallpapers - Top Free Code Geass iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/04/41/a804416f271c813228a9501acdd82ffc.jpg' alt='Code Geass iPhone Wallpapers - Top Free Code Geass iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/04/41/a804416f271c813228a9501acdd82ffc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/e7/3b/3ae73b447abbc95e9eef96384fc72cf6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/e7/3b/3ae73b447abbc95e9eef96384fc72cf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a quick wallpaper for my phone after i finished the anime ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rnsi8gcrnxo51.jpg?width=640&crop=smart&auto=webp&s=c0ba9aaa6a73f70df2f7560a5a3c22ea87591447' alt='I made a quick wallpaper for my phone after i finished the anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rnsi8gcrnxo51.jpg?width=640&crop=smart&auto=webp&s=c0ba9aaa6a73f70df2f7560a5a3c22ea87591447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpapers of code geass? : r/CodeGeass">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/zgNHFFs.jpg' alt='iPhone wallpapers of code geass? : r/CodeGeass'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2231">
+                                <meta itemprop="height" content="3208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/zgNHFFs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lelouch Neon, black, simple, code geass, anime, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/97/570/HD-wallpaper-lelouch-neon-black-simple-code-geass-anime.jpg' alt='Lelouch Neon, black, simple, code geass, anime, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/97/570/HD-wallpaper-lelouch-neon-black-simple-code-geass-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Game Reviews | AppSpy.com">
+                                <img itemprop="contentUrl url" src='https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/15/c2/a9/15c2a9c5-9203-84b5-73e0-717634a38c37/source/512x512bb.jpg' alt='iPhone Game Reviews | AppSpy.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Game Reviews | AppSpy.com" />
+                                </span>
+                                <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/15/c2/a9/15c2a9c5-9203-84b5-73e0-717634a38c37/source/512x512bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lelouch, anime, black, code geass, geass, night, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/319/616/HD-wallpaper-lelouch-anime-black-code-geass-geass-night.jpg' alt='Lelouch, anime, black, code geass, geass, night, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/319/616/HD-wallpaper-lelouch-anime-black-code-geass-geass-night.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass Lelouch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/64/57/b96457231ef040a2b54e074aaf504c81.jpg' alt='Code Geass Lelouch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/64/57/b96457231ef040a2b54e074aaf504c81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lelouch Lamperouge, The Protagonist Of Code Geass ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lelouch-lamperouge-the-protagonist-of-code-geass-plotting-his-next-move-vrkc46axsp5k2c32.jpg' alt='Download Lelouch Lamperouge, The Protagonist Of Code Geass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lelouch-lamperouge-the-protagonist-of-code-geass-plotting-his-next-move-vrkc46axsp5k2c32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a quick wallpaper for my phone after i finished the anime ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/y5vbeh9rnxo51.jpg?width=640&crop=smart&auto=webp&s=2aa5a420645a8ac0d1a879f7efee0d361f8fb764' alt='I made a quick wallpaper for my phone after i finished the anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/y5vbeh9rnxo51.jpg?width=640&crop=smart&auto=webp&s=2aa5a420645a8ac0d1a879f7efee0d361f8fb764' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

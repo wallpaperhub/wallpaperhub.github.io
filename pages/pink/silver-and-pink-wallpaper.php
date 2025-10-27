@@ -1,0 +1,129 @@
+<title>Elegant Silver & Pink Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the allure of silver and pink wallpaper! This captivating combination enhances your rooms with elegance and warmth. Ideal for any decor style, our collection offers a range of designs to suit your taste. Upgrade your home with this stylish wallpaper today and enjoy a fresh, vibrant ambiance!">
+                    <meta name="keywords" content="silver and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/silver-and-pink-wallpaper">
+                            <span itemprop="name">silver and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Silver & Pink Wallpaper: Transform Your Space</h1>
+                <p>Silver and pink wallpaper brings a touch of elegance and vibrancy to any space. Perfect for bedrooms and living areas, this design combines the calming qualities of silver with the playful charm of pink. Whether you choose bold patterns or subtle textures, these wallpapers create a chic backdrop that complements various decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Silver Gray Fluid Art Wallpaper Modern Wall Decor Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/8c20d3/3708877609/il_570xN.3708877609_o692.jpg' alt='Pink Silver Gray Fluid Art Wallpaper Modern Wall Decor Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/8c20d3/3708877609/il_570xN.3708877609_o692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall NW41401 Magnolia Trail Metallic Silver Pink Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/249792.jpg' alt='NextWall NW41401 Magnolia Trail Metallic Silver Pink Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/249792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream silver pink wallpaper | by Polly Dunbar Decoration">
+                                <img itemprop="contentUrl url" src='https://www.pollydunbardecoration.com/wp-content/uploads/2019/02/Dream-silver-pink-room.jpg' alt='Dream silver pink wallpaper | by Polly Dunbar Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1950">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polly Dunbar Wallpaper" />
+                                </span>
+                                <a href='https://www.pollydunbardecoration.com/wp-content/uploads/2019/02/Dream-silver-pink-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worsley Woodland Silver & Pink Woodland Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/FE08201-Silver-Pink-Woodland-Wallpaper-Mural-hero-image.jpg' alt='Worsley Woodland Silver & Pink Woodland Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/FE08201-Silver-Pink-Woodland-Wallpaper-Mural-hero-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Swans Wallpaper Pink Beige White Silver Damask Floral Textured  Cygnet">
+                                <img itemprop="contentUrl url" src='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/101b340f-c6e9-483c-9c78-3cb9ab9aa62b.jpg' alt='Glitter Swans Wallpaper Pink Beige White Silver Damask Floral Textured  Cygnet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/101b340f-c6e9-483c-9c78-3cb9ab9aa62b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink silver glitter ombre iphone wallpaper background phone lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/d6/03/52d603920dd77f7cca537ee9fba2ddc7.jpg' alt='Pink silver glitter ombre iphone wallpaper background phone lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/d6/03/52d603920dd77f7cca537ee9fba2ddc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker silver & pink wallpaper background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/47/16/20/80/700_FO47162080_9d3d365f82468715d6fd9e24bc011b94.jpg,700,507,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,457,jpg)/stickers-silver-pink-wallpaper-background.jpg.jpg' alt='Sticker silver & pink wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/47/16/20/80/700_FO47162080_9d3d365f82468715d6fd9e24bc011b94.jpg,700,507,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,457,jpg)/stickers-silver-pink-wallpaper-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Glitter Pink Contact Paper 15.8"x240" Glitter Peel and Stick  Wallpaper Pink Sparkly Self Adhesive Wall Paper Roll Fabric Pink Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Irou+sSoL.jpg' alt='FunStick Glitter Pink Contact Paper 15.8"x240" Glitter Peel and Stick  Wallpaper Pink Sparkly Self Adhesive Wall Paper Roll Fabric Pink Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Irou+sSoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream silver pink wallpaper | by Polly Dunbar Decoration">
+                                <img itemprop="contentUrl url" src='https://www.pollydunbardecoration.com/wp-content/uploads/2019/02/Dream-silver-pink-flat.jpg?x18855' alt='Dream silver pink wallpaper | by Polly Dunbar Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polly Dunbar Wallpaper" />
+                                </span>
+                                <a href='https://www.pollydunbardecoration.com/wp-content/uploads/2019/02/Dream-silver-pink-flat.jpg?x18855' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Silver Floral Wallpaper Stock Illustrations – 2,439 Pink ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/d-flowers-seamless-pattern-vintage-silver-floral-background-wallpaper-illustration-pink-abstract-scroll-leaves-antique-118296233.jpg' alt='Pink Silver Floral Wallpaper Stock Illustrations – 2,439 Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/d-flowers-seamless-pattern-vintage-silver-floral-background-wallpaper-illustration-pink-abstract-scroll-leaves-antique-118296233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

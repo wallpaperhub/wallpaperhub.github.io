@@ -1,0 +1,129 @@
+<title>Understanding Background Knowledge in Reading</title>
+                    <meta name="description" content="Explore the significance of background knowledge in reading and learn how it influences comprehension and engagement. Discover the connection between what you already know and the texts you read for a richer learning experience.">
+                    <meta name="keywords" content="what is background knowledge in reading">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-background-knowledge-in-reading">
+                            <span itemprop="name">what is background knowledge in reading</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Background Knowledge in Reading</h1>
+                <p>Background knowledge in reading refers to the information and experiences a reader brings to a text. This knowledge enhances comprehension, allowing readers to make connections, infer meanings, and engage with the material on a deeper level. It plays a crucial role in understanding context, themes, and the author's intent.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teaching Students to Use Background Knowledge in Reading Classroom ...">
+                                <img itemprop="contentUrl url" src='https://raisethebarreading.com/wp-content/uploads/2019/05/Background-Knowledge-Poster.jpg' alt='Teaching Students to Use Background Knowledge in Reading Classroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raise the Bar Reading" />
+                                </span>
+                                <a href='https://raisethebarreading.com/wp-content/uploads/2019/05/Background-Knowledge-Poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scarborough's Reading Rope 2 - Background Knowledge - Dyslexia ...">
+                                <img itemprop="contentUrl url" src='https://www.dyslexiaconnect.com/wp-content/uploads/2023/04/Background-Knowledge-canva-infographic-410x1024.jpg' alt='Scarborough's Reading Rope 2 - Background Knowledge - Dyslexia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dyslexia Connect" />
+                                </span>
+                                <a href='https://www.dyslexiaconnect.com/wp-content/uploads/2023/04/Background-Knowledge-canva-infographic-410x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Background Knowledge? (Plus 21 Ways To Build It)">
+                                <img itemprop="contentUrl url" src='https://www.weareteachers.com/wp-content/uploads/background-knowledge-velcro-quote-800x800.png' alt='What Is Background Knowledge? (Plus 21 Ways To Build It)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Are Teachers" />
+                                </span>
+                                <a href='https://www.weareteachers.com/wp-content/uploads/background-knowledge-velcro-quote-800x800.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why background knowledge about the world can increase reading ...">
+                                <img itemprop="contentUrl url" src='https://www.banterspeech.com.au/wp-content/uploads/2021/11/Background-knowledge-and-reading-comprehension-Twitter-Post.png' alt='Why background knowledge about the world can increase reading ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banter Speech & Language" />
+                                </span>
+                                <a href='https://www.banterspeech.com.au/wp-content/uploads/2021/11/Background-knowledge-and-reading-comprehension-Twitter-Post.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   ναℓєηтιηα gσηzαℓєz on X: "What is background knowledge and how ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GVdA6SIXIAAwaXs.jpg:large' alt='   ναℓєηтιηα gσηzαℓєz on X: "What is background knowledge and how ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1755">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GVdA6SIXIAAwaXs.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Knowledge – 3 Books and Lessons to Teach It">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.outofthisworldliteracy.com/wp-content/uploads/2016/08/chartbooksbackgroundknowledge.png?fit=640%2C513&ssl=1' alt='Background Knowledge – 3 Books and Lessons to Teach It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Out of this World Literacy" />
+                                </span>
+                                <a href='https://i0.wp.com/www.outofthisworldliteracy.com/wp-content/uploads/2016/08/chartbooksbackgroundknowledge.png?fit=640%2C513&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scarborough's Reading Rope 2 - Background Knowledge - Dyslexia ...">
+                                <img itemprop="contentUrl url" src='https://www.dyslexiaconnect.com/wp-content/uploads/2023/04/SR-BackroungKnowledgeFB.png' alt='Scarborough's Reading Rope 2 - Background Knowledge - Dyslexia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dyslexia Connect" />
+                                </span>
+                                <a href='https://www.dyslexiaconnect.com/wp-content/uploads/2023/04/SR-BackroungKnowledgeFB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background knowledge plays a key role in reading comprehension ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2854166182431246692' alt='Background knowledge plays a key role in reading comprehension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2854166182431246692' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teaching Students to Use Background Knowledge in Reading Classroom ...">
+                                <img itemprop="contentUrl url" src='https://raisethebarreading.com/wp-content/uploads/2019/05/Background-Knowledge-Word-Wall.jpg' alt='Teaching Students to Use Background Knowledge in Reading Classroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raise the Bar Reading" />
+                                </span>
+                                <a href='https://raisethebarreading.com/wp-content/uploads/2019/05/Background-Knowledge-Word-Wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Knowledge - Ms. Caroline's Grade 4 Website">
+                                <img itemprop="contentUrl url" src='http://carolineela.weebly.com/uploads/6/0/1/2/60121593/background-knowledge_orig.jpg' alt='Background Knowledge - Ms. Caroline's Grade 4 Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ms. Caroline's Grade 4 Website" />
+                                </span>
+                                <a href='http://carolineela.weebly.com/uploads/6/0/1/2/60121593/background-knowledge_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

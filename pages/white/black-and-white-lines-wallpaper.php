@@ -1,0 +1,129 @@
+<title>Stylish Black and White Lines Wallpaper for Modern Homes</title>
+                    <meta name="description" content="Discover elegant black and white lines wallpaper to elevate your home decor. Perfect for any space, this chic design balances modern style and timeless appeal. Explore versatile patterns that fit your aesthetic and transform your interiors effortlessly. Ideal for quick and stylish upgrades!">
+                    <meta name="keywords" content="black and white lines wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-lines-wallpaper">
+                            <span itemprop="name">black and white lines wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black and White Lines Wallpaper for Modern Homes</h1>
+                <p>Transform your space with striking black and white lines wallpaper. This contemporary design adds sophistication and a modern edge to any room. Whether in bold stripes or intricate patterns, it enhances your decor while providing a timeless appeal. Perfect for living rooms, bedrooms, or offices, it creates a stunning backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe • Bold & Elegant Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' alt='Black & White Stripe • Bold & Elegant Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe • Bold & Elegant Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-3-1100x1318.jpg.optimal.jpg' alt='Black & White Stripe • Bold & Elegant Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-3-1100x1318.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Stripes">
+                                <img itemprop="contentUrl url" src='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982_1200x630.png?v=1619804054' alt='Black and White Stripes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982_1200x630.png?v=1619804054' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black And White Wavy Stripes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233848/Abstract-Black-And-White-Wavy-Stripes-Wallpaper.jpg?v=638234753992170000' alt='Abstract Black And White Wavy Stripes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233848/Abstract-Black-And-White-Wavy-Stripes-Wallpaper.jpg?v=638234753992170000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Abstract Wallpaper, Modern Wallpaper, Geometric ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/ef52f1/4285612265/il_570xN.4285612265_6ez0.jpg' alt='Black and White Abstract Wallpaper, Modern Wallpaper, Geometric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/ef52f1/4285612265/il_570xN.4285612265_6ez0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Black And White Lines Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1514092135741-08b367214e27?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJsYWNrJTIwYW5kJTIwd2hpdGUlMjBsaW5lc3xlbnwwfHwwfHx8MA%3D%3D' alt='50,000+ Black And White Lines Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1514092135741-08b367214e27?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJsYWNrJTIwYW5kJTIwd2hpdGUlMjBsaW5lc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black ang white stripes.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/b2/89/84b289f7a0e4da46adf8387a0a622818.jpg' alt='Black ang white stripes.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/b2/89/84b289f7a0e4da46adf8387a0a622818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lines, white and black, black, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/617/959/HD-wallpaper-white-lines-white-and-black-black.jpg' alt='White Lines, white and black, black, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/617/959/HD-wallpaper-white-lines-white-and-black-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Black Lines Images – Browse 6,705,336 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/08/84/48/360_F_208844887_3lE1dtgVLqUErFQ6CeDn5Qwop9w4zTvt.jpg' alt='White And Black Lines Images – Browse 6,705,336 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/08/84/48/360_F_208844887_3lE1dtgVLqUErFQ6CeDn5Qwop9w4zTvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Black And White Lines Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1509486432407-f8fb9cc99acd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGxpbmVzfGVufDB8fDB8fHww' alt='50,000+ Black And White Lines Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1509486432407-f8fb9cc99acd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGxpbmVzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Film Wallpapers for Your iPhone: Cinematic Aesthetics</title>
+                    <meta name="description" content="Discover captivating film wallpapers for your iPhone, featuring iconic scenes and artistic designs. Elevate your device with cinematic aesthetics that reflect your love for movies. Perfect for film enthusiasts seeking to personalize their screens with unique visuals! Explore now!">
+                    <meta name="keywords" content="film wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/film-wallpaper-iphone">
+                            <span itemprop="name">film wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Film Wallpapers for Your iPhone: Cinematic Aesthetics</h1>
+                <p>Transform your iPhone with stunning film wallpaper! Choose from a variety of cinematic styles, from classic black and white to vibrant modern designs. Whether you're a fan of iconic movie stills or abstract visuals inspired by filmmaking, these wallpapers add a touch of artistry and personality to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film maker, action, screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/106/520/HD-wallpaper-film-maker-action-screen.jpg' alt='Film maker, action, screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/106/520/HD-wallpaper-film-maker-action-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11557997.jpg' alt='Cinema iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11557997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11558001.jpg' alt='Cinema iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11558001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA2L3JtNjU3LWJhY2tncm91bmQtMDIzYS1jLmpwZw.jpg' alt='Cinema Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA2L3JtNjU3LWJhY2tncm91bmQtMDIzYS1jLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Django Unchained">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/e3/1d/abe31d7ee18e32ae18fd80ee5ec06c86.jpg' alt='Django Unchained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/e3/1d/abe31d7ee18e32ae18fd80ee5ec06c86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Intriguing Free Film iPhone Wallpapers to Download - FilterGrade">
+                                <img itemprop="contentUrl url" src='https://filtergrade.com/free-film-iphone-wallpapers-download/34-free-iphone-8-wallpapers-filtergrade/' alt='30+ Intriguing Free Film iPhone Wallpapers to Download - FilterGrade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://filtergrade.com/free-film-iphone-wallpapers-download/34-free-iphone-8-wallpapers-filtergrade/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Intriguing Free Film iPhone Wallpapers to Download - FilterGrade">
+                                <img itemprop="contentUrl url" src='https://cdn.filtergrade.com/wp-content/uploads/2018/04/02152621/24-FREE-iPhone-8-Wallpapers-FilterGrade-473x1024.jpg' alt='30+ Intriguing Free Film iPhone Wallpapers to Download - FilterGrade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://cdn.filtergrade.com/wp-content/uploads/2018/04/02152621/24-FREE-iPhone-8-Wallpapers-FilterGrade-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 high-resolution iPhone wallpapers for people who love movies">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/szVDRWhF0Hbk_wSL.gRdog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNzkz/https://media.zenfs.com/en_US/News/BGR_News/blade-runner.jpg?quality=98&strip=all' alt='80 high-resolution iPhone wallpapers for people who love movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/szVDRWhF0Hbk_wSL.gRdog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNzkz/https://media.zenfs.com/en_US/News/BGR_News/blade-runner.jpg?quality=98&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interstellar wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2014/12/interstellar-wide-space-film-movie-art-34-iphone6-plus-wallpaper.jpg' alt='Interstellar wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2014/12/interstellar-wide-space-film-movie-art-34-iphone6-plus-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matt Neglia on X: "Loving my new iPhone 7 Plus background I made ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DFMIe3ZWsAIRGKx.jpg:large' alt='Matt Neglia on X: "Loving my new iPhone 7 Plus background I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DFMIe3ZWsAIRGKx.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

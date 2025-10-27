@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Note Wallpapers: Elevate Your Device</title>
+                    <meta name="description" content="Discover the ultimate collection of Galaxy Note wallpapers that enhance your device's aesthetic. Choose from high-quality images tailored for your phone, ensuring vibrant visuals and a personalized touch. Refresh your home screen today and showcase your unique style with our diverse options!">
+                    <meta name="keywords" content="galaxy note wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-note-wallpaper">
+                            <span itemprop="name">galaxy note wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Note Wallpapers: Elevate Your Device</h1>
+                <p>Transform your Galaxy Note with stunning wallpapers that reflect your personality! Explore a diverse collection of high-resolution images, including breathtaking landscapes, vibrant abstract art, and serene nature scenes. Enjoy a fresh look every day and give your device a unique touch while expressing your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Yellow Paint On Galaxy Note 7 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-and-yellow-paint-on-galaxy-note-7-oyohkv2wg9ogazxa.jpg' alt='Blue And Yellow Paint On Galaxy Note 7 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-and-yellow-paint-on-galaxy-note-7-oyohkv2wg9ogazxa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Galaxy Note Lock Screen Wallpaper Available For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/b6/60/49b6602e6a1b1b3cd5b211b3165a5666.jpg' alt='   Free download Galaxy Note Lock Screen Wallpaper Available For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/b6/60/49b6602e6a1b1b3cd5b211b3165a5666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Note 8 Stock Wallpapers Leak: See And Download Them Here ...">
+                                <img itemprop="contentUrl url" src='https://www.slashgear.com/img/gallery/galaxy-note-8-stock-wallpapers-leak-see-and-download-them-here/intro-import.jpg' alt='Galaxy Note 8 Stock Wallpapers Leak: See And Download Them Here ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlashGear" />
+                                </span>
+                                <a href='https://www.slashgear.com/img/gallery/galaxy-note-8-stock-wallpapers-leak-see-and-download-them-here/intro-import.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Samsung Galaxy Note 10 Plus Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/samsung-galaxy-note-10-plus-ahx2vakcnkbwg2rn.jpg' alt='100+] Samsung Galaxy Note 10 Plus Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/samsung-galaxy-note-10-plus-ahx2vakcnkbwg2rn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | vd98-galaxy-note-4-glass-wallpaper ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-vd98-galaxy-note-4-glass-wallpaper-pattern-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | vd98-galaxy-note-4-glass-wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-vd98-galaxy-note-4-glass-wallpaper-pattern-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Official Galaxy Note 8 Wallpapers for Your Own Devices!">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2017/08/Samsung-Galaxy-Note-8-First-Wallpaper.jpg' alt='Download Official Galaxy Note 8 Wallpapers for Your Own Devices!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2017/08/Samsung-Galaxy-Note-8-First-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download: Galaxy Note 9 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.droid-life.com/wp-content/uploads/2018/08/Galaxy-Note-9-Wallpapers-980x596.jpg' alt='Download: Galaxy Note 9 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Droid Life" />
+                                </span>
+                                <a href='https://www.droid-life.com/wp-content/uploads/2018/08/Galaxy-Note-9-Wallpapers-980x596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Note 20 Wallpapers - Mystic Black & Mystic Bronze. Bonus ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b0t6oiu33dc51.png?width=640&crop=smart&auto=webp&s=d568da9f3b0b9c17f27a011211b5e09fdc0fa574' alt='Galaxy Note 20 Wallpapers - Mystic Black & Mystic Bronze. Bonus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b0t6oiu33dc51.png?width=640&crop=smart&auto=webp&s=d568da9f3b0b9c17f27a011211b5e09fdc0fa574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Note 2 Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51NmlvJJdmL.jpg' alt='Note 2 Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51NmlvJJdmL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Note 20 Flower Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/samsung-note-20-flower-wppfjmfes5liynlv.jpg' alt='Samsung Note 20 Flower Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/samsung-note-20-flower-wppfjmfes5liynlv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

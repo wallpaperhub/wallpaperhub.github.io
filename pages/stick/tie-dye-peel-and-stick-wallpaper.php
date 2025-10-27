@@ -1,0 +1,129 @@
+<title>Vibrant Tie Dye Peel and Stick Wallpaper for Easy Home Refresh</title>
+                    <meta name="description" content="Discover the fun of tie dye peel and stick wallpaper! Easy to install and remove, this vibrant wallpaper lets you effortlessly update your home decor. Ideal for renters, it brings color and style to any room without the hassle of traditional wallpaper. Perfect for quick decor changes that make a big impact!">
+                    <meta name="keywords" content="tie dye peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/tie-dye-peel-and-stick-wallpaper">
+                            <span itemprop="name">tie dye peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Tie Dye Peel and Stick Wallpaper for Easy Home Refresh</h1>
+                <p>Transform your space with vibrant tie dye peel and stick wallpaper! Perfect for any room, this removable wallpaper is easy to apply and reposition, making it ideal for renters or those wanting a temporary change. Add a splash of color and artistic flair to your walls without the mess of traditional wallpaper. Refresh your decor in minutes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Vibrant Tie Dye Peel and Stick Wallpaper Self Adhesive Wallpaper  Large Wall Sticker Removable Vinyl Film Roll Shelf Paper Home Decor">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IcbKHq2FL._AC_UF894,1000_QL80_.jpg' alt='Wall Mural Vibrant Tie Dye Peel and Stick Wallpaper Self Adhesive Wallpaper  Large Wall Sticker Removable Vinyl Film Roll Shelf Paper Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IcbKHq2FL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSHJSURIMCNNL Peel and Stick Wallpaper Tie Dye Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decoration Mural Wall Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ufqABj7JL.jpg' alt='KSHJSURIMCNNL Peel and Stick Wallpaper Tie Dye Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decoration Mural Wall Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ufqABj7JL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Hexagon Lines Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/9241_TieDyeHexagonLines_AquaBlue_1.jpg?v=1602082426' alt='Tie Dye Hexagon Lines Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/9241_TieDyeHexagonLines_AquaBlue_1.jpg?v=1602082426' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Tie dye pattern with abstract blue background Detail of cotton  fabric Peel and Stick Wallpaper Self Adhesive Wallpaper Large Wall Sticker  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lLsyoAYNL._AC_UF894,1000_QL80_.jpg' alt='Wall Mural Tie dye pattern with abstract blue background Detail of cotton  fabric Peel and Stick Wallpaper Self Adhesive Wallpaper Large Wall Sticker  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lLsyoAYNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Peel And Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/tie_dye_wallpaper/tie_dye_wallpaper_bedroom.png.webp' alt='Tie Dye Peel And Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/tie_dye_wallpaper/tie_dye_wallpaper_bedroom.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Tie Dye">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/sr/582491/5/28/0/rainbow-tie-dye-wallpaper.jpg' alt='Rainbow Tie Dye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/sr/582491/5/28/0/rainbow-tie-dye-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Shapes Tie Dye Marble Mural Wall Art Wallpaper - Peel and Stick (2  Sheet Pack (2x8 feet), Black and White) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-P0pZeAVL.jpg' alt='Simple Shapes Tie Dye Marble Mural Wall Art Wallpaper - Peel and Stick (2  Sheet Pack (2x8 feet), Black and White) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-P0pZeAVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Stains Wallpaper Tie Dye Wall Abstract Wallpaper Tie Dye ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/178149/2550517782/il_570xN.2550517782_avul.jpg' alt='Tie Dye Stains Wallpaper Tie Dye Wall Abstract Wallpaper Tie Dye ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/178149/2550517782/il_570xN.2550517782_avul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aqua Pink Tie Dye">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/sr/583997/5/30/0/aqua-pink-tie-dye-wallpaper.jpg' alt='Aqua Pink Tie Dye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/sr/583997/5/30/0/aqua-pink-tie-dye-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Peel And Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/tie_dye_wallpaper/tie_dye_wallpaper_crib.png.webp' alt='Tie Dye Peel And Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/tie_dye_wallpaper/tie_dye_wallpaper_crib.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

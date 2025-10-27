@@ -1,0 +1,129 @@
+<title>Explore New England: History, Nature, and Coastal Charm</title>
+                    <meta name="description" content="Discover New England's rich history, breathtaking landscapes, and coastal beauty. From iconic lighthouses to charming towns, experience the best of this unique region with top attractions, delicious cuisine, and outdoor adventures tailored for every traveler.">
+                    <meta name="keywords" content="new england">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-england">
+                            <span itemprop="name">new england</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore New England: History, Nature, and Coastal Charm</h1>
+                <p>New England, a captivating region in the northeastern U.S., is known for its rich history, stunning coastlines, and diverse landscapes. From the picturesque fall foliage to charming small towns, each state offers unique attractions. Explore the vibrant culture, delicious seafood, and outdoor adventures that make New England a must-visit destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England | History, States, Map, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/35/4835-050-E5C28112/New-England.jpg' alt='New England | History, States, Map, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/35/4835-050-E5C28112/New-England.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England – Travel guide at Wikivoyage">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map-USA-New_England01.png/1200px-Map-USA-New_England01.png' alt='New England – Travel guide at Wikivoyage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikivoyage" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map-USA-New_England01.png/1200px-Map-USA-New_England01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/New_England_ancestry_by_county_-_updated.png/220px-New_England_ancestry_by_county_-_updated.png' alt='New England - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/New_England_ancestry_by_county_-_updated.png/220px-New_England_ancestry_by_county_-_updated.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About the New England Colonies - Have Fun With History">
+                                <img itemprop="contentUrl url" src='https://www.havefunwithhistory.com/wp-content/uploads/2023/01/Facts-About-the-New-England-Colonies.jpg' alt='10 Facts About the New England Colonies - Have Fun With History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Have Fun With History" />
+                                </span>
+                                <a href='https://www.havefunwithhistory.com/wp-content/uploads/2023/01/Facts-About-the-New-England-Colonies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Spotlight: New England Region - Scotsman Guide">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-2.amazonaws.com/sgm-prod/www/6f26586b_com-spotlight-Demographics%20Chart.jpg' alt='Commercial Spotlight: New England Region - Scotsman Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scotsman Guide" />
+                                </span>
+                                <a href='https://s3-us-west-2.amazonaws.com/sgm-prod/www/6f26586b_com-spotlight-Demographics%20Chart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Region of the United States – Legends of America">
+                                <img itemprop="contentUrl url" src='https://www.legendsofamerica.com/wp-content/uploads/2020/03/NewEnglandMap.jpg' alt='New England Region of the United States – Legends of America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legends of America" />
+                                </span>
+                                <a href='https://www.legendsofamerica.com/wp-content/uploads/2020/03/NewEnglandMap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England report | Features | gasworld">
+                                <img itemprop="contentUrl url" src='https://www.gasworld.com/wp-content/files/2023/10/Screenshot-2023-10-12-at-10.38.38.png' alt='New England report | Features | gasworld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1388">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gasworld" />
+                                </span>
+                                <a href='https://www.gasworld.com/wp-content/files/2023/10/Screenshot-2023-10-12-at-10.38.38.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/K%C3%B6ppen_Climate_Types_New_England.png/220px-K%C3%B6ppen_Climate_Types_New_England.png' alt='New England - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/K%C3%B6ppen_Climate_Types_New_England.png/220px-K%C3%B6ppen_Climate_Types_New_England.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The United States of New England in 2023 | The Land of Liberty : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-united-states-of-new-england-in-2023-the-land-of-liberty-v0-1dykjvcw0jta1.png?width=1080&crop=smart&auto=webp&s=58bc32b381ed39ba83b8da0fe770df12238fa1e7' alt='The United States of New England in 2023 | The Land of Liberty : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-united-states-of-new-england-in-2023-the-land-of-liberty-v0-1dykjvcw0jta1.png?width=1080&crop=smart&auto=webp&s=58bc32b381ed39ba83b8da0fe770df12238fa1e7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Maps of New England - Maps for MA, NH, VT, ME CT, RI">
+                                <img itemprop="contentUrl url" src='https://www.visitnewengland.com/adservimage/5064.jpg' alt='State Maps of New England - Maps for MA, NH, VT, ME CT, RI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visit New England" />
+                                </span>
+                                <a href='https://www.visitnewengland.com/adservimage/5064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

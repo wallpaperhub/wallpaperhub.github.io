@@ -1,0 +1,129 @@
+<title>Inspiring Military Desktop Wallpapers for Your PC</title>
+                    <meta name="description" content="Explore an impressive collection of military desktop wallpapers that bring the spirit of the armed forces to your screen. Perfect for enthusiasts and veterans alike, these wallpapers provide motivation and pride, transforming your workspace with stunning visuals of military strength and history.">
+                    <meta name="keywords" content="military desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/military-desktop-wallpaper">
+                            <span itemprop="name">military desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Military Desktop Wallpapers for Your PC</h1>
+                <p>Military desktop wallpapers are the perfect way to showcase your passion for the armed forces. From iconic vehicles and powerful aircraft to stunning landscapes of battlefields, these backgrounds add a touch of inspiration and pride to your workspace. Elevate your desktop's aesthetics and reflect your values with striking military imagery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battlefield 4 Military Action HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/434/434500.jpg' alt='Battlefield 4 Military Action HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/434/434500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Military Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/military-fd28watauyd383ra.jpg' alt='500+] Military Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/military-fd28watauyd383ra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Greyscale Group Of Military Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/military-desktop-w1664kcnu58ok22v.jpg' alt='Download Greyscale Group Of Military Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/military-desktop-w1664kcnu58ok22v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military Marines In Action Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/military-marines-in-action-6ujkqfxgfcdtn618.jpg' alt='Military Marines In Action Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/military-marines-in-action-6ujkqfxgfcdtn618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Soldier Military Tank HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/998/thumb-1920-998265.jpg' alt='Download Soldier Military Tank HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/998/thumb-1920-998265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military Photos, Download The BEST Free Military Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/78783/submachine-gun-rifle-automatic-weapon-weapon-78783.jpeg?cs=srgb&dl=pexels-pixabay-78783.jpg&fm=jpg' alt='Military Photos, Download The BEST Free Military Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3008">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/78783/submachine-gun-rifle-automatic-weapon-weapon-78783.jpeg?cs=srgb&dl=pexels-pixabay-78783.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Army Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/army-fmyvbfpcbu03f4vq.jpg' alt='300+] Army Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/army-fmyvbfpcbu03f4vq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Army Girl With Gun, indian army girl, gun, military, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/769/320/HD-wallpaper-indian-army-girl-with-gun-indian-army-girl-gun-military.jpg' alt='Indian Army Girl With Gun, indian army girl, gun, military, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/769/320/HD-wallpaper-indian-army-girl-with-gun-indian-army-girl-gun-military.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpapersWide.com : Army Ultra HD Wallpapers for UHD, Widescreen ...">
+                                <img itemprop="contentUrl url" src='https://hd.wallpaperswide.com/thumbs/amazon-t1.jpg' alt='WallpapersWide.com : Army Ultra HD Wallpapers for UHD, Widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://hd.wallpaperswide.com/thumbs/amazon-t1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Army Action HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/589/58977.jpg' alt='United States Army Action HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2464">
+                                <meta itemprop="height" content="1648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/589/58977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

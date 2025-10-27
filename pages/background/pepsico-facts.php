@@ -1,0 +1,129 @@
+<title>Discover Fascinating PepsiCo Facts</title>
+                    <meta name="description" content="Uncover intriguing facts about PepsiCo, the powerhouse behind beloved brands like Pepsi and Lay’s. Learn about their sustainability efforts, global presence, and commitment to innovation in the food and beverage industry. Perfect for enthusiasts and curious minds alike!">
+                    <meta name="keywords" content="pepsico facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pepsico-facts">
+                            <span itemprop="name">pepsico facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating PepsiCo Facts</h1>
+                <p>PepsiCo, founded in 1965, is a global food and beverage leader known for iconic brands like Pepsi, Tropicana, and Lay’s. Operating in over 200 countries, the company focuses on sustainability, committing to reducing its environmental impact and enhancing community well-being. PepsiCo’s innovative products cater to diverse consumer tastes and preferences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsico Corporate Fact Sheet | PDF | Pepsi Co | Food And Drink">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/226178853/original/4d26a0695a/1?v=1' alt='Pepsico Corporate Fact Sheet | PDF | Pepsi Co | Food And Drink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/226178853/original/4d26a0695a/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PepsiCo Statistics, Facts, Distribution Network,">
+                                <img itemprop="contentUrl url" src='https://market.us/wp-content/uploads/2020/01/pepsico-inc-statistics-and-facts.jpg' alt='PepsiCo Statistics, Facts, Distribution Network,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Market.us" />
+                                </span>
+                                <a href='https://market.us/wp-content/uploads/2020/01/pepsico-inc-statistics-and-facts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QUICK FACTS - PepsiCo">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/51447920/1/500x640/quick-facts-pepsico.jpg' alt='QUICK FACTS - PepsiCo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/51447920/1/500x640/quick-facts-pepsico.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Facts About Your Favorite Foods and Beverages (U.S.) | Product ...">
+                                <img itemprop="contentUrl url" src='https://www.pepsicoproductfacts.com/Content/image/downloads/ppf_product_pdf_LightlySalted_RiceCakes.png' alt='The Facts About Your Favorite Foods and Beverages (U.S.) | Product ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PepsiCo Product Facts" />
+                                </span>
+                                <a href='https://www.pepsicoproductfacts.com/Content/image/downloads/ppf_product_pdf_LightlySalted_RiceCakes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When was Pepsi-Cola invented? How did it get its name? | Contact ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/media-production-bucket/5ed8a951-06ff-4348-bad5-8764467e8e36.png' alt='When was Pepsi-Cola invented? How did it get its name? | Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PepsiCo" />
+                                </span>
+                                <a href='https://storage.googleapis.com/media-production-bucket/5ed8a951-06ff-4348-bad5-8764467e8e36.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q2 Earnings Fact Sheet - PepsiCo">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/3705795/1/500x640/q2-earnings-fact-sheet-pepsico.jpg' alt='Q2 Earnings Fact Sheet - PepsiCo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/3705795/1/500x640/q2-earnings-fact-sheet-pepsico.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Facts About Your Favorite Foods and Beverages (U.S.) | Pepsi ...">
+                                <img itemprop="contentUrl url" src='https://digitalassets.pepsico.com/m/42fdde2aeac28e4b/Hi_Res-00012000000133_C8C1_s04.jpg' alt='The Facts About Your Favorite Foods and Beverages (U.S.) | Pepsi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pepsicoproductfacts-stage.pepext.com" />
+                                </span>
+                                <a href='https://digitalassets.pepsico.com/m/42fdde2aeac28e4b/Hi_Res-00012000000133_C8C1_s04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Business Model Of The PepsiCo Food and Beverage Empire ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/10/what-does-pepsico-own.png?resize=1920%2C1448&ssl=1' alt='The Business Model Of The PepsiCo Food and Beverage Empire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FourWeekMBA" />
+                                </span>
+                                <a href='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/10/what-does-pepsico-own.png?resize=1920%2C1448&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dean Redmond -      . . . . Ten Unknown Facts About PepsiCo ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122151124418305533' alt='Dean Redmond -      . . . . Ten Unknown Facts About PepsiCo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122151124418305533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PepsiCo Statistics, Facts, Distribution Network,">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img/https://market.us/wp-content/uploads/2019/07/pepsico-logo.jpg' alt='PepsiCo Statistics, Facts, Distribution Network,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Market.us" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img/https://market.us/wp-content/uploads/2019/07/pepsico-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

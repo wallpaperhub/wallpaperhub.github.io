@@ -1,0 +1,129 @@
+<title>Stunning Purple Checkered Wallpaper for Vibrant Interiors</title>
+                    <meta name="description" content="Elevate your decor with our purple checkered wallpaper, a perfect blend of style and energy. Ideal for any room, it adds a unique flair that complements various design themes. Discover how this dynamic wallpaper can transform your space today!">
+                    <meta name="keywords" content="purple checkered wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-checkered-wallpaper">
+                            <span itemprop="name">purple checkered wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Checkered Wallpaper for Vibrant Interiors</h1>
+                <p>Transform your space with vibrant purple checkered wallpaper, perfect for adding a playful yet sophisticated touch to any room. This stylish design combines classic charm with modern flair, creating a mesmerizing backdrop. Ideal for accent walls or entire rooms, it brings energy and creativity into your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chess Lilac - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1668159732/articles/R19417_product.jpg' alt='Chess Lilac - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1668159732/articles/R19417_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Plaid Wallpaper for Stylish Walls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/cd/83/cacd835686f6b1169bbecb35524cc1d6.jpg' alt='Purple Plaid Wallpaper for Stylish Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/cd/83/cacd835686f6b1169bbecb35524cc1d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Wavy Checkered Wallpaper Wall Art Print">
+                                <img itemprop="contentUrl url" src='https://mindflowers.shop/cdn/shop/products/9f3d9f8799b82579b2d15429e0413e3e.jpg?v=1669010699&width=1200' alt='Lavender Wavy Checkered Wallpaper Wall Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MindFlowers" />
+                                </span>
+                                <a href='https://mindflowers.shop/cdn/shop/products/9f3d9f8799b82579b2d15429e0413e3e.jpg?v=1669010699&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple checkboard widget ✧.*">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/94/0a/d7/940ad7522b2c176e7fe655b039b49cae.jpg' alt='purple checkboard widget ✧.*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/94/0a/d7/940ad7522b2c176e7fe655b039b49cae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Checkered Wallpaper Pattern White Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/light-purple-checkered-wallpaper-pattern-260nw-2063339717.jpg' alt='Light Purple Checkered Wallpaper Pattern White Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/light-purple-checkered-wallpaper-pattern-260nw-2063339717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Purple,9.8' X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712-HgbnYqL.jpg' alt='Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Purple,9.8' X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712-HgbnYqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Aesthetic purple checkers gingham plaid checkered ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/aesthetic-purple-checkers-gingham-plaid-checkered-checkerboard-wallpaper-illustration-perfect-wallpaper-backdrop-background_565280-765.jpg' alt='Premium Vector | Aesthetic purple checkers gingham plaid checkered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/aesthetic-purple-checkers-gingham-plaid-checkered-checkerboard-wallpaper-illustration-perfect-wallpaper-backdrop-background_565280-765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Checkered Gingham Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c3/57/17/c35717fc1aedce9a06e611fcce904bad.jpg' alt='Purple Checkered Gingham Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c3/57/17/c35717fc1aedce9a06e611fcce904bad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Purple,9.8' X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61XjhXgokSL.jpg' alt='Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Purple,9.8' X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61XjhXgokSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Aesthetic retro small pastel purple gingham ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/aesthetic-retro-small-pastel-purple-gingham-checkerboard-checker-plaid-checkered-wallpaper-perfect-postcard-wallpaper-backdrop-background-banner-your-design_565280-1066.jpg?w=360' alt='Premium Vector | Aesthetic retro small pastel purple gingham ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/aesthetic-retro-small-pastel-purple-gingham-checkerboard-checker-plaid-checkered-wallpaper-perfect-postcard-wallpaper-backdrop-background-banner-your-design_565280-1066.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

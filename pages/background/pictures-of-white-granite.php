@@ -1,0 +1,129 @@
+<title>Stunning White Granite: Pictures & Inspiration</title>
+                    <meta name="description" content="Explore breathtaking pictures of white granite to inspire your home design. From elegant countertops to beautiful flooring, discover how this durable stone can elevate your space with its unique patterns and textures. Perfect for modern aesthetics, white granite is a timeless choice for any project.">
+                    <meta name="keywords" content="pictures of white granite">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-white-granite">
+                            <span itemprop="name">pictures of white granite</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Granite: Pictures & Inspiration</h1>
+                <p>Pictures of white granite showcase the stunning beauty of this natural stone. Known for its elegant appearance and durability, white granite is a popular choice for countertops, flooring, and outdoor features. These images highlight its unique patterns and textures, making it an ideal option for modern home designs and landscaping.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Granite Countertops, 10 Popular On-Trend Colors to Consider ...">
+                                <img itemprop="contentUrl url" src='https://www.lxhausys.com/us/blog/wp-content/uploads/2023/05/size_43ab86c1-4024-4684-adbc-f8c61b62e51f_Blog_1_25_1.jpg' alt='White Granite Countertops, 10 Popular On-Trend Colors to Consider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LX Hausys" />
+                                </span>
+                                <a href='https://www.lxhausys.com/us/blog/wp-content/uploads/2023/05/size_43ab86c1-4024-4684-adbc-f8c61b62e51f_Blog_1_25_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Granite Countertops Suppliers : The Ultimate Guide for 2025">
+                                <img itemprop="contentUrl url" src='https://marmogranite.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-22-at-3.38.46-PM-1.jpeg' alt='White Granite Countertops Suppliers : The Ultimate Guide for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortuna Marmo Granite" />
+                                </span>
+                                <a href='https://marmogranite.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-22-at-3.38.46-PM-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicatus White Granite; One Of The Best White Granite">
+                                <img itemprop="contentUrl url" src='https://dropinblog.net/34246798/files/featured/Delicatus_White_Granite_One_of_the_Best_White_Granite.png' alt='Delicatus White Granite; One Of The Best White Granite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worktops" />
+                                </span>
+                                <a href='https://dropinblog.net/34246798/files/featured/Delicatus_White_Granite_One_of_the_Best_White_Granite.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Granite Countertops, 10 Popular On-Trend Colors to Consider ...">
+                                <img itemprop="contentUrl url" src='https://www.lxhausys.com/us/blog/wp-content/uploads/2023/05/size_2013d446-afe7-40d4-8e25-71dc636419d4_Blog_1_25_3.jpg' alt='White Granite Countertops, 10 Popular On-Trend Colors to Consider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LX Hausys" />
+                                </span>
+                                <a href='https://www.lxhausys.com/us/blog/wp-content/uploads/2023/05/size_2013d446-afe7-40d4-8e25-71dc636419d4_Blog_1_25_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Granite Countertops: What You Should Know">
+                                <img itemprop="contentUrl url" src='https://eaglestonesusa.com/wp-content/uploads/2022/07/pexels-curtis-adams-10827305.jpg' alt='White Granite Countertops: What You Should Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eagle Stones" />
+                                </span>
+                                <a href='https://eaglestonesusa.com/wp-content/uploads/2022/07/pexels-curtis-adams-10827305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Granite Countertops">
+                                <img itemprop="contentUrl url" src='https://discovergranite.com/wp-content/uploads/2023/10/dsc.webp' alt='White Granite Countertops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discover Granite & Marble" />
+                                </span>
+                                <a href='https://discovergranite.com/wp-content/uploads/2023/10/dsc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rise of White Granite: 2023's Most Popular Countertop">
+                                <img itemprop="contentUrl url" src='https://cdn-jifhh.nitrocdn.com/qaEjOrUkGMlMFQOucunwqorYPIMqMnry/assets/images/optimized/rev-a283d65/crowecounter.com/wp-content/uploads/2022/12/White-Granite-%E2%80%93-The-Hottest-Countertop-Choice-for-2023-08-03-2023-2.jpg' alt='The Rise of White Granite: 2023's Most Popular Countertop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crowe Custom Countertops" />
+                                </span>
+                                <a href='https://cdn-jifhh.nitrocdn.com/qaEjOrUkGMlMFQOucunwqorYPIMqMnry/assets/images/optimized/rev-a283d65/crowecounter.com/wp-content/uploads/2022/12/White-Granite-%E2%80%93-The-Hottest-Countertop-Choice-for-2023-08-03-2023-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STONEMARK Granite Countertop Sample in Thunder White DT-G800 - The ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ef3755ec-7d81-4b74-bc7f-153583215da9/svn/thunder-white-stonemark-granite-countertops-dt-g800-c3_600.jpg' alt='STONEMARK Granite Countertop Sample in Thunder White DT-G800 - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ef3755ec-7d81-4b74-bc7f-153583215da9/svn/thunder-white-stonemark-granite-countertops-dt-g800-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Advantages of White Granite Countertops | InovaStone">
+                                <img itemprop="contentUrl url" src='https://www.inovastones.co.uk/wp-content/uploads/2017/02/White-Granite-Countertops.jpg' alt='7 Advantages of White Granite Countertops | InovaStone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3060">
+                                <meta itemprop="height" content="2226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InovaStone - InovaStone" />
+                                </span>
+                                <a href='https://www.inovastones.co.uk/wp-content/uploads/2017/02/White-Granite-Countertops.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elegance of White Granite Countertops: How to Use It in Every ...">
+                                <img itemprop="contentUrl url" src='https://rocky-tops.com/wp-content/uploads/2023/03/The-Elegance-of-White-Granite-Countertops-How-to-Use-It-in-Every-Room-of-Your-Home-10-20-2023-1-jpg.webp' alt='The Elegance of White Granite Countertops: How to Use It in Every ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Tops Custom Countertops" />
+                                </span>
+                                <a href='https://rocky-tops.com/wp-content/uploads/2023/03/The-Elegance-of-White-Granite-Countertops-How-to-Use-It-in-Every-Room-of-Your-Home-10-20-2023-1-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

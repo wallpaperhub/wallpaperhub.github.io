@@ -1,0 +1,129 @@
+<title>Vibrant Summer Anime Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a stunning collection of summer anime wallpapers! Perfect for anime fans, these colorful designs will give your devices a refreshing summer vibe. Explore and download today to celebrate the season with your favorite characters and scenes!">
+                    <meta name="keywords" content="summer anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-anime-wallpaper">
+                            <span itemprop="name">summer anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Anime Wallpapers for Your Screen</h1>
+                <p>Brighten up your devices this summer with vibrant summer anime wallpapers! Featuring colorful landscapes, cheerful characters, and summer-themed scenes, these wallpapers bring a refreshing vibe to your screens. Perfect for fans of anime and anyone looking to add a splash of joy to their digital spaces! Download your favorites!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Aesthetic Summer, Anime Summer Landscape, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/493/519/HD-wallpaper-anime-aesthetic-summer-anime-summer-landscape.jpg' alt='Anime Aesthetic Summer, Anime Summer Landscape, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/493/519/HD-wallpaper-anime-aesthetic-summer-anime-summer-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer - Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/0c/7c/630c7c2851fb354b85521e4dbc638029.jpg' alt='Summer - Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/0c/7c/630c7c2851fb354b85521e4dbc638029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Anime Scenery, japan, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/747/501/HD-wallpaper-summer-anime-scenery-japan.jpg' alt='Summer Anime Scenery, japan, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/747/501/HD-wallpaper-summer-anime-scenery-japan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Anime Aesthetic Desktop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6423116.jpg' alt='Summer Anime Aesthetic Desktop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6423116.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Day Sunflower Anime Scenery Wallpaper 4K HD PC #2390f">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/summer-day-sunflower-anime-scenery-239@0@f-pc-4k.jpg' alt='Summer Day Sunflower Anime Scenery Wallpaper 4K HD PC #2390f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/summer-day-sunflower-anime-scenery-239@0@f-pc-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Sky Summer, Anime Summer Landscape, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/161/461/HD-wallpaper-anime-sky-summer-anime-summer-landscape.jpg' alt='Anime Sky Summer, Anime Summer Landscape, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/161/461/HD-wallpaper-anime-sky-summer-anime-summer-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/89/c7/6d89c7feaa5c4bcd31534d0a43c8745d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/89/c7/6d89c7feaa5c4bcd31534d0a43c8745d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper summer, nature, anime, art, girl for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/4a/priroda-leto-art-anime-devochka.webp' alt='Wallpaper summer, nature, anime, art, girl for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/4a/priroda-leto-art-anime-devochka.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Short Hair Summer Cloud Anime Girl Anime Girl HD ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/110/thumb-1920-1103848.png' alt='Download Short Hair Summer Cloud Anime Girl Anime Girl HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/110/thumb-1920-1103848.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Girls, Summer, Anime, Trio for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/97/anime-voda-leto.webp' alt='Wallpaper Girls, Summer, Anime, Trio for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/97/anime-voda-leto.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Relaxing Rain Sounds: Nature's Tranquil Melodies</title>
+                    <meta name="description" content="Discover the calming benefits of rain sounds. Ideal for relaxation, study, or sleep, these natural melodies enhance focus and reduce stress. Immerse yourself in the soothing ambiance of rain and create a peaceful environment anytime, anywhere.">
+                    <meta name="keywords" content="rain sounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rain-sounds">
+                            <span itemprop="name">rain sounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Relaxing Rain Sounds: Nature's Tranquil Melodies</h1>
+                <p>Rain sounds have a unique ability to soothe the mind and promote relaxation. Whether it’s the gentle patter on rooftops or the rhythmic drumming on windows, these natural melodies create a calming atmosphere. Perfect for studying, sleeping, or meditating, rain sounds can enhance focus and help reduce stress, leading to a more peaceful state of mind.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sounds For Sleeping - 99% Instantly Fall Asleep With Rain And ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZibvbLO6miE/hqdefault.jpg?v=67c651ca' alt='Rain Sounds For Sleeping - 99% Instantly Fall Asleep With Rain And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZibvbLO6miE/hqdefault.jpg?v=67c651ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Rain Sounds = Drifting to Sleep   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eTeD8DAta4c/maxresdefault.jpg' alt='Relaxing Rain Sounds = Drifting to Sleep   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eTeD8DAta4c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Relaxing White Noise | Listen to Rain Sounds White Noise ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000380370981-ss38v4-t500x500.jpg' alt='Stream Relaxing White Noise | Listen to Rain Sounds White Noise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000380370981-ss38v4-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEAVY RAIN SOUNDS WITH THUNDERS FOR SLEEPING FAST - Relaxing Rain ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4AGiT-k2L-g/hq720.jpg?v=67c49f4e&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkAwwD27761oHhml323zV9_-eB3g' alt='HEAVY RAIN SOUNDS WITH THUNDERS FOR SLEEPING FAST - Relaxing Rain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4AGiT-k2L-g/hq720.jpg?v=67c49f4e&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkAwwD27761oHhml323zV9_-eB3g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sounds - 250 Songs - playlist by Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67706f00000002eaf2ff074e8e4db414e0f686' alt='Rain Sounds - 250 Songs - playlist by Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67706f00000002eaf2ff074e8e4db414e0f686' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sounds: Rain Sound Meditation, Relaxing Sound of Rain ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2737bdaa69063080cd8f72f6f26' alt='Rain Sounds: Rain Sound Meditation, Relaxing Sound of Rain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2737bdaa69063080cd8f72f6f26' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Jungle Rain Sounds For Sleep (75 Minutes) by Relaxing ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-m6qi670yVgjgz2VY-Rdir9Q-t500x500.jpg' alt='Listen to Jungle Rain Sounds For Sleep (75 Minutes) by Relaxing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-m6qi670yVgjgz2VY-Rdir9Q-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sounds 10 Hours:The Sound of Rain Meditation,Autogenc Training, Deep  Sleep,Relaxing Sounds">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jX6kn9_U8qk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBYAC4AOKAgwIABABGEYgWyhlMA8=&rs=AOn4CLC7SR8ZN4Io0gUhZWS2Yv1zvVmd6w' alt='Rain Sounds 10 Hours:The Sound of Rain Meditation,Autogenc Training, Deep  Sleep,Relaxing Sounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jX6kn9_U8qk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBYAC4AOKAgwIABABGEYgWyhlMA8=&rs=AOn4CLC7SR8ZN4Io0gUhZWS2Yv1zvVmd6w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sounds for Sleep on Amazon Music Unlimited">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51c5os8Y5PL._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg' alt='Rain Sounds for Sleep on Amazon Music Unlimited'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="354">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon Music Unlimited" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51c5os8Y5PL._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Sound: For Sleep, Rain Sounds Sleep - Qobuz">
+                                <img itemprop="contentUrl url" src='https://static.qobuz.com/images/covers/la/mg/tnx0bvpovmgla_600.jpg' alt='Rain Sound: For Sleep, Rain Sounds Sleep - Qobuz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Qobuz" />
+                                </span>
+                                <a href='https://static.qobuz.com/images/covers/la/mg/tnx0bvpovmgla_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

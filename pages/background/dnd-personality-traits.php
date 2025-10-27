@@ -1,0 +1,129 @@
+<title>Essential D&D Personality Traits for Your Campaign</title>
+                    <meta name="description" content="Discover the importance of personality traits in Dungeons & Dragons! Learn how these traits shape character interactions, enhance storytelling, and create memorable gaming experiences. Perfect for players seeking depth in their role-playing and Dungeon Masters crafting immersive campaigns.">
+                    <meta name="keywords" content="dnd personality traits">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-personality-traits">
+                            <span itemprop="name">dnd personality traits</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential D&D Personality Traits for Your Campaign</h1>
+                <p>Dungeons & Dragons (D&D) personality traits are key to character development, enhancing the role-playing experience. Traits like bravado, introspection, and loyalty shape interactions and decisions. Players choose traits that reveal their characters’ values and motivations, leading to dynamic storytelling and memorable adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Table Tuesday #5 - Personality Traits : r/DnD">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qnxq2rq622791.jpg?width=1471&format=pjpg&auto=webp&s=a4d1f46acb978da5b094af3ebe29b7030010d82c' alt='Random Table Tuesday #5 - Personality Traits : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1471">
+                                <meta itemprop="height" content="1671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qnxq2rq622791.jpg?width=1471&format=pjpg&auto=webp&s=a4d1f46acb978da5b094af3ebe29b7030010d82c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] d100 of Character Traits (Printable PDF in comments) : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7yb4pwia3nm41.jpg' alt='OC] d100 of Character Traits (Printable PDF in comments) : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4961">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7yb4pwia3nm41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a quick reference guide for character traits! : r/DnD">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/45m9xs432uq51.png?width=1700&format=png&auto=webp&s=06f7e3285ec93583960dc152abbca29bc2e2364d' alt='Made a quick reference guide for character traits! : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/45m9xs432uq51.png?width=1700&format=png&auto=webp&s=06f7e3285ec93583960dc152abbca29bc2e2364d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DND 5E Personality Traits | PDF | Self-Improvement">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/477086831/original/2e270ebf51/1?v=1' alt='DND 5E Personality Traits | PDF | Self-Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/477086831/original/2e270ebf51/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Describe Your Character - Dungeons and Dragons - LibGuides at ...">
+                                <img itemprop="contentUrl url" src='https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/208907/images/D_D_Personality_Traits_Ideas_Bond_Flaws.jpg' alt='Describe Your Character - Dungeons and Dragons - LibGuides at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saint Ignatius' College Riverview" />
+                                </span>
+                                <a href='https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/208907/images/D_D_Personality_Traits_Ideas_Bond_Flaws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renovating 5th Edition's Personality Traits - Part 1 : r ...">
+                                <img itemprop="contentUrl url" src='https://s-media-cache-ak0.pinimg.com/564x/41/2b/c4/412bc4efdc21fcb0addb76e55dea441e.jpg' alt='Renovating 5th Edition's Personality Traits - Part 1 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://s-media-cache-ak0.pinimg.com/564x/41/2b/c4/412bc4efdc21fcb0addb76e55dea441e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by andy n on ariya dnd character | Character questions ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/b0/da/68b0daeaf114ada4b59a5f59b633907d.jpg' alt='Pin by andy n on ariya dnd character | Character questions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/b0/da/68b0daeaf114ada4b59a5f59b633907d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My DND - What kind of character did you roll? | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=352476742139239' alt='My DND - What kind of character did you roll? | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=352476742139239' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm always loud and boisterous" is one minotaur personality trait ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/6f/5e/796f5e07ebd5db08861d019dbb9af294.jpg' alt='I'm always loud and boisterous" is one minotaur personality trait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/6f/5e/796f5e07ebd5db08861d019dbb9af294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a D&D 5e Character for Beginners! : 10 Steps (with ...">
+                                <img itemprop="contentUrl url" src='https://content.instructables.com/F36/UTFJ/J8QG8RFC/F36UTFJJ8QG8RFC.png?auto=webp&fit=bounds&frame=1' alt='Creating a D&D 5e Character for Beginners! : 10 Steps (with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instructables" />
+                                </span>
+                                <a href='https://content.instructables.com/F36/UTFJ/J8QG8RFC/F36UTFJJ8QG8RFC.png?auto=webp&fit=bounds&frame=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

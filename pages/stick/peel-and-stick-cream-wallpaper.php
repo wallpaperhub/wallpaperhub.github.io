@@ -1,0 +1,129 @@
+<title>Transform Your Space: Peel and Stick Cream Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="peel and stick cream wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-cream-wallpaper">
+                            <span itemprop="name">peel and stick cream wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Peel and Stick Cream Wallpaper</h1>
+                <p>Peel and stick cream wallpaper is an innovative solution for transforming your space effortlessly. Easy to apply and remove, this self-adhesive wallpaper is perfect for renters or DIY enthusiasts. Its soft cream color adds elegance while fitting seamlessly into any style. Refresh your interior without the mess!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Grasscloth Wallpaper Peel and Stick Cream Grassweave Peel & Stick  Wallpaper Textured Stick on Wallpaper Contact Paper 17.3"x118" - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ViZ09b-RL.jpg' alt='JiffDiff Grasscloth Wallpaper Peel and Stick Cream Grassweave Peel & Stick  Wallpaper Textured Stick on Wallpaper Contact Paper 17.3"x118" - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ViZ09b-RL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' alt='Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2405">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Cream Off White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3520">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3753034907_8fv2.jpg' alt='Removable Wallpaper Cream Off White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3520'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3753034907_8fv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Coffee Cream Wallpaper Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14574165/r/il/a6564e/3107742954/il_570xN.3107742954_pvvz.jpg' alt='Light Coffee Cream Wallpaper Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14574165/r/il/a6564e/3107742954/il_570xN.3107742954_pvvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Cream Terrene Peel and Stick Wallpaper NUS4304">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a5b4cd4f-f2ac-44ea-9d41-0a609ea87d27/svn/nuwallpaper-wallpaper-rolls-nus4304-c3_600.jpg' alt='NuWallpaper Cream Terrene Peel and Stick Wallpaper NUS4304'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a5b4cd4f-f2ac-44ea-9d41-0a609ea87d27/svn/nuwallpaper-wallpaper-rolls-nus4304-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2330">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Cream Terrene Peel and Stick Wallpaper NUS4304">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ef3915b9-7c7d-44e5-b29c-b83d1129b956/svn/nuwallpaper-wallpaper-rolls-nus4304-31_600.jpg' alt='NuWallpaper Cream Terrene Peel and Stick Wallpaper NUS4304'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ef3915b9-7c7d-44e5-b29c-b83d1129b956/svn/nuwallpaper-wallpaper-rolls-nus4304-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Blossom Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/cream-blossom-peel-and-stick-wallpaper-360133.png?v=1677235411' alt='Cream Blossom Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1864">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/cream-blossom-peel-and-stick-wallpaper-360133.png?v=1677235411' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3874">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742710308_8zah.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3874'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742710308_8zah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Cream Merriment Peel and Stick Wallpaper NUS4300">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5d956dde-bc22-46b3-8a33-fca549f9f912/svn/nuwallpaper-wallpaper-rolls-nus4300-31_600.jpg' alt='NuWallpaper Cream Merriment Peel and Stick Wallpaper NUS4300'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5d956dde-bc22-46b3-8a33-fca549f9f912/svn/nuwallpaper-wallpaper-rolls-nus4300-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

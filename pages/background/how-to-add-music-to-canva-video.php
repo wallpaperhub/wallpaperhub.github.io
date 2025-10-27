@@ -1,0 +1,129 @@
+<title>Quick Guide: Adding Music to Your Canva Video</title>
+                    <meta name="description" content="Learn how to effortlessly add music to your Canva video in just a few simple steps. This concise guide provides tips on selecting tracks from Canva's library or uploading your own, ensuring your video sounds as good as it looks. Perfect for creators looking to enhance their projects!">
+                    <meta name="keywords" content="how to add music to canva video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-add-music-to-canva-video">
+                            <span itemprop="name">how to add music to canva video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick Guide: Adding Music to Your Canva Video</h1>
+                <p>To add music to your Canva video, first, open your project and click on the “Audio” tab on the left sidebar. Browse through the available music tracks or upload your own by clicking “Upload.” Once you find the track you like, drag it onto your video timeline. Adjust the length and volume as needed, and preview your video to ensure everything syncs perfectly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music To Video: Add Audio, Songs & More | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/359fc110-c9b8-4ccb-8aaa-0d4532d72891/feature_add-music-to-video_promo-showcase_01.jpg' alt='Add Music To Video: Add Audio, Songs & More | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5040">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/359fc110-c9b8-4ccb-8aaa-0d4532d72891/feature_add-music-to-video_promo-showcase_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music To Video: Add Audio, Songs & More | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1218736/feature_add-music-to-video_promo-showcase_04.jpg' alt='Add Music To Video: Add Audio, Songs & More | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5040">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1218736/feature_add-music-to-video_promo-showcase_04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music To Video: Add Audio, Songs & More | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1218735/feature_add-music-to-video_how-to.jpg' alt='Add Music To Video: Add Audio, Songs & More | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4184">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1218735/feature_add-music-to-video_how-to.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music To Video: Add Audio, Songs & More | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1218732/feature_add-music-to-video_promo-showcase_03.jpg' alt='Add Music To Video: Add Audio, Songs & More | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5040">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1218732/feature_add-music-to-video_promo-showcase_03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Add Music To Videos In Canva Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JqCa9eOd6h0/maxresdefault.jpg' alt='How To Add Music To Videos In Canva Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JqCa9eOd6h0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to ADD MUSIC to your Canva designs - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QSQ5ZlhfzcE/sddefault.jpg' alt='How to ADD MUSIC to your Canva designs - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QSQ5ZlhfzcE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music to GIF Online for Free - Make GIF with Sound | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1272279/add_music_to_GIF_promo012x.jpg' alt='Add Music to GIF Online for Free - Make GIF with Sound | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2520">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1272279/add_music_to_GIF_promo012x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music To Video: Add Audio, Songs & More | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1841088/tools-feature_add-music-to-video_hero_mobile.jpg' alt='Add Music To Video: Add Audio, Songs & More | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1841088/tools-feature_add-music-to-video_hero_mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Audio or Music to Canva - Blogging Guide">
+                                <img itemprop="contentUrl url" src='https://bloggingguide.com/wp-content/uploads/2022/07/Canva-Audio-and-Music-1-1.png' alt='How to Add Audio or Music to Canva - Blogging Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blogging Guide" />
+                                </span>
+                                <a href='https://bloggingguide.com/wp-content/uploads/2022/07/Canva-Audio-and-Music-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Audio to Canva [Step by Step] - Hollyland">
+                                <img itemprop="contentUrl url" src='https://www.hollyland.com/wp-content/uploads/2024/05/image-474.png' alt='How to Add Audio to Canva [Step by Step] - Hollyland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hollyland" />
+                                </span>
+                                <a href='https://www.hollyland.com/wp-content/uploads/2024/05/image-474.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

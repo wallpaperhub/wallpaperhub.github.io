@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Mural Wallpaper</title>
+                    <meta name="description" content="Add elegance to your interiors with white mural wallpaper. Perfect for any style, it creates an airy atmosphere and enhances your home’s aesthetic. Discover a range of designs that elevate your space seamlessly. Ideal for residential and commercial use, it’s the perfect choice for modern living.">
+                    <meta name="keywords" content="white mural wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-mural-wallpaper">
+                            <span itemprop="name">white mural wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Mural Wallpaper</h1>
+                <p>White mural wallpaper is a versatile design choice that brightens any space with its clean and fresh aesthetic. Ideal for creating an illusion of space, it complements various interior styles, from modern sleek to cozy rustic. Transform your walls into a stunning backdrop that enhances your home’s beauty and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solitude White">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/972/552/Updated_Roomset_-_Solitude_White__42094.1710169010.jpg?c=1' alt='Solitude White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Source" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/972/552/Updated_Roomset_-_Solitude_White__42094.1710169010.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant White Floral 3D Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/files/white-blossom-petal-wall-mural.png?v=1732533779' alt='Elegant White Floral 3D Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/files/white-blossom-petal-wall-mural.png?v=1732533779' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms White">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/686/432/CherryBlossomRoom1__66914.1710169009.jpg?c=1' alt='Cherry Blossoms White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Source" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/686/432/CherryBlossomRoom1__66914.1710169009.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blanca Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.foresthomesstore.com/cdn/shop/files/Blanca-Mural-Wallpaper.jpg?v=1693599995' alt='Blanca Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='http://www.foresthomesstore.com/cdn/shop/files/Blanca-Mural-Wallpaper.jpg?v=1693599995' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wallpaper For Walls & White Wallpaper Murals Patterns • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/f/l/floral-wallpaper-3d-embossed-look-flower-wall-mural-blossom-wall_zgl0zqd1agr_3d_1.jpg' alt='White Wallpaper For Walls & White Wallpaper Murals Patterns • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/f/l/floral-wallpaper-3d-embossed-look-flower-wall-mural-blossom-wall_zgl0zqd1agr_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vintage Black and White Landscape Wall Murals Wallpaper,  Landscape Plants Living Room Arge Wall Paper Wall Murals, Waterproof  Panoramic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nehj+x+VL.jpg' alt='Amazon.com: Vintage Black and White Landscape Wall Murals Wallpaper,  Landscape Plants Living Room Arge Wall Paper Wall Murals, Waterproof  Panoramic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1605">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nehj+x+VL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Wall Murals for kids buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/106000/106544/w08068pig8ms_1800.webp' alt='World Map Wall Murals for kids buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/106000/106544/w08068pig8ms_1800.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Black and White Tree and People Landscape Wallpaper | Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/cc9156/3470961872/il_570xN.3470961872_2b8k.jpg' alt='Old Black and White Tree and People Landscape Wallpaper | Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/cc9156/3470961872/il_570xN.3470961872_2b8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920s Glamour Wallpaper | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/632710/pr22/2/414/1920s-glamour-white-gold-vintage-art-deco-wallpaper.jpg' alt='1920s Glamour Wallpaper | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/632710/pr22/2/414/1920s-glamour-white-gold-vintage-art-deco-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salix Grey & white japanese willow tree wallpaper mural">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/grey-white-japanese-willow-tree-wallpaper-mural-FE46307-HeroImageLo.jpg' alt='Salix Grey & white japanese willow tree wallpaper mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/grey-white-japanese-willow-tree-wallpaper-mural-FE46307-HeroImageLo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

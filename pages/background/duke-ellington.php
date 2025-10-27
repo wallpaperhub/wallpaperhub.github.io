@@ -1,0 +1,129 @@
+<title>Discover the Legacy of Duke Ellington: Jazz Icon</title>
+                    <meta name="description" content="Explore the life and music of Duke Ellington, a jazz legend whose innovative compositions transformed the genre. Learn about his influential works and lasting impact on the world of music. Dive into the legacy of this remarkable artist today!">
+                    <meta name="keywords" content="duke ellington">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/duke-ellington">
+                            <span itemprop="name">duke ellington</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legacy of Duke Ellington: Jazz Icon</h1>
+                <p>Duke Ellington, an iconic figure in jazz history, was a composer, pianist, and bandleader. Born in 1899, he elevated big band music with his innovative compositions and arrangements, blending various genres. His timeless works, including "Mood Indigo" and "It Don't Mean a Thing," continue to inspire musicians worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG' alt='Duke Ellington - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington: Biography, Jazz Legend, American Composer">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/duke-ellington-american-composer-and-arranger-at-the-news-photo-1707422578.jpg' alt='Duke Ellington: Biography, Jazz Legend, American Composer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3723">
+                                <meta itemprop="height" content="2836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/duke-ellington-american-composer-and-arranger-at-the-news-photo-1707422578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington at the Smithsonian | Smithsonian Music">
+                                <img itemprop="contentUrl url" src='https://music.si.edu/sites/default/files/pictures/ellington_-_from_the_scurlock_photographic_collection_nmah_-_618psduke.jpg' alt='Duke Ellington at the Smithsonian | Smithsonian Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Music - Smithsonian Institution" />
+                                </span>
+                                <a href='https://music.si.edu/sites/default/files/pictures/ellington_-_from_the_scurlock_photographic_collection_nmah_-_618psduke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington | Biography, Songs, Albums, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/01/301-050-049D071C/Duke-Ellington.jpg' alt='Duke Ellington | Biography, Songs, Albums, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1379">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/01/301-050-049D071C/Duke-Ellington.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WRTI 90.1's Essential Jazz Artist No. 6: Duke Ellington | WRTI">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/31a90f2/2147483647/strip/true/crop/1300x1169+0+0/resize/880x791!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrti%2Ffiles%2F201905%2FDukeEllington1300px.jpg' alt='WRTI 90.1's Essential Jazz Artist No. 6: Duke Ellington | WRTI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRTI" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/31a90f2/2147483647/strip/true/crop/1300x1169+0+0/resize/880x791!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrti%2Ffiles%2F201905%2FDukeEllington1300px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington">
+                                <img itemprop="contentUrl url" src='https://www.kennedy-center.org/link/c8541aea7b1c4951bc078bfe39107864.aspx' alt='Duke Ellington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kennedy Center" />
+                                </span>
+                                <a href='https://www.kennedy-center.org/link/c8541aea7b1c4951bc078bfe39107864.aspx' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music History Monday: The Duke | Robert Greenberg | Speaker ...">
+                                <img itemprop="contentUrl url" src='https://d3fr1q02b1tb0i.cloudfront.net/wp-content/uploads/2024/04/29080757/2-3.jpg' alt='Music History Monday: The Duke | Robert Greenberg | Speaker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robert Greenberg" />
+                                </span>
+                                <a href='https://d3fr1q02b1tb0i.cloudfront.net/wp-content/uploads/2024/04/29080757/2-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington - Black Jazz Stories – Jazz Night School">
+                                <img itemprop="contentUrl url" src='https://jazznightschool.org/cdn/shop/articles/Black_Jazz_Stories_Graphics_1000x.png?v=1645139348' alt='Duke Ellington - Black Jazz Stories – Jazz Night School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jazz Night School" />
+                                </span>
+                                <a href='https://jazznightschool.org/cdn/shop/articles/Black_Jazz_Stories_Graphics_1000x.png?v=1645139348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington | Jungle Cruise Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/junglecruise/images/a/a4/Duke-ellington.jpeg/revision/latest?cb=20210729013757' alt='Duke Ellington | Jungle Cruise Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jungle Cruise Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/junglecruise/images/a/a4/Duke-ellington.jpeg/revision/latest?cb=20210729013757' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Ellington | Biography, Songs, Albums, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/215368-138-9561C4D9/Top-questions-answers-Duke-Ellington.jpg?w=400&h=225&c=crop' alt='Duke Ellington | Biography, Songs, Albums, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/215368-138-9561C4D9/Top-questions-answers-Duke-Ellington.jpg?w=400&h=225&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Gamer Aesthetic Wallpapers for Every Gamer's Space</title>
+                    <meta name="description" content="Discover a collection of captivating gamer aesthetic wallpapers that transform your screen into a vibrant gaming environment. Perfect for gaming enthusiasts seeking style and inspiration. Explore now to find the ideal backdrop for your gaming adventures!">
+                    <meta name="keywords" content="gamer aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/gamer-aesthetic-wallpaper">
+                            <span itemprop="name">gamer aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gamer Aesthetic Wallpapers for Every Gamer's Space</h1>
+                <p>Elevate your gaming space with stunning gamer aesthetic wallpapers that showcase vibrant visuals and immersive designs. From retro pixel art to futuristic landscapes, these wallpapers are perfect for every gaming enthusiast. Transform your screen into a captivating portal where creativity and gaming collide for an unbeatable vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Aesthetic Computer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/b3/49/1fb349eee1c955e6eab791f25f1077d8.jpg' alt='Video Game Aesthetic Computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/b3/49/1fb349eee1c955e6eab791f25f1077d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Girl Aesthetic Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11360900/p/f/l/Psnnmlo0ublTmFMtx_Y17sLO6Zkmlf65LQdhHfSVASfjkuW2Lyj_5bGEhQ/Gamer%20Aesthetics.jpg' alt='Gamer Girl Aesthetic Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11360900/p/f/l/Psnnmlo0ublTmFMtx_Y17sLO6Zkmlf65LQdhHfSVASfjkuW2Lyj_5bGEhQ/Gamer%20Aesthetics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-gaming-0t1xkev44ldbbamw.jpg' alt='100+] Aesthetic Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-gaming-0t1xkev44ldbbamw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool gaming or aesthetic wallpaper by zionjakeine1407 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41e31293-5f1a-4ade-8454-dc8bf7a47146/de77mx1-492b49d7-b2ea-4652-a25b-1c06b8afd929.jpg/v1/fill/w_1192,h_670,q_70,strp/cool_gaming_or_aesthetic_wallpaper_by_zionjakeine1407_de77mx1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDFlMzEyOTMtNWYxYS00YWRlLTg0NTQtZGM4YmY3YTQ3MTQ2XC9kZTc3bXgxLTQ5MmI0OWQ3LWIyZWEtNDY1Mi1hMjViLTFjMDZiOGFmZDkyOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LtiAu-Ew-LqwuRYpW_0Fsa6FSRl_Wkjean2nJlLT2Gw' alt='Cool gaming or aesthetic wallpaper by zionjakeine1407 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41e31293-5f1a-4ade-8454-dc8bf7a47146/de77mx1-492b49d7-b2ea-4652-a25b-1c06b8afd929.jpg/v1/fill/w_1192,h_670,q_70,strp/cool_gaming_or_aesthetic_wallpaper_by_zionjakeine1407_de77mx1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDFlMzEyOTMtNWYxYS00YWRlLTg0NTQtZGM4YmY3YTQ3MTQ2XC9kZTc3bXgxLTQ5MmI0OWQ3LWIyZWEtNDY1Mi1hMjViLTFjMDZiOGFmZDkyOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LtiAu-Ew-LqwuRYpW_0Fsa6FSRl_Wkjean2nJlLT2Gw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gamer Girl Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gamer-girl-aesthetic-collage-hda1tm70zhecyfqh.jpg' alt='100+] Gamer Girl Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gamer-girl-aesthetic-collage-hda1tm70zhecyfqh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/1f/9c/d81f9cc8b4271b6fb02b9045c8cd3462.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/1f/9c/d81f9cc8b4271b6fb02b9045c8cd3462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple and Blue Gamer Aesthetic        Anonymous asked: Can I have ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e543a0dbd87e0391a0fd976fc91617de/tumblr_pgjerzKNmR1sa30yz_1280.jpg' alt='Purple and Blue Gamer Aesthetic        Anonymous asked: Can I have ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e543a0dbd87e0391a0fd976fc91617de/tumblr_pgjerzKNmR1sa30yz_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Icons Gaming Logo Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-icons-gaming-logo-hd-nkvb4it75a81p3yt.jpg' alt='Aesthetic Icons Gaming Logo Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-icons-gaming-logo-hd-nkvb4it75a81p3yt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Gaming Aesthetic Desk Wallpapers - Vintage Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/11/retro-gaming-aesthetic-desk-background-preview.jpg' alt='Retro Gaming Aesthetic Desk Wallpapers - Vintage Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="2554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/11/retro-gaming-aesthetic-desk-background-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Aesthetic Gaming Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-gaming-background-jhvkb7fr4hcdi1yd.jpg' alt='200+] Aesthetic Gaming Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-gaming-background-jhvkb7fr4hcdi1yd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

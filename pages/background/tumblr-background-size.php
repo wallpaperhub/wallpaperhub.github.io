@@ -1,0 +1,129 @@
+<title>Perfect Tumblr Background Size: Optimize Your Blog</title>
+                    <meta name="description" content="Discover the ideal Tumblr background size (3000x1055 pixels) to enhance your blog's appearance. Learn tips for choosing vibrant designs that reflect your style while ensuring fast loading times. Optimize your Tumblr presence with the right background for a more engaging experience!">
+                    <meta name="keywords" content="tumblr background size">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tumblr-background-size">
+                            <span itemprop="name">tumblr background size</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Tumblr Background Size: Optimize Your Blog</h1>
+                <p>Tumblr background images should ideally be 3000 pixels wide by 1055 pixels tall for optimal display. This ensures your background looks great on any device. Keep in mind that the file size should be as small as possible to enhance page loading speed without sacrificing quality. Choose vibrant, engaging designs that reflect your personal style and attract followers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Header Image Dimensions & Drawings | Dimensions.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec188d1e1ba902d47f6fc1f_Dimensions-Guide-Digital-Tumblr-Header-Image-Dimensions.svg' alt='Tumblr Header Image Dimensions & Drawings | Dimensions.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dimensions.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec188d1e1ba902d47f6fc1f_Dimensions-Guide-Digital-Tumblr-Header-Image-Dimensions.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Post - Photo Dimensions & Drawings | Dimensions.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec18a0564431c1f36a64394_Dimensions-Guide-Digital-Tumblr-Post-Photo-Dimensions.svg' alt='Tumblr Post - Photo Dimensions & Drawings | Dimensions.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dimensions.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec18a0564431c1f36a64394_Dimensions-Guide-Digital-Tumblr-Post-Photo-Dimensions.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Social Media Image Sizes Cheat Sheet">
+                                <img itemprop="contentUrl url" src='https://www.socialpilot.co/wp-content/uploads/2021/07/tumblr-image-size.jpg' alt='The Complete Social Media Image Sizes Cheat Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SocialPilot" />
+                                </span>
+                                <a href='https://www.socialpilot.co/wp-content/uploads/2021/07/tumblr-image-size.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips for Your Blog Appearance Header Image: Not liking the default ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/784b15bf4048c94a9df545384c5be8ea/tumblr_n5sj7homEk1r7ealro1_540.jpg' alt='Tips for Your Blog Appearance Header Image: Not liking the default ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/784b15bf4048c94a9df545384c5be8ea/tumblr_n5sj7homEk1r7ealro1_540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Perfect Tumblr Header Size & Examples [2022 Update]">
+                                <img itemprop="contentUrl url" src='https://wpimg.pixelied.com/blog/wp-content/uploads/2020/10/27212303/TumblrHeaderSize-1024x360.jpg' alt='The Perfect Tumblr Header Size & Examples [2022 Update]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixelied" />
+                                </span>
+                                <a href='https://wpimg.pixelied.com/blog/wp-content/uploads/2020/10/27212303/TumblrHeaderSize-1024x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Image Sizes Guide for 2020">
+                                <img itemprop="contentUrl url" src='https://www.creatopy.com/blog/wp-content/uploads/2018/10/Tumblr-Social-Media-Image-Size.jpg' alt='Tumblr Image Sizes Guide for 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creatopy" />
+                                </span>
+                                <a href='https://www.creatopy.com/blog/wp-content/uploads/2018/10/Tumblr-Social-Media-Image-Size.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Post - Photo Dimensions & Drawings | Dimensions.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec189ee0962178025a2584c_Dimensions-Guide-Digital-Tumblr-Post-Photo-OG.jpg' alt='Tumblr Post - Photo Dimensions & Drawings | Dimensions.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dimensions.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5ec189ee0962178025a2584c_Dimensions-Guide-Digital-Tumblr-Post-Photo-OG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Dashboard Image Display Sizes (Updated March 20, 2016 ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e973c25b6c3eba994600f4d596a7ad4f/tumblr_neafdzKitB1r7ealro1_1280.jpg' alt='Tumblr Dashboard Image Display Sizes (Updated March 20, 2016 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e973c25b6c3eba994600f4d596a7ad4f/tumblr_neafdzKitB1r7ealro1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr size guide: how to create beautiful Tumblr headers and icons">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/197805/daf7109007/tumbler-template-cover.png' alt='Tumblr size guide: how to create beautiful Tumblr headers and icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Linearity" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/197805/daf7109007/tumbler-template-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr size guide: how to create beautiful Tumblr headers and icons">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/197805/1920x529/75306b6c3a/tumblr_size_guide-_how_to_create_beautiful_tumblr_headers_and_icons_image_4.png/m/768x0/filters:format(png):quality(75)' alt='Tumblr size guide: how to create beautiful Tumblr headers and icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Linearity" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/197805/1920x529/75306b6c3a/tumblr_size_guide-_how_to_create_beautiful_tumblr_headers_and_icons_image_4.png/m/768x0/filters:format(png):quality(75)' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

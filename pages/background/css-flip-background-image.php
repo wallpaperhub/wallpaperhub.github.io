@@ -1,0 +1,129 @@
+<title>Flip Your Background: CSS Techniques for Stunning Image Effects</title>
+                    <meta name="description" content="Discover how to create captivating CSS flip background images that enhance your website's visual appeal. Learn simple techniques to implement rotations and transitions, adding interactivity to your web design. Perfect for portfolios, product displays, and more!">
+                    <meta name="keywords" content="css flip background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-flip-background-image">
+                            <span itemprop="name">css flip background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Flip Your Background: CSS Techniques for Stunning Image Effects</h1>
+                <p>CSS provides a dynamic way to create visually appealing flip effects for background images. By utilizing CSS transitions and transformations, you can rotate elements along the Y-axis, revealing a different background image on the flip side. This technique enhances user engagement and adds an interactive touch to web designs. Perfect for showcasing portfolios and products!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - How to flip vertically a background image when it ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/b107V.jpg' alt='javascript - How to flip vertically a background image when it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/b107V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Flip Background Image Vertically & Horizontal | Mirror Image">
+                                <img itemprop="contentUrl url" src='https://codeconvey.com/wp-content/uploads/2019/08/css-flip-background-image.jpg.webp' alt='CSS Flip Background Image Vertically & Horizontal | Mirror Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codeconvey" />
+                                </span>
+                                <a href='https://codeconvey.com/wp-content/uploads/2019/08/css-flip-background-image.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flipping Images Horizontally Or Vertically With CSS And JavaScript ...">
+                                <img itemprop="contentUrl url" src='https://pqina.nl/media/flip.png' alt='Flipping Images Horizontally Or Vertically With CSS And JavaScript ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PQINA" />
+                                </span>
+                                <a href='https://pqina.nl/media/flip.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - Flip vertically a background-image every time it ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/qKqir.png' alt='javascript - Flip vertically a background-image every time it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/qKqir.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Quickly Flip Images & Background Images With Automatic.css">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/saOkYgS4kZs/maxresdefault.jpg' alt='How to Quickly Flip Images & Background Images With Automatic.css'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/saOkYgS4kZs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rotate Background Images in CSS3 Using Transforms | SitePoint">
+                                <img itemprop="contentUrl url" src='https://uploads.sitepoint.com/wp-content/uploads/2018/07/1578355340background-rotate.png' alt='How to Rotate Background Images in CSS3 Using Transforms | SitePoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SitePoint" />
+                                </span>
+                                <a href='https://uploads.sitepoint.com/wp-content/uploads/2018/07/1578355340background-rotate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flip background Hover Effects - HTML-CSS - The freeCodeCamp Forum">
+                                <img itemprop="contentUrl url" src='https://img.youtube.com/vi/5aYjCD7Ickk/maxresdefault.jpg' alt='Flip background Hover Effects - HTML-CSS - The freeCodeCamp Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The freeCodeCamp Forum" />
+                                </span>
+                                <a href='https://img.youtube.com/vi/5aYjCD7Ickk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - Flip vertically a background-image every time it ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/B0cj0.png' alt='javascript - Flip vertically a background-image every time it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/B0cj0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flip background Hover Effects - HTML-CSS - The freeCodeCamp Forum">
+                                <img itemprop="contentUrl url" src='https://assets.codepen.io/4466014/internal/screenshots/pens/RwRJWQj.default.png?fit=cover&format=auto&ha=false&height=360&quality=75&v=2&version=1604437232&width=640' alt='Flip background Hover Effects - HTML-CSS - The freeCodeCamp Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The freeCodeCamp Forum" />
+                                </span>
+                                <a href='https://assets.codepen.io/4466014/internal/screenshots/pens/RwRJWQj.default.png?fit=cover&format=auto&ha=false&height=360&quality=75&v=2&version=1604437232&width=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Flip an Images - ElseBazaar">
+                                <img itemprop="contentUrl url" src='https://www.elsebazaar.com/blog/wp-content/uploads/2021/02/image-17.png' alt='CSS Flip an Images - ElseBazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="elsebazaar" />
+                                </span>
+                                <a href='https://www.elsebazaar.com/blog/wp-content/uploads/2021/02/image-17.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

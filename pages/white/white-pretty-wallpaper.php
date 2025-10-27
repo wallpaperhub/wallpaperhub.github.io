@@ -1,0 +1,129 @@
+<title>Elegant White Wallpaper: A Chic Home Upgrade</title>
+                    <meta name="description" content="Discover the beauty of white wallpaper for a fresh, elegant home makeover. Perfect for any decor style, it enhances light and creates a serene atmosphere. Explore various designs to elevate your space today!">
+                    <meta name="keywords" content="white pretty wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-pretty-wallpaper">
+                            <span itemprop="name">white pretty wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Wallpaper: A Chic Home Upgrade</h1>
+                <p>Transform your space with beautiful white wallpaper that exudes elegance and peace. Ideal for any room, these wallpapers create a fresh atmosphere while complementing your decor. From delicate patterns to minimalist styles, white wallpaper enhances natural light and provides a stylish backdrop for your furnishings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute White Aesthetic Fluffy Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-white-aesthetic-fluffy-clouds-9g6lj0pb8f7o3lwd.jpg' alt='Cute White Aesthetic Fluffy Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-white-aesthetic-fluffy-clouds-9g6lj0pb8f7o3lwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 WHITE background ideas | white wallpaper, iphone background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2f/40/4b/2f404b5c11072aea0279aa6ba3336eee.jpg' alt='23 WHITE background ideas | white wallpaper, iphone background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2f/40/4b/2f404b5c11072aea0279aa6ba3336eee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Super Pretty Wallpaper Backgrounds For iPhone You'll Love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1d/24/95/1d2495aa58cd38254b040a35934899e1.jpg' alt='25 Super Pretty Wallpaper Backgrounds For iPhone You'll Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1d/24/95/1d2495aa58cd38254b040a35934899e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms In Cute White Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cherry-blossoms-in-cute-white-aesthetic-0kev97df04w9fete.jpg' alt='Cherry Blossoms In Cute White Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cherry-blossoms-in-cute-white-aesthetic-0kev97df04w9fete.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty White Baby's Breath bouquet Wallpapers For Phone, flower ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2021/02/wallpaper-9.jpg' alt='Pretty White Baby's Breath bouquet Wallpapers For Phone, flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2021/02/wallpaper-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "A beautiful white aesthetic to add peace and beauty to ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-aesthetic-background-g9782k20v8wicz6h.jpg' alt='Download "A beautiful white aesthetic to add peace and beauty to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-aesthetic-background-g9782k20v8wicz6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 White wallpapers ideas | iphone wallpaper, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/23/e0/36/23e036e8f369acd00978745cee4a1da4.jpg' alt='280 White wallpapers ideas | iphone wallpaper, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/23/e0/36/23e036e8f369acd00978745cee4a1da4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile-544x900.png' alt='Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skip To My Lou" />
+                                </span>
+                                <a href='https://i2.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile-544x900.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute White Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-background-fx6hxl2gilulv6gz.jpg' alt='100+] Cute White Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-background-fx6hxl2gilulv6gz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Aesthetic Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/8d/5c/268d5ccf3d026774c367dee684d89ba0.jpg' alt='White Aesthetic Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/8d/5c/268d5ccf3d026774c367dee684d89ba0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

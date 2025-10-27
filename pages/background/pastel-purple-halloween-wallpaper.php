@@ -1,0 +1,129 @@
+<title>Pastel Purple Halloween Wallpaper: Spooky and Stylish Decor</title>
+                    <meta name="description" content="Discover enchanting pastel purple Halloween wallpaper that adds a stylish twist to your seasonal decor. Perfect for creating a cozy and festive atmosphere, this captivating design combines playful elements with a soft palette. Elevate your Halloween experience with charm and creativity today!">
+                    <meta name="keywords" content="pastel purple halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-purple-halloween-wallpaper">
+                            <span itemprop="name">pastel purple halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Purple Halloween Wallpaper: Spooky and Stylish Decor</h1>
+                <p>Transform your space this Halloween with a pastel purple wallpaper that blends spooky charm with a soft, whimsical touch. Ideal for creating a festive atmosphere, this unique design features playful ghosts, pumpkins, and shimmering stars, perfect for adding a bewitching vibe to any room. Embrace the spirit of Halloween in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween wallpaper cute ghosts purple and orange">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/2f/c6/952fc6a9b532bc2dafddbe143dc89cf8.jpg' alt='Halloween wallpaper cute ghosts purple and orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/2f/c6/952fc6a9b532bc2dafddbe143dc89cf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Pastel Purple Wallpaper Moon Background Free Downloadable ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/32/a5/30/32a530fe5f3dc4d10bea041167ea397f.jpg' alt='Spooky Pastel Purple Wallpaper Moon Background Free Downloadable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/32/a5/30/32a530fe5f3dc4d10bea041167ea397f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light purple Halloween smiling pumpkin faces seamless pattern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/983/127/non_2x/light-purple-halloween-smiling-pumpkin-faces-seamless-pattern-funny-pumpkins-pastel-violet-halloween-background-vector.jpg' alt='Light purple Halloween smiling pumpkin faces seamless pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/983/127/non_2x/light-purple-halloween-smiling-pumpkin-faces-seamless-pattern-funny-pumpkins-pastel-violet-halloween-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/fa/4f/98fa4f98e8cd5845e0d35f8ea176b266.jpg' alt='Halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/fa/4f/98fa4f98e8cd5845e0d35f8ea176b266.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Halloween Ghost Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-halloween-ghost-pattern-mg8zc7oazpwfnq99.jpg' alt='Download Purple Halloween Ghost Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-halloween-ghost-pattern-mg8zc7oazpwfnq99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel violet Halloween flying bats pattern. Pastel purple night ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/983/126/non_2x/pastel-violet-halloween-flying-bats-pattern-pastel-purple-night-sky-background-with-crescent-moon-stars-and-clouds-vector.jpg' alt='Pastel violet Halloween flying bats pattern. Pastel purple night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/983/126/non_2x/pastel-violet-halloween-flying-bats-pattern-pastel-purple-night-sky-background-with-crescent-moon-stars-and-clouds-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate Purple Halloween with Vibrancy and Style ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-halloween-bn7d2fyp8yeuv6kq.jpg' alt='Download Celebrate Purple Halloween with Vibrancy and Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-halloween-bn7d2fyp8yeuv6kq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 17 - Customize 1,621+ Purple Desktop Wallpaper Templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrWgr7pYc/1/0/1600w/canva-purple-cute-hey-boo-halloween-desktop-wallpaper-WdEHZ3ajfIA.jpg' alt='Page 17 - Customize 1,621+ Purple Desktop Wallpaper Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrWgr7pYc/1/0/1600w/canva-purple-cute-hey-boo-halloween-desktop-wallpaper-WdEHZ3ajfIA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/80/40/8280400152b7469eb44e05338804e7f0.jpg' alt='Halloween Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/80/40/8280400152b7469eb44e05338804e7f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Halloween light purple background, pumpkin pattern">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/4c/4c217fbf7a349b2b8dcc80d283adadaa_t.jpeg' alt='Free Vectors | Halloween light purple background, pumpkin pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/4c/4c217fbf7a349b2b8dcc80d283adadaa_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

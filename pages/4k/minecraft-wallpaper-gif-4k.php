@@ -1,0 +1,129 @@
+<title>Stunning 4K Minecraft Wallpaper GIFs for Your Device</title>
+                    <meta name="description" content="Discover vibrant 4K Minecraft wallpaper GIFs to elevate your device's look. Perfect for gamers, these animated wallpapers showcase breathtaking landscapes and characters, making your screen come alive. Get ready to transform your digital space with stunning visuals that reflect your love for Minecraft!">
+                    <meta name="keywords" content="minecraft wallpaper gif 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/minecraft-wallpaper-gif-4k">
+                            <span itemprop="name">minecraft wallpaper gif 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Minecraft Wallpaper GIFs for Your Device</h1>
+                <p>Elevate your Minecraft experience with stunning 4K wallpaper GIFs that bring the blocky world to life. Perfect for fans, these high-definition animated wallpapers showcase breathtaking landscapes, dynamic characters, and iconic scenes. Transform your device's background and enhance your gaming vibe with these vibrant visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Minecraft background gif ideas | minecraft, minecraft wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/88/e5/54/88e5540465d258ab1d271bfc11189533.gif' alt='10 Minecraft background gif ideas | minecraft, minecraft wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/88/e5/54/88e5540465d258ab1d271bfc11189533.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Minecraft Gif Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/59/0d/73/590d73050637dcb12e9af999f8d6437b.gif' alt='   Minecraft Gif Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/59/0d/73/590d73050637dcb12e9af999f8d6437b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My first looping gif with shaders and texture packs, could also ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4ec77oea73c41.gif' alt='My first looping gif with shaders and texture packs, could also ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4ec77oea73c41.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Animation Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/6mvbG8J7-EgAAAAM/minecraft-cherry.gif' alt='Minecraft Animation Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/6mvbG8J7-EgAAAAM/minecraft-cherry.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the coolest move-in minecraft wallpaper ever : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g9tk9a6lxpa61.gif' alt='the coolest move-in minecraft wallpaper ever : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g9tk9a6lxpa61.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft 4K Live Wallpaper *WITH MUSIC* - Village [FREE USE] on ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/7-25-2022/POeQ9j.gif' alt='Minecraft 4K Live Wallpaper *WITH MUSIC* - Village [FREE USE] on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/7-25-2022/POeQ9j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Minecraft Nature GIF - Minecraft Minecraft Nature ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/51/e9/ec/51e9ecb42b50af5d9bbc1ea8a232e993.gif' alt='Minecraft Minecraft Nature GIF - Minecraft Minecraft Nature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/51/e9/ec/51e9ecb42b50af5d9bbc1ea8a232e993.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Animation Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/AJ6rgWRMZ1oAAAAM/minecraft.gif' alt='Minecraft Animation Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/AJ6rgWRMZ1oAAAAM/minecraft.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artwork gif that would make a nice wallpaper, you're welcome! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0dgpicu0tru61.gif' alt='Artwork gif that would make a nice wallpaper, you're welcome! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0dgpicu0tru61.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Minecraft background gif ideas | minecraft, minecraft wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ec/d6/72/ecd67255b08380eb534d3f8ee397bc85.gif' alt='10 Minecraft background gif ideas | minecraft, minecraft wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ec/d6/72/ecd67255b08380eb534d3f8ee397bc85.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

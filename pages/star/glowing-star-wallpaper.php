@@ -1,0 +1,129 @@
+<title>Enchanting Glowing Star Wallpaper for a Dreamy Space</title>
+                    <meta name="description" content="Discover the magic of glowing star wallpaper, ideal for creating a mesmerizing ambiance in any room. Perfect for kids or adults, this celestial design sparks creativity and enhances nighttime decor. Transform your walls into a beautiful starry sky and enjoy a captivating atmosphere every day.">
+                    <meta name="keywords" content="glowing star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/glowing-star-wallpaper">
+                            <span itemprop="name">glowing star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Glowing Star Wallpaper for a Dreamy Space</h1>
+                <p>Transform your space with stunning glowing star wallpaper. This celestial décor brings the night sky indoors, creating an enchanting atmosphere. Perfect for bedrooms or playrooms, it sparks imagination and wonder. Whether you prefer subtle glimmers or vibrant constellations, glowing star wallpaper offers a dreamy escape into the cosmos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White glowing stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0f/2d/14/0f2d14d93d954f73ff1e345d705aa580.jpg' alt='White glowing stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0f/2d/14/0f2d14d93d954f73ff1e345d705aa580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Stars Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/55/7f/71557f0bce1c759a4bb8299fd0791244.jpg' alt='Glowing Stars Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/55/7f/71557f0bce1c759a4bb8299fd0791244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Stars In Outer Space Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240875/Glowing-Stars-In-Outer-Space-Mural-Wallpaper.jpg?v=638164819993770000' alt='Glowing Stars In Outer Space Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240875/Glowing-Stars-In-Outer-Space-Mural-Wallpaper.jpg?v=638164819993770000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shining Star Background Golden Glowing Stars | PSD Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210430/bg/ce43395e5c39e.png!bw700' alt='Shining Star Background Golden Glowing Stars | PSD Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210430/bg/ce43395e5c39e.png!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Stars Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16721139/p/f/m/w7uWq4H9YLNe3j9AY7hCIC1ngcnc1Qbcuc3zC8RVReEExJ5BeuKP/Glowing%20Stars.jpg' alt='Glowing Stars Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16721139/p/f/m/w7uWq4H9YLNe3j9AY7hCIC1ngcnc1Qbcuc3zC8RVReEExJ5BeuKP/Glowing%20Stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | 3d rendered glowing stars and light streaks in the ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-rendered-glowing-stars-light-streaks-deep-outer-space_490107-18.jpg' alt='Premium Photo | 3d rendered glowing stars and light streaks in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-rendered-glowing-stars-light-streaks-deep-outer-space_490107-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Stars Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/3614348/p/f/m/p17gafpKyBx0qBqckoJrhxVwwCk_3z_ICz47sKGVEwCFQg5qoEi1iTkB/Pink%20Glowing%20Stars%20on%20Black%20Sky.jpg' alt='Glowing Stars Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/3614348/p/f/m/p17gafpKyBx0qBqckoJrhxVwwCk_3z_ICz47sKGVEwCFQg5qoEi1iTkB/Pink%20Glowing%20Stars%20on%20Black%20Sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background With Glowing Stars Stock Photo, Picture and Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/marishaz/marishaz1112/marishaz111200041/11622605-background-with-glowing-stars.jpg' alt='Background With Glowing Stars Stock Photo, Picture and Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/marishaz/marishaz1112/marishaz111200041/11622605-background-with-glowing-stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Star Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201203/pngtree-christmas-glowing-stars-decoration-background-image_500417.jpg' alt='Glowing Star Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201203/pngtree-christmas-glowing-stars-decoration-background-image_500417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD glowing night stars wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/227/400/HD-wallpaper-glowing-night-stars-abstract-glowing-night-stars-thumbnail.jpg' alt='HD glowing night stars wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/227/400/HD-wallpaper-glowing-night-stars-abstract-glowing-night-stars-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aaron Donald: NFL's Dominant Defensive Force</title>
+                    <meta name="description" content="Explore the career of Aaron Donald, the LA Rams' defensive tackle who redefined the role. With numerous accolades and unmatched skill, discover why he's a game-changer in the NFL!">
+                    <meta name="keywords" content="aaron donald">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aaron-donald">
+                            <span itemprop="name">aaron donald</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aaron Donald: NFL's Dominant Defensive Force</h1>
+                <p>Aaron Donald is a professional American football player known for his dominance on the field as a defensive tackle. He plays for the Los Angeles Rams in the NFL and has earned multiple Pro Bowl selections and Defensive Player of the Year awards. With incredible agility and strength, Donald is often regarded as one of the best in the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald Career Stats - NFL - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16716.png' alt='Aaron Donald Career Stats - NFL - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16716.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aaron_Donald_2020_%28cropped%29.jpg/640px-Aaron_Donald_2020_%28cropped%29.jpg' alt='Aaron Donald - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aaron_Donald_2020_%28cropped%29.jpg/640px-Aaron_Donald_2020_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald Announces his NFL Retirement - Pitt Panthers #H2P">
+                                <img itemprop="contentUrl url" src='https://dra9kbpogvft0.cloudfront.net/images/2022/2/14/Donald_Super_Bowl.jpg?width=1416&height=797&mode=crop&quality=80&format=jpg' alt='Aaron Donald Announces his NFL Retirement - Pitt Panthers #H2P'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1416">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitt Athletics" />
+                                </span>
+                                <a href='https://dra9kbpogvft0.cloudfront.net/images/2022/2/14/Donald_Super_Bowl.jpg?width=1416&height=797&mode=crop&quality=80&format=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Rams DT Aaron Donald became the NFL's most unstoppable force ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2019/0201/r496409_1296x729_16-9.jpg' alt='How Rams DT Aaron Donald became the NFL's most unstoppable force ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2019/0201/r496409_1296x729_16-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald announces his retirement after a standout 10-year ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/4cb422b/2147483647/strip/true/crop/5430x3620+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2Fef%2Ff32ce3080e0e51e245e334928a06%2Faa88d69db87d41e59a163f79a003660c' alt='Aaron Donald announces his retirement after a standout 10-year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/4cb422b/2147483647/strip/true/crop/5430x3620+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2Fef%2Ff32ce3080e0e51e245e334928a06%2Faa88d69db87d41e59a163f79a003660c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald & Dwayne ‘The Rock’ Johnson Full Gym Work Out">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YAPNUqopMYk/maxresdefault.jpg' alt='Aaron Donald & Dwayne ‘The Rock’ Johnson Full Gym Work Out'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YAPNUqopMYk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald Height, Weight, Age, College, Position, Bio - NFL ...">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nfl/headshots/10517.vresize.350.350.medium.84.png' alt='Aaron Donald Height, Weight, Age, College, Position, Bio - NFL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nfl/headshots/10517.vresize.350.350.medium.84.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald is still a fan of Steelers, Rams' opponent Sunday ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/0aa1285/2147483647/strip/false/crop/3000x2001+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F7b%2F31ac364940c5a81481553dc74efc%2F1358961-sp-1015-rams-rcg-149.jpg' alt='Aaron Donald is still a fan of Steelers, Rams' opponent Sunday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/0aa1285/2147483647/strip/false/crop/3000x2001+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F7b%2F31ac364940c5a81481553dc74efc%2F1358961-sp-1015-rams-rcg-149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Donald, one of the NFL's most feared defensive players ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1672788872.jpg?c=original' alt='Aaron Donald, one of the NFL's most feared defensive players ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1672788872.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generations #rams #pitt #nfl #familyfirst">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2597668100648277362' alt='Generations #rams #pitt #nfl #familyfirst'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2597668100648277362' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Who Wrote the Corinthians? A Look at Apostle Paul's Letters</title>
+                    <meta name="description" content="Discover who authored the biblical letters to the Corinthians. Learn how Apostle Paul's teachings shaped early Christianity and addressed key issues in the Corinthian church. Explore the significance of 1 and 2 Corinthians in just a few minutes!">
+                    <meta name="keywords" content="who wrote corinthians in the bible">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-wrote-corinthians-in-the-bible">
+                            <span itemprop="name">who wrote corinthians in the bible</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Wrote the Corinthians? A Look at Apostle Paul's Letters</h1>
+                <p>The Apostle Paul is credited with writing the letters known as Corinthians in the Bible. Addressed to the Christian community in Corinth, these epistles—1 Corinthians and 2 Corinthians—offer guidance, correction, and teachings on faith. Paul's insights address moral issues, unity within the church, and the essence of love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letters of Paul to the Corinthians | Summary, Historical Context ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/90/130090-050-81EB1C84/Paul-the-Apostle.jpg' alt='Letters of Paul to the Corinthians | Summary, Historical Context ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/90/130090-050-81EB1C84/Paul-the-Apostle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Epistle to the Corinthians - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rembrandt_Harmensz._van_Rijn_163.jpg/800px-Rembrandt_Harmensz._van_Rijn_163.jpg' alt='First Epistle to the Corinthians - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rembrandt_Harmensz._van_Rijn_163.jpg/800px-Rembrandt_Harmensz._van_Rijn_163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Study on 1 Corinthians - Introduction to Paul's first letter ...">
+                                <img itemprop="contentUrl url" src='https://www.swapmeetdave.com/Bible/Paul-icon.jpg' alt='Bible Study on 1 Corinthians - Introduction to Paul's first letter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SwapMeetDave" />
+                                </span>
+                                <a href='https://www.swapmeetdave.com/Bible/Paul-icon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul wrote 1 Corinthians to a community in the middle of a culture ...">
+                                <img itemprop="contentUrl url" src='https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/saint_paul_rembrandt_van_rijn.jpg?itok=RwBpVJBm' alt='Paul wrote 1 Corinthians to a community in the middle of a culture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Christian Century" />
+                                </span>
+                                <a href='https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/saint_paul_rembrandt_van_rijn.jpg?itok=RwBpVJBm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who wrote the book of 1 Corinthians? Who was the author of 1 ...">
+                                <img itemprop="contentUrl url" src='https://www.gotquestions.org/img/OG/who-wrote-the-book-of-1-Corinthians.jpg' alt='Who wrote the book of 1 Corinthians? Who was the author of 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Got Questions" />
+                                </span>
+                                <a href='https://www.gotquestions.org/img/OG/who-wrote-the-book-of-1-Corinthians.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul Actually Wrote Four Letters to the… | Zondervan Academic">
+                                <img itemprop="contentUrl url" src='https://zondervanacademic.nyc3.cdn.digitaloceanspaces.com/production/general/_1200x630_crop_center-center_82_none/2-corinthians-lectures.jpg?mtime=1599150696' alt='Paul Actually Wrote Four Letters to the… | Zondervan Academic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zondervan Academic" />
+                                </span>
+                                <a href='https://zondervanacademic.nyc3.cdn.digitaloceanspaces.com/production/general/_1200x630_crop_center-center_82_none/2-corinthians-lectures.jpg?mtime=1599150696' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I give thanks to my God always for you: Paul's relationship with ...">
+                                <img itemprop="contentUrl url" src='https://johntsquires.com/wp-content/uploads/2023/01/img_1435.jpg?w=543' alt='I give thanks to my God always for you: Paul's relationship with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="An Informed Faith" />
+                                </span>
+                                <a href='https://johntsquires.com/wp-content/uploads/2023/01/img_1435.jpg?w=543' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul's Relationship to the Corinthians | CROSSWAY CHRISTIAN CHURCH">
+                                <img itemprop="contentUrl url" src='https://livethecross.org/wp-content/uploads/2014/06/va_-_raphael_st_paul_preaching_in_athens_1515.jpg' alt='Paul's Relationship to the Corinthians | CROSSWAY CHRISTIAN CHURCH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1034">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CROSSWAY CHRISTIAN CHURCH" />
+                                </span>
+                                <a href='https://livethecross.org/wp-content/uploads/2014/06/va_-_raphael_st_paul_preaching_in_athens_1515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book of 1 Corinthians | Guide with Key Information and Resources">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yiHf8klCCc4/maxresdefault.jpg' alt='Book of 1 Corinthians | Guide with Key Information and Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bible Project" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yiHf8klCCc4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Epistle to the Corinthians - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minuscule_223_%28GA%29_f150v.jpg/200px-Minuscule_223_%28GA%29_f150v.jpg' alt='First Epistle to the Corinthians - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minuscule_223_%28GA%29_f150v.jpg/200px-Minuscule_223_%28GA%29_f150v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

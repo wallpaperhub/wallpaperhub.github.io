@@ -1,0 +1,129 @@
+<title>Autumn Elegance: Fall Phone Wallpapers</title>
+                    <meta name="description" content="Explore a collection of beautiful fall background phone wallpapers that enhance your device with vibrant autumn colors. Perfect for those who love the season, our designs offer a cozy touch to your everyday life. Download and embrace the beauty of fall right on your phone!">
+                    <meta name="keywords" content="fall background phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/fall-background-phone-wallpaper">
+                            <span itemprop="name">fall background phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Autumn Elegance: Fall Phone Wallpapers</h1>
+                <p>Transform your phone with stunning fall background wallpapers that capture the essence of autumn. From vibrant orange and red leaves to serene pumpkin patches, these wallpapers bring warmth and color to your screen. Perfect for nature lovers, these seasonal designs evoke cozy feelings and create a beautiful atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpapers | Downloads | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Pumpkins.jpg' alt='FREE Fall Phone Wallpapers | Downloads | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall wallpaper - Fall themed background - phone wallpapers - phone  backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_570xN.6154506555_t29m.jpg' alt='Fall wallpaper - Fall themed background - phone wallpapers - phone  backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_570xN.6154506555_t29m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Autumn Phone Wallpaper, Hello Fall Digital Phone Wallpaper  Background, Digital Download, Cute Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30055525/r/il/d980b8/4123361420/il_570xN.4123361420_irto.jpg' alt='Hello Autumn Phone Wallpaper, Hello Fall Digital Phone Wallpaper  Background, Digital Download, Cute Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30055525/r/il/d980b8/4123361420/il_570xN.4123361420_irto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1008335.jpg' alt='Fall phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1008335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm & Cosy Autumn Fall Illustration Phone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/c2/ae/40c2aea0bfa0ed9bca47a7cd5d0a8c38.jpg' alt='Warm & Cosy Autumn Fall Illustration Phone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/c2/ae/40c2aea0bfa0ed9bca47a7cd5d0a8c38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpapers | Downloads | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Leaves-Blue.jpg' alt='FREE Fall Phone Wallpapers | Downloads | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/08/Fall-Cell-Phone-Wallpaper-Background-Leaves-Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ FREE Aesthetic Fall Phone Wallpapers For Spooky Season">
+                                <img itemprop="contentUrl url" src='https://whimsysoul.com/wp-content/uploads/2024/08/Whimsy-Soul-Aesthetic-Fall-Phone-Wallpapers-For-Spooky-Season-151.png' alt='60+ FREE Aesthetic Fall Phone Wallpapers For Spooky Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whimsy Soul" />
+                                </span>
+                                <a href='https://whimsysoul.com/wp-content/uploads/2024/08/Whimsy-Soul-Aesthetic-Fall-Phone-Wallpapers-For-Spooky-Season-151.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Fall Wallpapers To Transform Your Phone This Autumn - Our ...">
+                                <img itemprop="contentUrl url" src='http://ourhappycorner.com/wp-content/uploads/2024/07/fall-wallpaper-iPhone-20-485x1024.png' alt='Free Fall Wallpapers To Transform Your Phone This Autumn - Our ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Happy Corner" />
+                                </span>
+                                <a href='http://ourhappycorner.com/wp-content/uploads/2024/07/fall-wallpaper-iPhone-20-485x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-leaves.jpg' alt='30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpaper Backgrounds - Free To Download">
+                                <img itemprop="contentUrl url" src='https://www.houseofhawthornes.com/wp-content/uploads/2022/10/Fall-Wallpaper-Pumpkins2.jpg' alt='Fall iPhone Wallpaper Backgrounds - Free To Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Hawthornes" />
+                                </span>
+                                <a href='https://www.houseofhawthornes.com/wp-content/uploads/2022/10/Fall-Wallpaper-Pumpkins2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

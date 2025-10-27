@@ -1,0 +1,129 @@
+<title>Daisies on White: Pure Floral Beauty</title>
+                    <meta name="description" content="Add a touch of nature to your space with stunning daisies on a white background. Perfect for design inspiration, these flowers embody purity and joy, ideal for art projects, home decor, or branding. Explore how this simple yet striking combination enhances your aesthetic and uplifts spirits.">
+                    <meta name="keywords" content="daisy white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/daisy-white-background">
+                            <span itemprop="name">daisy white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Daisies on White: Pure Floral Beauty</h1>
+                <p>Immerse yourself in the beauty of daisies against a pristine white background. These charming flowers symbolize purity and innocence, making them perfect for a fresh, clean aesthetic. Whether you're designing a website, creating art, or simply enjoying nature's wonders, the contrast of vibrant daisies on white evokes joy and serenity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | One white daisy flower isolated on white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/one-white-daisy-flower-isolated-white-background-flat-lay-top-view_438009-1775.jpg' alt='Premium Photo | One white daisy flower isolated on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/one-white-daisy-flower-isolated-white-background-flat-lay-top-view_438009-1775.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy On A White Background Stock Photo - Download Image Now ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/890573264/photo/daisy-on-a-white-background.jpg?s=612x612&w=0&k=20&c=KhgFqAyzZFPRynZVQFYaiZ_rVQfzCe8ULX9qBzinjjg=' alt='Daisy On A White Background Stock Photo - Download Image Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/890573264/photo/daisy-on-a-white-background.jpg?s=612x612&w=0&k=20&c=KhgFqAyzZFPRynZVQFYaiZ_rVQfzCe8ULX9qBzinjjg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisies on white background by Elena Elisseeva">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/daisies-on-white-background-elena-elisseeva.jpg' alt='Daisies on white background by Elena Elisseeva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elena Elisseeva" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/daisies-on-white-background-elena-elisseeva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Flowers Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/048/178/700/non_2x/white-daisy-flower-on-white-background-free-photo.jpg' alt='Daisy Flowers Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/048/178/700/non_2x/white-daisy-flower-on-white-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,614 White Daisy Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/812977568/photo/daisy.jpg?s=612x612&w=gi&k=20&c=hVwzE3wqRqEFx3enE_la-M0YG1iaOEGuARxqEtglafg=' alt='30,614 White Daisy Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/812977568/photo/daisy.jpg?s=612x612&w=gi&k=20&c=hVwzE3wqRqEFx3enE_la-M0YG1iaOEGuARxqEtglafg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisies on White Background Stock Photo - Image of background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/ec/f1/4fecf19376202eb381ddc997af123c83.jpg' alt='Daisies on White Background Stock Photo - Image of background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/ec/f1/4fecf19376202eb381ddc997af123c83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White daisy with stem isolated on white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/E1T0RA/white-daisy-with-stem-isolated-on-white-background-E1T0RA.jpg' alt='White daisy with stem isolated on white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/E1T0RA/white-daisy-with-stem-isolated-on-white-background-E1T0RA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="236,100+ White Daisy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1130559066/photo/chamomile-isolated-on-white-background-clipping-path-full-depth-of-field.jpg?s=612x612&w=0&k=20&c=oK1aV1qCRE_XT5IKRWeBMuvteXLdF5qXKKosfGMwZPY=' alt='236,100+ White Daisy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1130559066/photo/chamomile-isolated-on-white-background-clipping-path-full-depth-of-field.jpg?s=612x612&w=0&k=20&c=oK1aV1qCRE_XT5IKRWeBMuvteXLdF5qXKKosfGMwZPY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blumen - White Daisy Flower Illustration - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240317/j/transparent-star-shape-single-white-daisy-with-yellow-1710835021769.webp' alt='Blumen - White Daisy Flower Illustration - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240317/j/transparent-star-shape-single-white-daisy-with-yellow-1710835021769.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One white daisy flower isolated on white background. Flat lay, t ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/6084264/31800/i/1600/depositphotos_318005286-stock-photo-one-white-daisy-flower-isolated.jpg' alt='One white daisy flower isolated on white background. Flat lay, t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/6084264/31800/i/1600/depositphotos_318005286-stock-photo-one-white-daisy-flower-isolated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

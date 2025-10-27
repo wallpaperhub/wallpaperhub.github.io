@@ -1,0 +1,129 @@
+<title>Stunning 4K Nissan GTR Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover high-quality 4K Nissan GTR wallpapers designed for your phone. Perfect for car enthusiasts, these wallpapers highlight the iconic design and power of the GTR. Transform your mobile display with stunning visuals that showcase automotive excellence and style!">
+                    <meta name="keywords" content="nissan gtr wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nissan-gtr-wallpaper-4k-phone">
+                            <span itemprop="name">nissan gtr wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Nissan GTR Wallpapers for Your Phone</h1>
+                <p>Nissan GTR wallpaper in stunning 4K resolution is perfect for your phone! Elevate your device's aesthetic with breathtaking images of this legendary sports car. Whether you love its sleek design or powerful performance, these wallpapers will showcase the GTR's beauty and speed, making your phone stand out in style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan GT-R Wallpapers (99 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/0/c/1658879-2160x3840-phone-4k-nissan-gt-r-wallpaper-image.jpg' alt='Nissan GT-R Wallpapers (99 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/0/c/1658879-2160x3840-phone-4k-nissan-gt-r-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2020 Nissan GT-R Nismo Wallpapers - WSupercars">
+                                <img itemprop="contentUrl url" src='https://www.wsupercars.com/thumbnails-phone/Nissan/2020-Nissan-GT-R-Nismo-003.jpg' alt='2020 Nissan GT-R Nismo Wallpapers - WSupercars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSupercars" />
+                                </span>
+                                <a href='https://www.wsupercars.com/thumbnails-phone/Nissan/2020-Nissan-GT-R-Nismo-003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan GTR Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7240920.jpg' alt='Nissan GTR Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7240920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JDM Wallpaper for IPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/bf/4b/10bf4bdface279f1e3103da6e587d11b.jpg' alt='JDM Wallpaper for IPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/bf/4b/10bf4bdface279f1e3103da6e587d11b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/8a/45/6b8a45e4b338debbb425e6d0720a3c0a.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/8a/45/6b8a45e4b338debbb425e6d0720a3c0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gtr, nissan, nissan gtr, r35, skykine, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/641/375/HD-wallpaper-gtr-nissan-nissan-gtr-r35-skykine.jpg' alt='Gtr, nissan, nissan gtr, r35, skykine, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/641/375/HD-wallpaper-gtr-nissan-nissan-gtr-r35-skykine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Gtr R35 Photos, Download The BEST Free Nissan Gtr R35 Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/11941023/pexels-photo-11941023.jpeg?cs=srgb&dl=pexels-mathieu-gervais-95409679-11941023.jpg&fm=jpg' alt='Nissan Gtr R35 Photos, Download The BEST Free Nissan Gtr R35 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4400">
+                                <meta itemprop="height" content="5500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/11941023/pexels-photo-11941023.jpeg?cs=srgb&dl=pexels-mathieu-gervais-95409679-11941023.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Nissan Gt R" wallpapers for mobile phone, free "Nissan ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/aa/aae0b5e796321474dbe7cb2aa5f23edb.jpeg' alt='Download "Nissan Gt R" wallpapers for mobile phone, free "Nissan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6982">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/aa/aae0b5e796321474dbe7cb2aa5f23edb.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan GTR Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5254861.jpg' alt='Nissan GTR Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5254861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan GT-R Wallpapers (99 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/7/a/1659389-1152x2048-mobile-hd-nissan-gt-r-wallpaper-image.jpg' alt='Nissan GT-R Wallpapers (99 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/7/a/1659389-1152x2048-mobile-hd-nissan-gt-r-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Background Checks vs. Credit Checks</title>
+                    <meta name="description" content="Discover the differences between background checks and credit checks. Learn how each plays a role in hiring and lending decisions, ensuring you understand what employers and lenders are looking for in your history.">
+                    <meta name="keywords" content="is a background check the same as a credit check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-a-background-check-the-same-as-a-credit-check">
+                            <span itemprop="name">is a background check the same as a credit check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Background Checks vs. Credit Checks</h1>
+                <p>A background check and a credit check are not the same. A background check reviews criminal history, employment verification, and more, while a credit check evaluates your financial history and creditworthiness. Employers might use both to assess a candidate, but each serves distinct purposes in the evaluation process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credit Background Checks & Reports for Employment | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a475e70f30/credit-checks.png/m/' alt='Credit Background Checks & Reports for Employment | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a475e70f30/credit-checks.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Credit Check: Pros, Cons, and Best Practices">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/grix75fu/production/377c194e2fc20c32e6f68cb37629baea64857f58-1024x538.jpg?w=2048&q=75&fit=clip&auto=format' alt='Employment Credit Check: Pros, Cons, and Best Practices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eddy" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/grix75fu/production/377c194e2fc20c32e6f68cb37629baea64857f58-1024x538.jpg?w=2048&q=75&fit=clip&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is an Employment Credit Check? | Lexington Law">
+                                <img itemprop="contentUrl url" src='https://www.lexingtonlaw.com/blog/wp-content/uploads/2024/03/image-55.png' alt='What Is an Employment Credit Check? | Lexington Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lexington Law" />
+                                </span>
+                                <a href='https://www.lexingtonlaw.com/blog/wp-content/uploads/2024/03/image-55.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credit Report – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/credit_TU.jpg' alt='Credit Report – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/credit_TU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on a Background Check? - Spendmenot">
+                                <img itemprop="contentUrl url" src='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' alt='What Shows Up on a Background Check? - Spendmenot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spendmenot" />
+                                </span>
+                                <a href='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What you need to know about background checks when applying | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' alt='What you need to know about background checks when applying | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1474">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

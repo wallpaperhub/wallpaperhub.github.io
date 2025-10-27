@@ -1,0 +1,129 @@
+<title>Transparent LEGO Bricks: The Ultimate Design Tool</title>
+                    <meta name="description" content="Discover the power of LEGO bricks with a transparent background! Perfect for designers and artists, this resource allows for seamless integration into various projects. Elevate your creative works with vibrant colors and iconic shapes. Get inspired today!">
+                    <meta name="keywords" content="lego brick transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lego-brick-transparent-background">
+                            <span itemprop="name">lego brick transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent LEGO Bricks: The Ultimate Design Tool</h1>
+                <p>The concept of a LEGO brick with a transparent background can enhance various creative projects, allowing the vibrant colors and distinct shapes of the bricks to shine through. Perfect for graphic designs, illustrations, and digital art, a transparent background enables flexibility and seamless integration into any layout or design while showcasing the unique features of LEGO bricks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Red lego brick.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Red_lego_brick.png' alt='File:Red lego brick.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/cd/Red_lego_brick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego PNG transparent image download, size: 818x625px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lego_PNG78.png' alt='Lego PNG transparent image download, size: 818x625px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lego_PNG78.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego PNG transparent image download, size: 2000x1375px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lego_PNG20.png' alt='Lego PNG transparent image download, size: 2000x1375px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lego_PNG20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Brick PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180425/zde/avtrwp664.webp' alt='Lego Brick PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180425/zde/avtrwp664.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Brick, Blue, Red, Green PNG Transparent Background, Free ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/lego-brick-blue-red-green-png-0.png' alt='Lego Brick, Blue, Red, Green PNG Transparent Background, Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1788">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/lego-brick-blue-red-green-png-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Brick Clipart Transparent Background, A Lego Blocks Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220607/ourlarge/pngtree-a-lego-blocks-vector-brick-png-image_4914190.png' alt='Lego Brick Clipart Transparent Background, A Lego Blocks Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220607/ourlarge/pngtree-a-lego-blocks-vector-brick-png-image_4914190.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego PNG transparent image download, size: 864x504px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lego_PNG5.png' alt='Lego PNG transparent image download, size: 864x504px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lego_PNG5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231102/ourmid/pngtree-lego-plastic-toy-blocks-construction-png-image_10416127.png' alt='Lego PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231102/ourmid/pngtree-lego-plastic-toy-blocks-construction-png-image_10416127.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego 2x4 Brick PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/lego-2x4-brick-B5mRDn2-600.jpg' alt='Lego 2x4 Brick PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/lego-2x4-brick-B5mRDn2-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Brick PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180603/lhj/avoquzvrq.webp' alt='Lego Brick PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180603/lhj/avoquzvrq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

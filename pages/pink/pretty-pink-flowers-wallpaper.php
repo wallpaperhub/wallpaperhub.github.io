@@ -1,0 +1,129 @@
+<title>"Pretty Pink Flowers Wallpaper: Elegant Floral Decor for Your Space"</title>
+                    <meta name="description" content="Elevate your home decor with our pretty pink flowers wallpaper. Perfect for creating a calming atmosphere, this vibrant collection brings elegance and charm to your walls. Explore our designs and find the ideal floral wallpaper to transform your space effortlessly.">
+                    <meta name="keywords" content="pretty pink flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pretty-pink-flowers-wallpaper">
+                            <span itemprop="name">pretty pink flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Pretty Pink Flowers Wallpaper: Elegant Floral Decor for Your Space"</h1>
+                <p>Discover the beauty of pretty pink flowers with our stunning wallpaper collection. Perfect for adding a touch of elegance and charm to any room, these wallpapers feature vibrant petals and delicate designs. Transform your space into a floral paradise and enjoy the serene ambiance that pink flowers bring.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Pink Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617&width=1080' alt='Peony Bouquet - Pink Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Charming Cute Pink Wallpaper For The Girly You - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2c/94/4b/2c944b12d8e41eabe05a9f9a7e955780.jpg' alt='10 Charming Cute Pink Wallpaper For The Girly You - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2c/94/4b/2c944b12d8e41eabe05a9f9a7e955780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful and cute pink cherry blossomsakura flowers, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/images-new-artwork/images/artworkimages/medium/3/beautiful-and-cute-pink-cherry-blossomsakura-flowers-wallpaper-background-spring-blossoms-blooming-michael-dechev.jpg' alt='Beautiful and cute pink cherry blossomsakura flowers, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michael Dechev - Pixels" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/images-new-artwork/images/artworkimages/medium/3/beautiful-and-cute-pink-cherry-blossomsakura-flowers-wallpaper-background-spring-blossoms-blooming-michael-dechev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Pink Flowers Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pretty-pink-flowers-aesthetic-k8k25mj93ahh4gdr.jpg' alt='Pretty Pink Flowers Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pretty-pink-flowers-aesthetic-k8k25mj93ahh4gdr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Заставка">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' alt='Pin on Заставка'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flowers Aesthetic Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-flowers-aesthetic-phone-y19xfusb2kvpcr96.jpg' alt='Pink Flowers Aesthetic Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="1840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-flowers-aesthetic-phone-y19xfusb2kvpcr96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Flower Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-flower-phone-q99gfskxoowxkckj.jpg' alt='100+] Pink Flower Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-flower-phone-q99gfskxoowxkckj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute pink flowers wallpaper and background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-pink-flowers-wallpaper-background_669254-13.jpg?w=360' alt='Premium Vector | Cute pink flowers wallpaper and background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-pink-flowers-wallpaper-background_669254-13.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Pink Flowers Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676272747130-348694463771?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' alt='500+ Pink Flowers Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676272747130-348694463771?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink flowers wallpaper by __Sonia__ - Download on ZEDGE™ | 0711">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/76/74/067674207380bb2fed6a880362e91798.jpg' alt='Pink flowers wallpaper by __Sonia__ - Download on ZEDGE™ | 0711'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/76/74/067674207380bb2fed6a880362e91798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

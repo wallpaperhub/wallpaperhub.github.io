@@ -1,0 +1,129 @@
+<title>Nostalgic 90s Website Backgrounds: A Vibrant Digital Era</title>
+                    <meta name="description" content="Discover the bold and vibrant backgrounds that defined 90s websites. Explore the eye-catching designs, from animated GIFs to colorful patterns, that shaped the internet experience during this iconic decade. Relive the nostalgia of a playful digital era with our curated insights.">
+                    <meta name="keywords" content="90s website backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/90s-website-backgrounds">
+                            <span itemprop="name">90s website backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nostalgic 90s Website Backgrounds: A Vibrant Digital Era</h1>
+                <p>The 90s were a vibrant time for web design, marked by flashy backgrounds that set the tone for online experiences. From animated GIFs to bright tile patterns, websites were a canvas for creativity. While trendy then, these eye-catching designs often distracted from content, showcasing a playful era of digital expression that many still fondly remember.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90S Background Images – Browse 530,324 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/97/31/76/360_F_297317658_xSuhvArgAS0g8AugQSvi0OJCQEv2WxjK.jpg' alt='90S Background Images – Browse 530,324 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/97/31/76/360_F_297317658_xSuhvArgAS0g8AugQSvi0OJCQEv2WxjK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Websites – Key Characteristics & Examples | UXPin">
+                                <img itemprop="contentUrl url" src='https://studio.uxpincdn.com/studio/wp-content/uploads/2023/07/space-jam-nineties-web-design-1024x661.png.webp' alt='90s Websites – Key Characteristics & Examples | UXPin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UXPin" />
+                                </span>
+                                <a href='https://studio.uxpincdn.com/studio/wp-content/uploads/2023/07/space-jam-nineties-web-design-1024x661.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,700+ 90s Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' alt='51,700+ 90s Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olia Lialina. A Vernacular web. The Starry Night Background">
+                                <img itemprop="contentUrl url" src='https://art.teleportacia.org/observation/vernacular/stars/starry.gif' alt='Olia Lialina. A Vernacular web. The Starry Night Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olia Lialina - Teleportacia" />
+                                </span>
+                                <a href='https://art.teleportacia.org/observation/vernacular/stars/starry.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Browsing the Internet with a 90s Computer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/90s-computer-7aqh7zmanrf7ckuw.jpg' alt='Download Browsing the Internet with a 90s Computer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/90s-computer-7aqh7zmanrf7ckuw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greetings from the 90s">
+                                <img itemprop="contentUrl url" src='https://ardas-it.com/uploads/images/blogs/1_90_s.jpg' alt='Greetings from the 90s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ardas" />
+                                </span>
+                                <a href='https://ardas-it.com/uploads/images/blogs/1_90_s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our 10 top picks from the 90s website design graveyard - Justinmind">
+                                <img itemprop="contentUrl url" src='https://www.justinmind.com/wp-content/uploads/2018/05/top-10-worst-90s-website-designs-header.png' alt='Our 10 top picks from the 90s website design graveyard - Justinmind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Justinmind" />
+                                </span>
+                                <a href='https://www.justinmind.com/wp-content/uploads/2018/05/top-10-worst-90s-website-designs-header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s website hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RWT4XM/seamless-pattern-background-in-retro-80s-and-90s-geometric-style-for-fabric-print-paper-print-and-website-background-optical-vector-illustration-2RWT4XM.jpg' alt='90s website hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RWT4XM/seamless-pattern-background-in-retro-80s-and-90s-geometric-style-for-fabric-print-paper-print-and-website-background-optical-vector-illustration-2RWT4XM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/070/896/small/abstract-90s-retro-style-technology-futuristic-concept-grid-perspective-on-black-background-vector.jpg' alt='90s Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/070/896/small/abstract-90s-retro-style-technology-futuristic-concept-grid-perspective-on-black-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olia Lialina. A Vernacular web. The Starry Night Background">
+                                <img itemprop="contentUrl url" src='https://art.teleportacia.org/observation/vernacular/stars/pusk.jpg' alt='Olia Lialina. A Vernacular web. The Starry Night Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="281">
+                                <meta itemprop="height" content="173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olia Lialina - Teleportacia" />
+                                </span>
+                                <a href='https://art.teleportacia.org/observation/vernacular/stars/pusk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

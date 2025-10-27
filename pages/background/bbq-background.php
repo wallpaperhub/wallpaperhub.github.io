@@ -1,0 +1,129 @@
+<title>Discover the Rich History of BBQ</title>
+                    <meta name="description" content="Explore the fascinating background of BBQ, from its ancient origins to modern styles. Learn about the diverse flavors and cultural significance of this beloved cooking method, perfect for gatherings and celebrations. Dive into the world of BBQ and savor its history today!">
+                    <meta name="keywords" content="bbq background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bbq-background">
+                            <span itemprop="name">bbq background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of BBQ</h1>
+                <p>Barbecue, or BBQ, has roots in ancient cultures, where cooking over an open flame brought communities together. Evolving across regions, it now embodies diverse flavors and styles—from America's smoky ribs to Korean bulgogi. Modern BBQ is a social ritual, cherished for its taste and shared experience among families and friends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bbq Menu Background Images – Browse 198,701 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/27/33/08/360_F_627330868_umjMlCTQZv2zKhofgc649xyfv3Fp1OvG.jpg' alt='Bbq Menu Background Images – Browse 198,701 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/27/33/08/360_F_627330868_umjMlCTQZv2zKhofgc649xyfv3Fp1OvG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbecue Background Images – Browse 1,952,119 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/49/01/63/360_F_449016377_drmkRhvZFiRp0KknvrTI2VazluOUC9rX.jpg' alt='Barbecue Background Images – Browse 1,952,119 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/49/01/63/360_F_449016377_drmkRhvZFiRp0KknvrTI2VazluOUC9rX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="142,943 Bbq Background Wood Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/barbecue-bbq-grill-flaming-fire-600nw-2313078047.jpg' alt='142,943 Bbq Background Wood Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/barbecue-bbq-grill-flaming-fire-600nw-2313078047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bbq Grill Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/043/269/961/small_2x/open-flaming-charcoal-grill-with-various-food-items-cooking-on-it-showcasing-a-summer-grilling-barbecue-session-with-copy-space-photo.jpg' alt='Bbq Grill Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/043/269/961/small_2x/open-flaming-charcoal-grill-with-various-food-items-cooking-on-it-showcasing-a-summer-grilling-barbecue-session-with-copy-space-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot empty portable barbecue BBQ grill with flaming fire and ember charcoal  on black background. Waiting for the placement of your food. Close up">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/23/97/83/1000_F_323978365_rZFsKdPK0AUhF1dFFMD9Dp3AlUt6Lp93.jpg' alt='Hot empty portable barbecue BBQ grill with flaming fire and ember charcoal  on black background. Waiting for the placement of your food. Close up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limitless Walls" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/23/97/83/1000_F_323978365_rZFsKdPK0AUhF1dFFMD9Dp3AlUt6Lp93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,900+ Bbq Flame Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1323401361/photo/barbecue-grill-with-fire-flames-empty-fire-grid-on-black-background.jpg?s=612x612&w=0&k=20&c=G8CldWifuAkbBFlCM3wZNDTJ1KPd8I-XhGbEa72ChrU=' alt='112,900+ Bbq Flame Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1323401361/photo/barbecue-grill-with-fire-flames-empty-fire-grid-on-black-background.jpg?s=612x612&w=0&k=20&c=G8CldWifuAkbBFlCM3wZNDTJ1KPd8I-XhGbEa72ChrU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BBQ Party Backdrop Oven BBQ Photography Background MEETSIOY  Red Flame Watermelon Photo Booth Props Banner BBQ Birthday Party Supplies  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61h4FvcTRcL.jpg' alt='Amazon.com : BBQ Party Backdrop Oven BBQ Photography Background MEETSIOY  Red Flame Watermelon Photo Booth Props Banner BBQ Birthday Party Supplies  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="906">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61h4FvcTRcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bbq Grill Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/704/384/small/ai-generated-hot-empty-portable-barbecue-bbq-grill-with-flaming-fire-and-ember-charcoal-on-black-background-waiting-for-the-placement-of-your-food-close-up-photo.jpg' alt='Bbq Grill Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/704/384/small/ai-generated-hot-empty-portable-barbecue-bbq-grill-with-flaming-fire-and-ember-charcoal-on-black-background-waiting-for-the-placement-of-your-food-close-up-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bbq Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/hot-empty-barbecue-bbq-grill-with-bright-flaming-fire-ember-charcoal-smoke-black-background-waiting-placement-your-food-cookout-concept-close-up-copy-space_639032-1421.jpg?semt=ais_hybrid' alt='Bbq Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/hot-empty-barbecue-bbq-grill-with-bright-flaming-fire-ember-charcoal-smoke-black-background-waiting-placement-your-food-cookout-concept-close-up-copy-space_639032-1421.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bbq Food And Drink Poster Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/7d/b6/967db683e191acc49969bfd49a0c1056.jpg' alt='Bbq Food And Drink Poster Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/7d/b6/967db683e191acc49969bfd49a0c1056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

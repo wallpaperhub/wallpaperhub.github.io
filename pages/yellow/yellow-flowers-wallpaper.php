@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Flowers Wallpaper for Cheerful Interiors</title>
+                    <meta name="description" content="Discover the beauty of yellow flowers wallpaper! Perfect for creating a bright and cheerful atmosphere, these designs bring the warmth of nature indoors. Ideal for any room, they transform your decor with vibrant petals and sunny hues. Revitalize your space effortlessly today!">
+                    <meta name="keywords" content="yellow flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-flowers-wallpaper">
+                            <span itemprop="name">yellow flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Flowers Wallpaper for Cheerful Interiors</h1>
+                <p>Brighten your space with stunning yellow flowers wallpaper! Perfect for adding a touch of sunshine and vibrancy to any room, this wallpaper showcases a variety of cheerful blooms. Ideal for home decor enthusiasts, it enhances ambiance and creates a joyful atmosphere. Transform your walls and uplift your mood with these delightful designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flowers Photos, Download The BEST Free Yellow Flowers Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2122328/pexels-photo-2122328.jpeg?cs=srgb&dl=pexels-flo-dnd-989753-2122328.jpg&fm=jpg' alt='Yellow Flowers Photos, Download The BEST Free Yellow Flowers Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2122328/pexels-photo-2122328.jpeg?cs=srgb&dl=pexels-flo-dnd-989753-2122328.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Yellow Flowers on White - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4130/13703/vintage-wallpaper-199__00910.1677862870.jpg?c=2' alt='1960s Vintage Wallpaper Yellow Flowers on White - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4130/13703/vintage-wallpaper-199__00910.1677862870.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flowers Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yellow-flowers-aesthetic-iakccg7wpiyjy7yq.jpg' alt='Yellow Flowers Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yellow-flowers-aesthetic-iakccg7wpiyjy7yq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/b3/53/dcb353b5e3a5ccf6205892483c7bb924.jpg' alt='Yellow flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/b3/53/dcb353b5e3a5ccf6205892483c7bb924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flowers Photos, Download The BEST Free Yellow Flowers Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1028542/pexels-photo-1028542.jpeg?cs=srgb&dl=pexels-danielspase-1028542.jpg&fm=jpg' alt='Yellow Flowers Photos, Download The BEST Free Yellow Flowers Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1028542/pexels-photo-1028542.jpeg?cs=srgb&dl=pexels-danielspase-1028542.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flowers iPhone Wallpaper | 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/yellow-flowers.png' alt='Yellow Flowers iPhone Wallpaper | 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/yellow-flowers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/04/d1/9904d1a3ff4d0b1da242a9331b2387ff.jpg' alt='Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/04/d1/9904d1a3ff4d0b1da242a9331b2387ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/yellow-flowers-yellow-tabletop_23-2148029583.jpg' alt='Yellow Flower Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/yellow-flowers-yellow-tabletop_23-2148029583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spring Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yellow-spring-flowers-nat0geytuef3igzc.jpg' alt='Yellow Spring Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yellow-spring-flowers-nat0geytuef3igzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,103,200+ Yellow Flower Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/918413974/photo/beautiful-dandelion-background-yellow-flowers-is-blooming-in-the-garden.jpg?s=612x612&w=0&k=20&c=fScXtW10B9yb-AyrQBJTPasqAHknPjRSI-VXGpqu4mI=' alt='3,103,200+ Yellow Flower Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/918413974/photo/beautiful-dandelion-background-yellow-flowers-is-blooming-in-the-garden.jpg?s=612x612&w=0&k=20&c=fScXtW10B9yb-AyrQBJTPasqAHknPjRSI-VXGpqu4mI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Allure of Black Background Vases</title>
+                    <meta name="description" content="Explore the captivating world of vases featuring stunning black backgrounds. Learn about their unique designs, historical significance, and the artistic techniques that make these pieces stand out. Perfect for enhancing any decor, these vases are a must-see for art and pottery enthusiasts!">
+                    <meta name="keywords" content="which style of vase had a black background?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-style-of-vase-had-a-black-background">
+                            <span itemprop="name">which style of vase had a black background?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Black Background Vases</h1>
+                <p>One remarkable style of vase characterized by a black background is the famous "Blackware" pottery of the Moche civilization in ancient Peru. Known for its intricate designs and shiny finish, these vases often feature detailed imagery of animals and human figures. The striking contrast of black against the carved motifs makes them visually impressive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black-figure pottery | Greek, Attic, Geometric | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/32/30432-004-B5FD66EB/satyrs-Dionysus-amphora-style-Amasis-Painter-Antikenmuseum.jpg' alt='Black-figure pottery | Greek, Attic, Geometric | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/32/30432-004-B5FD66EB/satyrs-Dionysus-amphora-style-Amasis-Painter-Antikenmuseum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Vase with Black Background in the Style of Chinese Famille Verte">
+                                <img itemprop="contentUrl url" src='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale-picture-10/f_25923/1558628778826/mobilejpegupload_8B4AD7D0987E4CBA93B214E674E6890E_master.jpg?width=768' alt='Japanese Vase with Black Background in the Style of Chinese Famille Verte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stDibs" />
+                                </span>
+                                <a href='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale-picture-10/f_25923/1558628778826/mobilejpegupload_8B4AD7D0987E4CBA93B214E674E6890E_master.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making ancient Greek vases - A look at red- and black-figure ...">
+                                <img itemprop="contentUrl url" src='https://www.ancientworldmagazine.com/site/assets/files/1873/bilingual.jpg' alt='Making ancient Greek vases - A look at red- and black-figure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ancient World Magazine" />
+                                </span>
+                                <a href='https://www.ancientworldmagazine.com/site/assets/files/1873/bilingual.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Vase with Black Background in the Style of Chinese Famille Verte">
+                                <img itemprop="contentUrl url" src='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale/1121189/f_148353621559052926231/14835362_master.jpg?width=768' alt='Japanese Vase with Black Background in the Style of Chinese Famille Verte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stDibs" />
+                                </span>
+                                <a href='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale/1121189/f_148353621559052926231/14835362_master.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black-figure pottery - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Herakles_Geryon_Staatliche_Antikensammlungen_1379.jpg/280px-Herakles_Geryon_Staatliche_Antikensammlungen_1379.jpg' alt='Black-figure pottery - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Herakles_Geryon_Staatliche_Antikensammlungen_1379.jpg/280px-Herakles_Geryon_Staatliche_Antikensammlungen_1379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Vase with Black Background in the Style of Chinese Famille Verte">
+                                <img itemprop="contentUrl url" src='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale-picture-3/f_25923/1558628679479/mobilejpegupload_A46522B1665442A18F5235E103DEE774_master.jpg?width=768' alt='Japanese Vase with Black Background in the Style of Chinese Famille Verte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stDibs" />
+                                </span>
+                                <a href='https://a.1stdibscdn.com/chinese-famille-verte-vase-with-black-background-for-sale-picture-3/f_25923/1558628679479/mobilejpegupload_A46522B1665442A18F5235E103DEE774_master.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Athenian Vase Painting: Black- and Red-Figure Techniques - The ...">
+                                <img itemprop="contentUrl url" src='https://collectionapi.metmuseum.org/api/collection/v1/iiif/248902/541985/main-image' alt='Athenian Vase Painting: Black- and Red-Figure Techniques - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Metropolitan Museum of Art" />
+                                </span>
+                                <a href='https://collectionapi.metmuseum.org/api/collection/v1/iiif/248902/541985/main-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,357 Flowers Vase Black Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pink-grey-spring-flowers-vase-black-background-pink-grey-spring-flowers-vase-black-background-high-346110296.jpg' alt='14,357 Flowers Vase Black Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pink-grey-spring-flowers-vase-black-background-pink-grey-spring-flowers-vase-black-background-high-346110296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Ceramic Vase: Organic Form with a Modern Twist | Kuro Yaki ...">
+                                <img itemprop="contentUrl url" src='https://kuroyaki.com/wp-content/uploads/2024/12/m-Ceramic-Art-japanese-style-Zurich_0025_Ebene-8-Kopie-21.jpg' alt='Black Ceramic Vase: Organic Form with a Modern Twist | Kuro Yaki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kuro Yaki Ceramic Art" />
+                                </span>
+                                <a href='https://kuroyaki.com/wp-content/uploads/2024/12/m-Ceramic-Art-japanese-style-Zurich_0025_Ebene-8-Kopie-21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early 20th Century Japanese Vase With Black Background in the ...">
+                                <img itemprop="contentUrl url" src='https://chairish-prod.freetls.fastly.net/image/product/sized/8b112be5-1051-4de3-97f8-52f36d0d7299/early-20th-century-japanese-vase-with-black-background-in-the-style-of-chinese-famille-verte-5585?aspect=fit&width=640&height=640' alt='Early 20th Century Japanese Vase With Black Background in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chairish" />
+                                </span>
+                                <a href='https://chairish-prod.freetls.fastly.net/image/product/sized/8b112be5-1051-4de3-97f8-52f36d0d7299/early-20th-century-japanese-vase-with-black-background-in-the-style-of-chinese-famille-verte-5585?aspect=fit&width=640&height=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

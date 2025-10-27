@@ -1,0 +1,129 @@
+<title>Stunning 4K Flower Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover breathtaking 4K flower wallpapers that elevate your screen with vibrant colors and exquisite details. Perfect for nature lovers and anyone wanting to add beauty to their device, our collection is designed for high-resolution clarity. Explore now for a refreshing visual experience!">
+                    <meta name="keywords" content="4k flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/4k-flower-wallpaper">
+                            <span itemprop="name">4k flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Flower Wallpapers for Every Device</h1>
+                <p>Transform your screen with stunning 4K flower wallpapers that bring nature's beauty into your space. Experience vibrant colors and intricate details, perfect for any device. Whether you love roses, tulips, or exotic blooms, our collection enhances your aesthetic while providing high-resolution visuals that pop. Freshen up your digital environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful of cosmos at sky. flowers background with beautiful sky. seamless  looping overlay 4k virtual video animation background">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/34/64/33/360_F_734643378_D1BuHpeeRm5wfrXTYrvPebh18KDJOiLi.jpg' alt='beautiful of cosmos at sky. flowers background with beautiful sky. seamless  looping overlay 4k virtual video animation background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/34/64/33/360_F_734643378_D1BuHpeeRm5wfrXTYrvPebh18KDJOiLi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200,000+ Best Flower Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg' alt='200,000+ Best Flower Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x1920 Purple Flowers Macro 4k Iphone 7,6s,6 Plus, Pixel xl ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/01/27/8a01273f98e26af7ee731d7a831b4adc.jpg' alt='1080x1920 Purple Flowers Macro 4k Iphone 7,6s,6 Plus, Pixel xl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/01/27/8a01273f98e26af7ee731d7a831b4adc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Full Screen 4k Flowers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/full-screen-4k-flowers-fd15j5bhdb4d91s3.jpg' alt='100+] Full Screen 4k Flowers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/full-screen-4k-flowers-fd15j5bhdb4d91s3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen 4k Flowers Tulip Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/enchanting-bloom-full-screen-4k-flower-image-2y8ow71607g2rr27.webp' alt='Full Screen 4k Flowers Tulip Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/enchanting-bloom-full-screen-4k-flower-image-2y8ow71607g2rr27.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers 4k Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/075/838/small/ai-generated-afternoon-sunlight-softly-illuminates-flower-beds-highlighting-the-vibrant-colors-and-detailed-textures-gardening-concept-photo.jpg' alt='Flowers 4k Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/075/838/small/ai-generated-afternoon-sunlight-softly-illuminates-flower-beds-highlighting-the-vibrant-colors-and-detailed-textures-gardening-concept-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K HD 4K Flower Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cC2kMbyRL.png' alt='4K HD 4K Flower Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cC2kMbyRL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1471899236350-e3016bf1e69e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Flower Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1471899236350-e3016bf1e69e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper (White, Petal) #26042">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/pic_v/26042.jpg' alt='Flower Wallpaper (White, Petal) #26042'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/pic_v/26042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer sunset flowers iPhone wallpaper homescreen background HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/35/41/5b3541af12c132ac9eedf663b8b03081.jpg' alt='Summer sunset flowers iPhone wallpaper homescreen background HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/35/41/5b3541af12c132ac9eedf663b8b03081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

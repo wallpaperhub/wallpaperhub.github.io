@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="are background checks for guns effective">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/are-background-checks-for-guns-effective">
+                            <span itemprop="name">are background checks for guns effective</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Fixing Gun Background Checks - Center for American ...">
+                                <img itemprop="contentUrl url" src='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' alt='Infographic: Fixing Gun Background Checks - Center for American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Center for American Progress" />
+                                </span>
+                                <a href='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chart: Firearms Background Checks at Record Levels | Statista">
+                                <img itemprop="contentUrl url" src='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' alt='Chart: Firearms Background Checks at Record Levels | Statista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statista" />
+                                </span>
+                                <a href='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Update Background Check Laws | Everytown Research & Policy">
+                                <img itemprop="contentUrl url" src='https://everytownresearch.org/wp-content/uploads/sites/4/2021/02/Background-checks-illustration-012721_update_process-1024x380.png' alt='Update Background Check Laws | Everytown Research & Policy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everytown Research & Policy" />
+                                </span>
+                                <a href='https://everytownresearch.org/wp-content/uploads/sites/4/2021/02/Background-checks-illustration-012721_update_process-1024x380.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Background Checks Lower Homicide Rates | SPH">
+                                <img itemprop="contentUrl url" src='https://www.bu.edu/sph/files/2019/03/Universal-Background-Checks-400x241.jpeg' alt='Universal Background Checks Lower Homicide Rates | SPH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston University" />
+                                </span>
+                                <a href='https://www.bu.edu/sph/files/2019/03/Universal-Background-Checks-400x241.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Sales Are Surging, But Background Checks Aren't Keeping Up ...">
+                                <img itemprop="contentUrl url" src='https://fivethirtyeight.com/wp-content/uploads/2020/07/eaton.GUN-SALES.0730.png' alt='Gun Sales Are Surging, But Background Checks Aren't Keeping Up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="538 — Election Polls, Politics, and Analysis - ABC News" />
+                                </span>
+                                <a href='https://fivethirtyeight.com/wp-content/uploads/2020/07/eaton.GUN-SALES.0730.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can background checks curb gun violence? - ABC News">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/US/backgroundcheck-show-gty-ps-211025_1635187316211_hpEmbed_3x2_992.jpg' alt='Can background checks curb gun violence? - ABC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/US/backgroundcheck-show-gty-ps-211025_1635187316211_hpEmbed_3x2_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Require Background Checks for All Gun Sales - Center for American ...">
+                                <img itemprop="contentUrl url" src='https://www.americanprogress.org/wp-content/uploads/sites/2/2018/03/BackgroundChecksFactSheet.jpg?w=1040' alt='Require Background Checks for All Gun Sales - Center for American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Center for American Progress" />
+                                </span>
+                                <a href='https://www.americanprogress.org/wp-content/uploads/sites/2/2018/03/BackgroundChecksFactSheet.jpg?w=1040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Control: DOJ Can Further Improve Guidance on Federal Firearm ...">
+                                <img itemprop="contentUrl url" src='https://www.gao.gov/assets/extracts/8d1c887763d4a2dd396ca011ea71e281/rId14_image2.png' alt='Gun Control: DOJ Can Further Improve Guidance on Federal Firearm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Government Accountability Office" />
+                                </span>
+                                <a href='https://www.gao.gov/assets/extracts/8d1c887763d4a2dd396ca011ea71e281/rId14_image2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Voters Are Nearly United in Support for Expanded Background Checks">
+                                <img itemprop="contentUrl url" src='https://pro-assets.morningconsult.com/wp-uploads/2021/03/09123653/210309_Background-Checks-Polling_FULLWIDTH.png' alt='Voters Are Nearly United in Support for Expanded Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morning Consult Pro" />
+                                </span>
+                                <a href='https://pro-assets.morningconsult.com/wp-uploads/2021/03/09123653/210309_Background-Checks-Polling_FULLWIDTH.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How effective are background checks for U.S. gun ownership?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aFsocsCuZ1I/maxresdefault.jpg' alt='How effective are background checks for U.S. gun ownership?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aFsocsCuZ1I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Green March: A Symbol of Peaceful Protest and National Unity</title>
+                    <meta name="description" content="Discover the significance of the Green March, a pivotal event in Morocco's history. Learn how this peaceful protest shaped national identity and territorial claims in Western Sahara. Explore its lasting impact on regional dynamics and the spirit of unity it fostered among Moroccans.">
+                    <meta name="keywords" content="green march background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-march-background">
+                            <span itemprop="name">green march background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green March: A Symbol of Peaceful Protest and National Unity</h1>
+                <p>The Green March refers to the mass demonstration that took place in 1975, where thousands of Moroccans marched into Western Sahara to claim the territory. This historical event symbolizes national unity and peaceful protest. It played a significant role in the struggle for liberation and the assertion of Moroccan sovereignty, influencing regional politics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Background Images – Browse 1,060,231 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/18/36/44/360_F_418364467_zlEbvXKAwY5chSWe9u8MzFQIzJZVEqe4.jpg' alt='March Background Images – Browse 1,060,231 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/18/36/44/360_F_418364467_zlEbvXKAwY5chSWe9u8MzFQIzJZVEqe4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Background Images – Browse 1,060,231 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/26/08/89/360_F_326088934_95LA7kuhrPIR3v69bMesrx8DeQNsop8o.jpg' alt='March Background Images – Browse 1,060,231 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/26/08/89/360_F_326088934_95LA7kuhrPIR3v69bMesrx8DeQNsop8o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="888,822 March Green Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/fourleaf-clovers-grass-against-blurred-260nw-241365784.jpg' alt='888,822 March Green Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/fourleaf-clovers-grass-against-blurred-260nw-241365784.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,700+ March Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1463280042/vector/vector-seamless-clover-background-illustration-for-st-patricks-day.jpg?s=612x612&w=0&k=20&c=fWUTCiqUTO7SvGna5hkr21875-CiEgdt0C2-VuG3D50=' alt='97,700+ March Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1463280042/vector/vector-seamless-clover-background-illustration-for-st-patricks-day.jpg?s=612x612&w=0&k=20&c=fWUTCiqUTO7SvGna5hkr21875-CiEgdt0C2-VuG3D50=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,700+ March Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/926023350/vector/st-patricks-glowing-abstract-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=43sNnlfsvbmXOaNYKOpWNb-zdBG__0JnkrTWKPpqUXc=' alt='97,700+ March Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/926023350/vector/st-patricks-glowing-abstract-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=43sNnlfsvbmXOaNYKOpWNb-zdBG__0JnkrTWKPpqUXc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,679 March Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1451080565/vector/four-leafed-clover-shamrock-st-patricks-day-textured-green-background.jpg?s=612x612&w=gi&k=20&c=g1I5xUOkTegejLNZkJZicdyGMTLbaydzDTtOzN_7unQ=' alt='4,679 March Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1451080565/vector/four-leafed-clover-shamrock-st-patricks-day-textured-green-background.jpg?s=612x612&w=gi&k=20&c=g1I5xUOkTegejLNZkJZicdyGMTLbaydzDTtOzN_7unQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/c4/a8/33c4a89b065c08eafe70bacaceba9bf8.jpg' alt='March Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/c4/a8/33c4a89b065c08eafe70bacaceba9bf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green March Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220705/pngtree-green-march-leaf-in-black-canvass-image_1416670.png' alt='Green March Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220705/pngtree-green-march-leaf-in-black-canvass-image_1416670.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Background Images – Browse 1,060,231 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/48/39/27/360_F_648392769_gb8hW6fUKinU0rvus66wFjzcbKKYsUo6.jpg' alt='March Background Images – Browse 1,060,231 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/48/39/27/360_F_648392769_gb8hW6fUKinU0rvus66wFjzcbKKYsUo6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,679 March Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1780258832/vector/st-patricks-day-shamrock-green-frame-background.jpg?s=612x612&w=gi&k=20&c=Uk3n3uzyFwCS12iisnNN-7DEwpPlM-d5pDFlpEl-NxI=' alt='4,679 March Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1780258832/vector/st-patricks-day-shamrock-green-frame-background.jpg?s=612x612&w=gi&k=20&c=Uk3n3uzyFwCS12iisnNN-7DEwpPlM-d5pDFlpEl-NxI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

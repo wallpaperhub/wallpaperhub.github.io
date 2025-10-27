@@ -1,0 +1,129 @@
+<title>Stunning 4K Green Wallpapers for Every Device</title>
+                    <meta name="description" content="Explore an exquisite collection of 4K green wallpapers that captivate and inspire. Perfect for enhancing your desktop or mobile background, our vibrant imagery showcases nature's beauty in stunning detail. Download now and immerse yourself in a world of refreshing greens!">
+                    <meta name="keywords" content="4k wallpaper green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-wallpaper-green">
+                            <span itemprop="name">4k wallpaper green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Green Wallpapers for Every Device</h1>
+                <p>Transform your digital space with stunning 4K wallpapers featuring vibrant shades of green. From lush forests to serene landscapes, these images bring nature's beauty right to your screen. Perfect for any device, our collection ensures clarity and vibrancy, making your wallpaper more than just a background, but an experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surface Pro 9 Wallpaper 4K, Pastel green, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/surface-pro-9-stock-green-abstract-green-background-2880x1800-9062.png' alt='Surface Pro 9 Wallpaper 4K, Pastel green, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/surface-pro-9-stock-green-abstract-green-background-2880x1800-9062.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Photos, Download The BEST Free Green Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?cs=srgb&dl=pexels-oleksandr-tiupa-53788-192136.jpg&fm=jpg' alt='Green Photos, Download The BEST Free Green Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?cs=srgb&dl=pexels-oleksandr-tiupa-53788-192136.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080xe6e7"a="b"r5154 Resolution Windows 11 4k Green Glow ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/windows-11-4k-green-glow_bW5qbW2UmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='1920x1080xe6e7"a="b"r5154 Resolution Windows 11 4k Green Glow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/windows-11-4k-green-glow_bW5qbW2UmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green 4k Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-background-with-flowing-lines_1048-11164.jpg' alt='Green 4k Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-background-with-flowing-lines_1048-11164.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Green background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-bloom-collection-green-background-green-abstract-1280x1280-8989.png' alt='Windows 11 Wallpaper 4K, Green background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-bloom-collection-green-background-green-abstract-1280x1280-8989.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/122429/leaf-nature-green-spring-122429.jpeg?cs=srgb&dl=pexels-pixabay-122429.jpg&fm=jpg' alt='Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4912">
+                                <meta itemprop="height" content="2333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/122429/leaf-nature-green-spring-122429.jpeg?cs=srgb&dl=pexels-pixabay-122429.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad Green Abstract 4K Wallpaper - Download Free 4K Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/ipad-green-abstract-4k-wallpaper/?download-img=4k' alt='iPad Green Abstract 4K Wallpaper - Download Free 4K Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/ipad-green-abstract-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85284.jpg' alt='Green Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Green Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-green-decaying-skull-fnfjf4hiezw226t5.jpg' alt='100+] 4k Green Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-green-decaying-skull-fnfjf4hiezw226t5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Background 4k Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/855/259/non_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg' alt='Nature Background 4k Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/855/259/non_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kawaii Space Wallpaper: Adorable Cosmic Decor for Your Room</title>
+                    <meta name="description" content="Explore the cutest kawaii space wallpaper designs! Perfect for adding a playful touch to any room, these wallpapers feature delightful cosmic themes and charming colors. Ideal for kids' spaces or anyone wanting a whimsical aesthetic. Transform your walls with kawaii charm!">
+                    <meta name="keywords" content="kawaii space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/kawaii-space-wallpaper">
+                            <span itemprop="name">kawaii space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Space Wallpaper: Adorable Cosmic Decor for Your Room</h1>
+                <p>Transform your space with kawaii space wallpaper! This charming decor combines adorable characters and cosmic themes, creating a vibrant atmosphere in any room. Perfect for kids and playful adults alike, these wallpapers feature pastel colors, cute planets, and whimsical stars, bringing joy and creativity to your living area.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Space Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/530/157/non_2x/planets-and-distant-stars-in-undiscovered-galaxy-3d-rendering-image-space-research-abstract-scene-background-wallpaper-colorful-realistic-scientific-exploration-concept-idea-photo.jpg' alt='Kawaii Space Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/530/157/non_2x/planets-and-distant-stars-in-undiscovered-galaxy-3d-rendering-image-space-research-abstract-scene-background-wallpaper-colorful-realistic-scientific-exploration-concept-idea-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Kawaii space ideas | kawaii drawings, cute drawings, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/43/44/7e/43447e99f740b01c6aab2522d14eef08.jpg' alt='69 Kawaii space ideas | kawaii drawings, cute drawings, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/43/44/7e/43447e99f740b01c6aab2522d14eef08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Planets Wallpaper Pastel Space Wallpaper Lofi Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/11db37/6047325430/il_fullxfull.6047325430_mtjw.jpg' alt='Cute Planets Wallpaper Pastel Space Wallpaper Lofi Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/11db37/6047325430/il_fullxfull.6047325430_mtjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Galaxy Bear       ideas | iphone wallpaper kawaii, cute galaxy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/4e/10/b34e10f8efb0379330acab46c376be6d.jpg' alt='10 Galaxy Bear       ideas | iphone wallpaper kawaii, cute galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/4e/10/b34e10f8efb0379330acab46c376be6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Wonders Of Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-wonders-of-space-e1bnsiun468n8jxs.jpg' alt='Explore The Wonders Of Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-wonders-of-space-e1bnsiun468n8jxs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Space Planets Wallpaper Saturn Wallpaper Lofi Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42410412/r/il/c8997e/5870276735/il_570xN.5870276735_63km.jpg' alt='Dark Space Planets Wallpaper Saturn Wallpaper Lofi Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42410412/r/il/c8997e/5870276735/il_570xN.5870276735_63km.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Purple Bear Astronaut Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kawaii-purple-bear-astronaut-e1lpyln0ixm7gi1a.jpg' alt='Kawaii Purple Bear Astronaut Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kawaii-purple-bear-astronaut-e1lpyln0ixm7gi1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute kawaii galaxy space seamless pattern for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-kawaii-galaxy-space-seamless-pattern-baby-pattern-wallpaper_513640-1803.jpg' alt='Premium Vector | Cute kawaii galaxy space seamless pattern for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-kawaii-galaxy-space-seamless-pattern-baby-pattern-wallpaper_513640-1803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Journey Through Kawaii Space Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-space-1080-x-2220-wallpaper-ypanpotslpgjja5x.jpg' alt='Download Journey Through Kawaii Space Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-space-1080-x-2220-wallpaper-ypanpotslpgjja5x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Space by MissJediflip on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da4fc023-ade7-42a5-9453-f61e47cfecb8/d635o1n-c4864dc8-480f-4dc6-a0e4-87f6670a3b6e.jpg/v1/fill/w_900,h_1061,q_75,strp/kawaii_space_by_missjediflip_d635o1n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2MSIsInBhdGgiOiJcL2ZcL2RhNGZjMDIzLWFkZTctNDJhNS05NDUzLWY2MWU0N2NmZWNiOFwvZDYzNW8xbi1jNDg2NGRjOC00ODBmLTRkYzYtYTBlNC04N2Y2NjcwYTNiNmUuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GJfWYOQdgyvPNfVR8tr-8PuPpFkSfbURM_tQBgDXBG4' alt='Kawaii Space by MissJediflip on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da4fc023-ade7-42a5-9453-f61e47cfecb8/d635o1n-c4864dc8-480f-4dc6-a0e4-87f6670a3b6e.jpg/v1/fill/w_900,h_1061,q_75,strp/kawaii_space_by_missjediflip_d635o1n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2MSIsInBhdGgiOiJcL2ZcL2RhNGZjMDIzLWFkZTctNDJhNS05NDUzLWY2MWU0N2NmZWNiOFwvZDYzNW8xbi1jNDg2NGRjOC00ODBmLTRkYzYtYTBlNC04N2Y2NjcwYTNiNmUuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GJfWYOQdgyvPNfVR8tr-8PuPpFkSfbURM_tQBgDXBG4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

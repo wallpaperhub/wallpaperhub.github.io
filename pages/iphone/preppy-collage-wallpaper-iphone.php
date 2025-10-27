@@ -1,0 +1,129 @@
+<title>Trendy Preppy Collage Wallpaper for iPhone</title>
+                    <meta name="description" content="Elevate your iPhone aesthetic with preppy collage wallpaper! Explore vibrant patterns and playful designs that reflect your personality. Perfect for making your device uniquely yours, these wallpapers offer a stylish and nostalgic touch that stands out. Upgrade your phone's look today!">
+                    <meta name="keywords" content="preppy collage wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/preppy-collage-wallpaper-iphone">
+                            <span itemprop="name">preppy collage wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Preppy Collage Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with trendy preppy collage wallpaper that reflects your unique style! These vibrant designs combine classic patterns, playful prints, and nostalgic vibes to create a fun and personalized backdrop for your device. Stand out from the crowd and express yourself with a whimsical touch on your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="98 Preppy wallpaper iphone collage ideas | preppy wallpaper, wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8d/89/6a/8d896a6dd174f40dfdfde20a646b1ca4.jpg' alt='98 Preppy wallpaper iphone collage ideas | preppy wallpaper, wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8d/89/6a/8d896a6dd174f40dfdfde20a646b1ca4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/13/7b/a7137ba754d912718f9d5df1d5c6ec99.jpg' alt='Preppy iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/13/7b/a7137ba754d912718f9d5df1d5c6ec99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/c5/8f/6ec58f6cba69210ac5f397dbc4deba17.jpg' alt='Preppy iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/c5/8f/6ec58f6cba69210ac5f397dbc4deba17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5390529675.1662/flat,750x1000,075,t.jpg' alt='Preppy wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5390529675.1662/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy collage⚡️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/94/6b/d1946b5573de885f1f3baa2864ad860d.jpg' alt='Preppy collage⚡️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/94/6b/d1946b5573de885f1f3baa2864ad860d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Aesthetic Collage Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-aesthetic-collage-wallpaper-m9frkrphk07rdp8h.jpg' alt='Download Preppy Aesthetic Collage Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-aesthetic-collage-wallpaper-m9frkrphk07rdp8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Iphone Collage HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-8_63860522934505.5.jpg' alt='Preppy Iphone Collage HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-8_63860522934505.5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 PREPPY WALLPAPERS        ideas | preppy wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/54/23/ae54236b8683ff9776dd679ef71ef066.jpg' alt='13 PREPPY WALLPAPERS        ideas | preppy wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/54/23/ae54236b8683ff9776dd679ef71ef066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy phone wallpaper ⋆ made by me!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/02/e1/3a02e125f3480eb773d657027a3277e1.jpg' alt='preppy phone wallpaper ⋆ made by me!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/02/e1/3a02e125f3480eb773d657027a3277e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="125 Preppy Photo Collage Kit digital Download - Etsy Sweden">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26685079/r/il/9170a4/3245377410/il_fullxfull.3245377410_sybo.jpg' alt='125 Preppy Photo Collage Kit digital Download - Etsy Sweden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26685079/r/il/9170a4/3245377410/il_fullxfull.3245377410_sybo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

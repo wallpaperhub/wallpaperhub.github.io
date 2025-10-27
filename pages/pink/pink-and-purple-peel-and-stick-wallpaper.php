@@ -1,0 +1,129 @@
+<title>Vibrant Pink & Purple Peel and Stick Wallpaper for Home Decor</title>
+                    <meta name="description" content="Discover our stunning collection of pink and purple peel and stick wallpaper. Perfect for any room, these vibrant designs are easy to apply and remove, making them ideal for renters and DIY enthusiasts. Elevate your decor effortlessly with our stylish patterns and colors.">
+                    <meta name="keywords" content="pink and purple peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-purple-peel-and-stick-wallpaper">
+                            <span itemprop="name">pink and purple peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink & Purple Peel and Stick Wallpaper for Home Decor</h1>
+                <p>Transform your space with vibrant pink and purple peel and stick wallpaper! Ideal for accent walls or DIY projects, this easy-to-install wallpaper adds a splash of color and personality to any room. Whether you’re decorating a nursery, bedroom, or living space, our trendy designs will inspire creativity and elevate your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Whimsy Floral Watercolor Pink Purple, Wall Mural - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8056797/r/il/6c94bf/2336254418/il_570xN.2336254418_uset.jpg' alt='Wallpaper Whimsy Floral Watercolor Pink Purple, Wall Mural - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8056797/r/il/6c94bf/2336254418/il_570xN.2336254418_uset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink, Purple and Orange Ikat Design Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-pink-purple-and-orange-ikat-design-peel-stick-wallpaper-playa-flamingo-6567560708196.jpg?v=1619661910' alt='Pink, Purple and Orange Ikat Design Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-pink-purple-and-orange-ikat-design-peel-stick-wallpaper-playa-flamingo-6567560708196.jpg?v=1619661910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Purple Marble Texture Alcohol Ink  Water neon Pink Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71aqHwpXx3L.jpg' alt='Amazon.com: Peel and Stick Wallpaper Purple Marble Texture Alcohol Ink  Water neon Pink Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71aqHwpXx3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Purple Striped Wallpaper, Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14468347/r/il/79d792/3015155992/il_570xN.3015155992_k91a.jpg' alt='Pink & Purple Striped Wallpaper, Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14468347/r/il/79d792/3015155992/il_570xN.3015155992_k91a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Tropical Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Mural 2351">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3299522051_k7gh_78e9ac53-9de7-4290-a3f7-1259c16f9894.jpg' alt='Purple Tropical Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Mural 2351'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3299522051_k7gh_78e9ac53-9de7-4290-a3f7-1259c16f9894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Alcohol Ink Art Marble Wallpaper, Lush Pink Peel ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/009_Angle_Interior_Scene-11-scaled.jpg' alt='Pink Purple Alcohol Ink Art Marble Wallpaper, Lush Pink Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/009_Angle_Interior_Scene-11-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Pink Tigers Purple Orange Maximalist Xl  Jungle Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6917816447598515104.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Pink Tigers Purple Orange Maximalist Xl  Jungle Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6917816447598515104.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco's Peel and Stick Wallpaper Border - Abstract Pink Purple  Flowers in Squares Wall Border Retro Design, 15 ft x 7 in, Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Abstract-Pink-Purple-Flowers-in-Squares-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_36458121-386a-41b2-b97e-e449aab6334e.058b27071a3a89eacd03c22eadbbaa0f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Dundee Deco's Peel and Stick Wallpaper Border - Abstract Pink Purple  Flowers in Squares Wall Border Retro Design, 15 ft x 7 in, Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Abstract-Pink-Purple-Flowers-in-Squares-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_36458121-386a-41b2-b97e-e449aab6334e.058b27071a3a89eacd03c22eadbbaa0f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UYS69Z5PG Peel and Stick Wallpaper Beautiful Sunset Sky Clouds Pink Purple  sea Water Canvas Wallpaper Self Adhesive Wall Decals Removable Wall Mural  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MGR02xyuL.jpg' alt='UYS69Z5PG Peel and Stick Wallpaper Beautiful Sunset Sky Clouds Pink Purple  sea Water Canvas Wallpaper Self Adhesive Wall Decals Removable Wall Mural  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MGR02xyuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

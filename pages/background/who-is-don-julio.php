@@ -1,0 +1,129 @@
+<title>Discover Don Julio: The Legacy of Premium Tequila</title>
+                    <meta name="description" content="Explore the world of Don Julio, a premium tequila brand known for its exceptional quality and rich heritage. Learn about its founder, Don Julio González, and the meticulous process that makes this tequila a favorite among enthusiasts and connoisseurs alike. Perfect for any occasion, Don Julio is synonymous with luxury.">
+                    <meta name="keywords" content="who is don julio">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-is-don-julio">
+                            <span itemprop="name">who is don julio</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Don Julio: The Legacy of Premium Tequila</h1>
+                <p>Don Julio is a renowned Mexican tequila brand established by Don Julio González in 1942. Known for its premium quality, Don Julio offers a range of tequilas made from the finest blue agave. The brand is celebrated for its craftsmanship, rich flavor profiles, and has become a symbol of luxury in the spirits industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8d/Don_Julio_2014.jpg' alt='Don Julio - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2431">
+                                <meta itemprop="height" content="3251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8d/Don_Julio_2014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Story of Don Julio Gonzalez's Tequila - Supercall - Thrillist">
+                                <img itemprop="contentUrl url" src='https://assets3.thrillist.com/v1/image/1909620/414x310/crop;webp=auto;jpeg_quality=60;progressive.jpg' alt='True Story of Don Julio Gonzalez's Tequila - Supercall - Thrillist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thrillist" />
+                                </span>
+                                <a href='https://assets3.thrillist.com/v1/image/1909620/414x310/crop;webp=auto;jpeg_quality=60;progressive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio Blanco Tequila - 1.75 Liter - starmarket">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/970006238-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' alt='Don Julio Blanco Tequila - 1.75 Liter - starmarket'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Star Market" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/970006238-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio Reposado Tequila (375 ml) — Keg N Bottle">
+                                <img itemprop="contentUrl url" src='https://kegnbottle.com/cdn/shop/products/product-reposado_98926c41-7622-472c-9af1-867b3e1a6868_1024x1024.png?v=1667515177' alt='Don Julio Reposado Tequila (375 ml) — Keg N Bottle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keg N Bottle" />
+                                </span>
+                                <a href='https://kegnbottle.com/cdn/shop/products/product-reposado_98926c41-7622-472c-9af1-867b3e1a6868_1024x1024.png?v=1667515177' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio 1942 Añejo Tequila: A Tribute to Craftsmanship and Legacy">
+                                <img itemprop="contentUrl url" src='http://cwspirits.com/cdn/shop/files/DonJulio1942088076189355FRONT375ml17420265.jpg?v=1730733942' alt='Don Julio 1942 Añejo Tequila: A Tribute to Craftsmanship and Legacy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CWSpirits" />
+                                </span>
+                                <a href='http://cwspirits.com/cdn/shop/files/DonJulio1942088076189355FRONT375ml17420265.jpg?v=1730733942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio '1942' Tequila 750ml :: Tequila">
+                                <img itemprop="contentUrl url" src='https://empirewine.imgix.net/item-hqid/5890.jpg?auto=format,compress&fit=max&fill-color=FFFFFF&pad=20&h=600&w=600' alt='Don Julio '1942' Tequila 750ml :: Tequila'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Empire Wine" />
+                                </span>
+                                <a href='https://empirewine.imgix.net/item-hqid/5890.jpg?auto=format,compress&fit=max&fill-color=FFFFFF&pad=20&h=600&w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio Blanco Tequila NV 1.75 L.">
+                                <img itemprop="contentUrl url" src='https://www.winetransit.com/media/catalog/product/cache/f8d2cb12a17084a7445beefcce31e97a/d/o/don_julio_blanco_22nv_175.jpg' alt='Don Julio Blanco Tequila NV 1.75 L.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wine Transit" />
+                                </span>
+                                <a href='https://www.winetransit.com/media/catalog/product/cache/f8d2cb12a17084a7445beefcce31e97a/d/o/don_julio_blanco_22nv_175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio 1942 Tequila | Order Online | Curiada">
+                                <img itemprop="contentUrl url" src='https://curiada.com/cdn/shop/files/DonJulio1942Transp.png?v=1701255167' alt='Don Julio 1942 Tequila | Order Online | Curiada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Curiada" />
+                                </span>
+                                <a href='https://curiada.com/cdn/shop/files/DonJulio1942Transp.png?v=1701255167' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio Reposado Tequila - 750 Ml - vons">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/970023121-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' alt='Don Julio Reposado Tequila - 750 Ml - vons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vons" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/970023121-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Julio">
+                                <img itemprop="contentUrl url" src='https://media.diageocms.com/media/pozb2kp1/spirits-beer-and-drinks_our-brands_tequila_don-julio-listing.png' alt='Don Julio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diageo Bar Academy" />
+                                </span>
+                                <a href='https://media.diageocms.com/media/pozb2kp1/spirits-beer-and-drinks_our-brands_tequila_don-julio-listing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

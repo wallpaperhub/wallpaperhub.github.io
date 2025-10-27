@@ -1,0 +1,129 @@
+<title>Stunning Ken Kaneki Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Ken Kaneki wallpapers for your phone. Elevate your device's look with dynamic images of Tokyo Ghoul's iconic character. Perfect for fans looking to personalize their mobile experience with striking visuals and compelling designs. Download now and showcase your love for Kaneki!">
+                    <meta name="keywords" content="ken kaneki wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/ken-kaneki-wallpaper-phone">
+                            <span itemprop="name">ken kaneki wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ken Kaneki Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with stunning Ken Kaneki wallpapers! From his iconic black and white design to striking action scenes, these wallpapers capture the essence of Tokyo Ghoul's beloved protagonist. Elevate your device by showcasing dynamic visuals that represent Kaneki's journey. Perfect for fans!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Ken Kaneki wallpaper that I made some time ago :D : r/TokyoGhoul">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n61ld77k1au51.png' alt='A Ken Kaneki wallpaper that I made some time ago :D : r/TokyoGhoul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n61ld77k1au51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kaneki Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kaneki-phone-fm39mju25v7tak7b.jpg' alt='100+] Kaneki Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kaneki-phone-fm39mju25v7tak7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaneki wallpaper 2025 phone">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/337/944/HD-wallpaper-tokyo-ghoul-black-ghoul-kaneki-tokio-ghoul-white.jpg' alt='Kaneki wallpaper 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/337/944/HD-wallpaper-tokyo-ghoul-black-ghoul-kaneki-tokio-ghoul-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo Ghoul (Ken Kaneki) Wallpaper Phone by Soristhene on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b143c53-b20a-498e-b50b-ae6876f08442/ddxwziv-82efca8d-3c1d-4f0b-ad9a-e596113e26e6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiMTQzYzUzLWIyMGEtNDk4ZS1iNTBiLWFlNjg3NmYwODQ0MlwvZGR4d3ppdi04MmVmY2E4ZC0zYzFkLTRmMGItYWQ5YS1lNTk2MTEzZTI2ZTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CkpgwW8JnGOWxlScSG--SVwjfOskwvH4ppfQq624vGg' alt='Tokyo Ghoul (Ken Kaneki) Wallpaper Phone by Soristhene on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b143c53-b20a-498e-b50b-ae6876f08442/ddxwziv-82efca8d-3c1d-4f0b-ad9a-e596113e26e6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiMTQzYzUzLWIyMGEtNDk4ZS1iNTBiLWFlNjg3NmYwODQ0MlwvZGR4d3ppdi04MmVmY2E4ZC0zYzFkLTRmMGItYWQ5YS1lNTk2MTEzZTI2ZTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CkpgwW8JnGOWxlScSG--SVwjfOskwvH4ppfQq624vGg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaneki phone wallpaper by me : r/TokyoGhoul">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y4otxr5ph27a1.jpg' alt='Kaneki phone wallpaper by me : r/TokyoGhoul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="2232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y4otxr5ph27a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Kaneki Tattoo Reference ideas | kaneki, tokyo ghoul wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e1/6e/4b/e16e4bdf1c9ee17f1d268b567451d755.png' alt='8 Kaneki Tattoo Reference ideas | kaneki, tokyo ghoul wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e1/6e/4b/e16e4bdf1c9ee17f1d268b567451d755.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preview Wallpaper Tokyo Ghoul, Kaneki Ken, Man, Mask, - Kaneki ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/85/89/848589a89ee7f6dcb54249202ee43d27.jpg' alt='Preview Wallpaper Tokyo Ghoul, Kaneki Ken, Man, Mask, - Kaneki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/85/89/848589a89ee7f6dcb54249202ee43d27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaneki phone wallpaper. Using Photoshop and free google images ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9afux0p95ot51.jpg?width=640&crop=smart&auto=webp&s=3e5e74b1035ea39675038acc84ac96c33f91cd53' alt='Kaneki phone wallpaper. Using Photoshop and free google images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9afux0p95ot51.jpg?width=640&crop=smart&auto=webp&s=3e5e74b1035ea39675038acc84ac96c33f91cd53' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghoul Ken Kaneki Tokyo Ghoul Iphone Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/ken-with-wings-tokyo-ghoul-iphone-background-9y0n73j4yvo0vjuk.webp' alt='Ghoul Ken Kaneki Tokyo Ghoul Iphone Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/ken-with-wings-tokyo-ghoul-iphone-background-9y0n73j4yvo0vjuk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaneki ken, anime, depression, ken kaneki, sad, tokyo ghoul, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/128/907/HD-wallpaper-kaneki-ken-anime-depression-quotes-sad-tokyo-ghoul.jpg' alt='Kaneki ken, anime, depression, ken kaneki, sad, tokyo ghoul, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/128/907/HD-wallpaper-kaneki-ken-anime-depression-quotes-sad-tokyo-ghoul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

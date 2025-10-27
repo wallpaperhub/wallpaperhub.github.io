@@ -1,0 +1,129 @@
+<title>Beautiful Skies: A Colorful Journey of Nature</title>
+                    <meta name="description" content="Explore the enchanting beauty of the pretty sky, where vibrant colors dance at dawn and dusk. Discover the serenity and inspiration that nature's canvas offers, perfect for all who seek tranquility. Embrace the magic of stunning sunsets and sunrises that spark joy in every heart.">
+                    <meta name="keywords" content="pretty sky">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pretty-sky">
+                            <span itemprop="name">pretty sky</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Skies: A Colorful Journey of Nature</h1>
+                <p>As the sun dips below the horizon, the sky transforms into a breathtaking tapestry of colors. Hues of pink, orange, and purple merge seamlessly, creating a picturesque canvas that captivates all who gaze upon it. Whether at sunrise or sunset, the pretty sky inspires awe and reminds us of nature's incredible beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1548399124-42d0924b5d49?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJldHR5JTIwc2t5fGVufDB8fDB8fHww' alt='Pretty Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1548399124-42d0924b5d49?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJldHR5JTIwc2t5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Sky Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/605/943/non_2x/sky-with-a-beautiful-sunset-a-blue-and-orange-sky-with-soft-clouds-a-sky-background-photo.jpg' alt='Pretty Sky Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/605/943/non_2x/sky-with-a-beautiful-sunset-a-blue-and-orange-sky-with-soft-clouds-a-sky-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 Best pretty sky ideas | pretty sky, sky, sky aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f2/fd/42/f2fd42db1bd1584895ba54f9b6f6301b.jpg' alt='260 Best pretty sky ideas | pretty sky, sky, sky aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f2/fd/42/f2fd42db1bd1584895ba54f9b6f6301b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1668091148044-056cd744e64a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJldHR5JTIwc2t5fGVufDB8fDB8fHww' alt='Pretty Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1668091148044-056cd744e64a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJldHR5JTIwc2t5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sky In Pretty Colors - Katrine M">
+                                <img itemprop="contentUrl url" src='https://katrinem.com/wp-content/uploads/2018/10/IMG_6479.jpg' alt='The Sky In Pretty Colors - Katrine M'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katrine M -" />
+                                </span>
+                                <a href='https://katrinem.com/wp-content/uploads/2018/10/IMG_6479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="670 Pretty skies✨ ideas | pretty sky, sky, sky aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/36/48/ce/3648ce6c036779ccb60da98aa03be352.jpg' alt='670 Pretty skies✨ ideas | pretty sky, sky, sky aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/36/48/ce/3648ce6c036779ccb60da98aa03be352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My co-worker said “The sky looks really pretty right now and I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5mqk1281ekjb1.jpg' alt='My co-worker said “The sky looks really pretty right now and I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5mqk1281ekjb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,947,100+ Pretty Sky Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/697120006/photo/amazing-cloudscape-on-the-sky.jpg?s=612x612&w=0&k=20&c=6GK5lZu6xbOpVBNw4tnyoMiu_O8JrD6Et1-TM2b6dqg=' alt='11,947,100+ Pretty Sky Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/697120006/photo/amazing-cloudscape-on-the-sky.jpg?s=612x612&w=0&k=20&c=6GK5lZu6xbOpVBNw4tnyoMiu_O8JrD6Et1-TM2b6dqg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some pretty sky pics I've gotten over time. : r/doordash_drivers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-pretty-sky-pics-ive-gotten-over-time-v0-7c6xnx7izaf81.jpg?width=3120&format=pjpg&auto=webp&s=7f3fb614b2fde9fa54282c6e873a82cb90f96991' alt='Some pretty sky pics I've gotten over time. : r/doordash_drivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3120">
+                                <meta itemprop="height" content="4160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-pretty-sky-pics-ive-gotten-over-time-v0-7c6xnx7izaf81.jpg?width=3120&format=pjpg&auto=webp&s=7f3fb614b2fde9fa54282c6e873a82cb90f96991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fbf Pretty Sky – Life According to Jamie">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lifeaccordingtojamie.com/wp-content/uploads/2020/09/Blue-Pink-Sky-edited.jpg?resize=1140%2C1520&ssl=1' alt='fbf Pretty Sky – Life According to Jamie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life According to Jamie" />
+                                </span>
+                                <a href='https://i0.wp.com/lifeaccordingtojamie.com/wp-content/uploads/2020/09/Blue-Pink-Sky-edited.jpg?resize=1140%2C1520&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dog-Themed Backgrounds: Celebrate Your Love for Canine Companions</title>
+                    <meta name="description" content="Discover charming dog-themed backgrounds that brighten your space! Perfect for home décor, social media, or crafting, these designs showcase the joy of dogs. Explore a variety of styles that reflect your love for canine companions today!">
+                    <meta name="keywords" content="dog themed background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dog-themed-background">
+                            <span itemprop="name">dog themed background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dog-Themed Backgrounds: Celebrate Your Love for Canine Companions</h1>
+                <p>Transform your space with a dog-themed background, perfect for pet lovers! From playful patterns featuring various breeds to calming scenic designs showcasing man's best friend, these backgrounds celebrate the joy of dogs. Ideal for wallpapers, social media, or crafting, they bring warmth and personality to any environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/023/595/non_2x/pet-footprints-horizontal-seamless-pattern-animal-print-gold-prints-of-tracks-of-a-cat-dog-on-a-black-background-pet-paw-print-silhouettes-cute-texture-vector.jpg' alt='Dog Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/023/595/non_2x/pet-footprints-horizontal-seamless-pattern-animal-print-gold-prints-of-tracks-of-a-cat-dog-on-a-black-background-pet-paw-print-silhouettes-cute-texture-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/frame-with-dogs-vector-white-background_53876-127700.jpg' alt='Dog Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/frame-with-dogs-vector-white-background_53876-127700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="74,500+ Dog Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1388281684/vector/seamless-dog-pattern-with-paw-prints-bones-hearts-and-balls-cat-foot-texture-pattern-with.jpg?s=612x612&w=0&k=20&c=St1dISSnU7zobbE4y1VWD7hhEnWcUGriSVZ5ocoSYWU=' alt='74,500+ Dog Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1388281684/vector/seamless-dog-pattern-with-paw-prints-bones-hearts-and-balls-cat-foot-texture-pattern-with.jpg?s=612x612&w=0&k=20&c=St1dISSnU7zobbE4y1VWD7hhEnWcUGriSVZ5ocoSYWU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playful Dog Themed Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/cute-pet-accessories-mural-wallpaper-room.jpg?v=1650356405' alt='Playful Dog Themed Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/cute-pet-accessories-mural-wallpaper-room.jpg?v=1650356405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable dog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFKY9-Frd0/1/0/900w/canva-purple-cute-dog%27s-paw-and-bone-seamless-phone-wallpaper-U_g_N0rsOTw.jpg' alt='Free and customizable dog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFKY9-Frd0/1/0/900w/canva-purple-cute-dog%27s-paw-and-bone-seamless-phone-wallpaper-U_g_N0rsOTw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/fancy-walls-traditional-puppy-wallpaper-683x1024.jpg' alt='Dog wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/fancy-walls-traditional-puppy-wallpaper-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Purple Background: Over 6,840 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/purple-paw-print-seamless-vector-600nw-1981659122.jpg' alt='Dog Purple Background: Over 6,840 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/purple-paw-print-seamless-vector-600nw-1981659122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/464/040/small_2x/dog_and_cat_pattern-11.jpg' alt='Dog Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/464/040/small_2x/dog_and_cat_pattern-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dog Happy Birthday Backdrop Print - Dog Themed Party Supplies,  Best Decorations for Photography Background and Wall Decor | Photo Booth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71VTdSCgySL.jpg' alt='Amazon.com: Dog Happy Birthday Backdrop Print - Dog Themed Party Supplies,  Best Decorations for Photography Background and Wall Decor | Photo Booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71VTdSCgySL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,554 Dog Background High Res Illustrations - Getty Images | Hot ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1909885859/vector/pets-cat-and-dog-seamless-animal-paw-print-theme-background.jpg?s=612x612&w=gi&k=20&c=-z4CFNkgkVkJ4ViotseHIklP-Fb0OqE8gDGLYAOvWLw=' alt='1,554 Dog Background High Res Illustrations - Getty Images | Hot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1909885859/vector/pets-cat-and-dog-seamless-animal-paw-print-theme-background.jpg?s=612x612&w=gi&k=20&c=-z4CFNkgkVkJ4ViotseHIklP-Fb0OqE8gDGLYAOvWLw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

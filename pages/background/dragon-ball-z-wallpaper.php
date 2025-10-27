@@ -1,0 +1,129 @@
+<title>Stunning Dragon Ball Z Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a wide range of Dragon Ball Z wallpapers! Download high-quality images featuring beloved characters and epic scenes to enhance your device’s look. Perfect for fans seeking vibrant designs that showcase the action-packed world of Dragon Ball Z!">
+                    <meta name="keywords" content="dragon ball z wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dragon-ball-z-wallpaper">
+                            <span itemprop="name">dragon ball z wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Ball Z Wallpapers for Your Device</h1>
+                <p>Looking for stunning Dragon Ball Z wallpaper? Our collection features vibrant, high-quality images that capture your favorite characters in action. Whether you like Goku, Vegeta, or the epic battles, find the perfect wallpaper to personalize your device. Download and bring the world of Dragon Ball Z to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/1tnFKQh-9QNSJ8iNMDd2qGSKK-mZm6J5plZzSDko1Cc.jpg?width=1080&crop=smart&auto=webp&s=01992db5baee946f4dcc1888ca98c40e8797ec83' alt='Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/1tnFKQh-9QNSJ8iNMDd2qGSKK-mZm6J5plZzSDko1Cc.jpg?width=1080&crop=smart&auto=webp&s=01992db5baee946f4dcc1888ca98c40e8797ec83' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/e/f/143566-3840x2160-desktop-4k-dragon-ball-z-wallpaper.jpg' alt='Dragon Ball Z Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/e/f/143566-3840x2160-desktop-4k-dragon-ball-z-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="drop your favorite dbz wallpaper. : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-qivhznby2pbd1.jpeg?width=3840&format=pjpg&auto=webp&s=fabd40845e0303a01752a002c1b217f2af845eac' alt='drop your favorite dbz wallpaper. : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-qivhznby2pbd1.jpeg?width=3840&format=pjpg&auto=webp&s=fabd40845e0303a01752a002c1b217f2af845eac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON BALL Z 2020 IPHONE WALLPAPER HD by Joshua121Penalba on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/446a20cc-3d9c-4cdf-8845-cee8c49b5076/de6t0co-dd2a4334-2396-49bc-8fb1-4679e22d670d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0NmEyMGNjLTNkOWMtNGNkZi04ODQ1LWNlZThjNDliNTA3NlwvZGU2dDBjby1kZDJhNDMzNC0yMzk2LTQ5YmMtOGZiMS00Njc5ZTIyZDY3MGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R_bLMbhMDV0aRxmGkZqWDcUZv-L4Dh5k_sQlxLbHOLo' alt='DRAGON BALL Z 2020 IPHONE WALLPAPER HD by Joshua121Penalba on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/446a20cc-3d9c-4cdf-8845-cee8c49b5076/de6t0co-dd2a4334-2396-49bc-8fb1-4679e22d670d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0NmEyMGNjLTNkOWMtNGNkZi04ODQ1LWNlZThjNDliNTA3NlwvZGU2dDBjby1kZDJhNDMzNC0yMzk2LTQ5YmMtOGZiMS00Njc5ZTIyZDY3MGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R_bLMbhMDV0aRxmGkZqWDcUZv-L4Dh5k_sQlxLbHOLo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Freeze Motion 4K Dragon Ball Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7266711646054223112&location=0&aid=1988' alt='Goku Freeze Motion 4K Dragon Ball Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7266711646054223112&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-z-7680x4320.jpg' alt='Dragon Ball Z Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-z-7680x4320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' alt='Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Dragon Ball Z Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-z-3izrb2kvqsbl3tun.jpg' alt='600+] Dragon Ball Z Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-z-3izrb2kvqsbl3tun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, Dragón Ball Z    wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCChdPFpJ30/1/image.jpg' alt='Goku, Dragón Ball Z    wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCChdPFpJ30/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Zee Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/dragon-ball-zee-chromebook-wallpaper.jpg' alt='Dragon Ball Zee Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/dragon-ball-zee-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

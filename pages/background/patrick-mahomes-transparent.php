@@ -1,0 +1,129 @@
+<title>Patrick Mahomes: Honesty in the NFL</title>
+                    <meta name="description" content="Explore the transparency of Patrick Mahomes, the NFL star known for his candidness. Discover how his openness about challenges and teamwork resonates with fans, making him a relatable figure on and off the field. Join us in understanding his impact and journey in professional football!">
+                    <meta name="keywords" content="patrick mahomes transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/patrick-mahomes-transparent">
+                            <span itemprop="name">patrick mahomes transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Patrick Mahomes: Honesty in the NFL</h1>
+                <p>Patrick Mahomes has become a transparent figure in the NFL, known for his candid personality both on and off the field. His openness about challenges, teamwork, and mental health resonates with fans. This transparency fosters connection and admiration, making him a relatable star in the sports world, beyond just his athletic prowess.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Patrick Mahomes transparent png render free. Kansas City ...">
+                                <img itemprop="contentUrl url" src='https://uniqrenders.com/Uploads/8-6-2023/2272/preview-patrick-mahomes-kansas-city-chiefs-nfl-usa-american-football-players-render.jpg' alt='Download Patrick Mahomes transparent png render free. Kansas City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uniqrenders.com" />
+                                </span>
+                                <a href='https://uniqrenders.com/Uploads/8-6-2023/2272/preview-patrick-mahomes-kansas-city-chiefs-nfl-usa-american-football-players-render.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes (Kansas City Chiefs) by NicoLopez2602 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7827b2c1-5dcb-455b-8653-0e324f8adb1c/dctrnw1-25c3f17a-351a-4668-b4c6-36de97ed9b45.png/v1/fill/w_1280,h_1662/patrick_mahomes__kansas_city_chiefs__by_nicolopez2602_dctrnw1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2MiIsInBhdGgiOiJcL2ZcLzc4MjdiMmMxLTVkY2ItNDU1Yi04NjUzLTBlMzI0ZjhhZGIxY1wvZGN0cm53MS0yNWMzZjE3YS0zNTFhLTQ2NjgtYjRjNi0zNmRlOTdlZDliNDUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.S_T0bQb3Y62Gni8S3CPlemoJhI7g89FLyaN4ev8Cg1E' alt='Patrick Mahomes (Kansas City Chiefs) by NicoLopez2602 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7827b2c1-5dcb-455b-8653-0e324f8adb1c/dctrnw1-25c3f17a-351a-4668-b4c6-36de97ed9b45.png/v1/fill/w_1280,h_1662/patrick_mahomes__kansas_city_chiefs__by_nicolopez2602_dctrnw1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2MiIsInBhdGgiOiJcL2ZcLzc4MjdiMmMxLTVkY2ItNDU1Yi04NjUzLTBlMzI0ZjhhZGIxY1wvZGN0cm53MS0yNWMzZjE3YS0zNTFhLTQ2NjgtYjRjNi0zNmRlOTdlZDliNDUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.S_T0bQb3Y62Gni8S3CPlemoJhI7g89FLyaN4ev8Cg1E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Patrick Mahomes transparent png render free. Kansas City ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1c/c9/79/1cc979a83dd3fa1d3245e380882da068.jpg' alt='Download Patrick Mahomes transparent png render free. Kansas City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1c/c9/79/1cc979a83dd3fa1d3245e380882da068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5211703819.3156/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Patrick Mahomes | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5211703819.3156/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Pat Mahomes Transparent Background PNG - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/pat-mahomes-transparent-background-png--comdlpng6943846.jpg' alt='Free: Pat Mahomes Transparent Background PNG - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/pat-mahomes-transparent-background-png--comdlpng6943846.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ringer's 2024 QB Rankings">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/nflranked-theringer-com-cms/public/media/ringernflranked/players/PatrickMahomes-1693861049332-medium.png' alt='The Ringer's 2024 QB Rankings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ringer's 2024 QB Rankings" />
+                                </span>
+                                <a href='https://storage.googleapis.com/nflranked-theringer-com-cms/public/media/ringernflranked/players/PatrickMahomes-1693861049332-medium.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes II - Digital Dreambook">
+                                <img itemprop="contentUrl url" src='https://www.thedigitaldreambook.com/wp-content/uploads/2199QXI7403-Patrick-Mahomes-II.jpg' alt='Patrick Mahomes II - Digital Dreambook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Dreambook" />
+                                </span>
+                                <a href='https://www.thedigitaldreambook.com/wp-content/uploads/2199QXI7403-Patrick-Mahomes-II.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pat Mahomes PNG High-Quality Image">
+                                <img itemprop="contentUrl url" src='https://www.pngarts.com/files/5/Pat-Mahomes-PNG-High-Quality-Image.png' alt='Pat Mahomes PNG High-Quality Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Png Pack" />
+                                </span>
+                                <a href='https://www.pngarts.com/files/5/Pat-Mahomes-PNG-High-Quality-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes Kansas City Chiefs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/11/99/921199ceb357bc092d470d4ef890d637.jpg' alt='Patrick Mahomes Kansas City Chiefs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/11/99/921199ceb357bc092d470d4ef890d637.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Patrick Mahomes transparent png render free. Kansas City ...">
+                                <img itemprop="contentUrl url" src='https://uniqrenders.com/Uploads/18-2-2025/7264/preview-patrick-mahomes-kansas-city-chiefs-nfl-usa-american-football-players-render.jpg' alt='Download Patrick Mahomes transparent png render free. Kansas City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uniqrenders.com" />
+                                </span>
+                                <a href='https://uniqrenders.com/Uploads/18-2-2025/7264/preview-patrick-mahomes-kansas-city-chiefs-nfl-usa-american-football-players-render.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

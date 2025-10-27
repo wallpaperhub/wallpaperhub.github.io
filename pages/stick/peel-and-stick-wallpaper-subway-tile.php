@@ -1,0 +1,129 @@
+<title>Peel and Stick Subway Tile Wallpaper: Easy Decor Upgrade</title>
+                    <meta name="description" content="Revamp your home with peel and stick subway tile wallpaper—a quick and stylish solution for any room. Easy to apply and remove, this wallpaper offers the timeless look of tiles without the mess. Perfect for renters and DIY renovations, transform your space today!">
+                    <meta name="keywords" content="peel and stick wallpaper subway tile">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-subway-tile">
+                            <span itemprop="name">peel and stick wallpaper subway tile</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peel and Stick Subway Tile Wallpaper: Easy Decor Upgrade</h1>
+                <p>Transform your space effortlessly with peel and stick wallpaper featuring a stylish subway tile design. Perfect for kitchens, bathrooms, or accent walls, this user-friendly solution allows for easy application and removal. Enjoy the classy look of traditional tile without the hassle—ideal for renters and DIY lovers alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Subway Tile White Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW34000">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c0caf52c-7326-464b-9458-8172a1dc10cb/svn/nextwall-wallpaper-rolls-nw34000-64_600.jpg' alt='NextWall Subway Tile White Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW34000'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c0caf52c-7326-464b-9458-8172a1dc10cb/svn/nextwall-wallpaper-rolls-nw34000-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Tile Backsplash Wallpaper">
+                                <img itemprop="contentUrl url" src='https://assets.weimgs.com/weimgs/ab/images/wcm/products/202441/0055/subway-tile-backsplash-wallpaper-o.jpg' alt='Subway Tile Backsplash Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="West Elm" />
+                                </span>
+                                <a href='https://assets.weimgs.com/weimgs/ab/images/wcm/products/202441/0055/subway-tile-backsplash-wallpaper-o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Large Faux Subway Tile 20.5 in. x 18 ft. Peel and Stick Wallpaper  NW37600">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/80eb38e2-5a9b-40d7-abce-676b1e212f5f/svn/nextwall-wallpaper-rolls-nw37600-64_600.jpg' alt='NextWall Large Faux Subway Tile 20.5 in. x 18 ft. Peel and Stick Wallpaper  NW37600'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/80eb38e2-5a9b-40d7-abce-676b1e212f5f/svn/nextwall-wallpaper-rolls-nw37600-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 12-Sheet Grey Peel and Stick Wallpaper, Subway Tile 6''x12''  Self Adhesive Wall Tiles Waterproof PVC Stick on Backsplash Vinyl  Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81tnC-5j0LL.jpg' alt='Amazon.com: 12-Sheet Grey Peel and Stick Wallpaper, Subway Tile 6''x12''  Self Adhesive Wall Tiles Waterproof PVC Stick on Backsplash Vinyl  Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81tnC-5j0LL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beveled Subway White Tile Peel and Stick Wallpaper / Brick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/13ef5e/2894020714/il_570xN.2894020714_nt6f.jpg' alt='Beveled Subway White Tile Peel and Stick Wallpaper / Brick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/13ef5e/2894020714/il_570xN.2894020714_nt6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet Black Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XNdG5RfsL.jpg' alt='12-Sheet Black Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XNdG5RfsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick | Self Adhesive Wallpaper | Wallpaper | Tile ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/26688b/3292603712/il_570xN.3292603712_pdmz.jpg' alt='Peel and Stick | Self Adhesive Wallpaper | Wallpaper | Tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/26688b/3292603712/il_570xN.3292603712_pdmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Large Subway Tile Alabaster & Grey Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW37600_2.jpg?quality=100' alt='NextWall Peel & Stick Large Subway Tile Alabaster & Grey Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW37600_2.jpg?quality=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Subway Tile Peel and Stick Removable Wallpaper – Say Decor LLC">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW37604-A_2000x2000.jpg?v=1649066512' alt='Retro Subway Tile Peel and Stick Removable Wallpaper – Say Decor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW37604-A_2000x2000.jpg?v=1649066512' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

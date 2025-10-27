@@ -1,0 +1,129 @@
+<title>Vibrant Dum Dum Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover a fun selection of dum dum clipart! Perfect for kids' crafts, invitations, and more. Brighten up your designs with these colorful illustrations and bring a sweet touch to your projects effortlessly. Download now to add some fun to your creativity!">
+                    <meta name="keywords" content="dum dum clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dum-dum-clipart">
+                            <span itemprop="name">dum dum clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Dum Dum Clipart for Creative Projects</h1>
+                <p>Dum dum clipart is a delightful collection of illustrations featuring colorful dum dum lollipops. Perfect for kids' projects, party invitations, and playful designs, these graphics bring joy and whimsy to any application. Use dum dum clipart to enhance your creative works with these iconic treats that everyone loves!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Colors Dum Dum Lollipop Clipart Collection">
+                                <img itemprop="contentUrl url" src='https://dilf72okji27u.cloudfront.net/ptp-featured/download-100-colors-dum-dum-lollipop-clipart-pack-610x229.jpg' alt='100 Colors Dum Dum Lollipop Clipart Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printable Treats Premium" />
+                                </span>
+                                <a href='https://dilf72okji27u.cloudfront.net/ptp-featured/download-100-colors-dum-dum-lollipop-clipart-pack-610x229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dum Dums Drum transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/60170f4fef902e00048c4786.png' alt='Dum Dums Drum transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/60170f4fef902e00048c4786.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dum Dums logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/60170f60ef902e00048c4787.png' alt='Dum Dums logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/60170f60ef902e00048c4787.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="you're my favorite dum dum , retro , sucker for you , valentines , PNG and  JPEG for wall art , sublimation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37596485/r/il/ca4c2f/4518265726/il_fullxfull.4518265726_q2k5.jpg' alt='you're my favorite dum dum , retro , sucker for you , valentines , PNG and  JPEG for wall art , sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37596485/r/il/ca4c2f/4518265726/il_fullxfull.4518265726_q2k5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Light Blue Dum Dum Lollipop Candy" Sticker for Sale by jazmssa">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.873035796.5269/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"Light Blue Dum Dum Lollipop Candy" Sticker for Sale by jazmssa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.873035796.5269/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dum Dum Clipart - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28412023/r/il/2296fe/4289657000/il_300x300.4289657000_7qx0.jpg' alt='Dum Dum Clipart - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28412023/r/il/2296fe/4289657000/il_300x300.4289657000_7qx0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dum dum lollipop clipart - Clip Art Library">
+                                <img itemprop="contentUrl url" src='https://clipart-library.com/data_images/308288.png' alt='dum dum lollipop clipart - Clip Art Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="192">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clipart Library" />
+                                </span>
+                                <a href='https://clipart-library.com/data_images/308288.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lollipop Candy Vectors, Clipart & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/b2/b252709b81b43926667a628c2e34f1a5_t.jpeg' alt='Lollipop Candy Vectors, Clipart & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/b2/b252709b81b43926667a628c2e34f1a5_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lollipop Dum Dums Spangler Candy Company Candy apple, dumdum, food ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/117/431/png-clipart-lollipop-dum-dums-spangler-candy-company-candy-apple-dumdum-food-lollipop.png' alt='Lollipop Dum Dums Spangler Candy Company Candy apple, dumdum, food ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/117/431/png-clipart-lollipop-dum-dums-spangler-candy-company-candy-apple-dumdum-food-lollipop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="251 Lollipop Clipart High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2150140147/vector/lollipop-candy-line-icons-vector-design.jpg?s=612x612&w=gi&k=20&c=2pSF3y6sLaxtSyyVeB3HFaMFwsLioKF-LE_ESwe_6sI=' alt='251 Lollipop Clipart High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2150140147/vector/lollipop-candy-line-icons-vector-design.jpg?s=612x612&w=gi&k=20&c=2pSF3y6sLaxtSyyVeB3HFaMFwsLioKF-LE_ESwe_6sI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

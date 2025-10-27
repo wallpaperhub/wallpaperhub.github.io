@@ -1,0 +1,129 @@
+<title>Lauhala Weaving: A Glimpse into Hawaiian Traditions</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lauhala background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lauhala-background">
+                            <span itemprop="name">lauhala background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lauhala Weaving: A Glimpse into Hawaiian Traditions</h1>
+                <p>Lauhala, a traditional Hawaiian weaving technique, utilizes the leaves of the hala tree, or pandanus. This craft has deep cultural roots, serving as a functional and artistic expression of Hawaiian heritage. From mats to hats, lauhala embodies sustainability and creativity, preserving a unique aspect of Polynesian identity and craftsmanship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Purse Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9081801/p/f/l/HQ7KirWC5u6oM_jTlUdelYDa8PQ_LHsd-8LE0YOxj6PQgcXkIjw/Hawaiian%20Lauhala%20weave-light%20tan.jpg' alt='Lauhala Purse Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9081801/p/f/l/HQ7KirWC5u6oM_jTlUdelYDa8PQ_LHsd-8LE0YOxj6PQgcXkIjw/Hawaiian%20Lauhala%20weave-light%20tan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thaisan7 Lauhala Natural Weave Matting Roll Commercial Grade-Tiki Bar Wall  Covering for Home Garden Farm Party Beautiful Decor- 1" x 4' x 8' (Set of 2  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71omP0ujYOL.jpg' alt='Thaisan7 Lauhala Natural Weave Matting Roll Commercial Grade-Tiki Bar Wall  Covering for Home Garden Farm Party Beautiful Decor- 1" x 4' x 8' (Set of 2  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71omP0ujYOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala – Kaʻahele Hawaiʻi">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.kaahelehawaii.com/wp-content/uploads/2016/08/Background-Lauhala.jpg?fit=660%2C494&ssl=1' alt='Lauhala – Kaʻahele Hawaiʻi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaʻahele Hawaiʻi" />
+                                </span>
+                                <a href='https://i0.wp.com/www.kaahelehawaii.com/wp-content/uploads/2016/08/Background-Lauhala.jpg?fit=660%2C494&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khaki Color Lauhala Design Hawaiian Print Fabric 100% Cotton Sold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5754343/r/il/1d415d/3823954297/il_fullxfull.3823954297_2s4h.jpg' alt='Khaki Color Lauhala Design Hawaiian Print Fabric 100% Cotton Sold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5754343/r/il/1d415d/3823954297/il_fullxfull.3823954297_2s4h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Lauhala Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/create-hi-resoultion-full-size-260nw-2549532855.jpg' alt='36 Lauhala Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/create-hi-resoultion-full-size-260nw-2549532855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Lauhala Mat by Brandon Tabiolo - Printscapes">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hawaiian-lauhala-mat-brandon-tabiolo.jpg' alt='Hawaiian Lauhala Mat by Brandon Tabiolo - Printscapes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hawaiian-lauhala-mat-brandon-tabiolo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Lauhala Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17122652/p/f/m/vV658mSBZwQrxU7kxBfbHJzmgTlHELKyNjwICRSR_E9VK10kUNDBPkA/Traditional%20Hawaii%20Lauhala%20Weave%20.jpg' alt='Hawaiian Lauhala Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17122652/p/f/m/vV658mSBZwQrxU7kxBfbHJzmgTlHELKyNjwICRSR_E9VK10kUNDBPkA/Traditional%20Hawaii%20Lauhala%20Weave%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian lauhala mats">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/6c/2d/bc6c2d8554eb5f4efbf8a7b237525d03.jpg' alt='Hawaiian lauhala mats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/6c/2d/bc6c2d8554eb5f4efbf8a7b237525d03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Lauhala Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-illustration-seamless-woven-background-260nw-611221160.jpg' alt='36 Lauhala Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-illustration-seamless-woven-background-260nw-611221160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Matting 3' x 6' (10 Pack)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/569/3562/Natural-Tropical-Lauhala-Matting-closeup__98173.1661201832.jpg?c=1?imbypass=on' alt='Lauhala Matting 3' x 6' (10 Pack)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Bamboo" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/569/3562/Natural-Tropical-Lauhala-Matting-closeup__98173.1661201832.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

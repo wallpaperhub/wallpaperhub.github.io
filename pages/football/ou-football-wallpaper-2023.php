@@ -1,0 +1,129 @@
+<title>Stunning OU Football Wallpapers 2023: Download Now!</title>
+                    <meta name="description" content="Get ready for the season with our collection of OU football wallpapers for 2023! Perfect for fans, these high-quality images will showcase your team spirit on any device. Download your favorites today and let everyone know you’re rooting for the Sooners!">
+                    <meta name="keywords" content="ou football wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/ou-football-wallpaper-2023">
+                            <span itemprop="name">ou football wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning OU Football Wallpapers 2023: Download Now!</h1>
+                <p>Discover the best OU football wallpapers for 2023! Elevate your device's look with stunning images of your favorite team and players. From action shots to team logos, these wallpapers capture the spirit of Oklahoma football. Perfect for fans eager to show their pride this season—download yours today and gear up for game day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Oklahoma Sooners Football Schedule: Downloadable Smartphone ...">
+                                <img itemprop="contentUrl url" src='https://soonerswire.usatoday.com/wp-content/uploads/sites/4/2023/08/SoonersWire_WP_23.png' alt='2023 Oklahoma Sooners Football Schedule: Downloadable Smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sooners Wire - USA Today" />
+                                </span>
+                                <a href='https://soonerswire.usatoday.com/wp-content/uploads/sites/4/2023/08/SoonersWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Oklahoma Sooners Football Schedule: Downloadable Smartphone ...">
+                                <img itemprop="contentUrl url" src='https://soonerswire.usatoday.com/wp-content/uploads/sites/4/2023/08/SoonersWire_WP_23.png?w=1000&h=600&crop=1' alt='2023 Oklahoma Sooners Football Schedule: Downloadable Smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sooners Wire" />
+                                </span>
+                                <a href='https://soonerswire.usatoday.com/wp-content/uploads/sites/4/2023/08/SoonersWire_WP_23.png?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oklahoma Football on X: "Had a break between meetings so we ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fw6gAKMaEAAhhFi.jpg:large' alt='Oklahoma Football on X: "Had a break between meetings so we ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fw6gAKMaEAAhhFi.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download OU Sooners Player Line Up Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ou-sooners-8lsy2j7jgzanlt4q.jpg' alt='Download OU Sooners Player Line Up Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1509">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ou-sooners-8lsy2j7jgzanlt4q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ou Sooners Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ou-sooners-fq5wnyfa2wyucvq8.jpg' alt='100+] Ou Sooners Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ou-sooners-fq5wnyfa2wyucvq8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ou Sooners Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ou-sooners-8uo29qwti3n2ant4.jpg' alt='100+] Ou Sooners Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ou-sooners-8uo29qwti3n2ant4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oklahoma Football on X: "2️⃣ weeks until gameday!   ️ https://t ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F35jQFlXYAEs2_j.jpg:large' alt='Oklahoma Football on X: "2️⃣ weeks until gameday!   ️ https://t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F35jQFlXYAEs2_j.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ou Sooners Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ou-sooners-6ivp9nlsfun8vj39.jpg' alt='100+] Ou Sooners Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ou-sooners-6ivp9nlsfun8vj39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oklahoma Football on X: "Happy 4th of July, #Sooners!        https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F0Mn_4aXwAArBw2.jpg:large' alt='Oklahoma Football on X: "Happy 4th of July, #Sooners!        https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F0Mn_4aXwAArBw2.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ou Sooners Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ou-sooners-t5dawk8yg8ypfv5e.jpg' alt='100+] Ou Sooners Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ou-sooners-t5dawk8yg8ypfv5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

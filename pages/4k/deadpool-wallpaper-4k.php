@@ -1,0 +1,129 @@
+<title>Stunning 4K Deadpool Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore our rich collection of 4K Deadpool wallpapers! Elevate your device's appearance with high-resolution images featuring everyone's favorite merc with a mouth. Download, enjoy, and show off your Deadpool fandom in style!">
+                    <meta name="keywords" content="deadpool wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/deadpool-wallpaper-4k">
+                            <span itemprop="name">deadpool wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Deadpool Wallpapers for Every Fan</h1>
+                <p>Discover stunning Deadpool wallpapers in 4K resolution that bring the antihero to life on your devices! From action-packed scenes to artistic renditions, our collection offers a vibrant assortment of high-quality wallpapers. Perfect for fans looking to showcase their love for Deadpool in ultra-sharp detail. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Comic 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/973/973560.jpg' alt='Deadpool Comic 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/973/973560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PIMPANT Deadpool Vs Thanos 4k, HD Superheroes, 4k Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VtjMy6fWL._AC_UF894,1000_QL80_.jpg' alt='PIMPANT Deadpool Vs Thanos 4k, HD Superheroes, 4k Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VtjMy6fWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/8/e/182213-1080x2280-samsung-hd-deadpool-background.jpg' alt='Deadpool Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/8/e/182213-1080x2280-samsung-hd-deadpool-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Deadpool Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/love-deadpool-chromebook-wallpaper.jpg' alt='Love Deadpool Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/love-deadpool-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x1920 New Deadpool 4k Iphone 7,6s,6 Plus, Pixel xl ,One Plus 3 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/84/e5/fc84e50b21d135452709d326a9fe9c6f.jpg' alt='1080x1920 New Deadpool 4k Iphone 7,6s,6 Plus, Pixel xl ,One Plus 3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/84/e5/fc84e50b21d135452709d326a9fe9c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Deadpool Iconic Shocked Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-deadpool-iconic-shocked-face-x2787hf9fx4mcsax.jpg' alt='4k Deadpool Iconic Shocked Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-deadpool-iconic-shocked-face-x2787hf9fx4mcsax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Wallpaper For Mobile 4k wallpaper by t4wsif007 - Download ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=uFsSbYAec3SDpct6csM6GgOVySWSgPlhyTFzxs5xnijlxUdhtgszy0fn34BkwKf7X7GwqZ7lXR-yN_e8uVa0X_DOEOl-l-svLO_Gmg716r_YIvgSTwEKRIFxHRoisQMXiN9ayBOBXoaMHCj1jwAK_mJmgBV84iKVyBh5UZZT6nCwLBjKOIbOnVPQwQYODhZvhzGJHOYqug_d78w5fqzpuh3WJsplyTcZBIVxcw' alt='Deadpool Wallpaper For Mobile 4k wallpaper by t4wsif007 - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=uFsSbYAec3SDpct6csM6GgOVySWSgPlhyTFzxs5xnijlxUdhtgszy0fn34BkwKf7X7GwqZ7lXR-yN_e8uVa0X_DOEOl-l-svLO_Gmg716r_YIvgSTwEKRIFxHRoisQMXiN9ayBOBXoaMHCj1jwAK_mJmgBV84iKVyBh5UZZT6nCwLBjKOIbOnVPQwQYODhZvhzGJHOYqug_d78w5fqzpuh3WJsplyTcZBIVxcw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Deadpool Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-deadpool-7s399s7v8csco8hp.jpg' alt='100+] 4k Deadpool Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-deadpool-7s399s7v8csco8hp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Deadpool - 6768 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2024/06/24/gsmintro.net_deadpool_6768.jpg' alt='Download Free Mobile Phone Wallpaper Deadpool - 6768 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="5376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2024/06/24/gsmintro.net_deadpool_6768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome 4K Deadpool Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/d8/a2/edd8a2d8b6e2c8aa93e92c65b9f1a8c0.jpg' alt='Awesome 4K Deadpool Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/d8/a2/edd8a2d8b6e2c8aa93e92c65b9f1a8c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

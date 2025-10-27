@@ -1,0 +1,129 @@
+<title>Boost Your Business: Embrace Continuous Improvement</title>
+                    <meta name="description" content="Discover the power of the Continuous Improvement Cycle (CIC). This essential process helps organizations streamline operations, enhance quality, and drive growth. Learn how to implement CIC effectively and transform your business for greater success and efficiency.">
+                    <meta name="keywords" content="cic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cic">
+                            <span itemprop="name">cic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boost Your Business: Embrace Continuous Improvement</h1>
+                <p>CIC stands for Continuous Improvement Cycle, a vital process in organizations focusing on refining and optimizing operations. This strategy involves several stages: Plan, Do, Check, and Act, fostering a culture of ongoing development and innovation. By embracing CIC, businesses can enhance efficiency, reduce waste, and improve quality, ultimately driving success.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CIC - Venture Café Cambridge">
+                                <img itemprop="contentUrl url" src='https://venturecafecambridge.org/wp-content/uploads/sites/6/2021/12/CIC-logo-orange-fading-dots-1024x556.png' alt='CIC - Venture Café Cambridge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venture Cafe Cambridge" />
+                                </span>
+                                <a href='https://venturecafecambridge.org/wp-content/uploads/sites/6/2021/12/CIC-logo-orange-fading-dots-1024x556.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our history | CIC Asia Pacific">
+                                <img itemprop="contentUrl url" src='https://cdnii.e-i.com/INGR/sd/cic_asia_pacific_2021/1.113.8/en/images/css/env/logo_banque.svg' alt='Our history | CIC Asia Pacific'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Asia Pacific" />
+                                </span>
+                                <a href='https://cdnii.e-i.com/INGR/sd/cic_asia_pacific_2021/1.113.8/en/images/css/env/logo_banque.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What We Do - Council of Independent Colleges">
+                                <img itemprop="contentUrl url" src='https://cic.edu/wp-content/uploads/2023/03/CIC-WallPaper-1920x664px.jpg' alt='What We Do - Council of Independent Colleges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Council of Independent Colleges" />
+                                </span>
+                                <a href='https://cic.edu/wp-content/uploads/2023/03/CIC-WallPaper-1920x664px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CIC Insurance Group - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/be/CIC_Group_Logo.png' alt='CIC Insurance Group - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/be/CIC_Group_Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About | An overview of CIC as a hub for startups">
+                                <img itemprop="contentUrl url" src='https://jp.cic.com/wp-content/uploads/2024/10/logo.png' alt='About | An overview of CIC as a hub for startups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Tokyo - Cambridge Innovation Center" />
+                                </span>
+                                <a href='https://jp.cic.com/wp-content/uploads/2024/10/logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certified in Infection Control (CIC®) - Credly">
+                                <img itemprop="contentUrl url" src='https://images.credly.com/images/5c67c4cf-15f9-4d26-b563-d04fadeff6d3/image.png' alt='Certified in Infection Control (CIC®) - Credly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Credly" />
+                                </span>
+                                <a href='https://images.credly.com/images/5c67c4cf-15f9-4d26-b563-d04fadeff6d3/image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CIC Tucson-We Know Your Worth">
+                                <img itemprop="contentUrl url" src='http://cictucson.org/wp-content/uploads/2021/01/CIC-logo-RGB-400.png' alt='CIC Tucson-We Know Your Worth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cictucson.org" />
+                                </span>
+                                <a href='http://cictucson.org/wp-content/uploads/2021/01/CIC-logo-RGB-400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CIC (Cambridge Innovation Center) - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/OLdNDMua6bXx2aCzcK91D_JX8pyJv3JM98JFmxrts2fGkA4r0LC2nRBsAseQ61ikDjiGihWInA=s900-c-k-c0x00ffffff-no-rj' alt='CIC (Cambridge Innovation Center) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/OLdNDMua6bXx2aCzcK91D_JX8pyJv3JM98JFmxrts2fGkA4r0LC2nRBsAseQ61ikDjiGihWInA=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian International College - CIC (@ciccairo) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/758608590991138816/lZzRkyDa_400x400.jpg' alt='Canadian International College - CIC (@ciccairo) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/758608590991138816/lZzRkyDa_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Council of Independent Colleges – Advancing Independent Higher ...">
+                                <img itemprop="contentUrl url" src='https://cic.edu/wp-content/uploads/2025/01/2025-CIC-Solution-407x230px.png' alt='The Council of Independent Colleges – Advancing Independent Higher ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cic.edu" />
+                                </span>
+                                <a href='https://cic.edu/wp-content/uploads/2025/01/2025-CIC-Solution-407x230px.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

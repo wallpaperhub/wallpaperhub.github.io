@@ -1,0 +1,129 @@
+<title>Award PPT Backgrounds: Elevate Your Presentation</title>
+                    <meta name="description" content="Discover stunning award PPT backgrounds that enhance your presentations. Perfect for celebrating achievements, these professional designs balance creativity and clarity, ensuring your content shines. Make your awards stand out with visually engaging backgrounds that captivate your audience.">
+                    <meta name="keywords" content="award ppt background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/award-ppt-background">
+                            <span itemprop="name">award ppt background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Award PPT Backgrounds: Elevate Your Presentation</h1>
+                <p>When creating an award PPT background, aim for designs that enhance the content without overwhelming it. Use subtle colors, elegant patterns, or images that represent achievements. Incorporate elements like ribbons or stars for a celebratory feel, ensuring the text remains clear and legible. Balance creativity with professionalism to engage your audience effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awards Ceremony PowerPoint Template - SlideBazaar">
+                                <img itemprop="contentUrl url" src='https://slidebazaar.com/wp-content/uploads/2023/05/Awards-Ceremony-PowerPoint-Templates.jpg' alt='Awards Ceremony PowerPoint Template - SlideBazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideBazaar" />
+                                </span>
+                                <a href='https://slidebazaar.com/wp-content/uploads/2023/05/Awards-Ceremony-PowerPoint-Templates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award Show PowerPoint Presentation Template & Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/64700-powerpoint-award-show-template.png' alt='Award Show PowerPoint Presentation Template & Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/64700-powerpoint-award-show-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award Presentation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/product-display-podium-3d-golden-star-black-luxury-background-with-light-effects-decoration-award-ceremony-scene-concept_196599-924.jpg?semt=ais_hybrid' alt='Award Presentation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/product-display-podium-3d-golden-star-black-luxury-background-with-light-effects-decoration-award-ceremony-scene-concept_196599-924.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awards Ceremony PowerPoint Template - SlideBazaar">
+                                <img itemprop="contentUrl url" src='https://slidebazaar.com/wp-content/uploads/2023/05/Awards-Ceremony-PowerPoint-Template-featured-image.jpg' alt='Awards Ceremony PowerPoint Template - SlideBazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideBazaar" />
+                                </span>
+                                <a href='https://slidebazaar.com/wp-content/uploads/2023/05/Awards-Ceremony-PowerPoint-Template-featured-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award Presentation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-vector-background-award-nomination-winner-background-with-glass-trophy-with-laurel-red-velvet-drapery-stage_528282-304.jpg' alt='Award Presentation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-vector-background-award-nomination-winner-background-with-glass-trophy-with-laurel-red-velvet-drapery-stage_528282-304.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awards Ceremony of Film School | Google Slides & PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/24823180/conversions/0-awards-ceremony-of-film-school-thumb.jpg' alt='Awards Ceremony of Film School | Google Slides & PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/24823180/conversions/0-awards-ceremony-of-film-school-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Atmosphere Year End Awards Ceremony Ppt Template Google ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-slide/20210518/ourmid/0-pngtree-red-vintage-new-years-day-google-slides-and-powerpoint-template-background_5630.jpg' alt='Black Atmosphere Year End Awards Ceremony Ppt Template Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-slide/20210518/ourmid/0-pngtree-red-vintage-new-years-day-google-slides-and-powerpoint-template-background_5630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awards PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/edd/2023/10/Awards-PowerPoint-Template-909-scaled.jpg' alt='Awards PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/edd/2023/10/Awards-PowerPoint-Template-909-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Awards Ceremony Google Slides And PowerPoint (PPT) Template ...">
+                                <img itemprop="contentUrl url" src='https://image.slidesdocs.com/responsive-images/slides/0-atmospheric-new-year-awards-ceremony-powerpoint-background_efbdc1c230__960_540.jpg' alt='Free Awards Ceremony Google Slides And PowerPoint (PPT) Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://image.slidesdocs.com/responsive-images/slides/0-atmospheric-new-year-awards-ceremony-powerpoint-background_efbdc1c230__960_540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="trophy PPT Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2014/01/Trophy-Abstract-PPT-Backgrounds.jpg' alt='trophy PPT Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2014/01/Trophy-Abstract-PPT-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

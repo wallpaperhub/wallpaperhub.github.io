@@ -1,0 +1,129 @@
+<title>Citi Background Check: What You Need to Know</title>
+                    <meta name="description" content="Explore the essentials of Citi background checks, including what they entail, their importance in the hiring process, and how they ensure workplace safety and integrity. Learn more about how these checks can impact your job application and employment opportunities.">
+                    <meta name="keywords" content="citi background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/citi-background-check">
+                            <span itemprop="name">citi background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Citi Background Check: What You Need to Know</h1>
+                <p>Citi background check is a critical part of the hiring process, examining candidates' criminal records, employment history, and credit reports to ensure they meet the company's standards. This thorough evaluation helps maintain a safe and trustworthy workplace, protecting both employees and customers while promoting company integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citigroup Fined $1.25M For Insufficient Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://content.backgroundsonline.com/images/sites/bgo/blog/citigroup.jpg' alt='Citigroup Fined $1.25M For Insufficient Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgrounds Online" />
+                                </span>
+                                <a href='https://content.backgroundsonline.com/images/sites/bgo/blog/citigroup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long do Citi background checks take? Do they s... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/how-long-do-citi-background-checks-take-do-they-send-you-an-application-once-you-sign-the-offer.png' alt='How long do Citi background checks take? Do they s... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/how-long-do-citi-background-checks-take-do-they-send-you-an-application-once-you-sign-the-offer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citigroup Fined For Background Check Infractions">
+                                <img itemprop="contentUrl url" src='https://www.pymnts.com/wp-content/uploads/2019/07/Citi-FINRA-Fine-Checks.jpg' alt='Citigroup Fined For Background Check Infractions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PYMNTS.com" />
+                                </span>
+                                <a href='https://www.pymnts.com/wp-content/uploads/2019/07/Citi-FINRA-Fine-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Currently going through the background screening f... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/currently-going-through-the-background-screening-for-an-offer-with-citi-they-use-a-third-party-yale-associates-and-yale-yjez-5.png' alt='Currently going through the background screening f... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/currently-going-through-the-background-screening-for-an-offer-with-citi-they-use-a-third-party-yale-associates-and-yale-yjez-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Check Image">
+                                <img itemprop="contentUrl url" src='https://online.citi.com/JRS/forms/images/Check.jpg' alt='Sample Check Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Citi.com" />
+                                </span>
+                                <a href='https://online.citi.com/JRS/forms/images/Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News: Citigroup to pay $1.25 Mn fine as the company failed to run ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1564473385/1564473383.jpg' alt='News: Citigroup to pay $1.25 Mn fine as the company failed to run ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People Matters Global" />
+                                </span>
+                                <a href='https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1564473385/1564473383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FINRA fines Citigroup for inadequate background checks - lessons ...">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2019%2F08%2F01%2FLYNXNPEF6U1PD.JPG?auth=f8adfda6d39b953cd87a5048d8ed104d4ede4034dcc4492773fac4576f1282c4&width=1200&quality=80' alt='FINRA fines Citigroup for inadequate background checks - lessons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2019%2F08%2F01%2FLYNXNPEF6U1PD.JPG?auth=f8adfda6d39b953cd87a5048d8ed104d4ede4034dcc4492773fac4576f1282c4&width=1200&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citi does background check for contractor conversion ? - post ...">
+                                <img itemprop="contentUrl url" src='https://img.thelayoff.com/t/1qq6Zvs9.jpg' alt='Citi does background check for contractor conversion ? - post ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1528">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheLayoff.com" />
+                                </span>
+                                <a href='https://img.thelayoff.com/t/1qq6Zvs9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ApplicantServices.com has hundreds of Live Scan locations ...">
+                                <img itemprop="contentUrl url" src='https://www.applicantservices.com/Config/Customers/Citi/images/computer-hand-screen-web-touch-finger-low.jpg' alt='ApplicantServices.com has hundreds of Live Scan locations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Applicant Services" />
+                                </span>
+                                <a href='https://www.applicantservices.com/Config/Customers/Citi/images/computer-hand-screen-web-touch-finger-low.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks with Credit Reports">
+                                <img itemprop="contentUrl url" src='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-3.png' alt='Employment Background Checks with Credit Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAA Credit Screening & Background Checks" />
+                                </span>
+                                <a href='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

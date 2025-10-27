@@ -1,0 +1,129 @@
+<title>Ultimate Dragon Ball Z Broly Wallpapers for Fans</title>
+                    <meta name="description" content="Explore our collection of Dragon Ball Z Broly wallpapers, perfect for any true fan. Enhance your devices with vibrant and dynamic designs featuring the Legendary Super Saiyan! Quick downloads and high-quality images available for mobile and desktop use. Transform your screens today!">
+                    <meta name="keywords" content="dragon ball z broly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-ball-z-broly-wallpaper">
+                            <span itemprop="name">dragon ball z broly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Dragon Ball Z Broly Wallpapers for Fans</h1>
+                <p>Discover the stunning world of Dragon Ball Z with our exclusive Broly wallpaper collection! Immerse yourself in the vibrant colors and epic scenes featuring the Legendary Super Saiyan. Perfect for fans, these wallpapers will transform your devices, showcasing Broly in all his glory. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Evolution - Wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/4y3zi1uptmq41.png?auto=webp&s=3a2d3ebaa7cbde6014fd3ba5d503a26f5d7ad00a' alt='Broly Evolution - Wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/4y3zi1uptmq41.png?auto=webp&s=3a2d3ebaa7cbde6014fd3ba5d503a26f5d7ad00a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Movie, Dragon Ball Super: Broly, Broly (Dragon Ball)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/b8/01/65b801a831c78a1f525cea6c6f05a014.jpg' alt='HD wallpaper: Movie, Dragon Ball Super: Broly, Broly (Dragon Ball)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/b8/01/65b801a831c78a1f525cea6c6f05a014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Broly Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1219548781.3634/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg' alt='Dragon Ball Broly Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=""Dragon Ball Broly Wallpaper" iPhone Case for Sale by igor-me ..." />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1219548781.3634/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Broly Goku Vegeta Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/broly-legendary-super-saiyan-qbq7573wcmb6yxrx.webp' alt='Dragon Ball Z Broly Goku Vegeta Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/broly-legendary-super-saiyan-qbq7573wcmb6yxrx.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball, Dragon Ball Z, Broly, anime, manga, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/122/754/HD-wallpaper-dragon-ball-dragon-ball-z-broly-anime-manga.jpg' alt='Dragon Ball, Dragon Ball Z, Broly, anime, manga, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/122/754/HD-wallpaper-dragon-ball-dragon-ball-z-broly-anime-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Broly Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1792952802.9188/flat,750x1000,075,t.u3.jpg' alt='Dragon Ball Broly Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=""Dragon Ball Broly Wallpaper" iPhone Case for Sale by igor-me ..." />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1792952802.9188/flat,750x1000,075,t.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Super Broly Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-super-broly-dznz07vkati6shws.jpg' alt='100+] Dragon Ball Super Broly Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-super-broly-dznz07vkati6shws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dbz broly wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/334/821/HD-wallpaper-saiyan-rage-broly-dbz-dragon-ball-dragon-ball-super-dragon-ball-z.jpg' alt='HD dbz broly wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/334/821/HD-wallpaper-saiyan-rage-broly-dbz-dragon-ball-dragon-ball-super-dragon-ball-z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly's Power: Dragon Ball Z HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/681/thumb-1920-681230.png' alt='Broly's Power: Dragon Ball Z HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/681/thumb-1920-681230.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Wallpaper 4K, Dragon Ball Z, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/broly-dragon-ball-z-black-background-3440x1440-4952.png' alt='Broly Wallpaper 4K, Dragon Ball Z, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/broly-dragon-ball-z-black-background-3440x1440-4952.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

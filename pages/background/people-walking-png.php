@@ -1,0 +1,129 @@
+<title>High-Quality PNG Images of People Walking</title>
+                    <meta name="description" content="Discover high-quality PNG images of people walking for your design projects. Perfect for enhancing visuals in websites, presentations, and social media, these transparent images add a dynamic touch to your content. Download now and elevate your projects with engaging, relatable imagery!">
+                    <meta name="keywords" content="people walking png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/people-walking-png">
+                            <span itemprop="name">people walking png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality PNG Images of People Walking</h1>
+                <p>People walking PNG images are versatile assets for designers, marketers, and content creators. They can be used in various projects such as websites, social media posts, presentations, and advertisements. These transparent background images help enhance visual storytelling, making it easier to convey messages about movement, lifestyle, and human connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Vectors - Black People Walking Png - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/vectors-black-people-walking-png--m2H7i8b1i8A0i8A0.jpg' alt='Free: Vectors - Black People Walking Png - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/vectors-black-people-walking-png--m2H7i8b1i8A0i8A0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man with a smartphone walking people png (14118)">
+                                <img itemprop="contentUrl url" src='https://www.mrcutout.com/images/cutouts/man-with-a-smartphone-walking-0051-watermarked.jpg' alt='Man with a smartphone walking people png (14118)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrCutout.com" />
+                                </span>
+                                <a href='https://www.mrcutout.com/images/cutouts/man-with-a-smartphone-walking-0051-watermarked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Walking Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zMV9waG90b19vZl9idXNpbmVzc193b21hbl93YWxrX3dlYXJpbmdfY2FzdWFsX19hMGMyOGRmYS0yNzRmLTQ2N2YtYWQ3Mi00MTg2NGIzNWQ5YTkucG5n.png' alt='People Walking Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zMV9waG90b19vZl9idXNpbmVzc193b21hbl93YWxrX3dlYXJpbmdfY2FzdWFsX19hMGMyOGRmYS0yNzRmLTQ2N2YtYWQ3Mi00MTg2NGIzNWQ5YTkucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High-Quality PNG Cutouts of People Walking – FREE Download ...">
+                                <img itemprop="contentUrl url" src='https://cadasbuilt.com/cdn/shop/files/CAB_PNG_PeopleWalking_5.png?v=1735227424&width=1406' alt='High-Quality PNG Cutouts of People Walking – FREE Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1406">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CADasbuilt" />
+                                </span>
+                                <a href='https://cadasbuilt.com/cdn/shop/files/CAB_PNG_PeopleWalking_5.png?v=1735227424&width=1406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black People Walking Png Jpg Black And White Stock - Business ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/49/ac/7a49ac22118bb2b5b5ba7e867d3f5752.jpg' alt='Black People Walking Png Jpg Black And White Stock - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/49/ac/7a49ac22118bb2b5b5ba7e867d3f5752.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People walking png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/465/330/png-clipart-walking-people-silhouette-others-tshirt-child-thumbnail.png' alt='People walking png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/465/330/png-clipart-walking-people-silhouette-others-tshirt-child-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Walking Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/casual-modern-man-walkingback-viewwhite-background_873668-13007.jpg?semt=ais_hybrid' alt='People Walking Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/casual-modern-man-walkingback-viewwhite-background_873668-13007.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Walking Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL21vdGFybzdfcGhvdG9fb2ZfYXNpYW5fd2VhcmluZ19jYXN1YWxfYXR0aXJlX3dhbGtpbmdfc2lkZV92aWV3X180MjA0ZDNhZC1kNTZhLTRmOTAtYjUxZi0yZjFhNGVmZDA4ZTYucG5n.png' alt='People Walking Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL21vdGFybzdfcGhvdG9fb2ZfYXNpYW5fd2VhcmluZ19jYXN1YWxfYXR0aXJlX3dhbGtpbmdfc2lkZV92aWV3X180MjA0ZDNhZC1kNTZhLTRmOTAtYjUxZi0yZjFhNGVmZDA4ZTYucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High-Quality PNG Cutouts of People Walking – FREE Download ...">
+                                <img itemprop="contentUrl url" src='https://cadasbuilt.com/cdn/shop/files/CAB_PNG_PeopleWalking_AllDrawings-blackandwhite.png?v=1735227424&width=1920' alt='High-Quality PNG Cutouts of People Walking – FREE Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CADasbuilt" />
+                                </span>
+                                <a href='https://cadasbuilt.com/cdn/shop/files/CAB_PNG_PeopleWalking_AllDrawings-blackandwhite.png?v=1735227424&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Walking Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/view-male-golf-player_23-2151530416.jpg' alt='People Walking Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/view-male-golf-player_23-2151530416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

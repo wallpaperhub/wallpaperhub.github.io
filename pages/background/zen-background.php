@@ -1,0 +1,129 @@
+<title>Create Your Zen Oasis: Transform Your Space with Peaceful Backgrounds</title>
+                    <meta name="description" content="Discover how to create a zen background that promotes tranquility and mindfulness in your space. Explore minimalist designs and natural elements to enhance relaxation and clarity. Perfect for meditation or simply unwinding, our tips will help you create your serene oasis effortlessly!">
+                    <meta name="keywords" content="zen background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zen-background">
+                            <span itemprop="name">zen background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Your Zen Oasis: Transform Your Space with Peaceful Backgrounds</h1>
+                <p>A zen background embodies tranquility, inviting peace and mindfulness into your space. Soft colors, minimalist design, and natural elements like bamboo or stone create a serene atmosphere, perfect for meditation or relaxation. This calming aesthetic promotes clarity, reducing stress while enhancing focus and creativity, making it ideal for any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zen Background Images – Browse 5,318,104 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/63/29/27/360_F_963292790_ebI4FpbYemNF371pj5Y6TWcMCsDgxtWl.jpg' alt='Zen Background Images – Browse 5,318,104 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/63/29/27/360_F_963292790_ebI4FpbYemNF371pj5Y6TWcMCsDgxtWl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zen Background" Images – Browse 2,992 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/18/01/71/360_F_918017149_rKRGhipVmFqw78sDTiSxnGEy9PiJy7yp.jpg' alt='Zen Background" Images – Browse 2,992 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/18/01/71/360_F_918017149_rKRGhipVmFqw78sDTiSxnGEy9PiJy7yp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sand, lily and stones in zen garden - spa background - Pacifica ...">
+                                <img itemprop="contentUrl url" src='https://www.pacifica.edu/wp-content/uploads/2023/06/sand-lily-and-stones-in-zen-garden.jpg' alt='sand, lily and stones in zen garden - spa background - Pacifica ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pacifica Graduate Institute" />
+                                </span>
+                                <a href='https://www.pacifica.edu/wp-content/uploads/2023/06/sand-lily-and-stones-in-zen-garden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zen Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/zen-stones-sand-background-health-wellness-concept_53876-124303.jpg' alt='Zen Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/zen-stones-sand-background-health-wellness-concept_53876-124303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zen Background" Images – Browse 2,992 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/11/64/89/360_F_911648979_4DkHqRawFmoR5BrpK7Q93Td4FVrqqgFH.jpg' alt='Zen Background" Images – Browse 2,992 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/11/64/89/360_F_911648979_4DkHqRawFmoR5BrpK7Q93Td4FVrqqgFH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stone Religious Zen HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/109/1093546.jpg' alt='Download Stone Religious Zen HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/109/1093546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="zen wallpaper by Lee_Loo - Download on ZEDGE™ | b611">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/d8/91/52d891e3642a3e6c5ec65c48b0dba5fe.jpg' alt='zen wallpaper by Lee_Loo - Download on ZEDGE™ | b611'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/d8/91/52d891e3642a3e6c5ec65c48b0dba5fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zen Minimalist Plant Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/zen-minimalist-plant-ignqlos3snq14a3a.jpg' alt='Zen Minimalist Plant Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/zen-minimalist-plant-ignqlos3snq14a3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print serene relax zen background, Zahfran">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/09/67/11/69/1000_F_967116991_y9r5pYrTuFP5nPOzBziz0KILHsW0LoU4.jpg' alt='Photo & Art Print serene relax zen background, Zahfran'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/09/67/11/69/1000_F_967116991_y9r5pYrTuFP5nPOzBziz0KILHsW0LoU4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,244 Peaceful Zen Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/peaceful-zen-garden-background-rocks-sand-greenery-evoking-tranquility-mindfulness-344051491.jpg' alt='60,244 Peaceful Zen Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/peaceful-zen-garden-background-rocks-sand-greenery-evoking-tranquility-mindfulness-344051491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

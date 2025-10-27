@@ -1,0 +1,129 @@
+<title>Shop Stunning 3D Material Wallpaper for a Modern Look</title>
+                    <meta name="description" content="Explore our collection of 3D material wallpaper, designed to transform your space with depth and style. Perfect for any room, our wallpapers add a modern touch that captivates. Discover the latest trends in 3D designs and elevate your interiors effortlessly!">
+                    <meta name="keywords" content="3d material wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-material-wallpaper">
+                            <span itemprop="name">3d material wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shop Stunning 3D Material Wallpaper for a Modern Look</h1>
+                <p>Transform your spaces with stunning 3D material wallpaper! These innovative designs provide depth and dimension, allowing you to create unique environments in your home or office. With various textures and patterns, 3D wallpapers can rejuvenate any room, offering a modern aesthetic that mesmerizes and inspires creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Metal Geometric Texture 3D Wallpaper, Modern Luxury Waterproof  Durable Wrinkle Free Creative Space Decor Art Murals for Living Room Tv ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RjNjfSNVL.jpg' alt='Amazon.com: Metal Geometric Texture 3D Wallpaper, Modern Luxury Waterproof  Durable Wrinkle Free Creative Space Decor Art Murals for Living Room Tv ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RjNjfSNVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Wallpaper Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-geometrical-texture_23-2149168862.jpg?semt=ais_hybrid' alt='3d Wallpaper Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-geometrical-texture_23-2149168862.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Wallpaper, Modern Ink Landscape Abstract Golden Marble Texture  Wall Painting, Bright Color Smooth Surface Living Room Art Home Decor Blue  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mEpQMBNqL._AC_UF894,1000_QL80_.jpg' alt='Custom 3D Wallpaper, Modern Ink Landscape Abstract Golden Marble Texture  Wall Painting, Bright Color Smooth Surface Living Room Art Home Decor Blue  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mEpQMBNqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eco Wood 3D Tiles Wallpaper 3D Texture Wall Art Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/0aab53/5547409663/il_570xN.5547409663_ekgt.jpg' alt='Eco Wood 3D Tiles Wallpaper 3D Texture Wall Art Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/0aab53/5547409663/il_570xN.5547409663_ekgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Brick, Stone, & Wood Wallpaper – Buy Online - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/w/0/w05625-small.jpg' alt='3D Brick, Stone, & Wood Wallpaper – Buy Online - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/w/0/w05625-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Brick, Stone, & Wood Wallpaper – Buy Online - Photo Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/w/0/w02761_option3.jpg' alt='3D Brick, Stone, & Wood Wallpaper – Buy Online - Photo Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/w/0/w02761_option3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Design 3D Texture Gold Decor Material Wood Walnut Gold Seamless Peel &  Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716k9nmqNFL._AC_UF894,1000_QL80_.jpg' alt='Wood Design 3D Texture Gold Decor Material Wood Walnut Gold Seamless Peel &  Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716k9nmqNFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper 3D Abstract scene made of organic ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/109000/109606/w01541pib1mr_1200.webp' alt='Wall Mural Photo Wallpaper 3D Abstract scene made of organic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/109000/109606/w01541pib1mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Stone Material Wallpaper, Grey Wall Mural, Brick Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/685f1a/1876650981/il_570xN.1876650981_h86s.jpg' alt='3D Stone Material Wallpaper, Grey Wall Mural, Brick Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/685f1a/1876650981/il_570xN.1876650981_h86s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic 3D Textured Wallpaper Home Decor Fabric Wall Paper Rolls  Background UK">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/tqAAAOSw0TpkB~dD/s-l1200.jpg' alt='Metallic 3D Textured Wallpaper Home Decor Fabric Wall Paper Rolls  Background UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/tqAAAOSw0TpkB~dD/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Breathtaking Ocean Video: Explore the Wonders Beneath the Waves"</title>
+                    <meta name="description" content="Discover the beauty of the ocean in our stunning video! Experience vibrant marine life and breathtaking underwater landscapes that will leave you in awe. Perfect for ocean lovers and adventure seekers alike—let the serene vibes take you on a virtual journey beneath the waves!">
+                    <meta name="keywords" content="ocean video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ocean-video">
+                            <span itemprop="name">ocean video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Breathtaking Ocean Video: Explore the Wonders Beneath the Waves"</h1>
+                <p>Dive into the mesmerizing world of the ocean with our captivating video! Explore vibrant marine life, stunning coral reefs, and the serene beauty of underwater landscapes. Feel the tranquility and excitement as you experience the ocean's wonders, from playful dolphins to graceful sea turtles. Take a moment to escape and breathe in the ocean's magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves, Water, Sea. Free Stock Video">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2019/03/21/22183-712840599_tiny.jpg' alt='Waves, Water, Sea. Free Stock Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2019/03/21/22183-712840599_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OCEAN LOOP">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8U_nLVItqdw/maxresdefault.jpg' alt='OCEAN LOOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8U_nLVItqdw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slow motion close up of disturbed blue ocean water surface">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/65/05/10/360_F_165051061_td7dViE8sf22qAoIm2k38NILNLwrU3KE.jpg' alt='Slow motion close up of disturbed blue ocean water surface'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/65/05/10/360_F_165051061_td7dViE8sf22qAoIm2k38NILNLwrU3KE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Videos, Download The BEST Free 4k Stock Video Footage ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/1918465/free-video-1918465.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Ocean Videos, Download The BEST Free 4k Stock Video Footage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/1918465/free-video-1918465.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea, Iceland, Ocean, Water">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/03/03/33194-396036988_tiny.jpg' alt='Sea, Iceland, Ocean, Water'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/03/03/33194-396036988_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[10 Hours] Wide Open Ocean - Video & Audio [1080HD] SlowTV">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LnSFuUJjYIo/maxresdefault.jpg' alt='[10 Hours] Wide Open Ocean - Video & Audio [1080HD] SlowTV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LnSFuUJjYIo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Video Free Stock Video Footage, Royalty-Free 4K & HD Video Clip">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/1093652/free-video-1093652.jpg' alt='Ocean Waves Video Free Stock Video Footage, Royalty-Free 4K & HD Video Clip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/1093652/free-video-1093652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves coming to the beach">
+                                <img itemprop="contentUrl url" src='https://assets.mixkit.co/videos/5016/5016-thumb-720-0.jpg' alt='Waves coming to the beach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixkit" />
+                                </span>
+                                <a href='https://assets.mixkit.co/videos/5016/5016-thumb-720-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying slowly just above the surface of the water at sunrise along the  reflection of the sun in the water. Following the sun. Sunset at sea. The  dolly shot. Version 4a Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1454420533/video/flying-slowly-just-above-the-surface-of-the-water-at-sunrise-along-the-reflection-of-the-sun.jpg?s=640x640&k=20&c=EnbBXqOeNP9dHvBb576vQHGXlEt1a2mZj7ZIkgM4iAM=' alt='Flying slowly just above the surface of the water at sunrise along the  reflection of the sun in the water. Following the sun. Sunset at sea. The  dolly shot. Version 4a Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1454420533/video/flying-slowly-just-above-the-surface-of-the-water-at-sunrise-along-the-reflection-of-the-sun.jpg?s=640x640&k=20&c=EnbBXqOeNP9dHvBb576vQHGXlEt1a2mZj7ZIkgM4iAM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SLOW MOTION UNDERWATER: Crystal clear barrel wave breaking over camera in  deep ocean. Camera descends from sunny beaches of Fuerteventura to deep  crystal clear water below a large bubbling ocean wave.">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/87/02/30/360_F_187023001_ArLmi3opHCFyGvddJSseSyWhuPx64rC4.jpg' alt='SLOW MOTION UNDERWATER: Crystal clear barrel wave breaking over camera in  deep ocean. Camera descends from sunny beaches of Fuerteventura to deep  crystal clear water below a large bubbling ocean wave.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/87/02/30/360_F_187023001_ArLmi3opHCFyGvddJSseSyWhuPx64rC4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

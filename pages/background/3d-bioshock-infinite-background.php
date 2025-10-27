@@ -1,0 +1,129 @@
+<title>Stunning 3D Backgrounds in BioShock Infinite</title>
+                    <meta name="description" content="Discover the breathtaking 3D backgrounds of BioShock Infinite. Dive into the artistic details of Columbia, where steampunk elements meet vibrant scenery. Perfect for fans and newcomers alike! Get ready to explore the stunning visuals that redefine gaming landscapes.">
+                    <meta name="keywords" content="3d bioshock infinite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-bioshock-infinite-background">
+                            <span itemprop="name">3d bioshock infinite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Backgrounds in BioShock Infinite</h1>
+                <p>Explore the stunning 3D backgrounds of BioShock Infinite, a visually captivating game set in the floating city of Columbia. Delve into the rich landscapes, intricate architecture, and vibrant colors that bring this alternate history to life. Experience the blend of steampunk aesthetics and breathtaking vistas that define the game's artistic vision.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bioshock Infinite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/bioshock-infinite-1xh3qa3w10xbv6ei.jpg' alt='100+] Bioshock Infinite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/bioshock-infinite-1xh3qa3w10xbv6ei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite 8k [7629 × 4320] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zcm1woppwyj11.jpg' alt='Bioshock Infinite 8k [7629 × 4320] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7629">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zcm1woppwyj11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Best Bioshock Infinite Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-bioshock-infinite-background-5ybkog3vszrzq83g.jpg' alt='100+] Best Bioshock Infinite Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-bioshock-infinite-background-5ybkog3vszrzq83g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BioShock Infinite Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg' alt='BioShock Infinite Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Bioshock Infinite" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/f7/f76f072f5aa8744347f4b400065036c3.jpeg' alt='Download "Bioshock Infinite" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7184">
+                                <meta itemprop="height" content="3512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/f7/f76f072f5aa8744347f4b400065036c3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock 1/Infinite Wallpaper Remade : r/Bioshock">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/e5UtF-8QeasShkW_jG2F-OX85uU4GrmHV7C823YVn7Q.jpg?auto=webp&s=3789a5f459c5b57eb186600e0b75b914d851beae' alt='Bioshock 1/Infinite Wallpaper Remade : r/Bioshock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/e5UtF-8QeasShkW_jG2F-OX85uU4GrmHV7C823YVn7Q.jpg?auto=webp&s=3789a5f459c5b57eb186600e0b75b914d851beae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bioshock infinite, statues, buildings Wallpaper, HD Games 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/bioshock-infinite-statues-buildings_ZmZta2uUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='bioshock infinite, statues, buildings Wallpaper, HD Games 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/bioshock-infinite-statues-buildings_ZmZta2uUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BioShock Infinite wallpaper - Game wallpapers - #27323">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/games/bioshock-infinite-27323-1920x1080.jpg' alt='BioShock Infinite wallpaper - Game wallpapers - #27323'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/games/bioshock-infinite-27323-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite Town Center Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bioshock-infinite-town-center-souhju9ketayy3tt.jpg' alt='Bioshock Infinite Town Center Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bioshock-infinite-town-center-souhju9ketayy3tt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite wallpaper. Great for whatsapp background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/a1/bc/79a1bce5323254cc5018d9749482541d.jpg' alt='Bioshock Infinite wallpaper. Great for whatsapp background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/a1/bc/79a1bce5323254cc5018d9749482541d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

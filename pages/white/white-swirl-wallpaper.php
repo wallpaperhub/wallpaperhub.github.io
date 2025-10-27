@@ -1,0 +1,129 @@
+<title>Elegant White Swirl Wallpaper: Add Style to Your Space</title>
+                    <meta name="description" content="Discover the beauty of white swirl wallpaper! Perfect for adding a touch of elegance to any room, this wallpaper's fluid patterns create a serene atmosphere. Ideal for modern and classic decor alike, transform your space with this stylish design today.">
+                    <meta name="keywords" content="white swirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-swirl-wallpaper">
+                            <span itemprop="name">white swirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Swirl Wallpaper: Add Style to Your Space</h1>
+                <p>White swirl wallpaper is an elegant choice that adds movement and style to any space. Its fluid patterns create a serene atmosphere, perfect for bedrooms, living rooms, or offices. Versatile and chic, this wallpaper easily complements various decor styles, from modern to classic. Embrace a touch of sophistication in your interior with white swirl designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Metallic Oil & Water Marble Swirl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-metallic-oil-water-marble-swirl-w-tidi.jpg' alt='White Metallic Oil & Water Marble Swirl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-metallic-oil-water-marble-swirl-w-tidi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Swirls Paintable Wallpaper in White design by BD Wall">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Graphic_Swirls_Paintable_Wallpaper_in_White_design_by_BD_Wall_4461e328-f643-40b3-a9db-f86b7db6520d.jpg?v=1571709815' alt='Graphic Swirls Paintable Wallpaper in White design by BD Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Graphic_Swirls_Paintable_Wallpaper_in_White_design_by_BD_Wall_4461e328-f643-40b3-a9db-f86b7db6520d.jpg?v=1571709815' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl White Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-abstract-background_23-2148832013.jpg' alt='Swirl White Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-abstract-background_23-2148832013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Silver Metallic Oil & Water Marble Swirl Design on Cork Wallpa">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-silver-metallic-oil-water-marble--tvue-l.jpg' alt='White & Silver Metallic Oil & Water Marble Swirl Design on Cork Wallpa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-silver-metallic-oil-water-marble--tvue-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | White pastel marble swirl background handmade ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-pastel-marble-swirl-background-handmade-feminine-flowing-texture-experimental-art_236836-5377.jpg' alt='Premium Photo | White pastel marble swirl background handmade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-pastel-marble-swirl-background-handmade-feminine-flowing-texture-experimental-art_236836-5377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Swirl Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/127/447/small/gray-swirls-texturas-vector.jpg' alt='White Swirl Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/127/447/small/gray-swirls-texturas-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Swirl Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/019/997/618/small_2x/3d-white-swirl-abstract-background-free-vector.jpg' alt='White Swirl Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/019/997/618/small_2x/3d-white-swirl-abstract-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract White Marble Background Swirls Texture Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/abstract-white-marble-background-swirls-260nw-436691800.jpg' alt='Abstract White Marble Background Swirls Texture Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/abstract-white-marble-background-swirls-260nw-436691800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Swirl Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-light-white-background_476363-10456.jpg?semt=ais_hybrid' alt='White Swirl Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-light-white-background_476363-10456.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray & White Swirl | Phone Wallpapers | Simple phone wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/ee/82/26ee823926c2c964adca766b4f23bfc5.jpg' alt='Gray & White Swirl | Phone Wallpapers | Simple phone wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/ee/82/26ee823926c2c964adca766b4f23bfc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

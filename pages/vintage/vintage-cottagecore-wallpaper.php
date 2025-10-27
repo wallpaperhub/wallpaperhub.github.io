@@ -1,0 +1,129 @@
+<title>Embrace Vintage Cottagecore: Enchanting Wallpapers for a Cozy Home</title>
+                    <meta name="description" content="Discover the beauty of vintage cottagecore wallpaper! With floral designs and soft colors, it adds a cozy ambiance to any room. Perfect for those wishing to create a tranquil, rustic retreat in their home. Explore our collection and elevate your interior with timeless charm!">
+                    <meta name="keywords" content="vintage cottagecore wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-cottagecore-wallpaper">
+                            <span itemprop="name">vintage cottagecore wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Vintage Cottagecore: Enchanting Wallpapers for a Cozy Home</h1>
+                <p>Vintage cottagecore wallpaper evokes a nostalgic charm that transforms any space into a serene retreat. With floral patterns, muted color palettes, and rustic designs, it beautifully encapsulates the essence of countryside living. Perfect for creating cozy, inviting atmospheres, these wallpapers are ideal for those seeking to embrace a simpler, more tranquil lifestyle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' alt='Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-310554.jpg?v=1730574433' alt='Cottagecore Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-310554.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vintage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/37/7c/70/377c70b41f78ec6a615fbf1e1bd5ccb0.jpg' alt='vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/37/7c/70/377c70b41f78ec6a615fbf1e1bd5ccb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-926995.png?v=1730574433' alt='Cottagecore Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-926995.png?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore [1920 x 1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2apm2s3stm661.png?auto=webp&s=87e3a98f2a3bfc36fefa66fda1dc57323b86e17d' alt='Cottagecore [1920 x 1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2apm2s3stm661.png?auto=webp&s=87e3a98f2a3bfc36fefa66fda1dc57323b86e17d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cottage-core aesthetic       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' alt='cottage-core aesthetic       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="898 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-vector-pattern-abstract-wild-600nw-2363312875.jpg' alt='898 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-vector-pattern-abstract-wild-600nw-2363312875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIGNFORD Wall Mural Vintage Mushroom Botanical Cottagecore Mushroom  Removable Wallpaper Wall Sticker for Bedroom Living Room - 96"x144" -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IYQ8JFhEL.jpg' alt='SIGNFORD Wall Mural Vintage Mushroom Botanical Cottagecore Mushroom  Removable Wallpaper Wall Sticker for Bedroom Living Room - 96"x144" -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IYQ8JFhEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper Wallpaper | Astek Home">
+                                <img itemprop="contentUrl url" src='https://www.astekhome.com/cdn/shop/collections/AV536-Install-Cottagecore_400x400.jpg?v=1678817981' alt='Cottagecore Wallpaper Wallpaper | Astek Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Home" />
+                                </span>
+                                <a href='https://www.astekhome.com/cdn/shop/collections/AV536-Install-Cottagecore_400x400.jpg?v=1678817981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Wallpaper, Cottagecore Wallpaper, Dark Wallpaper, Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/48d443/4824638323/il_570xN.4824638323_pwgt.jpg' alt='Botanical Wallpaper, Cottagecore Wallpaper, Dark Wallpaper, Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/48d443/4824638323/il_570xN.4824638323_pwgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

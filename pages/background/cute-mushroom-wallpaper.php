@@ -1,0 +1,129 @@
+<title>Adorable Mushroom Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the charm of cute mushroom wallpaper to enhance any room. Perfect for kids' spaces or creative corners, these delightful designs add a whimsical touch while inspiring imagination. Transform your walls with nature's beauty and bring joy to your decor effortlessly!">
+                    <meta name="keywords" content="cute mushroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-mushroom-wallpaper">
+                            <span itemprop="name">cute mushroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Mushroom Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with adorable mushroom wallpaper! Featuring whimsical designs and vibrant colors, this cute wallpaper brings a touch of nature indoors. Perfect for kids' rooms, nurseries, or playful spaces, it creates a cheerful atmosphere. Elevate your decor with these charming fungi motifs that inspire creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' alt='Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2436">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Frog & Mushroom Green Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/e4/d5/1ce4d5731d2cc85ccac96de75a4ffa8d.jpg' alt='Cute Frog & Mushroom Green Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/e4/d5/1ce4d5731d2cc85ccac96de75a4ffa8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mushroom Digital Wallpaper - Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36276544/r/il/373cab/4612063283/il_fullxfull.4612063283_au2b.jpg' alt='Cute Mushroom Digital Wallpaper - Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36276544/r/il/373cab/4612063283/il_fullxfull.4612063283_au2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mushroom Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' alt='100+] Mushroom Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Haven Beige Red">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/74922/mushroom-haven-beige-red.jpg?h=699&q=85' alt='Mushroom Haven Beige Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/74922/mushroom-haven-beige-red.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mushroom Pattern Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20221104/original/pngtree-cute-mushroom-pattern-picture-image_1944674.jpg' alt='Cute Mushroom Pattern Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20221104/original/pngtree-cute-mushroom-pattern-picture-image_1944674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog Wallpaper, Mushroom Background, Kawaii Digital Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41410562/r/il/fccfa7/4720393359/il_fullxfull.4720393359_odwk.jpg' alt='Frog Wallpaper, Mushroom Background, Kawaii Digital Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2380">
+                                <meta itemprop="height" content="2380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41410562/r/il/fccfa7/4720393359/il_fullxfull.4720393359_odwk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic mushroom wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/97/2a/fb972af9825a0e42393c25713e47adc3.jpg' alt='aesthetic mushroom wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/97/2a/fb972af9825a0e42393c25713e47adc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Wallpaper - Bunny-tan's Ko-fi Shop - Ko-fi ❤️ Where ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/d9eb4dbe-9fa0-48c4-b96e-0f25ec361535_preview3.jpg' alt='Mushroom Wallpaper - Bunny-tan's Ko-fi Shop - Ko-fi ❤️ Where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/d9eb4dbe-9fa0-48c4-b96e-0f25ec361535_preview3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another cute mushroom wallpaper : r/blender">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f3d79953348a1.png' alt='Another cute mushroom wallpaper : r/blender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f3d79953348a1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Customizable Blank Karaoke Poster for Your Next Event</title>
+                    <meta name="description" content="Discover our customizable blank karaoke posters, ideal for any event! Perfect for personalizing song lyrics, they make your karaoke nights even more special. Download and print easily for a fun evening filled with music and creativity. Perfect for parties or gatherings!">
+                    <meta name="keywords" content="background blank karaoke poster">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-blank-karaoke-poster">
+                            <span itemprop="name">background blank karaoke poster</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customizable Blank Karaoke Poster for Your Next Event</h1>
+                <p>Get ready to sing your heart out with our background blank karaoke posters! Perfect for parties, events, or personal use, these versatile posters provide a clear space for song lyrics or inspirational quotes. Easy to print and customize, they add a fun, personal touch to any karaoke night. Let the good times roll!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke Poster Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20221220/pngtree-karaoke-night-audience-poster-evening-vector-graphic-photo-image_27279946.jpg' alt='Karaoke Poster Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20221220/pngtree-karaoke-night-audience-poster-evening-vector-graphic-photo-image_27279946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="77 Karaoke posters ideas | karaoke, karaoke party, music wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/57/e4/b9/57e4b9238f1ee05e22308df56d0699c6.jpg' alt='77 Karaoke posters ideas | karaoke, karaoke party, music wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/57/e4/b9/57e4b9238f1ee05e22308df56d0699c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke Poster Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/215/377/non_2x/hand-hold-microphone-mic-silhouette-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-vector.jpg' alt='Karaoke Poster Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/215/377/non_2x/hand-hold-microphone-mic-silhouette-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke Poster Images – Browse 12,289 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/78/42/35/360_F_278423595_47RRIq3xAaHZBtSA7ICNxQiNmCyFZAyT.jpg' alt='Karaoke Poster Images – Browse 12,289 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/78/42/35/360_F_278423595_47RRIq3xAaHZBtSA7ICNxQiNmCyFZAyT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/168/275/small_2x/karaoke-night-party-glowing-poster-with-negative-space-vector.jpg' alt='Karaoke Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/168/275/small_2x/karaoke-night-party-glowing-poster-with-negative-space-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke music poster stock illustration. Illustration of jazz ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/karaoke-music-poster-night-abstract-background-space-33565152.jpg' alt='Karaoke music poster stock illustration. Illustration of jazz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/karaoke-music-poster-night-abstract-background-space-33565152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Karaoke Poster Templates Background Eps Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/655065802/display_1500/stock-vector-white-karaoke-poster-templates-background-eps-655065802.jpg' alt='White Karaoke Poster Templates Background Eps Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/655065802/display_1500/stock-vector-white-karaoke-poster-templates-background-eps-655065802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karaoke poster on textures background Black and White Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DTJ9X5/a-karaoke-poster-sketch-on-a-textures-background-DTJ9X5.jpg' alt='Karaoke poster on textures background Black and White Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DTJ9X5/a-karaoke-poster-sketch-on-a-textures-background-DTJ9X5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="party - karaoke - plakat Poster">
+                                <img itemprop="contentUrl url" src='https://t1.pixers.pics/img-c676e9e9/posters-party-karaoke-plakat.jpg?H4sIAAAAAAAAA42PTW6EMAyFrwNSwIY4IeEAs50joECSKS1_StIW9fQNbdVdpcoLP1t-n_XgdYvGO5jcllyAdbZ2ceDnJU-xDy7OH64QgjMs-7xdCsSs9jcXprAfRSWIVQ2XTKJkoqWyfzfZuZrwUjyldMQeIPL6mM-My22KMK0RWmw6QAVCK607YzlNmoZjqWIymzXBVhJPwvrYHgyv-j9XQYMgRtuMclQWaVRD2-IpsPolfGG5Uoy69kL_pOwQWXelS2Feixx3z9epeD4eJfzx81tDdsHtDpIDCdAa9LUZbnfJSWitB9NadKi199zKzo_EGyLryU1c2cZTnX98AhHFmCqJAQAA' alt='party - karaoke - plakat Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://t1.pixers.pics/img-c676e9e9/posters-party-karaoke-plakat.jpg?H4sIAAAAAAAAA42PTW6EMAyFrwNSwIY4IeEAs50joECSKS1_StIW9fQNbdVdpcoLP1t-n_XgdYvGO5jcllyAdbZ2ceDnJU-xDy7OH64QgjMs-7xdCsSs9jcXprAfRSWIVQ2XTKJkoqWyfzfZuZrwUjyldMQeIPL6mM-My22KMK0RWmw6QAVCK607YzlNmoZjqWIymzXBVhJPwvrYHgyv-j9XQYMgRtuMclQWaVRD2-IpsPolfGG5Uoy69kL_pOwQWXelS2Feixx3z9epeD4eJfzx81tDdsHtDpIDCdAa9LUZbnfJSWitB9NadKi199zKzo_EGyLryU1c2cZTnX98AhHFmCqJAQAA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Karaoke party invitation poster template, Karaoke ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/karaoke-party-invitation-poster-template-karaoke-night-flyer_8829-1949.jpg' alt='Premium Vector | Karaoke party invitation poster template, Karaoke ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/karaoke-party-invitation-poster-template-karaoke-night-flyer_8829-1949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

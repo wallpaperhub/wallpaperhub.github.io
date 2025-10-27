@@ -1,0 +1,129 @@
+<title>Discover the Magic of the Seasons</title>
+                    <meta name="description" content="Explore how seasons transform our environment, affecting nature, activities, and moods. From vibrant springs to cozy winters, uncover the beauty and uniqueness of each season. Perfect for nature lovers and everyone who appreciates the changing landscape of our world.">
+                    <meta name="keywords" content="seasons background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/seasons-background">
+                            <span itemprop="name">seasons background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of the Seasons</h1>
+                <p>Seasons shape our world, bringing unique landscapes and weather patterns that influence nature and human activities. Spring bursts forth with flowers and renewal, summer basks in warmth and life, autumn dresses the trees in hues of gold, and winter blankets the earth in snow. Each transition fosters a dynamic balance in our environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/96982289/vector/four-seasonal-background.jpg?s=612x612&w=0&k=20&c=BdeVX7A7knY-qlgW0opq3Uiksbq33yZvKCbXXk9x-ko=' alt='10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/96982289/vector/four-seasonal-background.jpg?s=612x612&w=0&k=20&c=BdeVX7A7knY-qlgW0opq3Uiksbq33yZvKCbXXk9x-ko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/520221095/vector/vector-four-season-landscape.jpg?s=612x612&w=0&k=20&c=JcaOnVaZGeQgkilSqryTpD2_zbo_FZh9w7QdIfmZZAM=' alt='10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/520221095/vector/vector-four-season-landscape.jpg?s=612x612&w=0&k=20&c=JcaOnVaZGeQgkilSqryTpD2_zbo_FZh9w7QdIfmZZAM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seasons Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/change-long-hair-material-deal-meeting_1134-794.jpg' alt='Seasons Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/change-long-hair-material-deal-meeting_1134-794.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165591451/vector/four-seasons-banner.jpg?s=612x612&w=0&k=20&c=Iy4BOq7BUyXOO2a54GMWfRKvolHFisoAujiWOth1ybA=' alt='10,600+ Four Seasons Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165591451/vector/four-seasons-banner.jpg?s=612x612&w=0&k=20&c=Iy4BOq7BUyXOO2a54GMWfRKvolHFisoAujiWOth1ybA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,056 Four Seasons Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165730073/vector/four-season-landscape.jpg?s=612x612&w=gi&k=20&c=XSY5K64OU3K5TllUDc4CY2aLF-FvsqKKFZaAvWS_dzM=' alt='1,056 Four Seasons Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165730073/vector/four-season-landscape.jpg?s=612x612&w=gi&k=20&c=XSY5K64OU3K5TllUDc4CY2aLF-FvsqKKFZaAvWS_dzM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="94,001 All Seasons Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/four-season-collage-arrow-banners-600nw-769579090.jpg' alt='94,001 All Seasons Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/four-season-collage-arrow-banners-600nw-769579090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seasons background Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/3405425/6468/v/950/depositphotos_64680095-stock-illustration-four-seasons-banners-spring-summer.jpg' alt='Seasons background Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/3405425/6468/v/950/depositphotos_64680095-stock-illustration-four-seasons-banners-spring-summer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 5ftx3ft Four Seasons Backdrop Winter Spring Summer  Autumn Scenery Fir Tree Butterfly Natural Science Background Nature Class  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81TApzmK05L.jpg' alt='Amazon.com : CHNYWORK 5ftx3ft Four Seasons Backdrop Winter Spring Summer  Autumn Scenery Fir Tree Butterfly Natural Science Background Nature Class  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81TApzmK05L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seasons Backgrounds Stock Illustrations – 8,470 Seasons ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/set-vector-backgrounds-illustrating-seasons-trees-foliage-90466831.jpg' alt='Seasons Backgrounds Stock Illustrations – 8,470 Seasons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/set-vector-backgrounds-illustrating-seasons-trees-foliage-90466831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Seasons Banners Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/four-seasons-banners-abstract-trees-260nw-681526486.jpg' alt='Four Seasons Banners Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/four-seasons-banners-abstract-trees-260nw-681526486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

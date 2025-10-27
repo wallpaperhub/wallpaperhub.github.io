@@ -1,0 +1,129 @@
+<title>Explore Vibrant Patrick PNG Images for Your Next Project</title>
+                    <meta name="description" content="Discover a collection of Patrick PNG images perfect for your digital needs. Ideal for website graphics, social media, and artwork, these transparent designs elevate your visual content with ease. Browse now for vibrant, flexible options to enhance your projects!">
+                    <meta name="keywords" content="patrick png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/patrick-png">
+                            <span itemprop="name">patrick png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Vibrant Patrick PNG Images for Your Next Project</h1>
+                <p>Patrick PNG designs are versatile and vibrant, ideal for enhancing digital projects. Whether for website graphics, social media posts, or personal artwork, these images offer flexibility with transparent backgrounds. Artists and marketers can leverage Patrick PNGs to create eye-catching visuals that stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/503/1/png-clipart-patrick-star-patrick-star-saint-patrick-s-day-paddy-holidays-fictional-character.png' alt='Patrick Star png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/503/1/png-clipart-patrick-star-patrick-star-saint-patrick-s-day-paddy-holidays-fictional-character.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick (PNG) by AmazingToluDada3000 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/deb9k6v-02e59dee-a73c-41d7-8d75-2989e8fc699b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGViOWs2di0wMmU1OWRlZS1hNzNjLTQxZDctOGQ3NS0yOTg5ZThmYzY5OWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vqh-U3s13UX_HwfHV0iJXDhwEDdKyoOSqQE_On0pmwg' alt='Patrick (PNG) by AmazingToluDada3000 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/deb9k6v-02e59dee-a73c-41d7-8d75-2989e8fc699b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGViOWs2di0wMmU1OWRlZS1hNzNjLTQxZDctOGQ3NS0yOTg5ZThmYzY5OWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vqh-U3s13UX_HwfHV0iJXDhwEDdKyoOSqQE_On0pmwg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/20/477/png-clipart-patrick-the-starfish-sticker-patrick-star-mr-krabs-stationery-picsart-studio-st-patrick-miscellaneous-food-thumbnail.png' alt='Patrick png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/20/477/png-clipart-patrick-the-starfish-sticker-patrick-star-mr-krabs-stationery-picsart-studio-st-patrick-miscellaneous-food-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Png by steamy2021 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b109830-ee08-48d4-92d6-3a1fa5a5a58f/dhz49w5-84edd1a4-ccde-4027-8b57-3b642583fe0e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA5ODMwLWVlMDgtNDhkNC05MmQ2LTNhMWZhNWE1YTU4ZlwvZGh6NDl3NS04NGVkZDFhNC1jY2RlLTQwMjctOGI1Ny0zYjY0MjU4M2ZlMGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.awG9vxrRmMeMSapIjt4q6t6Mv50_kMZIsZvtN7NulCA' alt='Patrick Star Png by steamy2021 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b109830-ee08-48d4-92d6-3a1fa5a5a58f/dhz49w5-84edd1a4-ccde-4027-8b57-3b642583fe0e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA5ODMwLWVlMDgtNDhkNC05MmQ2LTNhMWZhNWE1YTU4ZlwvZGh6NDl3NS04NGVkZDFhNC1jY2RlLTQwMjctOGI1Ny0zYjY0MjU4M2ZlMGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.awG9vxrRmMeMSapIjt4q6t6Mv50_kMZIsZvtN7NulCA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick PNG Image HD | PNG All">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/14/Patrick-PNG-Image-HD.png' alt='Patrick PNG Image HD | PNG All'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/14/Patrick-PNG-Image-HD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Happy Patrick Star Cartoon | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-patrick-star-cartoon-5m8vbfpx28dvhywg.jpg' alt='Download Happy Patrick Star Cartoon | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-patrick-star-cartoon-5m8vbfpx28dvhywg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star | Encyclopedia SpongeBobia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20210812083708' alt='Patrick Star | Encyclopedia SpongeBobia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20210812083708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Png by MisterCraigBoi on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96768393-b5ef-4ecd-b39c-6ef9c12ef61a/dhbri38-c3cd014a-9dd4-4a78-a69c-c8827fb7f624.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2NzY4MzkzLWI1ZWYtNGVjZC1iMzljLTZlZjljMTJlZjYxYVwvZGhicmkzOC1jM2NkMDE0YS05ZGQ0LTRhNzgtYTY5Yy1jODgyN2ZiN2Y2MjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1JUyeVoEnytMuPDof0BStrspFJOtyfJLOPpi7M4vl9M' alt='Patrick Png by MisterCraigBoi on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96768393-b5ef-4ecd-b39c-6ef9c12ef61a/dhbri38-c3cd014a-9dd4-4a78-a69c-c8827fb7f624.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2NzY4MzkzLWI1ZWYtNGVjZC1iMzljLTZlZjljMTJlZjYxYVwvZGhicmkzOC1jM2NkMDE0YS05ZGQ0LTRhNzgtYTY5Yy1jODgyN2ZiN2Y2MjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1JUyeVoEnytMuPDof0BStrspFJOtyfJLOPpi7M4vl9M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Patrick Star Show - Happy Patrick - PNG Image">
+                                <img itemprop="contentUrl url" src='https://img.cartoongoodies.com/wp-content/uploads/2023/03/The-Patrick-Star-Show-Happy-Patrick.png' alt='The Patrick Star Show - Happy Patrick - PNG Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Goodies" />
+                                </span>
+                                <a href='https://img.cartoongoodies.com/wp-content/uploads/2023/03/The-Patrick-Star-Show-Happy-Patrick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Patrick star ideas | patrick star, spongebob, spongebob ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/200x150/c1/7c/c7/c17cc7c1c60c3606c56ccc4cf0da5614.jpg' alt='900+ Best Patrick star ideas | patrick star, spongebob, spongebob ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/200x150/c1/7c/c7/c17cc7c1c60c3606c56ccc4cf0da5614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Amsterdam Photos: Explore the Beauty of the Dutch Capital</title>
+                    <meta name="description" content="Discover breathtaking Amsterdam photos that highlight the city’s picturesque canals, historic architecture, and lively atmosphere. Perfect for travel lovers and photography enthusiasts alike, these captivating images will inspire your next adventure in the heart of the Netherlands.">
+                    <meta name="keywords" content="amsterdam photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/amsterdam-photos">
+                            <span itemprop="name">amsterdam photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Amsterdam Photos: Explore the Beauty of the Dutch Capital</h1>
+                <p>Amsterdam photos capture the city’s essence, showcasing its iconic canals, charming houses, and vibrant culture. From sunlit streets lined with tulips to the hustle and bustle of local markets, each shot tells a unique story. Perfect for travel inspiration or simply to relive fond memories of this beautiful Dutch capital.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="162,200+ Amsterdam Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1352073906/photo/amsterdam-downtown-amstel-river-old-houses-and-a-bridge-nice-view-of-the-famous-city-of.jpg?s=612x612&w=0&k=20&c=0-l6Lf8A_QM0Nd-YPLrp5qUn8S1uc0TFKETH8TU9JcU=' alt='162,200+ Amsterdam Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1352073906/photo/amsterdam-downtown-amstel-river-old-houses-and-a-bridge-nice-view-of-the-famous-city-of.jpg?s=612x612&w=0&k=20&c=0-l6Lf8A_QM0Nd-YPLrp5qUn8S1uc0TFKETH8TU9JcU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amsterdam: tips, canals, pride & more - Holland.com">
+                                <img itemprop="contentUrl url" src='https://www.holland.com/upload_mm/2/4/4/80160_fullimage_rondvaartboot%20vaart%20onder%20brug%20door%20met%20mooie%20wolkenlucht%20%C2%A9%20illusion-x%20via%20pixabay_1150x663_438x353.jpg' alt='Amsterdam: tips, canals, pride & more - Holland.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Holland.com" />
+                                </span>
+                                <a href='https://www.holland.com/upload_mm/2/4/4/80160_fullimage_rondvaartboot%20vaart%20onder%20brug%20door%20met%20mooie%20wolkenlucht%20%C2%A9%20illusion-x%20via%20pixabay_1150x663_438x353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amsterdam, The Netherlands: All You Must Know Before You Go (2025 ...">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/74/c9/cf/caption.jpg?w=1400&h=1400&s=1&pcx=1097&pcy=742&pchk=v1_15125732981dc7cf7364' alt='Amsterdam, The Netherlands: All You Must Know Before You Go (2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/74/c9/cf/caption.jpg?w=1400&h=1400&s=1&pcx=1097&pcy=742&pchk=v1_15125732981dc7cf7364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your next adventure: Amsterdam, Netherlands">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/e2f26e6b-8255-4391-84be-4b0919d4c0d8/20240626-0349-Jonathan%20Irish-NGCW-CITI-AA-Amsterdam-_7R52855.jpg' alt='Your next adventure: Amsterdam, Netherlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/e2f26e6b-8255-4391-84be-4b0919d4c0d8/20240626-0349-Jonathan%20Irish-NGCW-CITI-AA-Amsterdam-_7R52855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1 day in Amsterdam (+ map): How to plan perfect day in Amsterdam?">
+                                <img itemprop="contentUrl url" src='https://smilingway.cz/wp-content/uploads/2023/10/Amsterdam-za-1-den.jpeg' alt='1 day in Amsterdam (+ map): How to plan perfect day in Amsterdam?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smiling Way" />
+                                </span>
+                                <a href='https://smilingway.cz/wp-content/uploads/2023/10/Amsterdam-za-1-den.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Hours in Amsterdam: Things to Do and See - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/09/24/multimedia/24-36Hrs-Amsterdam-01-01-cwqt/24-36Hrs-Amsterdam-01-01-cwqt-videoSixteenByNineJumbo1600.jpg' alt='36 Hours in Amsterdam: Things to Do and See - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/09/24/multimedia/24-36Hrs-Amsterdam-01-01-cwqt/24-36Hrs-Amsterdam-01-01-cwqt-videoSixteenByNineJumbo1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amsterdam Images – Browse 279,352 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/21/44/24/360_F_121442455_nE2JdYpzmGjWVVXF9iPlVsVKP50ejebM.jpg' alt='Amsterdam Images – Browse 279,352 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/21/44/24/360_F_121442455_nE2JdYpzmGjWVVXF9iPlVsVKP50ejebM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Amsterdam Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFtc3RlcmRhbXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Amsterdam Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFtc3RlcmRhbXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amsterdam Pictures | U.S. News Travel">
+                                <img itemprop="contentUrl url" src='https://travel.usnews.com/dims4/USNEWS/7b7c6f8/2147483647/resize/1280x350%5E%3E/crop/1280x350/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fhero_Amsterdam_101_1280x350_HneCike.jpg' alt='Amsterdam Pictures | U.S. News Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. News Travel" />
+                                </span>
+                                <a href='https://travel.usnews.com/dims4/USNEWS/7b7c6f8/2147483647/resize/1280x350%5E%3E/crop/1280x350/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fhero_Amsterdam_101_1280x350_HneCike.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Things to Do in Amsterdam, From Boutique Shopping to ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/62747dc06673cadbbd825338/1:1/w_4000,h_4000,c_limit/Amsteradm_eirik-skarstein-Vgr-_65__lw-unsplash.jpg' alt='The Best Things to Do in Amsterdam, From Boutique Shopping to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/62747dc06673cadbbd825338/1:1/w_4000,h_4000,c_limit/Amsteradm_eirik-skarstein-Vgr-_65__lw-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Palm Leaf Wallpaper</title>
+                    <meta name="description" content="Discover the charm of vintage palm leaf wallpaper to elevate your home decor. Perfect for creating a tropical ambiance, this timeless design combines nostalgia with modern aesthetics, enhancing any room effortlessly. Add a fresh, stylish touch to your interiors today!">
+                    <meta name="keywords" content="vintage palm leaf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-palm-leaf-wallpaper">
+                            <span itemprop="name">vintage palm leaf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Palm Leaf Wallpaper</h1>
+                <p>Vintage palm leaf wallpaper adds a touch of tropical elegance to your interiors. Its intricate designs evoke a sense of nostalgia while bringing nature indoors. Perfect for accent walls or entire rooms, this wallpaper seamlessly blends retro charm with contemporary style, making any space feel fresh and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WESTICK Dark Tropical Wallpaper Vintage Palm Tree Wallpaper Peel and Stick  Banana Leaf Contact Paper Decorative Jungle Plant Wall Paper Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817EVarqtPL.jpg' alt='WESTICK Dark Tropical Wallpaper Vintage Palm Tree Wallpaper Peel and Stick  Banana Leaf Contact Paper Decorative Jungle Plant Wall Paper Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817EVarqtPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murwall Leaf Wallpaper Palm Leaves Wall Mural Vintage Leaf Pattern Wall  Print Tropical Home Decor Cafe Design">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81C-yjpS+oL._UF894,1000_QL80_.jpg' alt='Murwall Leaf Wallpaper Palm Leaves Wall Mural Vintage Leaf Pattern Wall  Print Tropical Home Decor Cafe Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81C-yjpS+oL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plein Air Palms Wallpaper (Vintage)">
+                                <img itemprop="contentUrl url" src='https://lemieuxetcie.com/cdn/shop/files/LM5433copy.jpg?v=1703025720' alt='Plein Air Palms Wallpaper (Vintage)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemieux et Cie" />
+                                </span>
+                                <a href='https://lemieuxetcie.com/cdn/shop/files/LM5433copy.jpg?v=1703025720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make a statement with Vintage Palm Leaf wall mural in your home ...">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/DecoDecadens-VintagePalmTree-BAS01601031-SoftPink-3.jpg?v=1699364376' alt='Make a statement with Vintage Palm Leaf wall mural in your home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/DecoDecadens-VintagePalmTree-BAS01601031-SoftPink-3.jpg?v=1699364376' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Wallpaper, Tropical Wallpaper, Mid Century Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/49eefc/3608116270/il_570xN.3608116270_biod.jpg' alt='Palm Wallpaper, Tropical Wallpaper, Mid Century Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/49eefc/3608116270/il_570xN.3608116270_biod.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage tropical palm trees banana palm tree dirt wallpaper murals  printable, instant download, Vintage palms, Retro tree wallpaper, flowers">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17534100/r/il/cfeca3/2985885609/il_570xN.2985885609_1k57.jpg' alt='Vintage tropical palm trees banana palm tree dirt wallpaper murals  printable, instant download, Vintage palms, Retro tree wallpaper, flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17534100/r/il/cfeca3/2985885609/il_570xN.2985885609_1k57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Palm Leaf Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/o/oo19177967_moc5.jpg' alt='Vintage Palm Leaf Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/o/oo19177967_moc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Tropical Palms Wallpaper | Earthy Browns Wall Murals">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/9496Din03vintage_tropical_palm_trees_banana_palm_tree_dirt.jpg?v=1732685731&width=1946' alt='Vintage Tropical Palms Wallpaper | Earthy Browns Wall Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/9496Din03vintage_tropical_palm_trees_banana_palm_tree_dirt.jpg?v=1732685731&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Tropical Wallpaper Vintage Palm Tree Wallpaper Peel and Stick Palm  Leaves Contact Paper Decorative Jungle Plant Wall Paper Removable  Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61IypIhVVhL.jpg' alt='Dark Tropical Wallpaper Vintage Palm Tree Wallpaper Peel and Stick Palm  Leaves Contact Paper Decorative Jungle Plant Wall Paper Removable  Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61IypIhVVhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Vintage Palm Trees Peel and Stick Wallpaper - Bed Bath ...">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/b3ad91338eb894f173238f95ae21a599542ecd68/Tropical-Vintage-Palm-Trees-Peel-and-Stick-Wallpaper.jpg?impolicy=medium' alt='Tropical Vintage Palm Trees Peel and Stick Wallpaper - Bed Bath ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/b3ad91338eb894f173238f95ae21a599542ecd68/Tropical-Vintage-Palm-Trees-Peel-and-Stick-Wallpaper.jpg?impolicy=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

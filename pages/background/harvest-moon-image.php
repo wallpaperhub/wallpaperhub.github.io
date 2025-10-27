@@ -1,0 +1,129 @@
+<title>Stunning Harvest Moon Images: Capture Nature's Beauty</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="harvest moon image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harvest-moon-image">
+                            <span itemprop="name">harvest moon image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Harvest Moon Images: Capture Nature's Beauty</h1>
+                <p>A harvest moon image captures the vibrant, golden hue of the full moon as it rises over fields during autumn. This stunning natural phenomenon occurs when the moon is closest to the horizon, illuminating the night sky and surrounding landscapes with a warm glow. Perfect for photographers and nature lovers alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,500+ Harvest Moon Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1342731978/photo/the-full-moon-and-japanese-pampas-grass-the-harvest-moon-and-japanese-pampas-grass-the.jpg?s=612x612&w=0&k=20&c=njSE2q9n2jCRHq81Qg4opPdSXtXiyoh7B86tgdTvimA=' alt='8,500+ Harvest Moon Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1342731978/photo/the-full-moon-and-japanese-pampas-grass-the-harvest-moon-and-japanese-pampas-grass-the.jpg?s=612x612&w=0&k=20&c=njSE2q9n2jCRHq81Qg4opPdSXtXiyoh7B86tgdTvimA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvest moon | Description & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/128149-004-7E9A79D3/Harvest-moon.jpg?w=400&h=300&c=crop' alt='Harvest moon | Description & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/128149-004-7E9A79D3/Harvest-moon.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,500+ Harvest Moon Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1278330524/photo/a-full-orange-harvest-moon-rise-over-a-city.jpg?s=612x612&w=0&k=20&c=8aj1dQczimbzv3SQwi3UEprWDP5kACbWALm15X3sPxg=' alt='8,500+ Harvest Moon Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1278330524/photo/a-full-orange-harvest-moon-rise-over-a-city.jpg?s=612x612&w=0&k=20&c=8aj1dQczimbzv3SQwi3UEprWDP5kACbWALm15X3sPxg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvest Moon 2025 - when it is, how to see it">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2024/09/harvest-moonn-singing-ringing-tree.jpg' alt='Harvest Moon 2025 - when it is, how to see it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2024/09/harvest-moonn-singing-ringing-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate The End Of Summer With Monday's Harvest Moon : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2021/09/18/gettyimages-1228836229-f1705b9d0ad13704a36e55f641507a4a2d173b51.jpg?s=1100&c=50&f=jpeg' alt='Celebrate The End Of Summer With Monday's Harvest Moon : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2021/09/18/gettyimages-1228836229-f1705b9d0ad13704a36e55f641507a4a2d173b51.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Harvest Moon?">
+                                <img itemprop="contentUrl url" src='https://www.treehugger.com/thmb/bY4RTWtn3ISLri62dXUW74VvBZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1219675985-6deb726d71a649daac5b96a7041d4724.jpg' alt='What Is a Harvest Moon?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treehugger" />
+                                </span>
+                                <a href='https://www.treehugger.com/thmb/bY4RTWtn3ISLri62dXUW74VvBZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1219675985-6deb726d71a649daac5b96a7041d4724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the harvest moon, how to watch it? All to know about the ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2023/09/AP22258795662623-1695379052.jpg?resize=1800%2C1800' alt='What is the harvest moon, how to watch it? All to know about the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2023/09/AP22258795662623-1695379052.jpg?resize=1800%2C1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Harvest Moon? | HowStuffWorks">
+                                <img itemprop="contentUrl url" src='https://cdn.hswstatic.com/gif/gettyimages-861102078.jpg' alt='What Is a Harvest Moon? | HowStuffWorks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science | HowStuffWorks" />
+                                </span>
+                                <a href='https://cdn.hswstatic.com/gif/gettyimages-861102078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What makes the Harvest Moon special?">
+                                <img itemprop="contentUrl url" src='https://earthsky.org/upl/2023/09/Marek-Nikodem_harvest-full-moon_near-Koronowo-Poland_2021-sep-20-e1632252551890-1.jpeg' alt='What makes the Harvest Moon special?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EarthSky" />
+                                </span>
+                                <a href='https://earthsky.org/upl/2023/09/Marek-Nikodem_harvest-full-moon_near-Koronowo-Poland_2021-sep-20-e1632252551890-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How frequent is the full Harvest Moon? | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/AU7q4xrY33dh5KALA2eazZ-1200-80.jpg' alt='How frequent is the full Harvest Moon? | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/AU7q4xrY33dh5KALA2eazZ-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

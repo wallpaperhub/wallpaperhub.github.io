@@ -1,0 +1,129 @@
+<title>Empowering Connections: Bumble’s Mission Explained</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="bumble mission">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bumble-mission">
+                            <span itemprop="name">bumble mission</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Connections: Bumble’s Mission Explained</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life at Bumble | Bumble">
+                                <img itemprop="contentUrl url" src='https://team.bumble.com/social-sharing.jpg' alt='Life at Bumble | Bumble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble Careers" />
+                                </span>
+                                <a href='https://team.bumble.com/social-sharing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble: A Daring Brand Promise Delivered">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5612AQHXGRDTj40PGA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1614123734302?e=2147483647&v=beta&t=ZM6R0Ww_dnWvI0TfOMcQp-ubu7lHjpj4mZIgcusA7qc' alt='Bumble: A Daring Brand Promise Delivered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5612AQHXGRDTj40PGA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1614123734302?e=2147483647&v=beta&t=ZM6R0Ww_dnWvI0TfOMcQp-ubu7lHjpj4mZIgcusA7qc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble - Here's What It Means When You Agree to the Bumble Pledge">
+                                <img itemprop="contentUrl url" src='https://bumble.com/the-buzz/_next/image?w=1080&q=75&url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBumble-pledge-In-copy-Image-1200x800-1-1024x683-1-1.jpg' alt='Bumble - Here's What It Means When You Agree to the Bumble Pledge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble" />
+                                </span>
+                                <a href='https://bumble.com/the-buzz/_next/image?w=1080&q=75&url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBumble-pledge-In-copy-Image-1200x800-1-1024x683-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble B. Mission Fun by Marsha Qualey, Jessica Gibson, Paperback ...">
+                                <img itemprop="contentUrl url" src='https://prodimage.images-bn.com/pimages/9781684360161_p0_v1_s600x595.jpg' alt='Bumble B. Mission Fun by Marsha Qualey, Jessica Gibson, Paperback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='https://prodimage.images-bn.com/pimages/9781684360161_p0_v1_s600x595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble - Here's What It Means When You Agree to the Bumble Pledge">
+                                <img itemprop="contentUrl url" src='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBumble-pledge-Main-Image-1200x800-1-1.jpg&w=3840&q=75' alt='Bumble - Here's What It Means When You Agree to the Bumble Pledge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble" />
+                                </span>
+                                <a href='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBumble-pledge-Main-Image-1200x800-1-1.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble Gives Women More Choice to Make the First Move | Business Wire">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20240430323928/en/2111942/5/Opening_Moves_1.jpg' alt='Bumble Gives Women More Choice to Make the First Move | Business Wire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="2204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20240430323928/en/2111942/5/Opening_Moves_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble - Here's Everything You Need to Know About Bumble For Friends">
+                                <img itemprop="contentUrl url" src='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBFF_CampaignLaunch_TheBuzz_In-copy_Image1_1200x800.png&w=3840&q=75' alt='Bumble - Here's Everything You Need to Know About Bumble For Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble" />
+                                </span>
+                                <a href='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBFF_CampaignLaunch_TheBuzz_In-copy_Image1_1200x800.png&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Join the Hive! — The BeeHive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57d03e423e00be61bf183b3d/1479237183194-BCF6WVYNP58FT1F5B2VV/image-asset.png' alt='Join the Hive! — The BeeHive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The BeeHive - Bumble" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57d03e423e00be61bf183b3d/1479237183194-BCF6WVYNP58FT1F5B2VV/image-asset.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble - Bumble For Friends Wins Google Play Best of 2023 User ...">
+                                <img itemprop="contentUrl url" src='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBFF-Google-Play-winner-Article-Header-1.jpg&w=3840&q=75' alt='Bumble - Bumble For Friends Wins Google Play Best of 2023 User ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble" />
+                                </span>
+                                <a href='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBFF-Google-Play-winner-Article-Header-1.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bumble - Bumble Partners with The Dialogue To Make the Internet ...">
+                                <img itemprop="contentUrl url" src='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBrunch2-1.png&w=3840&q=75' alt='Bumble - Bumble Partners with The Dialogue To Make the Internet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bumble" />
+                                </span>
+                                <a href='https://bumble.com/the-buzz/_next/image?url=http%3A%2F%2Fcdn-internal%3A8081%2Fbumble-buzz-production%2F2024%2F11%2FBrunch2-1.png&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

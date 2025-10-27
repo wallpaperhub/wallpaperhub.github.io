@@ -1,0 +1,129 @@
+<title>The Power of "The Yellow Wallpaper": A Reflection on Madness</title>
+                    <meta name="description" content="Explore the themes of madness, gender roles, and self-identity in Charlotte Perkins Gilman's "The Yellow Wallpaper." This analysis dives into the oppressive forces faced by women and the profound symbolism of the wallpaper in illustrating the struggle for freedom and mental autonomy.">
+                    <meta name="keywords" content="yellow wallpaper essay">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-wallpaper-essay">
+                            <span itemprop="name">yellow wallpaper essay</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Power of "The Yellow Wallpaper": A Reflection on Madness</h1>
+                <p>Charlotte Perkins Gilman's "The Yellow Wallpaper" explores the descent into madness of a woman confined by societal norms and medical practices. Through vivid imagery and symbolism, the wallpaper becomes a representation of her oppression. This essay delves into themes of gender roles, mental health, and the quest for self-identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Connection between the Narrator & the Paper ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' alt='The Yellow Wallpaper: Connection between the Narrator & the Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) The yellow wallpaper-essay">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/43193764/mini_magick20190216-13687-1ujxkcn.png?1550346302' alt='DOC) The yellow wallpaper-essay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/43193764/mini_magick20190216-13687-1ujxkcn.png?1550346302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Essay English 102 | PDF | The Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/406853121/original/f85f94b3aa/1?v=1' alt='Yellow Wallpaper Essay English 102 | PDF | The Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/406853121/original/f85f94b3aa/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Literary Analysis Essay of The Yellow Wallpaper, Free Example ...">
+                                <img itemprop="contentUrl url" src='https://speedypaper.com/essay-previews/3eff0a78cfb0121117501a47cd92410c/literary-analysis-essay-of-the-yellow-wallpaper-free-example.webp' alt='   Literary Analysis Essay of The Yellow Wallpaper, Free Example ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeedyPaper" />
+                                </span>
+                                <a href='https://speedypaper.com/essay-previews/3eff0a78cfb0121117501a47cd92410c/literary-analysis-essay-of-the-yellow-wallpaper-free-example.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essay On The Yellow Wallpaper. Highline College | PDF">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/essayontheyellowwallpaper-240202195301-dd114510-thumbnail.jpg?width=640&height=640&fit=bounds' alt='Essay On The Yellow Wallpaper. Highline College | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/essayontheyellowwallpaper-240202195301-dd114510-thumbnail.jpg?width=640&height=640&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Connection between the Narrator & the Paper ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page2.webp' alt='The Yellow Wallpaper: Connection between the Narrator & the Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essay The Yellow Wallpaper - Priya Patel Final Paper 11/26/13 The ...">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/thumb/1b/16/1b16f1bcdb6826f8b6639a8d3941f38d3f9afd5d_180.jpg' alt='Essay The Yellow Wallpaper - Priya Patel Final Paper 11/26/13 The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/thumb/1b/16/1b16f1bcdb6826f8b6639a8d3941f38d3f9afd5d_180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper" a Novel by Charlotte Perkins Gilman - 754 ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/103/103391/the-yellow-wallpaper-a-novel-by-charlotte-perkins-gilman-page1.webp' alt='The Yellow Wallpaper" a Novel by Charlotte Perkins Gilman - 754 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/103/103391/the-yellow-wallpaper-a-novel-by-charlotte-perkins-gilman-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SOLUTION: The yellow wallpaper analysis essay - Studypool">
+                                <img itemprop="contentUrl url" src='https://sp-uploads.s3.amazonaws.com/uploads%2Fservices%2F1986791%2F20221101155514_63614162c6f05_the_yellow_wallpaper_analysis_essaypage0.jpg' alt='SOLUTION: The yellow wallpaper analysis essay - Studypool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studypool" />
+                                </span>
+                                <a href='https://sp-uploads.s3.amazonaws.com/uploads%2Fservices%2F1986791%2F20221101155514_63614162c6f05_the_yellow_wallpaper_analysis_essaypage0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Argumentative Essay Writing Activity – Simply ...">
+                                <img itemprop="contentUrl url" src='https://simplynovel.com/cdn/shop/products/The_Yellow_Wallpaper_Argumentative_Essay_345x@2x.png?v=1568823705' alt='The Yellow Wallpaper Argumentative Essay Writing Activity – Simply ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Novel" />
+                                </span>
+                                <a href='https://simplynovel.com/cdn/shop/products/The_Yellow_Wallpaper_Argumentative_Essay_345x@2x.png?v=1568823705' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

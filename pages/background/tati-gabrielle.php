@@ -1,0 +1,129 @@
+<title>Tati Gabrielle: Rising Star in Hollywood</title>
+                    <meta name="description" content="Discover the world of Tati Gabrielle, a talented actress making waves in Hollywood. Known for her role in "Chilling Adventures of Sabrina," she captivates audiences with her performances. Explore her journey, talents, and upcoming projects in this concise overview of her career and achievements.">
+                    <meta name="keywords" content="tati gabrielle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tati-gabrielle">
+                            <span itemprop="name">tati gabrielle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tati Gabrielle: Rising Star in Hollywood</h1>
+                <p>Tati Gabrielle is an American actress known for her versatile performances in film and television. She gained widespread recognition for her role as Prudence in the hit series "Chilling Adventures of Sabrina" and is celebrated for her captivating presence on screen. Tati's talent extends beyond acting, as she also explores music and fashion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tati_Gabrielle_by_Gage_Skidmore.jpg/800px-Tati_Gabrielle_by_Gage_Skidmore.jpg' alt='Tati Gabrielle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tati_Gabrielle_by_Gage_Skidmore.jpg/800px-Tati_Gabrielle_by_Gage_Skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjM5NDk3NDM4NV5BMl5BanBnXkFtZTgwMzU4Mzc1NzM@._V1_FMjpg_UX1000_.jpg' alt='Tati Gabrielle - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjM5NDk3NDM4NV5BMl5BanBnXkFtZTgwMzU4Mzc1NzM@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle | The Owl House Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-owl-house/images/d/d1/TatiGabrielle.jpeg/revision/latest?cb=20240727164407' alt='Tati Gabrielle | The Owl House Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Owl House Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-owl-house/images/d/d1/TatiGabrielle.jpeg/revision/latest?cb=20240727164407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODg4OTFjOTktZDA4Mi00OGE4LWI3NGMtYjE0NWE0NTkxNGVkXkEyXkFqcGc@._V1_.jpg' alt='Tati Gabrielle - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODg4OTFjOTktZDA4Mi00OGE4LWI3NGMtYjE0NWE0NTkxNGVkXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - Actress">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/1076960_v9_ba.jpg' alt='Tati Gabrielle - Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/1076960_v9_ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZWJhN2U4N2QtZTBkMS00MDllLWIyODItNTcwYTQwYzk0ZTNiXkEyXkFqcGc@._V1_.jpg' alt='Tati Gabrielle - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZWJhN2U4N2QtZTBkMS00MDllLWIyODItNTcwYTQwYzk0ZTNiXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle Talks You Season 4, Taking Agency Over Her ...">
+                                <img itemprop="contentUrl url" src='https://pop-culturalist.com/wp-content/uploads/2023/02/tati-gabrielle-you-season-pop-culturalist-1280x720.jpg' alt='Tati Gabrielle Talks You Season 4, Taking Agency Over Her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pop-Culturalist.com" />
+                                </span>
+                                <a href='https://pop-culturalist.com/wp-content/uploads/2023/02/tati-gabrielle-you-season-pop-culturalist-1280x720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle | The 100 Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thehundred/images/6/65/Tati-gabrielle.jpg/revision/latest?cb=20200211072150' alt='Tati Gabrielle | The 100 Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The 100 Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thehundred/images/6/65/Tati-gabrielle.jpg/revision/latest?cb=20200211072150' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautifully flawed': Tati Gabrielle, Kaleidoscope actress of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/02/10/c2d24d46-11fc-40fa-b0f0-3f7845697afc_34510936.jpg?itok=VL3g0gXv&v=1675994021' alt='Beautifully flawed': Tati Gabrielle, Kaleidoscope actress of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/02/10/c2d24d46-11fc-40fa-b0f0-3f7845697afc_34510936.jpg?itok=VL3g0gXv&v=1675994021' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tati Gabrielle - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTAyMDExMjc4NTdeQTJeQWpwZ15BbWU4MDUyNzg2NjYz._V1_.jpg' alt='Tati Gabrielle - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTAyMDExMjc4NTdeQTJeQWpwZ15BbWU4MDUyNzg2NjYz._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

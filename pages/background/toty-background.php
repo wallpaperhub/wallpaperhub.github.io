@@ -1,0 +1,129 @@
+<title>"Unlocking the TOTY Background: Elevate Your Game Experience"</title>
+                    <meta name="description" content="Discover the fascinating world of the TOTY background! Explore its significance in gaming, the stunning visuals, and how it enhances player engagement during the Team of the Year event. Elevate your experience with exclusive content and updates that keep you immersed in the action!">
+                    <meta name="keywords" content="toty background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toty-background">
+                            <span itemprop="name">toty background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Unlocking the TOTY Background: Elevate Your Game Experience"</h1>
+                <p>The term "toty background" refers to the visual or thematic elements associated with the "Team of the Year" (TOTY) event in various online games, particularly in sports simulations. This event highlights the top-performing players, enriching user experience with stunning graphics, impactful gameplay changes, and exclusive content that enhances user engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIVE* TOTY IS HERE! HUGE TEAM OF THE YEAR PACK OPENING ON FC 24 ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qUorQhtk6wI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDK-l0t2HVZFlGgSb2iNBK7e5aZ-g' alt='LIVE* TOTY IS HERE! HUGE TEAM OF THE YEAR PACK OPENING ON FC 24 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qUorQhtk6wI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDK-l0t2HVZFlGgSb2iNBK7e5aZ-g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOTY FIFA 19 Background">
+                                <img itemprop="contentUrl url" src='https://public-files.gumroad.com/3gchruzha78ysyri8krugm9yytca' alt='TOTY FIFA 19 Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1005">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hirs_fut" />
+                                </span>
+                                <a href='https://public-files.gumroad.com/3gchruzha78ysyri8krugm9yytca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dante on X: "FREE TOTY BACKGROUND Available now here: https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GhVdYp6WYAAnhea.jpg' alt='Dante on X: "FREE TOTY BACKGROUND Available now here: https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GhVdYp6WYAAnhea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please rate my custom TOTY design (I know the real one has been ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/please-rate-my-custom-toty-design-i-know-the-real-one-has-v0-tke7b8ukavaa1.jpg?width=640&crop=smart&auto=webp&s=1a2ccaa027d634ec35508a05d8169e28f84dde15' alt='Please rate my custom TOTY design (I know the real one has been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/please-rate-my-custom-toty-design-i-know-the-real-one-has-v0-tke7b8ukavaa1.jpg?width=640&crop=smart&auto=webp&s=1a2ccaa027d634ec35508a05d8169e28f84dde15' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EA FC 25 TOTY leaks – TOTY and TOTY Icon squads leaked as 3 ...">
+                                <img itemprop="contentUrl url" src='https://res.lootbar.gg/pic/20250116/943e11f1-9738-4b8a-a2d7-dff70dd4aa24.jpg' alt='EA FC 25 TOTY leaks – TOTY and TOTY Icon squads leaked as 3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LootBar" />
+                                </span>
+                                <a href='https://res.lootbar.gg/pic/20250116/943e11f1-9738-4b8a-a2d7-dff70dd4aa24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dante on X: "     NEW TOTY BACKGROUND AVAILABLE NOW Here: https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Ghr1xwGWgAA7Ri6.jpg:large' alt='Dante on X: "     NEW TOTY BACKGROUND AVAILABLE NOW Here: https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Ghr1xwGWgAA7Ri6.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOTY Background Concept - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/VzdRQmR.jpeg' alt='TOTY Background Concept - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/VzdRQmR.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FIFA 21 Team Of The Year - AKQA">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/feazk3r7m969/1j5D423IyE7XJL3laHviUs/2f2627fcabcf39b9db7a2704c9b4597f/TOTY-HeroVIsual.jpg?w=1920&q=70&fm=webp' alt='FIFA 21 Team Of The Year - AKQA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AKQA" />
+                                </span>
+                                <a href='https://images.ctfassets.net/feazk3r7m969/1j5D423IyE7XJL3laHviUs/2f2627fcabcf39b9db7a2704c9b4597f/TOTY-HeroVIsual.jpg?w=1920&q=70&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futgraphics on X: "TOTY Assets have been released! Exclusive 4k ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FmcBCo7XkAIzO-v?format=jpg&name=4096x4096' alt='Futgraphics on X: "TOTY Assets have been released! Exclusive 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FmcBCo7XkAIzO-v?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Team of the Year (TOTY) in history: FIFA 09 to EA FC 24 ...">
+                                <img itemprop="contentUrl url" src='https://www.charlieintel.com/cdn-image/wp-content/uploads/2023/01/24/Every-FIFA-TOTY.jpg?width=1200&quality=60&format=auto' alt='Every Team of the Year (TOTY) in history: FIFA 09 to EA FC 24 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charlie INTEL" />
+                                </span>
+                                <a href='https://www.charlieintel.com/cdn-image/wp-content/uploads/2023/01/24/Every-FIFA-TOTY.jpg?width=1200&quality=60&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

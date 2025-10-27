@@ -1,0 +1,129 @@
+<title>Maximize Your Future: American Income Life Zoom Meeting</title>
+                    <meta name="description" content="Join our American Income Life Zoom meeting to learn about insurance products, career opportunities, and financial empowerment. Connect with experts and get valuable insights. Register now and take the first step towards a secure future!">
+                    <meta name="keywords" content="american income life zoom meeting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/american-income-life-zoom-meeting">
+                            <span itemprop="name">american income life zoom meeting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maximize Your Future: American Income Life Zoom Meeting</h1>
+                <p>Join us for an informative American Income Life Zoom meeting! Discover our unique insurance products, how they can benefit you and your family, and explore incredible career opportunities. Connect with industry experts, ask questions, and gain insights on maximizing your financial future. Don’t miss out—register now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Income Life - Perez Agency - Work at home job!. virtual ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3470316729662620' alt='American Income Life - Perez Agency - Work at home job!. virtual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3470316729662620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Globe Life American Income Division: Hawthorne Organization - New ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1148029083989229' alt='Globe Life American Income Division: Hawthorne Organization - New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1148029083989229' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is American Income Life About? | American Income Life ...">
+                                <img itemprop="contentUrl url" src='https://www.ailife.com/articles/images/what-is-american-income-life-about-lg.jpg' alt='What is American Income Life About? | American Income Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Income Life" />
+                                </span>
+                                <a href='https://www.ailife.com/articles/images/what-is-american-income-life-about-lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge thanks to our guest speaker, michael.vasu, for reminding us ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3580477912971607929' alt='Huge thanks to our guest speaker, michael.vasu, for reminding us ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3580477912971607929' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former CEO of American Income Life, Roger Smith, spreading his ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7057388212997606702&location=0&aid=1988' alt='Former CEO of American Income Life, Roger Smith, spreading his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7057388212997606702&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American income life insurance??? Free will? : r/Scams">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/american-income-life-insurance-free-will-v0-hawybwtev0hc1.jpg?width=640&crop=smart&auto=webp&s=1f77473f259c4b92afe5d265e1ea9ad100a0ae6c' alt='American income life insurance??? Free will? : r/Scams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="2315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/american-income-life-insurance-free-will-v0-hawybwtev0hc1.jpg?width=640&crop=smart&auto=webp&s=1f77473f259c4b92afe5d265e1ea9ad100a0ae6c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally get an email for an interview …but it's American Income ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/finally-get-an-email-for-an-interview-but-its-american-v0-2gnj22smum291.jpg?auto=webp&s=29ec9c79541157c4b1f649b4a9780f472dfad4c4' alt='Finally get an email for an interview …but it's American Income ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/finally-get-an-email-for-an-interview-but-its-american-v0-2gnj22smum291.jpg?auto=webp&s=29ec9c79541157c4b1f649b4a9780f472dfad4c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ready, set, refer!    Join us for an insightful meeting on the art ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=365461672950127' alt='Ready, set, refer!    Join us for an insightful meeting on the art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=365461672950127' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We are so much more than just life insurance. Message me today and ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=498062736306375' alt='We are so much more than just life insurance. Message me today and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=498062736306375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life Insurance Agent Cincinnati, Ohio | Kevin Holtz | Globe Life ...">
+                                <img itemprop="contentUrl url" src='https://agency.ailife.com/getattachment/99b09696-0735-4c7e-be63-72c6019fb3da/Kevin-Holtz.aspx' alt='Life Insurance Agent Cincinnati, Ohio | Kevin Holtz | Globe Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Find a Globe Life American Income Division Agent" />
+                                </span>
+                                <a href='https://agency.ailife.com/getattachment/99b09696-0735-4c7e-be63-72c6019fb3da/Kevin-Holtz.aspx' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

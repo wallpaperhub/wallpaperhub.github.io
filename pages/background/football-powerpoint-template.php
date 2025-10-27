@@ -1,0 +1,129 @@
+<title>Ultimate Football PowerPoint Template for Engaging Presentations</title>
+                    <meta name="description" content="Discover the perfect football PowerPoint template to create impactful presentations. Designed for coaches and fans alike, this customizable template features eye-catching designs, tactical layouts, and easy-to-use slides. Score big with your next presentation!">
+                    <meta name="keywords" content="football powerpoint template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/football-powerpoint-template">
+                            <span itemprop="name">football powerpoint template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Football PowerPoint Template for Engaging Presentations</h1>
+                <p>Elevate your presentations with our football PowerPoint template! Perfect for coaches, teams, and sports enthusiasts, this customizable template features dynamic slides with vibrant graphics and layouts designed for showcasing team stats, game highlights, and strategies. Make your next presentation a winner!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Over Grass PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2018/07/American-Football-Over-Grass-PowerPoint-Templates-Feature-Image.gif' alt='American Football Over Grass PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates Design" />
+                                </span>
+                                <a href='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2018/07/American-Football-Over-Grass-PowerPoint-Templates-Feature-Image.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Google Slides & PowerPoint templates about Football">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/2393152/american-football-workshop1612276112.png' alt='Free Google Slides & PowerPoint templates about Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/2393152/american-football-workshop1612276112.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football-Sports PPT Templates">
+                                <img itemprop="contentUrl url" src='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2014/06/American-Football-Sports-PPT-Templates-1.jpg' alt='American Football-Sports PPT Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates Design" />
+                                </span>
+                                <a href='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2014/06/American-Football-Sports-PPT-Templates-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free NFL PPT Template">
+                                <img itemprop="contentUrl url" src='https://ppttemplate.net/wp-content/uploads/2013/11/nfl-football-powerpoint-template-724.jpg' alt='Free NFL PPT Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPT Template.net" />
+                                </span>
+                                <a href='https://ppttemplate.net/wp-content/uploads/2013/11/nfl-football-powerpoint-template-724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football field PowerPoint template designs – TrashedGraphics">
+                                <img itemprop="contentUrl url" src='https://www.trashedgraphics.com/wp-content/uploads/2019/01/football_field_powerpoint_template_cover.jpg' alt='Football field PowerPoint template designs – TrashedGraphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrashedGraphics" />
+                                </span>
+                                <a href='https://www.trashedgraphics.com/wp-content/uploads/2019/01/football_field_powerpoint_template_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football PPT Template PPT Presentation & Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/20119-football-ppt-template.png' alt='Football PPT Template PPT Presentation & Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/20119-football-ppt-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Football PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Animated-football-PowerPoint-template.jpg' alt='Animated Football PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Hunter" />
+                                </span>
+                                <a href='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Animated-football-PowerPoint-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Foot Ball Google Slides Themes & PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/webpv2/670/82381-football-powerpoint-ppt-template--670.webp' alt='Free Foot Ball Google Slides Themes & PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/webpv2/670/82381-football-powerpoint-ppt-template--670.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free sports Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://templateready.com/cdn/shop/products/free-football-PPT-template_2048x.jpg?v=1677272156' alt='Free sports Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template Ready" />
+                                </span>
+                                <a href='https://templateready.com/cdn/shop/products/free-football-PPT-template_2048x.jpg?v=1677272156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Football Field PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/06/Football-Field-PowerPoint-Template.jpg' alt='Animated Football Field PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/06/Football-Field-PowerPoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

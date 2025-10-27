@@ -1,0 +1,129 @@
+<title>Stunning Ducks on White Background</title>
+                    <meta name="description" content="Explore the beauty of ducks showcased against a clean white background. This minimalistic approach highlights their colorful plumage and delightful antics, making it perfect for photography, art, and design enthusiasts. Discover how this simple backdrop transforms your appreciation for these charming birds!">
+                    <meta name="keywords" content="duck white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/duck-white-background">
+                            <span itemprop="name">duck white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ducks on White Background</h1>
+                <p>Ducks are charming creatures often depicted against a pure white background, which enhances their vibrant colors and playful poses. This simplistic backdrop creates a serene aesthetic, drawing attention to their unique features and expressions. The contrast highlights their graceful movement, making them a favorite subject for photography and art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="duck with white background high quality ultra hd 30666568 Stock ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/666/568/large_2x/duck-with-white-background-high-quality-ultra-hd-free-photo.jpg' alt='duck with white background high quality ultra hd 30666568 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/666/568/large_2x/duck-with-white-background-high-quality-ultra-hd-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Photos-mallard duck isolated on white background">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/photo-mallard-duck-isolated-on-white-background-61273.jpg' alt='Bird Photos-mallard duck isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/photo-mallard-duck-isolated-on-white-background-61273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Duck-293474 white background.jpg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2a/Duck-293474_white_background.jpg' alt='File:Duck-293474 white background.jpg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="907">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2a/Duck-293474_white_background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck white background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T4KHRH/tame-white-duck-standing-side-ways-looking-towards-lens-isolated-on-white-background-T4KHRH.jpg' alt='Duck white background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T4KHRH/tame-white-duck-standing-side-ways-looking-towards-lens-isolated-on-white-background-T4KHRH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Photos-gadwall duck isolated on white background">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/photo-gadwall-duck-isolated-on-white-background-62552.jpg' alt='Bird Photos-gadwall duck isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/photo-gadwall-duck-isolated-on-white-background-62552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56,034 Baby Duck White Background Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cute-little-duckling-isolated-on-600nw-521632762.jpg' alt='56,034 Baby Duck White Background Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cute-little-duckling-isolated-on-600nw-521632762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="168,056 White Duck Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/white-duck-white-one-isolated-background-66211047.jpg' alt='168,056 White Duck Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/white-duck-white-one-isolated-background-66211047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56,034 Baby Duck White Background Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/mallard-male-duck-isolated-on-600nw-2253676361.jpg' alt='56,034 Baby Duck White Background Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/mallard-male-duck-isolated-on-600nw-2253676361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="male mallard duck on white background with work paths Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/09/57/78/1000_F_109577870_azIeaVokSSFfqcs8NAhCKy9HG6nkhZV8.jpg' alt='male mallard duck on white background with work paths Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/09/57/78/1000_F_109577870_azIeaVokSSFfqcs8NAhCKy9HG6nkhZV8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck White">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/aa/15/5e/aa155e94f69f106eb398d7f3460ac7f9.png' alt='Duck White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/aa/15/5e/aa155e94f69f106eb398d7f3460ac7f9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

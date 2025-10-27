@@ -1,0 +1,129 @@
+<title>Explore the History of Scotland: A Journey Through Time</title>
+                    <meta name="description" content="Discover Scotland's fascinating history, from ancient tribes to modern independence movements. Explore its rich heritage, significant events, and cultural transformations that have shaped this stunning nation. Dive into the past and understand Scotland's role in shaping global history!">
+                    <meta name="keywords" content="history of scotland">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-scotland">
+                            <span itemprop="name">history of scotland</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the History of Scotland: A Journey Through Time</h1>
+                <p>Scotland's history is rich and complex, marked by the rise and fall of kingdoms, fierce battles for independence, and vibrant cultural evolution. From the ancient Picts to the unification under King James VI, Scotland has played a pivotal role in shaping European history. The legacy of clans, wars, and the Enlightenment continues to resonate today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scottish History: 10 Surprising Facts | HistoryExtra">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/7/2016/01/GettyImages-4639252452-3c91ff9.jpg' alt='Scottish History: 10 Surprising Facts | HistoryExtra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5354">
+                                <meta itemprop="height" content="3280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryExtra" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/7/2016/01/GettyImages-4639252452-3c91ff9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video: A short history of Scotland">
+                                <img itemprop="contentUrl url" src='https://www.scotsman.com/webimg/legacy_elm_61535687.jpg?width=1200&enable=upscale' alt='Video: A short history of Scotland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Scotsman" />
+                                </span>
+                                <a href='https://www.scotsman.com/webimg/legacy_elm_61535687.jpg?width=1200&enable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History of Scotland: Look Behind the Mist and Myth of Scottish History:  Oliver, Neil: 9780753826638: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Q5WOyjBOL.jpg' alt='A History of Scotland: Look Behind the Mist and Myth of Scottish History:  Oliver, Neil: 9780753826638: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Q5WOyjBOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Scotland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg' alt='History of Scotland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5500">
+                                <meta itemprop="height" content="4276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Scotland - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Nc4Czmt56Vg/hqdefault.jpg?v=673ca2f4' alt='The History of Scotland - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Nc4Czmt56Vg/hqdefault.jpg?v=673ca2f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Scotland - Documentary">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cful8_-kQbE/sddefault.jpg' alt='History of Scotland - Documentary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cful8_-kQbE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient History of Scotland | Scotland.org">
+                                <img itemprop="contentUrl url" src='https://www.scotland.org/images/uploads/general/culloden_battlefield.PNG' alt='Ancient History of Scotland | Scotland.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scotland.org" />
+                                </span>
+                                <a href='https://www.scotland.org/images/uploads/general/culloden_battlefield.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unraveling the Great History of Scotland Across 5 Eras">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Jc11rgAIe44/hqdefault.jpg' alt='Unraveling the Great History of Scotland Across 5 Eras'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Connolly Cove" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Jc11rgAIe44/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scotland in the Eighteenth Century | History Timeline">
+                                <img itemprop="contentUrl url" src='https://d1a6qvk7ptxv3.cloudfront.net/images/splash/history-18th.jpg' alt='Scotland in the Eighteenth Century | History Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Scotland" />
+                                </span>
+                                <a href='https://d1a6qvk7ptxv3.cloudfront.net/images/splash/history-18th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Scotland: The Early Modern Period">
+                                <img itemprop="contentUrl url" src='https://cdn-wordpress-info.futurelearn.com/info/wp-content/uploads/The_Signing_of_the_National_Covenant_in_Greyfriars_Kirkyard2C_Edinburgh-768x478.jpg' alt='History of Scotland: The Early Modern Period'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FutureLearn" />
+                                </span>
+                                <a href='https://cdn-wordpress-info.futurelearn.com/info/wp-content/uploads/The_Signing_of_the_National_Covenant_in_Greyfriars_Kirkyard2C_Edinburgh-768x478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

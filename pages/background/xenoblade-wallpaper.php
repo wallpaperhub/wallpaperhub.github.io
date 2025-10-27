@@ -1,0 +1,129 @@
+<title>Xenoblade Wallpaper: Epic Designs for Your Device</title>
+                    <meta name="description" content="Explore a collection of beautifully crafted Xenoblade wallpapers perfect for your devices. Enjoy high-resolution images featuring iconic characters and breathtaking scenes from the beloved game series. Upgrade your phone or tablet with stunning visuals today!">
+                    <meta name="keywords" content="xenoblade wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/xenoblade-wallpaper">
+                            <span itemprop="name">xenoblade wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Xenoblade Wallpaper: Epic Designs for Your Device</h1>
+                <p>Discover stunning Xenoblade wallpapers that bring your favorite characters and landscapes to life! Whether you're a fan of Xenoblade Chronicles or Xenoblade Chronicles 2, our collection features high-quality images that capture the epic beauty of these games. Elevate your devices with breathtaking visuals and immerse yourself in the world of Xenoblade!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade 3 Wallpaper I cropped from aionios moments : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xenoblade-3-wallpaper-i-cropped-from-aionios-moments-v0-415ir26icxzc1.png?auto=webp&s=1dd397f89210f02e5de58cf27317b368b173837e' alt='Xenoblade 3 Wallpaper I cropped from aionios moments : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xenoblade-3-wallpaper-i-cropped-from-aionios-moments-v0-415ir26icxzc1.png?auto=webp&s=1dd397f89210f02e5de58cf27317b368b173837e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean XCDE Menu Screen Wallpapers of Day, Dusk, Night, and Dawn ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b97he1z4jhy61.png' alt='Clean XCDE Menu Screen Wallpapers of Day, Dusk, Night, and Dawn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b97he1z4jhy61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for Key Art of Xenoblade 2 : r/Xenoblade_Chronicles">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/looking-for-key-art-of-xenoblade-2-v0-54g32h19pdzb1.jpg?width=1920&format=pjpg&auto=webp&s=3eabf37a4ea149b85dd23c4d2bc6896f426f7430' alt='Looking for Key Art of Xenoblade 2 : r/Xenoblade_Chronicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/looking-for-key-art-of-xenoblade-2-v0-54g32h19pdzb1.jpg?width=1920&format=pjpg&auto=webp&s=3eabf37a4ea149b85dd23c4d2bc6896f426f7430' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rikuto ( Elias ) on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/d8/7f/38d87fec372cfb6d303aca828765107f.jpg' alt='Rikuto ( Elias ) on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/d8/7f/38d87fec372cfb6d303aca828765107f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Xenoblade Chronicles 3 [4K]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1818901417394646338/BF8DAC1885D137F03315401D0CDA2995ED21380F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Xenoblade Chronicles 3 [4K]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1818901417394646338/BF8DAC1885D137F03315401D0CDA2995ED21380F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade Chronicles: A Journey into the Horizon">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/602/602903.png' alt='Xenoblade Chronicles: A Journey into the Horizon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/602/602903.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade Chronicles 3D review - X marks the spot">
+                                <img itemprop="contentUrl url" src='http://i0.wp.com/media.criticalhit.net//2015/03/Xenoblade-1.jpg' alt='Xenoblade Chronicles 3D review - X marks the spot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Critical Hit" />
+                                </span>
+                                <a href='http://i0.wp.com/media.criticalhit.net//2015/03/Xenoblade-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mythra (Xenoblade) Rex (Xenoblade) Video Game Xenoblade ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/991/991224.jpg' alt='Download Mythra (Xenoblade) Rex (Xenoblade) Video Game Xenoblade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/991/991224.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the grand world of Xenoblade and discover its ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/xenoblade-03i51v0zboaum3bi.jpg' alt='Download Explore the grand world of Xenoblade and discover its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/xenoblade-03i51v0zboaum3bi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made up this wallpaper, (version 2) : r/Xenoblade_Chronicles">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2rbs3k7lr38c1.jpeg' alt='I made up this wallpaper, (version 2) : r/Xenoblade_Chronicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2rbs3k7lr38c1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

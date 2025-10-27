@@ -1,0 +1,129 @@
+<title>Darkfield Microscopes: Bright Images on a Dark Background</title>
+                    <meta name="description" content="Discover how darkfield microscopes create stunning light images against dark backgrounds, enhancing the visibility of transparent specimens. Uncover techniques and applications ideal for biological and material sciences in this concise guide.">
+                    <meta name="keywords" content="true or false: darkfield microscopes show light images on a dark background.">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/true-or-false-darkfield-microscopes-show-light-images-on-a-dark-background">
+                            <span itemprop="name">true or false: darkfield microscopes show light images on a dark background.</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Darkfield Microscopes: Bright Images on a Dark Background</h1>
+                <p>True. Darkfield microscopes utilize specialized optics to scatter light, producing bright images on a dark background. This technique enhances the contrast of transparent and unstained specimens, making details more visible. It's an essential tool in biological and material sciences for observing live organisms and intricate structures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Dark Field Microscopy? — Microscopes.com.au">
+                                <img itemprop="contentUrl url" src='http://microscopes.com.au/cdn/shop/articles/bm2000-dark-field-microscope_1024x1024.jpg?v=1632099539' alt='What is Dark Field Microscopy? — Microscopes.com.au'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="microscopes.com.au" />
+                                </span>
+                                <a href='http://microscopes.com.au/cdn/shop/articles/bm2000-dark-field-microscope_1024x1024.jpg?v=1632099539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark-field microscopy - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Red_blood_cells_by_darkfield_microscopy.jpg/1200px-Red_blood_cells_by_darkfield_microscopy.jpg' alt='Dark-field microscopy - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Red_blood_cells_by_darkfield_microscopy.jpg/1200px-Red_blood_cells_by_darkfield_microscopy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Benefits and Limitations of Dark Field Microscopy">
+                                <img itemprop="contentUrl url" src='https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_2335_16661809246465900.jpg' alt='The Benefits and Limitations of Dark Field Microscopy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZoOptics" />
+                                </span>
+                                <a href='https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_2335_16661809246465900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are Dark-Field Microscopes?">
+                                <img itemprop="contentUrl url" src='https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_2125_16426687314591833.jpg' alt='What are Dark-Field Microscopes?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZoOptics" />
+                                </span>
+                                <a href='https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_2125_16426687314591833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Dark Field Microscopy? — Microscopes.com.au">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0015/8826/5023/files/darkfield-microscope-image_480x480.jpg?v=1632099423' alt='What is Dark Field Microscopy? — Microscopes.com.au'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="microscopes.com.au" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0015/8826/5023/files/darkfield-microscope-image_480x480.jpg?v=1632099423' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Dark-Field Microscopy | Motic Microscopes">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1634/0335/files/s54_DSC_0068_480x480.jpg?v=1623702742' alt='Introduction to Dark-Field Microscopy | Motic Microscopes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motic Microscopes" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1634/0335/files/s54_DSC_0068_480x480.jpg?v=1623702742' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Dark-Field Microscopy | Motic Microscopes">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1634/0335/files/9_images_darkfield_480x480.jpg?v=1623703299' alt='Introduction to Dark-Field Microscopy | Motic Microscopes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motic Microscopes" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1634/0335/files/9_images_darkfield_480x480.jpg?v=1623703299' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Dark-Field Microscopy | Motic Microscopes">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1634/0335/files/s137_6techniques_480x480.jpg?v=1623702825' alt='Introduction to Dark-Field Microscopy | Motic Microscopes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motic Microscopes" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1634/0335/files/s137_6techniques_480x480.jpg?v=1623702825' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to Darkfield Microscopes | Science Lab | Leica Microsystems">
+                                <img itemprop="contentUrl url" src='https://www.leica-microsystems.com/fileadmin/_processed_/4/5/csm_lms-darkfield-microscopes-content-08_078ddc7082.jpg' alt='A Guide to Darkfield Microscopes | Science Lab | Leica Microsystems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leica Microsystems" />
+                                </span>
+                                <a href='https://www.leica-microsystems.com/fileadmin/_processed_/4/5/csm_lms-darkfield-microscopes-content-08_078ddc7082.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Dark-Field Microscopy | Motic Microscopes">
+                                <img itemprop="contentUrl url" src='http://moticmicroscopes.com/cdn/shop/articles/s76_Radolarians4_DF.jpg?v=1629129105' alt='Introduction to Dark-Field Microscopy | Motic Microscopes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motic Microscopes" />
+                                </span>
+                                <a href='http://moticmicroscopes.com/cdn/shop/articles/s76_Radolarians4_DF.jpg?v=1629129105' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

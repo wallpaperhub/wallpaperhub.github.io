@@ -1,0 +1,129 @@
+<title>Modern Farmhouse Peel and Stick Wallpaper: Easy DIY Decor</title>
+                    <meta name="description" content="Discover the charm of modern farmhouse peel and stick wallpaper! Effortlessly enhance your home decor with stylish designs that combine rustic appeal and contemporary flair. Perfect for renters and DIY lovers, these easy-to-install wallpapers make updating your space a breeze.">
+                    <meta name="keywords" content="peel and stick wallpaper modern farmhouse">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-modern-farmhouse">
+                            <span itemprop="name">peel and stick wallpaper modern farmhouse</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Modern Farmhouse Peel and Stick Wallpaper: Easy DIY Decor</h1>
+                <p>Transform your space with peel and stick wallpaper in a modern farmhouse style. This easy-to-install option features rustic designs and neutral tones that bring warmth and character to any room. Perfect for DIY enthusiasts, it offers a budget-friendly way to revamp your décor without the hassle of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Basket Weave Peel & Stick Wallpaper | Shop Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_basic-basket-weave_main-view.jpg' alt='Basic Basket Weave Peel & Stick Wallpaper | Shop Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_basic-basket-weave_main-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Farmhouse Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3414">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3682450409_5r2h.jpg' alt='Modern Farmhouse Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3414'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3682450409_5r2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...">
+                                <img itemprop="contentUrl url" src='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' alt='Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Farmhouse Glam" />
+                                </span>
+                                <a href='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Herringbone Peel & Stick Wallpaper | Shop Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2020/10/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_marble-herringbone_main-view.jpg' alt='Marble Herringbone Peel & Stick Wallpaper | Shop Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2020/10/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_marble-herringbone_main-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Wallpaper Modern French Country Peel and Stick Wallpaper Neutral  Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81x7n6AveBL._AC_UF894,1000_QL80_.jpg' alt='Toile Wallpaper Modern French Country Peel and Stick Wallpaper Neutral  Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81x7n6AveBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Plaid Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/249/1287/IMG_4338__46950.1664381105.jpg?c=2' alt='Farmhouse Plaid Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/249/1287/IMG_4338__46950.1664381105.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17.3 x 59.05 Peel and Stick Wallpaper Grasscloth Contact Paper Stick  Wallpaper Modern Farmhouse Wallpaper Self Adhesive Removable Wallpaper for  Walls ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91dM61LzYKL.jpg' alt='17.3 x 59.05 Peel and Stick Wallpaper Grasscloth Contact Paper Stick  Wallpaper Modern Farmhouse Wallpaper Self Adhesive Removable Wallpaper for  Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91dM61LzYKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Brick Peel and Stick Modern Farmhouse Wallpaper NU1653 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/ade3e6/1687695314/il_570xN.1687695314_rqtx.jpg' alt='Gray Brick Peel and Stick Modern Farmhouse Wallpaper NU1653 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/ade3e6/1687695314/il_570xN.1687695314_rqtx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...">
+                                <img itemprop="contentUrl url" src='https://modernfarmhouseglam.com/wp-content/uploads/img-4997.jpg' alt='Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Farmhouse Glam" />
+                                </span>
+                                <a href='https://modernfarmhouseglam.com/wp-content/uploads/img-4997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Tulips Peel + Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/0023584_folk-tulip-peel-stick-wallpaper_1_530x@2x.jpg?v=1589569105' alt='Farmhouse Tulips Peel + Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renovate Wallcoverings" />
+                                </span>
+                                <a href='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/0023584_folk-tulip-peel-stick-wallpaper_1_530x@2x.jpg?v=1589569105' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

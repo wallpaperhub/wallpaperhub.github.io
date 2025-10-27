@@ -1,0 +1,129 @@
+<title>Barcelona Wallpaper: Bring the City Home</title>
+                    <meta name="description" content="Discover captivating Barcelona wallpaper that infuses your home with style and culture. Perfect for any room, these designs showcase the beauty of the city, making your walls come alive. Transform your space effortlessly with exquisite patterns that reflect Barcelona’s unique charm.">
+                    <meta name="keywords" content="barcelona wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barcelona-wallpaper">
+                            <span itemprop="name">barcelona wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barcelona Wallpaper: Bring the City Home</h1>
+                <p>Transform your space with stunning Barcelona wallpaper that captures the city's vibrant energy and artistic spirit. From Gaudí's whimsical designs to the lively streets of Las Ramblas, these wallpapers bring a touch of Barcelona’s charm to any room. Perfect for any décor style, they make your walls a canvas of beauty and inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barcelona, fcb, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/628/674/HD-wallpaper-barcelona-fcb.jpg' alt='Barcelona, fcb, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/628/674/HD-wallpaper-barcelona-fcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo Barcelona Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/5/e/921349-2160x3840-phone-4k-logo-barcelona-wallpaper-photo.jpg' alt='Logo Barcelona Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/5/e/921349-2160x3840-phone-4k-logo-barcelona-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC Barcelona">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/23/37/ab/2337abec912e81977b7bf0f71db00bd4.jpg' alt='FC Barcelona'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/23/37/ab/2337abec912e81977b7bf0f71db00bd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo Barcelona Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/4/2/921273-3840x2160-desktop-4k-logo-barcelona-wallpaper-photo.jpg' alt='Logo Barcelona Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/4/2/921273-3840x2160-desktop-4k-logo-barcelona-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC Barcelona Dynamic Collage - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/fc-barcelona-dynamic-collage.webp' alt='FC Barcelona Dynamic Collage - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/fc-barcelona-dynamic-collage.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barcelona">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/d7/74/0bd774bcee502e09e85b39f5284e4716.jpg' alt='Barcelona'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/d7/74/0bd774bcee502e09e85b39f5284e4716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barcelona Fc Field Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/barcelona-fc-and-nike-logos-4e7f61t7jeunue2r.webp' alt='Barcelona Fc Field Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/barcelona-fc-and-nike-logos-4e7f61t7jeunue2r.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPERS | FC Barcelona 4-0 Real Madrid : r/Barca">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wallpapers-fc-barcelona-4-0-real-madrid-v0-sugzogcgz7xd1.jpg?width=2000&format=pjpg&auto=webp&s=ccea2cf36f449a3756c19e1f92ff34db7c9a859c' alt='WALLPAPERS | FC Barcelona 4-0 Real Madrid : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wallpapers-fc-barcelona-4-0-real-madrid-v0-sugzogcgz7xd1.jpg?width=2000&format=pjpg&auto=webp&s=ccea2cf36f449a3756c19e1f92ff34db7c9a859c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fc Barcelona 2023/24 Wallpaper by m1lyy on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65f562a4-0c80-476e-a0c0-93e17f942122/dgva8rn-a774f755-134d-4789-89c2-2c5a5787fd77.png/v1/fill/w_1280,h_1707/fc_barcelona_2023_24_wallpaper_by_m1lyy_dgva8rn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzY1ZjU2MmE0LTBjODAtNDc2ZS1hMGMwLTkzZTE3Zjk0MjEyMlwvZGd2YThybi1hNzc0Zjc1NS0xMzRkLTQ3ODktODljMi0yYzVhNTc4N2ZkNzcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ApIXCieRpJ-tLLHemwqklPlMkXteeFAe0fWD1J3j6hU' alt='Fc Barcelona 2023/24 Wallpaper by m1lyy on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65f562a4-0c80-476e-a0c0-93e17f942122/dgva8rn-a774f755-134d-4789-89c2-2c5a5787fd77.png/v1/fill/w_1280,h_1707/fc_barcelona_2023_24_wallpaper_by_m1lyy_dgva8rn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzY1ZjU2MmE0LTBjODAtNDc2ZS1hMGMwLTkzZTE3Zjk0MjEyMlwvZGd2YThybi1hNzc0Zjc1NS0xMzRkLTQ3ODktODljMi0yYzVhNTc4N2ZkNzcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ApIXCieRpJ-tLLHemwqklPlMkXteeFAe0fWD1J3j6hU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Culers - Barça Wallpapers | FC Barcelona Official Channel">
+                                <img itemprop="contentUrl url" src='https://www.fcbarcelona.com/photo-resources/2019/05/30/38eb1b1d-2a93-491b-9395-ed094edcc3f6/FCB_Wallpaper_India_desktop.jpg?width=1920&height=1080' alt='Culers - Barça Wallpapers | FC Barcelona Official Channel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FC Barcelona" />
+                                </span>
+                                <a href='https://www.fcbarcelona.com/photo-resources/2019/05/30/38eb1b1d-2a93-491b-9395-ed094edcc3f6/FCB_Wallpaper_India_desktop.jpg?width=1920&height=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Darth Vader Transparent Background: Iconic Star Wars Visual</title>
+                    <meta name="description" content="Discover high-quality images of Darth Vader with a transparent background, perfect for all your design needs. Whether you're creating posters, stickers, or any digital art, these graphics will bring a bold touch to your project. Download now and enhance your visuals with the iconic presence of this legendary character!">
+                    <meta name="keywords" content="darth vader transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/darth-vader-transparent-background">
+                            <span itemprop="name">darth vader transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Darth Vader Transparent Background: Iconic Star Wars Visual</h1>
+                <p>Darth Vader on a transparent background is perfect for graphic designs and projects that require a striking visual. This iconic character from the Star Wars franchise stands out with his black armor and helmet, making him instantly recognizable. Ideal for wallpapers, stickers, or any creative use where you want a powerful image without background distractions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader PNG transparent image download, size: 2380x4000px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/darth_vader_PNG14.png' alt='Darth Vader PNG transparent image download, size: 2380x4000px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2380">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/darth_vader_PNG14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sith Lord Vader - Star Wars Darth Vader PNG Transparent With Clear ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/a6/38/36a6380ab97f1c0dafbdd62e930f374b.jpg' alt='Sith Lord Vader - Star Wars Darth Vader PNG Transparent With Clear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/a6/38/36a6380ab97f1c0dafbdd62e930f374b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader PNG transparent image download, size: 4150x3127px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/darth_vader_PNG27.png' alt='Darth Vader PNG transparent image download, size: 4150x3127px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4150">
+                                <meta itemprop="height" content="3127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/darth_vader_PNG27.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Darth Vader Star Wars PNG for Dynamic Design Elements ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/f1/f4/51f1f46ac6c8d75bbf42cb5e6129f47d.jpg' alt='Transparent Darth Vader Star Wars PNG for Dynamic Design Elements ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/f1/f4/51f1f46ac6c8d75bbf42cb5e6129f47d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free transparent Darth vader PNG images Download | PurePNG | Free ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/thumbnail//purepng.com-darth-vaderdarth-vaderanakin-skywalkerstar-wars-franchiseskywalker-1701527754621sd4ba.png' alt='Free transparent Darth vader PNG images Download | PurePNG | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/thumbnail//purepng.com-darth-vaderdarth-vaderanakin-skywalkerstar-wars-franchiseskywalker-1701527754621sd4ba.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Darth Vader - Render PNG by jonathanrey on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40566fcb-4a90-4e94-baa6-5185bc7b29a5/d72vnhh-aeba5ef6-6597-4658-9909-1cb61e7688d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwNTY2ZmNiLTRhOTAtNGU5NC1iYWE2LTUxODViYzdiMjlhNVwvZDcydm5oaC1hZWJhNWVmNi02NTk3LTQ2NTgtOTkwOS0xY2I2MWU3Njg4ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tOfHnqE1j7XOwbLvjvg_NMcyj33tuUWdfvI2OZFu99k' alt='Star Wars Darth Vader - Render PNG by jonathanrey on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1740">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40566fcb-4a90-4e94-baa6-5185bc7b29a5/d72vnhh-aeba5ef6-6597-4658-9909-1cb61e7688d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwNTY2ZmNiLTRhOTAtNGU5NC1iYWE2LTUxODViYzdiMjlhNVwvZDcydm5oaC1hZWJhNWVmNi02NTk3LTQ2NTgtOTkwOS0xY2I2MWU3Njg4ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tOfHnqE1j7XOwbLvjvg_NMcyj33tuUWdfvI2OZFu99k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader (1) - Transparent! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/ddsookw-0514e159-5546-4d51-8458-8d1d6e9e64f6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGRzb29rdy0wNTE0ZTE1OS01NTQ2LTRkNTEtODQ1OC04ZDFkNmU5ZTY0ZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eJicIIh5AMdABGrt4FC8EFPDyqp7-UfxzsT2mCqqhb4' alt='Darth Vader (1) - Transparent! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/ddsookw-0514e159-5546-4d51-8458-8d1d6e9e64f6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGRzb29rdy0wNTE0ZTE1OS01NTQ2LTRkNTEtODQ1OC04ZDFkNmU5ZTY0ZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eJicIIh5AMdABGrt4FC8EFPDyqp7-UfxzsT2mCqqhb4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader - Darth Vader with Lightsaber - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/lnd/20240420/qez/transparent-star-wars-darth-vader-with-red-lightsaber-ready-for-battle662365c45b68f2.87754649.webp' alt='Darth Vader - Darth Vader with Lightsaber - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/lnd/20240420/qez/transparent-star-wars-darth-vader-with-red-lightsaber-ready-for-battle662365c45b68f2.87754649.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/12/Darth-Vader-PNG-Pic.png' alt='Darth Vader PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/12/Darth-Vader-PNG-Pic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader head PNG transparent image download, size: 2068x2009px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/darth_vader_PNG3.png' alt='Darth Vader head PNG transparent image download, size: 2068x2009px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2068">
+                                <meta itemprop="height" content="2009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/darth_vader_PNG3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

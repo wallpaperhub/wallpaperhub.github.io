@@ -1,0 +1,129 @@
+<title>Neon Pink Phone Wallpaper: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover the perfect neon pink phone wallpaper to energize your device! Our vibrant designs are tailored for bold style lovers looking to stand out. Download now to give your screen a fresh, modern look!">
+                    <meta name="keywords" content="neon pink phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/neon-pink-phone-wallpaper">
+                            <span itemprop="name">neon pink phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Neon Pink Phone Wallpaper: Brighten Your Screen!</h1>
+                <p>Brighten up your device with stunning neon pink phone wallpaper! This vibrant hue adds a playful, energetic vibe to your screen, making your phone stand out. Perfect for those who love bold colors and modern aesthetics, neon pink offers a fresh take on your everyday background. Explore a variety of designs that fit your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Neon Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-neon-pink-yo3n7072qp3cdeiz.jpg' alt='100+] Cute Neon Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-neon-pink-yo3n7072qp3cdeiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon pink aesthetic collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' alt='Neon pink aesthetic collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOT NEON PINK IPHONE WALLPAPER BACKGROUND">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/d4/a3/bad4a39b0810f8029d506cf17dace324.jpg' alt='HOT NEON PINK IPHONE WALLPAPER BACKGROUND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/d4/a3/bad4a39b0810f8029d506cf17dace324.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Neon Pink Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL2pvYjEzOTctYmctMDJjLmpwZw.jpg' alt='Iphone Wallpaper Neon Pink Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL2pvYjEzOTctYmctMDJjLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon pink 100Thieves phone wallpaper. Really new to photoshop (day ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cuanplot5vp11.jpg?width=640&crop=smart&auto=webp&s=c8b577efc8d600ac54a1b7512b5a542dae988caa' alt='Neon pink 100Thieves phone wallpaper. Really new to photoshop (day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cuanplot5vp11.jpg?width=640&crop=smart&auto=webp&s=c8b577efc8d600ac54a1b7512b5a542dae988caa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neon cool pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/726/61/HD-wallpaper-liquid-pink-cool-loveurhunny-neon-trippy.jpg' alt='HD neon cool pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/726/61/HD-wallpaper-liquid-pink-cool-loveurhunny-neon-trippy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Pink Aesthetic Wallpapers - Top Free Neon Pink Aesthetic 7FE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/85/72/0a/85720a297d38a3a3e9451c8db5e4360c.jpg' alt='Neon Pink Aesthetic Wallpapers - Top Free Neon Pink Aesthetic 7FE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/85/72/0a/85720a297d38a3a3e9451c8db5e4360c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Pink Iphone Two Neon Hearts Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pink-iphone-two-neon-hearts-8awzfml84p4n7p2b.jpg' alt='Download Aesthetic Pink Iphone Two Neon Hearts Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pink-iphone-two-neon-hearts-8awzfml84p4n7p2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2425601/p/f/m/K2q284jU-T9f9Uk91HjOd0dIWEMlsMHlIgl8IQ7lqvK0PV60Rps/Hot%20Pink%20Solid%20.jpg' alt='Neon Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2425601/p/f/m/K2q284jU-T9f9Uk91HjOd0dIWEMlsMHlIgl8IQ7lqvK0PV60Rps/Hot%20Pink%20Solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Neon Pink Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b2dyYXBoeV9vZl9hX25lb25fZnJhbWVfdGVtcGxhdGVfYW1vbmdfdF80NDc2ZDI1ZS1iMjZhLTQwM2EtYWM1Yi1hNmJmYjUwNmUyMmRfMS5qcGc.jpg' alt='Iphone Wallpaper Neon Pink Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b2dyYXBoeV9vZl9hX25lb25fZnJhbWVfdGVtcGxhdGVfYW1vbmdfdF80NDc2ZDI1ZS1iMjZhLTQwM2EtYWM1Yi1hNmJmYjUwNmUyMmRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

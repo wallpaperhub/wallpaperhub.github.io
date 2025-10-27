@@ -1,0 +1,129 @@
+<title>Honkai Star Rail Mobile Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Explore a collection of exquisite Honkai Star Rail mobile wallpapers! Perfect for fans, these designs will enhance your phone's aesthetic with vibrant characters and mesmerizing scenes. Download and give your device a fresh look that reflects your love for the game!">
+                    <meta name="keywords" content="honkai star rail mobile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/honkai-star-rail-mobile-wallpaper">
+                            <span itemprop="name">honkai star rail mobile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Honkai Star Rail Mobile Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your mobile device with stunning Honkai Star Rail wallpapers! Immerse yourself in the vibrant world of Honkai Star Rail as you personalize your phone's background with characters and breathtaking landscapes. Discover a variety of designs that capture the essence of this exciting game, perfect for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Firefly.%28Honkai.Star.Rail%29.full.4111675.png' alt='Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Firefly.%28Honkai.Star.Rail%29.full.4111675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Astral Express Archive — Honkai: Star Rail Tingyun Mobile ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/0143dfdd1c6e7334904c82f02e5ab80d/5e7c3087fad604dd-43/s1280x1920/b085601953905671a1020afef4578039d98f96ed.png' alt='The Astral Express Archive — Honkai: Star Rail Tingyun Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Astral Express Archive - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/0143dfdd1c6e7334904c82f02e5ab80d/5e7c3087fad604dd-43/s1280x1920/b085601953905671a1020afef4578039d98f96ed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here you go. Firefly wallpaper for mobile... Honkai: Star Rail ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2024/07/02/95712747/aaaa2fa6e402bb2eaced86ebeff13e17_6025689917468862484.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Here you go. Firefly wallpaper for mobile... Honkai: Star Rail ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2024/07/02/95712747/aaaa2fa6e402bb2eaced86ebeff13e17_6025689917468862484.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Honkai.Star.Rail.full.3942569.png' alt='Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Honkai.Star.Rail.full.3942569.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FOR DOWNLOAD] All Honkai: Star Rail Wallpapers from Pom-Pom's ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2023/01/28/17138284/85778450a3fbe5b61c4c0c2b47b82dc2_2925831787640733185.png' alt='FOR DOWNLOAD] All Honkai: Star Rail Wallpapers from Pom-Pom's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2023/01/28/17138284/85778450a3fbe5b61c4c0c2b47b82dc2_2925831787640733185.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai: Star Rail Game Characters 4K Wallpaper iPhone HD Phone #5901k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/honkai-star-rail-game-characters-590@1@k-phone-4k.jpg' alt='Honkai: Star Rail Game Characters 4K Wallpaper iPhone HD Phone #5901k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/honkai-star-rail-game-characters-590@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N0va Desktop on X: "Honkai: Star Rail Live Wallpaper | Before ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fzb3UIRWcAAL1EY.jpg:large' alt='N0va Desktop on X: "Honkai: Star Rail Live Wallpaper | Before ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fzb3UIRWcAAL1EY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai: star rail">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/70/be/de70be30dcbea38bea3e75bc5b4bcadd.jpg' alt='Honkai: star rail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/70/be/de70be30dcbea38bea3e75bc5b4bcadd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail Mobile Wallpaper by HoYoverse #3893915 - Zerochan ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Honkai.Star.Rail.full.3893915.png' alt='Honkai Star Rail Mobile Wallpaper by HoYoverse #3893915 - Zerochan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan Anime Image Board" />
+                                </span>
+                                <a href='https://static.zerochan.net/Honkai.Star.Rail.full.3893915.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail wallpaper for mobile and PC">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-rail-wallpaper-dan-heng.jpg' alt='Honkai Star Rail wallpaper for mobile and PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-rail-wallpaper-dan-heng.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

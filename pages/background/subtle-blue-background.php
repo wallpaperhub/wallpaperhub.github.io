@@ -1,0 +1,129 @@
+<title>Subtle Blue Background: Serenity in Design</title>
+                    <meta name="description" content="Discover the calming effects of a subtle blue background. Perfect for enhancing any design, this soothing hue creates a serene atmosphere, ideal for websites, artwork, and presentations. Elevate your project with a backdrop that invites engagement while maintaining a minimalist elegance.">
+                    <meta name="keywords" content="subtle blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/subtle-blue-background">
+                            <span itemprop="name">subtle blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Subtle Blue Background: Serenity in Design</h1>
+                <p>A subtle blue background evokes tranquility and calmness, making it a perfect choice for various designs. Its soft hue enhances visual appeal without being overpowering, ideal for websites, presentations, or artwork. Whether used as a backdrop for text or images, a subtle blue creates a serene atmosphere, inviting viewers to engage longer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/188/223/non_2x/abstract-blue-winter-watercolor-background-sky-pattern-with-snow-vector.jpg' alt='Subtle Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/188/223/non_2x/abstract-blue-winter-watercolor-background-sky-pattern-with-snow-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1390785617/vector/horizontal-of-monochrome-bright-vibrant-aqua-sky-blue-coloured-vector-backgrounds-with.jpg?s=612x612&w=0&k=20&c=MK78V4P3mSG8JYP41krBniReGI1h7i0r6dd7_N-KUEA=' alt='150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1390785617/vector/horizontal-of-monochrome-bright-vibrant-aqua-sky-blue-coloured-vector-backgrounds-with.jpg?s=612x612&w=0&k=20&c=MK78V4P3mSG8JYP41krBniReGI1h7i0r6dd7_N-KUEA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolour-light-blue-background_78370-3537.jpg' alt='Subtle Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolour-light-blue-background_78370-3537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1718422988/vector/bright-light-sky-blue-and-faded-white-coloured-blotched-rough-textured-effect-rustic-and.jpg?s=612x612&w=0&k=20&c=EOrtc05IBBbLlta2YzCa-ExUgg17jn7T0Xq747EGVuY=' alt='150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1718422988/vector/bright-light-sky-blue-and-faded-white-coloured-blotched-rough-textured-effect-rustic-and.jpg?s=612x612&w=0&k=20&c=EOrtc05IBBbLlta2YzCa-ExUgg17jn7T0Xq747EGVuY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391730574/vector/light-sky-blue-and-faded-white-coloured-ombre-rustic-and-smudged-painted-plastered-scratched.jpg?s=612x612&w=0&k=20&c=0UzbHPlW4Tjor2v9Lont1XJmacbm7uUljglrSENFU3I=' alt='150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391730574/vector/light-sky-blue-and-faded-white-coloured-ombre-rustic-and-smudged-painted-plastered-scratched.jpg?s=612x612&w=0&k=20&c=0UzbHPlW4Tjor2v9Lont1XJmacbm7uUljglrSENFU3I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Subtle Gradient Background">
+                                <img itemprop="contentUrl url" src='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/41724/Vector4free-Subtle-Gradient-Background-Rvsi1-DP0223_generated.jpg' alt='Blue Subtle Gradient Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector4Free" />
+                                </span>
+                                <a href='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/41724/Vector4free-Subtle-Gradient-Background-Rvsi1-DP0223_generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/020/045/113/small/blue-subtle-gradient-background-design-free-vector.jpg' alt='Subtle Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/020/045/113/small/blue-subtle-gradient-background-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1515730600/vector/light-sky-blue-coloured-grunge-vector-backgrounds-with-an-all-over-smudged-subtle-faint.jpg?s=612x612&w=0&k=20&c=2IsFbBF2K6BOZRvQ1JroHBedX_QGR_4Q6rNs7LXH414=' alt='150+ Subtle Blue Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1515730600/vector/light-sky-blue-coloured-grunge-vector-backgrounds-with-an-all-over-smudged-subtle-faint.jpg?s=612x612&w=0&k=20&c=2IsFbBF2K6BOZRvQ1JroHBedX_QGR_4Q6rNs7LXH414=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Backgrounds Images – Browse 500,539 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/11/71/06/360_F_411710646_2CjiRMQA972BjLhs4fhNx9Jh1cQfu2Hm.jpg' alt='Subtle Blue Backgrounds Images – Browse 500,539 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/11/71/06/360_F_411710646_2CjiRMQA972BjLhs4fhNx9Jh1cQfu2Hm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Background Images – Browse 500,407 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/89/05/38/360_F_989053834_J7mI9jc40aebJbCid5XE6TC8PT8jFjJ0.jpg' alt='Subtle Blue Background Images – Browse 500,407 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/89/05/38/360_F_989053834_J7mI9jc40aebJbCid5XE6TC8PT8jFjJ0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

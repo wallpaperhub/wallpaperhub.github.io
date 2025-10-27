@@ -1,0 +1,129 @@
+<title>Understanding the FBI Polygraph: Truth or Fiction?</title>
+                    <meta name="description" content="Explore the role of the FBI polygraph in investigations. Discover how this lie detector test works, its implications for national security, and the ongoing debates surrounding its accuracy and reliability. Stay informed about this vital tool in law enforcement.">
+                    <meta name="keywords" content="fbi polygraph">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fbi-polygraph">
+                            <span itemprop="name">fbi polygraph</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the FBI Polygraph: Truth or Fiction?</h1>
+                <p>The FBI polygraph, commonly known as a lie detector test, is utilized to assess the truthfulness of individuals during investigations and background checks. The test measures physiological responses like heart rate and perspiration while asking specific questions. While controversial, it plays a role in national security assessments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Polygraph Examiner - FBI Retired | FBIretired Official Site">
+                                <img itemprop="contentUrl url" src='https://fbiretired.com/wp-content/uploads/2015/04/Polygraph.jpg' alt='FBI Polygraph Examiner - FBI Retired | FBIretired Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI Retired" />
+                                </span>
+                                <a href='https://fbiretired.com/wp-content/uploads/2015/04/Polygraph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polygraph Machine Used on Jack Ruby — FBI">
+                                <img itemprop="contentUrl url" src='https://www.fbi.gov/history/artifacts/polygraph-machine-jack-ruby/@@images/image' alt='Polygraph Machine Used on Jack Ruby — FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI" />
+                                </span>
+                                <a href='https://www.fbi.gov/history/artifacts/polygraph-machine-jack-ruby/@@images/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Polygraph - FBI Retired | FBIretired Official Site / Directory">
+                                <img itemprop="contentUrl url" src='https://fbiretired.com//wp-content/uploads/2015/10/15-PolygraphExam-MED-200x300.jpg' alt='FBI Polygraph - FBI Retired | FBIretired Official Site / Directory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI Retired" />
+                                </span>
+                                <a href='https://fbiretired.com//wp-content/uploads/2015/10/15-PolygraphExam-MED-200x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To tell the truth: What current and hopeful federal employees ...">
+                                <img itemprop="contentUrl url" src='https://federalnewsnetwork.com/wp-content/uploads/2018/08/poligraph-machine-wikipedia-1672x1254.jpg' alt='To tell the truth: What current and hopeful federal employees ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1672">
+                                <meta itemprop="height" content="1254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Federal News Network" />
+                                </span>
+                                <a href='https://federalnewsnetwork.com/wp-content/uploads/2018/08/poligraph-machine-wikipedia-1672x1254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Agent Administers Polygraph, 2012 - Stock Image - C044/8772 ...">
+                                <img itemprop="contentUrl url" src='https://media.sciencephoto.com/c0/44/87/72/c0448772-800px-wm.jpg' alt='FBI Agent Administers Polygraph, 2012 - Stock Image - C044/8772 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Library" />
+                                </span>
+                                <a href='https://media.sciencephoto.com/c0/44/87/72/c0448772-800px-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATIONALLY RECOGNIZED FBI POLYGRAPH EXAMINER JACK TRIMARCO JOINS ...">
+                                <img itemprop="contentUrl url" src='https://fbiretired.com/wp-content/uploads/2015/04/Trimarco-Jack.Oprah_.jpg' alt='NATIONALLY RECOGNIZED FBI POLYGRAPH EXAMINER JACK TRIMARCO JOINS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI Retired" />
+                                </span>
+                                <a href='https://fbiretired.com/wp-content/uploads/2015/04/Trimarco-Jack.Oprah_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Going Knee to Knee with FBI Polygraph">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61nCcwipHnL._AC_UF350,350_QL50_.jpg' alt='Going Knee to Knee with FBI Polygraph'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="243">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61nCcwipHnL._AC_UF350,350_QL50_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marisa Taylor on FBI Pre-Employment Polygraph Screening ...">
+                                <img itemprop="contentUrl url" src='https://antipolygraph.org/blog/wp-content/uploads/2011/02/fbi-polygraph.jpg' alt='Marisa Taylor on FBI Pre-Employment Polygraph Screening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AntiPolygraph.org" />
+                                </span>
+                                <a href='https://antipolygraph.org/blog/wp-content/uploads/2011/02/fbi-polygraph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Polygraph Examiner - FBI Retired | FBIretired Official Site">
+                                <img itemprop="contentUrl url" src='https://fbiretired.com/wp-content/uploads/2015/10/Polygraph-Examiner-Small-Istock.jpg' alt='FBI Polygraph Examiner - FBI Retired | FBIretired Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI Retired" />
+                                </span>
+                                <a href='https://fbiretired.com/wp-content/uploads/2015/10/Polygraph-Examiner-Small-Istock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI - El Paso - Day 20 of 29 FBI Photos to Love   ❤️ #DYK Since ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281605684952492' alt='FBI - El Paso - Day 20 of 29 FBI Photos to Love   ❤️ #DYK Since ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281605684952492' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

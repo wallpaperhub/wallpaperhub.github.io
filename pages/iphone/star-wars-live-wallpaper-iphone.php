@@ -1,0 +1,129 @@
+<title>Epic Star Wars Live Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover an amazing collection of Star Wars live wallpapers for your iPhone. Bring the universe to your device with dynamic imagery of beloved characters and iconic scenes. Perfect for fans of all ages, enhance your mobile experience with our stunning and immersive wallpapers! Download now!">
+                    <meta name="keywords" content="star wars live wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/star-wars-live-wallpaper-iphone">
+                            <span itemprop="name">star wars live wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Live Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Star Wars live wallpapers! Immerse yourself in the galaxy far, far away with dynamic scenes featuring your favorite characters, from lightsaber battles to iconic starships. Perfect for fans, these wallpapers bring your device to life, making every swipe an adventure. Download now and celebrate the force!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars live wallpaper iphone light saber blue - Movie & TV">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/da/9a/52/da9a528ebe7598be61cd8aa69e1d6ec7.jpg' alt='Star Wars live wallpaper iphone light saber blue - Movie & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/da/9a/52/da9a528ebe7598be61cd8aa69e1d6ec7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unique iPhone Star Wars Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/48/38/1248385683bf5aef9f7b3a18debcd6be.jpg' alt='Unique iPhone Star Wars Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/48/38/1248385683bf5aef9f7b3a18debcd6be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIVE PHOTO Hyper speed Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LRzHKjo2EArpIFgdaf0K7kUXk56KEnPDtTD4qhuZAho.png?format=pjpg&auto=webp&s=f8ab7c3851d8d5402ce99da5226cab834fd559ca' alt='LIVE PHOTO Hyper speed Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LRzHKjo2EArpIFgdaf0K7kUXk56KEnPDtTD4qhuZAho.png?format=pjpg&auto=webp&s=f8ab7c3851d8d5402ce99da5226cab834fd559ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers for Iphone Star Wars | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7174244276711394606&location=0&aid=1988' alt='Live Wallpapers for Iphone Star Wars | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7174244276711394606&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clone wars live wallpaper #fyp #foryou #foryoupage #wallpaper #live  #livewallpaper #starwars #mandalorian #clonewars">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7318863578197495045&location=0&aid=1988' alt='clone wars live wallpaper #fyp #foryou #foryoupage #wallpaper #live  #livewallpaper #starwars #mandalorian #clonewars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7318863578197495045&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone have a gif/live wallpaper version of this? : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0nxedt9uk9411.jpg' alt='Does anyone have a gif/live wallpaper version of this? : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0nxedt9uk9411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Video GIF Live Phone Wallpaper The Mandalorian [Video ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/67/60/7c6760653652d43450b7d20d10ac4fc1.jpg' alt='Animated Video GIF Live Phone Wallpaper The Mandalorian [Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/67/60/7c6760653652d43450b7d20d10ac4fc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF star wars wallpaper iphone - animated GIF on GIFER - by Ironbearer">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/MeI.gif' alt='GIF star wars wallpaper iphone - animated GIF on GIFER - by Ironbearer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/MeI.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="star wars Live Wallpapers and More | DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/thumb_1657547776_379828.jpg' alt='star wars Live Wallpapers and More | DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/thumb_1657547776_379828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venator Star Wars Live Wallpaper |                                                                    ✨The original image was made by Malte  artist. I adapted it into a vertical format and brought it to life to  create the final ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7288894515069340961&location=0&aid=1988' alt='Venator Star Wars Live Wallpaper |                                                                    ✨The original image was made by Malte  artist. I adapted it into a vertical format and brought it to life to  create the final ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7288894515069340961&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

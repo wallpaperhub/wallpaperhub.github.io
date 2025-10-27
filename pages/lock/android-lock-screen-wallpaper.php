@@ -1,0 +1,129 @@
+<title>Stunning Android Lock Screen Wallpapers: Transform Your Device</title>
+                    <meta name="description" content="Discover the best Android lock screen wallpapers to personalize your device. Enhance your phone's look with beautiful images and inspiring designs. Browse and choose from a wide variety of options to keep your lock screen fresh and stylish every day.">
+                    <meta name="keywords" content="android lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/android-lock-screen-wallpaper">
+                            <span itemprop="name">android lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Android Lock Screen Wallpapers: Transform Your Device</h1>
+                <p>Choosing the perfect Android lock screen wallpaper can enhance your device's aesthetic appeal while expressing your personality. Opt for vibrant landscapes, inspiring quotes, or your favorite characters to make your phone unique. Regularly update your wallpaper to keep your lock screen fresh and engaging, adding a splash of creativity to your daily routine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Best Lock screen wallpaper android ideas | lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/a2/0d/4f/a20d4f2dd118cf2976c31a87488b2ca2.jpg' alt='66 Best Lock screen wallpaper android ideas | lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/a2/0d/4f/a20d4f2dd118cf2976c31a87488b2ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Glowing Padlock Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lock-screen-glowing-padlock-6bxvm8jv0f8vlpri.jpg' alt='Lock Screen Glowing Padlock Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lock-screen-glowing-padlock-6bxvm8jv0f8vlpri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='100+] Cool Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | for Android | ios | devices | best wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/59/85/8459859fae9425f5f0b85b1462cc6d05.jpg' alt='Wallpaper | for Android | ios | devices | best wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/59/85/8459859fae9425f5f0b85b1462cc6d05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Cool Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/demon-cool-lock-screen-kje2t8prr21kea4o.jpg' alt='Demon Cool Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/demon-cool-lock-screen-kje2t8prr21kea4o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper 03 - [444x794]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/98/d1/f9/98d1f910bc76abbb9e5a7afda5b3b30d.jpg' alt='Lock Screen Wallpaper 03 - [444x794]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/98/d1/f9/98d1f910bc76abbb9e5a7afda5b3b30d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300,000+ Best Free Lock screen Wallpapers [HD] - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/10/14/15/24/mask-3746720_640.jpg' alt='300,000+ Best Free Lock screen Wallpapers [HD] - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/10/14/15/24/mask-3746720_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Android Home Screen and Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/green-android.png' alt='Green Android Home Screen and Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/green-android.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black lock screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' alt='Black lock screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dont Touch Scary Lock Screen Wallpaper - 1080x2340">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/c6/12/91c6125c08b789e3e15753d2123b66c1.jpg' alt='Dont Touch Scary Lock Screen Wallpaper - 1080x2340'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/c6/12/91c6125c08b789e3e15753d2123b66c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

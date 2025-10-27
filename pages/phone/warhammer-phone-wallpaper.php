@@ -1,0 +1,129 @@
+<title>Epic Warhammer Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover amazing Warhammer phone wallpapers perfect for fans of Warhammer 40k and Age of Sigmar. Explore our vibrant designs featuring iconic characters and epic battles, and give your device a powerful new look. Download now to showcase your passion for Warhammer on the go!">
+                    <meta name="keywords" content="warhammer phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/warhammer-phone-wallpaper">
+                            <span itemprop="name">warhammer phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Warhammer Phone Wallpapers for Every Fan</h1>
+                <p>Transform your device with stunning Warhammer phone wallpapers that capture the epic battles and intricate lore of the Warhammer universe. Whether you’re a fan of Warhammer 40k or Age of Sigmar, our collection offers vibrant designs featuring iconic characters and factions. Personalize your phone and immerse yourself in the world of Warhammer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of home made 40K phone wallpapers - Will keep adding ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/qyRIWdWP1ZI6rTYv2m6ZJDDaUAfySi4oYbIkH-YCVjE.jpg?width=640&crop=smart&auto=webp&s=7d63415aedcad5a2ff8dca5d4cab4a929dd2fece' alt='My collection of home made 40K phone wallpapers - Will keep adding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/qyRIWdWP1ZI6rTYv2m6ZJDDaUAfySi4oYbIkH-YCVjE.jpg?width=640&crop=smart&auto=webp&s=7d63415aedcad5a2ff8dca5d4cab4a929dd2fece' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of home made 40K phone wallpapers - Will keep adding ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/VmKRtTf.jpg' alt='My collection of home made 40K phone wallpapers - Will keep adding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/VmKRtTf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace The Grimdark: Warhammer 40k Phone Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/21/52/ea21528938bb9960622961fe4aaa6bab.jpg' alt='Embrace The Grimdark: Warhammer 40k Phone Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/21/52/ea21528938bb9960622961fe4aaa6bab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WarHammer wallpaper by NikkiFrohloff - Download on ZEDGE™ | 3ad1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/60/f8/ce60f8f2963db9b0fff57a74b6280369.jpg' alt='WarHammer wallpaper by NikkiFrohloff - Download on ZEDGE™ | 3ad1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/60/f8/ce60f8f2963db9b0fff57a74b6280369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer fantasy cellphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/3e/82/d03e82641c0c9cfb3a251ef3ed2327a4.jpg' alt='Warhammer fantasy cellphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/3e/82/d03e82641c0c9cfb3a251ef3ed2327a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of home made 40K phone wallpapers - Will keep adding ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/fs4n7v5.jpg' alt='My collection of home made 40K phone wallpapers - Will keep adding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/fs4n7v5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultramarines Live Wallpaper for Warhammer 40K Fans">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7442714397299969313&location=0&aid=1988' alt='Ultramarines Live Wallpaper for Warhammer 40K Fans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2094">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7442714397299969313&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another Warhammer 40k phone wallpaper for you - 9GAG">
+                                <img itemprop="contentUrl url" src='https://img-9gag-fun.9cache.com/photo/agYQQnn_460s.jpg' alt='Another Warhammer 40k phone wallpaper for you - 9GAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9GAG" />
+                                </span>
+                                <a href='https://img-9gag-fun.9cache.com/photo/agYQQnn_460s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer 40K Mobile Phone Wallpapers - mobile post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/KZtMSPx.jpeg' alt='Warhammer 40K Mobile Phone Wallpapers - mobile post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/KZtMSPx.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Time for another Warhammer 40k phone wallpaper. Today is a Grey ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/cd/6e/00cd6ed973676a3ed24947550889aa4a.jpg' alt='Time for another Warhammer 40k phone wallpaper. Today is a Grey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/cd/6e/00cd6ed973676a3ed24947550889aa4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

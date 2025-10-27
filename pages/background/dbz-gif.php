@@ -1,0 +1,129 @@
+<title>Epic Dragon Ball Z GIFs for Fans!</title>
+                    <meta name="description" content="Discover our ultimate selection of Dragon Ball Z GIFs! From Goku's legendary transformations to intense fights, these animated images are perfect for sharing on social media or messaging. Dive into the DBZ universe and relive your favorite moments in an engaging way!">
+                    <meta name="keywords" content="dbz gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dbz-gif">
+                            <span itemprop="name">dbz gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dragon Ball Z GIFs for Fans!</h1>
+                <p>Explore the exciting world of Dragon Ball Z with our collection of animated GIFs! Relive epic battles, iconic transformations, and memorable moments featuring your favorite characters like Goku, Vegeta, and Frieza. Perfect for sharing with friends or using in your chats, these DBZ GIFs will bring nostalgia and excitement to any conversation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/V2Sp5EUpDLQAAAAM/goku-mad.gif' alt='Dragon Ball Z GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/V2Sp5EUpDLQAAAAM/goku-mad.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayos Dbz GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/HeDLTI576bBgA/giphy.gif?cid=6c09b952oba71mfq5v8m9hpdd12mou2u9yhybaee7xcs9x6d&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Rayos Dbz GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/HeDLTI576bBgA/giphy.gif?cid=6c09b952oba71mfq5v8m9hpdd12mou2u9yhybaee7xcs9x6d&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super GIF by Toei Animation - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif?cid=6c09b952kpd76d4whedsa8tg83r2vgl0bxb6rkx7i7yz3dry&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Dragon Ball Super GIF by Toei Animation - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif?cid=6c09b952kpd76d4whedsa8tg83r2vgl0bxb6rkx7i7yz3dry&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/goku-icegif-9.gif' alt='Goku Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1758">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/goku-icegif-9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku GIF by Dragon Ball Super - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/3012rG5pACvfGnmbLD/giphy.gif?cid=6c09b952hhow18u7b3pvqwyifvgxaq2pinvqnyszs2wreiba&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Goku GIF by Dragon Ball Super - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/3012rG5pACvfGnmbLD/giphy.gif?cid=6c09b952hhow18u7b3pvqwyifvgxaq2pinvqnyszs2wreiba&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Goku GIF - Dragon Ball Z Goku Frieza - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/31/70/11/317011110b293fe78b4c66e4f203e928.gif' alt='Dragon Ball Z Goku GIF - Dragon Ball Z Goku Frieza - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/31/70/11/317011110b293fe78b4c66e4f203e928.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Blue GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/h5C2kiESzaypGjXtTY/giphy.gif?cid=6c09b9524sm9blju74wizia13xqcx8m0wyrrqj3mhf9gr0v1&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Super Saiyan Blue GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/h5C2kiESzaypGjXtTY/giphy.gif?cid=6c09b9524sm9blju74wizia13xqcx8m0wyrrqj3mhf9gr0v1&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Teletransportacion GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/CY3A9zOlZR8uhFbeok/giphy.gif?cid=6c09b9529ldvjnf3c3e039rhyuoxubr873ej0cshz0kp2d4j&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Goku Teletransportacion GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/CY3A9zOlZR8uhFbeok/giphy.gif?cid=6c09b9529ldvjnf3c3e039rhyuoxubr873ej0cshz0kp2d4j&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Gohan Dbz Dragonball GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/LkO4Dov673u80qEjz3/giphy.gif?cid=6c09b952uc4ehnl0vb5ub47ozsn8gog1x967c9f79sjx1q64&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Broly Gohan Dbz Dragonball GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/LkO4Dov673u80qEjz3/giphy.gif?cid=6c09b952uc4ehnl0vb5ub47ozsn8gog1x967c9f79sjx1q64&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/U1AOP4lL7eYAAAAM/goku-fortnite.gif' alt='Dragon Ball Z GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/U1AOP4lL7eYAAAAM/goku-fortnite.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

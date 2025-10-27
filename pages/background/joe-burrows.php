@@ -1,0 +1,129 @@
+<title>Joe Burrow: NFL Star Quarterback in Focus</title>
+                    <meta name="description" content="Discover the rise of Joe Burrow, the Cincinnati Bengals quarterback who transformed from a college sensation to an NFL star. Learn about his impact on the game, leadership qualities, and remarkable journey to the Super Bowl. Stay updated on his career and achievements!">
+                    <meta name="keywords" content="joe burrows">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joe-burrows">
+                            <span itemprop="name">joe burrows</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joe Burrow: NFL Star Quarterback in Focus</h1>
+                <p>Joe Burrow is a rising star in the NFL, known for his exceptional passing skills and leadership on the field. As the quarterback for the Cincinnati Bengals, he led his team to the Super Bowl in just his second season, showcasing his poise and talent. Burrow's journey from college standout to pro athlete inspires many.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/zsusj7zu9uuu9xziqbns' alt='Joe Burrow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cincinnati Bengals" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/zsusj7zu9uuu9xziqbns' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow | Biography, Stats, Cincinnati Bengals, Injury, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/252741-050-4076F709/Joe-Burrow-Quarterback-Cincinnati-Bengals-against-Texans-2023-NFL.jpg' alt='Joe Burrow | Biography, Stats, Cincinnati Bengals, Injury, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/252741-050-4076F709/Joe-Burrow-Quarterback-Cincinnati-Bengals-against-Texans-2023-NFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow - Cincinnati Bengals Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915511.png' alt='Joe Burrow - Cincinnati Bengals Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915511.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quarterback Joe Burrow's home broken into during Monday night game ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/8281d585-2b90-4783-9a11-e82c3d726446/joe-burrow-gty-jt-241210_1733861366467_hpMain.jpg' alt='Quarterback Joe Burrow's home broken into during Monday night game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/8281d585-2b90-4783-9a11-e82c3d726446/joe-burrow-gty-jt-241210_1733861366467_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow Stats, News and Video - QB | NFL.com">
+                                <img itemprop="contentUrl url" src='https://static.www.nfl.com/image/private/t_headshot_desktop/league/jzzqz5ubkilrn9dpxtlp' alt='Joe Burrow Stats, News and Video - QB | NFL.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFL.com" />
+                                </span>
+                                <a href='https://static.www.nfl.com/image/private/t_headshot_desktop/league/jzzqz5ubkilrn9dpxtlp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Joe Burrow's Wrist Injury Is Being Investigated by the NFL ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/11/why-joe-burrows-wrist-injury-is-being-investigated-by-the-nfl-01.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all' alt='Why Joe Burrow's Wrist Injury Is Being Investigated by the NFL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/11/why-joe-burrows-wrist-injury-is-being-investigated-by-the-nfl-01.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow: Bengals must 'go out and get a win' on Monday night">
+                                <img itemprop="contentUrl url" src='https://www.cincinnati.com/gcdn/authoring/authoring-images/2024/09/16/PCIN/75242887007-091524-bengals-chiefs-68.JPG?crop=5175,2911,x0,y268&width=660&height=371&format=pjpg&auto=webp' alt='Joe Burrow: Bengals must 'go out and get a win' on Monday night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cincinnati Enquirer" />
+                                </span>
+                                <a href='https://www.cincinnati.com/gcdn/authoring/authoring-images/2024/09/16/PCIN/75242887007-091524-bengals-chiefs-68.JPG?crop=5175,2911,x0,y268&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow's Accomplishments in His Football Career – The Pioneer ...">
+                                <img itemprop="contentUrl url" src='https://thepioneerpress.org/wp-content/uploads/2022/03/6e526a24-a96b-4527-a4f0-67fb39eeae34-122621_BENGALS_KE_033-scaled.webp' alt='Joe Burrow's Accomplishments in His Football Career – The Pioneer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pioneer Press" />
+                                </span>
+                                <a href='https://thepioneerpress.org/wp-content/uploads/2022/03/6e526a24-a96b-4527-a4f0-67fb39eeae34-122621_BENGALS_KE_033-scaled.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Burrow - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joe_Burrow_2021_%281%29.jpg/220px-Joe_Burrow_2021_%281%29.jpg' alt='Joe Burrow - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joe_Burrow_2021_%281%29.jpg/220px-Joe_Burrow_2021_%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olivia Ponton Calls 911 for Break-in at Joe Burrow's House">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/ea0/168/3d0e5861635e810d0f9b9a7f2da205f373-joe-burrows-drama.1x.rsquare.w1400.jpg' alt='Olivia Ponton Calls 911 for Break-in at Joe Burrow's House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cut" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/ea0/168/3d0e5861635e810d0f9b9a7f2da205f373-joe-burrows-drama.1x.rsquare.w1400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

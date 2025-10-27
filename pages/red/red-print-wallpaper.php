@@ -1,0 +1,129 @@
+<title>Vibrant Red Print Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover vibrant red print wallpaper that revitalizes your home. Perfect for adding warmth and style, our collection features bold designs that make a statement. Transform any room with stunning patterns that enhance your decor effortlessly. Explore now for the perfect accent!">
+                    <meta name="keywords" content="red print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-print-wallpaper">
+                            <span itemprop="name">red print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Print Wallpaper: Transform Your Space</h1>
+                <p>Red print wallpaper can transform any space, adding a vibrant touch that captivates the eye. Whether you opt for bold florals or intricate patterns, this wallpaper choice creates a statement. Ideal for accent walls or entire rooms, red print wallpaper enhances mood and energy, making your home feel warm and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 297390101 Nicolette Red Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/235502.jpg' alt='A Street Prints 297390101 Nicolette Red Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/235502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Red Damasks Flocking Embossed Textured Wallpaper Roll for  Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq ft Per Roll, Gold/Red  (Wallpaper-red) ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91yz-DJzKRL.jpg' alt='Blooming Wall Red Damasks Flocking Embossed Textured Wallpaper Roll for  Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq ft Per Roll, Gold/Red  (Wallpaper-red) ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2455">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91yz-DJzKRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Vintage Wallpaper Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/red-damask-wallpaper-floral-patterns-260nw-670227340.jpg' alt='Red Vintage Wallpaper Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/red-damask-wallpaper-floral-patterns-260nw-670227340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Peel and Stick Wallpaper Collection | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/DA5259-ruby-damsel-peel-stick-wallpaper.jpg?v=1710949739&width=1080' alt='Red Peel and Stick Wallpaper Collection | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/DA5259-ruby-damsel-peel-stick-wallpaper.jpg?v=1710949739&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolls House Miniature Print Victorian Red on Red Arabesque Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17814339/r/il/ea791c/3598954658/il_570xN.3598954658_hk40.jpg' alt='Dolls House Miniature Print Victorian Red on Red Arabesque Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17814339/r/il/ea791c/3598954658/il_570xN.3598954658_hk40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LW5895 | Red Damask, Brights - Inspired by Color">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_39528240-58d9-4657-a9f8-ada31e8379be.jpg?v=1667589241' alt='LW5895 | Red Damask, Brights - Inspired by Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_39528240-58d9-4657-a9f8-ada31e8379be.jpg?v=1667589241' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Print Wallpaper • Big • Bright & Bold Designs • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2023/01/WR568AT-B-LondonStreetFlowers-Burgundy-1.jpg' alt='Bold Print Wallpaper • Big • Bright & Bold Designs • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2023/01/WR568AT-B-LondonStreetFlowers-Burgundy-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Red wallpaper vintage flock with red damask design on a white  background retro v, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/03/00/46/40/1000_F_300464010_cYR5475weBAb0wKJdE9sa7H1cPHz55jX.jpg' alt='Poster, Print Red wallpaper vintage flock with red damask design on a white  background retro v, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/03/00/46/40/1000_F_300464010_cYR5475weBAb0wKJdE9sa7H1cPHz55jX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Paisley Wallpaper - Burgundy">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RF7475_07e0409f-b1ee-4ccc-b2d9-b96b3bde0a25.jpg?v=1714685794' alt='Rifle Paper Co. Paisley Wallpaper - Burgundy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RF7475_07e0409f-b1ee-4ccc-b2d9-b96b3bde0a25.jpg?v=1714685794' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Red Elegance for Restaurant Walls">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/red-geometric-peel-and-stick-wallpaper-for-restaurant-683x1024.jpg' alt='Vibrant Red Elegance for Restaurant Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/red-geometric-peel-and-stick-wallpaper-for-restaurant-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

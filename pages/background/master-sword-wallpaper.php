@@ -1,0 +1,129 @@
+<title>Master Sword Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the ultimate collection of Master Sword wallpapers! Perfect for fans of The Legend of Zelda, our selection features breathtaking designs that will elevate your device's visual appeal. Download now to access unique and mesmerizing backgrounds that showcase your passion for this iconic game.">
+                    <meta name="keywords" content="master sword wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/master-sword-wallpaper">
+                            <span itemprop="name">master sword wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Master Sword Wallpapers for Your Devices</h1>
+                <p>Transform your screen with stunning Master Sword wallpapers, perfect for fans of The Legend of Zelda. Explore intricately designed backgrounds that capture the essence of this iconic weapon. Whether you seek a vibrant depiction or a minimalist approach, find the perfect wallpaper to enhance your device's aesthetic and show off your love for this legendary game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Master Sword wallpaper [1920x1200] : r/zelda">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/NsC03C-Pg3Sw0osgydqt4UDLAe9jeONVxWfx66o-aWc.jpg?auto=webp&s=0c30df845039a1f711c7513d348f2d84b346048e' alt='Master Sword wallpaper [1920x1200] : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/NsC03C-Pg3Sw0osgydqt4UDLAe9jeONVxWfx66o-aWc.jpg?auto=webp&s=0c30df845039a1f711c7513d348f2d84b346048e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BotW] Made a very basic phone wallpaper of the Master Sword ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/9CmQwnwnhDfYaBNKZLyrMFENDxGCrsIZ0-J_qaWOaeE.jpg?auto=webp&s=198885af1c5fbf30c3b5c20651440149ec30ff76' alt='BotW] Made a very basic phone wallpaper of the Master Sword ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/9CmQwnwnhDfYaBNKZLyrMFENDxGCrsIZ0-J_qaWOaeE.jpg?auto=webp&s=198885af1c5fbf30c3b5c20651440149ec30ff76' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Master Sword 25th Anniversary Wallpaper - LTTP.jpg - Zelda ...">
+                                <img itemprop="contentUrl url" src='https://www.zeldadungeon.net/wiki/images/f/fa/Master_Sword_25th_Anniversary_Wallpaper_-_LTTP.jpg' alt='File:Master Sword 25th Anniversary Wallpaper - LTTP.jpg - Zelda ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zelda Dungeon" />
+                                </span>
+                                <a href='https://www.zeldadungeon.net/wiki/images/f/fa/Master_Sword_25th_Anniversary_Wallpaper_-_LTTP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Legend Of Zelda Master Sword Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/649/649202.jpeg' alt='Download The Legend Of Zelda Master Sword Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/649/649202.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/b6/cc/9fb6ccfe0b4f9b7df92d30e7bd6fab6c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/b6/cc/9fb6ccfe0b4f9b7df92d30e7bd6fab6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper with a master sword (OP ryzewithme) : r/zelda">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/HOoa-DvQPkOehhNNY21_GLzY3YQM2TLAf8c5Df6chq8.jpg?width=1080&crop=smart&auto=webp&s=ec518bbe8d50d12d74999a646218e828566a9884' alt='Wallpaper with a master sword (OP ryzewithme) : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/HOoa-DvQPkOehhNNY21_GLzY3YQM2TLAf8c5Df6chq8.jpg?width=1080&crop=smart&auto=webp&s=ec518bbe8d50d12d74999a646218e828566a9884' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Master Sword: A Legendary Icon from A Link to the Past">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/233/thumb-1920-233150.jpg' alt='The Master Sword: A Legendary Icon from A Link to the Past'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/233/thumb-1920-233150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the legend of zelda: breath of the wild, master sword (japanese ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/357740d3d1c29e2dc814e97f0d2f48c6/tumblr_pu12fsSoOa1yrvxnko1_1280.jpg' alt='the legend of zelda: breath of the wild, master sword (japanese ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/357740d3d1c29e2dc814e97f0d2f48c6/tumblr_pu12fsSoOa1yrvxnko1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Other] I added text to this lockscreen wallpaper so that I can ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bwxrpq62uda61.png?auto=webp&s=1154c9856357a3276eb4eadfff3d40c6fd043a11' alt='Other] I added text to this lockscreen wallpaper so that I can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bwxrpq62uda61.png?auto=webp&s=1154c9856357a3276eb4eadfff3d40c6fd043a11' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Master Sword in Ruins' - Breath of the Wild Illustrated Poster by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/f2/b3/c4f2b3fd99b43557152a74c86327beee.jpg' alt='Master Sword in Ruins' - Breath of the Wild Illustrated Poster by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/f2/b3/c4f2b3fd99b43557152a74c86327beee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

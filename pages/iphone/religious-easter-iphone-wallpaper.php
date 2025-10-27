@@ -1,0 +1,129 @@
+<title>Free Religious Easter iPhone Wallpapers for 2023</title>
+                    <meta name="description" content="Discover inspiring religious Easter iPhone wallpapers that celebrate the spirit of resurrection and renewal. Perfect for personalizing your device, our collection features stunning designs to uplift your daily life. Download now for a touch of faith this Easter season!">
+                    <meta name="keywords" content="religious easter iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/religious-easter-iphone-wallpaper">
+                            <span itemprop="name">religious easter iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Religious Easter iPhone Wallpapers for 2023</h1>
+                <p>Easter is a significant religious holiday celebrated by Christians around the world, symbolizing resurrection and renewal. Enhance your spiritual journey this season with our beautiful selection of Easter-themed iPhone wallpapers. Featuring inspiring images of crosses, joyful scenes, and vibrant spring colors, these wallpapers will uplift your device and reflect the true spirit of Easter.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/f8/cb/31f8cb1a33cf5a15e17b0f1ea65604e8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/f8/cb/31f8cb1a33cf5a15e17b0f1ea65604e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Easter iPhone Wallpaper — Caroline Saunders">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54f93825e4b0ab37e7014c6c/1519877517737-MSV2UKKEG2CMTEJRQLRP/Easter+iPhone+Wallpaper+-+WriterCaroline.com' alt='Free Easter iPhone Wallpaper — Caroline Saunders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caroline Saunders" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54f93825e4b0ab37e7014c6c/1519877517737-MSV2UKKEG2CMTEJRQLRP/Easter+iPhone+Wallpaper+-+WriterCaroline.com' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Easter Wallpaper Iphone ideas | easter wallpaper, easter ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1b/df/45/1bdf4566a73f3a74bd35f470e325f4d4.jpg' alt='40 Easter Wallpaper Iphone ideas | easter wallpaper, easter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1b/df/45/1bdf4566a73f3a74bd35f470e325f4d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/02/f869f6_6954afd6c59c4daa885bfef2387d4304mv2.png?w=800&ssl=1' alt='Easter iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insider Mama" />
+                                </span>
+                                <a href='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/02/f869f6_6954afd6c59c4daa885bfef2387d4304mv2.png?w=800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="He is Risen, christ, christian, cross, easter, jesus, sunset, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/621/601/HD-wallpaper-he-is-risen-christ-christian-cross-easter-jesus-sunset.jpg' alt='He is Risen, christ, christian, cross, easter, jesus, sunset, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/621/601/HD-wallpaper-he-is-risen-christ-christian-cross-easter-jesus-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Easter Sunrise With Christian Cross In The Cave Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-iphone-1uyt3f1h13nave3q.jpg' alt='Download Easter Sunrise With Christian Cross In The Cave Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-iphone-1uyt3f1h13nave3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter & Spring Phone Wallpapers | Ashley Eddleman - Freebies">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/03/A51A0A56-D0EB-4235-8EE1-3C2ED5409D32.png?resize=828%2C1792&ssl=1' alt='Easter & Spring Phone Wallpapers | Ashley Eddleman - Freebies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashley Eddleman" />
+                                </span>
+                                <a href='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/03/A51A0A56-D0EB-4235-8EE1-3C2ED5409D32.png?resize=828%2C1792&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Easter tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/a8/a8/d2a8a8847fe79c294dc6b993c567d09f.jpg' alt='iPhone Wallpaper - Easter tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/a8/a8/d2a8a8847fe79c294dc6b993c567d09f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Religious Easter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/religious-easter-0do1af3bnasv1xtm.jpg' alt='100+] Religious Easter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/religious-easter-0do1af3bnasv1xtm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Easter tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/e8/2e/86e82e60006f66d6e7a9fec053f5c49a.jpg' alt='iPhone Wallpaper - Easter tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/e8/2e/86e82e60006f66d6e7a9fec053f5c49a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

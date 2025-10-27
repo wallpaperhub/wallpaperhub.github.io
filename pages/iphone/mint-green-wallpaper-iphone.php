@@ -1,0 +1,129 @@
+<title>Mint Green Wallpaper for iPhone | Refresh Your Screen Style</title>
+                    <meta name="description" content="Discover stunning mint green wallpaper for your iPhone! Elevate your device's look with this calming color, perfect for every aesthetic. Explore a variety of patterns and styles to personalize your phone effortlessly. Refresh your screen and embrace the tranquility of mint green today!">
+                    <meta name="keywords" content="mint green wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mint-green-wallpaper-iphone">
+                            <span itemprop="name">mint green wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mint Green Wallpaper for iPhone | Refresh Your Screen Style</h1>
+                <p>Transform your iPhone screen with stylish mint green wallpaper! This refreshing hue adds a touch of tranquility and elegance to your device. Perfect for every season, choose from patterns or solid designs to match your style. Revive your phone's look with mint green wallpaper and enjoy a serene aesthetic daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mint Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mint-green-iphone-uler2wc1ohlxoip6.jpg' alt='100+] Mint Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mint-green-iphone-uler2wc1ohlxoip6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0a/42/3f/0a423f86e64be2ab17e2d836fa427e8f.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0a/42/3f/0a423f86e64be2ab17e2d836fa427e8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic . Mint green aesthetic, Butterfly iphone, Mint green ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/80/584/HD-wallpaper-aesthetic-mint-green-aesthetic-butterfly-iphone-mint-green-wall-mint-green-mint-green-iphone-iphone-green-mint-green-and-white.jpg' alt='Aesthetic . Mint green aesthetic, Butterfly iphone, Mint green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/80/584/HD-wallpaper-aesthetic-mint-green-aesthetic-butterfly-iphone-mint-green-wall-mint-green-mint-green-iphone-iphone-green-mint-green-and-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/b3/55/3ab3559db1153018e287c280bff23b8e.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/b3/55/3ab3559db1153018e287c280bff23b8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Solid Mint Green Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mint-green-iphone-8605sxs11yiha7g1.jpg' alt='Download Solid Mint Green Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mint-green-iphone-8605sxs11yiha7g1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Palm Tree Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/mint-green-palm-tree-vm2oj8ayscdnwghy.jpg' alt='Mint Green Palm Tree Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/mint-green-palm-tree-vm2oj8ayscdnwghy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Background For iPhone. Mint green, Mint, Plain iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/454/645/HD-wallpaper-mint-green-background-for-iphone-mint-green-mint-plain-iphone-mint-green-and-white.jpg' alt='Mint Green Background For iPhone. Mint green, Mint, Plain iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/454/645/HD-wallpaper-mint-green-background-for-iphone-mint-green-mint-plain-iphone-mint-green-and-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sm59-cool-pastel-blur-gradation-mint-green-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sm59-cool-pastel-blur-gradation-mint-green-41-iphone-wallpaper.jpg' alt='sm59-cool-pastel-blur-gradation-mint-green-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sm59-cool-pastel-blur-gradation-mint-green-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/02/4f/d5024f694db40dcd2f401060c58abd47.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/02/4f/d5024f694db40dcd2f401060c58abd47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

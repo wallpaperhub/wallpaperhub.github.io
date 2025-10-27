@@ -1,0 +1,129 @@
+<title>Stunning Amethyst: Transparent Background Designs</title>
+                    <meta name="description" content="Discover the beauty of amethyst gemstones with transparent backgrounds. Perfect for showcasing their vibrant purple hues. Ideal for jewelry, graphics, and more! Explore elegant designs that capture the essence of this stunning gemstone.">
+                    <meta name="keywords" content="amethyst transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/amethyst-transparent-background">
+                            <span itemprop="name">amethyst transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Amethyst: Transparent Background Designs</h1>
+                <p>Amethyst is a stunning purple gemstone that captures the light beautifully, making it a popular choice for jewelry and decorative items. When presented against a transparent background, its rich color and clarity are highlighted, allowing for a striking visual effect. Perfect for designs needing an elegant touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190602/ourmid/pngtree-water-drop-diamond-decoration-illustration-image_1385868.jpg' alt='Amethyst PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190602/ourmid/pngtree-water-drop-diamond-decoration-illustration-image_1385868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst crystal druse macro mineral isolated on transparent ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/amethyst-crystal-druse-macro-mineral-isolated-transparent-background-png-psd_888962-1152.jpg' alt='Amethyst crystal druse macro mineral isolated on transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/amethyst-crystal-druse-macro-mineral-isolated-transparent-background-png-psd_888962-1152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190601/ourmid/pngtree-purple-gem-image_1364045.jpg' alt='Amethyst PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190601/ourmid/pngtree-purple-gem-image_1364045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst Crystal isolated object transparent background | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/amethyst-crystal-isolated-object-transparent-background_913287-2362.jpg' alt='Amethyst Crystal isolated object transparent background | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/amethyst-crystal-isolated-object-transparent-background_913287-2362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Amethyst Crystal - Beautiful Purple Amethyst Crystal ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180718/atr/0e270653cf4c1c55e6ca905a2146f246.webp' alt='Purple Amethyst Crystal - Beautiful Purple Amethyst Crystal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180718/atr/0e270653cf4c1c55e6ca905a2146f246.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Amethyst" Images – Browse 189 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/53/59/65/360_F_853596586_T414bv3GVz968dX8LoL9d7tgQHq7sIq0.jpg' alt='Transparent Amethyst" Images – Browse 189 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/53/59/65/360_F_853596586_T414bv3GVz968dX8LoL9d7tgQHq7sIq0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst PNG Images & PSDs for Download | PixelSquid - S10601926A">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/amethyst-Ya0z1WA-600.jpg' alt='Amethyst PNG Images & PSDs for Download | PixelSquid - S10601926A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/amethyst-Ya0z1WA-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/056/302/small/ai-generated-amethyst-crystal-cluster-with-vibrant-color-and-shimmering-facets-isolated-on-transparent-background-free-png.png' alt='Amethyst PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/056/302/small/ai-generated-amethyst-crystal-cluster-with-vibrant-color-and-shimmering-facets-isolated-on-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Crystal Cluster - Beautiful Purple Crystal Cluster ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180629/kfj/aaye6e39f.webp' alt='Purple Crystal Cluster - Beautiful Purple Crystal Cluster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180629/kfj/aaye6e39f.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amethyst Heart PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Amethyst_Heart_PNG_Clipart-779.png' alt='Amethyst Heart PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3977">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Amethyst_Heart_PNG_Clipart-779.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

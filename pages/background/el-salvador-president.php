@@ -1,0 +1,129 @@
+<title>El Salvador President: Cryptocurrency Champion or Controversial Leader?</title>
+                    <meta name="description" content="Explore the dynamic leadership of El Salvador's President Bukele, known for his innovative cryptocurrency policies and contentious governance. Discover the impacts of his administration on the nation's economy and societal challenges in this concise overview.">
+                    <meta name="keywords" content="el salvador president">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/el-salvador-president">
+                            <span itemprop="name">el salvador president</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>El Salvador President: Cryptocurrency Champion or Controversial Leader?</h1>
+                <p>El Salvador's President Nayib Bukele has gained international attention for his controversial policies and bold stance on cryptocurrency, particularly Bitcoin. His administration aims to modernize the economy while facing criticism over his approach to democracy, law enforcement, and freedom of the press, sparking a mix of support and opposition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nayib Bukele - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Presidente_Nayib_Bukele_%28cropped%29.jpg/640px-Presidente_Nayib_Bukele_%28cropped%29.jpg' alt='Nayib Bukele - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Presidente_Nayib_Bukele_%28cropped%29.jpg/640px-Presidente_Nayib_Bukele_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador is poised to reelect its popular but authoritarian ...">
+                                <img itemprop="contentUrl url" src='https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/3KOT4QTES3TMENSL762BX3572U.jpg?auth=3dd6bf253b7089052eaec82c2311b3b262e76d9408bb8d854b1ef60727f94e53&width=767&height=431&smart=true' alt='El Salvador is poised to reelect its popular but authoritarian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon Public Broadcasting" />
+                                </span>
+                                <a href='https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/3KOT4QTES3TMENSL762BX3572U.jpg?auth=3dd6bf253b7089052eaec82c2311b3b262e76d9408bb8d854b1ef60727f94e53&width=767&height=431&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvadoran President Bukele's party names him as 2024 candidate ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QBOM5T522RLWDCTP5GUQUFPSXY.jpg' alt='Salvadoran President Bukele's party names him as 2024 candidate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2850">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QBOM5T522RLWDCTP5GUQUFPSXY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador: President Defies Supreme Court | Human Rights Watch">
+                                <img itemprop="contentUrl url" src='https://www.hrw.org/sites/default/files/styles/embed_xxl/public/multimedia_images_2020/202004americas_elsalvador_bukele2.jpg?itok=gd-qwVoD' alt='El Salvador: President Defies Supreme Court | Human Rights Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Human Rights Watch" />
+                                </span>
+                                <a href='https://www.hrw.org/sites/default/files/styles/embed_xxl/public/multimedia_images_2020/202004americas_elsalvador_bukele2.jpg?itok=gd-qwVoD' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador's Nayib Bukele heads for reelection as president ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SAXCS4PJG3KZOWXMYQZ7NLFFSA.jpg' alt='El Salvador's Nayib Bukele heads for reelection as president ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6202">
+                                <meta itemprop="height" content="4135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Boston Globe" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SAXCS4PJG3KZOWXMYQZ7NLFFSA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Analysis: The Trump administration's budding bromance with El ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/0e3cae9/2147483647/strip/true/crop/5763x3842+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Fa4%2F51a8880e1b0aaf0dc278c7f9309c%2F8634ef78a8a64556b9da090f06789737' alt='News Analysis: The Trump administration's budding bromance with El ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/0e3cae9/2147483647/strip/true/crop/5763x3842+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Fa4%2F51a8880e1b0aaf0dc278c7f9309c%2F8634ef78a8a64556b9da090f06789737' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvadoran leader makes re-election bid official | Reuters">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/5EMJ6VSZNZJONPEYRMIWF4QONA.jpg?auth=0b27387abf895137fa7998cac2b6fd3452c58e105ce7aa7e8224c1fc6dc55e6d&width=5184&quality=80' alt='Salvadoran leader makes re-election bid official | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/5EMJ6VSZNZJONPEYRMIWF4QONA.jpg?auth=0b27387abf895137fa7998cac2b6fd3452c58e105ce7aa7e8224c1fc6dc55e6d&width=5184&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador's President Vows to Cure Country's Ills">
+                                <img itemprop="contentUrl url" src='https://gdb.voanews.com/35c7bdab-c5cd-4a52-a694-da796d3c91df_w1200_r1.jpg' alt='El Salvador's President Vows to Cure Country's Ills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VOA" />
+                                </span>
+                                <a href='https://gdb.voanews.com/35c7bdab-c5cd-4a52-a694-da796d3c91df_w1200_r1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Bad to Worse: Nayib Bukele's Split with Washington">
+                                <img itemprop="contentUrl url" src='https://americasquarterly.org/wp-content/uploads/2021/12/bukeletop.jpg' alt='From Bad to Worse: Nayib Bukele's Split with Washington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Americas Quarterly" />
+                                </span>
+                                <a href='https://americasquarterly.org/wp-content/uploads/2021/12/bukeletop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In El Salvador, self-styled 'world's coolest dictator' Nayib ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1793808893.jpg?c=original' alt='In El Salvador, self-styled 'world's coolest dictator' Nayib ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1793808893.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

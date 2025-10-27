@@ -1,0 +1,129 @@
+<title>Comprehensive Guide to Your Address History</title>
+                    <meta name="description" content="Discover the importance of address history for credit checks, background checks, and leasing applications. Learn how to maintain an accurate record to enhance your credibility and build trust with landlords and employers. Understand what to include for a thorough address history.">
+                    <meta name="keywords" content="address history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/address-history">
+                            <span itemprop="name">address history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comprehensive Guide to Your Address History</h1>
+                <p>Address history refers to the record of locations where an individual has lived over time. It's essential for various processes, such as credit checks, background investigations, and leasing applications. Maintaining an accurate and detailed address history can enhance your credibility and help establish trust with potential landlords, employers, and financial institutions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can I check the history of an address? | Keep&Share Support ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/3065941233/original/Yhrqounkjp1F1Q7-X2hQH_vr8S3-wAcn7A.jpg?1624635876' alt='How can I check the history of an address? | Keep&Share Support ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Support Portal" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/3065941233/original/Yhrqounkjp1F1Q7-X2hQH_vr8S3-wAcn7A.jpg?1624635876' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks For Large Businesses - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=4&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' alt='Background Checks For Large Businesses - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks For Large Businesses - Accurate" />
+                                </span>
+                                <a href='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=4&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Address Search Software - Best Solutions for Address Lookup">
+                                <img itemprop="contentUrl url" src='https://www.tracers.com/wp-content/uploads/2021/06/Address-History-Search.jpg' alt='Address Search Software - Best Solutions for Address Lookup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tracers" />
+                                </span>
+                                <a href='https://www.tracers.com/wp-content/uploads/2021/06/Address-History-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks For Large Businesses - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=1&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' alt='Background Checks For Large Businesses - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks For Large Businesses - Accurate" />
+                                </span>
+                                <a href='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=1&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Form I-485 - part 3 - Address History - SimpleCitizen">
+                                <img itemprop="contentUrl url" src='https://learn.simplecitizen.com/wp-content/uploads/2017/10/Form-I-485-part-3-Address-History.jpg' alt='Form I-485 - part 3 - Address History - SimpleCitizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1118">
+                                <meta itemprop="height" content="1506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimpleCitizen" />
+                                </span>
+                                <a href='https://learn.simplecitizen.com/wp-content/uploads/2017/10/Form-I-485-part-3-Address-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can I check the history of an address? | Keep&Share Support ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/3096476383/original/F8OI-MgUdXAnswIhaztx5mewc0AA2dUzcg.jpg?1685653109' alt='How can I check the history of an address? | Keep&Share Support ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Support Portal" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/3096476383/original/F8OI-MgUdXAnswIhaztx5mewc0AA2dUzcg.jpg?1685653109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Year Address History Template: Complete with ease | airSlate SignNow">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/12/595/12595941.png' alt='5 Year Address History Template: Complete with ease | airSlate SignNow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/12/595/12595941.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks For Large Businesses - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=7&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' alt='Background Checks For Large Businesses - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks For Large Businesses - Accurate" />
+                                </span>
+                                <a href='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1813354&step_number=7&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Address History Form | PDF">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/702051391/original/d4b09c3ee6/1?v=1' alt='Address History Form | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/702051391/original/d4b09c3ee6/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Find Your Subject's Complete Address History">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/lawgical/assets/data/7874/original.png' alt='How To Find Your Subject's Complete Address History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PInow.com" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/lawgical/assets/data/7874/original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

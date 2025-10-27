@@ -1,0 +1,129 @@
+<title>Easy Peel and Stick White Brick Wallpaper for Instant Style</title>
+                    <meta name="description" content="Discover the simplicity of peel and stick white brick wallpaper! Perfect for renters, this easy-to-use option adds a chic, rustic touch to any room. Enjoy hassle-free installation and the versatility to refresh your decor without commitment. Ideal for kitchens, living rooms, and more!">
+                    <meta name="keywords" content="peel and stick white brick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-white-brick-wallpaper">
+                            <span itemprop="name">peel and stick white brick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easy Peel and Stick White Brick Wallpaper for Instant Style</h1>
+                <p>Transform your space with peel and stick white brick wallpaper, an ideal choice for a stylish, modern look. This easy-to-install wallpaper is perfect for renters and homeowners alike. Simply peel, stick, and enjoy the instant farmhouse charm it brings to any room, from kitchens to living areas, blending elegance with convenience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Loft White Brick Textured Peel & Stick Vinyl Strippable  Wallpaper (Covers 30.75 sq. ft.) NU2218 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b94f3613-4c11-4d3c-a14b-918377164412/svn/nuwallpaper-wallpaper-rolls-nu2218-64_1000.jpg' alt='NuWallpaper Loft White Brick Textured Peel & Stick Vinyl Strippable  Wallpaper (Covers 30.75 sq. ft.) NU2218 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b94f3613-4c11-4d3c-a14b-918377164412/svn/nuwallpaper-wallpaper-rolls-nu2218-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Brick Wallpaper Aged Vintage Look Self Adhesive Fabric ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/d1e8aa/1617681673/il_570xN.1617681673_gqs7.jpg' alt='White Brick Wallpaper Aged Vintage Look Self Adhesive Fabric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/d1e8aa/1617681673/il_570xN.1617681673_gqs7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick White Peel and Stick Wallpaper – Maker & Moss">
+                                <img itemprop="contentUrl url" src='https://makerandmoss.com/cdn/shop/products/brick-white-peel-and-stick-wallpaper-lifestyle-tempaper-designs-3.jpg?v=1621862551' alt='Brick White Peel and Stick Wallpaper – Maker & Moss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maker & Moss" />
+                                </span>
+                                <a href='https://makerandmoss.com/cdn/shop/products/brick-white-peel-and-stick-wallpaper-lifestyle-tempaper-designs-3.jpg?v=1621862551' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anmon Peel and Stick Wallpaper White Brick Wallpaper 17.7" x 393", Self  Adhesive 3D Look Faux Contact Paper,Removable Vinyl Film Roll for Walls ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71M5f0sFVML._AC_UF894,1000_QL80_.jpg' alt='Anmon Peel and Stick Wallpaper White Brick Wallpaper 17.7" x 393", Self  Adhesive 3D Look Faux Contact Paper,Removable Vinyl Film Roll for Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71M5f0sFVML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/vintage-brick-peel-and-stick-wallpaper-878734.jpg?v=1687551196' alt='Vintage Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/vintage-brick-peel-and-stick-wallpaper-878734.jpg?v=1687551196' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Grey And White Brick Vinyl Peel & Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/24b8f0f9-9eb2-4f53-8cfc-3de0229410c0/svn/nuwallpaper-wallpaper-rolls-nu1653-44_600.jpg' alt='NuWallpaper Grey And White Brick Vinyl Peel & Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/24b8f0f9-9eb2-4f53-8cfc-3de0229410c0/svn/nuwallpaper-wallpaper-rolls-nu1653-44_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel & Stick Wallpaper - White">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/RMK11237WP-peel-and-stick-brick-wallpaper-white.jpg?v=1579903750&width=1920' alt='Brick Peel & Stick Wallpaper - White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/RMK11237WP-peel-and-stick-brick-wallpaper-white.jpg?v=1579903750&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loft White Brick Modern Farmhouse Raised Texture Peel and Stick Wallpaper  NU2218 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/fvQAAOSwSsZceXV-/s-l400.jpg' alt='Loft White Brick Modern Farmhouse Raised Texture Peel and Stick Wallpaper  NU2218 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="341">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/fvQAAOSwSsZceXV-/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akywall White Brick Wallpaper Peel and Stick White&Gray Brick Wall Paper  Faux Brick Wall Paper Vinyl Self-Adhesive Removable Contact Paper for Dorm  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71yMscIow5L.jpg' alt='Akywall White Brick Wallpaper Peel and Stick White&Gray Brick Wall Paper  Faux Brick Wall Paper Vinyl Self-Adhesive Removable Contact Paper for Dorm  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71yMscIow5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Brick Peel & Stick Wallpaper White - Threshold™: Vinyl,  Self-Adhesive, Classic Pattern, 27.5 Sq Ft Coverage">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_e5f2537d-1517-4758-be6d-ff9a964e249b?wid=300&hei=300&fmt=pjpeg' alt='Textured Brick Peel & Stick Wallpaper White - Threshold™: Vinyl,  Self-Adhesive, Classic Pattern, 27.5 Sq Ft Coverage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_e5f2537d-1517-4758-be6d-ff9a964e249b?wid=300&hei=300&fmt=pjpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

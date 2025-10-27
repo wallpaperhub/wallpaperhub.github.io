@@ -1,0 +1,129 @@
+<title>Immerse Yourself in a Moving Galaxy Background</title>
+                    <meta name="description" content="Discover the enchantment of a moving galaxy background. Perfect for enhancing your digital environment, this captivating cosmic visual adds depth and wonder to any project. Experience the beauty of the universe in motion, optimized for your mobile display!">
+                    <meta name="keywords" content="moving galaxy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moving-galaxy-background">
+                            <span itemprop="name">moving galaxy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Immerse Yourself in a Moving Galaxy Background</h1>
+                <p>Explore the mesmerizing beauty of a moving galaxy background, where stars twinkle, celestial bodies swirl, and cosmic wonders unfold. This captivating visual can create an immersive atmosphere for various applications—from desktop wallpapers to video backgrounds. Experience the universe in motion, adding depth and intrigue to your digital projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Glowing Galaxy Vortex #AAVFX    Relaxing SPACE Moving Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QPl-2e3kd_Q/maxresdefault.jpg' alt='4K Glowing Galaxy Vortex #AAVFX    Relaxing SPACE Moving Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QPl-2e3kd_Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy moving 2025 background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/512/534/original/a-spiral-galaxy-in-the-dark-starry-sky-the-camera-slowly-zooms-in-on-the-purple-galaxy-rotating-nebula-space-animation-in-3d-ideal-for-meditation-background-and-relaxation-music-video.jpg' alt='Galaxy moving 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/512/534/original/a-spiral-galaxy-in-the-dark-starry-sky-the-camera-slowly-zooms-in-on-the-purple-galaxy-rotating-nebula-space-animation-in-3d-ideal-for-meditation-background-and-relaxation-music-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Classic Galaxy ~60:00 Minutes Space Wallpaper~ Longest FREE Motion  Background HD 4K 60fps">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eTD0WWFIDAg/maxresdefault.jpg' alt='Purple Classic Galaxy ~60:00 Minutes Space Wallpaper~ Longest FREE Motion  Background HD 4K 60fps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eTD0WWFIDAg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' alt='Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Circling in Galaxy">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/stars-circling-in-galaxy_thumbnail-180_14.jpg' alt='Stars Circling in Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/stars-circling-in-galaxy_thumbnail-180_14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy moving 2025 background">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/space-animation-background-nebula-stars-footage-074007804_prevstill.jpeg' alt='Galaxy moving 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.pond5.com/space-animation-background-nebula-stars-footage-074007804_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Animated Background Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/078/506/small/animated-flying-through-the-stars-and-blue-nebula-in-space-suitable-for-background-or-others-free-video.jpg' alt='Galaxy Animated Background Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/078/506/small/animated-flying-through-the-stars-and-blue-nebula-in-space-suitable-for-background-or-others-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Galaxy Style">
+                                <img itemprop="contentUrl url" src='https://thumb.r2.moele.me/t/1011/9001156/a-0120.jpg' alt='Moving Galaxy Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live action footage" />
+                                </span>
+                                <a href='https://thumb.r2.moele.me/t/1011/9001156/a-0120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy in 4K ║ Animation Overlay for Edits ║ Motion Background Free  Beautiful HD Video Effect">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TNMOlAGvQZc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGCcgKyh_MA8=&rs=AOn4CLAwupyblztjIKDyQvmOVzt_8M-mMg' alt='Galaxy in 4K ║ Animation Overlay for Edits ║ Motion Background Free  Beautiful HD Video Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TNMOlAGvQZc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGCcgKyh_MA8=&rs=AOn4CLAwupyblztjIKDyQvmOVzt_8M-mMg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation Galaxy background, Zoom out nebula abstract background.">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/animation-galaxy-background-zoom-out-088306314_prevstill.jpeg' alt='Animation Galaxy background, Zoom out nebula abstract background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/animation-galaxy-background-zoom-out-088306314_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

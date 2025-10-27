@@ -1,0 +1,129 @@
+<title>Hello Kitty & Friends iPhone Wallpapers | Cute & Stylish</title>
+                    <meta name="description" content="Discover the cutest Hello Kitty and friends wallpapers for your iPhone! Enhance your device with charming designs of your favorite characters. Perfect for fans, these wallpapers bring joy and style to your screen effortlessly. Download now to personalize your phone with cuteness!">
+                    <meta name="keywords" content="hello kitty and friends wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hello-kitty-and-friends-wallpaper-iphone">
+                            <span itemprop="name">hello kitty and friends wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hello Kitty & Friends iPhone Wallpapers | Cute & Stylish</h1>
+                <p>Transform your iPhone with adorable Hello Kitty and friends wallpapers! Featuring vibrant designs of Hello Kitty, My Melody, and Cinnamoroll, these wallpapers bring joy and cuteness to your screen. Perfect for fans of all ages, these colorful backgrounds will brighten your day and showcase your love for these iconic characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/d/c/2164538-1200x2133-phone-hd-hello-kitty-and-friends-background-photo.jpg' alt='Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/d/c/2164538-1200x2133-phone-hd-hello-kitty-and-friends-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Kuromi-Pink-Phone-Wallpaper-v1711554789156.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Kuromi-Pink-Phone-Wallpaper-v1711554789156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Cinamoroll-Pink-Phone-Wallpaper-v1711554882390.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Cinamoroll-Pink-Phone-Wallpaper-v1711554882390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty and Friends Wallpaper by CKittyCosmos on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18def7da-e28c-409e-b9a3-675e694b4acf/dfbsrh8-3eb95018-5934-49a5-93e5-a15db5ad54c7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4ZGVmN2RhLWUyOGMtNDA5ZS1iOWEzLTY3NWU2OTRiNGFjZlwvZGZic3JoOC0zZWI5NTAxOC01OTM0LTQ5YTUtOTNlNS1hMTVkYjVhZDU0YzcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UrE07EXltB77elFCMHutKjlgTKtzC_rFwmiYInolfS4' alt='Hello Kitty and Friends Wallpaper by CKittyCosmos on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1011">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18def7da-e28c-409e-b9a3-675e694b4acf/dfbsrh8-3eb95018-5934-49a5-93e5-a15db5ad54c7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4ZGVmN2RhLWUyOGMtNDA5ZS1iOWEzLTY3NWU2OTRiNGFjZlwvZGZic3JoOC0zZWI5NTAxOC01OTM0LTQ5YTUtOTNlNS1hMTVkYjVhZDU0YzcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UrE07EXltB77elFCMHutKjlgTKtzC_rFwmiYInolfS4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Phone-Wallpaper-v1711554781111.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Phone-Wallpaper-v1711554781111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/d9/19/50d9195ce5e3d2644b9ea25337455228.jpg' alt='Hello Kitty & Friends  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/d9/19/50d9195ce5e3d2644b9ea25337455228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi With Hello Kitty And Friends Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-with-hello-kitty-and-friends-24x3y43m3jr8enxy.jpg' alt='Download Kuromi With Hello Kitty And Friends Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-with-hello-kitty-and-friends-24x3y43m3jr8enxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Hello Kitty & Friends Wallpaper for Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7402345044281265440&location=0&aid=1988' alt='Cute Hello Kitty & Friends Wallpaper for Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7402345044281265440&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/c/0/2165052-1080x1920-samsung-1080p-hello-kitty-and-friends-background-image.jpg' alt='Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/c/0/2165052-1080x1920-samsung-1080p-hello-kitty-and-friends-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="༚              ☆              ༚">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/43/5a/97435a5c37bd09dae81f3e7cfc70af71.jpg' alt='༚              ☆              ༚'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/43/5a/97435a5c37bd09dae81f3e7cfc70af71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

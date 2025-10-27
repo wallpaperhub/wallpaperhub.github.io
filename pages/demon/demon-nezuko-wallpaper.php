@@ -1,0 +1,129 @@
+<title>Demon Nezuko Wallpapers: Stunning Designs for Every Fan</title>
+                    <meta name="description" content="Discover a collection of breathtaking Demon Nezuko wallpapers perfect for any device! Elevate your screen with beautiful imagery showcasing this iconic character. Easy to download and ideal for fans of "Demon Slayer," these wallpapers are designed to impress!">
+                    <meta name="keywords" content="demon nezuko wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/demon-nezuko-wallpaper">
+                            <span itemprop="name">demon nezuko wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Nezuko Wallpapers: Stunning Designs for Every Fan</h1>
+                <p>Transform your device with stunning Demon Nezuko wallpapers! Capture the essence of this beloved character from "Demon Slayer" with vibrant and captivating designs straight from the anime. Whether you prefer action-packed scenes or serene portraits, find the perfect Nezuko wallpaper to showcase your devotion to this fierce and charming demon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Demon Nezuko Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-demon-nezuko-m1f1w1pje9xk8g97.jpg' alt='Anime Demon Nezuko Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-demon-nezuko-m1f1w1pje9xk8g97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew an adult demon Nezuko splash screen style wallpaper :) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ejk7dzz2m9f81.jpg' alt='I drew an adult demon Nezuko splash screen style wallpaper :) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ejk7dzz2m9f81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Full Demon Form by Omelette">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/120/1203069.png' alt='Nezuko Full Demon Form by Omelette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/120/1203069.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/93/fd/3893fd0e1b92f196a9cd40357b091b16.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/93/fd/3893fd0e1b92f196a9cd40357b091b16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko desktop wallpaper 4k, Demon slayer anime HD, Aesthetic wallpaper,  Cute nezuko background, high resolution wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48940082/r/il/54ddc6/6046704655/il_340x270.6046704655_spkz.jpg' alt='Nezuko desktop wallpaper 4k, Demon slayer anime HD, Aesthetic wallpaper,  Cute nezuko background, high resolution wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48940082/r/il/54ddc6/6046704655/il_340x270.6046704655_spkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko demon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/a2/97/f4a297f900f532a935960bae12c3e15a.jpg' alt='Nezuko demon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/a2/97/f4a297f900f532a935960bae12c3e15a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Kamado 4K Ultra HD Wallpaper by DT501061 余佳軒">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/124/1248321.jpg' alt='Nezuko Kamado 4K Ultra HD Wallpaper by DT501061 余佳軒'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4555">
+                                <meta itemprop="height" content="3644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/124/1248321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer : Nezuko Kamado [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5s8x0uzjxw571.jpg' alt='Demon Slayer : Nezuko Kamado [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5s8x0uzjxw571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nezuko wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/330/533/HD-wallpaper-nezuko-kamado-angry-art.jpg' alt='HD nezuko wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/330/533/HD-wallpaper-nezuko-kamado-angry-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Red Eyes Demon Slayer Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/nezuko-red-eyes-demon-slayer-iphone-035wyx53i471i0s5.jpg' alt='Nezuko Red Eyes Demon Slayer Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/nezuko-red-eyes-demon-slayer-iphone-035wyx53i471i0s5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

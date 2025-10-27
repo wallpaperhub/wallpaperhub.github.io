@@ -1,0 +1,129 @@
+<title>Discover the Enchantment of Hogwarts Castle</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="hogwarts castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hogwarts-castle-background">
+                            <span itemprop="name">hogwarts castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchantment of Hogwarts Castle</h1>
+                <p>Hogwarts Castle, a stunning masterpiece of magical architecture, is nestled within the Scottish Highlands. Its towering turrets and sprawling grounds, surrounded by a vast lake and an enchanting forest, create a sense of wonder. Home to young witches and wizards, it embodies the rich history and vibrant culture of the wizarding world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Castle Peel And Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://myoriginalwallpaper.com/cdn/shop/products/wallpapers-2021-12-20T163500.635_700x700.png?v=1662482230' alt='Hogwarts Castle Peel And Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Original Wallpaper" />
+                                </span>
+                                <a href='https://myoriginalwallpaper.com/cdn/shop/products/wallpapers-2021-12-20T163500.635_700x700.png?v=1662482230' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' alt='Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Castle Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/f/f/2164995-1536x2732-iphone-hd-hogwarts-castle-wallpaper-image.jpg' alt='Hogwarts Castle Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/f/f/2164995-1536x2732-iphone-hd-hogwarts-castle-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Landscape with Clouds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/5c/ad/4c5cad3a2febbda9f853f76f6f005017.jpg' alt='Hogwarts Landscape with Clouds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/5c/ad/4c5cad3a2febbda9f853f76f6f005017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Hogwarts Night HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/339/thumb-1920-339227.jpg' alt='Download Free Hogwarts Night HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/339/thumb-1920-339227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter - Hogwarts Castle SN/Standard Numbered / 12" x 18" / Unframed">
+                                <img itemprop="contentUrl url" src='https://disneyartonmain.com/cdn/shop/files/hryptr_unframed_1_ec167e98-983f-48e2-9bc6-301b9a724b6b.jpg?v=1723492175&width=1445' alt='Harry Potter - Hogwarts Castle SN/Standard Numbered / 12" x 18" / Unframed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Art On Main Street" />
+                                </span>
+                                <a href='https://disneyartonmain.com/cdn/shop/files/hryptr_unframed_1_ec167e98-983f-48e2-9bc6-301b9a724b6b.jpg?v=1723492175&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HARRY POTTER Wall Sticker – Hogwarts Castle Outside Day Time Full ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18450074/r/il/97269d/6025896138/il_fullxfull.6025896138_kfir.jpg' alt='HARRY POTTER Wall Sticker – Hogwarts Castle Outside Day Time Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18450074/r/il/97269d/6025896138/il_fullxfull.6025896138_kfir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween at Hogwarts Harry Potter Castle Backdrop for Photography ...">
+                                <img itemprop="contentUrl url" src='https://www.starbackdrops.com/cdn/shop/products/1_1_6f039ac2-c6be-4bd5-9ebe-d3a3289bdfa1.png?v=1733931316&width=1445' alt='Halloween at Hogwarts Harry Potter Castle Backdrop for Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Starbackdrop" />
+                                </span>
+                                <a href='https://www.starbackdrops.com/cdn/shop/products/1_1_6f039ac2-c6be-4bd5-9ebe-d3a3289bdfa1.png?v=1733931316&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jigsaw puzzle Entertainment Harry Potter Hogwarts School Castle ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/QtAAAOSw4z1hLp9w/s-l1200.jpg' alt='Jigsaw puzzle Entertainment Harry Potter Hogwarts School Castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/QtAAAOSw4z1hLp9w/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Castle Magical Lake View Desktop Wallpaper - 4K Vibes">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/10/hogwarts-castle-magical-lake-view-desktop-wallpaper-cover.jpg' alt='Hogwarts Castle Magical Lake View Desktop Wallpaper - 4K Vibes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/10/hogwarts-castle-magical-lake-view-desktop-wallpaper-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

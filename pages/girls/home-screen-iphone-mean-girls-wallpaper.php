@@ -1,0 +1,129 @@
+<title>Mean Girls iPhone Wallpaper: Elevate Your Home Screen</title>
+                    <meta name="description" content="Discover the best Mean Girls wallpapers for your iPhone! Perfectly sized for mobile displays, these wallpapers bring a pop of personality to your home screen. Show off your love for this iconic movie with eye-catching designs that are sure to impress your friends. Find your favorite now!">
+                    <meta name="keywords" content="home screen iphone mean girls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/home-screen-iphone-mean-girls-wallpaper">
+                            <span itemprop="name">home screen iphone mean girls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mean Girls iPhone Wallpaper: Elevate Your Home Screen</h1>
+                <p>Transform your iPhone's home screen with stylish Mean Girls wallpapers! Whether you're a fan of Cady, Regina, or Gretchen, you can showcase your love for the iconic film in a fun and vibrant way. Explore various designs that capture the essence of friendship and high school drama—all at your fingertips!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/12/90/861290365e03d0d90588dcc34f1e0658.jpg' alt='Free Mean Girls iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/12/90/861290365e03d0d90588dcc34f1e0658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean Girls- Wallpapers - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30890949/r/il/9d299b/4474889803/il_fullxfull.4474889803_hjc8.jpg' alt='Mean Girls- Wallpapers - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30890949/r/il/9d299b/4474889803/il_fullxfull.4474889803_hjc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean girls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/6a/38/026a389e077a5a18ee041448c8b57b06.jpg' alt='Mean girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/6a/38/026a389e077a5a18ee041448c8b57b06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-wallpaper-1-.png' alt='Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-wallpaper-1-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-wallpaper5.png' alt='Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-wallpaper5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/81/2b/1e812b3849a26c4c610a2545524c1ea1.jpg' alt='Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/81/2b/1e812b3849a26c4c610a2545524c1ea1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-4.png' alt='Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean girls wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/b7/60/6db76030ad78fa4662c7329d8f6ccfcc.jpg' alt='Mean girls wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/b7/60/6db76030ad78fa4662c7329d8f6ccfcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls.png' alt='Free Mean Girls Wallpapers for Mean Girls Day - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/10/mean-girls.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mean Girls iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/00/32/f5003243c59861eea03281f4dcd71dc3.jpg' alt='Free Mean Girls iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/00/32/f5003243c59861eea03281f4dcd71dc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

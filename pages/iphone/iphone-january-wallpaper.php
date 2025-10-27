@@ -1,0 +1,129 @@
+<title>Top January iPhone Wallpapers for a Fresh Start</title>
+                    <meta name="description" content="Discover the best iPhone wallpapers for January! Refresh your device with beautiful designs that inspire and uplift. Perfect for welcoming the new year with style, these wallpapers cater to every taste. Upgrade your screen effortlessly and make every unlock a moment of joy!">
+                    <meta name="keywords" content="iphone january wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-january-wallpaper">
+                            <span itemprop="name">iphone january wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top January iPhone Wallpapers for a Fresh Start</h1>
+                <p>Transform your iPhone's look this January with stunning wallpapers that capture the essence of the new year. From serene winter landscapes to vibrant, motivational quotes, there's a perfect wallpaper for everyone. Start January with a fresh aesthetic to inspire and energize your daily routine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello January! - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/6721-hello-january.png' alt='Hello January! - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/6721-hello-january.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Gorgeous Free January Wallpaper For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ec/36/9d/ec369dc32b2978837573177e33e8d28e.jpg' alt='40+ Gorgeous Free January Wallpaper For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ec/36/9d/ec369dc32b2978837573177e33e8d28e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Gorgeous Free January Wallpaper For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e9/a0/bf/e9a0bffc2d434090842adb42143b9448.jpg' alt='40+ Gorgeous Free January Wallpaper For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e9/a0/bf/e9a0bffc2d434090842adb42143b9448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] January Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/january-z4w4kysfa0nankt5.jpg' alt='200+] January Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/january-z4w4kysfa0nankt5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January desktop wallpaper calendar - The House That Lars Built">
+                                <img itemprop="contentUrl url" src='https://thehousethatlarsbuilt.com/wp-content/uploads/2016/01/6_Jan_Iphone6.jpg' alt='January desktop wallpaper calendar - The House That Lars Built'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The House That Lars Built" />
+                                </span>
+                                <a href='https://thehousethatlarsbuilt.com/wp-content/uploads/2016/01/6_Jan_Iphone6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2018 Wallpaper by Genevieve Ali of Script and Vine ...">
+                                <img itemprop="contentUrl url" src='https://media.shrimpsaladcircus.com/wp-content/uploads/2018/01/01113630/January-2018-Wallpaper-for-iPhone-by-Script-and-Vine-for-Shrimp-Salad-Circus.jpg' alt='January 2018 Wallpaper by Genevieve Ali of Script and Vine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shrimp Salad Circus" />
+                                </span>
+                                <a href='https://media.shrimpsaladcircus.com/wp-content/uploads/2018/01/01113630/January-2018-Wallpaper-for-iPhone-by-Script-and-Vine-for-Shrimp-Salad-Circus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Cloud abstract January monthly calendar iPhone ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cloud-abstract-january-monthly-calendar-iphone-wallpaper-vector_53876-154339.jpg' alt='Free Vector | Cloud abstract January monthly calendar iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cloud-abstract-january-monthly-calendar-iphone-wallpaper-vector_53876-154339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2019 Confetti Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2018/12/01_2019_wallpaper_iphone_art.jpg' alt='January 2019 Confetti Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2251">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2018/12/01_2019_wallpaper_iphone_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] January Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/january-phone-eivr1w5aym7z25cc.jpg' alt='100+] January Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/january-phone-eivr1w5aym7z25cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/4d/d1/324dd1d55d049f2acb9864136579cc14.jpg' alt='January aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/4d/d1/324dd1d55d049f2acb9864136579cc14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

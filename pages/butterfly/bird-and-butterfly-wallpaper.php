@@ -1,0 +1,129 @@
+<title>Stunning Bird & Butterfly Wallpaper for Nature Lovers</title>
+                    <meta name="description" content="Discover beautiful bird and butterfly wallpaper that brings the wonders of nature indoors. Perfect for any room, these stunning designs add color and tranquility to your home. Shop now to elevate your space with nature-inspired elegance!">
+                    <meta name="keywords" content="bird and butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/bird-and-butterfly-wallpaper">
+                            <span itemprop="name">bird and butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bird & Butterfly Wallpaper for Nature Lovers</h1>
+                <p>Transform your space with stunning bird and butterfly wallpaper! This charming décor choice adds a touch of nature's beauty to any room, creating a serene atmosphere while showcasing vibrant colors and intricate designs. Ideal for living rooms, nurseries, or creative spaces, our wallpapers breathe life into your surroundings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds and Butterfly's Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.urbanamericandrygoods.com/cdn/shop/products/bb_2048x.png?v=1642501991' alt='Birds and Butterfly's Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban American Dry Goods" />
+                                </span>
+                                <a href='https://www.urbanamericandrygoods.com/cdn/shop/products/bb_2048x.png?v=1642501991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird and Butterfly Wallpaper for Children Room Decor, Sparrow Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/9122c7/3397853938/il_fullxfull.3397853938_e1ei.jpg' alt='Bird and Butterfly Wallpaper for Children Room Decor, Sparrow Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/9122c7/3397853938/il_fullxfull.3397853938_e1ei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds And Butterflies Wallpaper Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/09856203/compr-r85/1927/192736924/birds-and-butterflies-wallpaper-floral-roll.jpg' alt='Birds And Butterflies Wallpaper Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/09856203/compr-r85/1927/192736924/birds-and-butterflies-wallpaper-floral-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird & Butterfly Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.charlesvoysey.com/uploads/5/7/7/9/5779447/butterfly-bird-summer-sky-v1151_orig.jpg' alt='Bird & Butterfly Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="c.f.a. voysey" />
+                                </span>
+                                <a href='https://www.charlesvoysey.com/uploads/5/7/7/9/5779447/butterfly-bird-summer-sky-v1151_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Birds and Butterflies Wallpaper">
+                                <img itemprop="contentUrl url" src='https://dekowepillows.com/cdn/shop/products/2704421_1080x.jpg?v=1629510554' alt='Schumacher Birds and Butterflies Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEKOWE" />
+                                </span>
+                                <a href='https://dekowepillows.com/cdn/shop/products/2704421_1080x.jpg?v=1629510554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird & Butterfly Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.charlesvoysey.com/uploads/5/7/7/9/5779447/s867670160800856522_p58_i69_w1414.jpeg' alt='Bird & Butterfly Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="c.f.a. voysey" />
+                                </span>
+                                <a href='https://www.charlesvoysey.com/uploads/5/7/7/9/5779447/s867670160800856522_p58_i69_w1414.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds & Butterflies - Multi On White Wallpapers | Schumacher">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/schumacher-webassets/2704420-2.jpg' alt='Birds & Butterflies - Multi On White Wallpapers | Schumacher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Schumacher" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/schumacher-webassets/2704420-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Butterfly & Bird Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/green-butterfly-bird-garden-wallpaper-rhnq.jpg' alt='Green Butterfly & Bird Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/green-butterfly-bird-garden-wallpaper-rhnq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EPPING BIRDS ON BRANCHES WALLPAPER - WHITE - HOLDEN 12231 ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/AV4AAOSw~CFY5yhZ/s-l1200.jpg' alt='EPPING BIRDS ON BRANCHES WALLPAPER - WHITE - HOLDEN 12231 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/AV4AAOSw~CFY5yhZ/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2704421 | Birds and Butterflies, Porcelain - Schumacher Wallcovering">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_e3d4fac6-498e-4fba-be02-51985cc4ec6e.jpg?v=1663914040&width=1445' alt='2704421 | Birds and Butterflies, Porcelain - Schumacher Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_e3d4fac6-498e-4fba-be02-51985cc4ec6e.jpg?v=1663914040&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

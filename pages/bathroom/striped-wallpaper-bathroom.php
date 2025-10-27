@@ -1,0 +1,129 @@
+<title>Transform Your Bathroom with Striped Wallpaper</title>
+                    <meta name="description" content="Discover how striped wallpaper can enhance your bathroom's aesthetic. From chic vertical designs to calming horizontal patterns, find the perfect look to elevate your space. Explore tips on color coordination and styling to create a beautiful, inviting atmosphere.">
+                    <meta name="keywords" content="striped wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/striped-wallpaper-bathroom">
+                            <span itemprop="name">striped wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Bathroom with Striped Wallpaper</h1>
+                <p>Striped wallpaper can transform a bathroom, adding depth and style. Whether you choose bold vertical stripes for height or soft horizontal lines for a cozy vibe, it's perfect for creating a stunning focal point. Combine with matching accessories and lighting for a cohesive look that elevates your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticking | Striped Pattern | Bedroom Bathroom Entry Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13770657/r/il/c5b04b/4587735254/il_fullxfull.4587735254_cmnk.jpg' alt='Ticking | Striped Pattern | Bedroom Bathroom Entry Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13770657/r/il/c5b04b/4587735254/il_fullxfull.4587735254_cmnk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver Navy Simple Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/AST4971-Room_720x.jpg?v=1690394594' alt='Oliver Navy Simple Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/AST4971-Room_720x.jpg?v=1690394594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal design black stripe pattern removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/files/Eclectic-kids-bathroom-interior-with-stripes-wallpaper.jpg?v=1695654267' alt='Minimal design black stripe pattern removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/files/Eclectic-kids-bathroom-interior-with-stripes-wallpaper.jpg?v=1695654267' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zesty Stripe Wallpaper in Green X Kate Clay">
+                                <img itemprop="contentUrl url" src='https://funkypaperco.com/cdn/shop/files/CloseBathroomMockUp-ZestyStripeInGreen_560x.png?v=1714932071' alt='Zesty Stripe Wallpaper in Green X Kate Clay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funky Paper Co" />
+                                </span>
+                                <a href='https://funkypaperco.com/cdn/shop/files/CloseBathroomMockUp-ZestyStripeInGreen_560x.png?v=1714932071' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eden">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-0de3a/images/stencil/1280x1280/products/1664/4179/Rifle_wallpaper_RP7343_Eden_gold__89114.1657719350.jpg?c=2' alt='Eden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Covered Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-0de3a/images/stencil/1280x1280/products/1664/4179/Rifle_wallpaper_RP7343_Eden_gold__89114.1657719350.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closet Stripe wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.selectedwallpapers.com/cdn/shop/files/Closet-Stripe-behang-wallpaper-tapete-Farrow-Ball-Selected-Wallpapers-Interiors.jpg?v=1734002473&width=720' alt='Closet Stripe wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selected Wallpapers & Interiors" />
+                                </span>
+                                <a href='https://www.selectedwallpapers.com/cdn/shop/files/Closet-Stripe-behang-wallpaper-tapete-Farrow-Ball-Selected-Wallpapers-Interiors.jpg?v=1734002473&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Life is a Banquet Stripe' Wallpaper by Lingua Franca - Blues">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Life_Is_a_Banquet_Stripe_Blues_RS.jpg?v=1665447265' alt=''Life is a Banquet Stripe' Wallpaper by Lingua Franca - Blues'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Life_Is_a_Banquet_Stripe_Blues_RS.jpg?v=1665447265' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Textured Linen Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.acottageinthecity.com/cdn/shop/files/5013020-5.jpg?v=1701281560&width=2048' alt='Schumacher Textured Linen Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Cottage in the City" />
+                                </span>
+                                <a href='http://www.acottageinthecity.com/cdn/shop/files/5013020-5.jpg?v=1701281560&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripe Wallpaper- New Addition to Bathroom - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2024/02/3P1A8135-2-1-683x1024.jpg' alt='Stripe Wallpaper- New Addition to Bathroom - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2024/02/3P1A8135-2-1-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Stripe Wallpaper | Mally Skok Design | Interior Designer ...">
+                                <img itemprop="contentUrl url" src='https://www.mallyskokdesign.com/wp-content/uploads/MallySkok-Lincoln-Stripebath-800x1200.jpg' alt='Indian Stripe Wallpaper | Mally Skok Design | Interior Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mally Skok Design" />
+                                </span>
+                                <a href='https://www.mallyskokdesign.com/wp-content/uploads/MallySkok-Lincoln-Stripebath-800x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

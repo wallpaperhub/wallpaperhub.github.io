@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink wallpaper pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-wallpaper-pictures">
+                            <span itemprop="name">pink wallpaper pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Wallpaper - Digital Drawings & Illustrations - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/1234c5/2797012460/il_340x270.2797012460_c0bz.jpg' alt='Pink Aesthetic Wallpaper - Digital Drawings & Illustrations - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/1234c5/2797012460/il_340x270.2797012460_c0bz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Pink Pastel pink light pink aesthetic wallpaper ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/a4/01/00a4015058ef5a17cb0e0fc8a824e3fc.jpg' alt='140 Pink Pastel pink light pink aesthetic wallpaper ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/a4/01/00a4015058ef5a17cb0e0fc8a824e3fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Pink Aesthetic Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-pink-aesthetic-heart-2837emeefklmsxz6.jpg' alt='Iphone Pink Aesthetic Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-pink-aesthetic-heart-2837emeefklmsxz6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA3L3NtYWxsZGVzaWduY29tcGFueTAxX3BpbmtfYmVhY2hfd2F2ZXNfd2FsbHBhcGVyX2JhY2tncm91bmRfNGZlMmJjYzktNTcxNi00ZGNiLWFkZGMtYTA2ZWVhZWNmNmNlXzEuanBn.jpg' alt='Pink Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA3L3NtYWxsZGVzaWduY29tcGFueTAxX3BpbmtfYmVhY2hfd2F2ZXNfd2FsbHBhcGVyX2JhY2tncm91bmRfNGZlMmJjYzktNTcxNi00ZGNiLWFkZGMtYTA2ZWVhZWNmNmNlXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGOXiKLMVA/1/0/1600w/canva-pink-and-white-watercolor-illustration-pattern-desktop-wallpaper-Fu25SPEYnAk.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGOXiKLMVA/1/0/1600w/canva-pink-and-white-watercolor-illustration-pattern-desktop-wallpaper-Fu25SPEYnAk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Damask Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-MuffinMani_PinkDamask_1.jpg' alt='Pink Damask Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-MuffinMani_PinkDamask_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free pink aesthetic desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFoTz3xiw4/1/0/1600w/canva-pink-modern-mood-board-collage-desktop-wallpaper-tnYtO0S3_TQ.jpg' alt='Free pink aesthetic desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFoTz3xiw4/1/0/1600w/canva-pink-modern-mood-board-collage-desktop-wallpaper-tnYtO0S3_TQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unleash Your Creativity: Must-Try DIY Projects on Pinterest!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/82/78/7682788ccc2e2282e02a1c3b7b99682e.jpg' alt='Unleash Your Creativity: Must-Try DIY Projects on Pinterest!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/82/78/7682788ccc2e2282e02a1c3b7b99682e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Pink Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' alt='Peony Bouquet - Pink Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pinterest Cute Pastel Pink Desktop Wallpaper Themed Background  Pack of 2 Different Shades (1920x1080 Dimensions)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43876470/r/il/0d4bff/5611238298/il_570xN.5611238298_o2xp.jpg' alt='Aesthetic Pinterest Cute Pastel Pink Desktop Wallpaper Themed Background  Pack of 2 Different Shades (1920x1080 Dimensions)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43876470/r/il/0d4bff/5611238298/il_570xN.5611238298_o2xp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Celebration PNGs for Every Occasion</title>
+                    <meta name="description" content="Discover stunning celebration PNGs perfect for any event! Enhance your designs with transparent images that capture the joy of birthdays, holidays, and special moments. Ideal for invitations, social media, and more. Celebrate in style with our vibrant collection today!">
+                    <meta name="keywords" content="celebration png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/celebration-png">
+                            <span itemprop="name">celebration png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Celebration PNGs for Every Occasion</h1>
+                <p>Celebrate life's joyful moments with vibrant celebration PNG images! Whether it's a birthday, graduation, or holiday, these transparent-background graphics bring a festive touch to your designs. Perfect for invitations, social media posts, and more, celebration PNGs add flair and excitement to any celebration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free transparent celebration PNG images Download | PurePNG | Free ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/thumbnail//celebration-confetti-with-blur-m99.png' alt='Free transparent celebration PNG images Download | PurePNG | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/thumbnail//celebration-confetti-with-blur-m99.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/701/109/png-clipart-celebrate-celebrate-float-thumbnail.png' alt='Celebrate png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/701/109/png-clipart-celebrate-celebrate-float-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/660/659/small/flag-multicolor-for-decoration-party-holiday-celebrate-free-png.png' alt='Celebration PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/660/659/small/flag-multicolor-for-decoration-party-holiday-celebrate-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/falling-confetti-isolated-border-shiny-gold-flying-tinsel-decoration-design-blurred-element_333792-74.jpg' alt='Celebration Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/falling-confetti-isolated-border-shiny-gold-flying-tinsel-decoration-design-blurred-element_333792-74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Vector Fireworks Confetti Party Celebration PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-vector-fireworks-confetti-party-celebration-png-704081695057390npmnvcalto.png' alt='HD Vector Fireworks Confetti Party Celebration PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-vector-fireworks-confetti-party-celebration-png-704081695057390npmnvcalto.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/236/434/small_2x/confetti-and-luxury-balloon-birthday-celebration-border-png.png' alt='Celebration PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/236/434/small_2x/confetti-and-luxury-balloon-birthday-celebration-border-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Png PSD, High Quality Free PSD Templates for Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/elegant-gold-white-balloons-celebration_191095-77954.jpg' alt='Celebration Png PSD, High Quality Free PSD Templates for Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/elegant-gold-white-balloons-celebration_191095-77954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrations PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-celebration-background-with-confetti-and-gold-ribbons-overlay-png-vector-illustration-png-image_6089804.png' alt='Celebrations PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-celebration-background-with-confetti-and-gold-ribbons-overlay-png-vector-illustration-png-image_6089804.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Celebration PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/99/cb/bd99cbe5071403701b8440017573fb51.jpg' alt='Party Celebration PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/99/cb/bd99cbe5071403701b8440017573fb51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Celebration PNG Transparent, Celebration Gold Background Png ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221110/original/pngtree-celebration-gold-background-png-and-vector-picture-image_3630921.png' alt='Gold Celebration PNG Transparent, Celebration Gold Background Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221110/original/pngtree-celebration-gold-background-png-and-vector-picture-image_3630921.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

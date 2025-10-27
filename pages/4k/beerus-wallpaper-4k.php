@@ -1,0 +1,129 @@
+<title>Stunning 4K Beerus Wallpapers for Anime Lovers</title>
+                    <meta name="description" content="Discover breathtaking 4K Beerus wallpapers perfect for any anime fan! Elevate your device's look with high-resolution images featuring the iconic God of Destruction from Dragon Ball Super. Browse our collection to find the ideal wallpaper to showcase your love for this powerful character!">
+                    <meta name="keywords" content="beerus wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/beerus-wallpaper-4k">
+                            <span itemprop="name">beerus wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Beerus Wallpapers for Anime Lovers</h1>
+                <p>Explore stunning 4K Beerus wallpapers that bring the God of Destruction to life on your screen! Whether you're a fan of Dragon Ball Super or just love vibrant anime art, our collection offers high-resolution images that perfectly capture Beerus's fierce expression and awesome power. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD beerus wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/651/815/HD-wallpaper-beerus-dragon-ball-thumbnail.jpg' alt='HD beerus wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/651/815/HD-wallpaper-beerus-dragon-ball-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "Legends Limted Beerus Character Art + 4K PC ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Eb3dU51WsAAf-Es?format=jpg&name=4096x4096' alt='Hydros on X: "Legends Limted Beerus Character Art + 4K PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Eb3dU51WsAAf-Es?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beerus wallpaper (1920x1080) : r/Amoledbackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/beerus-wallpaper-1920x1080-v0-0rt88b72hyyc1.jpg?width=1726&format=pjpg&auto=webp&s=9ecaa850fce50dfb3a9243e81fdc6b840ee86fe3' alt='Beerus wallpaper (1920x1080) : r/Amoledbackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1726">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/beerus-wallpaper-1920x1080-v0-0rt88b72hyyc1.jpg?width=1726&format=pjpg&auto=webp&s=9ecaa850fce50dfb3a9243e81fdc6b840ee86fe3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Beerus Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/16/7b/d5167b0bfe83754ef5cad5f63c895e9d.jpg' alt='4K Beerus Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/16/7b/d5167b0bfe83754ef5cad5f63c895e9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of Destruction, beerus, destuction, dragon ball super, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/628/48/HD-wallpaper-god-of-destruction-beerus-destuction-dragon-ball-super.jpg' alt='God of Destruction, beerus, destuction, dragon ball super, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/628/48/HD-wallpaper-god-of-destruction-beerus-destuction-dragon-ball-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Of Destruction Beerus Amoled Wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xg70bjde4m621.png' alt='God Of Destruction Beerus Amoled Wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xg70bjde4m621.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Beerus from Dragon Ball Super by Guilherme Freitas">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/894/894062.jpg' alt='HD Wallpaper of Beerus from Dragon Ball Super by Guilherme Freitas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/894/894062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beerus Phone Custom Wallpaper by blitztyler on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1482512-368c-42a5-8719-681c3e7c87d4/df7n6qa-a150463b-7e6f-4b47-a838-16371948240e.jpg/v1/fill/w_670,h_1192,q_70,strp/beerus_phone_custom_wallpaper_by_blitztyler_df7n6qa-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2QxNDgyNTEyLTM2OGMtNDJhNS04NzE5LTY4MWMzZTdjODdkNFwvZGY3bjZxYS1hMTUwNDYzYi03ZTZmLTRiNDctYTgzOC0xNjM3MTk0ODI0MGUuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rUqk2HyZ1uHJ88Dm6J3caF4ZvEUc6Pd7Ui9A8jq0Dt0' alt='Beerus Phone Custom Wallpaper by blitztyler on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1482512-368c-42a5-8719-681c3e7c87d4/df7n6qa-a150463b-7e6f-4b47-a838-16371948240e.jpg/v1/fill/w_670,h_1192,q_70,strp/beerus_phone_custom_wallpaper_by_blitztyler_df7n6qa-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2QxNDgyNTEyLTM2OGMtNDJhNS04NzE5LTY4MWMzZTdjODdkNFwvZGY3bjZxYS1hMTUwNDYzYi03ZTZmLTRiNDctYTgzOC0xNjM3MTk0ODI0MGUuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rUqk2HyZ1uHJ88Dm6J3caF4ZvEUc6Pd7Ui9A8jq0Dt0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Beerus (Dragon Ball) Video Game Dragon Ball FighterZ 4k ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/914/914099.jpg' alt='Download Beerus (Dragon Ball) Video Game Dragon Ball FighterZ 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/914/914099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live wallpaper sr beerus @Shop Phụ kiện Nữ Hàng Trung #CapCut #sigueme  #video #dragonball #dragonballz #dragonballsuper #dragonballgt #anime  #animeedit #dragonballheroes #wallpaper #livewallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7313990866723409183&location=0&aid=1988' alt='Live wallpaper sr beerus @Shop Phụ kiện Nữ Hàng Trung #CapCut #sigueme  #video #dragonball #dragonballz #dragonballsuper #dragonballgt #anime  #animeedit #dragonballheroes #wallpaper #livewallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7313990866723409183&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

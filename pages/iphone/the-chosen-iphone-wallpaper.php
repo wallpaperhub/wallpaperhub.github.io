@@ -1,0 +1,129 @@
+<title>Perfect iPhone Wallpapers: Find Your Ideal Match</title>
+                    <meta name="description" content="Discover the perfect iPhone wallpaper that reflects your unique style and personality. From stunning nature scenes to abstract designs, elevate your device's look with our curated selection of wallpapers. Transform your screen into a canvas that inspires you every day! Optimize your style with the right choice today.">
+                    <meta name="keywords" content="the chosen iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/the-chosen-iphone-wallpaper">
+                            <span itemprop="name">the chosen iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect iPhone Wallpapers: Find Your Ideal Match</h1>
+                <p>The chosen iPhone wallpaper is more than just a background; it's a reflection of your personality and style. Whether it's a breathtaking landscape, a beloved pet, or a minimalist design, the right wallpaper can inspire you every time you unlock your phone. Choose wisely to make your device feel uniquely yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper The Chosen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/83/fe/1683fec0bef43d17f543652072239a75.jpg' alt='Wallpaper The Chosen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/83/fe/1683fec0bef43d17f543652072239a75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chosen Series Jesus, Grace, TheChosen, TheChosenSeries, Portrait ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/646/749/HD-wallpaper-chosen-series-jesus-grace-thechosen-thechosenseries-portrait-black-mobile-saviour-b-w-white-calmeyes-season.jpg' alt='Chosen Series Jesus, Grace, TheChosen, TheChosenSeries, Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/646/749/HD-wallpaper-chosen-series-jesus-grace-thechosen-thechosenseries-portrait-black-mobile-saviour-b-w-white-calmeyes-season.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chosen TV Series Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/a5/c1/62a5c18d4f67f7de93e4d51d304ba4e0.jpg' alt='The Chosen TV Series Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/a5/c1/62a5c18d4f67f7de93e4d51d304ba4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD chosen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/563/976/HD-wallpaper-chosen-jesus-walking-calm-mountains-cloud-series-catholic-thechosen-grass-season-mobile.jpg' alt='HD chosen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/563/976/HD-wallpaper-chosen-jesus-walking-calm-mountains-cloud-series-catholic-thechosen-grass-season-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chosen - You need a new lockscreen from Episode One of Season ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=928895191237034' alt='The Chosen - You need a new lockscreen from Episode One of Season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=928895191237034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chosen Jesus, Beard, Finale, Lenin, Blue, TheChosenSeries, Mobile ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/804/890/HD-wallpaper-chosen-jesus-beard-finale-lenin-blue-thechosenseries-mobile-chosenseries-series-holy-preaching-season.jpg' alt='Chosen Jesus, Beard, Finale, Lenin, Blue, TheChosenSeries, Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/804/890/HD-wallpaper-chosen-jesus-beard-finale-lenin-blue-thechosenseries-mobile-chosenseries-series-holy-preaching-season.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chosen Collage Screensaver Design | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4445234579.2262/flat,750x1000,075,t.jpg' alt='The Chosen Collage Screensaver Design | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4445234579.2262/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chosen - Need a new wallpaper for your desktop?... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=844567066336514' alt='The Chosen - Need a new wallpaper for your desktop?... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=844567066336514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come and See">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/be/7c/d2/be7cd2d9801242f118e5c299ec644b53.jpg' alt='Come and See'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/be/7c/d2/be7cd2d9801242f118e5c299ec644b53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper (The Chosen) : r/photoshop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/custom-wallpaper-the-chosen-v0-x849h44qgvdd1.jpg?width=794&format=pjpg&auto=webp&s=a906692c129d2fb44994d362848b2aa52fa54b0e' alt='Custom Wallpaper (The Chosen) : r/photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/custom-wallpaper-the-chosen-v0-x849h44qgvdd1.jpg?width=794&format=pjpg&auto=webp&s=a906692c129d2fb44994d362848b2aa52fa54b0e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

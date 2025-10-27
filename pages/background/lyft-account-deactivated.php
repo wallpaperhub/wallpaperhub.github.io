@@ -1,0 +1,129 @@
+<title>How to Reactivate Your Deactivated Lyft Account</title>
+                    <meta name="description" content="Learn why your Lyft account may have been deactivated and discover steps to reactivate it. Get tips on addressing policy violations and appealing decisions to Lyft's support team effectively.">
+                    <meta name="keywords" content="lyft account deactivated">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lyft-account-deactivated">
+                            <span itemprop="name">lyft account deactivated</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Reactivate Your Deactivated Lyft Account</h1>
+                <p>Having your Lyft account deactivated can be frustrating and unexpected. This may happen due to various reasons, like policy violations or suspicious activity. If your account is deactivated, review the email from Lyft for details. You can often appeal the decision by providing further information to their support team.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Permanently Deactivated by Lyft : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b2e9q9og0eua1.jpg' alt='Permanently Deactivated by Lyft : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b2e9q9og0eua1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To File An Official Deactivation Appeal To Uber or Lyft">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/4359c5_647910735b3f42b9ba84d81ea2615a02~mv2.png/v1/fill/w_730,h_632,al_c,q_90/4359c5_647910735b3f42b9ba84d81ea2615a02~mv2.png' alt='How To File An Official Deactivation Appeal To Uber or Lyft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Driverly App" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/4359c5_647910735b3f42b9ba84d81ea2615a02~mv2.png/v1/fill/w_730,h_632,al_c,q_90/4359c5_647910735b3f42b9ba84d81ea2615a02~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lyft driver team emails me about deactivation due to cancelation ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rwum5yn4avbc1.png' alt='Lyft driver team emails me about deactivation due to cancelation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="2347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rwum5yn4avbc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temporarily deactivated by Lyft today. : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/temporarily-deactivated-by-lyft-today-v0-gir4ziquvzxa1.png?auto=webp&s=1ae4ff445a9d19e548223f676a3e717bd75a93df' alt='Temporarily deactivated by Lyft today. : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/temporarily-deactivated-by-lyft-today-v0-gir4ziquvzxa1.png?auto=webp&s=1ae4ff445a9d19e548223f676a3e717bd75a93df' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temporary deactivating due to an accusation of driving under the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/temporary-deactivating-due-to-an-accusation-of-driving-v0-kundi8ttg6jb1.jpg?width=640&crop=smart&auto=webp&s=c21f72ba594ea9b500219eff04d82ea6988cd91a' alt='Temporary deactivating due to an accusation of driving under the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/temporary-deactivating-due-to-an-accusation-of-driving-v0-kundi8ttg6jb1.jpg?width=640&crop=smart&auto=webp&s=c21f72ba594ea9b500219eff04d82ea6988cd91a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Has Your Lyft Driver Account Been Deactivated? Here's Why & How To ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/4359c5_5d7b5522ecc74de5baf05432ee4b2d83~mv2.png/v1/fill/w_438,h_902,al_c,q_90,enc_avif,quality_auto/4359c5_5d7b5522ecc74de5baf05432ee4b2d83~mv2.png' alt='Has Your Lyft Driver Account Been Deactivated? Here's Why & How To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Driverly" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/4359c5_5d7b5522ecc74de5baf05432ee4b2d83~mv2.png/v1/fill/w_438,h_902,al_c,q_90,enc_avif,quality_auto/4359c5_5d7b5522ecc74de5baf05432ee4b2d83~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone report I am watching￼ songs after that my account ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1123075213162861' alt='Someone report I am watching￼ songs after that my account ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1123075213162861' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Has anybody else been wrongfully deactivated on Lyft due to wild ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/has-anybody-else-been-wrongfully-deactivated-on-lyft-due-to-v0-x2inj3jqgwha1.jpg?width=640&crop=smart&auto=webp&s=970f7b007de5b5cbda3a48c431465e98065b5335' alt='Has anybody else been wrongfully deactivated on Lyft due to wild ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/has-anybody-else-been-wrongfully-deactivated-on-lyft-due-to-v0-x2inj3jqgwha1.jpg?width=640&crop=smart&auto=webp&s=970f7b007de5b5cbda3a48c431465e98065b5335' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lyft Deactivation: 13 Most Common Reasons This Happens">
+                                <img itemprop="contentUrl url" src='https://therideshareguy.com/wp-content/uploads/2023/11/Common-reasons-for-lyft-deactivation.jpg' alt='Lyft Deactivation: 13 Most Common Reasons This Happens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Rideshare Guy" />
+                                </span>
+                                <a href='https://therideshareguy.com/wp-content/uploads/2023/11/Common-reasons-for-lyft-deactivation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have you been deactivated unfairly? Kindly send us a message now ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3559820874073870833' alt='Have you been deactivated unfairly? Kindly send us a message now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1348">
+                                <meta itemprop="height" content="1616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3559820874073870833' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Sofia Name Meaning: Discover the Essence of Wisdom</title>
+                    <meta name="description" content="Explore the beautiful meaning behind the name Sofia, derived from Greek, signifying "wisdom." Discover its rich cultural roots and the elegance it brings to those who bear it. Perfect for anyone intrigued by names and their significance!">
+                    <meta name="keywords" content="sofia name meaning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sofia-name-meaning">
+                            <span itemprop="name">sofia name meaning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sofia Name Meaning: Discover the Essence of Wisdom</h1>
+                <p>The name Sofia is of Greek origin, meaning "wisdom." It symbolizes knowledge and enlightenment, reflecting a rich cultural heritage with roots that span across various societies. Commonly associated with intelligence and clarity, Sofia is a timeless name cherished for its elegance and depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Meaning, Origin, Popularity, Girl Names Like Sofia ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/girls/s/sofia-name-meaning-baby-girl-h.gif' alt='Sofia Name Meaning, Origin, Popularity, Girl Names Like Sofia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/girls/s/sofia-name-meaning-baby-girl-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Meaning Pink Certificate">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/k3kAAOSwq4lbBVaP/s-l1200.jpg' alt='Sofia Name Meaning Pink Certificate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/k3kAAOSwq4lbBVaP/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia: Name, Meaning, and Origin">
+                                <img itemprop="contentUrl url" src='https://cdn.cdnparenting.com/articles/2025/01/08174347/Sofia-Name-Meaning-and-Origin.webp' alt='Sofia: Name, Meaning, and Origin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstCry Parenting" />
+                                </span>
+                                <a href='https://cdn.cdnparenting.com/articles/2025/01/08174347/Sofia-Name-Meaning-and-Origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Definition Personalized Name: Notebook for Sofia a Gift For  Lovers/Girlfriend/Boyfriend/Friends, Lined Notebook / Journal Gift, 114  Pages, 6x9, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41VaKiOoDRL._AC_UF1000,1000_QL80_.jpg' alt='Sofia Definition Personalized Name: Notebook for Sofia a Gift For  Lovers/Girlfriend/Boyfriend/Friends, Lined Notebook / Journal Gift, 114  Pages, 6x9, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41VaKiOoDRL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Definition Meaning | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1905533914.6819/fposter,small,wall_texture,product,750x1000.jpg' alt='Sofia Name Definition Meaning | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1905533914.6819/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Meaning - Sofia name Origin, Name Sofia, Meaning of the ...">
+                                <img itemprop="contentUrl url" src='https://cardsimages.info-tuparada.com/662/14198-1-sofia.jpg' alt='Sofia Name Meaning - Sofia name Origin, Name Sofia, Meaning of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ecards, birthday ecards, greeting cards - Tuparada" />
+                                </span>
+                                <a href='https://cardsimages.info-tuparada.com/662/14198-1-sofia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Definition Meaning" Greeting Card for Sale by ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1905533974.6819/st,small,845x845-pad,1000x1000,f8f8f8.jpg' alt='Sofia Name Definition Meaning" Greeting Card for Sale by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1905533974.6819/st,small,845x845-pad,1000x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Meaning, Arabic Muslim name Sofia Meaning">
+                                <img itemprop="contentUrl url" src='https://images.muslimnames.com/sofia_muslim_girls_names_meaning_islamic_girls_names.png' alt='Sofia Meaning, Arabic Muslim name Sofia Meaning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muslim Names" />
+                                </span>
+                                <a href='https://images.muslimnames.com/sofia_muslim_girls_names_meaning_islamic_girls_names.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia | Name Art Print – Name Stories">
+                                <img itemprop="contentUrl url" src='https://namestories.com/cdn/shop/files/Sofia-name-print-classic-g19-bordeaux.jpg?v=1725243948&width=1946' alt='Sofia | Name Art Print – Name Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Name Stories" />
+                                </span>
+                                <a href='https://namestories.com/cdn/shop/files/Sofia-name-print-classic-g19-bordeaux.jpg?v=1725243948&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Meaning Bag Tag Keychain Keyring Pink - The Card Zoo">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7f9rxjod7c/images/stencil/1280x1280/products/73861/67602/PINKSofia__10705.1526670754.jpg?c=2&imbypass=on' alt='Sofia Name Meaning Bag Tag Keychain Keyring Pink - The Card Zoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Card Zoo" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7f9rxjod7c/images/stencil/1280x1280/products/73861/67602/PINKSofia__10705.1526670754.jpg?c=2&imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

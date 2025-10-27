@@ -1,0 +1,129 @@
+<title>Discover Dutch Bros: Coffee, Culture & Community</title>
+                    <meta name="description" content="Explore Dutch Bros, the beloved coffee chain known for its delicious beverages and lively atmosphere. Learn about its origins, unique offerings, and commitment to community engagement. Perfect for coffee lovers and those new to the Dutch Bros experience!">
+                    <meta name="keywords" content="what is dutch bros">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-dutch-bros">
+                            <span itemprop="name">what is dutch bros</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Dutch Bros: Coffee, Culture & Community</h1>
+                <p>Dutch Bros is a popular coffee company founded in 1992 by brothers Dane and Travis Boersma in Grants Pass, Oregon. Known for its drive-thru service and vibrant culture, Dutch Bros offers a variety of coffee beverages, smoothies, and energy drinks. It emphasizes community involvement and has a loyal customer base.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Menu | Dutch Bros">
+                                <img itemprop="contentUrl url" src='https://files.dutchbros.com/website/menu/drink-images-v2/512px2/Protein_Coffee_Digital_Batch1_SeasonalImage.png' alt='Menu | Dutch Bros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dutch Bros" />
+                                </span>
+                                <a href='https://files.dutchbros.com/website/menu/drink-images-v2/512px2/Protein_Coffee_Digital_Batch1_SeasonalImage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where are my @dutchbroscoffee fans at? Swipe through for different ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3210740650824079746' alt='Where are my @dutchbroscoffee fans at? Swipe through for different ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3210740650824079746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Menu | Dutch Bros">
+                                <img itemprop="contentUrl url" src='https://files.dutchbros.com/website/menu/drink-images-v2/categories/Classics.png' alt='Menu | Dutch Bros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dutch Bros" />
+                                </span>
+                                <a href='https://files.dutchbros.com/website/menu/drink-images-v2/categories/Classics.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Bros Secret Menu, Explained: Best Coffee & Specialty Drinks ...">
+                                <img itemprop="contentUrl url" src='https://assets3.thrillist.com/v1/image/2788604/1200x600/scale;;webp=auto;jpeg_quality=85.jpg' alt='Dutch Bros Secret Menu, Explained: Best Coffee & Specialty Drinks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thrillist" />
+                                </span>
+                                <a href='https://assets3.thrillist.com/v1/image/2788604/1200x600/scale;;webp=auto;jpeg_quality=85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Bros. Coffee - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/da/DB_GPDowntownstore.png' alt='Dutch Bros. Coffee - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/da/DB_GPDowntownstore.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your fave fall-ternative drinks are back at Dutch Bros!">
+                                <img itemprop="contentUrl url" src='https://www.multivu.com/players/English/9092655-dutch-bros-fall-drink-menu-is-back/image/Trio_1692797737741-HR.jpg' alt='Your fave fall-ternative drinks are back at Dutch Bros!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://www.multivu.com/players/English/9092655-dutch-bros-fall-drink-menu-is-back/image/Trio_1692797737741-HR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Bros Menu With Prices (February) 2025">
+                                <img itemprop="contentUrl url" src='https://dutchbros-menus.com/wp-content/uploads/2024/06/Dutch-Bros-Menu-With-Updated-Prices.webp' alt='Dutch Bros Menu With Prices (February) 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dutchbros-menus.com" />
+                                </span>
+                                <a href='https://dutchbros-menus.com/wp-content/uploads/2024/06/Dutch-Bros-Menu-With-Updated-Prices.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Bros Coffee Expanding to Santa Ana">
+                                <img itemprop="contentUrl url" src='https://whatnow.com/wp-content/uploads/2024/08/Dutch-Bros-Coffee-Expanding-to-Santa-Ana-.jpg' alt='Dutch Bros Coffee Expanding to Santa Ana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhatNow" />
+                                </span>
+                                <a href='https://whatnow.com/wp-content/uploads/2024/08/Dutch-Bros-Coffee-Expanding-to-Santa-Ana-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Dutch Bros Drinks In 2023 | Lifeboost Coffee">
+                                <img itemprop="contentUrl url" src='https://lifeboostcoffee.com/cdn/shop/articles/Feature_image_6_06fc4fec-851c-4003-bd82-569aba3cb3ec.jpg?v=1706424447' alt='The Best Dutch Bros Drinks In 2023 | Lifeboost Coffee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifeboost Coffee" />
+                                </span>
+                                <a href='https://lifeboostcoffee.com/cdn/shop/articles/Feature_image_6_06fc4fec-851c-4003-bd82-569aba3cb3ec.jpg?v=1706424447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dutch bros | South Lake Tablet">
+                                <img itemprop="contentUrl url" src='https://sltablet.com/wp-content/uploads/2024/02/dutch-bros.jpg' alt='dutch bros | South Lake Tablet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Lake Tablet" />
+                                </span>
+                                <a href='https://sltablet.com/wp-content/uploads/2024/02/dutch-bros.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

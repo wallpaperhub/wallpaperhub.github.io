@@ -1,0 +1,129 @@
+<title>Stunning Purple Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the perfect purple wallpaper for your iPhone! Browse a collection of vibrant and elegant designs that transform your phone’s look and reflect your personal style. Perfect for every aesthetic, these wallpapers add a touch of creativity to your device. Download your favorite today!">
+                    <meta name="keywords" content="iphone purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-purple-wallpaper">
+                            <span itemprop="name">iphone purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's aesthetics with beautiful purple wallpapers. Whether you prefer deep violet tones or soft lavender hues, these wallpapers add a touch of elegance to your device. Perfect for any style-conscious user, explore our collection and find the perfect purple wallpaper to express your personality and elevate your phone's look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Pao Olvera on fondos in 2022 | Iphone wallpaper lights ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/7c/cc/617cccd4a51417f769df3496c1a69115.jpg' alt='Pin by Pao Olvera on fondos in 2022 | Iphone wallpaper lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/7c/cc/617cccd4a51417f769df3496c1a69115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/840/890/HD-wallpaper-iphone-14-ka-deep-purple-iphone-14-pro-iphone-thumbnail.jpg' alt='HD purple iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/840/890/HD-wallpaper-iphone-14-ka-deep-purple-iphone-14-pro-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1jLTAwMy5qcGc.jpg' alt='Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1jLTAwMy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-11-purple-4bqyt6tv9u5kfh9d.jpg' alt='Purple iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-11-purple-4bqyt6tv9u5kfh9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Pastel Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-pastel-iphone-e691uk5z2elnn8us.jpg' alt='100+] Purple Pastel Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-pastel-iphone-e691uk5z2elnn8us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new purple iPhone 12 wallpaper for your devices right ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/04/1832.Orbs_Purple_Dark-390w-844h@3xiphone.jpg?quality=82&strip=all' alt='Download the new purple iPhone 12 wallpaper for your devices right ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/04/1832.Orbs_Purple_Dark-390w-844h@3xiphone.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper iphone purple purple flowers wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' alt='Purple wallpaper iphone purple purple flowers wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Minimalist Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-minimalist-purple-iphone-dpsc7y6giamszgza.jpg' alt='Cute Minimalist Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-minimalist-purple-iphone-dpsc7y6giamszgza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Purple wallpaper iphone ideas | purple wallpaper iphone, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9e/b1/0b/9eb10b14166ea42b942e1a218bfdbfe7.jpg' alt='8 Purple wallpaper iphone ideas | purple wallpaper iphone, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9e/b1/0b/9eb10b14166ea42b942e1a218bfdbfe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A black and purple iphone wallpaper with a black background photo ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1689871176637-3421f13f4e6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A black and purple iphone wallpaper with a black background photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="6492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1689871176637-3421f13f4e6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

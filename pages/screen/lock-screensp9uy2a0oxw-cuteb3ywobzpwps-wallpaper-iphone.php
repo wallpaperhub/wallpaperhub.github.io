@@ -1,0 +1,129 @@
+<title>Adorable Cute Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the cutest lock screen wallpapers for your iPhone! Explore a delightful range of charming designs that add a personal touch to your device. Perfect for anyone looking to brighten their screen with unique and playful artwork. Transform your iPhone now!">
+                    <meta name="keywords" content="lock screen:sp9uy2a0oxw= cute:b3ywobzpwps= wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screensp9uy2a0oxw-cuteb3ywobzpwps-wallpaper-iphone">
+                            <span itemprop="name">lock screen:sp9uy2a0oxw= cute:b3ywobzpwps= wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Lock Screen Wallpapers for iPhone</h1>
+                <p>Transform your iPhone's lock screen with adorable wallpapers that infuse charm into your daily routine. Discover a collection of cute designs featuring pastel colors, playful animals, and fun patterns to personalize your device. Make every glance at your phone a delight with these enchanting wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Kawaii Bunny Iphone Lock Screen | Pink Aesthetic Wallpaper with  Stars and Hearts">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_570xN.4126374862_o7x6.jpg' alt='Cute Pink Kawaii Bunny Iphone Lock Screen | Pink Aesthetic Wallpaper with  Stars and Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_570xN.4126374862_o7x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/36/3e/02363e591d556074edfe2e4e9afffeaa.jpg' alt='390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/36/3e/02363e591d556074edfe2e4e9afffeaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' alt='100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snoopy Cute Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/snoopy-cute-iphone-lock-screen-nts0qx78kl9dz54s.jpg' alt='Snoopy Cute Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/snoopy-cute-iphone-lock-screen-nts0qx78kl9dz54s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/62/02/62/6202625ac5935a9d16d12e0ec1bf546f.jpg' alt='Iphone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/62/02/62/6202625ac5935a9d16d12e0ec1bf546f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute sweet home screen sponge bob wallpaper lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/29/2f/6a292f43e0fb2d81ced0cb826ebcd3fc.jpg' alt='Cute sweet home screen sponge bob wallpaper lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/29/2f/6a292f43e0fb2d81ced0cb826ebcd3fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/padlock-cute-iphone-lock-screen-6ug79dgq0pbo6y71.jpg' alt='100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/padlock-cute-iphone-lock-screen-6ug79dgq0pbo6y71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-lock-screen-bear-ears-eyes-3tvlbul8rsessetb.jpg' alt='Cute Lock Screen Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-lock-screen-bear-ears-eyes-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9d/3a/76/9d3a76bb110508fe6ac87867072b8ddc.jpg' alt='390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9d/3a/76/9d3a76bb110508fe6ac87867072b8ddc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Aesthetic Lock Screens ideas | iphone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5d/62/59/5d6259451eb33259fec72fca1bbe9389.jpg' alt='240 Aesthetic Lock Screens ideas | iphone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5d/62/59/5d6259451eb33259fec72fca1bbe9389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

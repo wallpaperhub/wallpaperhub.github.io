@@ -1,0 +1,129 @@
+<title>Can You Pass a Background Check with a DUI?</title>
+                    <meta name="description" content="Explore whether a DUI impacts your ability to pass a background check. Understand the factors involved, such as the time since the offense and its relevance to the job, and learn how to present your record positively to potential employers.">
+                    <meta name="keywords" content="can you pass a background check with a dui">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-you-pass-a-background-check-with-a-dui">
+                            <span itemprop="name">can you pass a background check with a dui</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Pass a Background Check with a DUI?</h1>
+                <p>Passing a background check with a DUI on your record is possible but depends on various factors. Employers may consider the time elapsed since the offense, the nature of the job, and your overall record. It's crucial to be honest about your DUI and demonstrate personal growth since then to improve your chances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will you pass a background check with a DUI?">
+                                <img itemprop="contentUrl url" src='https://www.securecheck360.com/wp-content/uploads/2023/07/Will-you-pass-a-background-check-with-a-DUI.webp' alt='Will you pass a background check with a DUI?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecureCheck360" />
+                                </span>
+                                <a href='https://www.securecheck360.com/wp-content/uploads/2023/07/Will-you-pass-a-background-check-with-a-DUI.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a Background Check with a Misdemeanor DUI?">
+                                <img itemprop="contentUrl url" src='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' alt='Can You Pass a Background Check with a Misdemeanor DUI?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGO Law Firm" />
+                                </span>
+                                <a href='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUIs & Background Checks: What It Means For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='DUIs & Background Checks: What It Means For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Criminal Background Check Show a DUI in California?">
+                                <img itemprop="contentUrl url" src='https://www.losangelesduiattorney.com/wp-content/uploads/2021/10/filling-out-background-check.jpeg' alt='Will a Criminal Background Check Show a DUI in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles DUI Lawyer" />
+                                </span>
+                                <a href='https://www.losangelesduiattorney.com/wp-content/uploads/2021/10/filling-out-background-check.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passing Background Checks After a DUI: Legal Insights">
+                                <img itemprop="contentUrl url" src='https://ascentlawfirm.com/wp-content/uploads/2019/12/Can-You-Pass-A-Background-Check-With-A-DUI.jpg' alt='Passing Background Checks After a DUI: Legal Insights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ascent Law" />
+                                </span>
+                                <a href='https://ascentlawfirm.com/wp-content/uploads/2019/12/Can-You-Pass-A-Background-Check-With-A-DUI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a Background Check With a DUI? | Los Angeles DUI ...">
+                                <img itemprop="contentUrl url" src='https://cdn.powa.com/www.simmrinlawgroup.com/images/wp-content/uploads/2020/07/dui-lawyer-can-you-pass-a-background-check-with-a-dui-300x200.jpg.webp' alt='Can You Pass a Background Check With a DUI? | Los Angeles DUI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simmrin Law Group" />
+                                </span>
+                                <a href='https://cdn.powa.com/www.simmrinlawgroup.com/images/wp-content/uploads/2020/07/dui-lawyer-can-you-pass-a-background-check-with-a-dui-300x200.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finding a Job After a DUI on Record">
+                                <img itemprop="contentUrl url" src='https://bubbahead.com/wp-content/uploads/2019/11/word-image-15.png' alt='Finding a Job After a DUI on Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bubba Head" />
+                                </span>
+                                <a href='https://bubbahead.com/wp-content/uploads/2019/11/word-image-15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUIs & Background Checks: What It Means For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/11001aa0d53160fbb4e59102dd7f0e38/fdb4e/cover-guide-what-to-consider.png' alt='DUIs & Background Checks: What It Means For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="246">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/11001aa0d53160fbb4e59102dd7f0e38/fdb4e/cover-guide-what-to-consider.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A DUI Show Up On A Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.rightlawgroup.com/wp-content/uploads/will-dui-show-up-on-a-background-check.png' alt='Will A DUI Show Up On A Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Right Law Group" />
+                                </span>
+                                <a href='https://www.rightlawgroup.com/wp-content/uploads/will-dui-show-up-on-a-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUIs on Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/42bb19d3ae5807d7e7aa562e7b88ac4a.webp?image_crop_resized=960x540' alt='DUIs on Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/42bb19d3ae5807d7e7aa562e7b88ac4a.webp?image_crop_resized=960x540' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

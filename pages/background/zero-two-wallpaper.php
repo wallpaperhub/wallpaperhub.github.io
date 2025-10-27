@@ -1,0 +1,129 @@
+<title>Stunning Zero Two Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our captivating collection of Zero Two wallpapers, perfect for fans of "Darling in the Franxx." Enhance your device with high-quality, vibrant images that celebrate this beloved character. Download your favorites now and showcase your love for Zero Two!">
+                    <meta name="keywords" content="zero two wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zero-two-wallpaper">
+                            <span itemprop="name">zero two wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Zero Two Wallpapers for Your Device</h1>
+                <p>Discover stunning Zero Two wallpapers that bring the iconic character from "Darling in the Franxx" to life! From vibrant action poses to serene, artistic depictions, our collection offers a diverse range of high-quality images to customize your device background. Unleash your fandom and enjoy Zero Two's charm daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero Two phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/bd/8b/26bd8bb37aeaa542694aa8d2cfa218f6.jpg' alt='Zero Two phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/bd/8b/26bd8bb37aeaa542694aa8d2cfa218f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another Zero Two wallpaper for you guys! : r/DarlingInTheFranxx">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1bc2g09m0yj51.jpg' alt='Another Zero Two wallpaper for you guys! : r/DarlingInTheFranxx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1bc2g09m0yj51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my favorite picture of Zero Two. works as a wallpaper as a plus ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fonwuffdn4m41.jpg?width=640&crop=smart&auto=webp&s=c27b44d49397574d751036fe6e3f3061360204fd' alt='my favorite picture of Zero Two. works as a wallpaper as a plus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fonwuffdn4m41.jpg?width=640&crop=smart&auto=webp&s=c27b44d49397574d751036fe6e3f3061360204fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero Two in 4K Ultra HD Wallpaper | Darling in the FranXX by Abdul ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/131/1313754.png' alt='Zero Two in 4K Ultra HD Wallpaper | Darling in the FranXX by Abdul ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/131/1313754.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero Two Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/48/44/604844ba56a2765bb04508c08dfb3405.jpg' alt='Zero Two Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/48/44/604844ba56a2765bb04508c08dfb3405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, Sakura, Darling in the FranXX, Zero Two for mobile ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/4a/zero-two-darling-in-the-franxx-devushka-sakura.webp' alt='Wallpaper girl, Sakura, Darling in the FranXX, Zero Two for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/4a/zero-two-darling-in-the-franxx-devushka-sakura.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero two wallpaper 2025 aesthetic">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/zero-two-aesthetic-ysq3e2cpwx7ue3k9.jpg' alt='Zero two wallpaper 2025 aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/zero-two-aesthetic-ysq3e2cpwx7ue3k9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero Two Wallpaper 4K, DARLING in the FRANXX, Anime girl">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/zero-two-darling-in-3840x2160-16706.jpg' alt='Zero Two Wallpaper 4K, DARLING in the FRANXX, Anime girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/zero-two-darling-in-3840x2160-16706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a quick aesthetic edit of this cool Zero Two image, thought ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vewv8qnacvy01.jpg' alt='Made a quick aesthetic edit of this cool Zero Two image, thought ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vewv8qnacvy01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zero Two, Zero Two Android, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/819/392/HD-wallpaper-zero-two-zero-two-android.jpg' alt='Zero Two, Zero Two Android, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/819/392/HD-wallpaper-zero-two-zero-two-android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

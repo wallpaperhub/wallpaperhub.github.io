@@ -1,0 +1,129 @@
+<title>Gothic Phone Wallpapers: Dark Aesthetic for Your Device</title>
+                    <meta name="description" content="Discover stunning gothic phone wallpapers that blend dark elegance with captivating designs. Perfect for fans of the macabre, our collection offers a variety of images that personalize your device. Download now to showcase your unique style with a touch of mystery and allure.">
+                    <meta name="keywords" content="gothic phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gothic-phone-wallpaper">
+                            <span itemprop="name">gothic phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Phone Wallpapers: Dark Aesthetic for Your Device</h1>
+                <p>Explore the mesmerizing world of gothic phone wallpaper! Dive into a collection that captures the essence of dark romance, eerie landscapes, and intricate designs. Transform your device with striking images that reflect your personality and aesthetic. Perfect for those who appreciate the beauty of the macabre and the mysterious.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Phone wallpapers ideas | gothic wallpaper, goth wallpaper, edgy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/82/eb/f7/82ebf7807955d1d41eabfbfc3367a93d.jpg' alt='8 Phone wallpapers ideas | gothic wallpaper, goth wallpaper, edgy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/82/eb/f7/82ebf7807955d1d41eabfbfc3367a93d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Art Wallpapers (63 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/c/b/1233123-1080x1920-phone-1080p-gothic-art-background.jpg' alt='Gothic Art Wallpapers (63 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/c/b/1233123-1080x1920-phone-1080p-gothic-art-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Phone Wallpapers - Top Free Gothic Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://wallpaperaccess.com/full/305596.jpg' alt='Gothic Phone Wallpapers - Top Free Gothic Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2848">
+                                <meta itemprop="height" content="4288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperAccess" />
+                                </span>
+                                <a href='https://wallpaperaccess.com/full/305596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gothic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/355/HD-wallpaper-gothic-cathedral-building-cathedral-dark-germany-gothic-old-thumbnail.jpg' alt='HD gothic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/355/HD-wallpaper-gothic-cathedral-building-cathedral-dark-germany-gothic-old-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/04/9c/85049c50a10187f5c85e108c90209de6.jpg' alt='Gothic Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/04/9c/85049c50a10187f5c85e108c90209de6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' alt='Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gothic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gothic-iphone-x083yy8cp214rxh8.jpg' alt='100+] Gothic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gothic-iphone-x083yy8cp214rxh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/5/6/1232119-1242x2688-mobile-hd-goth-background-photo.jpg' alt='Goth Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/5/6/1232119-1242x2688-mobile-hd-goth-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gothic Phone - The Ultimate Gothic Accessory Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gothic-phone-0343t6rs5j8wgfhe.jpg' alt='Download Gothic Phone - The Ultimate Gothic Accessory Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gothic-phone-0343t6rs5j8wgfhe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic pattern phone wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/43/6f/ef436fbbfe939ab3f63cf914cd4a1917.jpg' alt='Gothic pattern phone wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/43/6f/ef436fbbfe939ab3f63cf914cd4a1917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

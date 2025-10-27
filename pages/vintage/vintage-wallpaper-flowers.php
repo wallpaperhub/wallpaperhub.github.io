@@ -1,0 +1,129 @@
+<title>Vintage Floral Wallpaper: Timeless Beauty for Your Home</title>
+                    <meta name="description" content="Discover the charm of vintage wallpaper flowers, ideal for adding a touch of nostalgia and warmth to your space. Explore vibrant patterns that elevate your home decor with timeless beauty. Perfect for any design project, these wallpapers celebrate the elegance of nature and vintage style.">
+                    <meta name="keywords" content="vintage wallpaper flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-wallpaper-flowers">
+                            <span itemprop="name">vintage wallpaper flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Floral Wallpaper: Timeless Beauty for Your Home</h1>
+                <p>Vintage wallpaper flowers evoke nostalgia and charm, bringing a touch of nature indoors. These floral patterns, often seen in retro designs, add warmth and personality to any space. Perfect for accent walls or DIY projects, vintage floral wallpapers enrich homes with color and style, celebrating the beauty of bygone eras.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 137"x96"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 137"x96"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Wallpaper Lilipinso">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/343667/vintage-flowers-wallpaper-lilipinso.jpg' alt='Vintage Flowers Wallpaper Lilipinso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/343667/vintage-flowers-wallpaper-lilipinso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202771.jpg' alt='Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Classic Minimalist Floral Wallpaper R9302">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' alt='Black Classic Minimalist Floral Wallpaper R9302'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Vintage Wallpaper White Tropical Flowers on Green">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4183/15096/vintage-wallpaper-86__05556.1711998517.jpg?c=2' alt='1940s Vintage Wallpaper White Tropical Flowers on Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4183/15096/vintage-wallpaper-86__05556.1711998517.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Desktop Wallpaper, Aesthetic Floral PC Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27946275/r/il/f2f4f5/3717212896/il_fullxfull.3717212896_5zii.jpg' alt='Vintage Flowers Desktop Wallpaper, Aesthetic Floral PC Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1422">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27946275/r/il/f2f4f5/3717212896/il_fullxfull.3717212896_5zii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' alt='Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Flowers • Antique Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Avocado-1.jpg.optimal.jpg' alt='County Flowers • Antique Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Avocado-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Flowers Damask MF40303">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' alt='Painted Flowers Damask MF40303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Peel and Stick Wallpaper Floral Wallpaper Vintage Contact Paper  196.8"x16.1" Removable Wallpaper Black Flower Leaf Self Adhesive Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81U2-KgOuRL.jpg' alt='Toduso Peel and Stick Wallpaper Floral Wallpaper Vintage Contact Paper  196.8"x16.1" Removable Wallpaper Black Flower Leaf Self Adhesive Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81U2-KgOuRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

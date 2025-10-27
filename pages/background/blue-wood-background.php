@@ -1,0 +1,129 @@
+<title>Stunning Blue Wood Backgrounds for Creative Designs</title>
+                    <meta name="description" content="Discover the beauty of blue wood backgrounds to enhance your design projects. Perfect for websites, social media, and crafts, these backgrounds blend tranquility with creativity. Ideal for artists and designers seeking a unique, vibrant backdrop. Elevate your visuals effortlessly!">
+                    <meta name="keywords" content="blue wood background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-wood-background">
+                            <span itemprop="name">blue wood background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Wood Backgrounds for Creative Designs</h1>
+                <p>A blue wood background adds a vibrant and calming aesthetic to any design project. By blending various shades of blue with natural wood textures, this backdrop creates a unique visual appeal. Ideal for websites, social media posts, or crafts, it evokes a sense of tranquility and creativity, making it perfect for artistic expressions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blue-wood-texture-background-surface_1253-1625.jpg' alt='Blue Wood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blue-wood-texture-background-surface_1253-1625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wood Background Images – Browse 5,247,499 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/87/62/05/360_F_287620596_AHJu8KeMZcUC14TAMy1gSHjnLQ8w2BD2.jpg' alt='Blue Wood Background Images – Browse 5,247,499 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/87/62/05/360_F_287620596_AHJu8KeMZcUC14TAMy1gSHjnLQ8w2BD2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200,000+ Free Blue Wood & Wood Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2017/01/08/21/11/wood-1963988_1280.jpg' alt='200,000+ Free Blue Wood & Wood Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2017/01/08/21/11/wood-1963988_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Blue Wood Plank Wood Background Portrait Photography ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/VibrantBlueWoodPlankWoodBackgroundPortraitPhotographyBackdropIBD-201211.jpg?v=1605693449' alt='Vibrant Blue Wood Plank Wood Background Portrait Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/VibrantBlueWoodPlankWoodBackgroundPortraitPhotographyBackdropIBD-201211.jpg?v=1605693449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue wood Background 2681597 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/681/597/non_2x/blue-wood-background-free-vector.jpg' alt='Blue wood Background 2681597 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/681/597/non_2x/blue-wood-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,100+ Blue Wood Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/949036138/vector/blue-table-top.jpg?s=612x612&w=0&k=20&c=Y5o19rS5bFW1MyPgiiimVRDBrujWr9tUJGP-DkwJbpo=' alt='25,100+ Blue Wood Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/949036138/vector/blue-table-top.jpg?s=612x612&w=0&k=20&c=Y5o19rS5bFW1MyPgiiimVRDBrujWr9tUJGP-DkwJbpo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wood Background Images – Browse 5,247,499 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/77/94/14/360_F_177941435_MwzxXUPqzsngEeFNK2vkWRzPLJ0UhvQt.jpg' alt='Blue Wood Background Images – Browse 5,247,499 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/77/94/14/360_F_177941435_MwzxXUPqzsngEeFNK2vkWRzPLJ0UhvQt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dark Navy Wood Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/f1/59/95f159c2e825ccd239a4d2fa705e68d7.jpg' alt='Blue Dark Navy Wood Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/f1/59/95f159c2e825ccd239a4d2fa705e68d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-blue-wooden-background_35782-84.jpg?semt=ais_hybrid' alt='Blue Wood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-blue-wooden-background_35782-84.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wood Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/447/636/non_2x/summer-background-with-coconut-plam-leaf-seashells-and-sand-beach-on-blue-wooden-panel-background-horizon-banner-flat-lay-banner-with-leaves-on-wood-plank-texture-for-summer-sale-vector.jpg' alt='Blue Wood Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/447/636/non_2x/summer-background-with-coconut-plam-leaf-seashells-and-sand-beach-on-blue-wooden-panel-background-horizon-banner-flat-lay-banner-with-leaves-on-wood-plank-texture-for-summer-sale-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

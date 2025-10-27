@@ -1,0 +1,129 @@
+<title>Elegant Plain Purple Wallpaper Background for Your Home</title>
+                    <meta name="description" content="Discover the beauty of a plain purple wallpaper background. Perfect for enhancing any space, this wallpaper adds a touch of elegance and tranquility, making it suitable for living rooms, bedrooms, and offices. Refresh your home with this versatile design today!">
+                    <meta name="keywords" content="wallpaper plain purple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/wallpaper-plain-purple-background">
+                            <span itemprop="name">wallpaper plain purple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Plain Purple Wallpaper Background for Your Home</h1>
+                <p>Transform your space with a stunning plain purple wallpaper background. This vibrant color offers a calming and elegant touch, perfect for any room. Whether you're looking to add a pop of color to your living room or create a serene office environment, a purple background enhances the atmosphere while remaining stylish and versatile.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/plain-purple-2pnga390b373pzrz.jpg' alt='100+] Plain Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/plain-purple-2pnga390b373pzrz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Card Creator - Light Purple Plain Background - CUP528880_1519">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1b/d7/8d/1bd78daab0bd76b6352dcefceb72c6ca.jpg' alt='Card Creator - Light Purple Plain Background - CUP528880_1519'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1b/d7/8d/1bd78daab0bd76b6352dcefceb72c6ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/plain-purple-background-hefxwfzmmbp8leis.jpg' alt='Plain Purple Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/plain-purple-background-hefxwfzmmbp8leis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Plain Landscape Background Plain Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/purple-plain-landscape-background-wallpaper-260nw-2199794929.jpg' alt='Purple Plain Landscape Background Plain Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/purple-plain-landscape-background-wallpaper-260nw-2199794929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9560320/p/f/m/cIAyiYl4BL9Zt2UDuR0IqCevlmK6vzPHarLVqkMJKBHfLV500ZRcZA/Solid%20Plum%2C%20Dark%20Purple.jpg' alt='Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9560320/p/f/m/cIAyiYl4BL9Zt2UDuR0IqCevlmK6vzPHarLVqkMJKBHfLV500ZRcZA/Solid%20Plum%2C%20Dark%20Purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,166 Plain Light Purple Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/minimalist-elegance-light-purple-background-high-detail-plain-design-image-features-serene-sophisticated-simple-330643687.jpg' alt='2,166 Plain Light Purple Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/minimalist-elegance-light-purple-background-high-detail-plain-design-image-features-serene-sophisticated-simple-330643687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple..">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/13/8d/1d138dedbc35e6c5a839d09fbdaa2f2a.jpg' alt='Purple..'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/13/8d/1d138dedbc35e6c5a839d09fbdaa2f2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8663.jpg?semt=ais_hybrid' alt='Purple Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8663.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Fuchsia Purple Light Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/plain-fuchsia-purple-light-iphone-sx2ijztj3iq3ex3o.jpg' alt='Plain Fuchsia Purple Light Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/plain-fuchsia-purple-light-iphone-sx2ijztj3iq3ex3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper for Children | Monochrome Non-woven Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25401407/r/il/2538bd/3220791997/il_570xN.3220791997_gv7k.jpg' alt='Purple Wallpaper for Children | Monochrome Non-woven Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25401407/r/il/2538bd/3220791997/il_570xN.3220791997_gv7k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

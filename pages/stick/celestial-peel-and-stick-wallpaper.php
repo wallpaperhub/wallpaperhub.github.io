@@ -1,0 +1,129 @@
+<title>Celestial Peel and Stick Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover celestial peel and stick wallpaper, perfect for a dreamy home makeover! Easy to apply and remove, these stunning designs bring the cosmos into your room effortlessly. Ideal for renters or anyone seeking stylish and temporary decor solutions. Explore the universe in your home today!">
+                    <meta name="keywords" content="celestial peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/celestial-peel-and-stick-wallpaper">
+                            <span itemprop="name">celestial peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celestial Peel and Stick Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with celestial peel and stick wallpaper! Perfect for adding a dreamy touch to any room, this wallpaper features stunning celestial designs like stars, moons, and galaxies. Easy to apply and remove, it’s ideal for renters or anyone looking for a temporary upgrade. Explore cosmic beauty today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Self Adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/12/magical_moon_wallpaper_celestial_wallberry.jpg' alt='Celestial Self Adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/12/magical_moon_wallpaper_celestial_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Celestial Wallpaper 17.3” X 118” Gothic Peel and Stick Wallpaper  Dark Brown and Yellow Contact Paper Sun/Moon/Star Wallpaper Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Va8xlenhL.jpg' alt='WENMER Celestial Wallpaper 17.3” X 118” Gothic Peel and Stick Wallpaper  Dark Brown and Yellow Contact Paper Sun/Moon/Star Wallpaper Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Va8xlenhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Celestial Peel and Stick Wallpaper / Moon ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/97d4a7/2626804857/il_570xN.2626804857_82rn.jpg' alt='Black and White Celestial Peel and Stick Wallpaper / Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/97d4a7/2626804857/il_570xN.2626804857_82rn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/ConstellationCharcoal.jpg?v=1717013085&width=2048' alt='Milky Way Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/ConstellationCharcoal.jpg?v=1717013085&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Peel & Stick Wallpaper Navy/gold - Opalhouse™: Removable ...">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_ea5709a4-e455-4b12-bd9f-ff6bebb519ca' alt='Celestial Peel & Stick Wallpaper Navy/gold - Opalhouse™: Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_ea5709a4-e455-4b12-bd9f-ff6bebb519ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Beige Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/il_fullxfull.2457021176_flpt.jpg?v=1608662800' alt='Celestial Beige Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2269">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/il_fullxfull.2457021176_flpt.jpg?v=1608662800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Celestial Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D341">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5196531837_5itp.jpg?v=1709548663&width=1946' alt='Aesthetic Celestial Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D341'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5196531837_5itp.jpg?v=1709548663&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Moon Phases & Constellations Wallpaper – Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/products/AthenaBeigeSofawithWhiteCoffeeTableandLargeGreenPlant.jpg?v=1736949149&width=1946' alt='Celestial Moon Phases & Constellations Wallpaper – Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/products/AthenaBeigeSofawithWhiteCoffeeTableandLargeGreenPlant.jpg?v=1736949149&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Self Adhesive Wallpaper - Premium Quality - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/12/celestial_moon_wallpaper_pattern_wallberry.jpg' alt='Celestial Self Adhesive Wallpaper - Premium Quality - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/12/celestial_moon_wallpaper_pattern_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Celestial Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D346">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5222811885_crqe.jpg?v=1727639361&width=1946' alt='Beige Celestial Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D346'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5222811885_crqe.jpg?v=1727639361&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

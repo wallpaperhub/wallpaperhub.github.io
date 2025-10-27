@@ -1,0 +1,129 @@
+<title>Serene Soft Blue Aesthetic Wallpaper for Tranquil Spaces</title>
+                    <meta name="description" content="Discover the charm of soft blue aesthetic wallpaper, designed to create a peaceful and inviting atmosphere in your home. Perfect for any room, this soothing wallpaper adds a touch of elegance and tranquility to your decor. Transform your space today with our stunning blue designs!">
+                    <meta name="keywords" content="soft blue aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/soft-blue-aesthetic-wallpaper">
+                            <span itemprop="name">soft blue aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Soft Blue Aesthetic Wallpaper for Tranquil Spaces</h1>
+                <p>Soft blue aesthetic wallpaper brings a serene and calming vibe to any space, perfect for those seeking tranquility in their environment. The gentle hues of blue create a peaceful backdrop that enhances both modern and vintage designs. Ideal for bedrooms or meditation spaces, this wallpaper adds depth and style, making your room feel inviting and cozy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="baby blue aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_570xN.2797031334_6o7a.jpg' alt='baby blue aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_570xN.2797031334_6o7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Aesthetic Cartoon Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-blue-aesthetic-cartoon-clouds-6ag5nnz42ri6xcss.jpg' alt='Light Blue Aesthetic Cartoon Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-blue-aesthetic-cartoon-clouds-6ag5nnz42ri6xcss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Soft Blue Wallpapers - Wallpaper Cave 14A">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c5/aa/79/c5aa79ab41c0ccd8c551b66d4d853822.jpg' alt='Aesthetic Soft Blue Wallpapers - Wallpaper Cave 14A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c5/aa/79/c5aa79ab41c0ccd8c551b66d4d853822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop-wallpaper-blue-aesthetic-soft-blue-aesthet by Tomboy22335 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63db4888-35c3-43db-8236-925261dfb48d/dg8wxzj-a68507a3-ba94-45e1-a235-71f9c5e69552.jpg/v1/fill/w_350,h_623,q_75,strp/desktop_wallpaper_blue_aesthetic_soft_blue_aesthet_by_tomboy22335_dg8wxzj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvNjNkYjQ4ODgtMzVjMy00M2RiLTgyMzYtOTI1MjYxZGZiNDhkXC9kZzh3eHpqLWE2ODUwN2EzLWJhOTQtNDVlMS1hMjM1LTcxZjljNWU2OTU1Mi5qcGciLCJ3aWR0aCI6Ijw9MzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CUZPrnk24q44I70J0fOMyYlqArOvVVX1sUr4TmPC7HE' alt='Desktop-wallpaper-blue-aesthetic-soft-blue-aesthet by Tomboy22335 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63db4888-35c3-43db-8236-925261dfb48d/dg8wxzj-a68507a3-ba94-45e1-a235-71f9c5e69552.jpg/v1/fill/w_350,h_623,q_75,strp/desktop_wallpaper_blue_aesthetic_soft_blue_aesthet_by_tomboy22335_dg8wxzj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvNjNkYjQ4ODgtMzVjMy00M2RiLTgyMzYtOTI1MjYxZGZiNDhkXC9kZzh3eHpqLWE2ODUwN2EzLWJhOTQtNDVlMS1hMjM1LTcxZjljNWU2OTU1Mi5qcGciLCJ3aWR0aCI6Ijw9MzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CUZPrnk24q44I70J0fOMyYlqArOvVVX1sUr4TmPC7HE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Light Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' alt='300+] Light Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Collage Light Blue Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/sky-collage-light-blue-aesthetic-iphone-vycvr02zz1v205mo.webp' alt='Sky Collage Light Blue Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/sky-collage-light-blue-aesthetic-iphone-vycvr02zz1v205mo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="baby blue aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/97/cc/cf97cc29afd0f2c5e96bf0306d75789b.jpg' alt='baby blue aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/97/cc/cf97cc29afd0f2c5e96bf0306d75789b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-background-light-steel-blue-wallpaper-image_53876-102530.jpg' alt='Blue Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-background-light-steel-blue-wallpaper-image_53876-102530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft blue 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/fa/a8/eafaa871d4506ab51b8b1dc65a52cf1d.jpg' alt='Soft blue 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/fa/a8/eafaa871d4506ab51b8b1dc65a52cf1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Blue Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-aesthetic-iphone-3n1hpntmp37i4wrz.jpg' alt='100+] Light Blue Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-aesthetic-iphone-3n1hpntmp37i4wrz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

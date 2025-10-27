@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="surreal images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/surreal-images">
+                            <span itemprop="name">surreal images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="319,900+ Surrealism Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1552877760/photo/surreal-image-of-a-zebra-on-a-small-island-and-a-boat-explore-and-aspiration-concept.jpg?s=612x612&w=0&k=20&c=Y2l9gi6Sp_WIwCTO0dDX6Qh-HMakdSBYPX_FiLXVP0w=' alt='319,900+ Surrealism Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1552877760/photo/surreal-image-of-a-zebra-on-a-small-island-and-a-boat-explore-and-aspiration-concept.jpg?s=612x612&w=0&k=20&c=Y2l9gi6Sp_WIwCTO0dDX6Qh-HMakdSBYPX_FiLXVP0w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyeballs On Sticks Surrealism Free Stock Photo - Public Domain ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/530000/nahled/eyeballs-on-sticks-surrealism.jpg' alt='Eyeballs On Sticks Surrealism Free Stock Photo - Public Domain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/530000/nahled/eyeballs-on-sticks-surrealism.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Different Ways to Create Surreal Art - Famous Portrait Artist">
+                                <img itemprop="contentUrl url" src='https://www.suzinassif.com/wp-content/uploads/2016/01/surrealism-artists-1170x605.jpg' alt='Different Ways to Create Surreal Art - Famous Portrait Artist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Suzi Nassif" />
+                                </span>
+                                <a href='https://www.suzinassif.com/wp-content/uploads/2016/01/surrealism-artists-1170x605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haute Couture">
+                                <img itemprop="contentUrl url" src='https://bigwalldecor.com/wp-content/uploads/2023/02/Surreal-Giraffe-Spot-Fashion.jpg' alt='Haute Couture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Wall Décor" />
+                                </span>
+                                <a href='https://bigwalldecor.com/wp-content/uploads/2023/02/Surreal-Giraffe-Spot-Fashion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="319,900+ Surrealism Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1454578474/photo/surreal-nature-background.jpg?s=612x612&w=0&k=20&c=2mQL9RocTl_sgrVO_WhXm3vjsuWlzrBg_NBM-FehsLg=' alt='319,900+ Surrealism Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1454578474/photo/surreal-nature-background.jpg?s=612x612&w=0&k=20&c=2mQL9RocTl_sgrVO_WhXm3vjsuWlzrBg_NBM-FehsLg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Best Surreal Paintings and Art works from Top artists">
+                                <img itemprop="contentUrl url" src='https://webneel.com/daily/sites/default/files/images/daily/11-2012/surreal-painting-vladimir-kush%20(16).jpg' alt='50 Best Surreal Paintings and Art works from Top artists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Webneel.com" />
+                                </span>
+                                <a href='https://webneel.com/daily/sites/default/files/images/daily/11-2012/surreal-painting-vladimir-kush%20(16).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Surreal Scene Full of Life in Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://cdn.photoshoptutorials.ws/wp-content/uploads/2020/05/Surreal-Photo-Manipulation.jpg?strip=all&lossy=1&webp=82&avif=82&ssl=1' alt='How to Create a Surreal Scene Full of Life in Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoshop Tutorials" />
+                                </span>
+                                <a href='https://cdn.photoshoptutorials.ws/wp-content/uploads/2020/05/Surreal-Photo-Manipulation.jpg?strip=all&lossy=1&webp=82&avif=82&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Surrealism? Definition, Artists, & Illustrations">
+                                <img itemprop="contentUrl url" src='https://www.parkwestgallery.com/wp-content/uploads/2018/11/surreal_header.jpg' alt='What Is Surrealism? Definition, Artists, & Illustrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Park West Gallery" />
+                                </span>
+                                <a href='https://www.parkwestgallery.com/wp-content/uploads/2018/11/surreal_header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surreal Paintings That I Create Inspired By Salvador Dalí">
+                                <img itemprop="contentUrl url" src='https://static.boredpanda.com/blog/wp-content/uploads/2016/09/surreal-digital-paintings-marcel-caram-fb.png' alt='Surreal Paintings That I Create Inspired By Salvador Dalí'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://static.boredpanda.com/blog/wp-content/uploads/2016/09/surreal-digital-paintings-marcel-caram-fb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create This Surreal Representation of the Mind Artwork in ...">
+                                <img itemprop="contentUrl url" src='https://cdn.photoshoptutorials.ws/wp-content/uploads/2012/05/Representation-of-the-Mind-scaled.jpg?strip=all&lossy=1&webp=82&avif=82&ssl=1' alt='Create This Surreal Representation of the Mind Artwork in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1810">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoshop Tutorials" />
+                                </span>
+                                <a href='https://cdn.photoshoptutorials.ws/wp-content/uploads/2012/05/Representation-of-the-Mind-scaled.jpg?strip=all&lossy=1&webp=82&avif=82&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

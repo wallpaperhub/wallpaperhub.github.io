@@ -1,0 +1,129 @@
+<title>Stunning Rubik's Cube Images: A Colorful Journey</title>
+                    <meta name="description" content="Explore a collection of breathtaking Rubik's Cube images that highlight its colorful designs and challenge. Perfect for enthusiasts and newcomers alike, these visuals inspire creativity and showcase solving techniques. Dive into the fascinating world of the Rubik's Cube today!">
+                    <meta name="keywords" content="rubiks cube image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rubiks-cube-image">
+                            <span itemprop="name">rubiks cube image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rubik's Cube Images: A Colorful Journey</h1>
+                <p>Discover the mesmerizing world of the Rubik's Cube through captivating images that showcase its vibrant colors and intricate designs. Whether you're a seasoned puzzler or a curious newcomer, these stunning visuals highlight the cube's architectural beauty and challenge. Get inspired by various solving techniques and creative displays!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Rubik's Cube, The Original 3x3 Cube, Problem-Solving Brain  Teaser, Color-Matching Puzzle, Fidget Toy & Sensory Puzzle, Easter Basket  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XkUCfu0mL.jpg' alt='Amazon.com: Rubik's Cube, The Original 3x3 Cube, Problem-Solving Brain  Teaser, Color-Matching Puzzle, Fidget Toy & Sensory Puzzle, Easter Basket  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XkUCfu0mL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubik's Cube - The Strong National Museum of Play">
+                                <img itemprop="contentUrl url" src='https://www.museumofplay.org/app/uploads/2021/08/rubiks-cube.gif' alt='Rubik's Cube - The Strong National Museum of Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Strong Museum" />
+                                </span>
+                                <a href='https://www.museumofplay.org/app/uploads/2021/08/rubiks-cube.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Rubik's Cube 3x3 | SpeedCubeShop | Highest Rated Speed ...">
+                                <img itemprop="contentUrl url" src='https://speedcubeshop.com/cdn/shop/files/Original-Rubiks-Cube-3x3-2.webp?v=1739015651' alt='Original Rubik's Cube 3x3 | SpeedCubeShop | Highest Rated Speed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeedCubeShop" />
+                                </span>
+                                <a href='https://speedcubeshop.com/cdn/shop/files/Original-Rubiks-Cube-3x3-2.webp?v=1739015651' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Rubik's Cube 3x3 | Classic Brain-Boosting Puzzle for All Ages">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTM5NlgxNTAw/z/i5IAAOSwgyxWVOIQ/$_57.JPG?set_id=880000500F' alt='Original Rubik's Cube 3x3 | Classic Brain-Boosting Puzzle for All Ages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTM5NlgxNTAw/z/i5IAAOSwgyxWVOIQ/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubik's Cube, 3x3 Magnetic Speed Cube For Super Fast Solves, Twisting  Fidget Toy, Challenging Brain Teaser & Sensory Puzzle for Adults, Teens, &  Kids, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61tnRc8GrcL._AC_UF894,1000_QL80_.jpg' alt='Rubik's Cube, 3x3 Magnetic Speed Cube For Super Fast Solves, Twisting  Fidget Toy, Challenging Brain Teaser & Sensory Puzzle for Adults, Teens, &  Kids, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61tnRc8GrcL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubik's Cube - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg' alt='Rubik's Cube - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Rubiks Cube Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1562975327-29a8cbfd5be6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cnViaWtzJTIwY3ViZXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Rubiks Cube Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1562975327-29a8cbfd5be6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cnViaWtzJTIwY3ViZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubik's Cube | Rubik's Cube Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/speedsolving/images/a/a1/Rubik%27s_Cube_transparency.png/revision/latest/scale-to-width-down/1200?cb=20141018181906' alt='Rubik's Cube | Rubik's Cube Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rubik's Cube Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/speedsolving/images/a/a1/Rubik%27s_Cube_transparency.png/revision/latest/scale-to-width-down/1200?cb=20141018181906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rubik's Cube and Its History – SpeedCubeShop">
+                                <img itemprop="contentUrl url" src='https://dropinblog.net/34242096/files/featured/The_Rubiks_Cube_and_Its_History/Rubiks_Cube_Rubix_cube_Rubiks_Cube.png' alt='The Rubik's Cube and Its History – SpeedCubeShop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeedCubeShop" />
+                                </span>
+                                <a href='https://dropinblog.net/34242096/files/featured/The_Rubiks_Cube_and_Its_History/Rubiks_Cube_Rubix_cube_Rubiks_Cube.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These 8 Rubik's Cube Designs Are Way Cooler Than the Original">
+                                <img itemprop="contentUrl url" src='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/d1f1a5e2.png' alt='These 8 Rubik's Cube Designs Are Way Cooler Than the Original'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How-To Geek" />
+                                </span>
+                                <a href='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/d1f1a5e2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

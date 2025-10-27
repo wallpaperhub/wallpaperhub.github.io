@@ -1,0 +1,129 @@
+<title>Transform Your Space: Heavy Duty Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the convenience of heavy-duty peel and stick wallpaper! Perfect for any surface, this easy-to-install option allows you to refresh your home quickly and effortlessly. Ideal for renters and design lovers alike, make your space uniquely yours today!">
+                    <meta name="keywords" content="heavy duty peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/heavy-duty-peel-and-stick-wallpaper">
+                            <span itemprop="name">heavy duty peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Heavy Duty Peel and Stick Wallpaper</h1>
+                <p>Revamp your space effortlessly with heavy-duty peel and stick wallpaper! Ideal for renters and DIY enthusiasts, this versatile option delivers stunning designs without the mess of traditional wallpaper. Durable and easy to apply, it’s perfect for accent walls, furniture, and more. Experience hassle-free home improvement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy & Sage Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43902">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1c71b6ef-aaa7-4926-af3d-8a14cb85d40d/svn/nextwall-wallpaper-rolls-nw43902-31_600.jpg' alt='NextWall 30.75 sq. ft. Navy & Sage Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43902'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1c71b6ef-aaa7-4926-af3d-8a14cb85d40d/svn/nextwall-wallpaper-rolls-nw43902-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' alt='MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WFBHUA-Vintage Forest Woodland Mural Wallpaper Gray Old Wall Tree Wallpaper  for Bedroom Living Room(Not Peel and Stick)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81avEfYvUJL._AC_UF894,1000_QL80_.jpg' alt='WFBHUA-Vintage Forest Woodland Mural Wallpaper Gray Old Wall Tree Wallpaper  for Bedroom Living Room(Not Peel and Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81avEfYvUJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WFBHUA-Black and Gold Floral Wallpaper for Bedroom Vintage Blue Peony  Flower Wall Mural (Not Peel and Stick)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rXA7eBmKL._AC_UF894,1000_QL80_.jpg' alt='WFBHUA-Black and Gold Floral Wallpaper for Bedroom Vintage Blue Peony  Flower Wall Mural (Not Peel and Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rXA7eBmKL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EasyLiner Premium Peel & Stick Wallpaper, Stone 20 in. x 18 ft.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/EasyLiner-Premium-Peel-Stick-Wallpaper-Stone-20-in-x-18-ft_36b33b42-e9c6-4a3a-ba66-92bd6e00b5e4.8e17b714d92c40d1e0124de9f6d0363d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='EasyLiner Premium Peel & Stick Wallpaper, Stone 20 in. x 18 ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/EasyLiner-Premium-Peel-Stick-Wallpaper-Stone-20-in-x-18-ft_36b33b42-e9c6-4a3a-ba66-92bd6e00b5e4.8e17b714d92c40d1e0124de9f6d0363d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy Duty Contact Paper Cityscape Decor Peel & Stick Wallpaper Farmhouse  DIY-Friendly (W) 40" X(H) 31.5"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sJjGGxNLL._AC_UF894,1000_QL80_.jpg' alt='Heavy Duty Contact Paper Cityscape Decor Peel & Stick Wallpaper Farmhouse  DIY-Friendly (W) 40" X(H) 31.5"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sJjGGxNLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 6 Best Removable Wallpapers, Tested by BHG">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/KC63QKET88tFG12Ty7yY4UgxpuM=/4000x0/filters:no_upscale():strip_icc()/bhg-primary-removable-wallpaper-aug-24-hwortock-001-001-f3e658de162f4c319c295e41893adef6.jpeg' alt='The 6 Best Removable Wallpapers, Tested by BHG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/KC63QKET88tFG12Ty7yY4UgxpuM=/4000x0/filters:no_upscale():strip_icc()/bhg-primary-removable-wallpaper-aug-24-hwortock-001-001-f3e658de162f4c319c295e41893adef6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Mirei Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq. Ft.)  NU2679">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/71660e1a-6b78-4258-a5f3-027893cbd988/svn/nuwallpaper-wallpaper-rolls-nu2679-64_600.jpg' alt='NuWallpaper Mirei Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq. Ft.)  NU2679'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/71660e1a-6b78-4258-a5f3-027893cbd988/svn/nuwallpaper-wallpaper-rolls-nu2679-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D7028-3 Black and White Peel and Stick Wallpaper Geometric 17.7in x 118in  Self Adhesive Heavy Duty Contact Paper Textured Vinyl Film Roll for Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tT-V2bccL._AC_UF894,1000_QL80_.jpg' alt='D7028-3 Black and White Peel and Stick Wallpaper Geometric 17.7in x 118in  Self Adhesive Heavy Duty Contact Paper Textured Vinyl Film Roll for Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tT-V2bccL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EasyLiner Premium Peel & Stick Wallpaper, Victorian 20 in. x 18 ft.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/ac481fd0-002d-4157-9651-b10bf45ca1ff.2f089936eb31dc3a1928a3845eb3092c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='EasyLiner Premium Peel & Stick Wallpaper, Victorian 20 in. x 18 ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/ac481fd0-002d-4157-9651-b10bf45ca1ff.2f089936eb31dc3a1928a3845eb3092c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Eye-Catching USC Logo: Symbol of Excellence</title>
+                    <meta name="description" content="Discover the USC logo's powerful symbolism and modern design. Learn how this iconic emblem reflects the pride and tradition of the University of Southern California! Perfect for those interested in branding and university identity.">
+                    <meta name="keywords" content="usc logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usc-logo">
+                            <span itemprop="name">usc logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching USC Logo: Symbol of Excellence</h1>
+                <p>The USC logo, representing the University of Southern California, features a bold and iconic design. Its colors, cardinal and gold, symbolize excellence and pride. The intertwined letters 'USC' are a testament to the institution's rich history and tradition, while their modern aesthetics reflect innovation and forward-thinking.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marks and Logotypes - USC Brand and Identity Guidelines">
+                                <img itemprop="contentUrl url" src='https://identity.usc.edu/wp-content/uploads/2022/09/PrimaryMonogram_0921.png' alt='Marks and Logotypes - USC Brand and Identity Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USC Brand and Identity Guidelines - University of Southern California" />
+                                </span>
+                                <a href='https://identity.usc.edu/wp-content/uploads/2022/09/PrimaryMonogram_0921.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:USC Trojans logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/1200px-USC_Trojans_logo.svg.png' alt='File:USC Trojans logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/1200px-USC_Trojans_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marks and Logotypes - USC Brand and Identity Guidelines">
+                                <img itemprop="contentUrl url" src='https://identity.usc.edu/wp-content/uploads/2022/09/PrimaryMonogram.png' alt='Marks and Logotypes - USC Brand and Identity Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USC Brand and Identity Guidelines - University of Southern California" />
+                                </span>
+                                <a href='https://identity.usc.edu/wp-content/uploads/2022/09/PrimaryMonogram.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marks and Logotypes - USC Brand and Identity Guidelines">
+                                <img itemprop="contentUrl url" src='https://identity.usc.edu/wp-content/uploads/2024/05/Marks_ApprovedColors_GoldWhiteonCard.png' alt='Marks and Logotypes - USC Brand and Identity Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USC Brand and Identity Guidelines - University of Southern California" />
+                                </span>
+                                <a href='https://identity.usc.edu/wp-content/uploads/2024/05/Marks_ApprovedColors_GoldWhiteonCard.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USC Trojans Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2024/07/USC-Trojans-Logo.jpg' alt='USC Trojans Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2024/07/USC-Trojans-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USC Trojans - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/7/72/USC_Trojan_head.svg/1200px-USC_Trojan_head.svg.png' alt='USC Trojans - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/7/72/USC_Trojan_head.svg/1200px-USC_Trojan_head.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marks and Logotypes - USC Brand and Identity Guidelines">
+                                <img itemprop="contentUrl url" src='https://identity.usc.edu/wp-content/uploads/2022/09/Primary-Monogram-Wrong-Color.png' alt='Marks and Logotypes - USC Brand and Identity Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USC Brand and Identity Guidelines - University of Southern California" />
+                                </span>
+                                <a href='https://identity.usc.edu/wp-content/uploads/2022/09/Primary-Monogram-Wrong-Color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trojans - USC Trojans Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180615/epk/aa78piyhl.webp' alt='Trojans - USC Trojans Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180615/epk/aa78piyhl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usc logo - Southern California">
+                                <img itemprop="contentUrl url" src='https://www.playworks.org/southern-california/wp-content/uploads/sites/4/2018/02/usc-logo.png' alt='usc logo - Southern California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playworks" />
+                                </span>
+                                <a href='https://www.playworks.org/southern-california/wp-content/uploads/sites/4/2018/02/usc-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usc Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/U/usc-trojans-logo-73ADBA9C8A-seeklogo.com.png' alt='Usc Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/U/usc-trojans-logo-73ADBA9C8A-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

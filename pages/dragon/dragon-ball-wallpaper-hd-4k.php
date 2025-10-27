@@ -1,0 +1,129 @@
+<title>Stunning Dragon Ball HD 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a captivating collection of Dragon Ball HD 4K wallpapers. Perfect for fans wanting to elevate their devices with high-resolution images of iconic characters and battles. Explore now for a vibrant visual experience!">
+                    <meta name="keywords" content="dragon ball wallpaper hd 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-ball-wallpaper-hd-4k">
+                            <span itemprop="name">dragon ball wallpaper hd 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Ball HD 4K Wallpapers for Your Device</h1>
+                <p>Transform your screens with stunning Dragon Ball HD 4K wallpapers! Explore a vibrant selection featuring your favorite characters and epic battles. Perfect for fans looking to enhance their devices with high-quality imagery of Goku, Vegeta, and more. Download now to immerse yourself in the Dragon Ball universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball UHD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-3840x2160.jpg' alt='Dragon Ball UHD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/JmrAs6G.jpg' alt='Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/JmrAs6G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kame House Dragon Ball Z Wallpaper, HD Artist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/kame-house-dragon-ball-z_a2llbmaUmZqaraWkpJRoZWhnrWZsZWs.jpg' alt='Kame House Dragon Ball Z Wallpaper, HD Artist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3032">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/kame-house-dragon-ball-z_a2llbmaUmZqaraWkpJRoZWhnrWZsZWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Dragon Ball HD Goku Fire Art Wallpaper, HD Artist 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/cool-dragon-ball-hd-goku-fire-art_bW1sZWqUmZqaraWkpJRmbmdlrWZmaGg.jpg' alt='Cool Dragon Ball HD Goku Fire Art Wallpaper, HD Artist 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/cool-dragon-ball-hd-goku-fire-art_bW1sZWqUmZqaraWkpJRmbmdlrWZmaGg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/132/1329226.jpeg' alt='Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/132/1329226.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonball Super Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-3840x2160.jpg' alt='Dragonball Super Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball z, ballz, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/825/442/HD-wallpaper-dragon-ball-z-ballz.jpg' alt='Dragon ball z, ballz, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/825/442/HD-wallpaper-dragon-ball-z-ballz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="930+] Dragon Ball Z Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/647/thumb-1920-647552.jpg' alt='930+] Dragon Ball Z Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/647/thumb-1920-647552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Iphone Dragon Ball Vegeta Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/4k-anime-iphone-dragon-ball-vegeta-ahi8qy7utt2klomq.webp' alt='4k Anime Iphone Dragon Ball Vegeta Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/4k-anime-iphone-dragon-ball-vegeta-ahi8qy7utt2klomq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/34/08/3c34080ec73ca563202762e1a290c036.jpg' alt='110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/34/08/3c34080ec73ca563202762e1a290c036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

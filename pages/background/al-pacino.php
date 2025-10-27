@@ -1,0 +1,129 @@
+<title>Al Pacino: The Iconic Actor of Cinema</title>
+                    <meta name="description" content="Explore the life and career of Al Pacino, a legendary American actor with a legacy of unforgettable performances in classics like "The Godfather" and "Scarface." Discover his impact on film, award-winning roles, and why he remains a celebrated figure in Hollywood history.">
+                    <meta name="keywords" content="al pacino">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/al-pacino">
+                            <span itemprop="name">al pacino</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Al Pacino: The Iconic Actor of Cinema</h1>
+                <p>Al Pacino is an iconic American actor known for his powerful performances and intense charisma. With a career spanning over five decades, he has delivered unforgettable roles in films like "The Godfather," "Scarface," and "Scent of a Woman." Pacino's artistic journey is marked by numerous accolades, including an Academy Award and multiple Golden Globes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/640px-Al_Pacino_2016_%2830401544240%29.jpg' alt='Al Pacino - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="882">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/640px-Al_Pacino_2016_%2830401544240%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg' alt='Al Pacino - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Al_Pacino.jpg/170px-Al_Pacino.jpg' alt='Al Pacino - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Al_Pacino.jpg/170px-Al_Pacino.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino says being a new dad at 84 is a 'mini miracle' | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1483410863.jpg?c=original' alt='Al Pacino says being a new dad at 84 is a 'mini miracle' | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1483410863.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unveiling the Staggering Fortune of Hollywood Legend Al Pacino">
+                                <img itemprop="contentUrl url" src='https://img-s1.onedio.com/id-6327cd5ff126e72f1bd0732c/rev-0/raw/s-49c69a5afb0623206cc5adfefc75d4ffbcd78aaf.jpg' alt='Unveiling the Staggering Fortune of Hollywood Legend Al Pacino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2049">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.hullandhull.com" />
+                                </span>
+                                <a href='https://img-s1.onedio.com/id-6327cd5ff126e72f1bd0732c/rev-0/raw/s-49c69a5afb0623206cc5adfefc75d4ffbcd78aaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino | Career Retrospective">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMGI2NzFmYTEtZDllNC00ODg0LTgzNTgtZTE0ZWQ2ZWZjYjk3XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg' alt='Al Pacino | Career Retrospective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMGI2NzFmYTEtZDllNC00ODg0LTgzNTgtZTE0ZWQ2ZWZjYjk3XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scarface retains cult status with Al Pacino's 'iconic' performance ...">
+                                <img itemprop="contentUrl url" src='https://themobmuseum.org/wp-content/uploads/2024/06/ala-2jd96w0-scaled.jpg' alt='Scarface retains cult status with Al Pacino's 'iconic' performance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mob Museum" />
+                                </span>
+                                <a href='https://themobmuseum.org/wp-content/uploads/2024/06/ala-2jd96w0-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro, 79, reacts to Al Pacino having a baby at 83 - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/f3cabe3/2147483647/strip/true/crop/5618x8427+0+0/resize/1200x1800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2F48%2Fbd1ab8164807bb66059f99658249%2Fla-photos-1staff-471769-en-1115-al-pacino-robert-de-niro-jlc-29732.jpg' alt='Robert De Niro, 79, reacts to Al Pacino having a baby at 83 - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/f3cabe3/2147483647/strip/true/crop/5618x8427+0+0/resize/1200x1800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2F48%2Fbd1ab8164807bb66059f99658249%2Fla-photos-1staff-471769-en-1115-al-pacino-robert-de-niro-jlc-29732.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rate young Al Pacino (also what do you think of his eyes) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rate-young-al-pacino-also-what-do-you-think-of-his-eyes-v0-syn86c20jdva1.jpg?width=640&crop=smart&auto=webp&s=4f28082dc29060368981b8fc693bf7b182cbf94e' alt='Rate young Al Pacino (also what do you think of his eyes) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rate-young-al-pacino-also-what-do-you-think-of-his-eyes-v0-syn86c20jdva1.jpg?width=640&crop=smart&auto=webp&s=4f28082dc29060368981b8fc693bf7b182cbf94e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Pacino on His Legendary Roles">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/bc9/ccb/936534d0b82b77cf0ffbac92010ee38ea3-06-al-pacino.2x.rvertical.w512.jpg' alt='Al Pacino on His Legendary Roles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/bc9/ccb/936534d0b82b77cf0ffbac92010ee38ea3-06-al-pacino.2x.rvertical.w512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

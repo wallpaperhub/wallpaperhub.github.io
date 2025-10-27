@@ -1,0 +1,129 @@
+<title>Vibrant Blue Graffiti Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover stunning blue graffiti wallpaper that adds an artistic flair to your home. Perfect for accentuating walls, this trendy wallpaper blends creativity with modern design, making any room stand out. Transform your space today with eye-catching street art that resonates with your unique style!">
+                    <meta name="keywords" content="blue graffiti wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-graffiti-wallpaper">
+                            <span itemprop="name">blue graffiti wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue Graffiti Wallpaper for Modern Spaces</h1>
+                <p>Blue graffiti wallpaper brings a vibrant and artistic touch to any space. Perfect for accent walls, it showcases stunning shades of blue combined with striking street art designs. Ideal for urban-themed interiors, this wallpaper transforms boring walls into a lively canvas, attracting attention while reflecting individuality and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dope Blue Graffiti Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241806/Dope-Blue-Graffiti-Wall-Mural.jpg?v=638165397735670000' alt='Dope Blue Graffiti Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241806/Dope-Blue-Graffiti-Wall-Mural.jpg?v=638165397735670000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Wall Graffiti - Blue">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64788/brick-wall-graffiti-blue.jpg?h=699&q=85' alt='Brick Wall Graffiti - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64788/brick-wall-graffiti-blue.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KEARTNZI Custom Colorful Graffiti Wallpaper Blue Spray Paint  Landscape Graffiti Self-Adhesive Mural Decorative for Living Room Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CQ8NxgLAL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: KEARTNZI Custom Colorful Graffiti Wallpaper Blue Spray Paint  Landscape Graffiti Self-Adhesive Mural Decorative for Living Room Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CQ8NxgLAL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Graffiti Wallpaper Design, Peel and Stick Mural for Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/b692a2/3861448592/il_570xN.3861448592_snon.jpg' alt='Blue Graffiti Wallpaper Design, Peel and Stick Mural for Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/b692a2/3861448592/il_570xN.3861448592_snon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Blue">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64846/graffiti-brick-wall-blue.jpg?h=699&q=85' alt='Graffiti Brick Wall - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64846/graffiti-brick-wall-blue.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Graffiti capital letters in blue color w01186v1">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/104000/104040/w01186v1p_600.webp' alt='Wall Mural Photo Wallpaper Graffiti capital letters in blue color w01186v1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/104000/104040/w01186v1p_600.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Blues Cartoon Graffiti Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/255236/Cool-Blues-Cartoon-Graffiti-Pattern-Wallpaper.jpg?v=638165436579570000' alt='Cool Blues Cartoon Graffiti Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/255236/Cool-Blues-Cartoon-Graffiti-Pattern-Wallpaper.jpg?v=638165436579570000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue graffiti Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Blue-graffiti-Wall-Mural-4_1080x.jpeg?v=1658581632' alt='Blue graffiti Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Blue-graffiti-Wall-Mural-4_1080x.jpeg?v=1658581632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: blue, pink, and black graffiti digital wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/49/ec/bf49ec8ef5f6e81d6c7253d8782f3be4.jpg' alt='HD wallpaper: blue, pink, and black graffiti digital wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/49/ec/bf49ec8ef5f6e81d6c7253d8782f3be4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Graffiti Background: Over 184,593 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2141075191/display_1500/stock-vector-abstract-dark-blue-urban-street-art-graffiti-style-vector-illustration-background-template-2141075191.jpg' alt='Blue Graffiti Background: Over 184,593 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2141075191/display_1500/stock-vector-abstract-dark-blue-urban-street-art-graffiti-style-vector-illustration-background-template-2141075191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

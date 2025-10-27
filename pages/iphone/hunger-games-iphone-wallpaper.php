@@ -1,0 +1,129 @@
+<title>Stunning Hunger Games iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="hunger games iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hunger-games-iphone-wallpaper">
+                            <span itemprop="name">hunger games iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hunger Games iPhone Wallpapers for Fans</h1>
+                <p>Transform your device with captivating Hunger Games iPhone wallpapers. Dive into the thrilling world of Panem with stunning visuals featuring your favorite characters, iconic symbols, and memorable quotes. Perfect for fans seeking to personalize their phones while celebrating the epic saga. Download now for a fierce background!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Best Hunger games wallpaper ideas | hunger games, hunger ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/5a/9a/8b/5a9a8b1cb6d059cfa32d834ae1bfedd2.jpg' alt='37 Best Hunger games wallpaper ideas | hunger games, hunger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/5a/9a/8b/5a9a8b1cb6d059cfa32d834ae1bfedd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games Catching Fire Sign Iphone 6 Wallpaper Hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dd/2e/74/dd2e74d2b8c534e65180d1e41eecfb86.jpg' alt='The Hunger Games Catching Fire Sign Iphone 6 Wallpaper Hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dd/2e/74/dd2e74d2b8c534e65180d1e41eecfb86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hunger Games, hunger games, tributes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/871/685/HD-wallpaper-hunger-games-hunger-games-tributes.jpg' alt='Hunger Games, hunger games, tributes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/871/685/HD-wallpaper-hunger-games-hunger-games-tributes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ag75-hunger-games-mockingjay-logo-art - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-ag75-hunger-games-mockingjay-logo-art-33-iphone6-wallpaper.jpg' alt='ag75-hunger-games-mockingjay-logo-art - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-ag75-hunger-games-mockingjay-logo-art-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/86/c6/cd86c6f5519ccab3160f8bf7e04d53c9.jpg' alt='The Hunger Games phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/86/c6/cd86c6f5519ccab3160f8bf7e04d53c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games Aesthetic Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-hunger-games-aesthetic-logo-3re2iua4izzbnj53.jpg' alt='The Hunger Games Aesthetic Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-hunger-games-aesthetic-logo-3re2iua4izzbnj53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Hunger Games Greyscale Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-hunger-games-greyscale-art-e8strifflvumyuvq.jpg' alt='Download The Hunger Games Greyscale Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-hunger-games-greyscale-art-e8strifflvumyuvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hunger games wallpaper : r/Hungergames">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hunger-games-wallpaper-v0-filp8m6sitcb1.jpg?width=750&format=pjpg&auto=webp&s=64b914d51aba531c1aba855d1e11afc0dd3127b2' alt='Hunger games wallpaper : r/Hungergames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hunger-games-wallpaper-v0-filp8m6sitcb1.jpg?width=750&format=pjpg&auto=webp&s=64b914d51aba531c1aba855d1e11afc0dd3127b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hunger Games Phone Backgrounds | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/6c6a5062-f5c3-4829-b032-90920cbabb6d/scale-to-width/755' alt='Hunger Games Phone Backgrounds | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hunger Games Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/6c6a5062-f5c3-4829-b032-90920cbabb6d/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A few wallpapers : r/Hungergames">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nw92hpt1hgk71.jpg?width=451&format=pjpg&auto=webp&s=e443192138d047edf9d0c333669b334da5155939' alt='A few wallpapers : r/Hungergames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="451">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nw92hpt1hgk71.jpg?width=451&format=pjpg&auto=webp&s=e443192138d047edf9d0c333669b334da5155939' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

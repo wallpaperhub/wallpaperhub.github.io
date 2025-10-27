@@ -1,0 +1,129 @@
+<title>High-Quality Mario Wallpapers for iPhone - Download Now!</title>
+                    <meta name="description" content="Discover a curated selection of high-quality Mario wallpapers for your iPhone. Transform your device with vibrant designs that showcase your favorite characters and moments from the beloved franchise. Perfect for every Mario fan! Download now for a fresh look!">
+                    <meta name="keywords" content="high quality mario wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/high-quality-mario-wallpaper-iphone">
+                            <span itemprop="name">high quality mario wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Mario Wallpapers for iPhone - Download Now!</h1>
+                <p>Enhance your iPhone with stunning high-quality Mario wallpapers! Choose from vibrant designs featuring your favorite characters and iconic scenes from the Mario universe. Whether you prefer classic pixel art or modern graphics, our collection has something for every fan. Download your perfect wallpaper today and bring a touch of nostalgia to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a mobile wallpaper from the new Super Mario Bros 2022 poster ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lg9p3vvtdvr91.png?width=640&crop=smart&auto=webp&s=fd24c92a99790ece59043334cfd2e4e1b905aa08' alt='Made a mobile wallpaper from the new Super Mario Bros 2022 poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lg9p3vvtdvr91.png?width=640&crop=smart&auto=webp&s=fd24c92a99790ece59043334cfd2e4e1b905aa08' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpaper iPhone - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/61/b9/1c61b9761e142197371431868537e5f2.jpg' alt='Mario Wallpaper iPhone - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/61/b9/1c61b9761e142197371431868537e5f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don your smartphone with this hi-res Mario wallpaper - Infendo ...">
+                                <img itemprop="contentUrl url" src='http://www.infendo.com/wp-content/uploads/2011/12/MARIO_WALLPAPER-640x961.jpg' alt='Don your smartphone with this hi-res Mario wallpaper - Infendo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Infendo" />
+                                </span>
+                                <a href='http://www.infendo.com/wp-content/uploads/2011/12/MARIO_WALLPAPER-640x961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super mario on sale bros wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/mario-the-super-mario-bros-770@1@j-phone-4k.jpg' alt='Super mario on sale bros wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/mario-the-super-mario-bros-770@1@j-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/7c/b4/337cb43807fd1e2651654a0d7a67ee08.jpg' alt='Mario Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/7c/b4/337cb43807fd1e2651654a0d7a67ee08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Bros. Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/c/3/942152-1280x2203-iphone-hd-mario-bros-wallpaper-image.jpg' alt='Mario Bros. Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/c/3/942152-1280x2203-iphone-hd-mario-bros-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2016/12/super-mario-iphone-wallpaper-jump.jpg' alt='Super Mario wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2016/12/super-mario-iphone-wallpaper-jump.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Mario Bros wallpapers for iPhone   ️  ‍    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/3d/73/613d7399db5d402dc209c1d7714c05b5.jpg' alt='Cool Mario Bros wallpapers for iPhone   ️  ‍    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/3d/73/613d7399db5d402dc209c1d7714c05b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Live Wallpaper 4K - AI Games Wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7289859822705544453&location=0&aid=1988' alt='Super Mario Live Wallpaper 4K - AI Games Wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7289859822705544453&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpaper Discover more Background, cool, high resolution ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/75/4a/44754a15a6c7a4449e3fcee35e40c504.jpg' alt='Mario Wallpaper Discover more Background, cool, high resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/75/4a/44754a15a6c7a4449e3fcee35e40c504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

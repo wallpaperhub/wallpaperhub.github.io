@@ -1,0 +1,129 @@
+<title>Understanding Jury Duty: Your Civic Responsibility</title>
+                    <meta name="description" content="Learn why jury duty matters and how it plays a crucial role in ensuring justice. Discover your importance in the legal system and the impact of citizen participation in trials. Embrace your civic duty and understand your rights and responsibilities as a juror.">
+                    <meta name="keywords" content="why do we have jury duty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-do-we-have-jury-duty">
+                            <span itemprop="name">why do we have jury duty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Jury Duty: Your Civic Responsibility</h1>
+                <p>Jury duty is a civic responsibility that ensures a fair legal system. It allows citizens to participate in the justice process, providing a diverse perspective in trials. By serving, individuals help uphold the right to a jury of peers, support accountability, and contribute to community decision-making in legal matters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Do Some People Get Called for Jury Duty More Than Others ...">
+                                <img itemprop="contentUrl url" src='https://cdn.hswstatic.com/gif/jury-duty-3.jpg' alt='Why Do Some People Get Called for Jury Duty More Than Others ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People | HowStuffWorks" />
+                                </span>
+                                <a href='https://cdn.hswstatic.com/gif/jury-duty-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Jury Duty Matters: A Citizen's Guide to Constitutional Action">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61TtTVh7DNL._AC_UF1000,1000_QL80_.jpg' alt='Why Jury Duty Matters: A Citizen's Guide to Constitutional Action'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61TtTVh7DNL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Jury Duty and Why do You Have to Serve? | Cillick & Smith ...">
+                                <img itemprop="contentUrl url" src='https://cillickandsmith.com/wp-content/uploads/2016/11/jury-duty-trial-800x450.jpg' alt='What is Jury Duty and Why do You Have to Serve? | Cillick & Smith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cillick & Smith" />
+                                </span>
+                                <a href='https://cillickandsmith.com/wp-content/uploads/2016/11/jury-duty-trial-800x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jury Duty Meaning and Definition | OnPay">
+                                <img itemprop="contentUrl url" src='https://cdn.shortpixel.ai/spai/q_lossy+w_971+to_webp+ret_img/onpay.com/wp-content/uploads/2024/05/Jury-duty-graphic.png' alt='Jury Duty Meaning and Definition | OnPay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnPay" />
+                                </span>
+                                <a href='https://cdn.shortpixel.ai/spai/q_lossy+w_971+to_webp+ret_img/onpay.com/wp-content/uploads/2024/05/Jury-duty-graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is It Possible to Get Out of Jury Duty in California? - Daniel ...">
+                                <img itemprop="contentUrl url" src='https://petrovlawfirm.com/wp-content/uploads/2022/09/Is-It-Possible-to-Get-Out-of-Jury-Duty-in-California.jpg' alt='Is It Possible to Get Out of Jury Duty in California? - Daniel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1188">
+                                <meta itemprop="height" content="882">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Petrov Personal Injury Lawyers" />
+                                </span>
+                                <a href='https://petrovlawfirm.com/wp-content/uploads/2022/09/Is-It-Possible-to-Get-Out-of-Jury-Duty-in-California.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FELONS, JURY DUTY, AND DISCRIMINATION | Rehmeyer & Allatt">
+                                <img itemprop="contentUrl url" src='https://arjalaw.com/wp-content/uploads/2021/07/jury.jpeg' alt='FELONS, JURY DUTY, AND DISCRIMINATION | Rehmeyer & Allatt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State College Personal Injury and Criminal Defense Attorneys" />
+                                </span>
+                                <a href='https://arjalaw.com/wp-content/uploads/2021/07/jury.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Have Jury Duty On Tuesday- Why is this so important? - JACKSON ...">
+                                <img itemprop="contentUrl url" src='https://www.jacksonandwilson.com/images/blog/jury-summons-for-mitch-jackson-300x253.jpg' alt='I Have Jury Duty On Tuesday- Why is this so important? - JACKSON ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jackson & Wilson" />
+                                </span>
+                                <a href='https://www.jacksonandwilson.com/images/blog/jury-summons-for-mitch-jackson-300x253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confessions of a Juror: How Mandatory Jury Duty Impacts Americans">
+                                <img itemprop="contentUrl url" src='https://s.barprephero.com/wp-content/uploads/2019/11/bph-juror2.png' alt='Confessions of a Juror: How Mandatory Jury Duty Impacts Americans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bar Prep Hero" />
+                                </span>
+                                <a href='https://s.barprephero.com/wp-content/uploads/2019/11/bph-juror2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jury Duty is a Privilege – Eastside">
+                                <img itemprop="contentUrl url" src='https://eastside-online.org/wp-content/uploads/2016/05/640.jpg' alt='Jury Duty is a Privilege – Eastside'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastside" />
+                                </span>
+                                <a href='https://eastside-online.org/wp-content/uploads/2016/05/640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confessions of a Juror: How Mandatory Jury Duty Impacts Americans">
+                                <img itemprop="contentUrl url" src='https://s.barprephero.com/wp-content/uploads/2019/11/bph-juror3.png' alt='Confessions of a Juror: How Mandatory Jury Duty Impacts Americans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bar Prep Hero" />
+                                </span>
+                                <a href='https://s.barprephero.com/wp-content/uploads/2019/11/bph-juror3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

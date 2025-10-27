@@ -1,0 +1,129 @@
+<title>Explora el Mundo de La Granja de Zenón</title>
+                    <meta name="description" content="Descubre la mágica serie "La Granja de Zenón", donde la diversión se mezcla con valiosas lecciones de vida. Acompaña a Zenón y sus amigos animales en emocionantes aventuras que enseñan amistad y respeto por la naturaleza, perfectas para los más pequeños. ¡No te lo pierdas!">
+                    <meta name="keywords" content="la granja de zenon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/la-granja-de-zenon-background">
+                            <span itemprop="name">la granja de zenon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explora el Mundo de La Granja de Zenón</h1>
+                <p>La Granja de Zenón es una serie animada argentina creada por Manuel González, que se centra en las divertidas aventuras de Zenón, un granjero cariñoso y sus animales, como la gallina Pepa y el pato Lucas. Su objetivo es enseñar valores como la amistad, el trabajo en equipo y el respeto por la naturaleza, atrayendo a niños de diversas edades.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : La Granja De Zenon Birthday Party Background Cloth, 7x5FT, for  Events, Weddings, Newborns, Birthdays, Baby Showers, Product Photography,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qz4xnJKtL.jpg' alt='Amazon.com : La Granja De Zenon Birthday Party Background Cloth, 7x5FT, for  Events, Weddings, Newborns, Birthdays, Baby Showers, Product Photography,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qz4xnJKtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Granja de Zenon Kids Birthday Party Backdrop">
+                                <img itemprop="contentUrl url" src='http://www.webackdrops.com/cdn/shop/files/JL973A.jpg?v=1713324996' alt='La Granja de Zenon Kids Birthday Party Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="webackdrops" />
+                                </span>
+                                <a href='http://www.webackdrops.com/cdn/shop/files/JL973A.jpg?v=1713324996' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize La Granja De Zenon Photo Backdrop Kids Birthday Background Party  Photography Baby Child Banners">
+                                <img itemprop="contentUrl url" src='http://www.dreamybackdrop.com/cdn/shop/files/2023-09-01_8.55.36_1024x.png?v=1693529873' alt='Customize La Granja De Zenon Photo Backdrop Kids Birthday Background Party  Photography Baby Child Banners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='http://www.dreamybackdrop.com/cdn/shop/files/2023-09-01_8.55.36_1024x.png?v=1693529873' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Granja De Zenon Backdrop Happy Birthday 5x3 Red Barn Farm Animals  Background Granja Theme for Kids First">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RMFZ3OXVL._AC_UF894,1000_QL80_.jpg' alt='La Granja De Zenon Backdrop Happy Birthday 5x3 Red Barn Farm Animals  Background Granja Theme for Kids First'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RMFZ3OXVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Granja De Zenon Farm Round Backdrop for Kid's Birthday">
+                                <img itemprop="contentUrl url" src='https://www.webackdrops.com/cdn/shop/files/red-barn-and-farm-characters-round-event-backdrop.jpg?v=1734333539&width=416' alt='La Granja De Zenon Farm Round Backdrop for Kid's Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="webackdrops" />
+                                </span>
+                                <a href='https://www.webackdrops.com/cdn/shop/files/red-barn-and-farm-characters-round-event-backdrop.jpg?v=1734333539&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granja de Zenon backdrop Covers, Polyester Props">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597364/r/il/909164/5036868704/il_570xN.5036868704_kmor.jpg' alt='Granja de Zenon backdrop Covers, Polyester Props'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597364/r/il/909164/5036868704/il_570xN.5036868704_kmor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Granja de zenon Backdrop Banner Party Supplies Poster Movie Theme  Background for Photography Kids Birthday Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/8c54b502-7a5c-423e-b94d-af189f7ded1f.fb733b40c7482c727b36621638ee4375.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='La Granja de zenon Backdrop Banner Party Supplies Poster Movie Theme  Background for Photography Kids Birthday Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/8c54b502-7a5c-423e-b94d-af189f7ded1f.fb733b40c7482c727b36621638ee4375.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize La Granja De Zenon Round Backdrop Farm Kids Photo Birthday Circle  Background Cylinder Plinth Covers">
+                                <img itemprop="contentUrl url" src='https://www.dreamybackdrop.com/cdn/shop/files/70_a89f5b24-7d07-4c87-ad1a-cd034efd454e_800x.jpg?v=1693529711' alt='Customize La Granja De Zenon Round Backdrop Farm Kids Photo Birthday Circle  Background Cylinder Plinth Covers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='https://www.dreamybackdrop.com/cdn/shop/files/70_a89f5b24-7d07-4c87-ad1a-cd034efd454e_800x.jpg?v=1693529711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Granja De Zen N Theme Party Backdrop The Zenon Farm Baby Shower Kids  Birthday Party Home Decor Poster Photography Background - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S2e0f35ebb63d455da2f83fcd739c6736I.jpg' alt='La Granja De Zen N Theme Party Backdrop The Zenon Farm Baby Shower Kids  Birthday Party Home Decor Poster Photography Background - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S2e0f35ebb63d455da2f83fcd739c6736I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YRIOWMI Farm Animals Theme Party Decorations ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ANnJHTJEL.jpg' alt='YRIOWMI Farm Animals Theme Party Decorations ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ANnJHTJEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Marcus Rashford: Football's Rising Star and Activist</title>
+                    <meta name="description" content="Discover the journey of Marcus Rashford, the dynamic Manchester United forward and England international. Learn about his impressive career, philanthropic efforts to fight child food poverty, and why he's a role model for aspiring athletes everywhere. Stay updated on his latest achievements!">
+                    <meta name="keywords" content="marcus rashford">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marcus-rashford">
+                            <span itemprop="name">marcus rashford</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Marcus Rashford: Football's Rising Star and Activist</h1>
+                <p>Marcus Rashford is a talented English footballer who plays as a forward for Manchester United and the England national team. Known for his speed, skill, and goal-scoring ability, Rashford has made a significant impact on the pitch since his debut. Off the field, he is also celebrated for his activism, especially in combatting child food poverty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg/640px-Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg' alt='Marcus Rashford - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg/640px-Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manchester United's 'unstoppable' Marcus Rashford hailed after FA ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2023/01/07/10/1245968292.jpg?width=1200&height=1200&fit=crop' alt='Manchester United's 'unstoppable' Marcus Rashford hailed after FA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2023/01/07/10/1245968292.jpg?width=1200&height=1200&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford sums up why he left Man Utd in three words after ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/ZokubqwfnrquuJsiQ7EaLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNg--/https://media.zenfs.com/en/birmingham_live_117/06e8b6beaef187aa81dc2fa76fc31e39' alt='Marcus Rashford sums up why he left Man Utd in three words after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sport UK" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/ZokubqwfnrquuJsiQ7EaLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNg--/https://media.zenfs.com/en/birmingham_live_117/06e8b6beaef187aa81dc2fa76fc31e39' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford proving ex-Man Utd ace spot on as Jadon Sancho ...">
+                                <img itemprop="contentUrl url" src='https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/5998295.jpg?r=1741094504690' alt='Marcus Rashford proving ex-Man Utd ace spot on as Jadon Sancho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Express" />
+                                </span>
+                                <a href='https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/5998295.jpg?r=1741094504690' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford transfer news: Aston Villa sign Manchester United ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/25/02/1600x900/skysports-marcus-rashford-aston-villa_6818084.jpg?20250202222052' alt='Marcus Rashford transfer news: Aston Villa sign Manchester United ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/25/02/1600x900/skysports-marcus-rashford-aston-villa_6818084.jpg?20250202222052' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford | Forward | Man Utd First Team Player Profile ...">
+                                <img itemprop="contentUrl url" src='https://assets.manutd.com/AssetPicker/images/0/0/20/88/1333337/10-Marcus-Rashford1719824071986.png' alt='Marcus Rashford | Forward | Man Utd First Team Player Profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manchester United" />
+                                </span>
+                                <a href='https://assets.manutd.com/AssetPicker/images/0/0/20/88/1333337/10-Marcus-Rashford1719824071986.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Utd proven right about Marcus Rashford as Aston Villa dressing ...">
+                                <img itemprop="contentUrl url" src='https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Marcus-Rashford-is-on-loan-at-Aston-Villa-5996855.jpg?r=1741040421027' alt='Man Utd proven right about Marcus Rashford as Aston Villa dressing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Express" />
+                                </span>
+                                <a href='https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Marcus-Rashford-is-on-loan-at-Aston-Villa-5996855.jpg?r=1741040421027' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford was offered £400,000-a-week deal by PSG as Man Utd ...">
+                                <img itemprop="contentUrl url" src='https://assets.goal.com/images/v3/blt4da9dc0f871ec3d6/Marcus-Rashford-Manchester-United-2022-23.jpg' alt='Marcus Rashford was offered £400,000-a-week deal by PSG as Man Utd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goal.com" />
+                                </span>
+                                <a href='https://assets.goal.com/images/v3/blt4da9dc0f871ec3d6/Marcus-Rashford-Manchester-United-2022-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manchester United Marcus Rashford 24-25 Illustration Print ...">
+                                <img itemprop="contentUrl url" src='https://images.footballfanatics.com/manchester-united/manchester-united-marcus-rashford-24-25-illustration-print-unframed-a3_ss5_p-202165461+u-ilxijg1nds8ecjztcpns+v-xjm7sbujghp0k4pxuybv.jpg?_hv=2&w=600' alt='Manchester United Marcus Rashford 24-25 Illustration Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eu.lids.com" />
+                                </span>
+                                <a href='https://images.footballfanatics.com/manchester-united/manchester-united-marcus-rashford-24-25-illustration-print-unframed-a3_ss5_p-202165461+u-ilxijg1nds8ecjztcpns+v-xjm7sbujghp0k4pxuybv.jpg?_hv=2&w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marcus Rashford is already causing Aston Villa problems">
+                                <img itemprop="contentUrl url" src='https://icdn.caughtoffside.com/wp-content/uploads/2025/02/marcus-rashford-aston-villa-barcelona-1.jpg' alt='Marcus Rashford is already causing Aston Villa problems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2199">
+                                <meta itemprop="height" content="1626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CaughtOffside" />
+                                </span>
+                                <a href='https://icdn.caughtoffside.com/wp-content/uploads/2025/02/marcus-rashford-aston-villa-barcelona-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

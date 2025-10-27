@@ -1,0 +1,129 @@
+<title>Stunning iPhone Original Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore our collection of iPhone original wallpapers that elevate your device's look. With a variety of stunning visuals, find the perfect wallpaper to match your personality and taste. Download now to customize your iPhone with beautiful backgrounds that stand out!">
+                    <meta name="keywords" content="iphone original wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-original-wallpaper">
+                            <span itemprop="name">iphone original wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Original Wallpapers for Every Style</h1>
+                <p>Discover the beauty of iPhone original wallpapers, designed to enhance your device's aesthetic. From breathtaking landscapes to captivating abstract designs, these wallpapers are crafted specifically for iPhone screens. Download your favorites and personalize your home and lock screens with stunning imagery that reflects your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is your favorite iPhone and ios default wallpaper? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-ywofq9slqq4c1.jpg?width=872&format=pjpg&auto=webp&s=1c833f00f196ee239c43553090c7c742baa8a25b' alt='what is your favorite iPhone and ios default wallpaper? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-ywofq9slqq4c1.jpg?width=872&format=pjpg&auto=webp&s=1c833f00f196ee239c43553090c7c742baa8a25b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Original iphone wallpaper ideas | original iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/42/2b/6a/422b6a0402b5a54555cd20eb2d8f5b43.png' alt='8 Original iphone wallpaper ideas | original iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/42/2b/6a/422b6a0402b5a54555cd20eb2d8f5b43.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is your favorite iPhone and ios default wallpaper? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=1125&format=pjpg&auto=webp&s=56a742de7e08e1be0ead5f3699f82c3eff5ecfa7' alt='what is your favorite iPhone and ios default wallpaper? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=1125&format=pjpg&auto=webp&s=56a742de7e08e1be0ead5f3699f82c3eff5ecfa7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original iPhone Wallpaper (1st Gen) for Download">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2017/06/original-iphone-wallpaper-theearth.jpg' alt='Original iPhone Wallpaper (1st Gen) for Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2017/06/original-iphone-wallpaper-theearth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 wallpaper: download full resolution">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/?attachment_id=811133' alt='iOS 16 wallpaper: download full resolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="3704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/?attachment_id=811133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone original 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://techandall.com/wp-content/uploads/2021/07/ios-15-iPhone-wallpaper-from-ispazio-dark.png' alt='Iphone original 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://techandall.com/wp-content/uploads/2021/07/ios-15-iPhone-wallpaper-from-ispazio-dark.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers in High Quality: Original, Apple, Abstract ...">
+                                <img itemprop="contentUrl url" src='https://www.mactrast.com/wp-content/uploads/2017/11/iphone_x_wallpaper_blur_2.jpg' alt='iPhone Wallpapers in High Quality: Original, Apple, Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='https://www.mactrast.com/wp-content/uploads/2017/11/iphone_x_wallpaper_blur_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iPhone 16 Wallpaper Here - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/94911/453966/453966.jpg' alt='Download the Official iPhone 16 Wallpaper Here - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="2868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/94911/453966/453966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iOS 17 wallpapers for iPhone in 4K (official) - iGeeksBlog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/dd/b0/48ddb007f80e42fd8c18bbe06567040f.jpg' alt='Download iOS 17 wallpapers for iPhone in 4K (official) - iGeeksBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/dd/b0/48ddb007f80e42fd8c18bbe06567040f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro - Silver (Light) – Stock Wallpaper – Original from ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-silver-ispazio-473x1024.png' alt='iPhone 11 Pro - Silver (Light) – Stock Wallpaper – Original from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-silver-ispazio-473x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

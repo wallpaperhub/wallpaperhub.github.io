@@ -1,0 +1,129 @@
+<title>Stunning Space Minimalist Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover the perfect space minimalist wallpaper for a chic and celestial look. Elevate your digital aesthetic with beautifully simple designs, ideal for any device. Browse our collection now for a stylish backdrop that complements your minimalistic vibe!">
+                    <meta name="keywords" content="space minimalist wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-minimalist-wallpaper">
+                            <span itemprop="name">space minimalist wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Minimalist Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning space minimalist wallpaper. These unique designs blend celestial themes with simplicity, making your screen pop while keeping it uncluttered. Ideal for stargazers and minimalism enthusiasts alike, find the perfect backdrop that inspires your creativity and soothes your mind with cosmic beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Space Minimal Wallpaper, HD Minimalist 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/moon-space-minimal_a2ZpaWWUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Moon Space Minimal Wallpaper, HD Minimalist 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/moon-space-minimal_a2ZpaWWUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MINIMALIST PHONE WALLPAPER COLLECTION 189">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f9/44/cf/f944cf79b2ab4a40d0898de9b09bc36f.jpg' alt='MINIMALIST PHONE WALLPAPER COLLECTION 189'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f9/44/cf/f944cf79b2ab4a40d0898de9b09bc36f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Space [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6o5f99m0t2a31.png' alt='Minimalist Space [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6o5f99m0t2a31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Moon Minimalist Sci Fi Astronaut 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/102/1023812.jpg' alt='Download Moon Minimalist Sci Fi Astronaut 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/102/1023812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper space, stars, planet, vector, solar system for mobile ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3450x2065/4/8b/kosmos-planety-solnechnaia-sistema-zvezdy-vektor.jpg' alt='Wallpaper space, stars, planet, vector, solar system for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3450">
+                                <meta itemprop="height" content="2065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3450x2065/4/8b/kosmos-planety-solnechnaia-sistema-zvezdy-vektor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Exploring the Minimalist Cosmos Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-space-1080-x-1920-wallpaper-5v0uyqcivjaemoir.jpg' alt='Download Exploring the Minimalist Cosmos Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-space-1080-x-1920-wallpaper-5v0uyqcivjaemoir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Minimal Space Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6590692.jpg' alt='4k Minimal Space Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6590692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Aesthetic Minimalist Planet Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/space-aesthetic-minimalist-planet-fxd1t2r5ualp99i3.jpg' alt='Space Aesthetic Minimalist Planet Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/space-aesthetic-minimalist-planet-fxd1t2r5ualp99i3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Space Satellite Wallpaper, HD Minimalist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/minimal-space-satellite_a2plZWqUmZqaraWkpJRpZW5rrWdma2U.jpg' alt='Minimal Space Satellite Wallpaper, HD Minimalist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/minimal-space-satellite_a2plZWqUmZqaraWkpJRpZW5rrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Space Wallpaper in JPG - Download | Template.net">
+                                <img itemprop="contentUrl url" src='https://images.template.net/97269/minimalist-space-wallpaper-0p5tp.jpg' alt='Minimalist Space Wallpaper in JPG - Download | Template.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/97269/minimalist-space-wallpaper-0p5tp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

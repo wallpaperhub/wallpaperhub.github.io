@@ -1,0 +1,129 @@
+<title>Trending Phone Wallpapers 2023: Fresh Designs for Your Device</title>
+                    <meta name="description" content="Elevate your device's aesthetic with the hottest phone wallpapers of 2023! Explore vibrant designs, minimalist art, and nature-inspired themes that reflect your unique style. Stay updated on the latest trends and personalize your phone effortlessly. Perfect for anyone looking to refresh their home screen!">
+                    <meta name="keywords" content="trending phone wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/trending-phone-wallpaper-2023">
+                            <span itemprop="name">trending phone wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trending Phone Wallpapers 2023: Fresh Designs for Your Device</h1>
+                <p>Discover the latest trends in phone wallpapers for 2023! From vibrant abstract designs to serene nature scenes, there's something to suit every style. Embrace personalized aesthetics with wallpapers featuring bold colors, minimalist art, and pop culture references. Refresh your device's look and showcase your personality with the trending styles of the year!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/blog/wp-content/uploads/2023/03/Colorful-Rubiks-Cube-3d-Android-Phone-Wallpaper-473x1024.jpg' alt='Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/blog/wp-content/uploads/2023/03/Colorful-Rubiks-Cube-3d-Android-Phone-Wallpaper-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year IPhone - IPhone : iPhone, Happy New Year 2023, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/989/637/HD-wallpaper-happy-new-year-iphone-iphone-iphone-happy-new-year-2023.jpg' alt='Happy New Year IPhone - IPhone : iPhone, Happy New Year 2023, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/989/637/HD-wallpaper-happy-new-year-iphone-iphone-iphone-happy-new-year-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...">
+                                <img itemprop="contentUrl url" src='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/paper-trends-3.jpg' alt='The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Jade Design" />
+                                </span>
+                                <a href='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/paper-trends-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/blog/wp-content/uploads/2023/03/Neon-Colorful-Spiral-3d-Android-Phone-Wallpaper-473x1024.jpg' alt='Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/blog/wp-content/uploads/2023/03/Neon-Colorful-Spiral-3d-Android-Phone-Wallpaper-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Iphone wallpaper ideas in 2025 | iphone wallpaper, phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0b/ef/6e/0bef6e1158065d1613429ca2ef5cf5a5.jpg' alt='8 Iphone wallpaper ideas in 2025 | iphone wallpaper, phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0b/ef/6e/0bef6e1158065d1613429ca2ef5cf5a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/blog/wp-content/uploads/2023/03/Flower-Water-3d-Android-Phone-Wallpaper-576x1024.jpg' alt='Best Free Wallpapers For Android Phones in 2023 - Wallpapers.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/blog/wp-content/uploads/2023/03/Flower-Water-3d-Android-Phone-Wallpaper-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature phone wallpapers HD 4K 2023 | No Ads | Lock & Home Screen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91pSAzlJ9XL.png' alt='Nature phone wallpapers HD 4K 2023 | No Ads | Lock & Home Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91pSAzlJ9XL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Greetings, 2022, 2023, 2024, fireworks, fireworks happy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/76/113/HD-wallpaper-festive-greetings-2022-2023-2024-fireworks-fireworks-happy-new-year-bright-light-night-sky-neon-glowing-colors-colorful-oled-amoled-jet-black-background-amazing-ultra-8k-high-quality-trending.jpg' alt='Festive Greetings, 2022, 2023, 2024, fireworks, fireworks happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/76/113/HD-wallpaper-festive-greetings-2022-2023-2024-fireworks-fireworks-happy-new-year-bright-light-night-sky-neon-glowing-colors-colorful-oled-amoled-jet-black-background-amazing-ultra-8k-high-quality-trending.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper trends that will be big in 2023 — wallpaperdirect BLOG">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.wallpaperdirect.com/wp-content/uploads/2022/12/2023-image.jpg?fit=1000%2C1000&ssl=1' alt='Wallpaper trends that will be big in 2023 — wallpaperdirect BLOG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper ideas" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.wallpaperdirect.com/wp-content/uploads/2022/12/2023-image.jpg?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12210079.jpg' alt='Phone 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12210079.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

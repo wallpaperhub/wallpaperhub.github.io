@@ -1,0 +1,129 @@
+<title>Understanding Geology: Insights into Earth's Processes</title>
+                    <meta name="description" content="Explore the essentials of geology, from Earth's materials and processes to its fascinating history. Discover how geology impacts natural resource management and environmental protection in a concise guide tailored for enthusiasts and students alike.">
+                    <meta name="keywords" content="geology background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/geology-background">
+                            <span itemprop="name">geology background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Geology: Insights into Earth's Processes</h1>
+                <p>Geology is the scientific study of the Earth, focusing on its materials, processes, and history. It encompasses the analysis of rocks, minerals, and geological formations, revealing how Earth's structure has evolved over time. Understanding geology is crucial for natural resource management, environmental protection, and hazard assessment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Geology Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1484352491158-830ef5692bb3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VvbG9neXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Geology Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1484352491158-830ef5692bb3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VvbG9neXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology Wallpapers (176 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/7/2/1194881-3840x2160-desktop-4k-geology-background.jpg' alt='Geology Wallpapers (176 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/7/2/1194881-3840x2160-desktop-4k-geology-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Geology Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661951651092-e0fcb31e70ba?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z2VvbG9neXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Geology Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661951651092-e0fcb31e70ba?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z2VvbG9neXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/closeup-shot-cliff-perfect-background_181624-22101.jpg' alt='Geology Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/closeup-shot-cliff-perfect-background_181624-22101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology Photos, Download The BEST Free Geology Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/838981/pexels-photo-838981.jpeg?cs=srgb&dl=pexels-martinskrastins-838981.jpg&fm=jpg' alt='Geology Photos, Download The BEST Free Geology Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/838981/pexels-photo-838981.jpeg?cs=srgb&dl=pexels-martinskrastins-838981.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology Rocks Stock Photos and Pictures - 1,672,531 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2250966995/display_1500/stock-photo-textured-background-of-rough-uneven-surface-of-brown-and-purple-stone-wall-with-cracks-2250966995.jpg' alt='Geology Rocks Stock Photos and Pictures - 1,672,531 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2250966995/display_1500/stock-photo-textured-background-of-rough-uneven-surface-of-brown-and-purple-stone-wall-with-cracks-2250966995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology | 40 best free background, geology, outdoor, and rock ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1556741495-4a9f3c6935e8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwxNDc1NTI0fHxlbnwwfHx8fHw%3D' alt='Geology | 40 best free background, geology, outdoor, and rock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1556741495-4a9f3c6935e8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwxNDc1NTI0fHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geology Photos, Download The BEST Free Geology Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg?cs=srgb&dl=pexels-photospublic-33041.jpg&fm=jpg' alt='Geology Photos, Download The BEST Free Geology Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4167">
+                                <meta itemprop="height" content="2541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg?cs=srgb&dl=pexels-photospublic-33041.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="845,900+ Rock Geology Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/490110908/photo/stone-formation-showing-fault-lines.jpg?s=612x612&w=0&k=20&c=8yx_L0uMhSnq9D39tqmFMdu5VFBReEzV6bzwZ8XhF98=' alt='845,900+ Rock Geology Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/490110908/photo/stone-formation-showing-fault-lines.jpg?s=612x612&w=0&k=20&c=8yx_L0uMhSnq9D39tqmFMdu5VFBReEzV6bzwZ8XhF98=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Geological Society">
+                                <img itemprop="contentUrl url" src='https://www.geolsoc.org.uk/~/media/shared/images/library/Picture%20library/Zoom%20Wallpapers/gsl_wp_blue_map.jpg?la=en' alt='The Geological Society'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Geological Society" />
+                                </span>
+                                <a href='https://www.geolsoc.org.uk/~/media/shared/images/library/Picture%20library/Zoom%20Wallpapers/gsl_wp_blue_map.jpg?la=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Floral Birthday Invitations for Every Celebration</title>
+                    <meta name="description" content="Discover beautiful floral birthday invitations that add elegance to your celebration. Perfect for all ages and occasions, our designs are vibrant and inviting. Make your birthday memorable with the perfect invite that reflects your style and sets the tone for a delightful event!">
+                    <meta name="keywords" content="floral birthday invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/floral-birthday-invitations">
+                            <span itemprop="name">floral birthday invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Floral Birthday Invitations for Every Celebration</h1>
+                <p>Celebrate in style with floral birthday invitations that bring a touch of elegance to your special day! Bursting with vibrant colors and exquisite designs, our invites set the perfect tone for a memorable gathering. Whether it's a garden party or a cozy get-together, let the beauty of nature welcome your guests!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Floral Birthday Party Invitation Template - Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8299764/r/il/c50e2c/1953678471/il_fullxfull.1953678471_qemb.jpg' alt='Printable Floral Birthday Party Invitation Template - Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8299764/r/il/c50e2c/1953678471/il_fullxfull.1953678471_qemb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Floral Birthday Party Invitation | Paper Source">
+                                <img itemprop="contentUrl url" src='https://s7d5.scene7.com/is/image/PaperSource/SO817-182613214208?resMode=sharp2&op_usm=1,1,35,1&fmt=jpg&qlt=70&fit=constrain,1&wid=1000&hei=1000' alt='Rainbow Floral Birthday Party Invitation | Paper Source'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Source" />
+                                </span>
+                                <a href='https://s7d5.scene7.com/is/image/PaperSource/SO817-182613214208?resMode=sharp2&op_usm=1,1,35,1&fmt=jpg&qlt=70&fit=constrain,1&wid=1000&hei=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 1,626+ Floral Birthday Invitations Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFHYdR-Vc0/1/0/1600w/canva-white-floral-watercolor-birthday-invitation-landscape-89qWeHNm958.jpg' alt='Customize 1,626+ Floral Birthday Invitations Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFHYdR-Vc0/1/0/1600w/canva-white-floral-watercolor-birthday-invitation-landscape-89qWeHNm958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Fill-in Invitations with Envelopes, Perfect for Bridal Shower, Baby  Shower, Wedding, Rehearsal Dinner, Birthday Party, Anniversary Party (25 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61S8DDyo+gS._AC_UF1000,1000_QL80_.jpg' alt='Floral Fill-in Invitations with Envelopes, Perfect for Bridal Shower, Baby  Shower, Wedding, Rehearsal Dinner, Birthday Party, Anniversary Party (25 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61S8DDyo+gS._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graceful Floral Birthday Invitation Template Online Maker">
+                                <img itemprop="contentUrl url" src='https://printsbery.com/sites/default/files/styles/printsbery_product_image/public/photos/graceful-floral-birthday-invitation.jpeg' alt='Graceful Floral Birthday Invitation Template Online Maker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printsbery" />
+                                </span>
+                                <a href='https://printsbery.com/sites/default/files/styles/printsbery_product_image/public/photos/graceful-floral-birthday-invitation.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Birthday Invitations | Customise And Print Online - Paperlust">
+                                <img itemprop="contentUrl url" src='https://s3-ap-southeast-2.amazonaws.com/assets.paperlust.co/uploads/design/3360/thum_/floral60th.jpg' alt='Floral Birthday Invitations | Customise And Print Online - Paperlust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperlust" />
+                                </span>
+                                <a href='https://s3-ap-southeast-2.amazonaws.com/assets.paperlust.co/uploads/design/3360/thum_/floral60th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustically Floral 5x7 Stationery Card by Petite Lemon | Shutterfly">
+                                <img itemprop="contentUrl url" src='https://c4.staticsfly.com/asset/fetch/cs/STATIONERYCARD_5x7-23003-24634-MERCHLARGE_FRONT-TICKET/thumbnail.preview/v1' alt='Rustically Floral 5x7 Stationery Card by Petite Lemon | Shutterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterfly" />
+                                </span>
+                                <a href='https://c4.staticsfly.com/asset/fetch/cs/STATIONERYCARD_5x7-23003-24634-MERCHLARGE_FRONT-TICKET/thumbnail.preview/v1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Floral Birthday Invitation Template Fall Women Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8173857/r/il/7da4d2/5936905993/il_fullxfull.5936905993_j5cq.jpg' alt='Burgundy Floral Birthday Invitation Template Fall Women Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8173857/r/il/7da4d2/5936905993/il_fullxfull.5936905993_j5cq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLOWER POWER">
+                                <img itemprop="contentUrl url" src='https://sample3.planetart.com/preview/10-105252-1-663-663-2025-dcpScallops-re0.jpg' alt='FLOWER POWER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply to Impress" />
+                                </span>
+                                <a href='https://sample3.planetart.com/preview/10-105252-1-663-663-2025-dcpScallops-re0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Blush Floral Acrylic Birthday Invitations CBRS004">
+                                <img itemprop="contentUrl url" src='https://www.claritynco.com/media/catalog/product/cache/563a46d9c0d95654a59fbc0ffa3b1763/c/b/cbrs004-3.jpg' alt='Elegant Blush Floral Acrylic Birthday Invitations CBRS004'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Claritynco" />
+                                </span>
+                                <a href='https://www.claritynco.com/media/catalog/product/cache/563a46d9c0d95654a59fbc0ffa3b1763/c/b/cbrs004-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

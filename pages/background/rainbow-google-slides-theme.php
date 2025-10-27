@@ -1,0 +1,129 @@
+<title>Vibrant Rainbow Google Slides Theme for Captivating Presentations</title>
+                    <meta name="description" content="Elevate your presentations with a stunning rainbow Google Slides theme! Perfect for educators and professionals alike, this colorful template engages your audience while providing user-friendly layouts and customization options. Grab attention and convey your message with flair—transform your slides today!">
+                    <meta name="keywords" content="rainbow google slides theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-google-slides-theme">
+                            <span itemprop="name">rainbow google slides theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Rainbow Google Slides Theme for Captivating Presentations</h1>
+                <p>Brighten up your presentations with a vibrant rainbow Google Slides theme! This customizable template features colorful backgrounds, eye-catching graphics, and user-friendly layouts, perfect for any occasion. Engage your audience with a cheerful design that enhances your message and showcases your creativity! Ideal for educational and professional uses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Over the Rainbow | Google Slides & PowerPoint template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/17289083/conversions/0-over-the-rainbow-thumb.jpg' alt='Over the Rainbow | Google Slides & PowerPoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/17289083/conversions/0-over-the-rainbow-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free rainbow style Google Slides and PPT templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/13309563/rainbow-background1635846623.jpg' alt='Free rainbow style Google Slides and PPT templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/13309563/rainbow-background1635846623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Over the Rainbow | Google Slides & PowerPoint template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/17289087/responsive-images/2-over-the-rainbow___media_library_original_548_308.jpg' alt='Over the Rainbow | Google Slides & PowerPoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/17289087/responsive-images/2-over-the-rainbow___media_library_original_548_308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Rainbow PowerPoint Templates And Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/477391-powerpoint-rainbow-slide-template.png' alt='Free Rainbow PowerPoint Templates And Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/477391-powerpoint-rainbow-slide-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow-Brush Free template for Google Slides or PowerPoint ...">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2019/10/0141_Rainbow-Brush_Template_SlidesMania.jpg' alt='Rainbow-Brush Free template for Google Slides or PowerPoint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2019/10/0141_Rainbow-Brush_Template_SlidesMania.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Rainbow PowerPoint Templates And Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/703265-pastel-rainbow-google-slides-theme.png' alt='Free Rainbow PowerPoint Templates And Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/703265-pastel-rainbow-google-slides-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Rainbow Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2024/05/Rainbow-Powerpoint-Background-Template.jpg' alt='Vibrant Rainbow Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2024/05/Rainbow-Powerpoint-Background-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Google Slides Themes & PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/64539-rainbow-google-slides-theme.png' alt='Rainbow Google Slides Themes & PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/64539-rainbow-google-slides-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Presentation Title PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/2020/06/ItemID6782-1-768x576.jpg' alt='Rainbow Presentation Title PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/2020/06/ItemID6782-1-768x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Rainbow PowerPoint Templates And Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85846-cute-rainbow-backgrounds.png' alt='Free Rainbow PowerPoint Templates And Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85846-cute-rainbow-backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Uplifting Bible Verses Wallpaper for Inspiration</title>
+                    <meta name="description" content="Explore beautiful Bible verses for your wallpaper! Transform your living space with uplifting scripture that inspires and motivates. Perfect for homes and offices, these designs bring peace and positivity to your environment. Discover your ideal wallpaper today!">
+                    <meta name="keywords" content="search bible versus for wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/search-bible-versus-for-wallpaper">
+                            <span itemprop="name">search bible versus for wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uplifting Bible Verses Wallpaper for Inspiration</h1>
+                <p>Looking for inspiration to brighten your space? Discover stunning Bible verses perfect for wallpaper! Our collection features uplifting quotes and scripture that can transform any wall into a source of motivation and peace. Whether for your home or workspace, these wallpapers will encourage and uplift your spirit daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' alt='Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Free Bible Wallpapers - God's fingerprints">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' alt='25 Free Bible Wallpapers - God's fingerprints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="God's fingerprints" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verses Background Images – Browse 9,438 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/91/03/12/360_F_491031265_LceBeRBq2QIurCpViyk5NRB2odJya19c.jpg' alt='Bible Verses Background Images – Browse 9,438 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/91/03/12/360_F_491031265_LceBeRBq2QIurCpViyk5NRB2odJya19c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_570xN.2452942866_hev0.jpg' alt='Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_570xN.2452942866_hev0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Bible Verse Phone Wallpapers Now">
+                                <img itemprop="contentUrl url" src='https://cdn-aeajo.nitrocdn.com/YulmdFnoLvtPAOjvvidScZghxAxvafuv/assets/images/optimized/rev-4e4008d/wp-content/uploads/2020/04/Peace-Screensaver-576x1024.png' alt='Download Free Bible Verse Phone Wallpapers Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gentle Christian Parenting" />
+                                </span>
+                                <a href='https://cdn-aeajo.nitrocdn.com/YulmdFnoLvtPAOjvvidScZghxAxvafuv/assets/images/optimized/rev-4e4008d/wp-content/uploads/2020/04/Peace-Screensaver-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Christian desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJWYO_44Q/2/0/1600w/canva-blue-beige-bible-verse-bold-black-letter-christian-desktop-wallpaper-EHZeaGVOGAQ.jpg' alt='Free to edit Christian desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJWYO_44Q/2/0/1600w/canva-blue-beige-bible-verse-bold-black-letter-christian-desktop-wallpaper-EHZeaGVOGAQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/02/Isaiah-40_31-strength-wallpaper-1.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/02/Isaiah-40_31-strength-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Bible Verse Phone Wallpapers Now">
+                                <img itemprop="contentUrl url" src='https://gentlechristianparenting.com/wp-content/uploads/2021/01/2-Cor-1-5.png' alt='Download Free Bible Verse Phone Wallpapers Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gentle Christian Parenting" />
+                                </span>
+                                <a href='https://gentlechristianparenting.com/wp-content/uploads/2021/01/2-Cor-1-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

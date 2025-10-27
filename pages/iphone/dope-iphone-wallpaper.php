@@ -1,0 +1,129 @@
+<title>Dope iPhone Wallpapers: Elevate Your Screen Style</title>
+                    <meta name="description" content="Explore our curated collection of dope iPhone wallpapers! Find trendy, eye-catching designs to personalize your device and make a statement. Perfect for any style, our wallpapers are easy to download and optimized for your screen. Upgrade your iPhone's look today!">
+                    <meta name="keywords" content="dope iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dope-iphone-wallpaper">
+                            <span itemprop="name">dope iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dope iPhone Wallpapers: Elevate Your Screen Style</h1>
+                <p>Looking for the coolest iPhone wallpapers? Discover a unique collection of dope iPhone wallpapers that will elevate your device's look! From stunning landscapes to trendy abstract designs, these wallpapers are perfect for personalizing your home screen. Download now and showcase your style with every swipe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Never Retreat Dope Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/never-retreat-dope-iphone-56bmejpzim9pauer.jpg' alt='Never Retreat Dope Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/never-retreat-dope-iphone-56bmejpzim9pauer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Supreme Dope Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-supreme-dope-iphone-prp8a6fejrfdtinr.jpg' alt='Black Supreme Dope Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-supreme-dope-iphone-prp8a6fejrfdtinr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone dope wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/567/734/HD-wallpaper-dope-graffiti-art-iphone-x-mobile.jpg' alt='HD iphone dope wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/567/734/HD-wallpaper-dope-graffiti-art-iphone-x-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Dope Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-forest-dope-iphone-6asc6265rjjifwu6.jpg' alt='Dark Forest Dope Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-forest-dope-iphone-6asc6265rjjifwu6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Best Dope wallpaper iphone ideas | dope wallpapers, hypebeast ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/23/bb/6923bb27326728c653605f162869fc12.jpg' alt='250 Best Dope wallpaper iphone ideas | dope wallpapers, hypebeast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/23/bb/6923bb27326728c653605f162869fc12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a pretty dope iPhone 5 lock screen wallpaper. : r/Sneakers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2nu_UsutSMZamxKYX8YfW1ATN37jl0OC8cYPxES02Dw.jpg?auto=webp&s=fe038840c88a93049279844085ff7fb92c488636' alt='Found a pretty dope iPhone 5 lock screen wallpaper. : r/Sneakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2nu_UsutSMZamxKYX8YfW1ATN37jl0OC8cYPxES02Dw.jpg?auto=webp&s=fe038840c88a93049279844085ff7fb92c488636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Phone wallpaper ideas | dope wallpapers, supreme wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cf/b2/90/cfb29061aaa15fd1cd2bbc168605118d.jpg' alt='12 Phone wallpaper ideas | dope wallpapers, supreme wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cf/b2/90/cfb29061aaa15fd1cd2bbc168605118d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dope neo, amoled, motivation, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/406/839/HD-wallpaper-dope-neo-amoled-motivation.jpg' alt='Dope neo, amoled, motivation, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/406/839/HD-wallpaper-dope-neo-amoled-motivation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sad Boy Dope Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sad-boy-dope-iphone-oumxmx4b8uo0u0qt.jpg' alt='Download Sad Boy Dope Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sad-boy-dope-iphone-oumxmx4b8uo0u0qt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost Dope Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/lost-dope-iphone-stadhuostyc8ge1q.jpg' alt='Lost Dope Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/lost-dope-iphone-stadhuostyc8ge1q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

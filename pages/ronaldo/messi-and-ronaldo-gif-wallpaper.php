@@ -1,0 +1,129 @@
+<title>Messi & Ronaldo: Epic GIF Wallpapers</title>
+                    <meta name="description" content="Discover eye-catching GIF wallpapers of Messi and Ronaldo, celebrating their iconic moments in football. Perfect for fans looking to personalize their devices with vibrant and dynamic visuals of their favorite players. Download now and elevate your wallpaper game!">
+                    <meta name="keywords" content="messi and ronaldo gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/messi-and-ronaldo-gif-wallpaper">
+                            <span itemprop="name">messi and ronaldo gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Messi & Ronaldo: Epic GIF Wallpapers</h1>
+                <p>Explore a stunning collection of Messi and Ronaldo GIF wallpapers that capture the intensity and beauty of their legendary rivalry. Whether you're a fan of Messi's finesse or Ronaldo's power, these dynamic wallpapers will jazz up your device. Perfect for soccer enthusiasts seeking a daily dose of inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo And Messi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/4r-UaJxsQq4AAAAM/cristiano-ronaldo-lionel-messi.gif' alt='Ronaldo And Messi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/4r-UaJxsQq4AAAAM/cristiano-ronaldo-lionel-messi.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo And Messi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/3XHXo0Qix94AAAAM/messi-ve-ronaldo.gif' alt='Ronaldo And Messi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/3XHXo0Qix94AAAAM/messi-ve-ronaldo.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Ronaldo GIF - Messi Ronaldo Cr7 - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6f/65/a6/6f65a68fb7d9dcb74f252ffad3c8c1cd.gif' alt='Messi Ronaldo GIF - Messi Ronaldo Cr7 - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6f/65/a6/6f65a68fb7d9dcb74f252ffad3c8c1cd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo And Messi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/tCM88dGfjEMAAAAM/ronaldo-and-messi-messi-and-ronaldo.gif' alt='Ronaldo And Messi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/tCM88dGfjEMAAAAM/ronaldo-and-messi-messi-and-ronaldo.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo And Messi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/6wjnVWa3dlsAAAAM/cristiano-ronaldo-lionel-messi.gif' alt='Ronaldo And Messi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/6wjnVWa3dlsAAAAM/cristiano-ronaldo-lionel-messi.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Shh GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/omhZ3NQC5reiQ/200w.gif?cid=6c09b952qhdxsk4u16j5vq0nco2elb44nzfkmipv9vvv5e1h&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Lionel Messi Shh GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/omhZ3NQC5reiQ/200w.gif?cid=6c09b952qhdxsk4u16j5vq0nco2elb44nzfkmipv9vvv5e1h&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I post whatever I want — Es el fin de una era          “This is ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/853cf21e477e27168d3e62a792b8b592/tumblr_ooynozoA9E1rf04tpo1_400.gif' alt='I post whatever I want — Es el fin de una era          “This is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="luisamariatraumer - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/853cf21e477e27168d3e62a792b8b592/tumblr_ooynozoA9E1rf04tpo1_400.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Cristiano Ronaldo GIF - Messi Cristiano Ronaldo Hi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/99/a9/06/99a906d53d84319505689f526f2db830.gif' alt='Messi Cristiano Ronaldo GIF - Messi Cristiano Ronaldo Hi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/99/a9/06/99a906d53d84319505689f526f2db830.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 - Lionel Messi - v4 | Page 239 | FC Barcelona Forum">
+                                <img itemprop="contentUrl url" src='https://33.media.tumblr.com/9705468b9ef4411a322744b086f51afe/tumblr_nunxlfOY7j1sjs0vfo10_500.gif' alt='10 - Lionel Messi - v4 | Page 239 | FC Barcelona Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FC Barcelona Forum" />
+                                </span>
+                                <a href='https://33.media.tumblr.com/9705468b9ef4411a322744b086f51afe/tumblr_nunxlfOY7j1sjs0vfo10_500.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo And Messi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Za0QC7fF4B8AAAAM/do.gif' alt='Ronaldo And Messi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Za0QC7fF4B8AAAAM/do.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

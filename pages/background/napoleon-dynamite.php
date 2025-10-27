@@ -1,0 +1,129 @@
+<title>Napoleon Dynamite: A Quirky Cult Classic</title>
+                    <meta name="description" content="Explore the unique charm of Napoleon Dynamite, a cult classic film that showcases the humorous journey of an awkward teen. Discover its iconic characters, memorable quotes, and the celebration of individuality that has resonated with audiences worldwide. Join the dynamite adventure today!">
+                    <meta name="keywords" content="napoleon dynamite">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/napoleon-dynamite">
+                            <span itemprop="name">napoleon dynamite</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Napoleon Dynamite: A Quirky Cult Classic</h1>
+                <p>Napoleon Dynamite is a quirky indie film that has captivated audiences with its offbeat humor and unforgettable characters. Set in rural Idaho, it follows the life of Napoleon, an awkward teenager navigating high school challenges. With iconic catchphrases and memorable moments, this cult classic celebrates individuality and the absurdities of adolescence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite - Plugged In">
+                                <img itemprop="contentUrl url" src='https://www.pluggedin.com/wp-content/uploads/2019/12/napoleon-dynamite-1200x900.jpg' alt='Napoleon Dynamite - Plugged In'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plugged In" />
+                                </span>
+                                <a href='https://www.pluggedin.com/wp-content/uploads/2019/12/napoleon-dynamite-1200x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite (2004) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_FMjpg_UX1000_.jpg' alt='Napoleon Dynamite (2004) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite (Character) | Napoleon Dynamite Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/napoleondynamite/images/a/a2/Napoleon_dynamite.jpg/revision/latest?cb=20091207010338' alt='Napoleon Dynamite (Character) | Napoleon Dynamite Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Napoleon Dynamite Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/napoleondynamite/images/a/a2/Napoleon_dynamite.jpg/revision/latest?cb=20091207010338' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34617_p_v8_ak.jpg' alt='Napoleon Dynamite | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34617_p_v8_ak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite (2004) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzM4NDA5MzMyMF5BMl5BanBnXkFtZTcwNTE2Mjc2MQ@@._V1_QL75_UX500_CR0,59,500,281_.jpg' alt='Napoleon Dynamite (2004) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzM4NDA5MzMyMF5BMl5BanBnXkFtZTcwNTE2Mjc2MQ@@._V1_QL75_UX500_CR0,59,500,281_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite' cast: Where are they now?">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/irSDnzGngt1pvCIcdvIkr_GXsQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Napoleon-Dynamite-tout-031424-2b45733b8e2e49e683239803d91c3ce8.jpg' alt='Napoleon Dynamite' cast: Where are they now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/irSDnzGngt1pvCIcdvIkr_GXsQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Napoleon-Dynamite-tout-031424-2b45733b8e2e49e683239803d91c3ce8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Napoleon Dynamite | Inconsistently Admirable Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/inconsistently-admirable/images/5/52/Napoleon_Dynamite.jpg/revision/latest?cb=20230330002959' alt='Napoleon Dynamite | Inconsistently Admirable Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inconsistently Admirable Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/inconsistently-admirable/images/5/52/Napoleon_Dynamite.jpg/revision/latest?cb=20230330002959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cult hit Napoleon Dynamite heads to the Music Hall this Saturday ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/charlestoncitypaper.com/wp-content/uploads/uploadcare/6770a44b-842e-4910-9789-c4cd27841fbb/screener_napoleondynamite_4543.jpg?fit=1200%2C800&ssl=1' alt='Cult hit Napoleon Dynamite heads to the Music Hall this Saturday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charleston City Paper" />
+                                </span>
+                                <a href='https://i0.wp.com/charlestoncitypaper.com/wp-content/uploads/uploadcare/6770a44b-842e-4910-9789-c4cd27841fbb/screener_napoleondynamite_4543.jpg?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screenplay Structure: Napoleon Dynamite – Cinema Bandit">
+                                <img itemprop="contentUrl url" src='https://cinemabandit.wordpress.com/wp-content/uploads/2018/05/nd1.jpg?w=640' alt='Screenplay Structure: Napoleon Dynamite – Cinema Bandit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cinema Bandit - WordPress.com" />
+                                </span>
+                                <a href='https://cinemabandit.wordpress.com/wp-content/uploads/2018/05/nd1.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The inside story of 'Napoleon Dynamite,' 20 years later - The ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5KDV2VDNRBN5EPYOVW3MPWEB4.JPG' alt='The inside story of 'Napoleon Dynamite,' 20 years later - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2723">
+                                <meta itemprop="height" content="2953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5KDV2VDNRBN5EPYOVW3MPWEB4.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Japanese Peel and Stick Wallpaper for Effortless Home Transformation</title>
+                    <meta name="description" content="Explore our exquisite collection of Japanese peel and stick wallpaper. Easy to apply and remove, this stylish decor solution adds a touch of elegance to any space. Perfect for renters and DIY lovers, discover how to enhance your home effortlessly!">
+                    <meta name="keywords" content="japanese peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/japanese-peel-and-stick-wallpaper">
+                            <span itemprop="name">japanese peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Japanese Peel and Stick Wallpaper for Effortless Home Transformation</h1>
+                <p>Japanese peel and stick wallpaper offers a unique way to elevate your home decor effortlessly. With beautiful patterns and textures inspired by traditional Japanese aesthetics, these wallpapers are easy to apply and remove, making them perfect for renters or DIY enthusiasts. Transform any space quickly and stylishly with this innovative solution!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Peel and Stick Wallpaper Mural Tree Lake Chinoiserie ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6702435/r/il/0c1c7e/3767085684/il_fullxfull.3767085684_gzaa.jpg' alt='Japanese Peel and Stick Wallpaper Mural Tree Lake Chinoiserie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6702435/r/il/0c1c7e/3767085684/il_fullxfull.3767085684_gzaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls By Me Peel and Stick Black and Red Japanese Floral Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/910X6u-q2CL.jpg' alt='Walls By Me Peel and Stick Black and Red Japanese Floral Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/910X6u-q2CL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Removable Wallpaper, Landscape Peel and Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16884357/r/il/19ffb5/4057713257/il_fullxfull.4057713257_k9tq.jpg' alt='Japanese Removable Wallpaper, Landscape Peel and Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16884357/r/il/19ffb5/4057713257/il_fullxfull.4057713257_k9tq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Art Wall Mural, Chinoiserie Wallpaper in Vintage Style, Old Floral  Traditional Japanese Wallpaper, Peel and Stick Rustic Decal">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/1-WN013-colorful-muted-chinoiserie-chinese-art-peel-and-stick-mural.jpg?v=1720971243&width=2500' alt='Japanese Art Wall Mural, Chinoiserie Wallpaper in Vintage Style, Old Floral  Traditional Japanese Wallpaper, Peel and Stick Rustic Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/1-WN013-colorful-muted-chinoiserie-chinese-art-peel-and-stick-mural.jpg?v=1720971243&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Forest Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D496">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5260428136_825u.jpg?v=1706967226&width=1946' alt='Japanese Forest Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D496'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5260428136_825u.jpg?v=1706967226&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GAY60DHYZ 3D Wall Murals Removable Wallpaper Peel and Stick Modern Wall  Stickers of Japanese Traditional Landscape Cherry in Blossom Pagoda House  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JdSLMDdhL.jpg' alt='GAY60DHYZ 3D Wall Murals Removable Wallpaper Peel and Stick Modern Wall  Stickers of Japanese Traditional Landscape Cherry in Blossom Pagoda House  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JdSLMDdhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Green Waves Wallpaper CC096">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/03_671d50af-61a1-4456-8f20-772c3601934c_1080x.jpg?v=1678749342' alt='Japanese Green Waves Wallpaper CC096'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/03_671d50af-61a1-4456-8f20-772c3601934c_1080x.jpg?v=1678749342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Japanesebackgroundwithfloralwatercolortexturevector.Handdrawnflowerpatterndecorationsinvintagestyle.Cranebirdselementwithartabstractbannerdesigninorientalstyle7-min.jpg?v=1739231921&width=1214' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Japanesebackgroundwithfloralwatercolortexturevector.Handdrawnflowerpatterndecorationsinvintagestyle.Cranebirdselementwithartabstractbannerdesigninorientalstyle7-min.jpg?v=1739231921&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Wave Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/japanese-wave-wallpaper-peel-stick-311541.png?v=1734108489' alt='Japanese Wave Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/japanese-wave-wallpaper-peel-stick-311541.png?v=1734108489' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Crane Wallpaper, Removable Peel and Stick Mural, Self Adhesive  Heron Design, Chinoiserie Herons Print, Wall MURAL">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/products/japanese-crane-wallpaper-removable-peel-and-stick-mural-self-adhesive-heron-design-chinoiserie-herons-print-wall-muralwp296-122976.jpg?v=1696705920' alt='Japanese Crane Wallpaper, Removable Peel and Stick Mural, Self Adhesive  Heron Design, Chinoiserie Herons Print, Wall MURAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/products/japanese-crane-wallpaper-removable-peel-and-stick-mural-self-adhesive-heron-design-chinoiserie-herons-print-wall-muralwp296-122976.jpg?v=1696705920' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

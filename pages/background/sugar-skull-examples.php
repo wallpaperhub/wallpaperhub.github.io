@@ -1,0 +1,129 @@
+<title>Vibrant Sugar Skull Designs for Día de los Muertos</title>
+                    <meta name="description" content="Explore the vibrant world of sugar skulls, iconic symbols of Día de los Muertos! Discover colorful designs, unique patterns, and cultural significance behind these beautifully crafted decorations. Perfect for honoring and remembering loved ones in style!">
+                    <meta name="keywords" content="sugar skull examples">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sugar-skull-examples">
+                            <span itemprop="name">sugar skull examples</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Sugar Skull Designs for Día de los Muertos</h1>
+                <p>Sugar skulls, or "calaveras," are vibrant decorations traditionally used in the Mexican Día de los Muertos (Day of the Dead) celebrations. These artistic skulls symbolize remembrance and honor for deceased loved ones. Common examples include intricate designs with floral motifs, colorful patterns, and personalized names, blending creativity with cultural significance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sugar Skull Images – Browse 243,775 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/62/35/32/360_F_162353219_EYWYA7sMNZamOC0QBBkZFThgY5tvFmtJ.jpg' alt='Sugar Skull Images – Browse 243,775 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/62/35/32/360_F_162353219_EYWYA7sMNZamOC0QBBkZFThgY5tvFmtJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Sugar Skull | Envato Tuts+">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/32007/image/how-to-draw-a-sugar-skull-1-15.jpg' alt='How to Draw a Sugar Skull | Envato Tuts+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design & Illustration - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/32007/image/how-to-draw-a-sugar-skull-1-15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using Google Slides™ to Create Sugar Skulls | Sweet Integrations">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwp46XIlLWqwD-7CJTggBVVVqWpNh7pqOoHafzNfCdd3GPSKiWayjZ9b-GhNwVVY7JMgJrjUMjTSK6A7sZYdmusfpyAQhYEY6hJ41m_voBWWoTyIsZ7g6K98tZhUPTrBdLnFmfXXp-91w/s1600/Slide1.jpg' alt='Using Google Slides™ to Create Sugar Skulls | Sweet Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sweet Integrations" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwp46XIlLWqwD-7CJTggBVVVqWpNh7pqOoHafzNfCdd3GPSKiWayjZ9b-GhNwVVY7JMgJrjUMjTSK6A7sZYdmusfpyAQhYEY6hJ41m_voBWWoTyIsZ7g6K98tZhUPTrBdLnFmfXXp-91w/s1600/Slide1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are Sugar Skulls? All About the Day of the Dead">
+                                <img itemprop="contentUrl url" src='https://www.realsimple.com/thmb/13esFXlfzmWYG8kTnD_xjzj2qtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sugar-skulls-GettyImages-691964271-afbd7bb5f0a1493ab0881790a86d2ea3.jpg' alt='What Are Sugar Skulls? All About the Day of the Dead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Real Simple" />
+                                </span>
+                                <a href='https://www.realsimple.com/thmb/13esFXlfzmWYG8kTnD_xjzj2qtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sugar-skulls-GettyImages-691964271-afbd7bb5f0a1493ab0881790a86d2ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sugar Skull Images – Browse 243,775 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/22/80/17/360_F_222801779_ykocp6fk9b9yfPf7mKck6NodUdrUNUeB.jpg' alt='Sugar Skull Images – Browse 243,775 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/22/80/17/360_F_222801779_ykocp6fk9b9yfPf7mKck6NodUdrUNUeB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sugar Skulls - Myrtle Beach Art">
+                                <img itemprop="contentUrl url" src='http://mbhsart.weebly.com/uploads/1/8/4/5/18451697/1119784_orig.jpg' alt='Sugar Skulls - Myrtle Beach Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Myrtle Beach Art - Weebly" />
+                                </span>
+                                <a href='http://mbhsart.weebly.com/uploads/1/8/4/5/18451697/1119784_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sugar Skull Day of the Dead (988515)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/641322a05875bbcb822155265246c8ae340dd7d4e43ff5ec295bd7cf44ce55aa.jpg' alt='Sugar Skull Day of the Dead (988515)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/641322a05875bbcb822155265246c8ae340dd7d4e43ff5ec295bd7cf44ce55aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Vector Sugar Skulls - Día de los Muertos (147212)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/7bbda230c579e61d4c9bf344a2c21658e833e4a9a4970abf5e457ad2ee532a91.jpg' alt='8 Vector Sugar Skulls - Día de los Muertos (147212)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/7bbda230c579e61d4c9bf344a2c21658e833e4a9a4970abf5e457ad2ee532a91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day of the Dead Art: A Gallery of Colorful Skull Art Celebrating ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5511fc7ce4b0a3782aa9418b/1485729239348-FX1XLJ0YR4REDDYX6M25/day-of-the-dead-sugar-skulls.jpg' alt='Day of the Dead Art: A Gallery of Colorful Skull Art Celebrating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art is Fun" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5511fc7ce4b0a3782aa9418b/1485729239348-FX1XLJ0YR4REDDYX6M25/day-of-the-dead-sugar-skulls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3rd Grade: Sugar Skull Sculptures - Sevastopol ElementaryArt ...">
+                                <img itemprop="contentUrl url" src='https://sevastopolart.weebly.com/uploads/5/9/3/0/59308801/2697123_orig.jpg' alt='3rd Grade: Sugar Skull Sculptures - Sevastopol ElementaryArt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sevastopol Elementary Art Adventures - Weebly" />
+                                </span>
+                                <a href='https://sevastopolart.weebly.com/uploads/5/9/3/0/59308801/2697123_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

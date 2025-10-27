@@ -1,0 +1,129 @@
+<title>The Magic of a Kiss: More Than Just a Gesture</title>
+                    <meta name="description" content="Discover the profound meaning of a kiss in love, friendship, and culture. Explore how this simple act can enhance connections and convey deep emotions. Learn about different kissing practices and their significance worldwide. Join us in celebrating the intimate gesture that brings us closer together!">
+                    <meta name="keywords" content="kiss">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kiss">
+                            <span itemprop="name">kiss</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Magic of a Kiss: More Than Just a Gesture</h1>
+                <p>A kiss is a universal expression of affection, intimacy, and love. It can convey a myriad of emotions, from friendship to romance. Different cultures have unique practices and meanings surrounding kissing, showcasing its significance in human connection. A simple kiss can spark joy, comfort, and deep emotional bonds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kiss (band) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kiss_at_backstage_%281975%29.jpg/800px-Kiss_at_backstage_%281975%29.jpg' alt='Kiss (band) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kiss_at_backstage_%281975%29.jpg/800px-Kiss_at_backstage_%281975%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kiss - Album by KISS | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d00001e025621f132b6d5ce5254b5aa2a' alt='Kiss - Album by KISS | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d00001e025621f132b6d5ce5254b5aa2a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Wanted The Best, You Got The Best…Underrated KISS Tracks – VWMusic">
+                                <img itemprop="contentUrl url" src='https://vwmusicrocks.com/wp-content/uploads/2019/08/KISS-press-shot-01-CREDIT-Brian-Lowe-Universal-Music-Group.jpg' alt='You Wanted The Best, You Got The Best…Underrated KISS Tracks – VWMusic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VWMusic" />
+                                </span>
+                                <a href='https://vwmusicrocks.com/wp-content/uploads/2019/08/KISS-press-shot-01-CREDIT-Brian-Lowe-Universal-Music-Group.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KISS Illustration">
+                                <img itemprop="contentUrl url" src='https://paulkingart.com/wp-content/uploads/2020/02/Kiss_PWK.jpg' alt='KISS Illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paul King Art" />
+                                </span>
+                                <a href='https://paulkingart.com/wp-content/uploads/2020/02/Kiss_PWK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Kiss: 9 Fun Ways to Do It Better | Teen Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/61bb52151124afd15a1d0091/1:1/w_3540,h_3540,c_limit/GettyImages-200013782-002.jpg' alt='How to Kiss: 9 Fun Ways to Do It Better | Teen Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3540">
+                                <meta itemprop="height" content="3540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/61bb52151124afd15a1d0091/1:1/w_3540,h_3540,c_limit/GettyImages-200013782-002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kiss Discography: Vinyl, CDs, & More | Discogs">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/QD6jJYCDGJ_v8UkQbiqvhSbgZWmXq4EDLJIfEpekfZw/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MzA3/My0xNjgyNjA1MjY4/LTk4NTcuanBlZw.jpeg' alt='Kiss Discography: Vinyl, CDs, & More | Discogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/QD6jJYCDGJ_v8UkQbiqvhSbgZWmXq4EDLJIfEpekfZw/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MzA3/My0xNjgyNjA1MjY4/LTk4NTcuanBlZw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Members of KISS: Where Are They Now?">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/LOgV9OBhzaaGxFk8bAwQ34bKLF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/kiss-996a7f49c55848e1865b114a4c4a0a7b.jpg' alt='The Members of KISS: Where Are They Now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/LOgV9OBhzaaGxFk8bAwQ34bKLF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/kiss-996a7f49c55848e1865b114a4c4a0a7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Love At First Kiss Season 1 | Prime Video">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/f597e6b1bbfff38921dd7c16cecdd43fe5a9fb12fdddc86bcfc24f5e80946408.jpg' alt='Watch Love At First Kiss Season 1 | Prime Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/f597e6b1bbfff38921dd7c16cecdd43fe5a9fb12fdddc86bcfc24f5e80946408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Things You Learn Hanging Out With Kiss">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-14909-kiss-1800-1396461735.jpg?w=1581&h=1054&crop=1' alt='18 Things You Learn Hanging Out With Kiss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-14909-kiss-1800-1396461735.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A look back at 50 years of Kiss-tory as the legendary band ...">
+                                <img itemprop="contentUrl url" src='https://www.news10.com/wp-content/uploads/sites/64/2023/12/6569ff25de1fe6.55687213.jpeg?w=2560&h=1440&crop=1' alt='A look back at 50 years of Kiss-tory as the legendary band ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEWS10 ABC" />
+                                </span>
+                                <a href='https://www.news10.com/wp-content/uploads/sites/64/2023/12/6569ff25de1fe6.55687213.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

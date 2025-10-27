@@ -1,0 +1,129 @@
+<title>Elevate Your Screen with Aesthetic People Wallpapers</title>
+                    <meta name="description" content="Discover stunning aesthetic people wallpapers that elevate your device's style. Explore vibrant designs and creative visuals perfect for showcasing your unique vibe. Transform your screens with artful backgrounds that inspire and uplift. Download now to find the perfect aesthetic that resonates with you!">
+                    <meta name="keywords" content="aesthetic people wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-people-wallpaper">
+                            <span itemprop="name">aesthetic people wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Screen with Aesthetic People Wallpapers</h1>
+                <p>Aesthetic people wallpaper transforms your device into a canvas of artistic expression. Featuring soothing palettes, trendy styles, and visually pleasing designs, it inspires creativity and personal style. Perfect for anyone wanting to showcase their vibe, these wallpapers encapsulate the beauty of life’s subtleties. Elevate your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Melanin Aesthetics Collage | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/fd/57/25fd57117eb21c60499c57513d3a658d.jpg' alt='Baddie Melanin Aesthetics Collage | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/fd/57/25fd57117eb21c60499c57513d3a658d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Beauty      ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/5b/8f/cd5b8f0c80b8936311d6f0f52910cbcb.jpg' alt='Black Beauty      ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/5b/8f/cd5b8f0c80b8936311d6f0f52910cbcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Digital Black Girl Brown Aesthetic Wall Collage Kit - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32625988/r/il/dbbaeb/4889922876/il_570xN.4889922876_j80q.jpg' alt='60 Digital Black Girl Brown Aesthetic Wall Collage Kit - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32625988/r/il/dbbaeb/4889922876/il_570xN.4889922876_j80q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute brown aesthetic wallpaper          ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/14/7a/a8147aab9146b6958cd733e57f04fbfa.jpg' alt='cute brown aesthetic wallpaper          '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/14/7a/a8147aab9146b6958cd733e57f04fbfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman Aesthetic Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYnVzLTAwMS5qcGc.jpg' alt='Woman Aesthetic Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYnVzLTAwMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown.skin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/c9/23/38c9236c092632183473a826e942a156.jpg' alt='brown.skin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/c9/23/38c9236c092632183473a826e942a156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Pink Aesthetic Ew People Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-pink-aesthetic-ew-people-nza4swo9ln3cx8lu.jpg' alt='Iphone Pink Aesthetic Ew People Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-pink-aesthetic-ew-people-nza4swo9ln3cx8lu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Minimalist abstract aesthetic woman mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/minimalist-abstract-aesthetic-woman-mobile-wallpaper_23-2149126980.jpg' alt='Free Vector | Minimalist abstract aesthetic woman mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/minimalist-abstract-aesthetic-woman-mobile-wallpaper_23-2149126980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sassy Girl Cute Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sassy-girl-cute-aesthetic-u2v88aturhu8wr60.jpg' alt='Sassy Girl Cute Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sassy-girl-cute-aesthetic-u2v88aturhu8wr60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/b1/5c/dfb15cbc62df015060621dc7933523ed.jpg' alt='Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/b1/5c/dfb15cbc62df015060621dc7933523ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

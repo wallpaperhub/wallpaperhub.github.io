@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Floral Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of vintage floral wallpaper! Perfect for adding a timeless touch to any room, these charming designs enhance your decor with nostalgia and warmth. Explore our collection for a unique way to refresh your home with style and elegance!">
+                    <meta name="keywords" content="vintage style floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/vintage-style-floral-wallpaper">
+                            <span itemprop="name">vintage style floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Floral Wallpaper</h1>
+                <p>Vintage style floral wallpaper evokes a sense of nostalgia, blending classic patterns with modern aesthetics. Ideal for living rooms or bedrooms, these wallpapers bring warmth and charm to any space. From delicate blossoms to bold prints, vintage floral designs add character and a touch of timeless elegance to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' alt='Vintage Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Traditional Style Flower Illustration Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/482e56/3735322412/il_570xN.3735322412_qxrg.jpg' alt='Vintage Traditional Style Flower Illustration Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/482e56/3735322412/il_570xN.3735322412_qxrg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/211039_1_orig.jpg?v=1697208212' alt='Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/211039_1_orig.jpg?v=1697208212' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202771.jpg' alt='Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flora">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' alt='Victorian Flora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOLDEN Vintage Floral Navy Wallpaper 13391">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/581881bb-81e2-400b-828c-35fb3edbfc3f/svn/holden-wallpaper-rolls-13391-64_600.jpg' alt='HOLDEN Vintage Floral Navy Wallpaper 13391'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/581881bb-81e2-400b-828c-35fb3edbfc3f/svn/holden-wallpaper-rolls-13391-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' alt='Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2369">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oversized Antique Floral Wallpaper, Vintage Handpainted Look, Romantic  Cabbage Rose, Shabby Country Cottage Garden - 12"x9" Sample AB27614so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/c8ae1b/2171675914/il_fullxfull.2171675914_a0hd.jpg' alt='Oversized Antique Floral Wallpaper, Vintage Handpainted Look, Romantic  Cabbage Rose, Shabby Country Cottage Garden - 12"x9" Sample AB27614so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1595">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/c8ae1b/2171675914/il_fullxfull.2171675914_a0hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage floral wallpaper and Vintage Wallpaper.">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/madelyn-peel-and-stick-wallpaper-717278.jpg?crop=center&height=1169&v=1700000925&width=1169' alt='Vintage floral wallpaper and Vintage Wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="1169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/madelyn-peel-and-stick-wallpaper-717278.jpg?crop=center&height=1169&v=1700000925&width=1169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Style Floral Illustration With Dark Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/6f97d4/3733249492/il_570xN.3733249492_j26k.jpg' alt='Vintage Style Floral Illustration With Dark Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/6f97d4/3733249492/il_570xN.3733249492_j26k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

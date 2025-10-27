@@ -1,0 +1,129 @@
+<title>Expert Reference Services for Informed Decision-Making</title>
+                    <meta name="description" content="Discover tailored research solutions at Reference Services Inc. Our team offers expert support to help businesses access crucial information for strategic decision-making, driving growth and success. Experience reliability and efficiency with our bespoke reference services today!">
+                    <meta name="keywords" content="reference services inc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reference-services-inc">
+                            <span itemprop="name">reference services inc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Expert Reference Services for Informed Decision-Making</h1>
+                <p>Reference Services Inc. specializes in providing comprehensive support for businesses seeking reliable information and research solutions. With a dedicated team of experienced professionals, we deliver customized reference services to meet your unique needs, helping you make informed decisions and drive growth with confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services, Inc. | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQFwfHdrE4aYjQ/company-logo_200_200/company-logo_200_200/0/1694722252703/reference_services_inc_logo?e=2147483647&v=beta&t=jvaCztDqk6jjsFF3V407aPhERWTFqVBkgpRZWI0HrA8' alt='Reference Services, Inc. | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQFwfHdrE4aYjQ/company-logo_200_200/company-logo_200_200/0/1694722252703/reference_services_inc_logo?e=2147483647&v=beta&t=jvaCztDqk6jjsFF3V407aPhERWTFqVBkgpRZWI0HrA8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services: Background Check Provider | JazzHR Marketplace">
+                                <img itemprop="contentUrl url" src='https://marketplace.jazzhr.com/wp-content/uploads/reference-services-logo.png' alt='Reference Services: Background Check Provider | JazzHR Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5227">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JazzHR Marketplace" />
+                                </span>
+                                <a href='https://marketplace.jazzhr.com/wp-content/uploads/reference-services-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing Continuous Court Records Monitoring - Reference ...">
+                                <img itemprop="contentUrl url" src='https://www.referenceservices.com/wp-content/uploads/2020/04/RSI-Report.png' alt='Introducing Continuous Court Records Monitoring - Reference ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reference Services" />
+                                </span>
+                                <a href='https://www.referenceservices.com/wp-content/uploads/2020/04/RSI-Report.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services - Crunchbase Company Profile & Funding">
+                                <img itemprop="contentUrl url" src='https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ob5qwuhgm9uawtlxt5rp' alt='Reference Services - Crunchbase Company Profile & Funding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchbase" />
+                                </span>
+                                <a href='https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ob5qwuhgm9uawtlxt5rp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Login - Reference Services">
+                                <img itemprop="contentUrl url" src='https://www.referenceservices.com/wp-content/uploads/2024/10/DD-Homescreen-image.jpg' alt='Login - Reference Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reference Services" />
+                                </span>
+                                <a href='https://www.referenceservices.com/wp-content/uploads/2024/10/DD-Homescreen-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Various - Trinity HPSI">
+                                <img itemprop="contentUrl url" src='https://static.spacecrafted.com/e81ae2826d64414c860156f3f71d1bbf/i/f8d4e8ab8cea4752b6ea5ca1cc86c77f/1/4SoifmQpDrHbZJ6VvdPAk/RSI_logo_stacked_w_tagline_hor_pms_2145c_3564u.png' alt='Various - Trinity HPSI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trinity HPSI" />
+                                </span>
+                                <a href='https://static.spacecrafted.com/e81ae2826d64414c860156f3f71d1bbf/i/f8d4e8ab8cea4752b6ea5ca1cc86c77f/1/4SoifmQpDrHbZJ6VvdPAk/RSI_logo_stacked_w_tagline_hor_pms_2145c_3564u.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services, Inc. | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQGtIzxH65WvRw/feedshare-shrink_800/B56ZUkMbMsGUAg-/0/1740068993917?e=2147483647&v=beta&t=zexfMphZ5TlJFsFHQHMHih1QGjxbzaolpcnLZIyXnR4' alt='Reference Services, Inc. | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQGtIzxH65WvRw/feedshare-shrink_800/B56ZUkMbMsGUAg-/0/1740068993917?e=2147483647&v=beta&t=zexfMphZ5TlJFsFHQHMHih1QGjxbzaolpcnLZIyXnR4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services, Inc. - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NI1LH8-cDag/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDEZjz46kLXMmFa6dhjrSWcU9XIfQ' alt='Reference Services, Inc. - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NI1LH8-cDag/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDEZjz46kLXMmFa6dhjrSWcU9XIfQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Social Intelligence Report™: Social Intelligence is a scalable ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///12f6b3482ad3b43512a64e270df9adb5cb1929380e6b2838a57e604c64279163' alt='The Social Intelligence Report™: Social Intelligence is a scalable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reference Services" />
+                                </span>
+                                <a href='x-raw-image:///12f6b3482ad3b43512a64e270df9adb5cb1929380e6b2838a57e604c64279163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Services, Inc. | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E1BAQGBv7ook7fywQ/company-background_10000/company-background_10000/0/1588953651138/reference_services_inc_cover?e=2147483647&v=beta&t=CievbFUigFnGPSeqPONRXIOhxPDmhKbTvBjseIm-ejU' alt='Reference Services, Inc. | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1305">
+                                <meta itemprop="height" content="239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E1BAQGBv7ook7fywQ/company-background_10000/company-background_10000/0/1588953651138/reference_services_inc_cover?e=2147483647&v=beta&t=CievbFUigFnGPSeqPONRXIOhxPDmhKbTvBjseIm-ejU' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

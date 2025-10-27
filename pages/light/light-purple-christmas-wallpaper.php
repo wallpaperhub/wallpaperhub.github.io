@@ -1,0 +1,129 @@
+<title>Light Purple Christmas Wallpaper for a Festive Touch</title>
+                    <meta name="description" content="Add a splash of elegance to your holiday decor with our light purple Christmas wallpaper. Designed to bring warmth and joy, this stunning wallpaper features festive patterns that will elevate your home for the season. Perfect for any room, it’s an easy way to embrace the holiday spirit in style!">
+                    <meta name="keywords" content="light purple christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-purple-christmas-wallpaper">
+                            <span itemprop="name">light purple christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Purple Christmas Wallpaper for a Festive Touch</h1>
+                <p>Transform your holiday spirit with enchanting light purple Christmas wallpaper! Perfect for adding a whimsical touch to your home, this wallpaper features delightful snowflakes, twinkling lights, and festive patterns. Ideal for creating a cozy atmosphere, it complements your holiday décor and makes your home feel jolly and bright.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple Christmas Wallpaper For Winter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/66/2a/b9662aa03556ddb0bcb6852f9925ec15.jpg' alt='Cute Purple Christmas Wallpaper For Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/66/2a/b9662aa03556ddb0bcb6852f9925ec15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Christmas Trees Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/e2/79/a1e27989a64585f815303cec4417bd7f.jpg' alt='Colorful Christmas Trees Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/e2/79/a1e27989a64585f815303cec4417bd7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-shiny-christmas-background-with-baubles_1048-67.jpg' alt='Purple Christmas Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-shiny-christmas-background-with-baubles_1048-67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dd/00/db/dd00db35359c9f47e89257d0fa9ebafd.jpg' alt='Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dd/00/db/dd00db35359c9f47e89257d0fa9ebafd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Ornaments Images – Browse 515,089 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/58/33/41/360_F_658334159_b9yFMuuwKSWyNaSNE9VLgU2VI3XK2UAG.jpg' alt='Purple Christmas Ornaments Images – Browse 515,089 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/58/33/41/360_F_658334159_b9yFMuuwKSWyNaSNE9VLgU2VI3XK2UAG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Background Snowflakes Christmas Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/light-purple-background-snowflakes-christmas-260nw-744476314.jpg' alt='Light Purple Background Snowflakes Christmas Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/light-purple-background-snowflakes-christmas-260nw-744476314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpaper, background, lock screen. Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/d3/c2/62d3c2549f87c08c144e43de14ad8ce7.jpg' alt='Christmas Phone Wallpaper, background, lock screen. Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/d3/c2/62d3c2549f87c08c144e43de14ad8ce7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Images – Browse 747,836 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' alt='Purple Christmas Images – Browse 747,836 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/06/08/dd/0608dd8d476045408eadd197462052d9.jpg' alt='Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/06/08/dd/0608dd8d476045408eadd197462052d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10241027.jpg' alt='Light Purple Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10241027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

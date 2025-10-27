@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Wall Mural Wallpaper</title>
+                    <meta name="description" content="Enhance your home decor with stunning floral wall mural wallpaper. Explore vibrant designs that breathe life into your walls. Perfect for any room, this wallpaper is easy to install and remove, making it ideal for renters and homeowners looking for a stylish upgrade.">
+                    <meta name="keywords" content="floral wall mural wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wall-mural-wallpaper">
+                            <span itemprop="name">floral wall mural wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Wall Mural Wallpaper</h1>
+                <p>Floral wall mural wallpaper adds vibrant beauty to any space, transforming dull walls into stunning focal points. This wallpaper features intricate floral designs that create a calming atmosphere, perfect for living rooms, bedrooms, or even offices. Easy to apply and remove, it’s a stylish choice for renters and homeowners alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eAsa6oAOL._AC_UF894,1000_QL80_.jpg' alt='Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eAsa6oAOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Hanging Flowers Floral Wallpaper Wall Mural, Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18000923/r/il/0a0dc7/2313593098/il_570xN.2313593098_4vcf.jpg' alt='Watercolor Hanging Flowers Floral Wallpaper Wall Mural, Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18000923/r/il/0a0dc7/2313593098/il_570xN.2313593098_4vcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral WALL MURAL, Colorful Flowers Wallpaper, Beautiful Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14848056/r/il/da53c2/1743880375/il_fullxfull.1743880375_94vv.jpg' alt='Floral WALL MURAL, Colorful Flowers Wallpaper, Beautiful Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14848056/r/il/da53c2/1743880375/il_fullxfull.1743880375_94vv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Pink Flowers Wall Mural CCM098">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/products/zoom_d9354f80-6552-4a47-a87c-cb08afd6d3f3.jpg?v=1674961818' alt='Large Pink Flowers Wall Mural CCM098'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/products/zoom_d9354f80-6552-4a47-a87c-cb08afd6d3f3.jpg?v=1674961818' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 183"x120"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 183"x120"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Flowers Wall Mural | Floral Crush – WallsNeedLove">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/m1765_1s_Floral-Crush-Wall-Mural-WallsNeedLove_For-Home-Offices-1_1800x1800.jpg?v=1734717532' alt='Bold Flowers Wall Mural | Floral Crush – WallsNeedLove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/m1765_1s_Floral-Crush-Wall-Mural-WallsNeedLove_For-Home-Offices-1_1800x1800.jpg?v=1734717532' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wall Murals - Removable Wallpaper Murals - Eazywallz">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/collections/a34f8232d5414423f342c9ad5e60cee4_1400x.jpg?v=1651588624' alt='Floral Wall Murals - Removable Wallpaper Murals - Eazywallz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/collections/a34f8232d5414423f342c9ad5e60cee4_1400x.jpg?v=1651588624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Garden Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/w/a/watercolor-garden-floral-wallpaper-colorful-flower-wall-mural-da_zgp1bghmbgh_3d_2.jpg' alt='Watercolor Garden Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/w/a/watercolor-garden-floral-wallpaper-colorful-flower-wall-mural-da_zgp1bghmbgh_3d_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Floral Wallpaper | Anewall Mural Wallpapers">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/blush-floral-mural-wallpaper-5.jpg?v=1598560725' alt='Blush Floral Wallpaper | Anewall Mural Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/blush-floral-mural-wallpaper-5.jpg?v=1598560725' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

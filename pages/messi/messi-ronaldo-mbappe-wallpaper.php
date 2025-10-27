@@ -1,0 +1,129 @@
+<title>Top Messi, Ronaldo & Mbappe Wallpapers for Fans</title>
+                    <meta name="description" content="Discover the best Messi, Ronaldo, and Mbappe wallpapers to enhance your device. Click to find vibrant, high-quality images celebrating these football legends. Perfect for true fans looking to showcase their passion on any screen!">
+                    <meta name="keywords" content="messi ronaldo mbappe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-ronaldo-mbappe-wallpaper">
+                            <span itemprop="name">messi ronaldo mbappe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Messi, Ronaldo & Mbappe Wallpapers for Fans</h1>
+                <p>Elevate your device's aesthetic with stunning wallpapers featuring Messi, Ronaldo, and Mbappe. These icons of football bring excitement and flair to your screens. From dynamic action shots to artistic portraits, find the perfect wallpaper that showcases your favorite player's charisma and talent. Transform your phone or desktop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kylian Mbappe, Mohamed Salah, Erling Haaland vying to usurp Lionel ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/22/03/1600x900/skysports-messi-neymar-ronaldo_5695805.png?20220305194643' alt='Kylian Mbappe, Mohamed Salah, Erling Haaland vying to usurp Lionel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/22/03/1600x900/skysports-messi-neymar-ronaldo_5695805.png?20220305194643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KYLIAN MBAPPE vs RONALDO / MESSI">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/12/94/681294ec7ed0fcff8075863a50708ea2.jpg' alt='KYLIAN MBAPPE vs RONALDO / MESSI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/12/94/681294ec7ed0fcff8075863a50708ea2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Ronaldo Neymar Mbappe Background Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/messi-ronaldo-neymar-mbappe-3840x2160.jpg' alt='Messi Ronaldo Neymar Mbappe Background Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/messi-ronaldo-neymar-mbappe-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Famous Football Superstar Ronaldo, Messi, Neymar And Mbape Set of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/0e/27/1f0e271f2a59bd426062578485a71b39.jpg' alt='Famous Football Superstar Ronaldo, Messi, Neymar And Mbape Set of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/0e/27/1f0e271f2a59bd426062578485a71b39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mbappe, Haaland, Ronaldo and Messi have all scored exactly      ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2559240134780711346' alt='Mbappe, Haaland, Ronaldo and Messi have all scored exactly      ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2559240134780711346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Messi Mbappe Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/OzygSK-_4Ts0v9g1jFBjfuAinlvJzHefjRlk3fzNXNERdrzfxUE1-LBoevEpQnbAhfk=w526-h296-rw' alt='Ronaldo Messi Mbappe Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/OzygSK-_4Ts0v9g1jFBjfuAinlvJzHefjRlk3fzNXNERdrzfxUE1-LBoevEpQnbAhfk=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Messi Neymar Mbappe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpaperaccess.com/full/1717830.jpg' alt='Ronaldo Messi Neymar Mbappe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://wallpaperaccess.com/full/1717830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Messi Mbappe Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/FTef-Mrke_s2l9eGgV7C_G5fleFqPSI0x_Igxbz8wFhnwOTW5EDdTF4PeYEna1jSJ2A=w526-h296-rw' alt='Ronaldo Messi Mbappe Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="198">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/FTef-Mrke_s2l9eGgV7C_G5fleFqPSI0x_Igxbz8wFhnwOTW5EDdTF4PeYEna1jSJ2A=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football lovers, abo trika, cadillacs, mbappe, messi, ramos ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/286/HD-wallpaper-football-lovers-abo-trika-cadillacs-mbappe-messi-ramos-ronaldo-salah-totti.jpg' alt='Football lovers, abo trika, cadillacs, mbappe, messi, ramos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/286/HD-wallpaper-football-lovers-abo-trika-cadillacs-mbappe-messi-ramos-ronaldo-salah-totti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✓ ⚽ WAZAFOOT NEWS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b2/69/bf/b269bf9d71a80dbe8ad3648834522da1.jpg' alt='✓ ⚽ WAZAFOOT NEWS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b2/69/bf/b269bf9d71a80dbe8ad3648834522da1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

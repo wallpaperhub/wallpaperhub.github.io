@@ -1,0 +1,129 @@
+<title>Stunning Gold Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover exquisite gold aesthetic wallpapers that enhance your device's look. Featuring elegant designs, these backgrounds add a luxurious touch to any screen, perfect for personal or professional use. Elevate your aesthetic with our collection today!">
+                    <meta name="keywords" content="background gold aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/background-gold-aesthetic-wallpaper">
+                            <span itemprop="name">background gold aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gold Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning background gold aesthetic wallpapers that radiate elegance and luxury. Perfect for anyone seeking to add a touch of sophistication, these wallpapers showcase rich hues of gold and artistic designs that uplift your space. Ideal for all screens, embrace the beauty of gold with these captivating wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Gold aesthetic wallpaper with foil top view">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-foil-top-view_23-2149872257.jpg' alt='Free Photo | Gold aesthetic wallpaper with foil top view'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-foil-top-view_23-2149872257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold aesthetic | Iphone wallpaper, Gold wallpaper iphone, Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/8e/2f/dc8e2f60834a3d8bb17081f1c43c1810.jpg' alt='Gold aesthetic | Iphone wallpaper, Gold wallpaper iphone, Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/8e/2f/dc8e2f60834a3d8bb17081f1c43c1810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/elegant-coral-gold-ink-background_24972-1843.jpg' alt='Gold Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/elegant-coral-gold-ink-background_24972-1843.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gold aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/b9e836/2797005270/il_fullxfull.2797005270_rlnp.jpg' alt='gold aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1168">
+                                <meta itemprop="height" content="2264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/b9e836/2797005270/il_fullxfull.2797005270_rlnp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/3e/04/4d3e04d6d2986f588d818de782ed47a0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/3e/04/4d3e04d6d2986f588d818de782ed47a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Aesthetic Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210501/pngtree-aesthetic-orange-gold-marble-background-image_691021.jpg' alt='Gold Aesthetic Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210501/pngtree-aesthetic-orange-gold-marble-background-image_691021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gold aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/1d/12/f21d12fec6413a5b571d53cfc95efc37.jpg' alt='gold aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/1d/12/f21d12fec6413a5b571d53cfc95efc37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Satin Aesthetic Background, Gold, Christmass, Luxury ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230618/original/pngtree-gold-satin-aesthetic-background-picture-image_3715992.jpg' alt='Gold Satin Aesthetic Background, Gold, Christmass, Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230618/original/pngtree-gold-satin-aesthetic-background-picture-image_3715992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gold Aesthetic Glitter Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-aesthetic-glitter-z2sei4gr016n3a0v.jpg' alt='Download Gold Aesthetic Glitter Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1003">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-aesthetic-glitter-z2sei4gr016n3a0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gold Aesthetic Flowers Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-aesthetic-flowers-rs7d24w3ymm5wfl5.jpg' alt='Download Gold Aesthetic Flowers Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-aesthetic-flowers-rs7d24w3ymm5wfl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

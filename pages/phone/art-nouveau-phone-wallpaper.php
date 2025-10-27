@@ -1,0 +1,129 @@
+<title>Stunning Art Nouveau Phone Wallpapers for Chic Aesthetics</title>
+                    <meta name="description" content="Discover exquisite art nouveau phone wallpapers that blend elegance and creativity. Perfect for adding a vintage touch to your mobile device. Explore unique designs that elevate your screen with aesthetic charm and artistic flair! Download now to personalize your phone in style!">
+                    <meta name="keywords" content="art nouveau phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/art-nouveau-phone-wallpaper">
+                            <span itemprop="name">art nouveau phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Art Nouveau Phone Wallpapers for Chic Aesthetics</h1>
+                <p>Transform your device with stunning art nouveau phone wallpapers that showcase intricate designs and elegant floral patterns. Embrace the beauty of this artistic movement, bringing classic charm and sophistication to your mobile screen. Ideal for art lovers and those seeking a unique touch for their phone backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3JtNzAxZGVzaWduLXJlbWl4LXRuLTAwOS1jLmpwZw.jpg' alt='Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3JtNzAxZGVzaWduLXJlbWl4LXRuLTAwOS1jLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3JtNzAxZGVzaWduLXJlbWl4LXRuLTAxMi1kLWEtbG5iNW9jazYuanBn.jpg' alt='Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3JtNzAxZGVzaWduLXJlbWl4LXRuLTAxMi1kLWEtbG5iNW9jazYuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Art Nouveau Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1672829409/articles/R19227_product.jpg' alt='50 Art Nouveau Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1672829409/articles/R19227_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau iPhone Wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/cd/22/a7cd223cde5eaf1ba2a8f419dd1e0bf5.jpg' alt='Art Nouveau iPhone Wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/cd/22/a7cd223cde5eaf1ba2a8f419dd1e0bf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Vintage mobile wallpaper, iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/a4/c6/3ba4c6b27e428c21e7094dbd2e563bd3.jpg' alt='Download premium image of Vintage mobile wallpaper, iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/a4/c6/3ba4c6b27e428c21e7094dbd2e563bd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Art Nouveau Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/art-nouveau-ouk1bc4byb6q5whz.jpg' alt='100+] Art Nouveau Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/art-nouveau-ouk1bc4byb6q5whz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buttercup in art nouveau patterns for wallpapers and a vase ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/2/buttercup-in-art-nouveau-patterns-for-wallpapers-and-a-vase-lithograph-by-m-p-verneuil-album.jpg' alt='Buttercup in art nouveau patterns for wallpapers and a vase ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Album" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/2/buttercup-in-art-nouveau-patterns-for-wallpapers-and-a-vase-lithograph-by-m-p-verneuil-album.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80NV9kaWdpdGFsX2FydF93YWxscGFwZXJfb2ZfdmluZXNfZmxhdF9tdXRlZF9jb19lYjVjZDgzNS1kOTNjLTQ1ZTktODMwYS01YzlkYjczYjFiZTdfMS5qcGc.jpg' alt='Art Nouveau Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80NV9kaWdpdGFsX2FydF93YWxscGFwZXJfb2ZfdmluZXNfZmxhdF9tdXRlZF9jb19lYjVjZDgzNS1kOTNjLTQ1ZTktODMwYS01YzlkYjczYjFiZTdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art nouveau wallpaper | Decorative turn-of-the-century art ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/7e/3a/2d/461502_Despina_5760x2880.jpg' alt='Art nouveau wallpaper | Decorative turn-of-the-century art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/7e/3a/2d/461502_Despina_5760x2880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Maiden, art nouveau, desenho, fine art, henri privat ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/232/717/HD-wallpaper-art-nouveau-maiden-art-nouveau-design-fine-art-henri-privat-livemont-poster-poster-art-roses-woman-women.jpg' alt='Art Nouveau Maiden, art nouveau, desenho, fine art, henri privat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/232/717/HD-wallpaper-art-nouveau-maiden-art-nouveau-design-fine-art-henri-privat-livemont-poster-poster-art-roses-woman-women.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Magical Background of Mario Land</title>
+                    <meta name="description" content="Discover the captivating background of Mario Land, where lush environments, colorful characters, and iconic elements create an enchanting adventure. Dive into this whimsical world filled with nostalgia and excitement for gamers of all ages!">
+                    <meta name="keywords" content="mario land background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-land-background">
+                            <span itemprop="name">mario land background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Magical Background of Mario Land</h1>
+                <p>Mario Land is a vibrant universe filled with lush landscapes, colorful characters, and whimsical elements. This enchanting background draws players into adventures where they can navigate diverse terrains, from green hills to mysterious castles. Iconic features like question blocks and power-ups add excitement, creating a nostalgic charm for fans of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Super Mario Land HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/671/671851.jpg' alt='Download Video Game Super Mario Land HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/671/671851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros. Classic - 8K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/860/860645.png' alt='Super Mario Bros. Classic - 8K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/860/860645.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Land - Mario & Video Games Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1447/1447663-bigthumbnail.jpg' alt='Mario Land - Mario & Video Games Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Video Game Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1447/1447663-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Land W1-1 Wallpaper [DMG] by BLUEamnesiac on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/347b1ddd-5231-4d82-8550-1fd0f0dc4afb/d7derc3-e9e0df28-8639-422c-aef1-01513047ea5a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0N2IxZGRkLTUyMzEtNGQ4Mi04NTUwLTFmZDBmMGRjNGFmYlwvZDdkZXJjMy1lOWUwZGYyOC04NjM5LTQyMmMtYWVmMS0wMTUxMzA0N2VhNWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jOxabladgQMkUpGFys59ofEuAdIDutTnRFL08RsecQc' alt='Super Mario Land W1-1 Wallpaper [DMG] by BLUEamnesiac on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/347b1ddd-5231-4d82-8550-1fd0f0dc4afb/d7derc3-e9e0df28-8639-422c-aef1-01513047ea5a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0N2IxZGRkLTUyMzEtNGQ4Mi04NTUwLTFmZDBmMGRjNGFmYlwvZDdkZXJjMy1lOWUwZGYyOC04NjM5LTQyMmMtYWVmMS0wMTUxMzA0N2VhNWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jOxabladgQMkUpGFys59ofEuAdIDutTnRFL08RsecQc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Land Stock Illustrations – 13 Mario Land Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vector-seamless-old-retro-video-game-background-classic-style-game-design-scenery-cool-vector-seamless-old-retro-video-game-140394287.jpg' alt='Mario Land Stock Illustrations – 13 Mario Land Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vector-seamless-old-retro-video-game-background-classic-style-game-design-scenery-cool-vector-seamless-old-retro-video-game-140394287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario World HD by KeR- on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40263af4-b94e-4c5c-b9de-2e5b6fe29f17/dbrrt2-de56954f-a7cc-4f99-b8e8-4c09f3420225.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwMjYzYWY0LWI5NGUtNGM1Yy1iOWRlLTJlNWI2ZmUyOWYxN1wvZGJycnQyLWRlNTY5NTRmLWE3Y2MtNGY5OS1iOGU4LTRjMDlmMzQyMDIyNS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZnDKt_jfbrCG_UVEx2juoPTTt8L--0OFl8jTFubaJ8s' alt='Mario World HD by KeR- on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40263af4-b94e-4c5c-b9de-2e5b6fe29f17/dbrrt2-de56954f-a7cc-4f99-b8e8-4c09f3420225.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwMjYzYWY0LWI5NGUtNGM1Yy1iOWRlLTJlNWI2ZmUyOWYxN1wvZGJycnQyLWRlNTY5NTRmLWE3Y2MtNGY5OS1iOGU4LTRjMDlmMzQyMDIyNS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZnDKt_jfbrCG_UVEx2juoPTTt8L--0OFl8jTFubaJ8s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Backgrounds Stock Illustrations – 35 Mario Backgrounds Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/immerse-yourself-retro-gaming-glory-stunning-super-mario-bros-backgrounds-download-breathtaking-k-wallpapers-unleash-350843960.jpg' alt='Mario Backgrounds Stock Illustrations – 35 Mario Backgrounds Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/immerse-yourself-retro-gaming-glory-stunning-super-mario-bros-backgrounds-download-breathtaking-k-wallpapers-unleash-350843960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Land, mountain, pipes, blocks, land, clouds, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/812/940/HD-wallpaper-mario-land-mountain-pipes-blocks-land-clouds.jpg' alt='Mario Land, mountain, pipes, blocks, land, clouds, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/812/940/HD-wallpaper-mario-land-mountain-pipes-blocks-land-clouds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Super Mario World Game Landscape Colorful ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/332/332872.png' alt='Download Video Game Super Mario World Game Landscape Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/332/332872.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Land, games, nes, nintendo, super mario, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/139/845/HD-wallpaper-super-mario-land-games-nes-nintendo-super-mario.jpg' alt='Super Mario Land, games, nes, nintendo, super mario, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/139/845/HD-wallpaper-super-mario-land-games-nes-nintendo-super-mario.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

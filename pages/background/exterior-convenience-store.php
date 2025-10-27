@@ -1,0 +1,129 @@
+<title>Shop Smart: Your Go-To Exterior Convenience Store</title>
+                    <meta name="description" content="Discover your neighborhood exterior convenience store, offering a variety of essentials and snacks, perfect for busy lifestyles. Enjoy quick access, ample parking, and quality service designed for your convenience. Stop by today to experience hassle-free shopping at its best!">
+                    <meta name="keywords" content="exterior convenience store">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/exterior-convenience-store">
+                            <span itemprop="name">exterior convenience store</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shop Smart: Your Go-To Exterior Convenience Store</h1>
+                <p>Exterior convenience stores are designed for quick access and efficiency. Featuring a diverse range of products, from snacks to essentials, they cater to customers on the go. With attractive signage and ample parking, these stores create a welcoming environment, encouraging foot traffic and maximizing convenience for busy shoppers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Modern Convenience Store Exterior Design Ideas | Nichiha USA">
+                                <img itemprop="contentUrl url" src='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-WoodSeries-KuraStoneSeries-VintageWood-LedgeStone-Illumination-Horizontal.jpg?t=1666011280' alt='7 Modern Convenience Store Exterior Design Ideas | Nichiha USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nichiha USA" />
+                                </span>
+                                <a href='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-WoodSeries-KuraStoneSeries-VintageWood-LedgeStone-Illumination-Horizontal.jpg?t=1666011280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convenience Store News 2019 Store Design Contest: Best Original ...">
+                                <img itemprop="contentUrl url" src='https://assets1.csnews.com/files/styles/content_sm/s3/2019-09/Enmarket%201.jpg?itok=osUFnbtd' alt='Convenience Store News 2019 Store Design Contest: Best Original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enmarket" />
+                                </span>
+                                <a href='https://assets1.csnews.com/files/styles/content_sm/s3/2019-09/Enmarket%201.jpg?itok=osUFnbtd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convenience store exterior usa hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EM9HR2/the-exterior-front-and-parking-of-a-7-eleven-convenience-store-in-EM9HR2.jpg' alt='Convenience store exterior usa hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EM9HR2/the-exterior-front-and-parking-of-a-7-eleven-convenience-store-in-EM9HR2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Modern Convenience Store Exterior Design Ideas | Nichiha USA">
+                                <img itemprop="contentUrl url" src='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-BrickSeries-PlymouthBrick-Crimson.jpg?t=1666011282' alt='7 Modern Convenience Store Exterior Design Ideas | Nichiha USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nichiha USA" />
+                                </span>
+                                <a href='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-BrickSeries-PlymouthBrick-Crimson.jpg?t=1666011282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,944 Convenience Store Outside Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2283269889/display_1500/stock-photo-samut-sakhon-thailand-march-large-convenience-building-store-with-customer-2283269889.jpg' alt='3,944 Convenience Store Outside Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2283269889/display_1500/stock-photo-samut-sakhon-thailand-march-large-convenience-building-store-with-customer-2283269889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Ways C-Store Design is Meeting the Needs of Grocery Shoppers">
+                                <img itemprop="contentUrl url" src='https://kingrs.com/wp-content/uploads/2021/02/01_header_c-store-exterior.jpg' alt='5 Ways C-Store Design is Meeting the Needs of Grocery Shoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="King Retail Solutions" />
+                                </span>
+                                <a href='https://kingrs.com/wp-content/uploads/2021/02/01_header_c-store-exterior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Modern Convenience Store Exterior Design Ideas | Nichiha USA">
+                                <img itemprop="contentUrl url" src='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-WoodSeries-DesignerSeries-VintageWood-Illumination-Ash.jpg?t=1666011282' alt='7 Modern Convenience Store Exterior Design Ideas | Nichiha USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nichiha USA" />
+                                </span>
+                                <a href='https://www.nichiha.com/uploads/blog/modern-convenience-store-exterior-design-considerations-and-7-examples/Nichiha-Commercial-WoodSeries-DesignerSeries-VintageWood-Illumination-Ash.jpg?t=1666011282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convenience store exterior hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/B8HD97/arlington-virginia-usa-7-eleven-convenience-store-exterior-B8HD97.jpg' alt='Convenience store exterior hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/B8HD97/arlington-virginia-usa-7-eleven-convenience-store-exterior-B8HD97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convenience Store Exterior Images – Browse 9,374 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/86/05/53/360_F_586055398_aAZDKNMGtE6IkRImBINS5Tf0CDhE6Dmq.jpg' alt='Convenience Store Exterior Images – Browse 9,374 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/86/05/53/360_F_586055398_aAZDKNMGtE6IkRImBINS5Tf0CDhE6Dmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Lighting Practices for C-Stores and Gas Stations | Venture Fuels">
+                                <img itemprop="contentUrl url" src='https://www.venturefuels.com/wp-content/uploads/2024/09/c-store-lighting.jpg' alt='Best Lighting Practices for C-Stores and Gas Stations | Venture Fuels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venture Fuels" />
+                                </span>
+                                <a href='https://www.venturefuels.com/wp-content/uploads/2024/09/c-store-lighting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mitsuri Kanroji: The Love Hashira of Demon Slayer</title>
+                    <meta name="description" content="Discover Mitsuri Kanroji, the enchanting Love Hashira from "Demon Slayer." Explore her unique abilities, captivating story, and the themes of love and courage that define her character in the anime universe. Join the journey of this beloved character and her impact on fans worldwide.">
+                    <meta name="keywords" content="mitsuri kanroji">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mitsuri-kanroji">
+                            <span itemprop="name">mitsuri kanroji</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mitsuri Kanroji: The Love Hashira of Demon Slayer</h1>
+                <p>Mitsuri Kanroji, known as the Love Hashira in "Demon Slayer," captivates fans with her vibrant personality and exceptional combat skills. With her signature pink hair and green eyes, she embodies love's strength, using her unique Breathing Techniques to protect humanity. Mitsuri’s journey explores themes of acceptance, courage, and deep emotional bonds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/13/Mitsuri_anime_right_face.png/revision/latest?cb=20241228000549' alt='Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/13/Mitsuri_anime_right_face.png/revision/latest?cb=20241228000549' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Mitsuri_welcomes_Tanjiro_to_her_abode.png/revision/latest?cb=20240602193618' alt='Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Mitsuri_welcomes_Tanjiro_to_her_abode.png/revision/latest?cb=20240602193618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji | Shojo Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/shojo-heroes/images/7/7b/Mitsuri_Kanroji.png/revision/latest?cb=20240402114850' alt='Mitsuri Kanroji | Shojo Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shojo Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/shojo-heroes/images/7/7b/Mitsuri_Kanroji.png/revision/latest?cb=20240402114850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/33/Mitsuri_accepting_Kagaya%27s_wish_to_keep_Nezuko_alive.png/revision/latest?cb=20191106062006' alt='Mitsuri Kanroji | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1274">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/33/Mitsuri_accepting_Kagaya%27s_wish_to_keep_Nezuko_alive.png/revision/latest?cb=20191106062006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banpresto - Demon Slayer: Kimetsu no Yaiba - Mitsuri Kanroji vol. 45 (ver.  B), Bandai Spirits Figure">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61xlTe0BRmL._AC_UF894,1000_QL80_.jpg' alt='Banpresto - Demon Slayer: Kimetsu no Yaiba - Mitsuri Kanroji vol. 45 (ver.  B), Bandai Spirits Figure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61xlTe0BRmL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji: The Love Hashira, a Pillar of Strength and Compassion">
+                                <img itemprop="contentUrl url" src='https://www.superherotoystore.com/cdn/shop/articles/demon-slayer-season-3-mitsuri-kanroji_1600x.jpg?v=1713184673' alt='Mitsuri Kanroji: The Love Hashira, a Pillar of Strength and Compassion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Superhero Toy Store" />
+                                </span>
+                                <a href='https://www.superherotoystore.com/cdn/shop/articles/demon-slayer-season-3-mitsuri-kanroji_1600x.jpg?v=1713184673' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My fanart of Mitsuri Kanroji :) : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/76mvdroa37uc1.jpeg' alt='My fanart of Mitsuri Kanroji :) : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/76mvdroa37uc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji | Divided Destiny Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/divided-destiny/images/f/f7/8xffsv4hk5z31.jpg/revision/latest?cb=20200415110244' alt='Mitsuri Kanroji | Divided Destiny Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Divided Destiny Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/divided-destiny/images/f/f7/8xffsv4hk5z31.jpg/revision/latest?cb=20200415110244' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji Demon Slayer by alchemydesign95 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39c5e433-093e-4523-89c0-cd27495bee8b/dhraykw-0a3f803f-7d4b-46fe-8165-c6b37f0ffeee.png/v1/fill/w_1280,h_1943,q_80,strp/_mitsuri_kanroji_demon_slayer___by_alchemydesign95_dhraykw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk0MyIsInBhdGgiOiJcL2ZcLzM5YzVlNDMzLTA5M2UtNDUyMy04OWMwLWNkMjc0OTViZWU4YlwvZGhyYXlrdy0wYTNmODAzZi03ZDRiLTQ2ZmUtODE2NS1jNmIzN2YwZmZlZWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ieLSIAbERmb1TmL-6OmsK_EibPOzAhzExvfPSr31OZU' alt='Mitsuri Kanroji Demon Slayer by alchemydesign95 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39c5e433-093e-4523-89c0-cd27495bee8b/dhraykw-0a3f803f-7d4b-46fe-8165-c6b37f0ffeee.png/v1/fill/w_1280,h_1943,q_80,strp/_mitsuri_kanroji_demon_slayer___by_alchemydesign95_dhraykw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk0MyIsInBhdGgiOiJcL2ZcLzM5YzVlNDMzLTA5M2UtNDUyMy04OWMwLWNkMjc0OTViZWU4YlwvZGhyYXlrdy0wYTNmODAzZi03ZDRiLTQ2ZmUtODE2NS1jNmIzN2YwZmZlZWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ieLSIAbERmb1TmL-6OmsK_EibPOzAhzExvfPSr31OZU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mitsuri Kanroji Illustration (Official Art) : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-mitsuri-kanroji-illustration-official-art-v0-7f8wg916qe5b1.jpg?width=640&crop=smart&auto=webp&s=d8cdd8b68aa06539af11cea0597ee162c211f2ea' alt='New Mitsuri Kanroji Illustration (Official Art) : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-mitsuri-kanroji-illustration-official-art-v0-7f8wg916qe5b1.jpg?width=640&crop=smart&auto=webp&s=d8cdd8b68aa06539af11cea0597ee162c211f2ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

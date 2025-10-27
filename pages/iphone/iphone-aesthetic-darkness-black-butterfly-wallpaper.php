@@ -1,0 +1,129 @@
+<title>Dark Butterfly Aesthetic Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover stunning black butterfly wallpapers that elevate your iPhone aesthetic. Embrace the beauty of darkness and enhance your device's style with captivating visuals. Perfect for expressing individuality and love for elegance. Upgrade your home screen now!">
+                    <meta name="keywords" content="iphone aesthetic darkness black butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-aesthetic-darkness-black-butterfly-wallpaper">
+                            <span itemprop="name">iphone aesthetic darkness black butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Butterfly Aesthetic Wallpaper for iPhone</h1>
+                <p>The iPhone aesthetic embraces a captivating darkness with stunning black butterfly wallpapers that evoke mystery and elegance. These visuals enhance your device's look, allowing you to express your unique style. Perfect for those who appreciate the beauty in shadows, a black butterfly wallpaper can transform your screen into a piece of art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/d4/9d/99d49d9e86938cfaa732c514f1d84686.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/d4/9d/99d49d9e86938cfaa732c514f1d84686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="butterfly wallpaper GREEN #images #Photos #Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/38/71/e63871c8155967d14e9725cbd7a50f58.jpg' alt='butterfly wallpaper GREEN #images #Photos #Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/38/71/e63871c8155967d14e9725cbd7a50f58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by PEACEMINUSONE on Me | Minimalist wallpaper phone, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/02/8c/4f028cb79a4aeac4cf6ced8c2f25cdcf.jpg' alt='Pin by PEACEMINUSONE on Me | Minimalist wallpaper phone, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/02/8c/4f028cb79a4aeac4cf6ced8c2f25cdcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Butterfly Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3BkMjY2LXJlbWl4LWMtMDExYi5qcGc.jpg' alt='Black Butterfly Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3BkMjY2LXJlbWl4LWMtMDExYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Camila Ramírez on fondos | Butterfly wallpaper backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/f1/a5/f1f1a5eaaf7676ea396875e0810fea84.jpg' alt='Pin by Camila Ramírez on fondos | Butterfly wallpaper backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/f1/a5/f1f1a5eaaf7676ea396875e0810fea84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Black Butterfly Near Finger, dark black, butterfly, finger ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/592/831/HD-wallpaper-dark-black-butterfly-near-finger-dark-black-butterfly-finger-darkness.jpg' alt='Dark Black Butterfly Near Finger, dark black, butterfly, finger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/592/831/HD-wallpaper-dark-black-butterfly-near-finger-dark-black-butterfly-finger-darkness.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Butterfly Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-butterfly-941-x-1673-wallpaper-0bs8gymcsrwg5xkr.jpg' alt='100+] Dark Butterfly Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="1673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-butterfly-941-x-1673-wallpaper-0bs8gymcsrwg5xkr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/59/cd/a159cd722c02e4b7ac01945ffe7c3659.jpg' alt='Aesthetic black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/59/cd/a159cd722c02e4b7ac01945ffe7c3659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly, animal, apple, black, fine, transparent, water, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/130/462/HD-wallpaper-butterfly-animal-apple-black-fine-transparent-water.jpg' alt='Butterfly, animal, apple, black, fine, transparent, water, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/130/462/HD-wallpaper-butterfly-animal-apple-black-fine-transparent-water.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Алена чернякова on Обои | Black wallpaper iphone, Black ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/33/2d/6f332d4a3ec9ebb8910508ba7e2df971.jpg' alt='Pin by Алена чернякова on Обои | Black wallpaper iphone, Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/33/2d/6f332d4a3ec9ebb8910508ba7e2df971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

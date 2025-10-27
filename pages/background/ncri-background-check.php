@@ -1,0 +1,129 @@
+<title>Comprehensive NCRI Background Checks Made Easy</title>
+                    <meta name="description" content="Discover the importance of NCRI background checks for safety and compliance. Our service provides fast and reliable access to criminal records, ensuring informed decisions for employers and organizations. Protect your interests with a detailed background check today.">
+                    <meta name="keywords" content="ncri background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ncri-background-check">
+                            <span itemprop="name">ncri background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comprehensive NCRI Background Checks Made Easy</h1>
+                <p>NCRI background check refers to the National Criminal Records Inquiry that allows organizations and individuals to assess a person's criminal history. This check is vital for ensuring safety and compliance in various sectors, including employment and volunteering. It helps mitigate risks by providing comprehensive criminal record information.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HR Support Services and Talent Acquisition | NCRi">
+                                <img itemprop="contentUrl url" src='https://ncri.com/wp-content/uploads/2023/04/Sex-Offenders-Check-HR-Support.jpg?x60443' alt='HR Support Services and Talent Acquisition | NCRi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NCRi" />
+                                </span>
+                                <a href='https://ncri.com/wp-content/uploads/2023/04/Sex-Offenders-Check-HR-Support.jpg?x60443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HR Support Services and Talent Acquisition | NCRi">
+                                <img itemprop="contentUrl url" src='https://ncri.com/wp-content/uploads/2023/04/Education-Check-HR-Support.jpg?x60443' alt='HR Support Services and Talent Acquisition | NCRi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NCRi" />
+                                </span>
+                                <a href='https://ncri.com/wp-content/uploads/2023/04/Education-Check-HR-Support.jpg?x60443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does A National Criminal Background Check Contain ...">
+                                <img itemprop="contentUrl url" src='http://simpliverified.com/wp-content/uploads/2018/10/AdobeStock_207260667.jpeg' alt='What Does A National Criminal Background Check Contain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3917">
+                                <meta itemprop="height" content="2611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimpliVerified" />
+                                </span>
+                                <a href='http://simpliverified.com/wp-content/uploads/2018/10/AdobeStock_207260667.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Criminal Record Checks for Employers - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.accurate.com/wp-content/uploads/2023/09/blog_featured_criminal-history-checks.jpg' alt='Understanding Criminal Record Checks for Employers - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Background" />
+                                </span>
+                                <a href='https://www.accurate.com/wp-content/uploads/2023/09/blog_featured_criminal-history-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praesidium Background Check - Fill and Sign Printable Template Online">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/50/391/50391566.png' alt='Praesidium Background Check - Fill and Sign Printable Template Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/50/391/50391566.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - National Background Check">
+                                <img itemprop="contentUrl url" src='https://www.nationalbackgroundcheck.com/wp-content/uploads/thegem-logos/logo_2398a1d28f877a33d0c58236262c4035_1x.jpg' alt='Home - National Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.nationalbackgroundcheck.com" />
+                                </span>
+                                <a href='https://www.nationalbackgroundcheck.com/wp-content/uploads/thegem-logos/logo_2398a1d28f877a33d0c58236262c4035_1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not All Background Checks Are Equal">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQFUSrNSyIIhVA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1699375911076?e=2147483647&v=beta&t=gQykg42tSS8BDnOyuzqM8yOK_t6tRZZGKHcuyjwepMA' alt='Not All Background Checks Are Equal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQFUSrNSyIIhVA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1699375911076?e=2147483647&v=beta&t=gQykg42tSS8BDnOyuzqM8yOK_t6tRZZGKHcuyjwepMA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common Background Check Scams: How to Protect Yourself">
+                                <img itemprop="contentUrl url" src='https://asginvestigations.com/background_checks/wp-content/uploads/sites/2/2023/11/Common-Background-Check-Scams-Fake-background-check.jpg' alt='Common Background Check Scams: How to Protect Yourself'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASG Investigations" />
+                                </span>
+                                <a href='https://asginvestigations.com/background_checks/wp-content/uploads/sites/2/2023/11/Common-Background-Check-Scams-Fake-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NCR - FBI Channeler">
+                                <img itemprop="contentUrl url" src='https://www.ncrcredit.com/images/FBI.jpg' alt='NCR - FBI Channeler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="354">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Credit Reporting" />
+                                </span>
+                                <a href='https://www.ncrcredit.com/images/FBI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HR Support Services and Talent Acquisition | NCRi">
+                                <img itemprop="contentUrl url" src='https://ncri.com/wp-content/uploads/2023/04/accounts-receivable-management-1-448x448.jpg' alt='HR Support Services and Talent Acquisition | NCRi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NCRi" />
+                                </span>
+                                <a href='https://ncri.com/wp-content/uploads/2023/04/accounts-receivable-management-1-448x448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Light Red Redemption 2: Stunning Images and Insights</title>
+                    <meta name="description" content="Discover captivating light red images from Red Dead Redemption 2. Dive into the game's breathtaking visuals and memorable scenes, perfectly optimized for mobile viewing. Experience the Wild West like never before with our curated image collection!">
+                    <meta name="keywords" content="light red dead redemption 2 images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-red-dead-redemption-2-images">
+                            <span itemprop="name">light red dead redemption 2 images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Red Redemption 2: Stunning Images and Insights</h1>
+                <p>Explore stunning light red imagery from Red Dead Redemption 2, showcasing the game's breathtaking landscapes, character moments, and dynamic weather. These images encapsulate the emotional depth and immersive atmosphere of the Wild West, offering fans a visual escape into Arthur Morgan's epic journey. Experience the beauty today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead 2 has some of the best lighting I've seen in a game : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j3ottab9iui21.jpg' alt='Red Dead 2 has some of the best lighting I've seen in a game : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j3ottab9iui21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rockstar perfected lighting in a Video game. : r/reddeadredemption">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2kl180kbuyf21.png?auto=webp&s=e6dcece3ce35d1a96fb8f8ccfebc509f55abe559' alt='Rockstar perfected lighting in a Video game. : r/reddeadredemption'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2kl180kbuyf21.png?auto=webp&s=e6dcece3ce35d1a96fb8f8ccfebc509f55abe559' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The lighting in my house looks a lot like the lighting in RDR2 : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-lighting-in-my-house-looks-a-lot-like-the-lighting-in-v0-s4rexb2e1kkb1.png?width=1920&format=png&auto=webp&s=be466b4a81f5ceb27592eed645afdfee55c006e3' alt='The lighting in my house looks a lot like the lighting in RDR2 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-lighting-in-my-house-looks-a-lot-like-the-lighting-in-v0-s4rexb2e1kkb1.png?width=1920&format=png&auto=webp&s=be466b4a81f5ceb27592eed645afdfee55c006e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 Screenshots I | Pierre Yves Donzallaz">
+                                <img itemprop="contentUrl url" src='https://pydonzallaz.wordpress.com/wp-content/uploads/2017/05/rdr2_forest_horse.jpg' alt='Red Dead Redemption 2 Screenshots I | Pierre Yves Donzallaz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pierre Yves Donzallaz - WordPress.com" />
+                                </span>
+                                <a href='https://pydonzallaz.wordpress.com/wp-content/uploads/2017/05/rdr2_forest_horse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IMO the night lighting in Saint Denis is one of the best one out ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LTcQ13Ng0M3R8VVeBMuUqh-Zn6nAX2CiDh7TVL3yvUY.jpg?auto=webp&s=c59f16e71def2feba0aad5d5edc440a0f611ca96' alt='IMO the night lighting in Saint Denis is one of the best one out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LTcQ13Ng0M3R8VVeBMuUqh-Zn6nAX2CiDh7TVL3yvUY.jpg?auto=webp&s=c59f16e71def2feba0aad5d5edc440a0f611ca96' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Red Dead Redemption 2 Lighting">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/covers/images/009/053/586/large/christopher-logan-01-0000-rdr6.jpg?1516853769' alt='ArtStation - Red Dead Redemption 2 Lighting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1914">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/covers/images/009/053/586/large/christopher-logan-01-0000-rdr6.jpg?1516853769' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption II's HDR Problem And What You Can Do To Fix It ...">
+                                <img itemprop="contentUrl url" src='https://blogs-images.forbes.com/kevinmurnane/files/2018/10/Golden-Silhouette_RG.png' alt='Red Dead Redemption II's HDR Problem And What You Can Do To Fix It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://blogs-images.forbes.com/kevinmurnane/files/2018/10/Golden-Silhouette_RG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphics Study: Red Dead Redemption 2 :: Dear World,">
+                                <img itemprop="contentUrl url" src='https://imgeself.github.io/img/lightpass2.jpg' alt='Graphics Study: Red Dead Redemption 2 :: Dear World,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dear World," />
+                                </span>
+                                <a href='https://imgeself.github.io/img/lightpass2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arguably the best graphics of all time : r/RDR2">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/arguably-the-best-graphics-of-all-time-v0-t8qlcp7h6ixd1.jpeg?auto=webp&s=7ef50aed8397f228a9b01190b5604461d0bc02a0' alt='Arguably the best graphics of all time : r/RDR2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/arguably-the-best-graphics-of-all-time-v0-t8qlcp7h6ixd1.jpeg?auto=webp&s=7ef50aed8397f228a9b01190b5604461d0bc02a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Unsettling Swamplands of 'Red Dead Redemption 2' [Best of 2018 ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/11/red-dead-2-swamp-01.jpg?resize=740%2C493&ssl=1' alt='The Unsettling Swamplands of 'Red Dead Redemption 2' [Best of 2018 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloody Disgusting" />
+                                </span>
+                                <a href='https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/11/red-dead-2-swamp-01.jpg?resize=740%2C493&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

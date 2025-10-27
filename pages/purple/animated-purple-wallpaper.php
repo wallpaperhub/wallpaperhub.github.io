@@ -1,0 +1,129 @@
+<title>Stunning Animated Purple Wallpaper for Your Device</title>
+                    <meta name="description" content="Revitalize your device's look with eye-catching animated purple wallpaper. Offering a blend of elegance and creativity, these dynamic designs enhance your screens with beautiful shades and patterns. Ideal for personalizing your digital space!">
+                    <meta name="keywords" content="animated purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/animated-purple-wallpaper">
+                            <span itemprop="name">animated purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Animated Purple Wallpaper for Your Device</h1>
+                <p>Explore the enchanting world of animated purple wallpaper that transforms your devices with vibrant hues and captivating designs. Perfect for adding a touch of elegance and creativity to your screens, these animations create an immersive experience. Discover a range of styles, from soothing gradients to bold patterns, to match your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Peaceful Purple Space - Moving Background #AAVFX Animated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M6CLYXkfiWE/maxresdefault.jpg' alt='4K Peaceful Purple Space - Moving Background #AAVFX Animated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M6CLYXkfiWE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' alt='4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Animated Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fishing-village-seashore-neon-cartoon_1441-3154.jpg' alt='Purple Animated Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fishing-village-seashore-neon-cartoon_1441-3154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Moon Live Wallpaper - WallpaperWaifu">
+                                <img itemprop="contentUrl url" src='https://wallpaperwaifu.com/wp-content/uploads/2020/05/purple-moon-thumb.jpg' alt='Purple Moon Live Wallpaper - WallpaperWaifu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperWaifu" />
+                                </span>
+                                <a href='https://wallpaperwaifu.com/wp-content/uploads/2020/05/purple-moon-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Amazing Japanese cartoon pink purple street mobile phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d0/6f/b5/d06fb5844c3f2eb817826eca677ddc66.jpg' alt='10+ Amazing Japanese cartoon pink purple street mobile phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d0/6f/b5/d06fb5844c3f2eb817826eca677ddc66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8K 4K PURPLE Motion Backgrounds - Relaxing FREE Stock Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eTD0WWFIDAg/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYSiATKH8wDw==&rs=AOn4CLByPI99lAEJr15E8NWcWm_-tsdVXg' alt='8K 4K PURPLE Motion Backgrounds - Relaxing FREE Stock Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eTD0WWFIDAg/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYSiATKH8wDw==&rs=AOn4CLByPI99lAEJr15E8NWcWm_-tsdVXg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Purple - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/cb/ba/8acbbaf8240496268cdafce56a2fc296.jpg' alt='Wallpaper Purple - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/cb/ba/8acbbaf8240496268cdafce56a2fc296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibey Neon Purple Cartoon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vibey-neon-purple-cartoon-x1eo33tpxtbmuqwe.jpg' alt='Download Vibey Neon Purple Cartoon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vibey-neon-purple-cartoon-x1eo33tpxtbmuqwe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Purple Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/4402/firewatch-purple-night.jpg' alt='50+ Purple Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/4402/firewatch-purple-night.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Forest Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Purple-Forest.jpg' alt='Purple Forest Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Purple-Forest.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

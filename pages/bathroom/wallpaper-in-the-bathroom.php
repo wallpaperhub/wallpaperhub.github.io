@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wallpaper in the bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/wallpaper-in-the-bathroom">
+                            <span itemprop="name">wallpaper in the bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you wallpaper a bathroom and if so, how? – Sophie Robinson">
+                                <img itemprop="contentUrl url" src='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' alt='Can you wallpaper a bathroom and if so, how? – Sophie Robinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sophie Robinson" />
+                                </span>
+                                <a href='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Hang Wallpaper in a Bathroom | ROMAN Products">
+                                <img itemprop="contentUrl url" src='https://romandecoratingproducts.com/wp-content/uploads/2024/06/colorful-and-floral-wallpaper-in-a-bathroom.png' alt='How to Hang Wallpaper in a Bathroom | ROMAN Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roman Decorating Products" />
+                                </span>
+                                <a href='https://romandecoratingproducts.com/wp-content/uploads/2024/06/colorful-and-floral-wallpaper-in-a-bathroom.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper and tile combinations that pair beautifully for a ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' alt='Wallpaper and tile combinations that pair beautifully for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erin Kestenbaum" />
+                                </span>
+                                <a href='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/JrAfOrGAaK2EdKDscdpGw_6rCak=/3633x0/filters:no_upscale():strip_icc()/102255670_preview1-0ff95cc6a4b644229c751fe2a0f47238.jpg' alt='37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3633">
+                                <meta itemprop="height" content="5449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/JrAfOrGAaK2EdKDscdpGw_6rCak=/3633x0/filters:no_upscale():strip_icc()/102255670_preview1-0ff95cc6a4b644229c751fe2a0f47238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Bathroom Wallpaper Ideas to Add Pretty Color and Pattern">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bathroom-wallpaper-blue-tub-66b52abe0e387.jpg' alt='40 Bathroom Wallpaper Ideas to Add Pretty Color and Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2303">
+                                <meta itemprop="height" content="3455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Country Living Magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bathroom-wallpaper-blue-tub-66b52abe0e387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Renovation Wallpaper Ideas and Inspiration - The Zhush">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/thezhush.com/wp-content/uploads/2019/05/best-wallpaper-picks.png' alt='Bathroom Renovation Wallpaper Ideas and Inspiration - The Zhush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Zhush" />
+                                </span>
+                                <a href='https://i2.wp.com/thezhush.com/wp-content/uploads/2019/05/best-wallpaper-picks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' alt='Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small cheap bathroom wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/QLmydRy5TuwlegcarzQI87M-EbU=/2667x0/filters:no_upscale():strip_icc()/Bathroom-muted-floral-wallpaper-BSvsitSmaO7ABsRgPGSTS6-4ed425e2ad0248f880c1946d8be09d43.jpg' alt='Small cheap bathroom wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.portf.net" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/QLmydRy5TuwlegcarzQI87M-EbU=/2667x0/filters:no_upscale():strip_icc()/Bathroom-muted-floral-wallpaper-BSvsitSmaO7ABsRgPGSTS6-4ed425e2ad0248f880c1946d8be09d43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you wallpaper a bathroom and if so, how? – Sophie Robinson">
+                                <img itemprop="contentUrl url" src='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divien-SavagesDECO-MARTINI-ARSENIC-ROOM2_f219c71f-0bfd-4823-a85f-7a972a890469_1024x1024@2x.jpg' alt='Can you wallpaper a bathroom and if so, how? – Sophie Robinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sophie Robinson" />
+                                </span>
+                                <a href='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divien-SavagesDECO-MARTINI-ARSENIC-ROOM2_f219c71f-0bfd-4823-a85f-7a972a890469_1024x1024@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Bathroom Wallpaper Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/NfjBLzz445OgWi3_YYlY6b5Lk0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GeorgeSt-9copy-e6a233b23ac04d5d8c52288dc0ae863f.jpg' alt='39 Bathroom Wallpaper Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/NfjBLzz445OgWi3_YYlY6b5Lk0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GeorgeSt-9copy-e6a233b23ac04d5d8c52288dc0ae863f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

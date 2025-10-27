@@ -1,0 +1,129 @@
+<title>Adorable Autumn iPhone Wallpapers</title>
+                    <meta name="description" content="Explore a collection of cute autumn wallpaper for your iPhone! Discover delightful designs featuring autumn leaves, pumpkins, and cozy imagery that enhance your device while celebrating the season. Perfect for adding a touch of fall to your screen! Download now and enjoy the warm colors of autumn!">
+                    <meta name="keywords" content="cute autumn wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cute-autumn-wallpaper-iphone">
+                            <span itemprop="name">cute autumn wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Autumn iPhone Wallpapers</h1>
+                <p>Discover the charm of autumn with cute iPhone wallpapers that capture the season's beauty. From vibrant leaves to cozy pumpkin motifs, transform your screen with delightful designs that reflect the warm hues and cozy vibes of fall. Download your favorite wallpaper today and enjoy autumn every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn iPhone Wallpapers - Ginger and Ivory">
+                                <img itemprop="contentUrl url" src='https://gingerandivory.com/wp-content/uploads/2019/09/Fall-iphone-multi-pumpkin.png' alt='Free Autumn iPhone Wallpapers - Ginger and Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ginger and Ivory" />
+                                </span>
+                                <a href='https://gingerandivory.com/wp-content/uploads/2019/09/Fall-iphone-multi-pumpkin.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ed/a9/f5/eda9f54f1189d1339caab99683c24167.jpg' alt='Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ed/a9/f5/eda9f54f1189d1339caab99683c24167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper Fall Themed Background Phone Wallpapers Phone Backgrounds -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_1080xN.6154506555_t29m.jpg' alt='Fall Wallpaper Fall Themed Background Phone Wallpapers Phone Backgrounds -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_1080xN.6154506555_t29m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn iPhone Wallpapers 2019! - Milk Bubble Tea">
+                                <img itemprop="contentUrl url" src='https://www.milkbubbletea.com/wp-content/uploads/2019/10/autumn-fall-free-iphone-wallpaper-300x533.jpg' alt='Free Autumn iPhone Wallpapers 2019! - Milk Bubble Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milk Bubble Tea" />
+                                </span>
+                                <a href='https://www.milkbubbletea.com/wp-content/uploads/2019/10/autumn-fall-free-iphone-wallpaper-300x533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Aesthetic Fall Iphone Wallpapers You Need for Spooky Season ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/c5/d8/7ac5d81b79658ad7f5ce9e2042a83f97.jpg' alt='21 Aesthetic Fall Iphone Wallpapers You Need for Spooky Season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/c5/d8/7ac5d81b79658ad7f5ce9e2042a83f97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper | Fall iPhone Wallpaper #fallwallpaper #falliphone  #falliphonewallpaper #falliphonetheme #iphonewallpaper #iphonewallpapers  #iphone #wallpaper #phonewallpaper #wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7277741419132013870&location=0&aid=1988' alt='Fall Wallpaper | Fall iPhone Wallpaper #fallwallpaper #falliphone  #falliphonewallpaper #falliphonetheme #iphonewallpaper #iphonewallpapers  #iphone #wallpaper #phonewallpaper #wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7277741419132013870&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fall Phone backgrounds | Gallery posted by HaileeElizabeth ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7280545947086864901&index=2&sign=6a5ca064556a3ee3d5dae0354951efdf' alt='Cute Fall Phone backgrounds | Gallery posted by HaileeElizabeth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7280545947086864901&index=2&sign=6a5ca064556a3ee3d5dae0354951efdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pumpkin Fall Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40927243/r/il/6ddafd/5448024556/il_570xN.5448024556_pjll.jpg' alt='Cute Pumpkin Fall Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40927243/r/il/6ddafd/5448024556/il_570xN.5448024556_pjll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn iPhone Wallpapers - Ginger and Ivory">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/41/0b/c9410b290125d15f9ae8e2ff8636936b.jpg' alt='Free Autumn iPhone Wallpapers - Ginger and Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/41/0b/c9410b290125d15f9ae8e2ff8636936b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Aesthetic Iphone Autumn Clipart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fall-aesthetic-iphone-autumn-clipart-60pcikgb8yj46ksn.jpg' alt='Fall Aesthetic Iphone Autumn Clipart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fall-aesthetic-iphone-autumn-clipart-60pcikgb8yj46ksn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

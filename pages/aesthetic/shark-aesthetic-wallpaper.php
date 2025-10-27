@@ -1,0 +1,129 @@
+<title>Shark Aesthetic Wallpaper: Dive into Oceanic Beauty</title>
+                    <meta name="description" content="Discover stunning shark aesthetic wallpaper to enhance your space. Perfect for ocean lovers, these unique designs bring the beauty of marine life into your home. Explore vibrant scenes and transform your walls into an aquatic paradise with our curated collection!">
+                    <meta name="keywords" content="shark aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/shark-aesthetic-wallpaper">
+                            <span itemprop="name">shark aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shark Aesthetic Wallpaper: Dive into Oceanic Beauty</h1>
+                <p>Dive into the mesmerizing world of shark aesthetic wallpaper! Perfect for marine enthusiasts or anyone who loves the ocean, these stunning designs feature various shark species in vibrant underwater scenes. Transform your space with captivating visuals that bring the thrill of the deep sea right into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Spotted Shark' Wallpaper by Tea Collection - Sky">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Spotted_Shark_by_Tea_Collection_Sky_Detail_720x.jpg?v=1654198258' alt=''Spotted Shark' Wallpaper by Tea Collection - Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Spotted_Shark_by_Tea_Collection_Sky_Detail_720x.jpg?v=1654198258' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjEyLXJlbWl4LTAxMC1jLmpwZw.jpg' alt='Shark Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjEyLXJlbWl4LTAxMC1jLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shark Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/celestial-shark-collage-art-yktrai1xokcqu0s1.jpg' alt='100+] Shark Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/celestial-shark-collage-art-yktrai1xokcqu0s1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/9c/4b/319c4b68647a06d6b0a8e2c84d834c15.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/9c/4b/319c4b68647a06d6b0a8e2c84d834c15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Spotted Shark' Wallpaper by Tea Collection - Peach">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Spotted_Shark_by_Tea_Collection_Peach_Design.jpg?v=1654198268' alt=''Spotted Shark' Wallpaper by Tea Collection - Peach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Spotted_Shark_by_Tea_Collection_Peach_Design.jpg?v=1654198268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/f1/5c/89f15c35cf2c18a2e6595e5ad9472d19.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/f1/5c/89f15c35cf2c18a2e6595e5ad9472d19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @eris some ocean/shark collage wallpapers I like     all photos  sourced from #pinterest and not owned by me:) #wallpaper #slideshow  #collagewallpaper #shark #oceanaesthetic ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7286357106373020970&location=0&aid=1988' alt='Replying to @eris some ocean/shark collage wallpapers I like     all photos  sourced from #pinterest and not owned by me:) #wallpaper #slideshow  #collagewallpaper #shark #oceanaesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7286357106373020970&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what's sharkcore?” a lifestyle #ocean #shark #cuteanimals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/6a/64/c06a64188ef7a9413e0bafee0e647934.jpg' alt='what's sharkcore?” a lifestyle #ocean #shark #cuteanimals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/6a/64/c06a64188ef7a9413e0bafee0e647934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Berrypiestudio's Shuffles Shark ocean blue phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/58/1e/9e/581e9ea318c46a140c3da6dd3d01ff1e.jpg' alt='Check out Berrypiestudio's Shuffles Shark ocean blue phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/58/1e/9e/581e9ea318c46a140c3da6dd3d01ff1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Charades Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.urbanamericandrygoods.com/cdn/shop/products/shark_grey_2048x.png?v=1547733917' alt='Shark Charades Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban American Dry Goods" />
+                                </span>
+                                <a href='https://www.urbanamericandrygoods.com/cdn/shop/products/shark_grey_2048x.png?v=1547733917' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

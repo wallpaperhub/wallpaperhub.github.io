@@ -1,0 +1,129 @@
+<title>Annual Golf Tournament – Join the Fun!</title>
+                    <meta name="description" content="Join us for our Annual Golf Tournament! Compete for prizes, enjoy great food, and connect with fellow golf enthusiasts. Register now for a memorable day on the green at Green Valley Golf Club. Perfect for players of all skill levels! Visit our website for details and sign up today!">
+                    <meta name="keywords" content="golf tournament flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/golf-tournament-flyer">
+                            <span itemprop="name">golf tournament flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Annual Golf Tournament – Join the Fun!</h1>
+                <p>Join us for the annual Golf Tournament at Green Valley Golf Club! Compete for prizes and enjoy a day of fun, friendship, and fantastic golf. Date: Saturday, June 10th. Time: 9 AM - 4 PM. Registration includes lunch and a raffle ticket. Don't miss out! Sign up today at www.greenvalleygolf.com!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flyer">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFnqCdloPY/1/0/1131w/canva-white-%26-green-modern-golf-tournament-flyer-9O-6Mu6EIpI.jpg' alt='Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFnqCdloPY/1/0/1131w/canva-white-%26-green-modern-golf-tournament-flyer-9O-6Mu6EIpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable golf tournament flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMpNrWvfY/1/0/1131w/canva-green-minimalist-annual-golf-tournament-flyer-pGscsWj63Cw.jpg' alt='Free customizable golf tournament flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMpNrWvfY/1/0/1131w/canva-green-minimalist-annual-golf-tournament-flyer-pGscsWj63Cw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable golf tournament flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFp7HchqQs/2/0/1131w/canva-green-%26-white-dynamic-golf-tournament-flyer-RqheI_ujQ1g.jpg' alt='Free customizable golf tournament flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFp7HchqQs/2/0/1131w/canva-green-%26-white-dynamic-golf-tournament-flyer-RqheI_ujQ1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable golf tournament flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMoCd6ttM/2/0/1131w/canva-green-white-modern-annual-golf-tournament-potrait-flyer-VHF3--aA4lQ.jpg' alt='Free customizable golf tournament flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMoCd6ttM/2/0/1131w/canva-green-white-modern-annual-golf-tournament-potrait-flyer-VHF3--aA4lQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Tournament Flyer Template • Golf Flyer Template | EDITABLE ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32901951/r/il/268883/3640033673/il_fullxfull.3640033673_3xuf.jpg' alt='Golf Tournament Flyer Template • Golf Flyer Template | EDITABLE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32901951/r/il/268883/3640033673/il_fullxfull.3640033673_3xuf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Tournament Flyer Template (427509)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/3450fca2ad675afd95c8c444e74a77140a67ab172045d0d6f4856ffa6480e004.jpg' alt='Golf Tournament Flyer Template (427509)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/3450fca2ad675afd95c8c444e74a77140a67ab172045d0d6f4856ffa6480e004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf tournament Flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/golf-tournament-flyer-design-template-3a1fa7acef148302dc2fb45c454ebcd4_screen.jpg?ts=1637038722' alt='Golf tournament Flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/golf-tournament-flyer-design-template-3a1fa7acef148302dc2fb45c454ebcd4_screen.jpg?ts=1637038722' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual Golf Tournament Flyer Template - Premium Flyer - FFFLYER">
+                                <img itemprop="contentUrl url" src='https://ffflyer.com/wp-content/uploads/2019/02/Annual-Golf-Tournament-Flyer-Template.jpg' alt='Annual Golf Tournament Flyer Template - Premium Flyer - FFFLYER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FFFlyer" />
+                                </span>
+                                <a href='https://ffflyer.com/wp-content/uploads/2019/02/Annual-Golf-Tournament-Flyer-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Tournament Flyer - NARI North Texas">
+                                <img itemprop="contentUrl url" src='https://www.narintx.org/wp-content/uploads/2020/01/Golf-Tournament-Flyer.jpg' alt='Golf Tournament Flyer - NARI North Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2544">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NARI North Texas" />
+                                </span>
+                                <a href='https://www.narintx.org/wp-content/uploads/2020/01/Golf-Tournament-Flyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Tournament Event Flyer Template - Download Flyer - FFFLYER">
+                                <img itemprop="contentUrl url" src='https://ffflyer.com/wp-content/uploads/2019/02/Golf-Tournament-Event-Flyer-Template-FFFlyer-com.jpg' alt='Golf Tournament Event Flyer Template - Download Flyer - FFFLYER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FFFlyer" />
+                                </span>
+                                <a href='https://ffflyer.com/wp-content/uploads/2019/02/Golf-Tournament-Event-Flyer-Template-FFFlyer-com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Does Onboarding Confirm Background Check Approval?</title>
+                    <meta name="description" content="Discover whether onboarding indicates you’ve passed your background check. Get clarity on the hiring process and what to expect as you integrate into your new role. Stay informed and prepared for your journey ahead!">
+                    <meta name="keywords" content="does onboarding mean i passed the background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-onboarding-mean-i-passed-the-background-check">
+                            <span itemprop="name">does onboarding mean i passed the background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Onboarding Confirm Background Check Approval?</h1>
+                <p>Onboarding typically signifies that you've cleared the necessary stages of the hiring process, which often includes a background check. However, it’s essential to confirm with your employer that all required checks have been completed. Passing the background check is a key step, but onboarding can also involve training and integration into the team.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worst onboarding/background check experience ever! Not only did I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0w5gsfzg0ro81.jpg' alt='Worst onboarding/background check experience ever! Not only did I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0w5gsfzg0ro81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Policy: What to Include + Free Template">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' alt='Background Check Policy: What to Include + Free Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Onboarding doesn't mean you have a job? : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sf9mbpflps0d1.jpeg' alt='Onboarding doesn't mean you have a job? : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sf9mbpflps0d1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi everyone, I haven't been invited yet to do a background check ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hi-everyone-i-havent-been-invited-yet-to-do-a-background-v0-o8lwwgyq6ymd1.png?auto=webp&s=1c76c1513955b3131add4e91123c796819a1d35e' alt='Hi everyone, I haven't been invited yet to do a background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hi-everyone-i-havent-been-invited-yet-to-do-a-background-v0-o8lwwgyq6ymd1.png?auto=webp&s=1c76c1513955b3131add4e91123c796819a1d35e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with Sterling Background Check Results : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-with-sterling-background-check-results-v0-fjlez8ootl7d1.jpg?width=1080&crop=smart&auto=webp&s=9eda7000082d4b1eb33a64461c316f6a2efc025b' alt='Help with Sterling Background Check Results : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-with-sterling-background-check-results-v0-fjlez8ootl7d1.jpg?width=1080&crop=smart&auto=webp&s=9eda7000082d4b1eb33a64461c316f6a2efc025b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Policy: What to Include + Free Template">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2022/01/Thumbnail_Background_Check_Policy_Template.jpg' alt='Background Check Policy: What to Include + Free Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2022/01/Thumbnail_Background_Check_Policy_Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with Sterling Background Check Results : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-with-sterling-background-check-results-v0-mov9g8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=7d542e7d63c3efdd886bb6e44f536f909d2679bc' alt='Help with Sterling Background Check Results : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-with-sterling-background-check-results-v0-mov9g8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=7d542e7d63c3efdd886bb6e44f536f909d2679bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Do A Background Check On Someone">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/how-to-do-bckground-check-02.png' alt='How To Do A Background Check On Someone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/how-to-do-bckground-check-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Verification: How Much Is Too Much?">
+                                <img itemprop="contentUrl url" src='https://blog.darwinbox.com/hs-fs/hubfs/background-check-sources.png?width=600&name=background-check-sources.png' alt='Background Verification: How Much Is Too Much?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Darwinbox Blog" />
+                                </span>
+                                <a href='https://blog.darwinbox.com/hs-fs/hubfs/background-check-sources.png?width=600&name=background-check-sources.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

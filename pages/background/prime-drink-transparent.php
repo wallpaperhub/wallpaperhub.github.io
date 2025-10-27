@@ -1,0 +1,129 @@
+<title>Discover Prime Drink Transparent: Clarity in Every Sip</title>
+                    <meta name="description" content="Explore Prime Drink Transparent, a clear beverage made with natural ingredients for hydration and energy. Enjoy the benefits of transparency in your drink choices, ensuring you know exactly what you’re consuming. Perfect for those seeking healthy and refreshing options on the go!">
+                    <meta name="keywords" content="prime drink transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prime-drink-transparent">
+                            <span itemprop="name">prime drink transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Prime Drink Transparent: Clarity in Every Sip</h1>
+                <p>Prime Drink Transparent is a refreshing beverage that offers users clear insight into what they consume. Made with natural ingredients, it provides hydration and energy without artificial additives. The transparent formulation allows consumers to see what they’re drinking, promoting transparency and trust in their wellness choices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Blue Raspberry Sports Drink Single Bottle, 16.9 fl oz ...">
+                                <img itemprop="contentUrl url" src='https://www.kroger.com/product/images/large/front/0085000356045' alt='Prime Blue Raspberry Sports Drink Single Bottle, 16.9 fl oz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gerbes" />
+                                </span>
+                                <a href='https://www.kroger.com/product/images/large/front/0085000356045' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Hydration Drink, Ice Pop Same-Day Delivery or Pickup | Save Mart">
+                                <img itemprop="contentUrl url" src='https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fe72b62c-2f42-480c-8566-6bb0b1d205b3.png' alt='Prime Hydration Drink, Ice Pop Same-Day Delivery or Pickup | Save Mart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Save Mart" />
+                                </span>
+                                <a href='https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fe72b62c-2f42-480c-8566-6bb0b1d205b3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRIME Hydration - Meta Moon, 12 PK">
+                                <img itemprop="contentUrl url" src='https://drinkprime.com/cdn/shop/products/Prime-Metamoon-ProductDetail-front_1200x.png?v=1662754165' alt='PRIME Hydration - Meta Moon, 12 PK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Hydration" />
+                                </span>
+                                <a href='https://drinkprime.com/cdn/shop/products/Prime-Metamoon-ProductDetail-front_1200x.png?v=1662754165' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Hydration Drink, Orange 16.9 fl oz">
+                                <img itemprop="contentUrl url" src='https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.freshop.ncrcloud.com/1564405684712803265/7b9de52debff13131a7c578e17a2b4d2_large.png&width=512&type=webp&quality=90' alt='Prime Hydration Drink, Orange 16.9 fl oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riesbeck's Food Markets" />
+                                </span>
+                                <a href='https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.freshop.ncrcloud.com/1564405684712803265/7b9de52debff13131a7c578e17a2b4d2_large.png&width=512&type=webp&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydration and Hydration+ Sticks - PRIME">
+                                <img itemprop="contentUrl url" src='https://drinkprime.com/cdn/shop/files/CherryFreeze-Front_2_1600x.png?v=1703182111' alt='Hydration and Hydration+ Sticks - PRIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Hydration" />
+                                </span>
+                                <a href='https://drinkprime.com/cdn/shop/files/CherryFreeze-Front_2_1600x.png?v=1703182111' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydration - Glowberry">
+                                <img itemprop="contentUrl url" src='http://drinkprime.com/cdn/shop/files/GB_Product_Page_-_Front_600x.png?v=1722366864' alt='Hydration - Glowberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Hydration" />
+                                </span>
+                                <a href='http://drinkprime.com/cdn/shop/files/GB_Product_Page_-_Front_600x.png?v=1722366864' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRIME Ice POP Hydration Drink 16.9 FL. OZ (500ML) 12-Count Ice POP (Ice POP)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41RmqJJPlML.jpg' alt='PRIME Ice POP Hydration Drink 16.9 FL. OZ (500ML) 12-Count Ice POP (Ice POP)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="272">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41RmqJJPlML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Hydration Lemonade Yellow Sports Drink 500ml | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/riIAAOSwmRBk1DlI/s-l1200.png' alt='Prime Hydration Lemonade Yellow Sports Drink 500ml | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/riIAAOSwmRBk1DlI/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydration - ISHOWSPEED">
+                                <img itemprop="contentUrl url" src='http://drinkprime.com/cdn/shop/files/Speed-Bottle-Front_b2fe6348-b16b-4582-b0fb-c2f3efcc2bc5_600x.png?v=1727210047' alt='Hydration - ISHOWSPEED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Hydration" />
+                                </span>
+                                <a href='http://drinkprime.com/cdn/shop/files/Speed-Bottle-Front_b2fe6348-b16b-4582-b0fb-c2f3efcc2bc5_600x.png?v=1727210047' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRIME Hydration Drink, Lemon Lime, 16.9oz">
+                                <img itemprop="contentUrl url" src='https://www.mycustomtreats.com/cdn/shop/products/chrome_XyLIphQI9F_grande.png?v=1677863128' alt='PRIME Hydration Drink, Lemon Lime, 16.9oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Treats" />
+                                </span>
+                                <a href='https://www.mycustomtreats.com/cdn/shop/products/chrome_XyLIphQI9F_grande.png?v=1677863128' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

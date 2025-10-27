@@ -1,0 +1,129 @@
+<title>Smiley Face Preppy Wallpaper for Your Laptop</title>
+                    <meta name="description" content="Discover the perfect preppy laptop wallpaper adorned with playful smiley faces. Transform your workspace with a fun and stylish design that enhances your mood and sparks creativity. Ideal for anyone looking to add a bright, cheerful vibe to their digital environment!">
+                    <meta name="keywords" content="smiley face:h9dyx4bbavo= preppy wallpaper laptop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/smiley-faceh9dyx4bbavo-preppy-wallpaper-laptop">
+                            <span itemprop="name">smiley face:h9dyx4bbavo= preppy wallpaper laptop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smiley Face Preppy Wallpaper for Your Laptop</h1>
+                <p>Brighten up your laptop with a cheerful preppy wallpaper featuring smiley faces! This vibrant design brings a playful and lively touch to your workspace, offering a delightful burst of colors and personality. Ideal for students or professionals who love to showcase their fun side while keeping things stylish and fresh.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-2418-x-1609-background-npwt0l8qupw2cmdl.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-2418-x-1609-background-npwt0l8qupw2cmdl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' alt='smiley face laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-900-x-900-background-mn0e3iwirmfvrnic.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-900-x-900-background-mn0e3iwirmfvrnic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-900-x-900-background-nnd2gp46faoyisqk.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-900-x-900-background-nnd2gp46faoyisqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper Smiley Face in JPG - Download | Template.net">
+                                <img itemprop="contentUrl url" src='https://images.template.net/94047/preppy-wallpaper-smiley-face-cae3q.jpeg' alt='Preppy Wallpaper Smiley Face in JPG - Download | Template.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/94047/preppy-wallpaper-smiley-face-cae3q.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/caption-vibrant-preppy-smiley-face-background-5oadnhn1fw8b0jyi.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/caption-vibrant-preppy-smiley-face-background-5oadnhn1fw8b0jyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-smiley-face-62fp37vcovrby4ij.jpg' alt='100+] Preppy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-smiley-face-62fp37vcovrby4ij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/fd/b9/befdb92208b028a1562bf2ca8d7110be.jpg' alt='smiley wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/fd/b9/befdb92208b028a1562bf2ca8d7110be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-floral-pattern-0ixpiku6kjye1o7w.jpg' alt='100+] Preppy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-floral-pattern-0ixpiku6kjye1o7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

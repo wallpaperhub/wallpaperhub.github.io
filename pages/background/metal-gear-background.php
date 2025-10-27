@@ -1,0 +1,129 @@
+<title>Explore the Rich Legacy of Metal Gear</title>
+                    <meta name="description" content="Delve into the iconic Metal Gear franchise, exploring its complex narratives, stealth mechanics, and philosophical themes. Discover the evolution of characters like Solid Snake and Raiden in a series that has shaped the gaming landscape since 1987. Join the journey through war, technology, and identity.">
+                    <meta name="keywords" content="metal gear background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metal-gear-background">
+                            <span itemprop="name">metal gear background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich Legacy of Metal Gear</h1>
+                <p>Metal Gear is a renowned video game franchise created by Hideo Kojima, first released in 1987. It is celebrated for its intricate narratives, stealth gameplay, and deep philosophical themes. The series follows characters like Solid Snake and Raiden battling against formidable foes, exploring topics such as war, technology, and identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MGS Wallpaper Dump : r/metalgearsolid">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2x9kUPSonGRGr2KgayqPhL-1M0gv2A29q9NH8LoHz04.jpg?auto=webp&s=3bae470c1ea7012ee73c24051a1f3703a0fa8b14' alt='MGS Wallpaper Dump : r/metalgearsolid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2x9kUPSonGRGr2KgayqPhL-1M0gv2A29q9NH8LoHz04.jpg?auto=webp&s=3bae470c1ea7012ee73c24051a1f3703a0fa8b14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Metal Gear Solid Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/metal-gear-solid-irxbl2j6yua9jn3a.jpg' alt='100+] Metal Gear Solid Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/metal-gear-solid-irxbl2j6yua9jn3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone have any good metal gear wallpapers : r/metalgearsolid">
+                                <img itemprop="contentUrl url" src='http://eskipaper.com/images/metal-gear-solid-art-1.jpg' alt='Does anyone have any good metal gear wallpapers : r/metalgearsolid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://eskipaper.com/images/metal-gear-solid-art-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metal Gear Solid HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/648/thumb-1920-648017.png' alt='Download Video Game Metal Gear Solid HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/648/thumb-1920-648017.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Solid Snake Metal Gear Solid Video Game Metal Gear HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/500/500625.jpg' alt='Download Solid Snake Metal Gear Solid Video Game Metal Gear HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/500/500625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Gear Solid Red Abstract Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/metal-gear-solid-red-abstract-jthqt84tg0avqd6r.jpg' alt='Metal Gear Solid Red Abstract Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/metal-gear-solid-red-abstract-jthqt84tg0avqd6r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armored Core VI Fires of Rubicon - ROG Ally - Gameplay - 900p - AMD RIS -  25W - Battery">
+                                <img itemprop="contentUrl url" src='https://rogallylife.com/storage/2024/04/metal-gear-rising-revengeance-rog-ally-game-settings.webp' alt='Armored Core VI Fires of Rubicon - ROG Ally - Gameplay - 900p - AMD RIS -  25W - Battery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG ALLY Life" />
+                                </span>
+                                <a href='https://rogallylife.com/storage/2024/04/metal-gear-rising-revengeance-rog-ally-game-settings.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An album of all the Metal Gear wallpapers I have collected so far ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ZK7nVTX8kGmgziVQf7wKBrX1uNmPGRkOlZwo22z19jU.jpg?auto=webp&s=4afca905492be25e667ed7b4ddfa1ed9c546e636' alt='An album of all the Metal Gear wallpapers I have collected so far ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ZK7nVTX8kGmgziVQf7wKBrX1uNmPGRkOlZwo22z19jU.jpg?auto=webp&s=4afca905492be25e667ed7b4ddfa1ed9c546e636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper background, helicopters, male, metal gear solid for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/ca/metal-gear-solid-muzhchina-fon.webp' alt='Wallpaper background, helicopters, male, metal gear solid for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/ca/metal-gear-solid-muzhchina-fon.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Metal Gear Iconic Moments">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/196/196848.jpg' alt='HD Wallpaper: Metal Gear Iconic Moments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/196/196848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

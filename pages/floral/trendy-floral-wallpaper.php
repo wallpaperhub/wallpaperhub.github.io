@@ -1,0 +1,129 @@
+<title>Revitalize Your Home with Trendy Floral Wallpaper</title>
+                    <meta name="description" content="Discover the magic of trendy floral wallpaper! Transform your living space with stylish designs that bring nature indoors. From soft pastels to striking patterns, explore options that suit every taste. Brighten your home and create a welcoming ambiance with our latest collection of floral wallpaper!">
+                    <meta name="keywords" content="trendy floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/trendy-floral-wallpaper">
+                            <span itemprop="name">trendy floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Home with Trendy Floral Wallpaper</h1>
+                <p>Trendy floral wallpaper is making a vibrant comeback, transforming spaces with its bold prints and colors. Perfect for adding a touch of nature to any room, these wallpapers range from delicate pastels to bright, eye-catching designs. Elevate your home decor with these stylish patterns that evoke freshness and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' alt='Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' alt='Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' alt='Friday Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Bold Floral Blossoms R8125">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/OrangeBoldFloralBlossomsR8125.jpg?v=1736261029&width=1200' alt='Orange Bold Floral Blossoms R8125'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/OrangeBoldFloralBlossomsR8125.jpg?v=1736261029&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Latika Modern Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/56572978/compr-r85/1861/186155044/latika-modern-floral-wallpaper.jpg' alt='Latika Modern Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joss & Main" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/56572978/compr-r85/1861/186155044/latika-modern-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper - Murals & Modern Designs | EazzyWalls – Page 4">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/collections/7219cd5b006503f6e7a73c457dfd6379_8f0e3fff-3430-44a5-95dd-b836e064a1d2.jpg?v=1721090730&width=1296' alt='Floral Wallpaper - Murals & Modern Designs | EazzyWalls – Page 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/collections/7219cd5b006503f6e7a73c457dfd6379_8f0e3fff-3430-44a5-95dd-b836e064a1d2.jpg?v=1721090730&width=1296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' alt='Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold floral Home wallpaper ✔️ Walls Republic US">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/R9393DarkGrayParadiseFlowersWallpaperMainImage.jpg?v=1736258924&width=800' alt='Bold floral Home wallpaper ✔️ Walls Republic US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/R9393DarkGrayParadiseFlowersWallpaperMainImage.jpg?v=1736258924&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Floral Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 3545">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3691759387_nico_88e95976-0cbf-4cd7-b801-0c0dc3f2c196.jpg?v=1644723314' alt='Tropical Floral Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 3545'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2998">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3691759387_nico_88e95976-0cbf-4cd7-b801-0c0dc3f2c196.jpg?v=1644723314' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

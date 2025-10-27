@@ -1,0 +1,129 @@
+<title>Eye-Catching Live Wallpapers for iPhone 14 Pro Max</title>
+                    <meta name="description" content="Discover the best live wallpapers for your iPhone 14 Pro Max! Explore a wide selection of vibrant, animated backgrounds designed to elevate your mobile experience. Personalize your device with eye-catching visuals that reflect your style, making your phone truly unique.">
+                    <meta name="keywords" content="live wallpaper iphone 14 pro max">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/live-wallpaper-iphone-14-pro-max">
+                            <span itemprop="name">live wallpaper iphone 14 pro max</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Live Wallpapers for iPhone 14 Pro Max</h1>
+                <p>Transform your iPhone 14 Pro Max with stunning live wallpapers that bring your screen to life! Choose from a variety of dynamic designs, from nature scenes to abstract art, enhancing your device's aesthetics. Personalize your phone experience and make it truly yours with these vibrant, animated backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max Special Dynamic Island Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/36/2d/9b362d77fcc94ecb5156dbb695bf70f3.jpg' alt='iPhone 14 Pro Max Special Dynamic Island Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/36/2d/9b362d77fcc94ecb5156dbb695bf70f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone 14 Pro Max Wallpapers Stock and Live 4K : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Q8KqZAXasLTSGhgrsKI3HkiffRCwGy8bnez2Nif1W8M.jpg?auto=webp&s=602fca4f98603339aa73f6365e88cce30b8dae4f' alt='Download iPhone 14 Pro Max Wallpapers Stock and Live 4K : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Q8KqZAXasLTSGhgrsKI3HkiffRCwGy8bnez2Nif1W8M.jpg?auto=webp&s=602fca4f98603339aa73f6365e88cce30b8dae4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-wallpaper-1.jpeg?quality=82&strip=all' alt='Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="3728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-wallpaper-1.jpeg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 14 Pro Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-14-pro-3d-gold-green-metal-ytzk99zt4aaloqdo.jpg' alt='100+] Iphone 14 Pro Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-14-pro-3d-gold-green-metal-ytzk99zt4aaloqdo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max Special Dynamic Island Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/5d/1c/de5d1cb053f27136acfbd961fa5039f4.jpg' alt='iPhone 14 Pro Max Special Dynamic Island Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/5d/1c/de5d1cb053f27136acfbd961fa5039f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max internal Live Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/q81vIUocdGI/maxresdefault.jpg' alt='iPhone 14 Pro Max internal Live Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/q81vIUocdGI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tutorial Live Wallpapers ☺️">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7141832194804157702&location=0&aid=1988' alt='Tutorial Live Wallpapers ☺️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7141832194804157702&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Quality 3D Rendered iPhone 13 & 14 Pro, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/613/784/HD-wallpaper-high-quality-3d-rendered-iphone-13-14-pro-thumbnail.jpg' alt='High Quality 3D Rendered iPhone 13 & 14 Pro, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/613/784/HD-wallpaper-high-quality-3d-rendered-iphone-13-14-pro-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Silver And Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/iphone-14-pro-silver-and-blue-8dpnpraomrlkttm1.jpg' alt='Iphone 14 Pro Silver And Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/iphone-14-pro-silver-and-blue-8dpnpraomrlkttm1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max Wallpapers & Live Backgrounds - Downloads">
+                                <img itemprop="contentUrl url" src='https://www.livewallpapers.com/uploads/lw_categories/files/images/64de2647ac036_iphone-14-wallpapers.webp' alt='iPhone 14 Pro Max Wallpapers & Live Backgrounds - Downloads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://www.livewallpapers.com/uploads/lw_categories/files/images/64de2647ac036_iphone-14-wallpapers.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

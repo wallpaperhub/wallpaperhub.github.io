@@ -1,0 +1,129 @@
+<title>Explore Olive Garden: Your Guide to Italy's Flavors</title>
+                    <meta name="description" content="Discover Olive Garden, the beloved restaurant chain serving delicious Italian-American meals. Enjoy endless soup, salad, and breadsticks in a family-friendly environment. Perfect for casual dining and gatherings, Olive Garden brings a taste of Italy to your table!">
+                    <meta name="keywords" content="olive garden wiki">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/olive-garden-wiki">
+                            <span itemprop="name">olive garden wiki</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Olive Garden: Your Guide to Italy's Flavors</h1>
+                <p>Olive Garden is a popular American restaurant chain known for its Italian-American cuisine, featuring dishes like pasta, breadsticks, and salads. Founded in 1982 in Orlando, Florida, Olive Garden emphasizes a warm, family-friendly atmosphere. It is well-known for its unlimited soup and salad offerings, making it a favorite for casual dining.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Olive_Garden_Logo.svg/1200px-Olive_Garden_Logo.svg.png' alt='Olive Garden - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Olive_Garden_Logo.svg/1200px-Olive_Garden_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f2/Olive_Garden_restaurant.jpg' alt='Olive Garden - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3400">
+                                <meta itemprop="height" content="2267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f2/Olive_Garden_restaurant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Olive_Garden_-_panoramio.jpg/220px-Olive_Garden_-_panoramio.jpg' alt='Olive Garden - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Olive_Garden_-_panoramio.jpg/220px-Olive_Garden_-_panoramio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden (restaurant) | Every Little Thing Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/every-little-thing/images/f/fa/Olive_Garden_%28restaurant%29.png/revision/latest/thumbnail/width/360/height/450?cb=20230516191613' alt='Olive Garden (restaurant) | Every Little Thing Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Every Little Thing Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/every-little-thing/images/f/fa/Olive_Garden_%28restaurant%29.png/revision/latest/thumbnail/width/360/height/450?cb=20230516191613' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Olive_Garden%27s_Chicken_scampi_for_dinner_%285931816047%29.jpg/220px-Olive_Garden%27s_Chicken_scampi_for_dinner_%285931816047%29.jpg' alt='Olive Garden - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Olive_Garden%27s_Chicken_scampi_for_dinner_%285931816047%29.jpg/220px-Olive_Garden%27s_Chicken_scampi_for_dinner_%285931816047%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021-08-18_19_54_47_The_exterior_front_entrance_of_the_Olive_Garden_in_the_Fair_Lakes_Shopping_Center_in_Fair_Lakes%2C_Fairfax_County%2C_Virginia_during_the_evening.jpg/220px-thumbnail.jpg' alt='Olive Garden - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021-08-18_19_54_47_The_exterior_front_entrance_of_the_Olive_Garden_in_the_Fair_Lakes_Shopping_Center_in_Fair_Lakes%2C_Fairfax_County%2C_Virginia_during_the_evening.jpg/220px-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Olive_Garden_Times_Square.jpg/220px-Olive_Garden_Times_Square.jpg' alt='Olive Garden - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Olive_Garden_Times_Square.jpg/220px-Olive_Garden_Times_Square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden | Wikitubia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/youtube/images/3/36/OliveGarden.jpg/revision/latest?cb=20230801210058' alt='Olive Garden | Wikitubia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikitubia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/youtube/images/3/36/OliveGarden.jpg/revision/latest?cb=20230801210058' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden — Wikipédia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/fr/d/d0/Logo_OliveGarden.jpg' alt='Olive Garden — Wikipédia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipédia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/fr/d/d0/Logo_OliveGarden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Garden | Family Guy Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/familyguy/images/0/01/OliveGarden.png/revision/latest/scale-to-width-down/284?cb=20180402154551' alt='Olive Garden | Family Guy Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Guy Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/familyguy/images/0/01/OliveGarden.png/revision/latest/scale-to-width-down/284?cb=20180402154551' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aoi Todo Wallpaper for iPhone: Enhance Your Screen</title>
+                    <meta name="description" content="Discover eye-catching Aoi Todo wallpapers for your iPhone! Elevate your device's appearance with designs that showcase this iconic anime character. Perfect for fans looking to personalize their screens with high-quality, vibrant images. Explore various styles now!">
+                    <meta name="keywords" content="aoi todo wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aoi-todo-wallpaper-iphone">
+                            <span itemprop="name">aoi todo wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aoi Todo Wallpaper for iPhone: Enhance Your Screen</h1>
+                <p>Transform your iPhone with stunning Aoi Todo wallpaper! Capture the essence of this beloved character from "Jujutsu Kaisen" with vibrant designs that bring your screen to life. Choose from a variety of styles and colors to express your fandom and make your device uniquely yours. Perfect for any anime lover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="todo wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/3f/f9/3c3ff985d94fb044f7a19e5d3253fb07.jpg' alt='todo wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/3f/f9/3c3ff985d94fb044f7a19e5d3253fb07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aoi Todo Jujutsu Kaisen Wallpaper iPhone Phone 4K #6060e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/aoi-todo-jujutsu-kaisen-606@0@e-phone-4k.jpg' alt='Aoi Todo Jujutsu Kaisen Wallpaper iPhone Phone 4K #6060e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/aoi-todo-jujutsu-kaisen-606@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper of Daddy himself Aoi Todo : r/JuJutsuKaisen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ybe53vod3g661.jpg' alt='I made a wallpaper of Daddy himself Aoi Todo : r/JuJutsuKaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1546">
+                                <meta itemprop="height" content="2748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ybe53vod3g661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie, todo, jujutsu kaisen, hanami, itadori, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/135/857/HD-wallpaper-boogie-woogie-todo-jujutsu-kaisen-hanami-itadori.jpg' alt='Boogie Woogie, todo, jujutsu kaisen, hanami, itadori, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/135/857/HD-wallpaper-boogie-woogie-todo-jujutsu-kaisen-hanami-itadori.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Todo Aoi Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10183407.jpg' alt='Todo Aoi Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1053">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10183407.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/ca/20/87ca20fa70817934311ac687b0837dc1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/ca/20/87ca20fa70817934311ac687b0837dc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Todo Aoi - jujutsu kaisen wallpaper by Drstoneart on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e692647-4e37-4df2-92cd-39391c6da57e/dgstmz3-298518fb-5a8a-4884-b107-0f0eb00f7309.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNjkyNjQ3LTRlMzctNGRmMi05MmNkLTM5MzkxYzZkYTU3ZVwvZGdzdG16My0yOTg1MThmYi01YThhLTQ4ODQtYjEwNy0wZjBlYjAwZjczMDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Sj7SHT7lkGAm_0pXLaTNNVcizq4dvAxIPIMXQZ3uqXE' alt='Todo Aoi - jujutsu kaisen wallpaper by Drstoneart on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e692647-4e37-4df2-92cd-39391c6da57e/dgstmz3-298518fb-5a8a-4884-b107-0f0eb00f7309.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNjkyNjQ3LTRlMzctNGRmMi05MmNkLTM5MzkxYzZkYTU3ZVwvZGdzdG16My0yOTg1MThmYi01YThhLTQ4ODQtYjEwNy0wZjBlYjAwZjczMDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Sj7SHT7lkGAm_0pXLaTNNVcizq4dvAxIPIMXQZ3uqXE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aoi Todo from Jujutsu Kaisen in dynamic action pose, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/d8/d87bb3a556fe670a4217456ccd89a468.jpeg' alt='Aoi Todo from Jujutsu Kaisen in dynamic action pose, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/d8/d87bb3a556fe670a4217456ccd89a468.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Todo Pfps ideas | jujutsu, anime, manga">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/ae/68/a0ae688e23d3f099aad364781dc3591b.jpg' alt='7 Todo Pfps ideas | jujutsu, anime, manga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/ae/68/a0ae688e23d3f099aad364781dc3591b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aoi Todo Jujutsu Kaisen Wallpaper iPhone Phone 4K #6060e">
+                                <img itemprop="contentUrl url" src='https://image-0.uhdpaper.com/wallpaper/aoi-todo-jujutsu-kaisen-2k-wallpaper-uhdpaper.com-606@0@e.jpg' alt='Aoi Todo Jujutsu Kaisen Wallpaper iPhone Phone 4K #6060e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-0.uhdpaper.com/wallpaper/aoi-todo-jujutsu-kaisen-2k-wallpaper-uhdpaper.com-606@0@e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

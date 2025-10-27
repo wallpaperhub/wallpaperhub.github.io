@@ -1,0 +1,129 @@
+<title>Charming "I Love Me" Pink Wallpaper for a Uplifting Space</title>
+                    <meta name="description" content="Discover the perfect self-love boost with our "I Love Me" pink wallpaper! This vibrant design adds charm and positivity to any room. Ideal for easy decor updates and a joyful atmosphere. Transform your space today!">
+                    <meta name="keywords" content="i love me wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/i-love-me-wallpaper-pink">
+                            <span itemprop="name">i love me wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming "I Love Me" Pink Wallpaper for a Uplifting Space</h1>
+                <p>Transform your space with our enchanting "I Love Me" pink wallpaper! This stylish design features soft shades of pink that inspire self-love and positivity. Perfect for bedrooms, offices, or any space you want to brighten up. It’s easy to apply and remove, making it ideal for a quick and uplifting decor change!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I <3 Me Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/60/6b/f2606bd99220d7072f1f07e454954d78.jpg' alt='I <3 Me Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/60/6b/f2606bd99220d7072f1f07e454954d78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I    ME">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/a8/47/25a847dcd974b94a39ce4b29b9dc182a.jpg' alt='I    ME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/a8/47/25a847dcd974b94a39ce4b29b9dc182a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i <3 me wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9c/26/b4/9c26b42e6fc7d8dc2d455226c33c3e17.jpg' alt='i <3 me wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9c/26/b4/9c26b42e6fc7d8dc2d455226c33c3e17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love me pink | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4648601191.5646/fposter,small,wall_texture,product,750x1000.u2.jpg' alt='I love me pink | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4648601191.5646/fposter,small,wall_texture,product,750x1000.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i love me wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5a/b8/e7/5ab8e77977579ed0b4a21f65dfad9af3.jpg' alt='i love me wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5a/b8/e7/5ab8e77977579ed0b4a21f65dfad9af3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I    ME">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/14/33/991433099ae65077623a7bff4ad84436.jpg' alt='I    ME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/14/33/991433099ae65077623a7bff4ad84436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] I Love Me Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/i-love-me-graphic-3lyb0dmwrz373fgh.jpg' alt='100+] I Love Me Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/i-love-me-graphic-3lyb0dmwrz373fgh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i love me     ‍♀️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/08/4a/62084a13b9c5eb46f6d7be504aaf63ac.jpg' alt='i love me     ‍♀️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/08/4a/62084a13b9c5eb46f6d7be504aaf63ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Self Love Pink Heart Graphic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/self-love-pink-heart-graphic-wnf04gc6rk8p9428.jpg' alt='Download Self Love Pink Heart Graphic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/self-love-pink-heart-graphic-wnf04gc6rk8p9428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love me pink" Sticker by nataliabrito | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4648601290.5646/st,large,507x507-pad,600x600,f8f8f8.u2.webp' alt='I love me pink" Sticker by nataliabrito | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4648601290.5646/st,large,507x507-pad,600x600,f8f8f8.u2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

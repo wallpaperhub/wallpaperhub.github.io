@@ -1,0 +1,129 @@
+<title>“Stunning 4K Moving Wallpapers for Your PC”</title>
+                    <meta name="description" content="Discover the beauty of 4K moving wallpapers for your PC. Enjoy a collection of dynamic backgrounds that transform your desktop into a captivating visual experience. Perfect for enhancing your creative space, these wallpapers are high-resolution and sure to impress! Explore now!">
+                    <meta name="keywords" content="4k moving wallpaper for pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/4k-moving-wallpaper-for-pc">
+                            <span itemprop="name">4k moving wallpaper for pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Stunning 4K Moving Wallpapers for Your PC”</h1>
+                <p>Elevate your desktop experience with stunning 4K moving wallpapers! Transform your PC with vibrant visuals that bring life to your screen. Enjoy a variety of dynamic themes, from serene landscapes to mesmerizing abstract art, ensuring your workspace is always refreshing and engaging. Explore endless options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Moving Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-moving-l4jysuz4ovjci8h1.jpg' alt='100+] 4k Moving Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-moving-l4jysuz4ovjci8h1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset, Palm Trees, Road">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' alt='Sunset, Palm Trees, Road'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K PC & Mobile Live Wallpaper - Blue Wave In Space #AAVFX Relaxing Moving  Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F50arn7ILVU/maxresdefault.jpg' alt='4K PC & Mobile Live Wallpaper - Blue Wave In Space #AAVFX Relaxing Moving  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F50arn7ILVU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highway - 4k (3840x2160) Animated Wallpaper for Wallpaper Engine ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/j3FbxOjZJGdI8SD-sGx40vflerYZMdUjtMNCrB55kC8.jpg?width=640&crop=smart&auto=webp&s=8089e9047a3c439430abe00c0f44a1269f6cffe7' alt='Highway - 4k (3840x2160) Animated Wallpaper for Wallpaper Engine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/j3FbxOjZJGdI8SD-sGx40vflerYZMdUjtMNCrB55kC8.jpg?width=640&crop=smart&auto=webp&s=8089e9047a3c439430abe00c0f44a1269f6cffe7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Goku Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' alt='90+ Goku Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="live wallpaper pc 4k free download | pink blue neon background video">
+                                <img itemprop="contentUrl url" src='https://1a-1791.com/video/s8/1/U/q/H/B/UqHBi.JQ4e-small-live-wallpaper-pc-4k-free-d.jpg' alt='live wallpaper pc 4k free download | pink blue neon background video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rumble" />
+                                </span>
+                                <a href='https://1a-1791.com/video/s8/1/U/q/H/B/UqHBi.JQ4e-small-live-wallpaper-pc-4k-free-d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140+ Space Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/78/astronaut-in-the-ocean.1920x1080.jpg' alt='140+ Space Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/78/astronaut-in-the-ocean.1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Moving Dark Souls Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-moving-dark-souls-desktop-phm3u0zxzco5guig.jpg' alt='4k Moving Dark Souls Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-moving-dark-souls-desktop-phm3u0zxzco5guig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Moving Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-moving-blue-raindrops-03io1713qq0ocokx.jpg' alt='100+] 4k Moving Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-moving-blue-raindrops-03io1713qq0ocokx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

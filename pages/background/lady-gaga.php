@@ -1,0 +1,129 @@
+<title>Lady Gaga: The Iconic Pop Star and Activist</title>
+                    <meta name="description" content="Discover the multifaceted world of Lady Gaga, from her chart-topping hits and bold fashion to her advocacy for mental health and LGBTQ+ rights. Explore how this pop icon continues to inspire and transform the music landscape while making a significant social impact.">
+                    <meta name="keywords" content="lady gaga">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lady-gaga">
+                            <span itemprop="name">lady gaga</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lady Gaga: The Iconic Pop Star and Activist</h1>
+                <p>Lady Gaga, an iconic pop star and actress, has captivated audiences with her unique style and powerful voice. Known for hits like "Poker Face" and "Shallow," she blends genres and challenges norms. Beyond music, she's an activist, advocating for mental health and LGBTQ+ rights, making her a much-loved and influential figure in pop culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/800px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg' alt='Lady Gaga - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/800px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga: Musician, Grammy-Winning Singer, Actor">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/lady-gaga-attends-the-64th-annual-grammy-awards-at-mgm-news-photo-1727455427.jpg?crop=1.00xw:0.667xh;0,0.0477xh&resize=640:*' alt='Lady Gaga: Musician, Grammy-Winning Singer, Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/lady-gaga-attends-the-64th-annual-grammy-awards-at-mgm-news-photo-1727455427.jpg?crop=1.00xw:0.667xh;0,0.0477xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fd/Lady_Gaga_in_2023_%28cropped%29.jpg' alt='Lady Gaga - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gpe.wikipedia.org - Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fd/Lady_Gaga_in_2023_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_FMjpg_UX1000_.jpg' alt='Lady Gaga - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga to Release New Single 'Disease' Ahead of Seventh Album">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/09/gaga_4d20fb.png' alt='Lady Gaga to Release New Single 'Disease' Ahead of Seventh Album'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2606">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/09/gaga_4d20fb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga: Musician, Grammy-Winning Singer, Actor">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/lady-gaga-attends-the-64th-annual-grammy-awards-at-mgm-news-photo-1727455427.jpg' alt='Lady Gaga: Musician, Grammy-Winning Singer, Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2465">
+                                <meta itemprop="height" content="3698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/lady-gaga-attends-the-64th-annual-grammy-awards-at-mgm-news-photo-1727455427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga Says It Took 'Two Decades' to Become the 'Boss' in Career">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2025/02/lady-gaga-snl50-red-carpet-billboard-1548.jpg?w=942&h=623&crop=1' alt='Lady Gaga Says It Took 'Two Decades' to Become the 'Boss' in Career'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2025/02/lady-gaga-snl50-red-carpet-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga Says Her New 'Chromatica' Concert Film Is a Gift to Her ...">
+                                <img itemprop="contentUrl url" src='https://media.them.us/photos/663bc34e344e5d57d900f2ee/2:3/w_944,h_1416,c_limit/lady-gaga.jpg' alt='Lady Gaga Says Her New 'Chromatica' Concert Film Is a Gift to Her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Them" />
+                                </span>
+                                <a href='https://media.them.us/photos/663bc34e344e5d57d900f2ee/2:3/w_944,h_1416,c_limit/lady-gaga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga | Biography, Songs, Oscar, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/73/146573-050-BA7ECF8A/meat-dress-Lady-Gaga-award-video-Bad-September-2010.jpg' alt='Lady Gaga | Biography, Songs, Oscar, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/73/146573-050-BA7ECF8A/meat-dress-Lady-Gaga-award-video-Bad-September-2010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Gaga | Biography, Songs, Oscar, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/83/183183-050-A2483D93/Lady-Gaga-2015.jpg' alt='Lady Gaga | Biography, Songs, Oscar, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/83/183183-050-A2483D93/Lady-Gaga-2015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Bratz Pink Wallpaper: Stylish Decor for Fans</title>
+                    <meta name="description" content="Discover trendy Bratz wallpaper in pink! Perfect for any fan looking to add a playful and stylish touch to their room. Transform your space into a vibrant haven that reflects your love for Bratz! Shop now for unique designs that stand out.">
+                    <meta name="keywords" content="bratz wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/bratz-wallpaper-pink">
+                            <span itemprop="name">bratz wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bratz Pink Wallpaper: Stylish Decor for Fans</h1>
+                <p>Transform your space with vibrant Bratz wallpaper in pink! Perfect for fans of the iconic dolls, this wallpaper adds a playful touch to any room. With stylish designs and bold colors, make your walls stand out and reflect your unique personality. Ideal for kids' rooms or trendy spaces where fun meets fashion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/88/18/4f8818e2cd58b7dc341d445b829e7aff.jpg' alt='Bratz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/88/18/4f8818e2cd58b7dc341d445b829e7aff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/18/0d/84180dd8b1686aa0ca66817524736efa.jpg' alt='Bratz pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="587">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/18/0d/84180dd8b1686aa0ca66817524736efa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Logo Pink Aesthetic Wallpapers - Pink Baddie Wallpaper for Phone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/04/bratz-logo-pink-wallpaper-scaled.jpg' alt='Bratz Logo Pink Aesthetic Wallpapers - Pink Baddie Wallpaper for Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/04/bratz-logo-pink-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c2/c9/f4/c2c9f4c1acfe55f94b153ce8f7a437a6.jpg' alt='Bratz Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c2/c9/f4/c2c9f4c1acfe55f94b153ce8f7a437a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Pink 00s Aesthetic - photo By Monsterlool | Magnet">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2749036771.2804/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Bratz Pink 00s Aesthetic - photo By Monsterlool | Magnet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2749036771.2804/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bratz Yasmin In Pink Fur Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bratz-yasmin-in-pink-fur-umtlxedqilctrq6r.jpg' alt='Download Bratz Yasmin In Pink Fur Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bratz-yasmin-in-pink-fur-umtlxedqilctrq6r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bratz Dolls Pink Louis Vuitton Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bratz-dolls-659-x-1200-7k3rez26wnxfr71y.jpg' alt='Download Bratz Dolls Pink Louis Vuitton Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="659">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bratz-dolls-659-x-1200-7k3rez26wnxfr71y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Logo Pink Aesthetic Wallpapers - Pink Baddie Wallpaper for Phone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/04/bratz-logo-pink-background-scaled.jpg' alt='Bratz Logo Pink Aesthetic Wallpapers - Pink Baddie Wallpaper for Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/04/bratz-logo-pink-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Bratz Aesthetic Doll Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/beautiful-bratz-aesthetic-doll-quote-foobqlfu7qjnrtvg.jpg' alt='Beautiful Bratz Aesthetic Doll Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/beautiful-bratz-aesthetic-doll-quote-foobqlfu7qjnrtvg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz 90s wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/01/21/7601210340d0349daba70b277863f9ca.jpg' alt='Bratz 90s wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/01/21/7601210340d0349daba70b277863f9ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

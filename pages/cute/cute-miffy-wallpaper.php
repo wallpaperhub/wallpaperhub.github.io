@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute miffy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-miffy-wallpaper">
+                            <span itemprop="name">cute miffy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33 M i f f y ideas | miffy, cute wallpapers, cute cartoon wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/41/02/a541025f65508476b5f32031ca68dd28.jpg' alt='33 M i f f y ideas | miffy, cute wallpapers, cute cartoon wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/41/02/a541025f65508476b5f32031ca68dd28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆ miffy wallpaper ☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/dd/11/5bdd117288ce47b05f362cbb65b1d5fb.jpg' alt='☆ miffy wallpaper ☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/dd/11/5bdd117288ce47b05f362cbb65b1d5fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Hyoyk on miffy | Cute desktop wallpaper, Wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/a5/71/dca571cbebb0b04696aa207381670d82.jpg' alt='Pin by Hyoyk on miffy | Cute desktop wallpaper, Wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/a5/71/dca571cbebb0b04696aa207381670d82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="miffy ♡ @nijntjemiffy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/8a/70/988a7085e90d58d0e91b9894d951b914.jpg' alt='miffy ♡ @nijntjemiffy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/8a/70/988a7085e90d58d0e91b9894d951b914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miffy Clouds Kids Wallpaper in Pink by KEK Amsterdam">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/MiffyCloudsKidsWallpaperinPinkbyKEKAmsterdam_e184b06d-1c9c-44bf-af29-be403d700703.jpg?v=1601999475' alt='Miffy Clouds Kids Wallpaper in Pink by KEK Amsterdam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/MiffyCloudsKidsWallpaperinPinkbyKEKAmsterdam_e184b06d-1c9c-44bf-af29-be403d700703.jpg?v=1601999475' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Miffy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/miffy-2umrimr9yyporitq.jpg' alt='100+] Miffy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/miffy-2umrimr9yyporitq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miffy Animals Kids Wallpaper in Pink by KEK Amsterdam">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/MiffyAnimalsKidsWallpaperinPinkbyKEKAmsterdam_afa3f4e8-b85c-4365-b655-14dd8ef66448_800x.jpg?v=1601918425' alt='Miffy Animals Kids Wallpaper in Pink by KEK Amsterdam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/MiffyAnimalsKidsWallpaperinPinkbyKEKAmsterdam_afa3f4e8-b85c-4365-b655-14dd8ef66448_800x.jpg?v=1601918425' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miffy Rabbit Wallpaper Cute Doodle Jpec Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/miffy-rabbit-wallpaper-cute-doodle-260nw-2329535323.jpg' alt='Miffy Rabbit Wallpaper Cute Doodle Jpec Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="145">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/miffy-rabbit-wallpaper-cute-doodle-260nw-2329535323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Miffy wallpaper! | modeS Blog">
+                                <img itemprop="contentUrl url" src='https://www.dickbruna.jp/files/present/autumn_2018_1920.jpg' alt='FREE Miffy wallpaper! | modeS Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="modeS Blog - modeS4u" />
+                                </span>
+                                <a href='https://www.dickbruna.jp/files/present/autumn_2018_1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="miffy wallpaper (new jeans colour palette)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/03/cd/2703cdc235e4612e837c6107ee2c7e84.jpg' alt='miffy wallpaper (new jeans colour palette)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/03/cd/2703cdc235e4612e837c6107ee2c7e84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

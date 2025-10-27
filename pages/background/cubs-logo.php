@@ -1,0 +1,129 @@
+<title>Chicago Cubs Logo: An Iconic Symbol of Baseball</title>
+                    <meta name="description" content="Discover the history and significance of the Chicago Cubs logo, an enduring emblem of baseball tradition and fan pride. Learn about its iconic design and evolution, showcasing the team's rich heritage and spirit. Perfect for fans and baseball enthusiasts alike!">
+                    <meta name="keywords" content="cubs logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cubs-logo">
+                            <span itemprop="name">cubs logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chicago Cubs Logo: An Iconic Symbol of Baseball</h1>
+                <p>The Chicago Cubs logo is an iconic symbol of Major League Baseball, representing one of the oldest teams in the league. Featuring a friendly bear inside a blue circle, the logo exudes charm and nostalgia. Over the years, it has evolved slightly but remains a beloved emblem for fans, showcasing the team's spirit and heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Chicago Cubs logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/2032px-Chicago_Cubs_logo.svg.png' alt='File:Chicago Cubs logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2032">
+                                <meta itemprop="height" content="2054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/2032px-Chicago_Cubs_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Cubs LOGO ON IVY Official MLB Baseball Team Logo Style 22x34 WALL  POSTER | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/tlgAAOSwo4pYM7gr/s-l400.jpg' alt='Chicago Cubs LOGO ON IVY Official MLB Baseball Team Logo Style 22x34 WALL  POSTER | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/tlgAAOSwo4pYM7gr/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Cubs Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2017/07/Chicago-Cubs-Logo.png' alt='Chicago Cubs Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8400">
+                                <meta itemprop="height" content="5250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2017/07/Chicago-Cubs-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : MLB Chicago Cubs 05817115 Perfect Cut Color Decal, 4 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KuzVEOU3L.jpg' alt='Amazon.com : MLB Chicago Cubs 05817115 Perfect Cut Color Decal, 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KuzVEOU3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FANMATS MLB - Chicago Cubs 3D Metal Color Emblem 26532 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/956b0370-f502-44d4-8b49-8d2b284aa421/svn/fanmats-other-exterior-auto-accessories-26532-64_1000.jpg' alt='FANMATS MLB - Chicago Cubs 3D Metal Color Emblem 26532 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/956b0370-f502-44d4-8b49-8d2b284aa421/svn/fanmats-other-exterior-auto-accessories-26532-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The story behind the Chicago Cubs' iconic logo | CubsHQ">
+                                <img itemprop="contentUrl url" src='https://2cic.b-cdn.net/c/stories/22/baseball/cubs_logo2.jpg' alt='The story behind the Chicago Cubs' iconic logo | CubsHQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CubsHQ" />
+                                </span>
+                                <a href='https://2cic.b-cdn.net/c/stories/22/baseball/cubs_logo2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Cubs Logo Vector Set">
+                                <img itemprop="contentUrl url" src='https://masterbundles.com/wp-content/uploads/2023/12/mb-02-821-1.jpg' alt='Chicago Cubs Logo Vector Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MasterBundles" />
+                                </span>
+                                <a href='https://masterbundles.com/wp-content/uploads/2023/12/mb-02-821-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Cubs logo MLB Vinyl Decal Window Laptop Any Size Any Color ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/KAYAAOSwGSZjgpAX/s-l1200.png' alt='Chicago Cubs logo MLB Vinyl Decal Window Laptop Any Size Any Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/KAYAAOSwGSZjgpAX/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download But And This Is What Makes Us Keep Coming Back ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/c3/b9/79c3b9593f033cbcef0eac29245169b1.jpg' alt='   Free download But And This Is What Makes Us Keep Coming Back ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/c3/b9/79c3b9593f033cbcef0eac29245169b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Logo – Iowa Cubs Official Store">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0081/7633/6967/files/Cubs_927c9567-1c47-4a36-b6f6-d9052c4d4b6c.png?height=628&pad_color=ffffff&v=1614296636&width=1200' alt='Character Logo – Iowa Cubs Official Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iowa Cubs Official Store - MiLB Store" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0081/7633/6967/files/Cubs_927c9567-1c47-4a36-b6f6-d9052c4d4b6c.png?height=628&pad_color=ffffff&v=1614296636&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

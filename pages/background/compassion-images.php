@@ -1,0 +1,129 @@
+<title>Heartwarming Compassion Images: Inspiring Kindness Daily</title>
+                    <meta name="description" content="Discover a curated collection of compassion images that inspire kindness and empathy. These powerful visuals illustrate the beauty of human connection, reminding us of the importance of compassion in our daily lives. Explore and share to ignite positive change in the world!">
+                    <meta name="keywords" content="compassion images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/compassion-images">
+                            <span itemprop="name">compassion images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartwarming Compassion Images: Inspiring Kindness Daily</h1>
+                <p>Compassion images capture moments of kindness and empathy, showcasing the beauty of human connection. These visuals inspire us to show understanding and support for one another, whether through acts of charity or simple gestures of love. They remind us that compassion can change lives and create a more nurturing world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Value of Compassion | The International Educator (TIE Online)">
+                                <img itemprop="contentUrl url" src='https://tie.usprogramming8.com/articles/3877.jpg' alt='The Value of Compassion | The International Educator (TIE Online)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The International Educator" />
+                                </span>
+                                <a href='https://tie.usprogramming8.com/articles/3877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,458 Compassion Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/word-compassion-heart-torn-paper-concept-handwritten-word-compassion-appearing-behind-ripped-red-heart-brown-paper-167092746.jpg' alt='52,458 Compassion Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/word-compassion-heart-torn-paper-concept-handwritten-word-compassion-appearing-behind-ripped-red-heart-brown-paper-167092746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Compassion: A Call to Action | School of Social Ecology">
+                                <img itemprop="contentUrl url" src='https://socialecology.uci.edu/sites/default/files/styles/large_3_2_ratio__1080x720_/public/news_images/istock-496064258.jpg?itok=GtSMpyk0' alt='Compassion: A Call to Action | School of Social Ecology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School of Social Ecology - UC Irvine" />
+                                </span>
+                                <a href='https://socialecology.uci.edu/sites/default/files/styles/large_3_2_ratio__1080x720_/public/news_images/istock-496064258.jpg?itok=GtSMpyk0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Compassion in Action: Showing Up Even When We Want to Shut Down ...">
+                                <img itemprop="contentUrl url" src='https://www.mindful.org/content/uploads/AdobeStock_498612481-Why-Compassion-is-More-Powerful-Than-Sympathy-and-Empathy.png' alt='Compassion in Action: Showing Up Even When We Want to Shut Down ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6250">
+                                <meta itemprop="height" content="4167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mindful.org" />
+                                </span>
+                                <a href='https://www.mindful.org/content/uploads/AdobeStock_498612481-Why-Compassion-is-More-Powerful-Than-Sympathy-and-Empathy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does everyone deserve compassion? | University of Chicago News">
+                                <img itemprop="contentUrl url" src='https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2023-07/Moral%20barrier%20compassion_hero.png?itok=B6AibE3C' alt='Does everyone deserve compassion? | University of Chicago News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1380">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UChicago News" />
+                                </span>
+                                <a href='https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2023-07/Moral%20barrier%20compassion_hero.png?itok=B6AibE3C' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Compassion? The Meaning and Example">
+                                <img itemprop="contentUrl url" src='https://preferhome.com/wp-content/uploads/2022/09/10827902_1141766502506887_1595935762777552644_o.jpg' alt='What Is Compassion? The Meaning and Example'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Preferred Care at Home" />
+                                </span>
+                                <a href='https://preferhome.com/wp-content/uploads/2022/09/10827902_1141766502506887_1595935762777552644_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Compassion? How to Cultivate Compassion in Your Everyday Life">
+                                <img itemprop="contentUrl url" src='https://zenfulspirit.com/wp-content/uploads/2017/10/3-ways-to-be-a-more-compassionate-person-scaled.jpg' alt='What is Compassion? How to Cultivate Compassion in Your Everyday Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zenful Spirit" />
+                                </span>
+                                <a href='https://zenfulspirit.com/wp-content/uploads/2017/10/3-ways-to-be-a-more-compassionate-person-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Out with empathy, in with compassion – a skill that will enhance ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E12AQHT_nmmwSojig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1538586071624?e=2147483647&v=beta&t=0r4CB53ZrvdKxf1WhfYBgPnjOxdBikQ-CPMo20y1r_g' alt='Out with empathy, in with compassion – a skill that will enhance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E12AQHT_nmmwSojig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1538586071624?e=2147483647&v=beta&t=0r4CB53ZrvdKxf1WhfYBgPnjOxdBikQ-CPMo20y1r_g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kindness and Compassion for Students | Greater Good In Education">
+                                <img itemprop="contentUrl url" src='https://ggie.berkeley.edu/wp-content/uploads/2019/09/Kindness_and_Compassion_Students_1410x820-705x410.jpg' alt='Kindness and Compassion for Students | Greater Good In Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greater Good In Education" />
+                                </span>
+                                <a href='https://ggie.berkeley.edu/wp-content/uploads/2019/09/Kindness_and_Compassion_Students_1410x820-705x410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Compassion vs. Empathy: How to Express Both">
+                                <img itemprop="contentUrl url" src='https://www.verywellmind.com/thmb/ewDmjXsQPMq2cpd786mVHiUNH7s=/7284x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-13697737341-06aa8a58100141489c753caa77891bcc.jpg' alt='Compassion vs. Empathy: How to Express Both'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7284">
+                                <meta itemprop="height" content="5085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Mind" />
+                                </span>
+                                <a href='https://www.verywellmind.com/thmb/ewDmjXsQPMq2cpd786mVHiUNH7s=/7284x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-13697737341-06aa8a58100141489c753caa77891bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

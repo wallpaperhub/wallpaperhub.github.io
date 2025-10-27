@@ -1,0 +1,129 @@
+<title>Stunning Anime Fire Backgrounds for Your Art</title>
+                    <meta name="description" content="Discover captivating anime fire backgrounds to elevate your artwork and designs. Perfect for setting an intense mood, these vibrant visuals deliver energy and emotion. Browse our collection and ignite your creativity with stunning fiery designs!">
+                    <meta name="keywords" content="anime fire background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-fire-background">
+                            <span itemprop="name">anime fire background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Fire Backgrounds for Your Art</h1>
+                <p>An anime fire background can transform your digital space, adding a vibrant and dynamic feel to your visuals. Often seen in intense battle scenes, these backgrounds are characterized by glowing reds, oranges, and yellows, evoking emotion and energy. Perfect for fans, artists, or anyone seeking to immerse themselves in a fiery atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime style looping fire">
+                                <img itemprop="contentUrl url" src='https://d25thuhsbcr6yb.cloudfront.net/m/s/25481/25471170/a-0005.jpg' alt='anime style looping fire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock animation" />
+                                </span>
+                                <a href='https://d25thuhsbcr6yb.cloudfront.net/m/s/25481/25471170/a-0005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,100+ Anime Fire Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2150885363/vector/flame.jpg?s=612x612&w=0&k=20&c=UKbMShlECAfGOxWRKKeNHQD3C-2oBtKiaIC7c8cdnEA=' alt='3,100+ Anime Fire Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2150885363/vector/flame.jpg?s=612x612&w=0&k=20&c=UKbMShlECAfGOxWRKKeNHQD3C-2oBtKiaIC7c8cdnEA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Feel The Heat And Embrace The Flames Of Anime Fire ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-fire-1920-x-1200-ew4bhixufrdfg33h.jpg' alt='Download Feel The Heat And Embrace The Flames Of Anime Fire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-fire-1920-x-1200-ew4bhixufrdfg33h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime, Fire, Halftone. Royalty-Free Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/05/04/12/49/anime-6228610_1280.jpg' alt='Download Anime, Fire, Halftone. Royalty-Free Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/05/04/12/49/anime-6228610_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Anime Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fire-anime-background-vvvgjkr4qekum3tq.jpg' alt='Fire Anime Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fire-anime-background-vvvgjkr4qekum3tq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime style looping fire">
+                                <img itemprop="contentUrl url" src='https://thumb.r2.moele.me/t/25481/25471171/a-0005.jpg' alt='anime style looping fire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock animation" />
+                                </span>
+                                <a href='https://thumb.r2.moele.me/t/25481/25471171/a-0005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get lost in an anime world of fire Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-fire-9j3iwvacmmp5grbp.jpg' alt='Download Get lost in an anime world of fire Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-fire-9j3iwvacmmp5grbp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Fire Background Alpha Channel Cartoon">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3497327149/thumb/4.jpg?ip=x480' alt='Anime Fire Background Alpha Channel Cartoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3497327149/thumb/4.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract background of red fire flame with animation effect ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-background-red-fire-flame-with-animation-effect_623790-5117.jpg' alt='Abstract background of red fire flame with animation effect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-background-red-fire-flame-with-animation-effect_623790-5117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Fire Girl-Wallpaper by DarkS337 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47549298-e23c-49dd-a102-5fd8a0552c11/dao7gn0-4123e9a8-d95c-4330-bab2-2b2627be73a1.jpg/v1/fill/w_1024,h_576,q_75,strp/anime_fire_girl_wallpaper_by_darks337_dao7gn0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDc1NDkyOTgtZTIzYy00OWRkLWExMDItNWZkOGEwNTUyYzExXC9kYW83Z24wLTQxMjNlOWE4LWQ5NWMtNDMzMC1iYWIyLTJiMjYyN2JlNzNhMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Suq7gcHTZ1BxzvIF5BcXDubvjtZJaRaqRIe5AVicy2M' alt='Anime Fire Girl-Wallpaper by DarkS337 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47549298-e23c-49dd-a102-5fd8a0552c11/dao7gn0-4123e9a8-d95c-4330-bab2-2b2627be73a1.jpg/v1/fill/w_1024,h_576,q_75,strp/anime_fire_girl_wallpaper_by_darks337_dao7gn0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDc1NDkyOTgtZTIzYy00OWRkLWExMDItNWZkOGEwNTUyYzExXC9kYW83Z24wLTQxMjNlOWE4LWQ5NWMtNDMzMC1iYWIyLTJiMjYyN2JlNzNhMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Suq7gcHTZ1BxzvIF5BcXDubvjtZJaRaqRIe5AVicy2M' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

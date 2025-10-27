@@ -1,0 +1,129 @@
+<title>Broken Black Heart Wallpapers: Embrace Your Emotions</title>
+                    <meta name="description" content="Discover stunning broken black heart wallpapers that embody the essence of heartbreak and loss. Perfect for those seeking a unique way to express their feelings. Browse now and find the wallpaper that resonates with your heart’s story, all optimized for quick downloads on your mobile device.">
+                    <meta name="keywords" content="broken black heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/broken-black-heart-wallpaper">
+                            <span itemprop="name">broken black heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Broken Black Heart Wallpapers: Embrace Your Emotions</h1>
+                <p>Explore a collection of broken black heart wallpapers that express sorrow, heartbreak, and dramatic beauty. These striking images feature deep blacks and poignant themes, perfect for those who appreciate the art of emotional expression. Download your favorite and give your device a unique, moody look that resonates with your feelings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Red Broken Heart Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bloody-red-broken-heart-black-p0f43gwdczwzxe7t.jpg' alt='Bloody Red Broken Heart Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bloody-red-broken-heart-black-p0f43gwdczwzxe7t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin em すき in 2022. Broken heart, Black iphone dark, Cute black ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/412/469/HD-wallpaper-pin-em-%E3%81%99%E3%81%8D-in-2022-broken-heart-black-iphone-dark-cute-black-wallpape-in-2022-broken-heart-black-iphone-dark-heart-broken-heart-black-and-white.jpg' alt='Pin em すき in 2022. Broken heart, Black iphone dark, Cute black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/412/469/HD-wallpaper-pin-em-%E3%81%99%E3%81%8D-in-2022-broken-heart-black-iphone-dark-cute-black-wallpape-in-2022-broken-heart-black-iphone-dark-heart-broken-heart-black-and-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lifeline Broken Heart Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/lifeline-broken-heart-black-ove23tjoweiyjf32.jpg' alt='Lifeline Broken Heart Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/lifeline-broken-heart-black-ove23tjoweiyjf32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A shattered heart in darkness | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-heart-black-720-x-1280-background-72oml55pd860suvr.jpg' alt='Download A shattered heart in darkness | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-heart-black-720-x-1280-background-72oml55pd860suvr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Black Heart Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zMV9zdHJva2Vfb3V0bGluZV9vZl9zaW1wbGVfaGVhcnRfYnJva2VuX2luX3N0eV80MThmYjZiYy0yYjFkLTQzZTAtOTUwYS00ZGQ2MmM5ZGVjY2VfMi5qcGc.jpg' alt='Broken Black Heart Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zMV9zdHJva2Vfb3V0bGluZV9vZl9zaW1wbGVfaGVhcnRfYnJva2VuX2luX3N0eV80MThmYjZiYy0yYjFkLTQzZTAtOTUwYS00ZGQ2MmM5ZGVjY2VfMi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alone Broken Heart Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/alone-broken-heart-black-8lkx0r6dvq7mn7ai.jpg' alt='Alone Broken Heart Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/alone-broken-heart-black-8lkx0r6dvq7mn7ai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Broken Heart Images – Browse 55,769 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/28/98/63/360_F_28986380_VG245DLihFUGuYWcH1nXGSISlHJQtRSF.jpg' alt='Black Broken Heart Images – Browse 55,769 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/28/98/63/360_F_28986380_VG245DLihFUGuYWcH1nXGSISlHJQtRSF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and black heart, black, broken Heart, emotional, hopeless, no ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/983/699/HD-wallpaper-red-and-black-heart-black-broken-heart-emotional-hopeless-no-hope-no-love-red-sad-so-sad.jpg' alt='Red and black heart, black, broken Heart, emotional, hopeless, no ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/983/699/HD-wallpaper-red-and-black-heart-black-broken-heart-emotional-hopeless-no-hope-no-love-red-sad-so-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 30+ Broken Heart Images, Pictures, Pic, Photos, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5a/88/87/5a88876150957bb900c2f4343b662e23.jpg' alt='Best 30+ Broken Heart Images, Pictures, Pic, Photos, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5a/88/87/5a88876150957bb900c2f4343b662e23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love is Beautiful But It Hurts 5K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/broken-heart-2048x2048-14057.png' alt='Love is Beautiful But It Hurts 5K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/broken-heart-2048x2048-14057.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

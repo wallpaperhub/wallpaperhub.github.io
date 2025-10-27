@@ -1,0 +1,129 @@
+<title>Discover the Charm of Historic Taverns</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="tavern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tavern-background">
+                            <span itemprop="name">tavern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of Historic Taverns</h1>
+                <p>In the heart of bustling towns, taverns echo with laughter and clinking glasses. These cozy retreats offer warmth, hearty meals, and spirited conversation. From rustic wooden beams to flickering candlelight, the ambiance invites locals and travelers alike. A gathering place for stories and friendships, the tavern's rich history adds charm to every sip.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Medieval Tavern Inn Bar Backdrop for  Photography Ancient Wooden Interior Tables Stools Fantasy Background for  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vzdTOkAkL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Medieval Tavern Inn Bar Backdrop for  Photography Ancient Wooden Interior Tables Stools Fantasy Background for  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vzdTOkAkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tavern Old Images – Browse 75,717 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/78/49/04/360_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg' alt='Tavern Old Images – Browse 75,717 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/78/49/04/360_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 20x10ft Fabric Medieval Tavern Backdrop for Photography Wooden  Interior Candle Light Fireplace Ancient Tavern Inn Bar Restaurant  Background for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71mv3krj8VL._AC_UF894,1000_QL80_.jpg' alt='BELECO 20x10ft Fabric Medieval Tavern Backdrop for Photography Wooden  Interior Candle Light Fireplace Ancient Tavern Inn Bar Restaurant  Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71mv3krj8VL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tavern background Stock Photos, Royalty Free Tavern background ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/25138294/57687/i/450/depositphotos_576873844-stock-photo-old-medieval-inn-beer-barrels.jpg' alt='Tavern background Stock Photos, Royalty Free Tavern background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/25138294/57687/i/450/depositphotos_576873844-stock-photo-old-medieval-inn-beer-barrels.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tavern BG by mrainbowwj on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ad641a1-c362-46f0-9fbc-e35e86dbdd0c/d5k1ezg-fad727f5-b0bf-4c7d-a776-9ea5472b020e.jpg/v1/fill/w_900,h_490,q_75,strp/tavern_bg_by_mrainbowwj_d5k1ezg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDkwIiwicGF0aCI6IlwvZlwvMmFkNjQxYTEtYzM2Mi00NmYwLTlmYmMtZTM1ZTg2ZGJkZDBjXC9kNWsxZXpnLWZhZDcyN2Y1LWIwYmYtNGM3ZC1hNzc2LTllYTU0NzJiMDIwZS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.cRmq5zZw_xd9xs3i7BI21Uwh1amn5X8x0A1k0bQ2TGI' alt='tavern BG by mrainbowwj on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ad641a1-c362-46f0-9fbc-e35e86dbdd0c/d5k1ezg-fad727f5-b0bf-4c7d-a776-9ea5472b020e.jpg/v1/fill/w_900,h_490,q_75,strp/tavern_bg_by_mrainbowwj_d5k1ezg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDkwIiwicGF0aCI6IlwvZlwvMmFkNjQxYTEtYzM2Mi00NmYwLTlmYmMtZTM1ZTg2ZGJkZDBjXC9kNWsxZXpnLWZhZDcyN2Y1LWIwYmYtNGM3ZC1hNzc2LTllYTU0NzJiMDIwZS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.cRmq5zZw_xd9xs3i7BI21Uwh1amn5X8x0A1k0bQ2TGI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medieval Inn Tavern Bar Background Stock Illustrations – 98 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fantasy-medieval-tavern-inn-background-fireplace-d-rendering-249342429.jpg' alt='Medieval Inn Tavern Bar Background Stock Illustrations – 98 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fantasy-medieval-tavern-inn-background-fireplace-d-rendering-249342429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 8x6ft Fabric Medieval Tavern Backdrop Wooden Interior  Stone Floor Tables Counter Shields on The Wall Backdrop Inn Bar Restaurant  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815Hww9+R1L.jpg' alt='Amazon.com : Loccor 8x6ft Fabric Medieval Tavern Backdrop Wooden Interior  Stone Floor Tables Counter Shields on The Wall Backdrop Inn Bar Restaurant  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815Hww9+R1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medieval Tavern Animated Background, Video Backdrop for Virtual ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15632459/r/il/27a21e/5749794189/il_fullxfull.5749794189_l0p1.jpg' alt='Medieval Tavern Animated Background, Video Backdrop for Virtual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15632459/r/il/27a21e/5749794189/il_fullxfull.5749794189_l0p1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="doodle-space - Professional, Digital Artist | DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/1c/cb/fb1ccbd6d1aff5f37578df40b3bdc7cb.jpg' alt='doodle-space - Professional, Digital Artist | DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/1c/cb/fb1ccbd6d1aff5f37578df40b3bdc7cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Medieval Tavern Bar Backdrop for  Photography Fantasy Dining Hall with Tables Laid for Great Feast Ancient  Tavern ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Y2vyR+X4L.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Medieval Tavern Bar Backdrop for  Photography Fantasy Dining Hall with Tables Laid for Great Feast Ancient  Tavern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Y2vyR+X4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

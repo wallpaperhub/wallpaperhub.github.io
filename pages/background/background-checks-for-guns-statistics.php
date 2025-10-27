@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="background checks for guns statistics">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-checks-for-guns-statistics">
+                            <span itemprop="name">background checks for guns statistics</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chart: Firearms Background Checks at Record Levels | Statista">
+                                <img itemprop="contentUrl url" src='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' alt='Chart: Firearms Background Checks at Record Levels | Statista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statista" />
+                                </span>
+                                <a href='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chart: Firearms Background Checks Are Surging | Statista">
+                                <img itemprop="contentUrl url" src='http://cdn.statcdn.com/Infographic/images/normal/12140.jpeg' alt='Chart: Firearms Background Checks Are Surging | Statista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statista" />
+                                </span>
+                                <a href='http://cdn.statcdn.com/Infographic/images/normal/12140.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Fixing Gun Background Checks - Center for American ...">
+                                <img itemprop="contentUrl url" src='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' alt='Infographic: Fixing Gun Background Checks - Center for American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Center for American Progress" />
+                                </span>
+                                <a href='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Background Checks Hit Record 3.3 Million in December, FBI Says ...">
+                                <img itemprop="contentUrl url" src='http://a.abcnews.com/images/Politics/GunBackgroundChecks_Number_01052016.png' alt='Gun Background Checks Hit Record 3.3 Million in December, FBI Says ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='http://a.abcnews.com/images/Politics/GunBackgroundChecks_Number_01052016.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FACT SHEET: New Findings Continue to Show California's Gun Safety ...">
+                                <img itemprop="contentUrl url" src='https://www.gov.ca.gov/wp-content/uploads/2023/08/gun-graph-cropped.png?w=1080' alt='FACT SHEET: New Findings Continue to Show California's Gun Safety ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Governor of California - CA.gov" />
+                                </span>
+                                <a href='https://www.gov.ca.gov/wp-content/uploads/2023/08/gun-graph-cropped.png?w=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NICS background checks performed U.S. 1998-2023 | Statista">
+                                <img itemprop="contentUrl url" src='https://cdn.statcdn.com/Statistic/245000/249670-blank-355.png' alt='NICS background checks performed U.S. 1998-2023 | Statista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statista" />
+                                </span>
+                                <a href='https://cdn.statcdn.com/Statistic/245000/249670-blank-355.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2020 has been a record-setting year for background checks, but ...">
+                                <img itemprop="contentUrl url" src='https://staticweb.usafacts.org/media/images/Firearms_Share.original.png' alt='2020 has been a record-setting year for background checks, but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAFacts" />
+                                </span>
+                                <a href='https://staticweb.usafacts.org/media/images/Firearms_Share.original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Sales Are Surging, But Background Checks Aren't Keeping Up ...">
+                                <img itemprop="contentUrl url" src='https://fivethirtyeight.com/wp-content/uploads/2020/07/eaton.GUN-SALES.0730.png' alt='Gun Sales Are Surging, But Background Checks Aren't Keeping Up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="538 — Election Polls, Politics, and Analysis - ABC News" />
+                                </span>
+                                <a href='https://fivethirtyeight.com/wp-content/uploads/2020/07/eaton.GUN-SALES.0730.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Voters Are Nearly United in Support for Expanded Background Checks">
+                                <img itemprop="contentUrl url" src='https://pro-assets.morningconsult.com/wp-uploads/2021/03/09123653/210309_Background-Checks-Polling_FULLWIDTH.png' alt='Voters Are Nearly United in Support for Expanded Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morning Consult Pro" />
+                                </span>
+                                <a href='https://pro-assets.morningconsult.com/wp-uploads/2021/03/09123653/210309_Background-Checks-Polling_FULLWIDTH.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Fixing Gun Background Checks - Center for American ...">
+                                <img itemprop="contentUrl url" src='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_3-1.png' alt='Infographic: Fixing Gun Background Checks - Center for American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Center for American Progress" />
+                                </span>
+                                <a href='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_3-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

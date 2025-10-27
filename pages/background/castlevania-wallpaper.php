@@ -1,0 +1,129 @@
+<title>Stunning Castlevania Wallpaper: Epic Gothic Art for Your Screens</title>
+                    <meta name="description" content="Discover the best Castlevania wallpaper to enhance your screens! From dynamic character designs to atmospheric settings, find the perfect backdrop for your device and immerse yourself in the dark fantasy world of Castlevania. Perfect for mobile and desktop displays!">
+                    <meta name="keywords" content="castlevania wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/castlevania-wallpaper">
+                            <span itemprop="name">castlevania wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Castlevania Wallpaper: Epic Gothic Art for Your Screens</h1>
+                <p>Elevate your device's aesthetic with stunning Castlevania wallpaper! Explore a collection featuring iconic characters and haunting landscapes from this legendary series. Perfect for fans wanting to showcase their love for gothic horror and epic adventures. Customize your screens with a touch of dark fantasy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/d0/5a/d8d05a965496194f9f498ca8eb2d8587.jpg' alt='Pin on Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/d0/5a/d8d05a965496194f9f498ca8eb2d8587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CastleVania Phone Wallpaper Mega Gallery [1440x2960] : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OQGGPlNimE-4Mr-moz-Anxy39umDBxrMzetFBy64iAw.jpg?auto=webp&s=bac2960aac62ae9fa339ed69cb8760401c380181' alt='CastleVania Phone Wallpaper Mega Gallery [1440x2960] : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OQGGPlNimE-4Mr-moz-Anxy39umDBxrMzetFBy64iAw.jpg?auto=webp&s=bac2960aac62ae9fa339ed69cb8760401c380181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania: Symphony of the Night (PSX) - Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://fantasyanime.com/valhalla/castlevaniasotn/images/castlevania-sotn-wlpr02_3840x2160.jpg' alt='Castlevania: Symphony of the Night (PSX) - Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FantasyAnime" />
+                                </span>
+                                <a href='https://fantasyanime.com/valhalla/castlevaniasotn/images/castlevania-sotn-wlpr02_3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Arcade is bringing back Castlevania: Grimoire of Souls ...">
+                                <img itemprop="contentUrl url" src='https://www.destructoid.com/wp-content/uploads/2021/08/Castlevania-Grimoire-of-Souls-key-art.jpg?fit=1920%2C1028' alt='Apple Arcade is bringing back Castlevania: Grimoire of Souls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destructoid" />
+                                </span>
+                                <a href='https://www.destructoid.com/wp-content/uploads/2021/08/Castlevania-Grimoire-of-Souls-key-art.jpg?fit=1920%2C1028' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dracula (Castlevania) Trevor Belmont Anime Castlevania HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/971/971960.jpg' alt='Download Dracula (Castlevania) Trevor Belmont Anime Castlevania HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/971/971960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alucard ~ Castlevania">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/5d/04/ea5d0475dd4db67c496fd468ed5e9e5e.jpg' alt='Alucard ~ Castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/5d/04/ea5d0475dd4db67c496fd468ed5e9e5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Castlevania HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/116/1161724.jpg' alt='Download Anime Castlevania HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/116/1161724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Castlevania Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/castlevania-9ym4u6d7uyfye4kd.jpg' alt='100+] Castlevania Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/castlevania-9ym4u6d7uyfye4kd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/4/c/45749-3840x2160-desktop-4k-castlevania-netflix-wallpaper-photo.jpg' alt='Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/4/c/45749-3840x2160-desktop-4k-castlevania-netflix-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle (Artwork) [1920x1980] : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vhxb1zykzmv41.jpg?auto=webp&s=446f93e0ab3e5e88b632c66b543665e278a3dedc' alt='Dracula's Castle (Artwork) [1920x1980] : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vhxb1zykzmv41.jpg?auto=webp&s=446f93e0ab3e5e88b632c66b543665e278a3dedc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Uplifting Motivational Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover a collection of motivational lock screen wallpapers designed to inspire and uplift. Perfect for keeping positivity at your fingertips, these wallpapers feature empowering quotes and vibrant visuals. Transform your device and stay motivated throughout the day!">
+                    <meta name="keywords" content="motivational lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/motivational-lock-screen-wallpaper">
+                            <span itemprop="name">motivational lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uplifting Motivational Lock Screen Wallpapers</h1>
+                <p>Transform your daily routine with motivational lock screen wallpapers! These inspiring visuals fuel positivity and boost your mentality every time you unlock your phone. Choose quotes that resonate, vibrant imagery, and reminders of your goals to keep you focused. Make your screen a canvas of motivation and encouragement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New lock screen for constant reminder to stay motivated">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/37/b6/3537b643bce8ef4df8a58d11af6c2d37.jpg' alt='New lock screen for constant reminder to stay motivated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/37/b6/3537b643bce8ef4df8a58d11af6c2d37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic quote, Black, lock screen, motivation, dark, minimalist ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/535/553/HD-wallpaper-aesthetic-quote-black-lock-screen-motivation-dark-minimalist-home-screen-simple-black-inspiration-quotes.jpg' alt='Aesthetic quote, Black, lock screen, motivation, dark, minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/535/553/HD-wallpaper-aesthetic-quote-black-lock-screen-motivation-dark-minimalist-home-screen-simple-black-inspiration-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuXLoA1rs/1/0/900w/canva-white-minimalist-quote-motivational-phone-wallpaper-ywUul4hHw-k.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuXLoA1rs/1/0/900w/canva-white-minimalist-quote-motivational-phone-wallpaper-ywUul4hHw-k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motivational lockscreen More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/73/92/187392603638ced38fe6bb737928a601.jpg' alt='Motivational lockscreen More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/73/92/187392603638ced38fe6bb737928a601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' alt='Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' alt='Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jigar gor on LinkedIn: Title: Lockscreen Motivational Wallpaper 4k ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/sync/v2/D4D27AQHuQcz-l5oRSQ/articleshare-shrink_800/articleshare-shrink_800/0/1711505690028?e=2147483647&v=beta&t=l0axmgSE6EH27d-wa-IzlpUk6-SK62B7kRP7J6KdTfU' alt='jigar gor on LinkedIn: Title: Lockscreen Motivational Wallpaper 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/sync/v2/D4D27AQHuQcz-l5oRSQ/articleshare-shrink_800/articleshare-shrink_800/0/1711505690028?e=2147483647&v=beta&t=l0axmgSE6EH27d-wa-IzlpUk6-SK62B7kRP7J6KdTfU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFC1TXmyIQ/1/0/900w/canva-phone-wallpaper-lock-and-home-screen-yBnW8SpzCWI.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFC1TXmyIQ/1/0/900w/canva-phone-wallpaper-lock-and-home-screen-yBnW8SpzCWI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEVER LOCK BACK, black, igalaxytj, inscription, inspiration, lock ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/655/819/HD-wallpaper-never-lock-back-black-igalaxytj-inscription-inspiration-lock-screen-motivation-quote.jpg' alt='NEVER LOCK BACK, black, igalaxytj, inscription, inspiration, lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/655/819/HD-wallpaper-never-lock-back-black-igalaxytj-inscription-inspiration-lock-screen-motivation-quote.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

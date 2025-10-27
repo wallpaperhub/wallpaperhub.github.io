@@ -1,0 +1,129 @@
+<title>Stunning Mob Psycho Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore an exquisite collection of Mob Psycho phone wallpapers that elevate your device’s appearance. Perfect for fans and newcomers alike, these wallpapers feature stunning art inspired by the anime. Download your favorite designs today and showcase your love for Mob Psycho!">
+                    <meta name="keywords" content="mob psycho phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mob-psycho-phone-wallpaper">
+                            <span itemprop="name">mob psycho phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mob Psycho Phone Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Mob Psycho phone wallpapers! Featuring vibrant characters and iconic scenes from the beloved anime, these wallpapers bring the magic of Mob Psycho to your screen. Find designs that capture the essence of psychic battles and heartfelt moments in a variety of styles. Upgrade your phone's aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made an iPhone wallpaper from the MP100 II bluray art : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zkgcl49gg8q61.png' alt='I made an iPhone wallpaper from the MP100 II bluray art : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zkgcl49gg8q61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mob Psycho Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mob-psycho-iphone-juc8ajbvotafib25.jpg' alt='100+] Mob Psycho Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mob-psycho-iphone-juc8ajbvotafib25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mob psycho 100, anime, mob psycho 100, mobpsycho100, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1019/286/HD-wallpaper-mob-psycho-100-anime-mob-psycho-100-mobpsycho100.jpg' alt='Mob psycho 100, anime, mob psycho 100, mobpsycho100, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1019/286/HD-wallpaper-mob-psycho-100-anime-mob-psycho-100-mobpsycho100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Mob Psycho 100 [モブサイコ100] Phone Wallpapers By ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/mob-psycho-100-mobusaiko100-phone-wallpapers-by-lh8bu73is6mzmjne.jpg' alt='Download free Mob Psycho 100 [モブサイコ100] Phone Wallpapers By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/mob-psycho-100-mobusaiko100-phone-wallpapers-by-lh8bu73is6mzmjne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mob psycho 100, anime, mp100, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/858/HD-wallpaper-mob-psycho-100-anime-mp100.jpg' alt='Mob psycho 100, anime, mp100, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/858/HD-wallpaper-mob-psycho-100-anime-mp100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mob Psycho 100 Frickin Awesome!!!!!!. Mob Psycho. Mob Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mob-psycho-100-frickin-awesome-mob-psycho-mob-pmwv0gmuohwb5hbn.jpg' alt='Mob Psycho 100 Frickin Awesome!!!!!!. Mob Psycho. Mob Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mob-psycho-100-frickin-awesome-mob-psycho-mob-pmwv0gmuohwb5hbn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mob100">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/85/dd/8d85dd61b673de66e53f0aeda09318c4.jpg' alt='Mob100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/85/dd/8d85dd61b673de66e53f0aeda09318c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper I put together : r/Mobpsycho100">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/9OYkDse.jpg' alt='Phone wallpaper I put together : r/Mobpsycho100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1944">
+                                <meta itemprop="height" content="4212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/9OYkDse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mob Psycho 100 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5014492.jpg' alt='Mob Psycho 100 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5014492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The New Key Visual For Mob Psycho 100 Makes A Pretty Good ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-new-key-visual-for-mob-psycho-100-makes-a-pretty-good-yvcr6ep6syz7d2s1.jpg' alt='The New Key Visual For Mob Psycho 100 Makes A Pretty Good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-new-key-visual-for-mob-psycho-100-makes-a-pretty-good-yvcr6ep6syz7d2s1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

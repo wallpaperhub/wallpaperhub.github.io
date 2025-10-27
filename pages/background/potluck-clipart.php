@@ -1,0 +1,129 @@
+<title>Vibrant Potluck Clipart for Every Gathering</title>
+                    <meta name="description" content="Discover our vibrant potluck clipart collection! Perfect for invitations, menus, and social posts, these illustrations add a festive touch to your next gathering. Make your potluck unforgettable with eye-catching visuals that celebrate food and friendship. Explore now!">
+                    <meta name="keywords" content="potluck clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/potluck-clipart">
+                            <span itemprop="name">potluck clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Potluck Clipart for Every Gathering</h1>
+                <p>Explore a delightful collection of potluck clipart perfect for your next gathering! Our vibrant illustrations feature dishes, utensils, and festive decorations, ideal for invitations, menus, and social media. Elevate your potluck planning with eye-catching visuals that capture the spirit of sharing and community joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Potluck Clipart | Free Images at Clker.com - vector clip ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/f/2/1/5/15163668291834368454office-potluck-clipart.hi.png' alt='Office Potluck Clipart | Free Images at Clker.com - vector clip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/f/2/1/5/15163668291834368454office-potluck-clipart.hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="potluck clipart - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/df/a4/b3/dfa4b3265f2630279f951c7032be9f6e.jpg' alt='potluck clipart - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/df/a4/b3/dfa4b3265f2630279f951c7032be9f6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+ Potluck Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/139500472/vector/potluck-table-items.jpg?s=612x612&w=0&k=20&c=6ve3w9PVFQgvIIn-PXwjQwJ1yHLb0Q5lGL6kzw_MYG0=' alt='600+ Potluck Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/139500472/vector/potluck-table-items.jpg?s=612x612&w=0&k=20&c=6ve3w9PVFQgvIIn-PXwjQwJ1yHLb0Q5lGL6kzw_MYG0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Potluck, Sticker Clipart Thanksgiving Food Collection ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230913/original/pngtree-thanksgiving-potluck-png-image_11072799.png' alt='Thanksgiving Potluck, Sticker Clipart Thanksgiving Food Collection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230913/original/pngtree-thanksgiving-potluck-png-image_11072799.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potluck Stock Illustrations – 1,091 Potluck Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/group-friends-gathering-potluck-each-bringing-dish-holds-special-meaning-to-them-shared-meals-can-evoke-325784065.jpg' alt='Potluck Stock Illustrations – 1,091 Potluck Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/group-friends-gathering-potluck-each-bringing-dish-holds-special-meaning-to-them-shared-meals-can-evoke-325784065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potluck Clipart Bundle | Watercolor Food | Casserole Image | Crockpot PNG |  Chili Pot | Cupcake Clipart | Bundt Cake PNG | Commercial Use - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14028769/r/il/2f905f/5411930221/il_1080xN.5411930221_ox9h.jpg' alt='Potluck Clipart Bundle | Watercolor Food | Casserole Image | Crockpot PNG |  Chili Pot | Cupcake Clipart | Bundt Cake PNG | Commercial Use - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14028769/r/il/2f905f/5411930221/il_1080xN.5411930221_ox9h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="potluck and flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/c9/d7/bbc9d78ef01be9ac33d15507fbf650c9.jpg' alt='potluck and flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/c9/d7/bbc9d78ef01be9ac33d15507fbf650c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="summer-potluck-clipart-1 - theOrcasonian.com">
+                                <img itemprop="contentUrl url" src='https://theorcasonian.com/wp-content/uploads/2018/11/summer-potluck-clipart-1.jpg' alt='summer-potluck-clipart-1 - theOrcasonian.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="theOrcasonian.com" />
+                                </span>
+                                <a href='https://theorcasonian.com/wp-content/uploads/2018/11/summer-potluck-clipart-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potluck Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-potluck-clipart-large-pot-filled-with-food-cartoon-vector-png-image_6825466.png' alt='Potluck Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-potluck-clipart-large-pot-filled-with-food-cartoon-vector-png-image_6825466.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potluck Stock Illustrations – 1,091 Potluck Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/potluck-party-icon-clipart-image-isolated-white-background-321257577.jpg' alt='Potluck Stock Illustrations – 1,091 Potluck Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/potluck-party-icon-clipart-image-isolated-white-background-321257577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

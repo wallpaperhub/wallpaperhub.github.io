@@ -1,0 +1,129 @@
+<title>Unleash Your Humor: The Best Funny Profile Picture Ideas</title>
+                    <meta name="description" content="Discover how to stand out online with funny profile pictures! From silly selfies to quirky pet antics, learn tips and tricks to create humorous images that showcase your unique personality. Perfect for social media enthusiasts looking to add a light-hearted touch to their profiles!">
+                    <meta name="keywords" content="funny profile pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-profile-pictures">
+                            <span itemprop="name">funny profile pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Your Humor: The Best Funny Profile Picture Ideas</h1>
+                <p>Funny profile pictures are a great way to showcase your personality! Whether you're pulling a silly face, dressed as a favorite character, or capturing a hilarious pet moment, these images can add a splash of humor to your online presence. Embrace your creativity and let your funny side shine through your digital persona!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Profile Pic GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/2fDPAEGo1vAAAAAM/alfred-marko.gif' alt='Funny Profile Pic GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/2fDPAEGo1vAAAAAM/alfred-marko.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Meme Discover more interesting Bored Shrek, Funny Shrek ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/5f/3a/b85f3a28fd572685b0dab45537113294.jpg' alt='Shrek Meme Discover more interesting Bored Shrek, Funny Shrek ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/5f/3a/b85f3a28fd572685b0dab45537113294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Profile Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-profile-picture-9gkayiu1i7j211fg.jpg' alt='100+] Funny Profile Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-profile-picture-9gkayiu1i7j211fg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Facebook Profile Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-facebook-profile-pictures-1200-x-1200-nghrweqjmsbdt69s.jpg' alt='100+] Funny Facebook Profile Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-facebook-profile-pictures-1200-x-1200-nghrweqjmsbdt69s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300 Best Funny profile pictures ideas | funny profile pictures ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4d/3e/06/4d3e062d81dd31d27c1c4a9aee7ac560.jpg' alt='300 Best Funny profile pictures ideas | funny profile pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4d/3e/06/4d3e062d81dd31d27c1c4a9aee7ac560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Cat Profile Picture | Roblox Item - Rolimon's">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-a563d5724f0a30cdb00b556999ad985a/420/420/Hat/Webp/noFilter' alt='Funny Cat Profile Picture | Roblox Item - Rolimon's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolimon's" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-a563d5724f0a30cdb00b556999ad985a/420/420/Hat/Webp/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Profile Pictures Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7368692727694789930&location=0&aid=1988' alt='Funny Profile Pictures Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7368692727694789930&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/8d/df/ab8ddf49da46ed16266c4165c35210de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/8d/df/ab8ddf49da46ed16266c4165c35210de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny profile pics. | Gallery posted by Misspreppy92911 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/ogYpmQoIiVBB1EviLRBnCydu2Aug26AAEByafD~tplv-tej9nj120t-origin.webp' alt='Funny profile pics. | Gallery posted by Misspreppy92911 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/ogYpmQoIiVBB1EviLRBnCydu2Aug26AAEByafD~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Of The Weirdest And Funniest Pics Shared On The “Images That ...">
+                                <img itemprop="contentUrl url" src='https://www.boredpanda.com/blog/wp-content/uploads/2023/03/1603540416678207493-png__700.jpg' alt='30 Of The Weirdest And Funniest Pics Shared On The “Images That ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://www.boredpanda.com/blog/wp-content/uploads/2023/03/1603540416678207493-png__700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

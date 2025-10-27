@@ -1,0 +1,129 @@
+<title>Vibrant Purple Brick Wall Ideas</title>
+                    <meta name="description" content="Discover how a purple brick wall can transform your space with its bold color and texture. Perfect for interior design or outdoor beautification, this captivating feature inspires creativity and adds a unique flair to any setting. Explore tips and ideas to incorporate a purple brick wall into your decor today!">
+                    <meta name="keywords" content="purple brick wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-brick-wall">
+                            <span itemprop="name">purple brick wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Brick Wall Ideas</h1>
+                <p>A purple brick wall can add a vibrant touch to any space, serving as a striking backdrop for both indoor and outdoor environments. This unique feature not only enhances aesthetics but also creates a playful atmosphere. Whether used in home decor or for creative photography, a purple brick wall captivates the eye and inspires imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-purple-brick-wall-background_181624-2861.jpg' alt='Purple Brick Wall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-purple-brick-wall-background_181624-2861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1144130818/vector/purple-brick-wall.jpg?s=612x612&w=0&k=20&c=F2TpL5aW5bdHgu0ApjtTJNBzJKlMhKxEumCvNc1wru8=' alt='14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1144130818/vector/purple-brick-wall.jpg?s=612x612&w=0&k=20&c=F2TpL5aW5bdHgu0ApjtTJNBzJKlMhKxEumCvNc1wru8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Images – Browse 904,573 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/43/76/45/360_F_1143764553_HEeZ6NfGkV81jXk2pbSoOtV8GzQy37MJ.jpg' alt='Purple Brick Wall Images – Browse 904,573 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/43/76/45/360_F_1143764553_HEeZ6NfGkV81jXk2pbSoOtV8GzQy37MJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Digital Paper Background Texture - Neon Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/22500f/3920718253/il_fullxfull.3920718253_th5j.jpg' alt='Purple Brick Wall Digital Paper Background Texture - Neon Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/22500f/3920718253/il_fullxfull.3920718253_th5j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1266421401/photo/purple-brick-building-wall-background.jpg?s=612x612&w=0&k=20&c=BUqn8-bp587OYurw7f2V4INLIKMuHPj55_jmnNixW8c=' alt='14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1266421401/photo/purple-brick-building-wall-background.jpg?s=612x612&w=0&k=20&c=BUqn8-bp587OYurw7f2V4INLIKMuHPj55_jmnNixW8c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Texture Purple Images – Browse 41,879 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/03/34/79/360_F_803347962_w2DohSmpmLvET2mgNQ1HhrNU2Ct9A7LR.jpg' alt='Brick Texture Purple Images – Browse 41,879 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/03/34/79/360_F_803347962_w2DohSmpmLvET2mgNQ1HhrNU2Ct9A7LR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac or Lavender Painted Brick Wall Texture">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d2/7a/3c/d27a3cf727ad4fabdce0a1ca74c3fbae.jpg' alt='Lilac or Lavender Painted Brick Wall Texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d2/7a/3c/d27a3cf727ad4fabdce0a1ca74c3fbae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Brick Wall Texture – Photos Public Domain">
+                                <img itemprop="contentUrl url" src='https://www.photos-public-domain.com/wp-content/uploads/2011/03/dark-purple-brick-wall-texture-600x400.jpg' alt='Dark Purple Brick Wall Texture – Photos Public Domain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos Public Domain" />
+                                </span>
+                                <a href='https://www.photos-public-domain.com/wp-content/uploads/2011/03/dark-purple-brick-wall-texture-600x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Background Wallpaper Bricks Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/purple-brick-wall-background-wallpaper-600w-242594092.jpg' alt='Purple Brick Wall Background Wallpaper Bricks Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/purple-brick-wall-background-wallpaper-600w-242594092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wall stock image. Image of stone, purple, dark - 2662745">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/3d/9f/193d9f4a325c4a585bbedea5a4b9d285.jpg' alt='Purple wall stock image. Image of stone, purple, dark - 2662745'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/3d/9f/193d9f4a325c4a585bbedea5a4b9d285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

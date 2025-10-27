@@ -1,0 +1,129 @@
+<title>Understanding Default Foreground and Background Colors</title>
+                    <meta name="description" content="Explore the significance of default foreground and background colors in design. Learn how these elements enhance readability and create visual appeal, while also discovering how to customize them for a personalized user experience. Perfect for designers and anyone interested in UI aesthetics!">
+                    <meta name="keywords" content="default foreground and background colors">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/default-foreground-and-background-colors">
+                            <span itemprop="name">default foreground and background colors</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Default Foreground and Background Colors</h1>
+                <p>The default foreground color determines the main text color in applications, while the background color serves as the base upon which content is displayed. These colors not only enhance readability but also influence the aesthetic appeal of a design. Users can customize these settings to fit their preferences, ensuring a personalized interface experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Quickly Access The Foreground And Background Color Pickers In  Photoshop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6wqnlezkDvE/maxresdefault.jpg' alt='How To Quickly Access The Foreground And Background Color Pickers In  Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6wqnlezkDvE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learners Desk: About Photoshop Foreground And Background Colors">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-bcpse5Rw0XBuhPHIZ9qCIDl5s2Msl3ny26uoWBN6bjWuQmWouKD3Msi3mfjM5zrOYToiUzqWQgl52dfg_wd5q4SO7b7kMGqDrHXqVkiaXY_oIV9eT7w5SYoOAM6xU2DVK_TOSk6EmUQ/s1600/1+F+B+COLOR+TOOL+1.jpg' alt='Learners Desk: About Photoshop Foreground And Background Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learners Desk" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-bcpse5Rw0XBuhPHIZ9qCIDl5s2Msl3ny26uoWBN6bjWuQmWouKD3Msi3mfjM5zrOYToiUzqWQgl52dfg_wd5q4SO7b7kMGqDrHXqVkiaXY_oIV9eT7w5SYoOAM6xU2DVK_TOSk6EmUQ/s1600/1+F+B+COLOR+TOOL+1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adobe Photoshop - Foreground And Background Color - Campus G ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/campusg-in/images/f_auto,q_auto/v1623756024/CG-Post-TW-PS-005_r8z0y0_103486b578/CG-Post-TW-PS-005_r8z0y0_103486b578.jpg?_i=AA' alt='Adobe Photoshop - Foreground And Background Color - Campus G ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campusg-Graphic Design Online Training - Kerala" />
+                                </span>
+                                <a href='https://res.cloudinary.com/campusg-in/images/f_auto,q_auto/v1623756024/CG-Post-TW-PS-005_r8z0y0_103486b578/CG-Post-TW-PS-005_r8z0y0_103486b578.jpg?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adobe Photoshop Tutorials - go4university.com">
+                                <img itemprop="contentUrl url" src='http://www.go4photoshop.com/images/Chapter-4.1/Foreground-Background-color-settings-in-Photoshop.PNG' alt='Adobe Photoshop Tutorials - go4university.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Photoshop Tutorials - go4university.com" />
+                                </span>
+                                <a href='http://www.go4photoshop.com/images/Chapter-4.1/Foreground-Background-color-settings-in-Photoshop.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Foreground & Background Colors in Photoshop - PHLEARN">
+                                <img itemprop="contentUrl url" src='https://phlearn.com/wp-content/uploads/2014/07/038_Foreground_Background_Color_Tool_Basic_Thumbnail_Sixteen_Nine.jpg?fit=640%2C360&quality=99&strip=all' alt='How to Use Foreground & Background Colors in Photoshop - PHLEARN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phlearn" />
+                                </span>
+                                <a href='https://phlearn.com/wp-content/uploads/2014/07/038_Foreground_Background_Color_Tool_Basic_Thumbnail_Sixteen_Nine.jpg?fit=640%2C360&quality=99&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Easy Ways to Change the Foreground Color in Photoshop">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/1/1e/Change-Foreground-Color-in-Adobe-Photoshop-Step-7-Version-3.jpg/v4-460px-Change-Foreground-Color-in-Adobe-Photoshop-Step-7-Version-3.jpg' alt='6 Easy Ways to Change the Foreground Color in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/1/1e/Change-Foreground-Color-in-Adobe-Photoshop-Step-7-Version-3.jpg/v4-460px-Change-Foreground-Color-in-Adobe-Photoshop-Step-7-Version-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Foreground and Background Colors | Adobe Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://www.informit.com/content/images/chap9_9780789744470/elementLinks/216fig04.jpg' alt='Understanding Foreground and Background Colors | Adobe Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InformIT" />
+                                </span>
+                                <a href='https://www.informit.com/content/images/chap9_9780789744470/elementLinks/216fig04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Contrast Background and Foreground Colors in Web Design">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' alt='How to Contrast Background and Foreground Colors in Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground and Background Colors in Photoshop - Video">
+                                <img itemprop="contentUrl url" src='https://www.teachucomp.com/wp-content/uploads/blog-6-11-2024-foregroundandbackgroundcolorsinphotoshop-1024x576.jpg' alt='Foreground and Background Colors in Photoshop - Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeachUcomp, Inc." />
+                                </span>
+                                <a href='https://www.teachucomp.com/wp-content/uploads/blog-6-11-2024-foregroundandbackgroundcolorsinphotoshop-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Easy Ways to Change the Foreground Color in Photoshop">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/f/f8/Change-Foreground-Color-in-Adobe-Photoshop-Step-34.jpg' alt='6 Easy Ways to Change the Foreground Color in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/f/f8/Change-Foreground-Color-in-Adobe-Photoshop-Step-34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

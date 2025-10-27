@@ -1,0 +1,129 @@
+<title>Retro Diner Background: Nostalgia Meets Style</title>
+                    <meta name="description" content="Explore our retro diner background, adorned with vibrant colors and nostalgic decor that evokes a classic Americana vibe. Perfect for photos, events, or creative projects, this lively backdrop invites a fun atmosphere reminiscent of the 1950s. Make your design stand out with a splash of retro charm!">
+                    <meta name="keywords" content="retro diner background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-diner-background">
+                            <span itemprop="name">retro diner background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Diner Background: Nostalgia Meets Style</h1>
+                <p>Step back in time with a retro diner background, where vibrant colors and nostalgic decor transport you to the 1950s. Imagine checkered floors, neon signs, and chrome accents creating a lively atmosphere. Perfect for photos, events, or design projects, this throwback style captures the essence of Americana, inviting fun and flavor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 10x8ft Fabric Retro 50s Diner Backdrop for Photography Classic 1950s  Fast Food Soda Shop Restaurant Bar Stools Wine Shelf Neon Dining ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71aj5SIBOqL._AC_UF894,1000_QL80_.jpg' alt='BELECO 10x8ft Fabric Retro 50s Diner Backdrop for Photography Classic 1950s  Fast Food Soda Shop Restaurant Bar Stools Wine Shelf Neon Dining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71aj5SIBOqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Diner Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1555992336-03a23c7b20ee?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmV0cm8lMjBkaW5lcnxlbnwwfHwwfHx8MA%3D%3D' alt='Retro Diner Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1555992336-03a23c7b20ee?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmV0cm8lMjBkaW5lcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 7x5ft Fabric Retro 50s Diner Restaurant Backdrop Classic 1950s Soda  Shop Meal Time Local Diner with Wall of American Memorabilia Dinner Time ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8194o+L1v-L._AC_UF894,1000_QL80_.jpg' alt='BELECO 7x5ft Fabric Retro 50s Diner Restaurant Backdrop Classic 1950s Soda  Shop Meal Time Local Diner with Wall of American Memorabilia Dinner Time ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8194o+L1v-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50S Diner Images – Browse 4,429 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/73/56/84/360_F_473568454_Xxzimgdz5K6AonWafuNl4azZq040DkP5.jpg' alt='50S Diner Images – Browse 4,429 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/73/56/84/360_F_473568454_Xxzimgdz5K6AonWafuNl4azZq040DkP5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro american diner at dusk Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Retro-american-diner-at-dusk-Wall-Mural_e843717c-0d83-465b-be87-ae9fee715da9.jpeg?v=1628780651' alt='Retro american diner at dusk Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Retro-american-diner-at-dusk-Wall-Mural_e843717c-0d83-465b-be87-ae9fee715da9.jpeg?v=1628780651' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Diner Digital Background . Vintage Bar 50 S . 3 Files ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14319357/r/il/9b668b/3960986732/il_fullxfull.3960986732_afh9.jpg' alt='Retro Diner Digital Background . Vintage Bar 50 S . 3 Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14319357/r/il/9b668b/3960986732/il_fullxfull.3960986732_afh9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Neon Retro Diner Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/9/d/f/9dfb96b9-f230-46b0-a0a8-bf502ee8d6bd_large/neon-retro-diner-stockcake.jpg' alt='Free Neon Retro Diner Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/9/d/f/9dfb96b9-f230-46b0-a0a8-bf502ee8d6bd_large/neon-retro-diner-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 15x10ft American Restaurant Backdrop Retro ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81DlCZ+sDLL.jpg' alt='Amazon.com : CHNYWORK 15x10ft American Restaurant Backdrop Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81DlCZ+sDLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950S Diner Background Images – Browse 1,278 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/72/26/84/360_F_972268499_5NhCXrdSByZkhdwHjLvYA596YshraS1R.jpg' alt='1950S Diner Background Images – Browse 1,278 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/72/26/84/360_F_972268499_5NhCXrdSByZkhdwHjLvYA596YshraS1R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Diner : r/blender">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dd6uy51rlhyy.jpg' alt='Retro Diner : r/blender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dd6uy51rlhyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

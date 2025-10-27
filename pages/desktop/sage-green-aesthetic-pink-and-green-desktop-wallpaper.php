@@ -1,0 +1,129 @@
+<title>Sage Green & Pink Aesthetic Desktop Wallpaper</title>
+                    <meta name="description" content="Explore our sage green and pink desktop wallpaper collection, perfect for adding a serene yet vibrant touch to your workspace. Enhance your aesthetic with refreshing designs that inspire creativity and tranquility, all optimized for mobile screens and styled for your personal taste!">
+                    <meta name="keywords" content="sage green aesthetic pink and green desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/sage-green-aesthetic-pink-and-green-desktop-wallpaper">
+                            <span itemprop="name">sage green aesthetic pink and green desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sage Green & Pink Aesthetic Desktop Wallpaper</h1>
+                <p>Discover the exquisite charm of a sage green aesthetic adorned with pink accents in our stunning desktop wallpaper collection. Each design captures the serene essence of nature while adding a pop of playful color, perfect for invigorating your workspace. Transform your screen with soothing hues for a refreshing vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Roses Sage Green Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-roses-sage-green-desktop-ecsvmexybi9vlz5b.jpg' alt='Pink Roses Sage Green Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-roses-sage-green-desktop-ecsvmexybi9vlz5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 32 | Sage Green Aesthetic Wallpaper Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background_23-2150265592.jpg' alt='Page 32 | Sage Green Aesthetic Wallpaper Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background_23-2150265592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green and pink <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/8d/20/a78d2061b5ced6e490bbf3099a51c9ad.jpg' alt='sage green and pink <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/8d/20/a78d2061b5ced6e490bbf3099a51c9ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Creative Abstract Background, Wallpaper, Desktop ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-pink-green-creative-abstract-background-picture-image_1306288.jpg' alt='Pink Green Creative Abstract Background, Wallpaper, Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-pink-green-creative-abstract-background-picture-image_1306288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Spring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/63/6b/29636bd21397a6e5ecb039faccb63b14.jpg' alt='Birth Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/63/6b/29636bd21397a6e5ecb039faccb63b14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Pink and Green Aesthetic Monogram Desktop Wallpaper Collage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/8b2e2a/5864742671/il_fullxfull.5864742671_de0s.jpg' alt='Custom Pink and Green Aesthetic Monogram Desktop Wallpaper Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/8b2e2a/5864742671/il_fullxfull.5864742671_de0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Kayleigh Dollear on lil things ☻ | Graphic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/8f/e3/f08fe33d3c56e20514bf87687c51e3ed.jpg' alt='Pin by Kayleigh Dollear on lil things ☻ | Graphic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/8f/e3/f08fe33d3c56e20514bf87687c51e3ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink And Green Aesthetic Smiley Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-green-aesthetic-fg98f0o4p7lk1cx1.jpg' alt='Download Pink And Green Aesthetic Smiley Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-green-aesthetic-fg98f0o4p7lk1cx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' alt='100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sage green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGDRc3pYa0/1/0/900w/canva-sage-green-pink-aesthetic-floral-blank-background-instagram-story-a7-44RHz8VQ.jpg' alt='Free and customizable sage green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGDRc3pYa0/1/0/900w/canva-sage-green-pink-aesthetic-floral-blank-background-instagram-story-a7-44RHz8VQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

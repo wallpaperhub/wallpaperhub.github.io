@@ -1,0 +1,129 @@
+<title>Superhero iPhone Wallpapers: Epic Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover a collection of superhero iPhone wallpapers that bring your favorite characters to life on your screen. Perfect for fans of all ages, these vibrant backgrounds will inspire your everyday adventures. Download now and give your device a heroic makeover!">
+                    <meta name="keywords" content="superhero iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/superhero-iphone-wallpaper">
+                            <span itemprop="name">superhero iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Superhero iPhone Wallpapers: Epic Backgrounds for Your Device</h1>
+                <p>Transform your iPhone's look with stunning superhero wallpapers! From iconic comic book heroes to epic movie characters, you'll find the perfect background to showcase your passion for superheroes. Elevate your device's style and let your screen reflect your inner hero with vibrant and dynamic designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Superhero Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/marvel-superhero-iphone-xdkap27dod9fhewu.jpg' alt='100+] Superhero Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/marvel-superhero-iphone-xdkap27dod9fhewu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool With All Weapons Superhero Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/deadpool-with-all-weapons-superhero-iphone-rrlk8iu3v4j4l1d5.jpg' alt='Deadpool With All Weapons Superhero Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/deadpool-with-all-weapons-superhero-iphone-rrlk8iu3v4j4l1d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman, hero, super, superhero, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/314/627/HD-wallpaper-spiderman-hero-super-superhero.jpg' alt='Spiderman, hero, super, superhero, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/314/627/HD-wallpaper-spiderman-hero-super-superhero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hurt Spider-man Superhero Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hurt-spider-man-superhero-iphone-uj82d41e46qzqhk1.jpg' alt='Hurt Spider-man Superhero Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hurt-spider-man-superhero-iphone-uj82d41e46qzqhk1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Spider-Man Red Hood Superhero iPhone Wallpaper 4K - HeroWall ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEihIHVg_BYV8vnlc0QYepEmPRUl-TMdcqnI4VntojFxEAYvRiPMatyocA3jrYuUaH7t18Zx9aP8rWKHSLEdrUXjt72GxZalIzPRrn1qywVNwBzP_hNy__msZ4Np2RhX0J4pvdXvlH9tpPxx09LebOT5rvspHF4dbrI2tnBNRVo2UAi9OGDLOP0O71qAP4dz' alt='Dark Spider-Man Red Hood Superhero iPhone Wallpaper 4K - HeroWall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEihIHVg_BYV8vnlc0QYepEmPRUl-TMdcqnI4VntojFxEAYvRiPMatyocA3jrYuUaH7t18Zx9aP8rWKHSLEdrUXjt72GxZalIzPRrn1qywVNwBzP_hNy__msZ4Np2RhX0J4pvdXvlH9tpPxx09LebOT5rvspHF4dbrI2tnBNRVo2UAi9OGDLOP0O71qAP4dz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super hero Depth Effect wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/10/Batman-Depth-Effect-dark-mode.jpg' alt='Super hero Depth Effect wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/10/Batman-Depth-Effect-dark-mode.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mutants Superhero Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-mutants-superhero-iphone-m68kcx356dbnrwh1.jpg' alt='The Mutants Superhero Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-mutants-superhero-iphone-m68kcx356dbnrwh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Breathtaking Superhero Wallpapers For iPhone [2020 Updated ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/29/e9/d029e97866b73dc1201dc8b2c554b5b6.jpg' alt='150 Breathtaking Superhero Wallpapers For iPhone [2020 Updated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/29/e9/d029e97866b73dc1201dc8b2c554b5b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of the week: super hero pack II">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2014/02/apple_wallpaper_avengers-new_iphone5_parallax.jpg' alt='Wallpapers of the week: super hero pack II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2014/02/apple_wallpaper_avengers-new_iphone5_parallax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superhero Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/4/1/2117277-1242x2688-phone-hd-superhero-wallpaper.jpg' alt='Superhero Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/4/1/2117277-1242x2688-phone-hd-superhero-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

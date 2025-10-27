@@ -1,0 +1,129 @@
+<title>Charming Pink Toile Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover the beauty of pink toile wallpaper! Perfect for adding elegance to bedrooms and nurseries, this stylish wallpaper features intricate patterns that enhance your decor. Explore our collection to transform your space with a touch of timeless charm and sophistication.">
+                    <meta name="keywords" content="pink toile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-toile-wallpaper">
+                            <span itemprop="name">pink toile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Toile Wallpaper for Elegant Interiors</h1>
+                <p>Pink toile wallpaper adds a touch of elegance and charm to any space, featuring intricate patterns that evoke a sense of timeless beauty. Ideal for bedrooms, nurseries, or accent walls, this wallpaper transforms interiors with soft color palettes and delicate designs. Elevate your decor with the romantic allure of pink toile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairytale Peony Toile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/AST6271_0826d10d-33e3-402b-b9e4-065c2d3a129b.jpg?v=1722365705&width=2400' alt='Fairytale Peony Toile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/AST6271_0826d10d-33e3-402b-b9e4-065c2d3a129b.jpg?v=1722365705&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink toile pattern removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Pink-toile-girls-room-wallpaper.jpg?v=1680512084' alt='Pink toile pattern removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Pink-toile-girls-room-wallpaper.jpg?v=1680512084' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Chateau Toile Peel and Stick Wallpaper (Blush)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RugxbwQ7L._AC_UF894,1000_QL80_.jpg' alt='NextWall Chateau Toile Peel and Stick Wallpaper (Blush)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RugxbwQ7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairytale Toile Standard Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.loveshackfancy.com/cdn/shop/files/FAIRYTALETOILEWALLPAPER_PEONYPINK_1200x1200_crop_center.jpg?v=1713977434' alt='Fairytale Toile Standard Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='https://www.loveshackfancy.com/cdn/shop/files/FAIRYTALETOILEWALLPAPER_PEONYPINK_1200x1200_crop_center.jpg?v=1713977434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Secret Garden Pink Detailed Botantical Toile Design on Non-Woven  Paper Non-Pasted Wallpaper Roll (Covers 57.75 sq. ft.) G78511">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/36af032c-cc54-44c2-85c2-f16afc918260/svn/wallpaper-rolls-g78511-64_600.jpg' alt='Unbranded Secret Garden Pink Detailed Botantical Toile Design on Non-Woven  Paper Non-Pasted Wallpaper Roll (Covers 57.75 sq. ft.) G78511'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/36af032c-cc54-44c2-85c2-f16afc918260/svn/wallpaper-rolls-g78511-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Pink and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/155e43/5750656423/il_fullxfull.5750656423_n49m.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Pink and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2657">
+                                <meta itemprop="height" content="2656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/155e43/5750656423/il_fullxfull.5750656423_n49m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile by Galerie - Pink - Wallpaper - AF37705">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/169811/tiled/galerie-toile-pink-wallpaper-tiled-169811.jpg' alt='Toile by Galerie - Pink - Wallpaper - AF37705'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/169811/tiled/galerie-toile-pink-wallpaper-tiled-169811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Forest Toile Wallpaper Pink and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CYgemr1iL.jpg' alt='RollsRolla Forest Toile Wallpaper Pink and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CYgemr1iL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5009123 | Toile De Fleurs, Pink - Schumacher Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/files/5009123.jpg?v=1721236185' alt='5009123 | Toile De Fleurs, Pink - Schumacher Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/files/5009123.jpg?v=1721236185' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Toile Wallpaper - Pink French Wallpaper - French Country Wallpaper -  Baby Pink Wallpaper -provence in Pink - WIV 469 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/8c2777/2791339578/il_1080xN.2791339578_2wn9.jpg' alt='French Toile Wallpaper - Pink French Wallpaper - French Country Wallpaper -  Baby Pink Wallpaper -provence in Pink - WIV 469 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/8c2777/2791339578/il_1080xN.2791339578_2wn9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Flower Wall Ideas for Every Occasion</title>
+                    <meta name="description" content="Elevate your events with amazing flower wall designs! Perfect for weddings, parties, and home decor. Explore vibrant colors and styles that create a captivating backdrop for lasting memories. Transform your space with floral beauty effortlessly!">
+                    <meta name="keywords" content="flower wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-wall">
+                            <span itemprop="name">flower wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Wall Ideas for Every Occasion</h1>
+                <p>Discover the beauty of a flower wall! Perfect for weddings, parties, or home decor, a flower wall adds elegance and charm to any space. Choose from an array of colors and flower types to match your theme. Easy to assemble and visually stunning, it’s a fantastic backdrop for photos, creating unforgettable memories every time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rose Flower Wall Backdrop – ubackdrop">
+                                <img itemprop="contentUrl url" src='https://www.ubackdrop.com/cdn/shop/files/PinkRoseFlowerWallPartyDecor.jpg?v=1724382658&width=1445' alt='Pink Rose Flower Wall Backdrop – ubackdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='https://www.ubackdrop.com/cdn/shop/files/PinkRoseFlowerWallPartyDecor.jpg?v=1724382658&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding Backdrop,  Floral Party Decor, Event Photography-VF-294">
+                                <img itemprop="contentUrl url" src='https://www.valarflowers.com/cdn/shop/files/B28A8531.jpg?v=1698416240' alt='Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding Backdrop,  Floral Party Decor, Event Photography-VF-294'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1978">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding ..." />
+                                </span>
+                                <a href='https://www.valarflowers.com/cdn/shop/files/B28A8531.jpg?v=1698416240' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO 10x8ft Fabric Pink Flower Wall Backdrop Roses ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81L8fDxFbwL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : CORFOTO 10x8ft Fabric Pink Flower Wall Backdrop Roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81L8fDxFbwL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Bloom Flower Wall">
+                                <img itemprop="contentUrl url" src='https://events365rentals.com/wp-content/uploads/2023/05/full-bloom-flower-wall-backdrop.jpg' alt='Full Bloom Flower Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Events 365 Rentals" />
+                                </span>
+                                <a href='https://events365rentals.com/wp-content/uploads/2023/05/full-bloom-flower-wall-backdrop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wall 3D Purple Rolling Up Curtain Floral Backdrop For Wedding Party  Proposal Decor">
+                                <img itemprop="contentUrl url" src='http://www.ketiestory.com/cdn/shop/files/DSC03747.jpg?v=1711700799' alt='Flower Wall 3D Purple Rolling Up Curtain Floral Backdrop For Wedding Party  Proposal Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KetieStory" />
+                                </span>
+                                <a href='http://www.ketiestory.com/cdn/shop/files/DSC03747.jpg?v=1711700799' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wall - Rosa (4x8)">
+                                <img itemprop="contentUrl url" src='http://www.weddingflowersforrent.com/cdn/shop/products/image_c374ebf4-37fe-490d-910e-8cb59a95c750.jpg?v=1624714415' alt='Flower Wall - Rosa (4x8)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="949">
+                                <meta itemprop="height" content="1469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wedding Flowers For Rent" />
+                                </span>
+                                <a href='http://www.weddingflowersforrent.com/cdn/shop/products/image_c374ebf4-37fe-490d-910e-8cb59a95c750.jpg?v=1624714415' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificial Flower Wall Panel 5ftx3.74ft Pink Rose Fake Floral Wall Backdrop  Wedding Background for Baby Bridal Shower Party Stage Decor">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81X-YsmlwuL.jpg' alt='Artificial Flower Wall Panel 5ftx3.74ft Pink Rose Fake Floral Wall Backdrop  Wedding Background for Baby Bridal Shower Party Stage Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81X-YsmlwuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificial Flower Wall Backdrop for Wedding Arrangement ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18763102/r/il/6fc7ec/1959007091/il_570xN.1959007091_87vr.jpg' alt='Artificial Flower Wall Backdrop for Wedding Arrangement ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18763102/r/il/6fc7ec/1959007091/il_570xN.1959007091_87vr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Pure White And Green Fabric Artificial Flower Wall – ubackdrop">
+                                <img itemprop="contentUrl url" src='https://www.ubackdrop.com/cdn/shop/files/3DPureWhiteRosesGreenLeavesWeddingPartyBirthdayDecoration.jpg?v=1690425402&width=416' alt='3D Pure White And Green Fabric Artificial Flower Wall – ubackdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='https://www.ubackdrop.com/cdn/shop/files/3DPureWhiteRosesGreenLeavesWeddingPartyBirthdayDecoration.jpg?v=1690425402&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wall Backdrop for Party Decor G-030">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/G-030-s.jpg?v=1571028570&width=580' alt='Beautiful Flower Wall Backdrop for Party Decor G-030'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/G-030-s.jpg?v=1571028570&width=580' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

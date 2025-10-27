@@ -1,0 +1,129 @@
+<title>Understanding CORI Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover what a CORI check is and why it’s crucial for background screening in Massachusetts. Learn about its significance for employers and organizations ensuring safety and compliance for sensitive roles. Explore how this process impacts hiring and volunteering decisions today!">
+                    <meta name="keywords" content="what is a cori check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-a-cori-check">
+                            <span itemprop="name">what is a cori check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding CORI Checks: What You Need to Know</h1>
+                <p>A CORI check, or Criminal Offender Record Information check, is a process used to review an individual's criminal history within the state of Massachusetts. This background check is essential for employers, organizations, and licensing boards to ensure safety and compliance, especially when hiring or volunteering in sensitive positions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screening Toolbox: Massachusetts Criminal Background Checks — Safe ...">
+                                <img itemprop="contentUrl url" src='https://safekidsthrive.org/wp-content/uploads/2020/08/cori-2-3-820x1024.png' alt='Screening Toolbox: Massachusetts Criminal Background Checks — Safe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Safe Kids Thrive" />
+                                </span>
+                                <a href='https://safekidsthrive.org/wp-content/uploads/2020/08/cori-2-3-820x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Check (CORI) Clearance">
+                                <img itemprop="contentUrl url" src='https://www.umassmed.edu/globalassets/human-resources/documents/onboard-at-umms/cori-pic--3.jpg' alt='Criminal Background Check (CORI) Clearance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UMass Chan Medical School" />
+                                </span>
+                                <a href='https://www.umassmed.edu/globalassets/human-resources/documents/onboard-at-umms/cori-pic--3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screening Toolbox: Massachusetts Criminal Background Checks — Safe ...">
+                                <img itemprop="contentUrl url" src='https://safekidsthrive.org/wp-content/uploads/2020/08/cori-5.png' alt='Screening Toolbox: Massachusetts Criminal Background Checks — Safe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="983">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Safe Kids Thrive" />
+                                </span>
+                                <a href='https://safekidsthrive.org/wp-content/uploads/2020/08/cori-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Massachusetts Drivers: Upload Your CORI Certificate - The Lyft ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vz6nkkbc6q75/5ugv5Oz4EeI8Y0ua044shA/7f3ae89446d1ee11b23d3853e65f1d95/image-asset.png?h=1000&fm=jpg' alt='Massachusetts Drivers: Upload Your CORI Certificate - The Lyft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lyft" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vz6nkkbc6q75/5ugv5Oz4EeI8Y0ua044shA/7f3ae89446d1ee11b23d3853e65f1d95/image-asset.png?h=1000&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A CORI Check? | DISA - Formerly Crimcheck">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2022/01/Screen-Angled-Mockup-Onboarding@2x.png' alt='What Is A CORI Check? | DISA - Formerly Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1162">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2022/01/Screen-Angled-Mockup-Onboarding@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CORI check - City of Woburn">
+                                <img itemprop="contentUrl url" src='https://woburnma.gov/wp-content/uploads/2019/01/CORI-check.jpeg' alt='CORI check - City of Woburn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1489">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Woburn" />
+                                </span>
+                                <a href='https://woburnma.gov/wp-content/uploads/2019/01/CORI-check.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CORI READING">
+                                <img itemprop="contentUrl url" src='x-raw-image:///a47f8f76e39ebc866709ba6f5a25981b39bcbb4b01aeb72e6907d5f6711a0cbf' alt='CORI READING'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greater Boston Legal Services" />
+                                </span>
+                                <a href='x-raw-image:///a47f8f76e39ebc866709ba6f5a25981b39bcbb4b01aeb72e6907d5f6711a0cbf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is the CORI Law in Massachusetts?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9aJYEw8U4Ng/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCk-mHWpbTJknQ6gRIsj60BAnHLRQ' alt='What Is the CORI Law in Massachusetts?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9aJYEw8U4Ng/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCk-mHWpbTJknQ6gRIsj60BAnHLRQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a CORI Be Cleaned Up? - Local Lawyers Referral Massachusetts">
+                                <img itemprop="contentUrl url" src='https://www.locallawyercapecod.com/wp-content/uploads/2017/12/CORI-form-Depositphotos_139880742_l-2015-e1513885525225.jpg' alt='Can a CORI Be Cleaned Up? - Local Lawyers Referral Massachusetts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cape Cod Lawyer" />
+                                </span>
+                                <a href='https://www.locallawyercapecod.com/wp-content/uploads/2017/12/CORI-form-Depositphotos_139880742_l-2015-e1513885525225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Driving in Massachusetts (CORI) | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/l6rACca.jpg' alt='Driving in Massachusetts (CORI) | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://i.imgur.com/l6rACca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

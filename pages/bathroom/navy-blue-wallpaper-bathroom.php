@@ -1,0 +1,129 @@
+<title>Navy Blue Wallpaper Ideas for a Stunning Bathroom</title>
+                    <meta name="description" content="Discover how navy blue wallpaper can elevate your bathroom decor. From bold patterns to elegant textures, find inspiration for creating a tranquil and stylish retreat. Perfect for enhancing your space while being easy to maintain. Explore the beauty of navy blue in bathroom designs today!">
+                    <meta name="keywords" content="navy blue wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/navy-blue-wallpaper-bathroom">
+                            <span itemprop="name">navy blue wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Blue Wallpaper Ideas for a Stunning Bathroom</h1>
+                <p>Navy blue wallpaper can transform your bathroom into a serene and stylish oasis. This rich shade pairs beautifully with white fixtures, wooden accents, or gold hardware. Whether you opt for floral patterns or sleek geometric designs, navy blue wallpaper creates a calming atmosphere, perfect for relaxation. Upgrade your space with this bold statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' alt='Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/71c9d4/6289946207/il_570xN.6289946207_rbuq.jpg' alt='Dark Blue Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/71c9d4/6289946207/il_570xN.6289946207_rbuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plethora | Navy - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' alt='Plethora | Navy - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue linen textured wallpaper 3424">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4336371876_r0m2.jpg?v=1668587329&width=1080' alt='Navy Blue linen textured wallpaper 3424'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4336371876_r0m2.jpg?v=1668587329&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Bathroom Wallpaper - Plain - 36180 - Textured Tough - Gold Fleck">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/HHoAAOSwfVRij0mP/s-l1200.jpg' alt='Navy Blue Bathroom Wallpaper - Plain - 36180 - Textured Tough - Gold Fleck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/HHoAAOSwfVRij0mP/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper | Navy & Pastel Tones With Dark & Light Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1642608622-branch-blue.jpg?auto=format&dpr=0.23&w=2200' alt='Blue Wallpaper | Navy & Pastel Tones With Dark & Light Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1642608622-branch-blue.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vessels | Navy - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600906570293-OEG9HD3KJMZPLCVXZW04/vessels+blue.jpg?format=1000w' alt='Vessels | Navy - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600906570293-OEG9HD3KJMZPLCVXZW04/vessels+blue.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5f67a021-5822-4759-badf-877a899cdf87/svn/nextwall-wallpaper-rolls-nw45702-4f_600.jpg' alt='NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5f67a021-5822-4759-badf-877a899cdf87/svn/nextwall-wallpaper-rolls-nw45702-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CV4455 York Painted Herringbone Navy Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/cv4455_ywde30paintedherringbone_1ex.jpg?v=1619779129' alt='CV4455 York Painted Herringbone Navy Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/cv4455_ywde30paintedherringbone_1ex.jpg?v=1619779129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Bathroom wallpaper navy ideas | bathroom wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d3/29/0a/d3290ad87d6afd74d120d5158edce09a.jpg' alt='7 Best Bathroom wallpaper navy ideas | bathroom wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d3/29/0a/d3290ad87d6afd74d120d5158edce09a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

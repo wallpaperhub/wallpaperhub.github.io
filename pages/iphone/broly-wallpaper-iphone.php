@@ -1,0 +1,129 @@
+<title>Stunning Broly Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Broly wallpapers for your iPhone! Browse a collection of high-quality images featuring the legendary Saiyan warrior, perfect for fans of Dragon Ball. Elevate your device's look with dynamic designs and vibrant colors that make your screen stand out!">
+                    <meta name="keywords" content="broly wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/broly-wallpaper-iphone">
+                            <span itemprop="name">broly wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Broly Wallpapers for iPhone</h1>
+                <p>Enhance your iPhone's display with stunning Broly wallpapers! Featuring the iconic Saiyan from the Dragon Ball series, these wallpapers capture Broly's fierce power and dynamic action. Choose from various designs, showcasing vibrant colors and epic poses that bring your screen to life. Perfect for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Broly Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1792952802.9188/flat,750x1000,075,t.u3.jpg' alt='Dragon Ball Broly Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=""Dragon Ball Broly Wallpaper" iPhone Case for Sale by igor-me ..." />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1792952802.9188/flat,750x1000,075,t.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Broly Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1609597779.9002/flat,750x1000,075,t.u3.jpg' alt='Dragon Ball Broly Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=""Dragon Ball Broly Wallpaper" iPhone Case for Sale by igor-me ..." />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1609597779.9002/flat,750x1000,075,t.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Show Off Your Style With Broly iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broly-iphone-2lacqix5v4ud2pov.jpg' alt='Download Show Off Your Style With Broly iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broly-iphone-2lacqix5v4ud2pov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broly Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broly-iphone-mwv0j1761cu3rupy.jpg' alt='100+] Broly Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broly-iphone-mwv0j1761cu3rupy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Broly Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1219584937.4413/flat,750x1000,075,t.u3.jpg' alt='Dragon Ball Broly Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=""Dragon Ball Broly Wallpaper" iPhone Case for Sale by igor-me ..." />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1219584937.4413/flat,750x1000,075,t.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/e2/9f/83e29f4e4b86db3cc3db6d7e3ddfed8d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/e2/9f/83e29f4e4b86db3cc3db6d7e3ddfed8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Wallpaper 4K Iphone Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/a2/87/47a2878f166131c813b5e4027a1f1b53.jpg' alt='Broly Wallpaper 4K Iphone Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/a2/87/47a2878f166131c813b5e4027a1f1b53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get The Most Out of Your Broly Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broly-iphone-anyuayiytvoh7wy9.jpg' alt='Download Get The Most Out of Your Broly Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broly-iphone-anyuayiytvoh7wy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5327660.jpg' alt='Broly iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5327660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly DBS Movie, dbs movie, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/386/244/HD-wallpaper-broly-dbs-movie-dbs-movie.jpg' alt='Broly DBS Movie, dbs movie, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/386/244/HD-wallpaper-broly-dbs-movie-dbs-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

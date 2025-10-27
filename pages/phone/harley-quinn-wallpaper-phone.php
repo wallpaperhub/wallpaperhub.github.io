@@ -1,0 +1,129 @@
+<title>Cool Harley Quinn Phone Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="harley quinn wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/harley-quinn-wallpaper-phone">
+                            <span itemprop="name">harley quinn wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Harley Quinn Phone Wallpapers for Fans</h1>
+                <p>Discover the vibrant world of Harley Quinn with striking phone wallpapers that embody her quirky personality and bold style. Transform your device with high-quality images featuring her iconic looks and dynamic poses. Perfect for fans seeking a touch of chaos and fun on their screens, these wallpapers bring Harley to life every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Current phone wallpaper, figured I'd share    : r/HarleyQuinn">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/current-phone-wallpaper-figured-id-share-v0-67si8z02t99c1.jpeg?width=640&crop=smart&auto=webp&s=627b843d027308e6cb149e47379a121abc340dc3' alt='Current phone wallpaper, figured I'd share    : r/HarleyQuinn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/current-phone-wallpaper-figured-id-share-v0-67si8z02t99c1.jpeg?width=640&crop=smart&auto=webp&s=627b843d027308e6cb149e47379a121abc340dc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made up a simple Harley Quinn phone wallpaper using the new ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/enz4nuxn77751.png' alt='Made up a simple Harley Quinn phone wallpaper using the new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/enz4nuxn77751.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Quinn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/8/e/66367-1290x2286-mobile-hd-harley-quin-background-image.jpg' alt='Harley Quinn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/8/e/66367-1290x2286-mobile-hd-harley-quin-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Quinn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/e/0/66347-1125x2436-samsung-hd-harley-quin-wallpaper-photo.jpg' alt='Harley Quinn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/e/0/66347-1125x2436-samsung-hd-harley-quin-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Quinn, DC, 4K, #227 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/70/49/ba/7049ba9c6877c6e6f269d8bb1fa8dfe9.jpg' alt='Harley Quinn, DC, 4K, #227 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/70/49/ba/7049ba9c6877c6e6f269d8bb1fa8dfe9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Quinn Phone Hot Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/harley-quinn-phone-hot-pink-awrsa739bc4scmpt.jpg' alt='Harley Quinn Phone Hot Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/harley-quinn-phone-hot-pink-awrsa739bc4scmpt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some of my fav Harley pictures! #1 is my phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-of-my-fav-harley-pictures-is-my-phone-wallpaper-v0-tauzgkfutsqc1.jpg?width=675&format=pjpg&auto=webp&s=4723c8bf590597b5ca629eb6fbc4511bab3a8a97' alt='Some of my fav Harley pictures! #1 is my phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-of-my-fav-harley-pictures-is-my-phone-wallpaper-v0-tauzgkfutsqc1.jpg?width=675&format=pjpg&auto=webp&s=4723c8bf590597b5ca629eb6fbc4511bab3a8a97' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosplay Joker Harley Quinn Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cosplay-joker-harley-quinn-phone-8mb3ih1khvkquhb1.jpg' alt='Cosplay Joker Harley Quinn Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cosplay-joker-harley-quinn-phone-8mb3ih1khvkquhb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad Harley Quinn iPhone Wallpaper for anyone to enjoy ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/JMG_mewc-sG1X1Ps2VIk4LTHON5txTpksnYKR9yoNmY.jpg?auto=webp&s=c3f1bb0b6c0e3af8aecd447c0dbe16b46043758d' alt='Suicide Squad Harley Quinn iPhone Wallpaper for anyone to enjoy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/JMG_mewc-sG1X1Ps2VIk4LTHON5txTpksnYKR9yoNmY.jpg?auto=webp&s=c3f1bb0b6c0e3af8aecd447c0dbe16b46043758d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Quinn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/0/0/66598-1080x1920-mobile-1080p-harley-quin-wallpaper.jpg' alt='Harley Quinn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/0/0/66598-1080x1920-mobile-1080p-harley-quin-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

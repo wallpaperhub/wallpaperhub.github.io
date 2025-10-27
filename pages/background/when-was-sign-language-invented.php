@@ -1,0 +1,129 @@
+<title>When Was Sign Language Invented? Discover Its Origins!</title>
+                    <meta name="description" content="Uncover the fascinating history of sign language! Learn when it was invented and how it has evolved to become a vital communication tool for the deaf community. Explore the origins that date back to ancient Greece and its formal development in the 18th century.">
+                    <meta name="keywords" content="when was sign language invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-sign-language-invented">
+                            <span itemprop="name">when was sign language invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Sign Language Invented? Discover Its Origins!</h1>
+                <p>Sign language, as a means of communication for the deaf and hard of hearing, has roots that trace back to ancient history. Evidence suggests that forms of sign language were used as early as the 5th century BC in Greece. The modern development of sign languages began in the 18th century with the establishment of formal schools for the deaf.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sign Language and Interpretation">
+                                <img itemprop="contentUrl url" src='https://get.goreact.com/wp-content/uploads/2017/04/The-History-of-Sign-Language.png' alt='The History of Sign Language and Interpretation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoReact" />
+                                </span>
+                                <a href='https://get.goreact.com/wp-content/uploads/2017/04/The-History-of-Sign-Language.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sign Language | Stillman Translations">
+                                <img itemprop="contentUrl url" src='https://www.stillmantranslations.com/wp-content/uploads/2024/03/asl-getty-images_484078d9-1-1-1024x683.webp' alt='The History of Sign Language | Stillman Translations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stillman Translations" />
+                                </span>
+                                <a href='https://www.stillmantranslations.com/wp-content/uploads/2024/03/asl-getty-images_484078d9-1-1-1024x683.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of sign language">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/a2a3a8ea-4a96-4c60-9343-a145a9283382/03-letters_3x4.jpg' alt='The history of sign language'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/a2a3a8ea-4a96-4c60-9343-a145a9283382/03-letters_3x4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of American Sign Language | Start ASL">
+                                <img itemprop="contentUrl url" src='https://www.startasl.com/wp-content/uploads/history-of-american-sign-language.jpg' alt='History of American Sign Language | Start ASL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1210">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Start ASL" />
+                                </span>
+                                <a href='https://www.startasl.com/wp-content/uploads/history-of-american-sign-language.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Sign Language | Alphabet | Learning | Deaf | Learn">
+                                <img itemprop="contentUrl url" src='https://photo.kidzworld.com/images/2014725/658fd0cb-1f17-438b-ad63-f94ab668b057/sign-language-article.jpg' alt='History of Sign Language | Alphabet | Learning | Deaf | Learn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidzworld" />
+                                </span>
+                                <a href='https://photo.kidzworld.com/images/2014725/658fd0cb-1f17-438b-ad63-f94ab668b057/sign-language-article.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Invented Sign Language? | Start ASL">
+                                <img itemprop="contentUrl url" src='https://www.startasl.com/wp-content/uploads/juan-pablo-de-bonet-21840314.jpg' alt='Who Invented Sign Language? | Start ASL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="150">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Start ASL" />
+                                </span>
+                                <a href='https://www.startasl.com/wp-content/uploads/juan-pablo-de-bonet-21840314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who invented the sign language? – LEARNING BUG">
+                                <img itemprop="contentUrl url" src='https://learningbug.home.blog/wp-content/uploads/2019/03/images-1-01-1.jpeg?w=640' alt='Who invented the sign language? – LEARNING BUG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="587">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="learning bug" />
+                                </span>
+                                <a href='https://learningbug.home.blog/wp-content/uploads/2019/03/images-1-01-1.jpeg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of sign language">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/6d8f09a8-31e9-4516-818c-591784d0f88c/02-charles-michel-de-lepee.jpg?w=2520&h=2932' alt='The history of sign language'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2520">
+                                <meta itemprop="height" content="2932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/6d8f09a8-31e9-4516-818c-591784d0f88c/02-charles-michel-de-lepee.jpg?w=2520&h=2932' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of sign language - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arte_para_ense%C3%B1ar_a_hablar_a_los_mudos.jpg/220px-Arte_para_ense%C3%B1ar_a_hablar_a_los_mudos.jpg' alt='History of sign language - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arte_para_ense%C3%B1ar_a_hablar_a_los_mudos.jpg/220px-Arte_para_ense%C3%B1ar_a_hablar_a_los_mudos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Sign Language Interpretation – The National ...">
+                                <img itemprop="contentUrl url" src='http://languagemuseum.org/wp-content/uploads/692px-ABC_pict.png' alt='A Brief History of Sign Language Interpretation – The National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Museum of Language" />
+                                </span>
+                                <a href='http://languagemuseum.org/wp-content/uploads/692px-ABC_pict.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

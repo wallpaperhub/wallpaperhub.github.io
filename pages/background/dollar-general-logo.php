@@ -1,0 +1,129 @@
+<title>Discover the Iconic Dollar General Logo: Design & Meaning</title>
+                    <meta name="description" content="Explore the iconic Dollar General logo, characterized by its bold fonts and striking yellow and black colors. Learn about the design elements that reflect the brand's focus on affordability and customer value, making it a recognizable symbol in retail.">
+                    <meta name="keywords" content="dollar general logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dollar-general-logo">
+                            <span itemprop="name">dollar general logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Iconic Dollar General Logo: Design & Meaning</h1>
+                <p>The Dollar General logo features a simple yet iconic design, showcasing the brand's commitment to affordability and convenience. The logo typically displays the words "Dollar General" in bold, easy-to-read fonts, often accompanied by a distinctive yellow and black color scheme. This design effectively communicates the store's mission of providing value to customers nationwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2020/10/Dollar-General-Logo.png' alt='Dollar General logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="3001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2020/10/Dollar-General-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Dollar General logo.png - Wikinews, the free news source">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikinews/en/c/ce/Dollar_General_logo.png' alt='File:Dollar General logo.png - Wikinews, the free news source'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikinews, the free news source" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikinews/en/c/ce/Dollar_General_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General Logo - Dollar General Retail Store Logo - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180713/wqj/kisspng-dollar-general-literacy-foundation-retail-goodlett-length-arrow-5b4942a5ee7862.1716080315315278459768.jpg' alt='Dollar General Logo - Dollar General Retail Store Logo - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180713/wqj/kisspng-dollar-general-literacy-foundation-retail-goodlett-length-arrow-5b4942a5ee7862.1716080315315278459768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General Logo PNG Vector (PDF) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/D/dollar-general-logo-2CA4A2BD6E-seeklogo.com.png' alt='Dollar General Logo PNG Vector (PDF) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/D/dollar-general-logo-2CA4A2BD6E-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General Logo PNG Image - PurePNG | Free transparent CC0 PNG ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-dollar-general-logologobrand-logoiconslogos-251519940502m3whw.png' alt='Dollar General Logo PNG Image - PurePNG | Free transparent CC0 PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1880">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-dollar-general-logologobrand-logoiconslogos-251519940502m3whw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General Logo & Brand Assets (SVG, PNG and vector) - Brandfetch">
+                                <img itemprop="contentUrl url" src='https://cdn.brandfetch.io/idv5sCleum/w/400/h/400/theme/dark/icon.jpeg?c=1bx1742859825986id64Mup7acQaoeCbR1&t=1667569885506' alt='Dollar General Logo & Brand Assets (SVG, PNG and vector) - Brandfetch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brandfetch" />
+                                </span>
+                                <a href='https://cdn.brandfetch.io/idv5sCleum/w/400/h/400/theme/dark/icon.jpeg?c=1bx1742859825986id64Mup7acQaoeCbR1&t=1667569885506' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General, Logo, White Background - SuperStock">
+                                <img itemprop="contentUrl url" src='https://www.superstock.com/cdn/1848/Comp/1848-50139664.webp' alt='Dollar General, Logo, White Background - SuperStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SuperStock" />
+                                </span>
+                                <a href='https://www.superstock.com/cdn/1848/Comp/1848-50139664.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2020/10/Dollar-General-Stores-Logo-1955.png' alt='Dollar General logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2020/10/Dollar-General-Stores-Logo-1955.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download and run Dollar General on PC & Mac (Emulator)">
+                                <img itemprop="contentUrl url" src='https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.dollargeneral.android.jpg' alt='Download and run Dollar General on PC & Mac (Emulator)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlueStacks" />
+                                </span>
+                                <a href='https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.dollargeneral.android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar General Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2022/02/Dollar-General-Logo-History.jpg' alt='Dollar General Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2022/02/Dollar-General-Logo-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

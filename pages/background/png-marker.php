@@ -1,0 +1,129 @@
+<title>Enhance Your Visuals with PNG Markers</title>
+                    <meta name="description" content="Discover the power of PNG markers for your design projects. These transparent graphic elements elevate your visuals, ensuring clarity and impact. Perfect for maps, websites, and data visuals, gain user engagement effortlessly with high-quality PNG markers. Explore their versatility today!">
+                    <meta name="keywords" content="png marker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/png-marker">
+                            <span itemprop="name">png marker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Visuals with PNG Markers</h1>
+                <p>PNG markers are versatile graphic elements used for various applications, including mapping, web design, and data visualization. They support high-quality images with transparent backgrounds, making them ideal for overlaying on different backgrounds. PNG markers enhance visual communication and user engagement effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-location-marker-png-image_2921053.jpg' alt='Marker PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-location-marker-png-image_2921053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker Icons - Free SVG & PNG Marker Images - Noun Project">
+                                <img itemprop="contentUrl url" src='https://static.thenounproject.com/png/335079-200.png' alt='Marker Icons - Free SVG & PNG Marker Images - Noun Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Noun Project" />
+                                </span>
+                                <a href='https://static.thenounproject.com/png/335079-200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/379/329/small/colored-marker-clipart-design-illustration-free-png.png' alt='Marker PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/379/329/small/colored-marker-clipart-design-illustration-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker PNG Images & PSDs for Download | PixelSquid - S11149621F">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/marker-0M1o8wF-600.jpg' alt='Marker PNG Images & PSDs for Download | PixelSquid - S11149621F'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/marker-0M1o8wF-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker Vector Icons free download in SVG, PNG Format">
+                                <img itemprop="contentUrl url" src='https://icons.veryicon.com/png/o/miscellaneous/high-icon-library/marker-19.png' alt='Marker Vector Icons free download in SVG, PNG Format'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VeryIcon.com" />
+                                </span>
+                                <a href='https://icons.veryicon.com/png/o/miscellaneous/high-icon-library/marker-19.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Marker PNG Images & PSDs for Download | PixelSquid - S116466895">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/red-marker-o0Kov25-600.jpg' alt='Red Marker PNG Images & PSDs for Download | PixelSquid - S116466895'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/red-marker-o0Kov25-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IconExperience » G-Collection » Marker Icon">
+                                <img itemprop="contentUrl url" src='https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/marker.png' alt='IconExperience » G-Collection » Marker Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IconExperience.com" />
+                                </span>
+                                <a href='https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/marker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marker png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/646/1000/png-clipart-black-marker-marker-pen-permanent-marker-sharpie-ink-black-marker-angle-pencil-thumbnail.png' alt='Marker png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/646/1000/png-clipart-black-marker-marker-pen-permanent-marker-sharpie-ink-black-marker-angle-pencil-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red marker icon - Free red marker icons">
+                                <img itemprop="contentUrl url" src='https://www.iconsdb.com/icons/download/red/marker-512.gif' alt='Red marker icon - Free red marker icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iconsDB" />
+                                </span>
+                                <a href='https://www.iconsdb.com/icons/download/red/marker-512.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Marker Stroke Banner (PNG Transparent) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2021/11/grunge-marker-stroke-banner-5.png' alt='Grunge Marker Stroke Banner (PNG Transparent) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2021/11/grunge-marker-stroke-banner-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

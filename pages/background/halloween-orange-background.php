@@ -1,0 +1,129 @@
+<title>Vibrant Halloween Orange Background Ideas</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="halloween orange background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-orange-background">
+                            <span itemprop="name">halloween orange background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Halloween Orange Background Ideas</h1>
+                <p>Halloween is synonymous with festive vibes, and an orange background sets the perfect tone for this eerie celebration. Whether it's for spooky decorations, party invitations, or social media posts, a vibrant orange backdrop evokes warmth and excitement. Embrace the spirit of Halloween with creative designs that highlight pumpkins, ghosts, and autumn leaves!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38,600+ Halloween Background Orange Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1280218554/vector/halloween-night-frame-with-bats-and-jack-o-lanterns-vector-poster-illustration.jpg?s=612x612&w=0&k=20&c=2YRZ05IyP-bQr3bsAWeY3Kc8hJ10_JE3VriQ9ur_YQc=' alt='38,600+ Halloween Background Orange Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1280218554/vector/halloween-night-frame-with-bats-and-jack-o-lanterns-vector-poster-illustration.jpg?s=612x612&w=0&k=20&c=2YRZ05IyP-bQr3bsAWeY3Kc8hJ10_JE3VriQ9ur_YQc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38,600+ Halloween Background Orange Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1178316433/vector/halloween-orange-wall-vector-background-with-spider-web.jpg?s=612x612&w=0&k=20&c=NQv5ZS7hr-NfkxaeFooQZ8AkRfN7UJT8dUnYd53rU50=' alt='38,600+ Halloween Background Orange Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1178316433/vector/halloween-orange-wall-vector-background-with-spider-web.jpg?s=612x612&w=0&k=20&c=NQv5ZS7hr-NfkxaeFooQZ8AkRfN7UJT8dUnYd53rU50=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Orange Background Halloween with spooky trees">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/orange-background-halloween-with-spooky-trees_685900-56.jpg' alt='Premium Vector | Orange Background Halloween with spooky trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/orange-background-halloween-with-spooky-trees_685900-56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Halloween, Background, Orange. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/10/20/22/22/halloween-3761909_1280.jpg' alt='Download Halloween, Background, Orange. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/10/20/22/22/halloween-3761909_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38,600+ Halloween Background Orange Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1500657879/vector/halloween-night-frame-with-bats-and-jack-o-lanterns-vector-poster-illustration.jpg?s=612x612&w=0&k=20&c=L4j1Xxpb4_biuHmKrj-PGDrz816hTgplSIjHk2q-EUk=' alt='38,600+ Halloween Background Orange Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1500657879/vector/halloween-night-frame-with-bats-and-jack-o-lanterns-vector-poster-illustration.jpg?s=612x612&w=0&k=20&c=L4j1Xxpb4_biuHmKrj-PGDrz816hTgplSIjHk2q-EUk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Orange Halloween Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/orange-halloween-2880-x-1740-background-0oodahxqqjszsd6k.jpg' alt='100+] Orange Halloween Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/orange-halloween-2880-x-1740-background-0oodahxqqjszsd6k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="301,426 Halloween Orange Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/grunge-orange-halloween-background-texture-44054934.jpg' alt='301,426 Halloween Orange Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/grunge-orange-halloween-background-texture-44054934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Halloween Day Background Graphic by Eric Kusuma · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/09/28/orange-halloween-day-background-Graphics-17971608-1.jpg' alt='Orange Halloween Day Background Graphic by Eric Kusuma · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/09/28/orange-halloween-day-background-Graphics-17971608-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Orange Halloween Background Or Texture Stock Photo, Picture ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/wawritto/wawritto1409/wawritto140900008/31419662-grunge-orange-halloween-background-or-texture.jpg' alt='Grunge Orange Halloween Background Or Texture Stock Photo, Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/wawritto/wawritto1409/wawritto140900008/31419662-grunge-orange-halloween-background-or-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Orange Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' alt='Halloween Orange Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

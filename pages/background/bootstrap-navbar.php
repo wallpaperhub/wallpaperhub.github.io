@@ -1,0 +1,129 @@
+<title>Responsive Bootstrap Navbar Design Tips</title>
+                    <meta name="description" content="Discover effective tips for creating a responsive Bootstrap navbar that enhances site navigation. Learn how to customize and style your navbar for optimal user experience on any device, keeping your website sleek and user-friendly. Perfect for developers and designers alike!">
+                    <meta name="keywords" content="bootstrap navbar">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bootstrap-navbar">
+                            <span itemprop="name">bootstrap navbar</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Responsive Bootstrap Navbar Design Tips</h1>
+                <p>A Bootstrap navbar is a sleek, responsive navigation component that enhances your website's usability. It offers easy access to various sections, adapting seamlessly across devices. Customize it with styles and components to match your brand. Elevate your site's user experience with a well-designed navbar!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap Navbar - Tutorial on the latest Bootstrap 5 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/G3tZUO2fAEU/sddefault.jpg' alt='Bootstrap Navbar - Tutorial on the latest Bootstrap 5 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/G3tZUO2fAEU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap Navbar Guide and Free Navigation Examples">
+                                <img itemprop="contentUrl url" src='https://designmodo.com/wp-content/uploads/2019/08/startup-navbar.jpg' alt='Bootstrap Navbar Guide and Free Navigation Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designmodo" />
+                                </span>
+                                <a href='https://designmodo.com/wp-content/uploads/2019/08/startup-navbar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap: Creating Menus, and Navbars">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/D5612AQH4PpWh0PKr3g/article-cover_image-shrink_720_1280/0/1687960984733?e=2147483647&v=beta&t=nDEGFeWFZYuLc6fZ4xogS8egwbF9SdlxdDNfWmJUBEg' alt='Bootstrap: Creating Menus, and Navbars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/D5612AQH4PpWh0PKr3g/article-cover_image-shrink_720_1280/0/1687960984733?e=2147483647&v=beta&t=nDEGFeWFZYuLc6fZ4xogS8egwbF9SdlxdDNfWmJUBEg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Responsive Navbar using Bootstrap 5 | Responsive Sidebar  Menu">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nVuDtzqkalo/maxresdefault.jpg' alt='How to Create a Responsive Navbar using Bootstrap 5 | Responsive Sidebar  Menu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nVuDtzqkalo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap 5 Responsive, Fixed Top / Bottom Navbar and More ...">
+                                <img itemprop="contentUrl url" src='https://www.tutorialrepublic.com/lib/images/bootstrap-5/bootstrap-navbar-color-schemes.png' alt='Bootstrap 5 Responsive, Fixed Top / Bottom Navbar and More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tutorial Republic" />
+                                </span>
+                                <a href='https://www.tutorialrepublic.com/lib/images/bootstrap-5/bootstrap-navbar-color-schemes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap 4 Navbar Examples. Customize the Navbar color, height ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*N-3wLI6wuOvCr58b7Otq1w.png' alt='Bootstrap 4 Navbar Examples. Customize the Navbar color, height ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*N-3wLI6wuOvCr58b7Otq1w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make a Navbar in Bootstrap">
+                                <img itemprop="contentUrl url" src='https://www.devwares.com/static/28d894ff4d76f0d9442aaf444dd9d43c/104b3/bootstrap-navbar-with-contrast.png' alt='How To Make a Navbar in Bootstrap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Devwares" />
+                                </span>
+                                <a href='https://www.devwares.com/static/28d894ff4d76f0d9442aaf444dd9d43c/104b3/bootstrap-navbar-with-contrast.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap Side Navbar - free examples, templates & tutorial">
+                                <img itemprop="contentUrl url" src='https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/extended/sidebar/assets/basic-example.webp' alt='Bootstrap Side Navbar - free examples, templates & tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Material Design for Bootstrap" />
+                                </span>
+                                <a href='https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/extended/sidebar/assets/basic-example.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap-navBar - Codesandbox">
+                                <img itemprop="contentUrl url" src='https://codesandbox.io/api/v1/sandboxes/up1xo/screenshot.png' alt='Bootstrap-navBar - Codesandbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeSandbox" />
+                                </span>
+                                <a href='https://codesandbox.io/api/v1/sandboxes/up1xo/screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical Navbar Bootstrap 5">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cB1c26fRLfA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDI-4wdUsixqDazhFv_ZuIeEKQmnw' alt='Vertical Navbar Bootstrap 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cB1c26fRLfA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDI-4wdUsixqDazhFv_ZuIeEKQmnw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

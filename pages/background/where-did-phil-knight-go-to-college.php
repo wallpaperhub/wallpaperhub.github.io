@@ -1,0 +1,129 @@
+<title>Where Did Phil Knight Go to College? Discover His Academic Journey</title>
+                    <meta name="description" content="Learn about Phil Knight's educational background, including his time at the University of Oregon, where he developed crucial business insights and a passion for sports that led to the creation of Nike. Explore how his college experience shaped his entrepreneurial journey!">
+                    <meta name="keywords" content="where did phil knight go to college">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-did-phil-knight-go-to-college">
+                            <span itemprop="name">where did phil knight go to college</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Where Did Phil Knight Go to College? Discover His Academic Journey</h1>
+                <p>Phil Knight, the co-founder of Nike, attended the University of Oregon, where he earned a degree in business administration in 1959. His time at Oregon, particularly under the mentorship of legendary track coach Bill Bowerman, significantly influenced his passion for athletics and laid the groundwork for what would become Nike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phil Knight - College Years — Steemit">
+                                <img itemprop="contentUrl url" src='https://steemitimages.com/640x0/https://steemitimages.com/DQmaPmaBLVVuF5g4s3BkikSTArb1Z7MpVZ3mjk4AJeiECjr/nike-phil-knight-cortez.jpg' alt='Phil Knight - College Years — Steemit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steemit" />
+                                </span>
+                                <a href='https://steemitimages.com/640x0/https://steemitimages.com/DQmaPmaBLVVuF5g4s3BkikSTArb1Z7MpVZ3mjk4AJeiECjr/nike-phil-knight-cortez.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Knight Legacy | OregonNews">
+                                <img itemprop="contentUrl url" src='https://news.uoregon.edu/sites/default/files/styles/custom_xl/public/oregondigital-df668w16d.jpg?itok=altYOD2T' alt='The Knight Legacy | OregonNews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Oregon" />
+                                </span>
+                                <a href='https://news.uoregon.edu/sites/default/files/styles/custom_xl/public/oregondigital-df668w16d.jpg?itok=altYOD2T' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike's Phil Knight gives $400 million to Stanford University">
+                                <img itemprop="contentUrl url" src='https://i2.cdn.turner.com/money/dam/assets/160224132327-phil-knight-stanford-university-640x360.jpg' alt='Nike's Phil Knight gives $400 million to Stanford University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - CNN" />
+                                </span>
+                                <a href='https://i2.cdn.turner.com/money/dam/assets/160224132327-phil-knight-stanford-university-640x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phil Knight | Biography, Nike, Bill Bowerman, Book, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/250018-050-F2A4DFC5/Phil-Knight-Nike-2017.jpg' alt='Phil Knight | Biography, Nike, Bill Bowerman, Book, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/250018-050-F2A4DFC5/Phil-Knight-Nike-2017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phil Knight - 2017-10-17 - Varsity Billionaires: These Forbes 400 ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/59de4bf34bbe6f37dda054d9/0x0.jpg?format=jpg&height=1200&width=400&fit=bounds' alt='Phil Knight - 2017-10-17 - Varsity Billionaires: These Forbes 400 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/59de4bf34bbe6f37dda054d9/0x0.jpg?format=jpg&height=1200&width=400&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phil Knight | ShoeDog - A Synopsis (Everything You Need to Know ...">
+                                <img itemprop="contentUrl url" src='https://professornerdster.com/wp-content/uploads/2018/09/Jim-Grelle-Phil-Knight.jpg' alt='Phil Knight | ShoeDog - A Synopsis (Everything You Need to Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Professor Nerdster" />
+                                </span>
+                                <a href='https://professornerdster.com/wp-content/uploads/2018/09/Jim-Grelle-Phil-Knight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Phil Knight & Nike | Shoe Palace Blog">
+                                <img itemprop="contentUrl url" src='https://i.shgcdn.com/dbfce585-70a4-4d95-9265-ff24ef5f4a38/-/format/auto/-/preview/3000x3000/-/quality/lighter/' alt='The Story of Phil Knight & Nike | Shoe Palace Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shoe Palace" />
+                                </span>
+                                <a href='https://i.shgcdn.com/dbfce585-70a4-4d95-9265-ff24ef5f4a38/-/format/auto/-/preview/3000x3000/-/quality/lighter/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike founder Phil Knight on story and culture behind his sports ...">
+                                <img itemprop="contentUrl url" src='https://www.sportsnet.ca/wp-content/uploads/2016/05/OREGONRUNNING.jpg' alt='Nike founder Phil Knight on story and culture behind his sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportsnet" />
+                                </span>
+                                <a href='https://www.sportsnet.ca/wp-content/uploads/2016/05/OREGONRUNNING.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How much money does Nike co-founder Phil Knight have?">
+                                <img itemprop="contentUrl url" src='https://www.statesmanjournal.com/gcdn/authoring/authoring-images/2024/12/26/PSAL/77221895007-usatsi-21387110.jpg' alt='How much money does Nike co-founder Phil Knight have?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5177">
+                                <meta itemprop="height" content="3799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statesman Journal" />
+                                </span>
+                                <a href='https://www.statesmanjournal.com/gcdn/authoring/authoring-images/2024/12/26/PSAL/77221895007-usatsi-21387110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Phil Knight, the Founder and Former CEO of Nike">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/IMPReTKKmmcP30G6bOcxIkhC4-M=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/phil-knight-6-4dd4de44a60d4c49b971896c2dfb95d5.jpg' alt='All About Phil Knight, the Founder and Former CEO of Nike'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/IMPReTKKmmcP30G6bOcxIkhC4-M=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/phil-knight-6-4dd4de44a60d4c49b971896c2dfb95d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

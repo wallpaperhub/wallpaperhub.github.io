@@ -1,0 +1,129 @@
+<title>Aesthetic Book Lover iPhone Wallpaper</title>
+                    <meta name="description" content="Discover stunning aesthetic book lover wallpapers for your iPhone! Perfect for literary enthusiasts, these wallpapers feature beautiful designs that blend books and creativity. Personalize your device while showcasing your love for reading in style. Download your favorite designs now!">
+                    <meta name="keywords" content="aesthetic book lover book wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-book-lover-book-wallpaper-iphone">
+                            <span itemprop="name">aesthetic book lover book wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Book Lover iPhone Wallpaper</h1>
+                <p>Aesthetic book lover wallpaper for iPhone is perfect for those who cherish literature and embrace creativity. Transform your device with beautiful, whimsical designs featuring books, cozy reading nooks, and literary quotes that inspire. Elevate your home screen and showcase your passion for reading with a touch of elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/eb/e7/29ebe72405c26f0aabf1c422b1b92cec.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/eb/e7/29ebe72405c26f0aabf1c422b1b92cec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="books #wallpaper #quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/18/35/16183517e35e29af5724869188642415.jpg' alt='books #wallpaper #quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/18/35/16183517e35e29af5724869188642415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable book wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFo48HPZCU/1/0/900w/canva-book-phone-wallpaper-jS5i34Iv7Hs.jpg' alt='Free and customizable book wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFo48HPZCU/1/0/900w/canva-book-phone-wallpaper-jS5i34Iv7Hs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bookworm inspired wallpaper | Iphone wallpaper books, Book ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/ed/7d/00ed7d7395ba90e4f84bfcbfe6aa8029.jpg' alt='bookworm inspired wallpaper | Iphone wallpaper books, Book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/ed/7d/00ed7d7395ba90e4f84bfcbfe6aa8029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Wallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7430299535919910186&location=0&aid=1988' alt='Book Wallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7430299535919910186&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable book wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6-E_RQfM/1/0/900w/canva-books-background-simple-colorful-phone-wallpaper-aJ0Mb91j1G0.jpg' alt='Free and customizable book wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6-E_RQfM/1/0/900w/canva-books-background-simple-colorful-phone-wallpaper-aJ0Mb91j1G0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Books Iphone Aesthetic Cozy Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/books-iphone-wallpaper-8q6rl0013gvjs8u0.jpg' alt='Download Books Iphone Aesthetic Cozy Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/books-iphone-wallpaper-8q6rl0013gvjs8u0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD books aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/559/184/HD-wallpaper-books-aesthetics-reading-thumbnail.jpg' alt='HD books aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/559/184/HD-wallpaper-books-aesthetics-reading-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book lover hobby iPhone wallpaper | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdqcGRmZjNoeWNldHN2aHFwaGZzcTA3Ny5wbmc.png' alt='Book lover hobby iPhone wallpaper | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdqcGRmZjNoeWNldHN2aHFwaGZzcTA3Ny5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FALL PHONE Wallpaper Autumn iPhone Background Bookish Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/d91199/6260954806/il_570xN.6260954806_3jq2.jpg' alt='FALL PHONE Wallpaper Autumn iPhone Background Bookish Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/d91199/6260954806/il_570xN.6260954806_3jq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

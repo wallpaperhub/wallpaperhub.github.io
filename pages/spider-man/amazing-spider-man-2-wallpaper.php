@@ -1,0 +1,129 @@
+<title>The Amazing Spider-Man 2: Stunning Wallpaper Collection</title>
+                    <meta name="description" content="Explore a vibrant collection of Amazing Spider-Man 2 wallpapers! Perfect for fans looking to elevate their device with stunning visuals from the iconic film. Download now and showcase your love for Spider-Man in style!">
+                    <meta name="keywords" content="amazing spider man 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/amazing-spider-man-2-wallpaper">
+                            <span itemprop="name">amazing spider man 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Amazing Spider-Man 2: Stunning Wallpaper Collection</h1>
+                <p>Discover stunning wallpapers of The Amazing Spider-Man 2 and transform your device's background with vibrant images of your favorite web-slinger! From action-packed scenes to iconic character poses, our collection captures the essence of this thrilling superhero film. Perfect for fans looking to personalize their screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man 2: 4K Ultra HD Adventures">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/114/1142280.jpg' alt='The Amazing Spider-Man 2: 4K Ultra HD Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5496">
+                                <meta itemprop="height" content="2929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/114/1142280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Spider-Man 2, amazing spider man 2 marvel, sony, spider ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/135/306/HD-wallpaper-amazing-spider-man-2-amazing-spider-man-2-marvel-sony-spider-man.jpg' alt='Amazing Spider-Man 2, amazing spider man 2 marvel, sony, spider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/135/306/HD-wallpaper-amazing-spider-man-2-amazing-spider-man-2-marvel-sony-spider-man.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man 2 Wallpapers [HD] & Facebook Cover Photos">
+                                <img itemprop="contentUrl url" src='https://www.designbolts.com/wp-content/uploads/2014/04/The-Amazing-Spider-Man-2-Wallpaper-HD1.jpg' alt='The Amazing Spider-Man 2 Wallpapers [HD] & Facebook Cover Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designbolts" />
+                                </span>
+                                <a href='https://www.designbolts.com/wp-content/uploads/2014/04/The-Amazing-Spider-Man-2-Wallpaper-HD1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+] The Amazing Spider-Man 2 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/132/thumb-1920-1327820.jpeg' alt='80+] The Amazing Spider-Man 2 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/132/thumb-1920-1327820.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Amazing Spider-Man 2 Wallpaper... - Daily Bugle Spidey | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5632416866810608' alt='This Amazing Spider-Man 2 Wallpaper... - Daily Bugle Spidey | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5632416866810608' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-man 2 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/41/aa/3c41aa9ff7f889dba1d6920ab5a47527.jpg' alt='The Amazing Spider-man 2 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/41/aa/3c41aa9ff7f889dba1d6920ab5a47527.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Swing into adventure with the Amazing Spider Man Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/amazing-spider-man-iphone-4wik74ht8jax6moz.jpg' alt='Download Swing into adventure with the Amazing Spider Man Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/amazing-spider-man-iphone-4wik74ht8jax6moz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man 2 | Wallpaper by Squiddytron on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a49e4bdd-571e-40ac-b457-fc69de51c1c6/d5w91ry-91e68d45-3183-45a9-9c76-673921714c17.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E0OWU0YmRkLTU3MWUtNDBhYy1iNDU3LWZjNjlkZTUxYzFjNlwvZDV3OTFyeS05MWU2OGQ0NS0zMTgzLTQ1YTktOWM3Ni02NzM5MjE3MTRjMTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SR2XvS1gp615VvUNTS6ws_bBNFFNReFSDSwnDhGcC58' alt='The Amazing Spider-Man 2 | Wallpaper by Squiddytron on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a49e4bdd-571e-40ac-b457-fc69de51c1c6/d5w91ry-91e68d45-3183-45a9-9c76-673921714c17.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E0OWU0YmRkLTU3MWUtNDBhYy1iNDU3LWZjNjlkZTUxYzFjNlwvZDV3OTFyeS05MWU2OGQ0NS0zMTgzLTQ1YTktOWM3Ni02NzM5MjE3MTRjMTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SR2XvS1gp615VvUNTS6ws_bBNFFNReFSDSwnDhGcC58' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man 2 (2014) Phone Wallpaper | Wallcinemania">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/7b/25/857b259460313a3af71f79b68482b2f7.jpg' alt='The Amazing Spider-Man 2 (2014) Phone Wallpaper | Wallcinemania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/7b/25/857b259460313a3af71f79b68482b2f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Amazing Spider-Man 2 IMAX Poster : r/Marvel">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/TdkzwBCHcl2OkQ-Jv0sp95FMHzesTlAsxiBWlatgIug.jpg?auto=webp&s=45f1d84c27e8e262bb5fcafd0f4e13601eb800d1' alt='Awesome Amazing Spider-Man 2 IMAX Poster : r/Marvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/TdkzwBCHcl2OkQ-Jv0sp95FMHzesTlAsxiBWlatgIug.jpg?auto=webp&s=45f1d84c27e8e262bb5fcafd0f4e13601eb800d1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

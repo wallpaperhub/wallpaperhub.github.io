@@ -1,0 +1,129 @@
+<title>Charming Wallpapers for 11-Year-Old Girls: Top Picks</title>
+                    <meta name="description" content="Discover the perfect wallpaper for your 11-year-old girl. Explore fun, vibrant designs that reflect her personality, from whimsical themes to trendy patterns. Transform her room into a magical haven with easy-to-apply wallpaper options that inspire creativity and joy. Upgrade her space today!">
+                    <meta name="keywords" content="wallpaper for 11 year old girls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/wallpaper-for-11-year-old-girls">
+                            <span itemprop="name">wallpaper for 11 year old girls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Wallpapers for 11-Year-Old Girls: Top Picks</h1>
+                <p>Transform your 11-year-old girl's room into a dream space with vibrant wallpaper designs! Choose from trendy themes like unicorns, butterflies, or floral patterns. Bold colors and playful motifs create an inviting atmosphere, perfect for creativity and inspiration. Elevate her personal style with wallpaper that speaks to her unique personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11+ Awesome 10 Year Old Girls Hairstyles Ideas, #Awesome #Girls ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/86/b5/67/86b567f4c37cae7a2b98c50b108e4b90.jpg' alt='11+ Awesome 10 Year Old Girls Hairstyles Ideas, #Awesome #Girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/86/b5/67/86b567f4c37cae7a2b98c50b108e4b90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Wallpapers   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/4d/fb/c54dfbe87474bdec1ba296ad189eaf59.jpg' alt='Tumblr Wallpapers   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/4d/fb/c54dfbe87474bdec1ba296ad189eaf59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute For Teens Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7778176.jpg' alt='Cute For Teens Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7778176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fight Like A Girl Wallpaper 4K, Pink background, Letters">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/fight-like-a-girl-pink-background-letters-girly-backgrounds-1242x2688-2626.jpg' alt='Fight Like A Girl Wallpaper 4K, Pink background, Letters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/fight-like-a-girl-pink-background-letters-girly-backgrounds-1242x2688-2626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute For Teens Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5531509.jpg' alt='Cute For Teens Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5531509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper of beautiful teal flower  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/1c/3d/191c3def64daa5dc764f8fa78afe4910.jpg' alt='Wallpaper of beautiful teal flower  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/1c/3d/191c3def64daa5dc764f8fa78afe4910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute For Teens Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7778254.gif' alt='Cute For Teens Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7778254.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Best Cute Wallpaper For Girls ideas | cute wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f6/3f/ae/f63faed5f0872a4c277f01f756c70fd6.jpg' alt='31 Best Cute Wallpaper For Girls ideas | cute wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f6/3f/ae/f63faed5f0872a4c277f01f756c70fd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Feathers For Girl Phone Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/colorful-feathers-for-girl-phone-theme-emf1b0lj85x8e2p0.jpg' alt='Colorful Feathers For Girl Phone Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/colorful-feathers-for-girl-phone-theme-emf1b0lj85x8e2p0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers For School Age Children | Livettes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1566/9911/files/Neutral-granny-chic-wallpaper-girls-bedroom_2048x2048.jpg?v=1691064920' alt='Wallpapers For School Age Children | Livettes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1566/9911/files/Neutral-granny-chic-wallpaper-girls-bedroom_2048x2048.jpg?v=1691064920' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

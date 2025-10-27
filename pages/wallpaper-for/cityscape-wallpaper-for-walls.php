@@ -1,0 +1,129 @@
+<title>Stunning Cityscape Wallpaper for a Modern Look</title>
+                    <meta name="description" content="Discover our exquisite cityscape wallpaper collection, perfect for enhancing your home's aesthetic. Featuring iconic skylines and vibrant city life, these designs add depth and character to any room. Elevate your decor with our stunning urban-themed wall coverings today!">
+                    <meta name="keywords" content="cityscape wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/cityscape-wallpaper-for-walls">
+                            <span itemprop="name">cityscape wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cityscape Wallpaper for a Modern Look</h1>
+                <p>Transform your living space with stunning cityscape wallpaper. Perfect for bringing an urban vibe to any room, these wallpapers feature breathtaking skylines, iconic landmarks, and vibrant city life. Whether you prefer a modern aesthetic or a vintage feel, cityscape designs can elevate your decor, creating a unique atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Photo Wallpaper Mural for Living Room Cityscape | BVM Home">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-For-Living-Room-Sofa-TV-Background-Wall-Mural-Wallpaper-City-Building-Wall_580x.jpg?v=1571609155' alt='Custom 3D Photo Wallpaper Mural for Living Room Cityscape | BVM Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-For-Living-Room-Sofa-TV-Background-Wall-Mural-Wallpaper-City-Building-Wall_580x.jpg?v=1571609155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skyline Sketches New York">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/f385d41f796badabd1eb8d572dedb226e21d5cd8-3000x1688.jpg?auto=format&w=3000&h=1688&rect=0,0,3000,1688' alt='Skyline Sketches New York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/f385d41f796badabd1eb8d572dedb226e21d5cd8-3000x1688.jpg?auto=format&w=3000&h=1688&rect=0,0,3000,1688' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Wallpaper & Skyline Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/35/645/cities-hero.jpg' alt='City Wallpaper & Skyline Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/35/645/cities-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new york city skyline in black and white new york city skylines and Canvas  Print Wallpaper Wall Mural Self Adhesive Peel & Stick Wallpaper Home Craft  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JW2u3uWIL.jpg' alt='new york city skyline in black and white new york city skylines and Canvas  Print Wallpaper Wall Mural Self Adhesive Peel & Stick Wallpaper Home Craft  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JW2u3uWIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cityscape">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/50492/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='Cityscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/50492/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Cityscape Sunset Wall Mural - New York Murals - Eazywallz">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Foggy-New-York-City-Skyline-Wall-Mural-2_1400x.jpg?v=1641474482' alt='New York Cityscape Sunset Wall Mural - New York Murals - Eazywallz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Foggy-New-York-City-Skyline-Wall-Mural-2_1400x.jpg?v=1641474482' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Wallpaper Mural | Landmark & Skyline Wall Mural Room Decor">
+                                <img itemprop="contentUrl url" src='https://www.everwallpaper.co.uk/cdn/shop/files/2_dd31aa6f-5837-4e85-91e8-48f4e774bf8c.jpg?v=1739781755' alt='City Wallpaper Mural | Landmark & Skyline Wall Mural Room Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ever Wallpaper" />
+                                </span>
+                                <a href='https://www.everwallpaper.co.uk/cdn/shop/files/2_dd31aa6f-5837-4e85-91e8-48f4e774bf8c.jpg?v=1739781755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Skyline 3D Wallpapers, Skyscrapers Large 3D Background Wall Art Mural,  Premium Fashion Interior Design Decor Wall Sticker for Living Room Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tclKpLSuL._AC_UF894,1000_QL80_.jpg' alt='City Skyline 3D Wallpapers, Skyscrapers Large 3D Background Wall Art Mural,  Premium Fashion Interior Design Decor Wall Sticker for Living Room Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tclKpLSuL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City wallpaper, city wall murals buy online at Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.ie/products/1000/1078/u53311pig22ms_900.webp' alt='City wallpaper, city wall murals buy online at Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper and wall murals buy online at Uwalls.ie" />
+                                </span>
+                                <a href='https://static.uwalls.ie/products/1000/1078/u53311pig22ms_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper New York Skyline Black White Modern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25401407/r/il/c1e78d/2753626227/il_fullxfull.2753626227_90do.jpg' alt='Photo Wallpaper New York Skyline Black White Modern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25401407/r/il/c1e78d/2753626227/il_fullxfull.2753626227_90do.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

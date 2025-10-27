@@ -1,0 +1,129 @@
+<title>Brighten Your Home with Yellow Botanical Wallpaper</title>
+                    <meta name="description" content="Add a splash of color to your home with our yellow botanical wallpaper. Perfect for creating a cheerful ambiance, this wallpaper features stunning floral and leaf designs that refresh any space. Ideal for various rooms, it seamlessly blends nature's beauty with your interior style. Shop now for a vibrant makeover!">
+                    <meta name="keywords" content="yellow botanical wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-botanical-wallpaper">
+                            <span itemprop="name">yellow botanical wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Home with Yellow Botanical Wallpaper</h1>
+                <p>Transform your space with yellow botanical wallpaper that brings warmth and vibrancy to any room. Featuring lush greenery and bright floral patterns, this wallpaper creates a refreshing atmosphere ideal for living rooms, bedrooms, or hallways. Elevate your decor and enjoy a touch of nature indoors with a cheerful yellow backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HotDecor 24"x118"Yellow Floral Wallpaper Peel and Stick Floral Contact  Paper for Cabinets Walls Flower Wallpaper for Bedroom Bathroom Wall Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kYXeK5OKL.jpg' alt='HotDecor 24"x118"Yellow Floral Wallpaper Peel and Stick Floral Contact  Paper for Cabinets Walls Flower Wallpaper for Bedroom Bathroom Wall Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kYXeK5OKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden meadow wildflower print removable wallpaper | Livettes ...">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Yellow-wildflower-meadow-print-kids-room-wallpaper_d098458a-5ecc-43a6-baba-a036e4ace9b6_1100x.jpg?v=1595364132' alt='Golden meadow wildflower print removable wallpaper | Livettes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Yellow-wildflower-meadow-print-kids-room-wallpaper_d098458a-5ecc-43a6-baba-a036e4ace9b6_1100x.jpg?v=1595364132' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empress Wallpaper • Chinoiserie Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2020/06/Wallpaper-KH-Empress-Honey-1.jpg' alt='Empress Wallpaper • Chinoiserie Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2020/06/Wallpaper-KH-Empress-Honey-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Peel and Stick Removable Wallpaper 0982 | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_206790982_01_grande.jpg?v=1642620176' alt='Yellow Flower Peel and Stick Removable Wallpaper 0982 | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_206790982_01_grande.jpg?v=1642620176' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rivington Yellow Wallpaper – Chinoiserie Botanical, Paste-the-Wall ...">
+                                <img itemprop="contentUrl url" src='https://www.woodchipandmagnolia.co.uk/cdn/shop/products/WM-126_2_1080x.jpg?v=1689071443' alt='Rivington Yellow Wallpaper – Chinoiserie Botanical, Paste-the-Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodchip & Magnolia" />
+                                </span>
+                                <a href='https://www.woodchipandmagnolia.co.uk/cdn/shop/products/WM-126_2_1080x.jpg?v=1689071443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orla Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/2903-25837_99fabb87-ad84-4b00-8c57-b3c5728d26a5.jpg?v=1722353485&width=2400' alt='Orla Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/2903-25837_99fabb87-ad84-4b00-8c57-b3c5728d26a5.jpg?v=1722353485&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Hannah Flowers Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6837287682094.jpg?v=1712800196' alt='A-Street Prints Hannah Flowers Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6837287682094.jpg?v=1712800196' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/0af7da/6179749518/il_570xN.6179749518_3n8w.jpg' alt='Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/0af7da/6179749518/il_570xN.6179749518_3n8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Yellow Marigold Floral Wallpaper Vintage Butterflies Floral Peel  and Stick Wallpaper for Bedroom Bathroom 17.7''x118'' Removable Yellow ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SL66iWoHL.jpg' alt='VEELIKE Yellow Marigold Floral Wallpaper Vintage Butterflies Floral Peel  and Stick Wallpaper for Bedroom Bathroom 17.7''x118'' Removable Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SL66iWoHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Flowers Damask MF40303">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' alt='Painted Flowers Damask MF40303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Plants Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Explore our stunning collection of plants aesthetic wallpaper! Perfect for adding a serene and natural touch to your interiors, these designs bring the beauty of nature indoors without any upkeep. Ideal for homes and offices alike—discover your perfect style today!">
+                    <meta name="keywords" content="plants aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/plants-aesthetic-wallpaper">
+                            <span itemprop="name">plants aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Plants Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with beautiful plants aesthetic wallpaper! Perfect for nature lovers, these wallpapers enhance any room, adding a touch of greenery without the need for maintenance. Choose from vibrant floral patterns, lush leaves, or minimalist designs to create a calming, stylish atmosphere that inspires tranquility and connection to nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable plant wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3ws9dcmE/1/0/900w/canva-light-gray-and-green-plant-phone-wallpaper-vzdV1SzHY50.jpg' alt='Free and customizable plant wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3ws9dcmE/1/0/900w/canva-light-gray-and-green-plant-phone-wallpaper-vzdV1SzHY50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plant Aesthetic Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d8/d4/94/d8d4946df49fd62a44d1a8176b3cc2d4.jpg' alt='Plant Aesthetic Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d8/d4/94/d8d4946df49fd62a44d1a8176b3cc2d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable plant wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFfr5D7BsM/1/0/1600w/canva-beige-and-green-plants-illustration-quotes-desktop-wallpaper-5ab-Z7cDp04.jpg' alt='Free and customizable plant wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFfr5D7BsM/1/0/1600w/canva-beige-and-green-plants-illustration-quotes-desktop-wallpaper-5ab-Z7cDp04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic plant wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' alt='Minimalistic plant wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create A Beautiful Plant Aesthetic With Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/create-a-beautiful-plant-aesthetic-with-desktop-wallpaper-snvz3w71ttqfdmm3.jpg' alt='Create A Beautiful Plant Aesthetic With Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/create-a-beautiful-plant-aesthetic-with-desktop-wallpaper-snvz3w71ttqfdmm3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Plant Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' alt='Cute Plant Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Plant Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1521206698660-5e077ff6f9c8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWVzdGhldGljJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D' alt='Aesthetic Plant Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1521206698660-5e077ff6f9c8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWVzdGhldGljJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plant Aesthetic Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/refresh-your-workspace-with-a-minimal-plant-aesthetic-ybxs8nd06tkc0whu.jpg' alt='Plant Aesthetic Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/refresh-your-workspace-with-a-minimal-plant-aesthetic-ybxs8nd06tkc0whu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unlock Nature's Beauty With Plant Aesthetic Phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plant-aesthetic-phone-o6ak45mcsi3bozc8.jpg' alt='Download Unlock Nature's Beauty With Plant Aesthetic Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plant-aesthetic-phone-o6ak45mcsi3bozc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Plant Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1551301038-df7eca0bc0f3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWVzdGhldGljJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D' alt='Aesthetic Plant Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1551301038-df7eca0bc0f3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWVzdGhldGljJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

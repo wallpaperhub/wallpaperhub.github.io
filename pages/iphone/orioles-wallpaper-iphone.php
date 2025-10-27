@@ -1,0 +1,129 @@
+<title>Stylish Orioles iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a variety of vibrant Orioles wallpapers for your iPhone. Perfect for fans, these high-quality designs will elevate your device while showing off your team pride. Download your favorites and enhance your mobile experience with beautiful images that capture the essence of the Orioles!">
+                    <meta name="keywords" content="orioles wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/orioles-wallpaper-iphone">
+                            <span itemprop="name">orioles wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Orioles iPhone Wallpapers for Fans</h1>
+                <p>Discover the perfect Orioles wallpaper for your iPhone! Whether you're a die-hard fan or just love the vibrant colors, our collection features stunning designs that showcase the team's spirit. Personalize your device with high-quality images that bring the excitement of the game right to your screen. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orioles Wallpaper For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/80/d2/4e80d2ba926e5c6a014ace928e86d615.jpg' alt='Orioles Wallpaper For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/80/d2/4e80d2ba926e5c6a014ace928e86d615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baltimore Orioles wallpaper phone : r/orioles">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/baltimore-orioles-wallpaper-phone-v0-4r9bglm3zkma1.jpg?width=828&format=pjpg&auto=webp&s=7acaea001a6d1c6f0306942ae53675efff9c3154' alt='Baltimore Orioles wallpaper phone : r/orioles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/baltimore-orioles-wallpaper-phone-v0-4r9bglm3zkma1.jpg?width=828&format=pjpg&auto=webp&s=7acaea001a6d1c6f0306942ae53675efff9c3154' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Orioles Ravens Background iPhone on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a0/64/52/a064527099982619d593e967d1ff3fd0.jpg' alt='   Free download Orioles Ravens Background iPhone on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="292">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a0/64/52/a064527099982619d593e967d1ff3fd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baltimore Orioles Wallpapers (51 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/7/c/1810463-1284x2778-mobile-hd-baltimore-orioles-background-photo.jpg' alt='Baltimore Orioles Wallpapers (51 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/7/c/1810463-1284x2778-mobile-hd-baltimore-orioles-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baltimore Orioles wallpaper phone : r/orioles">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/baltimore-orioles-wallpaper-phone-v0-yep5iim3zkma1.jpg?width=828&format=pjpg&auto=webp&s=5fb8b798a999760f35d17dd832fb6adfdb838dc9' alt='Baltimore Orioles wallpaper phone : r/orioles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/baltimore-orioles-wallpaper-phone-v0-yep5iim3zkma1.jpg?width=828&format=pjpg&auto=webp&s=5fb8b798a999760f35d17dd832fb6adfdb838dc9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orioles iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/34/45/31/344531caf745f069c1ed5cb941fa0405.jpg' alt='Orioles iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/34/45/31/344531caf745f069c1ed5cb941fa0405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baltimore Orioles Wallpaper 4K, Baseball team">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/baltimore-orioles-1080x2340-14639.jpg' alt='Baltimore Orioles Wallpaper 4K, Baseball team'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/baltimore-orioles-1080x2340-14639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baltimore Orioles wallpaper phone : r/orioles">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/baltimore-orioles-wallpaper-phone-v0-hf5ksim3zkma1.jpg?width=640&crop=smart&auto=webp&s=4d62c74b64e254eab4d5e474c6cb4214067a2647' alt='Baltimore Orioles wallpaper phone : r/orioles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/baltimore-orioles-wallpaper-phone-v0-hf5ksim3zkma1.jpg?width=640&crop=smart&auto=webp&s=4d62c74b64e254eab4d5e474c6cb4214067a2647' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Sports Wallpaper Thread | Page 94 | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/baltimore-orioles-stitching-png.621173/' alt='iPhone 6 Sports Wallpaper Thread | Page 94 | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/baltimore-orioles-stitching-png.621173/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baltimore Orioles Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baltimore-orioles-halftone-art-5qrd5p2gvu2d33zh.jpg' alt='100+] Baltimore Orioles Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baltimore-orioles-halftone-art-5qrd5p2gvu2d33zh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

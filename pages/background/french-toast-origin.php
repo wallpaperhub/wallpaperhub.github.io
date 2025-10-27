@@ -1,0 +1,129 @@
+<title>Discover the Origins of French Toast</title>
+                    <meta name="description" content="Uncover the fascinating history of French toast, from its ancient Roman origins to its global popularity today. Learn how this cherished breakfast dish has evolved and why it's loved in so many cultures.">
+                    <meta name="keywords" content="french toast origin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/french-toast-origin">
+                            <span itemprop="name">french toast origin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Origins of French Toast</h1>
+                <p>French toast, a delicious breakfast favorite, traces its roots back to ancient Rome. The Romans soaked bread in a mixture of milk and eggs, frying it for a hearty meal. Over centuries, this simple dish evolved, gaining popularity across Europe. Today, French toast is enjoyed globally, showcasing various flavors and toppings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French toast">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/42/FrenchToast.JPG' alt='French toast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2851">
+                                <meta itemprop="height" content="2036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/42/FrenchToast.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Does French Toast Come From? | Wonderopolis">
+                                <img itemprop="contentUrl url" src='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2010/12/thumb_720_450_Wonder-88-French-Toast-Static-Image2.jpg' alt='Where Does French Toast Come From? | Wonderopolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wonderopolis" />
+                                </span>
+                                <a href='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2010/12/thumb_720_450_Wonder-88-French-Toast-Static-Image2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic French Toast (Pain Perdu)">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2022/03/classic-french-toast-5.jpg?fit=1200%2C1798&ssl=1' alt='Classic French Toast (Pain Perdu)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pardon Your French" />
+                                </span>
+                                <a href='https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2022/03/classic-french-toast-5.jpg?fit=1200%2C1798&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Unexpectedly Ancient Origins Of French Toast">
+                                <img itemprop="contentUrl url" src='https://www.foodrepublic.com/img/gallery/the-unexpectedly-ancient-origins-of-french-toast/l-intro-1684526866.jpg' alt='The Unexpectedly Ancient Origins Of French Toast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food Republic" />
+                                </span>
+                                <a href='https://www.foodrepublic.com/img/gallery/the-unexpectedly-ancient-origins-of-french-toast/l-intro-1684526866.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Invented French Toast? - Little Passports">
+                                <img itemprop="contentUrl url" src='https://www.littlepassports.com/wp-content/uploads/2023/01/Stack-of-French-toast-with-syrup-blueberries-and-raspberries.jpg' alt='Who Invented French Toast? - Little Passports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Passports" />
+                                </span>
+                                <a href='https://www.littlepassports.com/wp-content/uploads/2023/01/Stack-of-French-toast-with-syrup-blueberries-and-raspberries.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origin of French Toast - Alto-Hartley">
+                                <img itemprop="contentUrl url" src='https://altohartley.com/wp-content/uploads/2019/11/french-toast-stack.png' alt='The Origin of French Toast - Alto-Hartley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alto-Hartley" />
+                                </span>
+                                <a href='https://altohartley.com/wp-content/uploads/2019/11/french-toast-stack.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of French Toast | The Breakfast Shoppe">
+                                <img itemprop="contentUrl url" src='https://thebreakfastshoppe.com/wp-content/uploads/2017/11/FRENCHIE.jpg' alt='The History of French Toast | The Breakfast Shoppe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Breakfast Shoppe" />
+                                </span>
+                                <a href='https://thebreakfastshoppe.com/wp-content/uploads/2017/11/FRENCHIE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Fun Facts About French Toast | Kulick's French Toast Recipes">
+                                <img itemprop="contentUrl url" src='https://www.kulicksfrenchtoastrecipes.com/wp-content/uploads/2022/07/Vegan-french-toast-recipe.jpg' alt='24 Fun Facts About French Toast | Kulick's French Toast Recipes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kulick's French Toast Recipes" />
+                                </span>
+                                <a href='https://www.kulicksfrenchtoastrecipes.com/wp-content/uploads/2022/07/Vegan-french-toast-recipe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need To Know About The Rich History of French Toast">
+                                <img itemprop="contentUrl url" src='https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2023/11/iStock-1341998526.jpg' alt='Everything You Need To Know About The Rich History of French Toast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookist" />
+                                </span>
+                                <a href='https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2023/11/iStock-1341998526.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Did French Toast Come From? Historical Origin of the First ...">
+                                <img itemprop="contentUrl url" src='https://www.kulicksfrenchtoastrecipes.com/wp-content/uploads/2022/06/How-to-make-dairy-free-french-toast-step-4.jpg' alt='Where Did French Toast Come From? Historical Origin of the First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kulick's French Toast Recipes" />
+                                </span>
+                                <a href='https://www.kulicksfrenchtoastrecipes.com/wp-content/uploads/2022/06/How-to-make-dairy-free-french-toast-step-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dynamic Moving Spiderman Wallpaper for Your Device</title>
+                    <meta name="description" content="Elevate your screen with stunning moving Spiderman wallpaper! Perfect for fans, these animated backgrounds bring your favorite hero to life, adding excitement and style to any device. Download now and enjoy an interactive Spiderman experience!">
+                    <meta name="keywords" content="moving spiderman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman">
+                            <span itemprop="name">Spiderman</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman/moving-spiderman-wallpaper">
+                            <span itemprop="name">moving spiderman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Moving Spiderman Wallpaper for Your Device</h1>
+                <p>Transform your device with captivating moving Spiderman wallpaper! These dynamic images bring the iconic superhero to life, adding energy and excitement to your screen. Perfect for fans of all ages, these animated wallpapers showcase Spiderman in action, making your home or lock screen a thrilling experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a spiderman live wallpaper lmk wat u thinh">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/TiIiKMg0pa0o7F--o-KnpQfwJtPdYzSPOjaaP-Xxfl4.png?format=pjpg&auto=webp&s=7ced5f93a45e7c3b60b56a23ed1c70fc10b9ff3a' alt='Made a spiderman live wallpaper lmk wat u thinh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/TiIiKMg0pa0o7F--o-KnpQfwJtPdYzSPOjaaP-Xxfl4.png?format=pjpg&auto=webp&s=7ced5f93a45e7c3b60b56a23ed1c70fc10b9ff3a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110+ Spiderman Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/118/spider-man.jpg' alt='110+ Spiderman Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/118/spider-man.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man Live Wallpaper - Tech Rifle">
+                                <img itemprop="contentUrl url" src='https://techrifle.com/wp-content/uploads/2023/12/Spider-Man-Live-Wallpaper.webp' alt='Spider Man Live Wallpaper - Tech Rifle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Rifle" />
+                                </span>
+                                <a href='https://techrifle.com/wp-content/uploads/2023/12/Spider-Man-Live-Wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Desktop Spiderman Animated Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/marvel-desktop-spiderman-animated-gmrn8pk20t99el1l.jpg' alt='Marvel Desktop Spiderman Animated Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/marvel-desktop-spiderman-animated-gmrn8pk20t99el1l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Spider-Man No Way Home Animated Wallpaper For PC">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/video_clips/images/055/540/413/large/favorisxp-thumb.jpg?1667211096' alt='ArtStation - Spider-Man No Way Home Animated Wallpaper For PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/video_clips/images/055/540/413/large/favorisxp-thumb.jpg?1667211096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man 2 Main Theme "Greater Together" OST - Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/d0mv5f0Z89c/mqdefault.jpg' alt='Spider-Man 2 Main Theme "Greater Together" OST - Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/d0mv5f0Z89c/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spiderman Live Wallpapers and More | DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/thumb_1673474806_740495.jpg' alt='spiderman Live Wallpapers and More | DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/thumb_1673474806_740495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch The Amazing Spider-Man Marvel Live Wallpaper | Streamable">
+                                <img itemprop="contentUrl url" src='https://cdn-cf-east.streamable.com/image/40tq36.jpg' alt='Watch The Amazing Spider-Man Marvel Live Wallpaper | Streamable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamable" />
+                                </span>
+                                <a href='https://cdn-cf-east.streamable.com/image/40tq36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman: Miles Morales Wallpaper Engine LIVE Wallpaper I made! Steam  download link in the comments! Hope you enjoy :)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/KLZhkc_zF5I4i3ZG-1z6wTxhA5T2NN514DO67hGBocI.png?width=1080&crop=smart&format=pjpg&auto=webp&s=b45ae4e31b39bf1eedf7b3dde021d1ea39319927' alt='Spiderman: Miles Morales Wallpaper Engine LIVE Wallpaper I made! Steam  download link in the comments! Hope you enjoy :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/KLZhkc_zF5I4i3ZG-1z6wTxhA5T2NN514DO67hGBocI.png?width=1080&crop=smart&format=pjpg&auto=webp&s=b45ae4e31b39bf1eedf7b3dde021d1ea39319927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Spiderman Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1850417714510050532/5EA796C4329F655099E9BB4400F0771B9F256E9B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Spiderman Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1850417714510050532/5EA796C4329F655099E9BB4400F0771B9F256E9B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

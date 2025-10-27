@@ -1,0 +1,129 @@
+<title>Awesome Goku Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Goku wallpapers for your phone! Browse a variety of stunning images showcasing Goku in action. Perfect for fans who want to personalize their devices with vibrant designs. Download now and bring the spirit of Dragon Ball to your screen!">
+                    <meta name="keywords" content="goku wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-wallpaper-for-phone">
+                            <span itemprop="name">goku wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Goku Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning Goku wallpapers that capture the essence of your favorite Dragon Ball character. Explore vibrant designs featuring Goku in action, serene landscapes, or iconic moments from the series. Perfect for fans, these wallpapers will energize your device and showcase your love for the anime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Perfect Ui Wallpaper (phone)...found on twitter! : r/dbz">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/d9rglynx0qk01.jpg?width=640&crop=smart&auto=webp&s=8639d5d8e877644194a3efd9283c31d70cdd65ae' alt='Goku Perfect Ui Wallpaper (phone)...found on twitter! : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/d9rglynx0qk01.jpg?width=640&crop=smart&auto=webp&s=8639d5d8e877644194a3efd9283c31d70cdd65ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku, zax, edit, dragon ball, manga, anime, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/189/16/HD-wallpaper-son-goku-zax-edit-dragon-ball-manga-anime.jpg' alt='Son Goku, zax, edit, dragon ball, manga, anime, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/189/16/HD-wallpaper-son-goku-zax-edit-dragon-ball-manga-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/91/88/8391883aa10a4dd3a5a81c07b3e47a90.jpg' alt='110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/91/88/8391883aa10a4dd3a5a81c07b3e47a90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/7/c/1216061-1080x2280-mobile-hd-goku-background-photo.jpg' alt='Goku Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/7/c/1216061-1080x2280-mobile-hd-goku-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dragon ball z goku wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/411/HD-wallpaper-goku-dragon-ball-8k-anime-anime-anime-dragon-ball-dragon-ball-z-goku-goku-goku-thumbnail.jpg' alt='HD dragon ball z goku wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/411/HD-wallpaper-goku-dragon-ball-8k-anime-anime-anime-dragon-ball-dragon-ball-z-goku-goku-goku-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/42/12/3c42127de9659c5046cff7e019295bd7.jpg' alt='110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/42/12/3c42127de9659c5046cff7e019295bd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MUI Goku Wallpaper for phone by me. : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tqbazj50k9a41.png' alt='MUI Goku Wallpaper for phone by me. : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tqbazj50k9a41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku, cloud, sky, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/163/380/HD-wallpaper-son-goku-cloud-sky.jpg' alt='Son Goku, cloud, sky, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/163/380/HD-wallpaper-son-goku-cloud-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan Wallpapers (26 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/0/1215739-2160x3840-mobile-4k-goku-super-saiyan-wallpaper-photo.jpg' alt='Goku Super Saiyan Wallpapers (26 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/0/1215739-2160x3840-mobile-4k-goku-super-saiyan-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-z-phone-5019gapwfmkg5nb3.jpg' alt='100+] Dragon Ball Z Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-z-phone-5019gapwfmkg5nb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

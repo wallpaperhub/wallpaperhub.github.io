@@ -1,0 +1,129 @@
+<title>Colorful Rainbow Wallpaper for Kids' Rooms</title>
+                    <meta name="description" content="Discover delightful rainbow wallpaper for kids that transforms their space into a vibrant haven. Perfect for stimulating creativity and joy, our collection offers stunning designs that inspire imagination while being playful and fun. Ideal for any child's room! Shop now for the perfect decor!">
+                    <meta name="keywords" content="rainbow wallpaper for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/rainbow-wallpaper-for-kids">
+                            <span itemprop="name">rainbow wallpaper for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Rainbow Wallpaper for Kids' Rooms</h1>
+                <p>Brighten up your child's room with cheerful rainbow wallpaper! Perfect for sparking creativity and imagination, this vibrant decor adds a playful touch to any space. Available in various designs, rainbow wallpaper not only enhances your child's surroundings but also inspires joy and positivity, making every day feel special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper Kids Removable Colorful Wallpaper Painting ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17354593/r/il/baab01/4653957814/il_570xN.4653957814_76i9.jpg' alt='Rainbow Wallpaper Kids Removable Colorful Wallpaper Painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17354593/r/il/baab01/4653957814/il_570xN.4653957814_76i9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper - Rainbow Designs for Kids - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1716289017/articles/CH5098MU07R_product.jpg' alt='Rainbow Wallpaper - Rainbow Designs for Kids - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1716289017/articles/CH5098MU07R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MFWFM Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Wall  Mural for Bedroom Living Room (Not Peel n' Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JmEqpa07L.jpg' alt='MFWFM Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Wall  Mural for Bedroom Living Room (Not Peel n' Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1826">
+                                <meta itemprop="height" content="1826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JmEqpa07L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Light Rainbow Wallpaper, Kids Room Wall Art & Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/7ee99c/3364009022/il_570xN.3364009022_3mop.jpg' alt='Mural Light Rainbow Wallpaper, Kids Room Wall Art & Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/7ee99c/3364009022/il_570xN.3364009022_3mop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovely Rainbows Kids Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/47163/lovely_rainbows_kids_limited.jpg' alt='Lovely Rainbows Kids Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/47163/lovely_rainbows_kids_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terrazzo Wall Mural – Shop for Terrazzo Wall Murals at Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/43000/43099/u93619pir3ms_900.webp' alt='Terrazzo Wall Mural – Shop for Terrazzo Wall Murals at Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/43000/43099/u93619pir3ms_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper: Colorful Murals for Kids' Rooms & Schools">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/1800111-Mrainbow.jpg?v=1732682646&width=1456' alt='Rainbow Wallpaper: Colorful Murals for Kids' Rooms & Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/1800111-Mrainbow.jpg?v=1732682646&width=1456' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Watercolorhand-paintedrainbowqueen.Watercolorrainbowwithclouds.Colorfulboho-stylerainbows5-min.jpg?v=1739231864&width=1214' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Watercolorhand-paintedrainbowqueen.Watercolorrainbowwithclouds.Colorfulboho-stylerainbows5-min.jpg?v=1739231864&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Rainbow - Kids Background - 1500x1000 Wallpaper - teahub.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/6a/19/0c6a19fabcebb129c6b65d86c0b0fae6.jpg' alt='Magical Rainbow - Kids Background - 1500x1000 Wallpaper - teahub.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/6a/19/0c6a19fabcebb129c6b65d86c0b0fae6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Rainbow by Albany - Navy - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/169802/full/albany-retro-rainbow-navy-wallpaper-0@lg.webp' alt='Retro Rainbow by Albany - Navy - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/169802/full/albany-retro-rainbow-navy-wallpaper-0@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

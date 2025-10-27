@@ -1,0 +1,129 @@
+<title>Dark Teal Aesthetic: Embrace the Elegance</title>
+                    <meta name="description" content="Explore the dark teal aesthetic, a harmonious blend of rich greens and blues. Perfect for fashion, decor, and art, this style adds a touch of elegance and tranquility to any setting. Discover tips and inspiration to incorporate this captivating palette into your life.">
+                    <meta name="keywords" content="dark teal aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-teal-aesthetic">
+                            <span itemprop="name">dark teal aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Teal Aesthetic: Embrace the Elegance</h1>
+                <p>Discover the captivating allure of dark teal aesthetic, a blend of deep greens and blues that evoke tranquility and elegance. This rich color palette is perfect for creating an immersive atmosphere in home decor, fashion, and art. Embrace the mystery and sophistication it brings to your space or style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Teal Aesthetic Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/37/33/c037330783ad9bee2f64a9734ab4212a.jpg' alt='Dark Teal Aesthetic Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/37/33/c037330783ad9bee2f64a9734ab4212a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/c1/77/36c17791d40b72d79ded7277052fb90a.jpg' alt='9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/c1/77/36c17791d40b72d79ded7277052fb90a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1f/93/98/1f9398c45b0141f5bc5cc96a2f9c7967.jpg' alt='9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1f/93/98/1f9398c45b0141f5bc5cc96a2f9c7967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/28/90/5428907c824b0d523e1b59b98a4c0d0e.jpg' alt='9 Dark Teal aesthetic ideas | green aesthetic, dark teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/28/90/5428907c824b0d523e1b59b98a4c0d0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Teal Aesthetic Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-background-with-hand-painted-alcohol-ink-design_1048-14693.jpg' alt='Dark Teal Aesthetic Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-background-with-hand-painted-alcohol-ink-design_1048-14693.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Galaxy Jar Dark Teal Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-galaxy-jar-dark-teal-iphone-a7jcvooxwuqfi5g3.jpg' alt='Aesthetic Galaxy Jar Dark Teal Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-galaxy-jar-dark-teal-iphone-a7jcvooxwuqfi5g3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image tagged with teal aesthetic, turquoise aesthetic, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c37c043508d23104a2f8828c2e1417dc/tumblr_ovat2cSQ8F1wuxrzxo1_500.jpg' alt='Image tagged with teal aesthetic, turquoise aesthetic, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c37c043508d23104a2f8828c2e1417dc/tumblr_ovat2cSQ8F1wuxrzxo1_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/ea/ef/1deaef11c011485003b89d25956e3708.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/ea/ef/1deaef11c011485003b89d25956e3708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Petal Art Dark Teal Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/petal-art-dark-teal-iphone-5z9wn3irk0zgmiqn.jpg' alt='Petal Art Dark Teal Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/petal-art-dark-teal-iphone-5z9wn3irk0zgmiqn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Teal aesthetic ideas | turquoise aesthetic, green aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c7/d6/c1/c7d6c112d9e285403cac886132596311.jpg' alt='53 Teal aesthetic ideas | turquoise aesthetic, green aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c7/d6/c1/c7d6c112d9e285403cac886132596311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

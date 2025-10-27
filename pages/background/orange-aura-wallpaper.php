@@ -1,0 +1,129 @@
+<title>Vibrant Orange Aura Wallpaper for a Creative Space</title>
+                    <meta name="description" content="Discover our stunning orange aura wallpaper, designed to bring warmth and creativity to your spaces. Perfect for living rooms, bedrooms, or offices, this eye-catching design transforms any area into a vibrant environment. Elevate your decor with a touch of positivity and energy today!">
+                    <meta name="keywords" content="orange aura wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-aura-wallpaper">
+                            <span itemprop="name">orange aura wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Aura Wallpaper for a Creative Space</h1>
+                <p>Transform your space with vibrant orange aura wallpaper! This eye-catching design radiates warmth and positivity, creating an inviting atmosphere in any room. Perfect for those wanting to enhance their home decor, the orange aura evokes creativity and energy. Experience a fresh and dynamic environment that inspires!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange aura computer wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/3d/ff/c73dff17c5e1e70fc5d29fdeecc28647.jpg' alt='orange aura computer wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/3d/ff/c73dff17c5e1e70fc5d29fdeecc28647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange aura wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f5/0e/b2/f50eb27573d94ccf158af6a252f9b534.jpg' alt='orange aura wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f5/0e/b2/f50eb27573d94ccf158af6a252f9b534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/7e/91/697e91d69e7ec23e5f83189d070c848a.jpg' alt='aura background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/7e/91/697e91d69e7ec23e5f83189d070c848a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ORANGE GRADIENT WALLPAPER     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/bc/5c/bdbc5c63d536b4e5a3112d982e9b4197.jpg' alt='ORANGE GRADIENT WALLPAPER     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/bc/5c/bdbc5c63d536b4e5a3112d982e9b4197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEART AURA WALLPAPERS - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24073839/r/il/bb56b0/5247949144/il_fullxfull.5247949144_tfc1.jpg' alt='HEART AURA WALLPAPERS - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24073839/r/il/bb56b0/5247949144/il_fullxfull.5247949144_tfc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic orange aura    | 4k background screensaver wallpaper | The  Aesthetic Guide">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ozmclPkePa0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh4lS3veOJZzONLdDJcPBWxCjxOA' alt='Aesthetic orange aura    | 4k background screensaver wallpaper | The  Aesthetic Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ozmclPkePa0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCh4lS3veOJZzONLdDJcPBWxCjxOA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Red Orange HD Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/c5ef4b92-d877-4d6e-e7bb-72a6e622fe00/public' alt='Aura Red Orange HD Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpics" />
+                                </span>
+                                <a href='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/c5ef4b92-d877-4d6e-e7bb-72a6e622fe00/public' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Background for Macbook Pro">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35358164/r/il/89c4c5/4520100481/il_fullxfull.4520100481_foz8.jpg' alt='Aura Background for Macbook Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35358164/r/il/89c4c5/4520100481/il_fullxfull.4520100481_foz8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blurry Orange Aura Color Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aura-color-8ynr49zv84bm4exn.jpg' alt='Download Blurry Orange Aura Color Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aura-color-8ynr49zv84bm4exn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink and orange aura   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/79/ef/2d79efbbf8b155172d31a25905f19eda.jpg' alt='pink and orange aura   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/79/ef/2d79efbbf8b155172d31a25905f19eda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

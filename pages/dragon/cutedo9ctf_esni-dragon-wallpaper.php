@@ -1,0 +1,129 @@
+<title>Adorable Dragon Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our delightful collection of cute dragon wallpapers! Perfect for adding a touch of fantasy to your device, these vibrant and charming designs are ideal for all dragon enthusiasts. Transform your screens with whimsical art that sparks joy and imagination! Download your favorites now!">
+                    <meta name="keywords" content="cute:do9ctf_esni= dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/cutedo9ctf_esni-dragon-wallpaper">
+                            <span itemprop="name">cute:do9ctf_esni= dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dragon Wallpapers for Your Device</h1>
+                <p>Discover the enchanting world of cute dragon wallpapers! Transform your device with whimsical designs that bring these mythical creatures to life. Perfect for dragon lovers and fantasy enthusiasts, our collection features vibrant colors, adorable characters, and dreamy landscapes. Elevate your screen's charm with our unique dragon wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fantasy Dragon Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-fantasy-dragon-wallpaper-12.webp' alt='Cute Fantasy Dragon Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-fantasy-dragon-wallpaper-12.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Fantasy Dragon Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/adorable-fantasy-dragon-wallpaper.webp' alt='Adorable Fantasy Dragon Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/adorable-fantasy-dragon-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dragon Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ee/b6/d0/eeb6d08b10030ebdeff6bab1a821bb68.jpg' alt='Cute Dragon Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ee/b6/d0/eeb6d08b10030ebdeff6bab1a821bb68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute dragon Wallpaper 4K, Midjourney, Fantasy artwork">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cute-dragon-3840x2560-9624.jpg' alt='Cute dragon Wallpaper 4K, Midjourney, Fantasy artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cute-dragon-3840x2560-9624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cute Dragon Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/91/59/a09159ff8a4f5c7a8eae3993e9377f0e.jpg' alt='   Cute Dragon Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/91/59/a09159ff8a4f5c7a8eae3993e9377f0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dragon Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/00/9f/b8/009fb813832bcef182421b605a2b8c04.jpg' alt='Cute Dragon Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/00/9f/b8/009fb813832bcef182421b605a2b8c04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ❄️ "Frosted Hatchling - Baby Ice Dragon Live Wallpaper" ❄️   Bring a  touch of magic to your screen with this adorable baby ice dragon shimmering  with frosty scales and glowing accents. Its curious ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7447200336940387617&location=0&aid=1988' alt='  ❄️ "Frosted Hatchling - Baby Ice Dragon Live Wallpaper" ❄️   Bring a  touch of magic to your screen with this adorable baby ice dragon shimmering  with frosty scales and glowing accents. Its curious ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7447200336940387617&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Kawaii Cute Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-kawaii-cute-1000-x-1000-qjm46b5663a0ce2t.jpg' alt='Download Dragon Kawaii Cute Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-kawaii-cute-1000-x-1000-qjm46b5663a0ce2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Dragon Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/cute-baby-dragon-wallpaper-5.webp' alt='Cute Baby Dragon Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/cute-baby-dragon-wallpaper-5.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="54 Dragon Wallpapers ideas | dragon pictures, dragon, dragon art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/94/b2/06/94b20623b63d53f1d71703f0fa34278f.jpg' alt='54 Dragon Wallpapers ideas | dragon pictures, dragon, dragon art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/94/b2/06/94b20623b63d53f1d71703f0fa34278f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

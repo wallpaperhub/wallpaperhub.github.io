@@ -1,0 +1,129 @@
+<title>What is Celebrate Recovery? A Path to Healing</title>
+                    <meta name="description" content="Discover Celebrate Recovery, a faith-based program aimed at healing life's struggles. Utilizing a supportive community and 12-step principles, it helps individuals overcome personal challenges and find hope. Join others on a transformative journey towards recovery and restoration.">
+                    <meta name="keywords" content="what is celebrate recovery">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-celebrate-recovery">
+                            <span itemprop="name">what is celebrate recovery</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is Celebrate Recovery? A Path to Healing</h1>
+                <p>Celebrate Recovery is a biblical-based program designed for individuals struggling with habits, hurts, and hang-ups. It provides a safe environment for healing through a 12-step approach rooted in Christian principles. Participants share their stories, support one another, and find hope and restoration in a community-focused setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery – Potters House Camdenton">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pottershousecamdenton.com/tphoc/wp-content/uploads/2021/12/CR-Heart-1.jpg?resize=740%2C557&ssl=1' alt='Celebrate Recovery – Potters House Camdenton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Potters House Camdenton" />
+                                </span>
+                                <a href='https://i0.wp.com/pottershousecamdenton.com/tphoc/wp-content/uploads/2021/12/CR-Heart-1.jpg?resize=740%2C557&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery » FIRST BAPTIST CHURCH QUINLAN">
+                                <img itemprop="contentUrl url" src='http://www.myfbcquinlan.com/data/files/received_685051625445628..jpg' alt='Celebrate Recovery » FIRST BAPTIST CHURCH QUINLAN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FIRST BAPTIST CHURCH QUINLAN" />
+                                </span>
+                                <a href='http://www.myfbcquinlan.com/data/files/received_685051625445628..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery in Stuttgart holds weekly meetings for ...">
+                                <img itemprop="contentUrl url" src='https://www.stuttgartdailyleader.com/wp-content/uploads/2023/06/Celebrate-Recovery.jpg' alt='Celebrate Recovery in Stuttgart holds weekly meetings for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stuttgart Daily Leader" />
+                                </span>
+                                <a href='https://www.stuttgartdailyleader.com/wp-content/uploads/2023/06/Celebrate-Recovery.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery - Highland Park Baptist Church - Lenoir City ...">
+                                <img itemprop="contentUrl url" src='https://www.highlandparklc.com/wp-content/uploads/2022/12/celebrate-recovery2.png.jpg' alt='Celebrate Recovery - Highland Park Baptist Church - Lenoir City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Highland Park Baptist Church" />
+                                </span>
+                                <a href='https://www.highlandparklc.com/wp-content/uploads/2022/12/celebrate-recovery2.png.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery — First Baptist Church Orange">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/59d3a9ead55b41ac8f778a14/e663a589-893e-4012-8cfa-b8779d7a1fb3/CR+Website+copy-2.jpg' alt='Celebrate Recovery — First Baptist Church Orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Baptist Church Orange" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/59d3a9ead55b41ac8f778a14/e663a589-893e-4012-8cfa-b8779d7a1fb3/CR+Website+copy-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anderson Baptist Church - Celebrate Recovery">
+                                <img itemprop="contentUrl url" src='https://storage2.snappages.site/8FJRBW/assets/images/13174983_1080x860_500.jpeg' alt='Anderson Baptist Church - Celebrate Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anderson Baptist Church" />
+                                </span>
+                                <a href='https://storage2.snappages.site/8FJRBW/assets/images/13174983_1080x860_500.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Celebrate Recovery, and What Is It Not? - Sharing Life and ...">
+                                <img itemprop="contentUrl url" src='https://sharinglifeandlove.com/wp-content/uploads/2021/03/17-What-is-Celebrate-Recovery.png' alt='What Is Celebrate Recovery, and What Is It Not? - Sharing Life and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sharing Life and Love" />
+                                </span>
+                                <a href='https://sharinglifeandlove.com/wp-content/uploads/2021/03/17-What-is-Celebrate-Recovery.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Celebrate Recovery? Your Top 10 Questions Answered!">
+                                <img itemprop="contentUrl url" src='https://ik.imagekit.io/therapyforchristians/Christiancounseling/images/49f4854c84ebf018581d9d0fc89826ef0a18f252.jpg' alt='What is Celebrate Recovery? Your Top 10 Questions Answered!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Therapy For Christians" />
+                                </span>
+                                <a href='https://ik.imagekit.io/therapyforchristians/Christiancounseling/images/49f4854c84ebf018581d9d0fc89826ef0a18f252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/145984_170eb73d11a0455d8d42adaae00eace6~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/145984_170eb73d11a0455d8d42adaae00eace6~mv2.jpg' alt='Celebrate Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hope Center Ministries" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/145984_170eb73d11a0455d8d42adaae00eace6~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/145984_170eb73d11a0455d8d42adaae00eace6~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Recovery - If you have attended Celebrate Recovery, then ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1001246352041067' alt='Celebrate Recovery - If you have attended Celebrate Recovery, then ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1001246352041067' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

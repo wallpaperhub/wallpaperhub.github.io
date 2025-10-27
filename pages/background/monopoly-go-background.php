@@ -1,0 +1,129 @@
+<title>Discover the Exciting World of Monopoly Go!</title>
+                    <meta name="description" content="Explore Monopoly Go, the fast-paced version of the beloved board game! Enjoy a dynamic experience filled with fun strategies, interactive gameplay, and colorful graphics. Join friends for competitive fun and collect properties to become the ultimate tycoon in this thrilling adaptation!">
+                    <meta name="keywords" content="monopoly go background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/monopoly-go-background">
+                            <span itemprop="name">monopoly go background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Exciting World of Monopoly Go!</h1>
+                <p>Monopoly Go is an innovative twist on the classic Monopoly game, designed for fast-paced fun and competitive play. With vibrant graphics and interactive elements, it invites players to make strategic decisions as they race around the board, collecting properties and earning rewards. Experience the thrill of Monopoly like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's time to take that Chance… “MONOPOLY GO!” is here!">
+                                <img itemprop="contentUrl url" src='https://scopely-website.s3.eu-west-2.amazonaws.com/_resized/sJyfjQ0epCb09CtJDmkSMN8riJEGiPR56QeYg4oF-w700-q75.png' alt='It's time to take that Chance… “MONOPOLY GO!” is here!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scopely" />
+                                </span>
+                                <a href='https://scopely-website.s3.eu-west-2.amazonaws.com/_resized/sJyfjQ0epCb09CtJDmkSMN8riJEGiPR56QeYg4oF-w700-q75.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's time to take that Chance… “MONOPOLY GO!” is here!">
+                                <img itemprop="contentUrl url" src='https://scopely-website.s3.eu-west-2.amazonaws.com/_resized/ZwMTWoqRcetSpgZGKRnl6hCDw1j8DQfnENCSZWa9-w700-q75.png' alt='It's time to take that Chance… “MONOPOLY GO!” is here!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scopely" />
+                                </span>
+                                <a href='https://scopely-website.s3.eu-west-2.amazonaws.com/_resized/ZwMTWoqRcetSpgZGKRnl6hCDw1j8DQfnENCSZWa9-w700-q75.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Try your luck, roll the dice, and earn rewards! Hop in ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3324396931200906617' alt='   Try your luck, roll the dice, and earn rewards! Hop in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3324396931200906617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly Go! is a “highly social" mobile game based on the family ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/monopoly-go-promo-image.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Monopoly Go! is a “highly social" mobile game based on the family ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dicebreaker" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/monopoly-go-promo-image.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making the most of Monopoly Go's false start | GamesIndustry.biz">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/monopolygo.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Making the most of Monopoly Go's false start | GamesIndustry.biz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GamesIndustry.biz" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/monopolygo.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly Go wiki – what each event means">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2024/02/Monopoly-Go-wiki.jpg' alt='Monopoly Go wiki – what each event means'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2024/02/Monopoly-Go-wiki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly Go!' gives classic board game modern additions | Cult of Mac">
+                                <img itemprop="contentUrl url" src='https://www.cultofmac.com/wp-content/uploads/2023/04/Monopoly-Go-1536x864.jpg' alt='Monopoly Go!' gives classic board game modern additions | Cult of Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cult of Mac" />
+                                </span>
+                                <a href='https://www.cultofmac.com/wp-content/uploads/2023/04/Monopoly-Go-1536x864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly Go! Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14784482.jpg' alt='Monopoly Go! Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14784482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly GO! Technical Support and Help Center">
+                                <img itemprop="contentUrl url" src='https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/monopolygo/7a3368b1-e0ab-4080-9c3e-41b359c2f98a.jpg' alt='Monopoly GO! Technical Support and Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5128">
+                                <meta itemprop="height" content="2950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="monopolygo.helpshift.com" />
+                                </span>
+                                <a href='https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/monopolygo/7a3368b1-e0ab-4080-9c3e-41b359c2f98a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monopoly Go -Updated Review + who should play. Comparisons made ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kuWkn3gccZk/sddefault.jpg' alt='Monopoly Go -Updated Review + who should play. Comparisons made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kuWkn3gccZk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

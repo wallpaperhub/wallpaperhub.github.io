@@ -1,0 +1,129 @@
+<title>Stunning Nature Backgrounds: Escape into Beauty</title>
+                    <meta name="description" content="Explore captivating and beautiful nature backgrounds that inspire serenity and wonder. Perfect for relaxation or as a scenic escape, our collection showcases the vibrant colors and tranquil scenes of the great outdoors. Immerse yourself in nature’s beauty today!">
+                    <meta name="keywords" content="beautiful background nature">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beautiful-background-nature">
+                            <span itemprop="name">beautiful background nature</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nature Backgrounds: Escape into Beauty</h1>
+                <p>Nature’s beauty is a mesmerizing tapestry of vibrant colors and serene landscapes. From lush green forests and towering mountains to tranquil lakes and blooming meadows, each scene offers a peaceful retreat. The gentle rustle of leaves and melodious chirps of birds create a harmonious backdrop, inviting us to pause and embrace the tranquility of the natural world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Images Nature Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/855/805/non_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-free-photo.jpg' alt='Background Images Nature Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/855/805/non_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natur Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/951/373/small_2x/awesome-nature-landscape-beautiful-scene-with-high-tatra-mountain-peaks-stones-in-mountain-lake-calm-lake-water-reflection-colorful-sunset-sky-amazing-nature-background-autumn-adventure-hiking-photo.jpg' alt='Natur Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/951/373/small_2x/awesome-nature-landscape-beautiful-scene-with-high-tatra-mountain-peaks-stones-in-mountain-lake-calm-lake-water-reflection-colorful-sunset-sky-amazing-nature-background-autumn-adventure-hiking-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="799,756 Nature Landscape Wallpaper Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-mural-wallpaper-beautiful-view-landscape-background-old-arches-tree-sun-water-birds-flowers-transparent-curtains-166191190.jpg' alt='799,756 Nature Landscape Wallpaper Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-mural-wallpaper-beautiful-view-landscape-background-old-arches-tree-sun-water-birds-flowers-transparent-curtains-166191190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/366/612/small_2x/ai-generated-dreamy-natural-background-beautiful-bokeh-copy-space-photo.jpg' alt='Nature Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/366/612/small_2x/ai-generated-dreamy-natural-background-beautiful-bokeh-copy-space-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Nature Background Stock Photo - Download Image Now ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/926196952/photo/beautiful-nature-background.jpg?s=612x612&w=0&k=20&c=yMtdCc_l1nR-f2FGfFtk6XZX6Mr5BrAsbnATukkwOVg=' alt='Beautiful Nature Background Stock Photo - Download Image Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/926196952/photo/beautiful-nature-background.jpg?s=612x612&w=0&k=20&c=yMtdCc_l1nR-f2FGfFtk6XZX6Mr5BrAsbnATukkwOVg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunlight In The Autumn Forest. Beauty Nature Background ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/robertsrob/robertsrob1302/robertsrob130200013/17778043-beautiful-sunlight-in-the-autumn-forest-beauty-nature-background.jpg' alt='Beautiful Sunlight In The Autumn Forest. Beauty Nature Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/robertsrob/robertsrob1302/robertsrob130200013/17778043-beautiful-sunlight-in-the-autumn-forest-beauty-nature-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful nature background hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/KA2402/golden-morning-sun-rays-on-green-grass-in-autumn-beautiful-nature-KA2402.jpg' alt='Beautiful nature background hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/KA2402/golden-morning-sun-rays-on-green-grass-in-autumn-beautiful-nature-KA2402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Night Landscape. Beautiful Nature Background. Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/amazing-night-landscape-beautiful-nature-background-snowy-trees-starry-sky-winter-115242788.jpg' alt='Amazing Night Landscape. Beautiful Nature Background. Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/amazing-night-landscape-beautiful-nature-background-snowy-trees-starry-sky-winter-115242788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="860,021 Beautiful Background Picture Nature Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2198009967/display_1500/stock-photo-autumn-forest-path-orange-color-tree-red-brown-maple-leaves-in-fall-city-park-nature-scene-in-2198009967.jpg' alt='860,021 Beautiful Background Picture Nature Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2198009967/display_1500/stock-photo-autumn-forest-path-orange-color-tree-red-brown-maple-leaves-in-fall-city-park-nature-scene-in-2198009967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,531,244 Nature Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-mural-colorful-landscape-flowers-branches-multi-colors-trees-water-waterfall-flying-birds-suitable-print-nflowers-206297833.jpg' alt='2,531,244 Nature Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-mural-colorful-landscape-flowers-branches-multi-colors-trees-water-waterfall-flying-birds-suitable-print-nflowers-206297833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

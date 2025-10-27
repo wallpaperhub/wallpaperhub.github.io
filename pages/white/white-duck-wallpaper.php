@@ -1,0 +1,129 @@
+<title>Charming White Duck Wallpaper for Your Home</title>
+                    <meta name="description" content="Add a touch of whimsy to your decor with our white duck wallpaper. Ideal for nurseries, living spaces, or any room needing a cheerful upgrade. Our designs are both stylish and versatile, perfect for a cozy atmosphere. Discover the charm of white duck wallpaper today and elevate your home’s aesthetic!">
+                    <meta name="keywords" content="white duck wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-duck-wallpaper">
+                            <span itemprop="name">white duck wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming White Duck Wallpaper for Your Home</h1>
+                <p>Transform your space with charming white duck wallpaper! Whether you’re revamping a nursery, creating a cozy living room, or adding flair to your bathroom, these delightful designs bring a fresh and whimsical touch. Perfect for both adults and kids, white duck wallpaper adds warmth and character to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ White Duck Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1544460848-32344b7004ec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBkdWNrfGVufDB8fDB8fHww' alt='45,628+ White Duck Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1544460848-32344b7004ec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBkdWNrfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Duck Images – Browse 597,050 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/39/84/83/360_F_239848357_GZQ1Ji37gYIgPIklzVpPpI3Xa7QIzq35.jpg' alt='White Duck Images – Browse 597,050 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/39/84/83/360_F_239848357_GZQ1Ji37gYIgPIklzVpPpI3Xa7QIzq35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101,200+ White Duck Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1564155224/photo/duck-on-a-lake.jpg?s=612x612&w=0&k=20&c=-YW4G1nsCPQOd8HtHbRypG2nW5oPuJs0urI1ZxTyND0=' alt='101,200+ White Duck Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1564155224/photo/duck-on-a-lake.jpg?s=612x612&w=0&k=20&c=-YW4G1nsCPQOd8HtHbRypG2nW5oPuJs0urI1ZxTyND0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/65/fa/5d65fadcf8fe7b490779debffd2577ff.jpg' alt='Duck Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/65/fa/5d65fadcf8fe7b490779debffd2577ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101,200+ White Duck Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1386064599/photo/pet-ducks-in-home-backyard.jpg?s=612x612&w=0&k=20&c=HKii5L6L2kfgQo7xDE5OjQP5g_r8fm2wIUASp9yeh7k=' alt='101,200+ White Duck Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1386064599/photo/pet-ducks-in-home-backyard.jpg?s=612x612&w=0&k=20&c=HKii5L6L2kfgQo7xDE5OjQP5g_r8fm2wIUASp9yeh7k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Ducks ideas | duck, pet birds, white ducks">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/ec/bc/dbecbc97274cb3fbba09bf312fd9ad63.jpg' alt='8 Ducks ideas | duck, pet birds, white ducks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/ec/bc/dbecbc97274cb3fbba09bf312fd9ad63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two White Ducks on Green Grass Field · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/724372/pexels-photo-724372.jpeg' alt='Two White Ducks on Green Grass Field · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/724372/pexels-photo-724372.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful White Duck Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/beautiful-white-duck-122v3qfb03fqyx3o.jpg' alt='Beautiful White Duck Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/beautiful-white-duck-122v3qfb03fqyx3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Ducks Wallpaper / Return to Innocence">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/DEKO.TAP175_fb2d8c11-74d6-4d63-a06f-d25ab315c34c.jpg?v=1695639398' alt='White Ducks Wallpaper / Return to Innocence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/DEKO.TAP175_fb2d8c11-74d6-4d63-a06f-d25ab315c34c.jpg?v=1695639398' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Duck Resting on Grass · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/13992817/pexels-photo-13992817.jpeg' alt='White Duck Resting on Grass · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/13992817/pexels-photo-13992817.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

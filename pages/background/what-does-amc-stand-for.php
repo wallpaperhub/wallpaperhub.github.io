@@ -1,0 +1,129 @@
+<title>What Does AMC Stand For in the Movie Industry?</title>
+                    <meta name="description" content="Discover the meaning of AMC in the entertainment world. Learn how American Multi-Cinema revolutionizes the moviegoing experience with comfortable seating and diverse film options. Stay informed about your favorite cinema chain in just a few clicks!">
+                    <meta name="keywords" content="what does amc stand for">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-amc-stand-for">
+                            <span itemprop="name">what does amc stand for</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Does AMC Stand For in the Movie Industry?</h1>
+                <p>AMC commonly stands for "American Multi-Cinema," one of the largest movie theater chains in the U.S. It provides a wide range of films, including blockbusters and independent features, along with amenities like reclining seats and in-theater dining. AMC is a popular destination for moviegoers seeking an enhanced cinema experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC Theatres - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d4/AMC_Theatres_logo_%282%29.svg' alt='AMC Theatres - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d4/AMC_Theatres_logo_%282%29.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC (TV channel) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg' alt='AMC (TV channel) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asset Management Company (AMC) Definition and Example">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/F5uArUq0W-BgIDtiv2AhUmd34Xw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/asset_management_company.asp-final-9c7d4566332a4732930dff0b4ee8efef.png' alt='Asset Management Company (AMC) Definition and Example'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/F5uArUq0W-BgIDtiv2AhUmd34Xw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/asset_management_company.asp-final-9c7d4566332a4732930dff0b4ee8efef.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC Theatres - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AMC_Times_Square_%2851495036834%29.jpg/220px-AMC_Times_Square_%2851495036834%29.jpg' alt='AMC Theatres - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AMC_Times_Square_%2851495036834%29.jpg/220px-AMC_Times_Square_%2851495036834%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does AMC stand for?">
+                                <img itemprop="contentUrl url" src='https://static.stands4.com/abbreviation-image/50563_AMC.png' alt='What does AMC stand for?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abbreviations.com" />
+                                </span>
+                                <a href='https://static.stands4.com/abbreviation-image/50563_AMC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC Theatres - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ten_Main_Center-AMC_Bldg-Kansas_City_MO_%28cropped%29.jpg/220px-Ten_Main_Center-AMC_Bldg-Kansas_City_MO_%28cropped%29.jpg' alt='AMC Theatres - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ten_Main_Center-AMC_Bldg-Kansas_City_MO_%28cropped%29.jpg/220px-Ten_Main_Center-AMC_Bldg-Kansas_City_MO_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Motors Corporation - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/96/American-motors.svg' alt='American Motors Corporation - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/96/American-motors.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does AMC mean?">
+                                <img itemprop="contentUrl url" src='https://www.abbreviationfinder.org/images/acronym/en/am/c8/amc.png' alt='What does AMC mean?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abbreviation Finder" />
+                                </span>
+                                <a href='https://www.abbreviationfinder.org/images/acronym/en/am/c8/amc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC Theatres logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/01/AMC-Theatres-Logo-history.png' alt='AMC Theatres logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="4364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/01/AMC-Theatres-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMC » What does AMC mean? » Slang.org">
+                                <img itemprop="contentUrl url" src='https://www.slang.org/wp-content/uploads/2016/12/amc-1024x781.jpg' alt='AMC » What does AMC mean? » Slang.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slang.org" />
+                                </span>
+                                <a href='https://www.slang.org/wp-content/uploads/2016/12/amc-1024x781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

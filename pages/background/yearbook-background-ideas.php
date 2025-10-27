@@ -1,0 +1,129 @@
+<title>Creative Yearbook Background Ideas for Memorable Pages</title>
+                    <meta name="description" content="Discover creative yearbook background ideas that elevate your pages. From nature themes to custom artwork, find inspiration for captivating designs that make your yearbook unforgettable. Perfect for every student, our tips help you create a unique backdrop for lasting memories.">
+                    <meta name="keywords" content="yearbook background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yearbook-background-ideas">
+                            <span itemprop="name">yearbook background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Yearbook Background Ideas for Memorable Pages</h1>
+                <p>Yearbook backgrounds set the tone for memories captured within. Consider themes like nature, abstract patterns, or school colors. Vintage designs can add nostalgia, while vibrant colors bring energy. Incorporate personalized elements like student artwork or quotes. A unique background enhances the visual appeal and makes pages unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theme Concepts Coordinating Backgrounds | Memory Book Company">
+                                <img itemprop="contentUrl url" src='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/whirlygig-theme.png' alt='Theme Concepts Coordinating Backgrounds | Memory Book Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Book" />
+                                </span>
+                                <a href='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/whirlygig-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theme Concepts Coordinating Backgrounds | Memory Book Company">
+                                <img itemprop="contentUrl url" src='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/slime-theme.png' alt='Theme Concepts Coordinating Backgrounds | Memory Book Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Book" />
+                                </span>
+                                <a href='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/slime-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Yearbook backgrounds ideas | vector free, watercolor, yearbook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/31/06/4b/31064bbd4cdcb8a93d9341af5ac9de2b.jpg' alt='19 Yearbook backgrounds ideas | vector free, watercolor, yearbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/31/06/4b/31064bbd4cdcb8a93d9341af5ac9de2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theme Concepts Coordinating Backgrounds | Memory Book Company">
+                                <img itemprop="contentUrl url" src='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/denim-doodle-theme.png' alt='Theme Concepts Coordinating Backgrounds | Memory Book Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Book" />
+                                </span>
+                                <a href='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/denim-doodle-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theme Concepts Coordinating Backgrounds | Memory Book Company">
+                                <img itemprop="contentUrl url" src='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/retrotech_theme.png' alt='Theme Concepts Coordinating Backgrounds | Memory Book Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Book" />
+                                </span>
+                                <a href='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/retrotech_theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Yearbook backgrounds ideas | vector free, watercolor, yearbook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a5/de/4d/a5de4d1fae6c3f80e33b50fcd9a1d35a.jpg' alt='19 Yearbook backgrounds ideas | vector free, watercolor, yearbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a5/de/4d/a5de4d1fae6c3f80e33b50fcd9a1d35a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Page Background Ideas for Your Yearbook - Spacific Creative">
+                                <img itemprop="contentUrl url" src='https://spacificcreative.nz/wp-content/uploads/2019/12/P1130382-GLAD-SQ-e1576455440909-1024x878.jpg' alt='10 Page Background Ideas for Your Yearbook - Spacific Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spacific Creative" />
+                                </span>
+                                <a href='https://spacificcreative.nz/wp-content/uploads/2019/12/P1130382-GLAD-SQ-e1576455440909-1024x878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Page Background Ideas for Your Yearbook - Spacific Creative">
+                                <img itemprop="contentUrl url" src='https://spacificcreative.nz/wp-content/uploads/2019/12/P1130443-MARCL-SQ-e1576454234528-1024x847.jpg' alt='10 Page Background Ideas for Your Yearbook - Spacific Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spacific Creative" />
+                                </span>
+                                <a href='https://spacificcreative.nz/wp-content/uploads/2019/12/P1130443-MARCL-SQ-e1576454234528-1024x847.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yearbook Themes - Lifetouch">
+                                <img itemprop="contentUrl url" src='https://schools.lifetouch.com/wp-content/uploads/2022/08/AdventureAwaits_Detail.jpg' alt='Yearbook Themes - Lifetouch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifetouch" />
+                                </span>
+                                <a href='https://schools.lifetouch.com/wp-content/uploads/2022/08/AdventureAwaits_Detail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theme Concepts Coordinating Backgrounds | Memory Book Company">
+                                <img itemprop="contentUrl url" src='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/grunge_theme.png' alt='Theme Concepts Coordinating Backgrounds | Memory Book Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Book" />
+                                </span>
+                                <a href='https://www.memorybook.com/yearbook-design/yearbook-theme-concepts/coordinating-backgrounds/images/grunge_theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

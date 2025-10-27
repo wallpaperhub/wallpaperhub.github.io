@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Madison Square Garden</title>
+                    <meta name="description" content="Explore the fascinating history of Madison Square Garden, a cultural icon in New York City. From its origins to hosting unforgettable sports and entertainment events, learn how "The Garden" has shaped the world of live experiences. Perfect for sports and music fans alike!">
+                    <meta name="keywords" content="madison square garden history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/madison-square-garden-history">
+                            <span itemprop="name">madison square garden history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Madison Square Garden</h1>
+                <p>Madison Square Garden, known as "The Garden," opened in 1968, though its origins trace back to 1879. Throughout its history, it has hosted countless iconic events, from legendary boxing matches to historic concerts. This landmark has become synonymous with sports and entertainment, deeply embedding itself in New York City's cultural fabric.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden Facts & History | MSG | Official Site">
+                                <img itemprop="contentUrl url" src='https://img.msg.com/wp-content/uploads/2018/05/Madison-Square-Garden_Historic.jpg?w=500' alt='Madison Square Garden Facts & History | MSG | Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madison Square Garden" />
+                                </span>
+                                <a href='https://img.msg.com/wp-content/uploads/2018/05/Madison-Square-Garden_Historic.jpg?w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden (1925) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Madison_Square_Garden_1941_Postcard.jpg/1200px-Madison_Square_Garden_1941_Postcard.jpg' alt='Madison Square Garden (1925) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Madison_Square_Garden_1941_Postcard.jpg/1200px-Madison_Square_Garden_1941_Postcard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden's many incarnations — and locations">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2013/10/msg_contruction.jpg?quality=75&strip=all&w=1200' alt='Madison Square Garden's many incarnations — and locations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2013/10/msg_contruction.jpg?quality=75&strip=all&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden (1890) — NYC URBANISM">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57c5a333e58c625a7e36a989/1520009827728-FW7CL25K700G1TDZ4RUW/image-asset.jpeg' alt='Madison Square Garden (1890) — NYC URBANISM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYC URBANISM" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57c5a333e58c625a7e36a989/1520009827728-FW7CL25K700G1TDZ4RUW/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden | A Brief History">
+                                <img itemprop="contentUrl url" src='https://sesamorestaurant.com/wp-content/uploads/2024/06/Construction_of_Madison_Square_Garden_optimized-1-1024x699.jpg' alt='Madison Square Garden | A Brief History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SESAMO" />
+                                </span>
+                                <a href='https://sesamorestaurant.com/wp-content/uploads/2024/06/Construction_of_Madison_Square_Garden_optimized-1-1024x699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden (1879) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/78/Madison_Square_Garden_%28c.1879%29.jpg' alt='Madison Square Garden (1879) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="743">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/78/Madison_Square_Garden_%28c.1879%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden (1890) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/44/Madison-square2.jpg' alt='Madison Square Garden (1890) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/44/Madison-square2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Madison Square Garden — Madison Square Park Conservancy">
+                                <img itemprop="contentUrl url" src='https://madisonsquarepark.org/wp-content/uploads/2014/08/MCNY91.69.30-c.-1910.jpg' alt='History of Madison Square Garden — Madison Square Park Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madison Square Park Conservancy" />
+                                </span>
+                                <a href='https://madisonsquarepark.org/wp-content/uploads/2014/08/MCNY91.69.30-c.-1910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1910 Madison Square Garden: NYC's Cultural Icon">
+                                <img itemprop="contentUrl url" src='https://www.history101.nyc/system/carrierwave/evo/213/watermark_800_1.1910-RETOUCHED-Madison-Square-Garden.jpg' alt='1910 Madison Square Garden: NYC's Cultural Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History 101 NYC" />
+                                </span>
+                                <a href='https://www.history101.nyc/system/carrierwave/evo/213/watermark_800_1.1910-RETOUCHED-Madison-Square-Garden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madison Square Garden II Street View — NYC URBANISM">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57c5a333e58c625a7e36a989/1520012341430-F22ONT9D82VDEA4QWO9O/MSGiiii.jpg?format=2500w' alt='Madison Square Garden II Street View — NYC URBANISM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1499">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYC URBANISM" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57c5a333e58c625a7e36a989/1520012341430-F22ONT9D82VDEA4QWO9O/MSGiiii.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Christmas Live Wallpapers: Bring the Holiday Spirit to Your Screen</title>
+                    <meta name="description" content="Discover a stunning collection of Christmas live wallpapers to elevate your holiday spirit! From snow-covered landscapes to festive decorations, find the perfect wallpaper that brings cheer and warmth to your device. Make your screen come alive this Christmas season with vibrant and animated designs!">
+                    <meta name="keywords" content="live wallpaper christmas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/live-wallpaper-christmas">
+                            <span itemprop="name">live wallpaper christmas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Christmas Live Wallpapers: Bring the Holiday Spirit to Your Screen</h1>
+                <p>Transform your device with enchanting live wallpaper for Christmas! Experience the magic of the holiday season with swirling snowflakes, twinkling lights, and festive scenes that bring joy to your screen. Perfect for setting a cheerful mood, our collection of Christmas live wallpapers adds a touch of warmth and wonder to your everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81D2KYMwIEL.png' alt='Christmas Tree Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81D2KYMwIEL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video for backgrounds for Christmas and other festive seasons.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/026/748/581/small_2x/for-backgrounds-for-christmas-and-other-festive-seasons-video.jpg' alt='Video for backgrounds for Christmas and other festive seasons.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/026/748/581/small_2x/for-backgrounds-for-christmas-and-other-festive-seasons-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Christmas 3D Live Wallpaper and Screensaver Trailer">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/twnRFBTEaXc/maxresdefault.jpg' alt='White Christmas 3D Live Wallpaper and Screensaver Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/twnRFBTEaXc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpaper, christmas motion wallpaper , Christmas animated  image, loop background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k3DoFxG-5no/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgTShyMA8=&rs=AOn4CLCw3M1H_-0ak6anZfXrCaHiVNJpDQ' alt='Christmas Live Wallpaper, christmas motion wallpaper , Christmas animated  image, loop background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k3DoFxG-5no/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgTShyMA8=&rs=AOn4CLCw3M1H_-0ak6anZfXrCaHiVNJpDQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpapers 10">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ui5xqL9CL.jpg' alt='Christmas Live Wallpapers 10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ui5xqL9CL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpaper - APK Download for Android | Aptoide">
+                                <img itemprop="contentUrl url" src='https://cdn6.aptoide.com/imgs/e/8/5/e858586d6816dc755b32c519ec7a1e17_screen.png' alt='Christmas Live Wallpaper - APK Download for Android | Aptoide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="blackbird-wallpapers-christmas-live-wallpaper.en.aptoide.com" />
+                                </span>
+                                <a href='https://cdn6.aptoide.com/imgs/e/8/5/e858586d6816dc755b32c519ec7a1e17_screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/51/3a/33513a2e76d7239a621867aff36cbfa6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/51/3a/33513a2e76d7239a621867aff36cbfa6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Night Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/1kSBJq-aNStoCLPYLOtqLZwWzR_v3RA2UzVI5SewP1kWOIx2EwEPxz4Ta-EFMUj_ieo' alt='Christmas Night Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/1kSBJq-aNStoCLPYLOtqLZwWzR_v3RA2UzVI5SewP1kWOIx2EwEPxz4Ta-EFMUj_ieo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpapers for Android Phones">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7446849423662976278&location=0&aid=1988' alt='Christmas Live Wallpapers for Android Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7446849423662976278&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Snowman Live Wallpaper for Your Phone   ">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7438765258409397546&location=0&aid=1988' alt='Festive Snowman Live Wallpaper for Your Phone   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7438765258409397546&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

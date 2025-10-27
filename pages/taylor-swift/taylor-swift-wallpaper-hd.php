@@ -1,0 +1,129 @@
+<title>Taylor Swift HD Wallpapers: Stunning Designs for Swifties</title>
+                    <meta name="description" content="Discover a collection of mesmerizing Taylor Swift HD wallpapers perfect for your mobile device. Explore a range of styles featuring the pop icon, and personalize your screen with vivid images that reflect her dazzling charisma and artistry. Download your favorites now!">
+                    <meta name="keywords" content="taylor swift wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-wallpaper-hd">
+                            <span itemprop="name">taylor swift wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift HD Wallpapers: Stunning Designs for Swifties</h1>
+                <p>Elevate your device's aesthetics with stunning Taylor Swift HD wallpapers. From her iconic performances to candid moments, find a variety of high-quality images that resonate with every Swiftie. Unlock the magic of Taylor's artistry on your screen and inspire your day with vibrant visuals that capture her essence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Music Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/taylor-swift-music-m67cq25vaa7cb9rg.jpg' alt='Taylor Swift Music Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/taylor-swift-music-m67cq25vaa7cb9rg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Phone Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?auto=webp&s=1ca3ef235e76565dc323cde06e8964b592ade89b' alt='1989 Phone Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?auto=webp&s=1ca3ef235e76565dc323cde06e8964b592ade89b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift, 2021, fearless, taylor swift, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/839/32/HD-wallpaper-taylor-swift-2021-fearless-taylor-swift.jpg' alt='Taylor Swift, 2021, fearless, taylor swift, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/839/32/HD-wallpaper-taylor-swift-2021-fearless-taylor-swift.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Taylor Swift Wallpaper iPhone HD Phone #3310g">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/taylor-swift-331@0@g-phone-4k.jpg' alt='4K Taylor Swift Wallpaper iPhone HD Phone #3310g'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/taylor-swift-331@0@g-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' alt='200+] Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor swift wallpapers (114 wallpapers) - hd wallpapers | Taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/7e/1d/707e1d7bbf472522eab3c1a597db37fd.jpg' alt='Taylor swift wallpapers (114 wallpapers) - hd wallpapers | Taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/7e/1d/707e1d7bbf472522eab3c1a597db37fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Taylor Swift Pretty Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/35928805707115843-35914607276885540.jpg' alt='Most Popular Taylor Swift Pretty Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/35928805707115843-35914607276885540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 4K Wallpaper - Download Free 4K Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/taylor-swift-4k-wallpaper/?download-img=4k' alt='Taylor Swift 4K Wallpaper - Download Free 4K Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/taylor-swift-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Taylor Swift Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-iphone-9lm80iww39ydusde.jpg' alt='100+] Taylor Swift Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-iphone-9lm80iww39ydusde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper 4K, Butterflies, Singer">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/taylor-swift-3840x2160-12854.jpeg' alt='Taylor Swift Wallpaper 4K, Butterflies, Singer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/taylor-swift-3840x2160-12854.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

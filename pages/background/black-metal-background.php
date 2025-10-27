@@ -1,0 +1,129 @@
+<title>Exploring the Dark Origins of Black Metal</title>
+                    <meta name="description" content="Discover the fascinating evolution of black metal, from its aggressive sound and eerie themes to its cultural impact. Dive into the origins, key bands, and defining characteristics that have made black metal a unique force in the music world.">
+                    <meta name="keywords" content="black metal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-metal-background">
+                            <span itemprop="name">black metal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Dark Origins of Black Metal</h1>
+                <p>Black metal originated in the early 1980s, characterized by its dark, aggressive sound, and themes of paganism, nihilism, and nature. Bands like Mayhem and Burzum helped shape its identity, often using lo-fi production to evoke a raw atmosphere. The genre's theatrical aesthetics and fanbase culture have significantly influenced heavy metal as a whole.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Metal Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-carbon-fiber-background_77528-78.jpg?semt=ais_hybrid' alt='Black Metal Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-carbon-fiber-background_77528-78.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Metal Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/210/498/non_2x/black-metal-texture-steel-background-perforated-sheet-metal-aluminum-wire-mesh-material-texture-steel-grid-with-polygon-holes-on-black-background-free-vector.jpg' alt='Black Metal Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/210/498/non_2x/black-metal-texture-steel-background-perforated-sheet-metal-aluminum-wire-mesh-material-texture-steel-grid-with-polygon-holes-on-black-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brushed Metal Texture Images – Browse 72,369 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/35/43/10/360_F_535431031_piQcba2GjWs6G6lmsoUXSZOCYGRh3Guu.jpg' alt='Dark Brushed Metal Texture Images – Browse 72,369 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/35/43/10/360_F_535431031_piQcba2GjWs6G6lmsoUXSZOCYGRh3Guu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Metal Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/broken-metal_1048-5355.jpg' alt='Black Metal Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/broken-metal_1048-5355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,600+ Dark Steel Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1271622768/vector/abstract-black-metallic-background-and-scratch-texture-with-space-for-your-text.jpg?s=612x612&w=0&k=20&c=P9K-BnP0Wl-C1GfnGjkgv5kwJZ5MwcOdMfxmpsHIY4o=' alt='15,600+ Dark Steel Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1271622768/vector/abstract-black-metallic-background-and-scratch-texture-with-space-for-your-text.jpg?s=612x612&w=0&k=20&c=P9K-BnP0Wl-C1GfnGjkgv5kwJZ5MwcOdMfxmpsHIY4o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Metal Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/black-metal-background-r9liulu984twkndf.jpg' alt='100+] Black Metal Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/black-metal-background-r9liulu984twkndf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Metal Wallpaper Images – Browse 869,190 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/62/04/71/360_F_262047156_Hy2QtNB52oR2DETOAcjIjB3FhaqCBjUI.jpg' alt='Black Metal Wallpaper Images – Browse 869,190 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/62/04/71/360_F_262047156_Hy2QtNB52oR2DETOAcjIjB3FhaqCBjUI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="grunge metal background. black metal grille on metal plate ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/H0FEK3/grunge-metal-background-black-metal-grille-on-metal-plate-material-H0FEK3.jpg' alt='grunge metal background. black metal grille on metal plate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/H0FEK3/grunge-metal-background-black-metal-grille-on-metal-plate-material-H0FEK3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Black Metal Texture - Free Stock Photo by Free Texture Friday ...">
+                                <img itemprop="contentUrl url" src='https://www.stockvault.net/data/2016/10/10/212055/preview16.jpg' alt='Old Black Metal Texture - Free Stock Photo by Free Texture Friday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old Black Metal Texture - Free Stock Photo by Free Texture Friday ..." />
+                                </span>
+                                <a href='https://www.stockvault.net/data/2016/10/10/212055/preview16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Metal Texture Texture H5 Background Image Backgrounds | PSD ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20191022/black-metal-texture-texture-h5-background-image_2849429.jpg!sw800' alt='Black Metal Texture Texture H5 Background Image Backgrounds | PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20191022/black-metal-texture-texture-h5-background-image_2849429.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

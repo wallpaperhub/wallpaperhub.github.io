@@ -1,0 +1,129 @@
+<title>"Discover the Majestic NYC Skyline: A Visual Delight"</title>
+                    <meta name="description" content="Explore the breathtaking NYC skyline, a blend of iconic skyscrapers and sparkling lights. Learn about its history, architecture, and the best spots to view this iconic cityscape. Perfect for visitors and locals seeking to experience the allure of New York City!">
+                    <meta name="keywords" content="nyc skyline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nyc-skyline">
+                            <span itemprop="name">nyc skyline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Majestic NYC Skyline: A Visual Delight"</h1>
+                <p>The NYC skyline is an iconic panorama defined by soaring skyscrapers, including the Empire State Building and One World Trade Center. Its majestic silhouette reflects the city's vibrant energy and architectural innovation. As the sun sets, the skyline transforms into a dazzling display of lights, captivating residents and visitors alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best spots to photograph the NYC skyline — The Empty Nest Explorers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/62015f66f840ef671da14ae7/4161edfa-ebba-4c13-90a4-90383f26260e/Photographing-NYC-skyline.jpg' alt='Best spots to photograph the NYC skyline — The Empty Nest Explorers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Empty Nest Explorers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/62015f66f840ef671da14ae7/4161edfa-ebba-4c13-90a4-90383f26260e/Photographing-NYC-skyline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best Views Of The New York City Skyline">
+                                <img itemprop="contentUrl url" src='https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt39cb04171bc3ea0d/668ac49bcf6f65148f6e61d8/jan-folwarczny-ZXBPMnNVtlE-unsplash-HEADER_MOBILE.jpg?format=webp&auto=avif&width=860&quality=80' alt='9 Best Views Of The New York City Skyline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GetYourGuide" />
+                                </span>
+                                <a href='https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt39cb04171bc3ea0d/668ac49bcf6f65148f6e61d8/jan-folwarczny-ZXBPMnNVtlE-unsplash-HEADER_MOBILE.jpg?format=webp&auto=avif&width=860&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="86,400+ New York Skyline Water Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/931041896/photo/manhattan-skyline-with-the-one-world-trade-center-building-at-twilight.jpg?s=612x612&w=0&k=20&c=oXsu01_sszmeT3ncC_Xg1Y1qU_-Ye6VT_mby-Y-2TPU=' alt='86,400+ New York Skyline Water Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/931041896/photo/manhattan-skyline-with-the-one-world-trade-center-building-at-twilight.jpg?s=612x612&w=0&k=20&c=oXsu01_sszmeT3ncC_Xg1Y1qU_-Ye6VT_mby-Y-2TPU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unveiling the Manhattan Skyline: A Spectacular Guide to NYC's ...">
+                                <img itemprop="contentUrl url" src='https://www.agoda.com/wp-content/uploads/2024/09/New-York-featured.jpg' alt='Unveiling the Manhattan Skyline: A Spectacular Guide to NYC's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agoda.com" />
+                                </span>
+                                <a href='https://www.agoda.com/wp-content/uploads/2024/09/New-York-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Manhattan Skyline - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/5b18b93ddbe5d6592c6b175f41d24454/n/e/new-york-manhattan-skyline-op-fotobehang_10.jpg' alt='New York Manhattan Skyline - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/5b18b93ddbe5d6592c6b175f41d24454/n/e/new-york-manhattan-skyline-op-fotobehang_10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Beautiful New York Skyline Pictures [HD] | Download Free ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1570304816841-906a17d7b067?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8fDA%3D' alt='500+ Beautiful New York Skyline Pictures [HD] | Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1570304816841-906a17d7b067?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brooklyn Bridge and NYC Skyline at Night Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/234586/Brooklyn-Bridge-and-NYC-Skyline-at-Night-Wall-Mural.jpg?v=638165374098470000' alt='Brooklyn Bridge and NYC Skyline at Night Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/234586/Brooklyn-Bridge-and-NYC-Skyline-at-Night-Wall-Mural.jpg?v=638165374098470000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Skylines - Framed Prints + Photos of NYC by Andrew Prokos">
+                                <img itemprop="contentUrl url" src='https://img.andrewprokos.com/MANHATTAN-EMPIRE-STATE-VIEW-FROM-ROCKEFELLER-CENTER-AT-DUSK-5214-1000PX.jpg' alt='New York Skylines - Framed Prints + Photos of NYC by Andrew Prokos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Prokos" />
+                                </span>
+                                <a href='https://img.andrewprokos.com/MANHATTAN-EMPIRE-STATE-VIEW-FROM-ROCKEFELLER-CENTER-AT-DUSK-5214-1000PX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Skylines - Framed Prints + Photos of NYC by Andrew Prokos">
+                                <img itemprop="contentUrl url" src='https://img.andrewprokos.com/LOWER-MANHATTAN-PANORAMIC-SKYLINE-2812-1100PX-500x206.jpg' alt='New York Skylines - Framed Prints + Photos of NYC by Andrew Prokos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Prokos" />
+                                </span>
+                                <a href='https://img.andrewprokos.com/LOWER-MANHATTAN-PANORAMIC-SKYLINE-2812-1100PX-500x206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skyline Night Tour of NYC">
+                                <img itemprop="contentUrl url" src='https://www.royalcitytours.com/wp-content/uploads/2018/04/architecture-buildings-business-771881.jpg' alt='Skyline Night Tour of NYC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal City Tours" />
+                                </span>
+                                <a href='https://www.royalcitytours.com/wp-content/uploads/2018/04/architecture-buildings-business-771881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

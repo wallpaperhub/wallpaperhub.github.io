@@ -1,0 +1,129 @@
+<title>Spellbinding Witchy Wallpapers for Enchanting Spaces</title>
+                    <meta name="description" content="Add a touch of magic to your home with our witchy wallpaper collection. Featuring mystical designs and enchanting colors, these wallpapers create the perfect ambiance for any witchy aesthetic. Ideal for living rooms, bedrooms, or cozy corners, transform your walls into a spellbinding retreat today!">
+                    <meta name="keywords" content="witchy wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/witchy-wallpaper-for-walls">
+                            <span itemprop="name">witchy wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spellbinding Witchy Wallpapers for Enchanting Spaces</h1>
+                <p>Transform your space with enchanting witchy wallpaper! Perfect for gothic-inspired rooms, our designs feature mystical motifs, spellbinding colors, and intricate patterns that evoke a magical atmosphere. Whether you're creating a cozy nook or a full witchy retreat, these wallpapers will cast a charm on your walls. Embrace the magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Wallpaper With Witches and Potions Dark Botanical ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/78333e/4893874470/il_570xN.4893874470_eofj.jpg' alt='Whimsical Wallpaper With Witches and Potions Dark Botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/78333e/4893874470/il_570xN.4893874470_eofj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FWIEXA Dark Forest Fern Mushroom Zodiac Indoor Wallpaper, Mystical Green  Witchy Wicca Astrology Wall Mural for Living Room Bedroom Mural Wallpaper-  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XOk0hEZxL._AC_UF894,1000_QL80_.jpg' alt='FWIEXA Dark Forest Fern Mushroom Zodiac Indoor Wallpaper, Mystical Green  Witchy Wicca Astrology Wall Mural for Living Room Bedroom Mural Wallpaper-  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XOk0hEZxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Witchcraft Illustrations Mystic Grimoire Wallpaper Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21896250/r/il/98474e/5264114685/il_fullxfull.5264114685_pgfj.jpg' alt='Gothic Witchcraft Illustrations Mystic Grimoire Wallpaper Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1666">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21896250/r/il/98474e/5264114685/il_fullxfull.5264114685_pgfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAOKHOME Gothic Wallpaper Peel and Stick Retro Floral Damask  Bronze/White/Purple Witchy Wall Decor Bathroom Removable Mural 17.7in x  9.8ft - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811+Ap8LPPL.jpg' alt='HAOKHOME Gothic Wallpaper Peel and Stick Retro Floral Damask  Bronze/White/Purple Witchy Wall Decor Bathroom Removable Mural 17.7in x  9.8ft - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811+Ap8LPPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Boho Wallpaper Moons Leaves, Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22653445/r/il/a00858/4800745020/il_570xN.4800745020_fc3d.jpg' alt='Light Boho Wallpaper Moons Leaves, Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22653445/r/il/a00858/4800745020/il_570xN.4800745020_fc3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Witchy Medusa Peel & Stick Wallpaper: Luxe Designer Snakes in Blue,  Green, & Black on White - Edgy & Chic">
+                                <img itemprop="contentUrl url" src='https://www.wallsofwisdomhome.com/cdn/shop/files/Western-Boho-Wallpaper-WP113_8b925cb3-cca4-429d-bc95-570d17b689d1.jpg?v=1727877106&width=2400' alt='Boho Witchy Medusa Peel & Stick Wallpaper: Luxe Designer Snakes in Blue,  Green, & Black on White - Edgy & Chic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls of Wisdom | Large Wall Art Murals & Rustic Western Decor" />
+                                </span>
+                                <a href='https://www.wallsofwisdomhome.com/cdn/shop/files/Western-Boho-Wallpaper-WP113_8b925cb3-cca4-429d-bc95-570d17b689d1.jpg?v=1727877106&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 12 Witchy Wallpapers for a Mystical Room">
+                                <img itemprop="contentUrl url" src='http://www.everwallpaper.co.uk/cdn/shop/articles/planet-pattern-wallpaper-mural-living-room.jpg?v=1653533121' alt='Top 12 Witchy Wallpapers for a Mystical Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ever Wallpaper" />
+                                </span>
+                                <a href='http://www.everwallpaper.co.uk/cdn/shop/articles/planet-pattern-wallpaper-mural-living-room.jpg?v=1653533121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Wallpaper With Witches and Potions Dark Botanical ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/dcd06a/4893885042/il_fullxfull.4893885042_mn7x.jpg' alt='Whimsical Wallpaper With Witches and Potions Dark Botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/dcd06a/4893885042/il_fullxfull.4893885042_mn7x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15630990/p/f/m/SykXUac2Wnfh21iQrxvDIGPF-Gt5prhaN-xDhf65AwON3wz-kJ2X7kE/Mystic%20Crows%20-%20Deep%20Cyan%20(Large).jpg' alt='Witchy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15630990/p/f/m/SykXUac2Wnfh21iQrxvDIGPF-Gt5prhaN-xDhf65AwON3wz-kJ2X7kE/Mystic%20Crows%20-%20Deep%20Cyan%20(Large).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 12 Witchy Wallpapers for a Mystical Room">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0565/7080/6458/files/2space-solar-galaxy-wallpaper-mural-room.jpg?v=1653468597' alt='Top 12 Witchy Wallpapers for a Mystical Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ever Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0565/7080/6458/files/2space-solar-galaxy-wallpaper-mural-room.jpg?v=1653468597' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

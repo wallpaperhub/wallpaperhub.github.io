@@ -1,0 +1,129 @@
+<title>Ensuring Quality: The Importance of Orchard Background Checks</title>
+                    <meta name="description" content="Learn why conducting background checks on orchards is crucial for ensuring quality and sustainability. Discover how transparency in practices leads to healthier, organic produce for your table while supporting responsible farming. Stay informed for a better agricultural future.">
+                    <meta name="keywords" content="orchards background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orchards-background-check">
+                            <span itemprop="name">orchards background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ensuring Quality: The Importance of Orchard Background Checks</h1>
+                <p>Orchards are enchanting spaces where fruit-bearing trees thrive, nurturing both nature and community. Conducting a background check on orchards ensures they adhere to sustainable practices, avoid harmful chemicals, and provide healthy, organic produce. Discover the importance of transparency and quality in orchard operations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Department of Human Services : ORCHARDS : Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/odhs/background-checks/PublishingImages/orchards-logo.png' alt='Oregon Department of Human Services : ORCHARDS : Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/odhs/background-checks/PublishingImages/orchards-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orchards background check: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/6/920/6920121/large.png' alt='Orchards background check: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/6/920/6920121/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orchards Background Check - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/460/357/460357261.png' alt='Orchards Background Check - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/460/357/460357261.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Process in ORCHARDS">
+                                <img itemprop="contentUrl url" src='x-raw-image:///802f084a4366789fb1d083757d9bbdef2ba07b4fd8bcfbeb8f3599c160173c9c' alt='Fingerprint Process in ORCHARDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1241">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='x-raw-image:///802f084a4366789fb1d083757d9bbdef2ba07b4fd8bcfbeb8f3599c160173c9c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Untitled">
+                                <img itemprop="contentUrl url" src='x-raw-image:///882bfa879dc5a281fbe3b643be2b141ceff794ca1419ee3a8ab10cb8f25d02e8' alt='Untitled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Gladstone" />
+                                </span>
+                                <a href='x-raw-image:///882bfa879dc5a281fbe3b643be2b141ceff794ca1419ee3a8ab10cb8f25d02e8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Process in ORCHARDS">
+                                <img itemprop="contentUrl url" src='x-raw-image:///92c063faf8832b60654a134245e3891fabc947e81b0e8b09f85dca0a91e4c06a' alt='Fingerprint Process in ORCHARDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1429">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='x-raw-image:///92c063faf8832b60654a134245e3891fabc947e81b0e8b09f85dca0a91e4c06a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orchards bcu login: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/40/100040665/large.png' alt='Orchards bcu login: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/40/100040665/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="480+ Oregon Orchard Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/480953957/photo/fruit-orchards-or.jpg?s=612x612&w=0&k=20&c=LZn8cQY7daZI64zwozvadmcAFrJbFDNLXaXg-3sWV3U=' alt='480+ Oregon Orchard Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/480953957/photo/fruit-orchards-or.jpg?s=612x612&w=0&k=20&c=LZn8cQY7daZI64zwozvadmcAFrJbFDNLXaXg-3sWV3U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Apple Orchard Background Stock Photo 327301766 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/327301766/display_1500/stock-photo-autumn-apple-orchard-background-327301766.jpg' alt='Autumn Apple Orchard Background Stock Photo 327301766 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/327301766/display_1500/stock-photo-autumn-apple-orchard-background-327301766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,000+ Apple Orchard In Bloom Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1464121082/photo/apple-tree-blooming-in-the-spring-orchard-beauty-of-mature-fruit-trees.jpg?s=612x612&w=0&k=20&c=4LW1o6WWGwp7MRWMGwN3tJr3lEknKaJID4UY1xPaA3M=' alt='7,000+ Apple Orchard In Bloom Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1464121082/photo/apple-tree-blooming-in-the-spring-orchard-beauty-of-mature-fruit-trees.jpg?s=612x612&w=0&k=20&c=4LW1o6WWGwp7MRWMGwN3tJr3lEknKaJID4UY1xPaA3M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

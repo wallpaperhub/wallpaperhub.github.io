@@ -1,0 +1,129 @@
+<title>Stunning Yu-Gi-Oh! Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover amazing Yu-Gi-Oh! phone wallpapers that bring your favorite characters and monsters to life on your screen. Perfect for fans, these vibrant designs will enhance your mobile experience. Download unique backgrounds and showcase your passion for Yu-Gi-Oh! effortlessly!">
+                    <meta name="keywords" content="yugioh phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/yugioh-phone-wallpaper">
+                            <span itemprop="name">yugioh phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Yu-Gi-Oh! Phone Wallpapers for Fans</h1>
+                <p>Transform your phone's screen with stunning Yu-Gi-Oh! wallpapers! From iconic characters like Yugi and Kaiba to legendary monsters like Blue-Eyes and Dark Magician, there's a perfect background for every fan. Elevate your mobile experience with vibrant images that showcase your love for the game. Download today and duel in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugi and Dark Magician wallpapers (7th art & original art) : r/yugioh">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yugi-and-dark-magician-wallpapers-7th-art-original-art-v0-zwl62hxekica1.jpg?width=1080&format=pjpg&auto=webp&s=004228357c4ac92117f9013415982857b7257d36' alt='Yugi and Dark Magician wallpapers (7th art & original art) : r/yugioh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yugi-and-dark-magician-wallpapers-7th-art-original-art-v0-zwl62hxekica1.jpg?width=1080&format=pjpg&auto=webp&s=004228357c4ac92117f9013415982857b7257d36' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugi and the God Cards Wallpapers : r/DuelLinks">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vecf1k0huio91.jpg' alt='Yugi and the God Cards Wallpapers : r/DuelLinks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vecf1k0huio91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh! Mobile Wallpaper by Pixiv Id 13211873 #2038731 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/f5/cf/7df5cf166f74aef8b65ceb9f95c74922.jpg' alt='Yu-Gi-Oh! Mobile Wallpaper by Pixiv Id 13211873 #2038731 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/f5/cf/7df5cf166f74aef8b65ceb9f95c74922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh! Phone Wallpapers: Duel In Style">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/3b/83/763b83f239fb4aa59090b8c92cf35a48.jpg' alt='Yu-Gi-Oh! Phone Wallpapers: Duel In Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/3b/83/763b83f239fb4aa59090b8c92cf35a48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD yugioh wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/878/HD-wallpaper-yugioh-tribal-thumbnail.jpg' alt='HD yugioh wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/878/HD-wallpaper-yugioh-tribal-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugioh, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/275/53/HD-wallpaper-yugioh-anime.jpg' alt='Yugioh, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/275/53/HD-wallpaper-yugioh-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yusei and Stardust Dragon Phone Wallpapers : r/yugioh">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g7b4vupft4m91.jpg' alt='Yusei and Stardust Dragon Phone Wallpapers : r/yugioh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g7b4vupft4m91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu gi oh, anime, game, games, yugi, yugioh, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/77/d0/1877d048530f0e7d602b5574a94bf6be.jpg' alt='Yu gi oh, anime, game, games, yugi, yugioh, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/77/d0/1877d048530f0e7d602b5574a94bf6be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugi and Master of Chaos Phone Wallpaper 3 by CrimsonDragon01 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e547015-fd29-4c17-9751-b0ed164b74ff/dfqh0qn-df64a712-28f5-4cbb-84dd-0da6051a939c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNTQ3MDE1LWZkMjktNGMxNy05NzUxLWIwZWQxNjRiNzRmZlwvZGZxaDBxbi1kZjY0YTcxMi0yOGY1LTRjYmItODRkZC0wZGE2MDUxYTkzOWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XwAereKUYAR94wU6mqtKj1ChO7bLvRCsKjgXheflnsU' alt='Yugi and Master of Chaos Phone Wallpaper 3 by CrimsonDragon01 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e547015-fd29-4c17-9751-b0ed164b74ff/dfqh0qn-df64a712-28f5-4cbb-84dd-0da6051a939c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNTQ3MDE1LWZkMjktNGMxNy05NzUxLWIwZWQxNjRiNzRmZlwvZGZxaDBxbi1kZjY0YTcxMi0yOGY1LTRjYmItODRkZC0wZGE2MDUxYTkzOWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XwAereKUYAR94wU6mqtKj1ChO7bLvRCsKjgXheflnsU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh, anime, yugi, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/514/995/HD-wallpaper-yu-gi-oh-anime-yugi.jpg' alt='Yu-Gi-Oh, anime, yugi, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/514/995/HD-wallpaper-yu-gi-oh-anime-yugi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

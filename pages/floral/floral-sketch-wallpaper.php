@@ -1,0 +1,129 @@
+<title>Elegant Floral Sketch Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover our stunning floral sketch wallpaper that effortlessly transforms your home decor. Perfectly combining elegance and artistry, these designs create a charming ambiance in any room. Upgrade your living space with stylish floral patterns that bring nature indoors.">
+                    <meta name="keywords" content="floral sketch wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-sketch-wallpaper">
+                            <span itemprop="name">floral sketch wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Floral Sketch Wallpaper for Your Home</h1>
+                <p>Floral sketch wallpaper brings a touch of elegance and whimsy to any space. With intricate designs inspired by nature, these wallpapers create an inviting atmosphere while adding depth and character to your interior. Ideal for bedrooms or living areas, floral sketches enhance your decor with a timeless charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' alt='Sketch Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Floral Sketch Blue Vinyl Peel and Stick Matte Wallpaper 30.75 sq.  ft. RMK12361PLW">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/853e73c0-1241-4ec6-8bfa-44ab19d40745/svn/roommates-wallpaper-rolls-rmk12361plw-64_600.jpg' alt='RoomMates Floral Sketch Blue Vinyl Peel and Stick Matte Wallpaper 30.75 sq.  ft. RMK12361PLW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/853e73c0-1241-4ec6-8bfa-44ab19d40745/svn/roommates-wallpaper-rolls-rmk12361plw-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel and  Stick Wall Mural Wall Decoration Scandinavian Design Removable - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_1080xN.6181475669_l1r0.jpg' alt='Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel and  Stick Wall Mural Wall Decoration Scandinavian Design Removable - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_1080xN.6181475669_l1r0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick Black Rose  Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor 393.8'' x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91MhwTNrxOL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick Black Rose  Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor 393.8'' x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91MhwTNrxOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beth Schneider Floral Sketch Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12360PLW_scaleex.jpg?v=1676571594' alt='Beth Schneider Floral Sketch Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12360PLW_scaleex.jpg?v=1676571594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Floral Sketch Red Unpasted Removable Peelable Paper Wallpaper  112569">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c0909b3a-600b-4838-8b0c-7d043ef79e30/svn/wallpaper-rolls-112569-64_600.jpg' alt='Unbranded Floral Sketch Red Unpasted Removable Peelable Paper Wallpaper  112569'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c0909b3a-600b-4838-8b0c-7d043ef79e30/svn/wallpaper-rolls-112569-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Sketch Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallvy.com/pic/ga/tap/633-90/l/black-and-white-floral-sketch-wallpaper.jpg' alt='Black and White Floral Sketch Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallvy" />
+                                </span>
+                                <a href='https://wallvy.com/pic/ga/tap/633-90/l/black-and-white-floral-sketch-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Pink & White Floral Sketch Peel & Stick Wallpaper | Michaels">
+                                <img itemprop="contentUrl url" src='https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/5205F380EF514E9399D35AE9AF37E2E1/D757481S_1.jpg' alt='RoomMates Pink & White Floral Sketch Peel & Stick Wallpaper | Michaels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/5205F380EF514E9399D35AE9AF37E2E1/D757481S_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Sketch Floral Wallpaper 393"X17.3 Peel And Stick Retro PVC Flower  Wallpaper | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/oCwAAOSwYpNleQzM/s-l400.jpg' alt='Grey Sketch Floral Wallpaper 393"X17.3 Peel And Stick Retro PVC Flower  Wallpaper | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/oCwAAOSwYpNleQzM/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beth Schneider Floral Sketch Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/268f19dd-ff0c-4179-99f5-d2578466ee98.a935ef80d8501b62c0a4411f247424d3.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Beth Schneider Floral Sketch Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/268f19dd-ff0c-4179-99f5-d2578466ee98.a935ef80d8501b62c0a4411f247424d3.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

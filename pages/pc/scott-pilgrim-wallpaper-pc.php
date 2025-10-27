@@ -1,0 +1,129 @@
+<title>Cool Scott Pilgrim Wallpapers for PC - Download Now!</title>
+                    <meta name="description" content="Discover a collection of cool Scott Pilgrim wallpapers for your PC! Perfect for fans of the comic and movie, these vibrant designs will bring your desktop to life. Download your favorite images and show off your love for Scott Pilgrim today!">
+                    <meta name="keywords" content="scott pilgrim wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/scott-pilgrim-wallpaper-pc">
+                            <span itemprop="name">scott pilgrim wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Scott Pilgrim Wallpapers for PC - Download Now!</h1>
+                <p>Transform your PC with stunning Scott Pilgrim wallpapers! Immerse yourself in the vibrant world of Scott Pilgrim and his unique characters, from Ramona Flowers to the dastardly League of Evil Exes. Choose from a variety of designs that celebrate the iconic comic and movie, adding a fun pop culture flair to your desktop space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Animated Wallpaper: HD Desktop Background">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/134/1341698.jpeg' alt='Scott Pilgrim Animated Wallpaper: HD Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/134/1341698.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ramona Flowers Comic Scott Pilgrim HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/646/646957.jpg' alt='Download Ramona Flowers Comic Scott Pilgrim HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/646/646957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixelTabs: The best source of AI-Images, Templates and HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/d3/a2/b5d3a263a5255eb9e8fc097ce6806578.jpg' alt='PixelTabs: The best source of AI-Images, Templates and HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/d3/a2/b5d3a263a5255eb9e8fc097ce6806578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Wallpaper Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/91/2b/0e912bb7fb23ceccd8b2a01737eabbac.jpg' alt='Scott Pilgrim Wallpaper Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/91/2b/0e912bb7fb23ceccd8b2a01737eabbac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Chasing The Door Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/scott-pilgrim-chasing-the-door-fa87i0ryqcxcb6z2.jpg' alt='Scott Pilgrim Chasing The Door Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/scott-pilgrim-chasing-the-door-fa87i0ryqcxcb6z2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Cover Wallpapers? : r/ScottPilgrim">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/muS1Y.jpg' alt='Scott Pilgrim Cover Wallpapers? : r/ScottPilgrim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/muS1Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Epic Clash HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/134/1340984.png' alt='Scott Pilgrim Epic Clash HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/134/1340984.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark Mode Of Scott Pilgrim Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-dark-mode-of-scott-pilgrim-5xe5gx18mcxvp4lv.jpg' alt='The Dark Mode Of Scott Pilgrim Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-dark-mode-of-scott-pilgrim-5xe5gx18mcxvp4lv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim vs. the World Wallpapers (19 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/2/6/528539-3840x2160-desktop-4k-scott-pilgrim-vs-the-world-wallpaper-photo.jpg' alt='Scott Pilgrim vs. the World Wallpapers (19 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/2/6/528539-3840x2160-desktop-4k-scott-pilgrim-vs-the-world-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re-read Scott Pilgrim Vol.1, though I'd make a wallpaper. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i66nk7uch9fx.jpg?width=640&crop=smart&auto=webp&s=c3d7083c6585818f35ba94c27cfa539236b1eda6' alt='Re-read Scott Pilgrim Vol.1, though I'd make a wallpaper. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i66nk7uch9fx.jpg?width=640&crop=smart&auto=webp&s=c3d7083c6585818f35ba94c27cfa539236b1eda6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

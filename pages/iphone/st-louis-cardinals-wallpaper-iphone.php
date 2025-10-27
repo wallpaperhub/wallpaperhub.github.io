@@ -1,0 +1,129 @@
+<title>St. Louis Cardinals iPhone Wallpaper: Show Your Team Spirit</title>
+                    <meta name="description" content="Discover the best St. Louis Cardinals wallpaper for your iPhone! Perfectly designed for fans, these wallpapers showcase vibrant team spirit, letting you carry your love for the Cardinals everywhere. Explore a variety of styles and keep your phone looking sharp while cheering on your favorite baseball team!">
+                    <meta name="keywords" content="st louis cardinals wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/st-louis-cardinals-wallpaper-iphone">
+                            <span itemprop="name">st louis cardinals wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>St. Louis Cardinals iPhone Wallpaper: Show Your Team Spirit</h1>
+                <p>Transform your iPhone with stunning St. Louis Cardinals wallpaper! Immerse yourself in the spirit of baseball with vibrant designs showcasing your favorite team. Whether you're at the ballpark or watching from home, these wallpapers bring the excitement of the game right to your device. Show off your Cardinals pride today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   St Louis Cardinals iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/25/86/5e25864fe020b4f9e58d59610259875b.jpg' alt='   St Louis Cardinals iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/25/86/5e25864fe020b4f9e58d59610259875b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's some more iPhone wallpaper. : r/Cardinals">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OGRMC2RosfO1Cj19h5Q_tnZJD5dLySbgZH8y1buZyEE.jpg?auto=webp&s=51127cdcde58099034fc7d03e02b8364fc30b288' alt='Here's some more iPhone wallpaper. : r/Cardinals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OGRMC2RosfO1Cj19h5Q_tnZJD5dLySbgZH8y1buZyEE.jpg?auto=webp&s=51127cdcde58099034fc7d03e02b8364fc30b288' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Louis Cardinals, mlb, stl, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/230/HD-wallpaper-st-louis-cardinals-mlb-stl.jpg' alt='St Louis Cardinals, mlb, stl, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/230/HD-wallpaper-st-louis-cardinals-mlb-stl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="st louis cardinals logo for background on phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1d/91/5b/1d915b8c4895f459b80550c531bb8089.jpg' alt='st louis cardinals logo for background on phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1d/91/5b/1d915b8c4895f459b80550c531bb8089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cardinals Iphone Baseball Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cardinals-iphone-baseball-1x03fllb5wawttc0.jpg' alt='Cardinals Iphone Baseball Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cardinals-iphone-baseball-1x03fllb5wawttc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Louis Cardinals iPhone 5 wallpaper by LicoriceJack on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50fcd3bf-9e3b-499f-a58f-093edf4c2a46/d6qxoif-76d071c8-c393-47ec-afa1-1b70852d9d02.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwZmNkM2JmLTllM2ItNDk5Zi1hNThmLTA5M2VkZjRjMmE0NlwvZDZxeG9pZi03NmQwNzFjOC1jMzkzLTQ3ZWMtYWZhMS0xYjcwODUyZDlkMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QaL0S31mVIhiu-OHfRVum1X7AO0eeKSaV5hiLI48kHs' alt='St. Louis Cardinals iPhone 5 wallpaper by LicoriceJack on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50fcd3bf-9e3b-499f-a58f-093edf4c2a46/d6qxoif-76d071c8-c393-47ec-afa1-1b70852d9d02.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwZmNkM2JmLTllM2ItNDk5Zi1hNThmLTA5M2VkZjRjMmE0NlwvZDZxeG9pZi03NmQwNzFjOC1jMzkzLTQ3ZWMtYWZhMS0xYjcwODUyZDlkMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QaL0S31mVIhiu-OHfRVum1X7AO0eeKSaV5hiLI48kHs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Louis Cardinals iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13538953.jpg' alt='St. Louis Cardinals iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13538953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/43/0a/db430aeebabcfead3e65fa5172b99d47.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/43/0a/db430aeebabcfead3e65fa5172b99d47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Louis Cardinals, baseball, mlb, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/286/632/HD-wallpaper-st-louis-cardinals-baseball-mlb.jpg' alt='St Louis Cardinals, baseball, mlb, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/286/632/HD-wallpaper-st-louis-cardinals-baseball-mlb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Louis Cardinals MLB Baseball Official Team Logo Poster - Trends  International">
+                                <img itemprop="contentUrl url" src='https://sportsposterwarehouse.com/cdn/shop/products/cardinalslogo15ti-1_grande.jpg?v=1496260058' alt='St. Louis Cardinals MLB Baseball Official Team Logo Poster - Trends  International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="329">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Poster Warehouse" />
+                                </span>
+                                <a href='https://sportsposterwarehouse.com/cdn/shop/products/cardinalslogo15ti-1_grande.jpg?v=1496260058' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

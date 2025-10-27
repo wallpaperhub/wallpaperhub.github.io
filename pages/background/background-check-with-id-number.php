@@ -1,0 +1,129 @@
+<title>Quick and Efficient Background Checks with ID Numbers</title>
+                    <meta name="description" content="Discover the benefits of conducting background checks using ID numbers. Ensure safe hiring practices, verify identities, and access important records quickly. Simplify your screening process today with our guide and ensure trust in every transaction.">
+                    <meta name="keywords" content="background check with id number">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-with-id-number">
+                            <span itemprop="name">background check with id number</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick and Efficient Background Checks with ID Numbers</h1>
+                <p>Conducting a background check using an ID number is crucial for verifying an individual's identity and history. This process helps employers screen potential hires and fortifies security measures in various transactions. Efficient and thorough, background checks utilize ID numbers to access criminal records, employment history, and more.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verifiable ID Badge - Sterling, a First Advantage company">
+                                <img itemprop="contentUrl url" src='https://www.sterlingbackcheck.ca/wp-content/uploads/2019/12/CA_Website_Verifiable_ID_Badges_701x423.jpg' alt='Verifiable ID Badge - Sterling, a First Advantage company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling Backcheck" />
+                                </span>
+                                <a href='https://www.sterlingbackcheck.ca/wp-content/uploads/2019/12/CA_Website_Verifiable_ID_Badges_701x423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATswj' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATswj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check ID 2018-2025 Form - Fill Out and Sign Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/471/743/471743307.png' alt='Background Check ID 2018-2025 Form - Fill Out and Sign Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/471/743/471743307.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="International Identity & Background Checks | First Advantage">
+                                <img itemprop="contentUrl url" src='https://fadv.com/wp-content/uploads/fa-international-id-checks-2-1024x683.jpg' alt='International Identity & Background Checks | First Advantage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://fadv.com/wp-content/uploads/fa-international-id-checks-2-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sterling Industry Background Check Services - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/identity/demo/ID-02.png' alt='Sterling Industry Background Check Services - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/identity/demo/ID-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks - Certn Lime USA">
+                                <img itemprop="contentUrl url" src='https://certnlime.com/wp-content/uploads/2021/06/ID-license.png' alt='Criminal Background Checks - Certn Lime USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn Lime" />
+                                </span>
+                                <a href='https://certnlime.com/wp-content/uploads/2021/06/ID-license.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Report – Client Resource Center">
+                                <img itemprop="contentUrl url" src='https://help.verifiedfirst.com/hc/article_attachments/360084527652' alt='How to Read a Report – Client Resource Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2028">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Client Resource Center - Verified First" />
+                                </span>
+                                <a href='https://help.verifiedfirst.com/hc/article_attachments/360084527652' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Nationwide Background Check - SSN Trace & Natl Criminal Records">
+                                <img itemprop="contentUrl url" src='https://b2286612.smushcdn.com/2286612/wp-content/uploads/SSN-Trace-View.png?lossy=2&strip=1&webp=1' alt='Basic Nationwide Background Check - SSN Trace & Natl Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BCS Background Screening, LLC" />
+                                </span>
+                                <a href='https://b2286612.smushcdn.com/2286612/wp-content/uploads/SSN-Trace-View.png?lossy=2&strip=1&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prevent Applicant Fraud with Background Checks | ID.me">
+                                <img itemprop="contentUrl url" src='https://network.id.me/wp-content/uploads/Solutions-Employment-Background-Checks.jpg' alt='Prevent Applicant Fraud with Background Checks | ID.me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ID.me" />
+                                </span>
+                                <a href='https://network.id.me/wp-content/uploads/Solutions-Employment-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

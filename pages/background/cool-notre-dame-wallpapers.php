@@ -1,0 +1,129 @@
+<title>Stunning Notre Dame Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an amazing collection of cool Notre Dame wallpapers to enhance your device's look. Featuring breathtaking views of the iconic architecture, these wallpapers are perfect for fans of this historic landmark. Download now to give your screens a touch of elegance and inspiration!">
+                    <meta name="keywords" content="cool notre dame wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-notre-dame-wallpapers">
+                            <span itemprop="name">cool notre dame wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Notre Dame Wallpapers for Your Device</h1>
+                <p>Looking for stunning and cool Notre Dame wallpapers? Elevate your device with breathtaking images of Notre Dame's iconic architecture and vibrant atmosphere. From dramatic night shots to serene daytime views, find the perfect wallpaper that reflects your admiration for this historic site. Set the mood for your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre dame wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/f7/07/67/f70767087997a37a40b278be1d57b768.jpg' alt='Notre dame wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/f7/07/67/f70767087997a37a40b278be1d57b768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre dame wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e6/93/93/e69393385ade1337c9c8125dce680ac0.jpg' alt='Notre dame wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e6/93/93/e69393385ade1337c9c8125dce680ac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre dame wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/02/e7/5c02e79464d51453c0affa6b25b01d80.jpg' alt='Notre dame wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/02/e7/5c02e79464d51453c0affa6b25b01d80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Notre Dame Fighting Irish wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Notre-Dame-Fighting-Irish-wallpaper-logo-mobile-NCAA-2024.png' alt='2025 Notre Dame Fighting Irish wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Notre-Dame-Fighting-Irish-wallpaper-logo-mobile-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Football - Need a new   wallpaper? We've got you ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2068368416526027' alt='Notre Dame Football - Need a new   wallpaper? We've got you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2068368416526027' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre dame wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/8b/42/688b4216192e445359be49b786c4e7d8.jpg' alt='Notre dame wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/8b/42/688b4216192e445359be49b786c4e7d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Notre Dame Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/notre-dame-football-1ng8hp98fa9sg5i5.jpg' alt='100+] Notre Dame Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/notre-dame-football-1ng8hp98fa9sg5i5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Poster, Notre Dame Fighting Irish Print, ND gift, Notre Dame Man  Cave Picture">
+                                <img itemprop="contentUrl url" src='https://mcqdesign.net/cdn/shop/products/ETSYNotre_Dame_Layered_20x30_47e10bdd-a92c-4850-9d1e-3ae3de23c436_530x@2x.jpg?v=1492638086' alt='Notre Dame Poster, Notre Dame Fighting Irish Print, ND gift, Notre Dame Man  Cave Picture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McQDesign" />
+                                </span>
+                                <a href='https://mcqdesign.net/cdn/shop/products/ETSYNotre_Dame_Layered_20x30_47e10bdd-a92c-4850-9d1e-3ae3de23c436_530x@2x.jpg?v=1492638086' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fight On For Notre Dame Football Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/notre-dame-football-8wrzpu4pej6atrlp.jpg' alt='Download Fight On For Notre Dame Football Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/notre-dame-football-8wrzpu4pej6atrlp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Football - Clock in and Play Like a Champion! Good luck ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2281554195207447' alt='Notre Dame Football - Clock in and Play Like a Champion! Good luck ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2281554195207447' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

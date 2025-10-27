@@ -1,0 +1,129 @@
+<title>Cute Stickman Wallpapers: Adorable Designs for Your Devices</title>
+                    <meta name="description" content="Explore a charming collection of cute stickman wallpapers that bring joy to your screens. Perfect for all ages, our whimsical designs will brighten your device and showcase your playful side. Download now and customize your mobile experience!">
+                    <meta name="keywords" content="cute stickman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-stickman-wallpaper">
+                            <span itemprop="name">cute stickman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Stickman Wallpapers: Adorable Designs for Your Devices</h1>
+                <p>Looking to add a touch of whimsy to your device? Discover our collection of cute stickman wallpapers! These playful designs feature adorable stick figures in various fun scenarios, perfect for brightening your day. Choose from a wide range of styles and colors that suit your personality, and transform your screen into a delightful work of art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/66/0f/28660fe3195dedf1991f1fff458851bd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/66/0f/28660fe3195dedf1991f1fff458851bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on wallpaper aleatórias">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/c2/64/b9c264b9292fcb13cdd5fc9f4687ad1e.jpg' alt='Pin on wallpaper aleatórias'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/c2/64/b9c264b9292fcb13cdd5fc9f4687ad1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleverly Crafted Stickman Image Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/office-blues-a-careworn-stickman-illustration-kz5v1v62ih1zgn7t.webp' alt='Cleverly Crafted Stickman Image Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/office-blues-a-careworn-stickman-illustration-kz5v1v62ih1zgn7t.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black stickman wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/588/458/HD-wallpaper-couple-aesthetic-black-dark-drawing-kawaii-logo-love-stickman-valentine-thumbnail.jpg' alt='HD black stickman wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/588/458/HD-wallpaper-couple-aesthetic-black-dark-drawing-kawaii-logo-love-stickman-valentine-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi From A Stickman Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hi-from-a-stickman-mphgfqq898leqyxo.jpg' alt='Hi From A Stickman Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hi-from-a-stickman-mphgfqq898leqyxo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic XKCD Stickman Wallpaper (2560x1920) by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eed268be-ca6c-4b23-b608-05281fafb401/dahp26a-490fc77f-b701-4075-96d7-c40d05543453.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlZDI2OGJlLWNhNmMtNGIyMy1iNjA4LTA1MjgxZmFmYjQwMVwvZGFocDI2YS00OTBmYzc3Zi1iNzAxLTQwNzUtOTZkNy1jNDBkMDU1NDM0NTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iw86X09Endl7h4u45-eNwACMqsDjbAZ1l5EWlt4gwqs' alt='Minimalistic XKCD Stickman Wallpaper (2560x1920) by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eed268be-ca6c-4b23-b608-05281fafb401/dahp26a-490fc77f-b701-4075-96d7-c40d05543453.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlZDI2OGJlLWNhNmMtNGIyMy1iNjA4LTA1MjgxZmFmYjQwMVwvZGFocDI2YS00OTBmYzc3Zi1iNzAxLTQwNzUtOTZkNy1jNDBkMDU1NDM0NTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iw86X09Endl7h4u45-eNwACMqsDjbAZ1l5EWlt4gwqs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Stickman ideas | stick figures, funny stickman, cute profile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ce/9c/61/ce9c61d659f5a35c3e7f4fcb40c04157.jpg' alt='240 Stickman ideas | stick figures, funny stickman, cute profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ce/9c/61/ce9c61d659f5a35c3e7f4fcb40c04157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sad Stickman In Rain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-sad-stickman-in-rain-uczqx2jr5mf4r4re.jpg' alt='Cute Sad Stickman In Rain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-sad-stickman-in-rain-uczqx2jr5mf4r4re.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stickman, balance, art, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/184/658/HD-wallpaper-stickman-balance-art.jpg' alt='Stickman, balance, art, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/184/658/HD-wallpaper-stickman-balance-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#CapCut #trippingsedit #trippings #sadnessandpain #painhub #stickman  #randomedit #videoforedit #hashtag #fypme #sadstory #darknessvibes  #livewallpaper4k #trippingscult #newedit #its4am #everyone ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7232138364646903046&location=0&aid=1988' alt='#CapCut #trippingsedit #trippings #sadnessandpain #painhub #stickman  #randomedit #videoforedit #hashtag #fypme #sadstory #darknessvibes  #livewallpaper4k #trippingscult #newedit #its4am #everyone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7232138364646903046&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

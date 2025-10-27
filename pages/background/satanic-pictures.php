@@ -1,0 +1,129 @@
+<title>Explore the Dark World of Satanic Imagery</title>
+                    <meta name="description" content="Discover the intriguing realm of satanic pictures, exploring their symbolism and cultural impact. Uncover the meanings behind these dark visuals and engage in thought-provoking discussions about belief systems and morality. Perfect for those curious about the intersection of art and the occult.">
+                    <meta name="keywords" content="satanic pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/satanic-pictures">
+                            <span itemprop="name">satanic pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Dark World of Satanic Imagery</h1>
+                <p>Satanic pictures often depict symbols and imagery associated with dark themes, such as pentagrams, occult symbols, and figures like Baphomet. These visuals can provoke strong reactions, reflecting fear, curiosity, and cultural taboos. Whether used in art, literature, or film, they provoke discussions about morality, belief systems, and societal norms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Satanic Temple - About us - TST">
+                                <img itemprop="contentUrl url" src='https://thesatanictemple.com/cdn/shop/files/statue_5ada61de-0bea-451e-b385-8481106e9d1c.jpg?v=1694177819' alt='The Satanic Temple - About us - TST'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Satanic Temple" />
+                                </span>
+                                <a href='https://thesatanictemple.com/cdn/shop/files/statue_5ada61de-0bea-451e-b385-8481106e9d1c.jpg?v=1694177819' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Satanic Panic resurfaced in Iowa and Arizona – and why it's ...">
+                                <img itemprop="contentUrl url" src='https://cdn2.opendemocracy.net/media/original_images/GettyImages-1177932617.jpg' alt='How Satanic Panic resurfaced in Iowa and Arizona – and why it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2832">
+                                <meta itemprop="height" content="4040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="openDemocracy" />
+                                </span>
+                                <a href='https://cdn2.opendemocracy.net/media/original_images/GettyImages-1177932617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satanic Temple fighting for representation in schools">
+                                <img itemprop="contentUrl url" src='https://media11.s-nbcnews.com/i/mpx/2704722219/2024_05/1715899815236_now_hallie_barrett_satanic_240516_1920x1080-9ppx9w.jpg' alt='Satanic Temple fighting for representation in schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media11.s-nbcnews.com/i/mpx/2704722219/2024_05/1715899815236_now_hallie_barrett_satanic_240516_1920x1080-9ppx9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goat-headed Satanic statue sparks protests in Detroit - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6C70/production/_84506772_hi028048367.jpg' alt='Goat-headed Satanic statue sparks protests in Detroit - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6C70/production/_84506772_hi028048367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Satanic Temple - About us - TST">
+                                <img itemprop="contentUrl url" src='https://thesatanictemple.com/cdn/shop/files/join-us-banner_1200x_070d9ec1-db32-4c1d-8171-4e5b00e86150_1200x553.jpg?v=1694104786' alt='The Satanic Temple - About us - TST'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Satanic Temple" />
+                                </span>
+                                <a href='https://thesatanictemple.com/cdn/shop/files/join-us-banner_1200x_070d9ec1-db32-4c1d-8171-4e5b00e86150_1200x553.jpg?v=1694104786' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Satan Dark Satanic Baphomet King Metal Tin Sign ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/718lTpmc3PL.jpg' alt='Amazon.com : Satan Dark Satanic Baphomet King Metal Tin Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/718lTpmc3PL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satanic Temple goes after abortion bans - Axios Boston">
+                                <img itemprop="contentUrl url" src='https://images.axios.com/YEMXOMWLvLWobo2-499wxulFwzQ=/722x0:3677x2955/1920x1920/2022/09/30/1664564214679.jpg' alt='Satanic Temple goes after abortion bans - Axios Boston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Axios" />
+                                </span>
+                                <a href='https://images.axios.com/YEMXOMWLvLWobo2-499wxulFwzQ=/722x0:3677x2955/1920x1920/2022/09/30/1664564214679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satanism ‑ Founders, Philosophies & Branches | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2019/09/satanism-gettyimages-1027190912.jpg' alt='Satanism ‑ Founders, Philosophies & Branches | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6669">
+                                <meta itemprop="height" content="4446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2019/09/satanism-gettyimages-1027190912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satanic Temple Salem | Haunted Happenings">
+                                <img itemprop="contentUrl url" src='https://www.hauntedhappenings.org/wp-content/uploads/2022/05/satanic-temple-new-image-800x450.jpg' alt='Satanic Temple Salem | Haunted Happenings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Salem Haunted Happenings" />
+                                </span>
+                                <a href='https://www.hauntedhappenings.org/wp-content/uploads/2022/05/satanic-temple-new-image-800x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satanic Temple challenges Missouri's abortion law on religious grounds">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2018_22/2301281/180122-lucien-greaves-satanic-temple-statue-se-1237p.jpg' alt='Satanic Temple challenges Missouri's abortion law on religious grounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2018_22/2301281/180122-lucien-greaves-satanic-temple-statue-se-1237p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

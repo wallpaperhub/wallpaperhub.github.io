@@ -1,0 +1,129 @@
+<title>Beautiful Purple Flowers iPhone Wallpaper Collection</title>
+                    <meta name="description" content="Discover a curated selection of beautiful purple flowers iPhone wallpapers. Perfect for adding a touch of nature's elegance to your device, our vibrant designs enhance your screen and inspire every day. Explore now to find the perfect wallpaper for your style!">
+                    <meta name="keywords" content="purple flowers iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/purple-flowers-iphone-wallpaper">
+                            <span itemprop="name">purple flowers iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Purple Flowers iPhone Wallpaper Collection</h1>
+                <p>Transform your iPhone with stunning purple flowers wallpapers, perfect for nature lovers! These vibrant designs showcase rich hues and intricate petals, bringing elegance and a pop of color to your device. Browse our collection and find the ideal purple flower wallpaper that elevates your screen's aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Clover Purple Flowers Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/four-clover-purple-flowers-iphone-touavzxj9ivt4khs.jpg' alt='Four Clover Purple Flowers Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/four-clover-purple-flowers-iphone-touavzxj9ivt4khs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Purple flower iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/50/c6/6b/50c66b89bc30591ef565d76b30203ee3.jpg' alt='Download premium image of Purple flower iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/50/c6/6b/50c66b89bc30591ef565d76b30203ee3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper iphone purple purple flowers wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' alt='Purple wallpaper iphone purple purple flowers wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Phone | Pinterest | Floral wallpaper iphone, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/8b/e0/558be0adf7da16dcfe3d5dfc817aa21c.jpg' alt='Wallpaper for Phone | Pinterest | Floral wallpaper iphone, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/8b/e0/558be0adf7da16dcfe3d5dfc817aa21c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Purple Flower Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-purple-flower-qbgwd86qncvpf64u.jpg' alt='100+] Aesthetic Purple Flower Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-purple-flower-qbgwd86qncvpf64u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Flower Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-flower-iphone-nt451ohm2giu46ef.jpg' alt='Purple Flower Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-flower-iphone-nt451ohm2giu46ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Flower Bud Background Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/purple-flower-bud.png' alt='Purple Flower Bud Background Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/purple-flower-bud.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple flower iPhone 4s Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/1f/c0/1d1fc06809c8e3855fdbbe1eb01b020e.jpg' alt='Purple flower iPhone 4s Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/1f/c0/1d1fc06809c8e3855fdbbe1eb01b020e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple-flower-iphone-wallpaper | guitar & lace">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/guitarandlace.com/wp-content/uploads/2021/02/purple-flower-iphone-wallpaper.jpg?ssl=1' alt='purple-flower-iphone-wallpaper | guitar & lace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guitar & Lace" />
+                                </span>
+                                <a href='https://i0.wp.com/guitarandlace.com/wp-content/uploads/2021/02/purple-flower-iphone-wallpaper.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bellflowers Blooming Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-bellflowers-blooming-iphone-138vmzi4shzn40oo.jpg' alt='Purple Bellflowers Blooming Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-bellflowers-blooming-iphone-138vmzi4shzn40oo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

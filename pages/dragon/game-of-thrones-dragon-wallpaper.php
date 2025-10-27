@@ -1,0 +1,129 @@
+<title>Stunning Game of Thrones Dragon Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover breathtaking Game of Thrones dragon wallpapers! Perfect for fans, these captivating images bring the dragons of Westeros to life on your devices. Enhance your screen's look with vibrant designs that reflect the epic fantasy series. Download your favorite dragon wallpaper now!">
+                    <meta name="keywords" content="game of thrones dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/game-of-thrones-dragon-wallpaper">
+                            <span itemprop="name">game of thrones dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Game of Thrones Dragon Wallpapers for Your Screen</h1>
+                <p>Transform your screen with stunning Game of Thrones dragon wallpapers! Immerse yourself in the epic world of Westeros, featuring detailed art of majestic dragons like Drogon and Rhaegal. Perfect for fans seeking to elevate their device's aesthetic, these wallpapers capture the thrill of the series with vibrant colors and breathtaking designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: TV Show, Game Of Thrones, Daenerys Targaryen, Dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/ac/81/b2ac81b7b4d32c2436569b3640bcd1c0.jpg' alt='HD wallpaper: TV Show, Game Of Thrones, Daenerys Targaryen, Dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/ac/81/b2ac81b7b4d32c2436569b3640bcd1c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD throne dragon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/324/401/HD-wallpaper-game-of-throne-dragon-dragons-games-white-walkers-thumbnail.jpg' alt='HD throne dragon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/324/401/HD-wallpaper-game-of-throne-dragon-dragons-games-white-walkers-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sword Warrior Jon Snow Dragon Night King (Game Of Thrones ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/103/thumb-1920-1032198.jpg' alt='Download Sword Warrior Jon Snow Dragon Night King (Game Of Thrones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/103/thumb-1920-1032198.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPOILERS] I found my new phone wallpaper    : r/gameofthrones">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qmu3i23hskk01.jpg?auto=webp&s=3a503aced3ae56bb7c8a8f1fbc0ced70625e6ede' alt='SPOILERS] I found my new phone wallpaper    : r/gameofthrones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qmu3i23hskk01.jpg?auto=webp&s=3a503aced3ae56bb7c8a8f1fbc0ced70625e6ede' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper of the Week #184 - Best "Game of Thrones" Wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/07/f0/a5/07f0a5e0edc9818a506471b1efdce50e.jpg' alt='Wallpaper of the Week #184 - Best "Game of Thrones" Wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/07/f0/a5/07f0a5e0edc9818a506471b1efdce50e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drogon Cool Game of Thrones, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/32/497/HD-wallpaper-drogon-cool-game-of-thrones.jpg' alt='Drogon Cool Game of Thrones, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/32/497/HD-wallpaper-drogon-cool-game-of-thrones.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dragon, Dragon, Game of Thrones, Game of thrones, Night ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/98/igra-prestolov-game-of-thrones-drakon-dragon-night-king-koro.webp' alt='Wallpaper Dragon, Dragon, Game of Thrones, Game of thrones, Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/98/igra-prestolov-game-of-thrones-drakon-dragon-night-king-koro.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon And Jon Snow Game Of Thrones Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dragon-and-jon-snow-game-of-thrones-4d4g410erm27b5h9.jpg' alt='Dragon And Jon Snow Game Of Thrones Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dragon-and-jon-snow-game-of-thrones-4d4g410erm27b5h9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Game of Thrones Dragons Soar">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/713/thumb-1920-713903.jpg' alt='HD Wallpaper: Game of Thrones Dragons Soar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/713/thumb-1920-713903.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game of Thrones iPhone Wallpapers on WallpaperDog in 2022 | Dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/c6/a1/37c6a10791a854f40781cc111331a16e.jpg' alt='Game of Thrones iPhone Wallpapers on WallpaperDog in 2022 | Dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/c6/a1/37c6a10791a854f40781cc111331a16e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

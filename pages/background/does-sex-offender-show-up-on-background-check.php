@@ -1,0 +1,129 @@
+<title>Do Sex Offenders Appear on Background Checks?</title>
+                    <meta name="description" content="Discover whether sex offenders show up on background checks. Understand how different types of checks work and what information may be revealed. Stay informed to make safer choices. Get the facts now!">
+                    <meta name="keywords" content="does sex offender show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-sex-offender-show-up-on-background-check">
+                            <span itemprop="name">does sex offender show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Sex Offenders Appear on Background Checks?</h1>
+                <p>Sex offenders are typically listed on public registries, making it possible for them to show up on background checks. However, the extent of this information can vary based on the type of background check conducted. Some checks may reveal criminal history, while others might not include such specific data. Always use a reliable service for accurate results.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA OffenderSearch™ – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/multistatesexoffender.jpg' alt='USA OffenderSearch™ – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="2219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/multistatesexoffender.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up On A Sex Offender Background Check? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/25a11384ccdc56fcd7ba963287df2001/Article-Sex-Offender-Background-Check.png' alt='What Shows Up On A Sex Offender Background Check? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/25a11384ccdc56fcd7ba963287df2001/Article-Sex-Offender-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Offender OneSEARCH for sex offenders and violent offenders">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Offender%20OneSEARCH%20Sample.jpg' alt='US Offender OneSEARCH for sex offenders and violent offenders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2412">
+                                <meta itemprop="height" content="5055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Offender%20OneSEARCH%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sex Offender Background Checks: A Complete Guide [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/02/sex-offender-background-check-1.jpg' alt='Sex Offender Background Checks: A Complete Guide [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/02/sex-offender-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sex Offenders' Registries And Background Checks: An Introduction ...">
+                                <img itemprop="contentUrl url" src='https://www.biometrica.com/wp-content/uploads/2021/05/dreamstime_l_214516402-scaled.jpg' alt='Sex Offenders' Registries And Background Checks: An Introduction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biometrica Systems" />
+                                </span>
+                                <a href='https://www.biometrica.com/wp-content/uploads/2021/05/dreamstime_l_214516402-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can A Sex Offender Pass A Background Check? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tABKFlp28HE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXoUro6q6dIt-N7TpqSdic6lZ3fA' alt='Can A Sex Offender Pass A Background Check? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tABKFlp28HE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXoUro6q6dIt-N7TpqSdic6lZ3fA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does A Person's Status as a Sex Offender Show Up on a Background ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5fe37c68c7ae10159974521c/66ce101b737048d7986481f0_20240827T0537-3cfcf95c-c801-4e54-afbd-e5b9e6500db3.webp' alt='Does A Person's Status as a Sex Offender Show Up on a Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="O'Flaherty Law" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5fe37c68c7ae10159974521c/66ce101b737048d7986481f0_20240827T0537-3cfcf95c-c801-4e54-afbd-e5b9e6500db3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Understanding the Sources of Sex Offender Background ...">
+                                <img itemprop="contentUrl url" src='https://blog.verifiedcredentials.com/hs-fs/hubfs/Imported_Blog_Media/_FINAL%20-%20Sex%20Offender%20Infographic%20-2023-Oct-07-2024-05-24-05-4232-PM.png?width=960&height=3360&name=_FINAL%20-%20Sex%20Offender%20Infographic%20-2023-Oct-07-2024-05-24-05-4232-PM.png' alt='Guide to Understanding the Sources of Sex Offender Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verified Credentials Background Screening Blog" />
+                                </span>
+                                <a href='https://blog.verifiedcredentials.com/hs-fs/hubfs/Imported_Blog_Media/_FINAL%20-%20Sex%20Offender%20Infographic%20-2023-Oct-07-2024-05-24-05-4232-PM.png?width=960&height=3360&name=_FINAL%20-%20Sex%20Offender%20Infographic%20-2023-Oct-07-2024-05-24-05-4232-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

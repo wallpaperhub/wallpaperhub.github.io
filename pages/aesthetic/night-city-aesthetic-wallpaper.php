@@ -1,0 +1,129 @@
+<title>Stunning Night City Aesthetic Wallpapers</title>
+                    <meta name="description" content="Discover an exquisite collection of night city aesthetic wallpapers. Transform your device with vibrant, neon-lit urban landscapes that capture the magic of nightlife. Perfect for anyone seeking inspiration and style in their digital space. Download now for a stunning visual experience!">
+                    <meta name="keywords" content="night city aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/night-city-aesthetic-wallpaper">
+                            <span itemprop="name">night city aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Night City Aesthetic Wallpapers</h1>
+                <p>Transform your screens with stunning night city aesthetic wallpapers. Embrace the allure of vibrant cityscapes illuminated by neon lights, reflecting on wet pavements. Each wallpaper captures the essence of urban nightlife, creating a mesmerizing backdrop that inspires creativity. Perfect for any device, these images will elevate your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpaper 4K, Night view, Cityscape">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/new-york-city-night-cityscape-city-lights-timelapse-night-2560x1440-1842.jpg' alt='New York City Wallpaper 4K, Night view, Cityscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/new-york-city-night-cityscape-city-lights-timelapse-night-2560x1440-1842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night City Wallpaper 4K, City lights, Reflections">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/night-city-city-1284x2778-9753.jpg' alt='Night City Wallpaper 4K, City lights, Reflections'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/night-city-city-1284x2778-9753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night City Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/b5/f9/7ab5f9e5639ddbb6db225a15859a35ce.jpg' alt='Night City Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/b5/f9/7ab5f9e5639ddbb6db225a15859a35ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Brooklyn Night City Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/night-city-aesthetic-uktfimrnw47fw88i.jpg' alt='Download Brooklyn Night City Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/night-city-aesthetic-uktfimrnw47fw88i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Anime Aesthetic City Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/night-anime-aesthetic-city-nrel1vvg6lhn8fzb.webp' alt='Night Anime Aesthetic City Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/night-anime-aesthetic-city-nrel1vvg6lhn8fzb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night City Photos, Download The BEST Free Night City Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg?cs=srgb&dl=pexels-apasaric-2603464.jpg&fm=jpg' alt='Night City Photos, Download The BEST Free Night City Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3947">
+                                <meta itemprop="height" content="5921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg?cs=srgb&dl=pexels-apasaric-2603464.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Aesthetic Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/39/2c/92392c1a567b7bd1d49defccefbc19d0.jpg' alt='City Aesthetic Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/39/2c/92392c1a567b7bd1d49defccefbc19d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night City Wallpaper For Phone | Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/night-city.png' alt='Night City Wallpaper For Phone | Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/night-city.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Night City Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/night-city-aesthetic-7a7aepj75il75gvd.jpg' alt='100+] Night City Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/night-city-aesthetic-7a7aepj75il75gvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper World, New York, Reflection, Night City, City lights ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/5906x3987/6/53/new-york-night-city-dark-aesthetic-reflection-city-lights-wo.jpg' alt='Wallpaper World, New York, Reflection, Night City, City lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5906">
+                                <meta itemprop="height" content="3987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/5906x3987/6/53/new-york-night-city-dark-aesthetic-reflection-city-lights-wo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

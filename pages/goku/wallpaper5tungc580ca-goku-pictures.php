@@ -1,0 +1,129 @@
+<title>Epic Goku Wallpapers: Stunning Images for Your Device</title>
+                    <meta name="description" content="Explore amazing Goku wallpapers perfect for any Dragon Ball fan. These high-resolution images will enhance your device's look, featuring Goku in action-packed scenes. Download your favorite picture today and show off your love for this iconic anime character!">
+                    <meta name="keywords" content="wallpaper:5tungc580ca= goku pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/wallpaper5tungc580ca-goku-pictures">
+                            <span itemprop="name">wallpaper:5tungc580ca= goku pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Wallpapers: Stunning Images for Your Device</h1>
+                <p>Discover a collection of stunning Goku pictures that bring your favorite anime hero to life. Perfect for wallpaper lovers, these high-quality images showcase Goku in various forms and epic scenes. Transform your device's background with these vibrant and energetic visuals that capture the essence of Dragon Ball.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku SSJ5, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/591/472/HD-wallpaper-goku-ssj5-8k.jpg' alt='Goku SSJ5, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/591/472/HD-wallpaper-goku-ssj5-8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Goku Wallpapers in High Resolution | myphonewalls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/5e/9b/5e5e9b4a3ac2a3c49aab1754eeebd771.jpg' alt='18 Goku Wallpapers in High Resolution | myphonewalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/5e/9b/5e5e9b4a3ac2a3c49aab1754eeebd771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 5120x2880 ultra instinct, dragon ball, son goku ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/5120x2880/701415/ultra-instinct-son-goku.jpg' alt='Download wallpaper 5120x2880 ultra instinct, dragon ball, son goku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/5120x2880/701415/ultra-instinct-son-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan SSJ5, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/547/385/HD-wallpaper-goku-super-saiyan-ssj5.jpg' alt='Goku Super Saiyan SSJ5, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/547/385/HD-wallpaper-goku-super-saiyan-ssj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="830 SON GOKU ideas in 2025 | goku, dragon ball wallpapers, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/40/d2/e240d2f41e1a754bb6c668cb0ef3819d.jpg' alt='830 SON GOKU ideas in 2025 | goku, dragon ball wallpapers, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/40/d2/e240d2f41e1a754bb6c668cb0ef3819d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Goku, Anime Boy, Dragon Ball, 5k, Hd Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/02/52/0d025213f93bd5b720f13785a25c110b.jpg' alt='Desktop Wallpaper Goku, Anime Boy, Dragon Ball, 5k, Hd Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/02/52/0d025213f93bd5b720f13785a25c110b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ssj5 Wallpapers (70+ pictures) - WallpaperSet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/44/b2/8b44b2b732933fa42ea3b10a396a8e86.jpg' alt='Goku Ssj5 Wallpapers (70+ pictures) - WallpaperSet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/44/b2/8b44b2b732933fa42ea3b10a396a8e86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku super saiyan 5 by crysisking2021 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b3d28fb-af4b-4717-b132-533535289172/dgblfcc-90d01336-0dce-4344-8ec7-91c81df9a4e2.png/v1/fill/w_400,h_872/goku_super_saiyan_5_by_crysisking2021_dgblfcc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiM2QyOGZiLWFmNGItNDcxNy1iMTMyLTUzMzUzNTI4OTE3MlwvZGdibGZjYy05MGQwMTMzNi0wZGNlLTQzNDQtOGVjNy05MWM4MWRmOWE0ZTIucG5nIiwiaGVpZ2h0IjoiPD04NzIiLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzhiM2QyOGZiLWFmNGItNDcxNy1iMTMyLTUzMzUzNTI4OTE3MlwvY3J5c2lza2luZzIwMjEtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.D3ZMOZI2YZtG0QkF2zkxm8J_wf5TD2jqZb1Y7OGP-yM' alt='Goku super saiyan 5 by crysisking2021 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b3d28fb-af4b-4717-b132-533535289172/dgblfcc-90d01336-0dce-4344-8ec7-91c81df9a4e2.png/v1/fill/w_400,h_872/goku_super_saiyan_5_by_crysisking2021_dgblfcc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiM2QyOGZiLWFmNGItNDcxNy1iMTMyLTUzMzUzNTI4OTE3MlwvZGdibGZjYy05MGQwMTMzNi0wZGNlLTQzNDQtOGVjNy05MWM4MWRmOWE0ZTIucG5nIiwiaGVpZ2h0IjoiPD04NzIiLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzhiM2QyOGZiLWFmNGItNDcxNy1iMTMyLTUzMzUzNTI4OTE3MlwvY3J5c2lza2luZzIwMjEtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.D3ZMOZI2YZtG0QkF2zkxm8J_wf5TD2jqZb1Y7OGP-yM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 5760 X 3240 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/goku-5760-x-3240-gmjgje7ugh1xiylb.jpg' alt='Goku 5760 X 3240 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/goku-5760-x-3240-gmjgje7ugh1xiylb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Dragon Ball Super, Super Saiyan, Goku, 5k, Hd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/87/48/09874820dbe738a3d987f3f14a4c03eb.jpg' alt='Desktop Wallpaper Dragon Ball Super, Super Saiyan, Goku, 5k, Hd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/87/48/09874820dbe738a3d987f3f14a4c03eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

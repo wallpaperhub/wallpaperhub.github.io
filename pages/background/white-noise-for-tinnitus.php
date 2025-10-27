@@ -1,0 +1,129 @@
+<title>Relief for Tinnitus: How White Noise Can Help</title>
+                    <meta name="description" content="Discover how white noise can alleviate tinnitus symptoms. This soothing sound helps mask ringing in the ears, promoting relaxation and better sleep. Explore effective ways to incorporate white noise into your daily routine for relief from persistent tinnitus.">
+                    <meta name="keywords" content="white noise for tinnitus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-noise-for-tinnitus">
+                            <span itemprop="name">white noise for tinnitus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Relief for Tinnitus: How White Noise Can Help</h1>
+                <p>White noise can be a soothing solution for those affected by tinnitus, a condition characterized by persistent ringing or buzzing in the ears. Utilizing white noise machines or apps can mask these intrusive sounds, providing relief and improving sleep quality. Many find that consistent exposure helps condition their auditory system, offering a semblance of calm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BEST Tinnitus Sound Therapy | White Noise for 10 Hours of Tinnitus Masking">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dhODQLaZH50/maxresdefault.jpg' alt='BEST Tinnitus Sound Therapy | White Noise for 10 Hours of Tinnitus Masking'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dhODQLaZH50/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White noise for tinnitus relief 9 000 hz - Ruido branco 9 000 hz para  zumbido">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ePn_3WBUu7w/maxresdefault.jpg' alt='White noise for tinnitus relief 9 000 hz - Ruido branco 9 000 hz para  zumbido'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ePn_3WBUu7w/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop Ringing Ears | White Noise Machines for Tinnitus Relief">
+                                <img itemprop="contentUrl url" src='https://www.diglo.com/api/Product/GetImage?imageName=card_MAR-DOHM-DS-WH_1_20201121130427961.jpg' alt='Stop Ringing Ears | White Noise Machines for Tinnitus Relief'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="255">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harris Communications" />
+                                </span>
+                                <a href='https://www.diglo.com/api/Product/GetImage?imageName=card_MAR-DOHM-DS-WH_1_20201121130427961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Sound Oasis World’s Smallest Tinnitus Sound Machine, Portable,  Helps Relax, Sleep, Mask Tinnitus, Block Noise, and Focus. 24 Dr. Developed  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Js3mEhUuL.jpg' alt='Amazon.com: Sound Oasis World’s Smallest Tinnitus Sound Machine, Portable,  Helps Relax, Sleep, Mask Tinnitus, Block Noise, and Focus. 24 Dr. Developed  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1598">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Js3mEhUuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Noise Devices for Tinnitus">
+                                <img itemprop="contentUrl url" src='https://audienhearing.com/cdn/shop/articles/White_Noise_Tinnitus_Releif_1280x.jpg?v=1607105673' alt='White Noise Devices for Tinnitus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audien Hearing" />
+                                </span>
+                                <a href='https://audienhearing.com/cdn/shop/articles/White_Noise_Tinnitus_Releif_1280x.jpg?v=1607105673' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown noise and others -- What are noise colors?">
+                                <img itemprop="contentUrl url" src='https://www.healthyhearing.com/uploads/images/color-noises-white-hh19.jpg' alt='Brown noise and others -- What are noise colors?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthy Hearing" />
+                                </span>
+                                <a href='https://www.healthyhearing.com/uploads/images/color-noises-white-hh19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop Tinnitus - White Noise Treatment for Tinnitus & Whistling in ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d00001e02585207f75359b484e3fef04d' alt='Stop Tinnitus - White Noise Treatment for Tinnitus & Whistling in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d00001e02585207f75359b484e3fef04d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Tinnitus Sound Therapy With White Noise "Tinnitus Relief ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-Z94db3KFZe3O0oPX-U3NJEQ-t500x500.jpg' alt='Listen to Tinnitus Sound Therapy With White Noise "Tinnitus Relief ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-Z94db3KFZe3O0oPX-U3NJEQ-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does White Noise Help with Tinnitus? Exploring Sound Therapy ...">
+                                <img itemprop="contentUrl url" src='https://getsnooz.com/cdn/shop/articles/tinnutis_blog_aa8524c0-2e3b-42e5-8176-8d770e886158.png?v=1705971128&width=1100' alt='Does White Noise Help with Tinnitus? Exploring Sound Therapy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SNOOZ" />
+                                </span>
+                                <a href='https://getsnooz.com/cdn/shop/articles/tinnutis_blog_aa8524c0-2e3b-42e5-8176-8d770e886158.png?v=1705971128&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sound Oasis World's Smallest Tinnitus Sound Machine, Portable, Helps Relax,  Sleep, Mask Tinnitus, Block Noise, and Focus. 24 Dr. Developed Tinnitus ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Yd1LAarIL._AC_UF1000,1000_QL80_.jpg' alt='Sound Oasis World's Smallest Tinnitus Sound Machine, Portable, Helps Relax,  Sleep, Mask Tinnitus, Block Noise, and Focus. 24 Dr. Developed Tinnitus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Yd1LAarIL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

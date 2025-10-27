@@ -1,0 +1,129 @@
+<title>Blue Western Wallpaper: Rustic Charm for Your Home</title>
+                    <meta name="description" content="Discover the perfect blue western wallpaper to elevate your home decor. Embrace rustic elegance with captivating designs that bring the spirit of the west to any space. Ideal for all interiors, this wallpaper is a versatile choice for creating inviting atmospheres.">
+                    <meta name="keywords" content="blue western wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-western-wallpaper">
+                            <span itemprop="name">blue western wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Western Wallpaper: Rustic Charm for Your Home</h1>
+                <p>Transform your space with stunning blue western wallpaper, perfect for adding a rustic yet modern flair to any room. Ideal for feature walls, this wallpaper features intricate patterns inspired by the wild west, enhancing your decor with a touch of adventure. Enjoy the harmonious blend of color and design for a cozy ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Cowboy Toile' Wallpaper - Blue">
+                                <img itemprop="contentUrl url" src='http://nathanturner.com/cdn/shop/files/CowboyToile_Wallpaper_Blue_Detail_dec3cf3b-9e01-4fb7-a3fa-07297284882c.jpg?v=1718676994' alt=''Cowboy Toile' Wallpaper - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nathan Turner" />
+                                </span>
+                                <a href='http://nathanturner.com/cdn/shop/files/CowboyToile_Wallpaper_Blue_Detail_dec3cf3b-9e01-4fb7-a3fa-07297284882c.jpg?v=1718676994' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/14/07/b614070e5745d25d16b263279b29830a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/14/07/b614070e5745d25d16b263279b29830a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Blue Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11543305/p/f/m/PkfrfueZARX18HJtcvRHi-OoF9VA6Xbh3HReH-FsY60CeFv4LXbE/Doodly%20Cowboy%20Stuff-Blue.jpg' alt='Cowboy Blue Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11543305/p/f/m/PkfrfueZARX18HJtcvRHi-OoF9VA6Xbh3HReH-FsY60CeFv4LXbE/Doodly%20Cowboy%20Stuff-Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Western Pattern, Seamless Western Pattern, Baby Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39842371/r/il/a36f00/4979613215/il_570xN.4979613215_an6a.jpg' alt='Baby Blue Western Pattern, Seamless Western Pattern, Baby Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39842371/r/il/a36f00/4979613215/il_570xN.4979613215_an6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Cowboy Toile' Wallpaper by Nathan Turner - Green Blue">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/files/CowboyToile_Wallpaper_GreenBlue_Detail_1080x.jpg?v=1737144959' alt=''Cowboy Toile' Wallpaper by Nathan Turner - Green Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/files/CowboyToile_Wallpaper_GreenBlue_Detail_1080x.jpg?v=1737144959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/98/a1/4e/98a14efaaff770661010bcaef5ae8297.jpg' alt='Cowboy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/98/a1/4e/98a14efaaff770661010bcaef5ae8297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Western Cowboy Cowgirl Toile Cactus  Chinoiserie Southwestern Cacti Rustic Custom Removable Wallpaper by  Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cDkPW7gHL.jpg' alt='Peel & Stick Wallpaper Swatch - Western Cowboy Cowgirl Toile Cactus  Chinoiserie Southwestern Cacti Rustic Custom Removable Wallpaper by  Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cDkPW7gHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowboy Vintage Wallpaper Removable Peel and Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/559bb0/5282590016/il_fullxfull.5282590016_ce0f.jpg' alt='Western Cowboy Vintage Wallpaper Removable Peel and Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/559bb0/5282590016/il_fullxfull.5282590016_ce0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboys and Cacti - large - dusky blue Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14937722/p/f/m/2HzAr9kYWoG12SyGCLYhahSQjOVJvftXwn17J4ZVl5hTiY7HuSAs/Cowboys_and_Cacti_-_large_-_dusky_blue_and_cream_.jpg' alt='Cowboys and Cacti - large - dusky blue Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14937722/p/f/m/2HzAr9kYWoG12SyGCLYhahSQjOVJvftXwn17J4ZVl5hTiY7HuSAs/Cowboys_and_Cacti_-_large_-_dusky_blue_and_cream_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild West Toile - Navy and white">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0024825_wild-west-toile-navy-and-white.jpeg' alt='Wild West Toile - Navy and white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0024825_wild-west-toile-navy-and-white.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Pink Oregon Ducks Wallpapers: Show Your Spirit!</title>
+                    <meta name="description" content="Discover eye-catching pink Oregon Ducks wallpaper to elevate your device's style! Perfect for showing team spirit, these wallpapers are vibrant, fun, and ideal for fans. Download for a fresh look that reflects your passion for the Ducks!">
+                    <meta name="keywords" content="pink oregon ducks wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-oregon-ducks-wallpaper">
+                            <span itemprop="name">pink oregon ducks wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Oregon Ducks Wallpapers: Show Your Spirit!</h1>
+                <p>Transform your device with vibrant pink Oregon Ducks wallpaper! Show off your school spirit and love for the Ducks in style. Perfect for fans and students alike, these wallpapers bring a playful pop of color and energy to your screens. Download now to personalize your devices with a touch of Oregon pride!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/13/d0/8613d0ceade6919ef35fe19723d76da9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/13/d0/8613d0ceade6919ef35fe19723d76da9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OREGON: BCA Uni's">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/42/8a/e4428a1b23c78be68633f52c1784d680.jpg' alt='OREGON: BCA Uni's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/42/8a/e4428a1b23c78be68633f52c1784d680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Ducks Football Pink Out Jerseys 2023">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7299232436288769311&location=0&aid=1988' alt='Oregon Ducks Football Pink Out Jerseys 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7299232436288769311&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Chris McKeown on Sports GFX | Cool football pictures ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/ac/00/feac00158f28539563e661f006384b66.jpg' alt='Pin by Chris McKeown on Sports GFX | Cool football pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/ac/00/feac00158f28539563e661f006384b66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Ducks Football Pink Jerseys">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7317252981177503007&location=0&aid=1988' alt='Oregon Ducks Football Pink Jerseys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7317252981177503007&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Oregon ideas | oregon football, oregon ducks football, ducks ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e5/4b/98/e54b981048881df0685f3242bf230874.jpg' alt='7 Oregon ideas | oregon football, oregon ducks football, ducks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e5/4b/98/e54b981048881df0685f3242bf230874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this psychedelic O as my wallpaper and now i've seen it a few ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/18/c8/1b18c8828d82b00fd5048791f91aee50.jpg' alt='Made this psychedelic O as my wallpaper and now i've seen it a few ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="308">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/18/c8/1b18c8828d82b00fd5048791f91aee50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turning Oregon Ducks Uniforms Pink for Stomp Out Cancer">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7447597239087713566&location=0&aid=1988' alt='Turning Oregon Ducks Uniforms Pink for Stomp Out Cancer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7447597239087713566&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="oregon ducks wallpaper pink mariota">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/c7/fa/19c7fac34c16f42b06296c24c1454bf8.jpg' alt='oregon ducks wallpaper pink mariota'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/c7/fa/19c7fac34c16f42b06296c24c1454bf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Unveils Neon Pink 'Stomp Out Cancer' Jerseys For UCLA Game">
+                                <img itemprop="contentUrl url" src='https://imagez.tmz.com/image/74/o/2022/10/10/7498fe8cb2de40c5b7f0845bd7f70293_md.jpg' alt='Oregon Unveils Neon Pink 'Stomp Out Cancer' Jerseys For UCLA Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMZ" />
+                                </span>
+                                <a href='https://imagez.tmz.com/image/74/o/2022/10/10/7498fe8cb2de40c5b7f0845bd7f70293_md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

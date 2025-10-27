@@ -1,0 +1,129 @@
+<title>Aesthetic Mushroom Wallpaper - Transform Your Space</title>
+                    <meta name="description" content="Discover our aesthetic mushroom wallpaper, perfect for adding a whimsical and vibrant touch to any room. Ideal for accent walls or children's spaces, it brings the beauty of nature indoors, creating a captivating atmosphere in your home. Easy to apply and remove, this wallpaper is a stylish choice for any decor!">
+                    <meta name="keywords" content="aesthetic:s4s_d_a3ll4= mushroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetics4s_d_a3ll4-mushroom-wallpaper">
+                            <span itemprop="name">aesthetic:s4s_d_a3ll4= mushroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Mushroom Wallpaper - Transform Your Space</h1>
+                <p>Transform your space with our enchanting mushroom wallpaper. Embrace nature's charm and whimsy while adding a unique touch to your home decor. Perfect for accent walls, nurseries, or creative spaces, this wallpaper features vibrant colors and intricate designs inspired by the magical world of mushrooms, ensuring a captivating ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Mushroom Peel and Stick Wallpaper Boho, Forest Removable Contact  Paper for Bedroom, Vinyl Self Adhesive Wall Paper Dark/Green/Brown 17.7in x  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71EJ8zFr9DL.jpg' alt='Abyssaly Mushroom Peel and Stick Wallpaper Boho, Forest Removable Contact  Paper for Bedroom, Vinyl Self Adhesive Wall Paper Dark/Green/Brown 17.7in x  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71EJ8zFr9DL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic mushroom wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/3f/a3/f43fa34ab29e8e03260de9148c811717.jpg' alt='aesthetic mushroom wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/3f/a3/f43fa34ab29e8e03260de9148c811717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Mushroom Wallpaper Peel and Stick Boho, 17.7in x 118in Black  Floral Forest Contact Paper, Vinyl Removable Self Adhesive Wall Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ignJvZcJL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly Mushroom Wallpaper Peel and Stick Boho, 17.7in x 118in Black  Floral Forest Contact Paper, Vinyl Removable Self Adhesive Wall Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ignJvZcJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Medley 04">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/76438/landscape/wallpaper/room93.jpg?w=2000&q=80' alt='Mushroom Medley 04'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/76438/landscape/wallpaper/room93.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ISS Mushroom Prints 4 - Inspired Stock Shop">
+                                <img itemprop="contentUrl url" src='https://inspiredstockshop.com/wp-content/uploads/2023/09/ISS-Mushroom-Prints-4.jpg' alt='ISS Mushroom Prints 4 - Inspired Stock Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspired Stock Shop" />
+                                </span>
+                                <a href='https://inspiredstockshop.com/wp-content/uploads/2023/09/ISS-Mushroom-Prints-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushrooms">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/87/ed/4c87edf400ff08533fe5a19b9749a79a.jpg' alt='Mushrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/87/ed/4c87edf400ff08533fe5a19b9749a79a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom wallpaper  ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/65/73/ca657311bd763663fece2fa14ab5e5c6.jpg' alt='Mushroom wallpaper  ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/65/73/ca657311bd763663fece2fa14ab5e5c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Long Rest Digital Desktop Wallpaper Download - Mushling DND Party -  Mushroom Dungeons and Dragons Computer Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30039130/r/il/bf3aea/4060522964/il_fullxfull.4060522964_gbgu.jpg' alt='A Long Rest Digital Desktop Wallpaper Download - Mushling DND Party -  Mushroom Dungeons and Dragons Computer Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30039130/r/il/bf3aea/4060522964/il_fullxfull.4060522964_gbgu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic wallpapers mushroom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ea/69/a5ea69807e697356eabf0e5e416ce9d8.jpg' alt='aesthetic wallpapers mushroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ea/69/a5ea69807e697356eabf0e5e416ce9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/98/3f/90983f9234ab73ec326ce5b822557357.jpg' alt='Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/98/3f/90983f9234ab73ec326ce5b822557357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

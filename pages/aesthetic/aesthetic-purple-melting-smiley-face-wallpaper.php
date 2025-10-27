@@ -1,0 +1,129 @@
+<title>Aesthetic Purple Melting Smiley Face Wallpaper</title>
+                    <meta name="description" content="Discover the perfect aesthetic purple melting smiley face wallpaper to brighten your devices! This unique design combines playful art and soothing colors, ideal for adding a whimsical touch to your screen. Perfect for those who appreciate a blend of fun and creativity in their digital spaces!">
+                    <meta name="keywords" content="aesthetic purple melting smiley face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-purple-melting-smiley-face-wallpaper">
+                            <span itemprop="name">aesthetic purple melting smiley face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Purple Melting Smiley Face Wallpaper</h1>
+                <p>Aesthetic purple melting smiley face wallpaper adds a whimsical touch to any digital space. Ideal for those seeking a playful vibe, this design combines soothing purple hues with a charming melting smiley, creating a unique blend of artistry and fun. Elevate your device's appearance with this catchy and evocative background!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' alt='Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley (purple)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/30/d4/bb30d431b49f369c39a73c4dde31c682.jpg' alt='Smiley (purple)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/30/d4/bb30d431b49f369c39a73c4dde31c682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face wallpaper aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0a/19/cf/0a19cfa0b7bf8f44663fb63bfef678de.jpg' alt='smiley face wallpaper aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0a/19/cf/0a19cfa0b7bf8f44663fb63bfef678de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Dripping Smiley Poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/f3/e7/0af3e7ec0d099e524360547831b8efe6.jpg' alt='Pastel Purple Dripping Smiley Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/f3/e7/0af3e7ec0d099e524360547831b8efe6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-smiley-face-pattern-51k0scvh44xdfo0j.jpg' alt='100+] Purple Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-smiley-face-pattern-51k0scvh44xdfo0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Abstract Purple Aesthetic Trippy Smiley Face Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-purple-aesthetic-trippy-smiley-face-vvhuh3veitfxl6q6.jpg' alt='Download Abstract Purple Aesthetic Trippy Smiley Face Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-purple-aesthetic-trippy-smiley-face-vvhuh3veitfxl6q6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/a8/fa/fca8fac79900cc27fec6d6deda6ce4a5.jpg' alt='smiley wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/a8/fa/fca8fac79900cc27fec6d6deda6ce4a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Psychedelic Melted Smiley Face Pattern | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1945088402.7277/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Purple Psychedelic Melted Smiley Face Pattern | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1945088402.7277/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Smiley Faces Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15442591/p/f/m/D4kVg5lqOHpSseElioCpJBJJUd4_GKb41ad5ZQ-oJshFaCYfKUs4/Trippy%20Bold%20Plum%20over%20Black%20Smiley%20Face%20-%20Bright%20Purple%20Smiley%20Face%20-%20Bright%20Plum%20Purple%20over%20Black%20-%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf412b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' alt='Purple Smiley Faces Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15442591/p/f/m/D4kVg5lqOHpSseElioCpJBJJUd4_GKb41ad5ZQ-oJshFaCYfKUs4/Trippy%20Bold%20Plum%20over%20Black%20Smiley%20Face%20-%20Bright%20Purple%20Smiley%20Face%20-%20Bright%20Plum%20Purple%20over%20Black%20-%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf412b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

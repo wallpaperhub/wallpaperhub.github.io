@@ -1,0 +1,129 @@
+<title>Transform Your Floors with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the versatility of peel and stick wallpaper on floors! Easy to install and remove, this trend offers a simple way to enhance your space with style. Perfect for renters and DIY enthusiasts, it combines convenience with a wide range of designs for any decor. Upgrade your flooring today!">
+                    <meta name="keywords" content="peel and stick wallpaper on floor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-on-floor">
+                            <span itemprop="name">peel and stick wallpaper on floor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Floors with Peel and Stick Wallpaper</h1>
+                <p>Peel and stick wallpaper isn't just for walls; it can transform your floors too! This innovative solution offers an easy way to refresh your space without the mess of traditional flooring. Ideal for renters, it’s available in numerous designs, is easy to install, and can be removed without damage. Upgrade your floors effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_13.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper A Floor - a renter-friendly alternative! • Grillo ...">
+                                <img itemprop="contentUrl url" src='https://grillo-designs.com/wp-content/uploads/2017/12/how-to-wallpaper-a-floor-the-right-wat-grillo-designs.jpg' alt='How to Wallpaper A Floor - a renter-friendly alternative! • Grillo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grillo Designs" />
+                                </span>
+                                <a href='https://grillo-designs.com/wp-content/uploads/2017/12/how-to-wallpaper-a-floor-the-right-wat-grillo-designs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_3.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper A Floor - a renter-friendly alternative! • Grillo ...">
+                                <img itemprop="contentUrl url" src='https://grillo-designs.com/wp-content/uploads/2017/12/STEPS-ON-HOW-TO-WALLPAPER-A-FLOOR-2F-GRILLO-DESIGNS.png' alt='How to Wallpaper A Floor - a renter-friendly alternative! • Grillo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grillo Designs" />
+                                </span>
+                                <a href='https://grillo-designs.com/wp-content/uploads/2017/12/STEPS-ON-HOW-TO-WALLPAPER-A-FLOOR-2F-GRILLO-DESIGNS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Seamless wood floor texture hardwood floor texture  wooden parquet Wall Mural Modern Contact Paper Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81gMSIFQDfL.jpg' alt='Peel and Stick Wallpaper Seamless wood floor texture hardwood floor texture  wooden parquet Wall Mural Modern Contact Paper Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81gMSIFQDfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_4.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3D Wood Grain Self-Adhesive Flooring, Durable Peel and Stick  Wallpaper, Waterproof Wear-Resistant Floor Tiles, 15.74'' X 118.11'', ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71XnggcJaqL.jpg' alt='Amazon.com: 3D Wood Grain Self-Adhesive Flooring, Durable Peel and Stick  Wallpaper, Waterproof Wear-Resistant Floor Tiles, 15.74'' X 118.11'', ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71XnggcJaqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DID IT REALLY WORK? MY WALLPAPERED FLOOR 2 YEARS ON!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YLuIPou_1XU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3eQY3mMo-qAJ_Sqyfrtpy2s_4SQ' alt='DID IT REALLY WORK? MY WALLPAPERED FLOOR 2 YEARS ON!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YLuIPou_1XU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3eQY3mMo-qAJ_Sqyfrtpy2s_4SQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floor Makeover: Peel and Stick Wallpaper Test">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7343432284558789934&location=0&aid=1988' alt='Floor Makeover: Peel and Stick Wallpaper Test'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7343432284558789934&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_25.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

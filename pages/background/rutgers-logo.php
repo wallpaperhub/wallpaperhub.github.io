@@ -1,0 +1,129 @@
+<title>Discover the Iconic Rutgers Logo: History & Significance</title>
+                    <meta name="description" content="Explore the Rutgers logo, a symbol of academic excellence and pride. Learn about its design, colors, and the history that defines this iconic emblem of the Rutgers community. Perfect for students, alumni, and fans.">
+                    <meta name="keywords" content="rutgers logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rutgers-logo">
+                            <span itemprop="name">rutgers logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Iconic Rutgers Logo: History & Significance</h1>
+                <p>The Rutgers logo represents the university's rich history and commitment to excellence in education. Featuring bold colors and distinctive design elements, it embodies the spirit and pride of Rutgers students and alumni. The logo not only symbolizes academic achievement but also reflects the community's diversity and innovation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Rutgers Scarlet Knights logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/2319px-Rutgers_Scarlet_Knights_logo.svg.png' alt='File:Rutgers Scarlet Knights logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2319">
+                                <meta itemprop="height" content="2052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/2319px-Rutgers_Scarlet_Knights_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Scarlet Knights Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2019/11/Rutgers-Scarlet-Knights-Logo.png' alt='Rutgers Scarlet Knights Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2019/11/Rutgers-Scarlet-Knights-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visual Identity and Branding Resources - Rutgers Nursing">
+                                <img itemprop="contentUrl url" src='https://nursing.rutgers.edu/wp-content/uploads/2023/10/RU_H_2LINE_RED_BLACK_CMYK.png' alt='Visual Identity and Branding Resources - Rutgers Nursing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="587">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rutgers School of Nursing - Rutgers University" />
+                                </span>
+                                <a href='https://nursing.rutgers.edu/wp-content/uploads/2023/10/RU_H_2LINE_RED_BLACK_CMYK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Aluminum Embossed NCAA College Logo Emblem">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-lq6s7zbxc7/images/stencil/1280x1280/products/29951/128635/rutgers-aluminum-embossed-football-logo-emblem-2__94300.1701705880.jpg?c=1?imbypass=on' alt='Rutgers Aluminum Embossed NCAA College Logo Emblem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mainely Urns" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-lq6s7zbxc7/images/stencil/1280x1280/products/29951/128635/rutgers-aluminum-embossed-football-logo-emblem-2__94300.1701705880.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Scarlet Knights Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2019/11/Rutgers-Scarlet-Knights-Logo-1995.png' alt='Rutgers Scarlet Knights Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3491">
+                                <meta itemprop="height" content="2196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2019/11/Rutgers-Scarlet-Knights-Logo-1995.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Scarlet Knights - Scarlet Knights Logo Single Layer Dimensional">
+                                <img itemprop="contentUrl url" src='https://collegewallart.com/cdn/shop/products/RTX-DA026DC-24x24-Scarlet-Knight-Logo-single-layer-dimensional-ICON_2000x.jpg?v=1662831919' alt='Rutgers Scarlet Knights - Scarlet Knights Logo Single Layer Dimensional'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Wall Art" />
+                                </span>
+                                <a href='https://collegewallart.com/cdn/shop/products/RTX-DA026DC-24x24-Scarlet-Knight-Logo-single-layer-dimensional-ICON_2000x.jpg?v=1662831919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers University Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2022/01/Rutgers-University-Logo.png' alt='Rutgers University Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2022/01/Rutgers-University-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Rutgers University">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064573188610' alt='Profile for Rutgers University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064573188610' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Scarlet Knights - Scarlet Knight Logo - Drink Coaster ...">
+                                <img itemprop="contentUrl url" src='https://collegewallart.com/cdn/shop/products/RTX-DC026DC-24x24-Scarlet-Knight-Logo-COASTER-view-1_2000x.png?v=1662829425' alt='Rutgers Scarlet Knights - Scarlet Knight Logo - Drink Coaster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Wall Art" />
+                                </span>
+                                <a href='https://collegewallart.com/cdn/shop/products/RTX-DC026DC-24x24-Scarlet-Knight-Logo-COASTER-view-1_2000x.png?v=1662829425' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rutgers Scarlet Knights Alternate Logo | SPORTS LOGO HISTORY">
+                                <img itemprop="contentUrl url" src='https://sportslogohistory.com/wp-content/uploads/2018/09/rutgers_scarlet_knights_1995-2003-a.png' alt='Rutgers Scarlet Knights Alternate Logo | SPORTS LOGO HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Logo History" />
+                                </span>
+                                <a href='https://sportslogohistory.com/wp-content/uploads/2018/09/rutgers_scarlet_knights_1995-2003-a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

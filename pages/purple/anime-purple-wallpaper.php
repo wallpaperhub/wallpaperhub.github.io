@@ -1,0 +1,129 @@
+<title>Stunning Anime Purple Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a gorgeous collection of anime purple wallpapers! Perfect for fans looking to beautify their devices with vibrant and artistic designs. Dive into a world of creativity and style with our stunning selections that fit any screen. Upgrade your wallpaper game now!">
+                    <meta name="keywords" content="anime purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/anime-purple-wallpaper">
+                            <span itemprop="name">anime purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Purple Wallpapers for Your Screen</h1>
+                <p>Enhance your device with stunning anime purple wallpaper! Explore a vibrant collection featuring your favorite characters in captivating shades of purple. Perfect for fans seeking to add a touch of elegance and creativity to their screens. Discover wallpapers that capture the essence and emotion of anime art today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Sky Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-anime-sky-iphone-012d1f06heanv37x.jpg' alt='Purple Anime Sky Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1114">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-anime-sky-iphone-012d1f06heanv37x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple anime wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/205/968/HD-wallpaper-purple-aesthetic-anime-girl-sport.jpg' alt='HD purple anime wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/205/968/HD-wallpaper-purple-aesthetic-anime-girl-sport.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cool Anime Purple Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/2a/f8/2b2af8017165387b67f9f795ee27f197.jpg' alt='   Cool Anime Purple Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/2a/f8/2b2af8017165387b67f9f795ee27f197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime girl Wallpaper 4K, Purple aesthetic, Crescent Moon">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/anime-girl-purple-3840x2160-15298.jpg' alt='Anime girl Wallpaper 4K, Purple aesthetic, Crescent Moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/anime-girl-purple-3840x2160-15298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Girl - 4K Ultra HD Wallpaper by CelestialCanvas">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/137/thumb-350-1377813.webp' alt='Purple Anime Girl - 4K Ultra HD Wallpaper by CelestialCanvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/137/thumb-350-1377813.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Aesthetic Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-aesthetic-anime-9mtyt7m46jaa2rdi.jpg' alt='100+] Purple Aesthetic Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-aesthetic-anime-9mtyt7m46jaa2rdi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple anime aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/0a/71/dc0a712dd2a2a533d887d2cea72d633d.jpg' alt='Purple anime aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/0a/71/dc0a712dd2a2a533d887d2cea72d633d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple on sale anime wallpaper">
+                                <img itemprop="contentUrl url" src='https://image-0.uhdpaper.com/wallpaper/satoru-gojo-hollow-purple-jujutsu-kaisen-2k-wallpaper-uhdpaper.com-564@0@e.jpg' alt='Purple on sale anime wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://image-0.uhdpaper.com/wallpaper/satoru-gojo-hollow-purple-jujutsu-kaisen-2k-wallpaper-uhdpaper.com-564@0@e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Little Busters! - Dreamy Anime Universe by O'neil ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/555/555558.jpg' alt='HD Wallpaper of Little Busters! - Dreamy Anime Universe by O'neil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2162">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/555/555558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-anime-aesthetic-yuno-gasai-6513747dok579fix.jpg' alt='Purple Anime Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-anime-aesthetic-yuno-gasai-6513747dok579fix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Hot Purple Backgrounds for Eye-Catching Designs</title>
+                    <meta name="description" content="Explore stunning hot purple backgrounds to elevate your designs! Perfect for websites, social media, or graphic projects, this vibrant color grabs attention and adds energy. Discover how to creatively incorporate hot purple into your visuals for impactful results!">
+                    <meta name="keywords" content="hot purple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hot-purple-background">
+                            <span itemprop="name">hot purple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hot Purple Backgrounds for Eye-Catching Designs</h1>
+                <p>Discover the allure of a hot purple background, perfect for adding a vibrant touch to any design. This bold hue not only captivates the eye but also creates an energetic atmosphere. Ideal for websites, graphics, or social media posts, a hot purple background makes a powerful statement and enhances visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 38 | Hot Pink Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-purple-glowing-particle-background_474888-5211.jpg' alt='Page 38 | Hot Pink Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-purple-glowing-particle-background_474888-5211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Purple information | Hsl | Rgb | Pantone">
+                                <img itemprop="contentUrl url" src='https://www.icolorpalette.com/download/solidcolorimage/cb00f5_solid_color_background_icolorpalette.png' alt='Hot Purple information | Hsl | Rgb | Pantone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iColorpalette" />
+                                </span>
+                                <a href='https://www.icolorpalette.com/download/solidcolorimage/cb00f5_solid_color_background_icolorpalette.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sn70-hot-purple-blur-gradation-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sn70-hot-purple-blur-gradation-41-iphone-wallpaper.jpg' alt='sn70-hot-purple-blur-gradation-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sn70-hot-purple-blur-gradation-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Purple Steam - Other & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/740/740235-bigthumbnail.jpg' alt='Hot Purple Steam - Other & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/740/740235-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Purple Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/5637410/p/f/m/hQN8oRCeZlp0E2JABr50kZ0QpNBII8bxh89_QZqtujaq3Rb5NZegmA/Ombre%20Pink%20and%20%20Purple.jpg' alt='Hot Purple Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/5637410/p/f/m/hQN8oRCeZlp0E2JABr50kZ0QpNBII8bxh89_QZqtujaq3Rb5NZegmA/Ombre%20Pink%20and%20%20Purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Aesthetic Purple Lavender Lilac Iphone Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/93/07/2d/93072df3a8888db6c30265c76ba7132b.jpg' alt='Iphone Aesthetic Purple Lavender Lilac Iphone Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/93/07/2d/93072df3a8888db6c30265c76ba7132b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background 2.jpg, neon, hot, purple, swoosh, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/161/542/HD-wallpaper-background-2-jpg-neon-hot-purple-swoosh.jpg' alt='Background 2.jpg, neon, hot, purple, swoosh, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/161/542/HD-wallpaper-background-2-jpg-neon-hot-purple-swoosh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/dc3fd0/3489407793/il_fullxfull.3489407793_j979.jpg' alt='Neon Purple Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/dc3fd0/3489407793/il_fullxfull.3489407793_j979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-neon-purple-pink-gradient-glitter-background-bokeh-light-overlay-color-gradient_931338-3682.jpg' alt='Pink Purple Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-neon-purple-pink-gradient-glitter-background-bokeh-light-overlay-color-gradient_931338-3682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract stained pattern texture square background hot pink ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/3146979/27308/i/1600/depositphotos_273087252-stock-illustration-abstract-stained-pattern-texture-square.jpg' alt='Abstract stained pattern texture square background hot pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/3146979/27308/i/1600/depositphotos_273087252-stock-illustration-abstract-stained-pattern-texture-square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

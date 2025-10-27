@@ -1,0 +1,129 @@
+<title>Sneaker Ball: Dance in Style and Comfort!</title>
+                    <meta name="description" content="Get ready for the Sneaker Ball, where fashion meets fun! Wear your best sneakers with formal attire for a night of dancing, music, and prizes. Perfect for sneaker lovers who want to enjoy a unique and stylish evening. RSVP now to be part of this unforgettable event!">
+                    <meta name="keywords" content="sneaker ball flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sneaker-ball-flyer">
+                            <span itemprop="name">sneaker ball flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sneaker Ball: Dance in Style and Comfort!</h1>
+                <p>Join us for the ultimate Sneaker Ball! Experience a night of style and fun as you rock your favorite kicks while dressed to impress. Enjoy live music, delicious food, and fantastic company. Don't miss out on the exciting raffle and awards for the best sneakers! RSVP today to secure your spot!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Flyer Template">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37629579/r/il/f4cdd3/5896319311/il_fullxfull.5896319311_n4eg.jpg' alt='Sneaker Ball Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37629579/r/il/f4cdd3/5896319311/il_fullxfull.5896319311_n4eg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 QTY - Sneaker Ball Flyer">
+                                <img itemprop="contentUrl url" src='https://d2z11snniwyi52.cloudfront.net/images/template/27621/14/sneaker-ball-flyer__front.jpg' alt='25 QTY - Sneaker Ball Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="482">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eventgroove" />
+                                </span>
+                                <a href='https://d2z11snniwyi52.cloudfront.net/images/template/27621/14/sneaker-ball-flyer__front.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Flyer Template">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37629579/r/il/1c1ea4/5850484322/il_fullxfull.5850484322_s8ev.jpg' alt='Sneaker Ball Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37629579/r/il/1c1ea4/5850484322/il_fullxfull.5850484322_s8ev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sneaker ball flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sneaker-ball-flyer-design-template-923ac8340b5a04cc155ad14705097647_screen.jpg?ts=1698957090' alt='sneaker ball flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sneaker-ball-flyer-design-template-923ac8340b5a04cc155ad14705097647_screen.jpg?ts=1698957090' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Flyer Template">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37629579/r/il/593cb3/5826656974/il_fullxfull.5826656974_o24q.jpg' alt='Sneaker Ball Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37629579/r/il/593cb3/5826656974/il_fullxfull.5826656974_o24q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Flyer, Sneaker Ball Gala, Sneaker Ball Invite, Sneaker ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/1d/58/051d589bd28466fcf04f775916ea81bc.jpg' alt='Sneaker Ball Flyer, Sneaker Ball Gala, Sneaker Ball Invite, Sneaker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/1d/58/051d589bd28466fcf04f775916ea81bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 QTY - Sneaker Ball Poster">
+                                <img itemprop="contentUrl url" src='https://d2z11snniwyi52.cloudfront.net/images/template/27625/15/sneaker-ball-poster__front.jpg' alt='25 QTY - Sneaker Ball Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eventgroove" />
+                                </span>
+                                <a href='https://d2z11snniwyi52.cloudfront.net/images/template/27625/15/sneaker-ball-poster__front.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sneaker ball flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sneaker-ball-flyer-design-template-7e8735bf69364dfbddf2b777d67c8cc4_screen.jpg?ts=1692910914' alt='sneaker ball flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sneaker-ball-flyer-design-template-7e8735bf69364dfbddf2b777d67c8cc4_screen.jpg?ts=1692910914' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Flyer Free Google Docs Template - gdoc.io">
+                                <img itemprop="contentUrl url" src='https://amp.gdoc.io/uploads/sneaker-ball-flyer-free-google-docs-template-t-712x984.jpg' alt='Sneaker Ball Flyer Free Google Docs Template - gdoc.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gdoc.io" />
+                                </span>
+                                <a href='https://amp.gdoc.io/uploads/sneaker-ball-flyer-free-google-docs-template-t-712x984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ManUpPHL: Sneaker Ball - WURD Radio">
+                                <img itemprop="contentUrl url" src='https://wurdradio.com/wp-content/uploads/2020/06/sneaker-ball-flyer-wurd-557x770.png' alt='ManUpPHL: Sneaker Ball - WURD Radio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WURD Radio" />
+                                </span>
+                                <a href='https://wurdradio.com/wp-content/uploads/2020/06/sneaker-ball-flyer-wurd-557x770.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Enchanting Interior of a Frozen Castle</title>
+                    <meta name="description" content="Discover the mesmerizing interior of a frozen castle. Experience the dazzling icy decor, enchanting ambiance, and breathtaking charm that create a winter wonderland. Perfect for dreamers and adventurers seeking the magic of a frosty fantasy. Join us on this spellbinding journey!">
+                    <meta name="keywords" content="frozen castle interior">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frozen-castle-interior">
+                            <span itemprop="name">frozen castle interior</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enchanting Interior of a Frozen Castle</h1>
+                <p>Step inside a frozen castle, where icy walls shimmer like diamonds and frosty air whispers ancient secrets. Glittering chandeliers made of ice hang from the ceiling, while crystal furniture lines the grand hall. The scent of pine and frost envelops you, creating a magical ambiance that transports you to a winter wonderland.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen: Sunflowers & Lilies (Old account) — Arendelle Castle ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e519e66c3450dbc2d8d50cd5c5f14b60/2d280670493266ac-12/s540x810/9a3726b8bad3972a5854df39b732664a59225be5.jpg' alt='Frozen: Sunflowers & Lilies (Old account) — Arendelle Castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frozen: Sunflowers & Lilies (Old account) - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e519e66c3450dbc2d8d50cd5c5f14b60/2d280670493266ac-12/s540x810/9a3726b8bad3972a5854df39b732664a59225be5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Castle Interior Projected Backdrops - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/groshdigital/watermark/3432.jpg' alt='Ice Castle Interior Projected Backdrops - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/groshdigital/watermark/3432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interior of Arendelle from Disney's Frozen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/ef/b9/5eefb9d83537a18788217adcab268998.jpg' alt='Interior of Arendelle from Disney's Frozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/ef/b9/5eefb9d83537a18788217adcab268998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Ate Inside Arendelle Castle at Disney's New Frozen Restaurant ...">
+                                <img itemprop="contentUrl url" src='https://www.disneytouristblog.com/wp-content/uploads/2024/09/royal-banquet-arendelle-frozen-restaurant-castle-fantasy-springs-tokyo-disneysea-japan-342.jpg' alt='We Ate Inside Arendelle Castle at Disney's New Frozen Restaurant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Tourist Blog" />
+                                </span>
+                                <a href='https://www.disneytouristblog.com/wp-content/uploads/2024/09/royal-banquet-arendelle-frozen-restaurant-castle-fantasy-springs-tokyo-disneysea-japan-342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arendelle Castle floor plan : r/Frozen">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/arendelle-castle-floor-plan-v0-64xmrrjmfaqb1.jpg?width=1366&format=pjpg&auto=webp&s=646f4cb00cde972f0b94c2bb72acbb996b8b3ae7' alt='Arendelle Castle floor plan : r/Frozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/arendelle-castle-floor-plan-v0-64xmrrjmfaqb1.jpg?width=1366&format=pjpg&auto=webp&s=646f4cb00cde972f0b94c2bb72acbb996b8b3ae7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Ate Inside Arendelle Castle at Disney's New Frozen Restaurant ...">
+                                <img itemprop="contentUrl url" src='https://www.disneytouristblog.com/wp-content/uploads/2024/09/royal-banquet-arendelle-frozen-restaurant-castle-fantasy-springs-tokyo-disneysea-japan-345.jpg' alt='We Ate Inside Arendelle Castle at Disney's New Frozen Restaurant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Tourist Blog" />
+                                </span>
+                                <a href='https://www.disneytouristblog.com/wp-content/uploads/2024/09/royal-banquet-arendelle-frozen-restaurant-castle-fantasy-springs-tokyo-disneysea-japan-345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We never got to see what Elsa's Ice Palace looked like directly ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/dLCzyLlVExJ1L0GSJinUcveqQKkS8tkcopVPQDSpL_c.jpg?auto=webp&s=6526711ba9dd86868c1069371c8fce348b03c7b3' alt='We never got to see what Elsa's Ice Palace looked like directly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1210">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/dLCzyLlVExJ1L0GSJinUcveqQKkS8tkcopVPQDSpL_c.jpg?auto=webp&s=6526711ba9dd86868c1069371c8fce348b03c7b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dormspiration: Disney's Frozen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/30/bd/8630bd93bbb643af97b763dba0ae71a0.jpg' alt='Dormspiration: Disney's Frozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/30/bd/8630bd93bbb643af97b763dba0ae71a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Castle Interior – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Ice-Castle-Interior_backdrop_ES7879-1-300x300.jpg' alt='Ice Castle Interior – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Ice-Castle-Interior_backdrop_ES7879-1-300x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Palace Foyer Backdrop Rentals | TheatreWorld® Backdrops">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/twbmarketingprod/files/production/801/4dc683fe4c/ice-palace-foyer-scenic-backdrop-lightbox-c81a97.jpg' alt='Ice Palace Foyer Backdrop Rentals | TheatreWorld® Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheatreWorld® Backdrops" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/twbmarketingprod/files/production/801/4dc683fe4c/ice-palace-foyer-scenic-backdrop-lightbox-c81a97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

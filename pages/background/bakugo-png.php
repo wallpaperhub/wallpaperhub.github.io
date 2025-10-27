@@ -1,0 +1,129 @@
+<title>High-Quality Bakugo PNG Images for Every Fan</title>
+                    <meta name="description" content="Discover a collection of stunning Bakugo PNG images! Perfect for My Hero Academia enthusiasts, these high-quality graphics are ideal for creating fan art, customizing profiles, or enhancing social media posts. Download your favorite images and show off your Bakugo pride!">
+                    <meta name="keywords" content="bakugo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bakugo-png">
+                            <span itemprop="name">bakugo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Bakugo PNG Images for Every Fan</h1>
+                <p>Explore the dynamic world of Bakugo PNG images! Perfect for fans of My Hero Academia, these high-quality graphics capture the explosive personality of Katsuki Bakugo. Whether for fan art, social media posts, or desktop backgrounds, these PNGs provide vibrant visuals to express your love for the series. Get creative and download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo | Glyos Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/glyos/images/e/e8/Katsuki_Bakugo_Hero_Costume_Full_Body.png/revision/latest?cb=20190817023742' alt='Katsuki Bakugo | Glyos Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glyos Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/glyos/images/e/e8/Katsuki_Bakugo_Hero_Costume_Full_Body.png/revision/latest?cb=20190817023742' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo Render by Techno3456 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa85bab7-c56d-4219-9286-09fafbde5c21/dg2vs8c-8f271149-0e51-4829-a61a-c57151ed070a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhODViYWI3LWM1NmQtNDIxOS05Mjg2LTA5ZmFmYmRlNWMyMVwvZGcydnM4Yy04ZjI3MTE0OS0wZTUxLTQ4MjktYTYxYS1jNTcxNTFlZDA3MGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AdBFUhnm4VV6AUXreNBmL9JxaCVenxFJxojAWwHIK4Q' alt='Katsuki Bakugo Render by Techno3456 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa85bab7-c56d-4219-9286-09fafbde5c21/dg2vs8c-8f271149-0e51-4829-a61a-c57151ed070a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhODViYWI3LWM1NmQtNDIxOS05Mjg2LTA5ZmFmYmRlNWMyMVwvZGcydnM4Yy04ZjI3MTE0OS0wZTUxLTQ4MjktYTYxYS1jNTcxNTFlZDA3MGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AdBFUhnm4VV6AUXreNBmL9JxaCVenxFJxojAWwHIK4Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo | Versus Compendium Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/versus-compendium/images/3/3d/Bakugo.png/revision/latest/thumbnail/width/360/height/360?cb=20200805205211' alt='Katsuki Bakugo | Versus Compendium Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Versus Compendium Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/versus-compendium/images/3/3d/Bakugo.png/revision/latest/thumbnail/width/360/height/360?cb=20200805205211' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo De Pantalla De Katsuki Bakugou , Png Download - Imagens Do ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/13/30/5a13307d2e3046cec321eaf55c2ed556.jpg' alt='Fondo De Pantalla De Katsuki Bakugou , Png Download - Imagens Do ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/13/30/5a13307d2e3046cec321eaf55c2ed556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo | Monster Strike Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/monster-strike-enjp/images/f/fb/4188.png/revision/latest/scale-to-width-down/391?cb=20190923170733' alt='Katsuki Bakugo | Monster Strike Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Strike Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/monster-strike-enjp/images/f/fb/4188.png/revision/latest/scale-to-width-down/391?cb=20190923170733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Bakugou , Png Download - Mha Bakugou, Transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/7f/d1/417fd16c599070d5061722b57331469d.jpg' alt='My Hero Academia Bakugou , Png Download - Mha Bakugou, Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/7f/d1/417fd16c599070d5061722b57331469d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/0/02/BakugoMHAVol13.png' alt='Katsuki Bakugo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="175">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/0/02/BakugoMHAVol13.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bakugou png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/607/400/png-clipart-katsuki-bakugou-my-hero-academia-anime-cosplay-all-might-bok-choy-manga-human-thumbnail.png' alt='Bakugou png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/607/400/png-clipart-katsuki-bakugou-my-hero-academia-anime-cosplay-all-might-bok-choy-manga-human-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Transparent Badass - Bakugou Katsuki PNG Transparent With ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/1e/35/cf1e3536c44b6ac22dec029c9c94bb71.jpg' alt='Anime Transparent Badass - Bakugou Katsuki PNG Transparent With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/1e/35/cf1e3536c44b6ac22dec029c9c94bb71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo - My Hero Ultra Rumble Database">
+                                <img itemprop="contentUrl url" src='https://ultrarumble.com/assets/Character/Ch002/GUI/FaceIcon/T_ui_Ch002_CharaImage.png' alt='Katsuki Bakugo - My Hero Ultra Rumble Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Hero Ultra Rumble Database" />
+                                </span>
+                                <a href='https://ultrarumble.com/assets/Character/Ch002/GUI/FaceIcon/T_ui_Ch002_CharaImage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

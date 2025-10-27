@@ -1,0 +1,129 @@
+<title>Embrace the Scott Pilgrim Trend: A Modern Cultural Phenomenon</title>
+                    <meta name="description" content="Explore the Scott Pilgrim trend that blends indie culture with gaming and romance. Discover how this iconic series influenced fashion and art and why it remains a cultural touchstone today. Join the resurgence of interest in Scott Pilgrim and celebrate its unique aesthetic!">
+                    <meta name="keywords" content="scott pilgrim trend background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scott-pilgrim-trend-background">
+                            <span itemprop="name">scott pilgrim trend background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Scott Pilgrim Trend: A Modern Cultural Phenomenon</h1>
+                <p>Scott Pilgrim, a comic series by Bryan Lee O'Malley, gained a cult following for its unique blend of indie culture, gaming references, and romantic comedy. Its visuals and themes resonated strongly, inspiring fashion and art movements. The 2010 film adaptation further propelled its popularity, leading to a resurgence of interest in the characters and aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off' Slyly Remixes the Cult Film's View of ...">
+                                <img itemprop="contentUrl url" src='https://reason.com/wp-content/uploads/2023/11/ScottPilgrim.jpg' alt='Scott Pilgrim Takes Off' Slyly Remixes the Cult Film's View of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reason Magazine" />
+                                </span>
+                                <a href='https://reason.com/wp-content/uploads/2023/11/ScottPilgrim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Scott Pilgrim Art in IbisPaint: Tutorial and Tips">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7411719459557149960&location=0&aid=1988' alt='Creating Scott Pilgrim Art in IbisPaint: Tutorial and Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7411719459557149960&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Trend: Scott Pilgrim Digital Drawing | Anime & Comics | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7370879875139308843&location=0&aid=1988' alt='Cute Trend: Scott Pilgrim Digital Drawing | Anime & Comics | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7370879875139308843&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND SCOTT PILGRIM TREND | Scott pilgrim, Scott pilgrim vs ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/58/98/fd/5898fd1db25fcf5ce916e0759ec4a742.jpg' alt='BACKGROUND SCOTT PILGRIM TREND | Scott pilgrim, Scott pilgrim vs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/58/98/fd/5898fd1db25fcf5ce916e0759ec4a742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="That one scott pilgrim trend w/ c!discduo! (+ bonus me and my bsf ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/that-one-scott-pilgrim-trend-w-c-discduo-bonus-me-and-my-v0-clnzxfpdpd3d1.jpg?width=1389&format=pjpg&auto=webp&s=e34d9d3e64c72fb465c644c49a670638795405c1' alt='That one scott pilgrim trend w/ c!discduo! (+ bonus me and my bsf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1389">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/that-one-scott-pilgrim-trend-w-c-discduo-bonus-me-and-my-v0-clnzxfpdpd3d1.jpg?width=1389&format=pjpg&auto=webp&s=e34d9d3e64c72fb465c644c49a670638795405c1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Scott Pilgrim Trend with Original Characters">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7369660816817147182&location=0&aid=1988' alt='Exploring the Scott Pilgrim Trend with Original Characters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7369660816817147182&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scott pilgrim redraw trend!!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/e7/88/4ae788632541c04e82ba335adbffa58e.jpg' alt='scott pilgrim redraw trend!!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/e7/88/4ae788632541c04e82ba335adbffa58e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joined in with the trend! : r/ScottPilgrim">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kyagg4a01q4c1.png' alt='Joined in with the trend! : r/ScottPilgrim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3183">
+                                <meta itemprop="height" content="1815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kyagg4a01q4c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott pilgrim trend">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/48/23/81/4823816796183364a23567e4e99d6338.jpg' alt='Scott pilgrim trend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/48/23/81/4823816796183364a23567e4e99d6338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @Zewmander i just posted the blank background !!! but heres my  process :) #art #artist #illustration #artistsoftiktok #scottpilgrim  #scottpilgrimvstheworld #scottpilgrimanime ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7305133745965780255&location=0&aid=1988' alt='Replying to @Zewmander i just posted the blank background !!! but heres my  process :) #art #artist #illustration #artistsoftiktok #scottpilgrim  #scottpilgrimvstheworld #scottpilgrimanime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7305133745965780255&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

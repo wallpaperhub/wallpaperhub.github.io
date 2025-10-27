@@ -1,0 +1,129 @@
+<title>Will My Military Discharge Appear on a Background Check?</title>
+                    <meta name="description" content="Wondering if your military discharge affects background checks? This concise guide explains how different types of discharges can appear and what implications they might have on your employment opportunities. Stay informed to enhance your job search and career prospects.">
+                    <meta name="keywords" content="will my military discharge show up background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-my-military-discharge-show-up-background-check">
+                            <span itemprop="name">will my military discharge show up background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Will My Military Discharge Appear on a Background Check?</h1>
+                <p>Yes, your military discharge can show up on background checks, especially if they include a review of criminal records or military history. Employers and other entities may perform these checks to gauge your reliability and character. Understanding your discharge type is essential, as it can influence how you are perceived.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Military Service?">
+                                <img itemprop="contentUrl url" src='https://wp-media.servicememberscivilreliefact.com/2024/02/02064908/Look-Up-Military-Records.jpeg' alt='How Do Employers Verify Military Service?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Servicemembers Civil Relief Act Centralized Verification Service" />
+                                </span>
+                                <a href='https://wp-media.servicememberscivilreliefact.com/2024/02/02064908/Look-Up-Military-Records.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Military Service?">
+                                <img itemprop="contentUrl url" src='https://wp-media.servicememberscivilreliefact.com/2024/02/02052727/sf-180-e1706874688678.png' alt='How Do Employers Verify Military Service?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Servicemembers Civil Relief Act Centralized Verification Service" />
+                                </span>
+                                <a href='https://wp-media.servicememberscivilreliefact.com/2024/02/02052727/sf-180-e1706874688678.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't see many discharge upgrades on here - but after 4 long years ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dont-see-many-discharge-upgrades-on-here-but-after-4-long-v0-5jeid9weyj1a1.jpg?width=1080&crop=smart&auto=webp&s=da760a615464301bbae978247f2ad84263341008' alt='Don't see many discharge upgrades on here - but after 4 long years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dont-see-many-discharge-upgrades-on-here-but-after-4-long-v0-5jeid9weyj1a1.jpg?width=1080&crop=smart&auto=webp&s=da760a615464301bbae978247f2ad84263341008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review Board Gives Vets Another Chance to Upgrade Discharge ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2022/May/26/2003026756/2000/2000/0/210911-Z-VK221-077C.JPG' alt='Review Board Gives Vets Another Chance to Upgrade Discharge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Force Personnel Center" />
+                                </span>
+                                <a href='https://media.defense.gov/2022/May/26/2003026756/2000/2000/0/210911-Z-VK221-077C.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military discharge - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/58/U.S._Army_Cpl._Joshua_Power%2C_right%2C_assigned_to_Bravo_Troop%2C_3rd_Squadron%2C_71st_Cavalry_Regiment%2C_10th_Mountain_Division%2C_holds_an_honorable_discharge_certificate_during_a_re-enlistment_ceremony_at_Forward_140102-A-RU942-057.jpg' alt='Military discharge - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/58/U.S._Army_Cpl._Joshua_Power%2C_right%2C_assigned_to_Bravo_Troop%2C_3rd_Squadron%2C_71st_Cavalry_Regiment%2C_10th_Mountain_Division%2C_holds_an_honorable_discharge_certificate_during_a_re-enlistment_ceremony_at_Forward_140102-A-RU942-057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does an Other Than Honorable Discharge Show Up in a Background Check?">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Does-An-Other-Than-Honorable-Discharge-Show-Up-In-A-Background-Check-Featured-Image.png' alt='Does an Other Than Honorable Discharge Show Up in a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Does-An-Other-Than-Honorable-Discharge-Show-Up-In-A-Background-Check-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DD214: What You Need to Know | Military.com">
+                                <img itemprop="contentUrl url" src='https://images03.military.com/sites/default/files/styles/full/public/2023-03/dd214-1200.jpg' alt='DD214: What You Need to Know | Military.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Military.com" />
+                                </span>
+                                <a href='https://images03.military.com/sites/default/files/styles/full/public/2023-03/dd214-1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Different Types of Military Discharge Explained">
+                                <img itemprop="contentUrl url" src='https://benefits.com/wp-content/uploads/2023/10/3_Honorable-Discharge-1024x576.png' alt='The Different Types of Military Discharge Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Benefits.com" />
+                                </span>
+                                <a href='https://benefits.com/wp-content/uploads/2023/10/3_Honorable-Discharge-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I heard that "If you get a dishonorable discharge, you couldn't ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tlm8ks39rrkc1.jpeg' alt='I heard that "If you get a dishonorable discharge, you couldn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tlm8ks39rrkc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Check Military Discharge Status?">
+                                <img itemprop="contentUrl url" src='https://wp-media.militaryverification.com/wp-content/uploads/2023/06/27100420/army-authority-drill-instructor-group-1024x751.jpg' alt='How to Check Military Discharge Status?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Military Verification" />
+                                </span>
+                                <a href='https://wp-media.militaryverification.com/wp-content/uploads/2023/06/27100420/army-authority-drill-instructor-group-1024x751.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

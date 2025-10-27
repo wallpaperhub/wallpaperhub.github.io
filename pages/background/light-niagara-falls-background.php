@@ -1,0 +1,129 @@
+<title>Stunning Night Lights of Niagara Falls: A Visual Delight</title>
+                    <meta name="description" content="Discover the enchanting light displays at Niagara Falls! Witness the mesmerizing colors illuminating the falls at night, creating an unforgettable experience for visitors and photographers. Don't miss this stunning spectacle that showcases the natural beauty of one of the world's most famous waterfalls.">
+                    <meta name="keywords" content="light niagara falls background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-niagara-falls-background">
+                            <span itemprop="name">light niagara falls background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Night Lights of Niagara Falls: A Visual Delight</h1>
+                <p>Experience the breathtaking beauty of Niagara Falls illuminated at night. The vibrant light displays enhance the natural splendor, casting colorful reflections on the cascading waters. Witness a mesmerizing spectacle as the falls transform into a kaleidoscope of colors, creating an unforgettable backdrop for visitors and photographers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/506344806/photo/niagara-falls-in-colors.jpg?s=612x612&w=0&k=20&c=l26cGuNuOZcvamsjccC0V0jwJXCSx-kqryrT9gcCN90=' alt='1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/506344806/photo/niagara-falls-in-colors.jpg?s=612x612&w=0&k=20&c=l26cGuNuOZcvamsjccC0V0jwJXCSx-kqryrT9gcCN90=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Niagara Falls with lights and overlooking view of buildings during ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1515787842934-e002e6bb9c07?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Niagara Falls with lights and overlooking view of buildings during ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1515787842934-e002e6bb9c07?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1346087328/photo/american-falls-niagara-falls-at-night.jpg?s=612x612&w=0&k=20&c=fxHI4YZDfMwQiITOTafV0pF8pW6Na1_swzmHr4loBeM=' alt='1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1346087328/photo/american-falls-niagara-falls-at-night.jpg?s=612x612&w=0&k=20&c=fxHI4YZDfMwQiITOTafV0pF8pW6Na1_swzmHr4loBeM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAP of the US Niagara Falls at night : r/itookapicture">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/390u2sufqe791.jpg' alt='ITAP of the US Niagara Falls at night : r/itookapicture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/390u2sufqe791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1340382079/photo/american-falls-niagara-falls-at-night.jpg?s=612x612&w=0&k=20&c=-08Qjm9DVgv0BWyst4R8cfe4Y3fQVfd4tf2v4Mww0QU=' alt='1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1340382079/photo/american-falls-niagara-falls-at-night.jpg?s=612x612&w=0&k=20&c=-08Qjm9DVgv0BWyst4R8cfe4Y3fQVfd4tf2v4Mww0QU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light show at Niagara Falls">
+                                <img itemprop="contentUrl url" src='https://www.sj-r.com/gcdn/authoring/2008/08/31/NSJR/ghows-LS-8e835a4a-a76d-47ab-b06e-309e74b02318-36c85b0d.jpeg?width=660&height=431&fit=crop&format=pjpg&auto=webp' alt='Light show at Niagara Falls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sj-r.com" />
+                                </span>
+                                <a href='https://www.sj-r.com/gcdn/authoring/2008/08/31/NSJR/ghows-LS-8e835a4a-a76d-47ab-b06e-309e74b02318-36c85b0d.jpeg?width=660&height=431&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1346432832/photo/niagara-falls-horseshoe-falls.jpg?s=612x612&w=0&k=20&c=ndVlZwxTSThpZJb16z9ThvMIjHqFB2xSL7O6ScqjsuA=' alt='1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1346432832/photo/niagara-falls-horseshoe-falls.jpg?s=612x612&w=0&k=20&c=ndVlZwxTSThpZJb16z9ThvMIjHqFB2xSL7O6ScqjsuA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332443034/photo/niagara-falls-in-winter-canada.jpg?s=612x612&w=0&k=20&c=8PbMDeZzK1nHU9_gCe_X6BcVg3DAz7MOHZKd1T4UhFE=' alt='1,700+ Niagara Falls Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332443034/photo/niagara-falls-in-winter-canada.jpg?s=612x612&w=0&k=20&c=8PbMDeZzK1nHU9_gCe_X6BcVg3DAz7MOHZKd1T4UhFE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="540+ Colorful Lit Niagara Falls Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/526233277/photo/niagara-falls-in-colors.jpg?s=612x612&w=0&k=20&c=ASEif2YiClKqS4y9TcsEybYca1SXQTx2qY2-9Kjvjlg=' alt='540+ Colorful Lit Niagara Falls Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/526233277/photo/niagara-falls-in-colors.jpg?s=612x612&w=0&k=20&c=ASEif2YiClKqS4y9TcsEybYca1SXQTx2qY2-9Kjvjlg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Niagara Falls Illumination: Experience the Dazzling Lights on ...">
+                                <img itemprop="contentUrl url" src='https://www.seesight-tours.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fsee-sight-tours%2Fimage%2Fupload%2Fv1691499440%2Fstrapi%2Fimage3_23b41bd03b.jpg&w=3840&q=75' alt='Niagara Falls Illumination: Experience the Dazzling Lights on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1232">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="See Sight Tours" />
+                                </span>
+                                <a href='https://www.seesight-tours.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fsee-sight-tours%2Fimage%2Fupload%2Fv1691499440%2Fstrapi%2Fimage3_23b41bd03b.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

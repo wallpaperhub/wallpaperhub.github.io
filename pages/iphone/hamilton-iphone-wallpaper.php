@@ -1,0 +1,129 @@
+<title>Hamilton iPhone Wallpaper: Stunning Designs for Fans</title>
+                    <meta name="description" content="Discover a collection of captivating Hamilton iPhone wallpapers that bring art and inspiration to your screen. Perfectly designed for fans of the musical and history enthusiasts alike. Download your favorite designs today and showcase your love for Hamilton wherever you go!">
+                    <meta name="keywords" content="hamilton iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hamilton-iphone-wallpaper">
+                            <span itemprop="name">hamilton iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hamilton iPhone Wallpaper: Stunning Designs for Fans</h1>
+                <p>Transform your iPhone with stunning Hamilton-inspired wallpapers. Whether you're a fan of the musical or the historical figure, these high-quality designs celebrate the legacy of Alexander Hamilton. Download and personalize your device with unique art that embodies creativity and inspiration. Perfect for true fans!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Hamilton Lock + Homescreen for iPhones you might like : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/RNdNHqN-qmxycL9SjIAwsHCDAvaHBVI1_ldYaaQBKXY.jpg?auto=webp&s=3f9f754c70f3e06def417781748a17f4a51e5544' alt='I made a Hamilton Lock + Homescreen for iPhones you might like : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="842">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/RNdNHqN-qmxycL9SjIAwsHCDAvaHBVI1_ldYaaQBKXY.jpg?auto=webp&s=3f9f754c70f3e06def417781748a17f4a51e5544' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today marks the Alexander and Burr's duel 215 years ago | Hamilton ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/8d/dd/998ddd88449d03936c272dc4557fb635.jpg' alt='Today marks the Alexander and Burr's duel 215 years ago | Hamilton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/8d/dd/998ddd88449d03936c272dc4557fb635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Hamilton iPhone Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/04/b1/0b04b1a01a6d0a0c9ecc0b57f0f9ac3e.jpg' alt='45+ Hamilton iPhone Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/04/b1/0b04b1a01a6d0a0c9ecc0b57f0f9ac3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton Phone Wallpapers : r/hamiltonmusical">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hamilton-phone-wallpapers-v0-61who2kcf03c1.jpeg?width=1024&format=pjpg&auto=webp&s=b1fabceb2662a62e99fba187f5a71ac8c22bdcd4' alt='Hamilton Phone Wallpapers : r/hamiltonmusical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hamilton-phone-wallpapers-v0-61who2kcf03c1.jpeg?width=1024&format=pjpg&auto=webp&s=b1fabceb2662a62e99fba187f5a71ac8c22bdcd4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/75/59/96/7559961323315cf7bee21202b409400f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/75/59/96/7559961323315cf7bee21202b409400f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton, broadway, musical, musicals, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/453/228/HD-wallpaper-hamilton-broadway-musical-musicals.jpg' alt='Hamilton, broadway, musical, musicals, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/453/228/HD-wallpaper-hamilton-broadway-musical-musicals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton Phone Wallpapers : r/hamiltonmusical">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hamilton-phone-wallpapers-v0-shhtn0ub9y3c1.jpeg?width=750&format=pjpg&auto=webp&s=a520541960c28647e2b95624c4a61aa8c7020b08' alt='Hamilton Phone Wallpapers : r/hamiltonmusical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hamilton-phone-wallpapers-v0-shhtn0ub9y3c1.jpeg?width=750&format=pjpg&auto=webp&s=a520541960c28647e2b95624c4a61aa8c7020b08' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Hamilton iPhone Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/96/3d/91963db99d9d92fe0236a7a4f5ab7fc2.jpg' alt='45+ Hamilton iPhone Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/96/3d/91963db99d9d92fe0236a7a4f5ab7fc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am new here so here's some IPhone wallpapers | Hamilton Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6571/1573ebfb16eccfc8c5ac80e38660315ad6e22ed3_hq.jpg' alt='I am new here so here's some IPhone wallpapers | Hamilton Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="223">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6571/1573ebfb16eccfc8c5ac80e38660315ad6e22ed3_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, hamilton, lyrics, quotes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/676/750/HD-wallpaper-washington-hamilton-lyrics-quotes.jpg' alt='Washington, hamilton, lyrics, quotes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/676/750/HD-wallpaper-washington-hamilton-lyrics-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

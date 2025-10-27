@@ -1,0 +1,129 @@
+<title>Welcoming Church Images for Your Faith Journey</title>
+                    <meta name="description" content="Discover stunning images that welcome you to church and illustrate the beauty of faith. These visuals capture joyous moments, community bonds, and serene worship settings, perfect for uplifting your spiritual journey. Explore our curated collection to feel the warmth and inspiration of church life.">
+                    <meta name="keywords" content="welcome to church images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-to-church-images">
+                            <span itemprop="name">welcome to church images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Welcoming Church Images for Your Faith Journey</h1>
+                <p>Welcome to church! Experience the warmth and community of faith with our inviting images that capture the spirit of worship. From vibrant congregations to serene moments of prayer, these visuals reflect the love and fellowship found within our church family. Join us in celebrating faith through these beautiful depictions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Church Background Loop">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3440665877/thumb/1.jpg?ip=x480' alt='Welcome Church Background Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3440665877/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wheat Field - Welcome To Church - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/f2db701655951abac85d59aefbf386cb.jpg' alt='Wheat Field - Welcome To Church - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/f2db701655951abac85d59aefbf386cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to church flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-church-flyer-design-template-dbf9ccae298deed5bf91eb8982224b8a_screen.jpg?ts=1648552649' alt='Welcome to church flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-church-flyer-design-template-dbf9ccae298deed5bf91eb8982224b8a_screen.jpg?ts=1648552649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Church Welcome Still Vol 2 | Still Background">
+                                <img itemprop="contentUrl url" src='https://d20jno9famfelf.cloudfront.net/_1200x630_crop_center-center_82_none/Online-Church-Welcome-Still-Vol-2_HPM-HD.jpg?mtime=1597084632' alt='Online Church Welcome Still Vol 2 | Still Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://d20jno9famfelf.cloudfront.net/_1200x630_crop_center-center_82_none/Online-Church-Welcome-Still-Vol-2_HPM-HD.jpg?mtime=1597084632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Visitors Welcome at Your Church?">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.peterdehaan.com/wp-content/uploads/2015/08/church.jpg?fit=1200%2C675&ssl=1' alt='Are Visitors Welcome at Your Church?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peter DeHaan" />
+                                </span>
+                                <a href='https://i0.wp.com/www.peterdehaan.com/wp-content/uploads/2015/08/church.jpg?fit=1200%2C675&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Flowers - Welcome To Church - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/cb801e04b8b26d0711bf38d31540991c.jpg' alt='Spring Flowers - Welcome To Church - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/cb801e04b8b26d0711bf38d31540991c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Welcome Speech - Everything You Must Cover & Why">
+                                <img itemprop="contentUrl url" src='https://ministrydesigns.com/mt-content/uploads/2021/02/welcome-to-church.jpg' alt='Church Welcome Speech - Everything You Must Cover & Why'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ministry Designs" />
+                                </span>
+                                <a href='https://ministrydesigns.com/mt-content/uploads/2021/02/welcome-to-church.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Best Welcome pictures ideas | welcome pictures, worship ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/35/ab/7a/35ab7a0af7673802e822e49fcfea26cc.jpg' alt='21 Best Welcome pictures ideas | welcome pictures, worship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/35/ab/7a/35ab7a0af7673802e822e49fcfea26cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Preaching Slide: Welcome to Church (Paint Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/7963_poster.jpg' alt='Church Preaching Slide: Welcome to Church (Paint Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/7963_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,543 Church Welcome Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/welcome-worship-word-church-christian-600nw-1069947002.jpg' alt='5,543 Church Welcome Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/welcome-worship-word-church-christian-600nw-1069947002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

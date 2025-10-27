@@ -1,0 +1,129 @@
+<title>Stunning Cherry Blossom GIFs for Every Occasion</title>
+                    <meta name="description" content="Explore a collection of mesmerizing cherry blossom GIFs that celebrate the beauty of spring. Perfect for enhancing your digital conversations and social media posts, these vibrant animations bring the charm of blooming cherry trees to life, evoking joy and serenity. Discover the beauty today!">
+                    <meta name="keywords" content="cherry blossom gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cherry-blossom-gif">
+                            <span itemprop="name">cherry blossom gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cherry Blossom GIFs for Every Occasion</h1>
+                <p>Cherry blossom gifs capture the enchanting beauty of these delicate flowers swaying in the breeze. Perfect for adding a touch of springtime charm to your messages, social media, or creative projects, these animated visuals showcase vibrant pink petals and soft backgrounds, evoking feelings of peace and renewal. Share the magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cerisier Fleur Cherry Blossom GIF - Cerisier Fleur Cherry Blossom ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/65/08/43/650843414c5eb8e2b0d36daf1c825a41.gif' alt='Cerisier Fleur Cherry Blossom GIF - Cerisier Fleur Cherry Blossom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/65/08/43/650843414c5eb8e2b0d36daf1c825a41.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/01/icegif-246.gif' alt='Cherry Blossom Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/01/icegif-246.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Cherry Blossoms Falling Gif">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/914668728147106035/7764DB84E4FCACCA132D4EF9D594ED8185CA66CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: :: Cherry Blossoms Falling Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/914668728147106035/7764DB84E4FCACCA132D4EF9D594ED8185CA66CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/NkqanKk4XmYAAAAM/%D0%B9%D1%86%D1%83.gif' alt='Cherry Blossom GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/NkqanKk4XmYAAAAM/%D0%B9%D1%86%D1%83.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image] GIF of falling cherry blossom petals. Simply serene. By /u ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/2mZK9GO.gif' alt='Image] GIF of falling cherry blossom petals. Simply serene. By /u ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/2mZK9GO.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/JJPzNc1rC_0AAAAM/flower-cherry-blossom.gif' alt='Cherry Blossom GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/JJPzNc1rC_0AAAAM/flower-cherry-blossom.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Tree GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/fbJuHaI9AfYic/200w.gif?cid=6c09b952akqxp2vom58t403wmmoum2l3g5goxipltlsihkvk&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Cherry Blossom Tree GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/fbJuHaI9AfYic/200w.gif?cid=6c09b952akqxp2vom58t403wmmoum2l3g5goxipltlsihkvk&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/03/icegif-592.gif' alt='Cherry Blossom Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/03/icegif-592.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms Sticker - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/U6plwW28SW5ENpY4ez/giphy.gif?cid=6c09b952zdvzl16l6k3uz5hcq2d7orywhqu65abzenk090wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='Cherry Blossoms Sticker - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/U6plwW28SW5ENpY4ez/giphy.gif?cid=6c09b952zdvzl16l6k3uz5hcq2d7orywhqu65abzenk090wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Anime GIF - Cherry Blossom Anime Flowers - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/60/fa/dc/60fadc412bb3f06bd4c52092ee736165.gif' alt='Cherry Blossom Anime GIF - Cherry Blossom Anime Flowers - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/60/fa/dc/60fadc412bb3f06bd4c52092ee736165.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Aesthetic Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover stunning aesthetic lock screen wallpapers for your iPhone. From minimalism to vibrant designs, find the perfect wallpaper that reflects your style and enhances your device's look. Transform your lock screen experience effortlessly!">
+                    <meta name="keywords" content="aesthetic lock screen iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/aesthetic-lock-screen-iphone-wallpaper">
+                            <span itemprop="name">aesthetic lock screen iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Aesthetic Lock Screen Wallpapers for iPhone</h1>
+                <p>Aesthetic lock screen iPhone wallpapers can transform your device into a canvas of creativity. Choose from a variety of styles, including minimalistic designs, stunning landscapes, or vibrant patterns to express your personality. Elevate your screen aesthetic and enjoy a daily dose of inspiration every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' alt='4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Lockscreen Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalistic-airplane-aesthetic-lockscreen-6urbgikwbowgkx4t.jpg' alt='100+] Aesthetic Lockscreen Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalistic-airplane-aesthetic-lockscreen-6urbgikwbowgkx4t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' alt='Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/192nr4OUJBoru4rpWmB2/BEC14356-F371-425D-B9A8-6AA59908B121.jpg?q=70' alt='4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/192nr4OUJBoru4rpWmB2/BEC14356-F371-425D-B9A8-6AA59908B121.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone wallpaper - Lock Screen - minimalistic- floral - boho -  neutral">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/f84f99/4461079538/il_570xN.4461079538_hf51.jpg' alt='Floral iPhone wallpaper - Lock Screen - minimalistic- floral - boho -  neutral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/f84f99/4461079538/il_570xN.4461079538_hf51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Aesthetic Wallpaper Lockscreen Pink iPhone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9f/9a/f1/9f9af1f449d65de0b3f5933283e008af.jpg' alt='Floral Aesthetic Wallpaper Lockscreen Pink iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9f/9a/f1/9f9af1f449d65de0b3f5933283e008af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' alt='iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Tokyo Sakura Aesthetic iOS 16 Lock Screen   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/0a/9d/2e0a9d9758626970f0987c5d4d741fab.jpg' alt='Soft Tokyo Sakura Aesthetic iOS 16 Lock Screen   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/0a/9d/2e0a9d9758626970f0987c5d4d741fab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black lock screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' alt='Black lock screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower lock screen, aesthetic, aesthetically pleasing, flowers ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/445/46/HD-wallpaper-flower-lock-screen-aesthetic-aesthetically-pleasing-flowers-happy-lock-screen.jpg' alt='Flower lock screen, aesthetic, aesthetically pleasing, flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/445/46/HD-wallpaper-flower-lock-screen-aesthetic-aesthetically-pleasing-flowers-happy-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

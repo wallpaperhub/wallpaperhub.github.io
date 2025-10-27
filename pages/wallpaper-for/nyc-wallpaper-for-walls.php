@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="nyc wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/nyc-wallpaper-for-walls">
+                            <span itemprop="name">nyc wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Wallpaper - Manhattan Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/banners/new-website/newyork-hero.jpg' alt='New York Wallpaper - Manhattan Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/banners/new-website/newyork-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper New York Skyline Black White Modern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25401407/r/il/c1e78d/2753626227/il_fullxfull.2753626227_90do.jpg' alt='Photo Wallpaper New York Skyline Black White Modern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25401407/r/il/c1e78d/2753626227/il_fullxfull.2753626227_90do.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Ways to Wear New York Wallpaper | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/blogs/NEW%20YORK%20WALLPAPER%202017/skyline-mural-in-yellow-room.jpg' alt='7 Ways to Wear New York Wallpaper | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/blogs/NEW%20YORK%20WALLPAPER%202017/skyline-mural-in-yellow-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Cliouar-Wall Mural Wallpaper for Bedroom Living Room Manhattan  Night View New York City Photo Wallpaper 3D Wallpaper Mural 155" x 103"(Not  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71U-29ucCRL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Cliouar-Wall Mural Wallpaper for Bedroom Living Room Manhattan  Night View New York City Photo Wallpaper 3D Wallpaper Mural 155" x 103"(Not  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71U-29ucCRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Wallpaper - Manhattan Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/125323/cr23/22/828/1/monochrome-brooklyn-bridge-new-york-wallpaper.jpg' alt='New York Wallpaper - Manhattan Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/125323/cr23/22/828/1/monochrome-brooklyn-bridge-new-york-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City, New York">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/44316/landscape/wallpaper/room90.jpg?w=2000&q=80' alt='New York City, New York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/44316/landscape/wallpaper/room90.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpaper & New York Wall Murals | About Murals">
+                                <img itemprop="contentUrl url" src='https://149359637.v2.pressablecdn.com/wp-content/uploads/2017/10/Manhattan-at-Night-Wallpaper-Bedroom-About-Murals-Wallpaper-Murals-324x243.jpg' alt='New York City Wallpaper & New York Wall Murals | About Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Murals" />
+                                </span>
+                                <a href='https://149359637.v2.pressablecdn.com/wp-content/uploads/2017/10/Manhattan-at-Night-Wallpaper-Bedroom-About-Murals-Wallpaper-Murals-324x243.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new york city skyline in black and white new york city skylines ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JW2u3uWIL.jpg' alt='new york city skyline in black and white new york city skylines ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JW2u3uWIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Skyline">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/56301/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='New York City Skyline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/56301/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan, New York City">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/5745/pr22/2/414/manhattan-new-york-city-new-york-night-wallpaper.jpg' alt='Manhattan, New York City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/5745/pr22/2/414/manhattan-new-york-city-new-york-night-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

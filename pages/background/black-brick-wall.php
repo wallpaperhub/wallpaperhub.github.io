@@ -1,0 +1,129 @@
+<title>Transform Your Space with a Stylish Black Brick Wall</title>
+                    <meta name="description" content="Discover the allure of a black brick wall that enhances your home's style. Ideal for modern and industrial designs, this bold choice adds character and sophistication to any room. Explore tips and inspiration for incorporating black brick into your space today!">
+                    <meta name="keywords" content="black brick wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-brick-wall">
+                            <span itemprop="name">black brick wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with a Stylish Black Brick Wall</h1>
+                <p>A black brick wall adds a striking contrast to any space, creating a bold backdrop for various design styles. Whether in industrial lofts, modern homes, or artistic venues, its matte finish and textured surface can evoke a sense of sophistication and drama. A popular choice for accent walls, it invites creativity in décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : YYNXSY 7X5FT Black Brick Wall Background Photography Props  Brick Birthday Party Decoration Background Photography Studio Decoration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81oOdQ11-xL.jpg' alt='Amazon.com : YYNXSY 7X5FT Black Brick Wall Background Photography Props  Brick Birthday Party Decoration Background Photography Studio Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81oOdQ11-xL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Brick Wall Mural, Vintage Wallpaper [self Adhesive, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/ea6eb7/3607276934/il_fullxfull.3607276934_ll5w.jpg' alt='Black Brick Wall Mural, Vintage Wallpaper [self Adhesive, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/ea6eb7/3607276934/il_fullxfull.3607276934_ll5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Textured Brick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0688/8590/5693/products/BlackTexturedBrick_Pattern.jpg' alt='Black Textured Brick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DW/E Wallpaper Collections" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0688/8590/5693/products/BlackTexturedBrick_Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Wall, Black">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1638283423/articles/R10962_interior1.jpg' alt='Brick Wall, Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1638283423/articles/R10962_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Dark Brick Wall Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1723867219819-c3c85d398efd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGJyaWNrJTIwd2FsbHxlbnwwfHwwfHx8MA%3D%3D' alt='999+ Dark Brick Wall Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1723867219819-c3c85d398efd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGJyaWNrJTIwd2FsbHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Brick Wall Images – Browse 5,452,866 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/57/00/80/360_F_257008035_kMFFtr6lb6nM46Axqmi22xi8Nj6vkdgK.jpg' alt='Black Brick Wall Images – Browse 5,452,866 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/57/00/80/360_F_257008035_kMFFtr6lb6nM46Axqmi22xi8Nj6vkdgK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Brick Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/834/610/non_2x/brick-wall-building-concrete-abstract-background-black-color-interior-wallpaper-backdrop-pattern-seamless-illustration-vector.jpg' alt='Black Brick Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/834/610/non_2x/brick-wall-building-concrete-abstract-background-black-color-interior-wallpaper-backdrop-pattern-seamless-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Painted Brick Wall">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/91884/pr22/1/1280/black-painted-brick-wall-black-brick-wallpaper.jpg' alt='Black Painted Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/91884/pr22/1/1280/black-painted-brick-wall-black-brick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Black Brick Wall Backdrop Designed by Angela Miller">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/files/BH1045123DKateBlackBrickWallBackdrop.jpg?v=1686144677' alt='Kate Black Brick Wall Backdrop Designed by Angela Miller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/files/BH1045123DKateBlackBrickWallBackdrop.jpg?v=1686144677' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BRIK by Quality Stone | Simply Black Faux Brick Panels">
+                                <img itemprop="contentUrl url" src='https://www.walltheory.com/cdn/shop/files/8_bb7b6ac0-cf61-45a6-905b-00951e8fc3c1_800x.jpg?v=1641933819' alt='BRIK by Quality Stone | Simply Black Faux Brick Panels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Theory" />
+                                </span>
+                                <a href='https://www.walltheory.com/cdn/shop/files/8_bb7b6ac0-cf61-45a6-905b-00951e8fc3c1_800x.jpg?v=1641933819' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

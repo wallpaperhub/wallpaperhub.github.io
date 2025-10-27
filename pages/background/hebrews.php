@@ -1,0 +1,129 @@
+<title>Understanding Hebrews: Faith, Sacrifice, and Christ's Superiority</title>
+                    <meta name="description" content="Explore the book of Hebrews in the New Testament. Discover its themes of faith, sacrifice, and the significance of Jesus' priesthood. Ideal for those seeking deeper insights into Christian beliefs and the encouragement to persevere amidst challenges.">
+                    <meta name="keywords" content="hebrews">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hebrews">
+                            <span itemprop="name">hebrews</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Hebrews: Faith, Sacrifice, and Christ's Superiority</h1>
+                <p>Hebrews is a profound New Testament book that explores themes of faith, sacrifice, and the superiority of Christ. Written to encourage Jewish Christians facing persecution, it emphasizes Jesus as the ultimate high priest and the fulfillment of Old Testament prophecies, urging believers to persevere in their faith.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Were the Hebrews? - TheTorah.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5b8fd783bee52c8fb59b1fac/63bcc27e062d48bc28ff05f1_Hebrew%2520Israelite.jpeg' alt='Who Were the Hebrews? - TheTorah.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheTorah.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5b8fd783bee52c8fb59b1fac/63bcc27e062d48bc28ff05f1_Hebrew%2520Israelite.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Hebrews in the Bible">
+                                <img itemprop="contentUrl url" src='https://www.abibleaday.com/wp-content/uploads/2014/01/Hebrews-1.jpg' alt='The Book of Hebrews in the Bible'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Bible A Day" />
+                                </span>
+                                <a href='https://www.abibleaday.com/wp-content/uploads/2014/01/Hebrews-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the Book of Hebrews Still Relevant Today?">
+                                <img itemprop="contentUrl url" src='https://blog.lexhampress.com/wp-content/uploads/2019/06/Hebrews-B.jpg' alt='Is the Book of Hebrews Still Relevant Today?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4912">
+                                <meta itemprop="height" content="2935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lexham Press" />
+                                </span>
+                                <a href='https://blog.lexhampress.com/wp-content/uploads/2019/06/Hebrews-B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hebrews - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Judaean_people_are_being_deported_into_exile_after_the_capture_of_Lachish.jpg' alt='Hebrews - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4288">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/3c/Judaean_people_are_being_deported_into_exile_after_the_capture_of_Lachish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Letter to the Hebrews, Part 1: Five Characteristics | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*qfVypZzoH7kRDAvjCVh0zA.jpeg' alt='The Letter to the Hebrews, Part 1: Five Characteristics | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*qfVypZzoH7kRDAvjCVh0zA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History of the True Hebrews — Kingdom Preppers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/58535279e3df28f58aa0db40/1482292586221-GLAJZ3Z28SS46M4H1WEV/youtube-thumbnail-a-history-of-the-true-hebrews.jpg?format=1000w' alt='A History of the True Hebrews — Kingdom Preppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kingdom Preppers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/58535279e3df28f58aa0db40/1482292586221-GLAJZ3Z28SS46M4H1WEV/youtube-thumbnail-a-history-of-the-true-hebrews.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hebrews - Students | Britannica Kids | Homework Help">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/31/91831-004-B9F68253.jpg' alt='Hebrews - Students | Britannica Kids | Homework Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica Kids" />
+                                </span>
+                                <a href='https://cdn.britannica.com/31/91831-004-B9F68253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Wrote Hebrews? - Biblical Foundations">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/5mt.bf.org/2018/08/Book-of-Hebrews-Revelation-Study-Jesus-Is-Our-High-priest-e1497605477573.jpg' alt='Who Wrote Hebrews? - Biblical Foundations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biblical Foundations" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/5mt.bf.org/2018/08/Book-of-Hebrews-Revelation-Study-Jesus-Is-Our-High-priest-e1497605477573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Hebrews | Evidence Unseen">
+                                <img itemprop="contentUrl url" src='https://www.evidenceunseen.com/wp-content/uploads/2023/01/19.Hebrews.jpg' alt='Introduction to Hebrews | Evidence Unseen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evidence Unseen" />
+                                </span>
+                                <a href='https://www.evidenceunseen.com/wp-content/uploads/2023/01/19.Hebrews.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hebrews: An Introduction - A Clay Jar">
+                                <img itemprop="contentUrl url" src='https://aclayjar.net/wp-content/uploads/2019/09/Hebrews.jpg' alt='Hebrews: An Introduction - A Clay Jar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Clay Jar" />
+                                </span>
+                                <a href='https://aclayjar.net/wp-content/uploads/2019/09/Hebrews.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

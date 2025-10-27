@@ -1,0 +1,129 @@
+<title>Stunning 4K Space Wallpapers for Your PC</title>
+                    <meta name="description" content="Discover an amazing collection of 4K space wallpapers designed to enhance your PC's aesthetics. Featuring captivating views of the universe, our wallpapers are perfect for anyone who loves the cosmos. Download now and transform your desktop into a celestial masterpiece!">
+                    <meta name="keywords" content="space wallpaper 4k pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/space-wallpaper-4k-pc">
+                            <span itemprop="name">space wallpaper 4k pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Space Wallpapers for Your PC</h1>
+                <p>Transform your desktop with stunning space wallpaper in 4K resolution! Explore breathtaking galaxies, twinkling stars, and vibrant nebulae that bring the beauty of the cosmos to your PC. Perfect for space enthusiasts, these high-quality images will elevate your workspace and inspire creativity every time you log on.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Space Wallpapers are the best... Here is a few I like. : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?auto=webp&s=7729ce0fa75865ea3e0a40076360938065072bfe' alt='4K Space Wallpapers are the best... Here is a few I like. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?auto=webp&s=7729ce0fa75865ea3e0a40076360938065072bfe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Wallpapers (49 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/6/c/23288-3840x2160-desktop-4k-planet-wallpaper-image.jpg' alt='Planet Wallpapers (49 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/6/c/23288-3840x2160-desktop-4k-planet-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Exploring Space Wallpaper, HD Artist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/astronaut-exploring-space_a2lmZ26UmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Astronaut Exploring Space Wallpaper, HD Artist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/astronaut-exploring-space_a2lmZ26UmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space wallpaper 4K ·① Download free awesome High Resolution ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/6e/90/676e9037541902b364d0294138093828.jpg' alt='Space wallpaper 4K ·① Download free awesome High Resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/6e/90/676e9037541902b364d0294138093828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' alt='Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4040">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpapers 4k Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/81/91/988191928167a87cbf0c959aa03ced55.jpg' alt='Space Wallpapers 4k Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/81/91/988191928167a87cbf0c959aa03ced55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300,000 Free Space Wallpapers [HD & 4K] - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/10/30/20/22/astronaut-1784245_640.jpg' alt='300,000 Free Space Wallpapers [HD & 4K] - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/10/30/20/22/astronaut-1784245_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space wallpapers 4k uhd 16:9, desktop backgrounds hd downloads ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/7d/bc/ee7dbc369fd1cf1cce4714002480a8ad.jpg' alt='Space wallpapers 4k uhd 16:9, desktop backgrounds hd downloads ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/7d/bc/ee7dbc369fd1cf1cce4714002480a8ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 4k Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-space-9w27dqmc4nrs3xwd.jpg' alt='200+] 4k Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-space-9w27dqmc4nrs3xwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Space Asteroid Widescreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-space-asteroid-widescreen-hge1jdvpr1cb86b2-3.jpg' alt='4k Space Asteroid Widescreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-space-asteroid-widescreen-hge1jdvpr1cb86b2-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

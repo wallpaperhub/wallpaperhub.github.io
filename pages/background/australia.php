@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Australia: Nature, Culture, and Adventure</title>
+                    <meta name="description" content="Discover Australia’s breathtaking landscapes, rich culture, and adventurous spirit. From the Great Barrier Reef to thriving cities, experience a diverse destination that captivates travelers. Perfect for nature lovers and urban explorers alike! Plan your adventure now!">
+                    <meta name="keywords" content="australia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/australia">
+                            <span itemprop="name">australia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Australia: Nature, Culture, and Adventure</h1>
+                <p>Australia, known for its stunning landscapes and diverse wildlife, offers a unique blend of vibrant cities and natural wonders. From the Great Barrier Reef to the Outback's rugged beauty, Australia is a haven for adventure seekers and nature lovers alike. Its rich Indigenous culture adds depth to its charm, making it a must-visit destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/640px-Flag_of_Australia_%28converted%29.svg.png' alt='Australia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/640px-Flag_of_Australia_%28converted%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia | History, Cities, Population, Capital, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/86/183586-050-A05EF881/World-Data-Locator-Map-Australia.jpg' alt='Australia | History, Cities, Population, Capital, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/86/183586-050-A05EF881/World-Data-Locator-Map-Australia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia | History, Cities, Population, Capital, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/79/6079-050-977F6960/Australia.jpg' alt='Australia | History, Cities, Population, Capital, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/79/6079-050-977F6960/Australia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/ef53d335-13ab-4c49-86d8-3688ee62fc93/Australia-Country-Map-UPDT.jpg?wp=1&w=1084.125&h=609' alt='Australia Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/ef53d335-13ab-4c49-86d8-3688ee62fc93/Australia-Country-Map-UPDT.jpg?wp=1&w=1084.125&h=609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/250px-Australia_with_AAT_%28orthographic_projection%29.svg.png' alt='Australia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/250px-Australia_with_AAT_%28orthographic_projection%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia's most beautiful places | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/191011110307-02-australia-beautiful-places.jpg?q=w_2187,h_1230,x_0,y_0,c_fill/h_447' alt='Australia's most beautiful places | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/191011110307-02-australia-beautiful-places.jpg?q=w_2187,h_1230,x_0,y_0,c_fill/h_447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/08/4d/54/au-01.png' alt='Australia Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/08/4d/54/au-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geography of Australia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Australia_satellite_plane.jpg' alt='Geography of Australia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5250">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ed/Australia_satellite_plane.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia Geography - Enchanted Learning">
+                                <img itemprop="contentUrl url" src='https://www.enchantedlearning.com/agifs/Australiamap2.GIF' alt='Australia Geography - Enchanted Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enchanted Learning" />
+                                </span>
+                                <a href='https://www.enchantedlearning.com/agifs/Australiamap2.GIF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Australia A Country Or A Continent? - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/1a/7c/1b/shutterstock-1326727757.jpg' alt='Is Australia A Country Or A Continent? - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/1a/7c/1b/shutterstock-1326727757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

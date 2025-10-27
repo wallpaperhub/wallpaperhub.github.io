@@ -1,0 +1,129 @@
+<title>Essential Insights into Armor History</title>
+                    <meta name="description" content="Discover the fascinating history of armor, exploring its evolution from ancient times to modern uses. Learn how armor has shaped warfare and influenced cultural status, providing protection and symbolizing power throughout the ages. Perfect for history buffs and enthusiasts alike!">
+                    <meta name="keywords" content="armor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/armor-background">
+                            <span itemprop="name">armor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insights into Armor History</h1>
+                <p>Armor has a rich and varied history, serving as a protective layer for warriors throughout the ages. From the gleaming suits of medieval knights to the hardened leather and metal of ancient warriors, armor has evolved in materials and design. Its significance goes beyond function, symbolizing power and status across cultures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Armor Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1553986782-9f6de60b51b4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJtb3J8ZW58MHx8MHx8fDA%3D' alt='30k+ Armor Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1553986782-9f6de60b51b4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJtb3J8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armour Background Images – Browse 336,170 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/07/99/15/360_F_507991574_8JoynLaRzRnOzWIPvlLEn8ftZK2HJl0Q.jpg' alt='Armour Background Images – Browse 336,170 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/07/99/15/360_F_507991574_8JoynLaRzRnOzWIPvlLEn8ftZK2HJl0Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000+ Armor Texture Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/683461942/photo/black-stainless-steel-armor-background.jpg?s=612x612&w=0&k=20&c=Q3q2rv4jJPjV1DPjACs9HRtDLaCWypMzqSRuF-Yu6js=' alt='5,000+ Armor Texture Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/683461942/photo/black-stainless-steel-armor-background.jpg?s=612x612&w=0&k=20&c=Q3q2rv4jJPjV1DPjACs9HRtDLaCWypMzqSRuF-Yu6js=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armor Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-background-with-grunge-metal-texture_1048-6351.jpg' alt='Armor Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-background-with-grunge-metal-texture_1048-6351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper game, armor, background, warrior, knight, Dark Souls 2 ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/81/dark-souls-2-warrior-armor.webp' alt='Wallpaper game, armor, background, warrior, knight, Dark Souls 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/81/dark-souls-2-warrior-armor.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="132,800+ Armor Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/477313663/photo/armour-of-prince.jpg?s=612x612&w=0&k=20&c=DL_dCda4rTEUF7SG17fLWXULqNyfi0_hE-2YZmGJJrc=' alt='132,800+ Armor Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/477313663/photo/armour-of-prince.jpg?s=612x612&w=0&k=20&c=DL_dCda4rTEUF7SG17fLWXULqNyfi0_hE-2YZmGJJrc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Man Made Armor HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/482/482002.jpg' alt='Download Man Made Armor HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/482/482002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A knight in full armor holding a shield with a black cross ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/medieval-knight-stands-with-his-shield-sword-ready-battle_1187703-153597.jpg' alt='A knight in full armor holding a shield with a black cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/medieval-knight-stands-with-his-shield-sword-ready-battle_1187703-153597.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armor Background Stock Illustrations – 61,321 Armor Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/detailed-steel-metal-armor-background-featuring-rivets-ideal-industrial-military-medieval-themed-designs-359524368.jpg' alt='Armor Background Stock Illustrations – 61,321 Armor Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/detailed-steel-metal-armor-background-featuring-rivets-ideal-industrial-military-medieval-themed-designs-359524368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Chain Armor Stock Photo 1088854046 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/background-chain-armor-260nw-1088854046.jpg' alt='Background Chain Armor Stock Photo 1088854046 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/background-chain-armor-260nw-1088854046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

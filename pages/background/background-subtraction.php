@@ -1,0 +1,129 @@
+<title>Mastering Background Subtraction for Object Detection</title>
+                    <meta name="description" content="Discover the essentials of background subtraction, a powerful technique in computer vision for detecting moving objects against static backgrounds. Learn how this method improves surveillance and tracking in various applications. Dive into practical insights and enhance your understanding today!">
+                    <meta name="keywords" content="background subtraction">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-subtraction">
+                            <span itemprop="name">background subtraction</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Background Subtraction for Object Detection</h1>
+                <p>Background subtraction is a computer vision technique used to separate foreground elements from the background in video sequences. By analyzing pixel values over time, it detects changes, allowing for effective object detection, tracking, and segmentation. This method is widely utilized in surveillance, traffic monitoring, and interactive applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OpenCV: How to Use Background Subtraction Methods">
+                                <img itemprop="contentUrl url" src='https://docs.opencv.org/4.x/Background_Subtraction_Tutorial_Scheme.png' alt='OpenCV: How to Use Background Subtraction Methods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenCV Documentation" />
+                                </span>
+                                <a href='https://docs.opencv.org/4.x/Background_Subtraction_Tutorial_Scheme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motion Detection: Part 3 - Background Subtraction | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*uNH-IgN7j68Bonsq_8kFaw.png' alt='Motion Detection: Part 3 - Background Subtraction | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*uNH-IgN7j68Bonsq_8kFaw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OpenCV: How to Use Background Subtraction Methods">
+                                <img itemprop="contentUrl url" src='https://docs.opencv.org/4.x/Background_Subtraction_Tutorial_result_KNN.jpg' alt='OpenCV: How to Use Background Subtraction Methods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenCV Documentation" />
+                                </span>
+                                <a href='https://docs.opencv.org/4.x/Background_Subtraction_Tutorial_result_KNN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Subtraction for multiple conditions - CronJ">
+                                <img itemprop="contentUrl url" src='https://www.cronj.com/blog/wp-content/uploads/background.png' alt='Background Subtraction for multiple conditions - CronJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="914">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CronJ" />
+                                </span>
+                                <a href='https://www.cronj.com/blog/wp-content/uploads/background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Subtraction - donovan parks">
+                                <img itemprop="contentUrl url" src='http://dparks.wdfiles.com/local--files/background-subtraction/FrameDifferencing.jpg' alt='Background Subtraction - donovan parks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1838">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="donovan parks - Wikidot" />
+                                </span>
+                                <a href='http://dparks.wdfiles.com/local--files/background-subtraction/FrameDifferencing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground-Adaptive Background Subtraction | Visual Information ...">
+                                <img itemprop="contentUrl url" src='https://vip.bu.edu/files/2010/02/sidewalk_composite_frame.jpg' alt='Foreground-Adaptive Background Subtraction | Visual Information ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visual Information Processing - Boston University" />
+                                </span>
+                                <a href='https://vip.bu.edu/files/2010/02/sidewalk_composite_frame.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Subtraction - OpenCV 3.4 with python 3 Tutorial 32 ...">
+                                <img itemprop="contentUrl url" src='https://pysource.com/wp-content/uploads/2019/05/background_subtraction_opencv-1024x554.jpg' alt='Background Subtraction - OpenCV 3.4 with python 3 Tutorial 32 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pysource" />
+                                </span>
+                                <a href='https://pysource.com/wp-content/uploads/2019/05/background_subtraction_opencv-1024x554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Background Subtraction Model [4] | Download Scientific Diagram">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/339952995/figure/fig1/AS:869701940944904@1584364509652/Basic-Background-Subtraction-Model-4.jpg' alt='Basic Background Subtraction Model [4] | Download Scientific Diagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/339952995/figure/fig1/AS:869701940944904@1584364509652/Basic-Background-Subtraction-Model-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - rajan9519/Background-subtraction">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/50518930/61319680-8f37cd80-a7bc-11e9-922f-8649605683d4.jpg' alt='GitHub - rajan9519/Background-subtraction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/50518930/61319680-8f37cd80-a7bc-11e9-922f-8649605683d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OpenCV Python Tutorial For Beginners 39 - How to Use Background Subtraction  Methods in OpenCV">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eZ2kDurOodI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeiVFk4-FgqAnLkx5aD6g_KOF8jg' alt='OpenCV Python Tutorial For Beginners 39 - How to Use Background Subtraction  Methods in OpenCV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eZ2kDurOodI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeiVFk4-FgqAnLkx5aD6g_KOF8jg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cottagecore Vintage Mushroom Wallpaper: Whimsical Decor</title>
+                    <meta name="description" content="Explore cottagecore vintage cute mushroom wallpaper that infuses your space with whimsical charm. Perfect for creating a cozy atmosphere, this delightful design features enchanting mushrooms and soft hues, ideal for any room. Transform your home into a fairytale getaway today!">
+                    <meta name="keywords" content="cottagecore vintage cute mushroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cottagecore-vintage-cute-mushroom-wallpaper">
+                            <span itemprop="name">cottagecore vintage cute mushroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cottagecore Vintage Mushroom Wallpaper: Whimsical Decor</h1>
+                <p>Cottagecore vintage cute mushroom wallpaper brings the charm of the countryside into your home. Adorned with whimsical mushrooms and soft pastel tones, this wallpaper creates a dreamy atmosphere, perfect for cozy nooks or adventurous corners. Embrace nature's beauty and transform your space into a fairytale retreat with this enchanting design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SIGNFORD Wall Mural Vintage Mushroom Botanical Cottagecore  Mushroom Removable Wallpaper Wall Sticker for Bedroom Living Room -  132"x168" : ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IYQ8JFhEL.jpg' alt='Amazon.com: SIGNFORD Wall Mural Vintage Mushroom Botanical Cottagecore  Mushroom Removable Wallpaper Wall Sticker for Bedroom Living Room -  132"x168" : ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IYQ8JFhEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Watercolor Mushroom Large Print ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61a4sidDcgL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Watercolor Mushroom Large Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61a4sidDcgL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background mushrooms cottagecore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/5e/b2/3e5eb2f264f90598ef44460c6eb88945.jpg' alt='Background mushrooms cottagecore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/5e/b2/3e5eb2f264f90598ef44460c6eb88945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Print Mushroom Wallpaper, Vintage Illustration Fungi ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/e7efaa/3837698023/il_fullxfull.3837698023_7sa0.jpg' alt='Botanical Print Mushroom Wallpaper, Vintage Illustration Fungi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/e7efaa/3837698023/il_fullxfull.3837698023_7sa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Cottage Core Wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/df/89/06df890487ab8bfbf4c38a9f3836b63e.jpg' alt='Mushroom Cottage Core Wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/df/89/06df890487ab8bfbf4c38a9f3836b63e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chic Mushrooms Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14188168/p/f/l/yVv8vglTQn2HhQJsVL26qbnnwed0Rl8r9A8w3b7QfUNiZ_oXnk3i/Beware%20Poison%20-%20Mushroom%20Dance%20-%20Nostalgic%20Dark%20Moody%20Florals%20Forest%20Psychedelic%20Dramatic%20Glamour%20mushroom%20Mushroom%20Kitchen%20Wallpaper%2C%20Vintage%20Edible%20Mushrooms%20Forest%20Fabric%2C%20%20Antique%20Victorian%20Greenery%2C%20Fall%20Home%20Decor%2C%20%20Gothic%20Woodland%20Harvest%2Cdramatic.jpg' alt='Chic Mushrooms Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14188168/p/f/l/yVv8vglTQn2HhQJsVL26qbnnwed0Rl8r9A8w3b7QfUNiZ_oXnk3i/Beware%20Poison%20-%20Mushroom%20Dance%20-%20Nostalgic%20Dark%20Moody%20Florals%20Forest%20Psychedelic%20Dramatic%20Glamour%20mushroom%20Mushroom%20Kitchen%20Wallpaper%2C%20Vintage%20Edible%20Mushrooms%20Forest%20Fabric%2C%20%20Antique%20Victorian%20Greenery%2C%20Fall%20Home%20Decor%2C%20%20Gothic%20Woodland%20Harvest%2Cdramatic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cottagecore vintage frog and mushrooms design | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5238795464.8669/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Cute Cottagecore vintage frog and mushrooms design | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5238795464.8669/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Organizer Whimsical Mushroom Wallpaper Vintage Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27591818/r/il/b09dca/5076511286/il_570xN.5076511286_tnyi.jpg' alt='Desktop Organizer Whimsical Mushroom Wallpaper Vintage Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27591818/r/il/b09dca/5076511286/il_570xN.5076511286_tnyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RANRAN Vintage Floral Peel and Stick Wallpaper Plant Mushroom Vinyl Self  Adhesive Wallpaper for Bedroom Furniture Paper Removable Wall Decorations  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pB3YwSAZL._AC_UF894,1000_QL80_.jpg' alt='RANRAN Vintage Floral Peel and Stick Wallpaper Plant Mushroom Vinyl Self  Adhesive Wallpaper for Bedroom Furniture Paper Removable Wall Decorations  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pB3YwSAZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia Cottagecore Aesthetic Magical Mushroom Fungi | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2292062657.8839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Dark Academia Cottagecore Aesthetic Magical Mushroom Fungi | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2292062657.8839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

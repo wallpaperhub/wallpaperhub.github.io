@@ -1,0 +1,129 @@
+<title>Understanding the Blue Line Flag: A Symbol of Support</title>
+                    <meta name="description" content="Discover the significance of the blue line flag, a powerful symbol of support for law enforcement. Learn about its origins, meanings, and the respect it conveys to police officers dedicated to keeping communities safe. Join the conversation and show your appreciation today!">
+                    <meta name="keywords" content="blue line flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-line-flag">
+                            <span itemprop="name">blue line flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Blue Line Flag: A Symbol of Support</h1>
+                <p>The blue line flag is a poignant symbol representing law enforcement and their dedication to protecting communities. It features a black and white American flag with a single blue stripe, honoring the sacrifices made by police officers. This flag promotes awareness and support for those who risk their lives for public safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Blue Line American Flag with Grommets">
+                                <img itemprop="contentUrl url" src='https://www.thinbluelineusa.com/cdn/shop/products/Thin_Blue_Line_Flag_6e32ae9b-e0c0-4b30-9359-0d18409aba90.jpg?v=1542521332' alt='Thin Blue Line American Flag with Grommets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thin Blue Line USA" />
+                                </span>
+                                <a href='https://www.thinbluelineusa.com/cdn/shop/products/Thin_Blue_Line_Flag_6e32ae9b-e0c0-4b30-9359-0d18409aba90.jpg?v=1542521332' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vinyl Wrap For Lock Box Lid, Antiqued Thin Blue Line Flag With ...">
+                                <img itemprop="contentUrl url" src='https://warriorrack.com/wp-content/uploads/2021/07/Thin-Blue-Line-Flag-Antiqued-Joshua-1-9.jpg' alt='Vinyl Wrap For Lock Box Lid, Antiqued Thin Blue Line Flag With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="1044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warrior Rack" />
+                                </span>
+                                <a href='https://warriorrack.com/wp-content/uploads/2021/07/Thin-Blue-Line-Flag-Antiqued-Joshua-1-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Thin Blue Line Flag Decal - 3x5 in. Black White and Blue  American Flag Sticker for Cars and Trucks - in Support of Police and Law ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813ikNqGFWL.jpg' alt='Amazon.com: Thin Blue Line Flag Decal - 3x5 in. Black White and Blue  American Flag Sticker for Cars and Trucks - in Support of Police and Law ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813ikNqGFWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Blue Line US Flag">
+                                <img itemprop="contentUrl url" src='https://flagpolefarm.com/wp-content/uploads/2018/01/thin-blue-line.png' alt='Thin Blue Line US Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flagpole Farm" />
+                                </span>
+                                <a href='https://flagpolefarm.com/wp-content/uploads/2018/01/thin-blue-line.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Thin Blue Line Flag (United States).svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Thin_Blue_Line_Flag_%28United_States%29.svg/2560px-Thin_Blue_Line_Flag_%28United_States%29.svg.png' alt='File:Thin Blue Line Flag (United States).svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Thin_Blue_Line_Flag_%28United_States%29.svg/2560px-Thin_Blue_Line_Flag_%28United_States%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THIN BLUE LINE 3x5 FT EMBROIDERED FLAG">
+                                <img itemprop="contentUrl url" src='http://gracealley.com/cdn/shop/products/thin-blue-line-3x5-ft-embroidered-flag-quality-embroidered-stars-and-sewn-stripes-578065.jpg?v=1597558208' alt='THIN BLUE LINE 3x5 FT EMBROIDERED FLAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grace Alley" />
+                                </span>
+                                <a href='http://gracealley.com/cdn/shop/products/thin-blue-line-3x5-ft-embroidered-flag-quality-embroidered-stars-and-sewn-stripes-578065.jpg?v=1597558208' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Blue Line American, Red White & Blue - 3x5 Foot Flag with ...">
+                                <img itemprop="contentUrl url" src='https://www.thinbluelineusa.com/cdn/shop/products/Blue_Line_American_Flag_medium.jpg?v=1603388668' alt='Thin Blue Line American, Red White & Blue - 3x5 Foot Flag with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thin Blue Line USA" />
+                                </span>
+                                <a href='https://www.thinbluelineusa.com/cdn/shop/products/Blue_Line_American_Flag_medium.jpg?v=1603388668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,817 Law Enforcement Thin Blue Line Images, Stock Photos, and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1805207935/display_1500/stock-photo-thin-blue-line-wavy-american-flag-in-support-of-police-and-law-enforcement-1805207935.jpg' alt='2,817 Law Enforcement Thin Blue Line Images, Stock Photos, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1805207935/display_1500/stock-photo-thin-blue-line-wavy-american-flag-in-support-of-police-and-law-enforcement-1805207935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Blue Line US Flag by Flippin Sweet Gear">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/thin-blue-line-us-flag-flippin-sweet-gear.jpg' alt='Thin Blue Line US Flag by Flippin Sweet Gear'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/thin-blue-line-us-flag-flippin-sweet-gear.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Thin Blue & Red Line Flag">
+                                <img itemprop="contentUrl url" src='https://www.customflagcompany.com/wp-content/uploads/2021/03/ThinBlueRed_Web_FlagShop.jpg' alt='American Thin Blue & Red Line Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Flag Company" />
+                                </span>
+                                <a href='https://www.customflagcompany.com/wp-content/uploads/2021/03/ThinBlueRed_Web_FlagShop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Oregon State Police Background Check: Quick Guide</title>
+                    <meta name="description" content="Discover how to get an Oregon State Police background check easily. This concise guide covers the steps and requirements for obtaining your criminal history report, essential for employment, firearm purchases, and more. Ensure safety and compliance with this straightforward process.">
+                    <meta name="keywords" content="oregon state police background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oregon-state-police-background-check">
+                            <span itemprop="name">oregon state police background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Oregon State Police Background Check: Quick Guide</h1>
+                <p>Oregon State Police background checks are essential for various purposes, including employment, gun purchases, and volunteer opportunities. These checks review an individual's criminal history, ensuring public safety and trustworthiness. To initiate a background check, individuals can visit the Oregon State Police website or contact local offices for guidance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Oregon State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal History/Background Checks | Hermiston, OR">
+                                <img itemprop="contentUrl url" src='https://www.hermiston.gov/sites/default/files/styles/gallery500/public/imageattachments/police/page/9391/img-background-check.jpg?itok=A_GUV80B' alt='Criminal History/Background Checks | Hermiston, OR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Hermiston" />
+                                </span>
+                                <a href='https://www.hermiston.gov/sites/default/files/styles/gallery500/public/imageattachments/police/page/9391/img-background-check.jpg?itok=A_GUV80B' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police : Criminal History Record Checks : Criminal ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/osp/programs/cjis/PublishingImages/CJIS_Fee%20Schedule.PNG' alt='Oregon State Police : Criminal History Record Checks : Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/osp/programs/cjis/PublishingImages/CJIS_Fee%20Schedule.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Are Oregon Gun Background Checks Taking Right Now">
+                                <img itemprop="contentUrl url" src='https://how-long-are-oregon-gun-background-checks-taking-right-now.govbackgroundchecks.com/screenshots/how-long-are-oregon-gun-background-checks-taking-right-now/8.jpg' alt='How Long Are Oregon Gun Background Checks Taking Right Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://how-long-are-oregon-gun-background-checks-taking-right-now.govbackgroundchecks.com/screenshots/how-long-are-oregon-gun-background-checks-taking-right-now/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police Request - Own - Background Check Form | PDF">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/644447538/original/618b827788/1?v=1' alt='Oregon State Police Request - Own - Background Check Form | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/644447538/original/618b827788/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Record Login">
+                                <img itemprop="contentUrl url" src='https://openrecords.osp.oregon.gov/orportal/images/osp_icon-aa6ea6bd0861dd03f57d91f2036a9c86.png' alt='Open Record Login'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://openrecords.osp.oregon.gov/orportal/images/osp_icon-aa6ea6bd0861dd03f57d91f2036a9c86.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSP details gun-purchase background check process, works to clear ...">
+                                <img itemprop="contentUrl url" src='https://ktvz.b-cdn.net/2022/11/OSP-firearm-background-check-request-process-860x512.jpg' alt='OSP details gun-purchase background check process, works to clear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTVZ" />
+                                </span>
+                                <a href='https://ktvz.b-cdn.net/2022/11/OSP-firearm-background-check-request-process-860x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police report massive surge in background checks ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/79/979e6e76-65e0-11ed-83e7-8bcb6892bd6c/637532c96417e.image.png' alt='Oregon State Police report massive surge in background checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KEZI" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/79/979e6e76-65e0-11ed-83e7-8bcb6892bd6c/637532c96417e.image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Are Oregon Gun Background Checks Taking Right Now">
+                                <img itemprop="contentUrl url" src='https://how-long-are-oregon-gun-background-checks-taking-right-now.govbackgroundchecks.com/screenshots/how-long-are-oregon-gun-background-checks-taking-right-now/2.jpg' alt='How Long Are Oregon Gun Background Checks Taking Right Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://how-long-are-oregon-gun-background-checks-taking-right-now.govbackgroundchecks.com/screenshots/how-long-are-oregon-gun-background-checks-taking-right-now/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police report massive surge in background checks ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/e7/ce728584-91ad-11ec-8c91-43cb97c62e88/6211305500c2e.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize' alt='Oregon State Police report massive surge in background checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KEZI" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/e7/ce728584-91ad-11ec-8c91-43cb97c62e88/6211305500c2e.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

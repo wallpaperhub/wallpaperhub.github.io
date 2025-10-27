@@ -1,0 +1,129 @@
+<title>Understanding Ascension: A Journey to Higher Consciousness</title>
+                    <meta name="description" content="Explore the concept of ascension, a transformative journey towards higher consciousness and personal growth. Discover insights into spiritual enlightenment, the quest for wisdom, and the deeper connections that define this profound process.">
+                    <meta name="keywords" content="ascension background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ascension-background">
+                            <span itemprop="name">ascension background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Ascension: A Journey to Higher Consciousness</h1>
+                <p>Ascension has deep roots in spirituality and metaphysics, representing the process of rising to a higher state of being. It often embodies personal growth, enlightenment, and the transition to a more elevated consciousness. This journey reflects the pursuit of wisdom, understanding, and a deeper connection with the universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Ascension of Jesus Background – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1335542795684_372.jpg' alt='ShareFaith Media » Ascension of Jesus Background – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1335542795684_372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ascension Background Stock Illustrations – 3,640 Ascension ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/new-182604239.jpg' alt='Ascension Background Stock Illustrations – 3,640 Ascension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/new-182604239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Gradient ascension day background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-ascension-day-background_23-2149365135.jpg' alt='Free Vector | Gradient ascension day background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-ascension-day-background_23-2149365135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ascension Stock Background 5 by bonbonka on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eff3d872-09bd-433f-aefe-b016c6a3af06/daafq21-aeb6e8db-fd38-4caa-a309-c98e542c223e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZjNkODcyLTA5YmQtNDMzZi1hZWZlLWIwMTZjNmEzYWYwNlwvZGFhZnEyMS1hZWI2ZThkYi1mZDM4LTRjYWEtYTMwOS1jOThlNTQyYzIyM2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a9MYdstcuO-YRYL5wxwyrRu6WWWlliMehsS-rH_oQ2c' alt='Ascension Stock Background 5 by bonbonka on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eff3d872-09bd-433f-aefe-b016c6a3af06/daafq21-aeb6e8db-fd38-4caa-a309-c98e542c223e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZjNkODcyLTA5YmQtNDMzZi1hZWZlLWIwMTZjNmEzYWYwNlwvZGFhZnEyMS1hZWI2ZThkYi1mZDM4LTRjYWEtYTMwOS1jOThlNTQyYzIyM2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a9MYdstcuO-YRYL5wxwyrRu6WWWlliMehsS-rH_oQ2c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration of ascension day design background vector with jesus ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/189/549/non_2x/celebration-of-ascension-day-design-background-with-jesus-christ-and-pigeon-vector.jpg' alt='Celebration of ascension day design background vector with jesus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/189/549/non_2x/celebration-of-ascension-day-design-background-with-jesus-christ-and-pigeon-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ascension-day – All Saints, Frindsbury with Upnor and Chattenden">
+                                <img itemprop="contentUrl url" src='https://allsaintsfrindsbury.org.uk/wp-content/uploads/2017/05/ascension-day.jpg' alt='ascension-day – All Saints, Frindsbury with Upnor and Chattenden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Saints, Frindsbury with Upnor and Chattenden" />
+                                </span>
+                                <a href='https://allsaintsfrindsbury.org.uk/wp-content/uploads/2017/05/ascension-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ascension Background Stock Illustrations – 3,640 Ascension ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-ascension-day-jesus-christ-pigeon-cloud-blue-sky-suitable-greeting-card-poster-celebrating-banner-background-183413998.jpg' alt='Ascension Background Stock Illustrations – 3,640 Ascension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-ascension-day-jesus-christ-pigeon-cloud-blue-sky-suitable-greeting-card-poster-celebrating-banner-background-183413998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ascension Day Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230511/pngtree-ascension-day-simple-background-image_2497771.jpg' alt='Ascension Day Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="201">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230511/pngtree-ascension-day-simple-background-image_2497771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Ascension Day Modern Church Worship Background ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1520965921575_602.jpg' alt='ShareFaith Media » Ascension Day Modern Church Worship Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1520965921575_602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ascension Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/ascension-day-concept_23-2148539271.jpg' alt='Ascension Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/ascension-day-concept_23-2148539271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

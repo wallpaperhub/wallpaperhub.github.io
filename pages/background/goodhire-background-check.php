@@ -1,0 +1,129 @@
+<title>Reliable GoodHire Background Checks for Smarter Hiring</title>
+                    <meta name="description" content="Discover the power of GoodHire background checks for informed hiring. Ensure candidate reliability with quick, secure, and compliant evaluations. Get started today for peace of mind and a smarter recruitment process!">
+                    <meta name="keywords" content="goodhire background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/goodhire-background-check">
+                            <span itemprop="name">goodhire background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reliable GoodHire Background Checks for Smarter Hiring</h1>
+                <p>GoodHire background checks provide comprehensive, reliable, and speedy evaluations of potential employees. They ensure hiring decisions are informed by verifying criminal records, employment history, and education. With user-friendly technology and compliance with regulations, GoodHire streamlines the hiring process while maintaining accuracy and security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/04a6haGZ0PVHEHLT0D3NnDA-1.fit_lim.size_1050x.png' alt='GoodHire Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/04a6haGZ0PVHEHLT0D3NnDA-1.fit_lim.size_1050x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/3f91ac96720ba8dc15615a6f16c39fe2/e2d37/06_EASY-TO-USE-1-V2_Resized_23pct.png' alt='Background Check For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/3f91ac96720ba8dc15615a6f16c39fe2/e2d37/06_EASY-TO-USE-1-V2_Resized_23pct.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/04a6haGZ0PVHEHLT0D3NnDA-2.fit_lim.size_1050x.png' alt='GoodHire Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/04a6haGZ0PVHEHLT0D3NnDA-2.fit_lim.size_1050x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire: Employment Background Check Services for Companies">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e3b493421c4700185317fcb16fccfe22/GH-Checkr-logo.svg' alt='GoodHire: Employment Background Check Services for Companies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.goodhire.com" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e3b493421c4700185317fcb16fccfe22/GH-Checkr-logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire: Employment Background Check Services for Companies">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/0516479d92df3aafda7be05a8f814bf2/e2d37/Home_02_MOST-HELPFUL.png' alt='GoodHire: Employment Background Check Services for Companies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.goodhire.com" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/0516479d92df3aafda7be05a8f814bf2/e2d37/Home_02_MOST-HELPFUL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intro to GoodHire Product Demo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qtiKGr1DNSg/hqdefault.jpg' alt='Intro to GoodHire Product Demo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qtiKGr1DNSg/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening for Large Companies | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/66673ce80323548e906ecdf76d559154/e2d37/21_TIME-SAVINGS.png' alt='Employment Screening for Large Companies | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/66673ce80323548e906ecdf76d559154/e2d37/21_TIME-SAVINGS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire and Checkr Join Forces to Power the Future of Work | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/2b6ccf6c66e0aa82a06e38f49b103208/Blog-image-Checkr-GoodHire.png' alt='GoodHire and Checkr Join Forces to Power the Future of Work | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/2b6ccf6c66e0aa82a06e38f49b103208/Blog-image-Checkr-GoodHire.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GoodHire 2025 Pricing, Features, Reviews & Alternatives | GetApp">
+                                <img itemprop="contentUrl url" src='https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7098b96d-a0bd-4945-b8ca-b385c17499d9.png?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format&w=750&h=450&q=50' alt='GoodHire 2025 Pricing, Features, Reviews & Alternatives | GetApp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GetApp" />
+                                </span>
+                                <a href='https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7098b96d-a0bd-4945-b8ca-b385c17499d9.png?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format&w=750&h=450&q=50' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

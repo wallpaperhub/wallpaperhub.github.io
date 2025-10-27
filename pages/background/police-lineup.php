@@ -1,0 +1,129 @@
+<title>Understanding Police Lineups: Identification Process Explained</title>
+                    <meta name="description" content="Discover the significance of police lineups in criminal investigations. Learn how this identification process works, ensuring accurate witness testimonies and fair justice.">
+                    <meta name="keywords" content="police lineup">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/police-lineup">
+                            <span itemprop="name">police lineup</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Police Lineups: Identification Process Explained</h1>
+                <p>A police lineup is a crucial procedure in criminal investigations, allowing witnesses to identify suspects among a group of individuals. Typically, a suspect stands alongside others who match the description, aiding the victim or witness in recognizing the perpetrator. Proper protocols ensure fairness to avoid misidentification and uphold justice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interactive 3D Police Lineups Improve Eyewitness Accuracy">
+                                <img itemprop="contentUrl url" src='https://scitechdaily.com/images/Police-Lineup.jpg' alt='Interactive 3D Police Lineups Improve Eyewitness Accuracy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SciTechDaily" />
+                                </span>
+                                <a href='https://scitechdaily.com/images/Police-Lineup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police lineup - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/04/Oppstilling-2.jpg' alt='Police lineup - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/04/Oppstilling-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Lineups in California | Eisner Gorin LLP">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/1814/124669/large/police-lineups.jpg?1608134214' alt='Police Lineups in California | Eisner Gorin LLP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/1814/124669/large/police-lineups.jpg?1608134214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Improve Police Lineups and ID the Right Culprit | TIME.com">
+                                <img itemprop="contentUrl url" src='https://healthland.time.com/wp-content/uploads/sites/4/2012/08/dv1163002a.jpg?w=600' alt='How to Improve Police Lineups and ID the Right Culprit | TIME.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health - Time" />
+                                </span>
+                                <a href='https://healthland.time.com/wp-content/uploads/sites/4/2012/08/dv1163002a.jpg?w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reforms urged in Nebraska police lineup procedures | Nebraska ...">
+                                <img itemprop="contentUrl url" src='https://nebraskapublicmedia.org/assets/images/BestOf_SigSto_Eyewitness_BANNER01_0_v7rk9Qd.min-800x600.jpg' alt='Reforms urged in Nebraska police lineup procedures | Nebraska ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nebraska Public Media" />
+                                </span>
+                                <a href='https://nebraskapublicmedia.org/assets/images/BestOf_SigSto_Eyewitness_BANNER01_0_v7rk9Qd.min-800x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="172 Criminal Lineup Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/160577155/photo/men-in-a-police-lineup.jpg?s=612x612&w=gi&k=20&c=-X_lOv_DKfa4rN9AdEhtBuoaIEvISHTh1r5_Ei1j0fs=' alt='172 Criminal Lineup Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/160577155/photo/men-in-a-police-lineup.jpg?s=612x612&w=gi&k=20&c=-X_lOv_DKfa4rN9AdEhtBuoaIEvISHTh1r5_Ei1j0fs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lineups and Pre-trial ID – Not just for the prosecution! - Gambone Law">
+                                <img itemprop="contentUrl url" src='https://gambonelaw.com/wp-content/uploads/2019/10/police-lineup(1).jpg' alt='Lineups and Pre-trial ID – Not just for the prosecution! - Gambone Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gambone Law" />
+                                </span>
+                                <a href='https://gambonelaw.com/wp-content/uploads/2019/10/police-lineup(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyewitness accuracy in police lineups">
+                                <img itemprop="contentUrl url" src='https://www.apa.org/images/eyewitness-accuracy-police-lineups-tile_tcm7-293108.jpg' alt='Eyewitness accuracy in police lineups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Psychological Association" />
+                                </span>
+                                <a href='https://www.apa.org/images/eyewitness-accuracy-police-lineups-tile_tcm7-293108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 5x7ft Police Lineup Mugshot Party Backdrop for Man Woman  photoshot Photography Studio Background : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71oYwLdrzWL.jpg' alt='Amazon.com : 5x7ft Police Lineup Mugshot Party Backdrop for Man Woman  photoshot Photography Studio Background : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1238">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71oYwLdrzWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="410+ Women In A Police Lineup Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/168858007/photo/women-in-a-police-lineup.jpg?s=612x612&w=0&k=20&c=2cyf5BGqyEVdtZf4RQLl8De1rxysIsM-2qg7vln-9mg=' alt='410+ Women In A Police Lineup Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/168858007/photo/women-in-a-police-lineup.jpg?s=612x612&w=0&k=20&c=2cyf5BGqyEVdtZf4RQLl8De1rxysIsM-2qg7vln-9mg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

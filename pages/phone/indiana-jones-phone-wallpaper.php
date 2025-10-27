@@ -1,0 +1,129 @@
+<title>Epic Indiana Jones Phone Wallpapers for Adventure Lovers</title>
+                    <meta name="description" content="Discover the best Indiana Jones phone wallpapers! Transform your device with stunning images of the adventurous archaeologist, perfect for fans of the franchise. Dive into the action with high-quality visuals, designed to inspire every day. Take the adventure with you wherever you go!">
+                    <meta name="keywords" content="indiana jones phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/indiana-jones-phone-wallpaper">
+                            <span itemprop="name">indiana jones phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Indiana Jones Phone Wallpapers for Adventure Lovers</h1>
+                <p>Transform your device with striking Indiana Jones phone wallpapers! Explore adventures featuring the iconic archaeologist amidst ancient temples, rugged landscapes, and thrilling escapades. Choose from vibrant images showcasing action-packed scenes, classic quotes, or stylish minimalist designs, perfect for any fan. Adventure awaits on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Indiana Jones iPhone wallpapers for you fine men and women of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mkj0a68om5a71.jpg' alt='Some Indiana Jones iPhone wallpapers for you fine men and women of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mkj0a68om5a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some phone wallpapers I whipped up in Photoshop : r/indianajones">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-phone-wallpapers-i-whipped-up-in-photoshop-v0-no88esfqj72e1.jpg?width=640&crop=smart&auto=webp&s=fddac870366be6aecc86c24d4a93251ecff3b5e4' alt='Some phone wallpapers I whipped up in Photoshop : r/indianajones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-phone-wallpapers-i-whipped-up-in-photoshop-v0-no88esfqj72e1.jpg?width=640&crop=smart&auto=webp&s=fddac870366be6aecc86c24d4a93251ecff3b5e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Indiana Jones iPhone wallpapers for you fine men and women of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hemvbo7om5a71.jpg' alt='Some Indiana Jones iPhone wallpapers for you fine men and women of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hemvbo7om5a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harrison Ford (Indiana Jones) Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/7/2/552233-1536x2732-iphone-hd-harrison-ford-indiana-jones-background-image.jpg' alt='Harrison Ford (Indiana Jones) Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/7/2/552233-1536x2732-iphone-hd-harrison-ford-indiana-jones-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD indiana jones wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/737/120/HD-wallpaper-indy-indiana-jones-thumbnail.jpg' alt='HD indiana jones wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/737/120/HD-wallpaper-indy-indiana-jones-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana Jones Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/4/1/39480-1284x2778-iphone-hd-indiana-jones-background-image.jpg' alt='Indiana Jones Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/4/1/39480-1284x2778-iphone-hd-indiana-jones-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Indiana Jones And The Dial Of Destiny Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/thumb-1920-1009600.jpeg' alt='Download Movie Indiana Jones And The Dial Of Destiny Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/thumb-1920-1009600.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Indiana Jones iPhone wallpapers for you fine men and women of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e8tq977om5a71.jpg' alt='Some Indiana Jones iPhone wallpapers for you fine men and women of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e8tq977om5a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Indiana Jones iPhone wallpapers for you fine men and women of ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lnnia67om5a71.jpg?width=640&crop=smart&auto=webp&s=705954601f45906f65f884feefdf20c92baeb7fa' alt='Some Indiana Jones iPhone wallpapers for you fine men and women of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lnnia67om5a71.jpg?width=640&crop=smart&auto=webp&s=705954601f45906f65f884feefdf20c92baeb7fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana Jones and the Great Circle wallpaper 02 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Indiana+Jones+and+the+Great+Circle&nummer=02&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8560' alt='Indiana Jones and the Great Circle wallpaper 02 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Indiana+Jones+and+the+Great+Circle&nummer=02&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8560' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

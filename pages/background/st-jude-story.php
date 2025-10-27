@@ -1,0 +1,129 @@
+<title>St. Jude: Patron Saint of Lost Causes</title>
+                    <meta name="description" content="Explore the inspiring story of St. Jude, the patron saint of lost causes. Discover his unwavering faith, legacy, and his role in guiding those facing despair. Join countless devotees in seeking hope and healing through his powerful intercession.">
+                    <meta name="keywords" content="st jude story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/st-jude-story">
+                            <span itemprop="name">st jude story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>St. Jude: Patron Saint of Lost Causes</h1>
+                <p>St. Jude, known as the patron saint of lost causes, was one of Jesus’ apostles. His story is one of unwavering faith and dedication. Often depicted with a flame, symbolizing the light of hope amidst despair, St. Jude inspires many to seek guidance in difficult times. His legacy endures through prayer and devotion worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Story of St. Jude Thaddeus | Stories of Saints | English">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xY46n9T-EzE/maxresdefault.jpg' alt='Story of St. Jude Thaddeus | Stories of Saints | English'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xY46n9T-EzE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About St. Jude - Patron Saint Article">
+                                <img itemprop="contentUrl url" src='https://catholicsaintmedals.com/wp-content/uploads/jude-hc.jpg' alt='About St. Jude - Patron Saint Article'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="411">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Saint Medals" />
+                                </span>
+                                <a href='https://catholicsaintmedals.com/wp-content/uploads/jude-hc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Jude | The National Shrine of Saint Jude">
+                                <img itemprop="contentUrl url" src='https://shrineofstjude.org/wp-content/uploads/2018/11/St-Jude.jpg' alt='St. Jude | The National Shrine of Saint Jude'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Shrine of St. Jude" />
+                                </span>
+                                <a href='https://shrineofstjude.org/wp-content/uploads/2018/11/St-Jude.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Saint Jude? | National Shrine of Saint Jude">
+                                <img itemprop="contentUrl url" src='https://www.stjudeshrine.org.uk/sites/default/files/jude01.jpg' alt='Who is Saint Jude? | National Shrine of Saint Jude'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Shrine of Saint Jude |" />
+                                </span>
+                                <a href='https://www.stjudeshrine.org.uk/sites/default/files/jude01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Saint Jude | PDF | New Testament Content | Jesus">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/474526749/original/b399b61b7f/1?v=1' alt='History of Saint Jude | PDF | New Testament Content | Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/474526749/original/b399b61b7f/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Jude Thaddaeus - Saints & Angels - Catholic Online">
+                                <img itemprop="contentUrl url" src='https://www.catholic.org/files/images/saints/stjude.jpg' alt='St. Jude Thaddaeus - Saints & Angels - Catholic Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="137">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Online" />
+                                </span>
+                                <a href='https://www.catholic.org/files/images/saints/stjude.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosary Shrine of Saint Jude - If you have a story of Saint Jude ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4244913782187534' alt='Rosary Shrine of Saint Jude - If you have a story of Saint Jude ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4244913782187534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Jude Biography | St. Jude Parish">
+                                <img itemprop="contentUrl url" src='https://stjudedetroit.org/wp-content/uploads/2639203.jpg' alt='St. Jude Biography | St. Jude Parish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Jude Parish" />
+                                </span>
+                                <a href='https://stjudedetroit.org/wp-content/uploads/2639203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life and Legacy of Saint Jude Thaddeus: Patron Saint of Lost Cause">
+                                <img itemprop="contentUrl url" src='https://thefaithgiftshop.com/cdn/shop/articles/Thefaithgiftshop.com-03.jpg?v=1683518619&width=1024' alt='The Life and Legacy of Saint Jude Thaddeus: Patron Saint of Lost Cause'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Faith Gift Shop" />
+                                </span>
+                                <a href='https://thefaithgiftshop.com/cdn/shop/articles/Thefaithgiftshop.com-03.jpg?v=1683518619&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About St. Jude - Patron Saint Article">
+                                <img itemprop="contentUrl url" src='https://catholicsaintmedals.com/wp-content/uploads/HC-Jude.jpg' alt='About St. Jude - Patron Saint Article'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="378">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Saint Medals" />
+                                </span>
+                                <a href='https://catholicsaintmedals.com/wp-content/uploads/HC-Jude.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Iconic Windows 1 Wallpaper: Vintage Charm for Modern Screens</title>
+                    <meta name="description" content="Explore the classic beauty of Windows 1 wallpaper, a nostalgic tribute to the early days of computing. Perfect for retro enthusiasts and modern users alike, this timeless design brings a unique touch to your desktop. Download now and experience vintage charm on your screen!">
+                    <meta name="keywords" content="windows 1 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/windows-1-wallpaper">
+                            <span itemprop="name">windows 1 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Iconic Windows 1 Wallpaper: Vintage Charm for Modern Screens</h1>
+                <p>Windows 1 wallpaper showcases the iconic design aesthetic of the original Windows operating system. Characterized by its classic blue background and simple graphics, this wallpaper evokes nostalgia for early computing days. Download and relive that vintage charm, or use it to add a touch of retro flair to your modern setup.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story behind the Famous Windows XP Desktop Background | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910' alt='The Story behind the Famous Windows XP Desktop Background | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Old Logo In Teal Windows 1 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-1-fj9a0vlw7nmmdjia.jpg' alt='Download Old Logo In Teal Windows 1 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-1-fj9a0vlw7nmmdjia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 1 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-1-87dkz6ojo114sjcz.jpg' alt='100+] Windows 1 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-1-87dkz6ojo114sjcz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for windows 1.0 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/34/0f/d6340fa242de3baf1e38e336885d75f4.jpg' alt='Image result for windows 1.0 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/34/0f/d6340fa242de3baf1e38e336885d75f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Windows 1.0 Wallpaper [2560x1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/microsoft-windows-1-0-wallpaper-2560x1080-v0-s8u3wdfwn3ac1.png?auto=webp&s=5e725bb8329540b001847964e810747fcef07c81' alt='Microsoft Windows 1.0 Wallpaper [2560x1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/microsoft-windows-1-0-wallpaper-2560x1080-v0-s8u3wdfwn3ac1.png?auto=webp&s=5e725bb8329540b001847964e810747fcef07c81' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 7 Wallpapers : Microsoft : Free Download, Borrow, and ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/download/ms-windows-7-wallpapers/img0.jpg' alt='Windows 7 Wallpapers : Microsoft : Free Download, Borrow, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/download/ms-windows-7-wallpapers/img0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper-2005-1-2 by snsn on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63d70a7e-6cb7-41cc-9536-63d177809694/d8h10m-503ef961-d3f1-48f7-9600-510034679498.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzZDcwYTdlLTZjYjctNDFjYy05NTM2LTYzZDE3NzgwOTY5NFwvZDhoMTBtLTUwM2VmOTYxLWQzZjEtNDhmNy05NjAwLTUxMDAzNDY3OTQ5OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.FaQhdU09L1rS2vxkX9CLSJEIKc5WAT3noxJbT0EdjsY' alt='wallpaper-2005-1-2 by snsn on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63d70a7e-6cb7-41cc-9536-63d177809694/d8h10m-503ef961-d3f1-48f7-9600-510034679498.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzZDcwYTdlLTZjYjctNDFjYy05NTM2LTYzZDE3NzgwOTY5NFwvZDhoMTBtLTUwM2VmOTYxLWQzZjEtNDhmNy05NjAwLTUxMDAzNDY3OTQ5OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.FaQhdU09L1rS2vxkX9CLSJEIKc5WAT3noxJbT0EdjsY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 - Windows Wallpaper Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikitide.net/windowswallpaperwiki/thumb/9/99/Img0_%28Windows_10_1903%29.jpg/200px-Img0_%28Windows_10_1903%29.jpg' alt='Windows 10 - Windows Wallpaper Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windows Wallpaper Wiki - Miraheze" />
+                                </span>
+                                <a href='https://static.wikitide.net/windowswallpaperwiki/thumb/9/99/Img0_%28Windows_10_1903%29.jpg/200px-Img0_%28Windows_10_1903%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Creators Update Wallpapers | by Michael Gillett | My ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*Ku9_jRDn9UfBU-yR9tF-cQ.jpeg' alt='Windows 10 Creators Update Wallpapers | by Michael Gillett | My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*Ku9_jRDn9UfBU-yR9tF-cQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Creators Update Wallpapers | by Michael Gillett | My ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*HcuImNBtJSafo7bLtKcS0w.png' alt='Windows 10 Creators Update Wallpapers | by Michael Gillett | My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*HcuImNBtJSafo7bLtKcS0w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

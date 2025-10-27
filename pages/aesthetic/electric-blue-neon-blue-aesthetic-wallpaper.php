@@ -1,0 +1,129 @@
+<title>Electric Blue Neon Aesthetic Wallpaper: Revamp Your Space</title>
+                    <meta name="description" content="Discover the electrifying beauty of neon blue aesthetic wallpaper. Perfect for transforming any room into a vibrant haven, our collection features stunning designs that enhance your space with a modern touch. Elevate your interior decor with the captivating allure of electric blue hues.">
+                    <meta name="keywords" content="electric blue neon blue aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/electric-blue-neon-blue-aesthetic-wallpaper">
+                            <span itemprop="name">electric blue neon blue aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Electric Blue Neon Aesthetic Wallpaper: Revamp Your Space</h1>
+                <p>Transform your space with electric blue neon blue aesthetic wallpaper that radiates vibrancy and energy. Ideal for modern interiors, these wallpapers feature striking hues and luminous patterns, creating a stunning visual impact. Perfect for accent walls or entire rooms, embrace the futuristic vibe of neon aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue aesthetic 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-gsgvo1zaae8tloxq.jpg' alt='Neon blue aesthetic 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-gsgvo1zaae8tloxq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Electric Blue Neon Blue Aesthetic Images - Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' alt='Wallpaper Electric Blue Neon Blue Aesthetic Images - Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="electric blue wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/3a/7f/a53a7f0abc5f5b1b38b7b8e7da08b855.jpg' alt='electric blue wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/3a/7f/a53a7f0abc5f5b1b38b7b8e7da08b855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Electric blue aesthetic ideas | blue aesthetic, feeling blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/36/c5/1a/36c51a34095762615aa860999f62e1b4.jpg' alt='42 Electric blue aesthetic ideas | blue aesthetic, feeling blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/36/c5/1a/36c51a34095762615aa860999f62e1b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Electric Blue Neon Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/electric-blue-neon-collage-d55q0a2t4kf85ozx.jpg' alt='100+] Electric Blue Neon Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/electric-blue-neon-collage-d55q0a2t4kf85ozx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue aesthetic 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/144/718/HD-wallpaper-blue-neon-abstract-abstract-blue-dark-neon-thumbnail.jpg' alt='Neon blue aesthetic 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/144/718/HD-wallpaper-blue-neon-abstract-abstract-blue-dark-neon-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An electric blue aesthetic - something vibrant, but ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-1vv1y373f6snu6he.jpg' alt='Download An electric blue aesthetic - something vibrant, but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-1vv1y373f6snu6he.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1b/61/60/1b6160a4473adcd0e155d68a4d00b19b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1b/61/60/1b6160a4473adcd0e155d68a4d00b19b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Signs Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/blue-neon-signs-collage-txxsnqfz8ye8sd84.jpg' alt='Blue Neon Signs Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/blue-neon-signs-collage-txxsnqfz8ye8sd84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Night Cityscape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-neon-night-cityscape-q0zwytk1tcmfj2vw.jpg' alt='Blue Neon Night Cityscape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-neon-night-cityscape-q0zwytk1tcmfj2vw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Takashi Murakami Flower Wallpaper</title>
+                    <meta name="description" content="Add a pop of color to your home with Takashi Murakami flower wallpaper. Featuring iconic floral designs, this wallpaper enhances any room's aesthetic, bringing artistry and joy to your decor. Ideal for anyone looking to transform their space with unique, vibrant art.">
+                    <meta name="keywords" content="takashi murakami flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/takashi-murakami-flower-wallpaper">
+                            <span itemprop="name">takashi murakami flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Takashi Murakami Flower Wallpaper</h1>
+                <p>Transform your space with the vibrant and whimsical Takashi Murakami flower wallpaper. Celebrated for its bold colors and playful designs, this wallpaper creates an artistic atmosphere that brightens any room. Perfect for those seeking a unique decor style, Murakami's iconic floral patterns bring joy and creativity to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami Flower | Hypebeast iphone wallpaper, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/7f/c1/9a7fc151e7a75d6da789e3c3160352ed.jpg' alt='Takashi Murakami Flower | Hypebeast iphone wallpaper, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/7f/c1/9a7fc151e7a75d6da789e3c3160352ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami Flower">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/02/90/250290cb2920a00f8f95e36837e15b64.jpg' alt='Takashi Murakami Flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/02/90/250290cb2920a00f8f95e36837e15b64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami's Flowers | Zarastro Art">
+                                <img itemprop="contentUrl url" src='https://zarastro.art/wp-content/uploads/2023/08/Takashi-Murakami-The-future-will-be-full-of-smiles-for-sure-FIAC-Paris-2013.-Photo-by-bflv.webp' alt='Takashi Murakami's Flowers | Zarastro Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zarastro Art" />
+                                </span>
+                                <a href='https://zarastro.art/wp-content/uploads/2023/08/Takashi-Murakami-The-future-will-be-full-of-smiles-for-sure-FIAC-Paris-2013.-Photo-by-bflv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murakami Flower Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/b5/15/77b5151efd79967a707d4f346eafcedf.jpg' alt='Murakami Flower Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/b5/15/77b5151efd79967a707d4f346eafcedf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murakami Wallpaper Phone - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/fd/bb/02fdbb74f993f7e0f7f32eed64de9e55.jpg' alt='Murakami Wallpaper Phone - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/fd/bb/02fdbb74f993f7e0f7f32eed64de9e55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="วอเปอร์เปอร์ตาคาชิ มูราคามิ: งานศิลปะที่สวยงาม">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7112004493033737514&location=0&aid=1988' alt='วอเปอร์เปอร์ตาคาชิ มูราคามิ: งานศิลปะที่สวยงาม'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7112004493033737514&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murakami flower wallpaper sale">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/macau-morpheus-hotel-takashi-murakami-flowers-smiley-faces-design-icon-mural-illustration-kaikai-kiki-gallery-installation-191368590.jpg' alt='Murakami flower wallpaper sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bilumina.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/macau-morpheus-hotel-takashi-murakami-flowers-smiley-faces-design-icon-mural-illustration-kaikai-kiki-gallery-installation-191368590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami Smiley Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/takashi-murakami-smiley-flowers-tfoec7a68zfu4e3j.webp' alt='Takashi Murakami Smiley Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/takashi-murakami-smiley-flowers-tfoec7a68zfu4e3j.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi murakami✨flower | Murakami flower, Pretty wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/d0/f7/5ed0f7bb7ae8ab814d074df5636841aa.jpg' alt='Takashi murakami✨flower | Murakami flower, Pretty wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/d0/f7/5ed0f7bb7ae8ab814d074df5636841aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Takashi Murakami Flower">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/785235808259031364/9D41A92B1FB7CAB55DDDBADFA4A1945FF35413A9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: :: Takashi Murakami Flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/785235808259031364/9D41A92B1FB7CAB55DDDBADFA4A1945FF35413A9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

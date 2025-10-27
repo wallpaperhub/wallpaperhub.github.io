@@ -1,0 +1,129 @@
+<title>Trendy Pastel Phone Wallpapers for a Calming Aesthetic</title>
+                    <meta name="description" content="Discover stunning pastel phone wallpapers that transform your device into a serene masterpiece. Explore a variety of designs that bring a soothing touch to your screen, perfect for adding elegance and tranquility. Upgrade your phone’s look with these stylish and calming wallpapers today!">
+                    <meta name="keywords" content="pastel phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/pastel-phone-wallpaper">
+                            <span itemprop="name">pastel phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pastel Phone Wallpapers for a Calming Aesthetic</h1>
+                <p>Pastel phone wallpapers are a delightful way to personalize your device with soft, soothing colors that enhance your mood. These wallpapers come in various designs, from minimalistic patterns to floral themes, creating a calming aesthetic. Perfect for anyone looking to add a touch of elegance and tranquility to their phone's interface.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EleuV97UYAAyluN.jpg' alt='Pastel phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EleuV97UYAAyluN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-iphone-nlfoag3cyqt5aoa8.jpg' alt='100+] Pastel Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-iphone-nlfoag3cyqt5aoa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Phone Paint Patterns Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-phone-paint-patterns-puko8plk1s1fec9l.jpg' alt='Pastel Phone Paint Patterns Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-phone-paint-patterns-puko8plk1s1fec9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7a/cd/e2/7acde22c01c188cb008a3406c7bbc2a6.jpg' alt='Pastel phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7a/cd/e2/7acde22c01c188cb008a3406c7bbc2a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel | Watercolor wallpaper phone, Wallpaper iphone summer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/d9/cb/f1d9cb04374bd08bcb9d99565ac31c1b.jpg' alt='Pastel | Watercolor wallpaper phone, Wallpaper iphone summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/d9/cb/f1d9cb04374bd08bcb9d99565ac31c1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Phone Minimalist Flower Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-phone-minimalist-flower-a9cptejtcib61uo3.jpg' alt='Pastel Phone Minimalist Flower Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-phone-minimalist-flower-a9cptejtcib61uo3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pastel wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/291/105/HD-wallpaper-pastel-paint-swipes-abstract-paint-swipes-pastel-burst-pastel-spikes-pastels-pink-and-mint-pink-and-peach-pretty-texture-thumbnail.jpg' alt='HD pastel wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/291/105/HD-wallpaper-pastel-paint-swipes-abstract-paint-swipes-pastel-burst-pastel-spikes-pastels-pink-and-mint-pink-and-peach-pretty-texture-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODktYmctMTQtZC14LmpwZw.jpg' alt='Pastel Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODktYmctMTQtZC14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Pastel | Purple Wallpaper Phone, Purple | Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/4e/fc/0b4efc1f0fc1d86823bef792601bfc58.jpg' alt='Wallpaper Pastel | Purple Wallpaper Phone, Purple | Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/4e/fc/0b4efc1f0fc1d86823bef792601bfc58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wallpaper Iphone Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/unicorn-pastel-phone-wallpaper-background_53876-160462.jpg' alt='Pastel Wallpaper Iphone Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/unicorn-pastel-phone-wallpaper-background_53876-160462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

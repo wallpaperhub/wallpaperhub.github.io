@@ -1,0 +1,129 @@
+<title>Spooktacular Pokémon Halloween Wallpapers</title>
+                    <meta name="description" content="Get in the Halloween spirit with unique Pokémon wallpapers! Perfect for fans looking to add a spooky touch to their screens. Enjoy colorful designs featuring your favorite characters in festive Halloween scenes. Download now for a ghoulishly good look!">
+                    <meta name="keywords" content="halloween pokemon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/halloween-pokemon-wallpaper">
+                            <span itemprop="name">halloween pokemon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Pokémon Halloween Wallpapers</h1>
+                <p>Transform your device this Halloween with vibrant Pokémon wallpaper! Featuring spooky designs of Pikachu, Ghastly, and other beloved characters in festive settings, these wallpapers are perfect to celebrate the season. Embrace the spirit of Halloween while showcasing your love for Pokémon. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Halloween 2016 by DenaJarawr on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/73/48/c77348c169ea27d62d8fa4ae855f60b6.jpg' alt='Pokemon Halloween 2016 by DenaJarawr on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/73/48/c77348c169ea27d62d8fa4ae855f60b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Ghost Pokemon Phone Wallpapers for Halloween [OC] (3200x1440 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h1u7lufxcws71.png' alt='Neon Ghost Pokemon Phone Wallpapers for Halloween [OC] (3200x1440 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h1u7lufxcws71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebratory Pokemon Halloween Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pokemon-halloween-gbpi5rhobzy0i0wi.jpg' alt='Download Celebratory Pokemon Halloween Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pokemon-halloween-gbpi5rhobzy0i0wi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Halloween 2, background, fun, theme, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/198/950/HD-wallpaper-pokemon-halloween-2-background-fun-theme.jpg' alt='Pokemon Halloween 2, background, fun, theme, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/198/950/HD-wallpaper-pokemon-halloween-2-background-fun-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon-style Halloween Ghost Pokemon Wallpaper for your desktop! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/neon-style-halloween-ghost-pokemon-wallpaper-for-your-v0-cnvbpe6wm1w91.png?width=640&crop=smart&auto=webp&s=b4b524779447b7b7de5454952d503adef7e97cdf' alt='Neon-style Halloween Ghost Pokemon Wallpaper for your desktop! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/neon-style-halloween-ghost-pokemon-wallpaper-for-your-v0-cnvbpe6wm1w91.png?width=640&crop=smart&auto=webp&s=b4b524779447b7b7de5454952d503adef7e97cdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Pokemon Halloween Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/be/77/07be775f7567f26cf64ec69adf2c1e75.jpg' alt='Awesome Pokemon Halloween Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/be/77/07be775f7567f26cf64ec69adf2c1e75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost-type Halloween Pokemon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ghost-type-halloween-pokemon-iphone-cvraree282vgjv9c.jpg' alt='Ghost-type Halloween Pokemon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ghost-type-halloween-pokemon-iphone-cvraree282vgjv9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Pokemon Halloween Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pokemon-halloween-5a34mipdibmot6y4.jpg' alt='Download Vibrant Pokemon Halloween Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pokemon-halloween-5a34mipdibmot6y4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Pokemon Road Wallpaper by TamarinFrog on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63ad118f-8490-41fa-99fa-5ef66bbeef7c/de7irc2-e30f9485-84fa-4c8c-bb47-dfaadb869ae1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzYWQxMThmLTg0OTAtNDFmYS05OWZhLTVlZjY2YmJlZWY3Y1wvZGU3aXJjMi1lMzBmOTQ4NS04NGZhLTRjOGMtYmI0Ny1kZmFhZGI4NjlhZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.r-vUbxDH9W2x9Q_Tz31dJHgIiGc1gRBcsaoqT79i55U' alt='Spooky Pokemon Road Wallpaper by TamarinFrog on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63ad118f-8490-41fa-99fa-5ef66bbeef7c/de7irc2-e30f9485-84fa-4c8c-bb47-dfaadb869ae1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzYWQxMThmLTg0OTAtNDFmYS05OWZhLTVlZjY2YmJlZWY3Y1wvZGU3aXJjMi1lMzBmOTQ4NS04NGZhLTRjOGMtYmI0Ny1kZmFhZGI4NjlhZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.r-vUbxDH9W2x9Q_Tz31dJHgIiGc1gRBcsaoqT79i55U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pokemon Wallpaper - Thiars Wolf's Ko-fi Shop - Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/b7e1511b-5923-43f0-9add-b37038a714a8_img_1086.jpg' alt='Halloween Pokemon Wallpaper - Thiars Wolf's Ko-fi Shop - Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/b7e1511b-5923-43f0-9add-b37038a714a8_img_1086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

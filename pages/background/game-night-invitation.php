@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="game night invitation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/game-night-invitation">
+                            <span itemprop="name">game night invitation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Game Night Invitation, Board Games House Party Invite ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29267633/r/il/bb92bb/5919972509/il_570xN.5919972509_bez3.jpg' alt='Editable Game Night Invitation, Board Games House Party Invite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29267633/r/il/bb92bb/5919972509/il_570xN.5919972509_bez3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Rehearsal Dinner Invitations">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/product/g/a/game-night-rehearsal-dinner-invitations-up-2x.jpg' alt='Game Night Rehearsal Dinner Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Invite" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/product/g/a/game-night-rehearsal-dinner-invitations-up-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night | Fun Game Night Invitation, Board Game Card Game ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20711865/r/il/7512ac/4799607631/il_fullxfull.4799607631_3gdl.jpg' alt='Game Night | Fun Game Night Invitation, Board Game Card Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20711865/r/il/7512ac/4799607631/il_fullxfull.4799607631_3gdl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Board Game Night Party Invitation Customizable Template DIY | Bobotemp">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/IUvpkuqoHg/5trPX3rqHz___xfFpg_v1_compressed.jpg' alt='Board Game Night Party Invitation Customizable Template DIY | Bobotemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/IUvpkuqoHg/5trPX3rqHz___xfFpg_v1_compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Game Night Invitation, Board Game Night Invite, Card Game ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37495802/r/il/ee8b16/5242790184/il_fullxfull.5242790184_2glk.jpg' alt='Editable Game Night Invitation, Board Game Night Invite, Card Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37495802/r/il/ee8b16/5242790184/il_fullxfull.5242790184_2glk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Printable Invitation and Game Review - Printables 4 Mom">
+                                <img itemprop="contentUrl url" src='https://www.printables4mom.com/wp-content/uploads/2016/02/GameNight-001.jpg' alt='Game Night Printable Invitation and Game Review - Printables 4 Mom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printables 4 Mom" />
+                                </span>
+                                <a href='https://www.printables4mom.com/wp-content/uploads/2016/02/GameNight-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poker Game Night - Sports & games Invitation Template (Free ...">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/party%20theme/previews/poker-game-night-14441.jpeg?auto=format,compress' alt='Poker Game Night - Sports & games Invitation Template (Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/party%20theme/previews/poker-game-night-14441.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Board Game Night Birthday Party Invitation">
+                                <img itemprop="contentUrl url" src='https://rlv.zcache.com/modern_board_game_night_birthday_party_invitation-r_vsjx1u_200.webp' alt='Modern Board Game Night Birthday Party Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zazzle" />
+                                </span>
+                                <a href='https://rlv.zcache.com/modern_board_game_night_birthday_party_invitation-r_vsjx1u_200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to School Game Night Invitation Flyer Template">
+                                <img itemprop="contentUrl url" src='http://templatemylife.com/cdn/shop/files/back-to-school-game-night-invitation-flyer-templatetemplate-my-life-tml-design-663739.jpg?v=1724877834' alt='Back to School Game Night Invitation Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template My Life" />
+                                </span>
+                                <a href='http://templatemylife.com/cdn/shop/files/back-to-school-game-night-invitation-flyer-templatetemplate-my-life-tml-design-663739.jpg?v=1724877834' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Party, Family Game Night, Game Night Invite, Video Game ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b7/60/9e/b7609ee429b693de36ca85485612f471.jpg' alt='Game Night Party, Family Game Night, Game Night Invite, Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b7/60/9e/b7609ee429b693de36ca85485612f471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

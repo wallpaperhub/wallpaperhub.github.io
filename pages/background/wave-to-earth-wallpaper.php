@@ -1,0 +1,129 @@
+<title>Stunning Wave to Earth Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wave to earth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wave-to-earth-wallpaper">
+                            <span itemprop="name">wave to earth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wave to Earth Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning "Wave to Earth" wallpapers that capture the beauty of ocean waves embracing our planet. These vibrant images offer a serene escape, bringing nature's calm directly to your screen. Perfect for nature lovers and those seeking inspiration, this collection invigorates your daily tech experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wave to earth wallpaper (mine)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bc/1f/6e/bc1f6e102cf9390c433d504af06b8398.jpg' alt='wave to earth wallpaper (mine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bc/1f/6e/bc1f6e102cf9390c433d504af06b8398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Wave to earth ideas | earth, waves, earth poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/d0/14/11d014040583c18f6ba3089dce24b1aa.jpg' alt='63 Wave to earth ideas | earth, waves, earth poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/d0/14/11d014040583c18f6ba3089dce24b1aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Wave to earth ideas | earth, waves, earth poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1c/ba/ed/1cbaed39312f32119066b3cf104bdc00.jpg' alt='63 Wave to earth ideas | earth, waves, earth poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1c/ba/ed/1cbaed39312f32119066b3cf104bdc00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wave to earth surf. ❤️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/72/29/2972293ff5a089abe2bd7c0b1d4a19cc.jpg' alt='wave to earth surf. ❤️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/72/29/2972293ff5a089abe2bd7c0b1d4a19cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave to Earth Desktop/Laptop Wallpaper   by ynnja - Raket.PH">
+                                <img itemprop="contentUrl url" src='https://raketcontent.com/1/Wave_to_Earth_ebf205fceb.png' alt='Wave to Earth Desktop/Laptop Wallpaper   by ynnja - Raket.PH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hire Raketeers. Do it with Raket." />
+                                </span>
+                                <a href='https://raketcontent.com/1/Wave_to_Earth_ebf205fceb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wave to earth lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a4/fa/e2/a4fae27943733d6795dc7ba7a963295b.jpg' alt='wave to earth lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a4/fa/e2/a4fae27943733d6795dc7ba7a963295b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mika ✿ on X: "wave to earth wallpapers :) feel free to use ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FxOTXjyWAAIUUJB?format=jpg&name=large' alt='mika ✿ on X: "wave to earth wallpapers :) feel free to use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FxOTXjyWAAIUUJB?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wave To Earth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/waveto-earth-band-promo-graphic-ieqy9p0845zwst1w.jpg' alt='100+] Wave To Earth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1206">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/waveto-earth-band-promo-graphic-ieqy9p0845zwst1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wave To Earth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/wave-to-earth-f0h8302pnwsdbiya.jpg' alt='100+] Wave To Earth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/wave-to-earth-f0h8302pnwsdbiya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave to Earth Wallpaper Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7320793747313134878&location=0&aid=1988' alt='Wave to Earth Wallpaper Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7320793747313134878&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How to Change Background Color in Figma: A Quick Guide</title>
+                    <meta name="description" content="Learn how to easily change the background color in Figma to enhance your design's aesthetics. Our quick guide provides step-by-step instructions for a seamless experience, ensuring your projects stand out with vibrant colors. Perfect for beginners and seasoned designers alike!">
+                    <meta name="keywords" content="change figma background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/change-figma-background-color">
+                            <span itemprop="name">change figma background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Change Background Color in Figma: A Quick Guide</h1>
+                <p>Changing the background color in Figma is straightforward. First, select the frame or design element you wish to modify. In the right-hand panel, locate the "Fill" section and click the color box. You can choose a color from the palette, enter a hex code, or use the color picker. This simple adjustment enhances your design and boosts visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color in Figma">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/49TKh5aW0bc/maxresdefault.jpg' alt='How to Change Background Color in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/49TKh5aW0bc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the background color of the canvas – Figma Learn - Help Center">
+                                <img itemprop="contentUrl url" src='https://help.figma.com/hc/article_attachments/24171550982935' alt='Change the background color of the canvas – Figma Learn - Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma Help Center" />
+                                </span>
+                                <a href='https://help.figma.com/hc/article_attachments/24171550982935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the Background Color of a Frame or a Shape in Figma">
+                                <img itemprop="contentUrl url" src='https://www.delasign.com/CDN/images/Change-Fill.webp' alt='How to change the Background Color of a Frame or a Shape in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2224">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="delasign" />
+                                </span>
+                                <a href='https://www.delasign.com/CDN/images/Change-Fill.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change themes in Figma – Figma Learn - Help Center">
+                                <img itemprop="contentUrl url" src='https://help.figma.com/hc/article_attachments/5905110452247' alt='Change themes in Figma – Figma Learn - Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma Help Center" />
+                                </span>
+                                <a href='https://help.figma.com/hc/article_attachments/5905110452247' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change the Background Color in Figma">
+                                <img itemprop="contentUrl url" src='https://www.alphr.com/wp-content/uploads/2022/06/color-picker1.png' alt='How To Change the Background Color in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphr" />
+                                </span>
+                                <a href='https://www.alphr.com/wp-content/uploads/2022/06/color-picker1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the background color of a Design File in Figma">
+                                <img itemprop="contentUrl url" src='https://www.delasign.com/CDN/images/Change-Color_2023-08-04-170015_fbqy.webp' alt='How to change the background color of a Design File in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="delasign" />
+                                </span>
+                                <a href='https://www.delasign.com/CDN/images/Change-Color_2023-08-04-170015_fbqy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change the Background Color in Figma">
+                                <img itemprop="contentUrl url" src='https://www.alphr.com/wp-content/uploads/2022/06/new-shape1.png' alt='How To Change the Background Color in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphr" />
+                                </span>
+                                <a href='https://www.alphr.com/wp-content/uploads/2022/06/new-shape1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Figma Dark Mode - How to Use and Turn On Dark Mode or Light Mode in  Figma (Config 2022)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AMjP9-DJWWM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAYqFqOtWDiABWBon1HeTwxUNNHpQ' alt='New Figma Dark Mode - How to Use and Turn On Dark Mode or Light Mode in  Figma (Config 2022)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AMjP9-DJWWM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAYqFqOtWDiABWBon1HeTwxUNNHpQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow These Steps to Create a Custom Thumbnail in Figma - DockYard">
+                                <img itemprop="contentUrl url" src='https://assets.dockyard.com/images/figma-thumb-03-background.png' alt='Follow These Steps to Create a Custom Thumbnail in Figma - DockYard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1223">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DockYard" />
+                                </span>
+                                <a href='https://assets.dockyard.com/images/figma-thumb-03-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color in Figma">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nq6ylx86liE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB1YZyXndUWyDJI_sXMYf4PcEU6VQ' alt='How to Change Background Color in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nq6ylx86liE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB1YZyXndUWyDJI_sXMYf4PcEU6VQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

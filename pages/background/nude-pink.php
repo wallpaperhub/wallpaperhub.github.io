@@ -1,0 +1,129 @@
+<title>Nude Pink: The Perfect Shade for Elegance</title>
+                    <meta name="description" content="Discover the beauty of nude pink! This versatile shade combines elegance and subtlety, perfect for fashion, makeup, and decor. Explore how to incorporate nude pink into your style and elevate your aesthetic effortlessly. Ideal for any occasion!">
+                    <meta name="keywords" content="nude pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nude-pink">
+                            <span itemprop="name">nude pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nude Pink: The Perfect Shade for Elegance</h1>
+                <p>Nude pink is the perfect harmony of subtlety and elegance, embodying a soft, warm tone that complements various skin tones. Ideal for makeup, fashion, and interior decor, it adds a touch of sophistication without overpowering. Whether used on lips or as a shade in home décor, nude pink is versatile and timeless.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink Pastels Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/nude-pink-pastels.png' alt='Nude Pink Pastels Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/nude-pink-pastels.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink Color Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14240156/p/f/m/kWb8ZHXjISI-nN5zrrQfbbqA6fYhXm5ad_fASwS8515j6P3RoyQL/Nude%20Pink%20%7C%20Solid%20Color.jpg' alt='Nude Pink Color Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14240156/p/f/m/kWb8ZHXjISI-nN5zrrQfbbqA6fYhXm5ad_fASwS8515j6P3RoyQL/Nude%20Pink%20%7C%20Solid%20Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GLAMERMAID Nude Pink Press on Nails Medium Almond, Neutral  Jelly Gel Glossy Fake Nails Stiletto, Pure Coral Short Oval Stick Glue on  Nails ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KZQnfs2hL.jpg' alt='Amazon.com: GLAMERMAID Nude Pink Press on Nails Medium Almond, Neutral  Jelly Gel Glossy Fake Nails Stiletto, Pure Coral Short Oval Stick Glue on  Nails ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KZQnfs2hL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink">
+                                <img itemprop="contentUrl url" src='https://www.long-time-liner-onlineshop.com/wp-content/uploads/2018/08/Lips_Nude_Pink-1.png' alt='Nude Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LONG-TIME-LINER® OnlineShop" />
+                                </span>
+                                <a href='https://www.long-time-liner-onlineshop.com/wp-content/uploads/2018/08/Lips_Nude_Pink-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty Pink Nude Color Scheme Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/103222.png' alt='Dusty Pink Nude Color Scheme Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/103222.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3pcs Set Nude Pink Quick Building Nail Gel Kit – BORN PRETTY">
+                                <img itemprop="contentUrl url" src='https://bornpretty.com/cdn/shop/files/sm-11.jpg?v=1700904517&width=1090' alt='3pcs Set Nude Pink Quick Building Nail Gel Kit – BORN PRETTY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1090">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Born Pretty" />
+                                </span>
+                                <a href='https://bornpretty.com/cdn/shop/files/sm-11.jpg?v=1700904517&width=1090' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink Collection">
+                                <img itemprop="contentUrl url" src='https://lacshary.eu/wp-content/uploads/2022/10/05-02_15-54-12-581.jpg' alt='Nude Pink Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LacShary" />
+                                </span>
+                                <a href='https://lacshary.eu/wp-content/uploads/2022/10/05-02_15-54-12-581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink Color Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14714525/p/f/m/ozmAaYgILbryu63tAuCA9Gs8PgU1_vm0Wv0W7T9uZe_gOOj1giaL/Rosewater%20%7C%20Solid%20Color.jpg' alt='Nude Pink Color Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14714525/p/f/m/ozmAaYgILbryu63tAuCA9Gs8PgU1_vm0Wv0W7T9uZe_gOOj1giaL/Rosewater%20%7C%20Solid%20Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink nude palette pantone color swatch" Sticker for Sale by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/d5/01/4cd50150fbb9ff11984ced22a2b7e328.jpg' alt='Pink nude palette pantone color swatch" Sticker for Sale by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/d5/01/4cd50150fbb9ff11984ced22a2b7e328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couldn't decide on a design so I went with nude pink. Sometimes ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b7e4uhgodgga1.jpg' alt='Couldn't decide on a design so I went with nude pink. Sometimes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2806">
+                                <meta itemprop="height" content="2805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b7e4uhgodgga1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>“Become a Movie Extra in NYC: Your Guide to Casting Calls”</title>
+                    <meta name="description" content="Explore how to become a movie extra in NYC! Discover casting calls, tips for landing roles, and insider advice for navigating the vibrant film scene. Perfect for aspiring actors eager to gain experience and step into the entertainment spotlight. Join the action today!">
+                    <meta name="keywords" content="movie extras nyc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movie-extras-nyc">
+                            <span itemprop="name">movie extras nyc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Become a Movie Extra in NYC: Your Guide to Casting Calls”</h1>
+                <p>New York City is a bustling hub for aspiring actors and filmmakers alike, and being a movie extra offers a chance to step into the spotlight. With countless productions filming across the city, opportunities abound for those looking to gain experience and connections. Join the excitement, embrace the vibrant film scene, and be part of cinematic magic in NYC!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ NYC Extras and Background Casting For TV, Film, & More ...">
+                                <img itemprop="contentUrl url" src='https://d3uscstcbhvk7k.cloudfront.net/static/6d9061ea1f416266c888.jpg' alt='260+ NYC Extras and Background Casting For TV, Film, & More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d3uscstcbhvk7k.cloudfront.net/static/6d9061ea1f416266c888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Being an Extra Won't Jumpstart Your Acting Career">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/42198/large_thumb%403x.jpg' alt='Why Being an Extra Won't Jumpstart Your Acting Career'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/42198/large_thumb%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The bg people who are like this are the worst ! #backgroundextras  #movieextras #nyc #comedy #extras">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7363766171839008043&location=0&aid=1988' alt='The bg people who are like this are the worst ! #backgroundextras  #movieextras #nyc #comedy #extras'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7363766171839008043&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#denzelwashington #fyp #viral #nyc | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7370348277184859438&location=0&aid=1988' alt='#denzelwashington #fyp #viral #nyc | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7370348277184859438&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How ppl get casted in NY movies… #nyc #film #comedy #thingstodoinnyc  #acting #travel">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7237570225422617898&location=0&aid=1988' alt='How ppl get casted in NY movies… #nyc #film #comedy #thingstodoinnyc  #acting #travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7237570225422617898&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Paid to Be Extras in TV and Film - Background Actor Opportunities">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7193354584566304043&location=0&aid=1988' alt='Get Paid to Be Extras in TV and Film - Background Actor Opportunities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7193354584566304043&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dexter: Resurrection Casting Kids & Adult Extras for Central Park ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLsqgXK8pdsE_n-hix-TEuOeoLtAWzejPnehJPrRQdZ12L8tXB5ewHzakRC1MvfCNXFoJw7iNpXqq9f9uq3q8Uc6Blo27CAhhi6UsgllPywEYLtKDzWWFk1Iblz9NUut7OLsXZNhR4esc14PK2o9uwG3GWpWfdP-ApTUFfJFjnLKdL0dTqGg84SDfzmo7/s800/dexter-resurrection-central-park-filming.png' alt='Dexter: Resurrection Casting Kids & Adult Extras for Central Park ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexter Daily" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLsqgXK8pdsE_n-hix-TEuOeoLtAWzejPnehJPrRQdZ12L8tXB5ewHzakRC1MvfCNXFoJw7iNpXqq9f9uq3q8Uc6Blo27CAhhi6UsgllPywEYLtKDzWWFk1Iblz9NUut7OLsXZNhR4esc14PK2o9uwG3GWpWfdP-ApTUFfJFjnLKdL0dTqGg84SDfzmo7/s800/dexter-resurrection-central-park-filming.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get a job as an extra in a movie or TV show - Los Angeles Times">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/9e9c31d/2147483647/strip/false/crop/6059x4039+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' alt='How to get a job as an extra in a movie or TV show - Los Angeles Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/9e9c31d/2147483647/strip/false/crop/6059x4039+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Casting Extras NYC">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054236660595' alt='Profile for Casting Extras NYC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054236660595' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Extras NYC With the Fuji XF 100-400mm F4.5-5.6">
+                                <img itemprop="contentUrl url" src='http://findingrange.com/wp-content/uploads/2016/06/Fuji-X-T1-XF-100-400mm-f4.5-5.6-R-LM-OIS-WR-Lens-Candid-Street-Movie-Set-Wall-Street-3.jpg' alt='Movie Extras NYC With the Fuji XF 100-400mm F4.5-5.6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1590">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Finding Range" />
+                                </span>
+                                <a href='http://findingrange.com/wp-content/uploads/2016/06/Fuji-X-T1-XF-100-400mm-f4.5-5.6-R-LM-OIS-WR-Lens-Candid-Street-Movie-Set-Wall-Street-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

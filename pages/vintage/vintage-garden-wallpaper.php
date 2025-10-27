@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Garden Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of vintage garden wallpaper for a timeless look. Perfect for any room, our charming floral designs and rich patterns bring nostalgia and elegance to your home. Elevate your decor with a touch of retro flair that captures nature's essence effortlessly.">
+                    <meta name="keywords" content="vintage garden wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-garden-wallpaper">
+                            <span itemprop="name">vintage garden wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Garden Wallpaper</h1>
+                <p>Vintage garden wallpaper evokes a sense of nostalgia, transforming spaces into lush, serene retreats. With delightful floral patterns, rich colors, and intricate designs, it brings the charm of bygone eras into modern homes. Perfect for living rooms, bedrooms, or dining spaces, vintage garden wallpaper enhances aesthetic appeal while creating a timeless backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden, Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829382/articles/R19265_product.jpg' alt='Vintage Garden, Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829382/articles/R19265_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secret Garden Wall Mural, Vintage Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/df7f82/3217571378/il_570xN.3217571378_3g07.jpg' alt='Secret Garden Wall Mural, Vintage Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/df7f82/3217571378/il_570xN.3217571378_3g07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden, Ivory">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829829/articles/R19268_interior1.jpg' alt='Vintage Garden, Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829829/articles/R19268_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Vintage Garden Wallpaper - Dusty Blue">
+                                <img itemprop="contentUrl url" src='https://ayarahome.com/cdn/shop/files/Vintage-Botanicals-on-Dusty-Blue-WallpaperMockups-Boho1-Square_1500x.jpg?v=1726797614' alt='Coquette Vintage Garden Wallpaper - Dusty Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='https://ayarahome.com/cdn/shop/files/Vintage-Botanicals-on-Dusty-Blue-WallpaperMockups-Boho1-Square_1500x.jpg?v=1726797614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden Wallpaper - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/384461/vintage-garden-wallpaper-rebel-walls.jpg' alt='Vintage Garden Wallpaper - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/384461/vintage-garden-wallpaper-rebel-walls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Summer Garden Wallpaper - Buy Beautiful Wallpapers Online">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/60721/vintage_summer_garden_masked.jpg' alt='Vintage Summer Garden Wallpaper - Buy Beautiful Wallpapers Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/60721/vintage_summer_garden_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Vintage Garden Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.foresthomesstore.com/cdn/shop/files/Tropical-Vintage-Garden-Mural-Wallpaper-5_720x.jpg?v=1701468354' alt='Tropical Vintage Garden Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='https://www.foresthomesstore.com/cdn/shop/files/Tropical-Vintage-Garden-Mural-Wallpaper-5_720x.jpg?v=1701468354' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award-winning wallpaper | Samples available | Shop at Sarza">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/Vintage-Magnolia-Garden-Insitu-03-800x800-1_a93531d0-57b8-4534-a2c2-e2be12dad85c_1200x.jpg?v=1722604595' alt='Award-winning wallpaper | Samples available | Shop at Sarza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/Vintage-Magnolia-Garden-Insitu-03-800x800-1_a93531d0-57b8-4534-a2c2-e2be12dad85c_1200x.jpg?v=1722604595' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Wallpaper Vintage Garden Wallpaper Peel and Stick and  Traditional Wallpaper - D869">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5621072682_trnw.jpg?v=1725058172&width=1946' alt='Green Floral Wallpaper Vintage Garden Wallpaper Peel and Stick and  Traditional Wallpaper - D869'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5621072682_trnw.jpg?v=1725058172&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden - V02 – Wally's Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallyswallpaper.com/cdn/shop/products/vintagegardenwebdesigncopy2_1024x1024@2x.jpg?v=1734965368' alt='Vintage Garden - V02 – Wally's Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wally's Wallpaper" />
+                                </span>
+                                <a href='https://wallyswallpaper.com/cdn/shop/products/vintagegardenwebdesigncopy2_1024x1024@2x.jpg?v=1734965368' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

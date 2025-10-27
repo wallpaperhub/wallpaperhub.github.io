@@ -1,0 +1,129 @@
+<title>Amazing Purple Bandana Background for Eye-Catching Designs</title>
+                    <meta name="description" content="Discover the perfect purple bandana background to elevate your creative projects. This vibrant pattern is ideal for graphics, websites, and prints, ensuring your designs grab attention. Add a stylish flair to your visuals with this unique backdrop!">
+                    <meta name="keywords" content="purple bandana background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-bandana-background">
+                            <span itemprop="name">purple bandana background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Amazing Purple Bandana Background for Eye-Catching Designs</h1>
+                <p>Transform your designs with a vibrant purple bandana background. This captivating pattern adds a touch of style and flair, perfect for various projects. Whether you're creating social media graphics, web designs, or printed materials, this eye-catching backdrop brings energy and creativity, making your visuals stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple bandana background - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ac/9a/b2/ac9ab22f7fcb668d1e983a844339f364.jpg' alt='purple bandana background - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ac/9a/b2/ac9ab22f7fcb668d1e983a844339f364.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bandana Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/fc/0c/2efc0c112424ae5d140bb3b86d7fb187.jpg' alt='Purple Bandana Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/fc/0c/2efc0c112424ae5d140bb3b86d7fb187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paisley Western Cotton Bandana in Purple">
+                                <img itemprop="contentUrl url" src='https://rockmount.com/cdn/shop/products/4130-PURP_TOP.jpg?v=1618945344&width=2400' alt='Paisley Western Cotton Bandana in Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rockmount Ranch Wear" />
+                                </span>
+                                <a href='https://rockmount.com/cdn/shop/products/4130-PURP_TOP.jpg?v=1618945344&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paisley Bandana Purple White Background | PSD Free Download - Pikbest">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20201129/bg/30010176610ee.png!w700wp' alt='Paisley Bandana Purple White Background | PSD Free Download - Pikbest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20201129/bg/30010176610ee.png!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bandana Sublimation Background Clipart PNG Western print Sublimation  PNG, Sublimation, Bandana Background 300 DPI Cowboy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5912406/r/il/939366/4245930531/il_fullxfull.4245930531_hk81.jpg' alt='Purple Bandana Sublimation Background Clipart PNG Western print Sublimation  PNG, Sublimation, Bandana Background 300 DPI Cowboy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5912406/r/il/939366/4245930531/il_fullxfull.4245930531_hk81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bandana wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/bc/98/0fbc98dd5b71dd48053b035f47ae9de3.jpg' alt='Bandana wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/bc/98/0fbc98dd5b71dd48053b035f47ae9de3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bandana Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/bandana-pattern_740208-83.jpg?semt=ais_hybrid' alt='Purple Bandana Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/bandana-pattern_740208-83.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple bandana decals for furniture">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/sticker/preview/45012.png' alt='Purple bandana decals for furniture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/sticker/preview/45012.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple / Grape Value Classic Open Center Paisley Imported 100% Cotton, 22"  x 22", 1 piece">
+                                <img itemprop="contentUrl url" src='https://wholesaleforeveryone.com/wp-content/uploads/nc/customers/images/bnsc0100_22_0267_0001.gif' alt='Purple / Grape Value Classic Open Center Paisley Imported 100% Cotton, 22"  x 22", 1 piece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wholesaleforeveryone" />
+                                </span>
+                                <a href='https://wholesaleforeveryone.com/wp-content/uploads/nc/customers/images/bnsc0100_22_0267_0001.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bandana 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/purplebandana_grande.jpg?v=1630005584' alt='Purple Bandana 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/purplebandana_grande.jpg?v=1630005584' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Fall Phone Wallpapers: Preppy Styles for Your Device</title>
+                    <meta name="description" content="Discover trendy preppy wallpapers for your phone this fall! Embrace autumn with cozy designs in rich colors and playful patterns. Perfect for stylish updates to your device, ensuring you capture the seasonal spirit in every glance. Transform your phone into a fall fashion statement!">
+                    <meta name="keywords" content="preppy wallpaper phone fall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/preppy-wallpaper-phone-fall">
+                            <span itemprop="name">preppy wallpaper phone fall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Fall Phone Wallpapers: Preppy Styles for Your Device</h1>
+                <p>As the leaves turn and cozy vibes emerge, preppy wallpaper for your phone this fall is the perfect touch. Elevate your device with charming plaid patterns, warm hues like burgundy and mustard, and classic motifs such as pumpkins and apples. Stay stylish and seasonal while enjoying the crisp autumn air wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Preppy fall wallpaper ideas | fall wallpaper, cute fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ef/eb/15/efeb154e38b7a1ae7b572d3187551fef.jpg' alt='19 Preppy fall wallpaper ideas | fall wallpaper, cute fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ef/eb/15/efeb154e38b7a1ae7b572d3187551fef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Preppy autumn wallpapers    ideas | fall wallpaper, cute fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/e8/4c/8f/e84c8f42d94d4688aecffb98cb675d88.jpg' alt='27 Preppy autumn wallpapers    ideas | fall wallpaper, cute fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/e8/4c/8f/e84c8f42d94d4688aecffb98cb675d88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/9f/b2/e99fb26966f6fb0c6102d1fc2f0c4e2e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/9f/b2/e99fb26966f6fb0c6102d1fc2f0c4e2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper Fall Themed Background Phone Wallpapers Phone Backgrounds -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_1080xN.6154506555_t29m.jpg' alt='Fall Wallpaper Fall Themed Background Phone Wallpapers Phone Backgrounds -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36689726/r/il/93eba3/6154506555/il_1080xN.6154506555_t29m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall/Autumn wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/ab/00/16ab00252ff5dbfacf52de20bce067ec.jpg' alt='Fall/Autumn wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/ab/00/16ab00252ff5dbfacf52de20bce067ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy fall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/af/f8/12/aff812bf14fdbf75de65aec640614903.png' alt='Preppy fall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/af/f8/12/aff812bf14fdbf75de65aec640614903.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Fall Aesthetic Wallpapers    Pumpkin iPhone Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/5e/66/735e6661ea4b21c73bee44b368fa33ec.jpg' alt='100 Fall Aesthetic Wallpapers    Pumpkin iPhone Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/5e/66/735e6661ea4b21c73bee44b368fa33ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Autumn Aesthetic Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/51/e5/b9/51e5b97b8d9074a899c4c7b1c8c23158.jpg' alt='Fall Autumn Aesthetic Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/51/e5/b9/51e5b97b8d9074a899c4c7b1c8c23158.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Preppy Wallpapers - Preppy Wallpaper">
+                                <img itemprop="contentUrl url" src='http://thepreppywallpaper.net/wp-content/uploads/2023/10/cute-wallpapers-preppy_197-576x1024.jpg' alt='450+ Preppy Wallpapers - Preppy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="thepreppywallpaper.net" />
+                                </span>
+                                <a href='http://thepreppywallpaper.net/wp-content/uploads/2023/10/cute-wallpapers-preppy_197-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Preppy autumn wallpapers    ideas | fall wallpaper, cute fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9c/26/0e/9c260edf0497206cedbdef4f9af98179.jpg' alt='27 Preppy autumn wallpapers    ideas | fall wallpaper, cute fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9c/26/0e/9c260edf0497206cedbdef4f9af98179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

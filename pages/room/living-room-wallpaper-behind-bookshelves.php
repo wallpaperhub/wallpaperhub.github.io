@@ -1,0 +1,129 @@
+<title>Enhance Your Living Room: Wallpaper Behind Bookshelves</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="living room wallpaper behind bookshelves">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/living-room-wallpaper-behind-bookshelves">
+                            <span itemprop="name">living room wallpaper behind bookshelves</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Living Room: Wallpaper Behind Bookshelves</h1>
+                <p>Transform your living room with stylish wallpaper behind bookshelves. This design trick not only enhances the aesthetic appeal but also adds depth and character to your space. Consider choosing patterns or colors that complement your decor, making your bookshelves a statement piece in the room while showcasing your literary collection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapered Bookshelves - Driven by Decor">
+                                <img itemprop="contentUrl url" src='https://www.drivenbydecor.com/wp-content/uploads/2020/03/blue-wallpaper-bookcase-back.jpg' alt='Wallpapered Bookshelves - Driven by Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Driven by Decor" />
+                                </span>
+                                <a href='https://www.drivenbydecor.com/wp-content/uploads/2020/03/blue-wallpaper-bookcase-back.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper On Back Of Bookshelf Design Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6f/9b/4c/6f9b4c4a6b8a14f6f0038b37b072207a.jpg' alt='Wallpaper On Back Of Bookshelf Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6f/9b/4c/6f9b4c4a6b8a14f6f0038b37b072207a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_36-700x500.jpg' alt='How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_36-700x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best Wallpaper bookcase ideas | wallpaper bookcase, home diy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/1c/4f/ea/1c4feafa94ad205cbd1cd1415af10f6a.jpg' alt='9 Best Wallpaper bookcase ideas | wallpaper bookcase, home diy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/1c/4f/ea/1c4feafa94ad205cbd1cd1415af10f6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_35.jpg' alt='How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Built-in's With Wallpaper - Home with Keki">
+                                <img itemprop="contentUrl url" src='https://www.homewithkeki.com/wp-content/uploads/2016/07/schumacher-wallpaper-suwon-sisal-aqua-gray-wallpaper-on-back-of-shelves.jpg' alt='Built-in's With Wallpaper - Home with Keki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Home with Keki" />
+                                </span>
+                                <a href='https://www.homewithkeki.com/wp-content/uploads/2016/07/schumacher-wallpaper-suwon-sisal-aqua-gray-wallpaper-on-back-of-shelves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Behind Bookcase Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2019/01/28/m_leopard-print-wallpaper-behind-built-in-bookshelf.jpg' alt='Wallpaper Behind Bookcase Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2019/01/28/m_leopard-print-wallpaper-behind-built-in-bookshelf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern living room w... stock photo by Piotr Gesicki, Image: 0350077">
+                                <img itemprop="contentUrl url" src='https://www.gapinteriors.com/images/LargeWebPreview/0350/0350077.jpg' alt='Modern living room w... stock photo by Piotr Gesicki, Image: 0350077'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GAP Interiors" />
+                                </span>
+                                <a href='https://www.gapinteriors.com/images/LargeWebPreview/0350/0350077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper On Back Of Bookshelf Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2023/10/30/wallpaper-on-back-of-fireplace-shelves.jpg' alt='Wallpaper On Back Of Bookshelf Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2023/10/30/wallpaper-on-back-of-fireplace-shelves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Wallpaper to Your Bookcase for an Instant Style Upgrade ...">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_730/at%2Farchive%2F6afe0e86c2cec2ea3ffe1bbbfd45f87743c57555' alt='Add Wallpaper to Your Bookcase for an Instant Style Upgrade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_730/at%2Farchive%2F6afe0e86c2cec2ea3ffe1bbbfd45f87743c57555' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

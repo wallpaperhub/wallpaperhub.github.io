@@ -1,0 +1,129 @@
+<title>Essential Guide to Tenant Screening: Secure Your Rental Property</title>
+                    <meta name="description" content="Discover the importance of tenant screening to safeguard your rental investment. Learn how to effectively evaluate potential renters by checking credit, rental history, and background information. Ensure peace of mind and build a trustworthy tenant relationship for a successful rental experience.">
+                    <meta name="keywords" content="tenant screening">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tenant-screening">
+                            <span itemprop="name">tenant screening</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Tenant Screening: Secure Your Rental Property</h1>
+                <p>Tenant screening is a crucial process for landlords to find reliable tenants. It involves checking credit history, rental history, employment verification, and background checks to assess potential tenants' reliability and financial responsibility. Effective screening minimizes risks and ensures a harmonious landlord-tenant relationship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How DoorLoop Simplifies Tenant Screening: Step-by-Step Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5f18a24d02bace2ac2d05bac/63a64ee71708d7f9ec70422b_How%20to%20Screen%20a%20Tenant.svg' alt='How DoorLoop Simplifies Tenant Screening: Step-by-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DoorLoop" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5f18a24d02bace2ac2d05bac/63a64ee71708d7f9ec70422b_How%20to%20Screen%20a%20Tenant.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dos & Don'ts of Tenant Screening">
+                                <img itemprop="contentUrl url" src='https://www.rentecdirect.com/blog/wp-content/uploads/2015/02/Dos-Donts-Tenant-Screening.png' alt='Dos & Don'ts of Tenant Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rentec Direct" />
+                                </span>
+                                <a href='https://www.rentecdirect.com/blog/wp-content/uploads/2015/02/Dos-Donts-Tenant-Screening.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Screen Tenants: Essential Tips for Landlords">
+                                <img itemprop="contentUrl url" src='https://www.yourokcpropertymanager.com/wp-content/uploads/2021/07/How-to-screen-tenants-potential-tenants-screening-process.jpg' alt='How to Screen Tenants: Essential Tips for Landlords'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Property Management OKC" />
+                                </span>
+                                <a href='https://www.yourokcpropertymanager.com/wp-content/uploads/2021/07/How-to-screen-tenants-potential-tenants-screening-process.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Screen Tenants For A Rental Property - 2025 Guide">
+                                <img itemprop="contentUrl url" src='https://www.goodlifemgmt.com/wp-content/uploads/2023/10/tenant-screening-checklist.webp' alt='How To Screen Tenants For A Rental Property - 2025 Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1583">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Life Property Management" />
+                                </span>
+                                <a href='https://www.goodlifemgmt.com/wp-content/uploads/2023/10/tenant-screening-checklist.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Myths: 8 Things Landlords Might Not Know - HAR.com">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dvrhnvuqs/image/upload/v1612217052/Blog/SmartMove/FEB-2021/tenant-screening-myths/1_qualityoftenant.png' alt='Tenant Screening Myths: 8 Things Landlords Might Not Know - HAR.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HAR.com" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dvrhnvuqs/image/upload/v1612217052/Blog/SmartMove/FEB-2021/tenant-screening-myths/1_qualityoftenant.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Obscure Yet Powerful Tenant-Screening Industry Is Finally ...">
+                                <img itemprop="contentUrl url" src='https://mrkp-static-production.themarkup.org/uploads/2021/01/tenant-screening-report-1200x628.jpg' alt='The Obscure Yet Powerful Tenant-Screening Industry Is Finally ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Markup" />
+                                </span>
+                                <a href='https://mrkp-static-production.themarkup.org/uploads/2021/01/tenant-screening-report-1200x628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Guide to Tenant background check & Screening Process in ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/D5612AQGfV8mKVFCNBQ/article-cover_image-shrink_600_2000/0/1690378391348?e=2147483647&v=beta&t=cooBtTTmlAVo8BkWKn8noh8RL_WpdhttySCXvEBMESU' alt='Ultimate Guide to Tenant background check & Screening Process in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/D5612AQGfV8mKVFCNBQ/article-cover_image-shrink_600_2000/0/1690378391348?e=2147483647&v=beta&t=cooBtTTmlAVo8BkWKn8noh8RL_WpdhttySCXvEBMESU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Our Tenant Screening Process Works | RentPrep">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2015/03/Online-Tenant-Screening-Services.png' alt='How Our Tenant Screening Process Works | RentPrep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2015/03/Online-Tenant-Screening-Services.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Your Rentals with Millow's Tenant Screening Services">
+                                <img itemprop="contentUrl url" src='https://www.millow.io/wp-content/uploads/2023/11/Tenant-Screening-blog.jpg' alt='Secure Your Rentals with Millow's Tenant Screening Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Millow.io" />
+                                </span>
+                                <a href='https://www.millow.io/wp-content/uploads/2023/11/Tenant-Screening-blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant screening practices: the FTC wants to learn more | Consumer ...">
+                                <img itemprop="contentUrl url" src='https://consumer.ftc.gov/sites/default/files/styles/social_standard/public/consumer_ftc_gov/images/tenantscreening-socmed-1200x630-blog.png?h=ec041e41&itok=92kks-PC' alt='Tenant screening practices: the FTC wants to learn more | Consumer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Federal Trade Commission" />
+                                </span>
+                                <a href='https://consumer.ftc.gov/sites/default/files/styles/social_standard/public/consumer_ftc_gov/images/tenantscreening-socmed-1200x630-blog.png?h=ec041e41&itok=92kks-PC' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

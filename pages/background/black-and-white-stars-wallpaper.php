@@ -1,0 +1,129 @@
+<title>Stylish Black and White Stars Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover elegant black and white stars wallpaper to elevate your interiors. Perfect for any room, this chic design effortlessly infuses style and serenity into your space. Shop now to transform your home with a celestial touch!">
+                    <meta name="keywords" content="black and white stars wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-stars-wallpaper">
+                            <span itemprop="name">black and white stars wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black and White Stars Wallpaper for Your Home</h1>
+                <p>Transform your space with captivating black and white stars wallpaper. This elegant design adds a celestial touch to any room, creating a serene atmosphere. Ideal for nurseries, bedrooms, or living areas, its monochrome palette complements various decor styles. Embrace the night sky and bring a chic, modern feel to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="space wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/d8/dc/87d8dc0495f32e8dd3bda359c7b00f0d.jpg' alt='space wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/d8/dc/87d8dc0495f32e8dd3bda359c7b00f0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black/white stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/36/96/ab3696b5a04107f488a8b77034bc5ca7.jpg' alt='Black/white stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/36/96/ab3696b5a04107f488a8b77034bc5ca7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white stars">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/black-and-white-stars-pattern-repeat-removable-wallpaper-design.jpg' alt='Black and white stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/black-and-white-stars-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black And White Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-white-star-900-x-1602-wallpaper-02rthv3872ncgf19.jpg' alt='100+] Black And White Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-white-star-900-x-1602-wallpaper-02rthv3872ncgf19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Twinkling Starson Black Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' alt='Download Twinkling Starson Black Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white and black stars y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' alt='white and black stars y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white stars wallpaper - Artistic wallpapers - #16006">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/artistic/black-and-white-stars-16006-1920x1200.jpg' alt='Black and white stars wallpaper - Artistic wallpapers - #16006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/artistic/black-and-white-stars-16006-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black And White Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-white-star-1500-x-1000-wallpaper-nh5alajslvaxcm20.jpg' alt='100+] Black And White Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-white-star-1500-x-1000-wallpaper-nh5alajslvaxcm20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured stars background, pattern, wallpaper. Grunge space ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/37/94/36/1000_F_137943678_jtUWOxcwhm638XEE18OYhKA7Y286qyCP.jpg' alt='Textured stars background, pattern, wallpaper. Grunge space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/37/94/36/1000_F_137943678_jtUWOxcwhm638XEE18OYhKA7Y286qyCP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mt43-starry-night-sky-star-galaxy-space-white-black - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-mt43-starry-night-sky-star-galaxy-space-white-black-41-iphone-wallpaper.jpg' alt='mt43-starry-night-sky-star-galaxy-space-white-black - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-mt43-starry-night-sky-star-galaxy-space-white-black-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

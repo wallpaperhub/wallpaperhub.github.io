@@ -1,0 +1,129 @@
+<title>Elegant Mother's Day Clipart with Transparent Background</title>
+                    <meta name="description" content="Explore our beautiful selection of transparent background Mother's Day clipart! Perfect for cards, gifts, or DIY projects, our designs bring creativity and love to your celebrations. Ideal for anyone wanting to honor special mothers with unique visuals. Download and start creating today!">
+                    <meta name="keywords" content="transparent background mothers day clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-mothers-day-clipart">
+                            <span itemprop="name">transparent background mothers day clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Mother's Day Clipart with Transparent Background</h1>
+                <p>Discover stunning transparent background Mother's Day clipart that adds a touch of elegance to your greeting cards, crafts, and digital projects. Our collection features a variety of beautiful designs, including flowers, hearts, and inspirational quotes, perfect for celebrating the special women in your life this Mother's Day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Happy Mother's Day Clipart (PNG file) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/04/FREE-Happy-Mothers-Day-Clipart-WM.png?fit=1000%2C1000&ssl=1' alt='FREE Happy Mother's Day Clipart (PNG file) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/04/FREE-Happy-Mothers-Day-Clipart-WM.png?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clipart Mothers Day PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/mothers-day-png-7.png' alt='Clipart Mothers Day PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freeiconspng" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/mothers-day-png-7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Clipart Transparent Background, Happy Mothers ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20200701/original/pngtree-happy-mothers-day-with-flowers-and-hearts-png-image_5363533.jpg' alt='Happy Mothers Day Clipart Transparent Background, Happy Mothers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20200701/original/pngtree-happy-mothers-day-with-flowers-and-hearts-png-image_5363533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download And Use Mothers Day Clipart PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/happy-mothers-day-png-0.png' alt='Download And Use Mothers Day Clipart PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="1882">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freeiconspng" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/happy-mothers-day-png-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy mothers day lettering handwritten text with flowers on ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/29/12/48/1000_F_429124801_P9rUpvIHtmLynqNNrRL3lUygxEAncO8r.jpg' alt='Happy mothers day lettering handwritten text with flowers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/29/12/48/1000_F_429124801_P9rUpvIHtmLynqNNrRL3lUygxEAncO8r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother's Day Banner Clipart in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/92669/mother-s-day-banner-clipart-26en1.jpg' alt='Mother's Day Banner Clipart in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/92669/mother-s-day-banner-clipart-26en1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20200220/ourmid/pngtree-happy-mothers-day-text-lettering-with-flowers-and-leaves-png-image_2151087.jpg' alt='Happy Mothers Day Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20200220/ourmid/pngtree-happy-mothers-day-text-lettering-with-flowers-and-leaves-png-image_2151087.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mothers Day Heart Hd Transparent, Mother Day Flowers With Heart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/20/7f/42207f84798a87d8dd3eabe96c201c45.jpg' alt='Mothers Day Heart Hd Transparent, Mother Day Flowers With Heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/20/7f/42207f84798a87d8dd3eabe96c201c45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Mother's Day Clipart in EPS, Illustrator, JPG, PSD ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/124104/transparent-mother-s-day-clipart-igwl6.jpg' alt='Transparent Mother's Day Clipart in EPS, Illustrator, JPG, PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/124104/transparent-mother-s-day-clipart-igwl6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day - Happy Mother's Day Greeting with Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/lnd/20240418/vqt/transparent-happy-mothers-day-happy-mothers-day-message-with-flowers6620c506bcb430.12779125.webp' alt='Happy Mothers Day - Happy Mother's Day Greeting with Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/lnd/20240418/vqt/transparent-happy-mothers-day-happy-mothers-day-message-with-flowers6620c506bcb430.12779125.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

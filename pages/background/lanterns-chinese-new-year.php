@@ -1,0 +1,129 @@
+<title>Celebrate Chinese New Year with Colorful Lanterns</title>
+                    <meta name="description" content="Discover the beauty and significance of lanterns during Chinese New Year. Learn how these colorful decorations enhance celebrations, symbolize good fortune, and foster community spirit. Explore the history and traditions surrounding this festive decor. Perfect for those seeking to enhance their holiday experience!">
+                    <meta name="keywords" content="lanterns chinese new year">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lanterns-chinese-new-year">
+                            <span itemprop="name">lanterns chinese new year</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Chinese New Year with Colorful Lanterns</h1>
+                <p>During Chinese New Year, vibrant lanterns light up streets and homes, symbolizing the hope for good fortune and prosperity in the coming year. These beautifully crafted decorations come in various shapes, colors, and sizes, often adorned with auspicious symbols. Lantern parades and festivals bring communities together, creating a joyful atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese New Year Celebrations and the Lantern Festival">
+                                <img itemprop="contentUrl url" src='https://www.tripsavvy.com/thmb/UQaUGo_ADoxxA8eMfsKrKQUkZYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-821407668-5c279f54c9e77c0001894cf7.jpg' alt='Chinese New Year Celebrations and the Lantern Festival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TripSavvy" />
+                                </span>
+                                <a href='https://www.tripsavvy.com/thmb/UQaUGo_ADoxxA8eMfsKrKQUkZYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-821407668-5c279f54c9e77c0001894cf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lantern Festival: Climax of the New Year Celebration">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/h4s2feya909e/5bv9AmJoxJtiGfwXWfXs5G/611f68a2ad43203794d4cdfaf07e3fda/chinese-new-year-lantern-festival-celebration.jpg' alt='The Lantern Festival: Climax of the New Year Celebration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chinese New Year" />
+                                </span>
+                                <a href='https://images.ctfassets.net/h4s2feya909e/5bv9AmJoxJtiGfwXWfXs5G/611f68a2ad43203794d4cdfaf07e3fda/chinese-new-year-lantern-festival-celebration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Lunar New Year Decorations Chinese Lanterns Red Lanterns  Hanging Decorations for Chinese New Year Spring Festival Lantern Festival  Mid ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rocJjs93L.jpg' alt='Amazon.com: Lunar New Year Decorations Chinese Lanterns Red Lanterns  Hanging Decorations for Chinese New Year Spring Festival Lantern Festival  Mid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rocJjs93L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Illuminating History and Symbolism of the Red Lantern in ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/6alb7q886wpg/4TDEnyZJC5jCIydbp7imas/dbaaf257a28536cefa8c16ce2867561d/Hero_Opener_2_5_21_image_by_Henry_Co.png?w=2400&fm=webp&q=75' alt='The Illuminating History and Symbolism of the Red Lantern in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PRIOR" />
+                                </span>
+                                <a href='https://images.ctfassets.net/6alb7q886wpg/4TDEnyZJC5jCIydbp7imas/dbaaf257a28536cefa8c16ce2867561d/Hero_Opener_2_5_21_image_by_Henry_Co.png?w=2400&fm=webp&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3pcs Chinese Lunar New Year Lanterns Lucky Hanging Lanterns For Spring  Festival">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/b8e46b1e-294b-4738-b13b-2a62f5df6fc0.0b0513a1ae885ff9966ddc26819373fa.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='3pcs Chinese Lunar New Year Lanterns Lucky Hanging Lanterns For Spring  Festival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/b8e46b1e-294b-4738-b13b-2a62f5df6fc0.0b0513a1ae885ff9966ddc26819373fa.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lunar New Year Paper Lantern | Crafts">
+                                <img itemprop="contentUrl url" src='https://www.hersheyland.com/content/dam/hersheyland/en-us/crafts/craft-images/lunar-new-year-lantern-craft-hero-one.jpg' alt='Lunar New Year Paper Lantern | Crafts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hersheyland" />
+                                </span>
+                                <a href='https://www.hersheyland.com/content/dam/hersheyland/en-us/crafts/craft-images/lunar-new-year-lantern-craft-hero-one.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="China Spring Festival Lanternwedding lanterns decorations Chinese Red  Lantern Led Chandelier Crystal Rotating Lantern Chinese New Year's Day  Lantern ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61PmvNkMglL._AC_UF894,1000_QL80_.jpg' alt='China Spring Festival Lanternwedding lanterns decorations Chinese Red  Lantern Led Chandelier Crystal Rotating Lantern Chinese New Year's Day  Lantern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61PmvNkMglL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese New Year Lantern Digital Clip Art for Scrapbooking Card ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8320370/r/il/4cee6a/2526345886/il_fullxfull.2526345886_o572.jpg' alt='Chinese New Year Lantern Digital Clip Art for Scrapbooking Card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2676">
+                                <meta itemprop="height" content="2676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8320370/r/il/4cee6a/2526345886/il_fullxfull.2526345886_o572.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese Lantern Festival | Love Paper">
+                                <img itemprop="contentUrl url" src='https://lovepaper.org/wp-content/uploads/2023/01/lanterns.jpeg' alt='Chinese Lantern Festival | Love Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love Paper" />
+                                </span>
+                                <a href='https://lovepaper.org/wp-content/uploads/2023/01/lanterns.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 PACK | Red Yellow Chinese Lunar New Year Prosperity Nylon ...">
+                                <img itemprop="contentUrl url" src='https://www.paperlanternstore.com/cdn/shop/products/14NYTCL-RD-red-chinese-traditional-lantern-square_002da789-f8f6-4fab-b5e7-a019700a023e.jpg?v=1616492163' alt='8 PACK | Red Yellow Chinese Lunar New Year Prosperity Nylon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Lantern Store" />
+                                </span>
+                                <a href='https://www.paperlanternstore.com/cdn/shop/products/14NYTCL-RD-red-chinese-traditional-lantern-square_002da789-f8f6-4fab-b5e7-a019700a023e.jpg?v=1616492163' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

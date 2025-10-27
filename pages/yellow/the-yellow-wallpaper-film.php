@@ -1,0 +1,129 @@
+<title>The Yellow Wallpaper: A Haunting Psychological Thriller</title>
+                    <meta name="description" content="Explore the psychological depths of The Yellow Wallpaper, a gripping film adaptation that explores mental illness and societal repression. Follow a woman's disturbing journey into madness as she confronts her confining environment and the oppressive norms of her time. A must-watch for fans of psychological thrillers!">
+                    <meta name="keywords" content="the yellow wallpaper (film)">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-film">
+                            <span itemprop="name">the yellow wallpaper (film)</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Yellow Wallpaper: A Haunting Psychological Thriller</h1>
+                <p>The Yellow Wallpaper is a psychological thriller film that dives deep into themes of mental illness, isolation, and gender roles. Adapted from Charlotte Perkins Gilman's haunting short story, it follows a woman's descent into madness as she grapples with her oppressive surroundings and societal expectations, pushing the boundaries of reality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNmUyNDBlNzMtMTFiNi00ZjNmLTk0OTUtMDdhNDAyMDc4NmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Yellow Wallpaper (2021) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNmUyNDBlNzMtMTFiNi00ZjNmLTk0OTUtMDdhNDAyMDc4NmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2016) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZGY5MTRhYjctYjc4Ny00NDk1LWEyYmItOTY3ZmM3YjAyOThiXkEyXkFqcGc@._V1_.jpg' alt='The Yellow Wallpaper (2016) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4125">
+                                <meta itemprop="height" content="6225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZGY5MTRhYjctYjc4Ny00NDk1LWEyYmItOTY3ZmM3YjAyOThiXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (Short 2011) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjY5NjEwNTEwMF5BMl5BanBnXkFtZTcwMjA2MDI1Nw@@._V1_.jpg' alt='The Yellow Wallpaper (Short 2011) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjY5NjEwNTEwMF5BMl5BanBnXkFtZTcwMjA2MDI1Nw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch The Yellow Wallpaper | Prime Video">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/3346ab477181664fb6f9b396415dbbd906debed0c5673b6f3cb81b9a03d3d5ab.jpg' alt='Watch The Yellow Wallpaper | Prime Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/3346ab477181664fb6f9b396415dbbd906debed0c5673b6f3cb81b9a03d3d5ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper - Official Trailer (2022) Alexandra Loreth, Joe  Mullins, Clara Hart">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-eSPeDBgmww/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVOu4RhKd3kM148BLfKLapEbr8UA' alt='The Yellow Wallpaper - Official Trailer (2022) Alexandra Loreth, Joe  Mullins, Clara Hart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-eSPeDBgmww/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVOu4RhKd3kM148BLfKLapEbr8UA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uMGx8OlYL._AC_UF894,1000_QL80_.jpg' alt='The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uMGx8OlYL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021) | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/MwWa8WICM3pUck_M_5S7KFjCIPE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0YTc5ZDQ3LTdlZTYtNDZlOC1hZGJiLTM3NDhlOTQ1ZTQ3Zi5qcGc=' alt='The Yellow Wallpaper (2021) | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/MwWa8WICM3pUck_M_5S7KFjCIPE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0YTc5ZDQ3LTdlZTYtNDZlOC1hZGJiLTM3NDhlOTQ1ZTQ3Zi5qcGc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021): adapting a classic | by Letícia ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' alt='The Yellow Wallpaper (2021): adapting a classic | by Letícia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Movie Trailer Brings the Classic 1892 Story to ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/03/the-yellow-wallpaper-movie.png?resize=1000%2C600&ssl=1' alt='Yellow Wallpaper Movie Trailer Brings the Classic 1892 Story to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloody Disgusting" />
+                                </span>
+                                <a href='https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/03/the-yellow-wallpaper-movie.png?resize=1000%2C600&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper (Short 2022) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTM1ZDM3OWYtMjI5ZS00YzYwLWI2Y2UtNmFjMTY1Mzg0OTM3XkEyXkFqcGc@._V1_.jpg' alt='Yellow Wallpaper (Short 2022) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3900">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTM1ZDM3OWYtMjI5ZS00YzYwLWI2Y2UtNmFjMTY1Mzg0OTM3XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

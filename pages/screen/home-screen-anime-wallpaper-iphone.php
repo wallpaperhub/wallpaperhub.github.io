@@ -1,0 +1,129 @@
+<title>Stunning Anime Wallpapers for Your iPhone Home Screen</title>
+                    <meta name="description" content="Discover eye-catching anime wallpapers to elevate your iPhone home screen. Browse diverse styles and themes, perfect for every anime fan. Customize your device with vibrant, high-quality images that express your passion and make your iPhone stand out effortlessly.">
+                    <meta name="keywords" content="home screen anime wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/home-screen-anime-wallpaper-iphone">
+                            <span itemprop="name">home screen anime wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Wallpapers for Your iPhone Home Screen</h1>
+                <p>Transform your iPhone with stunning anime wallpapers for your home screen. Choose from an array of vibrant characters and scenes, ensuring that your device reflects your style. Whether you love classic series or the latest hits, find the perfect wallpaper to make your iPhone truly unique and captivating.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my hero academia ios 14 home screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/72/1b/0d721ba66806e1003df347872eaa746d.jpg' alt='my hero academia ios 14 home screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/72/1b/0d721ba66806e1003df347872eaa746d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpaper on X: "Anime iPhone Home Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EOfcNRqWAAQ_3ZW.jpg:large' alt='Cute iPhone Wallpaper on X: "Anime iPhone Home Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EOfcNRqWAAQ_3ZW.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime lockscreen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/579/519/HD-wallpaper-tanjiro-art-demonslayer-minimalist-lockscreen-anime-thumbnail.jpg' alt='HD anime lockscreen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/579/519/HD-wallpaper-tanjiro-art-demonslayer-minimalist-lockscreen-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute anime inspired wallpapers for iphone |ios 14 home screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0d/35/a6/0d35a6b2f9eb121b90f7c4f9f33ec6f9.jpg' alt='Cute anime inspired wallpapers for iphone |ios 14 home screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0d/35/a6/0d35a6b2f9eb121b90f7c4f9f33ec6f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Anime Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' alt='300+] Anime Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Anime Lockscreens ideas | anime, anime wallpaper, manga anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ce/b8/b8/ceb8b8ea39a028a621cd892493ef4a6c.jpg' alt='900+ Anime Lockscreens ideas | anime, anime wallpaper, manga anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ce/b8/b8/ceb8b8ea39a028a621cd892493ef4a6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime lock screen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' alt='HD anime lock screen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Home Screen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12946621.jpg' alt='Anime Home Screen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12946621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/37/32/4e37321f737d60b9951d00c403957a25.jpg' alt='Home screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/37/32/4e37321f737d60b9951d00c403957a25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Naruto themed Lock screen and home screen    : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9hi6l7s2e4h61.png?width=640&crop=smart&auto=webp&s=e95b50295edfc6bd3f157ba28e42bea5d442c720' alt='My Naruto themed Lock screen and home screen    : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9hi6l7s2e4h61.png?width=640&crop=smart&auto=webp&s=e95b50295edfc6bd3f157ba28e42bea5d442c720' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

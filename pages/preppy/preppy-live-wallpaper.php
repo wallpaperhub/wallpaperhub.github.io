@@ -1,0 +1,129 @@
+<title>Vibrant Preppy Live Wallpapers for a Stylish Look</title>
+                    <meta name="description" content="Elevate your device with our collection of preppy live wallpapers! Enjoy dynamic designs featuring pastel colors and classic patterns that add a chic touch to your screen. Perfect for fashion enthusiasts who appreciate sophistication with a fun twist. Discover the style that suits you!">
+                    <meta name="keywords" content="preppy live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-live-wallpaper">
+                            <span itemprop="name">preppy live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Preppy Live Wallpapers for a Stylish Look</h1>
+                <p>Transform your device with vibrant preppy live wallpapers that blend classic styles with youthful energy. Featuring pastel colors, patterns inspired by tailored fashion, and playful graphics, these dynamic wallpapers bring a fresh vibe to your screen. Perfect for those who love a sophisticated yet fun aesthetic. Elevate your device's look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#preppy #livewallpaper #enjoy #fypシ #viral? Hey guys I hope you like this  live wallpaper I made(Hayley)! Also did you know to determine a good guy in  a movie look out to see what phone there using, ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7087751018821192961&location=0&aid=1988' alt='#preppy #livewallpaper #enjoy #fypシ #viral? Hey guys I hope you like this  live wallpaper I made(Hayley)! Also did you know to determine a good guy in  a movie look out to see what phone there using, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7087751018821192961&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="free 3d live wallpaper <33">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/a6/4e/7fa64ed91e7ae218640488cc5144ae51.jpg' alt='free 3d live wallpaper <33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/a6/4e/7fa64ed91e7ae218640488cc5144ae51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#preppy #livewallpaper #enjoy #fypシ #viral? Hey guys I hope you like this  live wallpaper I made(Hayley)! Also did you know to determine a good guy in  a movie look out to see what phone there using, ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7087795735873244418&location=0&aid=1988' alt='#preppy #livewallpaper #enjoy #fypシ #viral? Hey guys I hope you like this  live wallpaper I made(Hayley)! Also did you know to determine a good guy in  a movie look out to see what phone there using, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7087795735873244418&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpapers #preppy #wallpaperslive | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7266699311126236459&location=0&aid=1988' alt='Preppy wallpapers #preppy #wallpaperslive | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7266699311126236459&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#livewallpapers#preppy | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7087373542970527022&location=0&aid=1988' alt='#livewallpapers#preppy | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7087373542970527022&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Live Wallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7050594185719696687&location=0&aid=1988' alt='Preppy Live Wallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7050594185719696687&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here’s a preppy harry styles wallpaper save as Live Photo #mcdonaldshacks  #harrystyles #livewallpaper #DIYwithBlock #preppy">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7060975421789179182&location=0&aid=1988' alt='Here’s a preppy harry styles wallpaper save as Live Photo #mcdonaldshacks  #harrystyles #livewallpaper #DIYwithBlock #preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7060975421789179182&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy Live Wallpapers and More | DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/thumb_1673363342_948973.jpg' alt='preppy Live Wallpapers and More | DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/thumb_1673363342_948973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Live Wallpaper android on PC">
+                                <img itemprop="contentUrl url" src='https://static.gameloop.com/img/365c9fc14505fdc8e9a1d160bea63831.png?imageMogr2/thumbnail/172.8x172.8/format/webp' alt='Download Preppy Live Wallpaper android on PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="172">
+                                <meta itemprop="height" content="172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameLoop" />
+                                </span>
+                                <a href='https://static.gameloop.com/img/365c9fc14505fdc8e9a1d160bea63831.png?imageMogr2/thumbnail/172.8x172.8/format/webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy live wallpaper [2024/11/09 17:23:33] by bento e | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/RU4hmHe7EZhIfnSabKp5XLAiFb33/HzEuLRRyLgWN8npEKGHo/CAC8BE10-EEC8-41E1-B1F6-C30F2961BE39.jpg?q=70' alt='preppy live wallpaper [2024/11/09 17:23:33] by bento e | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/RU4hmHe7EZhIfnSabKp5XLAiFb33/HzEuLRRyLgWN8npEKGHo/CAC8BE10-EEC8-41E1-B1F6-C30F2961BE39.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

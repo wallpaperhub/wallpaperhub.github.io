@@ -1,0 +1,129 @@
+<title>Mardi Gras Desktop Wallpaper: Celebrate in Style</title>
+                    <meta name="description" content="Elevate your desktop with stunning Mardi Gras wallpaper! Discover a variety of colorful designs that embody the fun and excitement of this iconic celebration. Perfect for adding a festive touch to your computer while keeping your screen vibrant and lively. Ideal for Mardi Gras enthusiasts!">
+                    <meta name="keywords" content="mardi gras desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/mardi-gras-desktop-wallpaper">
+                            <span itemprop="name">mardi gras desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mardi Gras Desktop Wallpaper: Celebrate in Style</h1>
+                <p>Transform your digital space with vibrant Mardi Gras desktop wallpaper! Celebrate the spirit of New Orleans with colorful designs featuring masks, beads, and festive parades. Our collection captures the essence of this lively festival, bringing joy and energy to your screen. Perfect for anyone looking to embrace this unique cultural celebration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Colorful Mardi Gras Zoom Backgrounds - Free Download - The Bash">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/3b7d8b86-666f-4007-8254-4d23d2ffe953' alt='35 Colorful Mardi Gras Zoom Backgrounds - Free Download - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/3b7d8b86-666f-4007-8254-4d23d2ffe953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Wallpaper Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/039/351/576/non_2x/ai-generated-mardi-gras-background-with-empty-copy-space-banner-with-feathers-bokeh-on-blue-backdrop-carnival-purim-photo.jpg' alt='Mardi Gras Wallpaper Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/039/351/576/non_2x/ai-generated-mardi-gras-background-with-empty-copy-space-banner-with-feathers-bokeh-on-blue-backdrop-carnival-purim-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-mardi-gras-celebration-background_23-2150013825.jpg' alt='Mardi Gras Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-mardi-gras-celebration-background_23-2150013825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Background Images – Browse 90,215 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/17/41/42/360_F_317414246_bfjq2R3SDTzdkAdXlGe8maqIRpRvRFht.jpg' alt='Mardi Gras Background Images – Browse 90,215 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1026">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/17/41/42/360_F_317414246_bfjq2R3SDTzdkAdXlGe8maqIRpRvRFht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="159 Mardi Gras Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1369681990/vector/mardi-gras-lights-background.jpg?s=612x612&w=gi&k=20&c=fPn_ExG1Pp81QfDNCVUAaBmJoqPkN0HFo-RSeH8kZ1M=' alt='159 Mardi Gras Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1369681990/vector/mardi-gras-lights-background.jpg?s=612x612&w=gi&k=20&c=fPn_ExG1Pp81QfDNCVUAaBmJoqPkN0HFo-RSeH8kZ1M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Images – Browse 175,211 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/55/43/00/360_F_255430069_6ijhfvXjLJjTYelxu7NCRmxj6Hfbuogr.jpg' alt='Mardi Gras Images – Browse 175,211 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/55/43/00/360_F_255430069_6ijhfvXjLJjTYelxu7NCRmxj6Hfbuogr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/festive-mardi-gras-celebration-with-purple-masks-colorful-confetti_200210-10264.jpg?semt=ais_hybrid' alt='Mardi Gras Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/festive-mardi-gras-celebration-with-purple-masks-colorful-confetti_200210-10264.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mask Holiday Mardi Gras HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/568/thumb-1920-568444.jpg' alt='Download Mask Holiday Mardi Gras HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/568/thumb-1920-568444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mardi Gras Background Images – Browse 90,215 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/19/70/79/360_F_319707958_vWy8YW7fZBbxkcp1A7iuItc8kayWA3nv.jpg' alt='Mardi Gras Background Images – Browse 90,215 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/19/70/79/360_F_319707958_vWy8YW7fZBbxkcp1A7iuItc8kayWA3nv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mardi Gras Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mardi-gras-7xmj194k6go10iz1.jpg' alt='100+] Mardi Gras Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mardi-gras-7xmj194k6go10iz1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

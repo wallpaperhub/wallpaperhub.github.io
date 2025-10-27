@@ -1,0 +1,129 @@
+<title>Bold Black and Yellow Background for Eye-Catching Designs</title>
+                    <meta name="description" content="Discover the power of a black and yellow background! This striking color combination enhances your design, ensuring maximum visibility and engagement. Perfect for branding, events, or creative projects, it captures attention while conveying energy and innovation. Enhance your visuals today!">
+                    <meta name="keywords" content="black and yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-yellow-background">
+                            <span itemprop="name">black and yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Black and Yellow Background for Eye-Catching Designs</h1>
+                <p>A black and yellow background creates a striking visual contrast that is both bold and eye-catching. This combination can evoke feelings of energy and dynamism, making it perfect for designs that aim to grab attention. Often used in branding and warning signs, the black and yellow theme can also symbolize creativity and innovation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-grungy-rough-texture-background-with-brush-stroke-effect_1017-51202.jpg' alt='Black Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-grungy-rough-texture-background-with-brush-stroke-effect_1017-51202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/201/844/small/abstract-background-with-black-and-yellow-color-combination-gold-color-combination-vector.jpg' alt='Black And Yellow Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/201/844/small/abstract-background-with-black-and-yellow-color-combination-gold-color-combination-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,288,196 Abstract Black Yellow Background Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-black-yellow-dirty-grunge-600nw-2446055011.jpg' alt='2,288,196 Abstract Black Yellow Background Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-black-yellow-dirty-grunge-600nw-2446055011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow Graphic Design Images – Browse 1,324,887 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/66/59/91/360_F_366599171_uOsbZOtJHOtfauzXvS2yEGQNWRr4hvRR.jpg' alt='Black And Yellow Graphic Design Images – Browse 1,324,887 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/66/59/91/360_F_366599171_uOsbZOtJHOtfauzXvS2yEGQNWRr4hvRR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow And Black Ink Abstract Background, Wallpaper, Abstract, Ink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/64/31/4364316faefc2a7731c6e788eb2bcecf.jpg' alt='Yellow And Black Ink Abstract Background, Wallpaper, Abstract, Ink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/64/31/4364316faefc2a7731c6e788eb2bcecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,400+ Black And Yellow Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1335928992/vector/yellow-and-black-unusual-background-with-subtle-rays-of-light.jpg?s=612x612&w=0&k=20&c=SRDFb2oQBEvJGxIG9TF0TpXzwr00gxMMtTqCMF1tln4=' alt='3,400+ Black And Yellow Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1335928992/vector/yellow-and-black-unusual-background-with-subtle-rays-of-light.jpg?s=612x612&w=0&k=20&c=SRDFb2oQBEvJGxIG9TF0TpXzwr00gxMMtTqCMF1tln4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-yellow-grunge-background_1409-1587.jpg' alt='Black Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-yellow-grunge-background_1409-1587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and yellow abstract geometric background vector free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2021/03/Black-and-yellow-abstract-geometric-background-vector.jpg' alt='Black and yellow abstract geometric background vector free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2021/03/Black-and-yellow-abstract-geometric-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Yellow Wallpaper | Texture HD/4K Wallpaper| Colorful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/9a/a7/b89aa79ead44312fa036132a75b45abc.jpg' alt='Black and Yellow Wallpaper | Texture HD/4K Wallpaper| Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/9a/a7/b89aa79ead44312fa036132a75b45abc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow Graphic Design Images – Browse 1,324,887 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/56/14/43/360_F_256144313_8QxqCarZmjdE2GGj8AebqvgKbv4AcEJb.jpg' alt='Black And Yellow Graphic Design Images – Browse 1,324,887 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/56/14/43/360_F_256144313_8QxqCarZmjdE2GGj8AebqvgKbv4AcEJb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

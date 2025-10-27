@@ -1,0 +1,129 @@
+<title>Vibrant 80s iPhone Wallpapers: Retro Style for Your Device</title>
+                    <meta name="description" content="Discover a unique collection of 80s iPhone wallpapers that bring retro vibes to your screen. Featuring neon colors and bold patterns, these wallpapers are perfect for anyone looking to showcase their love for this iconic decade. Optimize your device's look with a splash of nostalgia!">
+                    <meta name="keywords" content="80's iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/80s-iphone-wallpaper">
+                            <span itemprop="name">80's iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 80s iPhone Wallpapers: Retro Style for Your Device</h1>
+                <p>Transport yourself back to the vibrant 80s with stunning iPhone wallpapers that capture the era's nostalgia. From neon colors and geometric patterns to iconic pop culture references, these wallpapers embody the essence of retro fun. Personalize your device with a blast from the past and embrace the boldness of the 80s!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-iphone-lvx2ll7o2826l4qh.jpg' alt='100+] 80s Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-iphone-lvx2ll7o2826l4qh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/80s-aesthetic-iphone-51xmp4hobv3ao4d0.jpg' alt='100+] 80s Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/80s-aesthetic-iphone-51xmp4hobv3ao4d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s phone backgrounds | Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/bf/0d/76bf0d83ba9885b68bd0b48f103533cd.jpg' alt='80s phone backgrounds | Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/bf/0d/76bf0d83ba9885b68bd0b48f103533cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy retro 80's phone wallpaper #80s #retro #iphone #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fa/4a/17/fa4a1778926f11e54e7a91d0c4b66b4b.jpg' alt='Crazy retro 80's phone wallpaper #80s #retro #iphone #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fa/4a/17/fa4a1778926f11e54e7a91d0c4b66b4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Phone Wallpaper 80s VHS Pattern 80s Memphis Design Pattern 80s ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31155360/r/il/a09e20/4453465229/il_570xN.4453465229_7c02.jpg' alt='80s Phone Wallpaper 80s VHS Pattern 80s Memphis Design Pattern 80s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31155360/r/il/a09e20/4453465229/il_570xN.4453465229_7c02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/09/9f/ca099fd4199d6464a16c3a122617e96d.jpg' alt='80s iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/09/9f/ca099fd4199d6464a16c3a122617e96d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 80's Phone Wallpaper 12 Digital Download iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37464089/r/il/7e85dd/5639883663/il_fullxfull.5639883663_qzsj.jpg' alt='Retro 80's Phone Wallpaper 12 Digital Download iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37464089/r/il/7e85dd/5639883663/il_fullxfull.5639883663_qzsj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Transform your phone with retro 80s aesthetic! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-aesthetic-iphone-hw9a3bafbg9x4lb5.jpg' alt='Download Transform your phone with retro 80s aesthetic! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-aesthetic-iphone-hw9a3bafbg9x4lb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80's Aesthetic Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/neon-orange-moon-retro-aesthetic-iphone-byrf5675yq8k5voy.webp' alt='80's Aesthetic Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/neon-orange-moon-retro-aesthetic-iphone-byrf5675yq8k5voy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Sunset, 80s, retro, sunset, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/282/890/HD-wallpaper-retro-sunset-80s-cyber-grid-outrun-purple-tron-vice-thumbnail.jpg' alt='Retro Sunset, 80s, retro, sunset, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/282/890/HD-wallpaper-retro-sunset-80s-cyber-grid-outrun-purple-tron-vice-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

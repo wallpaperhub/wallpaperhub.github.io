@@ -1,0 +1,129 @@
+<title>Understanding ARFID: Causes, Symptoms & Treatment</title>
+                    <meta name="description" content="Explore ARFID (Avoidant/Restrictive Food Intake Disorder), its causes, symptoms, and effective treatment options. Discover how to identify this eating disorder and find the right support for recovery. Empower yourself with knowledge about nutrition and mental health!">
+                    <meta name="keywords" content="arfid">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arfid">
+                            <span itemprop="name">arfid</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding ARFID: Causes, Symptoms & Treatment</h1>
+                <p>ARFID, or Avoidant/Restrictive Food Intake Disorder, is an eating disorder characterized by selective eating, leading to nutritional deficiencies. Unlike typical picky eating, ARFID can significantly impact health and quality of life. Individuals may avoid certain foods due to sensory aversions or past negative experiences, requiring professional support for recovery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARFID: Understanding and treating the disorder | Rogers Behavioral ...">
+                                <img itemprop="contentUrl url" src='https://rogersbh.org/wp-content/uploads/2024/10/631631132223_arfid_tn.jpg' alt='ARFID: Understanding and treating the disorder | Rogers Behavioral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rogers Behavioral Health" />
+                                </span>
+                                <a href='https://rogersbh.org/wp-content/uploads/2024/10/631631132223_arfid_tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARFID (Avoidant/Restrictive Food Intake Disorder): Symptoms">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24869-arfid' alt='ARFID (Avoidant/Restrictive Food Intake Disorder): Symptoms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24869-arfid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is (ARFID)? Does this apply to my child? - Lively Eaters">
+                                <img itemprop="contentUrl url" src='https://livelyeaters.com.au/wp-content/uploads/2023/05/arfid-infographic.png' alt='What is (ARFID)? Does this apply to my child? - Lively Eaters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lively Eaters" />
+                                </span>
+                                <a href='https://livelyeaters.com.au/wp-content/uploads/2023/05/arfid-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARFID TREATMENT - WeightMatters : WeightMatters">
+                                <img itemprop="contentUrl url" src='https://weightmatters.co.uk/wp-content/uploads/2024/12/ARFID-TREATMENT.png' alt='ARFID TREATMENT - WeightMatters : WeightMatters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeightMatters" />
+                                </span>
+                                <a href='https://weightmatters.co.uk/wp-content/uploads/2024/12/ARFID-TREATMENT.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARFID Awareness UK - Please download and print from either the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2756785077739028' alt='ARFID Awareness UK - Please download and print from either the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2756785077739028' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Support Your Child with ARFID: Warning Signs & Strategies">
+                                <img itemprop="contentUrl url" src='https://emilyprogram.com/wp-content/uploads/Ways-to-Support-Your-Child-with-ARFID-Blog-Photo.webp' alt='Support Your Child with ARFID: Warning Signs & Strategies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Emily Program" />
+                                </span>
+                                <a href='https://emilyprogram.com/wp-content/uploads/Ways-to-Support-Your-Child-with-ARFID-Blog-Photo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is ARFID? | Avoidant/Restrictive Food Intake Disorder">
+                                <img itemprop="contentUrl url" src='https://www.allianceforeatingdisorders.com/wp-content/uploads/2021/11/21-122-0001-Alliance-Online-Retainer_ARFID-Graphic-2s-01-500x754.jpg' alt='What is ARFID? | Avoidant/Restrictive Food Intake Disorder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alliance for Eating Disorders" />
+                                </span>
+                                <a href='https://www.allianceforeatingdisorders.com/wp-content/uploads/2021/11/21-122-0001-Alliance-Online-Retainer_ARFID-Graphic-2s-01-500x754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 things to know about ARFID — Nutrition in Bloom | Childhood ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/582175db197aea631e3e4812/9cf00cd5-b0df-4055-ac6d-642746e0345b/6+Things+To+Know+About+ARFID_visual.png' alt='6 things to know about ARFID — Nutrition in Bloom | Childhood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nutrition in Bloom" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/582175db197aea631e3e4812/9cf00cd5-b0df-4055-ac6d-642746e0345b/6+Things+To+Know+About+ARFID_visual.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARFID Treatment: How SunCloud Health Treats the Disorder">
+                                <img itemprop="contentUrl url" src='https://suncloudhealth.com/wp-content/uploads/2024/10/ARFID-.png' alt='ARFID Treatment: How SunCloud Health Treats the Disorder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SunCloud Health" />
+                                </span>
+                                <a href='https://suncloudhealth.com/wp-content/uploads/2024/10/ARFID-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understand ARFID - Free Download - Sunshine Support">
+                                <img itemprop="contentUrl url" src='https://sunshine-support.org/wp-content/uploads/2023/09/ARFID-1024x1024.png' alt='Understand ARFID - Free Download - Sunshine Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sunshine Support" />
+                                </span>
+                                <a href='https://sunshine-support.org/wp-content/uploads/2023/09/ARFID-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

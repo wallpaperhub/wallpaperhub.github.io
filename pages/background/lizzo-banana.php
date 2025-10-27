@@ -1,0 +1,129 @@
+<title>Lizzo's "Banana": A Celebration of Self-Love</title>
+                    <meta name="description" content="Discover Lizzo's catchy hit "Banana," a lively anthem promoting self-love and confidence. With its infectious energy and empowering lyrics, this song is a joyful celebration of individuality. Join Lizzo in embracing who you are through this vibrant musical experience!">
+                    <meta name="keywords" content="lizzo banana">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lizzo-banana">
+                            <span itemprop="name">lizzo banana</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lizzo's "Banana": A Celebration of Self-Love</h1>
+                <p>Lizzo's "Banana" is a vibrant anthem celebrating self-love and confidence. The catchy tune showcases her signature blend of pop and hip-hop, with playful lyrics that encourage listeners to embrace their uniqueness. With its infectious beat and uplifting message, "Banana" stands as a testament to Lizzo's empowering artistry and joyful spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lizzo's 'eating bananas' post goes VIRAL amid accusations of ...">
+                                <img itemprop="contentUrl url" src='https://i.dailymail.co.uk/1s/2023/08/07/09/74034633-12380151-image-a-24_1691395795042.jpg' alt='Lizzo's 'eating bananas' post goes VIRAL amid accusations of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Mail" />
+                                </span>
+                                <a href='https://i.dailymail.co.uk/1s/2023/08/07/09/74034633-12380151-image-a-24_1691395795042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Would y'all eat one of those #Lizzo banana's   ?    Lizzo ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3160920648964458575' alt='Would y'all eat one of those #Lizzo banana's   ?    Lizzo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3160920648964458575' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post on Lizzo's Facebook from infamous Amsterdam show - “we ate ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/axm0di2kkygb1.jpg' alt='Post on Lizzo's Facebook from infamous Amsterdam show - “we ate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/axm0di2kkygb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RuPauls Drag Race' Queens Eat a Bunch of Fruit in Lizzo's New ...">
+                                <img itemprop="contentUrl url" src='https://static.spin.com/files/2019/04/Screen-Shot-2019-04-17-at-1.33.45-PM-1555522543.png' alt='RuPauls Drag Race' Queens Eat a Bunch of Fruit in Lizzo's New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SPIN" />
+                                </span>
+                                <a href='https://static.spin.com/files/2019/04/Screen-Shot-2019-04-17-at-1.33.45-PM-1555522543.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACK IN THE @YITTY SUPERSUIT   AmsterDAM u were incredible— we ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3045208154501567446' alt='BACK IN THE @YITTY SUPERSUIT   AmsterDAM u were incredible— we ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3045208154501567446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lizzo is New Spokesperson For Chiquita Bananas - Madhouse Magazine">
+                                <img itemprop="contentUrl url" src='https://www.madhousemagazine.com/wp-content/uploads/2023/08/LizzoChiquitaCover.jpg' alt='Lizzo is New Spokesperson For Chiquita Bananas - Madhouse Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madhouse Magazine" />
+                                </span>
+                                <a href='https://www.madhousemagazine.com/wp-content/uploads/2023/08/LizzoChiquitaCover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lizzo talked about her interest in banana sex shows in resurfaced ...">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2023/08/NYPICHPDPICT000016899848.jpg?quality=75&strip=all' alt='Lizzo talked about her interest in banana sex shows in resurfaced ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2023/08/NYPICHPDPICT000016899848.jpg?quality=75&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lizzo's 'eating bananas' post goes VIRAL amid accusations of ...">
+                                <img itemprop="contentUrl url" src='https://i.dailymail.co.uk/1s/2023/08/07/09/74034685-0-image-a-15_1691395346556.jpg' alt='Lizzo's 'eating bananas' post goes VIRAL amid accusations of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Mail" />
+                                </span>
+                                <a href='https://i.dailymail.co.uk/1s/2023/08/07/09/74034685-0-image-a-15_1691395346556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smooth Bananas: the Lizzo Flute Controversy – The Collegio">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/psucollegio.com/wp-content/uploads/2022/09/Smooth-Bananas-HQ.png?fit=4000%2C4000&ssl=1' alt='Smooth Bananas: the Lizzo Flute Controversy – The Collegio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Collegio" />
+                                </span>
+                                <a href='https://i0.wp.com/psucollegio.com/wp-content/uploads/2022/09/Smooth-Bananas-HQ.png?fit=4000%2C4000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Speaks Out About Lizzo Incident">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k50QY6N59eo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYbiAgKH8wDw==&rs=AOn4CLC9DCK3WYonJHORYrg5vWSzoizwhw' alt='Banana Speaks Out About Lizzo Incident'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k50QY6N59eo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYbiAgKH8wDw==&rs=AOn4CLC9DCK3WYonJHORYrg5vWSzoizwhw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

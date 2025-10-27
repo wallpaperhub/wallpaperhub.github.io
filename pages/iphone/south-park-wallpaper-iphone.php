@@ -1,0 +1,129 @@
+<title>Stylish South Park Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover the best South Park wallpaper for your iPhone! Customize your device with iconic scenes and beloved characters. Perfect for fans looking to showcase their love for the show in a fun and stylish way. Explore unique designs that fit your personality!">
+                    <meta name="keywords" content="south park wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/south-park-wallpaper-iphone">
+                            <span itemprop="name">south park wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish South Park Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with vibrant South Park wallpaper! Choose from iconic characters like Cartman, Stan, Kyle, and Kenny to express your fandom. Whether you prefer classic scenes or modern art styles, find the perfect South Park wallpaper that brings a touch of humor and nostalgia to your device. Explore our collection now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpapers (77 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/d/a/43957-1080x1920-samsung-full-hd-south-park-background.jpg' alt='South Park Wallpapers (77 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/d/a/43957-1080x1920-samsung-full-hd-south-park-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kenny, south park, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/463/177/HD-wallpaper-kenny-south-park.jpg' alt='Kenny, south park, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/463/177/HD-wallpaper-kenny-south-park.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/50/75/7b/50757b4af801bc3d73bb7e21fd516e16.jpg' alt='South Park Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/50/75/7b/50757b4af801bc3d73bb7e21fd516e16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this shitty iPhone X/XS Wallpaper : r/southpark">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t2yytpymusc41.jpg' alt='Made this shitty iPhone X/XS Wallpaper : r/southpark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t2yytpymusc41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Super Heroes Wallpaper for phones. Enjoy. : r/southpark">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ovea4tvebxtz.png?auto=webp&s=9433acbb313fe636670c3d4eea63fe05a4cf7a28' alt='South Park Super Heroes Wallpaper for phones. Enjoy. : r/southpark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ovea4tvebxtz.png?auto=webp&s=9433acbb313fe636670c3d4eea63fe05a4cf7a28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park, park, south, themes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/198/164/HD-wallpaper-south-park-park-south-themes.jpg' alt='South Park, park, south, themes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/198/164/HD-wallpaper-south-park-park-south-themes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someday... — South Park iPhone Wallpaper ♥ ☆・ﾟ (I had so much...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/55e0a14ff120f5f9345f2dac879e2796/tumblr_o0jpn6mkhO1sq7o96o2_640.png' alt='Someday... — South Park iPhone Wallpaper ♥ ☆・ﾟ (I had so much...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr ConanFreakx3" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/55e0a14ff120f5f9345f2dac879e2796/tumblr_o0jpn6mkhO1sq7o96o2_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10024529.jpg' alt='South Park iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10024529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="south park">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/7b/10/7a7b10477ba6e4cdb3db7e1ddf79688b.jpg' alt='south park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/7b/10/7a7b10477ba6e4cdb3db7e1ddf79688b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download South Park Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/south-park-fanart-in-portrait-bgw0fi5n81ri3vdf.jpg' alt='Download South Park Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/south-park-fanart-in-portrait-bgw0fi5n81ri3vdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

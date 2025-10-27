@@ -1,0 +1,129 @@
+<title>Stunning 3D Malibu Wallpaper for a Coastal Vibe</title>
+                    <meta name="description" content="Revamp your interiors with our eye-catching 3D Malibu wallpaper. Experience the allure of coastal scenery and enhance your home's aesthetic effortlessly. Perfect for any room, this wallpaper combines beauty with durability, ensuring a stunning backdrop you'll love. Dive into coastal charm today!">
+                    <meta name="keywords" content="3d malibu wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-malibu-wallpaper">
+                            <span itemprop="name">3d malibu wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Malibu Wallpaper for a Coastal Vibe</h1>
+                <p>Transform your space with stunning 3D Malibu wallpaper designs that capture the essence of coastal beauty. Featuring vibrant colors and lifelike textures, these wallpapers bring the serene vistas of Malibu right into your home. Ideal for any room, create a soothing atmosphere and elevate your decor effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper oceanfront Homes of Malibu Beach in California Horizontal sea  line Self Adhesive Bedroom Living Room Dormitory Decor Wall Mural Stick and  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Ek3q+vQRL._AC_UF894,1000_QL80_.jpg' alt='3D Wallpaper oceanfront Homes of Malibu Beach in California Horizontal sea  line Self Adhesive Bedroom Living Room Dormitory Decor Wall Mural Stick and  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Ek3q+vQRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Art Beach Sunset Malibu 3D Full Wall Mural Photo Wallpaper Print Home  Decal | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/BAIAAOSwYIxX7O2o/s-l400.jpg' alt='Fine Art Beach Sunset Malibu 3D Full Wall Mural Photo Wallpaper Print Home  Decal | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/BAIAAOSwYIxX7O2o/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3D Wallpaper oceanfront Homes of Malibu Beach in California  Horizontal sea line Self Adhesive Bedroom Living Room Dormitory Decor Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/612x5CDtjzL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: 3D Wallpaper oceanfront Homes of Malibu Beach in California  Horizontal sea line Self Adhesive Bedroom Living Room Dormitory Decor Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/612x5CDtjzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Shore Sunset Malibu Beach 3D Full Wall Mural Photo Wallpaper Printed  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/mHkAAOSwbwlXAQn8/s-l1200.jpg' alt='Rock Shore Sunset Malibu Beach 3D Full Wall Mural Photo Wallpaper Printed  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/mHkAAOSwbwlXAQn8/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Malibu Beach Sand View Window 3D Wall Decal Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X+Oc702YL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Malibu Beach Sand View Window 3D Wall Decal Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X+Oc702YL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malibu Sunset View Window 3D Wall Decal Art Removable Wallpaper Beach Mural  Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16200999/r/il/62369b/1342453248/il_570xN.1342453248_62cf.jpg' alt='Malibu Sunset View Window 3D Wall Decal Art Removable Wallpaper Beach Mural  Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16200999/r/il/62369b/1342453248/il_570xN.1342453248_62cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wallpaper Peel and Stick Oceanfront Homes Malibu Beach  California Self Adhesive Mural Removable Wall Sticker Large 3D Wallpaper  Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71TwVB66-BL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Wallpaper Peel and Stick Oceanfront Homes Malibu Beach  California Self Adhesive Mural Removable Wall Sticker Large 3D Wallpaper  Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71TwVB66-BL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malibu Beach House Sunset View Window 3D Wall Decal Art Removable Wallpaper  Malibu Mural Sticker Vinyl Home Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16200999/r/il/ec4342/1341570118/il_570xN.1341570118_2a05.jpg' alt='Malibu Beach House Sunset View Window 3D Wall Decal Art Removable Wallpaper  Malibu Mural Sticker Vinyl Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16200999/r/il/ec4342/1341570118/il_570xN.1341570118_2a05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3D Wallpaper Malibu Floral Antique Fabric Exotic Pattern Stock  Pictures Royalty Self Adhesive Bedroom Living Room Dormitory Decor Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/615rauVpH1L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: 3D Wallpaper Malibu Floral Antique Fabric Exotic Pattern Stock  Pictures Royalty Self Adhesive Bedroom Living Room Dormitory Decor Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/615rauVpH1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malibu Beach House Sunset View Window 3D Wall Decal Art Removable Wallpaper  Malibu Mural Sticker Vinyl Home Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16200999/r/il/575a89/1388848629/il_570xN.1388848629_t6iz.jpg' alt='Malibu Beach House Sunset View Window 3D Wall Decal Art Removable Wallpaper  Malibu Mural Sticker Vinyl Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16200999/r/il/575a89/1388848629/il_570xN.1388848629_t6iz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

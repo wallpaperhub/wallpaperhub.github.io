@@ -1,0 +1,129 @@
+<title>Pink Hearts Wallpaper: Cute & Charming Decor</title>
+                    <meta name="description" content="Discover the perfect pink hearts wallpaper for your home! Ideal for creating a playful, romantic atmosphere in any room. Easy to apply and beautiful to look at, it’s a delightful choice for those seeking cute decor ideas. Elevate your space with lovely patterns and soft colors!">
+                    <meta name="keywords" content="wallpaper pink hearts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/wallpaper-pink-hearts">
+                            <span itemprop="name">wallpaper pink hearts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Hearts Wallpaper: Cute & Charming Decor</h1>
+                <p>Transform your space with charming pink hearts wallpaper! Perfect for adding a playful touch to bedrooms, nurseries, or any cozy corner, this wallpaper adds warmth and whimsy. Its soft hues create a soothing atmosphere, making it an ideal choice for lovers of cute, romantic decor. Enjoy a stylish and inviting ambiance today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREEBIE Pink hearts phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/2c/0f/9b2c0f1df5c52b0c1c57986a92b739fb.jpg' alt='FREEBIE Pink hearts phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/2c/0f/9b2c0f1df5c52b0c1c57986a92b739fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,500+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' alt='117,500+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Abstract pink background with red hearts wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27745.jpg' alt='Premium Photo | Abstract pink background with red hearts wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/cb/81/b0cb815526edae04370e69186e0ee8d9.jpg' alt='Soft pink heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/cb/81/b0cb815526edae04370e69186e0ee8d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.wellappointedhouse.com/cdn/shop/files/pink-hearts-wallpaper-little-loves-wallpaper-the-well-appointed-house-1_b0764cdf-8478-4b1b-9aa8-ad5402f3bff3.webp?v=1724889971' alt='Pink Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Well Appointed House" />
+                                </span>
+                                <a href='http://www.wellappointedhouse.com/cdn/shop/files/pink-hearts-wallpaper-little-loves-wallpaper-the-well-appointed-house-1_b0764cdf-8478-4b1b-9aa8-ad5402f3bff3.webp?v=1724889971' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink hearts, lips, love, sparkle, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/736/267/HD-wallpaper-pink-hearts-lips-love-sparkle.jpg' alt='Pink hearts, lips, love, sparkle, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/736/267/HD-wallpaper-pink-hearts-lips-love-sparkle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Images – Browse 3,863,914 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/99/72/75/360_F_499727510_sgWAqu3GEUyDkAfRajprbTslFPXfK0Pk.jpg' alt='Pink Heart Images – Browse 3,863,914 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/99/72/75/360_F_499727510_sgWAqu3GEUyDkAfRajprbTslFPXfK0Pk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink wallaper     | Heart iphone wallpaper, Pink wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/56/3a/57563a3594ee5736f54b3b4e88221e92.jpg' alt='pink wallaper     | Heart iphone wallpaper, Pink wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/56/3a/57563a3594ee5736f54b3b4e88221e92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Wallpaper Mural Girls Bedroom Decor, Heart Wall Pattern Design  Pretty Bedroom Ideas, Nursery Heart Wall Covering Home Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13371893/r/il/b64bc6/1217891679/il_1080xN.1217891679_skri.jpg' alt='Pink Hearts Wallpaper Mural Girls Bedroom Decor, Heart Wall Pattern Design  Pretty Bedroom Ideas, Nursery Heart Wall Covering Home Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13371893/r/il/b64bc6/1217891679/il_1080xN.1217891679_skri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glittery Pink Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glittery-pink-heart-05twhw24m9ujink6.jpg' alt='Glittery Pink Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glittery-pink-heart-05twhw24m9ujink6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

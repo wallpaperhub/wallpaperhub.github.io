@@ -1,0 +1,129 @@
+<title>Stunning Fortnite Battle Royale Wallpapers for Every Gamer</title>
+                    <meta name="description" content="Discover the ultimate collection of Fortnite Battle Royale wallpapers! Perfect for gamers seeking to personalize their devices, these high-quality wallpapers feature beloved characters and epic scenes. Transform your screen with stunning visuals and immerse yourself in the Fortnite universe today!">
+                    <meta name="keywords" content="fortnite battle royale wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-battle-royale-wallpaper">
+                            <span itemprop="name">fortnite battle royale wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fortnite Battle Royale Wallpapers for Every Gamer</h1>
+                <p>Fortnite Battle Royale wallpaper brings the vibrant and dynamic aesthetic of the game right to your screen. Featuring iconic characters, stunning landscapes, and epic moments, these wallpapers enhance your gaming experience while showcasing your favorite elements. Elevate your device’s look and feel with these eye-catching designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/877/thumb-1920-877849.jpg' alt='Fortnite Battle Royale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/877/thumb-1920-877849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Royale Game Wallpapers (55 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/2/f/1509487-1920x1080-desktop-full-hd-battle-royale-game-wallpaper.jpg' alt='Battle Royale Game Wallpapers (55 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/2/f/1509487-1920x1080-desktop-full-hd-battle-royale-game-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/934/934290.jpg' alt='Fortnite Battle Royale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/934/934290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/877/thumb-1920-877851.jpg' alt='Fortnite Battle Royale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/877/thumb-1920-877851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Into Fortnite, the Free Game Everyone Is Playing | GQ">
+                                <img itemprop="contentUrl url" src='http://media.gq.com/photos/5ab3f84b40624b55cc7f3bf6/master/pass/fortnite.jpeg' alt='How to Get Into Fortnite, the Free Game Everyone Is Playing | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='http://media.gq.com/photos/5ab3f84b40624b55cc7f3bf6/master/pass/fortnite.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Video Game 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/65/45/6265454b6323ba92dde1915cff5f9a6d.jpg' alt='Fortnite Battle Royale Video Game 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/65/45/6265454b6323ba92dde1915cff5f9a6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Phone Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fortnite-battle-royale-phone-hd-lnlerhpu00vpe1f5.jpg' alt='Fortnite Battle Royale Phone Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fortnite-battle-royale-phone-hd-lnlerhpu00vpe1f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Royale Game Wallpapers (55 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/8/7/1509468-1920x1080-desktop-full-hd-battle-royale-game-wallpaper-image.jpg' alt='Battle Royale Game Wallpapers (55 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/8/7/1509468-1920x1080-desktop-full-hd-battle-royale-game-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Fortnite Battle Royale Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-battle-royale-desktop-wq52txmraubxpahj.jpg' alt='200+] Fortnite Battle Royale Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-battle-royale-desktop-wq52txmraubxpahj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/c3/e1/9fc3e11d63ee952f4ccfeac14d8c4937.jpg' alt='Fortnite Battle Royale 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/c3/e1/9fc3e11d63ee952f4ccfeac14d8c4937.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

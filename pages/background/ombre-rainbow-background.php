@@ -1,0 +1,129 @@
+<title>Vibrant Ombre Rainbow Backgrounds for Stunning Designs</title>
+                    <meta name="description" content="Create eye-catching visuals with our ombre rainbow backgrounds. Ideal for social media, websites, and digital art, these vibrant designs blend colors beautifully, adding a creative spark to your projects. Perfect for anyone looking to elevate their aesthetic in a simple, captivating way!">
+                    <meta name="keywords" content="ombre rainbow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ombre-rainbow-background">
+                            <span itemprop="name">ombre rainbow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Ombre Rainbow Backgrounds for Stunning Designs</h1>
+                <p>Elevate your design projects with a stunning ombre rainbow background! This vibrant backdrop seamlessly blends multiple colors, creating a mesmerizing gradient effect. Perfect for social media graphics, website designs, or digital art, an ombre rainbow background adds a playful touch to any visual project, bringing energy and creativity to the forefront.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Ombre Images – Browse 26,574 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/99/66/29/360_F_499662914_UOU1sUeZjCL1D2NEzldljLgmfs6EFe15.jpg' alt='Rainbow Ombre Images – Browse 26,574 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/99/66/29/360_F_499662914_UOU1sUeZjCL1D2NEzldljLgmfs6EFe15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Ombre Gradient Digital Paper Color Spectrum Background PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/fe8aa0/3879574548/il_fullxfull.3879574548_12ba.jpg' alt='Rainbow Ombre Gradient Digital Paper Color Spectrum Background PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/fe8aa0/3879574548/il_fullxfull.3879574548_12ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-rainbow-gradient-background_78370-2169.jpg' alt='Rainbow Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-rainbow-gradient-background_78370-2169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12" x 17" Abstract Colorful Rainbow Ombre Watercolor Background Sheet  Patterned Vinyl Sheets - Printed Heat Transfer - Pattern">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21337046/r/il/158e7d/2055083554/il_570xN.2055083554_66yq.jpg' alt='12" x 17" Abstract Colorful Rainbow Ombre Watercolor Background Sheet  Patterned Vinyl Sheets - Printed Heat Transfer - Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21337046/r/il/158e7d/2055083554/il_570xN.2055083554_66yq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Ombre Smooth Background Colour Diagonal Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/rainbow-ombre-smooth-background-colour-260nw-1468719602.jpg' alt='Rainbow Ombre Smooth Background Colour Diagonal Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/rainbow-ombre-smooth-background-colour-260nw-1468719602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Ombre Rainbow Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/466491481/vector/rainbow-vivid-watercolor-background.jpg?s=612x612&w=0&k=20&c=5An8DaXdkRz8KdTNUo8xD9vN1DYOub61y5m2aAtSUvo=' alt='1,000+ Ombre Rainbow Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/466491481/vector/rainbow-vivid-watercolor-background.jpg?s=612x612&w=0&k=20&c=5An8DaXdkRz8KdTNUo8xD9vN1DYOub61y5m2aAtSUvo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Gradient Images – Browse 1,426,937 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/25/75/55/360_F_325755503_Fl9vS42a4StGSeI1Fd8nNyZoHi1OA91F.jpg' alt='Rainbow Gradient Images – Browse 1,426,937 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/25/75/55/360_F_325755503_Fl9vS42a4StGSeI1Fd8nNyZoHi1OA91F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Pastel Gradient Ombre Background Graphic by Magnolia ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/17/Rainbow-Pastel-Gradient-Ombre-Background-Graphics-4388302-1.png' alt='Rainbow Pastel Gradient Ombre Background Graphic by Magnolia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/17/Rainbow-Pastel-Gradient-Ombre-Background-Graphics-4388302-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Gradient Ombre Background Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/11/Rainbow-Gradient-Ombre-Background-Graphics-4334040-1.jpg' alt='Rainbow Gradient Ombre Background Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/11/Rainbow-Gradient-Ombre-Background-Graphics-4334040-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Ombre Images – Browse 26,574 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/55/97/74/360_F_355977406_ZlTewpT18aAh6N3YGqVPZZdWYYZDBtQb.jpg' alt='Rainbow Ombre Images – Browse 26,574 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/55/97/74/360_F_355977406_ZlTewpT18aAh6N3YGqVPZZdWYYZDBtQb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

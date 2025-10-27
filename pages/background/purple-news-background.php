@@ -1,0 +1,129 @@
+<title>Eye-Catching Purple News Backgrounds for Media</title>
+                    <meta name="description" content="Discover the impact of purple news backgrounds on your media content. Elevate your visuals with this vibrant hue to engage viewers and enhance readability. Perfect for diverse topics, a purple backdrop adds creativity and elegance, making your news unique. Explore the world of purple backgrounds today!">
+                    <meta name="keywords" content="purple news background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-news-background">
+                            <span itemprop="name">purple news background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Purple News Backgrounds for Media</h1>
+                <p>A purple news background can add a vibrant and modern touch to any media presentation. Whether used in graphics, videos, or digital platforms, this eye-catching hue enhances readability and engages viewers. Perfect for fashion, art, or technology topics, it evokes creativity and elegance, making your news content stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Style Background Purple Abstract Motion">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/4946813/thumb/11.jpg?ip=x480' alt='News Style Background Purple Abstract Motion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/4946813/thumb/11.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Broadcast World News">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/2mhLcvO/videoblocks-purple-broadcast-world-news_hfjnzwdvw_thumbnail-1080_06.png' alt='Purple Broadcast World News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/2mhLcvO/videoblocks-purple-broadcast-world-news_hfjnzwdvw_thumbnail-1080_06.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract cyber glitch digital background 4k stock video 1411664504">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411664504/video/abstract-cyber-glitch-digital-background-4k.jpg?s=640x640&k=20&c=9qlijcrw31N8r_jZHXYrx5JA6FK5oqwnST3MTyeWxeM=' alt='Abstract cyber glitch digital background 4k stock video 1411664504'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411664504/video/abstract-cyber-glitch-digital-background-4k.jpg?s=640x640&k=20&c=9qlijcrw31N8r_jZHXYrx5JA6FK5oqwnST3MTyeWxeM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News and Broadcasting Media Abstract Background in Purple ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/98/15/36/1000_F_498153606_qI896POA8eQlHzVemIJABM0Kw1Kcv7Yu.jpg' alt='Breaking News and Broadcasting Media Abstract Background in Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/98/15/36/1000_F_498153606_qI896POA8eQlHzVemIJABM0Kw1Kcv7Yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Style Background Purple Abstract Motion">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/4913744/thumb/1.jpg' alt='News Style Background Purple Abstract Motion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/4913744/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,600+ Purple News Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1328745241/vector/abstract-blend-modern-tech-dots-background.jpg?s=612x612&w=0&k=20&c=5TC70WWmD-nFbGXSOmuCFd-AI2xwElGWFH0OS7awCwQ=' alt='5,600+ Purple News Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1328745241/vector/abstract-blend-modern-tech-dots-background.jpg?s=612x612&w=0&k=20&c=5TC70WWmD-nFbGXSOmuCFd-AI2xwElGWFH0OS7awCwQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD News TV Virtual Studio Green Screen Background purple colour">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/hd-news-tv-virtual-studio-footage-073511283_iconl.jpeg' alt='HD News TV Virtual Studio Green Screen Background purple colour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/hd-news-tv-virtual-studio-footage-073511283_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="news generic background Purple">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/news-generic-background-purple-footage-047198824_iconl.jpeg' alt='news generic background Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/news-generic-background-purple-footage-047198824_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Realistic news studio background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-news-studio-background_23-2150026874.jpg' alt='Free Vector | Realistic news studio background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-news-studio-background_23-2150026874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadcast News Background Featuring 3D World Map on Purple">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/055/605/242/small_2x/broadcast-news-background-featuring-3d-world-map-on-purple-video.jpg' alt='Broadcast News Background Featuring 3D World Map on Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/055/605/242/small_2x/broadcast-news-background-featuring-3d-world-map-on-purple-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

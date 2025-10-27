@@ -1,0 +1,129 @@
+<title>Bojack Horseman: The Ultimate Guide</title>
+                    <meta name="description" content="Explore the world of Bojack Horseman with our comprehensive wiki. Discover character details, episode summaries, and in-depth articles on the show's impactful themes and cultural significance. Perfect for fans seeking to delve deeper into this groundbreaking animated series!">
+                    <meta name="keywords" content="bojack horseman wiki">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bojack-horseman-wiki">
+                            <span itemprop="name">bojack horseman wiki</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bojack Horseman: The Ultimate Guide</h1>
+                <p>Bojack Horseman is an animated series that follows the life of a washed-up actor, Bojack, a horse in a world of anthropomorphic animals and humans. The show delves into themes like mental health, addiction, and the complexities of fame. With its dark humor and poignant storytelling, it captures the struggles of finding purpose and happiness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/d/d2/BoJack_Horsemann.png/revision/latest/scale-to-width/360?cb=20170924222700' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/d/d2/BoJack_Horsemann.png/revision/latest/scale-to-width/360?cb=20170924222700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/a/a7/1999_BoJack.png/revision/latest/scale-to-width/360?cb=20171004171936' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/a/a7/1999_BoJack.png/revision/latest/scale-to-width/360?cb=20171004171936' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/5/51/BoJack_Horseman_Horsin%27_Around.png/revision/latest?cb=20190104212109' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1027">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/5/51/BoJack_Horseman_Horsin%27_Around.png/revision/latest?cb=20190104212109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/9/98/S6E01_Teen_BoJack.jpeg/revision/latest/scale-to-width/360?cb=20200102192109' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/9/98/S6E01_Teen_BoJack.jpeg/revision/latest/scale-to-width/360?cb=20200102192109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/p__/images/d/de/F6BB32F4-B950-4C0B-9706-3F783952AE98.webp/revision/latest?cb=20230929161952&path-prefix=protagonist' alt='BoJack Horseman | Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/p__/images/d/de/F6BB32F4-B950-4C0B-9706-3F783952AE98.webp/revision/latest?cb=20230929161952&path-prefix=protagonist' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/1/13/BoJack_Horseman_1980s.png/revision/latest/scale-to-width/360?cb=20190216042938' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/1/13/BoJack_Horseman_1980s.png/revision/latest/scale-to-width/360?cb=20190216042938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/2/27/Baby_BoJack_model_sheet.jpeg/revision/latest/scale-to-width-down/1280?cb=20170730230459' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/2/27/Baby_BoJack_model_sheet.jpeg/revision/latest/scale-to-width-down/1280?cb=20170730230459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman season 1 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/6/6f/BoJack_Horseman_season_1.png' alt='BoJack Horseman season 1 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/6/6f/BoJack_Horseman_season_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/6/66/Bojack_Horseman_-Kid-.png/revision/latest/scale-to-width/360?cb=20170924221525' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/6/66/Bojack_Horseman_-Kid-.png/revision/latest/scale-to-width/360?cb=20170924221525' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoJack Horseman | BoJack Horseman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bojackhorseman/images/8/84/Young_BoJack_S6E01.jpeg/revision/latest/scale-to-width/360?cb=20200106081317' alt='BoJack Horseman | BoJack Horseman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoJack Horseman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bojackhorseman/images/8/84/Young_BoJack_S6E01.jpeg/revision/latest/scale-to-width/360?cb=20200106081317' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

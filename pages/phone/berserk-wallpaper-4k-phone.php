@@ -1,0 +1,129 @@
+<title>Berserk 4K Phone Wallpapers - Epic Anime Backgrounds</title>
+                    <meta name="description" content="Discover the ultimate collection of high-quality 4K Berserk wallpapers for your phone. Experience the gripping imagery of this beloved anime, perfect for enthusiasts seeking to personalize their devices. Download now to enhance your mobile experience with stunning visuals!">
+                    <meta name="keywords" content="berserk wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/berserk-wallpaper-4k-phone">
+                            <span itemprop="name">berserk wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Berserk 4K Phone Wallpapers - Epic Anime Backgrounds</h1>
+                <p>Transform your phone with stunning 4K Berserk wallpapers! Immerse yourself in the dark fantasy world of Berserk with high-resolution images featuring iconic characters and breathtaking landscapes. Perfect for anime lovers, these wallpapers will bring your device to life and make a bold statement every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk Wallpaper for Mobile Phone : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/p63byh40pf091.jpg?width=4500&format=pjpg&auto=webp&s=0fba62de1317593fa709305fa36e9e3d9b04bdaa' alt='Berserk Wallpaper for Mobile Phone : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="9744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/p63byh40pf091.jpg?width=4500&format=pjpg&auto=webp&s=0fba62de1317593fa709305fa36e9e3d9b04bdaa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's your Berserk phone wallpaper? I'm looking for a good one ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sfilkkfzzg391.jpg' alt='What's your Berserk phone wallpaper? I'm looking for a good one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="2029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sfilkkfzzg391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/83/f4/aa83f400db6de3df9f0a321e63293596.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/83/f4/aa83f400db6de3df9f0a321e63293596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My phone wallpaper : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qkb0wl7z5rt91.jpg?width=640&crop=smart&auto=webp&s=c16a63687cdd92c44f243af460dd4ddd8045df03' alt='My phone wallpaper : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qkb0wl7z5rt91.jpg?width=640&crop=smart&auto=webp&s=c16a63687cdd92c44f243af460dd4ddd8045df03' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/03/56/3e03560ee44a5bc57d9d690cf8fcf1b7.jpg' alt='Guts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/03/56/3e03560ee44a5bc57d9d690cf8fcf1b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BERSERK, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/224/398/HD-wallpaper-berserk-anime.jpg' alt='BERSERK, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/224/398/HD-wallpaper-berserk-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/8b/c5/928bc52df51ee0055c73ba1583230ad8.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/8b/c5/928bc52df51ee0055c73ba1583230ad8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/976/407/HD-wallpaper-berserk-anime.jpg' alt='Berserk, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/976/407/HD-wallpaper-berserk-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk (Anime) Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/5/f/1645762-2160x3840-samsung-4k-berserk-anime-wallpaper-image.jpg' alt='Berserk (Anime) Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/5/f/1645762-2160x3840-samsung-4k-berserk-anime-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edited Berserk wallpapers : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2sto7vflqp581.jpg?width=640&crop=smart&auto=webp&s=919e233a85cab4382c4fcec90be5b1794f9aab4c' alt='Edited Berserk wallpapers : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2sto7vflqp581.jpg?width=640&crop=smart&auto=webp&s=919e233a85cab4382c4fcec90be5b1794f9aab4c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

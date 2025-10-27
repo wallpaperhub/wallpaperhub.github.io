@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Blue and White Bedroom Wallpaper</title>
+                    <meta name="description" content="Discover the charm of blue and white wallpaper for your bedroom. Perfectly blends elegance and tranquility. Explore various styles, from floral to geometric, to find the perfect fit for your decor. Transform your space effortlessly with this timeless combination!">
+                    <meta name="keywords" content="blue and white wallpaper for bedroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-wallpaper-for-bedroom">
+                            <span itemprop="name">blue and white wallpaper for bedroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Blue and White Bedroom Wallpaper</h1>
+                <p>Transform your bedroom into a serene retreat with blue and white wallpaper. This classic color combination adds elegance and a touch of calmness to the space. Perfect for enhancing any décor style, it brings a fresh and airy feel. Choose patterns that reflect your personality—floral, geometric, or stripes—for a stunning focal point.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Wallpaper Blue and White Peel and Stick Wallpaper Accent Wall French  Chinoiserie Style Country Farmhouse Temporary Wallpaper for Apartments ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1sVgKsxamL._AC_UF894,1000_QL80_.jpg' alt='Toile Wallpaper Blue and White Peel and Stick Wallpaper Accent Wall French  Chinoiserie Style Country Farmhouse Temporary Wallpaper for Apartments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1sVgKsxamL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Flowers and Leaves Wallpaper Blue Floral Botanical Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26864170/r/il/fc7e02/3081793053/il_fullxfull.3081793053_q1d4.jpg' alt='Blue Flowers and Leaves Wallpaper Blue Floral Botanical Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26864170/r/il/fc7e02/3081793053/il_fullxfull.3081793053_q1d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper – Timberlea Interiors">
+                                <img itemprop="contentUrl url" src='https://timberleaco.com/cdn/shop/products/Lindsaymockup58_brightbedroomREVISEDMPcopy.jpg?v=1727803864&width=1650' alt='Blue Wallpaper – Timberlea Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timberlea Interiors" />
+                                </span>
+                                <a href='https://timberleaco.com/cdn/shop/products/Lindsaymockup58_brightbedroomREVISEDMPcopy.jpg?v=1727803864&width=1650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind Peel and Stick Wallpaper Blue and White Wallpaper Toile Removable  Self-Adhesive Wallpaper for Bedroom Bathroom Vintage Contact Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81X77QvQDuL.jpg' alt='CiCiwind Peel and Stick Wallpaper Blue and White Wallpaper Toile Removable  Self-Adhesive Wallpaper for Bedroom Bathroom Vintage Contact Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81X77QvQDuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Sky White Colors Sky Wallpaper Wall Mural, Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18000923/r/il/d12bb7/2089219141/il_570xN.2089219141_h3nw.jpg' alt='Abstract Blue Sky White Colors Sky Wallpaper Wall Mural, Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18000923/r/il/d12bb7/2089219141/il_570xN.2089219141_h3nw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Garden Wallpaper • Relaxing Blue Floral Wallpaper • Milton ...">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-4-1100x1320.jpg.optimal.jpg' alt='Indigo Garden Wallpaper • Relaxing Blue Floral Wallpaper • Milton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-4-1100x1320.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alicia - 6144 – Scandinavian Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.scandinavianwallpaper.com/cdn/shop/files/6144_Alicia_Roomshot_2.webp?v=1717004656' alt='Alicia - 6144 – Scandinavian Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="885">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandinavian Wallpaper" />
+                                </span>
+                                <a href='http://www.scandinavianwallpaper.com/cdn/shop/files/6144_Alicia_Roomshot_2.webp?v=1717004656' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cowtan-and-tout-fabric-blue-white-floral-wallpaper-chintz-bedroom ...">
+                                <img itemprop="contentUrl url" src='https://www.theglampad.com/wp-content/uploads/2019/06/cowtan-and-tout-fabric-blue-white-floral-wallpaper-chintz-bedroom-christopher-spitzmiller-lamp-matouk-linens.jpg' alt='cowtan-and-tout-fabric-blue-white-floral-wallpaper-chintz-bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Glam Pad" />
+                                </span>
+                                <a href='https://www.theglampad.com/wp-content/uploads/2019/06/cowtan-and-tout-fabric-blue-white-floral-wallpaper-chintz-bedroom-christopher-spitzmiller-lamp-matouk-linens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Beautiful Blue Bedroom Ideas To Create A Soothing Space">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/f2/06/d1f2068c686fc7e0b82816e7c8acabe4.jpg' alt='53 Beautiful Blue Bedroom Ideas To Create A Soothing Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/f2/06/d1f2068c686fc7e0b82816e7c8acabe4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Ivory Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2023/01/23/m_ivory-bamboo-nightstand.jpeg' alt='Blue And Ivory Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2023/01/23/m_ivory-bamboo-nightstand.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

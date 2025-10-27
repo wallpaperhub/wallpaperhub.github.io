@@ -1,0 +1,129 @@
+<title>Stunning Live Winter Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating live winter wallpapers that transform your device. From snow-covered landscapes to enchanting frost designs, each wallpaper offers a unique winter experience. Perfect for those who love the beauty of the season, our collection adds a touch of magic to your screen. Download now and enjoy!">
+                    <meta name="keywords" content="live winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/live-winter-wallpaper">
+                            <span itemprop="name">live winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Winter Wallpapers for Your Device</h1>
+                <p>Transform your device with mesmerizing live winter wallpapers! Experience the serene beauty of glistening snowflakes, tranquil landscapes, and frosty trees that bring the magic of winter to your screen. Perfect for creating a cozy atmosphere, these dynamic backgrounds evoke a sense of peace and wonder every time you unlock your phone. Embrace the chill!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/qEWxzpWO8sRtAmjmfhAFLSs51GECqsRKl9MiQsJCWM41coV3QC3XG5e0eiRlNj2j0WY' alt='Winter Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/qEWxzpWO8sRtAmjmfhAFLSs51GECqsRKl9MiQsJCWM41coV3QC3XG5e0eiRlNj2j0WY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Snow Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61yVO5xjwSL.jpg' alt='Winter Snow Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61yVO5xjwSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Snow Falling Live Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/7f/e8/727fe84639e1c786951c1ff1cc0343af.jpg' alt='30+ Snow Falling Live Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/7f/e8/727fe84639e1c786951c1ff1cc0343af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowy Desktop 3D Live Wallpaper for Windows">
+                                <img itemprop="contentUrl url" src='https://cdn.push-entertainment.com/live-wallpapers/snowy-desktop-3d/992/Snowy-Desktop-3D-Screensaver.jpg' alt='Snowy Desktop 3D Live Wallpaper for Windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PUSH Entertainment" />
+                                </span>
+                                <a href='https://cdn.push-entertainment.com/live-wallpapers/snowy-desktop-3d/992/Snowy-Desktop-3D-Screensaver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/62/7b/a9/627ba992d8ea73c019c2d966e2f284a0.gif' alt='Snow Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/62/7b/a9/627ba992d8ea73c019c2d966e2f284a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Snow Scenery Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61LWgjGwQgL.jpg' alt='Winter Snow Scenery Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61LWgjGwQgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/pUUI2HnVwl3vZwjQApiKMrbP2GFe0ecmJez_mak2Kq45lveSO_3jgovoX17ztaiON5o' alt='Winter Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/pUUI2HnVwl3vZwjQApiKMrbP2GFe0ecmJez_mak2Kq45lveSO_3jgovoX17ztaiON5o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Pro Live Wallpaper Free And Paid Version Available">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W1N6v1SxGEs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggUSh_MA8=&rs=AOn4CLCqy70qhcS_tKzgt4h5jkun81XbAQ' alt='Winter Pro Live Wallpaper Free And Paid Version Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W1N6v1SxGEs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggUSh_MA8=&rs=AOn4CLCqy70qhcS_tKzgt4h5jkun81XbAQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Video Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/916ItepUUEL.png' alt='Winter Video Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/916ItepUUEL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Cabin Snow House 4k live wallpaper. - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tGcgTArtFzo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8hQZiupo72t0yCxyN8AZY5_oVbg' alt='Winter Cabin Snow House 4k live wallpaper. - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tGcgTArtFzo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8hQZiupo72t0yCxyN8AZY5_oVbg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

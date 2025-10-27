@@ -1,0 +1,129 @@
+<title>5e D&D Backgrounds: Enhance Your Character's Story</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="backgrounds 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/backgrounds-5e">
+                            <span itemprop="name">backgrounds 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>5e D&D Backgrounds: Enhance Your Character's Story</h1>
+                <p>In Dungeons & Dragons 5e, backgrounds provide rich backstories and skills that shape your character's identity. They offer unique proficiencies, languages, and tools tailored to your character's narrative. Backgrounds not only enhance gameplay by adding flavor but also connect characters to the game world's lore, making every adventure more engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 16 DnD 2024 Backgrounds 5E (PHB Official)">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-21-at-12.27.35-PM.png' alt='Top 16 DnD 2024 Backgrounds 5E (PHB Official)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5ebackgrounds.com" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-21-at-12.27.35-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Adventurers Resume - A 5e background supplement - First 4 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-adventurers-resume-a-5e-background-supplement-first-4-v0-maqdber67usa1.png?width=1700&format=png&auto=webp&s=a92b1d2dc50f61f3f7542861f59f52e63480f2d4' alt='The Adventurers Resume - A 5e background supplement - First 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-adventurers-resume-a-5e-background-supplement-first-4-v0-maqdber67usa1.png?width=1700&format=png&auto=webp&s=a92b1d2dc50f61f3f7542861f59f52e63480f2d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DND 5e Backgrounds List (Updated) - D&D 5e (Official) ✔️">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.net/wp-content/uploads/2020/11/dnd-5e-backgrounds-list.jpg' alt='DND 5e Backgrounds List (Updated) - D&D 5e (Official) ✔️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5ebackgrounds.net" />
+                                </span>
+                                <a href='https://5ebackgrounds.net/wp-content/uploads/2020/11/dnd-5e-backgrounds-list.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 16 DnD 2024 Backgrounds 5E (PHB Official)">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2019/08/5e-backgrounds-chart.png' alt='Top 16 DnD 2024 Backgrounds 5E (PHB Official)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="892">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5ebackgrounds.com" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2019/08/5e-backgrounds-chart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E - Background Page from PH(B) | EN World D&D & Tabletop RPG ...">
+                                <img itemprop="contentUrl url" src='https://www.enworld.org/attachments/wizards_dnd_2014-jul-15-jpg.62817/' alt='D&D 5E - Background Page from PH(B) | EN World D&D & Tabletop RPG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://www.enworld.org/attachments/wizards_dnd_2014-jul-15-jpg.62817/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | D&D 5e Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest?cb=20221129073406' alt='Backgrounds | D&D 5e Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D 5e Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest?cb=20221129073406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get Background For Any D&D 5e Character – dnd5ebackgrounds">
+                                <img itemprop="contentUrl url" src='https://dnd5ebackgrounds.home.blog/wp-content/uploads/2019/02/screen-shot-2019-02-17-at-11.34.45-am.png?w=640' alt='How To Get Background For Any D&D 5e Character – dnd5ebackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dnd5ebackgrounds" />
+                                </span>
+                                <a href='https://dnd5ebackgrounds.home.blog/wp-content/uploads/2019/02/screen-shot-2019-02-17-at-11.34.45-am.png?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Latest DnD Backgrounds - soldier background 5e diary">
+                                <img itemprop="contentUrl url" src='https://cdn-ak.f.st-hatena.com/images/fotolife/J/JamesSmithj/20191116/20191116233558.png' alt='Latest DnD Backgrounds - soldier background 5e diary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="soldier background 5e diary" />
+                                </span>
+                                <a href='https://cdn-ak.f.st-hatena.com/images/fotolife/J/JamesSmithj/20191116/20191116233558.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheBritishDM's Background Overhaul! - A complete reimagining of ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thebritishdms-background-overhaul-a-complete-reimagining-of-v0-5qmos4d9l2jb1.jpg?width=640&crop=smart&auto=webp&s=462d8e5566b79d1ca46525056c36b681894fd74a' alt='TheBritishDM's Background Overhaul! - A complete reimagining of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thebritishdms-background-overhaul-a-complete-reimagining-of-v0-5qmos4d9l2jb1.jpg?width=640&crop=smart&auto=webp&s=462d8e5566b79d1ca46525056c36b681894fd74a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Great DnD backgrounds 5e 2023 - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_2198,h_1256/https://litrpgreads.com/wp-content/uploads/2023/11/dnd-background-5e-2023-best.jpg' alt='8 Great DnD backgrounds 5e 2023 - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2198">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_2198,h_1256/https://litrpgreads.com/wp-content/uploads/2023/11/dnd-background-5e-2023-best.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

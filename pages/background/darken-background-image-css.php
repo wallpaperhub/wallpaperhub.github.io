@@ -1,0 +1,129 @@
+<title>Darken Background Image with CSS: Easy Guide</title>
+                    <meta name="description" content="Learn how to effectively darken background images in CSS with simple techniques. Perfect for enhancing text readability and achieving a stylish look. Discover quick tips and coding methods to make your web design pop!">
+                    <meta name="keywords" content="darken background image css">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/darken-background-image-css">
+                            <span itemprop="name">darken background image css</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Darken Background Image with CSS: Easy Guide</h1>
+                <p>To darken a background image using CSS, you can employ a pseudo-element. Wrap your image in a div and add another div with a semi-transparent overlay. Use the following CSS: `.overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); }`. This will achieve a darkened effect over your background image.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Darken an Image with CSS - DEV Community">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fo6flqcrhsu4tkdwct2t1.png' alt='How to Darken an Image with CSS - DEV Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fo6flqcrhsu4tkdwct2t1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Darken An Image with CSS Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/h3gktsmp3Oo/maxresdefault.jpg' alt='How To Darken An Image with CSS Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/h3gktsmp3Oo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to convert background image to darken mode in css - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RCvh0pmow_A/sddefault.jpg' alt='How to convert background image to darken mode in css - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RCvh0pmow_A/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Darken an Image using CSS? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20191116212201/using-filter.png' alt='How to Darken an Image using CSS? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="484">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20191116212201/using-filter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - CSS - Darken image except for rectangle overlay - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/5ayTJ.jpg' alt='html - CSS - Darken image except for rectangle overlay - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/5ayTJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Darken an Image using CSS? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20241021164838782316/output.png' alt='How to Darken an Image using CSS? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20241021164838782316/output.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - How to create a vignette with background gradients - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/p9mUO.jpg' alt='css - How to create a vignette with background gradients - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/p9mUO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - How to make this image blur with transparent dark ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/YROBj.gif' alt='html - How to make this image blur with transparent dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/YROBj.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Darken Background Image in CSS - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CQzHzsSLa_w/mqdefault.jpg' alt='How to Darken Background Image in CSS - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CQzHzsSLa_w/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Use CSS background:rbga to Darken Background Photos For Improved ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ryanhayes.net/wp-content/uploads/2014/09/rbga-css-on_yezm5r.png?fit=1110%2C623&ssl=1' alt='Use CSS background:rbga to Darken Background Photos For Improved ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ryan Hayes" />
+                                </span>
+                                <a href='https://i0.wp.com/ryanhayes.net/wp-content/uploads/2014/09/rbga-css-on_yezm5r.png?fit=1110%2C623&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

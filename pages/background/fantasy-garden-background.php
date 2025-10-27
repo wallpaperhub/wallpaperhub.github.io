@@ -1,0 +1,129 @@
+<title>Enchanting Fantasy Garden: A Whimsical Escape</title>
+                    <meta name="description" content="Discover a captivating fantasy garden filled with vivid colors and magical charm. Explore enchanting flowers, playful creatures, and serene streams that transport you to a whimsical retreat. Perfect for nature lovers and dreamers seeking inspiration and tranquility in a lush, magical setting.">
+                    <meta name="keywords" content="fantasy garden background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fantasy-garden-background">
+                            <span itemprop="name">fantasy garden background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Fantasy Garden: A Whimsical Escape</h1>
+                <p>Step into a fantasy garden where vibrant colors dance in harmony. Enchanted flowers bloom under a golden sun, while whimsical creatures flit among leafy vines. Ancient trees whisper secrets, and crystal-clear streams sparkle like diamonds. This magical realm invites you to escape reality and explore nature's wonders, igniting imagination and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,400+ Fantasy Garden Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1470700484/photo/fantasy-background-magic-forest-with-road-beautiful-spring-landscape-lilac-trees-in-blossom.jpg?s=612x612&w=0&k=20&c=RKmgVKftpFNXqN-JSq1ZhandMMLeMfP1IiJGZqpzsg0=' alt='69,400+ Fantasy Garden Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1470700484/photo/fantasy-background-magic-forest-with-road-beautiful-spring-landscape-lilac-trees-in-blossom.jpg?s=612x612&w=0&k=20&c=RKmgVKftpFNXqN-JSq1ZhandMMLeMfP1IiJGZqpzsg0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,400+ Fantasy Garden Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1403707552/photo/beautiful-summer-landscape-of-wonderland-with-roses-and-an-old-castle.jpg?s=612x612&w=0&k=20&c=Lk4TApIH28_rsFH_GStLikQ81ghD0bIsOKxfymcfaLE=' alt='69,400+ Fantasy Garden Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1403707552/photo/beautiful-summer-landscape-of-wonderland-with-roses-and-an-old-castle.jpg?s=612x612&w=0&k=20&c=Lk4TApIH28_rsFH_GStLikQ81ghD0bIsOKxfymcfaLE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Garden Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/465/080/small/ai-generated-beautiful-arch-in-the-garden-at-sunset-time-photo.jpg' alt='Fantasy Garden Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/465/080/small/ai-generated-beautiful-arch-in-the-garden-at-sunset-time-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Garden Scene Stock Illustrations – 19,630 Fantasy Garden ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fantasy-garden-18332617.jpg' alt='Fantasy Garden Scene Stock Illustrations – 19,630 Fantasy Garden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fantasy-garden-18332617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy garden with gates and flowers background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RB84WH/fantasy-garden-with-gates-and-flowers-background-RB84WH.jpg' alt='Fantasy garden with gates and flowers background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RB84WH/fantasy-garden-with-gates-and-flowers-background-RB84WH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Fantasy Garden Stock Illustrations – 79,805 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-dreamy-landscape-archway-enchanted-garden-can-be-used-as-background-wallpaper-141316948.jpg' alt='Background Fantasy Garden Stock Illustrations – 79,805 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-dreamy-landscape-archway-enchanted-garden-can-be-used-as-background-wallpaper-141316948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 5x4ft Fantasy Garden Landscape Fabric Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8117J3JP+AL.jpg' alt='Amazon.com : Loccor 5x4ft Fantasy Garden Landscape Fabric Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8117J3JP+AL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Garden - Fantasy & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1860/1860764-bigthumbnail.jpg' alt='Fantasy Garden - Fantasy & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1860/1860764-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Portal Isolated On Fantasy Garden Background, Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20241022/pngtree-magical-portal-isolated-on-fantasy-garden-image_16437907.jpg' alt='Magical Portal Isolated On Fantasy Garden Background, Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20241022/pngtree-magical-portal-isolated-on-fantasy-garden-image_16437907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Garden with Columns Stock Illustration - Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/cb/82/c7cb829f9f604ed05faa58808977a655.jpg' alt='Fantasy Garden with Columns Stock Illustration - Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/cb/82/c7cb829f9f604ed05faa58808977a655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

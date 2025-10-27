@@ -1,0 +1,129 @@
+<title>AAPI Month: Celebrate Diversity and Heritage</title>
+                    <meta name="description" content="Join us in celebrating AAPI Month, a time to honor the rich heritage and contributions of Asian Americans and Pacific Islanders. Discover events, stories, and cultural insights that promote unity and understanding. Let's appreciate the vibrant tapestry of AAPI culture together!">
+                    <meta name="keywords" content="aapi month">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aapi-month">
+                            <span itemprop="name">aapi month</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AAPI Month: Celebrate Diversity and Heritage</h1>
+                <p>AAPI Month celebrates the rich history, culture, and contributions of Asian Americans and Pacific Islanders. This month-long observance serves as a reminder to honor the diverse voices and stories of these communities. Activities include cultural exhibitions, educational programs, and community events that promote understanding and unity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2024 ASIAN AMERICAN & PACIFIC ISLANDER HERITAGE MONTH - City of ...">
+                                <img itemprop="contentUrl url" src='https://oca-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/04/aapi-heritage-month_0.png' alt='2024 ASIAN AMERICAN & PACIFIC ISLANDER HERITAGE MONTH - City of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Dallas Office of Arts and Culture" />
+                                </span>
+                                <a href='https://oca-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/04/aapi-heritage-month_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Ways to Celebrate AAPI Heritage Month with Kids & Teens - Boys ...">
+                                <img itemprop="contentUrl url" src='https://150506300.v2.pressablecdn.com/wp-content/uploads/2023/02/AANHPI2024_NS_945x625.png' alt='10 Ways to Celebrate AAPI Heritage Month with Kids & Teens - Boys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3938">
+                                <meta itemprop="height" content="2605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boys & Girls Clubs of America" />
+                                </span>
+                                <a href='https://150506300.v2.pressablecdn.com/wp-content/uploads/2023/02/AANHPI2024_NS_945x625.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Asian American and Pacific Islander Heritage Month ...">
+                                <img itemprop="contentUrl url" src='https://www.achievementfirst.org/wp-content/uploads/2021/04/AAPI-Heritage-Month-06.png' alt='Honoring Asian American and Pacific Islander Heritage Month ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Achievement First" />
+                                </span>
+                                <a href='https://www.achievementfirst.org/wp-content/uploads/2021/04/AAPI-Heritage-Month-06.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian American and Native Hawaiian/Pacific Islander (AANHPI ...">
+                                <img itemprop="contentUrl url" src='https://delcopa.gov/inclusion/images/AANHPIMonth.jpg' alt='Asian American and Native Hawaiian/Pacific Islander (AANHPI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delaware County" />
+                                </span>
+                                <a href='https://delcopa.gov/inclusion/images/AANHPIMonth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian American and Pacific Islander Heritage Month">
+                                <img itemprop="contentUrl url" src='https://pwsblobprd.schools.nyc/prd-pws/images/default-source/default-album/recognition-months-and-days/asian-american-pacific-islander-heritage-month/aapi-heritage-month-2024-web-slider.jpg?sfvrsn=4dc3171d_0' alt='Asian American and Pacific Islander Heritage Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Schools.nyc.gov" />
+                                </span>
+                                <a href='https://pwsblobprd.schools.nyc/prd-pws/images/default-source/default-album/recognition-months-and-days/asian-american-pacific-islander-heritage-month/aapi-heritage-month-2024-web-slider.jpg?sfvrsn=4dc3171d_0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is AAPI Heritage Month, and Why Do We Celebrate? - The ...">
+                                <img itemprop="contentUrl url" src='https://thesolutionsproject.org/wp-content/uploads/2023/05/2022-AAPI-Month-graphic.jpg' alt='What is AAPI Heritage Month, and Why Do We Celebrate? - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Solutions Project" />
+                                </span>
+                                <a href='https://thesolutionsproject.org/wp-content/uploads/2023/05/2022-AAPI-Month-graphic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian American & Pacific Islander Heritage Month - Lakeland ...">
+                                <img itemprop="contentUrl url" src='https://www.mylrh.org/wp-content/uploads/2023/03/AAPI-Heritage-Month-Banner-Graphic-3.16.23-3.png' alt='Asian American & Pacific Islander Heritage Month - Lakeland ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lakeland Regional Health" />
+                                </span>
+                                <a href='https://www.mylrh.org/wp-content/uploads/2023/03/AAPI-Heritage-Month-Banner-Graphic-3.16.23-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AAPI Heritage Month | Alameda County Library">
+                                <img itemprop="contentUrl url" src='https://aclibrary.org/wp-content/uploads/sites/80/2022/04/AAPI-Heritage-Square.png' alt='AAPI Heritage Month | Alameda County Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alameda County Library" />
+                                </span>
+                                <a href='https://aclibrary.org/wp-content/uploads/sites/80/2022/04/AAPI-Heritage-Square.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WPI Celebrates Asian American and Pacific Islander Heritage Month ...">
+                                <img itemprop="contentUrl url" src='https://www.wpi.edu/sites/default/files/2023-05/05.01.23%20Asian%20AmericanPacific%20Islander%20Heritage%20Month%202023_0.png' alt='WPI Celebrates Asian American and Pacific Islander Heritage Month ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worcester Polytechnic Institute" />
+                                </span>
+                                <a href='https://www.wpi.edu/sites/default/files/2023-05/05.01.23%20Asian%20AmericanPacific%20Islander%20Heritage%20Month%202023_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian/Pacific American Heritage Month — KOʻOLAULOA Health Center ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fd56dea09beee0f3b1ebf67/2bb3c027-b9db-464b-ba09-0df52ca355a3/05032023_KHC+AAPI+Month.jpg' alt='Asian/Pacific American Heritage Month — KOʻOLAULOA Health Center ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko'olauloa Health Center" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fd56dea09beee0f3b1ebf67/2bb3c027-b9db-464b-ba09-0df52ca355a3/05032023_KHC+AAPI+Month.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

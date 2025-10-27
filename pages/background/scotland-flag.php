@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="scotland flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scotland-flag">
+                            <span itemprop="name">scotland flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of Scotland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png' alt='Flag of Scotland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scotland (Royal Banner/Rampant Lion) Nautical Flag">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a03c0/images/stencil/1280x1280/products/4922/13259/scotland-flag-with-lion__05756.1519246007.jpg?c=2' alt='Scotland (Royal Banner/Rampant Lion) Nautical Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlagCenter.com" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a03c0/images/stencil/1280x1280/products/4922/13259/scotland-flag-with-lion__05756.1519246007.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scotland Flag 3x5ft Flag of Scotland Scots Flag 3x5 House Flag">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/jz0AAOSwcFxgMFJz/s-l1200.jpg' alt='Scotland Flag 3x5ft Flag of Scotland Scots Flag 3x5 House Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/jz0AAOSwcFxgMFJz/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scottish Flag on Sea Shore at Sunset · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/18394189/pexels-photo-18394189/free-photo-of-scottish-flag-on-sea-shore-at-sunset.jpeg' alt='Scottish Flag on Sea Shore at Sunset · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3683">
+                                <meta itemprop="height" content="5524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/18394189/pexels-photo-18394189/free-photo-of-scottish-flag-on-sea-shore-at-sunset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Scotland Scottish Flag 3x5 Outdoors Heavy Duty Sewn Stripes  Polyester and Durable Canvas Header with Brass grommets scottish National  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61AjfRDVhGL.jpg' alt='Amazon.com : Scotland Scottish Flag 3x5 Outdoors Heavy Duty Sewn Stripes  Polyester and Durable Canvas Header with Brass grommets scottish National  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61AjfRDVhGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scottish Flag | A Historical Journey Through Scotland's Identity">
+                                <img itemprop="contentUrl url" src='https://blog.scottishkiltshop.com/wp-content/uploads/2023/06/Scottish-Flag-Banner.jpg' alt='Scottish Flag | A Historical Journey Through Scotland's Identity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scottish Kilt" />
+                                </span>
+                                <a href='https://blog.scottishkiltshop.com/wp-content/uploads/2023/06/Scottish-Flag-Banner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scotland Flag Svg, Scottish Flag Svg, Scotland Svg, Flag of ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27170323/r/il/ceba17/3219471135/il_fullxfull.3219471135_jfs6.jpg' alt='Scotland Flag Svg, Scottish Flag Svg, Scotland Svg, Flag of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27170323/r/il/ceba17/3219471135/il_fullxfull.3219471135_jfs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scottish Flag Images – Browse 20,317 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/96/91/67/360_F_96916794_4rmn1W92aCqyPF9s9575zCFNyYBqzDLu.jpg' alt='Scottish Flag Images – Browse 20,317 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/96/91/67/360_F_96916794_4rmn1W92aCqyPF9s9575zCFNyYBqzDLu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW | Scotland Flags | The Lion Rampant / The Royal Standard of Scotland /  The Coat of Arms | Premium Quality Scottish Flags made in America">
+                                <img itemprop="contentUrl url" src='https://studioburkedc.com/cdn/shop/products/Scotland-Flag-Saltair-St-Andrews-Cross-Blue-White-Cross-Flag-Washington-DC-Flag-Store-Sterling-Burke-2.jpg?v=1672951145&width=1445' alt='NEW | Scotland Flags | The Lion Rampant / The Royal Standard of Scotland /  The Coat of Arms | Premium Quality Scottish Flags made in America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="studio burke dc" />
+                                </span>
+                                <a href='https://studioburkedc.com/cdn/shop/products/Scotland-Flag-Saltair-St-Andrews-Cross-Blue-White-Cross-Flag-Washington-DC-Flag-Store-Sterling-Burke-2.jpg?v=1672951145&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Scotland St Andrews Flags | Scottish Saltire Flags for sale at ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-2lbnjvmw4d/images/stencil/1280x1280/products/3140/4922/scotlandmaterial__49300.1738246334.jpg?c=2' alt='Buy Scotland St Andrews Flags | Scottish Saltire Flags for sale at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flag and Bunting Store" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-2lbnjvmw4d/images/stencil/1280x1280/products/3140/4922/scotlandmaterial__49300.1738246334.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

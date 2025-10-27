@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="mural 3d blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/mural-3d-blue-wallpaper">
+                            <span itemprop="name">mural 3d blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Creative Abstract Blue Marble 3D Wallpaper, Nordic Style ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81oM+GuCS4L.jpg' alt='Modern Creative Abstract Blue Marble 3D Wallpaper, Nordic Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81oM+GuCS4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Blue Floral Wallpaper Mural - Liven Up Your Space">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/3729_78_3d_mural_wallpaper_abstract_background_with_white_and_blue_flowers_grande.jpg?v=1735038694' alt='3D Blue Floral Wallpaper Mural - Liven Up Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/3729_78_3d_mural_wallpaper_abstract_background_with_white_and_blue_flowers_grande.jpg?v=1735038694' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Blue 3D Waves Abstract Painting Background Wallpaper 3D Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13015978/r/il/58c551/3477441673/il_570xN.3477441673_qx42.jpg' alt='White Blue 3D Waves Abstract Painting Background Wallpaper 3D Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13015978/r/il/58c551/3477441673/il_570xN.3477441673_qx42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Blue Flower Wall Mural, 3D Abstract Art Photo Wallpaper, Home  Decor TV Background Large Art Wall Painting for Living Room Bedroom 144"x  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vGo8de+yL.jpg' alt='Amazon.com: Blue Flower Wall Mural, 3D Abstract Art Photo Wallpaper, Home  Decor TV Background Large Art Wall Painting for Living Room Bedroom 144"x  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vGo8de+yL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Blue Geometric Wood Grain 3D Murals Wallpaper, Golden Lines  Abstract Geometry Large Removable Wall Mural, Modern Decoration Wall Paper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81j2c8ri1FL.jpg' alt='Amazon.com: Blue Geometric Wood Grain 3D Murals Wallpaper, Golden Lines  Abstract Geometry Large Removable Wall Mural, Modern Decoration Wall Paper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81j2c8ri1FL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Mural Wallpaper Modern Ink Landscape Abstract Golden ...">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g20/M00/E6/B7/rBNaOGD5OSuAYbeuAAH3WwL7Btc136.jpg' alt='Custom 3D Mural Wallpaper Modern Ink Landscape Abstract Golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g20/M00/E6/B7/rBNaOGD5OSuAYbeuAAH3WwL7Btc136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Blue Swirl S486 Wallpaper Mural Self-adhesive Removable Sticker Kids Pa">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/kG4AAOSwXuJitpvi/s-l1200.jpg' alt='3D Blue Swirl S486 Wallpaper Mural Self-adhesive Removable Sticker Kids Pa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/kG4AAOSwXuJitpvi/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wave Bubbles 3D Wallpaper Mural, Sun Shining Through The Sea Photo  Mural Wallpaper, Wall Murals Space for Renters Living Room Bedroom Corridor  TV ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BzXCmAysL._AC_UF894,1000_QL80_.jpg' alt='Blue Wave Bubbles 3D Wallpaper Mural, Sun Shining Through The Sea Photo  Mural Wallpaper, Wall Murals Space for Renters Living Room Bedroom Corridor  TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BzXCmAysL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D abstract white blue marble gold glitter veins  fake stone texture Peel and Stick Removable Self-Adhesive canvas Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-abstract-white-blue-marble-gold-glitter-veins-fake-stone-texture-Peel-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-N_4d55646e-37b0-474b-95cd-fcb67c3144c9.91de312dee9e4cea6191a7e336f1f2a0.jpeg' alt='Modern Wallpaper Murals 3D abstract white blue marble gold glitter veins  fake stone texture Peel and Stick Removable Self-Adhesive canvas Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-abstract-white-blue-marble-gold-glitter-veins-fake-stone-texture-Peel-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-N_4d55646e-37b0-474b-95cd-fcb67c3144c9.91de312dee9e4cea6191a7e336f1f2a0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Blue Geometric Modern Interior Living Room Wall Murals Painting Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/41oAAOSwv9Zc0lKe/s-l1200.jpg' alt='3D Blue Geometric Modern Interior Living Room Wall Murals Painting Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/41oAAOSwv9Zc0lKe/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

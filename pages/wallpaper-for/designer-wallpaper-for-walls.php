@@ -1,0 +1,129 @@
+<title>Transform Your Space with Designer Wallpaper</title>
+                    <meta name="description" content="Discover a curated selection of designer wallpaper ideal for enhancing your home's aesthetic. Browse patterns, colors, and textures that suit any style, creating an inviting and unique atmosphere. Perfect for DIY enthusiasts and interior decorators alike!">
+                    <meta name="keywords" content="designer wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/designer-wallpaper-for-walls">
+                            <span itemprop="name">designer wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Designer Wallpaper</h1>
+                <p>Elevate your interiors with stunning designer wallpaper that transforms ordinary walls into extraordinary canvases. From bold prints to subtle textures, our collection offers a variety of patterns and colors to match your personal style. Perfect for living rooms, bedrooms, or any space in need of a fresh look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' alt='Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra Large Gold Wallpaper, Luxury Wallpaper, Gold Strip Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/cd6684/3612878182/il_fullxfull.3612878182_cjxd.jpg' alt='Extra Large Gold Wallpaper, Luxury Wallpaper, Gold Strip Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1652">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/cd6684/3612878182/il_fullxfull.3612878182_cjxd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...">
+                                <img itemprop="contentUrl url" src='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-mirage-of-paradise-wallpaper-60121013sd00756-1.jpg' alt='Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="India Circus" />
+                                </span>
+                                <a href='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-mirage-of-paradise-wallpaper-60121013sd00756-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-01/blobid1642764345873.jpg' alt='Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-01/blobid1642764345873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Leaves Design wallpaper – buy designer wallpapers | Online ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/104000/104359/w01243pig13ms_1800.webp' alt='3D Leaves Design wallpaper – buy designer wallpapers | Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/104000/104359/w01243pig13ms_1800.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper | 40+ Unique Designer Wallpapers | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1694527078-klitchko-web-cat.jpg?auto=format&dpr=0.23&w=2200' alt='Luxury Wallpaper | 40+ Unique Designer Wallpapers | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1694527078-klitchko-web-cat.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Designer Wallpaper | 40% Off - Free Shipping (Samples)">
+                                <img itemprop="contentUrl url" src='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/Designer-Wallpaper-Mobile-Image.jpg' alt='Luxury Designer Wallpaper | 40% Off - Free Shipping (Samples)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/Designer-Wallpaper-Mobile-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' alt='Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...">
+                                <img itemprop="contentUrl url" src='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-blooming-meadow-wallpaper-60121013sd00753-1.jpg' alt='Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="India Circus" />
+                                </span>
+                                <a href='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-blooming-meadow-wallpaper-60121013sd00753-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

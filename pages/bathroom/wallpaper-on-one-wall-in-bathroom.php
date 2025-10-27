@@ -1,0 +1,129 @@
+<title>Transform Your Bathroom with a Wallpaper Accent Wall</title>
+                    <meta name="description" content="Discover how to elevate your bathroom's aesthetic with a striking wallpaper accent wall. From vibrant colors to elegant patterns, learn tips for choosing the perfect moisture-resistant wallpaper for a stylish, inviting atmosphere. Transform your space into a personal sanctuary today!">
+                    <meta name="keywords" content="wallpaper on one wall in bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/wallpaper-on-one-wall-in-bathroom">
+                            <span itemprop="name">wallpaper on one wall in bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Bathroom with a Wallpaper Accent Wall</h1>
+                <p>Transform your bathroom with a stunning wallpaper accent wall! Choose moisture-resistant designs for a splash of color or intricate patterns that enhance the overall ambiance. This stylish addition can create a more inviting space, making your bathroom not just functional, but also a personal retreat that reflects your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper whole powder room or one wall?">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/878228e90b929723_9-3604/_.jpg' alt='Wallpaper whole powder room or one wall?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/878228e90b929723_9-3604/_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="should I just wallpaper the one wall behind the toilet or all ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4p9b28p52mb91.jpg' alt='should I just wallpaper the one wall behind the toilet or all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4p9b28p52mb91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Bathroom Ideas -">
+                                <img itemprop="contentUrl url" src='https://cultivatehomeandlife.com/wp-content/uploads/2023/12/IMG_0129-731x1024.jpg' alt='Peel and Stick Wallpaper Bathroom Ideas -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cultivatehomeandlife.com" />
+                                </span>
+                                <a href='https://cultivatehomeandlife.com/wp-content/uploads/2023/12/IMG_0129-731x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="should I just wallpaper the one wall behind the toilet or all ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lzq01e952mb91.jpg' alt='should I just wallpaper the one wall behind the toilet or all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lzq01e952mb91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make it Beautiful" Powder Bath Renovation Project — Morse Design">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cae6949b2cf796039682c07/1632871540446-S5ODTIXX397IAJ3IVOV8/001.jpg' alt='Make it Beautiful" Powder Bath Renovation Project — Morse Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="1912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morse Design" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cae6949b2cf796039682c07/1632871540446-S5ODTIXX397IAJ3IVOV8/001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Amazing Bathroom Accent Wall Ideas to Try 2024">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_1.webp?v=1683362746' alt='39 Amazing Bathroom Accent Wall Ideas to Try 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inyouths" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_1.webp?v=1683362746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Amazing Bathroom Accent Wall Ideas to Try 2024">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_6.jpg?v=1683363663' alt='39 Amazing Bathroom Accent Wall Ideas to Try 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inyouths" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_6.jpg?v=1683363663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you wallpaper a bathroom and if so, how? – Sophie Robinson">
+                                <img itemprop="contentUrl url" src='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' alt='Can you wallpaper a bathroom and if so, how? – Sophie Robinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sophie Robinson" />
+                                </span>
+                                <a href='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I Wallpaper A Bathroom? — MELANIE LISSACK INTERIORS">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/56e579b545bf2119aa58e055/t/5e61756df042ba7f2e96d953/1583445375325/142D3DF7-9FE4-4680-9BD8-334581A8F47F.jpeg?format=1500w' alt='Can I Wallpaper A Bathroom? — MELANIE LISSACK INTERIORS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MELANIE LISSACK INTERIORS" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/56e579b545bf2119aa58e055/t/5e61756df042ba7f2e96d953/1583445375325/142D3DF7-9FE4-4680-9BD8-334581A8F47F.jpeg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Bathroom Wallpaper Ideas That Will Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' alt='32 Bathroom Wallpaper Ideas That Will Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

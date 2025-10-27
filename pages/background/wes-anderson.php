@@ -1,0 +1,129 @@
+<title>Discover the Whimsical World of Wes Anderson</title>
+                    <meta name="description" content="Explore the enchanting films of Wes Anderson, a master of visual storytelling. From stunning aesthetics to quirky characters, dive into the whimsical worlds he creates. Perfect for fans and newcomers alike, learn about his unique style and memorable filmography!">
+                    <meta name="keywords" content="wes anderson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wes-anderson">
+                            <span itemprop="name">wes anderson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Whimsical World of Wes Anderson</h1>
+                <p>Wes Anderson is a renowned filmmaker known for his unique visual style and quirky storytelling. His films, like "The Grand Budapest Hotel" and "Moonrise Kingdom," feature symmetrical compositions, vibrant color palettes, and eccentric characters. Anderson’s cinematic universe captivates audiences with its charm, humor, and emotional depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg/1200px-MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg' alt='Wes Anderson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg/1200px-MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to the Films of Wes Anderson">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNmFkZWFlZTEtMGUyNS00ZTRiLTg5OTQtMjBjY2IxOWE3ZDE2XkEyXkFqcGdeQWplZmZscA@@._V1_.jpg' alt='A Guide to the Films of Wes Anderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNmFkZWFlZTEtMGUyNS00ZTRiLTg5OTQtMjBjY2IxOWE3ZDE2XkEyXkFqcGdeQWplZmZscA@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson | Biography, Movies, Oscar, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/13/163513-050-A56AB276/Wes-Anderson-2012.jpg' alt='Wes Anderson | Biography, Movies, Oscar, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/13/163513-050-A56AB276/Wes-Anderson-2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson - The Talks">
+                                <img itemprop="contentUrl url" src='https://the-talks.com/wp-content/uploads/2015/04/Wes-Anderson-01.jpg' alt='Wes Anderson - The Talks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1848">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Talks" />
+                                </span>
+                                <a href='https://the-talks.com/wp-content/uploads/2015/04/Wes-Anderson-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/wes-anderson-20617561-1-402.jpg' alt='Wes Anderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/wes-anderson-20617561-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wes Anderson Know There's a Wes Anderson Style?">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2023/09/GettyImages-1652464249-e1693566339787.jpg' alt='Does Wes Anderson Know There's a Wes Anderson Style?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5283">
+                                <meta itemprop="height" content="3420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2023/09/GettyImages-1652464249-e1693566339787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life Aesthetic With Wes Anderson - WSJ">
+                                <img itemprop="contentUrl url" src='https://s.wsj.net/public/resources/images/BN-BT806_Mag031_TP_20140304142510.jpg' alt='The Life Aesthetic With Wes Anderson - WSJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSJ" />
+                                </span>
+                                <a href='https://s.wsj.net/public/resources/images/BN-BT806_Mag031_TP_20140304142510.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson Wears the Same Suit Every Summer (And You Should, Too ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/646e476f6cbe43aa644cd7c2/16:9/w_2560%2Cc_limit/wes.jpg' alt='Wes Anderson Wears the Same Suit Every Summer (And You Should, Too ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/646e476f6cbe43aa644cd7c2/16:9/w_2560%2Cc_limit/wes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Having a Uniform Like Wes Anderson - sprezza">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F935d13b4-7108-4007-b45b-d38ba4af6907_2125x2980.jpeg' alt='Having a Uniform Like Wes Anderson - sprezza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2125">
+                                <meta itemprop="height" content="2980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sprezza" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F935d13b4-7108-4007-b45b-d38ba4af6907_2125x2980.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson: Style and Substance and Being Alive">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/G0tcBHKMEnw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4j-ZtINQTCEO5fSCH1v7PpUXAiA' alt='Wes Anderson: Style and Substance and Being Alive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/G0tcBHKMEnw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4j-ZtINQTCEO5fSCH1v7PpUXAiA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

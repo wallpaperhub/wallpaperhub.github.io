@@ -1,0 +1,129 @@
+<title>How Long Has USAA Been in Business? Discover Its History</title>
+                    <meta name="description" content="Learn about USAA's rich history since its founding in 1922. Discover how it has evolved to serve the unique needs of military members and their families with insurance, banking, and financial services. Explore USAA's commitment to excellence and customer satisfaction over the decades.">
+                    <meta name="keywords" content="how long has usaa been in business">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-has-usaa-been-in-business">
+                            <span itemprop="name">how long has usaa been in business</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Has USAA Been in Business? Discover Its History</h1>
+                <p>USAA, or the United Services Automobile Association, has been in business since 1922. It was founded to provide insurance and financial services to military members and their families. Over the decades, USAA has grown to serve millions, expanding its offerings to include banking, investments, and more, all with a focus on the unique needs of its clients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA Company History">
+                                <img itemprop="contentUrl url" src='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1922-01.jpg?cacheid=383732257_p' alt='USAA Company History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA" />
+                                </span>
+                                <a href='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1922-01.jpg?cacheid=383732257_p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA Company History">
+                                <img itemprop="contentUrl url" src='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1961.jpg?cacheid=116816539_p' alt='USAA Company History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA" />
+                                </span>
+                                <a href='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1961.jpg?cacheid=116816539_p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA's milestones as San Antonio company turns 100">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/23/12/17/21799923/7/rawImage.jpg' alt='USAA's milestones as San Antonio company turns 100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MySA" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/23/12/17/21799923/7/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA Company History">
+                                <img itemprop="contentUrl url" src='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1973.jpg?cacheid=1451177810_p' alt='USAA Company History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA" />
+                                </span>
+                                <a href='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1973.jpg?cacheid=1451177810_p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA Company History">
+                                <img itemprop="contentUrl url" src='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1922-02.jpg?cacheid=3113503915_p' alt='USAA Company History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA" />
+                                </span>
+                                <a href='https://content.usaa.com/mcontent/static_assets/Media/ent_corporate_timeline_event_1922-02.jpg?cacheid=3113503915_p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA's 2022 Annual Report to Members looks back at 100th Year of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prgloo.com/media/cac6da279cd7467192ddf7c9676b6ed1.png?width=968&height=1452' alt='USAA's 2022 Annual Report to Members looks back at 100th Year of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA News" />
+                                </span>
+                                <a href='https://cdn.prgloo.com/media/cac6da279cd7467192ddf7c9676b6ed1.png?width=968&height=1452' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA History | USAA News">
+                                <img itemprop="contentUrl url" src='https://cdn.prgloo.com/web/USAA/USAAplaceholder.png' alt='USAA History | USAA News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USAA News" />
+                                </span>
+                                <a href='https://cdn.prgloo.com/web/USAA/USAAplaceholder.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Antonio's first major corporate citizen' — USAA">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/35/14/24/7652664/16/rawImage.jpg' alt='San Antonio's first major corporate citizen' — USAA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1948">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Antonio Express-News" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/35/14/24/7652664/16/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA Celebrates 100 Years in Business - Structured Settlements ...">
+                                <img itemprop="contentUrl url" src='https://structuredsettlements.typepad.com/.a/6a00d8341c520753ef02a30d40e666200b-pi' alt='USAA Celebrates 100 Years in Business - Structured Settlements ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Structured Settlements 4Real® Blog - TypePad" />
+                                </span>
+                                <a href='https://structuredsettlements.typepad.com/.a/6a00d8341c520753ef02a30d40e666200b-pi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAA focuses on core businesses as it moves into the future">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2020/04/ScottBall_usaa-sodexo-food-drive-thru-coronavirus-covid19-covid-19-4-1-2020-11.jpg?fit=1200%2C800&ssl=1' alt='USAA focuses on core businesses as it moves into the future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Antonio Report" />
+                                </span>
+                                <a href='https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2020/04/ScottBall_usaa-sodexo-food-drive-thru-coronavirus-covid19-covid-19-4-1-2020-11.jpg?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

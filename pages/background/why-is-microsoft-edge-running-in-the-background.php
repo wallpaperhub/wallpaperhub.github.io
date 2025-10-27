@@ -1,0 +1,129 @@
+<title>Why Microsoft Edge Runs in the Background: Explained</title>
+                    <meta name="description" content="Discover why Microsoft Edge operates in the background, from maintaining browsing sessions to syncing data. Learn how it enhances your browsing experience and tips for managing its background activity effectively.">
+                    <meta name="keywords" content="why is microsoft edge running in the background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-is-microsoft-edge-running-in-the-background">
+                            <span itemprop="name">why is microsoft edge running in the background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Microsoft Edge Runs in the Background: Explained</h1>
+                <p>Microsoft Edge may run in the background for several reasons. It helps maintain your browsing session, so you can quickly resume tabs. Background processes also enable features like notifications, syncing data across devices, and updating extensions. While it can consume resources, you can manage its background activity in settings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft edge still running in background after closing ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/59384fb0-a220-4f89-941f-06ba778c816c?upload=true' alt='Microsoft edge still running in background after closing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/59384fb0-a220-4f89-941f-06ba778c816c?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to prevent Microsoft Edge from running in background on ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/fMYVBkw3ZktFAczocSpZsj-1200-80.jpg' alt='How to prevent Microsoft Edge from running in background on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windows Central" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/fMYVBkw3ZktFAczocSpZsj-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Edge running at background all the time!! - Microsoft ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/fe586f95-381c-496c-a41c-1f3279523376?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn545GdfUoOIh6S3gDMOqBdqa75GWIcVFRQgnepAmKkZyz%2F6O4EVsqjzieojXcVmTR3kS2xX9nFPxNW2cMsrdOMc0sGpuoZf0SAONPmXcgoVGQM5CYYNqiElxUYWAzUOXG8FkfYQJk6ixdCS4UN7Ancopnqi%2BCnMFkQ3DDGWeoh%2BHvMuEZ0%2BZ2Vc67kYchDv8%2B4P9AKpfq4COftWQPaQeq2%2BQkvYNjqnSXUsDjtd8bKHlBZm%2Bmrmb5%2BajgxoFwgOUtNOmEVeHH6e6pxSnxrADiHl%2FOUZeuS6h4%2BXrhp9VSUk3yc%3D' alt='Microsoft Edge running at background all the time!! - Microsoft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/fe586f95-381c-496c-a41c-1f3279523376?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn545GdfUoOIh6S3gDMOqBdqa75GWIcVFRQgnepAmKkZyz%2F6O4EVsqjzieojXcVmTR3kS2xX9nFPxNW2cMsrdOMc0sGpuoZf0SAONPmXcgoVGQM5CYYNqiElxUYWAzUOXG8FkfYQJk6ixdCS4UN7Ancopnqi%2BCnMFkQ3DDGWeoh%2BHvMuEZ0%2BZ2Vc67kYchDv8%2B4P9AKpfq4COftWQPaQeq2%2BQkvYNjqnSXUsDjtd8bKHlBZm%2Bmrmb5%2BajgxoFwgOUtNOmEVeHH6e6pxSnxrADiHl%2FOUZeuS6h4%2BXrhp9VSUk3yc%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Block Microsoft Edge from running in the background on Windows 10 ...">
+                                <img itemprop="contentUrl url" src='https://www.ghacks.net/wp-content/uploads/2019/02/microsoft-edge-background.png' alt='Block Microsoft Edge from running in the background on Windows 10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1053">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gHacks" />
+                                </span>
+                                <a href='https://www.ghacks.net/wp-content/uploads/2019/02/microsoft-edge-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edge running multiple windows in the background. - Microsoft Community">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/73484e83-91a7-4452-8dd4-69bbf3e012d8?upload=true' alt='Edge running multiple windows in the background. - Microsoft Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/73484e83-91a7-4452-8dd4-69bbf3e012d8?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Edge running at background all the time!! - Microsoft ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/457a3824-03ac-4b6f-aa53-fc45be9cc917?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54zaPblUsYr96Q2yN5mgakcmDFMPKWQJVoWRKD3Rn%2B3JP1b5f2ykTtuHUaEKIwDbnHXOxKbZAw1LYX4TIb1TsNkSRoqIg2X8%2Fe%2FliD%2FmTxLH9zDX88XORfivo86nFM2CxnY0hU7nrVG1bWnM8o4%2F9ozHnjzATiAn%2Baw%2Bu67tcy2kwGARuelwMr8KV9lwNGwg65q4Pi%2F%2FwlxuJWr%2B4hlE5P8ECSiOZSnzHZudPDCEstZmQTR0Ct%2FLo6QnUqVoNSaSsF1pwwvLIhA9hiT5C%2FvT%2FplaWxn4VfMvA4abE1DO6qyDM%3D' alt='Microsoft Edge running at background all the time!! - Microsoft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1535">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/457a3824-03ac-4b6f-aa53-fc45be9cc917?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54zaPblUsYr96Q2yN5mgakcmDFMPKWQJVoWRKD3Rn%2B3JP1b5f2ykTtuHUaEKIwDbnHXOxKbZAw1LYX4TIb1TsNkSRoqIg2X8%2Fe%2FliD%2FmTxLH9zDX88XORfivo86nFM2CxnY0hU7nrVG1bWnM8o4%2F9ozHnjzATiAn%2Baw%2Bu67tcy2kwGARuelwMr8KV9lwNGwg65q4Pi%2F%2FwlxuJWr%2B4hlE5P8ECSiOZSnzHZudPDCEstZmQTR0Ct%2FLo6QnUqVoNSaSsF1pwwvLIhA9hiT5C%2FvT%2FplaWxn4VfMvA4abE1DO6qyDM%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Microsoft Edge Running in Background? Try These Solutions ...">
+                                <img itemprop="contentUrl url" src='https://www.minitool.com/images/uploads/news/2020/03/microsoft-edge-running-in-background/microsoft-edge-running-in-background-2.jpg' alt='Is Microsoft Edge Running in Background? Try These Solutions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="771">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MiniTool Software" />
+                                </span>
+                                <a href='https://www.minitool.com/images/uploads/news/2020/03/microsoft-edge-running-in-background/microsoft-edge-running-in-background-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Edge running in background on its own. (without even ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/f51495eb-b636-4989-9e89-c204da9de1cc?upload=true' alt='Microsoft Edge running in background on its own. (without even ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/f51495eb-b636-4989-9e89-c204da9de1cc?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why does Microsoft Edge keep running in the background ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/4f9cf117-eb95-4686-ac03-553b39d83732?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54KPH6dDMsTEt9%2FLibtRKy3zbri37q0syHmp%2FOM6f8gFWsMaiN9loygMB1kNE0DWdLVhE5%2BAGXTR2DUJlwF7L%2FzTL%2BlNLSUZo9IjAxBErWjPeNY%2BdmwjogtL9hgNlJIElSKEu4P5VhbVORwmUUFa7ZxZDHSHyf3XDTg6Kgfh%2BI9OUNjTmAtlON%2FqnnP8ttEDqqwrIYgvKeF3u6Q50XRwqNRdOskp%2Ff78Y2yFc22DzcvUwnCwxjmEJWLInNwSZZSl74iqfSpVtcruQBj19KIYcOUkrgqnWNlsI%2B9oqJBFimTR0%3D' alt='Why does Microsoft Edge keep running in the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/4f9cf117-eb95-4686-ac03-553b39d83732?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54KPH6dDMsTEt9%2FLibtRKy3zbri37q0syHmp%2FOM6f8gFWsMaiN9loygMB1kNE0DWdLVhE5%2BAGXTR2DUJlwF7L%2FzTL%2BlNLSUZo9IjAxBErWjPeNY%2BdmwjogtL9hgNlJIElSKEu4P5VhbVORwmUUFa7ZxZDHSHyf3XDTg6Kgfh%2BI9OUNjTmAtlON%2FqnnP8ttEDqqwrIYgvKeF3u6Q50XRwqNRdOskp%2Ff78Y2yFc22DzcvUwnCwxjmEJWLInNwSZZSl74iqfSpVtcruQBj19KIYcOUkrgqnWNlsI%2B9oqJBFimTR0%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Edge browser always runs in background even when it's closed ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-edge-browser-always-runs-in-background-even-when-its-v0-knyv0dyg8axd1.png?width=1104&format=png&auto=webp&s=e70cf3dbf821ff9718b029f16e658dc54eba191b' alt='Why Edge browser always runs in background even when it's closed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-edge-browser-always-runs-in-background-even-when-its-v0-knyv0dyg8axd1.png?width=1104&format=png&auto=webp&s=e70cf3dbf821ff9718b029f16e658dc54eba191b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

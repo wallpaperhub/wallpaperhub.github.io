@@ -1,0 +1,129 @@
+<title>Kawaii Phone Wallpapers: Cute & Colorful Designs</title>
+                    <meta name="description" content="Discover the cutest kawaii wallpapers for your phone! Explore a vibrant collection of adorable designs to personalize your screen and express your unique style. Perfect for fans of cuteness, these wallpapers will brighten your day every time you unlock your phone. Download your favorite today!">
+                    <meta name="keywords" content="kawaii wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/kawaii-wallpaper-phone">
+                            <span itemprop="name">kawaii wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Phone Wallpapers: Cute & Colorful Designs</h1>
+                <p>Transform your phone with delightful kawaii wallpaper! From adorable characters to pastel colors, these designs will add a touch of cuteness to your screen. Perfect for lovers of all things cute, our collection makes personalizing your phone enjoyable and fun. Stand out with unique backgrounds that showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' alt='Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii, cute, moon, pastel, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/149/918/HD-wallpaper-kawaii-cute-moon-pastel-purple.jpg' alt='Kawaii, cute, moon, pastel, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/149/918/HD-wallpaper-kawaii-cute-moon-pastel-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best Iphone wallpaper kawaii ideas | cute wallpapers, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d4/22/a9/d422a93a44e4d885fd11431c0cf51764.png' alt='100 Best Iphone wallpaper kawaii ideas | cute wallpapers, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d4/22/a9/d422a93a44e4d885fd11431c0cf51764.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android / Cute homescreen for phone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32106817/r/il/d37200/3542020320/il_570xN.3542020320_onef.jpg' alt='Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android / Cute homescreen for phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32106817/r/il/d37200/3542020320/il_570xN.3542020320_onef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-rainbow-neko-for-iphone-bvj03pbjeq1vza44.jpg' alt='100+] Kawaii Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-rainbow-neko-for-iphone-bvj03pbjeq1vza44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500 Soo Kawaii ☆ iPhone Wallpapers ideas | kawaii wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/a9/ee/0e/a9ee0edae92b6ef42be98bc0d1d00e48.jpg' alt='500 Soo Kawaii ☆ iPhone Wallpapers ideas | kawaii wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/a9/ee/0e/a9ee0edae92b6ef42be98bc0d1d00e48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii, cute, doggy, kawaii, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/255/734/HD-wallpaper-kawaii-cute-doggy-kawaii.jpg' alt='Kawaii, cute, doggy, kawaii, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/255/734/HD-wallpaper-kawaii-cute-doggy-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android/ Cute homescreen for phone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32106817/r/il/c4ccdf/3602658005/il_570xN.3602658005_3zgs.jpg' alt='Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android/ Cute homescreen for phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32106817/r/il/c4ccdf/3602658005/il_570xN.3602658005_3zgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLVgjEkQk/1/0/900w/canva-kawaii-purple-sweet-macaroon-phone-wallpaper-_lYD0xOyu6I.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLVgjEkQk/1/0/900w/canva-kawaii-purple-sweet-macaroon-phone-wallpaper-_lYD0xOyu6I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/4/a/823135-1200x2133-iphone-hd-kawaii-background.jpg' alt='Kawaii Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/4/a/823135-1200x2133-iphone-hd-kawaii-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

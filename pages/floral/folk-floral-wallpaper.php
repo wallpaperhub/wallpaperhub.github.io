@@ -1,0 +1,129 @@
+<title>Transform Your Space with Folk Floral Wallpaper</title>
+                    <meta name="description" content="Add a touch of nature to your home with our stunning collection of folk floral wallpaper. Perfect for any room, these vibrant designs enhance your decor while evoking a warm, inviting atmosphere. Explore a variety of unique patterns to create your ideal sanctuary today!">
+                    <meta name="keywords" content="folk floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/folk-floral-wallpaper">
+                            <span itemprop="name">folk floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Folk Floral Wallpaper</h1>
+                <p>Folk floral wallpaper brings charm and warmth to any space, featuring vibrant, hand-drawn motifs inspired by nature. Perfect for creating a cozy atmosphere, these wallpapers can transform rooms into inviting sanctuaries. With unique patterns, they add a touch of nostalgia while aligning with contemporary decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folk Floral Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-folk-floral-28031517130838.jpg?v=1619719143' alt='Folk Floral Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2848">
+                                <meta itemprop="height" content="2854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-folk-floral-28031517130838.jpg?v=1619719143' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folk Floral by Arthouse - Neutral - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/218075_1_orig.jpg?v=1723720517' alt='Folk Floral by Arthouse - Neutral - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/218075_1_orig.jpg?v=1723720517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SC20606 Multi Carmela Folk Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/SC20606_1926d70c-29af-481b-821f-4419c93f9b12.webp?v=1709745664' alt='SC20606 Multi Carmela Folk Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/SC20606_1926d70c-29af-481b-821f-4419c93f9b12.webp?v=1709745664' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmela Folk Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://lelandswallpaper.com/wp-content/uploads/2023/07/SC20604-seabrook-designs-summer-house-carmela-folk-floral-wallpaper-summer-garden-room-setting.jpg' alt='Carmela Folk Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='http://lelandswallpaper.com/wp-content/uploads/2023/07/SC20604-seabrook-designs-summer-house-carmela-folk-floral-wallpaper-summer-garden-room-setting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Folk Art Pattern Wallpaper, Vintage Colorful Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43735431/r/il/d14a22/5945137734/il_fullxfull.5945137734_4r6w.jpg' alt='Mexican Folk Art Pattern Wallpaper, Vintage Colorful Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43735431/r/il/d14a22/5945137734/il_fullxfull.5945137734_4r6w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Folk Floral Damask-like Flowers Leaves Birds Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/46f002540b02bbcc49ff64da6bbb6eee/630d8b99-77be-47b8-8704-ad473b03757f.jpg' alt='Arthouse Folk Floral Damask-like Flowers Leaves Birds Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/46f002540b02bbcc49ff64da6bbb6eee/630d8b99-77be-47b8-8704-ad473b03757f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Shalin Folk Floral Peel and Stick Wallpaper (Summer Garden) -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813p4VmZmKL.jpg' alt='NextWall Shalin Folk Floral Peel and Stick Wallpaper (Summer Garden) -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1222">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813p4VmZmKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folk Floral Peel and Stick Removable Wallpaper – Say Decor LLC">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW47104-A_1000x1000.jpg?v=1669170991' alt='Folk Floral Peel and Stick Removable Wallpaper – Say Decor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW47104-A_1000x1000.jpg?v=1669170991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folk Foliage Wallpaper in Vintage Pink and Sage – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/Folk-Foliage_Vintage-Pink-and-Sage_ILW50600_0207_WEB.webp?crop=center&height=850&v=1723473020&width=850' alt='Folk Foliage Wallpaper in Vintage Pink and Sage – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/Folk-Foliage_Vintage-Pink-and-Sage_ILW50600_0207_WEB.webp?crop=center&height=850&v=1723473020&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SC20601 Multi Carmela Folk Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/files/SC20601-B.webp?v=1709745341' alt='SC20601 Multi Carmela Folk Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/files/SC20601-B.webp?v=1709745341' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

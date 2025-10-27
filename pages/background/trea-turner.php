@@ -1,0 +1,129 @@
+<title>Trea Turner: MLB's Speedy Shortstop Star</title>
+                    <meta name="description" content="Explore Trea Turner, the MLB superstar known for his speed and skill as a shortstop. Discover his journey from college standout to World Series champion with the Nationals, and keep up with his remarkable career highlights and stats. Perfect for baseball fans and sports enthusiasts alike!">
+                    <meta name="keywords" content="trea turner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trea-turner">
+                            <span itemprop="name">trea turner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trea Turner: MLB's Speedy Shortstop Star</h1>
+                <p>Trea Turner is a talented shortstop known for his exceptional speed, hitting ability, and defensive skills. After being a standout player at NC State, he made his MLB debut with the Washington Nationals, contributing to their 2019 World Series victory. Turner continues to be a key player, impressing fans with his dynamic play and athleticism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Trea_Turner_%2851296241224%29_%28cropped%29.jpg/640px-Trea_Turner_%2851296241224%29_%28cropped%29.jpg' alt='Trea Turner - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Trea_Turner_%2851296241224%29_%28cropped%29.jpg/640px-Trea_Turner_%2851296241224%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner - Philadelphia Phillies Shortstop - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33710.png&w=350&h=254' alt='Trea Turner - Philadelphia Phillies Shortstop - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33710.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Trea Turner, the Philadelphia Phillies Star Dominating ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/MW8JnxVRj6XEqLqw33Zfmwv7NEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(919x389:921x391)/trea-turner-1-42ebfba1a7c841f98e272ee1795a03a5.jpg' alt='All About Trea Turner, the Philadelphia Phillies Star Dominating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/MW8JnxVRj6XEqLqw33Zfmwv7NEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(919x389:921x391)/trea-turner-1-42ebfba1a7c841f98e272ee1795a03a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner expected to return to Washington Nationals today ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/IXSX_AHBlIJX3tzMUJ-JG9X9o-E=/0x0:5472x3648/1200x800/filters:focal(2087x1225:2961x2099)/cdn.vox-cdn.com/uploads/chorus_image/image/63849317/1134135298.jpg.0.jpg' alt='Trea Turner expected to return to Washington Nationals today ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Federal Baseball" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/IXSX_AHBlIJX3tzMUJ-JG9X9o-E=/0x0:5472x3648/1200x800/filters:focal(2087x1225:2961x2099)/cdn.vox-cdn.com/uploads/chorus_image/image/63849317/1134135298.jpg.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner Stats, Age, Position, Height, Weight, Fantasy & News ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607208/headshot/67/current' alt='Trea Turner Stats, Age, Position, Height, Weight, Fantasy & News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607208/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner | USA Baseball">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/opprops-images/image/upload/ar_1:1,g_auto,c_fill,w_1024/opprops/bl37tcphgmc3f06dnc4d.jpg' alt='Trea Turner | USA Baseball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Baseball" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/opprops-images/image/upload/ar_1:1,g_auto,c_fill,w_1024/opprops/bl37tcphgmc3f06dnc4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Trea_Turner_Phillies_2024_%28cropped%29.png/220px-Trea_Turner_Phillies_2024_%28cropped%29.png' alt='Trea Turner - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Trea_Turner_Phillies_2024_%28cropped%29.png/220px-Trea_Turner_Phillies_2024_%28cropped%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trea Turner Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/trea-turner-zit5pvvk3iki3i91.jpg' alt='100+] Trea Turner Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/trea-turner-zit5pvvk3iki3i91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner thanks Phillies fans for support on billboards ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/f92f504/2147483647/strip/false/crop/8282x5521+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2Ff0%2F1c946f5f8415271e0520e123dcd8%2F65def8ecfb754754b27489483f024e2f' alt='Trea Turner thanks Phillies fans for support on billboards ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/f92f504/2147483647/strip/false/crop/8282x5521+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2Ff0%2F1c946f5f8415271e0520e123dcd8%2F65def8ecfb754754b27489483f024e2f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trea Turner - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Trea_Turner_%285314023%29_%28cropped%29.jpg/170px-Trea_Turner_%285314023%29_%28cropped%29.jpg' alt='Trea Turner - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Trea_Turner_%285314023%29_%28cropped%29.jpg/170px-Trea_Turner_%285314023%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Funny St. Patrick's Day Wallpapers for a Cheerful Touch</title>
+                    <meta name="description" content="Discover a collection of funny St. Patrick's Day wallpapers that bring joy and laughter to your screens. Perfect for anyone looking to celebrate with a humorous twist. Download now and share the fun this festive season!">
+                    <meta name="keywords" content="funny st patricks day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-st-patricks-day-wallpaper">
+                            <span itemprop="name">funny st patricks day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny St. Patrick's Day Wallpapers for a Cheerful Touch</h1>
+                <p>Brighten up your device this St. Patrick's Day with some hilarious wallpapers! From cheeky leprechauns to mischievous shamrocks, these funny designs will have you laughing while celebrating the luck of the Irish. Perfect for sharing with friends, these wallpapers are a festive way to embrace the spirit of the day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day, alcohol, day, drink, funny, humor, irish ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/991/555/HD-wallpaper-st-patricks-day-alcohol-day-drink-funny-humor-irish-patricks-st.jpg' alt='St Patricks Day, alcohol, day, drink, funny, humor, irish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/991/555/HD-wallpaper-st-patricks-day-alcohol-day-drink-funny-humor-irish-patricks-st.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Day, Funny, Happy St. Patrick's Day, Irish, Patrick ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/438/849/HD-wallpaper-st-patrick-s-day-funny-happy-st-patrick-s-day-irish-patrick-saint-patrick-beer-clover-green-luck.jpg' alt='St. Patrick's Day, Funny, Happy St. Patrick's Day, Irish, Patrick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/438/849/HD-wallpaper-st-patrick-s-day-funny-happy-st-patrick-s-day-irish-patrick-saint-patrick-beer-clover-green-luck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ St Patricks Day Funny Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1462225552/vector/art-illustration.jpg?s=612x612&w=0&k=20&c=vCmmYbLoI9NxcZz753u8zNTzbOQeIvM2Sg_4MBmqy9c=' alt='4,300+ St Patricks Day Funny Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1462225552/vector/art-illustration.jpg?s=612x612&w=0&k=20&c=vCmmYbLoI9NxcZz753u8zNTzbOQeIvM2Sg_4MBmqy9c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny St Patricks Day Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/my-lucky-era-retrosvgera-t-260nw-2406918263.jpg' alt='Funny St Patricks Day Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/my-lucky-era-retrosvgera-t-260nw-2406918263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Day Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/75/8d/b2758dffabc358127167507d6201f77f.jpg' alt='St. Patrick's Day Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/75/8d/b2758dffabc358127167507d6201f77f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Patrick's Day, cute leprechaun funny, eire dublin slainte ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/915/716/HD-wallpaper-saint-patrick-s-day-cute-leprechaun-funny-eire-dublin-slainte-green-leaf-clover-ireland-country-holiday-irish-st-patricks-day-lucky-charm-saint-patrick-saint-patricks-day-shamrock-shamrocks.jpg' alt='Saint Patrick's Day, cute leprechaun funny, eire dublin slainte ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/915/716/HD-wallpaper-saint-patrick-s-day-cute-leprechaun-funny-eire-dublin-slainte-green-leaf-clover-ireland-country-holiday-irish-st-patricks-day-lucky-charm-saint-patrick-saint-patricks-day-shamrock-shamrocks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Day Wallpapers by Kate.net">
+                                <img itemprop="contentUrl url" src='http://www.kate.net/holidays/shamrock/images/katestpats2009c_wide.jpg' alt='St. Patrick's Day Wallpapers by Kate.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate.net" />
+                                </span>
+                                <a href='http://www.kate.net/holidays/shamrock/images/katestpats2009c_wide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Saint Patrick's Day Background Images - Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.fg-a.com/wallpapers/2020-st-patricks-day-clover.jpg' alt='Free Saint Patrick's Day Background Images - Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Animations - Clipart - Animated Gifs" />
+                                </span>
+                                <a href='https://www.fg-a.com/wallpapers/2020-st-patricks-day-clover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] St Patrick's Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/st-patricks-day-tbivohjjy3pgtbu9.jpg' alt='100+] St Patrick's Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/st-patricks-day-tbivohjjy3pgtbu9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny St Patrick Wallpaper​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/1819' alt='Funny St Patrick Wallpaper​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/1819' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

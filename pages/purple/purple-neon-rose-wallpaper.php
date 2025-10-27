@@ -1,0 +1,129 @@
+<title>Purple Neon Rose Wallpaper: Elevate Your Decor</title>
+                    <meta name="description" content="Discover the allure of purple neon rose wallpaper, perfect for creating a vibrant and stylish atmosphere in any space. Ideal for home or office, this stunning design combines elegance with a modern edge, ensuring your decor stands out in a delightful way.">
+                    <meta name="keywords" content="purple neon rose wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-neon-rose-wallpaper">
+                            <span itemprop="name">purple neon rose wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Neon Rose Wallpaper: Elevate Your Decor</h1>
+                <p>Transform your space with captivating purple neon rose wallpaper that adds a touch of elegance and vibrancy to any room. The striking contrast of deep violet against soft glows creates a stunning visual effect, perfect for modern or eclectic decor styles. Elevate your interior design with this eye-catching wallpaper that inspires creativity and beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Purple Rose on Black Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/ba/1c/55ba1c07aea6d43de1f0ccd919c0b4c7.jpg' alt='Glowing Purple Rose on Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/ba/1c/55ba1c07aea6d43de1f0ccd919c0b4c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Neon Purple Rose Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-neon-purple-rose-1wohoxd9jlmnnir8.jpg' alt='Aesthetic Neon Purple Rose Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-neon-purple-rose-1wohoxd9jlmnnir8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/f9/bf/58f9bfce438c399d8b0e5ea2a23b7e99.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/f9/bf/58f9bfce438c399d8b0e5ea2a23b7e99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon rose aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8a/0b/59/8a0b5960c2d02271eb632ecde3524cf2.jpg' alt='neon rose aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8a/0b/59/8a0b5960c2d02271eb632ecde3524cf2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neon roses wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/263/443/HD-wallpaper-galaxy-rose-neon-rose.jpg' alt='HD neon roses wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/263/443/HD-wallpaper-galaxy-rose-neon-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Neon Rose Glows Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/8/2/b82c36cd-c0d7-4ae7-ac5b-726d544e84dc_large/neon-rose-glows-stockcake.jpg' alt='Free Neon Rose Glows Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/8/2/b82c36cd-c0d7-4ae7-ac5b-726d544e84dc_large/neon-rose-glows-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Neon Flower Icon by dylanxh | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/22/2a/e0/222ae06b4c36b4d3268cbe276bb25b85.jpg' alt='Purple Retro Neon Flower Icon by dylanxh | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/22/2a/e0/222ae06b4c36b4d3268cbe276bb25b85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rose Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/679/337/small/simple-vectorial-rose-wallpaper-black-background-free-photo.jpg' alt='Neon Rose Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/679/337/small/simple-vectorial-rose-wallpaper-black-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Purple neon rose mobile phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/8d/d9/038dd96f224f7125f90a9f6fffa0ee26.jpg' alt='Download premium vector of Purple neon rose mobile phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/8d/d9/038dd96f224f7125f90a9f6fffa0ee26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Neon Rose Wallpaper PSD, High Quality Free PSD Templates ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/cosmic-rose-galaxy-flower-petals-stardust-nebula-space-art-magical-purple-blossom_632498-28573.jpg' alt='Purple Neon Rose Wallpaper PSD, High Quality Free PSD Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/cosmic-rose-galaxy-flower-petals-stardust-nebula-space-art-magical-purple-blossom_632498-28573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

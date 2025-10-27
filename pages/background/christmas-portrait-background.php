@@ -1,0 +1,129 @@
+<title>Festive Christmas Portrait Backgrounds for Holiday Photos</title>
+                    <meta name="description" content="Discover beautiful Christmas portrait backgrounds that elevate your holiday photos. From charming winter scenes to elegant festive settings, find the perfect backdrop to capture family moments this season. Explore our collection to create enchanting memories with the ones you love!">
+                    <meta name="keywords" content="christmas portrait background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-portrait-background">
+                            <span itemprop="name">christmas portrait background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Portrait Backgrounds for Holiday Photos</h1>
+                <p>Capture the magic of the holiday season with a Christmas portrait background! Whether you're seeking cozy, festive scenes adorned with twinkling lights and cheerful décor or winter wonderlands with snowflakes and pine trees, the right backdrop sets the perfect tone for your family photos. Create lasting memories this Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Window Snow Background Red Curtain Christmas Trees Photo  Background Xmas Tree Gift Holiday Party Family Portrait Background Winter  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81BJA5mTrxL.jpg' alt='Christmas Tree Window Snow Background Red Curtain Christmas Trees Photo  Background Xmas Tree Gift Holiday Party Family Portrait Background Winter  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81BJA5mTrxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,474 Christmas Background Vertical Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-gold-christmas-baubles-decorated-tree-sparkling-background-festive-holiday-vertical-theme-copy-space-340956932.jpg' alt='70,474 Christmas Background Vertical Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-gold-christmas-baubles-decorated-tree-sparkling-background-festive-holiday-vertical-theme-copy-space-340956932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Castle Christmas Portrait Background">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/Vintage-Christmas-Elegance-Photography-Backdrop-Main-CP-8068_600x.jpg?v=1727373760' alt='Golden Castle Christmas Portrait Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/Vintage-Christmas-Elegance-Photography-Backdrop-Main-CP-8068_600x.jpg?v=1727373760' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AIIKES 5X7FT Christmas Backdrops for Photography Christmas  Tree Balls Photography Backdrops Vinyl Christmas Snow Photo Backdrop Home  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811Ksy+jRKL.jpg' alt='Amazon.com : AIIKES 5X7FT Christmas Backdrops for Photography Christmas  Tree Balls Photography Backdrops Vinyl Christmas Snow Photo Backdrop Home  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811Ksy+jRKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Gift Backdrops for Christmas Photo DBD-19207">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/Hanging_Christmas_Tree_White_Wall_Festival_Backdrops_IBD-19207_31290fbf-1ccf-4de5-b55b-9e67d926eb9e.jpg?v=1573827034' alt='Christmas Tree Gift Backdrops for Christmas Photo DBD-19207'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/Hanging_Christmas_Tree_White_Wall_Festival_Backdrops_IBD-19207_31290fbf-1ccf-4de5-b55b-9e67d926eb9e.jpg?v=1573827034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Snow Background Portrait Stock Illustrations – 9,544 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-card-balls-tree-winter-snow-copyspace-copy-space-snowing-portrait-format-created-generative-ai-339547409.jpg' alt='Christmas Snow Background Portrait Stock Illustrations – 9,544 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-card-balls-tree-winter-snow-copyspace-copy-space-snowing-portrait-format-created-generative-ai-339547409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Indoor Decoration Background Christmas Backdrop For ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/christmas-indoor-decoration-background-christmas-backdrop-for-portrait-photography_IBD-P19195.jpg?v=1604917117' alt='Christmas Indoor Decoration Background Christmas Backdrop For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/christmas-indoor-decoration-background-christmas-backdrop-for-portrait-photography_IBD-P19195.jpg?v=1604917117' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait Christmas Background Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/still-life-christmas-decoration-with-copy-space_23-2151868674.jpg' alt='Portrait Christmas Background Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/still-life-christmas-decoration-with-copy-space_23-2151868674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Christmas Wall and Christmas Tree Photography Backdrop">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/files/Red-Christmas-Wall-and-Christmas-Tree-Photography-Backdrop-Main-CP-8528_600x.jpg?v=1734030459' alt='Red Christmas Wall and Christmas Tree Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/files/Red-Christmas-Wall-and-Christmas-Tree-Photography-Backdrop-Main-CP-8528_600x.jpg?v=1734030459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,800+ Christmas Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1186941423/vector/christmas-and-new-year-greeting-card-template.jpg?s=612x612&w=0&k=20&c=BoWJFYIrK26H0yLxDU8SgXN1Aef-13BV_YSsfFJwROg=' alt='70,800+ Christmas Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1186941423/vector/christmas-and-new-year-greeting-card-template.jpg?s=612x612&w=0&k=20&c=BoWJFYIrK26H0yLxDU8SgXN1Aef-13BV_YSsfFJwROg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

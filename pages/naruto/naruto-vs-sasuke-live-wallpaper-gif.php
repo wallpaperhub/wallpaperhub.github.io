@@ -1,0 +1,129 @@
+<title>Naruto vs Sasuke Live Wallpaper GIFs: Epic Showdown!</title>
+                    <meta name="description" content="Discover stunning Naruto vs Sasuke live wallpaper GIFs. Immerse yourself in their legendary battles with dynamic animations that enhance your device's background. Ideal for fans who cherish this iconic rivalry. Download now for an exciting display!">
+                    <meta name="keywords" content="naruto vs sasuke live wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/naruto-vs-sasuke-live-wallpaper-gif">
+                            <span itemprop="name">naruto vs sasuke live wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Naruto vs Sasuke Live Wallpaper GIFs: Epic Showdown!</h1>
+                <p>Experience the epic rivalry of Naruto and Sasuke with mesmerizing live wallpaper GIFs! These dynamic animations capture their intense battles and evolving friendship, bringing the action right to your device. Perfect for fans who want to keep the spirit of Ninja life alive! Download now and transform your screen with energy and excitement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sasuke Naruto GIF - Sasuke Naruto Fighting - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/db/19/13/db19132bcaf22077a28986824a12719e.gif' alt='Sasuke Naruto GIF - Sasuke Naruto Fighting - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/db/19/13/db19132bcaf22077a28986824a12719e.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Naruto Sasuke Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1320068251857051446/C93685EBB3AB039CDC2BFD5559E545CD685F7973/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Naruto Sasuke Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1320068251857051446/C93685EBB3AB039CDC2BFD5559E545CD685F7973/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2f/3d/2f/2f3d2fca2a3dc490f96eb1dce9ed0487.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2f/3d/2f/2f3d2fca2a3dc490f96eb1dce9ed0487.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SASUKE vs Naruto Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/153' alt='SASUKE vs Naruto Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/98/94/74/989474b5042ab140a1f7e3084b368648.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/98/94/74/989474b5042ab140a1f7e3084b368648.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="first video">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b5/df/ba/b5dfba2e9973566b4e0281bfe754e4c5.gif' alt='first video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b5/df/ba/b5dfba2e9973566b4e0281bfe754e4c5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto & Sasuke Angry 4k Live Wallpaper | Naruto | Anime Live ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/8-01-2022/QWSCTd.gif' alt='Naruto & Sasuke Angry 4k Live Wallpaper | Naruto | Anime Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/8-01-2022/QWSCTd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto 「AMV」– Naruto VS Sasuke Final Battle [Naruto Shippuden ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/10/50/0c/10500c02599f60d60096b24551aef320.gif' alt='Naruto 「AMV」– Naruto VS Sasuke Final Battle [Naruto Shippuden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/10/50/0c/10500c02599f60d60096b24551aef320.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva La Revolution — is naruto emotionally damaged? what about sasuke?">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/f868131049919a2dc9af3d61034166a1/a034af39e2988931-3e/s540x810/52d8c32a32b25ccf304ac1eaa4cacc40a19aad3f.gif' alt='Viva La Revolution — is naruto emotionally damaged? what about sasuke?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@avenger-hawk on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/f868131049919a2dc9af3d61034166a1/a034af39e2988931-3e/s540x810/52d8c32a32b25ccf304ac1eaa4cacc40a19aad3f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper] Naruto & Sasuke [4K] on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/2-03-2021/PPk86j.gif' alt='Live Wallpaper] Naruto & Sasuke [4K] on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/2-03-2021/PPk86j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

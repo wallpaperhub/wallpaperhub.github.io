@@ -1,0 +1,129 @@
+<title>Stunning Birthday Backdrops for Unforgettable Celebrations</title>
+                    <meta name="description" content="Discover the magic of birthday backdrops! Elevate your celebrations with unique designs that capture the essence of the day. Perfect for photos and party themes, our selection offers something for everyone. Create lasting memories with a backdrop that truly stands out!">
+                    <meta name="keywords" content="birthday backdrops">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-backdrops">
+                            <span itemprop="name">birthday backdrops</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Birthday Backdrops for Unforgettable Celebrations</h1>
+                <p>Birthday backdrops are essential for creating the perfect ambiance for celebrations. They enhance photos, add personality, and set the mood for the event. From vibrant balloons to serene landscapes, choose a backdrop that reflects the celebrant's style. Make memories unforgettable with a stunning visual experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Fabric Round Backdrop for Birthday Decor">
+                                <img itemprop="contentUrl url" src='http://www.ubackdrop.com/cdn/shop/products/PinkFloralRoundBackdropforBirthdayDecor.jpg?v=1695604552' alt='Art Fabric Round Backdrop for Birthday Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='http://www.ubackdrop.com/cdn/shop/products/PinkFloralRoundBackdropforBirthdayDecor.jpg?v=1695604552' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Birthday Backdrop Blue Party Balloons Printed Shiny Designed by  Emetselch">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/BH1040492KateBirthdayBackdropBluePartyBalloonsShinyforPhotographyU.jpg?v=1657864471&width=1000' alt='Kate Birthday Backdrop Blue Party Balloons Printed Shiny Designed by  Emetselch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/BH1040492KateBirthdayBackdropBluePartyBalloonsShinyforPhotographyU.jpg?v=1657864471&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Newborn Baby 1st Birthday Background Cloth Girl Pink Balloon  Butterfly Cake Table Decoration Photo Backdrop Baby Party Photography Props  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71inmkkneCL.jpg' alt='Amazon.com : Newborn Baby 1st Birthday Background Cloth Girl Pink Balloon  Butterfly Cake Table Decoration Photo Backdrop Baby Party Photography Props  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71inmkkneCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Pop Set - Birthday Backdrop - Miami Party Decor - Party Decorations &  Event Services">
+                                <img itemprop="contentUrl url" src='https://miamipartydecor.com/wp-content/uploads/product_party-pop-set-birthday-backdrop_miami-party-decor_1_v.jpg' alt='Party Pop Set - Birthday Backdrop - Miami Party Decor - Party Decorations &  Event Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Party Decor" />
+                                </span>
+                                <a href='https://miamipartydecor.com/wp-content/uploads/product_party-pop-set-birthday-backdrop_miami-party-decor_1_v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperturee Snowflake Round Winter Birthday Backdrop | Circle Backdrops For  Birthday | Circle Party Backdrop | Circular Birthday Backdrop Cover">
+                                <img itemprop="contentUrl url" src='http://www.aperturee.com/cdn/shop/products/aperturee-circle-pink-glitter-girls-birthday-party-backdrops-435.jpg?v=1723197271' alt='Aperturee Snowflake Round Winter Birthday Backdrop | Circle Backdrops For  Birthday | Circle Party Backdrop | Circular Birthday Backdrop Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aperturee" />
+                                </span>
+                                <a href='http://www.aperturee.com/cdn/shop/products/aperturee-circle-pink-glitter-girls-birthday-party-backdrops-435.jpg?v=1723197271' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumind Happy Birthday Backdrop for Women Pink Birthday Decorations Banner  for Girl Glitter Backdrop Sign Baby Shower Photo Booth, 72.8 x 43.3 Inch">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81GBvMsIvhL._AC_UF894,1000_QL80_.jpg' alt='Sumind Happy Birthday Backdrop for Women Pink Birthday Decorations Banner  for Girl Glitter Backdrop Sign Baby Shower Photo Booth, 72.8 x 43.3 Inch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81GBvMsIvhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Decal for Balloon Arch Backdrop Decorations, Happy Birthday  Party Decorations, Happy Birthday Decal Sign for Arch Ideas - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7473869/r/il/5071a7/2434720717/il_1080xN.2434720717_5vz4.jpg' alt='Happy Birthday Decal for Balloon Arch Backdrop Decorations, Happy Birthday  Party Decorations, Happy Birthday Decal Sign for Arch Ideas - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7473869/r/il/5071a7/2434720717/il_1080xN.2434720717_5vz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Balloon Summer Birthday Cake Smash Cloud Backdrop Designed by Chain  Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/files/BH1045201DKateBalloonSummerBirthdayCakeSmashCloudBackdrop.jpg?v=1685437524' alt='Kate Balloon Summer Birthday Cake Smash Cloud Backdrop Designed by Chain  Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/files/BH1045201DKateBalloonSummerBirthdayCakeSmashCloudBackdrop.jpg?v=1685437524' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Backdrop Circle White Birthday Banner Baby Shower Decoration">
+                                <img itemprop="contentUrl url" src='http://www.ubackdrop.com/cdn/shop/products/123446829_204585761035554_5546265588422436248_n.jpg?v=1634024964' alt='White Backdrop Circle White Birthday Banner Baby Shower Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='http://www.ubackdrop.com/cdn/shop/products/123446829_204585761035554_5546265588422436248_n.jpg?v=1634024964' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Photography Backdrop Boys Background Cake Smash Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/WHM171_6x5_Birthday_Boy_Photography_Backdrop_Prince_Photography_Background_1800x1800.jpg?v=1625093574' alt='Birthday Photography Backdrop Boys Background Cake Smash Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/WHM171_6x5_Birthday_Boy_Photography_Backdrop_Prince_Photography_Background_1800x1800.jpg?v=1625093574' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

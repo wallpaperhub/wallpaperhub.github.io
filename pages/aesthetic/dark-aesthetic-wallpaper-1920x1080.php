@@ -1,0 +1,129 @@
+<title>Dark Aesthetic Wallpaper 1920x1080: A Stylish Collection</title>
+                    <meta name="description" content="Explore stunning dark aesthetic wallpapers in 1920x1080 resolution to enhance your desktop or mobile backgrounds. Ideal for those who appreciate a moody, artistic vibe, these wallpapers feature rich colors and captivating designs. Transform your screen with our unique selections today!">
+                    <meta name="keywords" content="dark aesthetic wallpaper 1920x1080">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dark-aesthetic-wallpaper-1920x1080">
+                            <span itemprop="name">dark aesthetic wallpaper 1920x1080</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Aesthetic Wallpaper 1920x1080: A Stylish Collection</h1>
+                <p>Discover a collection of dark aesthetic wallpapers at 1920x1080 resolution that bring a moody vibe to your screen. These captivating designs feature shadows, deep colors, and mysterious themes perfect for creating an ambiance of intrigue and style. Elevate your aesthetics effortlessly with our unique selections.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Aesthetic Computer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-aesthetic-computer-cxzphn9h6y9jjp6o.jpg' alt='100+] Dark Aesthetic Computer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-aesthetic-computer-cxzphn9h6y9jjp6o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Wallpaper for Laptop ⋆ 2025 Cool Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/4a/6d/834a6d5f66573a546ebeb7ef21cb05da.jpg' alt='Dark Aesthetic Wallpaper for Laptop ⋆ 2025 Cool Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/4a/6d/834a6d5f66573a546ebeb7ef21cb05da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A dark aesthetic wallpaper (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xwtmcpusmou51.jpg' alt='A dark aesthetic wallpaper (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xwtmcpusmou51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/eerie-forest-dark-aesthetic-m0z20bl8ehnt276a.jpg' alt='Download Dark Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/eerie-forest-dark-aesthetic-m0z20bl8ehnt276a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic 1920x1080 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4468225.jpg' alt='Dark Aesthetic 1920x1080 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4468225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Wallpaper : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pevzty3gdrub1.png' alt='Dark Aesthetic Wallpaper : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pevzty3gdrub1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+] Dark Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/134/1347727.png' alt='20+] Dark Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/134/1347727.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Backgrounds HD 1920x1080 Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/fa/1b/fafa1b99cbc495249d860bb9f936857d.jpg' alt='Black Backgrounds HD 1920x1080 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/fa/1b/fafa1b99cbc495249d860bb9f936857d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1920x1080 Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-aesthetic-84fye9ax4dltxypj.jpg' alt='100+] 1920x1080 Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-aesthetic-84fye9ax4dltxypj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Inside Building HD Dark Aesthetic Wallpapers | HD ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/statue_inside_building_hd_dark_aesthetic-1920x1080.jpg' alt='Statue Inside Building HD Dark Aesthetic Wallpapers | HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/statue_inside_building_hd_dark_aesthetic-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

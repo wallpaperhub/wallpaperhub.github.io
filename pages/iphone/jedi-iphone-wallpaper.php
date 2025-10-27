@@ -1,0 +1,129 @@
+<title>Stunning Jedi iPhone Wallpapers for Star Wars Fans</title>
+                    <meta name="description" content="Discover the ultimate collection of Jedi iPhone wallpapers! Perfect for Star Wars enthusiasts, our high-quality images bring iconic characters to your device. Download now to transform your phone into a galaxy far, far away with captivating backgrounds that showcase the Force!">
+                    <meta name="keywords" content="jedi iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jedi-iphone-wallpaper">
+                            <span itemprop="name">jedi iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jedi iPhone Wallpapers for Star Wars Fans</h1>
+                <p>Elevate your iPhone aesthetic with stunning Jedi wallpaper! Embrace the Force and showcase your love for Star Wars with high-quality images featuring iconic Jedi characters like Yoda, Obi-Wan, and Anakin. Perfect for fans seeking a unique and inspiring background, these wallpapers will transform your device into a galactic masterpiece!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars - Quality Cell Phone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/c3/a6/aec3a69cf0aa8e73f78a90b4f89f23a2.jpg' alt='Star Wars - Quality Cell Phone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/c3/a6/aec3a69cf0aa8e73f78a90b4f89f23a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers : r/FallenOrder">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/q3gh41jm1et21.jpg?width=1080&format=pjpg&auto=webp&s=e8f2d8445bb8c2e809e15273e2913e035410707d' alt='Phone wallpapers : r/FallenOrder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/q3gh41jm1et21.jpg?width=1080&format=pjpg&auto=webp&s=e8f2d8445bb8c2e809e15273e2913e035410707d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Last Jedi poster, action, disney, last jedi, lightsaber, lucasfilm ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/692/195/HD-wallpaper-last-jedi-poster-action-disney-last-jedi-lightsaber-lucasfilm-luke-rey-star-wars-starwars-wars.jpg' alt='Last Jedi poster, action, disney, last jedi, lightsaber, lucasfilm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/692/195/HD-wallpaper-last-jedi-poster-action-disney-last-jedi-lightsaber-lucasfilm-luke-rey-star-wars-starwars-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Jedi Rises Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/stormtrooper-from-the-star-wars-universe-czquhdmgnk5wk2sv.webp' alt='The Last Jedi Rises Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/stormtrooper-from-the-star-wars-universe-czquhdmgnk5wk2sv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' alt='100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made desktop & mobile wallpapers versions of the Star Wars Jedi ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-desktop-mobile-wallpapers-versions-of-the-star-wars-v0-ssle7uzejo4a1.png?width=640&crop=smart&auto=webp&s=d054a1075e6011dac47bff23587f63589ec48017' alt='i made desktop & mobile wallpapers versions of the Star Wars Jedi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-desktop-mobile-wallpapers-versions-of-the-star-wars-v0-ssle7uzejo4a1.png?width=640&crop=smart&auto=webp&s=d054a1075e6011dac47bff23587f63589ec48017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Jedi Survivor [2023] (1) by KahlanAmnelle on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40eb3ade-91e8-48e4-9923-dc622562072f/dfvwkyy-62291c6c-3152-4ba4-b88c-7826ea227031.png/v1/fill/w_607,h_1315,q_70,strp/star_wars_jedi_survivor__2023___1__by_kahlanamnelle_dfvwkyy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM3NiIsInBhdGgiOiJcL2ZcLzQwZWIzYWRlLTkxZTgtNDhlNC05OTIzLWRjNjIyNTYyMDcyZlwvZGZ2d2t5eS02MjI5MWM2Yy0zMTUyLTRiYTQtYjg4Yy03ODI2ZWEyMjcwMzEucG5nIiwid2lkdGgiOiI8PTI0ODQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-7hrzK-du2Okke5XYOrGBnBNQs2AKoxz_QCNuUzZL5s' alt='Star Wars Jedi Survivor [2023] (1) by KahlanAmnelle on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40eb3ade-91e8-48e4-9923-dc622562072f/dfvwkyy-62291c6c-3152-4ba4-b88c-7826ea227031.png/v1/fill/w_607,h_1315,q_70,strp/star_wars_jedi_survivor__2023___1__by_kahlanamnelle_dfvwkyy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM3NiIsInBhdGgiOiJcL2ZcLzQwZWIzYWRlLTkxZTgtNDhlNC05OTIzLWRjNjIyNTYyMDcyZlwvZGZ2d2t5eS02MjI5MWM2Yy0zMTUyLTRiYTQtYjg4Yy03ODI2ZWEyMjcwMzEucG5nIiwid2lkdGgiOiI8PTI0ODQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-7hrzK-du2Okke5XYOrGBnBNQs2AKoxz_QCNuUzZL5s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD jedi logo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/865/584/HD-wallpaper-jedi-star-wars-logo-star-thumbnail.jpg' alt='HD jedi logo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/865/584/HD-wallpaper-jedi-star-wars-logo-star-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars The Last Jedi Wallpaper Lock Screen APK for Android Download">
+                                <img itemprop="contentUrl url" src='https://image.winudf.com/v2/image/Y29tLm51YW5jZXZpZXcuc3RhcndhcnN0aGVsYXN0amVkaXdhbGxwYXBlcmxvY2tzY3JlZW5fc2NyZWVuXzBfMTUyMjA5ODIxN18wODk/screen-0.jpg?fakeurl=1&type=.jpg' alt='Star Wars The Last Jedi Wallpaper Lock Screen APK for Android Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="APKPure" />
+                                </span>
+                                <a href='https://image.winudf.com/v2/image/Y29tLm51YW5jZXZpZXcuc3RhcndhcnN0aGVsYXN0amVkaXdhbGxwYXBlcmxvY2tzY3JlZW5fc2NyZWVuXzBfMTUyMjA5ODIxN18wODk/screen-0.jpg?fakeurl=1&type=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jedi Order Symbol Cellphone Wallpaper by swmand4 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/5f/bd/1c5fbd3646ea5846e7494481bdaa8166.jpg' alt='Jedi Order Symbol Cellphone Wallpaper by swmand4 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/5f/bd/1c5fbd3646ea5846e7494481bdaa8166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

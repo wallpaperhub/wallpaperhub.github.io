@@ -1,0 +1,129 @@
+<title>Adorable My Melody Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the cutest My Melody lock screen wallpapers for your mobile device! Personalize your screen with vibrant, fun designs featuring the beloved Sanrio character. Perfect for fans, these wallpapers add a touch of charm and whimsy to your phone. Download your favorite today!">
+                    <meta name="keywords" content="lock screen my melody wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/lock-screen-my-melody-wallpaper">
+                            <span itemprop="name">lock screen my melody wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable My Melody Lock Screen Wallpapers for Your Phone</h1>
+                <p>Transform your device with delightful My Melody lock screen wallpapers! Featuring the adorable Sanrio character, these wallpapers bring charm and whimsy to your screen. Perfect for fans of cute aesthetics, personalize your phone with vibrant designs that showcase My Melody’s playful spirit. Cheer up your day with these cute locks!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my melody lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2c/80/5b/2c805b13c9ee4370122aaa2507884eb8.jpg' alt='my melody lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2c/80/5b/2c805b13c9ee4370122aaa2507884eb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 My Melody ideas in 2025 | my melody wallpaper, sanrio ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7a/82/1d/7a821d21c23e824ca30a7431179c6ae6.jpg' alt='250 My Melody ideas in 2025 | my melody wallpaper, sanrio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7a/82/1d/7a821d21c23e824ca30a7431179c6ae6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Bigger My Melody Go Locker Theme V For Android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/ed/ad/f9edad81423b388c44088d844fc4b790.jpg' alt='   Free download Bigger My Melody Go Locker Theme V For Android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/ed/ad/f9edad81423b388c44088d844fc4b790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY MELODY WALLPAPER This is the matching wallpaper for the icons I ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e98114efe6d07efa0a8073c07e8e16bc/a90d2b4609f74d5f-81/s1280x1920/86c23ac94301f16db2c33ded8f44846458c61633.jpg' alt='MY MELODY WALLPAPER This is the matching wallpaper for the icons I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e98114efe6d07efa0a8073c07e8e16bc/a90d2b4609f74d5f-81/s1280x1920/86c23ac94301f16db2c33ded8f44846458c61633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my melody wallpaper lockscreen sanrio wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/15/f2/5115f26a6fb98348594e719d1be2d902.jpg' alt='my melody wallpaper lockscreen sanrio wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/15/f2/5115f26a6fb98348594e719d1be2d902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my melody lockscreen/wallpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/65/14/f1651436fa6f8d1a822e7dcf79fcbea2.jpg' alt='my melody lockscreen/wallpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/65/14/f1651436fa6f8d1a822e7dcf79fcbea2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute my melody lock screen ✨ | Gallery posted by Chloe      | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7391218373299339782&index=2&sign=f9bdee427ed184b56b73e3f2f25d931f' alt='Cute my melody lock screen ✨ | Gallery posted by Chloe      | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7391218373299339782&index=2&sign=f9bdee427ed184b56b73e3f2f25d931f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/my-melody-cute-iphone-9iszion8qdhslc5o.jpg' alt='My Melody Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/my-melody-cute-iphone-9iszion8qdhslc5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   My Melody Wallpapers Lock Screen on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/49/40/ff/4940ff0b2262b0b6aa947dd7a9c0d6d5.jpg' alt='   My Melody Wallpapers Lock Screen on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/49/40/ff/4940ff0b2262b0b6aa947dd7a9c0d6d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/6/401/HD-wallpaper-my-melody-pink.jpg' alt='My Melody, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/6/401/HD-wallpaper-my-melody-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

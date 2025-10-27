@@ -1,0 +1,129 @@
+<title>Beautiful Heart Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover a collection of beautiful heart wallpapers for your desktop. Perfect for adding a touch of love and personalization to your screen, our wallpapers feature vibrant designs and styles to suit anyone's preference. Transform your workspace with inspiring visuals that brighten your day!">
+                    <meta name="keywords" content="heart wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/heart-wallpaper-desktop">
+                            <span itemprop="name">heart wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Heart Wallpapers for Your Desktop</h1>
+                <p>Enhance your desktop with stunning heart wallpapers that bring love and warmth to your screen. Choose from a variety of designs, featuring vibrant colors, patterns, and artistic styles that cater to every taste. Ideal for anyone looking to add a personal touch or express their romantic side. Update your mood daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpapers (84 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/b/c/105955-3840x2160-desktop-4k-heart-wallpaper-photo.jpg' alt='Heart Wallpapers (84 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/b/c/105955-3840x2160-desktop-4k-heart-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150534247.jpg' alt='Pink Heart Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150534247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700+] Hearts Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hearts-k8wytbbbeozl3s73.jpg' alt='700+] Hearts Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hearts-k8wytbbbeozl3s73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE11GzP7ts/1/0/1600w/canva-pastel-aesthetic-hearts-love-desktop-wallpaper-dY6WMylvHgA.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE11GzP7ts/1/0/1600w/canva-pastel-aesthetic-hearts-love-desktop-wallpaper-dY6WMylvHgA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="high quality heart laptop background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/00/32/bf0032f7f39727098d44dd5a59c2762f.jpg' alt='high quality heart laptop background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/00/32/bf0032f7f39727098d44dd5a59c2762f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Hearts Collage For Computer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-hearts-collage-for-computer-m42gf506ycchv142.jpg' alt='Cute Aesthetic Hearts Collage For Computer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-hearts-collage-for-computer-m42gf506ycchv142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper background, pink, hearts for mobile and desktop, section ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/7/61/serdechki-fon-rozovyi.webp' alt='Wallpaper background, pink, hearts for mobile and desktop, section ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/7/61/serdechki-fon-rozovyi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7Ja7iJ3A/1/0/1600w/canva-soft-purple-love-heart-desktop-wallpaper-zshci06NEZI.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7Ja7iJ3A/1/0/1600w/canva-soft-purple-love-heart-desktop-wallpaper-zshci06NEZI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/simple-cute-heart-pattern-wallpaper-copules-anniversary_1017-49423.jpg' alt='Pink Heart Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/simple-cute-heart-pattern-wallpaper-copules-anniversary_1017-49423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Embracing the Empty: Met Gala's Unseen Potential</title>
+                    <meta name="description" content="Explore the intriguing theme of 'empty' at the Met Gala, where absence sparks creativity and innovation. Delve into the juxtaposition of lavishness and void, and discover how this unique perspective can inspire future fashion statements and artistic expressions.">
+                    <meta name="keywords" content="met gala background empty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/met-gala-background-empty">
+                            <span itemprop="name">met gala background empty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embracing the Empty: Met Gala's Unseen Potential</h1>
+                <p>The Met Gala is renowned for its opulent themes and high-profile attendees, yet its background holds a poignant void. This emptiness symbolizes the unexpressed creativity and potential that could emerge from breaking conventional molds. Every empty space at the Gala invites reflection and anticipation for future innovations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PsBattle: Met Gala empty stairs : r/photoshopbattles">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pauomvt8g6x81.jpg' alt='PsBattle: Met Gala empty stairs : r/photoshopbattles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pauomvt8g6x81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated] The 2020 Met Gala Has Officially Been Canceled - Fashionista">
+                                <img itemprop="contentUrl url" src='https://fashionista.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTcxMDg3OTc2MjIxMTIzODQ1/met-gala-canceled-2020.jpg' alt='Updated] The 2020 Met Gala Has Officially Been Canceled - Fashionista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fashionista" />
+                                </span>
+                                <a href='https://fashionista.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTcxMDg3OTc2MjIxMTIzODQ1/met-gala-canceled-2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Met Gala livestream ends abruptly">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/681rrp_ebMTQ4Rh_43bwGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzA-/https://media.zenfs.com/en/the_independent_635/b89ffb07c22fde52feb061c663f168e2' alt='Met Gala livestream ends abruptly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/681rrp_ebMTQ4Rh_43bwGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzA-/https://media.zenfs.com/en/the_independent_635/b89ffb07c22fde52feb061c663f168e2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="met gala carpet empty - Pesquisa Google | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/3de71abd-3aa5-4e04-9d35-fb73b1d70a68.jpeg' alt='met gala carpet empty - Pesquisa Google | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/3de71abd-3aa5-4e04-9d35-fb73b1d70a68.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The red, white and blue “In America: An Anthology of fashion ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2880365116303535670' alt='The red, white and blue “In America: An Anthology of fashion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2880365116303535670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notes on “Camp: Notes on Fashion” – Genevieve Valentine">
+                                <img itemprop="contentUrl url" src='https://www.genevievevalentine.com/wp-content/uploads/2019/05/pink-camp-stairs.jpg' alt='Notes on “Camp: Notes on Fashion” – Genevieve Valentine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genevieve Valentine" />
+                                </span>
+                                <a href='https://www.genevievevalentine.com/wp-content/uploads/2019/05/pink-camp-stairs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep it MBAchic: Met Gala-inspired graduation looks - MBAchic">
+                                <img itemprop="contentUrl url" src='https://media.mbachic.com/wp-content/uploads/2019/05/31001952/20190510_165654905_iOS.jpg' alt='Keep it MBAchic: Met Gala-inspired graduation looks - MBAchic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MBAchic" />
+                                </span>
+                                <a href='https://media.mbachic.com/wp-content/uploads/2019/05/31001952/20190510_165654905_iOS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Does the Met Gala Carpet Look Like That?">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/802/802/f905580bec495ac3142e745456c7997fe6-met-gala-2024-carpet.1x.rsquare.w1400.jpg' alt='Why Does the Met Gala Carpet Look Like That?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cut" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/802/802/f905580bec495ac3142e745456c7997fe6-met-gala-2024-carpet.1x.rsquare.w1400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Met Gala red carpet left empty">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/uu/api/res/1.2/LOJ9T_cwF8HYtv.Lss9vbQ--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_independent_video_898/6cd77f0a0b5e0af21adf49909d44d206' alt='Met Gala red carpet left empty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo News UK" />
+                                </span>
+                                <a href='https://s.yimg.com/uu/api/res/1.2/LOJ9T_cwF8HYtv.Lss9vbQ--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_independent_video_898/6cd77f0a0b5e0af21adf49909d44d206' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look Back at Stunning Met Gala Interiors Over the Years">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/67/1a/27671ad19cf147dd043d55549d9523eb.jpg' alt='A Look Back at Stunning Met Gala Interiors Over the Years'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/67/1a/27671ad19cf147dd043d55549d9523eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

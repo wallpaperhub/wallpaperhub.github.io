@@ -1,0 +1,129 @@
+<title>Goku's Super Saiyan Transformation: The Legend Explained</title>
+                    <meta name="description" content="Explore the legendary Super Saiyan transformation of Goku from "Dragon Ball." Discover the origins, significance, and evolution of this iconic form that symbolizes power and determination. Perfect for fans and newcomers alike, learn how Goku's journey inspires resilience in the face of adversity.">
+                    <meta name="keywords" content="goku super saiyan background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/goku-super-saiyan-background">
+                            <span itemprop="name">goku super saiyan background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goku's Super Saiyan Transformation: The Legend Explained</h1>
+                <p>Goku, the iconic Saiyan from "Dragon Ball," transforms into a Super Saiyan with a burst of golden energy and piercing teal eyes. This legendary transformation symbolizes strength and resilience, triggered by intense emotions. Goku’s journey from a humble warrior to a powerful Super Saiyan is a cornerstone of the series, captivating fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Goku Art Wallpaper : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/35ak8q10g3f31.png' alt='Super Saiyan Goku Art Wallpaper : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/35ak8q10g3f31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan Wallpapers (26 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/3/1215613-3840x2160-desktop-4k-goku-super-saiyan-background-photo.jpg' alt='Goku Super Saiyan Wallpapers (26 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/3/1215613-3840x2160-desktop-4k-goku-super-saiyan-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Super Saiyan Blue">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-2880x1800-5099.jpg' alt='Goku Wallpaper 4K, Super Saiyan Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-2880x1800-5099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Super Saiyan Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-super-saiyan-blue-owhui0y39kejyj8h.jpg' alt='200+] Super Saiyan Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-super-saiyan-blue-owhui0y39kejyj8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="super saiyan goku wallpaper | super saiyan goku wallpaper | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/2386/2204016315_d8a0d0aa03_c.jpg' alt='super saiyan goku wallpaper | super saiyan goku wallpaper | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/2386/2204016315_d8a0d0aa03_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Dragon Ball Super Saiyan Wallpaper For Chromebook ...">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/goku-dragon-ball-super-chromebook-wallpaper.jpg' alt='Goku Dragon Ball Super Saiyan Wallpaper For Chromebook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/goku-dragon-ball-super-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "HERE HE IS! ULTRA SUPER SAIYAN GOKU! RED -ULTRA ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ExvLHT7XEAs0Wy_?format=jpg&name=4096x4096' alt='Hydros on X: "HERE HE IS! ULTRA SUPER SAIYAN GOKU! RED -ULTRA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ExvLHT7XEAs0Wy_?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Latest Goku Super Saiyan God Super Saiyan Wallpaper Hd FULL HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/98/bb/4f98bb83ef7f578faebe09115a237be5.jpg' alt='10 Latest Goku Super Saiyan God Super Saiyan Wallpaper Hd FULL HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/98/bb/4f98bb83ef7f578faebe09115a237be5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ssj Super Saiyan Goku Wallpaper. : r/DBZDokkanBattle">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mg08ffo7hye41.jpg' alt='Ssj Super Saiyan Goku Wallpaper. : r/DBZDokkanBattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="3155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mg08ffo7hye41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Saiyan Blue Goku Anime Dragon Ball Super HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/100/thumb-1920-1004032.jpg' alt='Download Super Saiyan Blue Goku Anime Dragon Ball Super HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/100/thumb-1920-1004032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

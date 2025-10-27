@@ -1,0 +1,129 @@
+<title>Epic Goku Fortnite Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of Goku Fortnite wallpapers! Perfect for fans and gamers alike, these wallpapers will enhance your gaming experience and personalize your device. Download your favorite designs and showcase the power of Goku today!">
+                    <meta name="keywords" content="goku fortnite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-fortnite-wallpaper">
+                            <span itemprop="name">goku fortnite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Fortnite Wallpapers for Gamers</h1>
+                <p>Level up your Fortnite experience with stunning Goku wallpapers! Transform your gaming setup by showcasing your favorite Saiyan in action. Whether you prefer Goku in Super Saiyan form or his classic look, these wallpapers bring a vibrant touch to your screen, merging the worlds of anime and battle royale. Grab yours now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku Video Game Fortnite HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/126/thumb-1920-1265869.jpg' alt='Download Goku Video Game Fortnite HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/126/thumb-1920-1265869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Goku Power Unleashed Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/fortnite-goku-power-unleashed_bWpsZWmUmZqaraWkpJRnZWltrWZlZ2k.jpg' alt='Fortnite Goku Power Unleashed Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/fortnite-goku-power-unleashed_bWpsZWmUmZqaraWkpJRnZWltrWZlZ2k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/01/6f/be016f02790f216b898a5fca5d8b3e3e.jpg' alt='Son Goku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/01/6f/be016f02790f216b898a5fca5d8b3e3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite on Instagram: "Never forget your Saiyan pride! Grab Goku ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/a6/59/2fa659f7cf0ba3ef3c424f831480202e.jpg' alt='Fortnite on Instagram: "Never forget your Saiyan pride! Grab Goku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/a6/59/2fa659f7cf0ba3ef3c424f831480202e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fortnite thumbnail goku skin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/70/cf/f070cfa8ffee1533d7f68724b594df28.jpg' alt='fortnite thumbnail goku skin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/70/cf/f070cfa8ffee1533d7f68724b594df28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite x Dragon Ball Super Wallpaper 4K, Goku, Vegeta">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/fortnite-x-dragon-3840x2160-11460.jpg' alt='Fortnite x Dragon Ball Super Wallpaper 4K, Goku, Vegeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/fortnite-x-dragon-3840x2160-11460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Wallpaper 4K, Fortnite, Blue background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-black-fortnite-3840x2160-11420.png' alt='Goku Black Wallpaper 4K, Fortnite, Blue background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-black-fortnite-3840x2160-11420.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/2c/f7/7b2cf7a10379275a4e141fd96b1653e1.jpg' alt='Son Goku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/2c/f7/7b2cf7a10379275a4e141fd96b1653e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Fortnite Dragon Ball Wallpaper 4K HD PC #9240g">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/goku-fortnite-dragon-ball-924@0@g-pc-4k.jpg' alt='Goku Fortnite Dragon Ball Wallpaper 4K HD PC #9240g'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/goku-fortnite-dragon-ball-924@0@g-pc-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Fortnite ideas | fortnite, dragon ball super wallpapers, best ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/80/e2/6d/80e26da5bc6107087f407bdb63f6ba26.jpg' alt='8 Fortnite ideas | fortnite, dragon ball super wallpapers, best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="1413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/80/e2/6d/80e26da5bc6107087f407bdb63f6ba26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

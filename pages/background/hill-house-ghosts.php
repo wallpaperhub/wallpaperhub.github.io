@@ -1,0 +1,129 @@
+<title>Haunted Hill House: Ghostly Encounters Revealed</title>
+                    <meta name="description" content="Discover the chilling stories of Hill House ghosts. Unexplained phenomena, eerie encounters, and haunting history await you in this mysterious abode. Explore the supernatural world that captivates ghost hunters and thrill-seekers alike!">
+                    <meta name="keywords" content="hill house ghosts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hill-house-ghosts">
+                            <span itemprop="name">hill house ghosts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Haunted Hill House: Ghostly Encounters Revealed</h1>
+                <p>Hill House, an architectural marvel, is notorious for its ghostly residents. Reports of apparitions, chilling whispers, and inexplicable happenings blur the line between reality and the supernatural. Visitors often describe unsettling encounters, making Hill House a magnet for those fascinated by the paranormal and haunted histories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Haunting of Hill House: All the Hidden Ghosts You Missed">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/d37/20e/13feaa1a8c19b25aaca44a8f84759a779b-hill-house-3-the-man-in-the-hallway.2x.rhorizontal.w700.jpg' alt='The Haunting of Hill House: All the Hidden Ghosts You Missed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/d37/20e/13feaa1a8c19b25aaca44a8f84759a779b-hill-house-3-the-man-in-the-hallway.2x.rhorizontal.w700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunting of Hill House: All the Hidden Ghosts You Missed">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/10/Haunting-of-Hill-House-Hidden-Ghosts.jpg' alt='Haunting of Hill House: All the Hidden Ghosts You Missed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/10/Haunting-of-Hill-House-Hidden-Ghosts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Haunting Of Hill House: 10 Scariest Ghosts In The Netflix ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/hill-house-ghosts.jpg' alt='The Haunting Of Hill House: 10 Scariest Ghosts In The Netflix ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/hill-house-ghosts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Are All the Ghosts in 'the Haunting of Hill House'? - Business ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5bd3289d48eb12059c2a0752?width=800&format=jpeg&auto=webp' alt='Who Are All the Ghosts in 'the Haunting of Hill House'? - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5bd3289d48eb12059c2a0752?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Haunting of Hill House's Robert Kurtzman talks ghosts, corpses ...">
+                                <img itemprop="contentUrl url" src='https://swsca-production.s3.amazonaws.com/ckeditor_assets/2019/01/15/hillhousecollage12.png' alt='The Haunting of Hill House's Robert Kurtzman talks ghosts, corpses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stan Winston School" />
+                                </span>
+                                <a href='https://swsca-production.s3.amazonaws.com/ckeditor_assets/2019/01/15/hillhousecollage12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Of The Hidden Ghosts You Missed In The Haunting Of Hill House">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xEW6Yg6_bCE/sddefault.jpg' alt='All Of The Hidden Ghosts You Missed In The Haunting Of Hill House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xEW6Yg6_bCE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally, a Video That Highlights Every Single Hidden Ghost in "The ...">
+                                <img itemprop="contentUrl url" src='https://bloody-disgusting.com/wp-content/uploads/2018/11/hill-house-ghosts.png' alt='Finally, a Video That Highlights Every Single Hidden Ghost in "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloody Disgusting" />
+                                </span>
+                                <a href='https://bloody-disgusting.com/wp-content/uploads/2018/11/hill-house-ghosts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Haunting of Hill House's Robert Kurtzman talks ghosts, corpses ...">
+                                <img itemprop="contentUrl url" src='https://de9o6n2ujz7l.cloudfront.net/uploads/facebook_share/None/Hill_House_4.jpg' alt='The Haunting of Hill House's Robert Kurtzman talks ghosts, corpses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stan Winston School" />
+                                </span>
+                                <a href='https://de9o6n2ujz7l.cloudfront.net/uploads/facebook_share/None/Hill_House_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunting of Hill House Ghosts that Should Come Back for Season 2 ...">
+                                <img itemprop="contentUrl url" src='https://www.tvguide.com/a/img/hub/2018/12/09/3f8adf4b-8d5f-4161-a7db-0d93b5b688d7/181205-ghosts-hill-house-eps1-2.jpg' alt='Haunting of Hill House Ghosts that Should Come Back for Season 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Guide" />
+                                </span>
+                                <a href='https://www.tvguide.com/a/img/hub/2018/12/09/3f8adf4b-8d5f-4161-a7db-0d93b5b688d7/181205-ghosts-hill-house-eps1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rewatching Haunting of Hill House. Can you spot the ghost? : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zavk8mooflu91.jpg' alt='Rewatching Haunting of Hill House. Can you spot the ghost? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2532">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zavk8mooflu91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

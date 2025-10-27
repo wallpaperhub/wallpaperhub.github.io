@@ -1,0 +1,129 @@
+<title>Stylish iPhone Wallpapers: Tumblr Aesthetic Inspirations</title>
+                    <meta name="description" content="Discover the perfect Tumblr aesthetic for your iPhone! Explore a curated collection of stunning wallpapers that blend style and creativity to elevate your device. Transform your screen today with unique designs that reflect your personality. Perfect for anyone seeking inspiration and visual appeal!">
+                    <meta name="keywords" content="iphone wallpaper tumblr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-tumblr">
+                            <span itemprop="name">iphone wallpaper tumblr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish iPhone Wallpapers: Tumblr Aesthetic Inspirations</h1>
+                <p>Transform your iPhone with stunning Tumblr-inspired wallpapers! From aesthetic pastel designs to minimalistic art, discover a variety of styles that reflect your personality. Whether you seek tranquility or vibrancy, our curated selection of wallpapers will elevate your device's look and inspire you daily. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aestheticswalls on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/4e72e55e0401fe387861a84fd766dd87/c71141dbcdc6f40b-08/s640x960/90dbbf9795817dba18c68757ab6157fa656ad00b.jpg' alt='aestheticswalls on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/4e72e55e0401fe387861a84fd766dd87/c71141dbcdc6f40b-08/s640x960/90dbbf9795817dba18c68757ab6157fa656ad00b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 tumblr iphone wallpaper ideas and inspiration">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/b6/da/c2b6da003226632ed62e816df94d13b2.jpg' alt='Top 10 tumblr iphone wallpaper ideas and inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/b6/da/c2b6da003226632ed62e816df94d13b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2a/d6/43/2ad6435d1f3db7aa64744b585c84099e.jpg' alt='aesthetic wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2a/d6/43/2ad6435d1f3db7aa64744b585c84099e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Iphone Tumblr Black-29 by WallpapersSmartphone on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67199334-0608-4cac-a8e4-fda61873509d/ddwbvd4-4819a2f2-81ce-46c2-891e-058006638226.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTk5MzM0LTA2MDgtNGNhYy1hOGU0LWZkYTYxODczNTA5ZFwvZGR3YnZkNC00ODE5YTJmMi04MWNlLTQ2YzItODkxZS0wNTgwMDY2MzgyMjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vm4YgXaFY1T9KyU82BV3bC-LazZrjjPYsugsFLjfya0' alt='Wallpaper Iphone Tumblr Black-29 by WallpapersSmartphone on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67199334-0608-4cac-a8e4-fda61873509d/ddwbvd4-4819a2f2-81ce-46c2-891e-058006638226.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTk5MzM0LTA2MDgtNGNhYy1hOGU0LWZkYTYxODczNTA5ZFwvZGR3YnZkNC00ODE5YTJmMi04MWNlLTQ2YzItODkxZS0wNTgwMDY2MzgyMjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vm4YgXaFY1T9KyU82BV3bC-LazZrjjPYsugsFLjfya0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Aesthetic Tumblr Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/black-aesthetic-tumblr-iphone-qwbfun3oeuuiso42.jpg' alt='100+] Black Aesthetic Tumblr Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/black-aesthetic-tumblr-iphone-qwbfun3oeuuiso42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Iphone Tumblr Black-151 by WallpapersSmartphone on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67199334-0608-4cac-a8e4-fda61873509d/ddwbygy-9a00c1ad-b7fb-4134-85dd-be00a4d8763c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTk5MzM0LTA2MDgtNGNhYy1hOGU0LWZkYTYxODczNTA5ZFwvZGR3YnlneS05YTAwYzFhZC1iN2ZiLTQxMzQtODVkZC1iZTAwYTRkODc2M2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JJVrX1-h7E-0Nm675nFJwYBCqOlBsjn6ZYefUCy46NQ' alt='Wallpaper Iphone Tumblr Black-151 by WallpapersSmartphone on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67199334-0608-4cac-a8e4-fda61873509d/ddwbygy-9a00c1ad-b7fb-4134-85dd-be00a4d8763c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTk5MzM0LTA2MDgtNGNhYy1hOGU0LWZkYTYxODczNTA5ZFwvZGR3YnlneS05YTAwYzFhZC1iN2ZiLTQxMzQtODVkZC1iZTAwYTRkODc2M2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JJVrX1-h7E-0Nm675nFJwYBCqOlBsjn6ZYefUCy46NQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute iphone lockscreen from tumblr xoxo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/00/2f/08/002f08385750514b4797b1592dd0d19f.jpg' alt='cute iphone lockscreen from tumblr xoxo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/00/2f/08/002f08385750514b4797b1592dd0d19f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Brown Butterfly Tumblr Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-brown-butterfly-tumblr-iphone-j8zit0bns1p2tcah.jpg' alt='Aesthetic Brown Butterfly Tumblr Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-brown-butterfly-tumblr-iphone-j8zit0bns1p2tcah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BuzzFeed AU! — 19 iPhone Wallpapers For Everyone Obsessed With...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1c737991035976048dfea15b7b5f4874/tumblr_obajmknh051s90yt2o3_1280.jpg' alt='BuzzFeed AU! — 19 iPhone Wallpapers For Everyone Obsessed With...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed AU! - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1c737991035976048dfea15b7b5f4874/tumblr_obajmknh051s90yt2o3_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr aesthetic 2025 background">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9ec58b9358842c816e21d98bea0fb9dd/90191324f1ed7298-a3/s1280x1920/afe0447a23bec2d6641435e959ca90f88a3f7f99.jpg' alt='Tumblr aesthetic 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9ec58b9358842c816e21d98bea0fb9dd/90191324f1ed7298-a3/s1280x1920/afe0447a23bec2d6641435e959ca90f88a3f7f99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

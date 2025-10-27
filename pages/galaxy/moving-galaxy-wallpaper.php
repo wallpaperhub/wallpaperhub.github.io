@@ -1,0 +1,129 @@
+<title>Stunning Moving Galaxy Wallpaper for Cosmic Homes</title>
+                    <meta name="description" content="Discover our vibrant moving galaxy wallpaper, designed to create an enchanting and immersive atmosphere in any room. Perfect for nature lovers and dreamers, this cosmic decor transforms your space, making it a celestial retreat. Shop now to bring the beauty of the universe into your home!">
+                    <meta name="keywords" content="moving galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/moving-galaxy-wallpaper">
+                            <span itemprop="name">moving galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moving Galaxy Wallpaper for Cosmic Homes</h1>
+                <p>Transform your space with stunning moving galaxy wallpaper that adds a cosmic touch to your walls. Ideal for any room, this wallpaper creates an immersive ambiance, reminiscent of starry skies and swirling nebulae. Perfect for dreamers, it brings a sense of wonder and tranquility, allowing you to escape into the universe from the comfort of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::GALAXY ANIMATED WALLPAPER PACK">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/751466683659860952/F4BB2059B80984861809B6F387BCA716848607C4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::GALAXY ANIMATED WALLPAPER PACK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/751466683659860952/F4BB2059B80984861809B6F387BCA716848607C4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Blue Galaxy - 4K Animated Wallpaper #AAVFX Relaxing Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HamZynYaXy0/maxresdefault.jpg' alt='Purple Blue Galaxy - 4K Animated Wallpaper #AAVFX Relaxing Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HamZynYaXy0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' alt='Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' alt='Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/galaxy-live-1sppb5dq6qbm818b.jpg' alt='100+] Galaxy Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/galaxy-live-1sppb5dq6qbm818b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Moving Galaxy Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/bc/9e/69bc9eb36a0c81bb9c92c30e487f2f6e.jpg' alt='Awesome Moving Galaxy Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/bc/9e/69bc9eb36a0c81bb9c92c30e487f2f6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy live 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-galaxy-live-ih08fr5hinz2ayk8.jpg' alt='Galaxy live 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-galaxy-live-ih08fr5hinz2ayk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Live Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/9eVtaFbrcBEI1b54uMkqhkYma4QH-pmowhsUgL3Jc1ZizNKtyrqdpBH24YbpwPtlVQ' alt='Galaxy Live Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/9eVtaFbrcBEI1b54uMkqhkYma4QH-pmowhsUgL3Jc1ZizNKtyrqdpBH24YbpwPtlVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Galaxy Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/789/983/small/infinity-loop-able-galaxy-space-backgrounds-nebula-animation-free-video.jpg' alt='Live Wallpaper Galaxy Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/789/983/small/infinity-loop-able-galaxy-space-backgrounds-nebula-animation-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Galaxy in the space - Live Wallpaper - Animated background  wallpapers loops videos">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qvGFqbVKx1M/maxresdefault.jpg' alt='Beautiful Galaxy in the space - Live Wallpaper - Animated background  wallpapers loops videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qvGFqbVKx1M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

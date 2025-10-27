@@ -1,0 +1,129 @@
+<title>"13 Going on 30: A Whimsical Journey to Adulthood"</title>
+                    <meta name="description" content="Discover the magical charm of "13 Going on 30," where a young girl magically becomes a 30-year-old woman. Journey with Jenna Rink as she learns about love, friendship, and the challenges of adulthood in this hit romantic comedy. Perfect for fans of feel-good films!">
+                    <meta name="keywords" content="13 going on 30">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/13-going-on-30">
+                            <span itemprop="name">13 going on 30</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"13 Going on 30: A Whimsical Journey to Adulthood"</h1>
+                <p>"13 Going on 30" is a charming romantic comedy that explores the whimsical journey of Jenna Rink, who magically wakes up as a 30-year-old woman after a wish gone awry. As she navigates adulthood, Jenna learns valuable lessons about love, friendship, and the importance of staying true to oneself while balancing her newfound responsibilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Going on 30 (2004) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_FMjpg_UX1000_.jpg' alt='13 Going on 30 (2004) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Going on 30 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/aa/13_Going_on_30_film_poster.png' alt='13 Going on 30 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/aa/13_Going_on_30_film_poster.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Going on 30 | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34314_p_v8_al.jpg' alt='13 Going on 30 | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34314_p_v8_al.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mark Ruffalo celebrates anniversary of '13 Going on 30'">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/dNgsz6-hbaD7Ogd45HEYqEShqTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MCDTHGO_EC035-f45b94819d70481287f3342346b43bf9.jpg' alt='Mark Ruffalo celebrates anniversary of '13 Going on 30''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/dNgsz6-hbaD7Ogd45HEYqEShqTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MCDTHGO_EC035-f45b94819d70481287f3342346b43bf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expect to See the '13 Going on 30' Dress Everywhere This Halloween ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/6169ddc480dc3dc839b2bab8/4:3/w_2228,h_1671,c_limit/MCDTHGO_EC022.jpg' alt='Expect to See the '13 Going on 30' Dress Everywhere This Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2228">
+                                <meta itemprop="height" content="1671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/6169ddc480dc3dc839b2bab8/4:3/w_2228,h_1671,c_limit/MCDTHGO_EC022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mark Ruffalo 'Hated' This Part of 13 Going on 30 So Much, He ...">
+                                <img itemprop="contentUrl url" src='http://media.glamour.com/photos/605371e432053663b4b29842/master/pass/105443363' alt='Mark Ruffalo 'Hated' This Part of 13 Going on 30 So Much, He ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1968">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='http://media.glamour.com/photos/605371e432053663b4b29842/master/pass/105443363' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Going on 30 (2004) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjc0OTc0YTktYmVlOS00ZGZkLTgxYTItZjNhNmY5OTcyNmMyXkEyXkFqcGc@._V1_.jpg' alt='13 Going on 30 (2004) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjc0OTc0YTktYmVlOS00ZGZkLTgxYTItZjNhNmY5OTcyNmMyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Going On 30” Retrospective. Let's look back like Jennifer ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*586jNpTHLLka6TvW' alt='13 Going On 30” Retrospective. Let's look back like Jennifer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colton Royle - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*586jNpTHLLka6TvW' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch 13 Going on 30 | Prime Video">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/0b69e19ebfbee28372214f467a30ab8437e13595cc4d4f273a2ab8a1d39da318.jpg' alt='Watch 13 Going on 30 | Prime Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/0b69e19ebfbee28372214f467a30ab8437e13595cc4d4f273a2ab8a1d39da318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything She Ever Wanted | 13 Going On 30 | Love Love">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hf3rGPl4t7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAc-0KJeFIxqNYY4eoiSyNh3iIcLg' alt='Everything She Ever Wanted | 13 Going On 30 | Love Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hf3rGPl4t7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAc-0KJeFIxqNYY4eoiSyNh3iIcLg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

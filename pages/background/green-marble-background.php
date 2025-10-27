@@ -1,0 +1,129 @@
+<title>Elegant Green Marble Backgrounds for Stunning Designs</title>
+                    <meta name="description" content="Explore stunning green marble backgrounds that elevate your design projects. Perfect for web use, invitations, or branding, these luxurious textures combine nature's beauty with sophistication. Discover how a green marble backdrop can transform your visuals effortlessly!">
+                    <meta name="keywords" content="green marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-marble-background">
+                            <span itemprop="name">green marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Green Marble Backgrounds for Stunning Designs</h1>
+                <p>Green marble backgrounds exude elegance and sophistication, making them perfect for various design projects. Rich in texture, these backgrounds evoke a sense of nature, combining deep greens with striking veining. Ideal for websites, invitations, or branding, a green marble backdrop adds a touch of luxury and style to any visual aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Marble Texture Background With High Resolution Top View ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1310066607/photo/dark-green-marble-texture-background-with-high-resolution-top-view-of-natural-tiles-stone-in.jpg?s=612x612&w=0&k=20&c=FyQEWzy7NJyOq8mDC-SJXNSwAa2qgJKeoARp8bR7DBI=' alt='Dark Green Marble Texture Background With High Resolution Top View ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1310066607/photo/dark-green-marble-texture-background-with-high-resolution-top-view-of-natural-tiles-stone-in.jpg?s=612x612&w=0&k=20&c=FyQEWzy7NJyOq8mDC-SJXNSwAa2qgJKeoARp8bR7DBI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Marble Concept Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/403/048/small_2x/ai-generated-green-marble-texture-with-white-wavy-patterns-and-polished-surface-free-photo.jpg' alt='Green Marble Concept Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/403/048/small_2x/ai-generated-green-marble-texture-with-white-wavy-patterns-and-polished-surface-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Suave Dark Green Marble Non-Pasted Paper Matte ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/016b1ad9-bd60-47c5-bc7d-575e683b9914/svn/fine-decor-wallpaper-rolls-fd43058-64_600.jpg' alt='Fine Decor Suave Dark Green Marble Non-Pasted Paper Matte ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/016b1ad9-bd60-47c5-bc7d-575e683b9914/svn/fine-decor-wallpaper-rolls-fd43058-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Marble Texture High Quality Wallpaper Featuring Abstract ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/green-marble-texture-high-quality-wallpaper-featuring-abstract-watercolor-with-a-luxurious_9986425.jpg!w700wp' alt='Green Marble Texture High Quality Wallpaper Featuring Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/green-marble-texture-high-quality-wallpaper-featuring-abstract-watercolor-with-a-luxurious_9986425.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,300+ Green Marble Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1477944208/photo/natural-emerald-green-gold-marble-texture-pattern-marble-wallpaper-high-quality-can-be-used.jpg?s=170667a&w=is&k=20&c=coNqOfsI9_ngJujKchwCthVN9WbA8DMvenUzH8kkIwA=' alt='90,300+ Green Marble Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1477944208/photo/natural-emerald-green-gold-marble-texture-pattern-marble-wallpaper-high-quality-can-be-used.jpg?s=170667a&w=is&k=20&c=coNqOfsI9_ngJujKchwCthVN9WbA8DMvenUzH8kkIwA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Green Gold Marble Wallpaper Background, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/61/92/276192587d0597835372502c181f8f63.jpg' alt='Aesthetic Green Gold Marble Wallpaper Background, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/61/92/276192587d0597835372502c181f8f63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Marble Images – Browse 717,473 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/61/89/46/360_F_961894608_DWeejxTatcIlxs4NXBQOi3eM6gF5fMEf.jpg' alt='Green Marble Images – Browse 717,473 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/61/89/46/360_F_961894608_DWeejxTatcIlxs4NXBQOi3eM6gF5fMEf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leyiyi 5x4ft Green Marble Backdrop Green Marble Texture Photography  Background Watercolor Art Ink Painting Golden Glitter Golden Quicksand  Liquid ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/715ijN9pdVL._AC_UF894,1000_QL80_.jpg' alt='Leyiyi 5x4ft Green Marble Backdrop Green Marble Texture Photography  Background Watercolor Art Ink Painting Golden Glitter Golden Quicksand  Liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/715ijN9pdVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Marble Patterned Texture Background Stock Photo 477044539 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/green-marble-patterned-texture-background-260nw-477044539.jpg' alt='Green Marble Patterned Texture Background Stock Photo 477044539 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/green-marble-patterned-texture-background-260nw-477044539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Marble Texture Background with High Resolution, Top ...">
+                                <img itemprop="contentUrl url" src='https://imgc.artprintimages.com/img/print/natthanim-dark-green-marble-texture-background-with-high-resolution-top-view-of-natural-tiles-stone-in-luxur_u-l-q1rlbgr0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=fbfbfb' alt='Dark Green Marble Texture Background with High Resolution, Top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art.com" />
+                                </span>
+                                <a href='https://imgc.artprintimages.com/img/print/natthanim-dark-green-marble-texture-background-with-high-resolution-top-view-of-natural-tiles-stone-in-luxur_u-l-q1rlbgr0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=fbfbfb' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

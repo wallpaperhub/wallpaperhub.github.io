@@ -1,0 +1,129 @@
+<title>Joyful Moments: The Power of Happy Images</title>
+                    <meta name="description" content="Discover the enchanting world of happy images! Explore visuals that uplift your mood and inspire joy. Perfect for sharing or personal enjoyment, these images are a source of positivity in our daily lives. Transform your day with a glimpse of happiness!">
+                    <meta name="keywords" content="happy images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-images">
+                            <span itemprop="name">happy images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joyful Moments: The Power of Happy Images</h1>
+                <p>Happy images can brighten your day! From joyful animals to uplifting nature scenes, these visuals evoke feelings of joy and peace. They remind us of the beauty in the world, making us smile and lifting our spirits. Whether shared online or kept in a personal collection, happy images have the power to spread positivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Photos, Download The BEST Free Happy Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?cs=srgb&dl=pexels-andre-furtado-43594-1263986.jpg&fm=jpg' alt='Happy Photos, Download The BEST Free Happy Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?cs=srgb&dl=pexels-andre-furtado-43594-1263986.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,258,200+ Girl Happy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1353379172/photo/cute-little-african-american-girl-looking-at-camera.jpg?s=612x612&w=0&k=20&c=RCOYytwS2nMGfEb80oyeiCcIiqMQu6wnTluAaxMBye4=' alt='3,258,200+ Girl Happy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1353379172/photo/cute-little-african-american-girl-looking-at-camera.jpg?s=612x612&w=0&k=20&c=RCOYytwS2nMGfEb80oyeiCcIiqMQu6wnTluAaxMBye4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Smile Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/419/658/small_2x/yellow-smiling-ball-wearing-a-straw-hat-in-a-sunny-field-of-flowers-showing-happiness-and-joy-in-nature-photo.jpeg' alt='Happy Smile Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/419/658/small_2x/yellow-smiling-ball-wearing-a-straw-hat-in-a-sunny-field-of-flowers-showing-happiness-and-joy-in-nature-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy People Images – Browse 35,274,659 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/84/87/34/360_F_484873483_hg1ofIdXbMha5lKEDG3hJBrwKh1oikTq.jpg' alt='Happy People Images – Browse 35,274,659 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/84/87/34/360_F_484873483_hg1ofIdXbMha5lKEDG3hJBrwKh1oikTq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Stock Photos of Happy People | Download">
+                                <img itemprop="contentUrl url" src='https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg' alt='50 Free Stock Photos of Happy People | Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockSnap Blog" />
+                                </span>
+                                <a href='https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,399,900 Happy People Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/young-group-happy-people-enjoying-time-together-city-street-vertical-shot-millennial-generation-friends-having-fun-laughing-344130089.jpg' alt='8,399,900 Happy People Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/young-group-happy-people-enjoying-time-together-city-street-vertical-shot-millennial-generation-friends-having-fun-laughing-344130089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Man Photos, Download The BEST Free Happy Man Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2923156/pexels-photo-2923156.jpeg?cs=srgb&dl=pexels-chetanvlad-2923156.jpg&fm=jpg' alt='Happy Man Photos, Download The BEST Free Happy Man Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2826">
+                                <meta itemprop="height" content="4239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2923156/pexels-photo-2923156.jpeg?cs=srgb&dl=pexels-chetanvlad-2923156.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="216,400+ Very Happy Man Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1417009411/photo/a-mature-african-man-looking-ecstatic-while-while-celebrating-and-dancing-by-making-a-fist.jpg?s=612x612&w=0&k=20&c=lDYtbozG2FcTucA-Ng1aD0sQ4vBfFJNU6yIC3iz5zyY=' alt='216,400+ Very Happy Man Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1417009411/photo/a-mature-african-man-looking-ecstatic-while-while-celebrating-and-dancing-by-making-a-fist.jpg?s=612x612&w=0&k=20&c=lDYtbozG2FcTucA-Ng1aD0sQ4vBfFJNU6yIC3iz5zyY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,418,432 Happy Man Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-man-6644937.jpg' alt='3,418,432 Happy Man Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-man-6644937.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does More Money Really Make Us More Happy?">
+                                <img itemprop="contentUrl url" src='https://hbr.org/resources/images/article_assets/2020/09/A_Sep20_14_1189155141.jpg' alt='Does More Money Really Make Us More Happy?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Business Review" />
+                                </span>
+                                <a href='https://hbr.org/resources/images/article_assets/2020/09/A_Sep20_14_1189155141.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

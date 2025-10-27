@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone wallpaper celestial">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-celestial">
+                            <span itemprop="name">iphone wallpaper celestial</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CELESTIAL IPHONE WALLPAPERS - This Mama">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/90/8c/c6908cec5caff5e5d35e50bc0197b85c.jpg' alt='CELESTIAL IPHONE WALLPAPERS - This Mama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/90/8c/c6908cec5caff5e5d35e50bc0197b85c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/b5/27/1eb527685adb2f2e82c5953c92b37893.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/b5/27/1eb527685adb2f2e82c5953c92b37893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7a/8a/17/7a8a17f493431313ec276d0b51596029.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7a/8a/17/7a8a17f493431313ec276d0b51596029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_fullxfull.3568639508_ksjo.jpg' alt='Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_fullxfull.3568639508_ksjo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Super Cute Celestial iPhone Wallpapers – WITCHY VIBES – The ...">
+                                <img itemprop="contentUrl url" src='https://thewildgems.com/wp-content/uploads/2023/10/img_7309-1.jpg?w=576' alt='15 Super Cute Celestial iPhone Wallpapers – WITCHY VIBES – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wild Gems" />
+                                </span>
+                                <a href='https://thewildgems.com/wp-content/uploads/2023/10/img_7309-1.jpg?w=576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/ae/23/d0ae23e50d6b2b0284b2c0ef6731b46c.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/ae/23/d0ae23e50d6b2b0284b2c0ef6731b46c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic Celestial Iphone/android Downloadable Wallpapers - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38193548/r/il/089aec/4249317362/il_570xN.4249317362_cswn.jpg' alt='Minimalistic Celestial Iphone/android Downloadable Wallpapers - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38193548/r/il/089aec/4249317362/il_570xN.4249317362_cswn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 Celestial iPhone Wallpapers to Download for Free - atinydreamer">
+                                <img itemprop="contentUrl url" src='https://www.atinydreamer.com/wp-content/uploads/2022/01/celestial-iPhone-wallpaper9-576x1024.png' alt='38 Celestial iPhone Wallpapers to Download for Free - atinydreamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="atinydreamer" />
+                                </span>
+                                <a href='https://www.atinydreamer.com/wp-content/uploads/2022/01/celestial-iPhone-wallpaper9-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdmYXEwZHhna3RhZzRtNmhiN3hoMnc3bi5wbmc.png' alt='Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdmYXEwZHhna3RhZzRtNmhiN3hoMnc3bi5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial iPhone Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/4f/95/0b4f95dd3a41a579d37074bc1615d0de.jpg' alt='Celestial iPhone Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/4f/95/0b4f95dd3a41a579d37074bc1615d0de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

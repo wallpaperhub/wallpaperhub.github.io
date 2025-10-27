@@ -1,0 +1,129 @@
+<title>Illuminating History: The Evolution of Light Bulbs</title>
+                    <meta name="description" content="Discover the fascinating history and evolution of light bulbs, from early inventions to modern LED technology. Learn how these essential devices have transformed our world by providing efficient lighting solutions for homes and businesses alike.">
+                    <meta name="keywords" content="light bulb background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-bulb-background">
+                            <span itemprop="name">light bulb background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminating History: The Evolution of Light Bulbs</h1>
+                <p>Light bulbs have revolutionized the way we illuminate our spaces, replacing traditional candles and gas lamps. From the early designs by inventors like Thomas Edison to modern energy-saving options, the evolution of light bulbs showcases advancements in technology. Explore light bulb backgrounds and their impact on daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Bulb Background" Images – Browse 586 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/34/47/25/360_F_1134472536_9dr248lfKW3tExFRuztgww4R3cK9HCAS.jpg' alt='Light Bulb Background" Images – Browse 586 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/34/47/25/360_F_1134472536_9dr248lfKW3tExFRuztgww4R3cK9HCAS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Light Bulb Bright Polygonal Connections">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1085502854/thumb/11.jpg?ip=x480' alt='Electric Light Bulb Bright Polygonal Connections'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1085502854/thumb/11.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Hanging light bulbs on dark background, 40x20 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/38/56/86/1000_F_638568678_QsliNeRHJ2LTph47eajpvO8UJN6XXjB9.jpg' alt='Poster, Print Hanging light bulbs on dark background, 40x20 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABPosters" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/38/56/86/1000_F_638568678_QsliNeRHJ2LTph47eajpvO8UJN6XXjB9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Light Bulb Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/439/620/small_2x/ai-generated-illuminated-light-bulb-with-glittering-colored-bokeh-background-photo.jpeg' alt='Colorful Light Bulb Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/439/620/small_2x/ai-generated-illuminated-light-bulb-with-glittering-colored-bokeh-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="91,500+ Blue Light Bulb Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1441579585/photo/business-idea-creative-concept-technology-a-light-bulb-illuminated-above-a-polygon-on-a-dark.jpg?s=612x612&w=0&k=20&c=CdYfzBYtniYcE6qIomUT61TNDy6Xa_LxVvXIE7N6WvY=' alt='91,500+ Blue Light Bulb Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1441579585/photo/business-idea-creative-concept-technology-a-light-bulb-illuminated-above-a-polygon-on-a-dark.jpg?s=612x612&w=0&k=20&c=CdYfzBYtniYcE6qIomUT61TNDy6Xa_LxVvXIE7N6WvY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Bulb Background" Images – Browse 586 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/66/62/56/360_F_1066625658_uyZgK3tVd1C2xUilerKUD2O7aCGHD3uF.jpg' alt='Light Bulb Background" Images – Browse 586 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/66/62/56/360_F_1066625658_uyZgK3tVd1C2xUilerKUD2O7aCGHD3uF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazy Yellow Light Bulbs Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hazy-yellow-light-bulbs-o9w8bmd1q16kzp90.jpg' alt='Hazy Yellow Light Bulbs Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hazy-yellow-light-bulbs-o9w8bmd1q16kzp90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulb Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/292/657/non_2x/light-bulb-hangs-on-dark-blue-background-with-space-for-text-illustration-vector.jpg' alt='Bulb Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/292/657/non_2x/light-bulb-hangs-on-dark-blue-background-with-space-for-text-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Glowing light bulb Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/d/a/0/da02e434-965e-4f79-b6d2-4dd7dfed7d33_large/glowing-light-bulb-stockcake.jpg' alt='Free Glowing light bulb Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/d/a/0/da02e434-965e-4f79-b6d2-4dd7dfed7d33_large/glowing-light-bulb-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,500+ Light Bulb City Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' alt='32,500+ Light Bulb City Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

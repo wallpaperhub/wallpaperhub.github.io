@@ -1,0 +1,129 @@
+<title>Puss in Boots Wallpaper: Enchant Your Screen</title>
+                    <meta name="description" content="Discover delightful Puss in Boots wallpaper that brings magic to your screens! Perfect for every fan, these stunning designs add a touch of whimsy to your device while showcasing the beloved character. Download now to give your backgrounds a charming upgrade!">
+                    <meta name="keywords" content="puss in boots wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/puss-in-boots-wallpaper">
+                            <span itemprop="name">puss in boots wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Puss in Boots Wallpaper: Enchant Your Screen</h1>
+                <p>Transform your device with enchanting Puss in Boots wallpaper! Featuring the charming feline hero from the beloved fairytale, our collection brings vibrant colors and captivating designs to your screen. Perfect for fans of all ages, these wallpapers are sure to make your backgrounds pop with personality and whimsy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puss in Boots 2: The Last Wish Wallpapers (6 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/7/3/651450-2880x1620-desktop-hd-puss-in-boots-2-the-last-wish-wallpaper-image.jpg' alt='Puss in Boots 2: The Last Wish Wallpapers (6 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/7/3/651450-2880x1620-desktop-hd-puss-in-boots-2-the-last-wish-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Puss In Boots Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/adorable-puss-in-boots-qjslbkmstfxx43oz.jpg' alt='Adorable Puss In Boots Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/adorable-puss-in-boots-qjslbkmstfxx43oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Puss In Boots: The Last Wish 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/129/1297183.jpg' alt='Download Movie Puss In Boots: The Last Wish 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/129/1297183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Puss In Boots HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/131/1318903.jpeg' alt='Download Movie Puss In Boots HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/131/1318903.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puss In Boots: The Last Wish - The Iconic Swashbuckling Cat In ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/puss-in-boots-the-last-wish-the-iconic-swashbuckling-cat-in-action-ljp45ejmbwjdfg2n.jpg' alt='Puss In Boots: The Last Wish - The Iconic Swashbuckling Cat In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/puss-in-boots-the-last-wish-the-iconic-swashbuckling-cat-in-action-ljp45ejmbwjdfg2n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Puss in Boots wallpaper with and without the title. Enjoy ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-a-puss-in-boots-wallpaper-with-and-without-the-title-v0-vd3yel9u8bfa1.png?width=1170&format=png&auto=webp&s=cc573c7169c701d4eedb3acf00f73689a90b9eea' alt='I made a Puss in Boots wallpaper with and without the title. Enjoy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-a-puss-in-boots-wallpaper-with-and-without-the-title-v0-vd3yel9u8bfa1.png?width=1170&format=png&auto=webp&s=cc573c7169c701d4eedb3acf00f73689a90b9eea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puss in Boots and The Last Wish Wallpaper by Thekingblader995 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dhfea5l-afb9728e-7788-42bc-883d-f6948bc2b335.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGhmZWE1bC1hZmI5NzI4ZS03Nzg4LTQyYmMtODgzZC1mNjk0OGJjMmIzMzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tgEjxTeFgTmwt2W4jAOg2ja4-xSMhOBzgtlgjM7KRXI' alt='Puss in Boots and The Last Wish Wallpaper by Thekingblader995 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dhfea5l-afb9728e-7788-42bc-883d-f6948bc2b335.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGhmZWE1bC1hZmI5NzI4ZS03Nzg4LTQyYmMtODgzZC1mNjk0OGJjMmIzMzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tgEjxTeFgTmwt2W4jAOg2ja4-xSMhOBzgtlgjM7KRXI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puss In Boots Big Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/puss-in-boots-big-moon-0l9z3bb3tiv66zrv.jpg' alt='Puss In Boots Big Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/puss-in-boots-big-moon-0l9z3bb3tiv66zrv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puss In Boots Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/d2/9b/78d29b59d7ac08f74ac12bef3c3b0f7b.jpg' alt='Puss In Boots Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/d2/9b/78d29b59d7ac08f74ac12bef3c3b0f7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Puss In Boots Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/daring-puss-in-boots-01s79qy7ie5urshy.jpg' alt='100+] Puss In Boots Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/daring-puss-in-boots-01s79qy7ie5urshy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

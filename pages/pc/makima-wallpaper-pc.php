@@ -1,0 +1,129 @@
+<title>Stunning Makima Wallpapers for Your PC: Download Now!</title>
+                    <meta name="description" content="Discover captivating Makima wallpapers for your PC. Enhance your desktop with high-resolution images of this beloved character from Chainsaw Man. Perfect for anime fans seeking an eye-catching design. Download today and give your screen a fresh new look!">
+                    <meta name="keywords" content="makima wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/makima-wallpaper-pc">
+                            <span itemprop="name">makima wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Makima Wallpapers for Your PC: Download Now!</h1>
+                <p>Looking for a stunning Makima wallpaper for your PC? Transform your desktop with vibrant, high-quality images of this iconic character from Chainsaw Man. Whether you prefer dramatic artwork or minimalist designs, there’s a perfect wallpaper to match your style. Download now and enjoy a fresh, anime-inspired look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makima Intensity - Chainsaw Man HD Wallpaper by 松尾 省吾">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/129/1292566.png' alt='Makima Intensity - Chainsaw Man HD Wallpaper by 松尾 省吾'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3557">
+                                <meta itemprop="height" content="1949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/129/1292566.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makima's Gaze - Chainsaw Man 4K Ultra HD Wallpaper by Opal 00 58">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/129/1298385.jpg' alt='Makima's Gaze - Chainsaw Man 4K Ultra HD Wallpaper by Opal 00 58'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/129/1298385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makima Cool Chainsaw Man Wallpaper, HD Anime 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/makima-cool-chainsaw-man_bWprZWmUmZqaraWkpJRnbWdurWZqaWo.jpg' alt='Makima Cool Chainsaw Man Wallpaper, HD Anime 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2829">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/makima-cool-chainsaw-man_bWprZWmUmZqaraWkpJRnbWdurWZqaWo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "No one can stand in the way of Makima, Chainsaw Man ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/makima-chainsaw-man-lh1tnc0xrzlg6p29.jpg' alt='Download "No one can stand in the way of Makima, Chainsaw Man ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/makima-chainsaw-man-lh1tnc0xrzlg6p29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makima Chainsaw Man Opening Wallpaper 4K 8K HD PC #7711i">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/makima-chainsaw-man-opening-771@1@i-pc-8k.jpg' alt='Makima Chainsaw Man Opening Wallpaper 4K 8K HD PC #7711i'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/makima-chainsaw-man-opening-771@1@i-pc-8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi everyone! I made this Makima wallpaper, this is the first ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/krq0xmcobbd71.png' alt='Hi everyone! I made this Makima wallpaper, this is the first ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/krq0xmcobbd71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Makima Chainsaw Man Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/makima-chainsaw-man-nsnnuo1jgl3k34d2.jpg' alt='100+] Makima Chainsaw Man Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/makima-chainsaw-man-nsnnuo1jgl3k34d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Makima (Chainsaw Man) Anime Chainsaw Man HD Wallpaper by Sep">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/129/1295739.jpg' alt='Download Makima (Chainsaw Man) Anime Chainsaw Man HD Wallpaper by Sep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4554">
+                                <meta itemprop="height" content="1831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/129/1295739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I edited this Makima live wallpaper. Original Art by 半月板損傷">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/4cqDCzr-DZcGIoRU7SgEd3xHdFfZbjdaaTEtmimvnLM.png?format=pjpg&auto=webp&s=69ba00ecb83a0a6bc73465e24ea928f54133df79' alt='I edited this Makima live wallpaper. Original Art by 半月板損傷'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/4cqDCzr-DZcGIoRU7SgEd3xHdFfZbjdaaTEtmimvnLM.png?format=pjpg&auto=webp&s=69ba00ecb83a0a6bc73465e24ea928f54133df79' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makima Wallpaper 4K, Chainsaw Man, Minimal art, AMOLED">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/makima-chainsaw-man-minimal-art-amoled-black-background-5k-1920x1200-8861.png' alt='Makima Wallpaper 4K, Chainsaw Man, Minimal art, AMOLED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/makima-chainsaw-man-minimal-art-amoled-black-background-5k-1920x1200-8861.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

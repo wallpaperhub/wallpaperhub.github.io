@@ -1,0 +1,129 @@
+<title>Gorgeous October iPhone Wallpapers for Fall Vibe</title>
+                    <meta name="description" content="Elevate your iPhone's look this October with beautiful seasonal wallpapers. Explore a curated selection of autumn-themed images, ideal for creating a warm and cozy atmosphere on your device. Download now and give your phone a fresh fall makeover!">
+                    <meta name="keywords" content="iphone october wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-october-wallpaper">
+                            <span itemprop="name">iphone october wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous October iPhone Wallpapers for Fall Vibe</h1>
+                <p>Discover stunning iPhone wallpapers to celebrate October! From vibrant autumn leaves to cozy pumpkin vibes, our collection offers a variety of designs that reflect the spirit of fall. Refresh your device's look and embrace the season with high-quality images perfect for your home screen or lock screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Iphone Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/42/f4/9d42f45bfd3a9744151055377e744aa1.jpg' alt='October Iphone Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/42/f4/9d42f45bfd3a9744151055377e744aa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' alt='30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Elegant October iPhone Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/october-iphone-4a0csvuidf1k2fw6.jpg' alt='Download Elegant October iPhone Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/october-iphone-4a0csvuidf1k2fw6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] October Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/october-iphone-3068yyjfkxw7po71.jpg' alt='100+] October Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/october-iphone-3068yyjfkxw7po71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan">
+                                <img itemprop="contentUrl url" src='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' alt='Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki Vegan" />
+                                </span>
+                                <a href='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn iPhone Wallpapers 2019! - Milk Bubble Tea">
+                                <img itemprop="contentUrl url" src='https://www.milkbubbletea.com/wp-content/uploads/2019/10/october-free-fall-iphone-wallpaper-autumn-300x533.jpg' alt='Free Autumn iPhone Wallpapers 2019! - Milk Bubble Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milk Bubble Tea" />
+                                </span>
+                                <a href='https://www.milkbubbletea.com/wp-content/uploads/2019/10/october-free-fall-iphone-wallpaper-autumn-300x533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October and Halloween Tech Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.danielle-moss.com/wp-content/uploads/2023/10/Pumpkin-Patch-iPhone-wallpaper.png' alt='October and Halloween Tech Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='https://www.danielle-moss.com/wp-content/uploads/2023/10/Pumpkin-Patch-iPhone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper: Hello October Designs for Your Phone 23">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f9/53/0c/f9530c670c8b462433aca4c69a96cb7d.jpg' alt='Iphone Wallpaper: Hello October Designs for Your Phone 23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f9/53/0c/f9530c670c8b462433aca4c69a96cb7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Phone Wallpapers : September Edition - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2018/09/October-wallpaper.jpg' alt='Free Phone Wallpapers : September Edition - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2018/09/October-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple, but had lot of fun creating October wallpaper : r/ProCreate">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zcst59h432r71.jpg' alt='Simple, but had lot of fun creating October wallpaper : r/ProCreate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zcst59h432r71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

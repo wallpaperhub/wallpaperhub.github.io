@@ -1,0 +1,129 @@
+<title>Transform Your Outdoors with Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of outside aesthetic wallpaper! Perfect for enhancing your patios and gardens, our collection features stunning designs that transform any outdoor space. Create a unique ambiance while enjoying the natural surroundings—perfect for relaxation and style. Explore now!">
+                    <meta name="keywords" content="outside aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/outside-aesthetic-wallpaper">
+                            <span itemprop="name">outside aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Outdoors with Aesthetic Wallpaper</h1>
+                <p>Outside aesthetic wallpaper transforms your outdoor spaces into vibrant havens, blending nature and art seamlessly. Ideal for patios, gardens, or balconies, these wallpapers come in various designs, from floral patterns to abstract art, adding a touch of personality and style. Elevate your exterior look effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Dreamy Ways to Decorate With Outdoor Lights">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/e4/8e/e0e48e61d00242cc3a62d6a030676c7f.jpg' alt='22 Dreamy Ways to Decorate With Outdoor Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/e4/8e/e0e48e61d00242cc3a62d6a030676c7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Autumn Road Outside Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/outside-background-jlhosw6nbvohxjs9.jpg' alt='Download Aesthetic Autumn Road Outside Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/outside-background-jlhosw6nbvohxjs9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/13/eb/a313eb878fb1f018224f57bc3de858b9.jpg' alt='Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/13/eb/a313eb878fb1f018224f57bc3de858b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outside, cool, nature, outdoors, trees, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/711/276/HD-wallpaper-outside-cool-nature-outdoors-trees.jpg' alt='Outside, cool, nature, outdoors, trees, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/711/276/HD-wallpaper-outside-cool-nature-outdoors-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="outside aesthetic.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/e8/48/01e8489a4c9bddf2db4485e81ef1a1bf.jpg' alt='outside aesthetic.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/e8/48/01e8489a4c9bddf2db4485e81ef1a1bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bachalpsee Lake Switzerland Outside Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/outside-background-3p5llgezyqh0rwuq.jpg' alt='Download Bachalpsee Lake Switzerland Outside Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/outside-background-3p5llgezyqh0rwuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outdoors Wallpaper For Phone | Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/outdoors.png' alt='Outdoors Wallpaper For Phone | Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/outdoors.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Best outdoor aesthetic ideas | outdoor aesthetic, outdoor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8b/f1/f7/8bf1f7c17b2497b2c65c6327bba797e3.jpg' alt='130 Best outdoor aesthetic ideas | outdoor aesthetic, outdoor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8b/f1/f7/8bf1f7c17b2497b2c65c6327bba797e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Pink And Purple Outdoor Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/pink-and-purple-outdoor-aesthetic-v8b1gwjotp5boe0t.jpg' alt='Download free Pink And Purple Outdoor Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/pink-and-purple-outdoor-aesthetic-v8b1gwjotp5boe0t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Outside Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/outside-background-7jrqvx7f8kjood19.jpg' alt='100+] Outside Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/outside-background-7jrqvx7f8kjood19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

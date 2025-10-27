@@ -1,0 +1,129 @@
+<title>Explore the Thrills of Jetpack Joyride's Lab Adventure</title>
+                    <meta name="description" content="Discover the excitement of Jetpack Joyride, a thrilling endless runner game set in a high-tech lab. Navigate obstacles, collect coins, and power-up your jetpack for an unforgettable adventure. Experience dynamic graphics and an engaging soundtrack while soaring through the action!">
+                    <meta name="keywords" content="jetpack joyride background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jetpack-joyride-background">
+                            <span itemprop="name">jetpack joyride background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Thrills of Jetpack Joyride's Lab Adventure</h1>
+                <p>Jetpack Joyride features an exhilarating background set in a high-tech laboratory where players navigate through a series of obstacles. The vibrant graphics and dynamic animations provide an immersive experience as players maneuver their jetpack through lasers and missiles while collecting coins and power-ups, all amidst a lively soundtrack.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/e/e2/HallwayHygiene.png/revision/latest?cb=20201102075846' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/e/e2/HallwayHygiene.png/revision/latest?cb=20201102075846' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/9/9f/Room.png/revision/latest?cb=20201102065431' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/9/9f/Room.png/revision/latest?cb=20201102065431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/4/4d/Hallway.png/revision/latest?cb=20201102064848' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/4/4d/Hallway.png/revision/latest?cb=20201102064848' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jetpack Joyride Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/8513767b-f66c-46d5-bf96-c87b0561fd08.jpg' alt='Jetpack Joyride Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/8513767b-f66c-46d5-bf96-c87b0561fd08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Jetpack Joyride 2 UI/UX">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/054/473/214/original/alicia-pereira-banner-arcade.gif?1664627717' alt='ArtStation - Jetpack Joyride 2 UI/UX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/054/473/214/original/alicia-pereira-banner-arcade.gif?1664627717' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/3/3a/WarehouseHygiene.png/revision/latest?cb=20201102075939' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/3/3a/WarehouseHygiene.png/revision/latest?cb=20201102075939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jetpack Joyride Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/a5bda983-4318-4be7-ae9c-368bbd9f4d20.jpg' alt='Jetpack Joyride Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/a5bda983-4318-4be7-ae9c-368bbd9f4d20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Jetpack Joyride 2 UI/UX">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/054/473/220/original/alicia-pereira-banner-powerup.gif?1664627734' alt='ArtStation - Jetpack Joyride 2 UI/UX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/054/473/220/original/alicia-pereira-banner-powerup.gif?1664627734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/8/8d/PirateIslands.png/revision/latest?cb=20201102075718' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/8/8d/PirateIslands.png/revision/latest?cb=20201102075718' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Jetpack Joyride Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jetpackjoyride/images/0/09/TestLab.png/revision/latest?cb=20201102065746' alt='Backgrounds | Jetpack Joyride Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetpack Joyride Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jetpackjoyride/images/0/09/TestLab.png/revision/latest?cb=20201102065746' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

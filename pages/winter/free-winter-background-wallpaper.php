@@ -1,0 +1,129 @@
+<title>Stunning Free Winter Background Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our selection of beautiful and free winter background wallpapers. Perfect for personalizing your phone or computer, these wallpapers capture the essence of the winter season, bringing a touch of frost and serenity to your screen. Download now and enjoy winter's beauty anytime!">
+                    <meta name="keywords" content="free winter background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/free-winter-background-wallpaper">
+                            <span itemprop="name">free winter background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Free Winter Background Wallpapers for Your Devices</h1>
+                <p>Transform your digital space this winter with our collection of free winter background wallpapers. Featuring stunning landscapes, cozy cabins, and serene snow scenes, these wallpapers will bring the beauty of the season to your screens. Download your favorites and refresh your devices with a touch of winter magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Winter Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/093/579/small/cute-knitted-snowmen-in-the-snow-christmas-background-ai-generated-photo.jpg' alt='Cute Winter Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/093/579/small/cute-knitted-snowmen-in-the-snow-christmas-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Winter Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/034/038/452/small/christmas-decoration-with-cute-cheerful-snowmen-in-the-snow-in-the-winter-garden-ai-generated-photo.jpg' alt='Cute Winter Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/034/038/452/small/christmas-decoration-with-cute-cheerful-snowmen-in-the-snow-in-the-winter-garden-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Winter Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/495/446/small/ai-generated-ai-generative-winter-snowball-snowflakes-snow-man-snowman-christmas-new-year-xmas-background-mock-up-graphic-art-photo.jpg' alt='Cute Winter Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/495/446/small/ai-generated-ai-generative-winter-snowball-snowflakes-snow-man-snowman-christmas-new-year-xmas-background-mock-up-graphic-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/unfocused-winter-landscape-with-snowflakes_1393-210.jpg' alt='Winter Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/unfocused-winter-landscape-with-snowflakes_1393-210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/02/46/18/360_F_802461800_6V5ZdSeH8O2X8Op02kn6oIsBGVti9lnb.jpg' alt='Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/02/46/18/360_F_802461800_6V5ZdSeH8O2X8Op02kn6oIsBGVti9lnb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/115/994/small/a-cheerful-snowman-with-a-cozy-hat-and-scarf-enjoying-a-winter-day-in-a-snowy-landscape-free-photo.jpeg' alt='Cozy Winter Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/115/994/small/a-cheerful-snowman-with-a-cozy-hat-and-scarf-enjoying-a-winter-day-in-a-snowy-landscape-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/67/29/35/360_F_967293502_06P3Gcnqsfou0p3pKvTo8i2r5fubtjBh.jpg' alt='Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/67/29/35/360_F_967293502_06P3Gcnqsfou0p3pKvTo8i2r5fubtjBh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Beautiful Free Winter Wallpaper Designs For Inspiration">
+                                <img itemprop="contentUrl url" src='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Deep-Silence.jpg?strip=all&lossy=1&ssl=1' alt='40 Beautiful Free Winter Wallpaper Designs For Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Author" />
+                                </span>
+                                <a href='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Deep-Silence.jpg?strip=all&lossy=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Beautiful Free Winter Wallpaper Designs For Inspiration">
+                                <img itemprop="contentUrl url" src='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Beautiful-Winter-Wallpaper.jpg?strip=all&lossy=1' alt='40 Beautiful Free Winter Wallpaper Designs For Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Author" />
+                                </span>
+                                <a href='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Beautiful-Winter-Wallpaper.jpg?strip=all&lossy=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/60/10/29/360_F_960102982_YSfTDn2mbOi4aoc9sbzFB21WUYdeXalr.jpg' alt='Winter Background" Images – Browse 185,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/60/10/29/360_F_960102982_YSfTDn2mbOi4aoc9sbzFB21WUYdeXalr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

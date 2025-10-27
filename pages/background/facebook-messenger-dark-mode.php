@@ -1,0 +1,129 @@
+<title>Upgrade Your Chats: Facebook Messenger Dark Mode</title>
+                    <meta name="description" content="Discover the benefits of Facebook Messenger's dark mode! Enjoy a sleek interface, reduced eye strain, and improved battery life on your device. Learn how to easily switch to dark mode for a more comfortable chatting experience today!">
+                    <meta name="keywords" content="facebook messenger dark mode">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facebook-messenger-dark-mode">
+                            <span itemprop="name">facebook messenger dark mode</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Upgrade Your Chats: Facebook Messenger Dark Mode</h1>
+                <p>Facebook Messenger's dark mode is a stylish and user-friendly feature that transforms your chat experience. This mode not only looks sleek but also reduces eye strain in low-light environments. To activate it, simply go to your settings and toggle the dark mode option. Enjoy chatting with a new aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facebook Messenger's Dark Mode Feature Now Available Worldwide ...">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/aMrOC9xkeEYf72zNM0TqfLjxei8=/2054x/article-new/2019/03/facebook-messenger-dark-mode.png' alt='Facebook Messenger's Dark Mode Feature Now Available Worldwide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2054">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/aMrOC9xkeEYf72zNM0TqfLjxei8=/2054x/article-new/2019/03/facebook-messenger-dark-mode.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facebook Messenger Dark Mode: How to enable hidden setting - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2019/03/facebook-messenger-dark-mode.jpg?quality=82&strip=all' alt='Facebook Messenger Dark Mode: How to enable hidden setting - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2019/03/facebook-messenger-dark-mode.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Enable Hidden Dark Mode in Facebook Messenger | Beebom">
+                                <img itemprop="contentUrl url" src='https://beebom.com/wp-content/uploads/2019/03/How-to-Enable-Hidden-Dark-Mode-in-Facebook-Messenger.jpg?w=750&quality=75' alt='How to Enable Hidden Dark Mode in Facebook Messenger | Beebom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beebom" />
+                                </span>
+                                <a href='https://beebom.com/wp-content/uploads/2019/03/How-to-Enable-Hidden-Dark-Mode-in-Facebook-Messenger.jpg?w=750&quality=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facebook Messenger for Windows now has a dark mode – here's how to ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/9qYha4JEWJHTXYfcnzBDA4.jpg' alt='Facebook Messenger for Windows now has a dark mode – here's how to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/9qYha4JEWJHTXYfcnzBDA4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You can unlock dark mode by sending a ? in Facebook Messenger">
+                                <img itemprop="contentUrl url" src='https://mobilesyrup.com/wp-content/uploads/2019/03/fb-messenger-dark-mode-ios.jpg' alt='You can unlock dark mode by sending a ? in Facebook Messenger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1057">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MobileSyrup" />
+                                </span>
+                                <a href='https://mobilesyrup.com/wp-content/uploads/2019/03/fb-messenger-dark-mode-ios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's how you can enjoy Dark Mode on Facebook Messenger - GadgetMatch">
+                                <img itemprop="contentUrl url" src='https://149367133.v2.pressablecdn.com/wp-content/uploads/2019/03/GadgetMatch-20190302-Dark-Mode-1000x600.jpg' alt='Here's how you can enjoy Dark Mode on Facebook Messenger - GadgetMatch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GadgetMatch" />
+                                </span>
+                                <a href='https://149367133.v2.pressablecdn.com/wp-content/uploads/2019/03/GadgetMatch-20190302-Dark-Mode-1000x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facebook Messenger users worldwide can try out dark mode with a ...">
+                                <img itemprop="contentUrl url" src='https://m-cdn.phonearena.com/images/article/114242-wide-two_350/Facebook-Messenger-users-worldwide-can-try-out-dark-mode-with-a-simple-trick.jpg?1551709708' alt='Facebook Messenger users worldwide can try out dark mode with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhoneArena" />
+                                </span>
+                                <a href='https://m-cdn.phonearena.com/images/article/114242-wide-two_350/Facebook-Messenger-users-worldwide-can-try-out-dark-mode-with-a-simple-trick.jpg?1551709708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facebook takes Messenger's Dark Mode global">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/03/Facebook-Messenger-Dark-Mode-002-730x480.jpg' alt='Facebook takes Messenger's Dark Mode global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/03/Facebook-Messenger-Dark-Mode-002-730x480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Enable Dark Mode in Facebook Messenger - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/bDmvfEZMWJcAwcNY7yrPMI7uKMw=/400x0/article-new/2019/04/how-to-enable-dark-mode-facebook-messenger-800x511.jpg?lossy' alt='How to Enable Dark Mode in Facebook Messenger - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/bDmvfEZMWJcAwcNY7yrPMI7uKMw=/400x0/article-new/2019/04/how-to-enable-dark-mode-facebook-messenger-800x511.jpg?lossy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Mode UX Study: Facebook Messenger - Ironeko">
+                                <img itemprop="contentUrl url" src='https://ironeko.com/_next/image?url=%2Fimages%2FGroup-8-1024x989.png&w=3840&q=75' alt='Dark Mode UX Study: Facebook Messenger - Ironeko'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ironeko" />
+                                </span>
+                                <a href='https://ironeko.com/_next/image?url=%2Fimages%2FGroup-8-1024x989.png&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

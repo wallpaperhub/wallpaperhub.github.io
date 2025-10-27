@@ -1,0 +1,129 @@
+<title>Unforgettable Live Jazz Music Experience</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="jazz music live">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jazz-music-live">
+                            <span itemprop="name">jazz music live</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unforgettable Live Jazz Music Experience</h1>
+                <p>Experience the magic of jazz music live, where improvisation and talent collide to create unforgettable moments. From smooth saxophones to vibrant trumpets, each performance captures the essence of this timeless genre. Join fellow music lovers for an immersive night of soulful melodies and rhythmic beats that will leave you breathless.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""22" - New Jazz Underground | Live in NYC">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1tk1ss5CJ-4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCK7tPNS-p9ClT2cUHLQzdJDod9sA' alt='"22" - New Jazz Underground | Live in NYC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1tk1ss5CJ-4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCK7tPNS-p9ClT2cUHLQzdJDod9sA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preservation Hall Jazz Band performing "La Malanga" Live on KCRW">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/alheXzvoB8E/maxresdefault.jpg' alt='Preservation Hall Jazz Band performing "La Malanga" Live on KCRW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/alheXzvoB8E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Preservation Hall Jazz Band Play 'La Malanga' Live In The ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2017/05/13/20170412-preservation-jazz-hall-band-live-at-apogee-studios-by-brian-feinzimer-007_wide-da9407201c866bd39dceb5463b9f066b9811f3cf.jpg' alt='Watch Preservation Hall Jazz Band Play 'La Malanga' Live In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2017/05/13/20170412-preservation-jazz-hall-band-live-at-apogee-studios-by-brian-feinzimer-007_wide-da9407201c866bd39dceb5463b9f066b9811f3cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The ultimate guide to seeing live jazz music in Israel - ISRAEL21c">
+                                <img itemprop="contentUrl url" src='https://static.israel21c.org/www/uploads/2023/01/Photo-by-Michal-Fattal-Flash90-1100x900.jpg' alt='The ultimate guide to seeing live jazz music in Israel - ISRAEL21c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ISRAEL21c" />
+                                </span>
+                                <a href='https://static.israel21c.org/www/uploads/2023/01/Photo-by-Michal-Fattal-Flash90-1100x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Smoke Jazz & Supper Club">
+                                <img itemprop="contentUrl url" src='https://smokejazz.com/wp-content/uploads/2023/05/Smoke-Press-Night_KAT3572_2022-2-1024x768.jpg' alt='Welcome to Smoke Jazz & Supper Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="smokejazz.com" />
+                                </span>
+                                <a href='https://smokejazz.com/wp-content/uploads/2023/05/Smoke-Press-Night_KAT3572_2022-2-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazzband | Find the best jazz musicians here | +300 annual events✓">
+                                <img itemprop="contentUrl url" src='https://limunt.com/wp-content/uploads/2022/06/Nordic-Jazz-Society-TRIO-04-scaled.jpg' alt='Jazzband | Find the best jazz musicians here | +300 annual events✓'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limunt" />
+                                </span>
+                                <a href='https://limunt.com/wp-content/uploads/2022/06/Nordic-Jazz-Society-TRIO-04-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNTAMED ELEGANCE (Full Concert) - Jazz at Lincoln Center Orchestra with  Wynton Marsalis">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/gqdZxWn3IsQ/maxresdefault.jpg' alt='UNTAMED ELEGANCE (Full Concert) - Jazz at Lincoln Center Orchestra with  Wynton Marsalis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/gqdZxWn3IsQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Latin Music in NYC: Latin and Brazilian Jazz | Roxy Bar">
+                                <img itemprop="contentUrl url" src='https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/7/2022/03/latin-brazilian-jazz-roxy-bar.jpg' alt='Live Latin Music in NYC: Latin and Brazilian Jazz | Roxy Bar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy Bar" />
+                                </span>
+                                <a href='https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/7/2022/03/latin-brazilian-jazz-roxy-bar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Jazz Performances at Jazz Bistro">
+                                <img itemprop="contentUrl url" src='https://jazzbistro.ca/wp-content/uploads/2023/09/Jazz-musicians-performing-live.jpg' alt='Live Jazz Performances at Jazz Bistro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jazzbistro.ca" />
+                                </span>
+                                <a href='https://jazzbistro.ca/wp-content/uploads/2023/09/Jazz-musicians-performing-live.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="America's Jazz Heritage Growing & Evolving on Public Radio">
+                                <img itemprop="contentUrl url" src='https://noncommusic.org/wp-content/uploads/sites/3/2018/03/1jazz.jpg' alt='America's Jazz Heritage Growing & Evolving on Public Radio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="noncomMUSIC Alliance" />
+                                </span>
+                                <a href='https://noncommusic.org/wp-content/uploads/sites/3/2018/03/1jazz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

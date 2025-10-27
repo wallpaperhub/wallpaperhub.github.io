@@ -1,0 +1,129 @@
+<title>The Ultimate Guide to Turf: Types, Benefits & Care</title>
+                    <meta name="description" content="Explore the world of turf with our concise guide on types, benefits, and care tips. Whether you prefer natural or synthetic solutions, learn how to achieve a beautiful, low-maintenance landscape that enhances your outdoor space. Perfect for homeowners and sports enthusiasts alike!">
+                    <meta name="keywords" content="turf background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turf-background">
+                            <span itemprop="name">turf background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Ultimate Guide to Turf: Types, Benefits & Care</h1>
+                <p>Tired of muddy shoes or patchy lawns? Turf, both natural and artificial, offers a vibrant green landscape year-round. Real grass provides ecological benefits, while synthetic turf boasts durability and low maintenance. Whether for homes, sports fields, or parks, the right turf enhances beauty and functionality. Discover your perfect turf solution today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificial Turf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2023/01/Wallpaper-Kemra-ArtificialTurf-1.jpg' alt='Artificial Turf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2023/01/Wallpaper-Kemra-ArtificialTurf-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turf Background Images – Browse 204,765 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/47/84/22/360_F_347842288_n3EfjfbcTRr9LiyKHB9ERr9stK2uJxWw.jpg' alt='Turf Background Images – Browse 204,765 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/47/84/22/360_F_347842288_n3EfjfbcTRr9LiyKHB9ERr9stK2uJxWw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,300+ Football Field Turf Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/183361396/photo/football-field.jpg?s=612x612&w=0&k=20&c=yRRQXYIccN4Sb-N9xvZcsTq33If68wyRXr53fdTb-n0=' alt='15,300+ Football Field Turf Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/183361396/photo/football-field.jpg?s=612x612&w=0&k=20&c=yRRQXYIccN4Sb-N9xvZcsTq33If68wyRXr53fdTb-n0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82,800+ Green Turf Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155415994/photo/green-grass-background-textured.jpg?s=612x612&w=0&k=20&c=npTVnYMQZQMda25jhR31Fe2C4TkeXnR1sezPghPWQTk=' alt='82,800+ Green Turf Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155415994/photo/green-grass-background-textured.jpg?s=612x612&w=0&k=20&c=npTVnYMQZQMda25jhR31Fe2C4TkeXnR1sezPghPWQTk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turf Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/981/368/small_2x/artificial-turf-of-soccer-football-field-photo.jpg' alt='Turf Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/981/368/small_2x/artificial-turf-of-soccer-football-field-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture green grass. Background of green turf grass. Texture ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/78/05/55/1000_F_178055554_yhSN8H9pmJyBcg9RSAl4G7aNUby7oPwc.jpg' alt='Texture green grass. Background of green turf grass. Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/78/05/55/1000_F_178055554_yhSN8H9pmJyBcg9RSAl4G7aNUby7oPwc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turf Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220312/pngtree-green-grass-turf-football-field-image_994367.jpg' alt='Turf Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220312/pngtree-green-grass-turf-football-field-image_994367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turf Background Images – Browse 194,270 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/13/18/73/360_F_813187340_iFm7oiVpP73H4dmD0ZZ213a3hDOO6PeD.jpg' alt='Turf Background Images – Browse 194,270 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/13/18/73/360_F_813187340_iFm7oiVpP73H4dmD0ZZ213a3hDOO6PeD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Turf Background Royalty-Free Photos, Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/graphicstock-artificial-turf-backdrop-studio-shot-of-green-background-copy-space_ruQ5kOHGZ_thumb.jpg' alt='Download Green Turf Background Royalty-Free Photos, Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/graphicstock-artificial-turf-backdrop-studio-shot-of-green-background-copy-space_ruQ5kOHGZ_thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Grass Background Texture, Digital Download, Banner/Background  Clipart, Texture Overlay, Photoshop Overlay, Stock Photo, Image 0006">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17942801/r/il/32b73e/3176481058/il_570xN.3176481058_c5xk.jpg' alt='Green Grass Background Texture, Digital Download, Banner/Background  Clipart, Texture Overlay, Photoshop Overlay, Stock Photo, Image 0006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17942801/r/il/32b73e/3176481058/il_570xN.3176481058_c5xk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

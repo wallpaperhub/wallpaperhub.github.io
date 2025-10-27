@@ -1,0 +1,129 @@
+<title>Stunning Black and White Wall Mural Wallpaper | Elevate Your Space</title>
+                    <meta name="description" content="Discover the elegance of black and white wall mural wallpaper. Transform your walls with captivating designs that enhance any room's aesthetic. Perfect for creating a unique focal point, our collection offers style and versatility. Elevate your interior effortlessly today!">
+                    <meta name="keywords" content="black and white wall mural wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-wall-mural-wallpaper">
+                            <span itemprop="name">black and white wall mural wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Wall Mural Wallpaper | Elevate Your Space</h1>
+                <p>Transform your space with stunning black and white wall mural wallpaper. Ideal for adding a touch of elegance and artistic flair, these wallpapers create a bold statement in any room. Whether it's a striking city skyline or intricate floral designs, black and white murals offer versatility and timeless style, making your walls come alive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Hand Painted Black and White Forest Tree Wall Mural Wallpaper,  Removable Peel and Stick Custom 3D Wallpaper Decorative for Bedroom Office  Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817geAiZnHL.jpg' alt='Retro Hand Painted Black and White Forest Tree Wall Mural Wallpaper,  Removable Peel and Stick Custom 3D Wallpaper Decorative for Bedroom Office  Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817geAiZnHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti - Black and White">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/85626/pr22/1/1280/graffiti-black-white-black-white-graffiti.jpg' alt='Graffiti - Black and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/85626/pr22/1/1280/graffiti-black-white-black-white-graffiti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Abstract black and white face Nr ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/96000/96761/u98714pig18mr_1200.webp' alt='Wall Mural Photo Wallpaper Abstract black and white face Nr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/96000/96761/u98714pig18mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vintage Black and White Landscape Wall Murals Wallpaper,  Landscape Plants Living Room Arge Wall Paper Wall Murals, Waterproof  Panoramic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nehj+x+VL.jpg' alt='Amazon.com: Vintage Black and White Landscape Wall Murals Wallpaper,  Landscape Plants Living Room Arge Wall Paper Wall Murals, Waterproof  Panoramic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1605">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nehj+x+VL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Forest Wallpaper Mural, Peel and Stick Remove ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/df66e8/1987832885/il_570xN.1987832885_77v4.jpg' alt='Black and White Forest Wallpaper Mural, Peel and Stick Remove ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/df66e8/1987832885/il_570xN.1987832885_77v4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street art Mural Wallpaper | Black and white rock and roll ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeintstreetartRockandrollnoiretblanc205_1200x1200_crop_center.jpg?v=1715281279' alt='Street art Mural Wallpaper | Black and white rock and roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeintstreetartRockandrollnoiretblanc205_1200x1200_crop_center.jpg?v=1715281279' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Line Art Mural Abstract Wallpaper Hand Drawing ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5417374731_22w5.jpg?v=1719896591&width=1445' alt='Black and White Line Art Mural Abstract Wallpaper Hand Drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5417374731_22w5.jpg?v=1719896591&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000045-1.jpg' alt='Black and White Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000045-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowline Two | Black and White wall mural - belarteSTUDIO.">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/Big_Bold-FlowlineTwo-BAS01108010-Black-8_1.jpg?v=1699363968' alt='Flowline Two | Black and White wall mural - belarteSTUDIO.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/Big_Bold-FlowlineTwo-BAS01108010-Black-8_1.jpg?v=1699363968' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Wall Murals for kids buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/106000/106544/w08068pig8ms_1800.webp' alt='World Map Wall Murals for kids buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/106000/106544/w08068pig8ms_1800.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

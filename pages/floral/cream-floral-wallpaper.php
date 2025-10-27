@@ -1,0 +1,129 @@
+<title>Cream Floral Wallpaper: Elegant Designs for Every Room</title>
+                    <meta name="description" content="Discover the beauty of cream floral wallpaper, perfect for enhancing your home's ambiance. With its graceful patterns and versatile charm, this wallpaper adds a touch of sophistication to any room, creating a serene and inviting environment for all.">
+                    <meta name="keywords" content="cream floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/cream-floral-wallpaper">
+                            <span itemprop="name">cream floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cream Floral Wallpaper: Elegant Designs for Every Room</h1>
+                <p>Cream floral wallpaper is a timeless choice for adding elegance and charm to any space. Featuring delicate floral patterns against a soft cream background, it brightens up rooms while creating a cozy atmosphere. Ideal for living rooms, bedrooms, or nurseries, this wallpaper seamlessly blends with various decor styles, from vintage to modern.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edith Floral in Cream – North and Finch">
+                                <img itemprop="contentUrl url" src='http://northandfinch.com/cdn/shop/files/Edithfloral-cream.jpg?v=1709901069' alt='Edith Floral in Cream – North and Finch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="2040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North and Finch" />
+                                </span>
+                                <a href='http://northandfinch.com/cdn/shop/files/Edithfloral-cream.jpg?v=1709901069' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2330">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Ana Cream Floral Paper Strippable Wallpaper (Covers 56.4  sq. ft.) 2821-25108">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1b57c060-a5c1-42bb-8f9b-173b78de5f75/svn/a-street-prints-wallpaper-rolls-2821-25108-64_600.jpg' alt='A-Street Prints Ana Cream Floral Paper Strippable Wallpaper (Covers 56.4  sq. ft.) 2821-25108'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1b57c060-a5c1-42bb-8f9b-173b78de5f75/svn/a-street-prints-wallpaper-rolls-2821-25108-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Cream">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/63213/floral-cream.jpg?h=699&q=85' alt='Floral Cream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1398">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/63213/floral-cream.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Gold and Cream White Vintage Floral Wallpaper Peel and Stick  Wallpaper Removable Boho Peel and Stick Wallpaper Self Adhesive Wall Paper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Gold and Cream White Vintage Floral Wallpaper Peel and Stick  Wallpaper Removable Boho Peel and Stick Wallpaper Self Adhesive Wall Paper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' alt='Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2405">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmella Floral Texture by Albany - Cream - Wallpaper - 7150">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/213027_1_orig.jpg?v=1704726446' alt='Carmella Floral Texture by Albany - Cream - Wallpaper - 7150'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/213027_1_orig.jpg?v=1704726446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Victorian Rose Floral Toile Wallpaper – Cream Beige White Flower,  Charcoal Gray Leaves, Modern Farmhouse - 12"x9" Sample MH36505so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/646d23/2173103242/il_fullxfull.2173103242_qkdd.jpg' alt='Romantic Victorian Rose Floral Toile Wallpaper – Cream Beige White Flower,  Charcoal Gray Leaves, Modern Farmhouse - 12"x9" Sample MH36505so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1656">
+                                <meta itemprop="height" content="1583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/646d23/2173103242/il_fullxfull.2173103242_qkdd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooms Second Edition Brushstroke Floral Wallpaper - Taupe">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/BL1735_3682d365-52a7-4b01-a6e2-cc0d8b102dc9.jpg?v=1697835989' alt='Blooms Second Edition Brushstroke Floral Wallpaper - Taupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/BL1735_3682d365-52a7-4b01-a6e2-cc0d8b102dc9.jpg?v=1697835989' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Cream – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/4-SummerMeadow-Cream_ILW50360_Rollshot_WEB.webp?crop=center&height=1024&v=1705932627&width=1024' alt='Summer Meadow Wallpaper in Cream – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/4-SummerMeadow-Cream_ILW50360_Rollshot_WEB.webp?crop=center&height=1024&v=1705932627&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

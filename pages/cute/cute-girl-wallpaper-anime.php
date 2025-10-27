@@ -1,0 +1,129 @@
+<title>Cute Anime Girl Wallpapers - Adorable & Colorful Backgrounds</title>
+                    <meta name="description" content="Explore our collection of cute anime girl wallpapers, designed to bring warmth and charm to your screen. Perfect for fans seeking vibrant, eye-catching backgrounds, these wallpapers showcase the best of anime artistry. Transform your device with delightful designs today!">
+                    <meta name="keywords" content="cute girl wallpaper anime">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-girl-wallpaper-anime">
+                            <span itemprop="name">cute girl wallpaper anime</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Anime Girl Wallpapers - Adorable & Colorful Backgrounds</h1>
+                <p>Discover a collection of adorable anime girl wallpapers that will brighten your screen! Featuring vibrant colors and captivating designs, these wallpapers showcase cute characters in various styles, perfect for any anime enthusiast. Update your device with a touch of charm and let your love for anime shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Anime Girl Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-anime-girl-iphone-vlkhb6nomvgif2by.jpg' alt='100+] Cute Anime Girl Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-anime-girl-iphone-vlkhb6nomvgif2by.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Pink Ensemble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-anime-girl-pink-ensemble-cle96vnvrmzo8y03.jpg' alt='Cute Anime Girl Pink Ensemble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-anime-girl-pink-ensemble-cle96vnvrmzo8y03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Kawaii Cute Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-kawaii-cute-girl-59z85p1yq86tvo6l.jpg' alt='Anime Kawaii Cute Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-kawaii-cute-girl-59z85p1yq86tvo6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1200+] Cute Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-anime-uptxxcxl4h2zoe9r.jpg' alt='1200+] Cute Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-anime-uptxxcxl4h2zoe9r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-anime-girl-wallpaper-286.webp' alt='Cute Anime Girl Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-anime-girl-wallpaper-286.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Cute Anime Girl - 6866 ...">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/upload_images/2024/11/14/gsmintro.net_cute-anime-girl-image-1.jpg' alt='Download Free Mobile Phone Wallpaper Cute Anime Girl - 6866 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/upload_images/2024/11/14/gsmintro.net_cute-anime-girl-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Wallpaper Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/anime-girl-with-purple-hair-headphones-enjoying-cherry-blossoms_719585-12023.jpg' alt='Cute Anime Girl Wallpaper Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/anime-girl-with-purple-hair-headphones-enjoying-cherry-blossoms_719585-12023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/24/6e/c9246ebfbf0a570ae4792dd7ddd94833.jpg' alt='Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/24/6e/c9246ebfbf0a570ae4792dd7ddd94833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Wallpaper HD - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1nYq+uYuJL.png' alt='Cute Anime Girl Wallpaper HD - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1nYq+uYuJL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD-wallpaper-cute-anime-girl-pink-kawaii by CALLMEHLEXIE on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/299c36a8-6b55-41b8-89ba-a2a33c7a18a6/df06ey6-c0a0faa5-cd5c-488e-a29a-72b3768979af.jpg/v1/fill/w_623,h_1282,q_70,strp/hd_wallpaper_cute_anime_girl_pink_kawaii_by_callmehlexie_df06ey6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY0NCIsInBhdGgiOiJcL2ZcLzI5OWMzNmE4LTZiNTUtNDFiOC04OWJhLWEyYTMzYzdhMThhNlwvZGYwNmV5Ni1jMGEwZmFhNS1jZDVjLTQ4OGUtYTI5YS03MmIzNzY4OTc5YWYuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XYQFdLwg6tv24B-YgZtCePSEWZW9jCjJimF5tMBDUMQ' alt='HD-wallpaper-cute-anime-girl-pink-kawaii by CALLMEHLEXIE on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/299c36a8-6b55-41b8-89ba-a2a33c7a18a6/df06ey6-c0a0faa5-cd5c-488e-a29a-72b3768979af.jpg/v1/fill/w_623,h_1282,q_70,strp/hd_wallpaper_cute_anime_girl_pink_kawaii_by_callmehlexie_df06ey6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY0NCIsInBhdGgiOiJcL2ZcLzI5OWMzNmE4LTZiNTUtNDFiOC04OWJhLWEyYTMzYzdhMThhNlwvZGYwNmV5Ni1jMGEwZmFhNS1jZDVjLTQ4OGUtYTI5YS03MmIzNzY4OTc5YWYuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XYQFdLwg6tv24B-YgZtCePSEWZW9jCjJimF5tMBDUMQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

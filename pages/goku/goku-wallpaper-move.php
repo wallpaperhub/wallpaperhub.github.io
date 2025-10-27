@@ -1,0 +1,129 @@
+<title>Epic Goku Wallpapers: Transform Your Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of Goku wallpapers featuring his legendary moves from Dragon Ball Z. Perfectly designed for mobile display, these vibrant images will enhance your device and showcase your love for one of anime's greatest heroes. Download your favorite now!">
+                    <meta name="keywords" content="goku wallpaper move">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-wallpaper-move">
+                            <span itemprop="name">goku wallpaper move</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Wallpapers: Transform Your Screen</h1>
+                <p>Transform your device with stunning Goku wallpapers that capture his epic moves! Whether you love his Super Saiyan transformations or iconic Kamehameha moments, find vibrant, high-quality images that bring the adventure of Dragon Ball Z right to your screen. Download now and showcase your passion for Goku!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultainstinct 4k Live Wallpaper | Dragon Ball | Anime Live ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6vfC-3ny_mU/sddefault.jpg' alt='Goku Ultainstinct 4k Live Wallpaper | Dragon Ball | Anime Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6vfC-3ny_mU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Zmzm6u8hizkAAAAM/locura.gif' alt='Dragon Ball Z Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Zmzm6u8hizkAAAAM/locura.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Instinct Goku v1.1 Live Wallpaper ( 4K )">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/02OaZONBOGw/maxresdefault.jpg' alt='Ultra Instinct Goku v1.1 Live Wallpaper ( 4K )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/02OaZONBOGw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Live Wallpaper in 4K - Animated Dragon Ball Background">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7264138786144079109&location=0&aid=1988' alt='Goku Live Wallpaper in 4K - Animated Dragon Ball Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7264138786144079109&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOKU LIMIT BREAKER ANIMATED WALLPAPER - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EU5NaImiLx4/maxresdefault.jpg' alt='GOKU LIMIT BREAKER ANIMATED WALLPAPER - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EU5NaImiLx4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trying my hand at animating a UI Goku wallpaper : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cyxALx8I1hWSPiusgatdbP2EscAdZTbJZnxjWrAfieY.gif?width=1080&crop=smart&format=png8&s=b78efb575fdd23485ced9251f58422fb4c1608ca' alt='Trying my hand at animating a UI Goku wallpaper : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cyxALx8I1hWSPiusgatdbP2EscAdZTbJZnxjWrAfieY.gif?width=1080&crop=smart&format=png8&s=b78efb575fdd23485ced9251f58422fb4c1608ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohayo Music [Wallpapers] •Dragon Ball Super •Son Goku">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2f/1c/13/2f1c1337458c4c29377331e59713347b.gif' alt='Ohayo Music [Wallpapers] •Dragon Ball Super •Son Goku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2f/1c/13/2f1c1337458c4c29377331e59713347b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/VCURVHYSWqEAAAAM/happy-new-year.gif' alt='Dragon Ball Z Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/VCURVHYSWqEAAAAM/happy-new-year.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Goku Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' alt='90+ Goku Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Moving Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/othKwudyY3oAAAAM/kamehameha-ultra-istinct-goku.gif' alt='Dragon Ball Z Moving Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/othKwudyY3oAAAAM/kamehameha-ultra-istinct-goku.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

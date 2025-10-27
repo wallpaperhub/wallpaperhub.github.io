@@ -1,0 +1,129 @@
+<title>Spooky Spring Wallpaper: Hauntingly Beautiful Designs</title>
+                    <meta name="description" content="Discover unique spooky spring wallpapers that merge the charm of spring with a hint of the eerie. Perfect for adding a creative touch to your devices, these designs feature haunted themes amidst blooming flowers. Refresh your screens with our delightful yet spooky selection. Ideal for seasonal vibes!">
+                    <meta name="keywords" content="spooky spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spooky-spring-wallpaper">
+                            <span itemprop="name">spooky spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Spring Wallpaper: Hauntingly Beautiful Designs</h1>
+                <p>Transform your device this spring with spooky wallpaper designs that blend seasonal beauty with a hint of eerie charm. From haunted houses nestled in blooming landscapes to ghostly silhouettes among vibrant flowers, these wallpapers create a captivating contrast that celebrates the season while sending shivers down your spine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Flowers and Spooky Ghosts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/17/a7/b817a774b867aa219d806aa077b26198.jpg' alt='Fall Flowers and Spooky Ghosts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/17/a7/b817a774b867aa219d806aa077b26198.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic. Patterns. Spooky. Wallpaper. Skull. Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/4f/7d/4c4f7dd96a9daa33283e0e66451fd302.jpg' alt='Halloween Aesthetic. Patterns. Spooky. Wallpaper. Skull. Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/4f/7d/4c4f7dd96a9daa33283e0e66451fd302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Pins by you">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/93/dd/ff93dd06abdb789a0ab20a1308099563.jpg' alt='Pin on Pins by you'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/93/dd/ff93dd06abdb789a0ab20a1308099563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Flat background for halloween season">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-background-halloween-season_23-2150779207.jpg' alt='Free Vector | Flat background for halloween season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-background-halloween-season_23-2150779207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Ideas for iPhone - The Mood Guide">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/20/10/79/2010795416e3186710346eb6ffe69ac7.jpg' alt='Aesthetic Halloween Wallpaper Ideas for iPhone - The Mood Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/20/10/79/2010795416e3186710346eb6ffe69ac7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Dark HD Wallpaper: Enigmatic Dolls in a Mysterious ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/396/396963.jpg' alt='Creepy Dark HD Wallpaper: Enigmatic Dolls in a Mysterious ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/396/396963.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Flowers Spooky Night Beautiful Background · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/05/30/Fantasy-Flowers-Spooky-Night-Beautiful-Background-70924124-1.png' alt='Fantasy Flowers Spooky Night Beautiful Background · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/05/30/Fantasy-Flowers-Spooky-Night-Beautiful-Background-70924124-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Skulls Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/3b/93/dd3b933b48fdf0b03d2142c51894223f.jpg' alt='Spring Skulls Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/3b/93/dd3b933b48fdf0b03d2142c51894223f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky spring forest with flowers on Craiyon">
+                                <img itemprop="contentUrl url" src='https://pics.craiyon.com/2023-10-16/af2575fbde6f4f8d9468f06278a57dea.webp' alt='Spooky spring forest with flowers on Craiyon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craiyon" />
+                                </span>
+                                <a href='https://pics.craiyon.com/2023-10-16/af2575fbde6f4f8d9468f06278a57dea.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Seamless Pattern Pack, Spooky Digital Papers by  NinaNinaCraft, Fabric Design, Cute Pumpkin, Swirls, Stripes, Optical  Illusion">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/075_-_SPOOKY_HALLOWEEN_BASICS_PAPIRI_video_1_vq2z1x.jpg' alt='Cute Halloween Seamless Pattern Pack, Spooky Digital Papers by  NinaNinaCraft, Fabric Design, Cute Pumpkin, Swirls, Stripes, Optical  Illusion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/075_-_SPOOKY_HALLOWEEN_BASICS_PAPIRI_video_1_vq2z1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

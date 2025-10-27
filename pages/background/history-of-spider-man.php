@@ -1,0 +1,129 @@
+<title>Spider-Man: A Brief History of the Iconic Hero</title>
+                    <meta name="description" content="Explore the fascinating history of Spider-Man, from his debut in 1962 to his impact on pop culture. Discover how this beloved superhero has evolved through comics, movies, and more, inspiring generations with his relatable story and powerful message. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="history of spider man">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-spider-man">
+                            <span itemprop="name">history of spider man</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spider-Man: A Brief History of the Iconic Hero</h1>
+                <p>Spider-Man, created by writer Stan Lee and artist Steve Ditko, first appeared in Amazing Fantasy #15 in 1962. Peter Parker, a teenager bitten by a radioactive spider, gains superhuman abilities. The character has evolved through comic books, animated series, and blockbuster films, symbolizing resilience and responsibility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Spider-Man">
+                                <img itemprop="contentUrl url" src='https://www.historynet.com/wp-content/uploads/2022/08/Amazing-Fantasy-15-spider-man.jpeg' alt='A Brief History of Spider-Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryNet" />
+                                </span>
+                                <a href='https://www.historynet.com/wp-content/uploads/2022/08/Amazing-Fantasy-15-spider-man.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man —History :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/29366a22328711.56311dee23276.jpg' alt='Spider-Man —History :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/29366a22328711.56311dee23276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE HISTORY OF: SPIDER-MAN - Gentle Giant Ltd">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/LwwpRne64tcYci-Ueg9YchPVp9VcjObc3FHl5uwhIasmUTrqmUnd37aemJegIfMXbRixcqAF2d7BvfeQsCCj2kkbwBgPDA915sEE0ZW-24JO1BTzvANuRip5lks7g3g8-Itli53m' alt='THE HISTORY OF: SPIDER-MAN - Gentle Giant Ltd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gentle Giant Ltd" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/LwwpRne64tcYci-Ueg9YchPVp9VcjObc3FHl5uwhIasmUTrqmUnd37aemJegIfMXbRixcqAF2d7BvfeQsCCj2kkbwBgPDA915sEE0ZW-24JO1BTzvANuRip5lks7g3g8-Itli53m' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The complete history of Spider-Man [The Amazing Spider-Man #875 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/28u9p6v6dkq71.jpg' alt='The complete history of Spider-Man [The Amazing Spider-Man #875 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3975">
+                                <meta itemprop="height" content="3056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/28u9p6v6dkq71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Entire History of Spider-Man in 70 Minutes - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IA3-8dnOY_g/sddefault.jpg' alt='The Entire History of Spider-Man in 70 Minutes - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IA3-8dnOY_g/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man at 60: learning from the history of comics | OregonNews">
+                                <img itemprop="contentUrl url" src='https://news.uoregon.edu/sites/default/files/styles/custom_xl/public/fever_beyond_amazing_photo_3.png?itok=J8XZtFow' alt='Spider-Man at 60: learning from the history of comics | OregonNews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Oregon" />
+                                </span>
+                                <a href='https://news.uoregon.edu/sites/default/files/styles/custom_xl/public/fever_beyond_amazing_photo_3.png?itok=J8XZtFow' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of Spider-Man">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2017/07/Spider-Man-history-new-and-comic-book.jpg' alt='The Complete History Of Spider-Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2017/07/Spider-Man-history-new-and-comic-book.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Spider-Man">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XqN1ZsjcL6k/maxresdefault.jpg' alt='History Of Spider-Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XqN1ZsjcL6k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Visual History Of Spider-Man's Costume : r/comicbooks">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/K_79VARwmdFrmCzfsGuhY_VN9ZRGUSnPtFsZ1L05TW8.jpg?width=640&crop=smart&auto=webp&s=1cdfa20cd23875b3d308c91ac5939674db6fb1fe' alt='A Visual History Of Spider-Man's Costume : r/comicbooks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="3133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/K_79VARwmdFrmCzfsGuhY_VN9ZRGUSnPtFsZ1L05TW8.jpg?width=640&crop=smart&auto=webp&s=1cdfa20cd23875b3d308c91ac5939674db6fb1fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png' alt='Spider-Man - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="272">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

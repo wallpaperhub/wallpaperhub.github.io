@@ -1,0 +1,129 @@
+<title>USA Football Background Check: Safety First</title>
+                    <meta name="description" content="Ensure safety in youth football leagues with comprehensive USA football background checks. Verify coaches and volunteers effectively to create a secure environment for players. Trust our efficient processes for maintaining integrity and safety in every game.">
+                    <meta name="keywords" content="usa football background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usa-football-background-check">
+                            <span itemprop="name">usa football background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>USA Football Background Check: Safety First</h1>
+                <p>In the U.S., football organizations often require background checks for coaches, players, and volunteers to ensure safety and integrity. These checks typically include criminal history, sexual offender registry, and education verification. Conducting thorough background checks helps promote a secure environment for all involved.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fc51d485b-55f6-452b-b16a-20750cdcc309&w=1920&q=75' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fc51d485b-55f6-452b-b16a-20750cdcc309&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fcf1d6b7b-31ee-48d8-a594-ed1cf1d5f30f&w=1920&q=75' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fcf1d6b7b-31ee-48d8-a594-ed1cf1d5f30f&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Football | Background Checks | Club Software">
+                                <img itemprop="contentUrl url" src='https://www.sportsengine.com/sites/default/files/styles/content_1200_w/public/images/usa-football-safety-hero-background.png?itok=S8kpz1ex' alt='USA Football | Background Checks | Club Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SportsEngine" />
+                                </span>
+                                <a href='https://www.sportsengine.com/sites/default/files/styles/content_1200_w/public/images/usa-football-safety-hero-background.png?itok=S8kpz1ex' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://squidex.usafootball.com/api/assets/usawebsite/00646c33-158e-42c6-bf45-3da969480139' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://squidex.usafootball.com/api/assets/usawebsite/00646c33-158e-42c6-bf45-3da969480139' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2F6425ee47-e1f9-4d34-89a8-9948b5e81cb8&w=1920&q=75' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2F6425ee47-e1f9-4d34-89a8-9948b5e81cb8&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://squidex.usafootball.com/api/assets/usawebsite/60743d2c-ded6-4619-bb3e-43600ff3407b/' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://squidex.usafootball.com/api/assets/usawebsite/60743d2c-ded6-4619-bb3e-43600ff3407b/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://squidex.usafootball.com/api/assets/usawebsite/610833e2-f3b3-4fe7-87c5-150206fd64cc/' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://squidex.usafootball.com/api/assets/usawebsite/610833e2-f3b3-4fe7-87c5-150206fd64cc/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fbaa606dc-6439-4e18-9e99-5deaf9881dc5%2F&w=750&q=75' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://usafootball.com/_next/image?url=https%3A%2F%2Fsquidex.usafootball.com%2Fapi%2Fassets%2Fusawebsite%2Fbaa606dc-6439-4e18-9e99-5deaf9881dc5%2F&w=750&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Football | The Sport's Governing Body">
+                                <img itemprop="contentUrl url" src='https://squidex.usafootball.com/api/assets/usawebsite/afecbd42-79b2-42a3-b3cf-3c6d79fec0d1/' alt='USA Football | The Sport's Governing Body'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.usafootball.com" />
+                                </span>
+                                <a href='https://squidex.usafootball.com/api/assets/usawebsite/afecbd42-79b2-42a3-b3cf-3c6d79fec0d1/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks | USA Football">
+                                <img itemprop="contentUrl url" src='https://squidex.usafootball.com/api/assets/usawebsite/7eed4fdf-d7ec-498b-8a46-6df5b6a15c06/' alt='Background Checks | USA Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Football" />
+                                </span>
+                                <a href='https://squidex.usafootball.com/api/assets/usawebsite/7eed4fdf-d7ec-498b-8a46-6df5b6a15c06/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

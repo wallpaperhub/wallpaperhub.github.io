@@ -1,0 +1,129 @@
+<title>Understanding the Background of My Hero Academia</title>
+                    <meta name="description" content="Explore the rich background of My Hero Academia, a captivating series where superpowers define society. Follow Izuku Midoriya's journey from a Quirkless boy to a determined hero-in-training at U.A. High School. Discover the unique world-building and character development that has captivated fans worldwide.">
+                    <meta name="keywords" content="mha background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mha-background">
+                            <span itemprop="name">mha background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Background of My Hero Academia</h1>
+                <p>My Hero Academia (MHA) is a popular Japanese manga and anime series set in a world where most people possess superpowers known as "Quirks." The story follows Izuku Midoriya, a Quirkless boy who dreams of becoming a hero. Through hard work and determination, he enrolls in U.A. High School, where he trains alongside aspiring heroes to fight villains.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I tried to make the textless MHA Season 7 key visual into an ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-tried-to-make-the-textless-mha-season-7-key-visual-into-v0-bkkr0nvt1l7c1.jpg?width=1888&format=pjpg&auto=webp&s=2a1adfca0cbfafb9e60099fafb2901548a328d37' alt='I tried to make the textless MHA Season 7 key visual into an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1888">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-tried-to-make-the-textless-mha-season-7-key-visual-into-v0-bkkr0nvt1l7c1.jpg?width=1888&format=pjpg&auto=webp&s=2a1adfca0cbfafb9e60099fafb2901548a328d37' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: An Ode to Hope, Perseverance, and Forgiveness ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*W2heFUeeOS_5lWZDBe7hpA.jpeg' alt='My Hero Academia: An Ode to Hope, Perseverance, and Forgiveness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andin - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*W2heFUeeOS_5lWZDBe7hpA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/my-hero-academia-iphone-2ejhurzsifkwgf8a.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/my-hero-academia-iphone-2ejhurzsifkwgf8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Wallpaper 4K, Poster, Izuku Midoriya">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/my-hero-academia-2560x1440-18932.jpg' alt='My Hero Academia Wallpaper 4K, Poster, Izuku Midoriya'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/my-hero-academia-2560x1440-18932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mha pc backgrounds by me! (made on picsart) : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mha-pc-backgrounds-by-me-made-on-picsart-v0-m5wuw3menda81.jpg?width=810&format=pjpg&auto=webp&s=8f1a46c9987ca7ca44d62708a536aee5fecf52dd' alt='mha pc backgrounds by me! (made on picsart) : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mha-pc-backgrounds-by-me-made-on-picsart-v0-m5wuw3menda81.jpg?width=810&format=pjpg&auto=webp&s=8f1a46c9987ca7ca44d62708a536aee5fecf52dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mha backgrounds 2025">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/428/68/HD-wallpaper-mha-my-hero-academia.jpg' alt='Mha backgrounds 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/428/68/HD-wallpaper-mha-my-hero-academia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are your favourite mha wallpaper : r/MyHeroAcadamia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-are-your-favourite-mha-wallpaper-v0-tp4cznohl1ie1.jpeg?width=1080&crop=smart&auto=webp&s=129386747c11a3b041a1ef8c37e764b2031d58ab' alt='What are your favourite mha wallpaper : r/MyHeroAcadamia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-are-your-favourite-mha-wallpaper-v0-tp4cznohl1ie1.jpeg?width=1080&crop=smart&auto=webp&s=129386747c11a3b041a1ef8c37e764b2031d58ab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mha Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mha-heroes-battle-suits-a215fibxwa98k84n.jpg' alt='100+] Mha Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mha-heroes-battle-suits-a215fibxwa98k84n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mha backgrounds 2025">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/714/714324.png' alt='Mha backgrounds 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/714/714324.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Donnie -⃝⃤ on MHA | Hero wallpaper, My hero academia ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/da/4a/32da4a0e678d972336ca9996fe428250.jpg' alt='Pin by Donnie -⃝⃤ on MHA | Hero wallpaper, My hero academia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/da/4a/32da4a0e678d972336ca9996fe428250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

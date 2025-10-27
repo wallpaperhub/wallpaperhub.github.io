@@ -1,0 +1,129 @@
+<title>Elegant White Grid Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Add a touch of elegance to your interiors with our white grid wallpaper. Perfect for minimalistic and contemporary decor, it offers a clean and modern backdrop that enhances any room's ambiance. Ideal for homes and offices, transform your space effortlessly with this versatile design.">
+                    <meta name="keywords" content="white grid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-grid-wallpaper">
+                            <span itemprop="name">white grid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Grid Wallpaper for Modern Spaces</h1>
+                <p>White grid wallpaper is a versatile design that adds a touch of elegance and modernity to any space. Ideal for minimalistic and contemporary decor, it creates a clean backdrop, enhancing the ambiance of rooms. Perfect for homes and offices, this wallpaper offers a fresh and airy feel, making it a popular choice among interior enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Grid Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-Contact-Grid-1.jpg.optimal.jpg' alt='Contact Grid Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-Contact-Grid-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grid Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/c7/0b/5bc70bda420770ac4c4dcfaa05d89714.jpg' alt='White Grid Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/c7/0b/5bc70bda420770ac4c4dcfaa05d89714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-perspective-room-structure-wireframe-vector-design_1017-47348.jpg' alt='White Grid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-perspective-room-structure-wireframe-vector-design_1017-47348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-white-mosaic-tile-texture-background_293060-16321.jpg' alt='White Grid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-white-mosaic-tile-texture-background_293060-16321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/28/d6/6328d62cfc9a9564e27c215e3d887d97.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/28/d6/6328d62cfc9a9564e27c215e3d887d97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Geometric White Grid Design Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-grid-mpv3mmpcaav1bnqu.jpg' alt='Download Geometric White Grid Design Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-grid-mpv3mmpcaav1bnqu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid paper. Abstract squared background with color graph ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2EM72HR/grid-paper-abstract-squared-background-with-color-graph-geometric-pattern-for-school-wallpaper-textures-notebook-lined-blank-on-transparent-2EM72HR.jpg' alt='Grid paper. Abstract squared background with color graph ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2EM72HR/grid-paper-abstract-squared-background-with-color-graph-geometric-pattern-for-school-wallpaper-textures-notebook-lined-blank-on-transparent-2EM72HR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white squared paper seamless pattern background">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/08/21/13/360_F_1008211361_AihhuTZ69G2ECVTGKCmzfT4KeosG2WFK.jpg' alt='white squared paper seamless pattern background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/08/21/13/360_F_1008211361_AihhuTZ69G2ECVTGKCmzfT4KeosG2WFK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] White Grid Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-grid-aesthetic-7y1h6kog7mbiorgw.jpg' alt='100+] White Grid Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1913">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-grid-aesthetic-7y1h6kog7mbiorgw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High quality white and blank graph or grid paper sheet background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2K2XWCY/high-resolution-large-image-of-a-white-uncoated-checkered-graph-paper-scan-wrinkled-weathered-old-thin-textbook-paper-with-gray-checkers-copy-space-for-text-for-presentation-high-quality-wallpaper-2K2XWCY.jpg' alt='High quality white and blank graph or grid paper sheet background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2K2XWCY/high-resolution-large-image-of-a-white-uncoated-checkered-graph-paper-scan-wrinkled-weathered-old-thin-textbook-paper-with-gray-checkers-copy-space-for-text-for-presentation-high-quality-wallpaper-2K2XWCY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

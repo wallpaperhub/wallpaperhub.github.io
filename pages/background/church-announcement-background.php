@@ -1,0 +1,129 @@
+<title>Engaging Church Announcement Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover the perfect church announcement backgrounds that elevate your community engagement. Our designs are tailored for clarity and appeal, ensuring your messages resonate. Ideal for services and online gatherings, enhance your church's communication with beautiful, effective backgrounds.">
+                    <meta name="keywords" content="church announcement background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/church-announcement-background">
+                            <span itemprop="name">church announcement background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Church Announcement Backgrounds for Every Occasion</h1>
+                <p>Church announcement backgrounds set the tone for community engagement and information sharing. Designed to be visually appealing yet clear, these backgrounds enhance the message during services or online gatherings. Incorporating elements like the church logo, mission statements, and event details helps create a cohesive and inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ONLINE CHURCH ANNOUNCEMENTS LOOP VOL 2">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/hpm/mo/onlinechurchannouncementsloopvol2.jpg' alt='ONLINE CHURCH ANNOUNCEMENTS LOOP VOL 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playback Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/hpm/mo/onlinechurchannouncementsloopvol2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Church Announcement Background | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1252955680075_731/img_mouseover3.jpg' alt='Fall Church Announcement Background | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1252955680075_731/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motion Background about announcement - SermonCentral.com">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/16778_thumbnail.jpg' alt='Motion Background about announcement - SermonCentral.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/16778_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Woods Announcement Background Slide | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1252437137303_614/img_mouseover3.jpg' alt='Autumn Woods Announcement Background Slide | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1252437137303_614/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Announcements Video Loop - YouTube | Church announcements, Worship  backgrounds, Church backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f7/61/69/f76169b1d2b33bd043366e16cd754c45.jpg' alt='Announcements Video Loop - YouTube | Church announcements, Worship  backgrounds, Church backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f7/61/69/f76169b1d2b33bd043366e16cd754c45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motion Background about announcement - SermonCentral.com">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/20000_thumbnail.jpg' alt='Motion Background about announcement - SermonCentral.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/20000_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In His Image Worship Backgrounds, Sermon Slides ( 23435 found ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1246388361816_391/img_mouseover3.jpg' alt='In His Image Worship Backgrounds, Sermon Slides ( 23435 found ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sharefaith" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1246388361816_391/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create In Me Pure Heart Worship Backgrounds, Sermon Slides ( 25527 ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1245278768368_211/img_mouseover3.jpg' alt='Create In Me Pure Heart Worship Backgrounds, Sermon Slides ( 25527 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sharefaith" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1245278768368_211/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worship Announcements">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/worship-announcements_wy0x7nbbr_thumbnail-1080_15.png' alt='Worship Announcements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/worship-announcements_wy0x7nbbr_thumbnail-1080_15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Announcements power point ideas | church announcements, church ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b6/f7/49/b6f749f996ad30938249f9cf132b1ddf.jpg' alt='11 Announcements power point ideas | church announcements, church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b6/f7/49/b6f749f996ad30938249f9cf132b1ddf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

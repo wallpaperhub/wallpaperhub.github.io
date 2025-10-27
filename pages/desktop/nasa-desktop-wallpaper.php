@@ -1,0 +1,129 @@
+<title>Stunning NASA Desktop Wallpapers for Every Space Fan</title>
+                    <meta name="description" content="Explore a collection of mesmerizing NASA desktop wallpapers that bring the wonders of the universe to your screen. Perfect for space lovers, these high-quality images offer inspiration and beauty to enhance your workspace. Download now to transform your desktop with cosmic wonders!">
+                    <meta name="keywords" content="nasa desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/nasa-desktop-wallpaper">
+                            <span itemprop="name">nasa desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning NASA Desktop Wallpapers for Every Space Fan</h1>
+                <p>Transform your workspace with stunning NASA desktop wallpapers featuring breathtaking views of space, planets, and galaxies. Whether you're a space enthusiast or simply love the beauty of the cosmos, these high-resolution images will inspire and motivate you every day. Download your favorite NASA wallpapers and elevate your desktop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA Desktop Wallpaper [1920x1080] : r/nasa">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t0rsvscgq3r31.jpg' alt='NASA Desktop Wallpaper [1920x1080] : r/nasa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t0rsvscgq3r31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/GalacticCenter_desktop.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific Visualization Studio - NASA" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/GalacticCenter_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA's New Space Photos Are the Perfect Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/nasa1.png' alt='NASA's New Space Photos Are the Perfect Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How-To Geek" />
+                                </span>
+                                <a href='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/nasa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/runaway_black_hole_desktop.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific Visualization Studio - NASA" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/runaway_black_hole_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/6/c/26934-2560x1440-desktop-hd-nasa-wallpaper-image.jpg' alt='NASA Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/6/c/26934-2560x1440-desktop-hd-nasa-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA@SC21: Digital Swag">
+                                <img itemprop="contentUrl url" src='https://www.nas.nasa.gov/SC21/assets/swag/zoom/NASA_SC21_ISS_zoom.jpg' alt='NASA@SC21: Digital Swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Advanced Supercomputing Division" />
+                                </span>
+                                <a href='https://www.nas.nasa.gov/SC21/assets/swag/zoom/NASA_SC21_ISS_zoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/SupermassiveBinaryBlackHoles_desktop.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific Visualization Studio - NASA" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/SupermassiveBinaryBlackHoles_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA images: Desktop wallpaper from outer space | TechRepublic">
+                                <img itemprop="contentUrl url" src='https://assets.techrepublic.com/uploads/2010/10/476744.jpg' alt='NASA images: Desktop wallpaper from outer space | TechRepublic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRepublic" />
+                                </span>
+                                <a href='https://assets.techrepublic.com/uploads/2010/10/476744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/GRB_artist_concept_desktop.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific Visualization Studio - NASA" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/GRB_artist_concept_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/BH_accretion_disk_viz_desktop.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific Visualization Studio - NASA" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/BH_accretion_disk_viz_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

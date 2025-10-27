@@ -1,0 +1,129 @@
+<title>Uncovering the Wild World of Tiger King: Joe Exotic</title>
+                    <meta name="description" content="Dive into the sensational story of Tiger King, where Joe Exotic's life takes center stage amid exotic animals and fierce rivalries. Explore the fascinating, often dark realities of the exotic pet industry and its colorful characters in this captivating docuseries. Perfect for true crime and wildlife enthusiasts alike!">
+                    <meta name="keywords" content="tiger king">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tiger-king">
+                            <span itemprop="name">tiger king</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncovering the Wild World of Tiger King: Joe Exotic</h1>
+                <p>The Tiger King, Joe Exotic, captured the world's attention with his eccentric personality, private zoo, and rivalry with animal rights activist Carole Baskin. This gripping docuseries delves into the dark underbelly of the exotic pet industry, showcasing a blend of crime, rivalry, and controversial figures, all against a backdrop of wild animals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happened After 'Tiger King' - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/03/31/arts/television/31xp-tigerking/31xp-tigerking-superJumbo.jpg' alt='What Happened After 'Tiger King' - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/03/31/arts/television/31xp-tigerking/31xp-tigerking-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Exotic: Tiger King - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17694103/r/il/6c7406/2295871521/il_fullxfull.2295871521_33tj.jpg' alt='Joe Exotic: Tiger King - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17694103/r/il/6c7406/2295871521/il_fullxfull.2295871521_33tj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Exotic, tiger, tiger king, tigers, white, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/497/431/HD-wallpaper-joe-exotic-tiger-tiger-king-tigers-white.jpg' alt='Joe Exotic, tiger, tiger king, tigers, white, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/497/431/HD-wallpaper-joe-exotic-tiger-tiger-king-tigers-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beastly Netflix sensation Tiger King boasts several Lone Star ...">
+                                <img itemprop="contentUrl url" src='https://houston.culturemap.com/media-library/joe-exotic-tiger-king.jpg?id=31502472&width=2000&height=1500&quality=65&coordinates=10%2C0%2C0%2C0' alt='Beastly Netflix sensation Tiger King boasts several Lone Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CultureMap Houston" />
+                                </span>
+                                <a href='https://houston.culturemap.com/media-library/joe-exotic-tiger-king.jpg?id=31502472&width=2000&height=1500&quality=65&coordinates=10%2C0%2C0%2C0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger King: Murder, Mayhem and Madness | Official Trailer | Netflix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/acTdxsoa428/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGFqJlN9SDQI5V3hUST5HlGvYKUw' alt='Tiger King: Murder, Mayhem and Madness | Official Trailer | Netflix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/acTdxsoa428/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGFqJlN9SDQI5V3hUST5HlGvYKUw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger King (TV Series 2020–2021) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODI0MTE2MDMtZDM2MC00MGM5LTgzOGItMzhlNGViY2U2ODdjXkEyXkFqcGc@._V1_.jpg' alt='Tiger King (TV Series 2020–2021) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODI0MTE2MDMtZDM2MC00MGM5LTgzOGItMzhlNGViY2U2ODdjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Exotic: A Dark Journey Into the World of a Man Gone Wild">
+                                <img itemprop="contentUrl url" src='https://img.texasmonthly.com/2019/05/EXOTIC_Joe-Exotic-5.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=750' alt='Joe Exotic: A Dark Journey Into the World of a Man Gone Wild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Monthly" />
+                                </span>
+                                <a href='https://img.texasmonthly.com/2019/05/EXOTIC_Joe-Exotic-5.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Netflix's Tiger King Good? A Debate">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/fdd/441/c471889a8bc88a9071586eac7b263d2313-26-tiger-king.rsquare.w400.jpg' alt='Is Netflix's Tiger King Good? A Debate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/fdd/441/c471889a8bc88a9071586eac7b263d2313-26-tiger-king.rsquare.w400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Exotic Tiger King Celebrity Prayer Candle – Celeb Prayer Candles">
+                                <img itemprop="contentUrl url" src='https://celebcandle.com/cdn/shop/products/Joe-Exotic-Tiger-King-Saint-Celebrity-Prayer-Candle-1_1024x1024.jpg?v=1587863765' alt='Joe Exotic Tiger King Celebrity Prayer Candle – Celeb Prayer Candles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celebrity Prayer Candles" />
+                                </span>
+                                <a href='https://celebcandle.com/cdn/shop/products/Joe-Exotic-Tiger-King-Saint-Celebrity-Prayer-Candle-1_1024x1024.jpg?v=1587863765' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger King Joe Exotic Portrait - Vivia Print">
+                                <img itemprop="contentUrl url" src='https://viviaprint.com/wp-content/uploads/2020/07/Tiger-King-Portrait-by-Ariana-Pacino-Vivia-Print.jpg' alt='Tiger King Joe Exotic Portrait - Vivia Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7200">
+                                <meta itemprop="height" content="9000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivia Print" />
+                                </span>
+                                <a href='https://viviaprint.com/wp-content/uploads/2020/07/Tiger-King-Portrait-by-Ariana-Pacino-Vivia-Print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

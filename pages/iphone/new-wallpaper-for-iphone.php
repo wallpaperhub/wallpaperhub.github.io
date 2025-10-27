@@ -1,0 +1,129 @@
+<title>Fresh iPhone Wallpapers: Revamp Your Screen Style</title>
+                    <meta name="description" content="Discover the latest iPhone wallpapers to elevate your device's look! Browse through a collection of stunning designs, from nature to abstract art, and easily update your screen to reflect your unique personality. Perfect for a quick refresh anytime, anywhere!">
+                    <meta name="keywords" content="new wallpaper for iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/new-wallpaper-for-iphone">
+                            <span itemprop="name">new wallpaper for iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh iPhone Wallpapers: Revamp Your Screen Style</h1>
+                <p>Enhance your iPhone's aesthetic with stunning new wallpapers! Whether you prefer vibrant patterns, serene landscapes, or minimalistic designs, there's a wallpaper to match your style. Easily browse and download high-quality images to refresh your device and express your personality daily. Upgrade your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new iPhone 16 and 16 Pro wallpapers right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-16-and-16-Pro-wallpapers-8.jpg?quality=82&strip=all' alt='Download the new iPhone 16 and 16 Pro wallpapers right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-16-and-16-Pro-wallpapers-8.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 11 New Wallpaper for iPhone and iPad! | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/img_0252-jpg.702881/' alt='iOS 11 New Wallpaper for iPhone and iPad! | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/img_0252-jpg.702881/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/92/51/a0/9251a0a97a68cfafca919eab9efd9d10.jpg' alt='iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/92/51/a0/9251a0a97a68cfafca919eab9efd9d10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Iphone wallpapers ideas in 2025 | apple wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/42/9d/eb429d3a85e9ab08d5636c07c137f765.jpg' alt='900+ Iphone wallpapers ideas in 2025 | apple wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/42/9d/eb429d3a85e9ab08d5636c07c137f765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iOS 18 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/93874/449387/449387-640.jpg' alt='Download the Official iOS 18 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/93874/449387/449387-640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1686685571893-bee9d691f9a2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='iPhone Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1686685571893-bee9d691f9a2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3Wallpapers for iPhone (@3Wallpaper) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FzUpub4WwAIRznX?format=jpg&name=4096x4096' alt='3Wallpapers for iPhone (@3Wallpaper) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FzUpub4WwAIRznX?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/338/503/HD-wallpaper-iphone-circles-iphone-12-pro-original-iphone.jpg' alt='HD iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/338/503/HD-wallpaper-iphone-circles-iphone-12-pro-original-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Free iPhone Wallpapers by picjumbo">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/picjumbo.com/wp-content/uploads/dark-oil-liquid-smartphone-wallpaper-free-image.jpeg?w=600&quality=80' alt='250+ Free iPhone Wallpapers by picjumbo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picjumbo" />
+                                </span>
+                                <a href='https://i0.wp.com/picjumbo.com/wp-content/uploads/dark-oil-liquid-smartphone-wallpaper-free-image.jpeg?w=600&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpapers of iphone X - iPhone HD wallpapers | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1515514778545561' alt='New wallpapers of iphone X - iPhone HD wallpapers | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1515514778545561' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Black Wallpaper for Your Lock Screen</title>
+                    <meta name="description" content="Discover the perfect black wallpaper for your lock screen! Elevate your device's style with a sleek design that suits every aesthetic. Ideal for those who love simplicity and elegance, this wallpaper is sure to impress. Download now and refresh your phone's look!">
+                    <meta name="keywords" content="lock screen:_tvc831zoem= black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen_tvc831zoem-black-wallpaper">
+                            <span itemprop="name">lock screen:_tvc831zoem= black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black Wallpaper for Your Lock Screen</h1>
+                <p>Transform your device’s lock screen with a sleek black wallpaper that evokes sophistication and style. Perfect for minimalist enthusiasts, this wallpaper complements any theme while providing a clean look. Enhance your phone's aesthetic and enjoy a modern vibe every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/57/5f/99575f976bfeac74e6774dde3dd583a3.jpg' alt='black wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/57/5f/99575f976bfeac74e6774dde3dd583a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black lock screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=532368114200807' alt='Black lock screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=532368114200807' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/c9/e2/9dc9e239c6089aa78d12cfa42bcaba00.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/c9/e2/9dc9e239c6089aa78d12cfa42bcaba00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The black dope wallpaper for iPhone lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/af/55/d1af55984c9ce1f4e4e81e818f1005e5.jpg' alt='The black dope wallpaper for iPhone lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/af/55/d1af55984c9ce1f4e4e81e818f1005e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black+aesthetic+wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8c/22/73/8c22734bec8703330647464c8c6be0cf.jpg' alt='black+aesthetic+wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8c/22/73/8c22734bec8703330647464c8c6be0cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark lockscreen 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0b/da/af/0bdaaf49c4c85d0fcf1a65464c245acf.jpg' alt='Dark lockscreen 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="516">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0b/da/af/0bdaaf49c4c85d0fcf1a65464c245acf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Wallpaper Lockscreen Home Screen Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/black-wallpaper-lockscreen-home-screen-600w-2257701227.jpg' alt='Black Wallpaper Lockscreen Home Screen Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/black-wallpaper-lockscreen-home-screen-600w-2257701227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3a/c5/42/3ac542c6b873007fceea955727412b84.jpg' alt='Black Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3a/c5/42/3ac542c6b873007fceea955727412b84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black and white aesthetic lockscreen | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/03/0c/55030c46340f288ed987e7d273c70ea3.jpg' alt='black and white aesthetic lockscreen | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/03/0c/55030c46340f288ed987e7d273c70ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black lock screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/57e79df8-6bfb-458a-ae60-3f35f1978d3b' alt='Black lock screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/57e79df8-6bfb-458a-ae60-3f35f1978d3b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

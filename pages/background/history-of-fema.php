@@ -1,0 +1,129 @@
+<title>Understanding FEMA: A Brief History</title>
+                    <meta name="description" content="Explore the evolution of the Federal Emergency Management Agency (FEMA) from its inception in 1979 to its critical role in disaster response and recovery today. Learn how FEMA has adapted to better serve communities across the U.S. in times of need.">
+                    <meta name="keywords" content="history of fema">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-fema">
+                            <span itemprop="name">history of fema</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding FEMA: A Brief History</h1>
+                <p>The Federal Emergency Management Agency (FEMA) was established in 1979 to coordinate the federal government's response to disasters. Originally a collection of various agencies, FEMA has evolved to enhance disaster preparedness, response, recovery, and mitigation in the U.S. Its role became paramount following events like Hurricane Katrina in 2005, leading to reforms and improved strategies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: A Brief History of Emergency Management Authorities">
+                                <img itemprop="contentUrl url" src='https://emilms.fema.gov/is_0230e/media/357.png' alt='Review: A Brief History of Emergency Management Authorities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="emilms.fema.gov" />
+                                </span>
+                                <a href='https://emilms.fema.gov/is_0230e/media/357.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Fema: How Did It Begin? - DynaGrace Enterprises">
+                                <img itemprop="contentUrl url" src='https://dynagrace.com/wp-content/uploads/2018/01/FEMA-logo.png' alt='The History of Fema: How Did It Begin? - DynaGrace Enterprises'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DynaGrace Enterprises" />
+                                </span>
+                                <a href='https://dynagrace.com/wp-content/uploads/2018/01/FEMA-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Emergency Management Agency - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Appropriations_Act_of_2004.jpg/220px-Appropriations_Act_of_2004.jpg' alt='Federal Emergency Management Agency - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Appropriations_Act_of_2004.jpg/220px-Appropriations_Act_of_2004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Publication 1">
+                                <img itemprop="contentUrl url" src='x-raw-image:///392f5631adf0684f288429d415a2fcf65d1d490de38b08b0f0df347f44cb7378' alt='Publication 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1327">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEMA.gov" />
+                                </span>
+                                <a href='x-raw-image:///392f5631adf0684f288429d415a2fcf65d1d490de38b08b0f0df347f44cb7378' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FEMA Stretched Beyond Climate Response as Disasters Balloon">
+                                <img itemprop="contentUrl url" src='https://db0ip7zd23b50.cloudfront.net/dims4/default/9d068bd/2147483647/resize/633x10000%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F9d%2F52%2F7661a0474daf8c1b186819037575%2Ffemas-evolution-timeline-final-vertical.png' alt='FEMA Stretched Beyond Climate Response as Disasters Balloon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="633">
+                                <meta itemprop="height" content="1033">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg Law News" />
+                                </span>
+                                <a href='https://db0ip7zd23b50.cloudfront.net/dims4/default/9d068bd/2147483647/resize/633x10000%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F9d%2F52%2F7661a0474daf8c1b186819037575%2Ffemas-evolution-timeline-final-vertical.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Short History of the Federal Emergency Management Agency (FEMA)">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E12AQHBbeYejEj4ig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1586886199890?e=2147483647&v=beta&t=5lr1z3I8rXI-RiY6KyJw8recqGwcfQudxUJIz67tni4' alt='A Short History of the Federal Emergency Management Agency (FEMA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E12AQHBbeYejEj4ig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1586886199890?e=2147483647&v=beta&t=5lr1z3I8rXI-RiY6KyJw8recqGwcfQudxUJIz67tni4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Short History Of Fema | The Storm | FRONTLINE | PBS">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/wgbh/pages/frontline/storm/art/femap.jpg' alt='A Short History Of Fema | The Storm | FRONTLINE | PBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/wgbh/pages/frontline/storm/art/femap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Emergency Management Agency - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_the_Federal_Emergency_Management_Agency.svg/1200px-Flag_of_the_Federal_Emergency_Management_Agency.svg.png' alt='Federal Emergency Management Agency - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_the_Federal_Emergency_Management_Agency.svg/1200px-Flag_of_the_Federal_Emergency_Management_Agency.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Secret History of FEMA | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/59a9fd7e14e3206c75dc8fd1/master/pass/FEMA-MainArt-71715457.jpg' alt='The Secret History of FEMA | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/59a9fd7e14e3206c75dc8fd1/master/pass/FEMA-MainArt-71715457.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GAO-16-87, DISASTER RESPONSE: FEMA Has Made Progress Implementing ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///bf56f283d4a0f7fd9e686a5abcee467f6acaba5eeefa13d24413384f7e0a105d' alt='GAO-16-87, DISASTER RESPONSE: FEMA Has Made Progress Implementing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2275">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Government Accountability Office" />
+                                </span>
+                                <a href='x-raw-image:///bf56f283d4a0f7fd9e686a5abcee467f6acaba5eeefa13d24413384f7e0a105d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

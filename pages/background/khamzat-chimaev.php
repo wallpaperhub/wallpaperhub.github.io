@@ -1,0 +1,129 @@
+<title>Khamzat Chimaev: UFC's Rising Star</title>
+                    <meta name="description" content="Discover Khamzat Chimaev, UFC's unbeaten sensation. Known for his incredible skills and fighting spirit, Chimaev is taking the MMA world by storm. Explore his journey, fights, and what makes him a challenger to watch in the octagon!">
+                    <meta name="keywords" content="khamzat chimaev">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/khamzat-chimaev">
+                            <span itemprop="name">khamzat chimaev</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Khamzat Chimaev: UFC's Rising Star</h1>
+                <p>Khamzat Chimaev is a rising star in the UFC, known for his exceptional grappling skills and powerful striking. With an impressive unbeaten record, he has quickly gained attention for his relentless fighting style and charisma. Fans are eager to see how he will fare against top contenders as he climbs the ranks of his division.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev (Middleweight) MMA Profile - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4684751.png&w=350&h=254' alt='Khamzat Chimaev (Middleweight) MMA Profile - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4684751.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b8/Khamzat_Chimaev_2022.png' alt='Khamzat Chimaev - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b8/Khamzat_Chimaev_2022.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/2021-10/71660%252Fprofile-galery%252Fprofile-picture%252FCHIMAEV_KHAMZAT_10-30.png' alt='Khamzat Chimaev | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/2021-10/71660%252Fprofile-galery%252Fprofile-picture%252FCHIMAEV_KHAMZAT_10-30.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev Would Return to Welterweight Division Under One ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_4206,h_2365,x_0,y_180/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/mma_knockout/01jatrv1gqqb695f8736.jpg' alt='Khamzat Chimaev Would Return to Welterweight Division Under One ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_4206,h_2365,x_0,y_180/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/mma_knockout/01jatrv1gqqb695f8736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev Substantial Betting Favorite To End 2025 As UFC Champ">
+                                <img itemprop="contentUrl url" src='https://specials-images.forbesimg.com/imageserve/67181bdbd060c92f16a72b00/960x0.jpg' alt='Khamzat Chimaev Substantial Betting Favorite To End 2025 As UFC Champ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://specials-images.forbesimg.com/imageserve/67181bdbd060c92f16a72b00/960x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The UFC pay me, I kill somebody': Khamzat Chimaev talks Nate Diaz ...">
+                                <img itemprop="contentUrl url" src='https://themaclife.com/wp-content/uploads/2022/08/chimaev.jpeg' alt='The UFC pay me, I kill somebody': Khamzat Chimaev talks Nate Diaz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Life" />
+                                </span>
+                                <a href='https://themaclife.com/wp-content/uploads/2022/08/chimaev.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev reveals one-year-old son's health issues on eve of ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2024/06/14/10/newFile-2.jpg' alt='Khamzat Chimaev reveals one-year-old son's health issues on eve of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4963">
+                                <meta itemprop="height" content="3310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2024/06/14/10/newFile-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev returns to UFC: Relationship with dictator ...">
+                                <img itemprop="contentUrl url" src='https://i2-prod.mirror.co.uk/incoming/article33972543.ece/ALTERNATES/s1200c/0_UFC-308-Ceremonial-Weigh-in.jpg' alt='Khamzat Chimaev returns to UFC: Relationship with dictator ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mirror" />
+                                </span>
+                                <a href='https://i2-prod.mirror.co.uk/incoming/article33972543.ece/ALTERNATES/s1200c/0_UFC-308-Ceremonial-Weigh-in.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC News: Dana White to Finally Give Khamzat Chimaev Title Shot ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2568801/ufc-star-khamzat-chimaev.jpg?w=1600&h=1200&q=88&f=aa7276b330357d49d9ebf40a627faa92' alt='UFC News: Dana White to Finally Give Khamzat Chimaev Title Shot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2568801/ufc-star-khamzat-chimaev.jpg?w=1600&h=1200&q=88&f=aa7276b330357d49d9ebf40a627faa92' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Khamzat Chimaev | Booking Agent | Talent Roster | MN2S">
+                                <img itemprop="contentUrl url" src='https://mn2s.com/wp-content/uploads/2023/05/Khamzat-Chimaev.png' alt='Khamzat Chimaev | Booking Agent | Talent Roster | MN2S'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MN2S" />
+                                </span>
+                                <a href='https://mn2s.com/wp-content/uploads/2023/05/Khamzat-Chimaev.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

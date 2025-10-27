@@ -1,0 +1,129 @@
+<title>White Fire Background: Illuminate Your Designs</title>
+                    <meta name="description" content="Discover the captivating beauty of a white fire background! Perfect for adding a touch of elegance and intensity to your designs. Create stunning visuals that stand out, all while maintaining a clean aesthetic. Ideal for various projects—let your creativity shine with a white fire backdrop!">
+                    <meta name="keywords" content="white fire background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-fire-background">
+                            <span itemprop="name">white fire background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Fire Background: Illuminate Your Designs</h1>
+                <p>A white fire background can create a stunning visual effect, evoking feelings of purity and intensity. Its bright, luminous quality can enhance any design, offering a striking contrast to darker elements. Ideal for projects needing a touch of elegance, a white fire backdrop captivates attention while maintaining a clean aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Fire Background by mrOrlandoMagicFan200 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/dfw5zne-1536f414-2819-4e31-b617-866047c1f6c3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGZ3NXpuZS0xNTM2ZjQxNC0yODE5LTRlMzEtYjYxNy04NjYwNDdjMWY2YzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZzn0_ne0pnruRbjKZPZUoPkQx81wXkp3ITvoFb8How' alt='White Fire Background by mrOrlandoMagicFan200 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/dfw5zne-1536f414-2819-4e31-b617-866047c1f6c3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGZ3NXpuZS0xNTM2ZjQxNC0yODE5LTRlMzEtYjYxNy04NjYwNDdjMWY2YzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZzn0_ne0pnruRbjKZPZUoPkQx81wXkp3ITvoFb8How' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,100+ Black And White Fire Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1404539370/photo/3d-illustration-of-white-smoke-swirling-in-the-dark.jpg?s=612x612&w=0&k=20&c=UNUKbH0__2RzejGTKHbh_T9AMg-ASsXjmxP_F5YbPKA=' alt='21,100+ Black And White Fire Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1404539370/photo/3d-illustration-of-white-smoke-swirling-in-the-dark.jpg?s=612x612&w=0&k=20&c=UNUKbH0__2RzejGTKHbh_T9AMg-ASsXjmxP_F5YbPKA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Fire black & white aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/de/4b/d9de4b9aad1b9b458b0e096a47a8bbd9.jpg' alt='Wallpaper Fire black & white aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/de/4b/d9de4b9aad1b9b458b0e096a47a8bbd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Fire Background in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/99664/free-white-fire-background-kbgq2.jpg' alt='White Fire Background in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/99664/free-white-fire-background-kbgq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,800+ Black And White Flames Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/893107732/photo/blazing-fire-flame-black-and-white-for-background-and-abstract.jpg?s=612x612&w=0&k=20&c=ZlY5UlJAWNRNcArUq-AsfDjumvhqzH2TPbczakBOKuM=' alt='7,800+ Black And White Flames Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/893107732/photo/blazing-fire-flame-black-and-white-for-background-and-abstract.jpg?s=612x612&w=0&k=20&c=ZlY5UlJAWNRNcArUq-AsfDjumvhqzH2TPbczakBOKuM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black and white fire sparkle on white background without fine ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/photos/black-and-white-fire-sparkle-on-white-background-without-fine-focus-picture-id1127012911' alt='black and white fire sparkle on white background without fine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everypixel.com" />
+                                </span>
+                                <a href='https://media.istockphoto.com/photos/black-and-white-fire-sparkle-on-white-background-without-fine-focus-picture-id1127012911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intense Fire Flames Texture Set Against A Black Background, Fire ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240523/original/pngtree-intense-fire-flames-texture-set-against-a-black-background-png-image_15158679.png' alt='Intense Fire Flames Texture Set Against A Black Background, Fire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240523/original/pngtree-intense-fire-flames-texture-set-against-a-black-background-png-image_15158679.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flames white background Black and White Stock Photos & Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FNTY66/vector-black-and-white-seamless-pattern-of-flowing-cornersabstract-texture-of-stylized-flames-isolated-on-white-background-2FNTY66.jpg' alt='Flames white background Black and White Stock Photos & Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FNTY66/vector-black-and-white-seamless-pattern-of-flowing-cornersabstract-texture-of-stylized-flames-isolated-on-white-background-2FNTY66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Fire Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-white-photo-fire-flames-with-word-fire-it_1282070-4587.jpg?semt=ais_hybrid' alt='White Fire Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-white-photo-fire-flames-with-word-fire-it_1282070-4587.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Background White Images – Browse 1,484,601 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/23/99/40/360_F_123994033_luWwsnHhruS1Iyu7FMNex0UAmDCgqvhR.jpg' alt='Fire Background White Images – Browse 1,484,601 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/23/99/40/360_F_123994033_luWwsnHhruS1Iyu7FMNex0UAmDCgqvhR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

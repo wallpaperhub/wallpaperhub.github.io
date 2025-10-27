@@ -1,0 +1,129 @@
+<title>Fall Cows: Embracing Autumn on the Farm</title>
+                    <meta name="description" content="Discover the beauty of fall cows as they graze amid vibrant autumn landscapes. Learn how farmers prepare their herds for the colder months, focusing on nutrition and care. Experience the charm of these gentle giants in the heart of autumn's glow.">
+                    <meta name="keywords" content="fall cow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-cow">
+                            <span itemprop="name">fall cow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fall Cows: Embracing Autumn on the Farm</h1>
+                <p>As autumn arrives, the fall cow begins its seasonal transformation. Farmers prepare their herds for the colder months, focusing on nutrition and shelter. The vibrant landscapes are perfect for grazing, while the crisp air invigorates the animals. Observing these gentle giants against the backdrop of autumn foliage is a sight to behold.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall, Baby Cow, Fall Png, digital download, Hey Pumpkin Png  Sublimation Design Download, Cute Highland Cow Png, Fall Png, Autumn Png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42711062/r/il/3f6e3f/5320892612/il_570xN.5320892612_40p2.jpg' alt='Happy Fall, Baby Cow, Fall Png, digital download, Hey Pumpkin Png  Sublimation Design Download, Cute Highland Cow Png, Fall Png, Autumn Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42711062/r/il/3f6e3f/5320892612/il_570xN.5320892612_40p2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,300+ Autumn Cow Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1172569773/photo/a-lone-black-angus-cow.jpg?s=612x612&w=0&k=20&c=OXGRAVNNPRuJQgztOrkMqUOoL2SGIu2bgZwTv1JAWbo=' alt='23,300+ Autumn Cow Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1172569773/photo/a-lone-black-angus-cow.jpg?s=612x612&w=0&k=20&c=OXGRAVNNPRuJQgztOrkMqUOoL2SGIu2bgZwTv1JAWbo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Highland Cow PNG, It's Fall Y'all, Sublimation Design, Autumn Cow  Shirt Design, Thanksgiving Cow, Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19853319/r/il/44dd73/5197562323/il_570xN.5197562323_a0va.jpg' alt='Fall Highland Cow PNG, It's Fall Y'all, Sublimation Design, Autumn Cow  Shirt Design, Thanksgiving Cow, Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19853319/r/il/44dd73/5197562323/il_570xN.5197562323_a0va.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Landscape Cow Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static1.bigstockphoto.com/5/0/2/large1500/205083766.jpg' alt='Autumn Landscape Cow Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static1.bigstockphoto.com/5/0/2/large1500/205083766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Cow by Kathleen Parr Mckenna">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/fall-cow-kathleen-parr-mckenna.jpg' alt='Fall Cow by Kathleen Parr Mckenna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/fall-cow-kathleen-parr-mckenna.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall cow – Crafty Hollow Co.">
+                                <img itemprop="contentUrl url" src='https://craftyhollowco.com/cdn/shop/files/C51CEDC9-DBED-4689-A998-1CCEF329F426.jpg?v=1729992386&width=1920' alt='Fall cow – Crafty Hollow Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crafty Hollow Co." />
+                                </span>
+                                <a href='https://craftyhollowco.com/cdn/shop/files/C51CEDC9-DBED-4689-A998-1CCEF329F426.jpg?v=1729992386&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Highland Cow Tumbler Wrap - Sublimation Transfer">
+                                <img itemprop="contentUrl url" src='https://classycraftstransfers.com/cdn/shop/files/FallHighlandCowTumblerWrap.jpg?v=1695996831&width=1445' alt='Fall Highland Cow Tumbler Wrap - Sublimation Transfer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classy Crafts" />
+                                </span>
+                                <a href='https://classycraftstransfers.com/cdn/shop/files/FallHighlandCowTumblerWrap.jpg?v=1695996831&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,300+ Autumn Cow Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/831769592/photo/country-scenery-on-late-autumn-season.jpg?s=612x612&w=0&k=20&c=gBkBQZxbp81C9jd4mD5YKysTl4mF0ulTen5xnoz8NP0=' alt='23,300+ Autumn Cow Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/831769592/photo/country-scenery-on-late-autumn-season.jpg?s=612x612&w=0&k=20&c=gBkBQZxbp81C9jd4mD5YKysTl4mF0ulTen5xnoz8NP0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Autumn Calf">
+                                <img itemprop="contentUrl url" src='https://kudumagnets.com/cdn/shop/files/fall-calf-des.jpg?v=1696579769' alt='An Autumn Calf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUDUmagnets" />
+                                </span>
+                                <a href='https://kudumagnets.com/cdn/shop/files/fall-calf-des.jpg?v=1696579769' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cow Sublimation Png Clipart, Fall Sublimation, Autumn Png">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/dkdesigns-fall-animals-bundle-3-d56dc2ea223e5aa550c5274e582da30d7742572201f888c5e6c7b469fa141bf3.jpg' alt='Cow Sublimation Png Clipart, Fall Sublimation, Autumn Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/dkdesigns-fall-animals-bundle-3-d56dc2ea223e5aa550c5274e582da30d7742572201f888c5e6c7b469fa141bf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

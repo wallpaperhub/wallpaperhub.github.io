@@ -1,0 +1,129 @@
+<title>Stunning Toyota Supra 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 4K Toyota Supra wallpapers that capture the essence of this legendary sports car. Perfect for fans and enthusiasts, these high-resolution images enhance your mobile and desktop screens. Download now to showcase the stunning design and performance of the Toyota Supra!">
+                    <meta name="keywords" content="toyota supra 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/toyota-supra-4k-wallpaper">
+                            <span itemprop="name">toyota supra 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Toyota Supra 4K Wallpapers for Your Device</h1>
+                <p>Explore stunning 4K wallpapers of the iconic Toyota Supra, showcasing its sleek design and powerful performance. Perfect for car enthusiasts and fans of high-definition visuals, these wallpapers elevate your screens with breathtaking views of the Supra. Download your favorite and enjoy the beauty of this legendary sports car!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supra Photos, Download The BEST Free Supra Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/9212878/pexels-photo-9212878.jpeg?cs=srgb&dl=pexels-dbaler-9212878.jpg&fm=jpg' alt='Supra Photos, Download The BEST Free Supra Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5882">
+                                <meta itemprop="height" content="3921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/9212878/pexels-photo-9212878.jpeg?cs=srgb&dl=pexels-dbaler-9212878.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Laptop Car Toyota Supra Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/4k-laptop-car-toyota-supra-3vpo6s8g2wq8xitp.jpg' alt='4k Laptop Car Toyota Supra Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/4k-laptop-car-toyota-supra-3vpo6s8g2wq8xitp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Sports Toyota Supra Wallpapers 4k hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/fc/3c/f9fc3cdd193039de39bfb1c443e412d8.jpg' alt='Best Sports Toyota Supra Wallpapers 4k hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/fc/3c/f9fc3cdd193039de39bfb1c443e412d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160 Wallpaper on X: "Toyota Supra Blue Neon Lights 4K ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DdiQh0jU8AITI4y.jpg' alt='3840x2160 Wallpaper on X: "Toyota Supra Blue Neon Lights 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DdiQh0jU8AITI4y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota Supra        #ipwall #wallspace #обои #ios19 #ios ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC7GyvfO5J5/1/image.jpg' alt='Toyota Supra        #ipwall #wallspace #обои #ios19 #ios ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC7GyvfO5J5/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota Supra Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/4e/91/154e91a334af7966166a9a903d879746.jpg' alt='Toyota Supra Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/4e/91/154e91a334af7966166a9a903d879746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Toyota Supra Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/toyota-supra-i0q2nq73l3lti88k.jpg' alt='200+] Toyota Supra Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/toyota-supra-i0q2nq73l3lti88k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supra Photos, Download The BEST Free Supra Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/9762341/pexels-photo-9762341.jpeg?cs=srgb&dl=pexels-theshuttervision-9762341.jpg&fm=jpg' alt='Supra Photos, Download The BEST Free Supra Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2410">
+                                <meta itemprop="height" content="3615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/9762341/pexels-photo-9762341.jpeg?cs=srgb&dl=pexels-theshuttervision-9762341.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supra Mk4 - Ambient Tunnel Drive - 4K Ultra HD 60fps">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CiQJSR4mYJ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAlVivCrsUzVFUt1xQfKckc1cEKpw' alt='Supra Mk4 - Ambient Tunnel Drive - 4K Ultra HD 60fps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CiQJSR4mYJ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAlVivCrsUzVFUt1xQfKckc1cEKpw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota Supra Animated Wallpaper by Favorisxp on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dghmj56-a6857ed3-4ea9-4133-be16-a1b9034aac3d.jpg' alt='Toyota Supra Animated Wallpaper by Favorisxp on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dghmj56-a6857ed3-4ea9-4133-be16-a1b9034aac3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

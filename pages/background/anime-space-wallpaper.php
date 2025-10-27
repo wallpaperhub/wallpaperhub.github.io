@@ -1,0 +1,129 @@
+<title>Stunning Anime Space Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover breathtaking anime space wallpapers that blend fantasy and cosmic beauty. Perfect for mobile devices, these vibrant designs will elevate your screen with stunning visuals. Explore vast galaxies and whimsical characters that bring your love for anime and space together in a perfect digital display!">
+                    <meta name="keywords" content="anime space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-space-wallpaper">
+                            <span itemprop="name">anime space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Space Wallpapers for Every Fan</h1>
+                <p>Transform your screen with stunning anime space wallpaper! Featuring vibrant cosmic colors, sleek spacecraft designs, and celestial landscapes, these wallpapers immerse you in a blend of fantasy and adventure. Perfect for anime fans and space enthusiasts alike, elevate your digital space with these breathtaking visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Anime Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-anime-space-f9m89baskch2e9yd.jpg' alt='100+] 4k Anime Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-anime-space-f9m89baskch2e9yd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Space Illust Anime Girl Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/starry-space-illust-anime-girl-wallpaper-9ltftyqp1bhb9oz2.jpg' alt='Starry Space Illust Anime Girl Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/starry-space-illust-anime-girl-wallpaper-9ltftyqp1bhb9oz2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Anime Planet Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/space-anime-planet-xu68j18qggue5zz3.jpg' alt='Download Space Anime Planet Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/space-anime-planet-xu68j18qggue5zz3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Space Wallpaper Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-155.jpg' alt='Anime Space Wallpaper Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Form View Earth Space Anime HD WALLPAPER - /s/Cinnamon">
+                                <img itemprop="contentUrl url" src='https://data.1freewallpapers.com/download/girl-form-view-earth-space-anime.jpg' alt='Girl Form View Earth Space Anime HD WALLPAPER - /s/Cinnamon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="2916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cinnamon Look" />
+                                </span>
+                                <a href='https://data.1freewallpapers.com/download/girl-form-view-earth-space-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Anime Girl Anime Girl HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/123/1232798.jpg' alt='Download Space Anime Girl Anime Girl HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/123/1232798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Space, Anime Scenery, Anime, Space, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/199/581/HD-wallpaper-anime-space-anime-scenery-anime-space.jpg' alt='Anime Space, Anime Scenery, Anime, Space, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/199/581/HD-wallpaper-anime-space-anime-scenery-anime-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | af50-anime-girl-in-space-sky">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-af50-anime-girl-in-space-sky-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | af50-anime-girl-in-space-sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-af50-anime-girl-in-space-sky-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Anime, Original, space, star - space, astronomy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/7e/85/7b7e859c3385a7b9a7d6414d6eefbf0b.jpg' alt='HD wallpaper: Anime, Original, space, star - space, astronomy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/7e/85/7b7e859c3385a7b9a7d6414d6eefbf0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape Screencap Wallpaper (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anime-landscape-screencap-wallpaper-1920x1080-v0-iueyr8l8os891.jpg?width=640&crop=smart&auto=webp&s=899a548a0de5e8729b4ca6dd268c6af9312d952f' alt='Anime Landscape Screencap Wallpaper (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anime-landscape-screencap-wallpaper-1920x1080-v0-iueyr8l8os891.jpg?width=640&crop=smart&auto=webp&s=899a548a0de5e8729b4ca6dd268c6af9312d952f' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Live Wallpaper Ideas for Your MacBook</title>
+                    <meta name="description" content="Discover captivating live wallpaper options for your MacBook! Elevate your workspace with beautiful animations and dynamic visuals that inspire creativity and productivity. Find the perfect wallpaper that matches your style and transforms your everyday computing experience today!">
+                    <meta name="keywords" content="live wallpaper for macbook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook">
+                            <span itemprop="name">Macbook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook/live-wallpaper-for-macbook">
+                            <span itemprop="name">live wallpaper for macbook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Wallpaper Ideas for Your MacBook</h1>
+                <p>Transform your MacBook’s desktop with stunning live wallpaper! Choose from mesmerizing animations, breathtaking nature scenes, or dynamic art to create a personalized backdrop that reflects your style. Enhance productivity and elevate your workspace atmosphere with vibrant visuals. Explore options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mac Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Mac Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live hot sale wallpaper macbook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/2f/c7/222fc7f8e6234019a8294beb8b473a71.jpg' alt='Live hot sale wallpaper macbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alika The Saloon" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/2f/c7/222fc7f8e6234019a8294beb8b473a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set Live Wallpaper on Mac in 2024 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/S0SWwiCQhE0/sddefault.jpg' alt='How to set Live Wallpaper on Mac in 2024 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/S0SWwiCQhE0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Live Wallpapers on Mac - iSTYLE Apple UAE">
+                                <img itemprop="contentUrl url" src='https://istyle.ae/media/wysiwyg/AE/blog/how-to-get-live-wallpapers-on-mac-blog-2.png' alt='How to Get Live Wallpapers on Mac - iSTYLE Apple UAE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iSTYLE" />
+                                </span>
+                                <a href='https://istyle.ae/media/wysiwyg/AE/blog/how-to-get-live-wallpapers-on-mac-blog-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Live Wallpaper on Mac | Trend Micro News">
+                                <img itemprop="contentUrl url" src='https://news.trendmicro.com/api/wp-content/uploads/2022/11/How-to-Make-a-Live-Wallpaper-on-Mac_20221119-1024x683.jpg' alt='How to Make a Live Wallpaper on Mac | Trend Micro News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trend Micro News" />
+                                </span>
+                                <a href='https://news.trendmicro.com/api/wp-content/uploads/2022/11/How-to-Make-a-Live-Wallpaper-on-Mac_20221119-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This App Brings Beautiful Live Wallpapers To Your Mac OS X Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cdn.redmondpie.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-20.04.39.jpg' alt='This App Brings Beautiful Live Wallpapers To Your Mac OS X Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmond Pie" />
+                                </span>
+                                <a href='https://cdn.redmondpie.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-20.04.39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Live Wallpapers for MacBook Pro on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/75/4d/f9754d3a93ba6ff3aa811e64579c8bc0.jpg' alt='   Live Wallpapers for MacBook Pro on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/75/4d/f9754d3a93ba6ff3aa811e64579c8bc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live paint mac Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/5d/75/ce5d752859053e930338f566e394927f.jpg' alt='Live paint mac Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/5d/75/ce5d752859053e930338f566e394927f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set Your OWN Live Wallpapers on macOS Sonoma: EASY! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9f_RO-uqqQc/sddefault.jpg' alt='How to Set Your OWN Live Wallpapers on macOS Sonoma: EASY! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9f_RO-uqqQc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled Live Wallpaper for Macbook">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7379109974804286763&location=0&aid=1988' alt='Tangled Live Wallpaper for Macbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7379109974804286763&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

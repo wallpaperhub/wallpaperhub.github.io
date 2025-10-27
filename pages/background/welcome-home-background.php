@@ -1,0 +1,129 @@
+<title>Welcome Home: Create Your Cozy Background</title>
+                    <meta name="description" content="Discover how to create the perfect welcome home background that embodies warmth and comfort. Explore design tips, decor ideas, and more to transform your space into a haven of relaxation and happiness. Your journey to a cozy, inviting atmosphere starts here!">
+                    <meta name="keywords" content="welcome home background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-home-background">
+                            <span itemprop="name">welcome home background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Welcome Home: Create Your Cozy Background</h1>
+                <p>Welcome home! A background rich in warmth and familiarity invites you to relax and unwind. It embodies a sense of belonging, filled with cherished memories and comforting scents. It's the space where stories unfold, laughter echoes, and love thrives. Your haven awaits, ready to embrace you with open arms!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Welcome Back Backdrop Banner Home Decorations Black Gold  Homecoming Welcome Party Decor We Missed You So Much,Background for Family  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91BPJSClTXL.jpg' alt='Amazon.com: Welcome Back Backdrop Banner Home Decorations Black Gold  Homecoming Welcome Party Decor We Missed You So Much,Background for Family  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91BPJSClTXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Home Banner Backdrop, Blue Silver Welcome Home Backdrop Photography  Background for Army Theme Deployment Return Home Family Homecoming Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KWUet2aBL._AC_UF894,1000_QL80_.jpg' alt='Welcome Home Banner Backdrop, Blue Silver Welcome Home Backdrop Photography  Background for Army Theme Deployment Return Home Family Homecoming Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KWUet2aBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Home Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/762/315/small/the-facade-of-the-building-is-in-a-classic-style-with-an-entrance-door-and-siding-horizontal-banner-with-the-inscription-welcome-home-vector.jpg' alt='Welcome Home Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/762/315/small/the-facade-of-the-building-is-in-a-classic-style-with-an-entrance-door-and-siding-horizontal-banner-with-the-inscription-welcome-home-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,518 Welcome Home Signs Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2308141671/display_1500/stock-vector-welcome-home-on-colorful-banner-2308141671.jpg' alt='41,518 Welcome Home Signs Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2308141671/display_1500/stock-vector-welcome-home-on-colorful-banner-2308141671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Tatuo Welcome Home Backdrop Homecoming Party Decorations  Supplies Welcome Back Banner Return Home Photography Background for Family  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81InxxKkN8L.jpg' alt='Amazon.com : Tatuo Welcome Home Backdrop Homecoming Party Decorations  Supplies Welcome Back Banner Return Home Photography Background for Family  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81InxxKkN8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Welcome home background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/welcome-home-background_395-2147490899.jpg' alt='Free Vector | Welcome home background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/welcome-home-background_395-2147490899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Welcome Home Vector 108855 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/108/855/non_2x/free-welcome-home-vector.jpg' alt='Free Welcome Home Vector 108855 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/108/855/non_2x/free-welcome-home-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition of welcome home text with airplane over clouds on blue ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FNYTPK/composition-of-welcome-home-text-with-airplane-over-clouds-on-blue-background-2FNYTPK.jpg' alt='Composition of welcome home text with airplane over clouds on blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FNYTPK/composition-of-welcome-home-text-with-airplane-over-clouds-on-blue-background-2FNYTPK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Home Poster Images – Browse 13,585 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/07/39/16/360_F_507391666_V5WjMFp8wFh2065gcZhjiH7vYyAmhQr0.jpg' alt='Welcome Home Poster Images – Browse 13,585 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/07/39/16/360_F_507391666_V5WjMFp8wFh2065gcZhjiH7vYyAmhQr0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,519 Welcome Home Sign Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/welcome-home-on-blue-colors-260nw-2308138731.jpg' alt='41,519 Welcome Home Sign Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/welcome-home-on-blue-colors-260nw-2308138731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

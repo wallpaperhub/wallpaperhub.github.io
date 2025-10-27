@@ -1,0 +1,129 @@
+<title>Chucky Christmas Wallpaper: Festive Horror Decor</title>
+                    <meta name="description" content="Add a twist to your holiday decor with our Chucky Christmas wallpaper! Perfect for horror fans, this vibrant design will set a festive yet thrilling atmosphere in your home. Ideal for creating a unique holiday vibe that stands out, whether it’s for your living room, bedroom, or party space!">
+                    <meta name="keywords" content="chucky christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/chucky-christmas-wallpaper">
+                            <span itemprop="name">chucky christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chucky Christmas Wallpaper: Festive Horror Decor</h1>
+                <p>Embrace the festive spirit with Chucky Christmas wallpaper! This unique design blends the horror of Chucky with cheerful holiday motifs, perfect for fans of both Christmas and classic horror. Transform your space into a thrilling winter wonderland and spread some spooky cheer this holiday season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHUCKY Christmas Pic I Did On Dark Color App I Have 2/13/23">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/37/e7/bb37e79d5d254f7c965c9d63f78a7401.jpg' alt='CHUCKY Christmas Pic I Did On Dark Color App I Have 2/13/23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/37/e7/bb37e79d5d254f7c965c9d63f78a7401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Christmas, chucky, childs play, christmas, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/568/802/HD-wallpaper-chucky-christmas-chucky-childs-play-christmas.jpg' alt='Chucky Christmas, chucky, childs play, christmas, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/568/802/HD-wallpaper-chucky-christmas-chucky-childs-play-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chuky Navideño   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/97/7b/89977b65c5fd5cd281bfff8e347a0666.jpg' alt='Chuky Navideño   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/97/7b/89977b65c5fd5cd281bfff8e347a0666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seed of chucky Christmas pic from the_classically_deceased">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/75/13/a17513b2b59df9721f3f47bb3a4df4ad.jpg' alt='seed of chucky Christmas pic from the_classically_deceased'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/75/13/a17513b2b59df9721f3f47bb3a4df4ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Christmas | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2428310523.3398/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Chucky Christmas | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2428310523.3398/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD chucky christmas wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/936/727/HD-wallpaper-chucky-christmas-childs-play.jpg' alt='HD chucky christmas wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/936/727/HD-wallpaper-chucky-christmas-childs-play.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i like posting the chucky content :);">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/b5/96/56b59674ed512904edecfcc060095426.jpg' alt='i like posting the chucky content :);'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/b5/96/56b59674ed512904edecfcc060095426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Christmas PNG | Chucky Halloween PNG | Horror Movie ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/9a/ae/439aaede8d5e5e461b70ae1b61827a77.jpg' alt='Chucky Christmas PNG | Chucky Halloween PNG | Horror Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/9a/ae/439aaede8d5e5e461b70ae1b61827a77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don Mancini on X: "HAPPY HOLIDAYS! (Including to whomever made ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EMlC-Z4U8AAtYVL.jpg' alt='Don Mancini on X: "HAPPY HOLIDAYS! (Including to whomever made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EMlC-Z4U8AAtYVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Child_s Play - Merry Christmas - Chucky | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4688280736.0342/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Child_s Play - Merry Christmas - Chucky | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4688280736.0342/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

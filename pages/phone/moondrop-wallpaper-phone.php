@@ -1,0 +1,129 @@
+<title>Stunning Moondrop Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore mesmerizing moondrop wallpapers that elevate your phone's aesthetic. Perfect for space lovers, these beautiful designs showcase the magic of the moon and stars, enhancing your device with a serene and enchanting vibe. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="moondrop wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/moondrop-wallpaper-phone">
+                            <span itemprop="name">moondrop wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moondrop Wallpapers for Your Phone</h1>
+                <p>Transform your phone's home screen with stunning moondrop wallpapers. These celestial designs bring a touch of elegance and tranquility to your device. Choose from a variety of styles, featuring captivating moon phases and starry night skies. Perfect for anyone who loves the beauty of space and wants to add a unique flair to their smartphone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JaeKaeBich on X: "I always wanted to make these wallpaper and ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FaK_Pm5WQAAVdSa.jpg:large' alt='JaeKaeBich on X: "I always wanted to make these wallpaper and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="954">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FaK_Pm5WQAAVdSa.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moon/moondrop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/58/c0/f558c0a434838b403f28a2432bf4a227.jpg' alt='moon/moondrop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/58/c0/f558c0a434838b403f28a2432bf4a227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☀️☆Rotten_W☆   on X: "I drew the phone wallpaper of the moon ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F3Gml-sagAALAWZ.jpg:large' alt='☀️☆Rotten_W☆   on X: "I drew the phone wallpaper of the moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F3Gml-sagAALAWZ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moondrop wallpaper #livewallpaper #fnafwallpaper #livefnafwallpaper  #moondropwallpaper #moondrop">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7088502013939567918&location=0&aid=1988' alt='moondrop wallpaper #livewallpaper #fnafwallpaper #livefnafwallpaper  #moondropwallpaper #moondrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7088502013939567918&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MOONDROP WALLPAPER 1/2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/30/62/703062585c732db9d1a15cbcdcbf6193.jpg' alt='MOONDROP WALLPAPER 1/2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/30/62/703062585c732db9d1a15cbcdcbf6193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A magical and tranquil surrounding of a cool Moondrop ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/moondrop-bxqqgmpv5eqo2sat.jpg' alt='Download A magical and tranquil surrounding of a cool Moondrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/moondrop-bxqqgmpv5eqo2sat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sundrop moondrop wallpaper for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/4bb7f846-67e0-4c13-8669-d979eddc8ce0/3579547804/sundrop-moondrop-wallpaper-screenshot.png' alt='sundrop moondrop wallpaper for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sundrop-moondrop-wallpaper.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/4bb7f846-67e0-4c13-8669-d979eddc8ce0/3579547804/sundrop-moondrop-wallpaper-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Admire the beauty of Moondrop Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/moondrop-dwbd8fdgvibea42z.jpg' alt='Download Admire the beauty of Moondrop Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/moondrop-dwbd8fdgvibea42z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sundrop And Moondrop wallpaper thing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/ed/02/09ed02e4838945dad0fe3885c871d071.jpg' alt='Sundrop And Moondrop wallpaper thing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/ed/02/09ed02e4838945dad0fe3885c871d071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moondrop Sleepy Time Jigsaw Puzzle">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/moondrop-sleepy-time-dallas-garcia.jpg?&targetx=0&targety=-2&imagewidth=750&imageheight=1000&modelwidth=750&modelheight=1000&backgroundcolor=AD9ED8&orientation=1&producttype=puzzle-18-24&brightness=158&v=6' alt='Moondrop Sleepy Time Jigsaw Puzzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/moondrop-sleepy-time-dallas-garcia.jpg?&targetx=0&targety=-2&imagewidth=750&imageheight=1000&modelwidth=750&modelheight=1000&backgroundcolor=AD9ED8&orientation=1&producttype=puzzle-18-24&brightness=158&v=6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

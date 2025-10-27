@@ -1,0 +1,129 @@
+<title>Understanding PepsiCo's Background Check Process</title>
+                    <meta name="description" content="Learn about PepsiCo's comprehensive background check process for job applicants, including employment verification and criminal history. Ensure you’re prepared by understanding what to expect when applying for a position with this leading company.">
+                    <meta name="keywords" content="pepsico background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pepsico-background-check">
+                            <span itemprop="name">pepsico background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding PepsiCo's Background Check Process</h1>
+                <p>PepsiCo conducts thorough background checks for potential employees as part of its hiring process. These checks typically include verification of employment history, education, and criminal records. This helps ensure the integrity and reliability of candidates, aligning with the company's commitment to maintaining a safe and productive workplace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Class Action Says Background Checks Violate Federal Law">
+                                <img itemprop="contentUrl url" src='https://topclassactions.com/wp-content/uploads/2017/09/pepsi.jpg.optimal.jpg' alt='Pepsi Class Action Says Background Checks Violate Federal Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top Class Actions" />
+                                </span>
+                                <a href='https://topclassactions.com/wp-content/uploads/2017/09/pepsi.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Pepsico hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-pepsico-hire-felons.webp' alt='Does Pepsico hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-pepsico-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does it take to get an background check email from ...">
+                                <img itemprop="contentUrl url" src='https://styles.redditmedia.com/t5_2r60c/styles/communityIcon_hqcrovo4o4kb1.png' alt='How long does it take to get an background check email from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://styles.redditmedia.com/t5_2r60c/styles/communityIcon_hqcrovo4o4kb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Getting hired: PepsiCo careers | Jobcase">
+                                <img itemprop="contentUrl url" src='https://media.jobcase.com/images/f6e03833-306d-4f06-8c41-59a43742aba4/large.webp' alt='Getting hired: PepsiCo careers | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://media.jobcase.com/images/f6e03833-306d-4f06-8c41-59a43742aba4/large.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsico 2014 10-K">
+                                <img itemprop="contentUrl url" src='https://www.sec.gov/Archives/edgar/data/77476/000007747615000012/peplogonew2014a01a01a01.jpg' alt='Pepsico 2014 10-K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEC.gov" />
+                                </span>
+                                <a href='https://www.sec.gov/Archives/edgar/data/77476/000007747615000012/peplogonew2014a01a01a01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the hiring process at Pepsico? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-pepsico.webp' alt='What is the hiring process at Pepsico? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-pepsico.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for PepsiCo Middle East">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066484457151' alt='Profile for PepsiCo Middle East'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066484457151' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview process : r/Pepsi">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/interview-process-v0-8337l0bysc7d1.jpeg?width=640&crop=smart&auto=webp&s=40c0d6272ce44395bdea4829b7e6150c5a43f2f8' alt='Interview process : r/Pepsi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/interview-process-v0-8337l0bysc7d1.jpeg?width=640&crop=smart&auto=webp&s=40c0d6272ce44395bdea4829b7e6150c5a43f2f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PepsiCo can be sued over health claims for Gatorade protein bars ...">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/RA4HRYRQGBMG7GICJE47K4HTT4.jpg?auth=c62dff5bcba8c9aac7edecb01525bf771190689f2a663156ffd92a717d7185a4&width=800&quality=80' alt='PepsiCo can be sued over health claims for Gatorade protein bars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/RA4HRYRQGBMG7GICJE47K4HTT4.jpg?auth=c62dff5bcba8c9aac7edecb01525bf771190689f2a663156ffd92a717d7185a4&width=800&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PepsiCo Careers">
+                                <img itemprop="contentUrl url" src='https://cms.jibecdn.com/prod/pepsico/assets/LP-SKU-D4-2-BACKGROUND-en-us-1541708469305.jpg' alt='PepsiCo Careers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1311">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PepsiCo Careers" />
+                                </span>
+                                <a href='https://cms.jibecdn.com/prod/pepsico/assets/LP-SKU-D4-2-BACKGROUND-en-us-1541708469305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

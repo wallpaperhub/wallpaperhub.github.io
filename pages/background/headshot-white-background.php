@@ -1,0 +1,129 @@
+<title>Professional Headshots with White Backgrounds</title>
+                    <meta name="description" content="Discover the importance of headshots with a white background for enhancing your professional image. Ideal for resumes and online profiles, these images ensure you're presented in the best light. Learn tips for achieving the perfect headshot today!">
+                    <meta name="keywords" content="headshot white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/headshot-white-background">
+                            <span itemprop="name">headshot white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Professional Headshots with White Backgrounds</h1>
+                <p>Headshots with a white background are ideal for professional portfolios, resumes, and social media profiles. This clean backdrop emphasizes your features and ensures you are the focus. Proper lighting and composition enhance your image, creating a polished and approachable look. Perfect for all industries!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White background headshots | Chris Gillett based in Houston, TX">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2019/12/WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer-9.jpg' alt='White background headshots | Chris Gillett based in Houston, TX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2019/12/WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Headshot Backgrounds | HeadShots Inc">
+                                <img itemprop="contentUrl url" src='https://headshots-inc.com/wp-content/uploads/2023/02/pure-white-background-for-professional-headshots-1.jpg' alt='Professional Headshot Backgrounds | HeadShots Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeadShots Inc" />
+                                </span>
+                                <a href='https://headshots-inc.com/wp-content/uploads/2023/02/pure-white-background-for-professional-headshots-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Headshot Male White Background Images – Browse 57,009 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/36/70/88/360_F_636708884_seTHzKWBbeBGi8G2KHqZJjYPwp9k9Lvv.jpg' alt='Headshot Male White Background Images – Browse 57,009 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/36/70/88/360_F_636708884_seTHzKWBbeBGi8G2KHqZJjYPwp9k9Lvv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the best headshot background? - Camera 1 - Headshots in ...">
+                                <img itemprop="contentUrl url" src='https://nycphoto.com/wp-content/uploads/2023/11/white_headshot_background-1200x800.jpg' alt='What is the best headshot background? - Camera 1 - Headshots in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Camera 1" />
+                                </span>
+                                <a href='https://nycphoto.com/wp-content/uploads/2023/11/white_headshot_background-1200x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Pure White Background in Camera | Fstoppers">
+                                <img itemprop="contentUrl url" src='https://cdn.fstoppers.com/styles/full/s3/media/2022/01/13/theatrical-headshot.jpg' alt='How to Create a Pure White Background in Camera | Fstoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fstoppers" />
+                                </span>
+                                <a href='https://cdn.fstoppers.com/styles/full/s3/media/2022/01/13/theatrical-headshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,421 Female Headshot White Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/warm-friendly-beautiful-cheerful-african-american-executive-business-woman-isolated-white-background-beautiful-female-african-167982803.jpg' alt='23,421 Female Headshot White Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/warm-friendly-beautiful-cheerful-african-american-executive-business-woman-isolated-white-background-beautiful-female-african-167982803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 3 Best Background Colours for Headshots and How To Choose Yours">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54c81c02e4b0caafc972b5b0/1643420070583-OCCJO7JB2XV2NB6TQRE1/corporate+real+estate+headshots+hamilton.jpg' alt='The 3 Best Background Colours for Headshots and How To Choose Yours'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="christina de melo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54c81c02e4b0caafc972b5b0/1643420070583-OCCJO7JB2XV2NB6TQRE1/corporate+real+estate+headshots+hamilton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White background headshots | Chris Gillett based in Houston, TX">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2022/12/Jamie-Setterbo143-2-Edit-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' alt='White background headshots | Chris Gillett based in Houston, TX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2022/12/Jamie-Setterbo143-2-Edit-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do I have to have a headshot with a white background? | Maryland ...">
+                                <img itemprop="contentUrl url" src='https://traviscurry.wordpress.com/wp-content/uploads/2015/01/headshot-white-background-studio-travis-curry.jpg' alt='Do I have to have a headshot with a white background? | Maryland ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maryland Professional Photographer - WordPress.com" />
+                                </span>
+                                <a href='https://traviscurry.wordpress.com/wp-content/uploads/2015/01/headshot-white-background-studio-travis-curry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,000 Corporate Headshot White Background Royalty-Free Photos and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/beautiful-female-african-american-business-600nw-1601707636.jpg' alt='4,000 Corporate Headshot White Background Royalty-Free Photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/beautiful-female-african-american-business-600nw-1601707636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

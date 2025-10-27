@@ -1,0 +1,129 @@
+<title>Discover the Legacy of Alex Rodriguez: MLB Superstar</title>
+                    <meta name="description" content="Explore the impressive journey of Alex Rodriguez, a baseball legend known for his on-field achievements and off-field ventures. Learn about his career highlights, awards, and his impact on sports and entertainment. Quick insights into A-Rod's life and legacy await!">
+                    <meta name="keywords" content="alex rodriguez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alex-rodriguez">
+                            <span itemprop="name">alex rodriguez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legacy of Alex Rodriguez: MLB Superstar</h1>
+                <p>Alex Rodriguez, also known as A-Rod, is a former professional baseball player celebrated for his incredible skills as a shortstop and third baseman. He played 22 seasons in Major League Baseball (MLB) for the Seattle Mariners, Texas Rangers, and New York Yankees. An inspiring figure, A-Rod has also ventured into business and media.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alex_Rodriguez_crop.jpg/800px-Alex_Rodriguez_crop.jpg' alt='Alex Rodriguez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alex_Rodriguez_crop.jpg/800px-Alex_Rodriguez_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alex_Rodriguez_2007-09-29.jpg/1200px-Alex_Rodriguez_2007-09-29.jpg' alt='Alex Rodriguez - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alex_Rodriguez_2007-09-29.jpg/1200px-Alex_Rodriguez_2007-09-29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez - New York Yankees Designated Hitter - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3115.png' alt='Alex Rodriguez - New York Yankees Designated Hitter - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3115.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez - Fox Sports Press Pass">
+                                <img itemprop="contentUrl url" src='https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2022/12/Alex-Rodriguez_727x727.jpg' alt='Alex Rodriguez - Fox Sports Press Pass'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2022/12/Alex-Rodriguez_727x727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez - Age, Children & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/alex-rodriguez-39389-1-402.jpg' alt='Alex Rodriguez - Age, Children & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/alex-rodriguez-39389-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hero Becomes the Villain: Alex Rodriguez Returns to Seattle ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/h5vHtm9eZ6I1lliYTFNBFat9DLk=/0x0:1370x1920/1200x0/filters:focal(0x0:1370x1920):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22449124/651967.jpg' alt='The Hero Becomes the Villain: Alex Rodriguez Returns to Seattle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookout Landing" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/h5vHtm9eZ6I1lliYTFNBFat9DLk=/0x0:1370x1920/1200x0/filters:focal(0x0:1370x1920):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22449124/651967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timberwolves sale to Alex Rodriguez, Marc Lore back on track after ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2025-02/250210-Alex-Rodriguez-ew-630p-309487.jpg' alt='Timberwolves sale to Alex Rodriguez, Marc Lore back on track after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2025-02/250210-Alex-Rodriguez-ew-630p-309487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez Speaking Engagements, Schedule, & Fee | WSB">
+                                <img itemprop="contentUrl url" src='https://www.wsb.com/wp-content/uploads/2023/04/WSB-Speaker-Alex-Rodriguez-HS-041023.jpg' alt='Alex Rodriguez Speaking Engagements, Schedule, & Fee | WSB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington Speakers Bureau" />
+                                </span>
+                                <a href='https://www.wsb.com/wp-content/uploads/2023/04/WSB-Speaker-Alex-Rodriguez-HS-041023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez and Alex Rodriguez are still together - Los Angeles ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/a38e5d9/2147483647/strip/true/crop/840x560+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2Fc7%2F4233a11a4906b7706eda3ca00b28%2Fjlo-rodriguez-hp.jpg' alt='Jennifer Lopez and Alex Rodriguez are still together - Los Angeles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/a38e5d9/2147483647/strip/true/crop/840x560+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2Fc7%2F4233a11a4906b7706eda3ca00b28%2Fjlo-rodriguez-hp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Rodriguez | Shark Tank">
+                                <img itemprop="contentUrl url" src='https://cdn1.edgedatg.com/aws/v2/abc/SharkTank/person/2056881/71ecced70497acdaa155d76d45e10eca/362x362-Q90_71ecced70497acdaa155d76d45e10eca.jpg' alt='Alex Rodriguez | Shark Tank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC" />
+                                </span>
+                                <a href='https://cdn1.edgedatg.com/aws/v2/abc/SharkTank/person/2056881/71ecced70497acdaa155d76d45e10eca/362x362-Q90_71ecced70497acdaa155d76d45e10eca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

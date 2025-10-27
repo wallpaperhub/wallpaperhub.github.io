@@ -1,0 +1,129 @@
+<title>How to Get Shoplifting Charges Dropped in SC</title>
+                    <meta name="description" content="Learn effective strategies to get shoplifting charges dropped in South Carolina. Discover legal options, negotiation tactics, and the importance of evidence in protecting your rights and future. Optimize your approach to minimize consequences and explore possible diversion programs.">
+                    <meta name="keywords" content="how to get shoplifting charges dropped in sc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-get-shoplifting-charges-dropped-in-sc">
+                            <span itemprop="name">how to get shoplifting charges dropped in sc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Get Shoplifting Charges Dropped in SC</h1>
+                <p>To get shoplifting charges dropped in South Carolina, first consult with an experienced attorney who understands local laws. They may negotiate with prosecutors for a plea deal, seek diversion programs, or argue lack of intent. Gathering evidence, like receipts or witness statements, can also strengthen your case.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Shoplifting Charges Dropped: Top Legal Strategies">
+                                <img itemprop="contentUrl url" src='https://expresslegalfunding.com/wp-content/uploads/2024/11/how-to-get-shoplifting-charges-dropped-defenses-list-infographic.jpg' alt='How to Get Shoplifting Charges Dropped: Top Legal Strategies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Express Legal Funding" />
+                                </span>
+                                <a href='https://expresslegalfunding.com/wp-content/uploads/2024/11/how-to-get-shoplifting-charges-dropped-defenses-list-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoplifting in South Carolina - What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://charlestonlaw.net/wp-content/uploads/2022/11/shutterstock_1303946092.jpg' alt='Shoplifting in South Carolina - What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Futeral & Nelson, LLC" />
+                                </span>
+                                <a href='https://charlestonlaw.net/wp-content/uploads/2022/11/shutterstock_1303946092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoplifting and Retail Theft Charges in South Carolina">
+                                <img itemprop="contentUrl url" src='https://seatonduncan.com/wp-content/uploads/2022/04/Shoplifting-Retail-Theft-SC.jpg' alt='Shoplifting and Retail Theft Charges in South Carolina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Firm ⋅ Seaton & Duncan" />
+                                </span>
+                                <a href='https://seatonduncan.com/wp-content/uploads/2022/04/Shoplifting-Retail-Theft-SC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Questions About Shoplifting in SC">
+                                <img itemprop="contentUrl url" src='https://www.kentcollinslaw.com/wp-content/uploads/2017/03/Shoplifting-Questions-SC.jpg' alt='11 Questions About Shoplifting in SC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kent Collins Law Firm" />
+                                </span>
+                                <a href='https://www.kentcollinslaw.com/wp-content/uploads/2017/03/Shoplifting-Questions-SC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get Shoplifting Charges Dropped">
+                                <img itemprop="contentUrl url" src='https://attorneycarl.com/wp-content/uploads/2023/11/how-to-get-shoplifting-charges-dropped.jpeg' alt='How To Get Shoplifting Charges Dropped'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barkemeyer Law Firm" />
+                                </span>
+                                <a href='https://attorneycarl.com/wp-content/uploads/2023/11/how-to-get-shoplifting-charges-dropped.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoplifting Defense in South Carolina | Lauren Taylor Law">
+                                <img itemprop="contentUrl url" src='https://laurentaylorlaw.com/wp-content/uploads/2015/08/Dollarphotoclub_81843632-1024x659.jpg' alt='Shoplifting Defense in South Carolina | Lauren Taylor Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lauren Taylor Law" />
+                                </span>
+                                <a href='https://laurentaylorlaw.com/wp-content/uploads/2015/08/Dollarphotoclub_81843632-1024x659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Penalties for Shoplifting in South Carolina?">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/goengineco/image/upload/f_auto,q_auto,w_720,ar_16:9,c_fill/v1/toumalaw/images/penalties_for_shoplifting_ft_6b49c88e7a' alt='What Are the Penalties for Shoplifting in South Carolina?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Touma Law Group" />
+                                </span>
+                                <a href='https://res.cloudinary.com/goengineco/image/upload/f_auto,q_auto,w_720,ar_16:9,c_fill/v1/toumalaw/images/penalties_for_shoplifting_ft_6b49c88e7a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your Shoplifting Case Dropped - Law Office Of Mo Abusaft">
+                                <img itemprop="contentUrl url" src='https://www.moabusaftlaw.com/assets/images/social-share.png' alt='How to Get Your Shoplifting Case Dropped - Law Office Of Mo Abusaft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mo Abusaft" />
+                                </span>
+                                <a href='https://www.moabusaftlaw.com/assets/images/social-share.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoplifting Charges: How To Get A Theft Charge Dismissed?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tqG-VnTr2o4/maxresdefault.jpg' alt='Shoplifting Charges: How To Get A Theft Charge Dismissed?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Express Legal Funding" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tqG-VnTr2o4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Popular Questions About Shoplifting Charges in SC">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DyjIk8iPlUM/maxresdefault.jpg' alt='20 Popular Questions About Shoplifting Charges in SC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Susan E. Williams" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DyjIk8iPlUM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

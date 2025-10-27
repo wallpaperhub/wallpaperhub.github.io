@@ -1,0 +1,129 @@
+<title>Top-Notch Jordan 11s: The Essential Sneaker Guide</title>
+                    <meta name="description" content="Discover the timeless appeal of Jordan 11s, a sneaker that blends style and performance. Explore their history, design, and why they're a staple for collectors and fans. Perfect for everyday wear or showcasing your love for the game!">
+                    <meta name="keywords" content="jordan 11's">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jordan-11s">
+                            <span itemprop="name">jordan 11's</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top-Notch Jordan 11s: The Essential Sneaker Guide</h1>
+                <p>Jordan 11s, a beloved icon in sneaker culture, feature a unique design combining patent leather and mesh. Originally released in 1995, they were made famous by Michael Jordan during his historic NBA season. Fans adore their sleek silhouette and comfortable fit, making them a must-have for collectors and casual wearers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Air Jordan Retro XI 11 DMP GRATITUDE 2023 Metallic Gold CT8012-170 Men  & GS | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/i7sAAOSw64ZljJI2/s-l400.jpg' alt='Nike Air Jordan Retro XI 11 DMP GRATITUDE 2023 Metallic Gold CT8012-170 Men  & GS | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/i7sAAOSw64ZljJI2/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan 11 Retro Cool Grey (2021) (PS)">
+                                <img itemprop="contentUrl url" src='https://store.yankeekicks.com/cdn/shop/products/530d3b66-55c2-4f9d-a2bc-2642c76e0d53_b92d1f83-f981-4faf-b757-95c3a128e3de.png?v=1710307116' alt='Jordan 11 Retro Cool Grey (2021) (PS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yankeekicks" />
+                                </span>
+                                <a href='https://store.yankeekicks.com/cdn/shop/products/530d3b66-55c2-4f9d-a2bc-2642c76e0d53_b92d1f83-f981-4faf-b757-95c3a128e3de.png?v=1710307116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan 11 Cool Grey: Wizard's Magic Trick -">
+                                <img itemprop="contentUrl url" src='https://100wears.com/wp-content/uploads/2021/11/3.4-1.jpg' alt='Jordan 11 Cool Grey: Wizard's Magic Trick -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="100wears" />
+                                </span>
+                                <a href='https://100wears.com/wp-content/uploads/2021/11/3.4-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com | Nike Men's Air Jordan 11 "Gratitude 2023 White ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/51Zv9dIWepL._SLDPMOBCAROUSELAUTOCROP288221_MCnd_AC_SR462,693_.jpg' alt='Amazon.com | Nike Men's Air Jordan 11 "Gratitude 2023 White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/51Zv9dIWepL._SLDPMOBCAROUSELAUTOCROP288221_MCnd_AC_SR462,693_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Jordan 11 'Black/Red' Release Date. Nike SNKRS">
+                                <img itemprop="contentUrl url" src='https://static.nike.com/a/images/w_1280,q_auto,f_auto/25a25a8d-c3cb-4d14-bbc6-c46612877326/air-jordan-11-blackred-release-date.jpg' alt='Air Jordan 11 'Black/Red' Release Date. Nike SNKRS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nike" />
+                                </span>
+                                <a href='https://static.nike.com/a/images/w_1280,q_auto,f_auto/25a25a8d-c3cb-4d14-bbc6-c46612877326/air-jordan-11-blackred-release-date.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Jordan 11 Retro Cherry Kids and Babies - Trainers | Limited Resell">
+                                <img itemprop="contentUrl url" src='https://limitedresell.com/7875-marketplace_1500/air-jordan-11-retro-cherry-kids-and-babies.jpg' alt='Air Jordan 11 Retro Cherry Kids and Babies - Trainers | Limited Resell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limited Resell" />
+                                </span>
+                                <a href='https://limitedresell.com/7875-marketplace_1500/air-jordan-11-retro-cherry-kids-and-babies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Kids' Air Jordan Retro 11 Basketball Shoes| JD Sports">
+                                <img itemprop="contentUrl url" src='https://media.jdsports.com/i/jdsports/378038_104_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)' alt='Big Kids' Air Jordan Retro 11 Basketball Shoes| JD Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Kids' Air Jordan Retro 11 Basketball Shoes| JD Sports" />
+                                </span>
+                                <a href='https://media.jdsports.com/i/jdsports/378038_104_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Jordan 11 Gamma Blue CT8012-017 Release Info | Hypebeast">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F08%2F29%2Fair-jordan-11-gamma-ct8012-017-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max' alt='Air Jordan 11 Gamma Blue CT8012-017 Release Info | Hypebeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F08%2F29%2Fair-jordan-11-gamma-ct8012-017-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The BEST Summer Jordan! Air Jordan 11 Low SPACE JAM Review & On Feet">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/D_2_xZLEvWg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfwqWBhk06g93dq1AD1mJK5hkqRQ' alt='The BEST Summer Jordan! Air Jordan 11 Low SPACE JAM Review & On Feet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/D_2_xZLEvWg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfwqWBhk06g93dq1AD1mJK5hkqRQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com | Nike Men's Air Jordan 11 "Gratitude 2023 White ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CCZqDEpEL.jpg' alt='Amazon.com | Nike Men's Air Jordan 11 "Gratitude 2023 White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CCZqDEpEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

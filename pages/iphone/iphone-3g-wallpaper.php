@@ -1,0 +1,129 @@
+<title>Stunning iPhone 3G Wallpapers - Personalize Your Device!</title>
+                    <meta name="description" content="Discover a captivating range of iPhone 3G wallpapers to redefine your mobile experience. From breathtaking landscapes to artistic designs, find the perfect look for your device. Browse our collection and give your iPhone 3G a fresh, stylish upgrade today!">
+                    <meta name="keywords" content="iphone 3g wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-3g-wallpaper">
+                            <span itemprop="name">iphone 3g wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 3G Wallpapers - Personalize Your Device!</h1>
+                <p>Explore an exclusive collection of stunning iPhone 3G wallpapers! Transform your device with vibrant designs, nature landscapes, and artistic creations. Whether you prefer sleek minimalism or vibrant colors, our selection has something for everyone. Personalize your iPhone 3G with the perfect wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Apple iPhone 3G Default Stock Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-stock-default-planet-earth-16-10-2024-1729124616-hd-wallpaper.png' alt='Most Popular Apple iPhone 3G Default Stock Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-stock-default-planet-earth-16-10-2024-1729124616-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 3g Wallpapers - Free by ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ef/7d/0c/ef7d0c0fc3d04c16aaecc4a7f6e1c9e7.jpg' alt='iphone 3g Wallpapers - Free by ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ef/7d/0c/ef7d0c0fc3d04c16aaecc4a7f6e1c9e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD 3 Default Wallpapers — Page 11">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-default-stock-clownfish-swimming-classic-2000s-apple-wallpaper-16-10-2024-1729124624-hd-wallpaper.webp' alt='Free HD 3 Default Wallpapers — Page 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1098">
+                                <meta itemprop="height" content="1952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-default-stock-clownfish-swimming-classic-2000s-apple-wallpaper-16-10-2024-1729124624-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 3g Wallpapers - Free by ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c8/ca/a3/c8caa3be0484936d4e6e0ecf9d4fb817.jpg' alt='iphone 3g Wallpapers - Free by ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c8/ca/a3/c8caa3be0484936d4e6e0ecf9d4fb817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD 3G Stock Wallpapers — Page 3">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-default-stock-serene-foggy-ripples-of-water-16-10-2024-1729124619-hd-wallpaper.jpeg' alt='Free HD 3G Stock Wallpapers — Page 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-default-stock-serene-foggy-ripples-of-water-16-10-2024-1729124619-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 9 Wallpaper HD for iPhone 3G/3GS/4/4S WWDC2015 by armend07 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3730fe5b-4703-477f-800f-7e2bd14c56e1/d8wuv3y-fb33cfc5-0bce-496e-b495-b6325f65ed01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3MzBmZTViLTQ3MDMtNDc3Zi04MDBmLTdlMmJkMTRjNTZlMVwvZDh3dXYzeS1mYjMzY2ZjNS0wYmNlLTQ5NmUtYjQ5NS1iNjMyNWY2NWVkMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LsrsZ5UHCWH1SaIvAYXN7cxyHxEw2EKp82Go2dgLBCE' alt='iOS 9 Wallpaper HD for iPhone 3G/3GS/4/4S WWDC2015 by armend07 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3730fe5b-4703-477f-800f-7e2bd14c56e1/d8wuv3y-fb33cfc5-0bce-496e-b495-b6325f65ed01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3MzBmZTViLTQ3MDMtNDc3Zi04MDBmLTdlMmJkMTRjNTZlMVwvZDh3dXYzeS1mYjMzY2ZjNS0wYmNlLTQ5NmUtYjQ5NS1iNjMyNWY2NWVkMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LsrsZ5UHCWH1SaIvAYXN7cxyHxEw2EKp82Go2dgLBCE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 3g Wallpapers - Free by ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9c/19/c6/9c19c6b7d4fbd4673846954e3f0dd7cb.jpg' alt='iphone 3g Wallpapers - Free by ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9c/19/c6/9c19c6b7d4fbd4673846954e3f0dd7cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD Apple iPhone 3G Wallpapers — Page 2">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-stock-default-classic-orange-clownfish-16-10-2024-1729124615-hd-wallpaper.jpg' alt='Free HD Apple iPhone 3G Wallpapers — Page 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-iphone-3g-stock-default-classic-orange-clownfish-16-10-2024-1729124615-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 3g, iphone, 3g, fantasy, blue, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/345/614/HD-wallpaper-iphone-3g-iphone-3g-fantasy-blue.jpg' alt='Iphone 3g, iphone, 3g, fantasy, blue, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/345/614/HD-wallpaper-iphone-3g-iphone-3g-fantasy-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

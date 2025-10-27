@@ -1,0 +1,129 @@
+<title>Explore Stunning Galaxy Theme Backgrounds</title>
+                    <meta name="description" content="Discover captivating galaxy theme backgrounds that transform your screens with cosmic beauty. Perfect for personal or professional use, these vibrant designs inspire creativity and add a touch of the universe to your digital environment. Explore now and elevate your aesthetic effortlessly!">
+                    <meta name="keywords" content="galaxy theme background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-theme-background">
+                            <span itemprop="name">galaxy theme background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Galaxy Theme Backgrounds</h1>
+                <p>Transform your digital space with a stunning galaxy theme background. Featuring vibrant colors, mesmerizing stars, and cosmic wonders, this aesthetic backdrop enhances any device or project. Perfect for personalizing your desktop, phone, or website, the galaxy theme sparks creativity and inspiration with its celestial beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 7x5ft Fabric Cosmic Galaxy Backdrop Wall Décor Starry Sky Milky Way  Stars Backdrop Universe Space Theme Photo Background Galaxy Baby Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SNLEuNQuL._AC_UF894,1000_QL80_.jpg' alt='BELECO 7x5ft Fabric Cosmic Galaxy Backdrop Wall Décor Starry Sky Milky Way  Stars Backdrop Universe Space Theme Photo Background Galaxy Baby Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SNLEuNQuL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BUTFOBCA 7x5ft Outer Space Backdrop, Starry Galaxy Photo  Backdrop, Planet Theme Background for Boy Girl Birthday Party Photography  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81k3y5EjhzL.jpg' alt='Amazon.com : BUTFOBCA 7x5ft Outer Space Backdrop, Starry Galaxy Photo  Backdrop, Planet Theme Background for Boy Girl Birthday Party Photography  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81k3y5EjhzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Theme Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/753/044/non_2x/purple-and-blue-galaxy-with-stars-and-a-black-background-photo.jpg' alt='Galaxy Theme Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/753/044/non_2x/purple-and-blue-galaxy-with-stars-and-a-black-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-colorful-galaxy-background_23-2148965681.jpg?semt=ais_hybrid' alt='Galaxy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-colorful-galaxy-background_23-2148965681.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Theme Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/316/043/small/cosmic-nebula-golden-stars-deep-space-galaxy-background-photo.jpeg' alt='Space Theme Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/316/043/small/cosmic-nebula-golden-stars-deep-space-galaxy-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Galaxy theme ideas | galaxy theme, galaxy, purple galaxy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/89/86/738986c4aff215b15bcfd7e8f22b5e29.jpg' alt='9 Galaxy theme ideas | galaxy theme, galaxy, purple galaxy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/89/86/738986c4aff215b15bcfd7e8f22b5e29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Purple Galaxy Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/starry-purple-galaxy-theme-xgn5mxiw5enjwtm3.jpg' alt='Starry Purple Galaxy Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/starry-purple-galaxy-theme-xgn5mxiw5enjwtm3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Theme Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/881/698/small/high-quality-space-themed-background-with-vibrant-colors-concept-space-background-high-quality-vibrant-colors-photo.jpg' alt='Space Theme Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/881/698/small/high-quality-space-themed-background-with-vibrant-colors-concept-space-background-high-quality-vibrant-colors-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Galaxy theme wallpaper ideas | galaxy, galaxy theme, galaxy quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/9c/40/4f9c40eeb3ebcae73192d88ced041616.jpg' alt='80 Galaxy theme wallpaper ideas | galaxy, galaxy theme, galaxy quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/9c/40/4f9c40eeb3ebcae73192d88ced041616.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Theme Background 6 by stardustnserendipity on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56d411b9-caa9-4402-8d08-95feca672fe7/de2r8qm-95aff9dd-dc39-4ec0-942e-f5452493654d.jpg/v1/fill/w_1280,h_1280,q_75,strp/galaxy_theme_background_6_by_stardustnserendipity_de2r8qm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzU2ZDQxMWI5LWNhYTktNDQwMi04ZDA4LTk1ZmVjYTY3MmZlN1wvZGUycjhxbS05NWFmZjlkZC1kYzM5LTRlYzAtOTQyZS1mNTQ1MjQ5MzY1NGQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.38JRVdMXn61wE96oFsxyMk6tQLTkjDHNWIEOxLUnUI4' alt='Galaxy Theme Background 6 by stardustnserendipity on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56d411b9-caa9-4402-8d08-95feca672fe7/de2r8qm-95aff9dd-dc39-4ec0-942e-f5452493654d.jpg/v1/fill/w_1280,h_1280,q_75,strp/galaxy_theme_background_6_by_stardustnserendipity_de2r8qm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzU2ZDQxMWI5LWNhYTktNDQwMi04ZDA4LTk1ZmVjYTY3MmZlN1wvZGUycjhxbS05NWFmZjlkZC1kYzM5LTRlYzAtOTQyZS1mNTQ1MjQ5MzY1NGQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.38JRVdMXn61wE96oFsxyMk6tQLTkjDHNWIEOxLUnUI4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

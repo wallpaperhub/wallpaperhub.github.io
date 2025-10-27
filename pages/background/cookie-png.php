@@ -1,0 +1,129 @@
+<title>Delicious Cookie PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a collection of delightful cookie PNG images ideal for enhancing your digital projects. Perfect for websites, social media, and more, these transparent graphics bring a tasty flair to your visuals. Download now and make your content stand out with appetizing cookie designs!">
+                    <meta name="keywords" content="cookie png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cookie-png">
+                            <span itemprop="name">cookie png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Cookie PNG Images for Creative Projects</h1>
+                <p>Cookie PNG images are the perfect solution for anyone looking to add a sweet touch to their designs. These transparent background graphics can be used for websites, social media posts, or digital scrapbooking. With various shapes and flavors available, cookie PNGs easily enhance visual content, making it more appetizing and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/279/881/non_2x/chocolate-chips-on-cookie-on-transparent-background-png.png' alt='Cookie PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/279/881/non_2x/chocolate-chips-on-cookie-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-cookiefood-chocolate-bakery-sweet-tasty-eat-cookie-biscuit-941524599982s6zsh.png' alt='Cookie PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-cookiefood-chocolate-bakery-sweet-tasty-eat-cookie-biscuit-941524599982s6zsh.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20201010/ourmid/pngtree-cartoon-delicious-dessert-cookie-cookie-clipart-png-image_2360164.jpg' alt='Cookie PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20201010/ourmid/pngtree-cartoon-delicious-dessert-cookie-cookie-clipart-png-image_2360164.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie PNG transparent image download, size: 1372x1347px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cookie_PNG13656.png' alt='Cookie PNG transparent image download, size: 1372x1347px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cookie_PNG13656.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Chip Cookie PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/308/311/non_2x/chocolate-chip-cookies-with-transparent-background-png.png' alt='Chocolate Chip Cookie PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/308/311/non_2x/chocolate-chip-cookies-with-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Chip Cookies Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2Rlc2lnbndpdGhtZTA5X3Bob3RvX29mX2ZseWluZ19jb29raWVzX2JsdXJyZWRfc29tZV9uZWFyZXN0X2VsZV81ZGU2YmZmOC1kMDk2LTQwMWEtYTMyYy0yODQ0OTZkZTYwMmUucG5n.png' alt='Chocolate Chip Cookies Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2Rlc2lnbndpdGhtZTA5X3Bob3RvX29mX2ZseWluZ19jb29raWVzX2JsdXJyZWRfc29tZV9uZWFyZXN0X2VsZV81ZGU2YmZmOC1kMDk2LTQwMWEtYTMyYy0yODQ0OTZkZTYwMmUucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-cookiecookieamericandelicioussnacksweetyummybiscuit-215258865264pxyk.png' alt='Cookie PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-cookiecookieamericandelicioussnacksweetyummybiscuit-215258865264pxyk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cookies PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221208/ourmid/pngtree-cartoon-cookies-png-image_6516299.png' alt='Cartoon Cookies PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221208/ourmid/pngtree-cartoon-cookies-png-image_6516299.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies Png Images – Browse 175,962 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/76/66/39/360_F_676663959_jcE1oIYNF9qgx7FTSSMy6DHxsRkFHTyO.jpg' alt='Cookies Png Images – Browse 175,962 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/76/66/39/360_F_676663959_jcE1oIYNF9qgx7FTSSMy6DHxsRkFHTyO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOKIES png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/97/406/png-clipart-cookie-illustration-chocolate-chip-cookie-bakery-baking-soft-cookies-baked-goods-food-thumbnail.png' alt='COOKIES png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/97/406/png-clipart-cookie-illustration-chocolate-chip-cookie-bakery-baking-soft-cookies-baked-goods-food-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

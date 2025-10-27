@@ -1,0 +1,129 @@
+<title>Stunning Cempasuchil Drawings: Capture the Spirit of Día de los Muertos</title>
+                    <meta name="description" content="Discover the art of cempasuchil drawing, a beautiful way to celebrate Día de los Muertos. Learn tips and techniques to illustrate these vibrant marigolds, symbolizing the connection between life and death. Perfect for artists at all levels, this guide will inspire your creative expression.">
+                    <meta name="keywords" content="cempasuchil drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cempasuchil-drawing">
+                            <span itemprop="name">cempasuchil drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cempasuchil Drawings: Capture the Spirit of Día de los Muertos</h1>
+                <p>Cempasuchil, or marigold, is a vibrant flower deeply rooted in Mexican culture, particularly during Día de los Muertos. Drawing cempasuchil involves capturing its striking orange-yellow petals and intricate details. It symbolizes the beauty of life and death, making it a meaningful subject for artists and admirers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cempasúchil Sketch #1">
+                                <img itemprop="contentUrl url" src='https://auricgallery.com/cdn/shop/files/JuanMorales_CempasuchilSketch_1.jpg?v=1721531200&width=1946' alt='Cempasúchil Sketch #1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Auric Gallery" />
+                                </span>
+                                <a href='https://auricgallery.com/cdn/shop/files/JuanMorales_CempasuchilSketch_1.jpg?v=1721531200&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cempasuchil flower of death | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3191363334.1558/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Cempasuchil flower of death | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3191363334.1558/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw a Cempasuchil flower step by step">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VU8vsIINadc/maxresdefault.jpg' alt='How to draw a Cempasuchil flower step by step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VU8vsIINadc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="510+ Cempasuchil Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1427514548/vector/marigold-flower-hand-drawn-illustration-in-watercolor-isolated-on-a-white-background-top.jpg?s=612x612&w=0&k=20&c=Cb6hCMrjowluuAkP0xD8wrjsaJ8rq8DR7aQEf7vXEj4=' alt='510+ Cempasuchil Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1427514548/vector/marigold-flower-hand-drawn-illustration-in-watercolor-isolated-on-a-white-background-top.jpg?s=612x612&w=0&k=20&c=Cb6hCMrjowluuAkP0xD8wrjsaJ8rq8DR7aQEf7vXEj4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw a Cempasuchil flower step by step - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ey_b_tBsDMw/sddefault.jpg' alt='How to draw a Cempasuchil flower step by step - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ey_b_tBsDMw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cempasuchil arts and crafts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/41/6b/4d/416b4d4d47eaaa79f7384633eff540f5.jpg' alt='Cempasuchil arts and crafts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/41/6b/4d/416b4d4d47eaaa79f7384633eff540f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cempasuchil flower of death | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3191228784.7806/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Cempasuchil flower of death | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3191228784.7806/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Cempasuchil" Fine Art Print — Rosy Cortez">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/64ced5923544d10d77ed315c/1691633152082-5SKDK7VA7SZQFJ9C0J4S/2+cempa.jpg?format=1500w' alt='"Cempasuchil" Fine Art Print — Rosy Cortez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosy Cortez" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/64ced5923544d10d77ed315c/1691633152082-5SKDK7VA7SZQFJ9C0J4S/2+cempa.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold Flower Hand Drawn PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/227629/isolated/preview/1d5776844e867d38d5262a9cec30c571-marigold-flower-hand-drawn.png' alt='Marigold Flower Hand Drawn PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/227629/isolated/preview/1d5776844e867d38d5262a9cec30c571-marigold-flower-hand-drawn.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Marigold flowers blossoms Orange tagetes or ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/marigold-flowers-blossoms-orange-tagetes-cempasuchil-mexican-dia-de-los-muertos_653550-547.jpg' alt='Premium Vector | Marigold flowers blossoms Orange tagetes or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/marigold-flowers-blossoms-orange-tagetes-cempasuchil-mexican-dia-de-los-muertos_653550-547.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

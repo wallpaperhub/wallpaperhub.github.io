@@ -1,0 +1,129 @@
+<title>Elegant Blank Wedding Invitation Templates for Personalization</title>
+                    <meta name="description" content="Discover stunning blank wedding invitation templates that elevate your wedding's elegance. Perfect for personalization, these templates allow you to easily create beautiful, memorable invites tailored to your special day. Start designing your dream invites today!">
+                    <meta name="keywords" content="background blank wedding invitation templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-blank-wedding-invitation-templates">
+                            <span itemprop="name">background blank wedding invitation templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blank Wedding Invitation Templates for Personalization</h1>
+                <p>Background blank wedding invitation templates offer a versatile canvas for your wedding invitations, allowing for personalization and creativity. These templates feature elegant designs with ample space for your unique text, from heartfelt messages to essential details. Perfect for DIY enthusiasts, they ensure your invites are both beautiful and memorable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Wedding Invitation Templates - Free | Customizable">
+                                <img itemprop="contentUrl url" src='https://blog.1invites.com/wp-content/uploads/2024/09/elegant-blank-wedding-card-template.jpg' alt='Blank Wedding Invitation Templates - Free | Customizable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1invites" />
+                                </span>
+                                <a href='https://blog.1invites.com/wp-content/uploads/2024/09/elegant-blank-wedding-card-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flora wedding invitation background template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/flora-wedding-invitation-background-template-design-9d155004b3266fe5b3aca7e9b0896eb5_screen.jpg?ts=1694601085' alt='Flora wedding invitation background template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/flora-wedding-invitation-background-template-design-9d155004b3266fe5b3aca7e9b0896eb5_screen.jpg?ts=1694601085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Floral - Wedding Invitation Template (Free) | Greetings Island">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/cf/5d/15cf5deace6939f4c8b80b33535d7e24.jpg' alt='Muted Floral - Wedding Invitation Template (Free) | Greetings Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/cf/5d/15cf5deace6939f4c8b80b33535d7e24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding invitation 2025 background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/elegant-wedding-invitation-card-with-blue-flax-beautiful-floral-leaves-template_852955-2692.jpg' alt='Wedding invitation 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/elegant-wedding-invitation-card-with-blue-flax-beautiful-floral-leaves-template_852955-2692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Wedding Invitation Templates - Free | Customizable">
+                                <img itemprop="contentUrl url" src='https://blog.1invites.com/wp-content/uploads/2024/09/beautiful-blank-wedding-card-templatejpeg.jpg' alt='Blank Wedding Invitation Templates - Free | Customizable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1invites" />
+                                </span>
+                                <a href='https://blog.1invites.com/wp-content/uploads/2024/09/beautiful-blank-wedding-card-templatejpeg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Invitation Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/watercolor-floral-illustration-set-green-eucalyptus-leaf-frame-collection_852955-3124.jpg' alt='Wedding Invitation Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/watercolor-floral-illustration-set-green-eucalyptus-leaf-frame-collection_852955-3124.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wedding invitation background template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-background-template-design-9242479db9d1e170401991d441c5e2f5_screen.jpg?ts=1693202433' alt='wedding invitation background template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-background-template-design-9242479db9d1e170401991d441c5e2f5_screen.jpg?ts=1693202433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vector abstract boho wedding invitation template ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-abstract-boho-wedding-invitation-template-purple-water-lily-background-vector-banner-poster-template_852955-3247.jpg' alt='Premium Vector | Vector abstract boho wedding invitation template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-abstract-boho-wedding-invitation-template-purple-water-lily-background-vector-banner-poster-template_852955-3247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank wedding ceremony invite| Wedding invitation| free wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/50/c5/7a50c5d3a6a7b6d9d8ae3bcef1392f22.jpg' alt='Blank wedding ceremony invite| Wedding invitation| free wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/50/c5/7a50c5d3a6a7b6d9d8ae3bcef1392f22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invitation store card design">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/flora-wedding-invitation-card-background-design-template-ee5068bd3a4078de53e914129e177798_screen.jpg' alt='Invitation store card design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/flora-wedding-invitation-card-background-design-template-ee5068bd3a4078de53e914129e177798_screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

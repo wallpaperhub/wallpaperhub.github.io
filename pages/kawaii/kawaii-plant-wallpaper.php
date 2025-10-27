@@ -1,0 +1,129 @@
+<title>Kawaii Plant Wallpaper: Cute and Lush Decor</title>
+                    <meta name="description" content="Add a touch of whimsy to your home with our kawaii plant wallpaper! Perfect for nurseries, bedrooms, or any space needing cheer, this delightful decor brings nature indoors while keeping it adorable. Explore our designs and transform your walls into a vibrant, playful haven!">
+                    <meta name="keywords" content="kawaii plant wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-plant-wallpaper">
+                            <span itemprop="name">kawaii plant wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Plant Wallpaper: Cute and Lush Decor</h1>
+                <p>Brighten your space with kawaii plant wallpaper! This charming decor combines cute illustrations of lush greenery and adorable characters, bringing a refreshing vibe to any room. Perfect for creating a cozy atmosphere, it encourages relaxation and happiness. Discover various designs to showcase your unique personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable plant wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFfr5D7BsM/1/0/1600w/canva-beige-and-green-plants-illustration-quotes-desktop-wallpaper-5ab-Z7cDp04.jpg' alt='Free and customizable plant wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFfr5D7BsM/1/0/1600w/canva-beige-and-green-plants-illustration-quotes-desktop-wallpaper-5ab-Z7cDp04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Plant Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/plants-hanging-white-wall-background_53876-118013.jpg' alt='Cute Plant Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/plants-hanging-white-wall-background_53876-118013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute plant iPhone illustrated background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/25/72/c9257250a8c6bb62663db10f88545045.jpg' alt='Cute plant iPhone illustrated background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/25/72/c9257250a8c6bb62663db10f88545045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plants">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/35/fd/dc35fd515ef860bd8da7b0052af84808.jpg' alt='Plants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/35/fd/dc35fd515ef860bd8da7b0052af84808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Spring Wallpapers: Discover The Plant Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/Spring_Wallpaper_1_577x1024.jpg?v=1625662672' alt='Molang Spring Wallpapers: Discover The Plant Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/Spring_Wallpaper_1_577x1024.jpg?v=1625662672' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Plant Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/houseplant-doodle-background-vector-with-blank-space_53876-126323.jpg' alt='Cute Plant Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/houseplant-doodle-background-vector-with-blank-space_53876-126323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Plant, Simple Plant Aesthetic, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/904/578/HD-wallpaper-cute-aesthetic-plant-simple-plant-aesthetic.jpg' alt='Cute Aesthetic Plant, Simple Plant Aesthetic, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/904/578/HD-wallpaper-cute-aesthetic-plant-simple-plant-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cactus Plants Cute Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cactus-plants-cute-iphone-lock-screen-xr4f773k4gdqaxyj.jpg' alt='Cactus Plants Cute Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cactus-plants-cute-iphone-lock-screen-xr4f773k4gdqaxyj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Plant Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' alt='Cute Plant Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Plant Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blank-cactus-frame-design-vector_53876-136468.jpg' alt='Cute Plant Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blank-cactus-frame-design-vector_53876-136468.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

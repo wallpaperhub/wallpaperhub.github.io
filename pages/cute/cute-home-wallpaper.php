@@ -1,0 +1,129 @@
+<title>Adorable Home Wallpaper Ideas to Brighten Your Space</title>
+                    <meta name="description" content="Explore our collection of cute home wallpaper that brings warmth and character to your interiors. Perfect for every room, these easy-to-apply wallpapers are vibrant, fun, and ideal for creating a cozy atmosphere. Discover your favorite designs today for a delightful home makeover!">
+                    <meta name="keywords" content="cute home wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-home-wallpaper">
+                            <span itemprop="name">cute home wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Home Wallpaper Ideas to Brighten Your Space</h1>
+                <p>Transform your living space with cute home wallpaper that adds charm and personality to any room. From whimsical patterns to sweet floral designs, there's a wallpaper to brighten every corner of your home. Discover options that are removable, easy to apply, and perfect for creating a cozy atmosphere. Elevate your decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' alt='Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Neutral Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D391">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5201356908_3omw.jpg?v=1719909812&width=1946' alt='Cute Neutral Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D391'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5201356908_3omw.jpg?v=1719909812&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids farmhouse wallpaper, Cute kids wallpaper, removable wall mural, houses  nursery wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/products/kids-farmhouse-wallpaper-cute-kids-wallpaper-removable-wall-mural-houses-nursery-wallpapersc37-514617.jpg?v=1696855045' alt='Kids farmhouse wallpaper, Cute kids wallpaper, removable wall mural, houses  nursery wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/products/kids-farmhouse-wallpaper-cute-kids-wallpaper-removable-wall-mural-houses-nursery-wallpapersc37-514617.jpg?v=1696855045' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Cute Nautical Kids Wallpaper - A166">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5914511567_ot0s.jpg?v=1719966680&width=1946' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Cute Nautical Kids Wallpaper - A166'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5914511567_ot0s.jpg?v=1719966680&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Owl Kids Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D105">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5027018056_doy7.jpg?v=1706929538&width=1946' alt='Cute Owl Kids Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D105'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5027018056_doy7.jpg?v=1706929538&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Mural for Kids' Room Cartoon Cute Houses (㎡)">
+                                <img itemprop="contentUrl url" src='http://www.bvm-home.com/cdn/shop/products/beibehang-Lake-blue-cute-house-tree-wallpapers-for-living-room-children-s-room-TV-background-photo_7196584a-937a-41f4-b706-16613bb6af6e_1200x1200.jpg?v=1609729955' alt='Custom Wallpaper Mural for Kids' Room Cartoon Cute Houses (㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='http://www.bvm-home.com/cdn/shop/products/beibehang-Lake-blue-cute-house-tree-wallpapers-for-living-room-children-s-room-TV-background-photo_7196584a-937a-41f4-b706-16613bb6af6e_1200x1200.jpg?v=1609729955' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Floral Garden Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D310">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5163553822_k263.jpg?v=1725105798&width=1946' alt='Cute Floral Garden Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D310'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5163553822_k263.jpg?v=1725105798&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Cute Fun Gold iPhone Lock Screen Home Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5805937/r/il/74b0c8/3339863102/il_fullxfull.3339863102_mrj3.jpg' alt='Pink Marble Cute Fun Gold iPhone Lock Screen Home Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2004">
+                                <meta itemprop="height" content="2168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5805937/r/il/74b0c8/3339863102/il_fullxfull.3339863102_mrj3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGG8StPwCw/1/0/900w/canva-pink-cute-floral-wallpaper-ios-home-screen-RlFLzeRWbp0.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGG8StPwCw/1/0/900w/canva-pink-cute-floral-wallpaper-ios-home-screen-RlFLzeRWbp0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Cute Nautical Kids Wallpaper - A166">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5866423628_qisp.jpg?v=1719966579&width=1946' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Cute Nautical Kids Wallpaper - A166'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5866423628_qisp.jpg?v=1719966579&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

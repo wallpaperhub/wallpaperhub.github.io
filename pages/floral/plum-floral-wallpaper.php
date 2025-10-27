@@ -1,0 +1,129 @@
+<title>Elegant Plum Floral Wallpaper for Stunning Interiors</title>
+                    <meta name="description" content="Add a touch of elegance to your home with plum floral wallpaper. Featuring rich tones and beautiful blooms, this wallpaper enhances any space effortlessly. Ideal for living rooms, bedrooms, or accent walls, it combines style with functionality to create a stunning atmosphere. Transform your decor today!">
+                    <meta name="keywords" content="plum floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/plum-floral-wallpaper">
+                            <span itemprop="name">plum floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Plum Floral Wallpaper for Stunning Interiors</h1>
+                <p>Discover the charm of plum floral wallpaper, where vibrant hues meet delicate floral patterns. Perfect for adding a touch of elegance and warmth to any room, this wallpaper turns ordinary walls into stunning art. Easy to apply and versatile in style, plum floral designs create a welcoming atmosphere that is truly captivating.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bold Floral Blossoms R8128">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/PurpleBoldFloralBlossomsR8128.jpg?v=1736261024&width=1200' alt='Purple Bold Floral Blossoms R8128'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/PurpleBoldFloralBlossomsR8128.jpg?v=1736261024&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOLDEN Gabrielle Floral Plum Textured Wallpaper ( Covers 56 sq. ft. ) 154707">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f0f4fb74-1373-416a-95b9-f16ffe6ecc7f/svn/wallpaper-rolls-154707-1f_600.jpg' alt='HOLDEN Gabrielle Floral Plum Textured Wallpaper ( Covers 56 sq. ft. ) 154707'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f0f4fb74-1373-416a-95b9-f16ffe6ecc7f/svn/wallpaper-rolls-154707-1f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Gothic Dark Floral Luxury Wallpaper Peel And Stick - Vintage Purple  Flowers On Black Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/64935537/compr-r85/3043/304322283/moody-gothic-dark-floral-luxury-wallpaper-peel-and-stick-vintage-purple-flowers-on-black-background-wallpaper.jpg' alt='Moody Gothic Dark Floral Luxury Wallpaper Peel And Stick - Vintage Purple  Flowers On Black Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/64935537/compr-r85/3043/304322283/moody-gothic-dark-floral-luxury-wallpaper-peel-and-stick-vintage-purple-flowers-on-black-background-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Download - Purple floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5770778/r/il/4d3a95/2541462010/il_570xN.2541462010_75qz.jpg' alt='Digital Download - Purple floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5770778/r/il/4d3a95/2541462010/il_570xN.2541462010_75qz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grace - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?v=1734718105' alt='Grace - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?v=1734718105' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper and Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/686912/cr23/18/828/1/purple-foliage-dark-floral-wallpaper.jpg' alt='Dark Floral Wallpaper and Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/686912/cr23/18/828/1/purple-foliage-dark-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls Republic Purple Floral Bloom Print Non-Woven Paste the Wall ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/25ac437a-f6b5-4f94-a7cc-b5cf3221a624/svn/walls-republic-wallpaper-rolls-r8128-64_600.jpg' alt='Walls Republic Purple Floral Bloom Print Non-Woven Paste the Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/25ac437a-f6b5-4f94-a7cc-b5cf3221a624/svn/walls-republic-wallpaper-rolls-r8128-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Qoubao Vintage Purple Floral Peel and Stick Wallpaper Removable  Self Adhesive Floral Drawer Liner Contact Paper for Walls Shelves Cabinets  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814FRlqjbKL.jpg' alt='Amazon.com: Qoubao Vintage Purple Floral Peel and Stick Wallpaper Removable  Self Adhesive Floral Drawer Liner Contact Paper for Walls Shelves Cabinets  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814FRlqjbKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

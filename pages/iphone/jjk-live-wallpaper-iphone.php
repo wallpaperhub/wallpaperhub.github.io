@@ -1,0 +1,129 @@
+<title>Jujutsu Kaisen Live Wallpaper for iPhone: Customize Your Screen!</title>
+                    <meta name="description" content="Discover captivating Jujutsu Kaisen live wallpapers for your iPhone! Elevate your device's aesthetic with animated designs featuring beloved characters. Perfect for true anime fans looking to showcase their style! Download now and bring your home screen to life.">
+                    <meta name="keywords" content="jjk live wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jjk-live-wallpaper-iphone">
+                            <span itemprop="name">jjk live wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jujutsu Kaisen Live Wallpaper for iPhone: Customize Your Screen!</h1>
+                <p>Transform your iPhone with stunning JJK live wallpapers! Dive into the vibrant world of Jujutsu Kaisen and personalize your device with dynamic visuals featuring your favorite characters and scenes. Whether you're a fan of Yuji, Nobara, or Megumi, find the perfect live wallpaper to make your screen come alive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Live Wallpaper 4K - Animated Anime Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7178928618616147201&location=0&aid=1988' alt='Jujutsu Kaisen Live Wallpaper 4K - Animated Anime Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7178928618616147201&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Jujutsu Kaisen Live Wallpapers for Your Device">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7316926751890853153&location=0&aid=1988' alt='Best Jujutsu Kaisen Live Wallpapers for Your Device'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7316926751890853153&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JJK Live Wallpaper HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/gP3WKkvLYPfpBcqqluU6AYCpwPX2S-qYn7TvDO207rqH4flVJaJvS7eMhA7A-bocwVIL=w526-h296-rw' alt='JJK Live Wallpaper HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/gP3WKkvLYPfpBcqqluU6AYCpwPX2S-qYn7TvDO207rqH4flVJaJvS7eMhA7A-bocwVIL=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JUJUTSU KAISEN LIVE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/55/98/5f/55985f1dc75f6c36f3e93d5f719b9b56.0000000.jpg' alt='JUJUTSU KAISEN LIVE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/55/98/5f/55985f1dc75f6c36f3e93d5f719b9b56.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Live Wallpaper in 4k Iphone | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7420808965015080198&location=0&aid=1988' alt='Jujutsu Kaisen Live Wallpaper in 4k Iphone | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7420808965015080198&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen - Sukuna ||Live Wallpaper ||Download here https ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/50/97/d45097d176ff5fabf3bedccdf7b0ca7a.jpg' alt='Jujutsu Kaisen - Sukuna ||Live Wallpaper ||Download here https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/50/97/d45097d176ff5fabf3bedccdf7b0ca7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saturo Gojo Live Wallpaper Phone Version | Jujutsu Kaisen - Spark ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/6040771c-9711-46e2-ab78-d7ace68dc63b_gojosatorulivewallpaperbysparkangel.jpg' alt='Saturo Gojo Live Wallpaper Phone Version | Jujutsu Kaisen - Spark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/6040771c-9711-46e2-ab78-d7ace68dc63b_gojosatorulivewallpaperbysparkangel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jujutsu Kaisen Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wounded-gojo-jujutsu-kaisen-iphone-j8wx44fihv1k5nqp.jpg' alt='100+] Jujutsu Kaisen Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1537">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wounded-gojo-jujutsu-kaisen-iphone-j8wx44fihv1k5nqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Throwing out my new & all JJK wallpapers (Shibuya and Culling ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/throwing-out-my-new-all-jjk-wallpapers-shibuya-and-culling-v0-l1h2hcznq8na1.jpg?width=640&crop=smart&auto=webp&s=e8e9d7caef45b843b0b03c356c1c51330d5b7ecf' alt='Throwing out my new & all JJK wallpapers (Shibuya and Culling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/throwing-out-my-new-all-jjk-wallpapers-shibuya-and-culling-v0-l1h2hcznq8na1.jpg?width=640&crop=smart&auto=webp&s=e8e9d7caef45b843b0b03c356c1c51330d5b7ecf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hình Nền Điện Thoại Anime Chất Lượng 4K Đẹp Nhất">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7453412365225250068&location=0&aid=1988' alt='Hình Nền Điện Thoại Anime Chất Lượng 4K Đẹp Nhất'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7453412365225250068&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

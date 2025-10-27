@@ -1,0 +1,129 @@
+<title>Stunning Pink Floyd Animals Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of eye-catching Pink Floyd Animals wallpapers. Perfect for fans, these vibrant designs elevate your screen while celebrating the band's iconic art and music. Explore now and personalize your device with these unique themes!">
+                    <meta name="keywords" content="pink floyd animals wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-floyd-animals-wallpaper">
+                            <span itemprop="name">pink floyd animals wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Floyd Animals Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Pink Floyd Animals wallpaper that captures the iconic band's spirit and artistry. Featuring vivid imagery inspired by the legendary album, these wallpapers will enhance your screen and provide a daily reminder of the music that has shaped a generation. Explore your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Animals (3 Different Versions) [1920x1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cpm3QMV2VKMfp2RBsGNugVLsdfep1Z-_rEfsx0cPae0.jpg?auto=webp&s=0cddf3aa4b5f7fa9467b8a080a59e2ac48af80e4' alt='Pink Floyd - Animals (3 Different Versions) [1920x1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cpm3QMV2VKMfp2RBsGNugVLsdfep1Z-_rEfsx0cPae0.jpg?auto=webp&s=0cddf3aa4b5f7fa9467b8a080a59e2ac48af80e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Animals (Portside) [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qr5cpflizjh21.png?auto=webp&s=f11800b20fc1e111118a90885f9288f595a1fe5f' alt='Pink Floyd - Animals (Portside) [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qr5cpflizjh21.png?auto=webp&s=f11800b20fc1e111118a90885f9288f595a1fe5f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd Animals Wallpaper : r/phonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e2vz1bqtsp151.jpg?auto=webp&s=93152a15bdb8b81d3fd13c369f2e561039089225' alt='Pink Floyd Animals Wallpaper : r/phonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e2vz1bqtsp151.jpg?auto=webp&s=93152a15bdb8b81d3fd13c369f2e561039089225' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK FLOYD – ANIMALS: CELEBRATING THE 36TH ANNIVERSARY. A LOOK AT ...">
+                                <img itemprop="contentUrl url" src='https://rcgoodmanblog.wordpress.com/wp-content/uploads/2013/01/pink_floyd_animals_desktop_1024x600_hd-wallpaper-516372.jpg' alt='PINK FLOYD – ANIMALS: CELEBRATING THE 36TH ANNIVERSARY. A LOOK AT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rob's Wall Of Music - WordPress.com" />
+                                </span>
+                                <a href='https://rcgoodmanblog.wordpress.com/wp-content/uploads/2013/01/pink_floyd_animals_desktop_1024x600_hd-wallpaper-516372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raving and drooling: how Pink Floyd made Animals">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/2d/67/b72d67ab8ebac13726350b308fc42a79.jpg' alt='Raving and drooling: how Pink Floyd made Animals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/2d/67/b72d67ab8ebac13726350b308fc42a79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd Reissue Of Classic 'Animals' Given An Updated Cover">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/630c01b0d393e40c9e68eccc/Cover-of-Pink-Floyd-s-Animals--2018-Remix--/960x0.jpg?format=jpg&width=960' alt='Pink Floyd Reissue Of Classic 'Animals' Given An Updated Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/630c01b0d393e40c9e68eccc/Cover-of-Pink-Floyd-s-Animals--2018-Remix--/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Covers of 33lp - Share your work - Affinity | Forum">
+                                <img itemprop="contentUrl url" src='https://forum.affinity.serif.com/uploads/monthly_2023_04/Wallpaper-PINK-FLOYD-ANIMALS-1977.png.8449f11ac3d91a1b60ecf69d801b8646.png' alt='Wallpapers - Covers of 33lp - Share your work - Affinity | Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Affinity | Forum" />
+                                </span>
+                                <a href='https://forum.affinity.serif.com/uploads/monthly_2023_04/Wallpaper-PINK-FLOYD-ANIMALS-1977.png.8449f11ac3d91a1b60ecf69d801b8646.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/3d/59/ba3d59e4397ccce939785537274950ea.jpg' alt='Pink Floyd wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/3d/59/ba3d59e4397ccce939785537274950ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd Animals Wallpaper - Real HD by suinkka on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ad221a9-d68a-4018-8b5b-24f2f4a16fd5/d4vzz10-8b41b81d-943e-4753-99da-c088dc33751d.jpg/v1/fill/w_1161,h_688,q_70,strp/pink_floyd_animals_wallpaper___real_hd_by_suinkka_d4vzz10-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4NyIsInBhdGgiOiJcL2ZcLzNhZDIyMWE5LWQ2OGEtNDAxOC04YjViLTI0ZjJmNGExNmZkNVwvZDR2enoxMC04YjQxYjgxZC05NDNlLTQ3NTMtOTlkYS1jMDg4ZGMzMzc1MWQuanBnIiwid2lkdGgiOiI8PTIzMzkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.WSdmmUUqhY3sM7JK3olmbzhiqHF10bt2ai7nU4XFFSI' alt='Pink Floyd Animals Wallpaper - Real HD by suinkka on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1161">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ad221a9-d68a-4018-8b5b-24f2f4a16fd5/d4vzz10-8b41b81d-943e-4753-99da-c088dc33751d.jpg/v1/fill/w_1161,h_688,q_70,strp/pink_floyd_animals_wallpaper___real_hd_by_suinkka_d4vzz10-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4NyIsInBhdGgiOiJcL2ZcLzNhZDIyMWE5LWQ2OGEtNDAxOC04YjViLTI0ZjJmNGExNmZkNVwvZDR2enoxMC04YjQxYjgxZC05NDNlLTQ3NTMtOTlkYS1jMDg4ZGMzMzc1MWQuanBnIiwid2lkdGgiOiI8PTIzMzkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.WSdmmUUqhY3sM7JK3olmbzhiqHF10bt2ai7nU4XFFSI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd Animals Wallpapers - Wallpaper Cave | Pink floyd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/d3/c1/cbd3c150dc9f6284ff50c164fc10e6b7.jpg' alt='Pink Floyd Animals Wallpapers - Wallpaper Cave | Pink floyd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/d3/c1/cbd3c150dc9f6284ff50c164fc10e6b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

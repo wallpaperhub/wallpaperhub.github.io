@@ -1,0 +1,129 @@
+<title>When Was Paris Founded? Discover the History!</title>
+                    <meta name="description" content="Explore the fascinating history of Paris, founded around 250 BC by the Parisii tribe. Learn how this vibrant city transformed through the ages into the iconic cultural capital it is today, filled with rich heritage and stunning landmarks.">
+                    <meta name="keywords" content="when was paris founded">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-paris-founded">
+                            <span itemprop="name">when was paris founded</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Paris Founded? Discover the History!</h1>
+                <p>Paris, the capital of France, traces its origins back to around 250 BC when a Celtic tribe known as the Parisii settled on the banks of the Seine River. This area eventually grew into a thriving urban center. Over the centuries, Paris evolved into a major cultural, political, and economic hub, known today for its rich heritage and iconic landmarks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nicolas-Jean-Baptiste_Raguenet%2C_A_View_of_Paris_from_the_Pont_Neuf_-_Getty_Museum.jpg/300px-Nicolas-Jean-Baptiste_Raguenet%2C_A_View_of_Paris_from_the_Pont_Neuf_-_Getty_Museum.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nicolas-Jean-Baptiste_Raguenet%2C_A_View_of_Paris_from_the_Pont_Neuf_-_Getty_Museum.jpg/300px-Nicolas-Jean-Baptiste_Raguenet%2C_A_View_of_Paris_from_the_Pont_Neuf_-_Getty_Museum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg/300px-Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg/300px-Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vue_panoramique_de_l%27exposition_universelle_de_1900.jpg/300px-Vue_panoramique_de_l%27exposition_universelle_de_1900.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vue_panoramique_de_l%27exposition_universelle_de_1900.jpg/300px-Vue_panoramique_de_l%27exposition_universelle_de_1900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/250px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/250px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%C3%89rection_de_l%27ob%C3%A9lisque_de_Louqsor_sur_la_place_de_la_Concorde.jpg/270px-%C3%89rection_de_l%27ob%C3%A9lisque_de_Louqsor_sur_la_place_de_la_Concorde.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%C3%89rection_de_l%27ob%C3%A9lisque_de_Louqsor_sur_la_place_de_la_Concorde.jpg/270px-%C3%89rection_de_l%27ob%C3%A9lisque_de_Louqsor_sur_la_place_de_la_Concorde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/P1330145_Carnavalet_Demachy_demolition_eglise_St-Bartelemy_P2367_rwk.jpg/250px-P1330145_Carnavalet_Demachy_demolition_eglise_St-Bartelemy_P2367_rwk.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/P1330145_Carnavalet_Demachy_demolition_eglise_St-Bartelemy_P2367_rwk.jpg/250px-P1330145_Carnavalet_Demachy_demolition_eglise_St-Bartelemy_P2367_rwk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carte_topographique_des_environs_et_du_plan_de_Paris_-_1735_-_btv1b8442730b.jpg/180px-Carte_topographique_des_environs_et_du_plan_de_Paris_-_1735_-_btv1b8442730b.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carte_topographique_des_environs_et_du_plan_de_Paris_-_1735_-_btv1b8442730b.jpg/180px-Carte_topographique_des_environs_et_du_plan_de_Paris_-_1735_-_btv1b8442730b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Paris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lallemand_-_Arrestation_du_gouverneur_de_la_Bastille_-_1790.jpg/250px-Lallemand_-_Arrestation_du_gouverneur_de_la_Bastille_-_1790.jpg' alt='History of Paris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lallemand_-_Arrestation_du_gouverneur_de_la_Bastille_-_1790.jpg/250px-Lallemand_-_Arrestation_du_gouverneur_de_la_Bastille_-_1790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Paris from the birth of city until 1215">
+                                <img itemprop="contentUrl url" src='https://www.whatparis.com/img/gallery/paris-lutecia.jpg' alt='The history of Paris from the birth of city until 1215'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Travel Guide to Paris" />
+                                </span>
+                                <a href='https://www.whatparis.com/img/gallery/paris-lutecia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris | Definition, Map, Population, Facts, & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/87/24187-050-9356F0A4/Map-Paris-Encyclopaedia-Britannica-edition-1900.jpg' alt='Paris | Definition, Map, Population, Facts, & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/87/24187-050-9356F0A4/Map-Paris-Encyclopaedia-Britannica-edition-1900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

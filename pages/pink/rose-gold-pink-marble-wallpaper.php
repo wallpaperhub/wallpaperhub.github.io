@@ -1,0 +1,129 @@
+<title>Elegant Rose Gold Pink Marble Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover the beauty of rose gold pink marble wallpaper! Ideal for creating a chic, modern environment, this wallpaper enhances any room with its luxurious design. Perfect for accent walls, it adds sophistication and warmth to your decor effortlessly.">
+                    <meta name="keywords" content="rose gold pink marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/rose-gold-pink-marble-wallpaper">
+                            <span itemprop="name">rose gold pink marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Rose Gold Pink Marble Wallpaper for Modern Spaces</h1>
+                <p>Transform your space with the elegance of rose gold pink marble wallpaper. This stunning design combines the chic allure of marble with a soft pink hue and luxurious rose gold accents, creating a sophisticated and stylish atmosphere. Perfect for accent walls, it adds a modern touch to any room, making your decor stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper Rose Gold Purple Pastel Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/1798ee/3044080472/il_fullxfull.3044080472_s5ns.jpg' alt='Pink Marble Wallpaper Rose Gold Purple Pastel Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2980">
+                                <meta itemprop="height" content="2610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/1798ee/3044080472/il_fullxfull.3044080472_s5ns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Rose Gold Images – Browse 81,936 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/33/34/79/360_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' alt='Marble Rose Gold Images – Browse 81,936 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/33/34/79/360_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' alt='Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Marble Wallpaper - Pink Marble | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/55795/pink_rose_gold_marble_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Rose Gold Marble Wallpaper - Pink Marble | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/55795/pink_rose_gold_marble_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' alt='Pink Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' alt='Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Fractal Geometric Marble Wallpaper Rose Gold FD42264 - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61csFFQsNaL.jpg' alt='Fine Decor Fractal Geometric Marble Wallpaper Rose Gold FD42264 - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61csFFQsNaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rose Gold Marble Ink Art Wallpaper, Luxe Pink And Gold Peel ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/002_Front_Interior_Scene-30-scaled.jpg' alt='Pink Rose Gold Marble Ink Art Wallpaper, Luxe Pink And Gold Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/002_Front_Interior_Scene-30-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Marble Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-watercolour-glitter-design-background_1048-16827.jpg' alt='Rose Gold Marble Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-watercolour-glitter-design-background_1048-16827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

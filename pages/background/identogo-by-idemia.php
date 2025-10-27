@@ -1,0 +1,129 @@
+<title>Streamline Your Identity Verification with IdentoGO by IDEMIA</title>
+                    <meta name="description" content="Discover IdentoGO by IDEMIA for fast, reliable identity verification. Enjoy easy scheduling and multiple services, including fingerprinting and background checks. Perfect for personal and professional needs. Experience hassle-free identity management today!">
+                    <meta name="keywords" content="identogo by idemia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/identogo-by-idemia">
+                            <span itemprop="name">identogo by idemia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Your Identity Verification with IdentoGO by IDEMIA</h1>
+                <p>IdentoGO by IDEMIA offers a seamless and efficient identity verification process, providing services like fingerprinting and background checks for various needs, including employment, travel, and compliance. With convenient locations and online scheduling, IdentoGO simplifies identity management for individuals and organizations alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO by IDEMIA | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQG1b1Ct4D_CRg/company-logo_200_200/company-logo_200_200/0/1650643788760/identogo_logo?e=2147483647&v=beta&t=Rk8E3aUQYSJPGzoyzD9dZHIB8SRSp6WPbKjSVBQHfzg' alt='IdentoGO by IDEMIA | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQG1b1Ct4D_CRg/company-logo_200_200/company-logo_200_200/0/1650643788760/identogo_logo?e=2147483647&v=beta&t=Rk8E3aUQYSJPGzoyzD9dZHIB8SRSp6WPbKjSVBQHfzg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DMV On The Move - IdentoGO Tablet Makes DMV Services Portable And ...">
+                                <img itemprop="contentUrl url" src='https://na.idemia.com/wp-content/uploads/2021/09/IdentoGo-Tablet-1920x1080-1.png' alt='DMV On The Move - IdentoGO Tablet Makes DMV Services Portable And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDEMIA North America" />
+                                </span>
+                                <a href='https://na.idemia.com/wp-content/uploads/2021/09/IdentoGo-Tablet-1920x1080-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We provide identity-related services to protect American lives ...">
+                                <img itemprop="contentUrl url" src='https://www.identogo.ca/assets/img/identogo-by-idemia-logo.png' alt='We provide identity-related services to protect American lives ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.identogo.ca" />
+                                </span>
+                                <a href='https://www.identogo.ca/assets/img/identogo-by-idemia-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_lZhbXr4ny6ZS2mwS_4e5nrtuQnQ_OuML6U3_wjq3Wgtg=s900-c-k-c0x00ffffff-no-rj' alt='IdentoGO - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_lZhbXr4ny6ZS2mwS_4e5nrtuQnQ_OuML6U3_wjq3Wgtg=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO – enrolment centers across the US | IDEMIA">
+                                <img itemprop="contentUrl url" src='https://www.idemia.com/wp-content/uploads/2021/09/dmv-identogo-tablet-idemia-610x240.jpg' alt='IdentoGO – enrolment centers across the US | IDEMIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDEMIA" />
+                                </span>
+                                <a href='https://www.idemia.com/wp-content/uploads/2021/09/dmv-identogo-tablet-idemia-610x240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO | Open Doors Inc.">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/opendoorswv.com/wp-content/uploads/2016/08/identogo-logo.png?fit=2036%2C568&ssl=1' alt='IdentoGO | Open Doors Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2036">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Open Doors" />
+                                </span>
+                                <a href='https://i0.wp.com/opendoorswv.com/wp-content/uploads/2016/08/identogo-logo.png?fit=2036%2C568&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO Fingerprinting Service | Identogo">
+                                <img itemprop="contentUrl url" src='https://www.identogo.com/uploads/general/MboroTN_hero2.jpg' alt='IdentoGO Fingerprinting Service | Identogo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Identogo" />
+                                </span>
+                                <a href='https://www.identogo.com/uploads/general/MboroTN_hero2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IDENTOGO - Updated March 2025 - 7917 Bond St, Lenexa, Kansas ...">
+                                <img itemprop="contentUrl url" src='https://s3-media0.fl.yelpcdn.com/bphoto/ek8DxgZvO6FPOZPQVbZV0Q/l.jpg' alt='IDENTOGO - Updated March 2025 - 7917 Bond St, Lenexa, Kansas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yelp" />
+                                </span>
+                                <a href='https://s3-media0.fl.yelpcdn.com/bphoto/ek8DxgZvO6FPOZPQVbZV0Q/l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO by MorphoTrust Strengthens Public Safety with ...">
+                                <img itemprop="contentUrl url" src='https://www.idemia.com/wp-content/uploads/2021/01/morphotrust-identogo-fingerprints.jpg' alt='IdentoGO by MorphoTrust Strengthens Public Safety with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDEMIA" />
+                                </span>
+                                <a href='https://www.idemia.com/wp-content/uploads/2021/01/morphotrust-identogo-fingerprints.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO by IDEMIA | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C561BAQH2au8QUjD-2g/company-background_10000/company-background_10000/0/1650986722287/identogo_cover?e=2147483647&v=beta&t=gFQk-HIfSYN_b36uwwdpoDce4ea_dUBZsbpGzUT84bs' alt='IdentoGO by IDEMIA | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1128">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C561BAQH2au8QUjD-2g/company-background_10000/company-background_10000/0/1650986722287/identogo_cover?e=2147483647&v=beta&t=gFQk-HIfSYN_b36uwwdpoDce4ea_dUBZsbpGzUT84bs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

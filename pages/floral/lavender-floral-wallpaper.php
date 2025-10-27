@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Lavender Floral Wallpaper</title>
+                    <meta name="description" content="Transform your home with lavender floral wallpaper. This elegant design adds a calming touch, perfect for any room. Explore styles that enhance your décor while creating a serene atmosphere. Ideal for bedrooms and living areas, it brings the beauty of nature indoors effortlessly.">
+                    <meta name="keywords" content="lavender floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/lavender-floral-wallpaper">
+                            <span itemprop="name">lavender floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Lavender Floral Wallpaper</h1>
+                <p>Lavender floral wallpaper brings elegance and tranquility to your spaces. The soft hues and delicate patterns create a serene atmosphere, making any room more inviting. Perfect for bedrooms, nurseries, or living areas, this wallpaper pairs well with various décor styles, adding a touch of nature indoors. Experience the beauty of lavender!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' alt='PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Flowers Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/230711/Lavender-Flowers-Pattern-Wallpaper.jpg?v=638164487192630000' alt='Lavender Flowers Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/230711/Lavender-Flowers-Pattern-Wallpaper.jpg?v=638164487192630000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapdragon - Pale Lavender Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/products/Snapdragon_PaleLav.png?v=1660931763&width=1080' alt='Snapdragon - Pale Lavender Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/products/Snapdragon_PaleLav.png?v=1660931763&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Rose Floral Wallpaper/Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://babymaes.com/cdn/shop/products/WallpaperSunlightEntryWaycopy_910ae70f-2023-46c6-bf61-de4490b7b5a2.jpg?v=1680882554' alt='Purple Lavender Rose Floral Wallpaper/Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Maes" />
+                                </span>
+                                <a href='https://babymaes.com/cdn/shop/products/WallpaperSunlightEntryWaycopy_910ae70f-2023-46c6-bf61-de4490b7b5a2.jpg?v=1680882554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Graphic Flower' Wallpaper by Tea Collection - Lavender">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Lavender_design.jpg?v=1615485011' alt=''Graphic Flower' Wallpaper by Tea Collection - Lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Lavender_design.jpg?v=1615485011' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniatures 2 Lilac Floral Trail 33' L x 21" W Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/04308267/compr-r85/1516/151601896/miniatures-2-lilac-floral-trail-33-l-x-21-w-wallpaper-roll.jpg' alt='Miniatures 2 Lilac Floral Trail 33' L x 21" W Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/04308267/compr-r85/1516/151601896/miniatures-2-lilac-floral-trail-33-l-x-21-w-wallpaper-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Flowers Removable Wallpaper Self-adhesive Temporary ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20707967/r/il/f2ca15/2011198215/il_570xN.2011198215_uvpe.jpg' alt='Lavender Flowers Removable Wallpaper Self-adhesive Temporary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20707967/r/il/f2ca15/2011198215/il_570xN.2011198215_uvpe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Mural Wallpaper | Pastel Shades — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/3_137t_cbee31c2-b183-496d-a22a-246f44598274_700x700.jpg?v=1721496851' alt='Lavender Mural Wallpaper | Pastel Shades — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/3_137t_cbee31c2-b183-496d-a22a-246f44598274_700x700.jpg?v=1721496851' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Mediterranean Floral' Wallpaper by Tea Collection - Lavender">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Mediterranean_Floral_Lavender_design.jpg?v=1615485321' alt=''Mediterranean Floral' Wallpaper by Tea Collection - Lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Mediterranean_Floral_Lavender_design.jpg?v=1615485321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambesonne Vintage Floral Peel & Stick Wallpaper for Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91wR+uaScHL.jpg' alt='Ambesonne Vintage Floral Peel & Stick Wallpaper for Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2324">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91wR+uaScHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

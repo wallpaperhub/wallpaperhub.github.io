@@ -1,0 +1,129 @@
+<title>Weightlifting PNG Images: High-Quality, Transparent Graphics</title>
+                    <meta name="description" content="Discover high-quality weights PNG images perfect for your fitness projects! Find a variety of transparent graphics, including dumbbells, kettlebells, and more, suitable for blogs, websites, and promotional content. Enhance your designs with our extensive collection today!">
+                    <meta name="keywords" content="weights png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weights-png">
+                            <span itemprop="name">weights png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Weightlifting PNG Images: High-Quality, Transparent Graphics</h1>
+                <p>Weights PNG files are essential for fitness enthusiasts and graphic designers alike. These transparent images showcase various weightlifting equipment, such as dumbbells, kettlebells, and barbells, making them perfect for creating workout plans, health blogs, or promotional materials. Download weights PNGs for your projects today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gym Weights PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/381/368/non_2x/dumbbell-clipart-design-illustration-free-png.png' alt='Gym Weights PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/381/368/non_2x/dumbbell-clipart-design-illustration-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dumbbell Png Images – Browse 44,693 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/54/34/49/360_F_654344994_q7YLNLvHbSCzKvr5G5M96rMPwFkeFgZY.jpg' alt='Dumbbell Png Images – Browse 44,693 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/54/34/49/360_F_654344994_q7YLNLvHbSCzKvr5G5M96rMPwFkeFgZY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weights PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201208/original/pngtree-iron-black-dumbbell-png-image_5570659.jpg' alt='Weights PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201208/original/pngtree-iron-black-dumbbell-png-image_5570659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weights - Free sports icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/1401/1401482.png' alt='Weights - Free sports icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/1401/1401482.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Weights transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/59d6274a3752880e93e16e9c.png' alt='Small Weights transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/59d6274a3752880e93e16e9c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gym Weights PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/299/705/small_2x/strength-exercise-weight-lifting-barbell-3d-icon-illustration-png.png' alt='Gym Weights PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/299/705/small_2x/strength-exercise-weight-lifting-barbell-3d-icon-illustration-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weights Clipart transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/59d627503752880e93e16e9d.png' alt='Weights Clipart transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/59d627503752880e93e16e9d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dumbbell PNG transparent image download, size: 1696x1191px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/dumbbell_PNG102650.png' alt='dumbbell PNG transparent image download, size: 1696x1191px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1696">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/dumbbell_PNG102650.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dumbbells PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/dumbbells-nzl.png' alt='Dumbbells PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1559">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/dumbbells-nzl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dumbbells PNG Images & PSDs for Download | PixelSquid - S111659746">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/dumbbells-dumbbell-9GxK2a6-600.jpg' alt='Dumbbells PNG Images & PSDs for Download | PixelSquid - S111659746'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/dumbbells-dumbbell-9GxK2a6-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

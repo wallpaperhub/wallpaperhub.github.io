@@ -1,0 +1,129 @@
+<title>Stunning Days Gone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover captivating Days Gone wallpapers that bring the game's stunning visuals to your screens. Perfect for fans seeking to personalize their devices with iconic characters and landscapes from this thrilling adventure. Download your favorite wallpapers today for an immersive experience!">
+                    <meta name="keywords" content="days gone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/days-gone-wallpaper">
+                            <span itemprop="name">days gone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Days Gone Wallpapers for Every Fan</h1>
+                <p>Transform your device's background with stunning Days Gone wallpapers! Dive into the post-apocalyptic world featuring iconic imagery of Deacon St. John and breathtaking landscapes. Whether you’re looking for action-packed scenes or serene vistas, there's a perfect wallpaper for every fan. Download and personalize your screens today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days Gone Wallpaper 4K, Deacon St. John, Outlaw">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/days-gone-deacon-st-4480x2520-9809.jpg' alt='Days Gone Wallpaper 4K, Deacon St. John, Outlaw'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/days-gone-deacon-st-4480x2520-9809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days gone ps4, game, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/728/826/HD-wallpaper-days-gone-ps4-game.jpg' alt='Days gone ps4, game, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/728/826/HD-wallpaper-days-gone-ps4-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days Gone – PlayStation Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/02/Days-Gone-1080-Main.jpg?ssl=1' alt='Days Gone – PlayStation Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Wallpapers" />
+                                </span>
+                                <a href='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/02/Days-Gone-1080-Main.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days Gone UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_days_gone_01_2560x1080.jpg&height=506&sharpen' alt='Days Gone UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_days_gone_01_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days Gone Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/Days-Gone-PS4-Wallpapers-02.jpg' alt='Days Gone Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/Days-Gone-PS4-Wallpapers-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Deacon St. John Video Game Days Gone 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/105/1055633.jpg' alt='Download Deacon St. John Video Game Days Gone 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/105/1055633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Deacon St. John Video Game Days Gone 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/112/1124769.jpg' alt='Download Deacon St. John Video Game Days Gone 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/112/1124769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Days Gone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/days-gone-zombie-strike-poster-808vz2axmhw4zege.jpg' alt='100+] Days Gone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/days-gone-zombie-strike-poster-808vz2axmhw4zege.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Days Gone Deacon Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/days-gone-deacon-poster-hmfbz8nmwhxdn0yb.jpg' alt='Days Gone Deacon Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/days-gone-deacon-poster-hmfbz8nmwhxdn0yb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Days Gone ideas | day gone ps4, gaming wallpapers, the last of us">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/73/d7/38/73d738d608e1d464c663fbeef2efaa08.jpg' alt='69 Days Gone ideas | day gone ps4, gaming wallpapers, the last of us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/73/d7/38/73d738d608e1d464c663fbeef2efaa08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Pastel Christmas Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover charming pastel Christmas wallpapers that add a cute aesthetic to your devices. Perfect for the holiday season, these designs bring joy and warmth to your screen. Download now to elevate your festive spirit in style!">
+                    <meta name="keywords" content="pastel:2izqal284zk= cute aesthetic christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/pastel2izqal284zk-cute-aesthetic-christmas-wallpaper">
+                            <span itemprop="name">pastel:2izqal284zk= cute aesthetic christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel Christmas Wallpaper for Your Device</h1>
+                <p>Transform your screen this holiday season with our cute aesthetic pastel Christmas wallpapers. Featuring soft colors, whimsical designs, and festive elements, these wallpapers bring a cozy and cheerful vibe to your devices. Perfect for spreading holiday cheer, these delightful pastels will surely brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel aesthetic sanrio christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/8d/9c/9d8d9cb3fab893f60f3d12f562892d3f.jpg' alt='pastel aesthetic sanrio christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/8d/9c/9d8d9cb3fab893f60f3d12f562892d3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/pastel-girly-christmas-wallpaper-1920x1080.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/pastel-girly-christmas-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/cute-pastel-christmas-wallpaper-800x1198.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/cute-pastel-christmas-wallpaper-800x1198.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/pastel-goth-christmas-wallpaper-2305x4096.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2305">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/pastel-goth-christmas-wallpaper-2305x4096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/pastel-pink-christmas-wallpaper-1242x2208.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/pastel-pink-christmas-wallpaper-1242x2208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Aesthetic Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-aesthetic-christmas-7vwnbjymjkeudif1.jpg' alt='100+] Pastel Aesthetic Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1441">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-aesthetic-christmas-7vwnbjymjkeudif1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel #Christmas #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/6e/bb/c66ebb5aa7bbf0d0e1cc44530b1f6050.jpg' alt='Pastel #Christmas #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/6e/bb/c66ebb5aa7bbf0d0e1cc44530b1f6050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/d2/78/67d27822ded8b8b62fb3332f7a897f5f.jpg' alt='50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/d2/78/67d27822ded8b8b62fb3332f7a897f5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/pastel-christmas-wallpapers-1024x2048.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/pastel-christmas-wallpapers-1024x2048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Christmas Wallpapers for Phone | Download Free images ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f9be3a448becd82c094b6fee3a024ae3/f6a4797d3abaab514864d47d903bde49.jpg?q=70&w=500' alt='Pastel Christmas Wallpapers for Phone | Download Free images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f9be3a448becd82c094b6fee3a024ae3/f6a4797d3abaab514864d47d903bde49.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

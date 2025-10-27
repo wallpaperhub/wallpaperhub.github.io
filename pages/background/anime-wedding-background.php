@@ -1,0 +1,129 @@
+<title>Enchanting Anime Wedding Backgrounds for Your Special Day</title>
+                    <meta name="description" content="Discover the beauty of anime wedding backgrounds, tailored to enhance your wedding day with vibrant colors and enchanting designs. Create a unique and memorable setting that reflects your love story and personality. Perfect for any anime enthusiast looking to add a touch of magic!">
+                    <meta name="keywords" content="anime wedding background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-wedding-background">
+                            <span itemprop="name">anime wedding background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Anime Wedding Backgrounds for Your Special Day</h1>
+                <p>Anime wedding backgrounds are a magical blend of romance and vibrant artistry, perfect for creating an enchanting atmosphere for your special day. Imagine lush landscapes, whimsical characters, and delicate floral designs all wrapped into a stunning visual experience. Bring your love story to life with an anime-inspired backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cenários de casamento">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/68/3b/a3683b299e2f0f5c7bd0a2ae840057f2.jpg' alt='Cenários de casamento'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/68/3b/a3683b299e2f0f5c7bd0a2ae840057f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Style Illustration of a Beautiful Wedding Ceremony in a ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/anime-style-illustration-beautiful-wedding-ceremony-magical-floral-setting-with-arched-windows_1157779-3912.jpg' alt='Anime Style Illustration of a Beautiful Wedding Ceremony in a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/anime-style-illustration-beautiful-wedding-ceremony-magical-floral-setting-with-arched-windows_1157779-3912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Anime wedding vibes ideas | anime wedding, anime scenery, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3b/4e/82/3b4e82b4b6916a025d26e1bf96e17352.jpg' alt='24 Anime wedding vibes ideas | anime wedding, anime scenery, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3b/4e/82/3b4e82b4b6916a025d26e1bf96e17352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VJ Comando - Wedding in the Rose Garden">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/039/209/301/large/vj-comando-wh-rosegarden-ext-front-wide-night-dressing-wedding-v01-vj-1.jpg?1625240252' alt='VJ Comando - Wedding in the Rose Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VJ Comando" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/039/209/301/large/vj-comando-wh-rosegarden-ext-front-wide-night-dressing-wedding-v01-vj-1.jpg?1625240252' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Wedding Scene Background Backgrounds | JPG Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20241218/blue-floral-wedding-scene-background_11270044.jpg!sw800' alt='Blue Floral Wedding Scene Background Backgrounds | JPG Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20241218/blue-floral-wedding-scene-background_11270044.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Wedding . . #anime #animeart #animeartist ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2738396597661336081' alt='Beach Wedding . . #anime #animeart #animeartist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2738396597661336081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wedding Background, Wedding Backgrounds, Wedding ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20241228/pngtree-wedding-arch-on-sunset-beach-image_16865638.jpg' alt='Aesthetic Wedding Background, Wedding Backgrounds, Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20241228/pngtree-wedding-arch-on-sunset-beach-image_16865638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Anime Illustration of a Wedding Reception in a Luxurious ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/elegant-anime-illustration-wedding-reception-luxurious-sunlit-banquet-hall-with-floral-decorations_1157779-3915.jpg' alt='Elegant Anime Illustration of a Wedding Reception in a Luxurious ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/elegant-anime-illustration-wedding-reception-luxurious-sunlit-banquet-hall-with-floral-decorations_1157779-3915.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halcyon Half-Day/Plot 2-2 | Food Fantasy Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/food-fantasy/images/b/b1/Story_Bg-89.jpg/revision/latest?cb=20200106030833' alt='Halcyon Half-Day/Plot 2-2 | Food Fantasy Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1624">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food Fantasy Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/food-fantasy/images/b/b1/Story_Bg-89.jpg/revision/latest?cb=20200106030833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bride Anime Girl Anime Girl HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/123/1238504.jpg' alt='Download Bride Anime Girl Anime Girl HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/123/1238504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Preppy Wallpaper Inspired by Emma's Style</title>
+                    <meta name="description" content="Discover vibrant preppy wallpaper inspired by Emma's chic style. Perfect for transforming your space with elegant designs and trendy patterns, ideal for enhancing any room. Elevate your home decor effortlessly!">
+                    <meta name="keywords" content="preppy wallpaper emma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-emma">
+                            <span itemprop="name">preppy wallpaper emma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Wallpaper Inspired by Emma's Style</h1>
+                <p>Transform your space with preppy wallpaper that embodies Emma's chic style. Perfect for adding a touch of sophistication and personality, this wallpaper features vibrant patterns and colors, making any room a standout. Elevate your home decor with designs that resonate with timeless elegance and trendy vibes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emma Images – Browse 2,960 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/29/65/69/360_F_829656999_AObi70I1fvaIXCHZI0OshdMPKiVUye65.jpg' alt='Emma Images – Browse 2,960 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/29/65/69/360_F_829656999_AObi70I1fvaIXCHZI0OshdMPKiVUye65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful names!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/e2/6a/e5e26a9d92de9694a420fc7aa955e127.jpg' alt='Beautiful names!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/e2/6a/e5e26a9d92de9694a420fc7aa955e127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                   !">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/60/91/2c6091167ebf01eb5c4438c22f1e4ed6.jpg' alt='                                   !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/60/91/2c6091167ebf01eb5c4438c22f1e4ed6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emma Images – Browse 2,960 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/81/67/78/360_F_681677820_nGdDvNk97yzMHwhvcQ0Rqb49YwNoC9Cu.jpg' alt='Emma Images – Browse 2,960 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/81/67/78/360_F_681677820_nGdDvNk97yzMHwhvcQ0Rqb49YwNoC9Cu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name Emma Stock Illustrations – 149 Name Emma Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/female-name-emma-background-postcard-congratulations-236355200.jpg' alt='Name Emma Stock Illustrations – 149 Name Emma Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/female-name-emma-background-postcard-congratulations-236355200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emma wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a6/a5/92/a6a59275f72ec9f9d3f2d560d40ace65.jpg' alt='Emma wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a6/a5/92/a6a59275f72ec9f9d3f2d560d40ace65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emma” name wallpaper/widget">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/a2/d2/32a2d23ad262a60e9f89b355e7c533c5.jpg' alt='Emma” name wallpaper/widget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/a2/d2/32a2d23ad262a60e9f89b355e7c533c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""emma name sticker" Sticker for Sale by youtubemugs">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1430282202.7525/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"emma name sticker" Sticker for Sale by youtubemugs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1430282202.7525/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pic 4 emma/soph !   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/07/90/890790cb0d8363af74acabb21b7d35df.jpg' alt='pic 4 emma/soph !   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/07/90/890790cb0d8363af74acabb21b7d35df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Female Name Emma Background Female Name Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/female-name-emma-background-postcard-260nw-2092815388.jpg' alt='Female Name Emma Background Female Name Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/female-name-emma-background-postcard-260nw-2092815388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

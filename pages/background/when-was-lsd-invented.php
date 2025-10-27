@@ -1,0 +1,129 @@
+<title>LSD: The Story of Its Invention</title>
+                    <meta name="description" content="Discover the fascinating history behind the invention of LSD in 1938 by Albert Hofmann. Explore its origins, initial medical applications, and cultural impact during the 1960s. Learn how this powerful hallucinogen reshaped perceptions and societal norms.">
+                    <meta name="keywords" content="when was lsd invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-lsd-invented">
+                            <span itemprop="name">when was lsd invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LSD: The Story of Its Invention</h1>
+                <p>Lysergic acid diethylamide (LSD) was invented in 1938 by Swiss chemist Albert Hofmann while he was researching ergot derivatives at the Sandoz Laboratories. Initially used in psychiatry and psychotherapy, its potent hallucinogenic properties gained popularity in the 1960s, leading to both counterculture acceptance and regulatory crackdowns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of LSD - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b8/Ruby_Slippers_LSD_Sheet.jpg' alt='History of LSD - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b8/Ruby_Slippers_LSD_Sheet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Albert Hofmann | Swiss Chemist & LSD Discoverer | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/91/129791-050-BC265E43/Albert-Hofmann-1976.jpg' alt='Albert Hofmann | Swiss Chemist & LSD Discoverer | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1167">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/91/129791-050-BC265E43/Albert-Hofmann-1976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flashback: LSD Creator Drops Acid for the First Time">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/albert-hofmann-lsd-bicycle-day-421162e2-7fe4-444f-88a2-ad00691b2a15.jpg' alt='Flashback: LSD Creator Drops Acid for the First Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3441">
+                                <meta itemprop="height" content="2512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/albert-hofmann-lsd-bicycle-day-421162e2-7fe4-444f-88a2-ad00691b2a15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Swiss beginnings of LSD | House of Switzerland">
+                                <img itemprop="contentUrl url" src='https://houseofswitzerland.org/sites/default/files/inline-images/1_4.jpg' alt='The Swiss beginnings of LSD | House of Switzerland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1229">
+                                <meta itemprop="height" content="1626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Switzerland" />
+                                </span>
+                                <a href='https://houseofswitzerland.org/sites/default/files/inline-images/1_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Albert Hofmann - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/aa/Albert_Hofmann_Oct_1993.jpg' alt='Albert Hofmann - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/aa/Albert_Hofmann_Oct_1993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Father of LSD' dies aged 102 | Chemistry | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/04/30/hofmann460.jpg?width=465&dpr=1&s=none&crop=none' alt='Father of LSD' dies aged 102 | Chemistry | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/04/30/hofmann460.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tripping - The history of LSD - Swiss National Museum">
+                                <img itemprop="contentUrl url" src='https://blog.nationalmuseum.ch/app/uploads/2018/10/Blotter_Hofmann_Psycho_Header-scaled.webp' alt='Tripping - The history of LSD - Swiss National Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blog Nationalmuseum" />
+                                </span>
+                                <a href='https://blog.nationalmuseum.ch/app/uploads/2018/10/Blotter_Hofmann_Psycho_Header-scaled.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apparently Useless': The Accidental Discovery of LSD - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/zIu78bohKEQqU_9c2vo6mXxhFEM=/0x19:1200x919/1200x900/media/img/mt/2014/09/chem/original.jpg' alt='Apparently Useless': The Accidental Discovery of LSD - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/zIu78bohKEQqU_9c2vo6mXxhFEM=/0x19:1200x919/1200x900/media/img/mt/2014/09/chem/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Albert Hofmann | Drugs | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/04/30/hoffmanbw460.jpg?width=465&dpr=1&s=none&crop=none' alt='Dr Albert Hofmann | Drugs | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/04/30/hoffmanbw460.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Acid trips down memory lane | New Scientist">
+                                <img itemprop="contentUrl url" src='https://images.newscientist.com/wp-content/uploads/2013/06/mg21829192.700-1_300.jpg' alt='Acid trips down memory lane | New Scientist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Scientist" />
+                                </span>
+                                <a href='https://images.newscientist.com/wp-content/uploads/2013/06/mg21829192.700-1_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

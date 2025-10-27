@@ -1,0 +1,129 @@
+<title>Transform Your Space with Pink Grasscloth Wallpaper</title>
+                    <meta name="description" content="Explore the beauty of pink grasscloth wallpaper! This elegant choice enhances any room with its unique texture and serene color. Perfect for creating a cozy and stylish atmosphere in your home. Discover tips and inspiration for your next interior design project today!">
+                    <meta name="keywords" content="pink grasscloth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-grasscloth-wallpaper">
+                            <span itemprop="name">pink grasscloth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Pink Grasscloth Wallpaper</h1>
+                <p>Pink grasscloth wallpaper adds a touch of elegance and warmth to any interior space. Its natural texture and muted hue create a serene ambiance, perfect for bedrooms or living areas. Versatile and stylish, this wallpaper pairs beautifully with various decor styles, providing depth and character to your walls while promoting a cozy atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Pink Wallpaper Grasscloth Peel and Stick Wallpaper Textured Contact  Paper Faux Linen Embossed Wallpaper Pink Self Adhesive Wallpaper Removable  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91EQpBQdmEL.jpg' alt='Guvana Pink Wallpaper Grasscloth Peel and Stick Wallpaper Textured Contact  Paper Faux Linen Embossed Wallpaper Pink Self Adhesive Wallpaper Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2182">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91EQpBQdmEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Watercolor Weave Small' Grasscloth Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Watercolor_Weave_Small_Wallpaper_Pink_RS.jpg?v=1621466503' alt=''Watercolor Weave Small' Grasscloth Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Watercolor_Weave_Small_Wallpaper_Pink_RS.jpg?v=1621466503' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2927-81701 | Newport, Tiverton Blush Faux Grasscloth Blush - A-Street  Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/2927-81701_Room.jpg?v=1664258587&width=1445' alt='2927-81701 | Newport, Tiverton Blush Faux Grasscloth Blush - A-Street  Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/2927-81701_Room.jpg?v=1664258587&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Grasscloth Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/pink-grasscloth-peel-and-stick-wallpaper-381464.png?v=1703232178' alt='Pink Grasscloth Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/pink-grasscloth-peel-and-stick-wallpaper-381464.png?v=1703232178' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHIHUT Pink Grasscloth Peel and Stick Wallpaper 17.7”x100” Self Adhesive  Pink Wallpaper Textured Fabric Removable Vinyl Grasscloth Wallpaper Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81e7PjXqpML.jpg' alt='CHIHUT Pink Grasscloth Peel and Stick Wallpaper 17.7”x100” Self Adhesive  Pink Wallpaper Textured Fabric Removable Vinyl Grasscloth Wallpaper Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81e7PjXqpML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusted Pink Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mintwoodhome.com/cdn/shop/products/BERMUDAHEMPII-DUSTEDPINK.jpg?v=1612891069' alt='Dusted Pink Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mintwood Home" />
+                                </span>
+                                <a href='https://mintwoodhome.com/cdn/shop/products/BERMUDAHEMPII-DUSTEDPINK.jpg?v=1612891069' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Lemons' Grasscloth Wallpaper by Nathan Turner - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Lemons_Wallpaper_Pink_RS.jpg?v=1621466376' alt=''Lemons' Grasscloth Wallpaper by Nathan Turner - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Lemons_Wallpaper_Pink_RS.jpg?v=1621466376' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Palette Grasscloth Wallpaper - Light Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RI5183-rifle-paper-co-grasscloth-palette-wallpaper_b56a5356-6525-44c8-9eb8-3e3ad32a8452.jpg?v=1594873689' alt='Rifle Paper Co. Palette Grasscloth Wallpaper - Light Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RI5183-rifle-paper-co-grasscloth-palette-wallpaper_b56a5356-6525-44c8-9eb8-3e3ad32a8452.jpg?v=1594873689' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgiana Sisal Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='http://scoutdesignstudio.com/cdn/shop/products/GeorgianaGrassclothWallpaper.01_1200x1200.jpg?v=1617204432' alt='Georgiana Sisal Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scout Design Studio" />
+                                </span>
+                                <a href='http://scoutdesignstudio.com/cdn/shop/products/GeorgianaGrassclothWallpaper.01_1200x1200.jpg?v=1617204432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY WIND Pink sisal Home interior Grasscloth Wallpaper - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Hcbe8ba4f29964f4698a2c157f2b2afb40.jpg' alt='MY WIND Pink sisal Home interior Grasscloth Wallpaper - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Hcbe8ba4f29964f4698a2c157f2b2afb40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

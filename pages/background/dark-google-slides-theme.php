@@ -1,0 +1,129 @@
+<title>Stunning Dark Google Slides Themes for Your Presentations</title>
+                    <meta name="description" content="Discover the best dark Google Slides themes to elevate your presentations. Perfect for creating a modern, professional look, these templates enhance visibility and engagement. Explore sleek designs that captivate your audience while minimizing eye strain. Upgrade your slides today!">
+                    <meta name="keywords" content="dark google slides theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-google-slides-theme">
+                            <span itemprop="name">dark google slides theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Google Slides Themes for Your Presentations</h1>
+                <p>A dark Google Slides theme enhances your presentations with a sleek, modern look. Ideal for tech, creative, or professional presentations, it minimizes eye strain while maintaining focus on your content. Choose from various templates featuring deep backgrounds and contrasting fonts to captivate your audience and elevate your visual storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/23828003/dark-academia-aesthetics-school-center1661151881.jpg' alt='Free Dark Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/23828003/dark-academia-aesthetics-school-center1661151881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Elegance Google Slides and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/5068851/conversions/0-dark-elegance-thumb.jpg' alt='Dark Elegance Google Slides and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/5068851/conversions/0-dark-elegance-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/48005345/new-darkle-slideshow1706175442.jpg' alt='Free Dark Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/48005345/new-darkle-slideshow1706175442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Theme Google Slides Template">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2022/05/Dark-google-slides-theme-cover-slide-jpg.webp' alt='Dark Theme Google Slides Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2022/05/Dark-google-slides-theme-cover-slide-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/31976620/dark-academia-style-portfolio1677756502.jpg' alt='Free Dark Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/31976620/dark-academia-style-portfolio1677756502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/15791094/dark-academia-aesthetic-style-newsletter1640786554.jpg' alt='Free Dark Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/15791094/dark-academia-aesthetic-style-newsletter1640786554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Free Google Slides Theme PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2022/06/Black-and-Gold.png' alt='Black and Gold Free Google Slides Theme PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2022/06/Black-and-Gold.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Dark Black Slide PPT and Google Presentation Themes">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/64961-black-google.png' alt='Creative Dark Black Slide PPT and Google Presentation Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideEgg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/64961-black-google.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkness - Google Slides Template Graphic by axelartstudio ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2019/12/13/Darkness-Google-Slides-Template-Graphics-1.jpg' alt='Darkness - Google Slides Template Graphic by axelartstudio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2341">
+                                <meta itemprop="height" content="1561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2019/12/13/Darkness-Google-Slides-Template-Graphics-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkle Slideshow Google Slides theme & PowerPoint template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/21122242/responsive-images/0-darkle-slideshow___media_library_original_655_368.jpg' alt='Darkle Slideshow Google Slides theme & PowerPoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/21122242/responsive-images/0-darkle-slideshow___media_library_original_655_368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

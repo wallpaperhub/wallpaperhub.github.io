@@ -1,0 +1,129 @@
+<title>Elegant Floral Line Art Wallpaper for a Modern Touch</title>
+                    <meta name="description" content="Discover the beauty of floral line art wallpaper to elevate your home. Our unique designs blend art and nature, adding sophistication to your walls. Perfect for any room, these wallpapers create a calm, stylish ambiance. Shop now for modern elegance!">
+                    <meta name="keywords" content="floral line art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-line-art-wallpaper">
+                            <span itemprop="name">floral line art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Floral Line Art Wallpaper for a Modern Touch</h1>
+                <p>Transform your space with floral line art wallpaper that combines elegance and simplicity. These artistic designs feature delicate, intricate florals drawn in clean lines, perfect for adding a touch of nature to any room. Ideal for creating a serene environment, this wallpaper complements modern decor styles beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Floral Line Art">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/79205/golden-floral-line-art.jpg?h=699&q=85' alt='Golden Floral Line Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/79205/golden-floral-line-art.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Floral Line Art II">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/79204/golden-floral-line-art-ii.jpg?h=699&q=85' alt='Golden Floral Line Art II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/79204/golden-floral-line-art-ii.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Floral Line Art Wallpaper. 2024 Collection. Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24498773/r/il/c034dc/2817166610/il_570xN.2817166610_rec3.jpg' alt='Modern Floral Line Art Wallpaper. 2024 Collection. Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24498773/r/il/c034dc/2817166610/il_570xN.2817166610_rec3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral seamless line art pattern. Flower outline background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/085/783/non_2x/floral-seamless-line-art-pattern-flower-outline-background-floral-linear-drawn-texture-with-flowers-flourish-tiled-wallpaper-vector.jpg' alt='Floral seamless line art pattern. Flower outline background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/085/783/non_2x/floral-seamless-line-art-pattern-flower-outline-background-floral-linear-drawn-texture-with-flowers-flourish-tiled-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Floral line art flat design background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-line-art-flat-design-background_79603-2391.jpg' alt='Free Vector | Floral line art flat design background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-line-art-flat-design-background_79603-2391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="luxury floral line art wallpaper vector. Exotic botanical ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/78/07/23/1000_F_378072382_epCTBfGLTNf9eRyjxUgEhC0bLflHCyNh.jpg' alt='luxury floral line art wallpaper vector. Exotic botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/78/07/23/1000_F_378072382_epCTBfGLTNf9eRyjxUgEhC0bLflHCyNh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral seamless pattern. Flower background. Flourish ornamental ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/MAJRXG/floral-seamless-pattern-flower-background-flourish-ornamental-line-art-wallpaper-with-flowers-MAJRXG.jpg' alt='Floral seamless pattern. Flower background. Flourish ornamental ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/MAJRXG/floral-seamless-pattern-flower-background-flourish-ornamental-line-art-wallpaper-with-flowers-MAJRXG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Peony Flower Line Art Background Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-peony-flower-line-art-260nw-2285898289.jpg' alt='Abstract Peony Flower Line Art Background Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-peony-flower-line-art-260nw-2285898289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Line Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/engraving-floral-background_23-2149049374.jpg' alt='Flower Line Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/engraving-floral-background_23-2149049374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Floral Line Art Wallpaper. 2024 Collection. Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/26/4b/b1264bfc2006e2b469d0ad8085b0d61a.jpg' alt='Modern Floral Line Art Wallpaper. 2024 Collection. Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/26/4b/b1264bfc2006e2b469d0ad8085b0d61a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pink Anime Girl Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking pink anime girl wallpapers that will elevate your screen's aesthetics. Perfect for anime lovers, our wallpapers combine charm and style, allowing you to personalize your device with your favorite characters in vibrant pink hues. Explore and download now!">
+                    <meta name="keywords" content="pink anime girl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-anime-girl-wallpaper">
+                            <span itemprop="name">pink anime girl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Anime Girl Wallpapers for Your Device</h1>
+                <p>Transform your device's look with vibrant pink anime girl wallpapers! Perfect for fans of anime aesthetics, these stunning wallpapers feature captivating characters and dreamy backgrounds. Whether you're into cute chibi styles or strong female protagonists, our collection offers a variety of options to match your mood and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Anime Girl Wink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' alt='Cute Pink Anime Girl Wink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pink Anime Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-anime-aesthetic-d5jzsbvhp5e1nkrx.jpg' alt='200+] Pink Anime Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-anime-aesthetic-d5jzsbvhp5e1nkrx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Anime Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/pastel-anime-aesthetic-wallpaper-1.webp' alt='Pastel Anime Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/pastel-anime-aesthetic-wallpaper-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Hair Anime Girl Anime Girl HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/121/1212645.jpg' alt='Download Pink Hair Anime Girl Anime Girl HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2970">
+                                <meta itemprop="height" content="2475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/121/1212645.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Kawaii Pink Anime Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/8b/7a/f68b7a1385624faa92f868a133fbc894.jpg' alt='Awesome Kawaii Pink Anime Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/8b/7a/f68b7a1385624faa92f868a133fbc894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made myself an “kawaii pink aesthetic anime girl wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3007802966301853330' alt='made myself an “kawaii pink aesthetic anime girl wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3007802966301853330' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girls, Sakura, kimono, pink hair, cherry blossoms ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/7a/oboi-anime-devushki-sakura.webp' alt='Wallpaper girls, Sakura, kimono, pink hair, cherry blossoms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/7a/oboi-anime-devushki-sakura.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Anime Aesthetic Lolita Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-anime-aesthetic-lolita-e65vy4n9chddu08m.jpg' alt='Pink Anime Aesthetic Lolita Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-anime-aesthetic-lolita-e65vy4n9chddu08m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime girl Wallpaper 4K, Girly, Pink aesthetic">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/anime-girl-girly-pink-fantasy-3840x1080-5055.jpg' alt='Anime girl Wallpaper 4K, Girly, Pink aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/anime-girl-girly-pink-fantasy-3840x1080-5055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pink anime girl wallpaper by NewbMangaDrawer on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/173813e9-69f3-4168-87d6-ce6e358205ff/d41a3kh-f5e66c80-ce0f-4749-ab6e-117a564fe0a1.png/v1/fill/w_900,h_507/cute_pink_anime_girl_wallpaper_by_newbmangadrawer_d41a3kh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvMTczODEzZTktNjlmMy00MTY4LTg3ZDYtY2U2ZTM1ODIwNWZmXC9kNDFhM2toLWY1ZTY2YzgwLWNlMGYtNDc0OS1hYjZlLTExN2E1NjRmZTBhMS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.J6yBvoAMfaKG64wMjl7mippTglGHaxhTOyw-qoxa5qs' alt='Cute pink anime girl wallpaper by NewbMangaDrawer on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/173813e9-69f3-4168-87d6-ce6e358205ff/d41a3kh-f5e66c80-ce0f-4749-ab6e-117a564fe0a1.png/v1/fill/w_900,h_507/cute_pink_anime_girl_wallpaper_by_newbmangadrawer_d41a3kh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvMTczODEzZTktNjlmMy00MTY4LTg3ZDYtY2U2ZTM1ODIwNWZmXC9kNDFhM2toLWY1ZTY2YzgwLWNlMGYtNDc0OS1hYjZlLTExN2E1NjRmZTBhMS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.J6yBvoAMfaKG64wMjl7mippTglGHaxhTOyw-qoxa5qs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Taylor Swift Wallpaper: Perfect Designs for Swifties</title>
+                    <meta name="description" content="Explore captivating Taylor Swift themed wallpaper to personalize your devices. Find the perfect blend of artistry and fandom with designs inspired by her music, lyrics, and iconic moments. Perfect for every Swiftie looking to showcase their love for Taylor in style!">
+                    <meta name="keywords" content="taylor swift themed wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-themed-wallpaper">
+                            <span itemprop="name">taylor swift themed wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Wallpaper: Perfect Designs for Swifties</h1>
+                <p>Transform your device with stunning Taylor Swift themed wallpaper that captures the essence of her music and style. From vibrant album covers to magical concert moments, our collection showcases a variety of designs perfect for any Swiftie. Elevate your screens with a touch of Taylor's artistry and inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themed iPhone Wallpapers That Auto-Switch When You Play Each Album ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vbmukra3bvib1.jpg' alt='Themed iPhone Wallpapers That Auto-Switch When You Play Each Album ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4125">
+                                <meta itemprop="height" content="3577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vbmukra3bvib1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osIbLmI1fAzdANGsEgemLfHSAoEFRAs3C1aKrr~tplv-tej9nj120t-origin.webp' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osIbLmI1fAzdANGsEgemLfHSAoEFRAs3C1aKrr~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Phone Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?width=640&crop=smart&auto=webp&s=1cfe32c832bdfbe54510a8153e6d8f350a8dfdbe' alt='1989 Phone Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?width=640&crop=smart&auto=webp&s=1cfe32c832bdfbe54510a8153e6d8f350a8dfdbe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift-Inspired iPhone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/00/61/9900618a7a89ec46f67307c01b5f01a3.jpg' alt='Taylor Swift-Inspired iPhone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/00/61/9900618a7a89ec46f67307c01b5f01a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers for each Eras show : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' alt='Phone wallpapers for each Eras show : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1755">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Taylor swift wallpaper ideas | taylor swift wallpaper, taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/38/71/e0/3871e0970acb4e78fa1b05e95d1f68c3.jpg' alt='63 Taylor swift wallpaper ideas | taylor swift wallpaper, taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/38/71/e0/3871e0970acb4e78fa1b05e95d1f68c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Inspired Desktop Wallpapers : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2r66wou1ka161.png' alt='Taylor Inspired Desktop Wallpapers : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1570">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2r66wou1ka161.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Taylor swift wallpapers ideas | taylor swift wallpaper, taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' alt='19 Taylor swift wallpapers ideas | taylor swift wallpaper, taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Inspired Phone Wallpaper Red Taylor's Version Swifty ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14031166/r/il/a45a3c/3490438874/il_570xN.3490438874_fwbz.jpg' alt='Taylor Swift Inspired Phone Wallpaper Red Taylor's Version Swifty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14031166/r/il/a45a3c/3490438874/il_570xN.3490438874_fwbz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/8a/9e/a78a9e8c96ab156d5ce02e609760c596.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/8a/9e/a78a9e8c96ab156d5ce02e609760c596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

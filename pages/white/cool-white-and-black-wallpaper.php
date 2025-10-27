@@ -1,0 +1,129 @@
+<title>Stunning White and Black Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Explore our collection of cool white and black wallpaper to elevate your interior design. Perfect for any space, these stylish wallpapers blend elegance with modern aesthetics, making your walls a focal point of beauty and sophistication. Enhance your decor with timeless designs today!">
+                    <meta name="keywords" content="cool white and black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/cool-white-and-black-wallpaper">
+                            <span itemprop="name">cool white and black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White and Black Wallpaper for Modern Interiors</h1>
+                <p>Transform your space with cool white and black wallpaper, perfect for a contemporary aesthetic. The striking contrast creates a modern vibe, whether in a living room, bedroom, or office. Choose geometric patterns or bold prints to add a touch of sophistication. Elevate your décor effortlessly with this timeless color palette.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-rendering-abstract-black-white-background_23-2150913897.jpg' alt='Black White Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-rendering-abstract-black-white-background_23-2150913897.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/7c/07/927c07dc27f1db0ede925d8a7667c062.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/7c/07/927c07dc27f1db0ede925d8a7667c062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Patterns Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-white-patterns-ftb2995buuyhbzgp-3.jpg' alt='Black And White Patterns Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-white-patterns-ftb2995buuyhbzgp-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best black and white 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJkDYXxQg/1/0/900w/canva-dragon-illustration-black-white-phone-wallpaper-TembgGxUe-E.jpg' alt='Best black and white 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJkDYXxQg/1/0/900w/canva-dragon-illustration-black-white-phone-wallpaper-TembgGxUe-E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+ Black and White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/3335/topographic-textures.jpg' alt='70+ Black and White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/3335/topographic-textures.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best black and white 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e5/a5/e3/e5a5e326c1f6c4215d32da54c4c593dc.jpg' alt='Best black and white 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e5/a5/e3/e5a5e326c1f6c4215d32da54c4c593dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/24/6a/ab246adaa893b5117ece7af28e3fa3a1.jpg' alt='Black & White Wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/24/6a/ab246adaa893b5117ece7af28e3fa3a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Black And White Wallpaper Images – Browse 119,642 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/32/29/45/360_F_832294500_P7IQmjQ0Wn3LvOaFNoNwLvhrYOz7hPRw.jpg' alt='Cool Black And White Wallpaper Images – Browse 119,642 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/32/29/45/360_F_832294500_P7IQmjQ0Wn3LvOaFNoNwLvhrYOz7hPRw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Wallpaper Photos, Download The BEST Free Black And ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3849160/pexels-photo-3849160.jpeg?cs=srgb&dl=pexels-sharath-giri-77553-3849160.jpg&fm=jpg' alt='Black And White Wallpaper Photos, Download The BEST Free Black And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3849160/pexels-photo-3849160.jpeg?cs=srgb&dl=pexels-sharath-giri-77553-3849160.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Black And White Wallpaper Images – Browse 122,108 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/98/30/33/360_F_598303398_D4omsCf1AmmxOP4fyygoZgiHNzdM4GEY.jpg' alt='Cool Black And White Wallpaper Images – Browse 122,108 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/98/30/33/360_F_598303398_D4omsCf1AmmxOP4fyygoZgiHNzdM4GEY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

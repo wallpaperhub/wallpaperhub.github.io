@@ -1,0 +1,129 @@
+<title>The Rich Tapestry of the Middle Ages</title>
+                    <meta name="description" content="Explore the Middle Ages, a fascinating era of feudalism, cultural advancement, and architectural marvels. Discover how this pivotal time shaped history and set the stage for the Renaissance. Join us in unraveling the complexities of medieval life, society, and their lasting impact on the modern world.">
+                    <meta name="keywords" content="the middle ages">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-middle-ages">
+                            <span itemprop="name">the middle ages</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Rich Tapestry of the Middle Ages</h1>
+                <p>The Middle Ages, spanning from the 5th to the late 15th century, was a vibrant period marked by feudalism, the rise of kingdoms, and significant cultural shifts. This era saw the establishment of universities, gothic architecture, and the proliferation of chivalric ideals. It ended with the Renaissance, paving the way for modernity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Ages ‑ Definition, Timeline & Facts | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2010/04/middle-ages-gettyimages-804452498.jpg' alt='Middle Ages ‑ Definition, Timeline & Facts | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2010/04/middle-ages-gettyimages-804452498.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/56/115256-050-FD65A50D/Illustration-calendar-section-book-prayers-Les-Tres.jpg' alt='Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1007">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/56/115256-050-FD65A50D/Illustration-calendar-section-book-prayers-Les-Tres.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/39/95639-050-91921503/Peasants-fields-town.jpg' alt='Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1231">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/39/95639-050-91921503/Peasants-fields-town.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/56/115256-050-FD65A50D/Illustration-calendar-section-book-prayers-Les-Tres.jpg?w=400&h=300&c=crop' alt='Middle Ages | Definition, Dates, Characteristics, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/56/115256-050-FD65A50D/Illustration-calendar-section-book-prayers-Les-Tres.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Europe - Medieval, Feudalism, Crusades | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/59/115259-050-0B314AA9/Calendar-illustration-manuscript-brothers-Tres-Riches-Heures.jpg?w=400&h=225&c=crop' alt='History of Europe - Medieval, Feudalism, Crusades | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/59/115259-050-0B314AA9/Calendar-illustration-manuscript-brothers-Tres-Riches-Heures.jpg?w=400&h=225&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Coming Middle Ages - Parag Khanna">
+                                <img itemprop="contentUrl url" src='https://www.paragkhanna.com/wp-content/uploads/2020/07/joan-of-arc-leads-french-army-against-english-defenders-of-les-tourelles-gate-in-siege-of-orleans-may-7-1429-from-19th-century-chromolithograph.jpg' alt='The Coming Middle Ages - Parag Khanna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parag Khanna" />
+                                </span>
+                                <a href='https://www.paragkhanna.com/wp-content/uploads/2020/07/joan-of-arc-leads-french-army-against-english-defenders-of-les-tourelles-gate-in-siege-of-orleans-may-7-1429-from-19th-century-chromolithograph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Middle Ages: A Comprehensive Overview - History">
+                                <img itemprop="contentUrl url" src='https://www.historyonthenet.com/wp-content/uploads/2018/05/d7ab31e924ab0afee87ec13725dbddc0.jpg' alt='The Middle Ages: A Comprehensive Overview - History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History on the Net" />
+                                </span>
+                                <a href='https://www.historyonthenet.com/wp-content/uploads/2018/05/d7ab31e924ab0afee87ec13725dbddc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What were the Middle Ages really like and are they still relevant ...">
+                                <img itemprop="contentUrl url" src='https://live-production.wcms.abc-cdn.net.au/7f3bc13de28aac45c70904792a53515a?impolicy=wcms_crop_resize&cropH=420&cropW=746&xPos=35&yPos=49&width=862&height=485' alt='What were the Middle Ages really like and are they still relevant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="746">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News" />
+                                </span>
+                                <a href='https://live-production.wcms.abc-cdn.net.au/7f3bc13de28aac45c70904792a53515a?impolicy=wcms_crop_resize&cropH=420&cropW=746&xPos=35&yPos=49&width=862&height=485' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Early, High and Late Middle Ages">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/nHEXwkQ8v5MpMStUc6cMLTZAwGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/budapest-during-the-middle-ages-from-the-nuremberg-chronicle-1493-hungary-58c95ee75f9b58af5c78065d.jpg' alt='The Early, High and Late Middle Ages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/nHEXwkQ8v5MpMStUc6cMLTZAwGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/budapest-during-the-middle-ages-from-the-nuremberg-chronicle-1493-hungary-58c95ee75f9b58af5c78065d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Middle Ages in a Nutshell | What Were the Middle Ages?">
+                                <img itemprop="contentUrl url" src='https://www.kingsandcastles.uk/wp-content/uploads/2024/01/the-middle-ages.jpg' alt='The Middle Ages in a Nutshell | What Were the Middle Ages?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kings & Castles - The History of Medieval Britain" />
+                                </span>
+                                <a href='https://www.kingsandcastles.uk/wp-content/uploads/2024/01/the-middle-ages.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

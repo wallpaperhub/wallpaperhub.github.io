@@ -1,0 +1,129 @@
+<title>Unraveling Arthur Morgan: The Heart of Red Dead Redemption 2</title>
+                    <meta name="description" content="Discover the compelling story of Arthur Morgan, the standout protagonist in "Red Dead Redemption 2." Explore his journey through loyalty, redemption, and the harsh realities of the Wild West as he grapples with fate and choice. Join us to delve into the life of this unforgettable outlaw.">
+                    <meta name="keywords" content="arthur morgan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arthur-morgan">
+                            <span itemprop="name">arthur morgan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling Arthur Morgan: The Heart of Red Dead Redemption 2</h1>
+                <p>Arthur Morgan is the iconic protagonist of "Red Dead Redemption 2." As a member of the Van der Linde gang, he navigates the challenges of an outlaw life, loyalty, and morality in the fading Wild West. His journey explores themes of friendship, redemption, and the struggle between duty and personal desires, making him an unforgettable character.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/ac/Arthur_Morgan_-_Red_Dead_Redemption_2.png' alt='Arthur Morgan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="181">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/ac/Arthur_Morgan_-_Red_Dead_Redemption_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan | Red Dead Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/reddeadredemption/images/3/30/Arthur_Morgan_Level_2.jpg/revision/latest?cb=20250123181952' alt='Arthur Morgan | Red Dead Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2059">
+                                <meta itemprop="height" content="2159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Dead Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/reddeadredemption/images/3/30/Arthur_Morgan_Level_2.jpg/revision/latest?cb=20250123181952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan (Character) - Giant Bomb">
+                                <img itemprop="contentUrl url" src='https://www.giantbomb.com/a/uploads/scale_small/5/56742/3058593-arthur_portrait.jpg' alt='Arthur Morgan (Character) - Giant Bomb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giant Bomb" />
+                                </span>
+                                <a href='https://www.giantbomb.com/a/uploads/scale_small/5/56742/3058593-arthur_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan | Villains Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/villains/images/f/f1/Arthur_morgan_official_art.jpg/revision/latest?cb=20220315010443' alt='Arthur Morgan | Villains Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villains Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/villains/images/f/f1/Arthur_morgan_official_art.jpg/revision/latest?cb=20220315010443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Development: Arthur Morgan's Journey From Outlaw To Anti ...">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/09/Arthur-Morgan-e1600294290774.jpg' alt='Character Development: Arthur Morgan's Journey From Outlaw To Anti ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/09/Arthur-Morgan-e1600294290774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan | Red Dead Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/reddeadredemption/images/9/9d/ArthurMorganBio.jpg/revision/latest?cb=20181112160835' alt='Arthur Morgan | Red Dead Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1974">
+                                <meta itemprop="height" content="3212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Dead Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/reddeadredemption/images/9/9d/ArthurMorganBio.jpg/revision/latest?cb=20181112160835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Arthur Morgan most iconic outfit? : r/reddeadredemption2">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3fc1eb7kakh71.jpg?width=600&format=pjpg&auto=webp&s=b76be2f8eb2c16caaebe77bfc402fee0c535327f' alt='What is Arthur Morgan most iconic outfit? : r/reddeadredemption2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3fc1eb7kakh71.jpg?width=600&format=pjpg&auto=webp&s=b76be2f8eb2c16caaebe77bfc402fee0c535327f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why RDR 2's Arthur Morgan is Still One of the Best Game ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/red-dead-redemption-2-arthur-morgan.jpg' alt='Why RDR 2's Arthur Morgan is Still One of the Best Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/red-dead-redemption-2-arthur-morgan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dress Like Arthur Morgan Costume | Halloween and Cosplay Guides">
+                                <img itemprop="contentUrl url" src='https://cdn.costumewall.com/wp-content/uploads/2019/07/arthur-morgan.jpg' alt='Dress Like Arthur Morgan Costume | Halloween and Cosplay Guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Costume Wall" />
+                                </span>
+                                <a href='https://cdn.costumewall.com/wp-content/uploads/2019/07/arthur-morgan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption II | Arthur Morgan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/51/7b/55517bd98e2302a1aaba0158a477fa05.jpg' alt='Red Dead Redemption II | Arthur Morgan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/51/7b/55517bd98e2302a1aaba0158a477fa05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

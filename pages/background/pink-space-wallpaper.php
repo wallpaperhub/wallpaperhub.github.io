@@ -1,0 +1,129 @@
+<title>Dreamy Pink Space Wallpaper for Cosmic Decor</title>
+                    <meta name="description" content="Discover stunning pink space wallpaper that brings a magical cosmic touch to any room. Ideal for nurseries, bedrooms, or creative spaces, our designs transform your atmosphere with soft hues and celestial themes. Explore the perfect wallpaper that inspires dreams and creativity!">
+                    <meta name="keywords" content="pink space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-space-wallpaper">
+                            <span itemprop="name">pink space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dreamy Pink Space Wallpaper for Cosmic Decor</h1>
+                <p>Transform your space with enchanting pink space wallpaper. Perfect for adding a cosmic vibe to bedrooms, nurseries, or playrooms, this design evokes feelings of tranquility and wonder. The soft hues and celestial motifs create a serene atmosphere that inspires creativity and imagination. Elevate your décor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Space Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/031/206/582/non_2x/pink-universe-light-galaxies-sky-in-space-planets-and-stars-beauty-of-galaxy-space-exploration-photo.jpeg' alt='Pink Space Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/031/206/582/non_2x/pink-universe-light-galaxies-sky-in-space-planets-and-stars-beauty-of-galaxy-space-exploration-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-space-a39hqxa884r9r72c.jpg' alt='100+] Pink Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-space-a39hqxa884r9r72c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space backgrounds&wallpapers   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/4f/d8/7a4fd8d8303437df80e339bdc4a02a87.jpg' alt='Space backgrounds&wallpapers   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/4f/d8/7a4fd8d8303437df80e339bdc4a02a87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Pink Space 4k">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/788613350376309404/CC1256090E5B9B6678AB593E2B443D0476C875A5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Pink Space 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/788613350376309404/CC1256090E5B9B6678AB593E2B443D0476C875A5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space desktop backgrounds cartoon image of planets shooting stars ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/81/23/dd81232dd75a0c5c7fcc15f84d3d1018.jpg' alt='Space desktop backgrounds cartoon image of planets shooting stars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/81/23/dd81232dd75a0c5c7fcc15f84d3d1018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Pink Stars In The Night Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/magical-pink-stars-in-the-night-sky-9z3poa7s9wllfp80.jpg' alt='Magical Pink Stars In The Night Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/magical-pink-stars-in-the-night-sky-9z3poa7s9wllfp80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Planet Pink Sci Fi Space HD Wallpaper by Igor Vitkovskiy">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/108/1080229.jpg' alt='Download Star Planet Pink Sci Fi Space HD Wallpaper by Igor Vitkovskiy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/108/1080229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Space Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/sparkle-gradient-glitter-mobile-wallpaper_916191-163763.jpg' alt='Pink Space Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/sparkle-gradient-glitter-mobile-wallpaper_916191-163763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Galaxy Space Background Graphic by Rizu Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Hot-Pink-Galaxy-space-Background-Graphics-15602921-1-1-580x387.jpg' alt='Hot Pink Galaxy Space Background Graphic by Rizu Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Hot-Pink-Galaxy-space-Background-Graphics-15602921-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Pink Clouds Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-pink-clouds-space-iphone-mha2dxg3fyx0loqp.jpg' alt='Dark Pink Clouds Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-pink-clouds-space-iphone-mha2dxg3fyx0loqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

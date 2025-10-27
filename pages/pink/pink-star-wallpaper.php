@@ -1,0 +1,129 @@
+<title>Vibrant Pink Star Wallpaper for a Whimsical Touch</title>
+                    <meta name="description" content="Discover our vibrant pink star wallpaper, perfect for adding charm and creativity to any room. Ideal for bedrooms and playrooms, this whimsical design enhances your decor effortlessly. Brighten your space with this delightful pattern that truly stands out!">
+                    <meta name="keywords" content="pink star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-star-wallpaper">
+                            <span itemprop="name">pink star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Star Wallpaper for a Whimsical Touch</h1>
+                <p>Transform your space with vibrant pink star wallpaper, perfect for adding a whimsical touch to any room. This lively design captures attention and creates a playful atmosphere. Ideal for bedrooms, nurseries, or playrooms, the pink star pattern brings warmth and charm, making it a delightful choice for those seeking creativity in decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Pink_detail_720x.jpg?v=1633377777' alt=''Star' Wallpaper by Clare V. - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Pink_detail_720x.jpg?v=1633377777' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Star｜Wallpaper Theme +HOME(PlusHome)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/59/ed/5c59ed3540ecebc09181704b396a84dd.jpg' alt='Pink Star｜Wallpaper Theme +HOME(PlusHome)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/59/ed/5c59ed3540ecebc09181704b396a84dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Stars Stars Background - Hot Pink Stars Stars Background ...">
+                                <img itemprop="contentUrl url" src='https://mycutegraphics.com/backgrounds/stars/starbg56.gif' alt='Hot Pink Stars Stars Background - Hot Pink Stars Stars Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="175">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://mycutegraphics.com/backgrounds/stars/starbg56.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake 4060138931 Amira Pink Stars Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/242222.jpg' alt='Chesapeake 4060138931 Amira Pink Stars Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/242222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Star Background in Illustrator, EPS, JPG, SVG - Download ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74761/Free-Pink-Star-Background-Mobile-1.jpg' alt='Pink Star Background in Illustrator, EPS, JPG, SVG - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74761/Free-Pink-Star-Background-Mobile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repeating Pink Stars Background Trendy Retro Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2280877417/display_1500/stock-vector-repeating-pink-stars-background-in-trendy-retro-s-design-groovy-pattern-in-y-k-vintage-style-2280877417.jpg' alt='Repeating Pink Stars Background Trendy Retro Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2280877417/display_1500/stock-vector-repeating-pink-stars-background-in-trendy-retro-s-design-groovy-pattern-in-y-k-vintage-style-2280877417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stars Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/star-pink-background_280388-2674.jpg?semt=ais_hybrid' alt='Pink Stars Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/star-pink-background_280388-2674.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute pink star shape on pink background, perfect for wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/94/23/96/1000_F_494239604_oZsqEokrHnVQHdBeaIX28VouZnMER62q.jpg' alt='cute pink star shape on pink background, perfect for wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/94/23/96/1000_F_494239604_oZsqEokrHnVQHdBeaIX28VouZnMER62q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light pink stars on dark pink Starry Wallpaper">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/wallpaper/preview/37214.png' alt='Light pink stars on dark pink Starry Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/wallpaper/preview/37214.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

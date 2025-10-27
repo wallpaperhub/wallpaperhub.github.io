@@ -1,0 +1,119 @@
+<title>TSA Background Check Disqualifications Explained</title>
+                    <meta name="description" content="Discover the key reasons for TSA background check disqualifications. Learn about disqualifying offenses and improve your chances of employment in security roles within transportation. Stay informed to navigate the application process effectively and understand what could affect your eligibility.">
+                    <meta name="keywords" content="tsa background check disqualifications">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tsa-background-check-disqualifications">
+                            <span itemprop="name">tsa background check disqualifications</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TSA Background Check Disqualifications Explained</h1>
+                <p>TSA background check disqualifications can impact individuals seeking employment in transportation security. Factors include felony convictions, drug-related offenses, and issues related to financial responsibility. Additionally, history of violence or dishonesty may also result in disqualification. Understanding these criteria is vital for applicants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Pass a TSA Background Check | Essential Tips and Requirements">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147505670/images/10c68a5-5841-125-e6f-4e65cb5b21_napkin-selection_11_.png' alt='How to Pass a TSA Background Check | Essential Tips and Requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="869">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestHQ" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147505670/images/10c68a5-5841-125-e6f-4e65cb5b21_napkin-selection_11_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a TSA Background Check With a Misdemeanor? Yes.">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/08/Transportation-Security-Administration-Screenshot-Disqualifying-Financial-Issue.webp' alt='Can You Pass a TSA Background Check With a Misdemeanor? Yes.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/08/Transportation-Security-Administration-Screenshot-Disqualifying-Financial-Issue.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which Crimes Prevent You From Retaining Your TSA PreCheck®? | Blog ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/99416/1719849578-istock-1185317716.jpg' alt='Which Crimes Prevent You From Retaining Your TSA PreCheck®? | Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3644">
+                                <meta itemprop="height" content="2733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carlson, Meissner" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/99416/1719849578-istock-1185317716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas School Safety and Security Consultant Registry">
+                                <img itemprop="contentUrl url" src='https://registry.txssc.txstate.edu/static/media/disqualifiers_infographic.0665cc26.jpg' alt='Texas School Safety and Security Consultant Registry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas School Safety and Security Consultant Registry" />
+                                </span>
+                                <a href='https://registry.txssc.txstate.edu/static/media/disqualifiers_infographic.0665cc26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OIG-16-128 - TWIC Background Checks are Not as Reliable as They ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///469ec3d71bbc24ea4927da2cc0665c910386aa795bfcd8d6b4bf9b8515ad39f7' alt='OIG-16-128 - TWIC Background Checks are Not as Reliable as They ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHS OIG - Homeland Security" />
+                                </span>
+                                <a href='x-raw-image:///469ec3d71bbc24ea4927da2cc0665c910386aa795bfcd8d6b4bf9b8515ad39f7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disqualifying Offenses and Other Factors | Transportation Security ...">
+                                <img itemprop="contentUrl url" src='https://www.tsa.gov/profiles/tsad8_gov/themes/custom/tsa_gov/logo.svg' alt='Disqualifying Offenses and Other Factors | Transportation Security ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Transportation Security Administration" />
+                                </span>
+                                <a href='https://www.tsa.gov/profiles/tsad8_gov/themes/custom/tsa_gov/logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Well, tried to get a job with TSA, but they rejected me because ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/well-tried-to-get-a-job-with-tsa-but-they-rejected-me-v0-61qgpslonnod1.jpg?width=640&crop=smart&auto=webp&s=40031a4e385d3ffebdee9229e5a2a3d0a555495b' alt='Well, tried to get a job with TSA, but they rejected me because ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/well-tried-to-get-a-job-with-tsa-but-they-rejected-me-v0-61qgpslonnod1.jpg?width=640&crop=smart&auto=webp&s=40031a4e385d3ffebdee9229e5a2a3d0a555495b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a TSA Background Check With a Misdemeanor? Yes.">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/09/Can-You-Pass-A-TSA-Background-Check-With-A-Misdemeanor.png' alt='Can You Pass a TSA Background Check With a Misdemeanor? Yes.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/09/Can-You-Pass-A-TSA-Background-Check-With-A-Misdemeanor.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal History Challenged But Still Going For It ....here Is My ...">
+                                <img itemprop="contentUrl url" src='https://photos.truckingtruth.com/pics/20324/1426543766.8247.jpg' alt='Criminal History Challenged But Still Going For It ....here Is My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trucking Truth" />
+                                </span>
+                                <a href='https://photos.truckingtruth.com/pics/20324/1426543766.8247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

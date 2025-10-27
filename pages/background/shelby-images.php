@@ -1,0 +1,129 @@
+<title>Stunning Shelby Images: A Visual Tribute to Muscle Cars</title>
+                    <meta name="description" content="Discover captivating Shelby images that celebrate the legendary muscle cars. Perfect for enthusiasts and fans, these images highlight the power and design of Shelby vehicles. Explore the rich history and modern innovation of Shelby in a visually striking collection!">
+                    <meta name="keywords" content="shelby images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shelby-images">
+                            <span itemprop="name">shelby images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shelby Images: A Visual Tribute to Muscle Cars</h1>
+                <p>Explore stunning Shelby images showcasing the iconic American muscle cars. From classic designs to modern performance, these images capture the essence of Shelby's legacy. Fans and enthusiasts alike will appreciate the powerful aesthetics and racing heritage that define each vehicle. Dive into the world of Shelby today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Recreations' 1967 Shelby GT500CR Benefits Heart Health">
+                                <img itemprop="contentUrl url" src='https://robbreport.com/wp-content/uploads/2024/02/2-w-A-FrontSide.jpg?w=1024' alt='Classic Recreations' 1967 Shelby GT500CR Benefits Heart Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robb Report" />
+                                </span>
+                                <a href='https://robbreport.com/wp-content/uploads/2024/02/2-w-A-FrontSide.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 Ford Mustang Shelby GT500 Review, Pricing, and Specs">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/2022-ford-mustang-shelby-gt500-02-1636734552.jpg?crop=0.845xw:1.00xh;0.0657xw,0&resize=768:*' alt='2022 Ford Mustang Shelby GT500 Review, Pricing, and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Car and Driver" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/2022-ford-mustang-shelby-gt500-02-1636734552.jpg?crop=0.845xw:1.00xh;0.0657xw,0&resize=768:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Shelby - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/f/fd/Tommy_Shelby.jpg' alt='Tommy Shelby - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="258">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/f/fd/Tommy_Shelby.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby American Inc. > Vehicles">
+                                <img itemprop="contentUrl url" src='https://www.shelby.com/portals/0/Images/vehicles_page/Shelby-gt350se-vehiclespage.jpg' alt='Shelby American Inc. > Vehicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelby American" />
+                                </span>
+                                <a href='https://www.shelby.com/portals/0/Images/vehicles_page/Shelby-gt350se-vehiclespage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby American Inc. > Vehicles">
+                                <img itemprop="contentUrl url" src='https://www.shelby.com/portals/0/Images/vehicles_page/Shelby-25GT350-vehiclespage.jpg' alt='Shelby American Inc. > Vehicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelby American" />
+                                </span>
+                                <a href='https://www.shelby.com/portals/0/Images/vehicles_page/Shelby-25GT350-vehiclespage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I find Thomas Shelby so physically attractive (putting his ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l051j4fdy59b1.jpg' alt='I find Thomas Shelby so physically attractive (putting his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l051j4fdy59b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GT500 Signature Edition">
+                                <img itemprop="contentUrl url" src='https://www.shelby.com/portals/0/Images/Shelby-GT500SE_HeroBanner.jpg' alt='GT500 Signature Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelby American Inc" />
+                                </span>
+                                <a href='https://www.shelby.com/portals/0/Images/Shelby-GT500SE_HeroBanner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New, Modernized 1967 Shelby GT500 Launched in Celebration of ...">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20231219993977/en/1975378/5/Hi_Tech_Legends_1967_Shelby_GT500.jpg' alt='New, Modernized 1967 Shelby GT500 Launched in Celebration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20231219993977/en/1975378/5/Hi_Tech_Legends_1967_Shelby_GT500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby's New Super Snake Is an 830-HP Supercharged Mustang">
+                                <img itemprop="contentUrl url" src='https://cdn.motor1.com/images/mgl/mM24KP/s1/2024-ford-mustang-shelby-super-snake---8.jpg' alt='Shelby's New Super Snake Is an 830-HP Supercharged Mustang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motor1.com" />
+                                </span>
+                                <a href='https://cdn.motor1.com/images/mgl/mM24KP/s1/2024-ford-mustang-shelby-super-snake---8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby American: Everything You Need to Know">
+                                <img itemprop="contentUrl url" src='https://www.motortrend.com/uploads/2022/06/001-shelby-american-story-1967-2021-gt-500.jpg' alt='Shelby American: Everything You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotorTrend" />
+                                </span>
+                                <a href='https://www.motortrend.com/uploads/2022/06/001-shelby-american-story-1967-2021-gt-500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

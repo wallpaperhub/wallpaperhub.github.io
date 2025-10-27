@@ -1,0 +1,129 @@
+<title>Serene "Be Still and Know That I Am God" iPhone Wallpapers</title>
+                    <meta name="description" content="Discover beautiful iPhone wallpapers featuring the phrase "Be still and know that I am God." Perfect for inspiration and peace, these designs encourage mindfulness and serenity on your device. Easy to download and optimize your spiritual experience wherever you are. Explore our collection now!">
+                    <meta name="keywords" content="be still and know that i am god iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/be-still-and-know-that-i-am-god-iphone-wallpaper">
+                            <span itemprop="name">be still and know that i am god iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene "Be Still and Know That I Am God" iPhone Wallpapers</h1>
+                <p>Looking for a serene iPhone wallpaper? Embrace tranquility with designs inspired by the phrase "Be still and know that I am God." Each wallpaper serves as a daily reminder to find peace amidst chaos. Perfect for those seeking spiritual inspiration and calmness on their device. Download now to enhance your spiritual journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: Be Still and Know That I Am God">
+                                <img itemprop="contentUrl url" src='https://t411media.s3.amazonaws.com/wallpapers/Be_Still/be-still_phone.jpg' alt='Wallpaper: Be Still and Know That I Am God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jacob Abshire" />
+                                </span>
+                                <a href='https://t411media.s3.amazonaws.com/wallpapers/Be_Still/be-still_phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Still and Know That I Am God Ocean Wallpaper - Sarah Titus">
+                                <img itemprop="contentUrl url" src='https://www.sarahtitus.com/wp-content/uploads/2022/07/Christian-Ocean-Wallpaper-Be-Still-and-Know-01-scaled.jpg' alt='Be Still and Know That I Am God Ocean Wallpaper - Sarah Titus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Titus" />
+                                </span>
+                                <a href='https://www.sarahtitus.com/wp-content/uploads/2022/07/Christian-Ocean-Wallpaper-Be-Still-and-Know-01-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be still and know I am God">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/6e/bd/cd/6ebdcddbc1a43adcc7025a8c326761a0.jpg' alt='Be still and know I am God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/6e/bd/cd/6ebdcddbc1a43adcc7025a8c326761a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/2e/88/bd2e888cf088df42b226b5996931b824.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/2e/88/bd2e888cf088df42b226b5996931b824.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Still and Know - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/42066-bestill_mobile.1100w.tn.jpg' alt='Be Still and Know - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/42066-bestill_mobile.1100w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 46:10 Bibleverse wallpaper - Be still, and know that I am ...">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623250350/quotes/en/hoqaomdspxk3ycwb1mi3.jpg' alt='Psalm 46:10 Bibleverse wallpaper - Be still, and know that I am ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623250350/quotes/en/hoqaomdspxk3ycwb1mi3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach2 Psalm 46:10 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Beach2_Psalm_46-10_Web-1.jpg' alt='Beach2 Psalm 46:10 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Beach2_Psalm_46-10_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Still and Know That I Am God Wallpaper iPhone Mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32920699/r/il/acb618/5801620730/il_570xN.5801620730_kh8e.jpg' alt='Be Still and Know That I Am God Wallpaper iPhone Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32920699/r/il/acb618/5801620730/il_570xN.5801620730_kh8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Bible Verse Wallpaper: Be Still and Know That I Am God">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/13/ff/0413ff9871188e0385019f2edd97058d.jpg' alt='Fall Bible Verse Wallpaper: Be Still and Know That I Am God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/13/ff/0413ff9871188e0385019f2edd97058d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

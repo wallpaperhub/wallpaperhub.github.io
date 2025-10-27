@@ -1,0 +1,129 @@
+<title>Krisp – Eliminate Background Noise for Perfect Calls!</title>
+                    <meta name="description" content="Discover Krisp - the ultimate noise-canceling app that transforms your calls by eliminating distracting background sounds. Enjoy clear audio and enhance your productivity, whether at home or on the go. Perfect for remote work and virtual meetings!">
+                    <meta name="keywords" content="krisp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/krisp">
+                            <span itemprop="name">krisp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Krisp – Eliminate Background Noise for Perfect Calls!</h1>
+                <p>Krisp is a revolutionary app designed to enhance your audio experience by removing background noise during calls and recordings. Whether you're in a bustling café or a crowded office, Krisp uses AI technology to ensure crystal-clear sound quality, making your conversations seamless and distraction-free. Ideal for remote work, it boosts productivity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Krisp_Logo.svg/1200px-Krisp_Logo.svg.png' alt='Krisp - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Krisp_Logo.svg/1200px-Krisp_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp - Download and install on Windows | Microsoft Store">
+                                <img itemprop="contentUrl url" src='https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaRe9fe8skSWI.VBoYlhAarAwqTbAweMEg0zshp8cfuuolAnbkUD4bCL8fPy3OzyAqNJdkjyYV253sFSOqBWmXE-&format=source' alt='Krisp - Download and install on Windows | Microsoft Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaRe9fe8skSWI.VBoYlhAarAwqTbAweMEg0zshp8cfuuolAnbkUD4bCL8fPy3OzyAqNJdkjyYV253sFSOqBWmXE-&format=source' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp: One App, Multiple Benefits - CX Today">
+                                <img itemprop="contentUrl url" src='https://www.cxtoday.com/wp-content/uploads/2022/01/Krisp-One-App-Multiple-Benefits-.jpg' alt='Krisp: One App, Multiple Benefits - CX Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CX Today" />
+                                </span>
+                                <a href='https://www.cxtoday.com/wp-content/uploads/2022/01/Krisp-One-App-Multiple-Benefits-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp Recognized as TIME'S Best Inventions of 2020">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1341668/krisp_Logo.jpg?p=facebook' alt='Krisp Recognized as TIME'S Best Inventions of 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1341668/krisp_Logo.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp toolbar icons – Krisp Help">
+                                <img itemprop="contentUrl url" src='https://help.krisp.ai/hc/article_attachments/4529355793180' alt='Krisp toolbar icons – Krisp Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Krisp Help" />
+                                </span>
+                                <a href='https://help.krisp.ai/hc/article_attachments/4529355793180' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp Review: Communication Tool: Noise Cancellation - Remoters">
+                                <img itemprop="contentUrl url" src='https://remoters.net/wp-content/uploads/2020/03/krisp.png' alt='Krisp Review: Communication Tool: Noise Cancellation - Remoters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remoters" />
+                                </span>
+                                <a href='https://remoters.net/wp-content/uploads/2020/03/krisp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Careers at Krisp | See open positions">
+                                <img itemprop="contentUrl url" src='https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_krisp_video.png' alt='Careers at Krisp | See open positions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Krisp" />
+                                </span>
+                                <a href='https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_krisp_video.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2Hz Announces Early Access Program For Krisp Noise Cancellation ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/901269/krisp_logo_dark_Logo.jpg?p=twitter' alt='2Hz Announces Early Access Program For Krisp Noise Cancellation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/901269/krisp_logo_dark_Logo.jpg?p=twitter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We're sunsetting Krisp Phone Soon - Krisp">
+                                <img itemprop="contentUrl url" src='https://krisp.ai/blog/wp-content/uploads/2020/11/Artboard-%E2%80%93-3-2-1.png' alt='We're sunsetting Krisp Phone Soon - Krisp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Krisp" />
+                                </span>
+                                <a href='https://krisp.ai/blog/wp-content/uploads/2020/11/Artboard-%E2%80%93-3-2-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Krisp.ai Review & 6 Alternatives for a Better AI Meeting Assistant - tl;dv">
+                                <img itemprop="contentUrl url" src='https://b2729162.smushcdn.com/2729162/wp-content/uploads/2024/10/Krisp-alternatives-1024x683.jpg?lossy=1&strip=1&webp=1' alt='Krisp.ai Review & 6 Alternatives for a Better AI Meeting Assistant - tl;dv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tl;dv" />
+                                </span>
+                                <a href='https://b2729162.smushcdn.com/2729162/wp-content/uploads/2024/10/Krisp-alternatives-1024x683.jpg?lossy=1&strip=1&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Drake Transparent Background Images: Free PNG Download</title>
+                    <meta name="description" content="Discover high-quality Drake transparent background images perfect for your creative projects. Easily integrate these PNG files into your designs, from social media graphics to promotional items. Download now and elevate your visuals with stunning, hassle-free imagery!">
+                    <meta name="keywords" content="drake transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/drake-transparent-background">
+                            <span itemprop="name">drake transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Drake Transparent Background Images: Free PNG Download</h1>
+                <p>Drake transparent background images are ideal for various design projects. Whether you're creating promotional materials, fan art, or social media content, these PNG images allow for seamless integration with any background. Download high-quality transparent Drake images to elevate your creativity and enhance your visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/drake-yvi.png' alt='Drake PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2413">
+                                <meta itemprop="height" content="2029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/drake-yvi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Transparent PNG 21 | MIXTAPEPSD">
+                                <img itemprop="contentUrl url" src='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-PNG-20.webp' alt='Drake Transparent PNG 21 | MIXTAPEPSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixtape PSD" />
+                                </span>
+                                <a href='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-PNG-20.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Transparent PNG 4 | MIXTAPEPSD">
+                                <img itemprop="contentUrl url" src='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-2.webp' alt='Drake Transparent PNG 4 | MIXTAPEPSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixtape PSD" />
+                                </span>
+                                <a href='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Drake Png Images | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/drake-png-j4nhnz68xzc13r82.jpg' alt='100+] Drake Png Images | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/drake-png-j4nhnz68xzc13r82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Transparency, drake, tshirt, musician png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/149/256/png-clipart-drake-transparency-drake-tshirt-musician.png' alt='Drake Transparency, drake, tshirt, musician png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/149/256/png-clipart-drake-transparency-drake-tshirt-musician.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background? — Drake">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/974ab55ee76e443dce060b5715810d84/tumblr_ohddv2HLbt1vl7x77o1_1280.png' alt='What is a background? — Drake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="What is a background? - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/974ab55ee76e443dce060b5715810d84/tumblr_ohddv2HLbt1vl7x77o1_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake PNG Image">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ee/74/17/ee74172c4b320c63efbb111815d9e70c.jpg' alt='Drake PNG Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ee/74/17/ee74172c4b320c63efbb111815d9e70c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/2016/06/Drake-PNG-HD.png' alt='Drake PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/2016/06/Drake-PNG-HD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/8/Drake-PNG-Image-Free-Download.png' alt='Drake PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/8/Drake-PNG-Image-Free-Download.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Transparent PNG 2 | MIXTAPEPSD">
+                                <img itemprop="contentUrl url" src='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-PNG-2.webp' alt='Drake Transparent PNG 2 | MIXTAPEPSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixtape PSD" />
+                                </span>
+                                <a href='https://mixtapepsd.com/wp-content/uploads/2025/01/Drake-Transparent-PNG-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

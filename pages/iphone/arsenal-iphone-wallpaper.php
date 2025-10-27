@@ -1,0 +1,129 @@
+<title>Stunning Arsenal iPhone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Find the perfect Arsenal iPhone wallpapers to showcase your team spirit. Our collection features high-quality images, perfect for personalizing your device. Download your favorite wallpapers and celebrate your love for the Gunners every day, right on your phone!">
+                    <meta name="keywords" content="arsenal iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/arsenal-iphone-wallpaper">
+                            <span itemprop="name">arsenal iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Arsenal iPhone Wallpapers: Download Now!</h1>
+                <p>Discover stunning Arsenal iPhone wallpapers that showcase your passion for the Gunners. From iconic moments to vibrant team colors, our collection offers a variety of designs to personalize your device. Upgrade your home screen with high-quality images that represent your love for Arsenal and keep the spirit of the game alive anywhere you go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal Wallpaper HD For Iphone X series">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/88/0c/3d880c653a31ab3205982dc3a47b17a5.jpg' alt='Arsenal Wallpaper HD For Iphone X series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/88/0c/3d880c653a31ab3205982dc3a47b17a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see your Arsenal themed lockscreens! : r/Gunners">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-your-arsenal-themed-lockscreens-v0-e7frsp0avstb1.jpeg?width=1448&format=pjpg&auto=webp&s=909b193876011f52b7b69fca0c24547d6675a9fa' alt='Let's see your Arsenal themed lockscreens! : r/Gunners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-your-arsenal-themed-lockscreens-v0-e7frsp0avstb1.jpeg?width=1448&format=pjpg&auto=webp&s=909b193876011f52b7b69fca0c24547d6675a9fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34+] Arsenal 2020 Wallpapers On Wallpapersafari 8F1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6e/5d/78/6e5d7884d0b2258613ce05c110e2a80e.jpg' alt='34+] Arsenal 2020 Wallpapers On Wallpapersafari 8F1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6e/5d/78/6e5d7884d0b2258613ce05c110e2a80e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="grizou on X: "     Wallpapers • #Arsenal ❤️   https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FnVL9U1WYAE5BpA.jpg:large' alt='grizou on X: "     Wallpapers • #Arsenal ❤️   https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FnVL9U1WYAE5BpA.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal Home 2021/2022, red, Home Kit, 2022, Football, AFC, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/542/HD-wallpaper-arsenal-home-2021-adidas-football-home-kit-logo-new-premier-league-red.jpg' alt='Arsenal Home 2021/2022, red, Home Kit, 2022, Football, AFC, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/542/HD-wallpaper-arsenal-home-2021-adidas-football-home-kit-logo-new-premier-league-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/3c/26/f23c2697a9b822b6759366f73d09a5bf.jpg' alt='Arsenal Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/3c/26/f23c2697a9b822b6759366f73d09a5bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fellow gunners, what Arsenal wallpapers do you use? I use this one ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6sfhsb9sbpb31.jpg' alt='Fellow gunners, what Arsenal wallpapers do you use? I use this one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6sfhsb9sbpb31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal FC Wallpaper 4K, Grass Landscape, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/arsenal-fc-grass-1284x2778-14830.jpg' alt='Arsenal FC Wallpaper 4K, Grass Landscape, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/arsenal-fc-grass-1284x2778-14830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal iPhone 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12313315.jpg' alt='Arsenal iPhone 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12313315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal iPhone { & }, Arsenal 2022, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/726/299/HD-wallpaper-arsenal-iphone-arsenal-2022.jpg' alt='Arsenal iPhone { & }, Arsenal 2022, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/726/299/HD-wallpaper-arsenal-iphone-arsenal-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

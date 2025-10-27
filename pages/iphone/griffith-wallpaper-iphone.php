@@ -1,0 +1,129 @@
+<title>Griffith Wallpaper for iPhone: Aesthetic Designs</title>
+                    <meta name="description" content="Discover beautiful Griffith wallpaper for your iPhone! Elevate your device's look with artistic and elegant designs. Perfect for any style, these wallpapers are easy to download and set as your background. Refresh your iPhone today with Griffith's unique aesthetics!">
+                    <meta name="keywords" content="griffith wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/griffith-wallpaper-iphone">
+                            <span itemprop="name">griffith wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Griffith Wallpaper for iPhone: Aesthetic Designs</h1>
+                <p>Transform your iPhone with stunning Griffith wallpaper! Choose from a variety of captivating designs that reflect the elegance and artistry of Griffith. Whether you prefer vibrant colors or subtle patterns, these wallpapers will enhance your device's aesthetic and make it uniquely yours. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith Femto Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/42/1a/c3421a512f2a5700ca71264b57f30788.jpg' alt='Griffith Femto Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/42/1a/c3421a512f2a5700ca71264b57f30788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk, anime, griffith, manga, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/949/53/HD-wallpaper-berserk-anime-griffith-manga.jpg' alt='Berserk, anime, griffith, manga, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/949/53/HD-wallpaper-berserk-anime-griffith-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/51/dc/8e51dccf56be64435b266516dfd8cd88.jpg' alt='Griffith Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/51/dc/8e51dccf56be64435b266516dfd8cd88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts, Griffith - Wallpaper by me : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/guts-griffith-wallpaper-by-me-v0-lrn7d54y9s6b1.png?width=640&crop=smart&auto=webp&s=66a0216804eefe1b92d44a300afe87ab9aa2eb89' alt='Guts, Griffith - Wallpaper by me : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/guts-griffith-wallpaper-by-me-v0-lrn7d54y9s6b1.png?width=640&crop=smart&auto=webp&s=66a0216804eefe1b92d44a300afe87ab9aa2eb89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/bb/6e/24bb6e6418cfac15df7771ce6ac57035.jpg' alt='Griffith Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/bb/6e/24bb6e6418cfac15df7771ce6ac57035.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Griffith, The Falcon Of Light, From Berserk Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/griffith-the-falcon-of-light-from-berserk-sznglgjhcj5cag6k.jpg' alt='Download Griffith, The Falcon Of Light, From Berserk Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/griffith-the-falcon-of-light-from-berserk-sznglgjhcj5cag6k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith, anime, art, berserk, griffith, guts, manga, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/304/853/HD-wallpaper-griffith-anime-art-berserk-griffith-guts-manga.jpg' alt='Griffith, anime, art, berserk, griffith, guts, manga, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/304/853/HD-wallpaper-griffith-anime-art-berserk-griffith-guts-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith (Berserk) iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/986/986554.jpg' alt='Griffith (Berserk) iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/986/986554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 16 Oled wallpaper : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z2qifzt1m3o91.jpg' alt='IOS 16 Oled wallpaper : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z2qifzt1m3o91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eclipse y Locura, anime, berserk, casca, griffith, guts, manga, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/532/568/HD-wallpaper-eclipse-y-locura-anime-berserk-casca-griffith-guts-manga.jpg' alt='Eclipse y Locura, anime, berserk, casca, griffith, guts, manga, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/532/568/HD-wallpaper-eclipse-y-locura-anime-berserk-casca-griffith-guts-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

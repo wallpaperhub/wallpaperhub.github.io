@@ -1,0 +1,129 @@
+<title>Stunning iPhone M Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore our collection of eye-catching iPhone M wallpapers! Choose from a variety of styles, including minimalist, vibrant, and artistic designs. Perfect for personalizing your device, these wallpapers will refresh your home screen and express your unique taste. Download now for a stylish upgrade!">
+                    <meta name="keywords" content="iphone m wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-m-wallpaper">
+                            <span itemprop="name">iphone m wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone M Wallpapers for Every Style</h1>
+                <p>Looking to elevate your iPhone experience? Discover stunning iPhone M wallpapers that blend style and personalization. From minimalist designs to vibrant landscapes, our curated collection offers something for every taste. Transform your home screen and impress your friends with unique wallpapers that reflect your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monogrammed M iphone background and wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/9d/78/6b9d785497efebae62e05808d00d18f4.jpg' alt='Monogrammed M iphone background and wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/9d/78/6b9d785497efebae62e05808d00d18f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="M Wallpaper for Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/28/e8/8028e81858b27efd4c2c33b17c32c81c.jpg' alt='M Wallpaper for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/28/e8/8028e81858b27efd4c2c33b17c32c81c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letter M, android, ios, letters, new, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/389/487/HD-wallpaper-letter-m-android-ios-letters-new.jpg' alt='Letter M, android, ios, letters, new, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/389/487/HD-wallpaper-letter-m-android-ios-letters-new.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphabet Name, king m, letter m, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/15/296/HD-wallpaper-alphabet-name-king-m-letter-m.jpg' alt='Alphabet Name, king m, letter m, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/15/296/HD-wallpaper-alphabet-name-king-m-letter-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images By Holidayyszn On Collages | Iphone Wallpaper Girly ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/98/0e/2a980e5342b852231292f68de21ba59f.jpg' alt='Images By Holidayyszn On Collages | Iphone Wallpaper Girly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/98/0e/2a980e5342b852231292f68de21ba59f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Green Letter M Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-green-letter-m-39u3264ywh8octk8.jpg' alt='Download Neon Green Letter M Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-green-letter-m-39u3264ywh8octk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Letter M Small Flowers Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/letter-m-small-flowers-7y6r6tez87sjlnau.jpg' alt='Download Letter M Small Flowers Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/letter-m-small-flowers-7y6r6tez87sjlnau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Letter M Wallpapers on WallpaperSafari | M wallpaper, Cellphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/b1/6e/a8b16eca7824e2891d1c9e7fea1d0a4a.jpg' alt='   Letter M Wallpapers on WallpaperSafari | M wallpaper, Cellphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/b1/6e/a8b16eca7824e2891d1c9e7fea1d0a4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letter m, black, metal, letters, alphabets, alphabet, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/265/494/HD-wallpaper-letter-m-black-metal-letters-alphabets-alphabet.jpg' alt='Letter m, black, metal, letters, alphabets, alphabet, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/265/494/HD-wallpaper-letter-m-black-metal-letters-alphabets-alphabet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone alphabet wallpaper - m | vikram13181 | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4146/5065169818_0a78cab61c.jpg' alt='Iphone alphabet wallpaper - m | vikram13181 | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4146/5065169818_0a78cab61c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ryan Garcia: Boxing's Next Champion</title>
+                    <meta name="description" content="Discover Ryan Garcia, the talented boxer making waves in the ring. With his impressive skills and undefeated status, he is viewed as a future champion. Stay updated on his journey, fights, and training as he aims for greatness in boxing.">
+                    <meta name="keywords" content="ryan garcia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ryan-garcia">
+                            <span itemprop="name">ryan garcia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ryan Garcia: Boxing's Next Champion</h1>
+                <p>Ryan Garcia is a rising star in the world of boxing, known for his lightning-fast punches and charismatic personality. The young athlete has captured the attention of fans globally with his impressive knockouts and undefeated record. Garcia's dedication to the sport makes him a force to be reckoned with as he climbs the ranks towards championship glory.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RYAN_GARCIA.jpg/640px-RYAN_GARCIA.jpg' alt='Ryan Garcia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RYAN_GARCIA.jpg/640px-RYAN_GARCIA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia (@kingryan) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C9L6LDvJiED/0/image.jpg' alt='Ryan Garcia (@kingryan) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C9L6LDvJiED/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia: Five things you didn't know">
+                                <img itemprop="contentUrl url" src='https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/bong9k31tfacws17yomo' alt='Ryan Garcia: Five things you didn't know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2440">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olympics.com" />
+                                </span>
+                                <a href='https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/bong9k31tfacws17yomo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,933 Ryan García Boxer Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2149538336/photo/new-york-new-york-ryan-garcia-reacts-against-devin-haney-during-their-wbc-super-lightweight.jpg?s=612x612&w=gi&k=20&c=odx0UpS-Xq-98tZM8kWTDQOFpYaYQ4HZvgMJc4r3-ME=' alt='1,933 Ryan García Boxer Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2149538336/photo/new-york-new-york-ryan-garcia-reacts-against-devin-haney-during-their-wbc-super-lightweight.jpg?s=612x612&w=gi&k=20&c=odx0UpS-Xq-98tZM8kWTDQOFpYaYQ4HZvgMJc4r3-ME=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Ryan Garcia">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044541961702' alt='Profile for Ryan Garcia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044541961702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How quickly does Ryan Garcia finish his opponents? The 5 fastest ...">
+                                <img itemprop="contentUrl url" src='https://images.daznservices.com/di/library/DAZN_News/1b/6a/ryan-garcia-2132020-hogan-ftr_w2boxmp32gq21xfb4hh7kk8li.jpg?t=1113917408' alt='How quickly does Ryan Garcia finish his opponents? The 5 fastest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DAZN" />
+                                </span>
+                                <a href='https://images.daznservices.com/di/library/DAZN_News/1b/6a/ryan-garcia-2132020-hogan-ftr_w2boxmp32gq21xfb4hh7kk8li.jpg?t=1113917408' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia (@kingryan) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DFEeVw1vPy1/0/image.jpg' alt='Ryan Garcia (@kingryan) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1070">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DFEeVw1vPy1/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia regrets 'drinking and smoking' before Devin Haney bout ...">
+                                <img itemprop="contentUrl url" src='https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0619%2Fr1347935_1296x729_16%2D9.jpg' alt='Ryan Garcia regrets 'drinking and smoking' before Devin Haney bout ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0619%2Fr1347935_1296x729_16%2D9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia suffers another setback and cancels his fight in Japan ...">
+                                <img itemprop="contentUrl url" src='https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/10/17022179086400.png' alt='Ryan Garcia suffers another setback and cancels his fight in Japan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marca.com" />
+                                </span>
+                                <a href='https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/10/17022179086400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Garcia (@kingryan) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C7H-NqtuLWM/0/image.jpg' alt='Ryan Garcia (@kingryan) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C7H-NqtuLWM/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

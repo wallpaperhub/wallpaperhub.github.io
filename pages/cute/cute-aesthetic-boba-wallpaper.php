@@ -1,0 +1,129 @@
+<title>Adorable Boba Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of cute aesthetic boba wallpapers that brighten up your screens! Perfect for boba enthusiasts, these vibrant designs add a playful touch to your mobile or computer. Download your favorite wallpaper today and enjoy the sweet vibes of boba tea in style!">
+                    <meta name="keywords" content="cute aesthetic boba wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-aesthetic-boba-wallpaper">
+                            <span itemprop="name">cute aesthetic boba wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Boba Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with cute aesthetic boba wallpaper that brings a touch of sweetness to your screen! Featuring vibrant colors and adorable boba tea designs, these wallpapers are perfect for boba lovers. Add personality to your phone or computer with these charming backgrounds that inspire joy and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Boba Wallpaper | Aesthetic Simple iPad Wallpapers | Digital  Download Art">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24151985/r/il/7c4a28/3649300895/il_fullxfull.3649300895_2cp3.jpg' alt='Aesthetic Blue Boba Wallpaper | Aesthetic Simple iPad Wallpapers | Digital  Download Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24151985/r/il/7c4a28/3649300895/il_fullxfull.3649300895_2cp3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Boba Tea Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' alt='Kawaii Boba Tea Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' alt='cute boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Boba Tea Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' alt='100+] Cute Boba Tea Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cute boba wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/783/387/HD-wallpaper-boba-aesthetic-kartu-lucu-kartun-desain-kawaii-cute-boba.jpg' alt='HD cute boba wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/783/387/HD-wallpaper-boba-aesthetic-kartu-lucu-kartun-desain-kawaii-cute-boba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Tea Boba Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/wRmh3LJHfVdBJwr1UCR_xpZax0SJqkVCdnKTe3A5TrAIH-Xq0tJfgfy3s4S62Lw6zw' alt='Aesthetic Tea Boba Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/wRmh3LJHfVdBJwr1UCR_xpZax0SJqkVCdnKTe3A5TrAIH-Xq0tJfgfy3s4S62Lw6zw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bubble Tea Pastel Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-bubble-tea-pastel-c2914vahudkc6p9d.jpg' alt='Cute Bubble Tea Pastel Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-bubble-tea-pastel-c2914vahudkc6p9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Boba Tea In Brown Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-boba-tea-in-brown-aesthetic-vc0s8c6jzls94uwv.jpg' alt='Download Cute Boba Tea In Brown Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-boba-tea-in-brown-aesthetic-vc0s8c6jzls94uwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba life">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/f9/ee/0df9ee6057f32d448a9807f7ed4f338d.jpg' alt='Boba life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/f9/ee/0df9ee6057f32d448a9807f7ed4f338d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/a9/73/6ca973111289d04c01016a668befb4ab.jpg' alt='Boba Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/a9/73/6ca973111289d04c01016a668befb4ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

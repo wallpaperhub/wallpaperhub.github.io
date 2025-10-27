@@ -1,0 +1,129 @@
+<title>Ava Wallpaper: Elevate Your Home Decor</title>
+                    <meta name="description" content="Discover Ava wallpaper for stylish and modern home decor. Our premium collection features unique patterns and designs that enhance any room's aesthetic. Transform your space effortlessly with our high-quality wallpapers today!">
+                    <meta name="keywords" content="ava wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ava-wallpaper">
+                            <span itemprop="name">ava wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ava Wallpaper: Elevate Your Home Decor</h1>
+                <p>Ava wallpaper brings a touch of elegance and modernity to your space, featuring stunning designs that transform ordinary walls into extraordinary focal points. From bold patterns to serene landscapes, the collection caters to various styles. Elevate your home decor with Ava wallpaper, where style meets quality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : WonderfulLife Ava Name Neon Sign for Room Decor,Non  customized, Personalized Led Sign for Birthday Party Decoration,Pink Light  Up Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51DYTZ0P1rL.jpg' alt='Amazon.com : WonderfulLife Ava Name Neon Sign for Room Decor,Non  customized, Personalized Led Sign for Birthday Party Decoration,Pink Light  Up Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51DYTZ0P1rL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Wallpapers ideas | names with meaning, ava name, baby names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e1/35/0e/e1350e3ff1ac2111f7e1e304c365951a.png' alt='8 Wallpapers ideas | names with meaning, ava name, baby names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e1/35/0e/e1350e3ff1ac2111f7e1e304c365951a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="272 Ava Name Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/ava-female-name-girl-written-260nw-2289687647.jpg' alt='272 Ava Name Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/ava-female-name-girl-written-260nw-2289687647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ava with names, female names, Ava name, purple neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/409/663/HD-wallpaper-ava-with-names-female-names-ava-name-purple-neon-lights-horizontal-text-with-ava-name.jpg' alt='Ava with names, female names, Ava name, purple neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/409/663/HD-wallpaper-ava-with-names-female-names-ava-name-purple-neon-lights-horizontal-text-with-ava-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#commentyourname #iphonewallpaper #Ava #namewallpaper #fyp  #fyppppppppppppppppppppppp #comment #name">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7412317517886246177&location=0&aid=1988' alt='#commentyourname #iphonewallpaper #Ava #namewallpaper #fyp  #fyppppppppppppppppppppppp #comment #name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7412317517886246177&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ava name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/781/299/HD-wallpaper-happy-birtay-ava-pink-neon-lights-ava-name-creative-ava-happy-birtay-ava-birtay-popular-american-female-names-with-ava-name-ava-thumbnail.jpg' alt='HD ava name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/781/299/HD-wallpaper-happy-birtay-ava-pink-neon-lights-ava-name-creative-ava-happy-birtay-ava-birtay-popular-american-female-names-with-ava-name-ava-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AVA name | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2498157450.5956/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='AVA name | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2498157450.5956/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ava">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/01/d9/9a01d981437392661e1895907326328e.jpg' alt='Ava'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/01/d9/9a01d981437392661e1895907326328e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ava Name Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12594109/p/f/m/o4GuWup5vDKi81vjJHuK3KkIhoEADsqESfIz7fPzsPr9ziiSa8V6mwlqDTGR/Ava%20name%20on%20purple%20.jpg' alt='Ava Name Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12594109/p/f/m/o4GuWup5vDKi81vjJHuK3KkIhoEADsqESfIz7fPzsPr9ziiSa8V6mwlqDTGR/Ava%20name%20on%20purple%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Ava - Beautiful name with cute butterflies' Sticker | Spreadshirt">
+                                <img itemprop="contentUrl url" src='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A842PA3861PT28D1041129577W10000H7990/views/1,width=1200,height=630,appearanceId=842,backgroundColor=F2F2F2/ava-beautiful-name-with-cute-butterflies-sticker.jpg' alt=''Ava - Beautiful name with cute butterflies' Sticker | Spreadshirt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spreadshirt" />
+                                </span>
+                                <a href='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A842PA3861PT28D1041129577W10000H7990/views/1,width=1200,height=630,appearanceId=842,backgroundColor=F2F2F2/ava-beautiful-name-with-cute-butterflies-sticker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Taylor Swift Reputation Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the best Taylor Swift "Reputation" wallpapers to enrich your devices. Perfect for fans, these visually captivating backgrounds showcase the album’s bold aesthetics. Download now to bring a touch of TS magic to your screen!">
+                    <meta name="keywords" content="taylor swift reputation wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-reputation-wallpaper">
+                            <span itemprop="name">taylor swift reputation wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Swift Reputation Wallpapers for Your Devices</h1>
+                <p>Get lost in the artistry of Taylor Swift's "Reputation" with striking wallpapers that capture the essence of her iconic album. Featuring bold colors, fierce visuals, and quotes that resonate, these wallpapers are perfect for any Swiftie looking to elevate their mobile or desktop background. Embrace the era of reputation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this wallpaper for Reputation. Optimized for iOS but should ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v3mmhskm8lhz.png?width=1080&crop=smart&auto=webp&s=282280840bf696fac05399fd5e67513f7b42c2ae' alt='Made this wallpaper for Reputation. Optimized for iOS but should ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v3mmhskm8lhz.png?width=1080&crop=smart&auto=webp&s=282280840bf696fac05399fd5e67513f7b42c2ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reputation wallpaper!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/74/60/df74604c7d7bd99404c9f6292de677a4.jpg' alt='Reputation wallpaper!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/74/60/df74604c7d7bd99404c9f6292de677a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper Reputation">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/b7/ba/fcb7ba0edbf953c4e2cec44ad85657ae.jpg' alt='Taylor Swift Wallpaper Reputation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/b7/ba/fcb7ba0edbf953c4e2cec44ad85657ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Reputation Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/reputation-thdn28r0qp7yhjz4.jpg' alt='100+] Reputation Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/reputation-thdn28r0qp7yhjz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Sp1dey14's Shuffles Reputation taylor swift wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/58/64/07/586407b5c66c1915254e0803b469c85c.jpg' alt='Check out Sp1dey14's Shuffles Reputation taylor swift wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/58/64/07/586407b5c66c1915254e0803b469c85c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper 4K, Reputation, Monochrome">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/taylor-swift-3840x2160-14287.jpg' alt='Taylor Swift Wallpaper 4K, Reputation, Monochrome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/taylor-swift-3840x2160-14287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REPUTATION WALLPAPER      | Gallery posted by Gabriella44 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7341970551747183109&index=0&sign=5ce3ef17dfbcd5413608de4c6f901bc7' alt='REPUTATION WALLPAPER      | Gallery posted by Gabriella44 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7341970551747183109&index=0&sign=5ce3ef17dfbcd5413608de4c6f901bc7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out ellambden's Shuffles reputation! #wallpaper #taylorswift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/400x/9d/10/53/9d105339a3f63afd6bac75bd15de764b.jpg' alt='Check out ellambden's Shuffles reputation! #wallpaper #taylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/400x/9d/10/53/9d105339a3f63afd6bac75bd15de764b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift REP Reputation Wallpaper by motzaburger on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/078fb2d4-a044-4504-8a8e-d6b474319a5d/dc2ny8t-9b5ceaf5-82cb-449b-bfa2-02d9930c3a06.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3OGZiMmQ0LWEwNDQtNDUwNC04YThlLWQ2YjQ3NDMxOWE1ZFwvZGMybnk4dC05YjVjZWFmNS04MmNiLTQ0OWItYmZhMi0wMmQ5OTMwYzNhMDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gTDSlkQkXwRtR-jE9uFA-K3DO0LRgNRp775qsz0D4a4' alt='Taylor Swift REP Reputation Wallpaper by motzaburger on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/078fb2d4-a044-4504-8a8e-d6b474319a5d/dc2ny8t-9b5ceaf5-82cb-449b-bfa2-02d9930c3a06.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3OGZiMmQ0LWEwNDQtNDUwNC04YThlLWQ2YjQ3NDMxOWE1ZFwvZGMybnk4dC05YjVjZWFmNS04MmNiLTQ0OWItYmZhMi0wMmQ5OTMwYzNhMDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gTDSlkQkXwRtR-jE9uFA-K3DO0LRgNRp775qsz0D4a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Reputation Computer Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/5c/f6/7e5cf6658bc3a9138de8a7330631864e.jpg' alt='Taylor Swift Reputation Computer Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/5c/f6/7e5cf6658bc3a9138de8a7330631864e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

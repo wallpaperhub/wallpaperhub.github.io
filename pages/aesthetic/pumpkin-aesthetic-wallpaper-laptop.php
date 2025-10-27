@@ -1,0 +1,129 @@
+<title>Charming Pumpkin Aesthetic Wallpapers for Your Laptop</title>
+                    <meta name="description" content="Discover stunning pumpkin aesthetic wallpaper for your laptop. Perfect for autumn enthusiasts, these wallpapers add a cozy touch to your workspace. Explore various designs and colors to find the ideal backdrop that reflects the fall season. Upgrade your laptop's look with our charming pumpkin-themed wallpapers!">
+                    <meta name="keywords" content="pumpkin aesthetic wallpaper laptop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pumpkin-aesthetic-wallpaper-laptop">
+                            <span itemprop="name">pumpkin aesthetic wallpaper laptop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pumpkin Aesthetic Wallpapers for Your Laptop</h1>
+                <p>Transform your workspace with captivating pumpkin aesthetic wallpaper for your laptop. Featuring warm autumn hues and charming pumpkin designs, this wallpaper sets a cozy and inviting atmosphere. Perfect for fall lovers, it brings a touch of seasonal beauty to your screen. Embrace the pumpkin vibe and enhance your digital experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin aesthetic fall wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/67/b1/8e67b1f97b0c81d5a625970803bc5d23.jpg' alt='Pumpkin aesthetic fall wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/67/b1/8e67b1f97b0c81d5a625970803bc5d23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Cute Autumn Wallpaper Ideas : Hello Pumpkin Wallpaper for Laptop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/4a/5c/f14a5c75283a2827335a7d87ef1d6fde.jpg' alt='12 Cute Autumn Wallpaper Ideas : Hello Pumpkin Wallpaper for Laptop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/4a/5c/f14a5c75283a2827335a7d87ef1d6fde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall background/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/9f/a6/069fa6a33c673ed9b13379ad6bbb9789.jpg' alt='Fall background/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/9f/a6/069fa6a33c673ed9b13379ad6bbb9789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fall Aesthetic Pumpkins Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-aesthetic-pumpkins-qo2yws5gxc9paxte.jpg' alt='Download Fall Aesthetic Pumpkins Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-aesthetic-pumpkins-qo2yws5gxc9paxte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Halloween Classic Pumpkins Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-halloween-classic-pumpkins-p66000an31537avb.jpg' alt='Cute Aesthetic Halloween Classic Pumpkins Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-halloween-classic-pumpkins-p66000an31537avb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James">
+                                <img itemprop="contentUrl url" src='https://www.roxyjames.com/wp-content/uploads/2020/09/Pumpkin1-desktop.jpg' alt='FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy James" />
+                                </span>
+                                <a href='https://www.roxyjames.com/wp-content/uploads/2020/09/Pumpkin1-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Pumpkin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pumpkin-halloween-artwork-8o623b9juodfqf7b.jpg' alt='400+] Pumpkin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pumpkin-halloween-artwork-8o623b9juodfqf7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James">
+                                <img itemprop="contentUrl url" src='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october-desktop.jpg' alt='FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy James" />
+                                </span>
+                                <a href='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Season Of Pumpkin Desktop Wallpaper - Copyright Amber's Artistry">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/21/16/d5/2116d50547665e85c021d32968c486a0.jpg' alt='Season Of Pumpkin Desktop Wallpaper - Copyright Amber's Artistry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/21/16/d5/2116d50547665e85c021d32968c486a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Halloween Wallpapers for Desktop & Laptop : Pumpkin Patch Parade">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/08/halloween-wallpaper-2-1.jpg' alt='20 Halloween Wallpapers for Desktop & Laptop : Pumpkin Patch Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/08/halloween-wallpaper-2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

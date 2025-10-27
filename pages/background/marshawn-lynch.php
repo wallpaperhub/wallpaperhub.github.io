@@ -1,0 +1,129 @@
+<title>Marshawn Lynch: The Beast Mode Legend</title>
+                    <meta name="description" content="Explore the incredible career of Marshawn Lynch, the legendary NFL running back known for his powerful plays and engaging personality. Discover his journey from college football to becoming a fan favorite in the NFL, as well as his impact on and off the field. Dive into the world of "Beast Mode" today!">
+                    <meta name="keywords" content="marshawn lynch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marshawn-lynch">
+                            <span itemprop="name">marshawn lynch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Marshawn Lynch: The Beast Mode Legend</h1>
+                <p>Marshawn Lynch, known for his explosive playing style and fierce competitiveness, is an iconic NFL running back. With a career spanning teams like the Seattle Seahawks and Buffalo Bills, Lynch dazzled fans with his powerful runs and knack for breaking tackles. His personality off the field, marked by humor and activism, also captivates audiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/Marshawn_Lynch_vs._Redskins_2014.jpg' alt='Marshawn Lynch - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1696">
+                                <meta itemprop="height" content="2403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6a/Marshawn_Lynch_vs._Redskins_2014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch - Seattle Seahawks Running Back - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10456.png' alt='Marshawn Lynch - Seattle Seahawks Running Back - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10456.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reloaded: What Marshawn Lynch meant to the Seahawks, their fans ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/GhaCzzIXT2Fr8Szk4MBJfYMJK34=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/15829538/usa-today-8285388.0.1464898707.jpg' alt='Reloaded: What Marshawn Lynch meant to the Seahawks, their fans ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Field Gulls" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/GhaCzzIXT2Fr8Szk4MBJfYMJK34=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/15829538/usa-today-8285388.0.1464898707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seattle Seahawks star Marshawn Lynch scores some Hawaiian property ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/ecfc6f3/2147483647/strip/true/crop/3945x2626+0+0/resize/1200x799!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fa4%2F08654b06467ba38b479c36e2e662%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1199111714.jpg' alt='Seattle Seahawks star Marshawn Lynch scores some Hawaiian property ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/ecfc6f3/2147483647/strip/true/crop/3945x2626+0+0/resize/1200x799!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fa4%2F08654b06467ba38b479c36e2e662%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1199111714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch - All-Time Roster - History | Raiders.com">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/f_auto/raiders/h7pxbtza7n7p6nvautri' alt='Marshawn Lynch - All-Time Roster - History | Raiders.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raiders.com" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/f_auto/raiders/h7pxbtza7n7p6nvautri' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Endeavor, Overtime and Marshawn Lynch Launch 'Level Up' Program">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2022/06/marshawn-lynch.jpg?w=1000&h=563&crop=1' alt='Endeavor, Overtime and Marshawn Lynch Launch 'Level Up' Program'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2022/06/marshawn-lynch.jpg?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seattle Seahawks 2020 free agent profile: Running back Marshawn Lynch">
+                                <img itemprop="contentUrl url" src='https://seahawkswire.usatoday.com/wp-content/uploads/sites/61/2019/12/gettyimages-1196603503.jpg?w=1000&h=600&crop=1' alt='Seattle Seahawks 2020 free agent profile: Running back Marshawn Lynch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seahawks Wire - USA Today" />
+                                </span>
+                                <a href='https://seahawkswire.usatoday.com/wp-content/uploads/sites/61/2019/12/gettyimages-1196603503.jpg?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch, the Man Who Shook Up Seattle">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-227664-GettyImages-457836644.jpg?w=1581&h=1054&crop=1' alt='Marshawn Lynch, the Man Who Shook Up Seattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-227664-GettyImages-457836644.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch Leaves Lasting Legacy of Iconic Runs, Eccentricity ...">
+                                <img itemprop="contentUrl url" src='https://img.bleacherreport.net/img/images/photos/003/572/634/hi-res-252341778fe6e7b9127114cb47ad4c62_crop_north.jpg?1454945671&w=630&h=420' alt='Marshawn Lynch Leaves Lasting Legacy of Iconic Runs, Eccentricity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleacher Report" />
+                                </span>
+                                <a href='https://img.bleacherreport.net/img/images/photos/003/572/634/hi-res-252341778fe6e7b9127114cb47ad4c62_crop_north.jpg?1454945671&w=630&h=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshawn Lynch Stats, News and Video - RB | NFL.com">
+                                <img itemprop="contentUrl url" src='https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/ddhpebfqtr9yxsnbx9ht' alt='Marshawn Lynch Stats, News and Video - RB | NFL.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFL.com" />
+                                </span>
+                                <a href='https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/ddhpebfqtr9yxsnbx9ht' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

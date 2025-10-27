@@ -1,0 +1,129 @@
+<title>Elegant Emerald Green Invitations for Every Occasion</title>
+                    <meta name="description" content="Discover the beauty of emerald green invitations for your next event. Perfect for weddings, parties, and corporate gatherings, these stunning designs elevate any occasion. Explore elegant styles that blend with gold or floral themes to create memorable invites your guests will love!">
+                    <meta name="keywords" content="emerald green invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emerald-green-invitations">
+                            <span itemprop="name">emerald green invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Emerald Green Invitations for Every Occasion</h1>
+                <p>Emerald green invitations bring a touch of elegance and sophistication to any event. Whether it’s a wedding, birthday, or corporate gathering, these vibrant invites set a luxurious tone. Pair them with gold accents or delicate floral designs for a stunning effect. Capture your guests' attention with these exquisite, rich hues!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer CI509">
+                                <img itemprop="contentUrl url" src='https://www.claritynco.com/media/catalog/product/cache/b1edc0fa71e0b73928c9d07baab30350/e/w/ewi509-_.jpg' alt='Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer CI509'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="claritynco" />
+                                </span>
+                                <a href='https://www.claritynco.com/media/catalog/product/cache/b1edc0fa71e0b73928c9d07baab30350/e/w/ewi509-_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Wedding Invitation - Emerald Wedding, Forest Green ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8189632/r/il/1f0292/4009627108/il_fullxfull.4009627108_hs2j.jpg' alt='Emerald Green Wedding Invitation - Emerald Wedding, Forest Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8189632/r/il/1f0292/4009627108/il_fullxfull.4009627108_hs2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Emerald Green Wedding Invitation Suite with Floral Acrylic Card  EWPA011">
+                                <img itemprop="contentUrl url" src='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/e/w/ewpa011_2_.jpg' alt='Elegant Emerald Green Wedding Invitation Suite with Floral Acrylic Card  EWPA011'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elegant Wedding Invites" />
+                                </span>
+                                <a href='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/e/w/ewpa011_2_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Floral Gold Princess Quinceañera Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15637429/r/il/3ee7e6/4771092646/il_fullxfull.4771092646_dc92.jpg' alt='Emerald Green Floral Gold Princess Quinceañera Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15637429/r/il/3ee7e6/4771092646/il_fullxfull.4771092646_dc92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green wedding Invitation suite, Greenery Velvet invitations set,  Modern boho invites set wit">
+                                <img itemprop="contentUrl url" src='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/371/b029e68b386c362d9035cc85e10e4aac/13-velvet-green-wedding-invitation-baby-breath-flowers-margo-2023-1.jpg' alt='Emerald Green wedding Invitation suite, Greenery Velvet invitations set,  Modern boho invites set wit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margo&bees wedding invitations" />
+                                </span>
+                                <a href='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/371/b029e68b386c362d9035cc85e10e4aac/13-velvet-green-wedding-invitation-baby-breath-flowers-margo-2023-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : PONATIA 5.12 x 7.2 Emerald Green Laser Cut Invitation ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dq3dRtdSS.jpg' alt='Amazon.com : PONATIA 5.12 x 7.2 Emerald Green Laser Cut Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dq3dRtdSS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Greenery Invitation">
+                                <img itemprop="contentUrl url" src='https://printingbypennylane.com/cdn/shop/products/W10011_Mockup.jpg?v=1596568723' alt='Emerald Greenery Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printing by Penny Lane" />
+                                </span>
+                                <a href='https://printingbypennylane.com/cdn/shop/products/W10011_Mockup.jpg?v=1596568723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green and Gold Frame with Butterflies 5X7 Cardstock Invitations">
+                                <img itemprop="contentUrl url" src='https://invitationsbyluissanchez.com/cdn/shop/products/EmeraldGreenandGoldFramewithButterflies5X7CardstockInvitations_1024x1024@2x.png?v=1672168878' alt='Emerald Green and Gold Frame with Butterflies 5X7 Cardstock Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Invitations by Luis Sanchez" />
+                                </span>
+                                <a href='https://invitationsbyluissanchez.com/cdn/shop/products/EmeraldGreenandGoldFramewithButterflies5X7CardstockInvitations_1024x1024@2x.png?v=1672168878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green and Gold Wedding Invitation">
+                                <img itemprop="contentUrl url" src='http://www.indybeecrafts.com/cdn/shop/products/GG001_3.jpg?v=1618999512' alt='Emerald Green and Gold Wedding Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indy Bee Crafts" />
+                                </span>
+                                <a href='http://www.indybeecrafts.com/cdn/shop/products/GG001_3.jpg?v=1618999512' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avior Quinceanera Invitation Emerald Green Dress Acrylic Glass Invitation,  Mis Quince, Sweet 15, Sweet 16, Floral Design, xv anos, 15 anos, Spanish ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91wupEf6fBL.jpg' alt='Avior Quinceanera Invitation Emerald Green Dress Acrylic Glass Invitation,  Mis Quince, Sweet 15, Sweet 16, Floral Design, xv anos, 15 anos, Spanish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2558">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91wupEf6fBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

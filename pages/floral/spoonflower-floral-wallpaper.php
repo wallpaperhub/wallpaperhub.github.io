@@ -1,0 +1,129 @@
+<title>Spoonflower Floral Wallpaper: Elevate Your Decor</title>
+                    <meta name="description" content="Enhance your home with stunning Spoonflower floral wallpaper. Explore a variety of unique, customizable patterns that bring beauty and charm to any room. Perfect for creating a personal, stylish atmosphere—ideal for DIY enthusiasts and interior designers alike.">
+                    <meta name="keywords" content="spoonflower floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/spoonflower-floral-wallpaper">
+                            <span itemprop="name">spoonflower floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spoonflower Floral Wallpaper: Elevate Your Decor</h1>
+                <p>Discover the beauty of Spoonflower floral wallpaper! Transform your spaces with unique, custom-designed floral patterns that add elegance and personality. From bold tropical prints to delicate vintage florals, there’s something for every style. Elevate your home decor and make a statement with these vibrant wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 3ft x 2ft - Wildflowers Meadow Blush Vintage Flower  Botanical Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WfLMU-PaL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 3ft x 2ft - Wildflowers Meadow Blush Vintage Flower  Botanical Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WfLMU-PaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Floral Wallpaper - little Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14463077/r/l/d-i-21/1rT13qNy01gl769j8Kgs9UWJqmFjywR64WlL/Whimsical_Floral_Wallpaper_-_little_fairies_in_a_wild_flower_meadow_-_colorful_bright_and_happy_-_green_-_large.jpg' alt='Whimsical Floral Wallpaper - little Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14463077/r/l/d-i-21/1rT13qNy01gl769j8Kgs9UWJqmFjywR64WlL/Whimsical_Floral_Wallpaper_-_little_fairies_in_a_wild_flower_meadow_-_colorful_bright_and_happy_-_green_-_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversational Floral Wallpaper - pink - Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14755899/r/l/d-i-21/dln4hBQn3HWOxLohZJxxAx6Q9RYGNiNNNUnz/Conversational_Floral_Wallpaper_-_pink_-_large-scale..jpg' alt='Conversational Floral Wallpaper - pink - Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14755899/r/l/d-i-21/dln4hBQn3HWOxLohZJxxAx6Q9RYGNiNNNUnz/Conversational_Floral_Wallpaper_-_pink_-_large-scale..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="maximalist folk flowers 24" Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1290/6217/maximalist_folk_flowers_24__shop_thumb.png' alt='maximalist folk flowers 24" Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1290/6217/maximalist_folk_flowers_24__shop_thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Cottage Core Climbing Floral Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13146581/r/l/d-i-21/jap1e-mK_bEBIrEmT4Uka9x04BASadlSJkLp/Vintage_Cottage_Core_Climbing_Floral_wallpaper_Blue_Orange_.jpg' alt='Vintage Cottage Core Climbing Floral Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13146581/r/l/d-i-21/jap1e-mK_bEBIrEmT4Uka9x04BASadlSJkLp/Vintage_Cottage_Core_Climbing_Floral_wallpaper_Blue_Orange_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Tropical Flowers Botanical Retro Mid  Century Large Scale Floral Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/166731380609952.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Tropical Flowers Botanical Retro Mid  Century Large Scale Floral Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/166731380609952.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="large jumbo scale moody floral wallpaper Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16773394/r/l/d-i-21/KQhIFN3NR_OliHYCMkeTZ6aHB2vcNIVPTymI/large_jumbo_scale_moody_floral_wallpaper_blush_roses_and_peony_blooms_on_deep_purple_for_nursery_wallpaper_and_beddingblush_peony_calla_rose.jpg' alt='large jumbo scale moody floral wallpaper Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16773394/r/l/d-i-21/KQhIFN3NR_OliHYCMkeTZ6aHB2vcNIVPTymI/large_jumbo_scale_moody_floral_wallpaper_blush_roses_and_peony_blooms_on_deep_purple_for_nursery_wallpaper_and_beddingblush_peony_calla_rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden of Abundance Large - moody Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13579672/i/l/oOwqukfKWIYyLIhQFifPNtQhEIAnwtm6TfW20JtVmvs0gfONXoKyFw/13579672-garden-abundance-large-moody-watercolor-floral-wallpaper-hand-drawn-romantic-flowers-over-dark-backgr-by-the_mirwo_forest.jpg' alt='Garden of Abundance Large - moody Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13579672/i/l/oOwqukfKWIYyLIhQFifPNtQhEIAnwtm6TfW20JtVmvs0gfONXoKyFw/13579672-garden-abundance-large-moody-watercolor-floral-wallpaper-hand-drawn-romantic-flowers-over-dark-backgr-by-the_mirwo_forest.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19th Century William Morris Style Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14317620/r/l/d-i-21/jQgLr1x7Fg3aPKwZ3dyvS0k9ULkQAIybKRPe/19th_Century_William_Morris_Style_Vintage_Floral_Wallpaper_-_Large_Scale.jpg' alt='19th Century William Morris Style Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14317620/r/l/d-i-21/jQgLr1x7Fg3aPKwZ3dyvS0k9ULkQAIybKRPe/19th_Century_William_Morris_Style_Vintage_Floral_Wallpaper_-_Large_Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Foliage Floral Wallpaper in sage Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16304385/r/l/d-i-21/j2Fzdk4cOOlwx6_wpNhwFSDx3fpoOA0Pxx2H/Forest_Foliage_Floral_Wallpaper__in_sage_and_coral_for_Nursery_and_baby_wall_decor.jpg' alt='Forest Foliage Floral Wallpaper in sage Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16304385/r/l/d-i-21/j2Fzdk4cOOlwx6_wpNhwFSDx3fpoOA0Pxx2H/Forest_Foliage_Floral_Wallpaper__in_sage_and_coral_for_Nursery_and_baby_wall_decor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

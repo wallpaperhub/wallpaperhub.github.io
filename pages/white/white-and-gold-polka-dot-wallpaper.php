@@ -1,0 +1,129 @@
+<title>Elegant White & Gold Polka Dot Wallpaper for Stylish Spaces</title>
+                    <meta name="description" content="Transform your interiors with our chic white and gold polka dot wallpaper. Ideal for any room, it adds a modern touch while ensuring a timeless elegance. Perfect for creating a stylish atmosphere in your home or nursery. Explore our collection today!">
+                    <meta name="keywords" content="white and gold polka dot wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-and-gold-polka-dot-wallpaper">
+                            <span itemprop="name">white and gold polka dot wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White & Gold Polka Dot Wallpaper for Stylish Spaces</h1>
+                <p>White and gold polka dot wallpaper adds a touch of elegance and playfulness to any space. Perfect for bedrooms, nurseries, or even living rooms, this design elevates the ambiance while remaining versatile. The shimmering gold against a crisp white background creates a stunning contrast, making it a favorite choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goldidots - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0273_1s_Random-Dots-Wallpaper-for-Walls-Goldidots_Repeating-Pattern-Sample-1.jpg?v=1734717536' alt='Goldidots - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0273_1s_Random-Dots-Wallpaper-for-Walls-Goldidots_Repeating-Pattern-Sample-1.jpg?v=1734717536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Kids at Home 56-sq ft White and Gold Paper Polka Dot  Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/e601af85-8c46-444e-9e51-c20ef889d12e/05362734.jpg' alt='Graham & Brown Kids at Home 56-sq ft White and Gold Paper Polka Dot  Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/e601af85-8c46-444e-9e51-c20ef889d12e/05362734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Polka Dot Background Vector Images (over 3,500)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/42/98/gold-shimmer-glitter-polka-dot-seamless-pattern-vector-6824298.jpg' alt='White Gold Polka Dot Background Vector Images (over 3,500)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/42/98/gold-shimmer-glitter-polka-dot-seamless-pattern-vector-6824298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Gold Dot Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/RMK3524WP_afd8c12b-4783-4948-a0fb-f1e575dd3dd8.jpg?v=1703808768&width=1024' alt='Small Gold Dot Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/RMK3524WP_afd8c12b-4783-4948-a0fb-f1e575dd3dd8.jpg?v=1703808768&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and gold pattern abstract polka dot Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/38/19/white-and-gold-pattern-abstract-polka-dot-vector-7533819.jpg' alt='White and gold pattern abstract polka dot Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/38/19/white-and-gold-pattern-abstract-polka-dot-vector-7533819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone/iPad background freebie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/c9/91/72c9912dfca77c62c83cd301379eca63.jpg' alt='iPhone/iPad background freebie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/c9/91/72c9912dfca77c62c83cd301379eca63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with gold glitter polka dot ornament on white ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/03/50/72/1000_F_103507292_hXccSWmfanCaFv0y6FSMgmczLvSESck0.jpg' alt='Seamless pattern with gold glitter polka dot ornament on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/03/50/72/1000_F_103507292_hXccSWmfanCaFv0y6FSMgmczLvSESck0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,100+ Gold Polka Dot Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1336537024/vector/abstract-seamless-dots-pattern.jpg?s=612x612&w=0&k=20&c=c5BYyjd3H5MjcLHm9QseLmraRgFOEJPdYbOxK1qrj2g=' alt='4,100+ Gold Polka Dot Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1336537024/vector/abstract-seamless-dots-pattern.jpg?s=612x612&w=0&k=20&c=c5BYyjd3H5MjcLHm9QseLmraRgFOEJPdYbOxK1qrj2g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Yellow and White Wallpaper Peel and Stick Wallpaper Polka Dot  Wallpaper 17.7 inch × 118.1 inch Yellow Contact Paper Modern Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719bVZGys1L._AC_UF894,1000_QL80_.jpg' alt='Jeweluck Yellow and White Wallpaper Peel and Stick Wallpaper Polka Dot  Wallpaper 17.7 inch × 118.1 inch Yellow Contact Paper Modern Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719bVZGys1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Gold Polka Dot Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/43/f8/4a43f88c4393f691f42400dab982439a.jpg' alt='   Gold Polka Dot Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/43/f8/4a43f88c4393f691f42400dab982439a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

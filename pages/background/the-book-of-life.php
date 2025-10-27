@@ -1,0 +1,129 @@
+<title>The Book of Life: A Journey Through Your Personal Story</title>
+                    <meta name="description" content="Discover "The Book of Life," a reflective journey about personal growth, love, and the stories that shape us. This insightful exploration encourages readers to embrace their unique experiences and live authentically, making it a must-read for those seeking meaning in life's journey.">
+                    <meta name="keywords" content="the book of life">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-book-of-life">
+                            <span itemprop="name">the book of life</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Book of Life: A Journey Through Your Personal Story</h1>
+                <p>The Book of Life is a profound exploration of our journey, choices, and connections. It weaves together themes of love, loss, and personal growth, inviting readers to reflect on their own stories. Through rich narratives, it emphasizes the importance of each experience in shaping who we are and inspires us to live authentically.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Life (2014) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTkzOTgzNDYzOF5BMl5BanBnXkFtZTgwOTgxMTkyMjE@._V1_.jpg' alt='The Book of Life (2014) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTkzOTgzNDYzOF5BMl5BanBnXkFtZTgwOTgxMTkyMjE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Book of Life : Christina Applegate, Ron Perlman, Diego  Luna, Channing Tatum, Zoe Saldana: Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91vwDVfhnSL.jpg' alt='Amazon.com: The Book of Life : Christina Applegate, Ron Perlman, Diego  Luna, Channing Tatum, Zoe Saldana: Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91vwDVfhnSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneak peek: Fantastical journey in 'The Book of Life'">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/93972b2e66fcabddb74c577b580ef260f369130c/c=0-696-3001-2389/local/-/media/USATODAY/USATODAY/2014/05/27//1401215946000-BOL-FIRSTLOOK-10.jpg' alt='Sneak peek: Fantastical journey in 'The Book of Life''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3001">
+                                <meta itemprop="height" content="1693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/93972b2e66fcabddb74c577b580ef260f369130c/c=0-696-3001-2389/local/-/media/USATODAY/USATODAY/2014/05/27//1401215946000-BOL-FIRSTLOOK-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Life (2014) | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/CHTRWpSVoYCR8gAKstz94oivK_g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569669_v_v8_ad.jpg' alt='The Book of Life (2014) | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/CHTRWpSVoYCR8gAKstz94oivK_g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569669_v_v8_ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Life | The Book of Life Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bookoflife/images/2/25/Book_of_Life_Poster2.jpg/revision/latest/scale-to-width-down/1200?cb=20140901054916' alt='The Book of Life | The Book of Life Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Book of Life Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bookoflife/images/2/25/Book_of_Life_Poster2.jpg/revision/latest/scale-to-width-down/1200?cb=20140901054916' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Muerte | The Book of Life Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bookoflife/images/1/11/LaMUERTE.png/revision/latest?cb=20180913004034' alt='La Muerte | The Book of Life Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Book of Life Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bookoflife/images/1/11/LaMUERTE.png/revision/latest?cb=20180913004034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of the Book of Life">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ddlQyuRvL._AC_UF1000,1000_QL80_.jpg' alt='The Art of the Book of Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ddlQyuRvL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REVIEW: “The Book Of Life”">
+                                <img itemprop="contentUrl url" src='https://www.indiewire.com/wp-content/uploads/2014/10/book-of-life-review.jpg' alt='REVIEW: “The Book Of Life”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndieWire" />
+                                </span>
+                                <a href='https://www.indiewire.com/wp-content/uploads/2014/10/book-of-life-review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clip: ‘The Book of Life’">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2014/10/19/arts/19BOOKOFLIFE1/19BOOOKOFLIFE1-videoSixteenByNine1050.jpg' alt='Clip: ‘The Book of Life’'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2014/10/19/arts/19BOOKOFLIFE1/19BOOOKOFLIFE1-videoSixteenByNine1050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book Of Life / The Dissolve">
+                                <img itemprop="contentUrl url" src='https://d2ycltig8jwwee.cloudfront.net/reviews/1153/fullwidth.838106b8.jpg' alt='The Book Of Life / The Dissolve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dissolve" />
+                                </span>
+                                <a href='https://d2ycltig8jwwee.cloudfront.net/reviews/1153/fullwidth.838106b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

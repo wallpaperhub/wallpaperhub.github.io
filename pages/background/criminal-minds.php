@@ -1,0 +1,129 @@
+<title>Unlocking the Mind: Insights from Criminal Minds</title>
+                    <meta name="description" content="Dive into the gripping world of Criminal Minds, where psychological profiling meets intense crime drama. Explore how the BAU tackles complex cases, revealing the intricacies of criminal behavior and its effects on society. Join us for a thrilling analysis of the criminal psyche!">
+                    <meta name="keywords" content="criminal minds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-minds">
+                            <span itemprop="name">criminal minds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlocking the Mind: Insights from Criminal Minds</h1>
+                <p>Criminal Minds delves into the psychological profiling of criminal behavior, exploring the minds of both the offenders and the BAU agents. Each episode unravels intricate cases, showcasing the complexities of human nature while illuminating the impact of crime on victims and society. It's a gripping blend of drama, suspense, and intellect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Minds (TV Series 2005– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjJhMWNjNGYtMmQ2Ny00NTdlLTlkOTAtNDc2NjA4MmQyOWFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Criminal Minds (TV Series 2005– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjJhMWNjNGYtMmQ2Ny00NTdlLTlkOTAtNDc2NjA4MmQyOWFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Minds was never supposed to end | Polygon">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19732153/CriminalMinds_KeyArt_1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200' alt='Criminal Minds was never supposed to end | Polygon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19732153/CriminalMinds_KeyArt_1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Criminal Minds: Season 10 : A.J. Cook, Gary Sinise, Joe  Mantegna, Jeanne Triplehorn, Anna Gunn, Kirsten Vangsness, Matthew Gray  Gubler, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91S-dMxRCbL.jpg' alt='Amazon.com: Criminal Minds: Season 10 : A.J. Cook, Gary Sinise, Joe  Mantegna, Jeanne Triplehorn, Anna Gunn, Kirsten Vangsness, Matthew Gray  Gubler, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1813">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91S-dMxRCbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Minds - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Criminal-Minds.svg/1200px-Criminal-Minds.svg.png' alt='Criminal Minds - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Criminal-Minds.svg/1200px-Criminal-Minds.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Criminal Minds: Seasons 1-4 : Gibson, Thomas, Gubler ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91dpGZlmg3L.jpg' alt='Amazon.com: Criminal Minds: Seasons 1-4 : Gibson, Thomas, Gubler ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1937">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91dpGZlmg3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Minds: Evolution' Ordered for Season 2 at Paramount+ ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/12/criminal-minds.jpg?fit=990%2C557&quality=89&ssl=1' alt='Criminal Minds: Evolution' Ordered for Season 2 at Paramount+ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheWrap" />
+                                </span>
+                                <a href='https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/12/criminal-minds.jpg?fit=990%2C557&quality=89&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Criminal Minds Agents Fans Can't Get Enough of, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/06/split-image-of-gideon-reid-and-garcia.jpg' alt='10 Criminal Minds Agents Fans Can't Get Enough of, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/06/split-image-of-gideon-reid-and-garcia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Minds | CBS Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cbs/images/9/9e/Criminal_Minds_poster_%282%29.jpg/revision/latest?cb=20180524034753' alt='Criminal Minds | CBS Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1035">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBS Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cbs/images/9/9e/Criminal_Minds_poster_%282%29.jpg/revision/latest?cb=20180524034753' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Biggest Criminal Minds Controversies | Articles on ...">
+                                <img itemprop="contentUrl url" src='https://www.watchmojo.com/uploads/thumbs720/MM-TV-Top-10-Criminal-Minds-Controversies_L9M6O1_1.jpg' alt='Top 10 Biggest Criminal Minds Controversies | Articles on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WatchMojo" />
+                                </span>
+                                <a href='https://www.watchmojo.com/uploads/thumbs720/MM-TV-Top-10-Criminal-Minds-Controversies_L9M6O1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm Relieved By Criminal Minds' 1 Condition For Reid & Morgan ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/wm/2024/06/shemar-moore-as-morgan-and-matthew-gray-gubler-as-reid-with-kirsten-vangsness-as-garcia-in-criminal-minds.jpg' alt='I'm Relieved By Criminal Minds' 1 Condition For Reid & Morgan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/wm/2024/06/shemar-moore-as-morgan-and-matthew-gray-gubler-as-reid-with-kirsten-vangsness-as-garcia-in-criminal-minds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

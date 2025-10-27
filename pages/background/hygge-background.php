@@ -1,0 +1,129 @@
+<title>Embrace Hygge: The Art of Cozy Living</title>
+                    <meta name="description" content="Discover the essence of hygge—a Danish lifestyle focusing on coziness, comfort, and well-being. Learn how to cultivate a warm atmosphere that promotes joy and connection in your daily life. Embrace simple pleasures to enhance your happiness and create lasting memories with loved ones.">
+                    <meta name="keywords" content="hygge background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hygge-background">
+                            <span itemprop="name">hygge background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Hygge: The Art of Cozy Living</h1>
+                <p>Hygge, a Danish term pronounced "hoo-gah," embraces coziness, contentment, and well-being. Rooted in ancient Norse culture, it emphasizes moments of comfort, warmth, and connection, often through simple pleasures like candles, soft blankets, and good company. Incorporating hygge into daily life fosters happiness and relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hygge Background" Images – Browse 44 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/84/71/84/360_F_284718484_1HRi51r7AUfLugQM1oCsJur4DYw2q52h.jpg' alt='Hygge Background" Images – Browse 44 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/84/71/84/360_F_284718484_1HRi51r7AUfLugQM1oCsJur4DYw2q52h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Moment of Hygge PREMIUM - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.19467.14562462990742545.f75ad677-b304-4b69-b837-c12e4f56eb06.3c421dde-9529-47fb-85f3-5c3ffb33bf77' alt='A Moment of Hygge PREMIUM - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.19467.14562462990742545.f75ad677-b304-4b69-b837-c12e4f56eb06.3c421dde-9529-47fb-85f3-5c3ffb33bf77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,300+ Hygge Christmas Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1286031574/photo/cozy-composition-with-a-christmas-cup-on-a-blurred-background-with-lights.jpg?s=612x612&w=0&k=20&c=1KGosWu29T8W9n3ArLz4ermqwGIaYKft0UeNcoBxQsc=' alt='18,300+ Hygge Christmas Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1286031574/photo/cozy-composition-with-a-christmas-cup-on-a-blurred-background-with-lights.jpg?s=612x612&w=0&k=20&c=1KGosWu29T8W9n3ArLz4ermqwGIaYKft0UeNcoBxQsc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hygge Background" Images – Browse 44 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/41/12/41/360_F_641124153_jnZYQgvim8fq3Ut2ogzr5yF2VRLjq0Us.jpg' alt='Hygge Background" Images – Browse 44 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/41/12/41/360_F_641124153_jnZYQgvim8fq3Ut2ogzr5yF2VRLjq0Us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="324 Hygge Backgrounds Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hygge-hot-chocolate-fireplace-winter-cabin-generative-ai-design-background-instagram-facebook-wall-painting-324312816.jpg' alt='324 Hygge Backgrounds Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hygge-hot-chocolate-fireplace-winter-cabin-generative-ai-design-background-instagram-facebook-wall-painting-324312816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,300+ Hygge Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1314928174/photo/woman-with-cup-of-drink-and-book-near-fireplace-at-home-closeup.jpg?s=612x612&w=0&k=20&c=MeJbhIUr1OYpAqYxv8QZ7fZsczXeUk9tu2ovZOLC_T4=' alt='84,300+ Hygge Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1314928174/photo/woman-with-cup-of-drink-and-book-near-fireplace-at-home-closeup.jpg?s=612x612&w=0&k=20&c=MeJbhIUr1OYpAqYxv8QZ7fZsczXeUk9tu2ovZOLC_T4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hygge Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-tea-mugand-pine-cones-with-pullover_23-2148791025.jpg' alt='Hygge Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-tea-mugand-pine-cones-with-pullover_23-2148791025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Hygge Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661765903807-6571ddc8a1cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGh5Z2dlfGVufDB8fDB8fHww' alt='500+ Hygge Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661765903807-6571ddc8a1cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGh5Z2dlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,000+ Hygge Winter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1935416201/photo/cozy-winter-photo-stack-of-sweaters-open-bible-tea-and-candle.jpg?s=612x612&w=0&k=20&c=5B8SdyxEzO7GmEmYfancMe9Xfa_MBSY03tmiZVHHmOk=' alt='32,000+ Hygge Winter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1935416201/photo/cozy-winter-photo-stack-of-sweaters-open-bible-tea-and-candle.jpg?s=612x612&w=0&k=20&c=5B8SdyxEzO7GmEmYfancMe9Xfa_MBSY03tmiZVHHmOk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Hygge With It: How to Make Your Home Extra Cozy This Winter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/1c/99/6f1c99a16dcf88e55cde3a2cfa880c29.jpg' alt='Get Hygge With It: How to Make Your Home Extra Cozy This Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/1c/99/6f1c99a16dcf88e55cde3a2cfa880c29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

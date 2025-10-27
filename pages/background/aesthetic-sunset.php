@@ -1,0 +1,129 @@
+<title>Aesthetic Sunsets: Nature's Colorful Canvas</title>
+                    <meta name="description" content="Discover the magic of aesthetic sunsets, where vibrant colors blend to create breathtaking views. Our collection showcases stunning sunset photography that captures the beauty of nature, perfect for inspiration and reflection. Experience the serenity and artistry of dusk with us!">
+                    <meta name="keywords" content="aesthetic sunset">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-sunset">
+                            <span itemprop="name">aesthetic sunset</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Sunsets: Nature's Colorful Canvas</h1>
+                <p>Aesthetic sunsets captivate with their stunning blend of colors, painting the sky in hues of orange, pink, and purple. As the sun descends, it casts a warm glow over landscapes, creating breathtaking silhouettes and serene moments. Capturing these natural masterpieces invokes feelings of peace and wonder, inviting reflection on life's beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1609171712489-45b6ba7051a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3Vuc2V0JTIwYWVzdGhldGljfGVufDB8fDB8fHww' alt='Sunset Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1609171712489-45b6ba7051a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3Vuc2V0JTIwYWVzdGhldGljfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunset Over City Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/0/e/0/0e03c0e2-9d7c-48b3-a6ef-e1ebceb87c7c_large/sunset-over-city-stockcake.jpg' alt='Free Sunset Over City Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/0/e/0/0e03c0e2-9d7c-48b3-a6ef-e1ebceb87c7c_large/sunset-over-city-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange sunset by the sea #fyp #foru #foruyou #beautiful #positivevibes  #feelinggood #beautifuldestinations #mood #moody #aesthetics  #aestheticvideos #relax #relaxing #relaxation">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7463428821069368598&location=0&aid=1988' alt='Orange sunset by the sea #fyp #foru #foruyou #beautiful #positivevibes  #feelinggood #beautifuldestinations #mood #moody #aesthetics  #aestheticvideos #relax #relaxing #relaxation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="949">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7463428821069368598&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="summer sunset    | Beach sunset wallpaper, Sky aesthetic, Sunset ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/94/97/1c9497e72610394cd0f083c6c6475553.jpg' alt='summer sunset    | Beach sunset wallpaper, Sky aesthetic, Sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/94/97/1c9497e72610394cd0f083c6c6475553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Sunset Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-sunset-iphone-da3d90qgvlv4cyas.jpg' alt='100+] Aesthetic Sunset Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-sunset-iphone-da3d90qgvlv4cyas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Aesthetic Ocean Sunset Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-orange-aesthetic-day-sky-q21aurb9iewd3m23.webp' alt='Summer Aesthetic Ocean Sunset Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-orange-aesthetic-day-sky-q21aurb9iewd3m23.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,428 Beautiful Aesthetic Sunset Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-delicate-pink-orange-clouds-sunset-dawn-beautiful-delicate-pink-orange-clouds-sunset-dawn-aesthetic-photo-315134263.jpg' alt='8,428 Beautiful Aesthetic Sunset Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-delicate-pink-orange-clouds-sunset-dawn-beautiful-delicate-pink-orange-clouds-sunset-dawn-aesthetic-photo-315134263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Sunset Sky Over Ocean Waves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-aesthetic-sunset-sky-over-ocean-waves-gwhfuglsilu63769.jpg' alt='Purple Aesthetic Sunset Sky Over Ocean Waves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-aesthetic-sunset-sky-over-ocean-waves-gwhfuglsilu63769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sunset Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664124888904-435121e89c74?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWVzdGhldGljJTIwc3Vuc2V0fGVufDB8fDB8fHww' alt='Aesthetic Sunset Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664124888904-435121e89c74?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWVzdGhldGljJTIwc3Vuc2V0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud and sunset aesthetic photography landscape wall canvas">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/quadres/preview/69469.png' alt='Cloud and sunset aesthetic photography landscape wall canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/quadres/preview/69469.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

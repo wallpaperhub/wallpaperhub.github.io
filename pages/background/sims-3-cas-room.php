@@ -1,0 +1,129 @@
+<title>Create Your Dream Sim in The Sims 3 CAS Room</title>
+                    <meta name="description" content="Unleash your creativity in The Sims 3 CAS room! Design your perfect Sim with countless customization options for appearance and outfits. Dive into a world of endless possibilities for fashion and personality. Start building your dream character today!">
+                    <meta name="keywords" content="sims 3 cas room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sims-3-cas-room">
+                            <span itemprop="name">sims 3 cas room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Your Dream Sim in The Sims 3 CAS Room</h1>
+                <p>In The Sims 3, the Create-A-Sim (CAS) room is where the magic begins. Players can design and customize their Sims' appearance, clothing, and personality traits. With an array of hairstyles, outfits, and accessories, the CAS room offers endless possibilities for creativity. Dive into the world of fashion and personal expression today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mod The Sims - The Sims 3 CAS Room Recolored (+ PETS)">
+                                <img itemprop="contentUrl url" src='https://thumbs.modthesims2.com/img/7/3/7/5/8/2/8/MTS_simsi45-1990200-CAS.png?cb=1613754211' alt='Mod The Sims - The Sims 3 CAS Room Recolored (+ PETS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod The Sims" />
+                                </span>
+                                <a href='https://thumbs.modthesims2.com/img/7/3/7/5/8/2/8/MTS_simsi45-1990200-CAS.png?cb=1613754211' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mod The Sims - Nine CAS-screens">
+                                <img itemprop="contentUrl url" src='https://thumbs.modthesims2.com/img/9/8/3/3/2/3/MTS_Kolakanin-1261204-Softpink.jpg?cb=1325342865' alt='Mod The Sims - Nine CAS-screens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod The Sims" />
+                                </span>
+                                <a href='https://thumbs.modthesims2.com/img/9/8/3/3/2/3/MTS_Kolakanin-1261204-Softpink.jpg?cb=1325342865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simsi45 — The Sims 3 CAS Room Recolored (+ PETS)">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/148ebebaa1f67839eac7ee50859276cf/f8b36057e240de91-be/s1280x1920/72c3407df5f273a8040fcf96e810e960645f05ba.jpg' alt='Simsi45 — The Sims 3 CAS Room Recolored (+ PETS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simsi45 - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/148ebebaa1f67839eac7ee50859276cf/f8b36057e240de91-be/s1280x1920/72c3407df5f273a8040fcf96e810e960645f05ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims 3 [cas background, cas lighting mod, & cas organizers ...">
+                                <img itemprop="contentUrl url" src='https://c10.patreonusercontent.com/4/patreon-media/p/post/93256056/c4eff614300d4d41a96748e4dca32a58/eyJ3Ijo4MjB9/1.png?token-time=1741305600&token-hash=nB42dop0gbuaJ2oe18XcZBb0ubG1izuXt901Eqp1hIw%3D' alt='The Sims 3 [cas background, cas lighting mod, & cas organizers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patreon" />
+                                </span>
+                                <a href='https://c10.patreonusercontent.com/4/patreon-media/p/post/93256056/c4eff614300d4d41a96748e4dca32a58/eyJ3Ijo4MjB9/1.png?token-time=1741305600&token-hash=nB42dop0gbuaJ2oe18XcZBb0ubG1izuXt901Eqp1hIw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mod The Sims - The Sims 3 CAS Room Recolored (+ PETS)">
+                                <img itemprop="contentUrl url" src='https://thumbs.modthesims2.com/img/7/3/7/5/8/2/8/MTS_simsi45-1990201-BEFORESIMCAS.png?cb=1613754223' alt='Mod The Sims - The Sims 3 CAS Room Recolored (+ PETS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2884">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod The Sims" />
+                                </span>
+                                <a href='https://thumbs.modthesims2.com/img/7/3/7/5/8/2/8/MTS_simsi45-1990201-BEFORESIMCAS.png?cb=1613754223' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boring Bones — CAS Room Recolored - Boring Bones">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3079356b4c5b7e95c6a9b29b55500964/f32d8d7d32232e4c-f1/s1280x1920/e4fe6d63f2242d22362d8104e240c75f6b767abd.png' alt='Boring Bones — CAS Room Recolored - Boring Bones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="boringbones Boring Bones - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3079356b4c5b7e95c6a9b29b55500964/f32d8d7d32232e4c-f1/s1280x1920/e4fe6d63f2242d22362d8104e240c75f6b767abd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims 3 inspired CAS Room/Background by vyxated - Sims 4 CC ...">
+                                <img itemprop="contentUrl url" src='https://s4.simsfinds.com.br/download/24051850/2023/11/22/2a18ba73c713b7866f4f91ac0e938492-gnd.jpg' alt='The Sims 3 inspired CAS Room/Background by vyxated - Sims 4 CC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimsFinds" />
+                                </span>
+                                <a href='https://s4.simsfinds.com.br/download/24051850/2023/11/22/2a18ba73c713b7866f4f91ac0e938492-gnd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Cas Rooms Mods for The Sims 3 in 2023 | Links in ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2myPmrjhVFw/mqdefault.jpg' alt='Pretty Cas Rooms Mods for The Sims 3 in 2023 | Links in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2myPmrjhVFw/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="̍̊˙˚˙ᵕ꒳ᵕ˙˚˙ CAS ROOMS!!!˙˚˙ᵕ꒳ᵕ˙˚˙‧̍̊ – @capricorn-simss on ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/572b7240222507c3e4d61d0a7a8a2541/tumblr_py59p1AsnB1yvvm6to3_1280.jpg' alt='̍̊˙˚˙ᵕ꒳ᵕ˙˚˙ CAS ROOMS!!!˙˚˙ᵕ꒳ᵕ˙˚˙‧̍̊ – @capricorn-simss on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/572b7240222507c3e4d61d0a7a8a2541/tumblr_py59p1AsnB1yvvm6to3_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change The CAS Room Background | Sims 3 | Sims Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6756/2e439b9fc0dc1b89e927b810fdfda7f95dfec974v2_00.jpg' alt='Change The CAS Room Background | Sims 3 | Sims Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6756/2e439b9fc0dc1b89e927b810fdfda7f95dfec974v2_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

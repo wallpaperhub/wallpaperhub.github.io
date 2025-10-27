@@ -1,0 +1,129 @@
+<title>Stunning UFO Photos: The Truth Behind the Sightings</title>
+                    <meta name="description" content="Explore the most intriguing UFO photos that have fueled discussions about extraterrestrial life. Discover verified sightings and the mysteries that surround them. Join the debate: Are they evidence of life beyond Earth? Dive into the world of UFO photography today!">
+                    <meta name="keywords" content="ufo photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ufo-photos">
+                            <span itemprop="name">ufo photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning UFO Photos: The Truth Behind the Sightings</h1>
+                <p>UFO photos continue to captivate the imagination and fuel conspiracy theories. From blurry images to well-documented sightings, these photographs ignite curiosity about extraterrestrial life. Whether they're verified or dismissed as hoaxes, UFO photos prompt discussions about the unknown and our place in the universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFO' author Garrett Graff connects Roswell to today's conspiracy ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2023/11/27/gettyimages-875509-001-edit-80b010a7056c0a9b11e5efceb6a5b9ae530bdc8f.jpg?s=1100&c=50&f=jpeg' alt='UFO' author Garrett Graff connects Roswell to today's conspiracy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2023/11/27/gettyimages-875509-001-edit-80b010a7056c0a9b11e5efceb6a5b9ae530bdc8f.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Enticing Mysteries of U.F.O. Photography | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/64ca89f569af7f8649142d29/4:3/w_1304,h_978,c_limit/Wiley-UFO-03.jpg' alt='The Enticing Mysteries of U.F.O. Photography | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1304">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/64ca89f569af7f8649142d29/4:3/w_1304,h_978,c_limit/Wiley-UFO-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The UFO reports interesting Nasa">
+                                <img itemprop="contentUrl url" src='https://ychef.files.bbci.co.uk/1280x720/p0g3183w.jpg' alt='The UFO reports interesting Nasa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ychef.files.bbci.co.uk/1280x720/p0g3183w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Americans Believe in UFOs?">
+                                <img itemprop="contentUrl url" src='https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/d4izsou-kugsl1ns_jvjda.jpg' alt='Do Americans Believe in UFOs?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallup News" />
+                                </span>
+                                <a href='https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/d4izsou-kugsl1ns_jvjda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The West is best to spot UFOs – @theU">
+                                <img itemprop="contentUrl url" src='https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2024/02/27121615/UFO_Header-1.jpg' alt='The West is best to spot UFOs – @theU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@theU - The University of Utah" />
+                                </span>
+                                <a href='https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2024/02/27121615/UFO_Header-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFOs: Natural Explanations – Pieces of History">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/04/redlands-2.jpg?resize=318%2C271&ssl=1' alt='UFOs: Natural Explanations – Pieces of History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pieces of History - National Archives" />
+                                </span>
+                                <a href='https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/04/redlands-2.jpg?resize=318%2C271&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the Government Concealing UFO Craft and Dead Extraterrestrials ...">
+                                <img itemprop="contentUrl url" src='https://www.bu.edu/files/2023/06/Government-Concealing-UFO-Craft-feat-1600x1200.jpg' alt='Is the Government Concealing UFO Craft and Dead Extraterrestrials ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston University" />
+                                </span>
+                                <a href='https://www.bu.edu/files/2023/06/Government-Concealing-UFO-Craft-feat-1600x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Enticing Mysteries of U.F.O. Photography | The New Yorker">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/64ca89f569af7f8649142d29/master/pass/Wiley-UFO-03.jpg' alt='The Enticing Mysteries of U.F.O. Photography | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/64ca89f569af7f8649142d29/master/pass/Wiley-UFO-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US UFOs report finds 'no evidence' of alien craft - ABC listen">
+                                <img itemprop="contentUrl url" src='https://live-production.wcms.abc-cdn.net.au/202c8b60433c14b542881d9769fc5b9b?impolicy=wcms_crop_resize&cropH=2601&cropW=2601&xPos=502&yPos=0&width=862&height=862' alt='US UFOs report finds 'no evidence' of alien craft - ABC listen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News" />
+                                </span>
+                                <a href='https://live-production.wcms.abc-cdn.net.au/202c8b60433c14b542881d9769fc5b9b?impolicy=wcms_crop_resize&cropH=2601&cropW=2601&xPos=502&yPos=0&width=862&height=862' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U-2s, UFOs, and Operation Blue Book">
+                                <img itemprop="contentUrl url" src='https://www.history.navy.mil/content/history/nhhc/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book/_jcr_content/body/media_asset/image.img.jpg/1706113578682.jpg' alt='U-2s, UFOs, and Operation Blue Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1234">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Naval History and Heritage Command - Navy.mil" />
+                                </span>
+                                <a href='https://www.history.navy.mil/content/history/nhhc/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book/_jcr_content/body/media_asset/image.img.jpg/1706113578682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enchanted Forests: Exploring Rivers and Nature</title>
+                    <meta name="description" content="Discover the magic of forests and rivers, where nature thrives in harmony. Explore lush landscapes, the soothing sounds of flowing water, and vibrant wildlife. Experience the tranquility and adventure these enchanting environments offer. Perfect for nature lovers and outdoor enthusiasts!">
+                    <meta name="keywords" content="forest with river">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/forest-with-river">
+                            <span itemprop="name">forest with river</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanted Forests: Exploring Rivers and Nature</h1>
+                <p>A serene forest intertwines with a winding river, creating a picturesque landscape alive with nature's beauty. Towering trees with lush green foliage provide a canopy of shade while the gentle sound of flowing water enhances the tranquility. This vibrant ecosystem is home to diverse wildlife, inviting exploration and fostering a deep connection with nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,516,241 Forest River Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/small-forest-river-7066959.jpg' alt='1,516,241 Forest River Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/small-forest-river-7066959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest With River Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/973/288/non_2x/breathtaking-forest-landscape-featuring-a-winding-river-and-lush-foliage-photo.jpg' alt='Forest With River Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/973/288/non_2x/breathtaking-forest-landscape-featuring-a-winding-river-and-lush-foliage-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135,960 Beautiful Forest River Small Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/728553016/display_1500/stock-photo-a-small-river-deep-in-the-forests-of-germany-728553016.jpg' alt='135,960 Beautiful Forest River Small Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/728553016/display_1500/stock-photo-a-small-river-deep-in-the-forests-of-germany-728553016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finnish Forest River">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/54022/finnish-forest-river.jpg?h=699&q=85' alt='Finnish Forest River'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/54022/finnish-forest-river.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110,600+ River Bank Forest Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/154931594/photo/nez-perce-creek-in-yellowstone-national-park-at-sunset.jpg?s=612x612&w=0&k=20&c=U6o_x_XXY5YWcowPpci3HlHDzimjm2jUwKMnZTnmpz4=' alt='110,600+ River Bank Forest Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/154931594/photo/nez-perce-creek-in-yellowstone-national-park-at-sunset.jpg?s=612x612&w=0&k=20&c=U6o_x_XXY5YWcowPpci3HlHDzimjm2jUwKMnZTnmpz4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mountain forest river Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R43X7P/mountain-forest-river-R43X7P.jpg' alt='mountain forest river Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R43X7P/mountain-forest-river-R43X7P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Forest River View Fast Mountain Stock Photo 2322100495 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/mountain-forest-river-view-fast-260nw-2322100495.jpg' alt='Mountain Forest River View Fast Mountain Stock Photo 2322100495 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/mountain-forest-river-view-fast-260nw-2322100495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest River Photos, Download The BEST Free Forest River Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/949194/pexels-photo-949194.jpeg?cs=srgb&dl=pexels-manuela-adler-344311-949194.jpg&fm=jpg' alt='Forest River Photos, Download The BEST Free Forest River Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4288">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/949194/pexels-photo-949194.jpeg?cs=srgb&dl=pexels-manuela-adler-344311-949194.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,516,241 Forest River Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mountain-river-forest-north-cascades-national-park-washington-usa-73004270.jpg' alt='1,516,241 Forest River Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mountain-river-forest-north-cascades-national-park-washington-usa-73004270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest river hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HE47X4/forest-river-in-spring-water-flows-among-the-mossy-rocks-refreshing-nature-background-beautiful-scenery-on-a-sunny-day-2HE47X4.jpg' alt='Forest river hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HE47X4/forest-river-in-spring-water-flows-among-the-mossy-rocks-refreshing-nature-background-beautiful-scenery-on-a-sunny-day-2HE47X4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

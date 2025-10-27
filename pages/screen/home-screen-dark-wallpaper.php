@@ -1,0 +1,129 @@
+<title>Stunning Dark Wallpapers for Your Home Screen</title>
+                    <meta name="description" content="Discover the perfect dark wallpaper for your home screen. Enhance your device's look while reducing eye strain. Choose from minimalist, abstract, and nature-inspired designs to reflect your style. Ideal for any mood, explore our curated collection to personalize your digital space effortlessly!">
+                    <meta name="keywords" content="home screen dark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/home-screen-dark-wallpaper">
+                            <span itemprop="name">home screen dark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Wallpapers for Your Home Screen</h1>
+                <p>Transform your device aesthetic with stunning dark wallpapers for your home screen. Dark wallpapers not only enhance visual appeal but also reduce eye strain, making them a perfect choice for late-night use. Explore a variety of designs—from minimalist patterns to breathtaking landscapes—that fit your style and mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Still with you aesthetic dark wallpaper for iphone lock screen and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' alt='Still with you aesthetic dark wallpaper for iphone lock screen and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400,000+ Best Black Wallpaper Photos · 100% Free Download · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5007442/pexels-photo-5007442.jpeg?cs=srgb&dl=pexels-brunoscramgnon-5007442.jpg&fm=jpg' alt='400,000+ Best Black Wallpaper Photos · 100% Free Download · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4005">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5007442/pexels-photo-5007442.jpeg?cs=srgb&dl=pexels-brunoscramgnon-5007442.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark home screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/931/318/HD-wallpaper-dark-home-screen-black-cool-coolest-druffix-simple-style.jpg' alt='Dark home screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/931/318/HD-wallpaper-dark-home-screen-black-cool-coolest-druffix-simple-style.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Home Screen and Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/dark-forest.png' alt='Dark Forest Home Screen and Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/dark-forest.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Dark core home screen ideas | dark aesthetic, black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a9/d5/9e/a9d59e3827c0bfcf6e69ee89277c3f64.jpg' alt='19 Dark core home screen ideas | dark aesthetic, black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a9/d5/9e/a9d59e3827c0bfcf6e69ee89277c3f64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Iphone Home Screen Dark Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-iphone-home-screen-dark-flowers-elmoutdthhl5illl.jpg' alt='Cool Iphone Home Screen Dark Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-iphone-home-screen-dark-flowers-elmoutdthhl5illl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark home screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://chensio.com/wallpaper/plant-dark/Wallpaper-mobile-growing-plant-dark-minimal-home-screen-designed-by-Carlos-Asencio-CHENSIO.jpg' alt='Dark home screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1418">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://chensio.com/wallpaper/plant-dark/Wallpaper-mobile-growing-plant-dark-minimal-home-screen-designed-by-Carlos-Asencio-CHENSIO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Ivy Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/home-screen/images/640/black-ivy-home-screen-wallpaper.png' alt='Black Ivy Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/home-screen/images/640/black-ivy-home-screen-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper screen is black | Android Central">
+                                <img itemprop="contentUrl url" src='https://androidcentral-data.community.forum/attachments/247/247762-b91c62946d09cc63f7cbea4b15ad2974.jpg?hash=uRxilG0JzG' alt='Wallpaper screen is black | Android Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Central Forums" />
+                                </span>
+                                <a href='https://androidcentral-data.community.forum/attachments/247/247762-b91c62946d09cc63f7cbea4b15ad2974.jpg?hash=uRxilG0JzG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung black, black, samsung, screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/167/364/HD-wallpaper-samsung-black-black-samsung-screen.jpg' alt='Samsung black, black, samsung, screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/167/364/HD-wallpaper-samsung-black-black-samsung-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

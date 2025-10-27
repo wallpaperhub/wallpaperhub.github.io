@@ -1,0 +1,129 @@
+<title>Dollhouse Peel and Stick Wallpaper: Easy Decor Ideas</title>
+                    <meta name="description" content="Discover the magic of dollhouse peel and stick wallpaper! Effortlessly refresh your miniature space with unique styles. Easy to apply, remove, and reposition, it’s perfect for creative decor enthusiasts looking to personalize their dollhouses. Transform your tiny world today!">
+                    <meta name="keywords" content="dollhouse peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/dollhouse-peel-and-stick-wallpaper">
+                            <span itemprop="name">dollhouse peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dollhouse Peel and Stick Wallpaper: Easy Decor Ideas</h1>
+                <p>Transform your dollhouse into a whimsical wonderland with peel and stick wallpaper! Easy to apply and remove, these vibrant designs come in various styles, from classic florals to modern geometrics. Perfect for personalizing each room, this hassle-free solution allows for quick updates and creative expression without the mess of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/charlotte-peel-and-stick-wallpaper-794636.jpg?v=1718815674' alt='Charlotte Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/charlotte-peel-and-stick-wallpaper-794636.jpg?v=1718815674' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Wallpaper, Art Deco Wallpaper, Gold and Black Antique ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34411330/r/il/b915ae/3974346416/il_570xN.3974346416_8adr.jpg' alt='Dollhouse Wallpaper, Art Deco Wallpaper, Gold and Black Antique ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34411330/r/il/b915ae/3974346416/il_570xN.3974346416_8adr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dollhouse Wallpaper Peel and Stick House Decor Collection Peel  & Stick Wallpaper Wall Decor Dollhouse Easy to Clean (W) 40" X(H) 31.5" :  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71bUFTm5RrL.jpg' alt='Amazon.com: Dollhouse Wallpaper Peel and Stick House Decor Collection Peel  & Stick Wallpaper Wall Decor Dollhouse Easy to Clean (W) 40" X(H) 31.5" :  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71bUFTm5RrL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/charlotte-peel-and-stick-wallpaper-782024.jpg?v=1718815674' alt='Charlotte Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/charlotte-peel-and-stick-wallpaper-782024.jpg?v=1718815674' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Dollhouse Wallpaper Peel and Stick Apartment Decor Self Adhesive  Contact Paper Wall Decor Home Decor Easy to Cut (W) 31.5" X(H) 24" - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gDNMom0-L.jpg' alt='YANFENQI Dollhouse Wallpaper Peel and Stick Apartment Decor Self Adhesive  Contact Paper Wall Decor Home Decor Easy to Cut (W) 31.5" X(H) 24" - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gDNMom0-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Universal Gabby's Dollhouse Sketch Characters Peel and Stick  Wallpaper RMK12780PLW">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4d8019fd-dc76-4ce2-91dc-e8794ef32b69/svn/roommates-wallpaper-rolls-rmk12780plw-31_600.jpg' alt='RoomMates Universal Gabby's Dollhouse Sketch Characters Peel and Stick  Wallpaper RMK12780PLW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4d8019fd-dc76-4ce2-91dc-e8794ef32b69/svn/roommates-wallpaper-rolls-rmk12780plw-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Wallpaper Peel and Stick Retro Vintage 60S 70S Kitchen Cabinet  Contact Paper Plaid Dollhouse DIY-Friendly (W) 98.4" X(H) 91"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7151b3Nyo1L._AC_UF894,1000_QL80_.jpg' alt='Dollhouse Wallpaper Peel and Stick Retro Vintage 60S 70S Kitchen Cabinet  Contact Paper Plaid Dollhouse DIY-Friendly (W) 98.4" X(H) 91"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7151b3Nyo1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Dollhouse Wallpaper Peel and Stick Starfish Shiplap ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71+4RIT9h3L._AC_UF894,1000_QL80_.jpg' alt='YANFENQI Dollhouse Wallpaper Peel and Stick Starfish Shiplap ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71+4RIT9h3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Wallpaper, Retro Wallpaper, Mid Century Dollhouse ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34411330/r/il/45f51c/4012095315/il_fullxfull.4012095315_l4kn.jpg' alt='Dollhouse Wallpaper, Retro Wallpaper, Mid Century Dollhouse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34411330/r/il/45f51c/4012095315/il_fullxfull.4012095315_l4kn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gabby's Dollhouse Sketch Characters Peel and Stick Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/5acd87df589ba3a8a72f7d4664af3d67b2e1cd54/Gabby%27s-Dollhouse-Sketch-Characters-Peel-and-Stick-Wallpaper.jpg?impolicy=medium' alt='Gabby's Dollhouse Sketch Characters Peel and Stick Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/5acd87df589ba3a8a72f7d4664af3d67b2e1cd54/Gabby%27s-Dollhouse-Sketch-Characters-Peel-and-Stick-Wallpaper.jpg?impolicy=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

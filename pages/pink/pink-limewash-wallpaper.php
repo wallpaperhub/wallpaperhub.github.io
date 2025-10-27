@@ -1,0 +1,129 @@
+<title>Cozy Up Your Home with Pink Limewash Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance with pink limewash wallpaper. Ideal for creating a stylish ambiance, its breathable material ensures a comfortable environment. Perfect for any room, this wallpaper offers a unique blend of modern design and classic charm, making your space feel warm and inviting.">
+                    <meta name="keywords" content="pink limewash wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-limewash-wallpaper">
+                            <span itemprop="name">pink limewash wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Up Your Home with Pink Limewash Wallpaper</h1>
+                <p>Transform your space with pink limewash wallpaper, a trendy and versatile choice that adds a soft, textured look to any room. Its natural, breathable properties create a serene atmosphere, promoting relaxation. Perfect for accent walls or entire rooms, this wallpaper brings warmth and style, making your home truly unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Limewash Wallpaper, Paint Textured Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-600367.png?v=1730574453' alt='Pink Limewash Wallpaper, Paint Textured Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-600367.png?v=1730574453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Watercolor Limewash Wallpaper, Pink Accent Wall, Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/fc63be/5105052186/il_fullxfull.5105052186_6l1o.jpg' alt='Pink Watercolor Limewash Wallpaper, Pink Accent Wall, Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/fc63be/5105052186/il_fullxfull.5105052186_6l1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earthy Pink Limewash Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-199205.png?v=1730574453' alt='Earthy Pink Limewash Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-199205.png?v=1730574453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Limewash Wallpaper Mural - Blush">
+                                <img itemprop="contentUrl url" src='https://ayarahome.com/cdn/shop/files/PlasterMural-Blush-MockupZoom_1500x.jpg?v=1707758930' alt='Limewash Wallpaper Mural - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='https://ayarahome.com/cdn/shop/files/PlasterMural-Blush-MockupZoom_1500x.jpg?v=1707758930' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Clay Pink Textured Limewash Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/files/1-clay-limewash_1500x1500-300k_900x.jpg?v=1717594575' alt='Modern Clay Pink Textured Limewash Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/files/1-clay-limewash_1500x1500-300k_900x.jpg?v=1717594575' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earthy Pink Limewash Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-907790.png?v=1730574453' alt='Earthy Pink Limewash Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/earthy-pink-limewash-wallpaper-907790.png?v=1730574453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Lime Wash Wallpaper - Blush Pink – Timberlea Interiors">
+                                <img itemprop="contentUrl url" src='https://timberleaco.com/cdn/shop/products/959-sunkissed-08-50inch-blush.60.60.jpg?v=1718655650' alt='Kids Lime Wash Wallpaper - Blush Pink – Timberlea Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timberlea Interiors" />
+                                </span>
+                                <a href='https://timberleaco.com/cdn/shop/products/959-sunkissed-08-50inch-blush.60.60.jpg?v=1718655650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Limewash Paint Wallpaper for Walls Peel and Stick Dining Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/ebe4e3/6143599197/il_570xN.6143599197_bwu5.jpg' alt='Pink Limewash Paint Wallpaper for Walls Peel and Stick Dining Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/ebe4e3/6143599197/il_570xN.6143599197_bwu5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Mr. Kate Daphne Limewash Pink Peel and Stick Wallpaper RMK12766PLW">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f9911c86-c61e-4641-a4c4-95abdc512f09/svn/roommates-wallpaper-rolls-rmk12766plw-44_600.jpg' alt='RoomMates Mr. Kate Daphne Limewash Pink Peel and Stick Wallpaper RMK12766PLW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f9911c86-c61e-4641-a4c4-95abdc512f09/svn/roommates-wallpaper-rolls-rmk12766plw-44_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orchidea - Pink Limewash Wall Paint">
+                                <img itemprop="contentUrl url" src='https://jamesalexanderlimewash.com/cdn/shop/products/OrchideaLimewashRoom-901467.png?v=1713381999&width=600' alt='Orchidea - Pink Limewash Wall Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James Alexander Paints" />
+                                </span>
+                                <a href='https://jamesalexanderlimewash.com/cdn/shop/products/OrchideaLimewashRoom-901467.png?v=1713381999&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

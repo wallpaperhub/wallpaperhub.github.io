@@ -1,0 +1,129 @@
+<title>Haunting iPhone Wallpapers: Perfect for a Spooky Aesthetic</title>
+                    <meta name="description" content="Discover the perfect spooky aesthetic iPhone wallpapers to elevate your mobile device. Dive into ghostly themes, eerie colors, and haunting imagery that set the mood for Halloween or any day you want to embrace the darker side of aesthetics. Update your screen with a chill!">
+                    <meta name="keywords" content="spooky aesthetic iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/spooky-aesthetic-iphone-wallpaper">
+                            <span itemprop="name">spooky aesthetic iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Haunting iPhone Wallpapers: Perfect for a Spooky Aesthetic</h1>
+                <p>Transform your iPhone with spooky aesthetic wallpapers that evoke a haunting vibe. Explore ghostly landscapes, eerie creatures, and chilling hues to create an ambiance perfect for the fall season or Halloween. Whether you prefer minimalist designs or intricate art, there’s a wallpaper to match your moody vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VINTAGE HALLOWEEN IPHONE WALLPAPER  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/78/e3/a678e336451a92ee9cb83db64a1f6316.jpg' alt='VINTAGE HALLOWEEN IPHONE WALLPAPER  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/78/e3/a678e336451a92ee9cb83db64a1f6316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' alt='Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Wallpapers | Download High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMS5qcGc.jpg' alt='Halloween iPhone Wallpapers | Download High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cute Halloween Wallpaper Ideas For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/17/16/a3171613d41d2f996ed51fd9ffc5b1fa.jpg' alt='30+ Cute Halloween Wallpaper Ideas For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/17/16/a3171613d41d2f996ed51fd9ffc5b1fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper, Halloween iPhone Wallpaper, Aesthetic Wallpaper, Halloween  - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37645652/r/il/ab2c6c/4272014046/il_1080xN.4272014046_8egd.jpg' alt='Phone Wallpaper, Halloween iPhone Wallpaper, Aesthetic Wallpaper, Halloween  - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37645652/r/il/ab2c6c/4272014046/il_1080xN.4272014046_8egd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Wallpapers | Download High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtbWFucHJpeWEtMDAzLWw5ZXh2MmkxLmpwZw.jpg' alt='Halloween iPhone Wallpapers | Download High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtbWFucHJpeWEtMDAzLWw5ZXh2MmkxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' alt='Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' alt='Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Halloween :o ideas | halloween wallpaper iphone backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/05/77/ee/0577ee2d2b1b52071d9dca9e45efad58.jpg' alt='25 Halloween :o ideas | halloween wallpaper iphone backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/05/77/ee/0577ee2d2b1b52071d9dca9e45efad58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Dark Roses: Elegance in Every Petal</title>
+                    <meta name="description" content="Explore breathtaking dark rose images that capture their mysterious beauty and elegance. Perfect for artistic inspiration or to express complex emotions, these stunning visuals bring a touch of romance and intrigue to your collection. Discover the allure of dark roses today!">
+                    <meta name="keywords" content="dark roses image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-roses-image">
+                            <span itemprop="name">dark roses image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Roses: Elegance in Every Petal</h1>
+                <p>Dark roses evoke a sense of mystery and elegance, captivating the eye with their deep hues and velvety petals. Often associated with romance and intrigue, these flowers can convey complex emotions. Perfect for artistic photography or to symbolize deeper sentiments, a dark rose image can truly be a striking addition to any collection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody Nature  Photography, Instant Download, Desktop and Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_1080xN.5906782601_o7h4.jpg' alt='Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody Nature  Photography, Instant Download, Desktop and Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_1080xN.5906782601_o7h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Deep and Moody Roses For a Dramatic Garden">
+                                <img itemprop="contentUrl url" src='https://www.epicgardening.com/wp-content/uploads/2023/09/Dark-and-Moody-Rose-Blooming-in-Garden.jpg' alt='17 Deep and Moody Roses For a Dramatic Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Epic Gardening" />
+                                </span>
+                                <a href='https://www.epicgardening.com/wp-content/uploads/2023/09/Dark-and-Moody-Rose-Blooming-in-Garden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Roses: Mysterious and Dramatic Garden Roses">
+                                <img itemprop="contentUrl url" src='https://www.gardenia.net/wp-content/uploads/2024/12/shutterstock_2522072857.jpg' alt='Black Roses: Mysterious and Dramatic Garden Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardenia.net" />
+                                </span>
+                                <a href='https://www.gardenia.net/wp-content/uploads/2024/12/shutterstock_2522072857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses Background Images – Browse 460,130 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/00/64/21/360_F_100642129_C8uIFzo2B4ppTzsYxf0uGwmpNPI760T8.jpg' alt='Dark Roses Background Images – Browse 460,130 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/00/64/21/360_F_100642129_C8uIFzo2B4ppTzsYxf0uGwmpNPI760T8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Roses - Facts and Trivia From Yesterday and Today – Amarante ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2179/6113/files/Black_Roses_1024x1024.webp' alt='Black Roses - Facts and Trivia From Yesterday and Today – Amarante ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amarante London" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2179/6113/files/Black_Roses_1024x1024.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Romance Black Roses">
+                                <img itemprop="contentUrl url" src='https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191735_alt1x.jpg?height=755&width=690?auto=webp' alt='Midnight Romance Black Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1800 Flowers" />
+                                </span>
+                                <a href='https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191735_alt1x.jpg?height=755&width=690?auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/57883/dark-roses.jpg?h=699&q=85' alt='Dark Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/57883/dark-roses.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ae/64/0b/ae640b581c68617a7c7a5bf2038aaa28.jpg' alt='Red Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ae/64/0b/ae640b581c68617a7c7a5bf2038aaa28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Rose Symbolism: Meaning & Origin | Venus et Fleur">
+                                <img itemprop="contentUrl url" src='https://cld.accentuate.io/387559653420/1689630698638/blackrosesblog-mobile.jpg?v=1689630698639&options=w_750' alt='Black Rose Symbolism: Meaning & Origin | Venus et Fleur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venus et Fleur" />
+                                </span>
+                                <a href='https://cld.accentuate.io/387559653420/1689630698638/blackrosesblog-mobile.jpg?v=1689630698639&options=w_750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Dark Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1499381582676-649f710ba3f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMHJvc2V8ZW58MHx8MHx8fDA%3D' alt='550+ Dark Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1499381582676-649f710ba3f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMHJvc2V8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

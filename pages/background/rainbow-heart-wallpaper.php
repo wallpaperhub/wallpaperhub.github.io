@@ -1,0 +1,129 @@
+<title>Vibrant Rainbow Heart Wallpaper for Your Device</title>
+                    <meta name="description" content="Explore our collection of rainbow heart wallpaper, perfect for adding a burst of color and love to your device. Discover vibrant designs that uplift your mood and showcase your unique style. Download now for a cheerful digital backdrop that inspires positivity every day!">
+                    <meta name="keywords" content="rainbow heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-heart-wallpaper">
+                            <span itemprop="name">rainbow heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Rainbow Heart Wallpaper for Your Device</h1>
+                <p>Brighten up your device with stunning rainbow heart wallpaper! This vibrant design combines playful colors and heart motifs, adding a touch of joy and positivity to your screens. Perfect for those who celebrate love, creativity, and individuality. Download your favorite style today and make your digital space reflect your colorful personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rainbow heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/9f/ef/d39fefc8fc7070b6a95374402b8d0393.jpg' alt='rainbow heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/9f/ef/d39fefc8fc7070b6a95374402b8d0393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Hearts Digital Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.theboldabode.com/wp-content/uploads/2019/03/rainbow-hearts-wallpapers-iphone.jpg' alt='Rainbow Hearts Digital Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bold Abode" />
+                                </span>
+                                <a href='https://www.theboldabode.com/wp-content/uploads/2019/03/rainbow-hearts-wallpapers-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rainbow-heart-8m1l24jc2vom8oa5.jpg' alt='100+] Rainbow Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rainbow-heart-8m1l24jc2vom8oa5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="high quality rainbow heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/24/8f/65248f2eebdb0d9881a9e631d2e02933.jpg' alt='high quality rainbow heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/24/8f/65248f2eebdb0d9881a9e631d2e02933.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow hearts, heart, kalp, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/810/50/HD-wallpaper-rainbow-hearts-heart-kalp.jpg' alt='Rainbow hearts, heart, kalp, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/810/50/HD-wallpaper-rainbow-hearts-heart-kalp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow heart background. stock vector. Illustration of rainbow ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rainbow-heart-background-21529651.jpg' alt='Rainbow heart background. stock vector. Illustration of rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rainbow-heart-background-21529651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow layered hearts aesthetic wallpaper  ❤️‍    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/f7/dc/26f7dc622c8e54ea5eeac558e795595f.jpg' alt='Pastel Rainbow layered hearts aesthetic wallpaper  ❤️‍    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/f7/dc/26f7dc622c8e54ea5eeac558e795595f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Hearts Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150429870.jpg' alt='Pastel Rainbow Hearts Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150429870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Heart - Other & Abstract Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1306/1306019-bigthumbnail.jpg' alt='Rainbow Heart - Other & Abstract Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1306/1306019-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Hearts, color, colorful, colors, heart, corazones, love ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/587/776/HD-wallpaper-rainbow-hearts-color-colorful-colors-heart-hearts-love-pride-rainbow.jpg' alt='Rainbow Hearts, color, colorful, colors, heart, corazones, love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/587/776/HD-wallpaper-rainbow-hearts-color-colorful-colors-heart-hearts-love-pride-rainbow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

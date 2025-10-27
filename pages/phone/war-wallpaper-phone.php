@@ -1,0 +1,129 @@
+<title>Epic War Wallpapers for Your Phone: Battle Ready Designs</title>
+                    <meta name="description" content="Discover a stunning collection of war-themed phone wallpapers. From epic battles to iconic military imagery, find the perfect design to reflect your passion for history and strategy. Optimize your device's look with these captivating visuals, tailored for enthusiasts and inspired by courage and valor.">
+                    <meta name="keywords" content="war wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/war-wallpaper-phone">
+                            <span itemprop="name">war wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic War Wallpapers for Your Phone: Battle Ready Designs</h1>
+                <p>War-themed phone wallpapers are a powerful way to showcase your personality and interests. From intense battlefield scenes to iconic military symbols, these wallpapers can ignite passion and evoke a sense of patriotism. Choose the perfect wallpaper to match your style and express your love for history or military strategy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media - War Thunder Mobile - Online Military Action Game - Play ...">
+                                <img itemprop="contentUrl url" src='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_12_frozenfront/1080x1920_wtm_frozen_front_ef16e8e9af3436ccdf9e28914757f955.jpg' alt='Media - War Thunder Mobile - Online Military Action Game - Play ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="War Thunder Mobile" />
+                                </span>
+                                <a href='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_12_frozenfront/1080x1920_wtm_frozen_front_ef16e8e9af3436ccdf9e28914757f955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="War Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5300973.jpg' alt='War Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5300973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soldier War Enlisted Video Game 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/2e/8d/932e8d2d1dac2c7867a3e6e11136ccfe.jpg' alt='Soldier War Enlisted Video Game 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/2e/8d/932e8d2d1dac2c7867a3e6e11136ccfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media - War Thunder Mobile - Online Military Action Game - Play ...">
+                                <img itemprop="contentUrl url" src='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_10_steepdive/1080x1920_wtm_steep_dive_b533fbc34c0549e9218d831ce19e395d.jpg' alt='Media - War Thunder Mobile - Online Military Action Game - Play ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="War Thunder Mobile" />
+                                </span>
+                                <a href='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_10_steepdive/1080x1920_wtm_steep_dive_b533fbc34c0549e9218d831ce19e395d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of War Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/d/b/114701-1354x2560-samsung-hd-god-of-war-background.jpg' alt='God of War Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1354">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/d/b/114701-1354x2560-samsung-hd-god-of-war-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media - War Thunder Mobile - Online Military Action Game - Play ...">
+                                <img itemprop="contentUrl url" src='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_11_blackfriday/1080x1920_wtm_event_bf_24_8385d18334f9b54d631f0fcc66e33770.jpg' alt='Media - War Thunder Mobile - Online Military Action Game - Play ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="War Thunder Mobile" />
+                                </span>
+                                <a href='https://static.wtmobile.com/upload/fileman/images/wallpapers/24_11_blackfriday/1080x1920_wtm_event_bf_24_8385d18334f9b54d631f0fcc66e33770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captures turned into phone wallpapers : r/GodofWar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/captures-turned-into-phone-wallpapers-v0-mmjjb12i3v5a1.jpg?width=1080&crop=smart&auto=webp&s=d5eedc6b3b30c98c50c4b7dae5aa9be620753590' alt='Captures turned into phone wallpapers : r/GodofWar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/captures-turned-into-phone-wallpapers-v0-mmjjb12i3v5a1.jpg?width=1080&crop=smart&auto=webp&s=d5eedc6b3b30c98c50c4b7dae5aa9be620753590' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of War Ragnarok phone wallpaper I made. : r/GodofWar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/god-of-war-ragnarok-phone-wallpaper-i-made-v0-6b8nz7dxo2191.jpg?width=640&crop=smart&auto=webp&s=2437386639b223c06d6f30c785d963b6dba7019d' alt='God of War Ragnarok phone wallpaper I made. : r/GodofWar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/god-of-war-ragnarok-phone-wallpaper-i-made-v0-6b8nz7dxo2191.jpg?width=640&crop=smart&auto=webp&s=2437386639b223c06d6f30c785d963b6dba7019d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/4a/52/3e4a52f6673b5b37b252f52a90acf4bf.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/4a/52/3e4a52f6673b5b37b252f52a90acf4bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Marines, World War II, soldier, guerra, artwork, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/483/651/HD-wallpaper-us-marines-world-war-ii-soldier-war-artwork.jpg' alt='US Marines, World War II, soldier, guerra, artwork, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/483/651/HD-wallpaper-us-marines-world-war-ii-soldier-war-artwork.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

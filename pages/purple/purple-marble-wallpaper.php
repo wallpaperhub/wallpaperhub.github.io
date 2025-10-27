@@ -1,0 +1,129 @@
+<title>Vibrant Purple Marble Wallpaper: Elevate Your Interior Design</title>
+                    <meta name="description" content="Add a touch of luxe to your home with our purple marble wallpaper. Ideal for any room, it showcases elegance and beauty while being easy to apply. Perfect for feature walls or complete makeovers—achieve a stunning design effortlessly! Shop now for wallpapers that transform your space!">
+                    <meta name="keywords" content="purple marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-marble-wallpaper">
+                            <span itemprop="name">purple marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Marble Wallpaper: Elevate Your Interior Design</h1>
+                <p>Transform your space with stunning purple marble wallpaper, perfect for adding elegance and sophistication to any room. Whether you choose a subtle texture or bold design, this wallpaper creates a luxurious ambiance. Easy to apply and maintain, it's ideal for accent walls or entire rooms, making your decor truly unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/29df4b/2954424259/il_fullxfull.2954424259_2x2b.jpg' alt='Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1388">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/29df4b/2954424259/il_fullxfull.2954424259_2x2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Effects Background With Purple Color Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/d2/ba/35d2ba592f73aefa28743b96091edbde.jpg' alt='Marble Effects Background With Purple Color Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/d2/ba/35d2ba592f73aefa28743b96091edbde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' alt='Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple marble 2025 background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25235420/r/il/bcb6af/2901201953/il_fullxfull.2901201953_bqpq.jpg' alt='Purple marble 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25235420/r/il/bcb6af/2901201953/il_fullxfull.2901201953_bqpq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' alt='5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A beautiful purple marble background. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' alt='Download A beautiful purple marble background. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Gold Vein Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_0038787d-6343-4c32-b516-beac7cb70b55.jpg?v=1665558800' alt='Purple Marble Gold Vein Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_0038787d-6343-4c32-b516-beac7cb70b55.jpg?v=1665558800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365189625/vector/violet-lavender-liquid-watercolor-marble-background-with-golden-lines-pastel-purple.jpg?s=612x612&w=0&k=20&c=9Y3YeYzXBTgdBSBT5xL7SowkJbCmRoxQdlKn7RAxD9U=' alt='5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365189625/vector/violet-lavender-liquid-watercolor-marble-background-with-golden-lines-pastel-purple.jpg?s=612x612&w=0&k=20&c=9Y3YeYzXBTgdBSBT5xL7SowkJbCmRoxQdlKn7RAxD9U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper Removable Peel-n-stick Abstract Fluid Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/14613d/3514559762/il_fullxfull.3514559762_t1m5.jpg' alt='Purple Marble Wallpaper Removable Peel-n-stick Abstract Fluid Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2593">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/14613d/3514559762/il_fullxfull.3514559762_t1m5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alcohol Ink Purple Marble Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/22123/alcohol_ink_purple_marble_limited.jpg' alt='Alcohol Ink Purple Marble Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/22123/alcohol_ink_purple_marble_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

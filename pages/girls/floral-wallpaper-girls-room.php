@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="floral wallpaper girls room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/floral-wallpaper-girls-room">
+                            <span itemprop="name">floral wallpaper girls room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Blooms Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' alt='Terracotta Blooms Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Pink Peony murals Girls Bedroom Botanical Rose Flowers  Leaf Aesthetic Room Decor Home Living Room tv Background Large Wall Mural -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Pink Peony murals Girls Bedroom Botanical Rose Flowers  Leaf Aesthetic Room Decor Home Living Room tv Background Large Wall Mural -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Corn Poppy Flowers Floral Nursery Wallpaper, Herbs and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20679300/r/il/d46d00/4647131555/il_570xN.4647131555_nq4u.jpg' alt='Pink Corn Poppy Flowers Floral Nursery Wallpaper, Herbs and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20679300/r/il/d46d00/4647131555/il_570xN.4647131555_nq4u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Garden Boho Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 384">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4209159891_dgi5.jpg' alt='Pink Floral Garden Boho Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 384'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2766">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4209159891_dgi5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper for Nursery and Kids Rooms - Vintage Blossom Symphony">
+                                <img itemprop="contentUrl url" src='http://teepeejoy.com/cdn/shop/files/4_84152c7b-10a3-4217-a322-5af7758ec56d.jpg?v=1705965758' alt='Flower Wallpaper for Nursery and Kids Rooms - Vintage Blossom Symphony'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teepee Joy" />
+                                </span>
+                                <a href='http://teepeejoy.com/cdn/shop/files/4_84152c7b-10a3-4217-a322-5af7758ec56d.jpg?v=1705965758' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Girl Bedroom Wallpaper Unique Design Blossom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/b5e25c/3423457979/il_570xN.3423457979_dty5.jpg' alt='Floral Wallpaper Girl Bedroom Wallpaper Unique Design Blossom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/b5e25c/3423457979/il_570xN.3423457979_dty5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE FLORAL WALLPAPER TREND IN GIRLS' ROOMS - Kids Interiors">
+                                <img itemprop="contentUrl url" src='https://www.kidsinteriors.com/wp-content/uploads/2022/02/@vintagedotbydotagata-wallpaper-is-boras-tapeter.jpg' alt='THE FLORAL WALLPAPER TREND IN GIRLS' ROOMS - Kids Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids Interiors" />
+                                </span>
+                                <a href='https://www.kidsinteriors.com/wp-content/uploads/2022/02/@vintagedotbydotagata-wallpaper-is-boras-tapeter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Gardenia Wallpaper in Sage Green and Pink on White">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/2-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Roomset_WEB.webp?v=1706014431' alt='Gorgeous Gardenia Wallpaper in Sage Green and Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/2-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Roomset_WEB.webp?v=1706014431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursery Pastel Peony Watercolor Floral For Girls Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000077_moc3.jpg' alt='Nursery Pastel Peony Watercolor Floral For Girls Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000077_moc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pink Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 555a">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/tinywow_555_17033807.jpg?v=1679318893&width=2048' alt='Vintage Pink Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 555a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/tinywow_555_17033807.jpg?v=1679318893&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

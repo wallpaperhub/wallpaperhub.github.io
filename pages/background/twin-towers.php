@@ -1,0 +1,129 @@
+<title>Twin Towers: A Symbol of Resilience</title>
+                    <meta name="description" content="Discover the history and legacy of the Twin Towers, once an architectural wonder in NYC. Learn how they transformed the cityscape and how their memory continues to inspire resilience and unity after the September 11 attacks.">
+                    <meta name="keywords" content="twin towers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/twin-towers">
+                            <span itemprop="name">twin towers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Twin Towers: A Symbol of Resilience</h1>
+                <p>The Twin Towers, iconic symbols of New York City, stood as architectural marvels in Lower Manhattan. Completed in 1976, they were among the tallest buildings in the world. Tragically, they were destroyed in the September 11 attacks in 2001. Their legacy lives on through memorials and new construction, symbolizing resilience and hope.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Trade Center (1973–2001) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%28modified_version_with_desaturated_towers%29.jpg/1200px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%28modified_version_with_desaturated_towers%29.jpg' alt='World Trade Center (1973–2001) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%28modified_version_with_desaturated_towers%29.jpg/1200px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%28modified_version_with_desaturated_towers%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Trade Center | History, Height, Memorial, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/152315-050-226AA671/twin-towers-skyline-Lower-Manhattan-World-Trade-center.jpg' alt='World Trade Center | History, Height, Memorial, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/152315-050-226AA671/twin-towers-skyline-Lower-Manhattan-World-Trade-center.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September 11 attacks: What happened on 9/11?">
+                                <img itemprop="contentUrl url" src='http://c.files.bbci.co.uk/76DD/production/_133692403_twintowers.jpg' alt='September 11 attacks: What happened on 9/11?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='http://c.files.bbci.co.uk/76DD/production/_133692403_twintowers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Twin Towers Design and Architecture - Bloomberg">
+                                <img itemprop="contentUrl url" src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilqUNvPJEk5Q/v1/-1x-1.webp' alt='The History of the Twin Towers Design and Architecture - Bloomberg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg News" />
+                                </span>
+                                <a href='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilqUNvPJEk5Q/v1/-1x-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Twin Towers Completed: 50 Years Since the Dedication of the ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57cf18ae6b8f5ba693497e1a/c52abc5b-b377-4557-b001-b5808891cfdf/Watchf_AP_A_NY_USA_APHS461259_Twin_Towers_210834169685.jpg' alt='The Twin Towers Completed: 50 Years Since the Dedication of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP Images" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57cf18ae6b8f5ba693497e1a/c52abc5b-b377-4557-b001-b5808891cfdf/Watchf_AP_A_NY_USA_APHS461259_Twin_Towers_210834169685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ground Zero - Then and Now | VOA Special Projects">
+                                <img itemprop="contentUrl url" src='https://projects.voanews.com/ground-zero/images/800x-master-pnp-ppmsca-71300-71335u.jpg' alt='Ground Zero - Then and Now | VOA Special Projects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VOA Special Reports" />
+                                </span>
+                                <a href='https://projects.voanews.com/ground-zero/images/800x-master-pnp-ppmsca-71300-71335u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Different ideas to rebuild the Twin Towers after 9/11">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DQJVZjvTGoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD-0iC9wc0uHVeR6NFI0oe5XQkMg' alt='Different ideas to rebuild the Twin Towers after 9/11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DQJVZjvTGoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD-0iC9wc0uHVeR6NFI0oe5XQkMg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Twin Towers">
+                                <img itemprop="contentUrl url" src='https://gdb.rferl.org/466da44a-332f-49cb-994f-247cf47fb7a3_w1200_r1.jpg' alt='My Twin Towers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RFE/RL" />
+                                </span>
+                                <a href='https://gdb.rferl.org/466da44a-332f-49cb-994f-247cf47fb7a3_w1200_r1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering 9/11: Airman reflects on childhood memories of Twin ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2015/Sep/11/2001289430/2000/2000/0/061109-F-9471G-101.JPG' alt='Remembering 9/11: Airman reflects on childhood memories of Twin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AF.mil" />
+                                </span>
+                                <a href='https://media.defense.gov/2015/Sep/11/2001289430/2000/2000/0/061109-F-9471G-101.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Trade Center (1973–2001) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_World_Trade_Center_in_New_York_City%2C_July_28%2C_2000.jpg/220px-The_World_Trade_Center_in_New_York_City%2C_July_28%2C_2000.jpg' alt='World Trade Center (1973–2001) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_World_Trade_Center_in_New_York_City%2C_July_28%2C_2000.jpg/220px-The_World_Trade_Center_in_New_York_City%2C_July_28%2C_2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

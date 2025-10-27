@@ -1,0 +1,129 @@
+<title>Stunning iPhone SE Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore a collection of beautiful iPhone SE wallpapers that reflect your unique style. Choose from nature, art, and more to customize your device effortlessly. Download now for high-quality images tailored for your screen!">
+                    <meta name="keywords" content="iphone se wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-se-wallpaper">
+                            <span itemprop="name">iphone se wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone SE Wallpapers for Every Style</h1>
+                <p>Discover stunning iPhone SE wallpapers to personalize your device! From nature scenes to abstract art, our collection offers a variety of styles to match your mood. Elevate your screen's aesthetics with high-resolution images that fit perfectly on your iPhone SE. Explore now and make your phone truly yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE (2020) Official Stock Wallpaper for Product (RED ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/04/ispazio-wallpapers-central.png' alt='iPhone SE (2020) Official Stock Wallpaper for Product (RED ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1791">
+                                <meta itemprop="height" content="3187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/04/ispazio-wallpapers-central.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new iPhone SE wallpapers… the rest are in the comments. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/euwvkt5cp8m81.jpg' alt='The new iPhone SE wallpapers… the rest are in the comments. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/euwvkt5cp8m81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive iPhone SE (2020) White - Official Stock Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/04/iphone-SE-2020-white-wallpapers-central.png' alt='Exclusive iPhone SE (2020) White - Official Stock Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="3186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/04/iphone-SE-2020-white-wallpapers-central.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete recreation of the iPhone SE 4 leak render wallpaper. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/complete-recreation-of-the-iphone-se-4-leak-render-wallpaper-v0-4fgcwjtgkfsc1.jpg?width=2160&format=pjpg&auto=webp&s=beef0f43509c1fad82e18098753da76e78877307' alt='Complete recreation of the iPhone SE 4 leak render wallpaper. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/complete-recreation-of-the-iphone-se-4-leak-render-wallpaper-v0-4fgcwjtgkfsc1.jpg?width=2160&format=pjpg&auto=webp&s=beef0f43509c1fad82e18098753da76e78877307' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone se wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/04/iPhone-SE-2020-wallpaper-AR72014-iDownloadBlog-Silk-Silver-iPad.png' alt='Iphone se wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2688">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/04/iPhone-SE-2020-wallpaper-AR72014-iDownloadBlog-Silk-Silver-iPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone se wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/524/594/HD-wallpaper-iphone-se-2020-apple-iphone-se-thumbnail.jpg' alt='HD iphone se wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/524/594/HD-wallpaper-iphone-se-2020-apple-iphone-se-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE (3rd Gen) Stock Wallpaper - Spectrum White - Light ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/fd/f1/7efdf1dd59299e39fdaa52238b665c77.jpg' alt='iPhone SE (3rd Gen) Stock Wallpaper - Spectrum White - Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/fd/f1/7efdf1dd59299e39fdaa52238b665c77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peach-colored Flower Iphone Se Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/peach-colored-flower-iphone-se-61sw67wzgte1b4k9.jpg' alt='Peach-colored Flower Iphone Se Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/peach-colored-flower-iphone-se-61sw67wzgte1b4k9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE (3rd Gen) Stock Wallpaper - Spectrum Black - Light ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/ispazio-20-1280x2770.jpg' alt='iPhone SE (3rd Gen) Stock Wallpaper - Spectrum Black - Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/ispazio-20-1280x2770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone se 2020 stock wallpaper Silk Space Grey Mono Dark iPhone 11 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/08/b0/4108b0ca36a8b34ea0a9afe546dd6a9c.jpg' alt='iphone se 2020 stock wallpaper Silk Space Grey Mono Dark iPhone 11 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/08/b0/4108b0ca36a8b34ea0a9afe546dd6a9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

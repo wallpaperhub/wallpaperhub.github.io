@@ -1,0 +1,129 @@
+<title>Cute Cockatiel Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a delightful selection of cute cockatiel wallpapers that will brighten your screens. Perfect for bird lovers, these charming designs add a playful touch to your devices. Explore our collection and find the perfect backdrop to showcase your love for these adorable birds!">
+                    <meta name="keywords" content="cute cockatiel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-cockatiel-wallpaper">
+                            <span itemprop="name">cute cockatiel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Cockatiel Wallpapers for Your Device</h1>
+                <p>Brighten up your device with adorable cockatiel wallpaper! These charming birds, known for their playful personalities and stunning plumage, make for delightful backgrounds. Whether you're a bird lover or just appreciate cute animals, our collection of cockatiel wallpapers will add joy and warmth to your screen. Perfect for any age!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cockatiel Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14226841/p/f/m/KcAgUcDnS6wbzeqA3tcdP-rNgKs5_Hraci9BenZUh6lRudvWYhZOg7H8TQ/Cockatiels%20Galore.jpg' alt='Cute Cockatiel Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14226841/p/f/m/KcAgUcDnS6wbzeqA3tcdP-rNgKs5_Hraci9BenZUh6lRudvWYhZOg7H8TQ/Cockatiels%20Galore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Cockatiel Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517101724602-c257fe568157?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29ja2F0aWVsfGVufDB8fDB8fHww' alt='1000+ Cockatiel Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517101724602-c257fe568157?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29ja2F0aWVsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cockatiels Images – Browse 34,631 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/28/50/32/360_F_728503286_tlFKXRJ1x6YynZ1uFc351s3XJG6EvfR5.jpg' alt='Cockatiels Images – Browse 34,631 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/28/50/32/360_F_728503286_tlFKXRJ1x6YynZ1uFc351s3XJG6EvfR5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper of a cockatiel if anyone wants it : r/cockatiel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xi43yueghd971.jpg' alt='I made a wallpaper of a cockatiel if anyone wants it : r/cockatiel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xi43yueghd971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cockatiel Photos, Download The BEST Free Cockatiel Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/7154562/pexels-photo-7154562.jpeg?cs=srgb&dl=pexels-jiri-mikolas-7154562.jpg&fm=jpg' alt='Cockatiel Photos, Download The BEST Free Cockatiel Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="4226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/7154562/pexels-photo-7154562.jpeg?cs=srgb&dl=pexels-jiri-mikolas-7154562.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,923 Cockatiel Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2421655589/display_1500/stock-photo-cockatiel-parrots-funny-parrots-cockatiel-pets-bird-with-a-crest-cute-animal-funny-bird-cockatiel-2421655589.jpg' alt='13,923 Cockatiel Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2421655589/display_1500/stock-photo-cockatiel-parrots-funny-parrots-cockatiel-pets-bird-with-a-crest-cute-animal-funny-bird-cockatiel-2421655589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,192 Cockatiel Yellow Bird Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/beautiful-photo-bird-ornithologyfunny-parrotcockatiel-600nw-2304771415.jpg' alt='8,192 Cockatiel Yellow Bird Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/beautiful-photo-bird-ornithologyfunny-parrotcockatiel-600nw-2304771415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless texture parrot yellow cockatiel cute tropical bird and white PVC  Wallpaper Removable Self-Adhesive Contact Paper Peel and Stick Waterproof  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711jTurU99L.jpg' alt='Seamless texture parrot yellow cockatiel cute tropical bird and white PVC  Wallpaper Removable Self-Adhesive Contact Paper Peel and Stick Waterproof  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711jTurU99L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cockatiel Selfie Cute Wallpaper Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-illustration-adorable-pet_23-2151933570.jpg' alt='Cockatiel Selfie Cute Wallpaper Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-illustration-adorable-pet_23-2151933570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet.Cockatiel Parrot.Funny Parrots.Cockatiel Pet.Bird with a Crest ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pet-cockatiel-parrot-funny-parrots-cockatiel-pet-bird-crest-cute-animal-funny-bird-cockatiel-caring-pet-bird-animal-pet-304338754.jpg' alt='Pet.Cockatiel Parrot.Funny Parrots.Cockatiel Pet.Bird with a Crest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pet-cockatiel-parrot-funny-parrots-cockatiel-pet-bird-crest-cute-animal-funny-bird-cockatiel-caring-pet-bird-animal-pet-304338754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

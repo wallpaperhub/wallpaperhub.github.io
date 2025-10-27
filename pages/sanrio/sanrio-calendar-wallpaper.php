@@ -1,0 +1,129 @@
+<title>Sanrio Calendar Wallpaper: Adorable & Functional Designs</title>
+                    <meta name="description" content="Discover charming Sanrio calendar wallpapers for your devices! Stay organized with fun designs featuring Hello Kitty and more, perfect for fans and adding a playful touch to your screens. Enhance your digital experience while keeping track of important dates with these delightful creations!">
+                    <meta name="keywords" content="sanrio calendar wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/sanrio-calendar-wallpaper">
+                            <span itemprop="name">sanrio calendar wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sanrio Calendar Wallpaper: Adorable & Functional Designs</h1>
+                <p>Brighten up your digital devices with adorable Sanrio calendar wallpapers! Featuring beloved characters like Hello Kitty, My Melody, and Cinnamoroll, these wallpapers add a touch of cuteness to your screens while keeping you organized. Perfect for fans of all ages, these designs bring joy and charm to your daily planning!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987d1E-2-28-CN-WALLPAPER-FOTM-Calendar-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987d1E-2-28-CN-WALLPAPER-FOTM-Calendar-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987vjj-3-29-PN-WALLPAPER-FOTM-Calendar-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987vjj-3-29-PN-WALLPAPER-FOTM-Calendar-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987SFj-7-3-KR-WALLPAPER-JulyCalendar-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987SFj-7-3-KR-WALLPAPER-JulyCalendar-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987MN3-110624_HK50th_WALLPAPER_November_Calendar_1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987MN3-110624_HK50th_WALLPAPER_November_Calendar_1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987lX9-9-1-CO-WALLPAPER-SepCalendar-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987lX9-9-1-CO-WALLPAPER-SepCalendar-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Characters December 2021 Calendar wallpaper : r/sanrio">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/un2rxfybpz281.jpg' alt='Sanrio Characters December 2021 Calendar wallpaper : r/sanrio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="1957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/un2rxfybpz281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LittleTwinStars">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987lPU-11-29-LTS-FOTM-Calendar-1500x2000-s.png?c=00' alt='LittleTwinStars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LittleTwinStars" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987lPU-11-29-LTS-FOTM-Calendar-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody calendar">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/df/b3/c1dfb3cea517ae873ced0dd545449a80.jpg' alt='My melody calendar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/df/b3/c1dfb3cea517ae873ced0dd545449a80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Friend of the Month">
+                                <img itemprop="contentUrl url" src='https://i.shgcdn.com/b2d6ac1a-45a9-4bd2-9c0a-7f8783001d4b/-/format/auto/-/preview/3000x3000/-/quality/lighter/' alt='Sanrio Friend of the Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://i.shgcdn.com/b2d6ac1a-45a9-4bd2-9c0a-7f8783001d4b/-/format/auto/-/preview/3000x3000/-/quality/lighter/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty November 2022 Calendar wallpaper : r/sanrio">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hello-kitty-november-2022-calendar-wallpaper-v0-dlk2sa8o561a1.jpg?width=640&crop=smart&auto=webp&s=4c8fb0d8a6949e84c5186df9ee5b3bce52137941' alt='Hello Kitty November 2022 Calendar wallpaper : r/sanrio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hello-kitty-november-2022-calendar-wallpaper-v0-dlk2sa8o561a1.jpg?width=640&crop=smart&auto=webp&s=4c8fb0d8a6949e84c5186df9ee5b3bce52137941' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

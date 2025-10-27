@@ -1,0 +1,129 @@
+<title>When Was Muhammad Born? Key Dates Revealed</title>
+                    <meta name="description" content="Discover the birth of Muhammad, a pivotal figure in history. Learn about the year 570 CE and its impact on Islam. Explore the significance of his life and teachings that continue to shape the beliefs of millions worldwide.">
+                    <meta name="keywords" content="when was muhammad born">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-muhammad-born">
+                            <span itemprop="name">when was muhammad born</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Muhammad Born? Key Dates Revealed</h1>
+                <p>Muhammad was born in Mecca, present-day Saudi Arabia, around the year 570 CE. His birth marks the beginning of a significant era in history, leading to the foundation of Islam. Celebrated for his life and teachings, Muhammad is regarded as the last prophet in Islam, guiding millions with his message of peace and unity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg/220px-The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg' alt='Muhammad - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg/220px-The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad's Early Life and Family | Middle East And North Africa ...">
+                                <img itemprop="contentUrl url" src='https://factsanddetails.com/media/2/20120509-Birthofmuhammed.jpg' alt='Muhammad's Early Life and Family | Middle East And North Africa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Middle East And North Africa - Facts and Details" />
+                                </span>
+                                <a href='https://factsanddetails.com/media/2/20120509-Birthofmuhammed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Siyer-i_Nebi_223b.jpg/220px-Siyer-i_Nebi_223b.jpg' alt='Muhammad - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Siyer-i_Nebi_223b.jpg/220px-Siyer-i_Nebi_223b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outline of Muhammad's Life timeline | Timetoast Timelines">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11041135/image/f8b97de26cb627f48d3a4d01817c7b25?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T215525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e0ad0466e3ef407bddbfcf655b8d7fd61361d7b8278baee44086b9510d266de' alt='Outline of Muhammad's Life timeline | Timetoast Timelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="379">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timetoast" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11041135/image/f8b97de26cb627f48d3a4d01817c7b25?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T215525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e0ad0466e3ef407bddbfcf655b8d7fd61361d7b8278baee44086b9510d266de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mohammed_kaaba_1315.jpg/220px-Mohammed_kaaba_1315.jpg' alt='Muhammad - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mohammed_kaaba_1315.jpg/220px-Mohammed_kaaba_1315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The blessed birth of The Prophet Muhammad (PBUH) | Ask Our Imam">
+                                <img itemprop="contentUrl url" src='https://3.bp.blogspot.com/-tRiPF5U5ark/ThQDLU2ogsI/AAAAAAAABuw/Kj8Kl9Bific/s640/Birth-Place-of-Prophet-Muhammad-PBUH-Moolid-un-Nabi-SAW-001.jpg' alt='The blessed birth of The Prophet Muhammad (PBUH) | Ask Our Imam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="631">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Our Imam" />
+                                </span>
+                                <a href='https://3.bp.blogspot.com/-tRiPF5U5ark/ThQDLU2ogsI/AAAAAAAABuw/Kj8Kl9Bific/s640/Birth-Place-of-Prophet-Muhammad-PBUH-Moolid-un-Nabi-SAW-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthplace of the Prophet (ﷺ) - IslamicLandmarks.com">
+                                <img itemprop="contentUrl url" src='https://www.islamiclandmarks.com/wp-content/uploads/2019/11/Birthplace-of-the-Prophet-saw.jpg' alt='Birthplace of the Prophet (ﷺ) - IslamicLandmarks.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IslamicLandmarks.com" />
+                                </span>
+                                <a href='https://www.islamiclandmarks.com/wp-content/uploads/2019/11/Birthplace-of-the-Prophet-saw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline of Muhammad's Life | Timetoast Timelines">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/7485489/image/51fda6077503fb97fc7d42e91c308f10?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T142241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=88809cca6a3435c9060c03b8ad52c3249af6d4bd1792fbd6d9009a946f6ee05d' alt='Timeline of Muhammad's Life | Timetoast Timelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timetoast" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/7485489/image/51fda6077503fb97fc7d42e91c308f10?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T142241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=88809cca6a3435c9060c03b8ad52c3249af6d4bd1792fbd6d9009a946f6ee05d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Birth of Prophet MUHAMMAD (ﷺ) - Part 1 of 2">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JBAnrs-w23w/hqdefault.jpg' alt='The Birth of Prophet MUHAMMAD (ﷺ) - Part 1 of 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JBAnrs-w23w/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad, the founder of Islam, was born in Mecca - ppt video ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/4658498/15/images/4/MUHAMMAD+Muhammad+was+born+in+570+AD.jpg' alt='Muhammad, the founder of Islam, was born in Mecca - ppt video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/4658498/15/images/4/MUHAMMAD+Muhammad+was+born+in+570+AD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

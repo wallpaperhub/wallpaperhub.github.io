@@ -1,0 +1,129 @@
+<title>Stunning Dead Flowers Wallpaper for Unique Home Decor</title>
+                    <meta name="description" content="Transform your space with dead flowers wallpaper, a perfect blend of art and nostalgia. Ideal for those who embrace beauty in decay, our collection adds character to any room. Perfect for modern and vintage interiors alike, explore unique designs that make a statement today!">
+                    <meta name="keywords" content="dead flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/dead-flowers-wallpaper">
+                            <span itemprop="name">dead flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dead Flowers Wallpaper for Unique Home Decor</h1>
+                <p>Dead flowers wallpaper is a unique decor choice that adds an artistic flair to any space. Featuring faded blooms and sepia tones, it evokes a sense of nostalgia and beauty in decay. Ideal for those who appreciate the beauty of imperfection, this wallpaper brings an intriguing twist to interior design, perfect for bedrooms or living rooms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Dying Flower Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1542774352-8625530d22c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHlpbmclMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D' alt='45,628+ Dying Flower Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1542774352-8625530d22c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHlpbmclMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Dead Flower Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520923171404-eeee738f1b9c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVhZCUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Dead Flower Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520923171404-eeee738f1b9c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVhZCUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cb/9d/95/cb9d951df585ff82dcfc1cdccfee4c6f.jpg' alt='Dead flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cb/9d/95/cb9d951df585ff82dcfc1cdccfee4c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Roses Images – Browse 107,357 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/03/12/97/360_F_403129738_N2Gm7gTu6nKNAM8fYTjLPIudC1WWhdMu.jpg' alt='Dead Roses Images – Browse 107,357 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/03/12/97/360_F_403129738_N2Gm7gTu6nKNAM8fYTjLPIudC1WWhdMu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82,400+ Dead Flowers Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1384149921/photo/flowers-background.jpg?s=612x612&w=0&k=20&c=xt6AvKzhgnXHIvmi7ZSiDggsjNtyzVLocLVRnZUpM5k=' alt='82,400+ Dead Flowers Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1384149921/photo/flowers-background.jpg?s=612x612&w=0&k=20&c=xt6AvKzhgnXHIvmi7ZSiDggsjNtyzVLocLVRnZUpM5k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Flowers Photos, Download The BEST Free Dead Flowers Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1440477/pexels-photo-1440477.jpeg?cs=srgb&dl=pexels-akshar-dave-1440477.jpg&fm=jpg' alt='Dead Flowers Photos, Download The BEST Free Dead Flowers Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3808">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1440477/pexels-photo-1440477.jpeg?cs=srgb&dl=pexels-akshar-dave-1440477.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Dead Flower Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676955434748-52f40a03a511?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGVhZCUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Dead Flower Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676955434748-52f40a03a511?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGVhZCUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Flowers Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520857566076-67e0992b8356?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVhZCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' alt='Dead Flowers Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520857566076-67e0992b8356?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVhZCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Dead Roses - Black and White Photograph (KD119701X)">
+                                <img itemprop="contentUrl url" src='http://keithdotson.com/cdn/shop/files/KD119701X31DeadRosescopy_grande.jpg?v=1684976444' alt='31 Dead Roses - Black and White Photograph (KD119701X)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keith Dotson Photography" />
+                                </span>
+                                <a href='http://keithdotson.com/cdn/shop/files/KD119701X31DeadRosescopy_grande.jpg?v=1684976444' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Flowers Photos, Download The BEST Free Dead Flowers Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/10113122/pexels-photo-10113122.jpeg?cs=srgb&dl=pexels-theshuttervision-10113122.jpg&fm=jpg' alt='Dead Flowers Photos, Download The BEST Free Dead Flowers Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="6720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/10113122/pexels-photo-10113122.jpeg?cs=srgb&dl=pexels-theshuttervision-10113122.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

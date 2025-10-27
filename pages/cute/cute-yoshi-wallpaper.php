@@ -1,0 +1,129 @@
+<title>Adorable Yoshi Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a vibrant collection of cute Yoshi wallpapers that will enhance your device's look! Perfect for Nintendo lovers, these playful designs capture the charm of Yoshi in unique and colorful ways. Upgrade your screen with a delightful Yoshi wallpaper today!">
+                    <meta name="keywords" content="cute yoshi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-yoshi-wallpaper">
+                            <span itemprop="name">cute yoshi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Yoshi Wallpapers for Every Fan</h1>
+                <p>Brighten up your digital space with adorable Yoshi wallpapers! Perfect for fans of the iconic character from the Mario franchise, these wallpapers add charm and a playful touch to your devices. From action-packed scenes to cute close-ups, find the perfect Yoshi wallpaper to express your love for gaming and bring a smile every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Cute yoshi ideas | yoshi, mario art, super mario art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/32/48/1e/32481e73372d896b60bc911eb43b125f.jpg' alt='19 Cute yoshi ideas | yoshi, mario art, super mario art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/32/48/1e/32481e73372d896b60bc911eb43b125f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoshi Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/59/ab/a8/59aba8cfcd82f09e457131cccc5d3aba.jpg' alt='Yoshi Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/59/ab/a8/59aba8cfcd82f09e457131cccc5d3aba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you are a Yoshi fan, feel free to use this wallpaper! (For ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bp8n5kzg5dia1.jpg' alt='If you are a Yoshi fan, feel free to use this wallpaper! (For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bp8n5kzg5dia1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="可爱的耀西/ "Cute Yoshi."wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8oT3PcSEpJ/0/image.jpg' alt='可爱的耀西/ "Cute Yoshi."wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="可爱的耀西/ "Cute Yoshi."wallpaper" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8oT3PcSEpJ/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edited an official wallpaper! : r/YosHi">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r299gvrp7da21.jpg' alt='Edited an official wallpaper! : r/YosHi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r299gvrp7da21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] Yoshi wallpaper that I threw together in GIMP, ideal for a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hmn70a4jcbha1.png' alt='OC] Yoshi wallpaper that I threw together in GIMP, ideal for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="3400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hmn70a4jcbha1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Cartridge 3DS — Cute Yoshi's New Island wallpapers ⊟ Much ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/7d6d85b42c098812afe67ca17de10b91/tumblr_n20q9sod781qzp9weo2_1280.jpg' alt='Tiny Cartridge 3DS — Cute Yoshi's New Island wallpapers ⊟ Much ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiny Cartridge 3DS" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/7d6d85b42c098812afe67ca17de10b91/tumblr_n20q9sod781qzp9weo2_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoshi Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/e1/7d/15e17db8292abc3a064638bd5e36a3ee.jpg' alt='Yoshi Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/e1/7d/15e17db8292abc3a064638bd5e36a3ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoshi Super Mario Phone Wallpaper by MrThatKidAlex24 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/26d46c92-1578-41a7-96f2-28d569da7f22/d9niyqp-1f345171-caaf-47d0-bd6f-bf5935f5ed3e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI2ZDQ2YzkyLTE1NzgtNDFhNy05NmYyLTI4ZDU2OWRhN2YyMlwvZDluaXlxcC0xZjM0NTE3MS1jYWFmLTQ3ZDAtYmQ2Zi1iZjU5MzVmNWVkM2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e5l7jDHxu2Sx_wsSUW1tDWRqC0_L6O-DaKCkXVfgvP8' alt='Yoshi Super Mario Phone Wallpaper by MrThatKidAlex24 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/26d46c92-1578-41a7-96f2-28d569da7f22/d9niyqp-1f345171-caaf-47d0-bd6f-bf5935f5ed3e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI2ZDQ2YzkyLTE1NzgtNDFhNy05NmYyLTI4ZDU2OWRhN2YyMlwvZDluaXlxcC0xZjM0NTE3MS1jYWFmLTQ3ZDAtYmQ2Zi1iZjU5MzVmNWVkM2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e5l7jDHxu2Sx_wsSUW1tDWRqC0_L6O-DaKCkXVfgvP8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD yoshi cute wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/258/722/HD-wallpaper-lil-retro-yoshi-blue-cute-gaming-green-minimalistic-nintendo-retro-simple-videogames-thumbnail.jpg' alt='HD yoshi cute wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/258/722/HD-wallpaper-lil-retro-yoshi-blue-cute-gaming-green-minimalistic-nintendo-retro-simple-videogames-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

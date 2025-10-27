@@ -1,0 +1,129 @@
+<title>"Experience the Energy of a Busy Street"</title>
+                    <meta name="description" content="Discover the dynamic atmosphere of a busy street, filled with life, sounds, and activities. From street vendors to cyclists, explore how this lively environment reflects urban culture and connectivity. Get ready to immerse yourself in the vibrant pulse of the city!">
+                    <meta name="keywords" content="busy street">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/busy-street">
+                            <span itemprop="name">busy street</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Experience the Energy of a Busy Street"</h1>
+                <p>The busy street bustles with life, a vibrant tapestry of people and vehicles weaving through the urban landscape. The sounds of chatter, honking horns, and sidewalk performers create a lively atmosphere. Street vendors offer tempting treats, while cyclists zigzag gracefully through traffic, embodying the city's energy and rhythm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ New York Busy Street Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1138722351/photo/new-york-city-traffic.jpg?s=612x612&w=0&k=20&c=rzMKl7NWbEOZ2ktBAD8Oaj74aqli4s8chHPSZd4cCNM=' alt='3,300+ New York Busy Street Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1138722351/photo/new-york-city-traffic.jpg?s=612x612&w=0&k=20&c=rzMKl7NWbEOZ2ktBAD8Oaj74aqli4s8chHPSZd4cCNM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View of Busy and Crowded Street in New York, USA Editorial Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/view-busy-crowded-street-new-york-usa-early-evening-manhattan-city-all-traffic-jams-many-tourists-people-walking-55241984.jpg' alt='View of Busy and Crowded Street in New York, USA Editorial Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/view-busy-crowded-street-new-york-usa-early-evening-manhattan-city-all-traffic-jams-many-tourists-people-walking-55241984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,700+ Busy New York Street Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1367851585/photo/crowds-of-people-walking-across-a-busy-crosswalk-at-the-intersection-of-23rd-street-and-5th.jpg?s=612x612&w=0&k=20&c=BJuYzQe2vI-tKfGNa3yrTjp8-AHCqowkRLdZyH4J6fs=' alt='17,700+ Busy New York Street Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1367851585/photo/crowds-of-people-walking-across-a-busy-crosswalk-at-the-intersection-of-23rd-street-and-5th.jpg?s=612x612&w=0&k=20&c=BJuYzQe2vI-tKfGNa3yrTjp8-AHCqowkRLdZyH4J6fs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Busy Street In New York City by Jeremy Lusk Photography">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/busy-street-in-new-york-city-jeremy-lusk-photography.jpg' alt='Busy Street In New York City by Jeremy Lusk Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/busy-street-in-new-york-city-jeremy-lusk-photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Busy Street Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1668061706855-26d4cf0f6248?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVzeSUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' alt='Busy Street Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1668061706855-26d4cf0f6248?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVzeSUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Busy street in South Africa Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/A34TPF/busy-street-in-south-africa-A34TPF.jpg' alt='Busy street in South Africa Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/A34TPF/busy-street-in-south-africa-A34TPF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,601 Busy City Street At Night Stock Photos, High-Res Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1348855104/photo/hong-kong-nathan-road.jpg?s=612x612&w=gi&k=20&c=gyiVthgaJ339eFOhhcj3eAKcP8js3v-yCYg1SIVPPg0=' alt='31,601 Busy City Street At Night Stock Photos, High-Res Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1348855104/photo/hong-kong-nathan-road.jpg?s=612x612&w=gi&k=20&c=gyiVthgaJ339eFOhhcj3eAKcP8js3v-yCYg1SIVPPg0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Busy Street Photos, Download The BEST Free Busy Street Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2103828/pexels-photo-2103828.jpeg?cs=srgb&dl=pexels-einfoto-2103828.jpg&fm=jpg' alt='Busy Street Photos, Download The BEST Free Busy Street Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2103828/pexels-photo-2103828.jpeg?cs=srgb&dl=pexels-einfoto-2103828.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typical Busy Street Scene Pedestrians High Holborn London England ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/A4BBE9/typical-busy-street-scene-pedestrians-high-holborn-london-england-A4BBE9.jpg' alt='Typical Busy Street Scene Pedestrians High Holborn London England ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/A4BBE9/typical-busy-street-scene-pedestrians-high-holborn-london-england-A4BBE9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,000+ Free Busy Streets & Street Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/11/23/15/32/pedestrians-1853552_1280.jpg' alt='70,000+ Free Busy Streets & Street Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/11/23/15/32/pedestrians-1853552_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

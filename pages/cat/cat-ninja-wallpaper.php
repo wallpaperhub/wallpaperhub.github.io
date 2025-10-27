@@ -1,0 +1,129 @@
+<title>Whiskers and Shadows: Adorable Cat Ninja Wallpapers</title>
+                    <meta name="description" content="Discover charming cat ninja wallpapers to personalize your device. Perfect for pet lovers and fans of playful art, these designs add a unique flair. Download now for a touch of whimsy and style on your screens!">
+                    <meta name="keywords" content="cat ninja wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/cat-ninja-wallpaper">
+                            <span itemprop="name">cat ninja wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whiskers and Shadows: Adorable Cat Ninja Wallpapers</h1>
+                <p>Transform your device with our captivating cat ninja wallpaper! Perfect for cat lovers and ninja enthusiasts, these designs blend cuteness and stealth. Available in various styles and colors, they add a playful yet edgy touch to your screens. Download your favorite cat ninja wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Cat Images – Browse 6,628 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/21/05/18/360_F_921051820_iNQSEfrffSh9da9GiDoJofKwf6glDOlf.jpg' alt='Ninja Cat Images – Browse 6,628 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/21/05/18/360_F_921051820_iNQSEfrffSh9da9GiDoJofKwf6glDOlf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Ninja Stock Illustrations – 916 Cat Ninja Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/low-light-fantasy-cat-ninja-doodle-illustration-detailed-digital-art-featuring-stealthy-character-design-immerse-yourself-349908606.jpg' alt='Cat Ninja Stock Illustrations – 916 Cat Ninja Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/low-light-fantasy-cat-ninja-doodle-illustration-detailed-digital-art-featuring-stealthy-character-design-immerse-yourself-349908606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Dops Ninja Cat Wallpapers for Anniversary Festivities ...">
+                                <img itemprop="contentUrl url" src='https://www.digitaltrends.com/wp-content/uploads/2016/08/ninjacat.jpg?fit=720%2C720&p=1' alt='Microsoft Dops Ninja Cat Wallpapers for Anniversary Festivities ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Trends" />
+                                </span>
+                                <a href='https://www.digitaltrends.com/wp-content/uploads/2016/08/ninjacat.jpg?fit=720%2C720&p=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Ninja: Welcome to the 'Burbs">
+                                <img itemprop="contentUrl url" src='https://prodimage.images-bn.com/pimages/9781524875855_p4_v5_s600x595.jpg' alt='Cat Ninja: Welcome to the 'Burbs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='https://prodimage.images-bn.com/pimages/9781524875855_p4_v5_s600x595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat Samurai HD Wallpaper by Laxmonaut">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/133/1339242.png' alt='Black Cat Samurai HD Wallpaper by Laxmonaut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/133/1339242.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja cat wallpaper by pollitocpapas - Download on ZEDGE™ | 799a">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=o7DRxRH-E8qY2eIxI3ybPogPSU8DLWC3Q9cWJ-lsarlE4xCQHs4gCB0wuVEiNUm_eJgP_S0WUxuOpD6wNEgdAELkJvCfhU023xs43m2rNxS1kaDIZbxLVX2MN3e37Dfk4NkFE9xY6UUIFm5Ps231zmb-fupVVkAw5W3eb7By2hMSo8juJOViqR2ph-1BZH-bo2VlZjy-cX-roS3zaJLg-GFUqXlUN6qpsGIkPOVSw2N_I8tDzyN4BdYnl8k' alt='Ninja cat wallpaper by pollitocpapas - Download on ZEDGE™ | 799a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=o7DRxRH-E8qY2eIxI3ybPogPSU8DLWC3Q9cWJ-lsarlE4xCQHs4gCB0wuVEiNUm_eJgP_S0WUxuOpD6wNEgdAELkJvCfhU023xs43m2rNxS1kaDIZbxLVX2MN3e37Dfk4NkFE9xY6UUIFm5Ps231zmb-fupVVkAw5W3eb7By2hMSo8juJOViqR2ph-1BZH-bo2VlZjy-cX-roS3zaJLg-GFUqXlUN6qpsGIkPOVSw2N_I8tDzyN4BdYnl8k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper minimalism, katana, Cat, samurai, ninja, digital art ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/1/e8/cat-ninja-samurai-katana-dagger-simple-background-black-back.jpg' alt='Wallpaper minimalism, katana, Cat, samurai, ninja, digital art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/1/e8/cat-ninja-samurai-katana-dagger-simple-background-black-back.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Cat Images – Browse 6,628 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/60/92/04/360_F_560920467_ttrmmDJ9iKJJGdhpTB3PZo1ds5LBda9D.jpg' alt='Ninja Cat Images – Browse 6,628 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/60/92/04/360_F_560920467_ttrmmDJ9iKJJGdhpTB3PZo1ds5LBda9D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cool Ninja Cat Wallpapers For Microsoft Windows 10...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/42/5d/d0425d7c1949e90aac9a7ce3973cae1d.jpg' alt='10 Cool Ninja Cat Wallpapers For Microsoft Windows 10...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/42/5d/d0425d7c1949e90aac9a7ce3973cae1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::SCIFI Cat Ninja 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2490006808475426209/9CC9DD7E596285E19B4AE1E26CE29A3DC41A286F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::SCIFI Cat Ninja 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2490006808475426209/9CC9DD7E596285E19B4AE1E26CE29A3DC41A286F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

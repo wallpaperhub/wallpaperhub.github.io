@@ -1,0 +1,129 @@
+<title>Purple 3D Wallpaper: Transform Your Space with Style</title>
+                    <meta name="description" content="Discover eye-catching purple 3D wallpaper designs to elevate your home decor. Perfect for any room, our selection adds depth and vibrancy to your walls. Shop now for stunning patterns to create a unique, stylish atmosphere!">
+                    <meta name="keywords" content="purple wallpaper 3d">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-wallpaper-3d">
+                            <span itemprop="name">purple wallpaper 3d</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple 3D Wallpaper: Transform Your Space with Style</h1>
+                <p>Transform your space with stunning purple wallpaper in 3D designs. Ideal for adding a vibrant touch to any room, these wallpapers enhance depth and style. Choose from floral, geometric, or abstract patterns to suit your taste. Perfect for bedrooms, living rooms, or accent walls, elevate your home decor effortlessly with these unique options.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' alt='Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/25/e7/2025e71a2da796fc07ad2814c95ce723.jpg' alt='3d wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/25/e7/2025e71a2da796fc07ad2814c95ce723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple Star Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-purple-star-wallpaper.webp' alt='Cute Purple Star Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-purple-star-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D background Wallpaper 4K, Windows 11, Purple background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/3d-background-purple-background-abstract-background-windows-2560x1080-8292.jpg' alt='3D background Wallpaper 4K, Windows 11, Purple background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/3d-background-purple-background-abstract-background-windows-2560x1080-8292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple 3d Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-3d-art-gu9spzkah1kltrcd.jpg' alt='Purple 3d Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-3d-art-gu9spzkah1kltrcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D background Wallpaper 4K, Squares, Purple light, Metal">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/3d-background-squares-purple-light-metal-aesthetic-1080x1920-2700.jpg' alt='3D background Wallpaper 4K, Squares, Purple light, Metal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/3d-background-squares-purple-light-metal-aesthetic-1080x1920-2700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d-purple-wallpaper by loongkee21 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83ffb55c-328b-48ed-8cb5-93df22564420/d5vphv1-e14890bf-ed25-4a6b-8233-bf93a2c586f1.jpg/v1/fill/w_1280,h_960,q_75,strp/3d_purple_wallpaper_by_loongkee21_d5vphv1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvODNmZmI1NWMtMzI4Yi00OGVkLThjYjUtOTNkZjIyNTY0NDIwXC9kNXZwaHYxLWUxNDg5MGJmLWVkMjUtNGE2Yi04MjMzLWJmOTNhMmM1ODZmMS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eYzP9tQHBh2CaYv8uqcfprpq8MR0F2l2fkvUfvbMHO4' alt='3d-purple-wallpaper by loongkee21 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83ffb55c-328b-48ed-8cb5-93df22564420/d5vphv1-e14890bf-ed25-4a6b-8233-bf93a2c586f1.jpg/v1/fill/w_1280,h_960,q_75,strp/3d_purple_wallpaper_by_loongkee21_d5vphv1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvODNmZmI1NWMtMzI4Yi00OGVkLThjYjUtOTNkZjIyNTY0NDIwXC9kNXZwaHYxLWUxNDg5MGJmLWVkMjUtNGE2Yi04MjMzLWJmOTNhMmM1ODZmMS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eYzP9tQHBh2CaYv8uqcfprpq8MR0F2l2fkvUfvbMHO4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D wallpaper stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/88/a8/80/88a8805ee188e6737baa88ea49359484.jpg' alt='3D wallpaper stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/88/a8/80/88a8805ee188e6737baa88ea49359484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Stereoscopic Purple Flowers Wall Mural, 3D Art Photo Wallpaper,  Home Decor TV Background Large Art Wall Painting for Living Room Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MH8TBVGxL.jpg' alt='Amazon.com: Stereoscopic Purple Flowers Wall Mural, 3D Art Photo Wallpaper,  Home Decor TV Background Large Art Wall Painting for Living Room Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MH8TBVGxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D purple balls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/80/be/57/80be57ea98d4558b4a57e6fb960d2223.jpg' alt='3D purple balls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/80/be/57/80be57ea98d4558b4a57e6fb960d2223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

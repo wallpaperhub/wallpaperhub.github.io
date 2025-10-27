@@ -1,0 +1,129 @@
+<title>Nipsey Hussle iPhone Wallpapers: Honor His Legacy</title>
+                    <meta name="description" content="Discover a collection of iPhone wallpapers featuring the iconic Nipsey Hussle. Celebrate his impact through visually stunning designs that motivate and inspire. Perfect for fans wanting to carry his spirit with them every day. Download now and personalize your device!">
+                    <meta name="keywords" content="iphone nipsey hussle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-nipsey-hussle-wallpaper">
+                            <span itemprop="name">iphone nipsey hussle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nipsey Hussle iPhone Wallpapers: Honor His Legacy</h1>
+                <p>Elevate your iPhone with stunning Nipsey Hussle wallpapers that showcase the late rapper's legacy. Whether you're a long-time fan or discovering his music, these vibrant designs capture his spirit and inspiration. Customize your phone with unique visuals that remind you of Nipsey’s journey and hustle daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Nipsey Hussle Wallpaper - WPTunnel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ad/4e/37/ad4e37c7a640ad92ab95bfe99688ba04.jpg' alt='HD Nipsey Hussle Wallpaper - WPTunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ad/4e/37/ad4e37c7a640ad92ab95bfe99688ba04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey hussle wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2c/eb/b1/2cebb18da711dcdf780dbe9cb3cf2d4b.jpg' alt='Nipsey hussle wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="305">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2c/eb/b1/2cebb18da711dcdf780dbe9cb3cf2d4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nipsey Hussle Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hip-hop-legend-nipsey-hussle-o66yphftssq4sm9b.jpg' alt='100+] Nipsey Hussle Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1441">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hip-hop-legend-nipsey-hussle-o66yphftssq4sm9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey Hussle Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/9a/94/e09a949e08bc892d317d6d320ef31ec5.jpg' alt='Nipsey Hussle Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/9a/94/e09a949e08bc892d317d6d320ef31ec5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey Hussle Wallpaper – Austin Showtime">
+                                <img itemprop="contentUrl url" src='https://austinshowtime.shop/cdn/shop/files/red-web_354x.jpg?v=1716905607' alt='Nipsey Hussle Wallpaper – Austin Showtime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="354">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Showtime" />
+                                </span>
+                                <a href='https://austinshowtime.shop/cdn/shop/files/red-web_354x.jpg?v=1716905607' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey Hussle Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8AooULS3sY/0/image.jpg' alt='Nipsey Hussle Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="996">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8AooULS3sY/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey Hussle Wallpaper – Austin Showtime">
+                                <img itemprop="contentUrl url" src='https://austinshowtime.shop/cdn/shop/files/NIPSEY-WALLPAPER-copy_532x.jpg?v=1723758959' alt='Nipsey Hussle Wallpaper – Austin Showtime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Showtime" />
+                                </span>
+                                <a href='https://austinshowtime.shop/cdn/shop/files/NIPSEY-WALLPAPER-copy_532x.jpg?v=1723758959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nipsey Hussle Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nipsey-hussle-artwork-76cubmkmbhzf22lw.jpg' alt='100+] Nipsey Hussle Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1530">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nipsey-hussle-artwork-76cubmkmbhzf22lw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Nipsey hussle wallpaper ideas in 2025 | lauren london nipsey ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/22/9f/15/229f1561c3e4cccf714980f2dd6a7df9.jpg' alt='55 Nipsey hussle wallpaper ideas in 2025 | lauren london nipsey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/22/9f/15/229f1561c3e4cccf714980f2dd6a7df9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nipsey hussle, nipseyhussle, rip, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/709/207/HD-wallpaper-nipsey-hussle-nipseyhussle-rip.jpg' alt='Nipsey hussle, nipseyhussle, rip, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/709/207/HD-wallpaper-nipsey-hussle-nipseyhussle-rip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

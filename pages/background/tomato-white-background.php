@@ -1,0 +1,129 @@
+<title>Vibrant Tomatoes on a Clean White Background</title>
+                    <meta name="description" content="Discover the beauty of tomatoes showcased on a clean white background. Perfect for food photography and culinary inspiration, this striking contrast enhances freshness and appeal. Ideal for recipes, health tips, and more, it brings focus to the delicious details of tomatoes.">
+                    <meta name="keywords" content="tomato white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tomato-white-background">
+                            <span itemprop="name">tomato white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Tomatoes on a Clean White Background</h1>
+                <p>See how a vibrant tomato pops against a pristine white background. This striking contrast not only highlights the tomato's rich color and texture but also enhances its appeal in cooking and presentations. Perfect for culinary photography, recipes, and health-related content, the white backdrop offers clarity and focus.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="189,100+ Tomato On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/941825808/photo/tomato-isolated-tomato-on-white-background-with-clipping-path-full-depth-of-field.jpg?s=612x612&w=0&k=20&c=FOo7yfEpxmdTHYBHVr2og-nE_m4mib32rYxZQxUARbs=' alt='189,100+ Tomato On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/941825808/photo/tomato-isolated-tomato-on-white-background-with-clipping-path-full-depth-of-field.jpg?s=612x612&w=0&k=20&c=FOo7yfEpxmdTHYBHVr2og-nE_m4mib32rYxZQxUARbs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tomato White Background" Images – Browse 255 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/07/93/00/360_F_407930079_cUaIKu2X9rTstokJ1ohsIgkYsimvZnp1.jpg' alt='Tomato White Background" Images – Browse 255 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/07/93/00/360_F_407930079_cUaIKu2X9rTstokJ1ohsIgkYsimvZnp1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tomato White Background" Images – Browse 255 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/29/78/85/360_F_29788505_PbGEDPBhQIxW2soJMOpLlYOybLrvPt2e.jpg' alt='Tomato White Background" Images – Browse 255 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/29/78/85/360_F_29788505_PbGEDPBhQIxW2soJMOpLlYOybLrvPt2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tomato isolated on white background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/94/89/tomato-isolated-on-white-background-vector-21349489.jpg' alt='Tomato isolated on white background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/94/89/tomato-isolated-on-white-background-vector-21349489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="isolated tomato. One and a half fresh tomatoes isolated on white ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T1GKTK/isolated-tomato-one-and-a-half-fresh-tomatoes-isolated-on-white-background-with-clipping-path-T1GKTK.jpg' alt='isolated tomato. One and a half fresh tomatoes isolated on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T1GKTK/isolated-tomato-one-and-a-half-fresh-tomatoes-isolated-on-white-background-with-clipping-path-T1GKTK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tomato on a white background Free Photo Download | FreeImages">
+                                <img itemprop="contentUrl url" src='https://images.freeimages.com/images/large-previews/855/tomato-on-a-white-background-1633175.jpg?h=350' alt='Tomato on a white background Free Photo Download | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://images.freeimages.com/images/large-previews/855/tomato-on-a-white-background-1633175.jpg?h=350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh tomatoes and sliced on a white background, vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/596/928/non_2x/fresh-tomatoes-and-sliced-on-a-white-background-illustration-vector.jpg' alt='Fresh tomatoes and sliced on a white background, vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/596/928/non_2x/fresh-tomatoes-and-sliced-on-a-white-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Fresh cherry tomatoes on isolated white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/fresh-cherry-tomatoes-isolated-white-background_270100-881.jpg' alt='Premium Photo | Fresh cherry tomatoes on isolated white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/fresh-cherry-tomatoes-isolated-white-background_270100-881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tomatoes isolate on white background. Tomato half isolated ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/67/27/51/1000_F_367275184_4KwoAvdR8jB4I2aPRWwYUscqxDXnpsOk.jpg' alt='Tomatoes isolate on white background. Tomato half isolated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/67/27/51/1000_F_367275184_4KwoAvdR8jB4I2aPRWwYUscqxDXnpsOk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slice tomato on white background 2980948 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/980/948/large_2x/slice-tomato-on-white-background-free-photo.jpg' alt='Slice tomato on white background 2980948 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3674">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/980/948/large_2x/slice-tomato-on-white-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

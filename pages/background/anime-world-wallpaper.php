@@ -1,0 +1,129 @@
+<title>Stunning Anime World Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover an extensive collection of stunning anime world wallpapers, perfect for personalizing your devices. Explore unique designs that highlight your favorite characters and enchanting landscapes. Elevate your screen aesthetics and immerse yourself in the captivating world of anime!">
+                    <meta name="keywords" content="anime world wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-world-wallpaper">
+                            <span itemprop="name">anime world wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime World Wallpapers for Your Devices</h1>
+                <p>Immerse yourself in the vibrant universe of anime with stunning anime world wallpapers! Transform your devices with breathtaking visuals that showcase your favorite characters and breathtaking landscapes. From fantastical realms to modern settings, anime wallpapers bring your screen to life, giving a daily dose of inspiration and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime world, nature, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/866/637/HD-wallpaper-anime-world-nature.jpg' alt='Anime world, nature, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/866/637/HD-wallpaper-anime-world-nature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime World iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/fb/2b/5efb2b7ace3245dd3444c4cb38892cea.jpg' alt='Anime World iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/fb/2b/5efb2b7ace3245dd3444c4cb38892cea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Anime World HD Wallpaper - M9Themes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/22/52/592252679fcde290ec33e2884cb4d0f5.jpg' alt='Beautiful Anime World HD Wallpaper - M9Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/22/52/592252679fcde290ec33e2884cb4d0f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime World | Cool Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/9e/83/999e83927eb64bb62e019fe592645125.jpg' alt='Anime World | Cool Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/9e/83/999e83927eb64bb62e019fe592645125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime World [1400x849] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mk9r1rjsf6x71.jpg' alt='Anime World [1400x849] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mk9r1rjsf6x71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the mysteries of a vibrant blue Anime world ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-anime-blue-xorh4dzlpogks9q9.jpg' alt='Download Explore the mysteries of a vibrant blue Anime world ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-anime-blue-xorh4dzlpogks9q9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akatsuki (Naruto) Anime World HD Anime Wallpapers | HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/akatsuki_naruto_anime_world_hd_anime-1920x1080.jpg' alt='Akatsuki (Naruto) Anime World HD Anime Wallpapers | HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/akatsuki_naruto_anime_world_hd_anime-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime World PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5923747.jpg' alt='Anime World PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5923747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime World, Other Worlds, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/885/412/HD-wallpaper-anime-world-other-worlds.jpg' alt='Anime World, Other Worlds, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/885/412/HD-wallpaper-anime-world-other-worlds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="F⃨o⃨t⃨o⃨s⃨ d⃨e⃨ m⃨i⃨ g⃨a⃨l⃨e⃨r⃨i⃨a⃨ 2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/b9/e3/90b9e3d65cf317f3e42bceb9526b4b33.jpg' alt='F⃨o⃨t⃨o⃨s⃨ d⃨e⃨ m⃨i⃨ g⃨a⃨l⃨e⃨r⃨i⃨a⃨ 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/b9/e3/90b9e3d65cf317f3e42bceb9526b4b33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

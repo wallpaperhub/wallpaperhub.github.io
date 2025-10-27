@@ -1,0 +1,129 @@
+<title>Romantic Hearts Backgrounds for Your Designs</title>
+                    <meta name="description" content="Explore beautiful hearts backgrounds perfect for enhancing your designs. Ideal for invitations, social media, and more, these lovely motifs convey warmth and romance, making any project memorable. Discover a variety of colors and styles to match your theme perfectly!">
+                    <meta name="keywords" content="hearts background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hearts-background">
+                            <span itemprop="name">hearts background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Romantic Hearts Backgrounds for Your Designs</h1>
+                <p>Hearts backgrounds add a touch of romance and warmth to any design. Whether used for personal projects or business branding, heart motifs can evoke feelings of love, friendship, and affection. From soft pastel tones to bold red hues, these backgrounds can enhance invitations, social media posts, and more, creating a captivating atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart background 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' alt='Heart background 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' alt='117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts background - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/7929513/hearts-background-clipart-xl.png' alt='Hearts background - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/7929513/hearts-background-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2ZGVzaWduLXJlbWl4LWJnLTEyLWEuanBn.jpg' alt='Hearts Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2ZGVzaWduLXJlbWl4LWJnLTEyLWEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts background | PSDgraphics">
+                                <img itemprop="contentUrl url" src='https://www.psdgraphics.com/file/hearts-background.jpg' alt='Hearts background | PSDgraphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSDgraphics" />
+                                </span>
+                                <a href='https://www.psdgraphics.com/file/hearts-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,416 Heart Backgrounds High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1368059545/vector/seamless-pattern-with-hearts.jpg?s=612x612&w=gi&k=20&c=IspJ6hPVHgJEZAOn_Hm4L0JJRt8ilb0HFm7G_zBfIhE=' alt='19,416 Heart Backgrounds High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1368059545/vector/seamless-pattern-with-hearts.jpg?s=612x612&w=gi&k=20&c=IspJ6hPVHgJEZAOn_Hm4L0JJRt8ilb0HFm7G_zBfIhE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/053/448/001/non_2x/delicate-pink-and-white-abstract-bokeh-background-with-hearts-and-glitter-vector.jpg' alt='Heart Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/053/448/001/non_2x/delicate-pink-and-white-abstract-bokeh-background-with-hearts-and-glitter-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable heart background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFkgF9m8BU/2/0/900w/canva-white-red-illustrated-hearts-pattern-wallpaper-4OG0tih9viM.jpg' alt='Free and customizable heart background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFkgF9m8BU/2/0/900w/canva-white-red-illustrated-hearts-pattern-wallpaper-4OG0tih9viM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hearts, Background, Pink. Royalty-Free Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2015/09/13/03/43/hearts-937668_1280.jpg' alt='Download Hearts, Background, Pink. Royalty-Free Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2015/09/13/03/43/hearts-937668_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="395,800+ Red Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1191251531/vector/seamless-pattern-with-red-hearts-romantic-creamy-peach-background-for-textile-wallpaper.jpg?s=612x612&w=0&k=20&c=RqOsWkdXpYGaLs6uJ8-7Z0MjfXlIY73--E_oTjW1ZcE=' alt='395,800+ Red Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1191251531/vector/seamless-pattern-with-red-hearts-romantic-creamy-peach-background-for-textile-wallpaper.jpg?s=612x612&w=0&k=20&c=RqOsWkdXpYGaLs6uJ8-7Z0MjfXlIY73--E_oTjW1ZcE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

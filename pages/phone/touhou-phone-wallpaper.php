@@ -1,0 +1,129 @@
+<title>Touhou Phone Wallpapers: Enchant Your Device</title>
+                    <meta name="description" content="Explore a curated collection of vibrant Touhou phone wallpapers! From iconic character designs to mesmerizing landscapes, find the perfect background to enhance your mobile device. Download now and showcase your love for the Touhou universe with every glance at your screen!">
+                    <meta name="keywords" content="touhou phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/touhou-phone-wallpaper">
+                            <span itemprop="name">touhou phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Touhou Phone Wallpapers: Enchant Your Device</h1>
+                <p>Discover the enchanting world of Touhou with stunning phone wallpapers! From captivating character art to breathtaking scenery, these wallpapers bring your favorite Touhou moments to life. Perfect for fans of all ages, these designs will personalize your device and immerse you in the magical realm of Gensokyo. Elevate your phone’s aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Touhou HD Mobile Wallpapers : r/touhou">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OIbKux_MYPUdzmNRAL7LqRSMeVja0PO4lfbysPDqmLY.jpg?auto=webp&s=f34fcc4ecda448ffee9dc1a4dfbbf5b45d82397e' alt='Touhou HD Mobile Wallpapers : r/touhou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OIbKux_MYPUdzmNRAL7LqRSMeVja0PO4lfbysPDqmLY.jpg?auto=webp&s=f34fcc4ecda448ffee9dc1a4dfbbf5b45d82397e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Touhou Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/996/996261.jpg' alt='Touhou Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/996/996261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hakurei Reimu (Reimu Hakurei) - Touhou - Mobile Wallpaper by Pixiv ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/40/8d/78/408d78a1a80c6d30a662f5b1191ecd32.jpg' alt='Hakurei Reimu (Reimu Hakurei) - Touhou - Mobile Wallpaper by Pixiv ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/40/8d/78/408d78a1a80c6d30a662f5b1191ecd32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Remilia Scarlet phone wallpaper ! (Source for the used ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fwdkxgcr8ld61.png?width=640&crop=smart&auto=webp&s=3fe8c7c6a11461d6263cdc433d9ff725b14aedc3' alt='I made a Remilia Scarlet phone wallpaper ! (Source for the used ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fwdkxgcr8ld61.png?width=640&crop=smart&auto=webp&s=3fe8c7c6a11461d6263cdc433d9ff725b14aedc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Touhou Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/382/382677.jpg' alt='Download Anime Touhou Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/382/382677.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Touhou, video game, anime, river, 950x1534 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/68/58/e06858771c4993a7b858a23fe2f3f3b9.jpg' alt='Touhou, video game, anime, river, 950x1534 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/68/58/e06858771c4993a7b858a23fe2f3f3b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hakurei Reimu (Reimu Hakurei) - Touhou - Mobile Wallpaper by Pixiv ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Hakurei.Reimu.full.4054244.jpg' alt='Hakurei Reimu (Reimu Hakurei) - Touhou - Mobile Wallpaper by Pixiv ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Hakurei.Reimu.full.4054244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just wanted to share my new phone wallpaper because I love it so ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/Ih2i8Ee.jpg' alt='Just wanted to share my new phone wallpaper because I love it so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/Ih2i8Ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Touhou Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13242317.png' alt='Touhou Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13242317.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark touhou wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/835/580/HD-wallpaper-anime-anime-girls-touhou-hakurei-reimu-dark-hair-thumbnail.jpg' alt='HD dark touhou wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/835/580/HD-wallpaper-anime-anime-girls-touhou-hakurei-reimu-dark-hair-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

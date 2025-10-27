@@ -1,0 +1,129 @@
+<title>Explore the Enchanting Background of Kirby Dreamland</title>
+                    <meta name="description" content="Discover the magical world of Kirby Dreamland, where vibrant landscapes and whimsical settings create an unforgettable gaming experience. Learn more about the charming backgrounds that make this classic Game Boy title a timeless favorite for fans and newcomers alike!">
+                    <meta name="keywords" content="kirby dreamland background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirby-dreamland-background">
+                            <span itemprop="name">kirby dreamland background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enchanting Background of Kirby Dreamland</h1>
+                <p>Kirby Dreamland, released in 1992 for the Game Boy, is set in a vibrant, whimsical world where Kirby, the adorable pink puffball, embarks on adventures to save his homeland, Dream Land. Featuring lush forests, floating islands, and captivating starry skies, the game's enchanting background contributes significantly to its nostalgic charm and immersive experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land | Kirby Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kirby/images/d/d8/KRtDLDX_Dream_Land.jpg/revision/latest?cb=20230601110014&path-prefix=en' alt='Dream Land | Kirby Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2488">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kirby Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kirby/images/d/d8/KRtDLDX_Dream_Land.jpg/revision/latest?cb=20230601110014&path-prefix=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby's return to dreamland's backrounds are stunning : r/Kirby">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kirbys-return-to-dreamlands-backrounds-are-stunning-v0-9vramems82qa1.jpg?width=799&format=pjpg&auto=webp&s=6cbf2887d9d511758d062efea635cc7127b644af' alt='Kirby's return to dreamland's backrounds are stunning : r/Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kirbys-return-to-dreamlands-backrounds-are-stunning-v0-9vramems82qa1.jpg?width=799&format=pjpg&auto=webp&s=6cbf2887d9d511758d062efea635cc7127b644af' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: Kirby's Return to Dream Land™ Deluxe | Rewards | My ...">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/95442d125426b7ca' alt='Wallpaper: Kirby's Return to Dream Land™ Deluxe | Rewards | My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/95442d125426b7ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land | Kirby Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kirby/images/e/e1/KMA_Dream_Land.jpg/revision/latest/scale-to-width-down/1334?cb=20110822143322&path-prefix=en' alt='Dream Land | Kirby Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kirby Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kirby/images/e/e1/KMA_Dream_Land.jpg/revision/latest/scale-to-width-down/1334?cb=20110822143322&path-prefix=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land - WiKirby: it's a wiki, about Kirby!">
+                                <img itemprop="contentUrl url" src='https://cdn.wikirby.com/thumb/5/58/KatFL_opening_cutscene_preview_screenshot.png/1200px-KatFL_opening_cutscene_preview_screenshot.png' alt='Dream Land - WiKirby: it's a wiki, about Kirby!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiKirby" />
+                                </span>
+                                <a href='https://cdn.wikirby.com/thumb/5/58/KatFL_opening_cutscene_preview_screenshot.png/1200px-KatFL_opening_cutscene_preview_screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land Art - Kirby's Return to Dream Land Art Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/f8/3e/1ef83e73e806d4da67f21827a3697790.jpg' alt='Dream Land Art - Kirby's Return to Dream Land Art Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/f8/3e/1ef83e73e806d4da67f21827a3697790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Kirby - Dreamland">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/762721054877217848/11B3E8B8424AB1967EEAC3F8DCA2898E847C8DFC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Kirby - Dreamland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/762721054877217848/11B3E8B8424AB1967EEAC3F8DCA2898E847C8DFC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land - WiKirby: it's a wiki, about Kirby!">
+                                <img itemprop="contentUrl url" src='https://cdn.wikirby.com/thumb/f/ff/Dream_Land_KSA.png/350px-Dream_Land_KSA.png' alt='Dream Land - WiKirby: it's a wiki, about Kirby!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiKirby" />
+                                </span>
+                                <a href='https://cdn.wikirby.com/thumb/f/ff/Dream_Land_KSA.png/350px-Dream_Land_KSA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land | Chronicles of Illusion Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/chroniclesofillusion/images/5/50/Coi_dreamland.png/revision/latest?cb=20190906045251' alt='Dream Land | Chronicles of Illusion Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chronicles of Illusion Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/chroniclesofillusion/images/5/50/Coi_dreamland.png/revision/latest?cb=20190906045251' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Land - SmashWiki, the Super Smash Bros. wiki">
+                                <img itemprop="contentUrl url" src='https://ssb.wiki.gallery/images/thumb/6/68/SSBU-Dream_Land.png/1200px-SSBU-Dream_Land.png' alt='Dream Land - SmashWiki, the Super Smash Bros. wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SmashWiki" />
+                                </span>
+                                <a href='https://ssb.wiki.gallery/images/thumb/6/68/SSBU-Dream_Land.png/1200px-SSBU-Dream_Land.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

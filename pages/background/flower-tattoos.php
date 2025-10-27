@@ -1,0 +1,129 @@
+<title>Stunning Flower Tattoos: Meaning, Designs & Inspiration</title>
+                    <meta name="description" content="Explore the world of flower tattoos! Discover meaningful designs and vibrant styles that express personal stories and beauty. Find inspiration for your next tattoo, whether you prefer minimalistic elegance or intricate floral artwork. Perfect for nature lovers and art enthusiasts alike!">
+                    <meta name="keywords" content="flower tattoos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-tattoos">
+                            <span itemprop="name">flower tattoos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Tattoos: Meaning, Designs & Inspiration</h1>
+                <p>Flower tattoos symbolize beauty, love, and personal growth, making them a popular choice for body art. From delicate roses to vibrant lotus flowers, these tattoos can convey deep meanings and showcase individual styles. Whether minimalist or intricate, flower tattoos offer endless design possibilities for self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43 Gorgeous Flower Tattoos You'll Actually Want Forever | Glamour">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/601220ec52c18c1fa47ef6c6/16:9/w_2580,c_limit/flower-tattoos-ideas.jpg' alt='43 Gorgeous Flower Tattoos You'll Actually Want Forever | Glamour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/601220ec52c18c1fa47ef6c6/16:9/w_2580,c_limit/flower-tattoos-ideas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46 Flower Tattoo Ideas For Every Floral Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.byrdie.com/thmb/2IwtH1tAtlNIA8J8EHvTMsn9FVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1.FineLineFlowerTattoo-f2947324d706443eb41d5c0458633717.jpg' alt='46 Flower Tattoo Ideas For Every Floral Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Byrdie" />
+                                </span>
+                                <a href='https://www.byrdie.com/thmb/2IwtH1tAtlNIA8J8EHvTMsn9FVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1.FineLineFlowerTattoo-f2947324d706443eb41d5c0458633717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Small Flower Tattoos For Women: Delicate Floral Designs">
+                                <img itemprop="contentUrl url" src='https://tattooobservation.com/wp-content/uploads/2024/10/Popular-Small-Flower-Tattoo.webp' alt='Cute Small Flower Tattoos For Women: Delicate Floral Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoo Observation" />
+                                </span>
+                                <a href='https://tattooobservation.com/wp-content/uploads/2024/10/Popular-Small-Flower-Tattoo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220+ Flower Tattoos Meanings and Symbolism (2024) Different Type ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/57/ea/ae57ea739c2d9f52973a51d9961321ed.jpg' alt='220+ Flower Tattoos Meanings and Symbolism (2024) Different Type ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/57/ea/ae57ea739c2d9f52973a51d9961321ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Tattoo">
+                                <img itemprop="contentUrl url" src='http://www.tattooednow.com/cdn/shop/files/Beautifulflowerfloraltemporarytattoo.jpg?v=1689604122' alt='Floral Tattoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattooed Now" />
+                                </span>
+                                <a href='http://www.tattooednow.com/cdn/shop/files/Beautifulflowerfloraltemporarytattoo.jpg?v=1689604122' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Flower Tattoo Ideas That Radiate Elegance And Beauty">
+                                <img itemprop="contentUrl url" src='https://www.boredpanda.com/blog/wp-content/uploads/2023/06/flower-tattoo-ideas-fb.png' alt='90 Flower Tattoo Ideas That Radiate Elegance And Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://www.boredpanda.com/blog/wp-content/uploads/2023/06/flower-tattoo-ideas-fb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower tattoo I had the pleasure of doing a couple weeks back ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3238381372593014664' alt='Flower tattoo I had the pleasure of doing a couple weeks back ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3238381372593014664' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43 Gorgeous Flower Tattoos You'll Actually Want Forever | Glamour">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/5e920a9925eea10008d5a70a/1:1/w_1054,h_1054,c_limit/Screen%20Shot%202020-04-11%20at%202.19.30%20PM.png' alt='43 Gorgeous Flower Tattoos You'll Actually Want Forever | Glamour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1054">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/5e920a9925eea10008d5a70a/1:1/w_1054,h_1054,c_limit/Screen%20Shot%202020-04-11%20at%202.19.30%20PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers tattoo on upper arm, by me @ink.tonight : r/tattoos">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/flowers-tattoo-on-upper-arm-by-me-v0-g8p834rk8u3e1.jpg?width=640&crop=smart&auto=webp&s=998600fb96632190661f170234a722f938a84533' alt='Flowers tattoo on upper arm, by me @ink.tonight : r/tattoos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/flowers-tattoo-on-upper-arm-by-me-v0-g8p834rk8u3e1.jpg?width=640&crop=smart&auto=webp&s=998600fb96632190661f170234a722f938a84533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Purple Flower Tattoos: Vibrant Floral Ink Art">
+                                <img itemprop="contentUrl url" src='https://cdn2.stylecraze.com/wp-content/uploads/2024/07/A-purple-flower-tattoo-on-the-arm-of-a-woman.jpg.webp' alt='8 Best Purple Flower Tattoos: Vibrant Floral Ink Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StyleCraze" />
+                                </span>
+                                <a href='https://cdn2.stylecraze.com/wp-content/uploads/2024/07/A-purple-flower-tattoo-on-the-arm-of-a-woman.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

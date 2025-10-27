@@ -1,0 +1,129 @@
+<title>How Al Capone Met His End</title>
+                    <meta name="description" content="Explore the details of Al Capone's death, including his health struggles and final days. Learn how this notorious gangster's life ended, marking the conclusion of an era in organized crime. Discover the impact of syphilis and pneumonia on his health and legacy.">
+                    <meta name="keywords" content="how did al capone die">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-did-al-capone-die">
+                            <span itemprop="name">how did al capone die</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Al Capone Met His End</h1>
+                <p>Al Capone, the infamous mobster, died on January 25, 1947, from complications of syphilis and pneumonia. After serving time for tax evasion, his health deteriorated significantly. He spent his final years in a Florida mansion, suffering from mental and physical decline, before passing away at the age of 48.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Did Al Capone Die - True Story of Al Capone's Life After Prison">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/mh-5-13-al-capone-1589388395.jpg' alt='How Did Al Capone Die - True Story of Al Capone's Life After Prison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/mh-5-13-al-capone-1589388395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Capone - The Mob Museum">
+                                <img itemprop="contentUrl url" src='https://themobmuseum.org/wp-content/uploads/2015/03/TMM15005-533x400_Responsive_AlCapone.jpg' alt='Al Capone - The Mob Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mob Museum" />
+                                </span>
+                                <a href='https://themobmuseum.org/wp-content/uploads/2015/03/TMM15005-533x400_Responsive_AlCapone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Capone | Biography, Life, Death, Alcatraz, Syphilis, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/62044-050-7D9305A4/Al-Capone-1935.jpg' alt='Al Capone | Biography, Life, Death, Alcatraz, Syphilis, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1069">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/62044-050-7D9305A4/Al-Capone-1935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did Al Capone get Syphilis? - Black Panel Press">
+                                <img itemprop="contentUrl url" src='https://blackpanelpress.com/wp-content/uploads/2024/01/Al-Capone-image-1.jpg' alt='How did Al Capone get Syphilis? - Black Panel Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Panel Press" />
+                                </span>
+                                <a href='https://blackpanelpress.com/wp-content/uploads/2024/01/Al-Capone-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The infectious disease that sprung Al Capone from Alcatraz | PBS News">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/newshour/app/uploads/2017/01/GettyImages-488592202-1024x668.jpg' alt='The infectious disease that sprung Al Capone from Alcatraz | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/newshour/app/uploads/2017/01/GettyImages-488592202-1024x668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isolation, madness and syphilis: Inside Al Capone's final years">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2016/10/ap_000809010841.jpg?quality=75&strip=all' alt='Isolation, madness and syphilis: Inside Al Capone's final years'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2016/10/ap_000809010841.jpg?quality=75&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Capone: Life, Crimes & Death Of The Prohibition-Era Gangster ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/7/2022/03/GettyImages-515581760-9800465-e1646411626500.jpg?resize=1024%2C536' alt='Al Capone: Life, Crimes & Death Of The Prohibition-Era Gangster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryExtra" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/7/2022/03/GettyImages-515581760-9800465-e1646411626500.jpg?resize=1024%2C536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did Al Capone get Syphilis? - Black Panel Press">
+                                <img itemprop="contentUrl url" src='https://blackpanelpress.com/wp-content/uploads/2024/01/chicago-private-3-hour-al-capone-gangster-tour.jpg' alt='How did Al Capone get Syphilis? - Black Panel Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Panel Press" />
+                                </span>
+                                <a href='https://blackpanelpress.com/wp-content/uploads/2024/01/chicago-private-3-hour-al-capone-gangster-tour.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Al Capone: Life, Crimes & Death Of The Prohibition-Era Gangster ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/7/2022/03/GettyImages-160175819-a1e3122.jpg' alt='Al Capone: Life, Crimes & Death Of The Prohibition-Era Gangster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2248">
+                                <meta itemprop="height" content="2901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryExtra" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/7/2022/03/GettyImages-160175819-a1e3122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On This Day, Jan. 25: Gangster Al Capone dies - UPI.com">
+                                <img itemprop="contentUrl url" src='https://cdnph.upi.com/sv/ph/og/upi/5921737743721/2025/1/f466c9151dd8d5898667be5655d44665/v1.5/On-This-Day-Gangster-Al-Capone-dies.jpg' alt='On This Day, Jan. 25: Gangster Al Capone dies - UPI.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UPI" />
+                                </span>
+                                <a href='https://cdnph.upi.com/sv/ph/og/upi/5921737743721/2025/1/f466c9151dd8d5898667be5655d44665/v1.5/On-This-Day-Gangster-Al-Capone-dies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

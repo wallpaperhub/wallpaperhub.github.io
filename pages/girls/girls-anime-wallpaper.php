@@ -1,0 +1,129 @@
+<title>Vibrant Girls Anime Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover an amazing collection of girls anime wallpapers to personalize your screens. Find the perfect blend of charm and artistry that reflects your favorite characters and series. Enhance your device with stunning visuals that resonate with your anime passion!">
+                    <meta name="keywords" content="girls anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/girls-anime-wallpaper">
+                            <span itemprop="name">girls anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Girls Anime Wallpapers for Your Devices</h1>
+                <p>Girls anime wallpaper brings vibrant characters and stunning visuals to your devices. Explore a diverse range of styles, from cute and cheerful to fierce and empowering. Whether you love magical girls, school settings, or fantasy worlds, you’ll find the perfect wallpaper to express your fandom and elevate your screen's aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Anime Girl with Sword - 5671 ...">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2023/09/10/www.mobilesmspk.net_anime-girl-with-sword_5671.jpg' alt='Download Free Mobile Phone Wallpaper Anime Girl with Sword - 5671 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2023/09/10/www.mobilesmspk.net_anime-girl-with-sword_5671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Black Anime Girl HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1351645.png' alt='Stunning Black Anime Girl HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1351645.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Beautiful Anime Girl - 6857 ...">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2024/11/13/gsmintro.net_beautiful-anime-girl_6857.jpg' alt='Download Free Mobile Phone Wallpaper Beautiful Anime Girl - 6857 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="2626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2024/11/13/gsmintro.net_beautiful-anime-girl_6857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girls Wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61g6qHR0qcL._SL500_.jpg' alt='Anime Girls Wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="281">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61g6qHR0qcL._SL500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Kawaii Cute Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-kawaii-cute-girl-59z85p1yq86tvo6l.jpg' alt='Anime Kawaii Cute Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-kawaii-cute-girl-59z85p1yq86tvo6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl Wallpapers (51 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/f/4/1302411-2160x3840-phone-4k-anime-background.jpg' alt='Anime Girl Wallpapers (51 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/f/4/1302411-2160x3840-phone-4k-anime-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Wallpaper Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/girl-gazing-sunset_1369729-33825.jpg?semt=ais_hybrid' alt='Cute Anime Girl Wallpaper Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="373">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/girl-gazing-sunset_1369729-33825.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/64/81/806481b97c4e2a5c729c9d3c7ff7d187.jpg' alt='Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/64/81/806481b97c4e2a5c729c9d3c7ff7d187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime girl Wallpaper (Wings, Ethereal) #25228">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/pic_v/25228.jpg' alt='Anime girl Wallpaper (Wings, Ethereal) #25228'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/pic_v/25228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime girl, iPhone, new, art, china, japan, cute girl, koria, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/381/320/HD-wallpaper-anime-girl-iphone-new-art-china-japan-cute-girl-koria.jpg' alt='Anime girl, iPhone, new, art, china, japan, cute girl, koria, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/381/320/HD-wallpaper-anime-girl-iphone-new-art-china-japan-cute-girl-koria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

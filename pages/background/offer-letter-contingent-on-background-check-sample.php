@@ -1,0 +1,129 @@
+<title>Sample Offer Letter Contingent on Background Check</title>
+                    <meta name="description" content="Explore our sample offer letter that includes a background check contingency. Understand the essential elements you need to include to ensure a smooth hiring process, while keeping your candidates informed about employment conditions. Perfect for employers and HR professionals!">
+                    <meta name="keywords" content="offer letter contingent on background check sample">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/offer-letter-contingent-on-background-check-sample">
+                            <span itemprop="name">offer letter contingent on background check sample</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sample Offer Letter Contingent on Background Check</h1>
+                <p>When you receive an offer letter contingent on a background check, it means your employment is conditional until the results of the check are reviewed. This sample letter typically outlines the job role, start date, compensation, and stipulates that the employment offer is valid subject to successful completion of the background screening process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Offer letter contingent on background check sample: Fill out ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/478/380/478380899/large.png' alt='Offer letter contingent on background check sample: Fill out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/478/380/478380899/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contingent Offer Letter Example 2010-2025 Form - Fill Out and Sign ...">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/100/675/100675326.png' alt='Contingent Offer Letter Example 2010-2025 Form - Fill Out and Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/100/675/100675326.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="contingent offer letter sample Doc Template | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/422/564/422564420.png' alt='contingent offer letter sample Doc Template | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/422/564/422564420.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conditional Job Offer Letter, Conditional Job Offer Letter Template,  Conditional Job Offer, Conditional Job Offer Template, Job Offer Letter">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17017872/r/il/03a60e/4735561523/il_fullxfull.4735561523_qrbj.jpg' alt='Conditional Job Offer Letter, Conditional Job Offer Letter Template,  Conditional Job Offer, Conditional Job Offer Template, Job Offer Letter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17017872/r/il/03a60e/4735561523/il_fullxfull.4735561523_qrbj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contingent job offer letter in Word and Pdf formats">
+                                <img itemprop="contentUrl url" src='https://static.dexform.com/media/docs/10952/contingent-job-offer-letter_1.png' alt='Contingent job offer letter in Word and Pdf formats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DexForm" />
+                                </span>
+                                <a href='https://static.dexform.com/media/docs/10952/contingent-job-offer-letter_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conditional Job Offers: Everything You Need to Know">
+                                <img itemprop="contentUrl url" src='https://media.fourdayweek.io/files/4-day-week-conditional-job-offer-nKsGO.png' alt='Conditional Job Offers: Everything You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4DayWeek.io" />
+                                </span>
+                                <a href='https://media.fourdayweek.io/files/4-day-week-conditional-job-offer-nKsGO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample conditional offer of employment letter in Word and Pdf formats">
+                                <img itemprop="contentUrl url" src='https://static.dexform.com/media/docs/7228/sample-conditional-offer-of-employment-letter_1.png' alt='Sample conditional offer of employment letter in Word and Pdf formats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DexForm" />
+                                </span>
+                                <a href='https://static.dexform.com/media/docs/7228/sample-conditional-offer-of-employment-letter_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing A Formal Job Offer Letter Sample Template & Best Practices">
+                                <img itemprop="contentUrl url" src='https://hirewithease.com/wp-content/uploads/Job-Offer-Letter-Screen-Shot.png' alt='Writing A Formal Job Offer Letter Sample Template & Best Practices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hire With Ease" />
+                                </span>
+                                <a href='https://hirewithease.com/wp-content/uploads/Job-Offer-Letter-Screen-Shot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conditional Job Offer Letter by Bo Sepehr - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/110923235853-722a927e5f8e4875acd6959033adca35/jpg/page_1_thumb_large.jpg' alt='Conditional Job Offer Letter by Bo Sepehr - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/110923235853-722a927e5f8e4875acd6959033adca35/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contingent Offer Letter | PDF | Employment | Economies">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/721985845/original/ab6017f2e7/1?v=1' alt='Contingent Offer Letter | PDF | Employment | Economies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/721985845/original/ab6017f2e7/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

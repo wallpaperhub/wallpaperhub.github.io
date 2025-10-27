@@ -1,0 +1,129 @@
+<title>Stacey Dash: Actress, Commentator & Controversy</title>
+                    <meta name="description" content="Explore the life of Stacey Dash, an actress known for "Clueless" and her polarizing political commentary. Discover her journey through Hollywood and her evolving views that sparked discussions across the nation.">
+                    <meta name="keywords" content="stacey dash">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stacey-dash">
+                            <span itemprop="name">stacey dash</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stacey Dash: Actress, Commentator & Controversy</h1>
+                <p>Stacey Dash is an American actress and political commentator, known for her role in the iconic film "Clueless." Born on January 20, 1967, she gained fame for her beauty and wit. Over the years, she has been a controversial figure in politics, voicing her views on various social issues, often changing the trajectory of her public image.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacey Dash - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bf/Stacey_Dash_%2825514874102%29_%28cropped%29.jpg' alt='Stacey Dash - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2634">
+                                <meta itemprop="height" content="3688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bf/Stacey_Dash_%2825514874102%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacey Dash - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTQzMzUwNDE0MF5BMl5BanBnXkFtZTgwOTQ3NTI3MzE@._V1_FMjpg_UX1000_.jpg' alt='Stacey Dash - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTQzMzUwNDE0MF5BMl5BanBnXkFtZTgwOTQ3NTI3MzE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacey Dash | Game Shows Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gameshows/images/f/f7/20-stacey-dash_w529_h529.jpg/revision/latest?cb=20160804230058' alt='Stacey Dash | Game Shows Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Shows Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gameshows/images/f/f7/20-stacey-dash_w529_h529.jpg/revision/latest?cb=20160804230058' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacey Dash photographed by Ron Galella during the 1997 Kmart Kids ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8nYE37yBPz/0/image.jpg' alt='Stacey Dash photographed by Ron Galella during the 1997 Kmart Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8nYE37yBPz/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bronx Walk of Fame | Stacey Dash">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/643f005a5f06674cee140169/64cd3103caa2cfae7cf6de4a_stacey.jpg' alt='The Bronx Walk of Fame | Stacey Dash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1624">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bronx Walk of Fame" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/643f005a5f06674cee140169/64cd3103caa2cfae7cf6de4a_stacey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacey Dash apologizes for political past: 'I made a lot of mistakes'">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/95gsETX34_YTVuDUBsGLDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0Mzk-/https://media.zenfs.com/en/thegrio_yahoo_articles_946/61b39372c8246e70fa8e1c27e5b40565' alt='Stacey Dash apologizes for political past: 'I made a lot of mistakes''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/95gsETX34_YTVuDUBsGLDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0Mzk-/https://media.zenfs.com/en/thegrio_yahoo_articles_946/61b39372c8246e70fa8e1c27e5b40565' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="“Clueless” star Stacey Dash opens up for the first time about just how  badly she was addicted to prescription pills today on #TheDrOzShow: “I was  taking 18-20 per day,” she says. , We’ll have more ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2684353518588106188' alt='“Clueless” star Stacey Dash opens up for the first time about just how  badly she was addicted to prescription pills today on #TheDrOzShow: “I was  taking 18-20 per day,” she says. , We’ll have more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2684353518588106188' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress Stacey Dash withdraws from California House race">
+                                <img itemprop="contentUrl url" src='https://katu.com/resources/media2/16x9/full/1015/center/80/36f14ef1-fd7f-4e14-b8ce-2081d6033679-large16x9_AP_18089794986267.jpg' alt='Actress Stacey Dash withdraws from California House race'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KATU" />
+                                </span>
+                                <a href='https://katu.com/resources/media2/16x9/full/1015/center/80/36f14ef1-fd7f-4e14-b8ce-2081d6033679-large16x9_AP_18089794986267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Things to Know About Clueless Actress Stacey Dash, Who Is ...">
+                                <img itemprop="contentUrl url" src='https://lamag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk3NTU1Njg3MjIwODQ4MzIy/stacey_dash_by_gage_skidmore.jpg' alt='Some Things to Know About Clueless Actress Stacey Dash, Who Is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Magazine" />
+                                </span>
+                                <a href='https://lamag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk3NTU1Njg3MjIwODQ4MzIy/stacey_dash_by_gage_skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rep Sheet Roundup: Stacey Dash Signs With CESD">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2015/09/stacy_dash_-_p_2015.jpg?w=2000&h=1126&crop=1' alt='Rep Sheet Roundup: Stacey Dash Signs With CESD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2015/09/stacy_dash_-_p_2015.jpg?w=2000&h=1126&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

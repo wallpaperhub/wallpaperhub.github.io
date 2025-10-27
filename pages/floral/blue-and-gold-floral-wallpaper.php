@@ -1,0 +1,129 @@
+<title>Elegant Blue and Gold Floral Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of blue and gold floral wallpaper. Perfect for adding a touch of elegance to any room, this design pairs modern sophistication with timeless charm. Ideal for various styles, it transforms your space effortlessly. Shop now and revamp your decor in style!">
+                    <meta name="keywords" content="blue and gold floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/blue-and-gold-floral-wallpaper">
+                            <span itemprop="name">blue and gold floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue and Gold Floral Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning blue and gold floral wallpaper. This eye-catching design blends elegance and nature, perfect for enhancing both modern and traditional interiors. The soothing hues of blue paired with luxurious gold accents create a serene yet opulent atmosphere. Elevate your home decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Overstock Dark Blue and Gold Floral Wallpaper Peel-and-Stick -  100" W x 100" H : Tools & Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8108MCFJT9L.jpg' alt='Amazon.com: Overstock Dark Blue and Gold Floral Wallpaper Peel-and-Stick -  100" W x 100" H : Tools & Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8108MCFJT9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Gold Poppies">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67821/blue-and-gold-poppies.jpg?h=699&q=85' alt='Blue and Gold Poppies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67821/blue-and-gold-poppies.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dark Blue Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall Teal Contact Paper for Cabinets Peel & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81GaO5ed2gL._AC_UF894,1000_QL80_.jpg' alt='Vintage Dark Blue Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall Teal Contact Paper for Cabinets Peel & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81GaO5ed2gL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Gold Floral on Navy Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/164Aria.webp?v=1657617303' alt='Luxury Gold Floral on Navy Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/164Aria.webp?v=1657617303' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Gold Paisley Floral Wallpaper, Indian Paisley Wall Art, Ethnic  Peel and Stick Wallpaper, Royal Home Decor, Trendy Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19529219/r/il/163bde/4914679999/il_1080xN.4914679999_lqu0.jpg' alt='Blue and Gold Paisley Floral Wallpaper, Indian Paisley Wall Art, Ethnic  Peel and Stick Wallpaper, Royal Home Decor, Trendy Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19529219/r/il/163bde/4914679999/il_1080xN.4914679999_lqu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW45702_5.jpg' alt='NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW45702_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Opulent Wallpaper in Turquoise/Gold">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/52085-65-W8611.jpg?v=1708907710' alt='Floral Opulent Wallpaper in Turquoise/Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/52085-65-W8611.jpg?v=1708907710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper blue gold brass Metallic Textured Victorian vintage rustic Damask  roll | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ThAAAOSwVB5c9Yaq/s-l400.jpg' alt='Wallpaper blue gold brass Metallic Textured Victorian vintage rustic Damask  roll | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ThAAAOSwVB5c9Yaq/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Blue Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3463">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3355769080_9jxr_abd05b38-05cd-4435-9cd0-cc179c2fc4f4.jpg?v=1644724916&width=3000' alt='Large Blue Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3463'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3355769080_9jxr_abd05b38-05cd-4435-9cd0-cc179c2fc4f4.jpg?v=1644724916&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy and Gold Floral Vintage Wallpaper / Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C719_07.png?v=1736436398&width=1445' alt='Navy and Gold Floral Vintage Wallpaper / Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C719_07.png?v=1736436398&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

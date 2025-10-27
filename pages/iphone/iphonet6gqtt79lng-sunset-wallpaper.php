@@ -1,0 +1,129 @@
+<title>Stunning Sunset Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful sunset wallpapers for your iPhone. Elevate your device's aesthetics with vibrant and serene images that fit perfectly on your screen. Browse our diverse collection and transform your iPhone today! Perfect for nature lovers and anyone wanting a daily dose of beauty.">
+                    <meta name="keywords" content="iphone:t6gqtt79lng= sunset wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonet6gqtt79lng-sunset-wallpaper">
+                            <span itemprop="name">iphone:t6gqtt79lng= sunset wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sunset Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with captivating sunset wallpapers that bring warmth and tranquility to your device. Explore a stunning collection of vibrant hues and serene landscapes, perfectly designed to fit your screen. Elevate your home and lock screens with these breathtaking images and enjoy a slice of nature every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Sunset iPhone wallpaper | Sunset iPhone background - BeCentsational">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/76/64/f97664a1e03560fd3c8e0e3846cac470.jpg' alt='25 Sunset iPhone wallpaper | Sunset iPhone background - BeCentsational'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/76/64/f97664a1e03560fd3c8e0e3846cac470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sunset Beach Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sunset-beach-iphone-h5ws70iabz2tnnzg.jpg' alt='100+] Sunset Beach Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sunset-beach-iphone-h5ws70iabz2tnnzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Beautiful Sunset iPhone Wallpapers - Wallpaperboat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/08/58/4008588befbdd50978916c9fbeb1f663.jpg' alt='30 Beautiful Sunset iPhone Wallpapers - Wallpaperboat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/08/58/4008588befbdd50978916c9fbeb1f663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sunset iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/79/448/HD-wallpaper-sunset-iphone-thumbnail.jpg' alt='HD sunset iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/79/448/HD-wallpaper-sunset-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Sunset Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV80N19waG90b19vZl9za3lfYmFja2dyb3VuZHNfc3Vuc2V0X2JhMzMwNDNlLWUyM2YtNGY2ZS1iNzAwLWI0NzNhZDljZjlmYl8xLmpwZw.jpg' alt='Iphone Sunset Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV80N19waG90b19vZl9za3lfYmFja2dyb3VuZHNfc3Vuc2V0X2JhMzMwNDNlLWUyM2YtNGY2ZS1iNzAwLWI0NzNhZDljZjlmYl8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Sunset Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sunset-iphone-eia4q5fm0ysogegs.jpg' alt='200+] Sunset Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sunset-iphone-eia4q5fm0ysogegs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Sunset Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zNl9waG90b19vZl9hX2JlYWNoX2FnYWluc3RfYV9zdW5yaXNlX25hdHVyZV9waF9iMTUyYTJmZi03MDMzLTRkMDctOGFmNy0zNTlhNzUxNGMwMjBfMS5qcGc.jpg' alt='Iphone Sunset Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zNl9waG90b19vZl9hX2JlYWNoX2FnYWluc3RfYV9zdW5yaXNlX25hdHVyZV9waF9iMTUyYTJmZi03MDMzLTRkMDctOGFmNy0zNTlhNzUxNGMwMjBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Sunset Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sunset-iphone-screen-godzh39mnby4kfqj.jpg' alt='200+] Sunset Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sunset-iphone-screen-godzh39mnby4kfqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Breathtaking Sunset Wallpapers For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2017-10/16/3/asset/buzzfeed-prod-fastlane-03/sub-buzz-10866-1508137820-2.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' alt='18 Breathtaking Sunset Wallpapers For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2017-10/16/3/asset/buzzfeed-prod-fastlane-03/sub-buzz-10866-1508137820-2.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Breathtaking Sunset Wallpapers For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2017-10/18/18/asset/buzzfeed-prod-fastlane-02/sub-buzz-6925-1508365491-13.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' alt='18 Breathtaking Sunset Wallpapers For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2017-10/18/18/asset/buzzfeed-prod-fastlane-02/sub-buzz-6925-1508365491-13.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Peppy Wallpapers: Energize Your Space!</title>
+                    <meta name="description" content="Discover peppy wallpaper to revitalize your home! Bright colors and fun patterns create a lively atmosphere. Perfect for any room, our selection adds a touch of joy and inspiration to your walls. Explore vibrant designs that uplift your space today!">
+                    <meta name="keywords" content="peppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peppy-wallpaper">
+                            <span itemprop="name">peppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Peppy Wallpapers: Energize Your Space!</h1>
+                <p>Peppy wallpaper brings vibrancy and energy to any space! With lively patterns and bright colors, it transforms your walls into an inspiring canvas. Ideal for bedrooms, living rooms, or creative studios, peppy wallpaper ignites positivity and joy. Choose from floral designs, geometric prints, or abstract art for a refreshing touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="96     Peppy wallpaper      ideas | preppy wallpaper, summer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/95/1c/12/951c12560a52a00ea7bfe51022d9bfaa.jpg' alt='96     Peppy wallpaper      ideas | preppy wallpaper, summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/95/1c/12/951c12560a52a00ea7bfe51022d9bfaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peppy Leopard Peach Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://templestudiony.com/cdn/shop/products/PeppyLeopardPeachGrassclothWallpaper_300x.jpg?v=1650320084' alt='Peppy Leopard Peach Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEMPLE STUDIO" />
+                                </span>
+                                <a href='https://templestudiony.com/cdn/shop/products/PeppyLeopardPeachGrassclothWallpaper_300x.jpg?v=1650320084' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peppy Leopard Ochre Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0345/7361/5236/products/PeppyLeopardOchreGrassclothWallpaper.jpg?v=1650320081' alt='Peppy Leopard Ochre Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEMPLE STUDIO" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0345/7361/5236/products/PeppyLeopardOchreGrassclothWallpaper.jpg?v=1650320081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-peachy-hollow-preppy-pfp-cvt9c516ymx8my6i.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-peachy-hollow-preppy-pfp-cvt9c516ymx8my6i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peppy Leopard Rainwashed Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://templestudiony.com/cdn/shop/products/PeppyLeopardRainwashedGrassclothWallpaper_300x.jpg?v=1650320085' alt='Peppy Leopard Rainwashed Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEMPLE STUDIO" />
+                                </span>
+                                <a href='https://templestudiony.com/cdn/shop/products/PeppyLeopardRainwashedGrassclothWallpaper_300x.jpg?v=1650320085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/1b/8f/3b1b8fd3482834a857109a9193f87089.jpg' alt='Preppy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/1b/8f/3b1b8fd3482834a857109a9193f87089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Preppy ideas | preppy wallpaper, wall collage, aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1f/88/2f/1f882fc3afe8d61dd73d2dcd79c58b88.jpg' alt='12 Preppy ideas | preppy wallpaper, wall collage, aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1f/88/2f/1f882fc3afe8d61dd73d2dcd79c58b88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_300x300.5864777799_6hab.jpg' alt='Preppy Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_300x300.5864777799_6hab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-themed-tumblr-aesthetic-and-preppy-pfp-wolm9v9whq7hmwk1.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-themed-tumblr-aesthetic-and-preppy-pfp-wolm9v9whq7hmwk1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

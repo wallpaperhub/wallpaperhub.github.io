@@ -1,0 +1,129 @@
+<title>The Art of The Lion King: A Visual Journey</title>
+                    <meta name="description" content="Delve into the enchanting concept art of "The Lion King." Discover the creative process behind iconic characters and landscapes that shaped this beloved story. Perfect for fans and art enthusiasts, this exploration offers insights into the artistry that brings the vibrant world of the Pride Lands to life.">
+                    <meta name="keywords" content="lion king concept art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lion-king-concept-art">
+                            <span itemprop="name">lion king concept art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Art of The Lion King: A Visual Journey</h1>
+                <p>Explore the captivating world of "Lion King" concept art, where vibrant landscapes and majestic characters come to life. From initial sketches to rich color palettes, these artworks depict the timeless story of Simba's journey. Discover how talented artists blend imagination with nature, crafting an iconic animal kingdom full of emotion and depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Ride Concept Art">
+                                <img itemprop="contentUrl url" src='https://wdwmagic.twic.pics/ElementGalleryItems/wdwmagic-plus/Fullsize/Disneyland-Paris-Resort_Full_57202.jpg?twic=v1' alt='Lion King Ride Concept Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WDWMagic" />
+                                </span>
+                                <a href='https://wdwmagic.twic.pics/ElementGalleryItems/wdwmagic-plus/Fullsize/Disneyland-Paris-Resort_Full_57202.jpg?twic=v1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of the Lion King (part 1)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071043376-4YUOTKNIHSLS2AL4ELA9/Art+of+the+Lion+King+A+-+13.jpg' alt='Art of the Lion King (part 1)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071043376-4YUOTKNIHSLS2AL4ELA9/Art+of+the+Lion+King+A+-+13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concept art from Lion King, this is one I must have painted a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2617045043198644749' alt='Concept art from Lion King, this is one I must have painted a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2617045043198644749' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of the Lion King (part 3)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564075162506-D9V07NKHK1AEEEFYMF56/Art+of+the+Lion+King+G+-+380.jpg' alt='Art of the Lion King (part 3)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="908">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564075162506-D9V07NKHK1AEEEFYMF56/Art+of+the+Lion+King+G+-+380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of the Lion King (part 1)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071042398-FQIQ29595BIFJWYKEYH0/Art+of+the+Lion+King+A+-+7.jpg' alt='Art of the Lion King (part 1)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071042398-FQIQ29595BIFJWYKEYH0/Art+of+the+Lion+King+A+-+7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concept art from Mufasa: The Lion King : r/lionking">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/concept-art-from-mufasa-the-lion-king-v0-pfmtvk9q835e1.jpg?width=1344&format=pjpg&auto=webp&s=6b0490b3623dc548d2da34c06c2bbcfa84d2bcfa' alt='Concept art from Mufasa: The Lion King : r/lionking'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/concept-art-from-mufasa-the-lion-king-v0-pfmtvk9q835e1.jpg?width=1344&format=pjpg&auto=webp&s=6b0490b3623dc548d2da34c06c2bbcfa84d2bcfa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of the Lion King (part 1)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071823876-PEZWEUZAEXYTH9EN3MTM/Art+of+the+Lion+King+-+3.jpg' alt='Art of the Lion King (part 1)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071823876-PEZWEUZAEXYTH9EN3MTM/Art+of+the+Lion+King+-+3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Wonderful Look At The Behind-The-Scenes Art Of "The Lion King"">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2017-08/8/18/asset/buzzfeed-prod-fastlane-01/sub-buzz-13644-1502231382-1.jpg' alt='A Wonderful Look At The Behind-The-Scenes Art Of "The Lion King"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2017-08/8/18/asset/buzzfeed-prod-fastlane-01/sub-buzz-13644-1502231382-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The concept art for The Lion King 2019 is more expressive than the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-concept-art-for-the-lion-king-2019-is-more-expressive-v0-vrgp8chbwqga1.jpg?width=800&format=pjpg&auto=webp&s=da0f69b52fa9676320de06ca9d5d9ed3f59bbb2a' alt='The concept art for The Lion King 2019 is more expressive than the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-concept-art-for-the-lion-king-2019-is-more-expressive-v0-vrgp8chbwqga1.jpg?width=800&format=pjpg&auto=webp&s=da0f69b52fa9676320de06ca9d5d9ed3f59bbb2a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of the Lion King (part 1)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071044577-3YBW9KIA4PO8I24GCI2B/Art+of+the+Lion+King+A+-+16.jpg' alt='Art of the Lion King (part 1)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1564071044577-3YBW9KIA4PO8I24GCI2B/Art+of+the+Lion+King+A+-+16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

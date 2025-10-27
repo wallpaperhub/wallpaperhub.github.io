@@ -1,0 +1,129 @@
+<title>Exploring Merle Oberon's Unique Ethnicity</title>
+                    <meta name="description" content="Discover the fascinating ethnic background of Merle Oberon, the iconic actress known for her roles in classic films. Learn about her heritage, blending Indian and English roots, and how it influenced her career in Hollywood. Explore the complexities of her identity that shaped her legacy.">
+                    <meta name="keywords" content="merle oberon ethnicity">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/merle-oberon-ethnicity">
+                            <span itemprop="name">merle oberon ethnicity</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Merle Oberon's Unique Ethnicity</h1>
+                <p>Merle Oberon, a celebrated actress of the 1930s and 1940s, had a complex ethnicity that often sparked interest. Born in India to an English father and an Indian mother, she was often misidentified as purely British. Her mixed heritage contributed to her unique appearance and helped propel her to Hollywood stardom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress Merle Oberon's Hidden South Asian Heritage - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/63d042aaaa91990019ac5de9?width=800&format=jpeg&auto=webp' alt='Actress Merle Oberon's Hidden South Asian Heritage - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/63d042aaaa91990019ac5de9?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passing for White: Merle Oberon (Make Me Over, Episode 4) — You ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/566943d25a5668b614270ff9/1580759527843-I249DM8GSN8GMLJPWES4/image-asset.jpeg' alt='Passing for White: Merle Oberon (Make Me Over, Episode 4) — You ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="You Must Remember This" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/566943d25a5668b614270ff9/1580759527843-I249DM8GSN8GMLJPWES4/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress Merle Oberon's Hidden South Asian Heritage - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/64065c1737125e0018a1405d?width=800&format=jpeg&auto=webp' alt='Actress Merle Oberon's Hidden South Asian Heritage - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/64065c1737125e0018a1405d?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress Merle Oberon's Hidden South Asian Heritage - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/64065780934c2c001802cda6?width=700' alt='Actress Merle Oberon's Hidden South Asian Heritage - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/64065780934c2c001802cda6?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merle Oberon: India's forgotten Hollywood star">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/1024/branded_news/1059E/production/_124147966_gettyimages-1065245374-594x594.jpg' alt='Merle Oberon: India's forgotten Hollywood star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/1024/branded_news/1059E/production/_124147966_gettyimages-1065245374-594x594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merle Oberon - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c6/Merle_Oberon-publicity.JPG' alt='Merle Oberon - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c6/Merle_Oberon-publicity.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress Merle Oberon's Hidden South Asian Heritage - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/64065d5537125e0018a140a7?width=800&format=jpeg&auto=webp' alt='Actress Merle Oberon's Hidden South Asian Heritage - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/64065d5537125e0018a140a7?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merle Oberon | Silent Film Star, Hollywood Actress, Wuthering ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/51/154051-050-91BE9E6F/Merle-Oberon-Desiree.jpg' alt='Merle Oberon | Silent Film Star, Hollywood Actress, Wuthering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/51/154051-050-91BE9E6F/Merle-Oberon-Desiree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The tragic history of the first Asian woman nominated for Best Actress">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/9hoK842aKjJrUTzes-G7bjmWenU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Merle-Oberon-05-030623-8db196aba12e40d8bcc15bfa50bc2eea.jpg' alt='The tragic history of the first Asian woman nominated for Best Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/9hoK842aKjJrUTzes-G7bjmWenU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Merle-Oberon-05-030623-8db196aba12e40d8bcc15bfa50bc2eea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merle Oberon – The Cardinal">
+                                <img itemprop="contentUrl url" src='https://thehoovercardinal.org/wp-content/uploads/2018/05/Merle-900x562.jpg' alt='Merle Oberon – The Cardinal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cardinal" />
+                                </span>
+                                <a href='https://thehoovercardinal.org/wp-content/uploads/2018/05/Merle-900x562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

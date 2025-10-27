@@ -1,0 +1,129 @@
+<title>Cheerful Smiley Faces Wallpaper for a Happy Space</title>
+                    <meta name="description" content="Transform your room with cheerful smiley faces wallpaper! Perfect for kids’ spaces or anywhere you want to spread positivity. Easy to apply and designed for any decor style, our wallpaper brings smiles and joy to your environment. Revamp your walls with fun patterns today!">
+                    <meta name="keywords" content="smiley faces wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smiley-faces-wallpaper">
+                            <span itemprop="name">smiley faces wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Smiley Faces Wallpaper for a Happy Space</h1>
+                <p>Smiley faces wallpaper brings joy and positivity to your space! Brighten up your room with playful patterns of smiley emojis that create a cheerful atmosphere. Perfect for kids' rooms, playrooms, or any area that could use a boost of happiness. Easy to apply and remove, these wallpapers make it simple to refresh your decor while spreading smiles everywhere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' alt='smiley face laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/56/7b/f0567b33bb4d5a906c53bf65836ac6e1.jpg' alt='Smiley Face Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/56/7b/f0567b33bb4d5a906c53bf65836ac6e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Smiley Face Wallpaper Stock Illustrations – 631 Trippy ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/seamless-yellow-distorted-melting-smiley-face-illustration-pattern-fabric-wallpaper-wrapping-paper-vector-seamless-yellow-239922773.jpg' alt='Trippy Smiley Face Wallpaper Stock Illustrations – 631 Trippy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/seamless-yellow-distorted-melting-smiley-face-illustration-pattern-fabric-wallpaper-wrapping-paper-vector-seamless-yellow-239922773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' alt='Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Smiley Faces Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/smiley-face-cow-print-dhl3gu1tahi5xyai.webp' alt='Shiny Smiley Faces Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/smiley-face-cow-print-dhl3gu1tahi5xyai.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Pattern Images – Browse 65,983 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/31/82/57/360_F_431825797_gbFmyO0sBt29VljKwxyYxDjcV5oJCHzi.jpg' alt='Smiley Face Pattern Images – Browse 65,983 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/31/82/57/360_F_431825797_gbFmyO0sBt29VljKwxyYxDjcV5oJCHzi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-smiley-face-wallpaper-ugtas9l1d0demz3p.jpg' alt='Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-smiley-face-wallpaper-ugtas9l1d0demz3p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Collection (Background Patterns)">
+                                <img itemprop="contentUrl url" src='https://threadmama.com/cdn/shop/products/Pattern-67_watermark_900x.jpg?v=1619025166' alt='Smiley Face Collection (Background Patterns)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thread Mama" />
+                                </span>
+                                <a href='https://threadmama.com/cdn/shop/products/Pattern-67_watermark_900x.jpg?v=1619025166' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper- Smiley Face - Minimalist Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0f3f59/4508331201/il_570xN.4508331201_scgc.jpg' alt='IPhone Wallpaper- Smiley Face - Minimalist Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0f3f59/4508331201/il_570xN.4508331201_scgc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Background Images – Browse 515,487 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/92/70/26/360_F_292702655_ilgc3lYGuSqNb6aV5w17iLU14vJZYqJ6.jpg' alt='Smiley Face Background Images – Browse 515,487 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/92/70/26/360_F_292702655_ilgc3lYGuSqNb6aV5w17iLU14vJZYqJ6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

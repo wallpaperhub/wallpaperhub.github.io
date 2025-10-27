@@ -1,0 +1,129 @@
+<title>Chill Out with Stunning Winter Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover beautiful winter wallpapers to refresh your devices! Explore serene landscapes and cozy scenes, perfect for embracing the season's chill. Optimize your screen with our cool designs and enjoy a wintery aesthetic all season long. Dive into our collection now!">
+                    <meta name="keywords" content="cool winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/cool-winter-wallpaper">
+                            <span itemprop="name">cool winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chill Out with Stunning Winter Wallpaper for Your Devices</h1>
+                <p>Transform your digital space this winter with our stunning collection of cool winter wallpapers! From serene snowy landscapes to cozy cabin scenes, find the perfect backdrop to embrace the season. Elevate your devices with these artistic designs, adding a touch of winter magic to your screens. Explore now and refresh your view!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cool-winter-wallpaper-17509-18068-hd-wallpapers – Coldlabel">
+                                <img itemprop="contentUrl url" src='https://coldlabel.co/wp-content/uploads/2018/02/cool-winter-wallpaper-17509-18068-hd-wallpapers.jpg' alt='cool-winter-wallpaper-17509-18068-hd-wallpapers – Coldlabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coldlabel" />
+                                </span>
+                                <a href='https://coldlabel.co/wp-content/uploads/2018/02/cool-winter-wallpaper-17509-18068-hd-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Beautiful Free Winter Wallpaper Designs For Inspiration">
+                                <img itemprop="contentUrl url" src='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Deep-Silence.jpg?strip=all&lossy=1&ssl=1' alt='40 Beautiful Free Winter Wallpaper Designs For Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Author" />
+                                </span>
+                                <a href='https://cdn.cssauthor.com/wp-content/uploads/2013/03/Deep-Silence.jpg?strip=all&lossy=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,000+ Best Winter Pictures · 100% Free Download Winter Images ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/300857/pexels-photo-300857.jpeg?cs=srgb&dl=pexels-riciardus-300857.jpg&fm=jpg' alt='70,000+ Best Winter Pictures · 100% Free Download Winter Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5008">
+                                <meta itemprop="height" content="3339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/300857/pexels-photo-300857.jpeg?cs=srgb&dl=pexels-riciardus-300857.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1518873890627-d4b177c06e51?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ludGVyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Winter Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1518873890627-d4b177c06e51?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ludGVyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowy Hill In Winter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/snowy-hill-in-winter-5k6lr8j0y8kb9gpe.jpg' alt='Snowy Hill In Winter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/snowy-hill-in-winter-5k6lr8j0y8kb9gpe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1510798831971-661eb04b3739?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdpbnRlciUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Winter Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1510798831971-661eb04b3739?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdpbnRlciUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Winter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/winter-cmgw5mq23dasvttz.jpg' alt='1000+] Winter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/winter-cmgw5mq23dasvttz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Snow Covered Trees Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/winter-snow-covered-trees-ssj63mzy3vm53971.jpg' alt='Winter Snow Covered Trees Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/winter-snow-covered-trees-ssj63mzy3vm53971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Landscape Wallpaper Full HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/29/dd/9929ddc59f5a40e6cc6a9606b0f4e325.jpg' alt='Winter Landscape Wallpaper Full HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/29/dd/9929ddc59f5a40e6cc6a9606b0f4e325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wintry snow wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/412/130/HD-wallpaper-wintry-birds-peace-sky-cold-tree-moon-cool-snow-white-blue.jpg' alt='HD wintry snow wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/412/130/HD-wallpaper-wintry-birds-peace-sky-cold-tree-moon-cool-snow-white-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

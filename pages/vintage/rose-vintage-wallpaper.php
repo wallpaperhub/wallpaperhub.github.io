@@ -1,0 +1,129 @@
+<title>Rose Vintage Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Discover the enchanting beauty of rose vintage wallpaper. Perfect for creating a nostalgic atmosphere, these designs elevate any room, blending classic elegance with modern style. Revamp your spaces effortlessly and embrace the charm of vintage décor with just a roll! Perfect for any interior lover.">
+                    <meta name="keywords" content="rose vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/rose-vintage-wallpaper">
+                            <span itemprop="name">rose vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rose Vintage Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with the timeless charm of rose vintage wallpaper. Ideal for adding warmth and elegance, this décor choice invokes nostalgia while enhancing modern interiors. Available in various colors and patterns, these wallpapers provide a perfect backdrop for your furnishings, making every room feel inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest VF30602 Blooming Rose Vintage Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202021.jpg' alt='Wallquest VF30602 Blooming Rose Vintage Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Pink Roses on White - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4087/13281/vintage-wallpaper-73__04935.1657143386.jpg?c=2' alt='1960s Vintage Wallpaper Pink Roses on White - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4087/13281/vintage-wallpaper-73__04935.1657143386.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Victorian Tea Rose Wallpaper, Vintage French Farmhouse, Old Tan  Faux Plaster, Shabby Chic Antique Floral – 12x9" Sample SP24431so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/a59f2f/2012123772/il_570xN.2012123772_c00w.jpg' alt='Distressed Victorian Tea Rose Wallpaper, Vintage French Farmhouse, Old Tan  Faux Plaster, Shabby Chic Antique Floral – 12x9" Sample SP24431so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/a59f2f/2012123772/il_570xN.2012123772_c00w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Vintage Roses">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/84844/rustic-vintage-roses.jpg?h=699&q=85' alt='Rustic Vintage Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/84844/rustic-vintage-roses.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Rose Wallpaper Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/9/4/194a8669-7ec4-4598-8d43-fac203b683b9_large/vintage-rose-wallpaper-stockcake.jpg' alt='Free Vintage Rose Wallpaper Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/9/4/194a8669-7ec4-4598-8d43-fac203b683b9_large/vintage-rose-wallpaper-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Flower Wallpaper - Removable Wallpaper - Vintage Red Roses ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12312441/r/il/d01178/1114308900/il_570xN.1114308900_i639.jpg' alt='Rose Flower Wallpaper - Removable Wallpaper - Vintage Red Roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12312441/r/il/d01178/1114308900/il_570xN.1114308900_i639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Roses – North and Finch">
+                                <img itemprop="contentUrl url" src='http://northandfinch.com/cdn/shop/products/image_0f38584f-51cc-4d4b-afb3-36f5bbf444e6.jpg?v=1666178430' alt='Vintage Roses – North and Finch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North and Finch" />
+                                </span>
+                                <a href='http://northandfinch.com/cdn/shop/products/image_0f38584f-51cc-4d4b-afb3-36f5bbf444e6.jpg?v=1666178430' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cora - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0103_1s_Cora-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718080' alt='Cora - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0103_1s_Cora-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Rose Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/DEKO.TAP_.149.jpg?v=1695641464' alt='Vintage Rose Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/DEKO.TAP_.149.jpg?v=1695641464' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Vintage Floral Peel and Stick Wallpaper Red Rose Wall Paper  Roses Floral Wallpaper Waterproof Removable Retro Black Floral Contact  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/915uA9fGceL.jpg' alt='Wallercity Vintage Floral Peel and Stick Wallpaper Red Rose Wall Paper  Roses Floral Wallpaper Waterproof Removable Retro Black Floral Contact  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/915uA9fGceL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

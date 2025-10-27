@@ -1,0 +1,129 @@
+<title>Vibrant Psychedelic Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover stunning psychedelic wallpapers for your iPhone! Transform your screen with vibrant colors and mesmerizing patterns that express your unique style. Explore a variety of themes to make your device truly stand out. Perfect for anyone seeking creative and eye-catching designs!">
+                    <meta name="keywords" content="psychedelic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/psychedelic-wallpaper-iphone">
+                            <span itemprop="name">psychedelic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Psychedelic Wallpapers for iPhone</h1>
+                <p>Psychedelic wallpaper for iPhone adds vibrant colors and mesmerizing patterns to your device, creating an eye-catching visual experience. Whether you prefer swirling lights, intricate designs, or cosmic themes, these wallpapers can transform your phone's aesthetic. Embrace creativity and express your unique style with psychedelic wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Iphone Shining Like Gems Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-many-creepy-faces-er5q3skuczq5e84h.webp' alt='Psychedelic Iphone Shining Like Gems Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-many-creepy-faces-er5q3skuczq5e84h.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Peacock Spirals Iphone Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/psychedelic-peacock-spirals-iphone-wallpaper-k1bp5jb0sv0fxi1p.webp' alt='Psychedelic Peacock Spirals Iphone Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/psychedelic-peacock-spirals-iphone-wallpaper-k1bp5jb0sv0fxi1p.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Cool Iphone Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/85/58/53/855853827b3f6d300a91908e07495f59.jpg' alt='Trippy Cool Iphone Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/85/58/53/855853827b3f6d300a91908e07495f59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Hypnotic Art Wallpapers - Psychedelic Wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/10/trippy-hypnotic-art-wallpaper-scaled.jpg' alt='Trippy Hypnotic Art Wallpapers - Psychedelic Wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/10/trippy-hypnotic-art-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Trippy iPhone Wallpapers ideas | trippy wallpaper, trippy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/12/a1/54/12a1541fd9f363c08033cadf1e20ffbd.jpg' alt='26 Trippy iPhone Wallpapers ideas | trippy wallpaper, trippy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/12/a1/54/12a1541fd9f363c08033cadf1e20ffbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Psychedelic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/psychedelic-iphone-shining-like-gems-8bq6bjalp7iaffdf.jpg' alt='100+] Psychedelic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/psychedelic-iphone-shining-like-gems-8bq6bjalp7iaffdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Colorful Psychedelic Image With Rainbow Waves Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-colorful-psychedelic-image-with-rainbow-waves-eg2pzaf725cab348.jpg' alt='A Colorful Psychedelic Image With Rainbow Waves Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-colorful-psychedelic-image-with-rainbow-waves-eg2pzaf725cab348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Landscape iPhone Android Wallpaper 6 Digital Download  Backgrounds Wallpapers Surreal Psychedelic Backgrounds Trippy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/PsychedelicLandscape_cporvy.jpg' alt='Psychedelic Landscape iPhone Android Wallpaper 6 Digital Download  Backgrounds Wallpapers Surreal Psychedelic Backgrounds Trippy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/PsychedelicLandscape_cporvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic 14, art, pattern, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/773/144/HD-wallpaper-psychedelic-14-art-pattern.jpg' alt='Psychedelic 14, art, pattern, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/773/144/HD-wallpaper-psychedelic-14-art-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful and trippy linework designs : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/colorful-and-trippy-linework-designs-v0-wms3t5he1hta1.png?width=640&crop=smart&auto=webp&s=97741dae9dc9377f5df81e5ee99bed1c4f270f3c' alt='Colorful and trippy linework designs : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/colorful-and-trippy-linework-designs-v0-wms3t5he1hta1.png?width=640&crop=smart&auto=webp&s=97741dae9dc9377f5df81e5ee99bed1c4f270f3c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

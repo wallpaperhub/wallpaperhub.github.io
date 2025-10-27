@@ -1,0 +1,129 @@
+<title>Stunning NASA iPhone Wallpapers for Space Enthusiasts</title>
+                    <meta name="description" content="Discover breathtaking NASA iPhone wallpapers that capture the beauty of space. From vivid galaxy images to inspiring rocket launches, find the perfect background to express your passion for astronomy. Download high-quality designs and transform your device today!">
+                    <meta name="keywords" content="nasa iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/nasa-iphone-wallpaper">
+                            <span itemprop="name">nasa iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning NASA iPhone Wallpapers for Space Enthusiasts</h1>
+                <p>Transform your iPhone’s aesthetic with stunning NASA wallpapers! Explore breathtaking images of galaxies, planets, and space missions that bring the cosmos to your fingertips. Elevate your device with these high-quality designs, perfect for space lovers eager to showcase their passion for exploration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nasa Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nasa-iphone-o6rplypcusn4i8yp.jpg' alt='100+] Nasa Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nasa-iphone-o6rplypcusn4i8yp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this simple retro NASA wallpaper for my iPhone & thought I'd ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gzpygq0sil351.jpg' alt='Made this simple retro NASA wallpaper for my iPhone & thought I'd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gzpygq0sil351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA WALLPAPER IPHONE - HeroWall | Phone Backgrounds. Free download!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEiWYImCBn4cyBqQJutRhZ5CmaPs9Zx07N50FdF677ndSNHfSSH5WTitcqoPE53fgaN1AaiskCbbuQqkWJfkiVSFrQqcl7zu9P40TqW651DN6ARSRt00wJjl-Rh7G5TZL0aO2YKuuQ0zCq7Pk-25vX5H1s9zHSZAn-8V5gMoPdgISvsWGoEePR2sQmUnrX0' alt='NASA WALLPAPER IPHONE - HeroWall | Phone Backgrounds. Free download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEiWYImCBn4cyBqQJutRhZ5CmaPs9Zx07N50FdF677ndSNHfSSH5WTitcqoPE53fgaN1AaiskCbbuQqkWJfkiVSFrQqcl7zu9P40TqW651DN6ARSRt00wJjl-Rh7G5TZL0aO2YKuuQ0zCq7Pk-25vX5H1s9zHSZAn-8V5gMoPdgISvsWGoEePR2sQmUnrX0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone nasa 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-113197/Nasa-Aesthetic-Cave.jpg' alt='Iphone nasa 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-113197/Nasa-Aesthetic-Cave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nasa, dark, space, light, phone, lock, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/146/821/HD-wallpaper-nasa-dark-space-light-phone-lock.jpg' alt='Nasa, dark, space, light, phone, lock, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/146/821/HD-wallpaper-nasa-dark-space-light-phone-lock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nasa wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/07/Carina-Nebular-22Cosmic-Cliffs22-iPhone-wallpaper.jpeg' alt='Nasa wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/07/Carina-Nebular-22Cosmic-Cliffs22-iPhone-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA BACKGROUND IPHONE - HeroWall | Phone Backgrounds. Free download!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjsjw32OZVkhXQALVR1CkQiK9muq5HKoM8tgljBlSP4V4b8wWvVwr0Dz8llqEdiCw8wsKJqMrD2IQIX2xjPETRFR3LVXwb3sYDQpmo-0JzX6uwWBxcCK4R5HtQmbdPT5vJPBeNZ7vu3feYD3NvvZJ9OceqOlwx4oNKUVMtX_0xdt83YSOnHhN94fVhSimk' alt='NASA BACKGROUND IPHONE - HeroWall | Phone Backgrounds. Free download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjsjw32OZVkhXQALVR1CkQiK9muq5HKoM8tgljBlSP4V4b8wWvVwr0Dz8llqEdiCw8wsKJqMrD2IQIX2xjPETRFR3LVXwb3sYDQpmo-0JzX6uwWBxcCK4R5HtQmbdPT5vJPBeNZ7vu3feYD3NvvZJ9OceqOlwx4oNKUVMtX_0xdt83YSOnHhN94fVhSimk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: The NASA Collection for iPad, iPhone, and ...">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2016/05/NASA_Wallpaper_iPhone_1.jpg' alt='Wallpaper Weekends: The NASA Collection for iPad, iPhone, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2016/05/NASA_Wallpaper_iPhone_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="imgur.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/b7/da/a4b7da9dc2ffea9a0f73a17897a05258.jpg' alt='imgur.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/b7/da/a4b7da9dc2ffea9a0f73a17897a05258.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download NASA iPhone Worm Logo Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nasa-iphone-worm-logo-ynu0hwp50zzfqisj.jpg' alt='Download NASA iPhone Worm Logo Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nasa-iphone-worm-logo-ynu0hwp50zzfqisj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

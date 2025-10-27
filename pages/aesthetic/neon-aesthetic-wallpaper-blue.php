@@ -1,0 +1,129 @@
+<title>Vibrant Blue Neon Aesthetic Wallpaper for a Modern Space</title>
+                    <meta name="description" content="Discover stunning blue neon aesthetic wallpaper that energizes your decor. Ideal for modern interiors, our wallpaper features eye-catching designs that brighten any room. Perfect for bedrooms, living rooms, or creative spaces, transform your atmosphere with vibrant colors and unique patterns. Shop now!">
+                    <meta name="keywords" content="neon aesthetic wallpaper blue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/neon-aesthetic-wallpaper-blue">
+                            <span itemprop="name">neon aesthetic wallpaper blue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue Neon Aesthetic Wallpaper for a Modern Space</h1>
+                <p>Transform your space with a mesmerizing neon aesthetic wallpaper in vibrant blue. Perfect for creating a modern, energetic vibe, this wallpaper features stunning neon patterns that illuminate any room. Ideal for bedrooms, living spaces, or creative areas, it seamlessly blends style and atmosphere, making your decor truly pop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue aesthetic 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' alt='Neon blue aesthetic 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1432">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Aesthetic Neon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-neon-signs-collage-txxsnqfz8ye8sd84.jpg' alt='100+] Blue Aesthetic Neon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-neon-signs-collage-txxsnqfz8ye8sd84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/blue-neon-aesthetic-collage-gplsz698mjued6so.jpg' alt='Blue Neon Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/blue-neon-aesthetic-collage-gplsz698mjued6so.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8c/89/14/8c89144d870b430cbd6abefc6ca73d17.jpg' alt='Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8c/89/14/8c89144d870b430cbd6abefc6ca73d17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Dark Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-collage-aesthetic-s0va3ye0e1ro5wh6.jpg' alt='100+] Neon Dark Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-collage-aesthetic-s0va3ye0e1ro5wh6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-neon-aesthetic-collage-evcejmn7zujltg4t.jpg' alt='Blue Neon Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-neon-aesthetic-collage-evcejmn7zujltg4t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/0b/a7/ed0ba7f749f2f73d978f780c9869fe2b.jpg' alt='blue    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/0b/a7/ed0ba7f749f2f73d978f780c9869fe2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Neon Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-blue-aesthetic-n9zdkgeghgdkm9ve.jpg' alt='200+] Neon Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-blue-aesthetic-n9zdkgeghgdkm9ve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Aesthetic Wallpaper Blue Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' alt='Neon Aesthetic Wallpaper Blue Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zara Larsson Aesthetic Blue Neon Lights Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e36452d7-38f6-41fe-930f-d3dd08cbf546/dduma0h-e513b4e3-c077-49b5-aae3-66c31742d0da.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UzNjQ1MmQ3LTM4ZjYtNDFmZS05MzBmLWQzZGQwOGNiZjU0NlwvZGR1bWEwaC1lNTEzYjRlMy1jMDc3LTQ5YjUtYWFlMy02NmMzMTc0MmQwZGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KPnv8_aGeuQXWNUdGiAQo3yyAZJG2_bheQIIE0xu1x4' alt='Zara Larsson Aesthetic Blue Neon Lights Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1681">
+                                <meta itemprop="height" content="2989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e36452d7-38f6-41fe-930f-d3dd08cbf546/dduma0h-e513b4e3-c077-49b5-aae3-66c31742d0da.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UzNjQ1MmQ3LTM4ZjYtNDFmZS05MzBmLWQzZGQwOGNiZjU0NlwvZGR1bWEwaC1lNTEzYjRlMy1jMDc3LTQ5YjUtYWFlMy02NmMzMTc0MmQwZGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KPnv8_aGeuQXWNUdGiAQo3yyAZJG2_bheQIIE0xu1x4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

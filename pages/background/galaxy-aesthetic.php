@@ -1,0 +1,129 @@
+<title>Explore the Enchanting Galaxy Aesthetic</title>
+                    <meta name="description" content="Discover the captivating world of galaxy aesthetic, a mesmerizing blend of cosmic colors and celestial designs that inspire creativity and imagination. Explore how this stunning visual theme influences art, fashion, and decor, and learn tips to incorporate it into your life.">
+                    <meta name="keywords" content="galaxy aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-aesthetic">
+                            <span itemprop="name">galaxy aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enchanting Galaxy Aesthetic</h1>
+                <p>Galaxy aesthetic encompasses the mesmerizing beauty of outer space, blending deep hues of blue, purple, and black with shimmering stars and celestial patterns. This style evokes feelings of wonder and mystery, inspiring art, fashion, and decor. Capturing the essence of the cosmos, it invites creativity and imagination to soar beyond the stars.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/81/1b/e1/811be1795e55e5585c30b16e526f307a.jpg' alt='Galaxy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/81/1b/e1/811be1795e55e5585c30b16e526f307a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Aesthetic | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2051155736.8073/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Galaxy Aesthetic | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2051155736.8073/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-galaxy-spiral-waves-27p806n1i63uxyr4.jpg' alt='100+] Aesthetic Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-galaxy-spiral-waves-27p806n1i63uxyr4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Aesthetic Purple Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pretty-aesthetic-purple-galaxy-el07p9x3ml98nj4r.jpg' alt='Pretty Aesthetic Purple Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pretty-aesthetic-purple-galaxy-el07p9x3ml98nj4r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Aesthetic Galaxy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-gradient-galaxy-background_23-2149223891.jpg' alt='Page 2 | Aesthetic Galaxy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-gradient-galaxy-background_23-2149223891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colour/Aesthetic Themes - Galaxy/Space Aesthetic - Wattpad">
+                                <img itemprop="contentUrl url" src='https://img.wattpad.com/bc71219c3ca7b1684665d6a0de75e230aabcb66f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f6770725851644e726f49552d513d3d2d3433383231353532352e313463666333353536396537356364313439373036333936323232382e6a7067?s=fit&w=720&h=720' alt='Colour/Aesthetic Themes - Galaxy/Space Aesthetic - Wattpad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wattpad" />
+                                </span>
+                                <a href='https://img.wattpad.com/bc71219c3ca7b1684665d6a0de75e230aabcb66f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f6770725851644e726f49552d513d3d2d3433383231353532352e313463666333353536396537356364313439373036333936323232382e6a7067?s=fit&w=720&h=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="galaxy aesthetic on Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/ec/f7/f4ecf715e66ad6fe91a2b8147051648f.jpg' alt='galaxy aesthetic on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/ec/f7/f4ecf715e66ad6fe91a2b8147051648f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Galaxy 4K - HuyLN - Digital Art & AI, Science ...">
+                                <img itemprop="contentUrl url" src='https://img.artpal.com/436472/2-23-3-17-14-1-23m.jpg' alt='Aesthetic Galaxy 4K - HuyLN - Digital Art & AI, Science ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtPal" />
+                                </span>
+                                <a href='https://img.artpal.com/436472/2-23-3-17-14-1-23m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Skies 3, clouds, galaxy, iphone, moon, pink, purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/696/292/HD-wallpaper-aesthetic-skies-3-clouds-galaxy-iphone-moon-pink-purple-samsung-stars.jpg' alt='Aesthetic Skies 3, clouds, galaxy, iphone, moon, pink, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/696/292/HD-wallpaper-aesthetic-skies-3-clouds-galaxy-iphone-moon-pink-purple-samsung-stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Galaxy Stock Illustrations – 14,499 Aesthetic Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cosmic-abstract-graphic-design-wallpaper-vibrant-colors-dreamy-aesthetic-stunning-galaxy-background-colorful-elements-perfect-357993390.jpg' alt='Aesthetic Galaxy Stock Illustrations – 14,499 Aesthetic Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cosmic-abstract-graphic-design-wallpaper-vibrant-colors-dreamy-aesthetic-stunning-galaxy-background-colorful-elements-perfect-357993390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

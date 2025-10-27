@@ -1,0 +1,129 @@
+<title>Paolo Banchero: Rising Star in the NBA</title>
+                    <meta name="description" content="Explore the journey of Paolo Banchero, the NBA sensation from Duke University. Discover his unique skills, career highlights, and what sets him apart as one of basketball’s brightest talents. Stay updated on his performance and impact in the league!">
+                    <meta name="keywords" content="paolo banchero">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/paolo-banchero">
+                            <span itemprop="name">paolo banchero</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Paolo Banchero: Rising Star in the NBA</h1>
+                <p>Paolo Banchero, a promising NBA player, gained fame during his college career at Duke University, where he showcased exceptional skills as a forward. Known for his versatility, Banchero combines size, strength, and shooting ability, making him a standout prospect. Fans eagerly await his impact on the professional stage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero | Forward | Orlando Magic | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png' alt='Paolo Banchero | Forward | Orlando Magic | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/54/Paolo_Banchero.png' alt='Paolo Banchero - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="476">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/54/Paolo_Banchero.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero sets sights on East finals for Magic">
+                                <img itemprop="contentUrl url" src='https://www.orlandosentinel.com/wp-content/uploads/2024/09/TOS-L-2024OrlandoMagicMediaDay35621.jpg?w=1024&h=665' alt='Paolo Banchero sets sights on East finals for Magic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orlando Sentinel" />
+                                </span>
+                                <a href='https://www.orlandosentinel.com/wp-content/uploads/2024/09/TOS-L-2024OrlandoMagicMediaDay35621.jpg?w=1024&h=665' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero - USA Basketball">
+                                <img itemprop="contentUrl url" src='https://www.usab.com/imgproxy/BY3F9yYjVxQkabIePhtv0eDR8iW-g6wJUg_VBAF7thw/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjMvMDgvMDgvMmUxMDhjZGYtMzkyOC00MWMyLWJlY2QtMjQ2ZTExMjlkNjM3LkpQRw.png' alt='Paolo Banchero - USA Basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Basketball" />
+                                </span>
+                                <a href='https://www.usab.com/imgproxy/BY3F9yYjVxQkabIePhtv0eDR8iW-g6wJUg_VBAF7thw/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjMvMDgvMDgvMmUxMDhjZGYtMzkyOC00MWMyLWJlY2QtMjQ2ZTExMjlkNjM3LkpQRw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero is a foul magnet, and it's changing the identity of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/9RAOyYJSDHWUXJ1n81bsHKeBHF0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24368284/1246075347.jpg' alt='Paolo Banchero is a foul magnet, and it's changing the identity of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orlando Pinstriped Post" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/9RAOyYJSDHWUXJ1n81bsHKeBHF0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24368284/1246075347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero - 2021-22 - Men's Basketball - Duke University">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2022%2F3%2F15%2FBanchero_Moore.jpg&height=300&type=webp' alt='Paolo Banchero - 2021-22 - Men's Basketball - Duke University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duke Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fgoduke.com%2Fimages%2F2022%2F3%2F15%2FBanchero_Moore.jpg&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reports: Magic's Paolo Banchero returning from torn oblique | Reuters">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/35YO5HGWJFMSDMXKS6GEW7H7HI.jpg?auth=e7c0e07444562ab50793f63da7c53905ce40cac2c2d0431b09b83f797ccb902c&width=4168&quality=80' alt='Reports: Magic's Paolo Banchero returning from torn oblique | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4168">
+                                <meta itemprop="height" content="2835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/35YO5HGWJFMSDMXKS6GEW7H7HI.jpg?auth=e7c0e07444562ab50793f63da7c53905ce40cac2c2d0431b09b83f797ccb902c&width=4168&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero returns to Magic lineup after missing 34 games with ...">
+                                <img itemprop="contentUrl url" src='https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/01/f3ae71306d76cd1f575c88a3d26322fd29678ccfc084f101116ecc9f6e95da59.jpg;w=960' alt='Paolo Banchero returns to Magic lineup after missing 34 games with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Albertan" />
+                                </span>
+                                <a href='https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/01/f3ae71306d76cd1f575c88a3d26322fd29678ccfc084f101116ecc9f6e95da59.jpg;w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paolo Banchero Q&A">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/ddc0bf_bb639fe32b524d20afcbd67b24e992e5~mv2.jpg/v1/fill/w_828,h_860,al_c,q_85,enc_avif,quality_auto/ddc0bf_bb639fe32b524d20afcbd67b24e992e5~mv2.jpg' alt='Paolo Banchero Q&A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Insight" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/ddc0bf_bb639fe32b524d20afcbd67b24e992e5~mv2.jpg/v1/fill/w_828,h_860,al_c,q_85,enc_avif,quality_auto/ddc0bf_bb639fe32b524d20afcbd67b24e992e5~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Magic PF Paolo Banchero Top 10 Pick in 'Ultimate' NBA Re ...">
+                                <img itemprop="contentUrl url" src='https://athlonsports.com/.image/t_share/MjA1MDE1NDE3MDAzOTc2NDQ0/paolo-banchero-orlando-magic.jpg' alt='Orlando Magic PF Paolo Banchero Top 10 Pick in 'Ultimate' NBA Re ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athlon Sports" />
+                                </span>
+                                <a href='https://athlonsports.com/.image/t_share/MjA1MDE1NDE3MDAzOTc2NDQ0/paolo-banchero-orlando-magic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

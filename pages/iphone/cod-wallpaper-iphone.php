@@ -1,0 +1,129 @@
+<title>Stunning Cod Wallpapers for iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cod wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cod-wallpaper-iphone">
+                            <span itemprop="name">cod wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cod Wallpapers for iPhone</h1>
+                <p>Discover stunning cod wallpaper designs for your iPhone! Dive into a unique collection featuring vibrant marine life, calming ocean hues, and captivating underwater scenes. Perfect for fish lovers or anyone wanting to refresh their device's look. Explore and download these mesmerizing wallpapers today to showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/90/f4/21/90f42154aa5baf03370c9514f7392af3.jpg' alt='Call of Duty iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/90/f4/21/90f42154aa5baf03370c9514f7392af3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty Mobile Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/7e/21/dc7e21541125fcf2e86aa59db49f9384.jpg' alt='Call Of Duty Mobile Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/7e/21/dc7e21541125fcf2e86aa59db49f9384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Call Of Duty Modern Warfare Iphone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-call-of-duty-modern-warfare-iphone-eruqv91hd1xd40co.jpg' alt='100+] Cool Call Of Duty Modern Warfare Iphone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-call-of-duty-modern-warfare-iphone-eruqv91hd1xd40co.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty Modern Warfare Night Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/call-of-duty-modern-warfare-soldier-on-fire-iphone-4i87k51eksjojk1z.webp' alt='Call Of Duty Modern Warfare Night Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/call-of-duty-modern-warfare-soldier-on-fire-iphone-4i87k51eksjojk1z.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Ops Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-ops-iphone-tiuiirkbsehajmly.jpg' alt='100+] Black Ops Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-ops-iphone-tiuiirkbsehajmly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cod] rate wallpaper : r/CallOfDuty">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cod-rate-wallpaper-v0-a7l8g8imp3zd1.jpeg?auto=webp&s=93f1ee00a7d699b112a6c120c0a9fbc3cff91447' alt='cod] rate wallpaper : r/CallOfDuty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cod-rate-wallpaper-v0-a7l8g8imp3zd1.jpeg?auto=webp&s=93f1ee00a7d699b112a6c120c0a9fbc3cff91447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="call of duty mobile 4k iPhone Wallpapers #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/11/15/59/1115596c7e1e228e146eb3cf81f4327e.jpg' alt='call of duty mobile 4k iPhone Wallpapers #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/11/15/59/1115596c7e1e228e146eb3cf81f4327e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CoD iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5446314.jpg' alt='CoD iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5446314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty 4k Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cod-7_63862731631093.9.jpg' alt='Call Of Duty 4k Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cod-7_63862731631093.9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost 4K Call of Duty: Modern Warfare 2 Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-447@1@h-phone-4k.jpg' alt='Ghost 4K Call of Duty: Modern Warfare 2 Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-447@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

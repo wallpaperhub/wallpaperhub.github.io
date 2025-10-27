@@ -1,0 +1,129 @@
+<title>Discover the Wonders of Colorful Space</title>
+                    <meta name="description" content="Explore the breathtaking beauty of colorful space! Dive into vibrant nebulae and cosmic phenomena that ignite imagination and curiosity. Uncover the wonders and mysteries of the universe in a world painted with hues of pink, blue, and gold, perfect for stargazers and dreamers.">
+                    <meta name="keywords" content="colorful space">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-space">
+                            <span itemprop="name">colorful space</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Wonders of Colorful Space</h1>
+                <p>Colorful space is a mesmerizing realm where vibrant nebulae swirl in hues of pink, blue, and gold, captivating stargazers and dreamers alike. These celestial wonders, formed from gas and dust, ignite the imagination, showcasing the universe's beauty and mystery. Explore the vivid tapestries of our cosmos, inspiring awe and curiosity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Space Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/440/706/non_2x/ai-generated-a-stunning-view-of-a-colorful-space-galaxy-cloud-nebula-captivating-cosmic-beauty-ai-generated-photo.jpg' alt='Colorful Space Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/440/706/non_2x/ai-generated-a-stunning-view-of-a-colorful-space-galaxy-cloud-nebula-captivating-cosmic-beauty-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,500+ Colorful Space Nebula Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/479711207/photo/magellanic-cloud.jpg?s=612x612&w=0&k=20&c=g044tx9D-FPhbX6mkXtIqYepvwUzv4KWIPJe3sxDZnU=' alt='28,500+ Colorful Space Nebula Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/479711207/photo/magellanic-cloud.jpg?s=612x612&w=0&k=20&c=g044tx9D-FPhbX6mkXtIqYepvwUzv4KWIPJe3sxDZnU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,700+ Colorful Galaxy Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1198684732/photo/stars-and-galaxy-space-sky-night-background.jpg?s=612x612&w=0&k=20&c=U6AnXKYJpi9H2tCeGGXSAS_ctR4pgsC-yC07J5ECH5M=' alt='53,700+ Colorful Galaxy Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1198684732/photo/stars-and-galaxy-space-sky-night-background.jpg?s=612x612&w=0&k=20&c=U6AnXKYJpi9H2tCeGGXSAS_ctR4pgsC-yC07J5ECH5M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeless Treasures - Bright Colorful Planets - CD1691 - Planets - Space -  Outer Space - Accent - Blender - Exploration - One More Yard - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10448159/r/il/995fc8/4378358684/il_1080xN.4378358684_oiwh.jpg' alt='Timeless Treasures - Bright Colorful Planets - CD1691 - Planets - Space -  Outer Space - Accent - Blender - Exploration - One More Yard - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10448159/r/il/995fc8/4378358684/il_1080xN.4378358684_oiwh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cosmic color explosion Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/d/f/bdf8b5b7-5b0e-4e82-a64b-b0988d7b15a8_large/cosmic-color-explosion-stockcake.jpg' alt='Free Cosmic color explosion Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/d/f/bdf8b5b7-5b0e-4e82-a64b-b0988d7b15a8_large/cosmic-color-explosion-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Photo Of A Colorful Space by Sololos">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/abstract-photo-of-a-colorful-space-sololos.jpg' alt='Abstract Photo Of A Colorful Space by Sololos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/abstract-photo-of-a-colorful-space-sololos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Colorful Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/colorful-space-00om36tb4ezcv74g.jpg' alt='100+] Colorful Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/colorful-space-00om36tb4ezcv74g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,087 Colorful Outer Space Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-outer-space-shiny-stars-nebulas-colourful-cosmos-galaxies-constellations-background-high-quality-photo-334462486.jpg' alt='14,087 Colorful Outer Space Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-outer-space-shiny-stars-nebulas-colourful-cosmos-galaxies-constellations-background-high-quality-photo-334462486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Nebulas And Stars In Space. Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nasaimages/nasaimages1711/nasaimages171100063/90399733-colorful-nebulas-and-stars-in-space.jpg' alt='Colorful Nebulas And Stars In Space. Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nasaimages/nasaimages1711/nasaimages171100063/90399733-colorful-nebulas-and-stars-in-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,087 Colorful Outer Space Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-galaxy-outer-space-colorful-galaxy-outer-space-elements-image-furnished-nasa-121868148.jpg' alt='14,087 Colorful Outer Space Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-galaxy-outer-space-colorful-galaxy-outer-space-elements-image-furnished-nasa-121868148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

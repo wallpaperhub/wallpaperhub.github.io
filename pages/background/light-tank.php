@@ -1,0 +1,129 @@
+<title>Light Tanks: Agile Armor for Modern Warfare</title>
+                    <meta name="description" content="Discover the power of light tanks in modern combat! These agile, mobile armored vehicles offer speed, reconnaissance capabilities, and versatile fire support, making them essential for today's military operations. Explore their roles and advantages in various battlefield scenarios!">
+                    <meta name="keywords" content="light tank">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-tank">
+                            <span itemprop="name">light tank</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Tanks: Agile Armor for Modern Warfare</h1>
+                <p>Light tanks are highly mobile armored vehicles designed for reconnaissance and support roles in warfare. With a combination of speed, agility, and firepower, they can quickly adapt to various combat scenarios. Light tanks excel in urban environments and are essential for modern military operations, providing critical fire support and intelligence gathering.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light tank - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f5/M24_Chaffee_named_%27Rebel%27%2C_hoodno_USA_30402162_pic3.JPG' alt='Light tank - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f5/M24_Chaffee_named_%27Rebel%27%2C_hoodno_USA_30402162_pic3.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="General Dynamics unit wins contract to build new light tank for ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6F6VF25GCFF2HFJCOITRJSGNPE.jpg' alt='General Dynamics unit wins contract to build new light tank for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Defense News" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6F6VF25GCFF2HFJCOITRJSGNPE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The U.S. Army Is Getting Its First Light Tanks in Over 50 Years">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/max1200-1656526496.jpeg' alt='The U.S. Army Is Getting Its First Light Tanks in Over 50 Years'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popular Mechanics" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/max1200-1656526496.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New in 2018: Army looks to add a light tank to its formations">
+                                <img itemprop="contentUrl url" src='https://www.armytimes.com/resizer/u0V-ieOaYK-Io6ounKvWQWKrxVc=/arc-photo-archetype/arc3-prod/public/ENW4MRANTJBQLDKVTDN5C3SRXA.jpg' alt='New in 2018: Army looks to add a light tank to its formations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army Times" />
+                                </span>
+                                <a href='https://www.armytimes.com/resizer/u0V-ieOaYK-Io6ounKvWQWKrxVc=/arc-photo-archetype/arc3-prod/public/ENW4MRANTJBQLDKVTDN5C3SRXA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Army light tank under construction">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FKYP34WMF5HB7ICRTBKJ7WSZ4M.png' alt='New Army light tank under construction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3611">
+                                <meta itemprop="height" content="2408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army Times" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FKYP34WMF5HB7ICRTBKJ7WSZ4M.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List most modern top Light Tanks in the world">
+                                <img itemprop="contentUrl url" src='https://armyrecognition.com/templates/yootheme/cache/32/VT5_Type_15_ZTQ-15_Lightweight_light_tank_China_Chinese_defense_industry_925_001-322c2aec.jpeg' alt='List most modern top Light Tanks in the world'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army Recognition" />
+                                </span>
+                                <a href='https://armyrecognition.com/templates/yootheme/cache/32/VT5_Type_15_ZTQ-15_Lightweight_light_tank_China_Chinese_defense_industry_925_001-322c2aec.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big moves ahead on light tank, Bradley replacement and robot vehicles">
+                                <img itemprop="contentUrl url" src='https://www.armytimes.com/resizer/v2/BFL5WN5REZGEFARTRL6KHANYU4.jpg?auth=5f4a9a855f61a89767c38f72a0728e582bc4b06cd75881d2dbe49457a032f4a5&width=5322&height=3548' alt='Big moves ahead on light tank, Bradley replacement and robot vehicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army Times" />
+                                </span>
+                                <a href='https://www.armytimes.com/resizer/v2/BFL5WN5REZGEFARTRL6KHANYU4.jpg?auth=5f4a9a855f61a89767c38f72a0728e582bc4b06cd75881d2dbe49457a032f4a5&width=5322&height=3548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sabrah light tank - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/73/Sabrah_tanks.png' alt='Sabrah light tank - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/73/Sabrah_tanks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rheinmetall unveils new light tank">
+                                <img itemprop="contentUrl url" src='https://defence-blog.com/wp-content/uploads/2022/02/FL4CO63XwAITKLV.jpg' alt='Rheinmetall unveils new light tank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Defence Blog" />
+                                </span>
+                                <a href='https://defence-blog.com/wp-content/uploads/2022/02/FL4CO63XwAITKLV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the Light Tank finally returning?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zlKQYuQ6z8Q/maxresdefault.jpg' alt='Is the Light Tank finally returning?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zlKQYuQ6z8Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

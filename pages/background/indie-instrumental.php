@@ -1,0 +1,129 @@
+<title>Discover the Soul of Indie Instrumental Music</title>
+                    <meta name="description" content="Explore the captivating world of indie instrumental music. Discover unique sounds and atmospheric compositions that provide the perfect backdrop for relaxation and introspection. Dive into an eclectic blend that bridges genres and evokes deep emotions in every note.">
+                    <meta name="keywords" content="indie instrumental">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indie-instrumental">
+                            <span itemprop="name">indie instrumental</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Soul of Indie Instrumental Music</h1>
+                <p>Indie instrumental music offers a unique sonic landscape, blending creativity with emotional depth. Artists craft atmospheric compositions that evoke feelings, enhance moods, and provide a perfect backdrop for relaxation or introspection. This genre's eclectic sounds invite listeners to explore new auditory experiences, bridging genres seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Instrumental | Spotify Playlist">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67706f0000000257f26a64464afe42c043ea19' alt='Indie Instrumental | Spotify Playlist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67706f0000000257f26a64464afe42c043ea19' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Indie-Folk | Vol. 1    - An Acoustic/Chill Playlist for study,  relax and focus">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fuBsVD3KuhU/maxresdefault.jpg' alt='Instrumental Indie-Folk | Vol. 1    - An Acoustic/Chill Playlist for study,  relax and focus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fuBsVD3KuhU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Indie-Folk | Vol. 2    - An Acoustic/Chill Playlist for study,  relax and focus">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9_z4jScJaJ4/maxresdefault.jpg' alt='Instrumental Indie-Folk | Vol. 2    - An Acoustic/Chill Playlist for study,  relax and focus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9_z4jScJaJ4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Indie-Folk | Vol. 3    - An Acoustic/Chill Playlist for study,  relax and focus">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Id2mbxCnxtE/maxresdefault.jpg' alt='Instrumental Indie-Folk | Vol. 3    - An Acoustic/Chill Playlist for study,  relax and focus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Id2mbxCnxtE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Indie Music - Album by Indie Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273a0252e217fbc1377cce0a443' alt='Instrumental Indie Music - Album by Indie Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273a0252e217fbc1377cce0a443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream alexrainbirdMusic | Listen to Instrumental Indie-Folk | Vol ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-PJj1uXyqvIzhu3LG-nCN4Eg-t500x500.jpg' alt='Stream alexrainbirdMusic | Listen to Instrumental Indie-Folk | Vol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-PJj1uXyqvIzhu3LG-nCN4Eg-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Indie music instrumental Version | Very popular Indie Music Mix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tSp1nWbUGc8/maxresdefault.jpg' alt='The Best Indie music instrumental Version | Very popular Indie Music Mix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tSp1nWbUGc8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Indie-Folk - Compilation by Various Artists | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d00001e023d650792c5c456bb936696d8' alt='Instrumental Indie-Folk - Compilation by Various Artists | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d00001e023d650792c5c456bb936696d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream alexrainbirdMusic | Listen to Instrumental Indie-Folk | Vol ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-icBlcFzgN0BGrskx-Emf2mg-t1080x1080.jpg' alt='Stream alexrainbirdMusic | Listen to Instrumental Indie-Folk | Vol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-icBlcFzgN0BGrskx-Emf2mg-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Uplifting Indie Instrumental Music 2024 by Chill Indie Music ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/511YaG+XpYL._UXNaN_FMjpg_QL85_.jpg' alt='Play Uplifting Indie Instrumental Music 2024 by Chill Indie Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/511YaG+XpYL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

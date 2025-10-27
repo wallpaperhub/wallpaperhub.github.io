@@ -1,0 +1,129 @@
+<title>Best Text Colors for a Blue Background</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="best text color for blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-text-color-for-blue-background">
+                            <span itemprop="name">best text color for blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Text Colors for a Blue Background</h1>
+                <p>The best text color for a blue background largely depends on the shade of blue you’re using. High contrast colors like white, yellow, or light gray work well for readability. Dark colors like black can create a strong contrast against lighter blues, while soft pastel shades may complement deeper blues. Always ensure sufficient contrast for easy reading!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Contrast Background and Foreground Colors in Web Design">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' alt='How to Contrast Background and Foreground Colors in Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A much better guide to how readable colored texts on backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vngds6x4ng771.png' alt='A much better guide to how readable colored texts on backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1211">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vngds6x4ng771.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signs and color contrast">
+                                <img itemprop="contentUrl url" src='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' alt='Signs and color contrast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Work Plan" />
+                                </span>
+                                <a href='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wad's Optimum 16 Color Palette">
+                                <img itemprop="contentUrl url" src='https://alumni.media.mit.edu/~wad/color/legibility.gif' alt='Wad's Optimum 16 Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIT alumni" />
+                                </span>
+                                <a href='https://alumni.media.mit.edu/~wad/color/legibility.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signs and color contrast">
+                                <img itemprop="contentUrl url" src='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/b160f7972a-1722358073/color-examples-signage-wayfinding-05.png' alt='Signs and color contrast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Work Plan" />
+                                </span>
+                                <a href='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/b160f7972a-1722358073/color-examples-signage-wayfinding-05.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Best Blue Color Palettes for 2024 - Venngage">
+                                <img itemprop="contentUrl url" src='https://venngage-wordpress.s3.amazonaws.com/uploads/2021/07/accessible-color-palette-generator.png' alt='20+ Best Blue Color Palettes for 2024 - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://venngage-wordpress.s3.amazonaws.com/uploads/2021/07/accessible-color-palette-generator.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="algorithm - Determine font color based on background color - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/cFX4P.jpg' alt='algorithm - Determine font color based on background color - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/cFX4P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Color: Hex Code, Shades & Design Ideas - Picsart Blog">
+                                <img itemprop="contentUrl url" src='https://cdnblog.picsart.com/2021/05/analogous-780x520.jpg' alt='Light Blue Color: Hex Code, Shades & Design Ideas - Picsart Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picsart" />
+                                </span>
+                                <a href='https://cdnblog.picsart.com/2021/05/analogous-780x520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Contrast for Better Readability | Viget">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/1d/7f/da1d7f22e37691338249d8ad6ea819b7.jpg' alt='Color Contrast for Better Readability | Viget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/1d/7f/da1d7f22e37691338249d8ad6ea819b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is the Best Background Color for a Website? (Updated 2024 ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/designerly.com/wp-content/uploads/sites/6/2021/03/Designerly-MGB-What-Is-the-Best-Background-Color-for-a-Website-000.png?resize=1280%2C1980&ssl=1' alt='What Is the Best Background Color for a Website? (Updated 2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designerly" />
+                                </span>
+                                <a href='https://i0.wp.com/designerly.com/wp-content/uploads/sites/6/2021/03/Designerly-MGB-What-Is-the-Best-Background-Color-for-a-Website-000.png?resize=1280%2C1980&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

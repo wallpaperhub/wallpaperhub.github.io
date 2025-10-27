@@ -1,0 +1,129 @@
+<title>Captivating Dark Colorful Backgrounds for Stunning Designs</title>
+                    <meta name="description" content="Discover the beauty of dark colorful backgrounds that add depth and intrigue to your designs. Perfect for enhancing visuals and creating a captivating atmosphere, these rich shades will elevate your artistic projects. Explore now for inspiring ideas and striking combinations that stand out!">
+                    <meta name="keywords" content="dark colorful background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-colorful-background">
+                            <span itemprop="name">dark colorful background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Dark Colorful Backgrounds for Stunning Designs</h1>
+                <p>Dark colorful backgrounds evoke a sense of mystery and intrigue. These rich, vibrant shades combine deep hues—like midnight blue, dark burgundy, and emerald green—creating an alluring atmosphere. Ideal for designs that need depth, they can enhance visual storytelling, making images pop while inviting viewers into a captivating realm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Colorful Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/colorful-festival-colors-spread-dark-surface_23-2148054187.jpg' alt='Dark Colorful Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/colorful-festival-colors-spread-dark-surface_23-2148054187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Colorful Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/150/201/non_2x/abstract-dark-blurred-background-smooth-gradient-free-photo.jpg' alt='Dark Colorful Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/150/201/non_2x/abstract-dark-blurred-background-smooth-gradient-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Colorful Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/131/253/small/purple-color-grainy-gradient-luminous-color-abstract-background-ai-generative-free-photo.jpg' alt='Dark Colorful Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/131/253/small/purple-color-grainy-gradient-luminous-color-abstract-background-ai-generative-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Background Color Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/569530480/display_1500/stock-photo-colorful-smoke-on-dark-background-569530480.jpg' alt='Dark Background Color Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/569530480/display_1500/stock-photo-colorful-smoke-on-dark-background-569530480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="606,700+ Dark Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1461883500/vector/dark-grainy-color-gradient-wave-background-purple-red-yellow-blue-colors-banner-poster-cover.jpg?s=612x612&w=0&k=20&c=xW7oY-iPou94T8fnpkPlGX83IEh-LeUNOZiMXcoXRSg=' alt='606,700+ Dark Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1461883500/vector/dark-grainy-color-gradient-wave-background-purple-red-yellow-blue-colors-banner-poster-cover.jpg?s=612x612&w=0&k=20&c=xW7oY-iPou94T8fnpkPlGX83IEh-LeUNOZiMXcoXRSg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Hd Colors Of Colorful Light On Dark Background The Best ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230426/93edb31f1b75422132d82c69c6a5de02.jpg!bw700' alt='Wallpaper Hd Colors Of Colorful Light On Dark Background The Best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230426/93edb31f1b75422132d82c69c6a5de02.jpg!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multi colored particles explosion on black background.Colorful ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/29/81/47/1000_F_329814742_Fqvf648AZsr7Zm4GTznbESsW7uUHVe7a.jpg' alt='Multi colored particles explosion on black background.Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/29/81/47/1000_F_329814742_Fqvf648AZsr7Zm4GTznbESsW7uUHVe7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Dark Colorful Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1670652222375-86b6b7e55c05?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGNvbG9yZnVsfGVufDB8fDB8fHww' alt='30k+ Dark Colorful Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1670652222375-86b6b7e55c05?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGNvbG9yZnVsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Colorful Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/city-skyline-with-colorful-sky-city-background_1123096-261.jpg' alt='Dark Colorful Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/city-skyline-with-colorful-sky-city-background_1123096-261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Color Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/100/181/small_2x/blue-black-abstract-gradient-background-grain-texture-effect-dark-vibrant-color-flow-wave-copy-space-photo.jpg' alt='Dark Color Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="782">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/100/181/small_2x/blue-black-abstract-gradient-background-grain-texture-effect-dark-vibrant-color-flow-wave-copy-space-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

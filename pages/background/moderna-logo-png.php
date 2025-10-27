@@ -1,0 +1,129 @@
+<title>Download Moderna Logo PNG - High-Quality & Transparent</title>
+                    <meta name="description" content="Discover and download high-quality Moderna logo PNG files with transparent backgrounds. Perfect for branding, presentations, and design projects. Get the ideal logo version for your needs and enhance your visual content effortlessly!">
+                    <meta name="keywords" content="moderna logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moderna-logo-png">
+                            <span itemprop="name">moderna logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Moderna Logo PNG - High-Quality & Transparent</h1>
+                <p>Looking for a high-quality PNG version of the Moderna logo? Our collection includes transparent backgrounds and various sizes to fit your design needs. Whether for presentations, graphic design, or branding purposes, you can easily download the Moderna logo PNG file that best suits your project. Explore and find perfect options now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Moderna logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/2560px-Moderna_logo.svg.png' alt='File:Moderna logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/2560px-Moderna_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Moderna logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1200px-Moderna_logo.svg.png' alt='File:Moderna logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1200px-Moderna_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moderna-Logo-1200x800-1 - Red Sox Foundation">
+                                <img itemprop="contentUrl url" src='http://www.redsoxfoundation.org/assets/Moderna-Logo-1200x800-1.jpg' alt='Moderna-Logo-1200x800-1 - Red Sox Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Sox Foundation" />
+                                </span>
+                                <a href='http://www.redsoxfoundation.org/assets/Moderna-Logo-1200x800-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Moderna logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1280px-Moderna_logo.svg.png' alt='File:Moderna logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1280px-Moderna_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Moderna logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1024px-Moderna_logo.svg.png' alt='File:Moderna logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1024px-Moderna_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moderna joins NumFOCUS Corporate Sponsors - NumFOCUS">
+                                <img itemprop="contentUrl url" src='https://numfocus.org/wp-content/uploads/2019/06/Moderna-logo.png' alt='Moderna joins NumFOCUS Corporate Sponsors - NumFOCUS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NumFOCUS" />
+                                </span>
+                                <a href='https://numfocus.org/wp-content/uploads/2019/06/Moderna-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moderna | Olin College of Engineering">
+                                <img itemprop="contentUrl url" src='https://www.olin.edu/sites/default/files/styles/card/public/2023-08/ModernaLogo.png?itok=oaMFm3h_' alt='Moderna | Olin College of Engineering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olin College of Engineering" />
+                                </span>
+                                <a href='https://www.olin.edu/sites/default/files/styles/card/public/2023-08/ModernaLogo.png?itok=oaMFm3h_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moderna, Inc.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069948937913' alt='Moderna, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069948937913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moderna - Free medical icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/5968/5968183.png' alt='Moderna - Free medical icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/5968/5968183.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pacific Clinical Research Network New Zealand | PCRN">
+                                <img itemprop="contentUrl url" src='https://pcrn.co.nz/wp-content/uploads/2023/12/3-300x300.png' alt='Pacific Clinical Research Network New Zealand | PCRN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pcrn.co.nz" />
+                                </span>
+                                <a href='https://pcrn.co.nz/wp-content/uploads/2023/12/3-300x300.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

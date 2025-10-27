@@ -1,0 +1,129 @@
+<title>Neon Purple Aesthetic iPhone Lock Screen Wallpaper</title>
+                    <meta name="description" content="Discover stunning neon purple aesthetic wallpapers for your iPhone lock screen. Brighten your device with vibrant designs that reflect your style. Perfect for anyone seeking to add a touch of artistry to their phone. Transform your lock screen into a colorful statement now!">
+                    <meta name="keywords" content="lock screen iphone neon purple aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-iphone-neon-purple-aesthetic-wallpaper">
+                            <span itemprop="name">lock screen iphone neon purple aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Neon Purple Aesthetic iPhone Lock Screen Wallpaper</h1>
+                <p>Unlock a world of style with our neon purple aesthetic wallpaper for iPhone lock screens. This vibrant design not only elevates your device's look but also showcases your unique personality. Perfect for those who love modern art and vivid colors, this wallpaper transforms your phone into a dazzling masterpiece every time you glance at it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e6/4b/16/e64b16ed2f67ea034c3ebd4eb00d5e54.jpg' alt='Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e6/4b/16/e64b16ed2f67ea034c3ebd4eb00d5e54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple iPhone wallpaper HD phone lockscreen cute Neon photo 4k ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/7f/2e/1e7f2e441d96cd00c6e643f0296dee55.jpg' alt='Purple iPhone wallpaper HD phone lockscreen cute Neon photo 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/7f/2e/1e7f2e441d96cd00c6e643f0296dee55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Neon Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flower-neon-purple-iphone-lpfj4a3kqgbc9a71.jpg' alt='Flower Neon Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flower-neon-purple-iphone-lpfj4a3kqgbc9a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/cf/fa/c3cffac800ad7159b72c87b1a8af6d06.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/cf/fa/c3cffac800ad7159b72c87b1a8af6d06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-purple-iphone-y43wm2uzjhsndivj.jpg' alt='100+] Neon Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-purple-iphone-y43wm2uzjhsndivj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Circles Neon Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/neon-purple-iphone-heart-led-nxiacazcf2xwnbqr.webp' alt='Abstract Circles Neon Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/neon-purple-iphone-heart-led-nxiacazcf2xwnbqr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Trendy Neon Wallpapers For iPhone (HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' alt='50 Free Trendy Neon Wallpapers For iPhone (HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Gorgeous Neon Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/new-york-sky-neon-purple-iphone-n0bc8dw30w2jol3v.webp' alt='Hello Gorgeous Neon Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/new-york-sky-neon-purple-iphone-n0bc8dw30w2jol3v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Neon Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/b7/07/51b707d193225027a5621186f4de7137.jpg' alt='Aesthetic Neon Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/b7/07/51b707d193225027a5621186f4de7137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic, circles, lock screen, simple, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/256/200/HD-wallpaper-purple-aesthetic-circles-lock-screen-simple-thumbnail.jpg' alt='Purple Aesthetic, circles, lock screen, simple, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/256/200/HD-wallpaper-purple-aesthetic-circles-lock-screen-simple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

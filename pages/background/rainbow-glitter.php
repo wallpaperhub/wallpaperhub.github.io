@@ -1,0 +1,129 @@
+<title>Shimmering Rainbow Glitter: Sparkle Up Your Crafts</title>
+                    <meta name="description" content="Discover the enchanting world of rainbow glitter! Perfect for crafts, makeup, or home décor, our vibrant glitter elevates your projects with stunning colors and shimmer. Transform your creations and let your imagination shine with rainbow glitter! Explore our collection now!">
+                    <meta name="keywords" content="rainbow glitter">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-glitter">
+                            <span itemprop="name">rainbow glitter</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmering Rainbow Glitter: Sparkle Up Your Crafts</h1>
+                <p>Rainbow glitter adds a magical touch to any project, bursting with vibrant colors that captivate the eye. Whether used in crafts, makeup, or décor, this shimmering material transforms the ordinary into the extraordinary. Brighten up your creations with rainbow glitter and unleash your creativity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/892028600/vector/rainbow-glitter-background.jpg?s=612x612&w=0&k=20&c=oagzi8pWaQ94xrjDw1KCDkM89kk4Y9iZZFTsR31Vve4=' alt='36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/892028600/vector/rainbow-glitter-background.jpg?s=612x612&w=0&k=20&c=oagzi8pWaQ94xrjDw1KCDkM89kk4Y9iZZFTsR31Vve4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Seamless Digital Paper Background Texture - Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/2865e5/4126116387/il_570xN.4126116387_nz2c.jpg' alt='Pastel Glitter Seamless Digital Paper Background Texture - Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/2865e5/4126116387/il_570xN.4126116387_nz2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 9x6ft Fabric Rainbow Glitter Backdrop (No Glitter)  Colorful Sparkles Particles Black Background Abstract Rainbow Background  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uzS84leRL.jpg' alt='Amazon.com : BELECO 9x6ft Fabric Rainbow Glitter Backdrop (No Glitter)  Colorful Sparkles Particles Black Background Abstract Rainbow Background  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uzS84leRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Glitter Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-rainbow-glitter-background_23-2149706944.jpg' alt='Rainbow Glitter Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-rainbow-glitter-background_23-2149706944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/510515701/photo/rainbow-glitter-background.jpg?s=612x612&w=0&k=20&c=9glw3enX1OyVAI8UxKFUS4Sj22B3RiG7L40N4nEIgRQ=' alt='36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/510515701/photo/rainbow-glitter-background.jpg?s=612x612&w=0&k=20&c=9glw3enX1OyVAI8UxKFUS4Sj22B3RiG7L40N4nEIgRQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dripping Glitter Rainbow 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/Drippingglitterrainbow_grande.jpg?v=1629311270' alt='Dripping Glitter Rainbow 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/Drippingglitterrainbow_grande.jpg?v=1629311270' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Glitter">
+                                <img itemprop="contentUrl url" src='https://www.honestfabric.com/wp-content/uploads/2019/01/Rainbow_Glitter.jpg' alt='Rainbow Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Honest Fabric" />
+                                </span>
+                                <a href='https://www.honestfabric.com/wp-content/uploads/2019/01/Rainbow_Glitter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/877727076/vector/vertical-multicolored-glitter-background.jpg?s=612x612&w=0&k=20&c=oAsBQB-Y8lubkK5iZYapkFM8270GNH3Qfw48Ccfi1jU=' alt='36,900+ Rainbow Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/877727076/vector/vertical-multicolored-glitter-background.jpg?s=612x612&w=0&k=20&c=oAsBQB-Y8lubkK5iZYapkFM8270GNH3Qfw48Ccfi1jU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Glitter Background · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/05/Pastel-Rainbow-Glitter-Background-56352206-1.png' alt='Pastel Rainbow Glitter Background · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/05/Pastel-Rainbow-Glitter-Background-56352206-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Sparkle Rainbow Effect | A-Line Dress">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1067412610.4782/flat,750x1000,075,t.u1.jpg' alt='Glitter Sparkle Rainbow Effect | A-Line Dress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1067412610.4782/flat,750x1000,075,t.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

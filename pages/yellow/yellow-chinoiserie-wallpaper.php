@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Yellow Chinoiserie Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of yellow chinoiserie wallpaper! Perfect for brightening up your home, this elegant design features intricate patterns that blend Asian sophistication with modern decor. Transform your interiors effortlessly while adding a unique touch to your living space.">
+                    <meta name="keywords" content="yellow chinoiserie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-chinoiserie-wallpaper">
+                            <span itemprop="name">yellow chinoiserie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Yellow Chinoiserie Wallpaper</h1>
+                <p>Yellow chinoiserie wallpaper brings a touch of elegance and cultural richness to any space. Characterized by vibrant yellow tones and intricate Asian-inspired patterns, it serves as a stunning backdrop in homes, particularly in dining and living areas. This wallpaper not only brightens a room but also creates a serene and sophisticated atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/0af7da/6179749518/il_570xN.6179749518_3n8w.jpg' alt='Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/0af7da/6179749518/il_570xN.6179749518_3n8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NAUZHA Yellow Chinoiserie Wallpaper Mural, Vintage Silk Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19728131/r/il/9bc42d/3473407955/il_fullxfull.3473407955_409k.jpg' alt='NAUZHA Yellow Chinoiserie Wallpaper Mural, Vintage Silk Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19728131/r/il/9bc42d/3473407955/il_fullxfull.3473407955_409k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie 19003 Chinoiserie Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257347.jpg' alt='Galerie 19003 Chinoiserie Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oriental Yellow Chinoiserie Wallpaper for Walls">
+                                <img itemprop="contentUrl url" src='https://www.marble-lotus.com/cdn/shop/files/oriental-yellow-chinoiserie-wallpaper-for-walls-marble-lotus-149479.jpg?v=1738630148&width=1200' alt='Oriental Yellow Chinoiserie Wallpaper for Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marble Lotus" />
+                                </span>
+                                <a href='https://www.marble-lotus.com/cdn/shop/files/oriental-yellow-chinoiserie-wallpaper-for-walls-marble-lotus-149479.jpg?v=1738630148&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empress Wallpaper • Chinoiserie Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2020/06/Wallpaper-KH-Empress-Honey-1.jpg.optimal.jpg' alt='Empress Wallpaper • Chinoiserie Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2020/06/Wallpaper-KH-Empress-Honey-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Yellow Chinoiserie Birds Floral Wallpaper Vintage Branches Floral  Peel and Stick Wallpaper for Bedroom Living Room 17.7''x118'' Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91QtvMH1PuL.jpg' alt='VEELIKE Yellow Chinoiserie Birds Floral Wallpaper Vintage Branches Floral  Peel and Stick Wallpaper for Bedroom Living Room 17.7''x118'' Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91QtvMH1PuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Wallpaper, Sunset Serenade in Golden Yellow Colors ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39029303/r/il/1f3c4f/5463000795/il_fullxfull.5463000795_2agr.jpg' alt='Chinoiserie Wallpaper, Sunset Serenade in Golden Yellow Colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39029303/r/il/1f3c4f/5463000795/il_fullxfull.5463000795_2agr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Chic, Saffron">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1638276033/articles/R16745_product.jpg' alt='Chinoiserie Chic, Saffron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1638276033/articles/R16745_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Yellow Floral Wallpaper Vintage Chinoiserie Wallpaper Peel ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81v2T4mpluL.jpg' alt='VEELIKE Yellow Floral Wallpaper Vintage Chinoiserie Wallpaper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81v2T4mpluL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Wallpaper Gold Foil Silk Wallpaper(id:6072241) Product ...">
+                                <img itemprop="contentUrl url" src='https://image.ec21.com/image/ecwallpaper/oimg2_GC06071984_CA06072241/Chinoiserie-Wallpaper-Gold-Foil-Silk-Wallpaper.jpg' alt='Chinoiserie Wallpaper Gold Foil Silk Wallpaper(id:6072241) Product ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastern Classical Hand-painted Wallpaper Studio - EC21" />
+                                </span>
+                                <a href='https://image.ec21.com/image/ecwallpaper/oimg2_GC06071984_CA06072241/Chinoiserie-Wallpaper-Gold-Foil-Silk-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

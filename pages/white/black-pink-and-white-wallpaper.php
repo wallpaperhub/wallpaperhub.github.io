@@ -1,0 +1,129 @@
+<title>Chic Black, Pink & White Wallpaper Designs for Every Space</title>
+                    <meta name="description" content="Discover the perfect black, pink, and white wallpaper to elevate your home decor. Our curated selection combines elegance with modern trends, ideal for any room. Explore vibrant patterns and minimalist styles to transform your space effortlessly!">
+                    <meta name="keywords" content="black pink and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-pink-and-white-wallpaper">
+                            <span itemprop="name">black pink and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black, Pink & White Wallpaper Designs for Every Space</h1>
+                <p>Transform your space with stunning black, pink, and white wallpaper designs! These trendy wallpapers effortlessly blend modern aesthetics with a touch of elegance. Perfect for any room, they create a stylish backdrop that complements your decor, whether it’s a bold accent wall or subtle elegance throughout. Explore vibrant patterns or chic minimalist styles to elevate your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Floral Wallpaper Peel and Stick Vintage Japanese Mural  Chinoiserie White Bird Wall Paper for Bathroom Bedroom Removable  17.5inx10ft ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pwPw+dwPL._AC_UF894,1000_QL80_.jpg' alt='Black Pink Floral Wallpaper Peel and Stick Vintage Japanese Mural  Chinoiserie White Bird Wall Paper for Bathroom Bedroom Removable  17.5inx10ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pwPw+dwPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Black And White Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-black-and-white-pdya6u40v8thwugm.jpg' alt='100+] Pink Black And White Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-black-and-white-pdya6u40v8thwugm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold in Bloom - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0532_1s_High-contrast-black-white-pink-sketch-tulip-flower-motif-wallpaper-Bold-in-Bloom_Repeating-Pattern-Sample-1.jpg?v=1734716113' alt='Bold in Bloom - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0532_1s_High-contrast-black-white-pink-sketch-tulip-flower-motif-wallpaper-Bold-in-Bloom_Repeating-Pattern-Sample-1.jpg?v=1734716113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - black Pink White by SilverEmerald92 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c73b4a4d-63ba-4713-b22f-d3b573ab77be/d17o6zf-5d29d882-a8c6-4b31-b11e-78d332cfe3c5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3M2I0YTRkLTYzYmEtNDcxMy1iMjJmLWQzYjU3M2FiNzdiZVwvZDE3bzZ6Zi01ZDI5ZDg4Mi1hOGM2LTRiMzEtYjExZS03OGQzMzJjZmUzYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s2uD9-bl9oxQ3ZNNk4TCOobaCSn4py5peolxLzPBYsU' alt='Wallpaper - black Pink White by SilverEmerald92 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c73b4a4d-63ba-4713-b22f-d3b573ab77be/d17o6zf-5d29d882-a8c6-4b31-b11e-78d332cfe3c5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3M2I0YTRkLTYzYmEtNDcxMy1iMjJmLWQzYjU3M2FiNzdiZVwvZDE3bzZ6Zi01ZDI5ZDg4Mi1hOGM2LTRiMzEtYjExZS03OGQzMzJjZmUzYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s2uD9-bl9oxQ3ZNNk4TCOobaCSn4py5peolxLzPBYsU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'BarbieStyle™ Isla Palm' Wallpaper - 219 Barbie™ Pink & Black">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/BarbieStyle_Isla_Palm__Barbie-219_Design.jpg?v=1663087831&width=1024' alt=''BarbieStyle™ Isla Palm' Wallpaper - 219 Barbie™ Pink & Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/BarbieStyle_Isla_Palm__Barbie-219_Design.jpg?v=1663087831&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Print Wallpaper Leopard Pink Black White KS2303 Double Rolls">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/iPwAAOSw0gVd0Dob/s-l1200.jpg' alt='Animal Print Wallpaper Leopard Pink Black White KS2303 Double Rolls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="741">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/iPwAAOSw0gVd0Dob/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Black And White Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-black-and-white-k2onyfvlunp3xg5u.jpg' alt='100+] Pink Black And White Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-black-and-white-k2onyfvlunp3xg5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/55/00/c55500badbe5a831f3b2950cb8a3f452.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/55/00/c55500badbe5a831f3b2950cb8a3f452.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' alt='Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

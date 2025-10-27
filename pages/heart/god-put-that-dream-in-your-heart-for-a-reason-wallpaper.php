@@ -1,0 +1,129 @@
+<title>"Inspiring Dream Wallpaper: God’s Purpose for Your Heart"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="god put that dream in your heart for a reason wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/god-put-that-dream-in-your-heart-for-a-reason-wallpaper">
+                            <span itemprop="name">god put that dream in your heart for a reason wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Inspiring Dream Wallpaper: God’s Purpose for Your Heart"</h1>
+                <p>"God placed that dream in your heart for a reason" serves as a powerful reminder that our aspirations are divine inspirations. This wallpaper inspires motivation and reinforces faith, encouraging us to chase what we feel called to pursue. Let this uplifting message fill your space with hope and passion, reminding you to believe in your journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Phone Background - God put that dream on your heart for a reason.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/3f/74/2e3f7475ba4ed0675cff6bcc7adc63a8.jpg' alt='I Phone Background - God put that dream on your heart for a reason.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/3f/74/2e3f7475ba4ed0675cff6bcc7adc63a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/30/4b/20304b5603b55853e55eb546dbaceaf7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/30/4b/20304b5603b55853e55eb546dbaceaf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/bc/9e/85bc9e8f72c36292039263b745027c9e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/bc/9e/85bc9e8f72c36292039263b745027c9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God put that dream in your heart for a reason.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1e/80/e0/1e80e0b3f2425b8690572d2128cd83ee.jpg' alt='God put that dream in your heart for a reason.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1e/80/e0/1e80e0b3f2425b8690572d2128cd83ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Put That Dream in Your Heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/a9/88/8ba988a4e46aef707fb8a7f139fc737b.jpg' alt='God Put That Dream in Your Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/a9/88/8ba988a4e46aef707fb8a7f139fc737b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @. The full message i found was on @ joenasandiego on instagram  , will def shed a tear my babes     God is with us    #fyp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7273671553265454379&location=0&aid=1988' alt='Replying to @. The full message i found was on @ joenasandiego on instagram  , will def shed a tear my babes     God is with us    #fyp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7273671553265454379&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Put That Dream In Your Heart For A Reason Quote|446024">
+                                <img itemprop="contentUrl url" src='https://d62nvtdcnsm38.cloudfront.net/catalog/product/cache/a05e733b55beec0e7e3c81551533e22c/d/4/d446024_1.jpg' alt='God Put That Dream In Your Heart For A Reason Quote|446024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Silhouette Design Store" />
+                                </span>
+                                <a href='https://d62nvtdcnsm38.cloudfront.net/catalog/product/cache/a05e733b55beec0e7e3c81551533e22c/d/4/d446024_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God put that dream in your heart for a reason aura wallpaper (1440x900)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46579054/r/il/fe6005/5260389430/il_570xN.5260389430_gwvu.jpg' alt='God put that dream in your heart for a reason aura wallpaper (1440x900)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46579054/r/il/fe6005/5260389430/il_570xN.5260389430_gwvu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="god put that dream in your heart for a reason wall | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7274302948270719494&index=0&sign=4e203e296494e2c6c97d0607c8d02ab5' alt='god put that dream in your heart for a reason wall | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7274302948270719494&index=0&sign=4e203e296494e2c6c97d0607c8d02ab5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God put that dream in your heart for a reason.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/42/de/3842de8390c9d2a8098fb50d849de956.jpg' alt='God put that dream in your heart for a reason.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/42/de/3842de8390c9d2a8098fb50d849de956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

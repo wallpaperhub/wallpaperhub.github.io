@@ -1,0 +1,129 @@
+<title>Winter Wonderland: Embrace the Cross Background</title>
+                    <meta name="description" content="Discover the enchanting beauty of a winter cross background. Experience serene snowy landscapes, cozy atmospheres, and a peaceful ambiance that only winter can provide. Perfect for reflections and inspirations, this winter wonderland captures the essence of the season. Embrace the magic today!">
+                    <meta name="keywords" content="winter cross background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/winter-cross-background">
+                            <span itemprop="name">winter cross background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Winter Wonderland: Embrace the Cross Background</h1>
+                <p>As winter blankets the landscape, a magical cross-background emerges, characterized by glistening snowflakes and tranquil scenes. The crisp air, with its bite, invites adventurous spirits to explore frosted forests and cozy cottages. Nature's serene beauty during wintertime offers a peaceful backdrop, perfect for reflection and inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43,400+ Winter Cross Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1294490947/photo/cross-in-the-snow-wooden-religious-cross-in-winter-les-pleiades-switzerland.jpg?s=612x612&w=0&k=20&c=BAHL9fs6PTa3rLA_usMyNkFk0CAFT-OiI2Bgngf7d6g=' alt='43,400+ Winter Cross Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1294490947/photo/cross-in-the-snow-wooden-religious-cross-in-winter-les-pleiades-switzerland.jpg?s=612x612&w=0&k=20&c=BAHL9fs6PTa3rLA_usMyNkFk0CAFT-OiI2Bgngf7d6g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Winter Background Images – Browse 32,933 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/74/84/84/360_F_174848443_nAu1JkisMlN4UZzMETs9JST0y6McmOqP.jpg' alt='Christian Winter Background Images – Browse 32,933 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/74/84/84/360_F_174848443_nAu1JkisMlN4UZzMETs9JST0y6McmOqP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian cross and candles on snow, evening winter natural ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/52/35/15/1000_F_552351576_rA6cZFFGdMiDKSGZKwfVugiN9lfwHAj4.jpg' alt='Christian cross and candles on snow, evening winter natural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/52/35/15/1000_F_552351576_rA6cZFFGdMiDKSGZKwfVugiN9lfwHAj4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="747 Christian Cross Snow Forest Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/old-cross-winter-forest-your-design-92229840.jpg' alt='747 Christian Cross Snow Forest Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/old-cross-winter-forest-your-design-92229840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Illuminated Winter Cross Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/f/3/e/f3e7f934-3fa0-4950-a385-65ccc40f0ff6_large/illuminated-winter-cross-stockcake.jpg' alt='Free Illuminated Winter Cross Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/f/3/e/f3e7f934-3fa0-4950-a385-65ccc40f0ff6_large/illuminated-winter-cross-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,400+ Snow Cross Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1075924600/photo/frosted-cross-on-a-mountain-peak-velky-rozsutec-in-mala-fatra-in-slovakia.jpg?s=612x612&w=0&k=20&c=x6SQnF1Tp8uebXVCuXctvMuvTXIfa1dV0sIEHP-AtJU=' alt='31,400+ Snow Cross Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1075924600/photo/frosted-cross-on-a-mountain-peak-velky-rozsutec-in-mala-fatra-in-slovakia.jpg?s=612x612&w=0&k=20&c=x6SQnF1Tp8uebXVCuXctvMuvTXIfa1dV0sIEHP-AtJU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="233,030 Cross Winter Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/christian-cross-candles-on-snow-600nw-2234271911.jpg' alt='233,030 Cross Winter Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/christian-cross-candles-on-snow-600nw-2234271911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Winter Background Images – Browse 35,144 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/62/66/42/360_F_262664243_qPgnxmRZ5fylOnTV8bUsRAeqfE7S0rCh.jpg' alt='Christian Winter Background Images – Browse 35,144 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/62/66/42/360_F_262664243_qPgnxmRZ5fylOnTV8bUsRAeqfE7S0rCh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Mountain Cross Background Loop 90081206">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/4593207/9008/v/380/depositphotos_90081206-stock-video-winter-mountain-cross-background-loop.jpg' alt='Winter Mountain Cross Background Loop 90081206'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/4593207/9008/v/380/depositphotos_90081206-stock-video-winter-mountain-cross-background-loop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75,273 Winter Cross Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cross-top-snow-covered-hill-winter-landscape-cross-top-snow-covered-hill-winter-landscape-ai-generated-348294967.jpg' alt='75,273 Winter Cross Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cross-top-snow-covered-hill-winter-landscape-cross-top-snow-covered-hill-winter-landscape-ai-generated-348294967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

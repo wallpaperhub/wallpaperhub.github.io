@@ -1,0 +1,129 @@
+<title>Stunning iPhone Gradient Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of beautiful gradient wallpapers for your iPhone. Enhance your device's look with vibrant colors and unique designs, perfect for any style. Download your favorites and transform your home and lock screens effortlessly!">
+                    <meta name="keywords" content="iphone gradient wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iphone-gradient-wallpaper">
+                            <span itemprop="name">iphone gradient wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Gradient Wallpapers for Every Style</h1>
+                <p>Transform your iPhone with stunning gradient wallpapers that blend vibrant colors and soft hues, enhancing your home screen and lock screen aesthetics. Choose from a variety of designs to match your style, whether you prefer bold contrasts or subtle transitions. Elevate your device's look and feel with these eye-catching wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's my version of that red/black gradient wallpaper that's so ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/skpduFW.jpg' alt='Here's my version of that red/black gradient wallpaper that's so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/skpduFW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titanium Gradient — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/TiGradient_iPhone.png' alt='Titanium Gradient — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/TiGradient_iPhone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gradient Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gradient-iphone-39of2877p05bchwx.jpg' alt='100+] Gradient Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gradient-iphone-39of2877p05bchwx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made these Gradient Wallpapers for iPhone!! (Link in the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-these-gradient-wallpapers-for-iphone-link-in-the-v0-qjz8jmttde7a1.png?width=640&crop=smart&auto=webp&s=031c4eca5450ac8fa1383eeba42592cc0668c173' alt='I made these Gradient Wallpapers for iPhone!! (Link in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-these-gradient-wallpapers-for-iphone-link-in-the-v0-qjz8jmttde7a1.png?width=640&crop=smart&auto=webp&s=031c4eca5450ac8fa1383eeba42592cc0668c173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 14 wallpaper gradient inspirations for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/07/iOS-14-promotional-gradients-ipad-wallpaper-flarezephyr-idownloadblog-4.jpeg' alt='iOS 14 wallpaper gradient inspirations for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/07/iOS-14-promotional-gradients-ipad-wallpaper-flarezephyr-idownloadblog-4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Colors iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/74/43/8874435805d0974eb43841388eb18022.jpg' alt='Gradient Colors iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/74/43/8874435805d0974eb43841388eb18022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Gradient - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/09/ispazio-5-768x1662.jpg' alt='iOS 16 Gradient - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/09/ispazio-5-768x1662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get Creative with This Colorful Gradient iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gradient-iphone-t8gspe8mzt77so74.jpg' alt='Download Get Creative with This Colorful Gradient iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gradient-iphone-t8gspe8mzt77so74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titanium Gradient — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' alt='Titanium Gradient — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1513">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multicolor gradient wallpapers pack for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2021/04/gradient-iPhone-wallpaper-marcusbremen-idownloadblog-blue.png' alt='Multicolor gradient wallpapers pack for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2021/04/gradient-iPhone-wallpaper-marcusbremen-idownloadblog-blue.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

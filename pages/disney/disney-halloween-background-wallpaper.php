@@ -1,0 +1,129 @@
+<title>Spooktacular Disney Halloween Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover magical Disney Halloween wallpapers perfect for your devices! Featuring iconic characters and spine-tingling designs, these backgrounds will elevate your festive spirit. Download now for a fun and spooky touch to your screens!">
+                    <meta name="keywords" content="disney halloween background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/disney-halloween-background-wallpaper">
+                            <span itemprop="name">disney halloween background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Disney Halloween Wallpapers for Your Device</h1>
+                <p>Transform your device with enchanting Disney Halloween background wallpapers! Embrace the spooky spirit featuring beloved characters in festive settings. From Mickey and Minnie in ghostly attire to classic villains like Maleficent and the Pumpkin King, these wallpapers add charm and excitement to your Halloween festivities. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Fall and Halloween Wallpapers for 2024 - Disney Parks Blog">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/10/Mickey-Pumpkin-Halloween-Wallpaper-Desktop-scaled.jpg' alt='New Disney Fall and Halloween Wallpapers for 2024 - Disney Parks Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/10/Mickey-Pumpkin-Halloween-Wallpaper-Desktop-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/80/85/ae8085f86b535c6c6bcd5d34cd011d19.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/80/85/ae8085f86b535c6c6bcd5d34cd011d19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for Disney Halloween Wallpapers? Look No Further ...">
+                                <img itemprop="contentUrl url" src='https://allears.net/wp-content/uploads/2021/10/Disney-Halloween-Wallpaper-Mickey-Minnie.jpg' alt='Looking for Disney Halloween Wallpapers? Look No Further ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllEars.Net" />
+                                </span>
+                                <a href='https://allears.net/wp-content/uploads/2021/10/Disney-Halloween-Wallpaper-Mickey-Minnie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disneyland: Halloween Wallpaper by Thekingblader995 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dcmabvh-6a2ea96d-8696-40ac-8e62-f85c49aed58a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGNtYWJ2aC02YTJlYTk2ZC04Njk2LTQwYWMtOGU2Mi1mODVjNDlhZWQ1OGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hIzSGBkk3YFYqbrZBxpbouvhPteOTBB0bPMX26Ye8wY' alt='Disneyland: Halloween Wallpaper by Thekingblader995 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dcmabvh-6a2ea96d-8696-40ac-8e62-f85c49aed58a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGNtYWJ2aC02YTJlYTk2ZC04Njk2LTQwYWMtOGU2Mi1mODVjNDlhZWQ1OGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hIzSGBkk3YFYqbrZBxpbouvhPteOTBB0bPMX26Ye8wY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Disney Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-disney-halloween-tq3dewx7r3j6lgzh.jpg' alt='100+] Cute Disney Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-disney-halloween-tq3dewx7r3j6lgzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Halloween Wallpapers & GIPHY Stickers Will Add Some ...">
+                                <img itemprop="contentUrl url" src='https://www.disneyfoodblog.com/wp-content/uploads/2020/10/Donald-Duck-Halloween-desktop-wallpaper.jpg' alt='Disney's Halloween Wallpapers & GIPHY Stickers Will Add Some ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Food Blog" />
+                                </span>
+                                <a href='https://www.disneyfoodblog.com/wp-content/uploads/2020/10/Donald-Duck-Halloween-desktop-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/0c/79/a80c79b0183097349b8d2a13888946de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/0c/79/a80c79b0183097349b8d2a13888946de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Halloween Wallpapers [64+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/293/disney-halloween-desktop-wallpaper-1280x800.jpg' alt='Disney Halloween Wallpapers [64+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/293/disney-halloween-desktop-wallpaper-1280x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Disney Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/halloween-disney-desktop-mc1z9g9k60vd1co2.jpg' alt='Halloween Disney Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/halloween-disney-desktop-mc1z9g9k60vd1co2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Disney Halloween Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney-halloween-1920-x-1152-background-tre33zdra4nws654.jpg' alt='100+] Disney Halloween Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney-halloween-1920-x-1152-background-tre33zdra4nws654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

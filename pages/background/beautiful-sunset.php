@@ -1,0 +1,129 @@
+<title>Stunning Sunset: Nature's Colorful Goodbye</title>
+                    <meta name="description" content="Explore the mesmerizing beauty of sunsets as the sky comes alive with vibrant colors. Discover tips for the best viewing spots and ways to capture these magical moments. Perfect for nature lovers and photography enthusiasts alike!">
+                    <meta name="keywords" content="beautiful sunset">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beautiful-sunset">
+                            <span itemprop="name">beautiful sunset</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sunset: Nature's Colorful Goodbye</h1>
+                <p>As the day draws to a close, the sky transforms into a breathtaking canvas painted with hues of orange, pink, and purple. Each sunset is a fleeting reminder of nature's beauty, inviting us to pause and appreciate the moment. Whether viewed from a beach or a mountaintop, the tranquil spectacle evokes feelings of peace and wonder.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Photos, Download The BEST Free Beautiful Sunset ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2792043/pexels-photo-2792043.jpeg?cs=srgb&dl=pexels-steshkawillems-2792043.jpg&fm=jpg' alt='Beautiful Sunset Photos, Download The BEST Free Beautiful Sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2498">
+                                <meta itemprop="height" content="3512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2792043/pexels-photo-2792043.jpeg?cs=srgb&dl=pexels-steshkawillems-2792043.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Great Ocean Road sunset, beautiful view : r/ocean">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/beautiful-great-ocean-road-sunset-beautiful-view-v0-276le8zg3b1c1.png?width=640&crop=smart&auto=webp&s=da33c7c9b841f686df91bbf99ab02fdb53a73714' alt='Beautiful Great Ocean Road sunset, beautiful view : r/ocean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/beautiful-great-ocean-road-sunset-beautiful-view-v0-276le8zg3b1c1.png?width=640&crop=smart&auto=webp&s=da33c7c9b841f686df91bbf99ab02fdb53a73714' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,185,900+ Beautiful Sunset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=612x612&w=0&k=20&c=i3R3cbE94hdu6PRWT7cQBStY_wknVzl2pFCjQppzTBg=' alt='3,185,900+ Beautiful Sunset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=612x612&w=0&k=20&c=i3R3cbE94hdu6PRWT7cQBStY_wknVzl2pFCjQppzTBg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Photos, Download The BEST Free Beautiful Sunset ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2911579/pexels-photo-2911579.jpeg?cs=srgb&dl=pexels-davidboca-2911579.jpg&fm=jpg' alt='Beautiful Sunset Photos, Download The BEST Free Beautiful Sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3228">
+                                <meta itemprop="height" content="4035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2911579/pexels-photo-2911579.jpeg?cs=srgb&dl=pexels-davidboca-2911579.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Beautiful sunset on ocean beach. Sky is ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/08/71/84/1000_F_208718446_d2PSVDnzN3jLKMI71OgFy9IeiFhsHM9l.jpg' alt='Photo & Art Print Beautiful sunset on ocean beach. Sky is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/08/71/84/1000_F_208718446_d2PSVDnzN3jLKMI71OgFy9IeiFhsHM9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,185,900+ Beautiful Sunset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=' alt='3,185,900+ Beautiful Sunset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Images – Browse 26,555,548 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/04/78/75/360_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg' alt='Sunset Images – Browse 26,555,548 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/04/78/75/360_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Landscape Print Canvas Wall Art Home Decor - POSTER 20x30">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/HCQAAOSwnwJiMzbK/s-l1200.jpg' alt='Beautiful Sunset Landscape Print Canvas Wall Art Home Decor - POSTER 20x30'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/HCQAAOSwnwJiMzbK/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Most Beautiful Sunset Spots In The World - Vogue Australia">
+                                <img itemprop="contentUrl url" src='https://content.api.news/v3/images/bin/a3ea220073b9eeff74a45a394ddf056a' alt='Top 10 Most Beautiful Sunset Spots In The World - Vogue Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue Australia" />
+                                </span>
+                                <a href='https://content.api.news/v3/images/bin/a3ea220073b9eeff74a45a394ddf056a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Over The Sea Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240833/Beautiful-Sunset-Over-The-Sea-Mural-Wallpaper.jpg?v=638164440174470000' alt='Beautiful Sunset Over The Sea Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240833/Beautiful-Sunset-Over-The-Sea-Mural-Wallpaper.jpg?v=638164440174470000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

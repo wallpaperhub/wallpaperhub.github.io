@@ -1,0 +1,129 @@
+<title>Aesthetic Blue Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover stunning aesthetic blue wallpaper to enhance any room. Perfect for creating a serene and stylish atmosphere, these wallpapers come in various shades and designs. Elevate your home decor with calming blues that inspire creativity and relaxation. Turn your walls into a visual delight!">
+                    <meta name="keywords" content="aesthetic wallpaper blue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-wallpaper-blue">
+                            <span itemprop="name">aesthetic wallpaper blue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Blue Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with aesthetic blue wallpaper that evokes calmness and serenity. Whether you prefer deep navy or soft sky blue shades, these wallpapers are perfect for creating a tranquil atmosphere. Ideal for bedrooms, living rooms, or even offices, they bring a touch of elegance and style to any setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Aesthetic Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_1080xN.2797031334_6o7a.jpg' alt='Baby Blue Aesthetic Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_1080xN.2797031334_6o7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Stars">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-aesthetic-stars-pattern-repeat-removable-wallpaper-design.jpg' alt='Blue Aesthetic Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-aesthetic-stars-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel blue , sky blue , blue aesthetic wallpaper for android and ios">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/de/df/a8/dedfa80ea0bf5f9c9d212ca463fc3e55.jpg' alt='Pastel blue , sky blue , blue aesthetic wallpaper for android and ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/de/df/a8/dedfa80ea0bf5f9c9d212ca463fc3e55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper DCF">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/96/d4/3f/96d43fdcf26ed144fe705ba4b88945cb.jpg' alt='Blue Aesthetic Wallpaper DCF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/96/d4/3f/96d43fdcf26ed144fe705ba4b88945cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiOOv5lZw/1/0/900w/canva-blue-aesthetic-quotes-phone-wallpaper-Bl-HASWJ5oo.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiOOv5lZw/1/0/900w/canva-blue-aesthetic-quotes-phone-wallpaper-Bl-HASWJ5oo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pastel Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-pastel-blue-aesthetic-rxyhf4a7bwj88auo.jpg' alt='100+] Cute Pastel Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-pastel-blue-aesthetic-rxyhf4a7bwj88auo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFW7eSaHnY/1/0/900w/canva-blue-abstract-wave-phone-wallpaper-k7iCjgKKe80.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFW7eSaHnY/1/0/900w/canva-blue-abstract-wave-phone-wallpaper-k7iCjgKKe80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Laptop/Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30923035/r/il/2e99fc/3247318815/il_fullxfull.3247318815_6ovz.jpg' alt='Blue Aesthetic Laptop/Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30923035/r/il/2e99fc/3247318815/il_fullxfull.3247318815_6ovz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/ee/e6/c7eee63b64ba4200ffec75ab346a3b67.jpg' alt='Blue Aesthetic Wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/ee/e6/c7eee63b64ba4200ffec75ab346a3b67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-neon-aesthetic-collage-f9fq4m3x2mysoruk.jpg' alt='Blue Neon Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-neon-aesthetic-collage-f9fq4m3x2mysoruk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Frank Lloyd Wright: Architectural Innovator</title>
+                    <meta name="description" content="Discover the genius of Frank Lloyd Wright, the visionary architect behind revolutionary designs and natural integration. Learn about his legacy, including masterpieces like Fallingwater and the Guggenheim Museum, and explore how his ideas continue to shape modern architecture.">
+                    <meta name="keywords" content="frank lloyd wright">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frank-lloyd-wright">
+                            <span itemprop="name">frank lloyd wright</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Frank Lloyd Wright: Architectural Innovator</h1>
+                <p>Frank Lloyd Wright, an iconic American architect, transformed architectural design with his innovative concepts and organic structures. Known for the Prairie School movement, he emphasized harmony with the environment through open floor plans and natural materials. His masterpieces, like Fallingwater and the Guggenheim Museum, continue to inspire today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Appalachian Travel: Frank Lloyd Wright's Fallingwater Embraces Nature">
+                                <img itemprop="contentUrl url" src='https://www.columbusmonthly.com/gcdn/presto/2023/04/17/NCOM/c1299230-0bd1-48a5-8669-3dde175794d3-cm_0423_appalachian_07.jpg' alt='Appalachian Travel: Frank Lloyd Wright's Fallingwater Embraces Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Columbus Monthly" />
+                                </span>
+                                <a href='https://www.columbusmonthly.com/gcdn/presto/2023/04/17/NCOM/c1299230-0bd1-48a5-8669-3dde175794d3-cm_0423_appalachian_07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Lloyd Wright - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/30/Frank_Lloyd_Wright_portrait.jpg' alt='Frank Lloyd Wright - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2928">
+                                <meta itemprop="height" content="3735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/30/Frank_Lloyd_Wright_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Enduring Legacy of Frank Lloyd Wright – Common Edge">
+                                <img itemprop="contentUrl url" src='https://commonedge.org/wp-content/uploads/2024/09/wright-building-college.jpeg' alt='The Enduring Legacy of Frank Lloyd Wright – Common Edge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Common Edge" />
+                                </span>
+                                <a href='https://commonedge.org/wp-content/uploads/2024/09/wright-building-college.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Lloyd Wright Tours | Fallingwater">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_891,q_65,w_639/v1/clients/laurel/2022_10_9_Fallingwater_002_2284c81e-b8a1-49a2-b6d6-194a6a34a6c4.jpg' alt='Frank Lloyd Wright Tours | Fallingwater'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laurel Highlands" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_891,q_65,w_639/v1/clients/laurel/2022_10_9_Fallingwater_002_2284c81e-b8a1-49a2-b6d6-194a6a34a6c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Lloyd Wright Historic District | Enjoy Illinois | Enjoy Illinois">
+                                <img itemprop="contentUrl url" src='https://enjoyillinois.dottie.io/assets/Tourism-Operators/images/Frank-Lloyd-Wright-Walking-Tour-2-Copy__Resampled.jpg' alt='Frank Lloyd Wright Historic District | Enjoy Illinois | Enjoy Illinois'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2611">
+                                <meta itemprop="height" content="1903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enjoy Illinois" />
+                                </span>
+                                <a href='https://enjoyillinois.dottie.io/assets/Tourism-Operators/images/Frank-Lloyd-Wright-Walking-Tour-2-Copy__Resampled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Lloyd Wright Tour | Travel Wisconsin">
+                                <img itemprop="contentUrl url" src='https://www.travelwisconsin.com/uploads/blog/98/9832ffdb-7da8-4073-895a-8899182bab29-1_fall_color.jpg?preset=article-details-header' alt='Frank Lloyd Wright Tour | Travel Wisconsin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Wisconsin" />
+                                </span>
+                                <a href='https://www.travelwisconsin.com/uploads/blog/98/9832ffdb-7da8-4073-895a-8899182bab29-1_fall_color.jpg?preset=article-details-header' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Frank Lloyd Wright's 150th, Tours, Exhibitions and Tattoos ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2017/05/28/travel/28UPDAYE/28UPDAYE-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='For Frank Lloyd Wright's 150th, Tours, Exhibitions and Tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2017/05/28/travel/28UPDAYE/28UPDAYE-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eight Frank Lloyd Wright Sites Inscribed on UNESCO World Heritage ...">
+                                <img itemprop="contentUrl url" src='http://franklloydwright.org/wp-content/uploads/2019/06/Untitled-design-1.png' alt='Eight Frank Lloyd Wright Sites Inscribed on UNESCO World Heritage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frank Lloyd Wright Foundation" />
+                                </span>
+                                <a href='http://franklloydwright.org/wp-content/uploads/2019/06/Untitled-design-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does It Really Mean If a Home Is 'Inspired by Frank Lloyd ...">
+                                <img itemprop="contentUrl url" src='https://na.rdcpix.com/0918b9a89ebf963a4a296fd7b1591335w-c89288309srd_q80.jpg' alt='What Does It Really Mean If a Home Is 'Inspired by Frank Lloyd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Realtor.com" />
+                                </span>
+                                <a href='https://na.rdcpix.com/0918b9a89ebf963a4a296fd7b1591335w-c89288309srd_q80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Lloyd Wright | Biography, Architecture, Houses, Buildings ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/191415-050-DFC74DF5/Robie-House-Chicago-Frank-Lloyd-Wright.jpg' alt='Frank Lloyd Wright | Biography, Architecture, Houses, Buildings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/191415-050-DFC74DF5/Robie-House-Chicago-Frank-Lloyd-Wright.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

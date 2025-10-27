@@ -1,0 +1,129 @@
+<title>Beautiful Jesus iPhone Wallpapers for LDS Members</title>
+                    <meta name="description" content="Explore a curated selection of stunning Jesus iPhone wallpapers tailored for LDS members. Uplift your spirit and personalize your device with inspiring images that connect you to your faith and values. Download your favorite wallpapers today and keep your beliefs close to your heart!">
+                    <meta name="keywords" content="wallpaper iphone wallpaper jesus lds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-wallpaper-jesus-lds">
+                            <span itemprop="name">wallpaper iphone wallpaper jesus lds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Jesus iPhone Wallpapers for LDS Members</h1>
+                <p>Discover stunning iPhone wallpapers featuring Jesus, perfect for LDS members seeking inspiration and spiritual upliftment. Our collection showcases beautiful imagery that resonates with faith and love, allowing you to carry a reminder of your belief wherever you go. Customize your device with wallpapers that reflect your devotion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/05201feb93c13fbf8a014c9e370630cd390f8fe4/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/05201feb93c13fbf8a014c9e370630cd390f8fe4/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A beautiful Jesus LDS iPhone wallpaper to show your faith ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-08bd9ik2h9n6o34l.jpg' alt='Download A beautiful Jesus LDS iPhone wallpaper to show your faith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1278">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-08bd9ik2h9n6o34l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Savior Jesus Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/our-savior-jesus-phone-zylr4ismoqz124v0.jpg' alt='Our Savior Jesus Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/our-savior-jesus-phone-zylr4ismoqz124v0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jesus Lds Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' alt='100+] Jesus Lds Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus, clauds, cristo, god, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/389/243/HD-wallpaper-jesus-god.jpg' alt='Jesus, clauds, cristo, god, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/389/243/HD-wallpaper-jesus-god.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Shroud Jesus Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-shroud-jesus-phone-aibqkar7o5gonnjw.jpg' alt='White Shroud Jesus Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-shroud-jesus-phone-aibqkar7o5gonnjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Jesus Christ Greg Olsen, god, jesus christ, greg olsen, lord ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/393/35/HD-wallpaper-jesus-son-of-god-christ-jesus-greg-olsen-god-thumbnail.jpg' alt='God Jesus Christ Greg Olsen, god, jesus christ, greg olsen, lord ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/393/35/HD-wallpaper-jesus-son-of-god-christ-jesus-greg-olsen-god-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spread the Word of God with a Jesus LDS iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-hbgjj2f3k7i1a1na.jpg' alt='Download Spread the Word of God with a Jesus LDS iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-hbgjj2f3k7i1a1na.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Jesus Christ Wallpaper ideas | jesus christ, christ, jesus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/5a/13/7b5a137a66e08cee7cdc0a38dba85c59.jpg' alt='10 Best Jesus Christ Wallpaper ideas | jesus christ, christ, jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/5a/13/7b5a137a66e08cee7cdc0a38dba85c59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus iPhone Wallpaper | Jesus, Jesus pictures, The church of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/f2/a0/e3f2a0ba7a39b1d3d16dbf522349f780.jpg' alt='Jesus iPhone Wallpaper | Jesus, Jesus pictures, The church of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/f2/a0/e3f2a0ba7a39b1d3d16dbf522349f780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

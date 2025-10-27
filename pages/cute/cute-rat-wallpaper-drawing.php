@@ -1,0 +1,129 @@
+<title>Adorable Rat Wallpaper Drawings for Your Space</title>
+                    <meta name="description" content="Explore a collection of cute rat wallpaper drawings designed to add personality and charm to any room. Perfect for kids and quirky decor lovers, these delightful illustrations will brighten your walls and inspire creativity. Discover the joy of adorable rat art today!">
+                    <meta name="keywords" content="cute rat wallpaper drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-rat-wallpaper-drawing">
+                            <span itemprop="name">cute rat wallpaper drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Rat Wallpaper Drawings for Your Space</h1>
+                <p>Discover adorable rat wallpaper drawings that bring charm and whimsy to your space! These delightful illustrations feature cute and playful rats in various poses and settings, perfect for both kids' rooms and quirky home decor. Add a touch of fun and creativity to your walls with these unique art pieces!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,300+ Cute Rat Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1127018987/vector/cute-hand-drawn-mouses-with-different-poses.jpg?s=612x612&w=0&k=20&c=-wRds9fy8CNAxFiAXfq5goB5qYBFF7vVVbJ5bjWTvFo=' alt='23,300+ Cute Rat Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1127018987/vector/cute-hand-drawn-mouses-with-different-poses.jpg?s=612x612&w=0&k=20&c=-wRds9fy8CNAxFiAXfq5goB5qYBFF7vVVbJ5bjWTvFo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Rat Digital Drawing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/e2/f9/f7e2f9db8dc0c02eccb24d80061a4c0c.jpg' alt='Cute Rat Digital Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/e2/f9/f7e2f9db8dc0c02eccb24d80061a4c0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Rats Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10179503/p/f/m/QNer36ya3JP0zUCSzVGJ1vwrpvcEj6wWVOtnERyLT3IWPKzvMRJCp_YzBA/rat%20pattern%20beige.jpg' alt='Cute Rats Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10179503/p/f/m/QNer36ya3JP0zUCSzVGJ1vwrpvcEj6wWVOtnERyLT3IWPKzvMRJCp_YzBA/rat%20pattern%20beige.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pet rats | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/65/8b/36/658b3624dbc756ba6faf7abed2aebf3c.jpg' alt='pet rats | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/65/8b/36/658b3624dbc756ba6faf7abed2aebf3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a simple wallpaper of my heart rat journey ❤️ : r/RATS">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/made-a-simple-wallpaper-of-my-heart-rat-journey-v0-6qtgd5xusjca1.jpg?width=1920&format=pjpg&auto=webp&s=5528b659de7d4a1a4362f2d81ec26099853b3a91' alt='Made a simple wallpaper of my heart rat journey ❤️ : r/RATS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/made-a-simple-wallpaper-of-my-heart-rat-journey-v0-6qtgd5xusjca1.jpg?width=1920&format=pjpg&auto=webp&s=5528b659de7d4a1a4362f2d81ec26099853b3a91' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rat Seamless Pattern: Over 5,709 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/white-mouse-seamless-pattern-on-260nw-1676540473.jpg' alt='Rat Seamless Pattern: Over 5,709 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/white-mouse-seamless-pattern-on-260nw-1676540473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pastel rat drawing! (made by me) : r/RATS">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ho3gcho25g291.jpg' alt='A pastel rat drawing! (made by me) : r/RATS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ho3gcho25g291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Rat Wallpaper - Amanda | leetinglady's Ko-fi Shop - Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/post/4427ed75-441f-4cc8-b733-9703db301762_25_angel_rat-wm.jpg' alt='Angel Rat Wallpaper - Amanda | leetinglady's Ko-fi Shop - Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/post/4427ed75-441f-4cc8-b733-9703db301762_25_angel_rat-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pet rats pattern design against blue background Whimsicolour art | Art  Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4177037161.8239/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Cute pet rats pattern design against blue background Whimsicolour art | Art  Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4177037161.8239/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Adorable Mouse Mice Rat Yellow Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1488200057/display_1500/stock-vector-cute-adorable-mouse-mice-rat-with-yellow-cheese-on-white-background-cartoon-doodle-seamless-pattern-1488200057.jpg' alt='Cute Adorable Mouse Mice Rat Yellow Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1488200057/display_1500/stock-vector-cute-adorable-mouse-mice-rat-with-yellow-cheese-on-white-background-cartoon-doodle-seamless-pattern-1488200057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

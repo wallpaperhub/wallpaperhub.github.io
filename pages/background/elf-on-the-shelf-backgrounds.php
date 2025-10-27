@@ -1,0 +1,129 @@
+<title>Magical Elf on the Shelf Backgrounds for Holiday Fun</title>
+                    <meta name="description" content="Discover enchanting Elf on the Shelf backgrounds to elevate your holiday spirit! Create delightful scenes that capture the magic of Christmas, perfect for social media sharing. Explore various themes to ensure your elf's antics are both fun and festive this season!">
+                    <meta name="keywords" content="elf on the shelf backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elf-on-the-shelf-backgrounds">
+                            <span itemprop="name">elf on the shelf backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Elf on the Shelf Backgrounds for Holiday Fun</h1>
+                <p>Transform your holiday decor with creative Elf on the Shelf backgrounds! From snowy winter landscapes to festive living rooms, these backgrounds add a magical touch to your elf's adventures. Create memorable scenes that inspire joy and laughter, perfect for sharing with friends and family during the holiday season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="adopt one of his New Elf Pets Reindeer-- a snuggly new friend that ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/e5/5b/dbe55b626ebc63a9bd518d651b04e254.jpg' alt='adopt one of his New Elf Pets Reindeer-- a snuggly new friend that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/e5/5b/dbe55b626ebc63a9bd518d651b04e254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elves on a Shelf Digital Background Face in a Hole Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20281179/r/il/cae2bf/3231890694/il_fullxfull.3231890694_deb4.jpg' alt='Elves on a Shelf Digital Background Face in a Hole Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20281179/r/il/cae2bf/3231890694/il_fullxfull.3231890694_deb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elf on the Shelf Story: History, Origin and Rules">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-08/elf-on-shelf-2-jp-220826-7d5abf.jpg' alt='Elf on the Shelf Story: History, Origin and Rules'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-08/elf-on-shelf-2-jp-220826-7d5abf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elf on the Shelf: Phone Wallpaper | Lilies and Loafers | Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/d3/01/d6d3013f8f94c0767dbbe95400fe19ae.jpg' alt='Elf on the Shelf: Phone Wallpaper | Lilies and Loafers | Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/d3/01/d6d3013f8f94c0767dbbe95400fe19ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Elf On The Shelf Present Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/elf-on-the-shelf-picture-1rdbvkn6xq5fp4a0.jpg' alt='Download Elf On The Shelf Present Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/elf-on-the-shelf-picture-1rdbvkn6xq5fp4a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Elf On The Shelf Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/elf-on-the-shelf-picture-4zdg267ty59axo03.jpg' alt='100+] Elf On The Shelf Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/elf-on-the-shelf-picture-4zdg267ty59axo03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prep Now for Your Scout Elf's Arrival This Season | The Elf on the ...">
+                                <img itemprop="contentUrl url" src='https://media.elfontheshelf.com/files/managed/blog-elf-arrival1.png' alt='Prep Now for Your Scout Elf's Arrival This Season | The Elf on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Elf on the Shelf" />
+                                </span>
+                                <a href='https://media.elfontheshelf.com/files/managed/blog-elf-arrival1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our New Christmas Tradition | The Elf On The Shelf ® ♥ - Dolly Dowsie">
+                                <img itemprop="contentUrl url" src='https://www.dollydowsie.com/wp-content/uploads/2024/05/funny.pho_.to_light_bokeh252812529.jpg' alt='Our New Christmas Tradition | The Elf On The Shelf ® ♥ - Dolly Dowsie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dolly Dowsie" />
+                                </span>
+                                <a href='https://www.dollydowsie.com/wp-content/uploads/2024/05/funny.pho_.to_light_bokeh252812529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claus Couture Collection® Extraordinary Noorah® Dress">
+                                <img itemprop="contentUrl url" src='https://shop.elfontheshelf.com/cdn/shop/files/preview_images/e3bf3fdb9eb8455da8c2841ae78020ee.thumbnail.0000000000.jpg?v=1721414510&width=1946' alt='Claus Couture Collection® Extraordinary Noorah® Dress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Santa's Store - The Elf on the Shelf" />
+                                </span>
+                                <a href='https://shop.elfontheshelf.com/cdn/shop/files/preview_images/e3bf3fdb9eb8455da8c2841ae78020ee.thumbnail.0000000000.jpg?v=1721414510&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happens If Our Scout Elf Is Accidentally Touched? | The Elf ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/0b/4d/a90b4d1f0081689d228eb666fbef4d54.jpg' alt='What Happens If Our Scout Elf Is Accidentally Touched? | The Elf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/0b/4d/a90b4d1f0081689d228eb666fbef4d54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Pediatric Nursing: A Special Care for Kids</title>
+                    <meta name="description" content="Discover the vital role of pediatric nurses in child healthcare. Learn how these dedicated professionals ensure the well-being of young patients through specialized care and support for families. Explore their contributions to the health and development of infants and children.">
+                    <meta name="keywords" content="what is a pediatric nurse">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-a-pediatric-nurse">
+                            <span itemprop="name">what is a pediatric nurse</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pediatric Nursing: A Special Care for Kids</h1>
+                <p>A pediatric nurse is a specialized healthcare professional who focuses on the medical needs of infants, children, and adolescents. They provide essential care, administer medications, and support families through various health challenges. Pediatric nurses play a crucial role in promoting healthy growth and development in young patients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatric Nurse Career Guide | NursingEducation">
+                                <img itemprop="contentUrl url" src='https://nursingeducation.org/wp-content/uploads/2022/04/specialization-_0010_PediatricNurse.jpg' alt='Pediatric Nurse Career Guide | NursingEducation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NursingEducation.org" />
+                                </span>
+                                <a href='https://nursingeducation.org/wp-content/uploads/2022/04/specialization-_0010_PediatricNurse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Pediatric Nurse Do?">
+                                <img itemprop="contentUrl url" src='https://www.allheart.com/on/demandware.static/-/Sites-allheart-Library/default/dw40e6277d/blog/doctor-preparing-baby-injection.jpg' alt='What Does a Pediatric Nurse Do?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllHeart" />
+                                </span>
+                                <a href='https://www.allheart.com/on/demandware.static/-/Sites-allheart-Library/default/dw40e6277d/blog/doctor-preparing-baby-injection.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a pediatric nurse in the USA? | Shiftmed Blog">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/5ghoewqh73wu/1VYHeEU4R5lTJX1rOYD5mE/562aaa3e84426659c07039d7b2d40c6b/Pediatric_Nurse.jpg?w=1000&h=667&q=50&fm=png' alt='What is a pediatric nurse in the USA? | Shiftmed Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShiftMed" />
+                                </span>
+                                <a href='https://images.ctfassets.net/5ghoewqh73wu/1VYHeEU4R5lTJX1rOYD5mE/562aaa3e84426659c07039d7b2d40c6b/Pediatric_Nurse.jpg?w=1000&h=667&q=50&fm=png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Appreciating Our Amazing Nurses | Coastal Kids Pediatrics">
+                                <img itemprop="contentUrl url" src='https://coastalkids.com/wp-content/uploads/2022/05/AdobeStock_97187265-scaled.jpeg' alt='Appreciating Our Amazing Nurses | Coastal Kids Pediatrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coastal Kids Pediatrics" />
+                                </span>
+                                <a href='https://coastalkids.com/wp-content/uploads/2022/05/AdobeStock_97187265-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What It's Like to Be a Pediatric Nurse">
+                                <img itemprop="contentUrl url" src='https://www.stpaulsschoolofnursing.edu/blog/nursing/what-it-s-like-to-be-a-pediatric-nurse/_jcr_content/blog/image.transform/w1000/q85/img.jpeg' alt='What It's Like to Be a Pediatric Nurse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saint Paul's School of Nursing" />
+                                </span>
+                                <a href='https://www.stpaulsschoolofnursing.edu/blog/nursing/what-it-s-like-to-be-a-pediatric-nurse/_jcr_content/blog/image.transform/w1000/q85/img.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become a Pediatric Nurse: All You Need to Know | USAHS">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.usa.edu/wp-content/uploads/2021/06/pediatric-nursing-duties-1.png?resize=1477%2C807&ssl=1' alt='How to Become a Pediatric Nurse: All You Need to Know | USAHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1477">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of St. Augustine for Health Sciences" />
+                                </span>
+                                <a href='https://i0.wp.com/www.usa.edu/wp-content/uploads/2021/06/pediatric-nursing-duties-1.png?resize=1477%2C807&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatric Nurse Requirements | AZCN Blog">
+                                <img itemprop="contentUrl url" src='https://www.arizonacollege.edu/wp-content/uploads/2018/12/Pediatric-Nursing-Career.webp' alt='Pediatric Nurse Requirements | AZCN Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arizona College of Nursing" />
+                                </span>
+                                <a href='https://www.arizonacollege.edu/wp-content/uploads/2018/12/Pediatric-Nursing-Career.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Different Common Types of Pediatric Nurses">
+                                <img itemprop="contentUrl url" src='https://www.herzing.edu/sites/default/files/styles/fp_900_700/public/2023-04/pediatric-exam-nurse-practitioner.jpg.webp?itok=fZw4opP-' alt='7 Different Common Types of Pediatric Nurses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Herzing University" />
+                                </span>
+                                <a href='https://www.herzing.edu/sites/default/files/styles/fp_900_700/public/2023-04/pediatric-exam-nurse-practitioner.jpg.webp?itok=fZw4opP-' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become A Pediatric Nurse | Sumner College">
+                                <img itemprop="contentUrl url" src='https://www.sumnercollege.edu/wp-content/uploads/2023/06/Pediatric-Nurse-iStock-1373261451.jpg' alt='How to Become A Pediatric Nurse | Sumner College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sumner College" />
+                                </span>
+                                <a href='https://www.sumnercollege.edu/wp-content/uploads/2023/06/Pediatric-Nurse-iStock-1373261451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Pediatric Nurse and What Do They Do?">
+                                <img itemprop="contentUrl url" src='https://www.graduatenursingedu.org/wp-content/uploads/2021/07/pediatric-nurse-with-patient.jpg' alt='What Is a Pediatric Nurse and What Do They Do?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graduate Nursing" />
+                                </span>
+                                <a href='https://www.graduatenursingedu.org/wp-content/uploads/2021/07/pediatric-nurse-with-patient.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

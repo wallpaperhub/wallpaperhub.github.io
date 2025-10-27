@@ -1,0 +1,129 @@
+<title>Stellar Space Drawing: Unleashing Cosmic Creativity</title>
+                    <meta name="description" content="Discover the art of space drawing! Unleash your creativity by illustrating the cosmos with stunning depictions of stars, planets, and galaxies. Perfect for aspiring artists and astronomy enthusiasts alike, our space drawing guide offers tips and inspiration to help you explore the beauty of the universe!">
+                    <meta name="keywords" content="space drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/space-drawing">
+                            <span itemprop="name">space drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stellar Space Drawing: Unleashing Cosmic Creativity</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Drawing With Planets | Saturn Drawing | Galaxy Drawing | Universe  Drawing | Oil Pastels">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tuFHJpeK-gI/sddefault.jpg' alt='Space Drawing With Planets | Saturn Drawing | Galaxy Drawing | Universe  Drawing | Oil Pastels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tuFHJpeK-gI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Space Step By Step      Space Drawing EASY">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wSBLWhBQ2GU/maxresdefault.jpg' alt='How To Draw Space Step By Step      Space Drawing EASY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wSBLWhBQ2GU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space drawing, background stock illustration. Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/space-drawing-background-13211194.jpg' alt='Space drawing, background stock illustration. Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/space-drawing-background-13211194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Space - HelloArtsy">
+                                <img itemprop="contentUrl url" src='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-space/how-to-draw-space-step-8.jpg' alt='How to Draw Space - HelloArtsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelloArtsy" />
+                                </span>
+                                <a href='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-space/how-to-draw-space-step-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make space drawing for school project / Easy and beautiful scenery  drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PEAUqVHUPC4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzhY455zGpaLPnLmlwSG6FUqUShQ' alt='How to make space drawing for school project / Easy and beautiful scenery  drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PEAUqVHUPC4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzhY455zGpaLPnLmlwSG6FUqUShQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Drawing Images – Browse 459,875 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/81/08/87/360_F_981088786_r8bfap0WmZSTo03wwGBBklpNl3fHjxXk.jpg' alt='Outer Space Drawing Images – Browse 459,875 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/81/08/87/360_F_981088786_r8bfap0WmZSTo03wwGBBklpNl3fHjxXk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut in Space - Drawing | Instructor: Karin">
+                                <img itemprop="contentUrl url" src='http://artistspalettedurham.com/cdn/shop/products/274579874_476389717526612_7043747443817863004_n.jpg?v=1669776275&width=1024' alt='Astronaut in Space - Drawing | Instructor: Karin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artists Palette Durham" />
+                                </span>
+                                <a href='http://artistspalettedurham.com/cdn/shop/products/274579874_476389717526612_7043747443817863004_n.jpg?v=1669776275&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Space Drawing - How To Draw A Cartoon Space Step By Step">
+                                <img itemprop="contentUrl url" src='https://iheartcraftythings.com/wp-content/uploads/2022/01/Preview-82.jpg' alt='Cartoon Space Drawing - How To Draw A Cartoon Space Step By Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1389">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Heart Crafty Things" />
+                                </span>
+                                <a href='https://iheartcraftythings.com/wp-content/uploads/2022/01/Preview-82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Drawings - HelloArtsy">
+                                <img itemprop="contentUrl url" src='https://helloartsy.com/wp-content/uploads/kids/space/draw-a-comet/draw-a-comet-step-6-1024x1024.jpg' alt='Space Drawings - HelloArtsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelloArtsy" />
+                                </span>
+                                <a href='https://helloartsy.com/wp-content/uploads/kids/space/draw-a-comet/draw-a-comet-step-6-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Easy Space Drawing Ideas You Can Try At Home">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d3/81/4f/d3814f7fb0617ce2aacce233566298d7.jpg' alt='45 Easy Space Drawing Ideas You Can Try At Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d3/81/4f/d3814f7fb0617ce2aacce233566298d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

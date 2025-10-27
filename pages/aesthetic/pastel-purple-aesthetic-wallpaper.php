@@ -1,0 +1,129 @@
+<title>Pastel Purple Aesthetic Wallpaper: Soft & Stylish Designs</title>
+                    <meta name="description" content="Discover the beauty of pastel purple aesthetic wallpaper. Perfect for creating a serene atmosphere, our collection features designs that suit any style—be it floral or minimalist. Transform your home with calming elegance today!">
+                    <meta name="keywords" content="pastel purple aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastel-purple-aesthetic-wallpaper">
+                            <span itemprop="name">pastel purple aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Purple Aesthetic Wallpaper: Soft & Stylish Designs</h1>
+                <p>Transform your space with enchanting pastel purple aesthetic wallpaper. This soft color evokes calmness and creativity, perfect for bedrooms, living areas, or creative spaces. Whether you prefer floral patterns or minimalist designs, pastel purple wallpaper adds a trendy yet soothing vibe to any room. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple lavander light purple aesthetic wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' alt='Pastel Purple lavander light purple aesthetic wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pastel Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-purple-5zg9l3tzlctx5mxx.jpg' alt='200+] Pastel Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-purple-5zg9l3tzlctx5mxx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pastel Aesthetic Black Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-pastel-aesthetic-black-heart-wqmvyfwfqcdvnv8y.jpg' alt='Purple Pastel Aesthetic Black Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-pastel-aesthetic-black-heart-wqmvyfwfqcdvnv8y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-purple-iphone-ijereiasvkz8cn44.jpg' alt='100+] Pastel Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-purple-iphone-ijereiasvkz8cn44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple lavander light purple aesthetic wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/58/6c/e8586cabd1a89aa9c683a4a397eecd78.jpg' alt='Pastel Purple lavander light purple aesthetic wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/58/6c/e8586cabd1a89aa9c683a4a397eecd78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple, aesthetic, cute, lavender, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/956/365/HD-wallpaper-pastel-purple-aesthetic-cute-lavender.jpg' alt='Pastel Purple, aesthetic, cute, lavender, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/956/365/HD-wallpaper-pastel-purple-aesthetic-cute-lavender.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'pastel purple heart' (2)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' alt='Phone wallpaper, background. 'pastel purple heart' (2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel purple aesthetic collage . Light purple, Purple phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/980/3/HD-wallpaper-pastel-purple-aesthetic-collage-light-purple-purple-phone-purple-lilac-collage.jpg' alt='Pastel purple aesthetic collage . Light purple, Purple phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/980/3/HD-wallpaper-pastel-purple-aesthetic-collage-light-purple-purple-phone-purple-lilac-collage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Melting Heart Lavender Pastel Purple Aesthetic Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lavender-pastel-purple-aesthetic-background-0hfp9aai8ujrm5y2.jpg' alt='Download Melting Heart Lavender Pastel Purple Aesthetic Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lavender-pastel-purple-aesthetic-background-0hfp9aai8ujrm5y2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable purple aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXq7BOFGc/1/0/900w/canva-pink-pastel-sky-aesthetic-phone-wallpaper-JRtta1pXETo.jpg' alt='Free and customizable purple aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXq7BOFGc/1/0/900w/canva-pink-pastel-sky-aesthetic-phone-wallpaper-JRtta1pXETo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

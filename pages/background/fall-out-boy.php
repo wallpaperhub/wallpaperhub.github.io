@@ -1,0 +1,129 @@
+<title>Fall Out Boy: The Evolution of a Pop-Punk Legend</title>
+                    <meta name="description" content="Explore the journey of Fall Out Boy, the legendary pop-punk band known for their catchy songs and electrifying performances. Discover their hit tracks and impact on music culture in this concise yet comprehensive overview.">
+                    <meta name="keywords" content="fall out boy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-out-boy">
+                            <span itemprop="name">fall out boy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fall Out Boy: The Evolution of a Pop-Punk Legend</h1>
+                <p>Fall Out Boy, an iconic pop-punk band formed in 2001, blends edgy lyrics and catchy melodies. With hits like "Sugar, We're Goin Down" and "Thnks fr th Mmrs," they revolutionized the music scene and gained a dedicated following. Their energetic performances and evolving sound keep fans engaged and excited about their journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LASTING IMPACT: Fall Out Boy - The Diamondback">
+                                <img itemprop="contentUrl url" src='https://dbknews.s3.amazonaws.com/uploads/2019/05/2013-02-f97379e0ea42838f790e396cb066f271.jpg' alt='LASTING IMPACT: Fall Out Boy - The Diamondback'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Diamondback" />
+                                </span>
+                                <a href='https://dbknews.s3.amazonaws.com/uploads/2019/05/2013-02-f97379e0ea42838f790e396cb066f271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Things We Learned on the Road With Fall Out Boy">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-179980-461150986.jpg?w=1581&h=1054&crop=1' alt='14 Things We Learned on the Road With Fall Out Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-179980-461150986.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Fall Out Boy's 'Cork Tree' Changed The Scene">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/978/files/2020/05/Fall-Out-Boy.jpg?w=780&q=75' alt='How Fall Out Boy's 'Cork Tree' Changed The Scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Note To Scene" />
+                                </span>
+                                <a href='https://townsquare.media/site/978/files/2020/05/Fall-Out-Boy.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Out Boy Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac' alt='Fall Out Boy Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Stump of Fall Out Boy • chorus.fm">
+                                <img itemprop="contentUrl url" src='https://chorus.fm/wp-content/uploads/2020/07/fall-out-boy.jpg' alt='Patrick Stump of Fall Out Boy • chorus.fm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chorus.fm" />
+                                </span>
+                                <a href='https://chorus.fm/wp-content/uploads/2020/07/fall-out-boy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Out Boy | Videogame soundtracks Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/vgost/images/e/ec/FallOutBoy.png/revision/latest?cb=20200309032634' alt='Fall Out Boy | Videogame soundtracks Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videogame soundtracks Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/vgost/images/e/ec/FallOutBoy.png/revision/latest?cb=20200309032634' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Out Boy">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/Au0juF889s9GUY23n1dX6Eu8Fn8Wf1Hrx5uhAhVL0BnvD9kU6myISGir0wTopAI3WopnCHBtKrnR3A=w544-h544-p-l90-rj' alt='Fall Out Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube Music" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/Au0juF889s9GUY23n1dX6Eu8Fn8Wf1Hrx5uhAhVL0BnvD9kU6myISGir0wTopAI3WopnCHBtKrnR3A=w544-h544-p-l90-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Out Boy Reunite With New Single">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-157731-20130204-falloutboy-x624-1359992251.jpg' alt='Fall Out Boy Reunite With New Single'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-157731-20130204-falloutboy-x624-1359992251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REVIEW: Fall Out Boy makes heartbreak feel good on 'So Much (For ...">
+                                <img itemprop="contentUrl url" src='https://snworksceo.imgix.net/tdl/856070c3-8c8d-42cf-b30d-aea60dbeedc0.sized-1000x1000.jpeg?w=1000' alt='REVIEW: Fall Out Boy makes heartbreak feel good on 'So Much (For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Daily Lobo" />
+                                </span>
+                                <a href='https://snworksceo.imgix.net/tdl/856070c3-8c8d-42cf-b30d-aea60dbeedc0.sized-1000x1000.jpeg?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Out Boy Talks Wild Early Days, 'Insane' Video For ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/fall-out-boy-kroq-acoustic-christmas-portrait-2015-billboard-650.jpg?w=650' alt='Fall Out Boy Talks Wild Early Days, 'Insane' Video For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/fall-out-boy-kroq-acoustic-christmas-portrait-2015-billboard-650.jpg?w=650' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

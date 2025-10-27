@@ -1,0 +1,129 @@
+<title>Dark Aesthetic Fall Wallpapers: Embrace the Season</title>
+                    <meta name="description" content="Discover enchanting dark aesthetic fall wallpapers that reflect autumn's mystery. Perfect for enhancing your devices, these wallpapers feature deep colors and moody imagery, capturing the essence of the season. Transform your screens with a touch of autumn's beauty and a hint of intrigue.">
+                    <meta name="keywords" content="dark aesthetic fall wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dark-aesthetic-fall-wallpaper">
+                            <span itemprop="name">dark aesthetic fall wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Aesthetic Fall Wallpapers: Embrace the Season</h1>
+                <p>Embrace the coziness of fall with dark aesthetic wallpapers that capture the season's moody essence. Deep hues of burgundy, navy, and forest green blend with shadows of autumn leaves and misty landscapes. Perfect for your devices, these wallpapers evoke a sense of mystery and warmth, making your screens reflect the beauty of fall's darker sides.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark autumn wallpaper   ☕️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/08/c2/2808c224d6a3eef78744a8d15d71292f.jpg' alt='Dark autumn wallpaper   ☕️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/08/c2/2808c224d6a3eef78744a8d15d71292f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Autumn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-autumn-k0inzsi4g66rty3n.jpg' alt='100+] Dark Autumn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-autumn-k0inzsi4g66rty3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark fall aesthetic wallpaper background for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/6e/32/a26e325feb9c50280a9b4d06d03aa287.jpg' alt='dark fall aesthetic wallpaper background for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/6e/32/a26e325feb9c50280a9b4d06d03aa287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Fall Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/autumn-twilight-pathway-jpg-lv0zttuywwxd9a4k.jpg' alt='100+] Dark Fall Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/autumn-twilight-pathway-jpg-lv0zttuywwxd9a4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43 Dark Autumn ideas | autumn aesthetic, scenery, autumn cozy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/52/8d/ee/528dee8d7fed4209cc4db1bf2ab6d378.jpg' alt='43 Dark Autumn ideas | autumn aesthetic, scenery, autumn cozy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/52/8d/ee/528dee8d7fed4209cc4db1bf2ab6d378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' alt='Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Fall Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/selective-focus-shot-brown-leaves-tree-branch-maksimir-park-zagreb-croatia_181624-24554.jpg' alt='Dark Fall Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/selective-focus-shot-brown-leaves-tree-branch-maksimir-park-zagreb-croatia_181624-24554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/c/1080/857/0/4/il/deefb8/5330152710/il_340x270.5330152710_nxle.jpg' alt='Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/c/1080/857/0/4/il/deefb8/5330152710/il_340x270.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark autumn wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/681/174/HD-wallpaper-autumn-forest-leaves-fall-foliage-dark-background-thumbnail.jpg' alt='HD dark autumn wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/681/174/HD-wallpaper-autumn-forest-leaves-fall-foliage-dark-background-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 Best Dark Fall iPhone Aesthetic ideas | iphone, aesthetic, fall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8f/ed/8c/8fed8c1bd3d88c5679133cb152ae3af1.jpg' alt='44 Best Dark Fall iPhone Aesthetic ideas | iphone, aesthetic, fall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8f/ed/8c/8fed8c1bd3d88c5679133cb152ae3af1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Green Flowers Background for a Refreshing Aesthetic</title>
+                    <meta name="description" content="Explore stunning green flowers backgrounds to elevate your designs! Perfect for wallpapers, social media, or art projects, these vibrant floral designs bring a fresh, natural touch to your visuals. Ideal for anyone seeking to inspire tranquillity and beauty in their work. Discover now!">
+                    <meta name="keywords" content="green flowers background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-flowers-background">
+                            <span itemprop="name">green flowers background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Flowers Background for a Refreshing Aesthetic</h1>
+                <p>Transform your space with a captivating green flowers background, perfect for adding a touch of nature's beauty to any design. The vibrant green hues and fresh floral patterns create an energizing ambiance, ideal for wallpapers, social media backdrops, or art projects. Embrace nature's charm and inspire tranquility!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers Images – Browse 21,281,445 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/67/26/00/360_F_1167260090_DyAFH9AQoChD9zBQdvE1qwvJq3tjTrve.jpg' alt='Green Flowers Images – Browse 21,281,445 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/67/26/00/360_F_1167260090_DyAFH9AQoChD9zBQdvE1qwvJq3tjTrve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' alt='Green flower wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Flower Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-flower-background-ze00991e4unypoys.jpg' alt='100+] Green Flower Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-flower-background-ze00991e4unypoys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green, flowers, hearts, plants, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/964/710/HD-wallpaper-green-flowers-hearts-plants.jpg' alt='Green, flowers, hearts, plants, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/964/710/HD-wallpaper-green-flowers-hearts-plants.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flower Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/624/711/small/yellow-flowers-in-a-vase-on-a-green-background-ai-generated-photo.jpg' alt='Green Flower Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/624/711/small/yellow-flowers-in-a-vase-on-a-green-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flower Images – Browse 21,401,982 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/75/88/66/360_F_175886603_ErPLT5z0f7jv7Q70JzukOBVsljKIjmZn.jpg' alt='Green Flower Images – Browse 21,401,982 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/75/88/66/360_F_175886603_ErPLT5z0f7jv7Q70JzukOBVsljKIjmZn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Watercolor Flower Backgrounds Images & Pictures | Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-green-literary-small-fresh-watercolor-flower-background-picture-image_1273551.jpg' alt='Green Watercolor Flower Backgrounds Images & Pictures | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-green-literary-small-fresh-watercolor-flower-background-picture-image_1273551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower sketch background, paper sheet design, mobile cover style..">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/e4/bc/8be4bc10c191e862e7820ee27648332a.jpg' alt='Flower sketch background, paper sheet design, mobile cover style..'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/e4/bc/8be4bc10c191e862e7820ee27648332a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Stunning Green Flowers for Your Garden (With Pictures) | Planet ...">
+                                <img itemprop="contentUrl url" src='https://www.planetnatural.com/wp-content/uploads/2023/09/Green-roses-background.jpg' alt='32 Stunning Green Flowers for Your Garden (With Pictures) | Planet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Natural" />
+                                </span>
+                                <a href='https://www.planetnatural.com/wp-content/uploads/2023/09/Green-roses-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 6 | Green Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/monochromatic-hand-painted-background-with-drawn-nature-elements_52683-63006.jpg' alt='Page 6 | Green Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/monochromatic-hand-painted-background-with-drawn-nature-elements_52683-63006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

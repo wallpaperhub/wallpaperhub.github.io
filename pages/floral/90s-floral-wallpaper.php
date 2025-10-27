@@ -1,0 +1,129 @@
+<title>Revive Your Space: 90s Floral Wallpaper Inspiration</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="90s floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/90s-floral-wallpaper">
+                            <span itemprop="name">90s floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive Your Space: 90s Floral Wallpaper Inspiration</h1>
+                <p>In the 90s, floral wallpaper was a quintessential home decor choice, offering vibrant patterns that brought warmth and personality to spaces. Bold blooms and soft pastels dominated walls, combining nostalgia with a playful spirit. This charming trend reflected a unique blend of nature and creativity, making homes feel inviting and distinctive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1990s Floral Stripe Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_6125_070484e9-9e89-47f6-9589-d74a7174f0cc.jpg?v=1667415399' alt='1990s Floral Stripe Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_6125_070484e9-9e89-47f6-9589-d74a7174f0cc.jpg?v=1667415399' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1980s | 1990s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/files/IMG_9267.jpg?v=1700858580' alt='1980s | 1990s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/files/IMG_9267.jpg?v=1700858580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1990s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/files/IMG_9279.jpg?v=1700858153' alt='1990s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/files/IMG_9279.jpg?v=1700858153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1990's Vintage Multi Floral Textured Shinny Wallpaper by The Marquis  Collection">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/NzYzWDEzNzQ=/z/xfwAAOSwDsxguYQY/$_57.JPG?set_id=8800005007' alt='1990's Vintage Multi Floral Textured Shinny Wallpaper by The Marquis  Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/NzYzWDEzNzQ=/z/xfwAAOSwDsxguYQY/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Floral Vibe Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/files/838b.jpg?v=1691187979' alt='Retro Floral Vibe Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/files/838b.jpg?v=1691187979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Remnant 90s Crewel Floral Print Vinyl Coated Paper 2.5Y ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/d-kAAOSwaORmkaq5/s-l1200.jpg' alt='Wallpaper Remnant 90s Crewel Floral Print Vinyl Coated Paper 2.5Y ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1172">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/d-kAAOSwaORmkaq5/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage 80s/90s Mauve/green/blue Tapestry Print Wallpaper 182 Sq ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5706426/r/il/4de406/4361897731/il_570xN.4361897731_ab4p.jpg' alt='Vintage 80s/90s Mauve/green/blue Tapestry Print Wallpaper 182 Sq ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5706426/r/il/4de406/4361897731/il_570xN.4361897731_ab4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="does anyone possibly know where i could find this wallpaper design ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uxt4ddxkuke91.jpg' alt='does anyone possibly know where i could find this wallpaper design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uxt4ddxkuke91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dashwood Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Sixhands-Dashwood-WinterGarden-3.jpg.optimal.jpg' alt='Dashwood Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Sixhands-Dashwood-WinterGarden-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Mural Wallpaper | Retro 90s Style Flowers — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeintfleuriroseFleursauxstyleretroannee901159_700x700.jpg?v=1715279769' alt='Pink Floral Mural Wallpaper | Retro 90s Style Flowers — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeintfleuriroseFleursauxstyleretroannee901159_700x700.jpg?v=1715279769' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

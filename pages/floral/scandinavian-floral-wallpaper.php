@@ -1,0 +1,129 @@
+<title>Transform Your Space with Scandinavian Floral Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of Scandinavian floral wallpaper, designed to enhance your home with elegant patterns and soothing colors. Ideal for creating a stylish and tranquil atmosphere, this wallpaper is perfect for any room. Elevate your decor effortlessly with nature-inspired designs.">
+                    <meta name="keywords" content="scandinavian floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/scandinavian-floral-wallpaper">
+                            <span itemprop="name">scandinavian floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Scandinavian Floral Wallpaper</h1>
+                <p>Scandinavian floral wallpaper beautifully blends nature-inspired designs with minimalist aesthetics. Characterized by soft colors and intricate patterns, this wallpaper adds a touch of elegance to any interior. Perfect for modern homes, it creates a serene atmosphere, infusing spaces with charm while maintaining a fresh and airy feel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D398">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5202378154_c2bw.jpg?v=1725098609&width=1946' alt='Scandinavian Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D398'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5202378154_c2bw.jpg?v=1725098609&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Coloritto Scandinavian Floral Wallpaper | Removable Self  Adhesive Botanical Wallpaper | Colorful Peel and Stick Wallpaper (1 roll  24" W x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91+O4u6toxL.jpg' alt='Amazon.com: Coloritto Scandinavian Floral Wallpaper | Removable Self  Adhesive Botanical Wallpaper | Colorful Peel and Stick Wallpaper (1 roll  24" W x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91+O4u6toxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D109">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5048602865_jhp3_8f500510-1ab1-4694-b528-84d3013365d7.jpg?v=1725062732&width=1946' alt='Scandinavian Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D109'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5048602865_jhp3_8f500510-1ab1-4694-b528-84d3013365d7.jpg?v=1725062732&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue scandinavian flowers wallpaper #3219">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/files/blue-scandinavian-flowers-wallpaper-3219-2334-737_1800x1800.webp?v=1726602019' alt='Blue scandinavian flowers wallpaper #3219'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/files/blue-scandinavian-flowers-wallpaper-3219-2334-737_1800x1800.webp?v=1726602019' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Floral Removable Wallpaper, Blue and Gray Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16928094/r/il/89c24b/1740688701/il_570xN.1740688701_p6b5.jpg' alt='Scandinavian Floral Removable Wallpaper, Blue and Gray Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16928094/r/il/89c24b/1740688701/il_570xN.1740688701_p6b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Floral Wallpaper – Coloritto">
+                                <img itemprop="contentUrl url" src='https://coloritto.co/cdn/shop/products/il_fullxfull.4372971370_n3t9.jpg?v=1739383842' alt='Scandinavian Floral Wallpaper – Coloritto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coloritto" />
+                                </span>
+                                <a href='https://coloritto.co/cdn/shop/products/il_fullxfull.4372971370_n3t9.jpg?v=1739383842' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandi Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/SF5249-sun-kissed-orange-scandi-floral-peel-stick-wallpaper-table_grande.jpg?v=1724968079' alt='Scandi Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/SF5249-sun-kissed-orange-scandi-floral-peel-stick-wallpaper-table_grande.jpg?v=1724968079' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Charm - 4252 – Scandinavian Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.scandinavianwallpaper.com/cdn/shop/products/FloralCharm_Image_Roomshot_Livingroom_Item_4252.jpg?v=1664897534&width=1445' alt='Floral Charm - 4252 – Scandinavian Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandinavian Wallpaper" />
+                                </span>
+                                <a href='https://www.scandinavianwallpaper.com/cdn/shop/products/FloralCharm_Image_Roomshot_Livingroom_Item_4252.jpg?v=1664897534&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Wallpaper Peel And Stick Floral Retro ...">
+                                <img itemprop="contentUrl url" src='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' alt='Mid Century Modern Wallpaper Peel And Stick Floral Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Cynara Charcoal Scandinavian Floral Wallpaper DD139083">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/09480ba0-0cfd-4e0a-b5ba-b2c4883d77db/svn/wallpaper-rolls-dd139083-64_600.jpg' alt='Unbranded Cynara Charcoal Scandinavian Floral Wallpaper DD139083'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/09480ba0-0cfd-4e0a-b5ba-b2c4883d77db/svn/wallpaper-rolls-dd139083-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

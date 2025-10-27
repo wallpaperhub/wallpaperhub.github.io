@@ -1,0 +1,129 @@
+<title>Vibrant Pink Leaf Wallpaper – Nature’s Charm for Your Walls</title>
+                    <meta name="description" content="Explore our collection of pink leaf wallpaper to add a refreshing and vibrant touch to your home decor. Ideal for creating inviting spaces with a natural feel, our wallpaper combines beauty and elegance effortlessly. Perfect for any room, shop now to elevate your interior design!">
+                    <meta name="keywords" content="pink leaf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-leaf-wallpaper">
+                            <span itemprop="name">pink leaf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Leaf Wallpaper – Nature’s Charm for Your Walls</h1>
+                <p>Transform your space with stunning pink leaf wallpaper. This vibrant design brings a touch of nature indoors, adding warmth and a refreshing aesthetic to any room. Perfect for accent walls or entire spaces, pink leaf wallpaper creates a calming atmosphere while enhancing your decor. Discover the beauty of nature in your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Morris Pink Leaf Wallpaper 2970-26121">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b5727dd5-ed95-4e8c-b691-71b530f4b81c/svn/wallpaper-rolls-2970-26121-64_600.jpg' alt='A-Street Prints Morris Pink Leaf Wallpaper 2970-26121'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b5727dd5-ed95-4e8c-b691-71b530f4b81c/svn/wallpaper-rolls-2970-26121-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swaying Palm Leaves - Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65929/swaying-palm-leaves-pink.jpg?h=699&q=85' alt='Swaying Palm Leaves - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65929/swaying-palm-leaves-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Electric Palm' Wallpaper by Nathan Turner - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Electric-Palm-PINK_P_93b4268e-87dd-4937-9b5e-d6aca990c70b.jpg?v=1615484792' alt=''Electric Palm' Wallpaper by Nathan Turner - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Electric-Palm-PINK_P_93b4268e-87dd-4937-9b5e-d6aca990c70b.jpg?v=1615484792' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grover Pink Palmera Tropical Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grover-pink-palmera-tropical-leaf-wallp-jsiz.jpg' alt='Grover Pink Palmera Tropical Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grover-pink-palmera-tropical-leaf-wallp-jsiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper Watercolor Leaves Leafy Botanical Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6969337/r/il/769d6c/1885564788/il_570xN.1885564788_c7fe.jpg' alt='Pink Wallpaper Watercolor Leaves Leafy Botanical Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6969337/r/il/769d6c/1885564788/il_570xN.1885564788_c7fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE 17.7''x118'' Pink Tropical Wallpaper Peel and Stick Exotic Palm  Leaves Wallpaper Mural Self Adhesive Pink Contact Paper Decorative  Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kWXWW0WYL.jpg' alt='VEELIKE 17.7''x118'' Pink Tropical Wallpaper Peel and Stick Exotic Palm  Leaves Wallpaper Mural Self Adhesive Pink Contact Paper Decorative  Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kWXWW0WYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink leaf wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/e7/56/53e7564cb60e72c6989d037cd2b266c7.jpg' alt='Pink leaf wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/e7/56/53e7564cb60e72c6989d037cd2b266c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Blue Summer Palm Leaf Wallpaper, Tropical Leaves Wall Mural Self  Adhesive Peel & Stick Removable - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/036a3c/2693162206/il_1080xN.2693162206_tlpr.jpg' alt='Pink and Blue Summer Palm Leaf Wallpaper, Tropical Leaves Wall Mural Self  Adhesive Peel & Stick Removable - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/036a3c/2693162206/il_1080xN.2693162206_tlpr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Pink Palm Leaves Dream 2 Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/7948/blush_pink_palm_leaves_dream_2_masked.jpg' alt='Blush Pink Palm Leaves Dream 2 Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/7948/blush_pink_palm_leaves_dream_2_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink gold leaves - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w05137_option3_1.jpg' alt='Pink gold leaves - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w05137_option3_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

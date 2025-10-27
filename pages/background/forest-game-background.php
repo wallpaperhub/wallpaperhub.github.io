@@ -1,0 +1,129 @@
+<title>Magical Forest Adventure Game: Explore, Survive, Thrive</title>
+                    <meta name="description" content="Embark on an enchanting journey in our forest game! Explore vibrant wilderness, build your shelter, gather resources, and survive against the elements. Uncover hidden treasures and encounter unique wildlife in a breathtaking natural setting. Join the adventure today and experience the magic of the forest!">
+                    <meta name="keywords" content="forest game background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/forest-game-background">
+                            <span itemprop="name">forest game background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Forest Adventure Game: Explore, Survive, Thrive</h1>
+                <p>In a forest game, players are immersed in lush greenery filled with vibrant plant life, towering trees, and a diverse range of wildlife. The tranquil atmosphere fosters exploration, crafting, and survival. Players build shelters while navigating challenges, discovering hidden treasures, and forging alliances with forest creatures in a stunning natural environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Background Game Images – Browse 396,066 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/44/87/76/360_F_844877698_EcYQhmxfOLYdlQNMzDLfQCVYFIxFqvLf.jpg' alt='Forest Background Game Images – Browse 396,066 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/44/87/76/360_F_844877698_EcYQhmxfOLYdlQNMzDLfQCVYFIxFqvLf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Game Background | GameDev Market">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20200824134409/aac9e24552e09e42c07ecca1e585f3c9.jpg' alt='Forest Game Background | GameDev Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20200824134409/aac9e24552e09e42c07ecca1e585f3c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cartoon Forest Game Backgrounds - CraftPix.net">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2019/03/Free-Cartoon-Forest-Game-Backgrounds2.jpg' alt='Free Cartoon Forest Game Backgrounds - CraftPix.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2019/03/Free-Cartoon-Forest-Game-Backgrounds2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest game background stock vector. Illustration of vector - 76618481">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/forest-game-background-application-vector-design-tileable-horizontally-parallax-effect-76618481.jpg' alt='Forest game background stock vector. Illustration of vector - 76618481'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/forest-game-background-application-vector-design-tileable-horizontally-parallax-effect-76618481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Game Background | GameDev Market">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20191203193616/4f206da374e8ccee8f1e1ac31624e17f71a8d330.png' alt='Forest Game Background | GameDev Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20191203193616/4f206da374e8ccee8f1e1ac31624e17f71a8d330.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Game Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/577/135/small/deep-forest-scene-with-trees-cartoon-background-illustration-free-vector.jpg' alt='Forest Game Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/577/135/small/deep-forest-scene-with-trees-cartoon-background-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Background Game Images – Browse 396,066 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/51/73/53/360_F_851735354_3OH1TuhfY5Yv3yFDwrDWZy7KsWCfthBd.jpg' alt='Forest Background Game Images – Browse 396,066 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/51/73/53/360_F_851735354_3OH1TuhfY5Yv3yFDwrDWZy7KsWCfthBd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest and hill game background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/35/08/forest-and-hill-game-background-vector-12263508.jpg' alt='Forest and hill game background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/35/08/forest-and-hill-game-background-vector-12263508.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Background in Pixel Art: Parallax Ready for 2D Platformer ...">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzQ1MzE4MzIucG5n/original/tzKyzs.png' alt='Forest Background in Pixel Art: Parallax Ready for 2D Platformer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1228">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="saukgp - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzQ1MzE4MzIucG5n/original/tzKyzs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Game Background 4277175 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/277/175/non_2x/forest-game-background-free-vector.jpg' alt='Forest Game Background 4277175 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/277/175/non_2x/forest-game-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

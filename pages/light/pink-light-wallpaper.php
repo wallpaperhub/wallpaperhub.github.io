@@ -1,0 +1,129 @@
+<title>Capture Tranquility: Pink Light Wallpaper for Every Space</title>
+                    <meta name="description" content="Explore the soothing charm of pink light wallpaper for your home or office. Enhance your environment with chic designs that promote relaxation and style. Perfect for any room, this wallpaper brings a serene vibe, making it ideal for personal retreats or vibrant living areas. Discover your perfect shade today!">
+                    <meta name="keywords" content="pink light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/pink-light-wallpaper">
+                            <span itemprop="name">pink light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capture Tranquility: Pink Light Wallpaper for Every Space</h1>
+                <p>Transform your space with pink light wallpaper, perfect for adding a soft, calming ambiance to any room. Ideal for bedrooms, living areas, or creative spaces, this wallpaper blends elegance with tranquility. Whether you prefer bold patterns or subtle hues, pink light wallpaper enhances your decor and mood effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Plain by Albany - Baby Pink - Wallpaper - 383167">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/194750/tiled/albany-dream-plain-baby-pink-wallpaper-tiled-194750.jpg' alt='Dream Plain by Albany - Baby Pink - Wallpaper - 383167'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/194750/tiled/albany-dream-plain-baby-pink-wallpaper-tiled-194750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In need of a detox? Get 10% off your teatox using our discount ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/f5/2b/89f52bda1588fcbb9ffee2b9e64edcbc.jpg' alt='In need of a detox? Get 10% off your teatox using our discount ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/f5/2b/89f52bda1588fcbb9ffee2b9e64edcbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink / Purple Aesthetic Gradient Wallpaper / Background by ...">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/159/159592.jpg' alt='Light Pink / Purple Aesthetic Gradient Wallpaper / Background by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7560">
+                                <meta itemprop="height" content="7560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/159/159592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Light Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1669814666004-04619db0c87b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGxpZ2h0fGVufDB8fDB8fHww' alt='Pink Light Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1669814666004-04619db0c87b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGxpZ2h0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,600+ Light Pink Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1064140298/vector/pale-pink-stripes-seamless-pattern.jpg?s=612x612&w=0&k=20&c=q2Rc4z4lYGHMpIQTOI4ZiawaijPS8JE166REQ9h679U=' alt='13,600+ Light Pink Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1064140298/vector/pale-pink-stripes-seamless-pattern.jpg?s=612x612&w=0&k=20&c=q2Rc4z4lYGHMpIQTOI4ZiawaijPS8JE166REQ9h679U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Wallpaper Photos, Download The BEST Free Light Pink ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Light Pink Wallpaper Photos, Download The BEST Free Light Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink, light, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/384/586/HD-wallpaper-soft-pink-light.jpg' alt='Soft pink, light, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/384/586/HD-wallpaper-soft-pink-light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Light Mural in Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/WM0267-Early-Light-Mural-Blush_Roomset_WEB_fbddec95-6a2d-40ce-b39f-273fec79df24.webp?crop=center&height=420&v=1705576696&width=420' alt='Early Light Mural in Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/WM0267-Early-Light-Mural-Blush_Roomset_WEB_fbddec95-6a2d-40ce-b39f-273fec79df24.webp?crop=center&height=420&v=1705576696&width=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Soft Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soft-pink-r7d98m4se0or1ch5.jpg' alt='100+] Soft Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soft-pink-r7d98m4se0or1ch5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34327-2 Solid color Plain Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/343272_600x600.jpg?v=1607876583' alt='34327-2 Solid color Plain Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/343272_600x600.jpg?v=1607876583' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

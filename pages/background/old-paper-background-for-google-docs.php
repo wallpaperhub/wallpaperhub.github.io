@@ -1,0 +1,129 @@
+<title>Vintage Old Paper Backgrounds for Google Docs</title>
+                    <meta name="description" content="Discover how to elevate your documents with stunning old paper backgrounds for Google Docs. Perfect for enhancing creativity and making your work stand out, these backgrounds add a unique vintage touch. Easy to implement and visually appealing, they transform standard text into engaging pieces of art!">
+                    <meta name="keywords" content="old paper background for google docs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-paper-background-for-google-docs">
+                            <span itemprop="name">old paper background for google docs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Old Paper Backgrounds for Google Docs</h1>
+                <p>Transform your Google Docs experience with an old paper background that adds a touch of vintage charm to your documents. This aesthetic enhances the visual appeal of your text, making it perfect for creative writing, reports, or presentations. Elevate your projects and captivate your audience with this unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Old Paper Texture Design Templates - PSD, AI, Vector EPS">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2015/04/Old-Paper-Texture-63582296.jpg' alt='30+ Old Paper Texture Design Templates - PSD, AI, Vector EPS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2015/04/Old-Paper-Texture-63582296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage paper with grungy old paper textured (2569862)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/img-2274-fdef8e4b7191dc17e35f0000e3c9ad24a59b946234c326aa5c2baa54b1ac0fe5.jpg' alt='Vintage paper with grungy old paper textured (2569862)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/img-2274-fdef8e4b7191dc17e35f0000e3c9ad24a59b946234c326aa5c2baa54b1ac0fe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Paper Texture Blurry Abstraction Background With ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/old-vintage-paper-texture-blurry-abstraction-background-with_9916037.jpg!bw700' alt='Old Vintage Paper Texture Blurry Abstraction Background With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/old-vintage-paper-texture-blurry-abstraction-background-with_9916037.jpg!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Old Paper Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/08/e7/25/08e725885afb80e41e1908faa6b08362.jpg' alt='Vintage Old Paper Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="303">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/08/e7/25/08e725885afb80e41e1908faa6b08362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Photo Paper Background Stock Illustration - Illustration ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ancient-photo-paper-background-17053599.jpg' alt='Ancient Photo Paper Background Stock Illustration - Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ancient-photo-paper-background-17053599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper With A Vintage Kraft Texture And Golden Border Pattern Page ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/ac/25/6bac25d62b197a614bced7e39541e8ed.jpg' alt='Paper With A Vintage Kraft Texture And Golden Border Pattern Page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/ac/25/6bac25d62b197a614bced7e39541e8ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Old documents on vintage parchment paper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-paper-background-gy7lloa3wllcukwl.jpg' alt='Download Old documents on vintage parchment paper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-paper-background-gy7lloa3wllcukwl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/antique-blank-brown-grunge-texture-old-beige-paper-rough-retro-page_213524-257.jpg?semt=ais_hybrid' alt='Old Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/antique-blank-brown-grunge-texture-old-beige-paper-rough-retro-page_213524-257.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paper Background With Old Texts And Floral Designs ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-vintage-paper-background-with-old-texts-and-floral-designs-picture-image_1366577.jpg' alt='Vintage Paper Background With Old Texts And Floral Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-vintage-paper-background-with-old-texts-and-floral-designs-picture-image_1366577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classy History Background Big Isolated Old Paper Sheet - SlidesCorner">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2024/10/Classy-History-Background-Big-Isolated-Old-Paper-Sheet-by-SlidesCorner.com_.jpg' alt='Classy History Background Big Isolated Old Paper Sheet - SlidesCorner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2024/10/Classy-History-Background-Big-Isolated-Old-Paper-Sheet-by-SlidesCorner.com_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Quick Guide to NJ Criminal Case Searches</title>
+                    <meta name="description" content="Discover how to easily perform a criminal case search in New Jersey. Access online databases and local court resources to find essential information on criminal records and cases efficiently. Stay informed and ensure compliance with legal requirements with our concise guide.">
+                    <meta name="keywords" content="nj criminal case search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nj-criminal-case-search">
+                            <span itemprop="name">nj criminal case search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick Guide to NJ Criminal Case Searches</h1>
+                <p>In New Jersey, conducting a criminal case search is essential for individuals seeking information on criminal records and cases. This process can be done through the New Jersey State Police's online database or local court websites. Understanding one’s legal standing or checking the background of others can help in making informed decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nj Criminal Case Search">
+                                <img itemprop="contentUrl url" src='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/2.jpg' alt='Nj Criminal Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Jersey Superior Court Case Search">
+                                <img itemprop="contentUrl url" src='https://new-jersey-superior-court-case-search.govbackgroundchecks.com/screenshots/new-jersey-superior-court-case-search/5.jpg' alt='New Jersey Superior Court Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://new-jersey-superior-court-case-search.govbackgroundchecks.com/screenshots/new-jersey-superior-court-case-search/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Municipal Court Case Search">
+                                <img itemprop="contentUrl url" src='https://portal.njcourts.gov/webe41/MPAWeb/images/ticket/top_of_ticket_sample.jpg' alt='Municipal Court Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="139">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Municipal Court Case Search" />
+                                </span>
+                                <a href='https://portal.njcourts.gov/webe41/MPAWeb/images/ticket/top_of_ticket_sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nj Criminal Case Search">
+                                <img itemprop="contentUrl url" src='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/5.jpg' alt='Nj Criminal Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Free New Jersey Criminal Records & Arrest Records">
+                                <img itemprop="contentUrl url" src='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Criminal-Case-Search-Screenshot.webp' alt='Search Free New Jersey Criminal Records & Arrest Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free New Jersey Records Search (Warrants, Arrests, Inmates)" />
+                                </span>
+                                <a href='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Criminal-Case-Search-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Municipal Court Case Search">
+                                <img itemprop="contentUrl url" src='https://portal.njcourts.gov/webe41/MPAWeb/images/municipal/top_of_complaint_sample.jpg' alt='Municipal Court Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Municipal Court Case Search" />
+                                </span>
+                                <a href='https://portal.njcourts.gov/webe41/MPAWeb/images/municipal/top_of_complaint_sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nj Criminal Case Search">
+                                <img itemprop="contentUrl url" src='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/0.jpg' alt='Nj Criminal Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://nj-criminal-case-search.govbackgroundchecks.com/screenshots/nj-criminal-case-search/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Jersey Superior Court Case Search">
+                                <img itemprop="contentUrl url" src='https://new-jersey-superior-court-case-search.govbackgroundchecks.com/screenshots/new-jersey-superior-court-case-search/1.jpg' alt='New Jersey Superior Court Case Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://new-jersey-superior-court-case-search.govbackgroundchecks.com/screenshots/new-jersey-superior-court-case-search/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Free New Jersey Criminal Records & Arrest Records">
+                                <img itemprop="contentUrl url" src='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Offender-Info-Screenshot.webp' alt='Search Free New Jersey Criminal Records & Arrest Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free New Jersey Records Search (Warrants, Arrests, Inmates)" />
+                                </span>
+                                <a href='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Offender-Info-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks in New Jersey for Looking Up Public Records ...">
+                                <img itemprop="contentUrl url" src='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' alt='Free Background Checks in New Jersey for Looking Up Public Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cision News" />
+                                </span>
+                                <a href='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

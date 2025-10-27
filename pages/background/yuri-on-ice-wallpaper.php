@@ -1,0 +1,129 @@
+<title>Beautiful Yuri on Ice Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of amazing "Yuri on Ice" wallpapers! Perfect for fans of the anime, these wallpapers capture the essence of figure skating and the heartfelt story. Transform your device screen with stunning visuals and let your passion for the series shine through.">
+                    <meta name="keywords" content="yuri on ice wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yuri-on-ice-wallpaper">
+                            <span itemprop="name">yuri on ice wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Yuri on Ice Wallpapers for Fans</h1>
+                <p>Explore the stunning world of "Yuri on Ice" with captivating wallpapers that bring to life the beauty of figure skating and the emotional journey of the characters. From mesmerizing performances to heartwarming moments between Yuri and Victor, find the perfect wallpaper to express your love for this iconic anime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Yuri On Ice Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6413/513918645985229bb874ef3ac2d26b896a2be23a_hq.jpg' alt='Wallpapers | Yuri On Ice Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6413/513918645985229bb874ef3ac2d26b896a2be23a_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Victor Nikiforov Yuuri Katsuki Yuri Plisetsky Anime Yuri ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/861/861303.jpg' alt='Download Victor Nikiforov Yuuri Katsuki Yuri Plisetsky Anime Yuri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/861/861303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Yuri on Ice wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/59/38/ab593845cb5aec6819ae1cc9adabaf37.jpg' alt='Anime Yuri on Ice wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/59/38/ab593845cb5aec6819ae1cc9adabaf37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Victor Nikiforov Yuuri Katsuki Anime Yuri!!! On ICE HD ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/127/1277614.png' alt='Download Victor Nikiforov Yuuri Katsuki Anime Yuri!!! On ICE HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2833">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/127/1277614.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuri!!! On Ice - Wallpaper and Scan Gallery - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://download.minitokyo.net/Yuri!!!.On.Ice.705202.jpg' alt='Yuri!!! On Ice - Wallpaper and Scan Gallery - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minitokyo" />
+                                </span>
+                                <a href='http://download.minitokyo.net/Yuri!!!.On.Ice.705202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper sport, figure skating, Yuri on the ice, Viktor Nikiforov ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/c/fc/yuri-on-ice-iurii-na-ldu-viktor-nikiforov-figurnoe-katanie-s.webp' alt='Wallpaper sport, figure skating, Yuri on the ice, Viktor Nikiforov ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/c/fc/yuri-on-ice-iurii-na-ldu-viktor-nikiforov-figurnoe-katanie-s.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuri On Ice Yuuri And Victor Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yuri-on-ice-yuuri-and-victor-8by97lidledg3pvd.jpg' alt='Yuri On Ice Yuuri And Victor Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yuri-on-ice-yuuri-and-victor-8by97lidledg3pvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yuri On Ice Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/yuri-on-ice-dwcb4xrikzt9up09.jpg' alt='100+] Yuri On Ice Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/yuri-on-ice-dwcb4xrikzt9up09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper background, anime, guys, Yuri on the ice, Yuri On Ice ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/7360x4128/4/bf/parni-iurii-na-ldu-yuri-on-ice-fon-anime.jpg' alt='Wallpaper background, anime, guys, Yuri on the ice, Yuri On Ice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7360">
+                                <meta itemprop="height" content="4128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/7360x4128/4/bf/parni-iurii-na-ldu-yuri-on-ice-fon-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuri On Ice wallpaper by Zpurplerose24 - Download on ZEDGE™ | ff95">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=-tjXtUb__eZ1KIjBdK2g2MZ-_KavGXDindhaDj6PzmzaY_S5h3O5ATQ4BnAql_PNzxZ1mrBYJw5SgyLuy0-MXEVnGShcSHgdCYEPATOOQEHMG8X8Y4wQjgtonToWFTKogWmWFCUoe4jhwG0Kmfzg4NlkjavCJAG8HgCCwSDl5ftInbTGq5OsUXbe8qhL9QUcHp3QWnhO735-T7HNqtZNr6mDZ4n8PK_PoVxVZMVG3s1RYa49ZduxS0NApZ8' alt='Yuri On Ice wallpaper by Zpurplerose24 - Download on ZEDGE™ | ff95'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=-tjXtUb__eZ1KIjBdK2g2MZ-_KavGXDindhaDj6PzmzaY_S5h3O5ATQ4BnAql_PNzxZ1mrBYJw5SgyLuy0-MXEVnGShcSHgdCYEPATOOQEHMG8X8Y4wQjgtonToWFTKogWmWFCUoe4jhwG0Kmfzg4NlkjavCJAG8HgCCwSDl5ftInbTGq5OsUXbe8qhL9QUcHp3QWnhO735-T7HNqtZNr6mDZ4n8PK_PoVxVZMVG3s1RYa49ZduxS0NApZ8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Preppy Lilly Pulitzer Wallpaper for Stylish Spaces</title>
+                    <meta name="description" content="Explore the charm of preppy Lilly Pulitzer wallpaper! Transform your space with bright colors and playful patterns perfect for any room. Ideal for those who love a fun and stylish twist in home decor, this wallpaper will bring a touch of coastal elegance to your interior design. Perfect for a vibrant makeover!">
+                    <meta name="keywords" content="preppy lilly pulitzer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-lilly-pulitzer-wallpaper">
+                            <span itemprop="name">preppy lilly pulitzer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Preppy Lilly Pulitzer Wallpaper for Stylish Spaces</h1>
+                <p>Preppy Lilly Pulitzer wallpaper brings a vibrant and stylish touch to any space. Known for its colorful patterns and preppy aesthetic, this wallpaper is perfect for those who love bright florals and coastal vibes. Transform your room with playful designs that reflect your personality and add a dash of fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bows Curls and Preppy Girls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/57/77/285777fb378d33b76ce9109cbec0d31f.jpg' alt='Bows Curls and Preppy Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/57/77/285777fb378d33b76ce9109cbec0d31f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lilly Pulitzer Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lilly-pulitzer-background-wg0xpf6cdlqv6tv3.jpg' alt='100+] Lilly Pulitzer Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lilly-pulitzer-background-wg0xpf6cdlqv6tv3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/de/cd/4bdecdd8a9307e6d3c213ec59355230c.jpg' alt='Lilly Pulitzer Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/de/cd/4bdecdd8a9307e6d3c213ec59355230c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Preppy Lily Pulitzer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-preppy-lily-pulitzer-hj4x80fxdilcnn4y.jpg' alt='Pink Preppy Lily Pulitzer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-preppy-lily-pulitzer-hj4x80fxdilcnn4y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer print: Gypset Paradise (Fall 2017)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fa/0b/57/fa0b571afd73698e70c05962f31c96b1.jpg' alt='Lilly Pulitzer print: Gypset Paradise (Fall 2017)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fa/0b/57/fa0b571afd73698e70c05962f31c96b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer - Lilly Pulitzer - Lilly Pulitzer - Lilly Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/lilly-pulitzer-lilly-pulitzer-lilly-pulitzer-lilly-xwsalm04tszdc9m4.jpg' alt='Lilly Pulitzer - Lilly Pulitzer - Lilly Pulitzer - Lilly Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/lilly-pulitzer-lilly-pulitzer-lilly-pulitzer-lilly-xwsalm04tszdc9m4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best Lilly Pulitzer Iphone Background ideas | lilly pulitzer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ff/0d/12/ff0d1286a84b1768fba9c3b2c541ef2e.jpg' alt='290 Best Lilly Pulitzer Iphone Background ideas | lilly pulitzer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ff/0d/12/ff0d1286a84b1768fba9c3b2c541ef2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guys thank you so much for 90 followers!! Have the best summer  ever!           #fypシ #preppy #BombPopAwards #summer #lilypulitzer #summer">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6977704957831073029&location=0&aid=1988' alt='Guys thank you so much for 90 followers!! Have the best summer  ever!           #fypシ #preppy #BombPopAwards #summer #lilypulitzer #summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6977704957831073029&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lilly Pulitzer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lilly-pulitzer-blue-city-wgdk8029h9mu4zxp.jpg' alt='100+] Lilly Pulitzer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lilly-pulitzer-blue-city-wgdk8029h9mu4zxp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer Summer Print Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/lilly-pulitzer-fish-print-z2qx5ry2zhi3cumy.webp' alt='Lilly Pulitzer Summer Print Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/lilly-pulitzer-fish-print-z2qx5ry2zhi3cumy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

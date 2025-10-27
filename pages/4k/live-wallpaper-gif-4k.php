@@ -1,0 +1,129 @@
+<title>Stunning 4K Live Wallpaper GIFs for Your Device</title>
+                    <meta name="description" content="Explore an amazing collection of 4K live wallpaper GIFs to enliven your mobile screen. Enjoy high-quality animations that reflect your style and personality. Download now for a vibrant visual experience and keep your device looking fresh and engaging!">
+                    <meta name="keywords" content="live wallpaper gif 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/live-wallpaper-gif-4k">
+                            <span itemprop="name">live wallpaper gif 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Live Wallpaper GIFs for Your Device</h1>
+                <p>Transform your device with stunning 4K live wallpaper GIFs that bring your screen to life! Experience vibrant colors, delightful animations, and breathtaking visuals right at your fingertips. Perfect for customizing your phone or tablet, these live wallpapers will captivate your senses and enhance your mobile experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Mobile Phone Gif Wallpaper High Resolution Is 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/81/5d/a3815d393a7c6d9e34b2480e8893be1d.gif' alt='Animated Mobile Phone Gif Wallpaper High Resolution Is 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/81/5d/a3815d393a7c6d9e34b2480e8893be1d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x4hnwsvps4h91.gif' alt='My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x4hnwsvps4h91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' alt='Gif Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uwwte8wps4h91.gif' alt='My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uwwte8wps4h91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIF - Wallpaper - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' alt='Wallpaper GIF - Wallpaper - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0k6meqvps4h91.gif' alt='My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0k6meqvps4h91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/IkYj09qh5rOzP95Yse/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/IkYj09qh5rOzP95Yse/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra Instinct Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/1397' alt='Goku Ultra Instinct Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/1397' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif To Live Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ssrZ0CO7KzgAAAAM/nbdne.gif' alt='Gif To Live Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ssrZ0CO7KzgAAAAM/nbdne.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

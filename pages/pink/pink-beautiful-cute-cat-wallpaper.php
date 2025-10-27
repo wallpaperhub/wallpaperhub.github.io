@@ -1,0 +1,129 @@
+<title>Adorable Pink Cat Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest pink cat wallpapers to adorn your screens! Perfect for cat lovers, our collection features charming designs that bring joy and beauty to your devices. Transform your phone or tablet with these delightful images and express your love for feline friends in style.">
+                    <meta name="keywords" content="pink beautiful cute cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-beautiful-cute-cat-wallpaper">
+                            <span itemprop="name">pink beautiful cute cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pink Cat Wallpapers for Your Device</h1>
+                <p>Transform your device's aesthetic with our collection of pink beautiful cute cat wallpapers! These stunning images capture the charm and playfulness of felines, bringing a cozy, cheerful vibe to your screens. Perfect for cat lovers, our wallpapers will brighten your day and add a touch of whimsy to your phone or tablet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pink Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-pink-cat-smsxmwmnzc2k0vhe.jpg' alt='100+] Cute Pink Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-pink-cat-smsxmwmnzc2k0vhe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Cute cat ideas | cute cat, cute cat wallpaper, cute baby cats">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a5/5b/07/a55b0729933e2f8822ff775b46b7e8bc.jpg' alt='12 Cute cat ideas | cute cat, cute cat wallpaper, cute baby cats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a5/5b/07/a55b0729933e2f8822ff775b46b7e8bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Live Wallpaper of Cute Cats">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7429210260868484385&location=0&aid=1988' alt='Beautiful Live Wallpaper of Cute Cats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7429210260868484385&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/99/46/3d99466de1baa7b9abb17ae311ffc2ac.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/99/46/3d99466de1baa7b9abb17ae311ffc2ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Cat Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-2.webp' alt='Cute Pink Cat Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Kitty Cyborg A Pink Cats Live Wallpaper Music Videos    Pinky cats and  pink kitties, Dancing under moonlit cities. A pink cat twirls, so soft, so  sweet, With tiny paws and dainty feet. A cat in ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7461629142363229458&location=0&aid=1988' alt='Pink Kitty Cyborg A Pink Cats Live Wallpaper Music Videos    Pinky cats and  pink kitties, Dancing under moonlit cities. A pink cat twirls, so soft, so  sweet, With tiny paws and dainty feet. A cat in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7461629142363229458&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kittens among pink flowers, pink flowers, kittens, garden, cats ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/603/333/HD-wallpaper-kittens-among-pink-flowers-pink-flowers-kittens-garden-cats-animals.jpg' alt='Kittens among pink flowers, pink flowers, kittens, garden, cats ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/603/333/HD-wallpaper-kittens-among-pink-flowers-pink-flowers-kittens-garden-cats-animals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Live Wallpapers Featuring Adorable Cats">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7467037549119196438&location=0&aid=1988' alt='Cute Live Wallpapers Featuring Adorable Cats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7467037549119196438&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cats love hd wallpapers photo video - video Dailymotion">
+                                <img itemprop="contentUrl url" src='https://s1.dmcdn.net/v/VIvvc1b7zIVYEgwdi/x1080' alt='Cute Cats love hd wallpapers photo video - video Dailymotion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dailymotion" />
+                                </span>
+                                <a href='https://s1.dmcdn.net/v/VIvvc1b7zIVYEgwdi/x1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-cat-1318-x-1031-inrcc8dpckttl59d.jpg' alt='100+] Pink Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1318">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-cat-1318-x-1031-inrcc8dpckttl59d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

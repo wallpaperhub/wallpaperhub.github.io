@@ -1,0 +1,129 @@
+<title>Cowboys Christmas Wallpaper: Festive Western Decor</title>
+                    <meta name="description" content="Discover unique Cowboys Christmas wallpaper to elevate your holiday decor. Featuring charming cowboy-themed designs, these wallpapers blend rustic appeal with festive cheer, making your space warm and inviting this season. Perfect for any Western enthusiast looking to celebrate in style!">
+                    <meta name="keywords" content="cowboys christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/cowboys-christmas-wallpaper">
+                            <span itemprop="name">cowboys christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cowboys Christmas Wallpaper: Festive Western Decor</h1>
+                <p>Cowboys Christmas wallpaper brings a festive spirit to your home with stunning images of rugged cowboys celebrating the holiday season. From picturesque snowy landscapes to cowboy-themed decorations, these wallpapers capture the essence of Western charm and the joy of Christmas. Perfect for adding a cozy, adventurous touch to your holiday decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Dallas Cowboys Merry Christmas Wallpaper Free Download 2023 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/f1/b6/88f1b6fed660ea94ca02d31f6d2d8e2b.jpg' alt='50+ Dallas Cowboys Merry Christmas Wallpaper Free Download 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/f1/b6/88f1b6fed660ea94ca02d31f6d2d8e2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3a/94/37/3a943707f68a914c0a366d317da983f2.jpg' alt='69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3a/94/37/3a943707f68a914c0a366d317da983f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/00/d5/d400d5978b32bb4ae2430ab5572da517.jpg' alt='Dallas Cowboys Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/00/d5/d400d5978b32bb4ae2430ab5572da517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Christmas Wallpaper Wall Mural by Magic Murals">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/r/w/rwi-jso0000002_jpg.webp' alt='Cowboy Christmas Wallpaper Wall Mural by Magic Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/r/w/rwi-jso0000002_jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/9e/cd/84/9ecd84d0aee5cc7d4f76f24e50e24157.jpg' alt='69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/9e/cd/84/9ecd84d0aee5cc7d4f76f24e50e24157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas⭐ More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/dc/c7/75dcc781d2b05387f284032fb9d2ae02.jpg' alt='Merry Christmas⭐ More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/dc/c7/75dcc781d2b05387f284032fb9d2ae02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/d5/0d/86d50d2b5ad9828bebbdaa7d44a102d6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/d5/0d/86d50d2b5ad9828bebbdaa7d44a102d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cowboy Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cowboy-christmas-wallpaper-3zqngffsib80cor4.jpg' alt='100+] Cowboy Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cowboy-christmas-wallpaper-3zqngffsib80cor4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#CapCut #viral #fypシ #foryou #fyp #christmas #comment #wallpapers #football  #nflfootball #nfl #blowthisup #cowboys@dallascowboys">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7173665274623741227&location=0&aid=1988' alt='#CapCut #viral #fypシ #foryou #fyp #christmas #comment #wallpapers #football  #nflfootball #nfl #blowthisup #cowboys@dallascowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7173665274623741227&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboys xmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/98/3e/fc983e182915b66a28dfea2f7bef1691.jpg' alt='Cowboys xmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/98/3e/fc983e182915b66a28dfea2f7bef1691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Naruto Scenery: A Visual Journey</title>
+                    <meta name="description" content="Explore the breathtaking scenery of Naruto, featuring vibrant landscapes and iconic settings from the beloved anime. Dive into the beauty of the Hidden Leaf Village, stunning mountains, and serene rivers that capture the essence of adventure and friendship in this magical world.">
+                    <meta name="keywords" content="naruto scenery">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/naruto-scenery">
+                            <span itemprop="name">naruto scenery</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Naruto Scenery: A Visual Journey</h1>
+                <p>Naruto's world is a mesmerizing tapestry of vibrant landscapes. From the lush forests of the Hidden Leaf Village to the majestic mountains and serene rivers, each scenery captures the essence of adventure and camaraderie. The vivid colors and dynamic environments reflect the journeys of beloved characters. It's a feast for the eyes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Scenery GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ptt7eOsIoGgAAAAe/water-fall.png' alt='Naruto Scenery GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ptt7eOsIoGgAAAAe/water-fall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konohagakure Hidden Leaf Village">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/5f/37/285f37f45712a6d789f8e4999563d217.jpg' alt='Konohagakure Hidden Leaf Village'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/5f/37/285f37f45712a6d789f8e4999563d217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Naruto Landscape Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/naruto-landscape-auxxw4d8b0az26gk.jpg' alt='100+] Naruto Landscape Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/naruto-landscape-auxxw4d8b0az26gk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="naruto scenery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/82/81/fc828181921370ec6598dcc14d14d0e7.jpg' alt='naruto scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/82/81/fc828181921370ec6598dcc14d14d0e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Naruto Scenery Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/naruto-scenery-fn4pk8edvr02cmlr.jpg' alt='100+] Naruto Scenery Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1681">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/naruto-scenery-fn4pk8edvr02cmlr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bosque Naruto Shippuden by lwisf3rxd on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f849f1e6-b991-4b89-bd9b-7b86ae209054/d62dyd2-93e8e7e5-837b-4747-a400-3ae4b22b9b73.png/v1/fill/w_1024,h_576,q_80,strp/bosque_naruto_shippuden_by_lwisf3rxd_d62dyd2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZjg0OWYxZTYtYjk5MS00Yjg5LWJkOWItN2I4NmFlMjA5MDU0XC9kNjJkeWQyLTkzZThlN2U1LTgzN2ItNDc0Ny1hNDAwLTNhZTRiMjJiOWI3My5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7KZnIW6gbORI8CNnjPsvzqSXwGY173cu5671JKmciFo' alt='Bosque Naruto Shippuden by lwisf3rxd on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f849f1e6-b991-4b89-bd9b-7b86ae209054/d62dyd2-93e8e7e5-837b-4747-a400-3ae4b22b9b73.png/v1/fill/w_1024,h_576,q_80,strp/bosque_naruto_shippuden_by_lwisf3rxd_d62dyd2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZjg0OWYxZTYtYjk5MS00Yjg5LWJkOWItN2I4NmFlMjA5MDU0XC9kNjJkeWQyLTkzZThlN2U1LTgzN2ItNDc0Ny1hNDAwLTNhZTRiMjJiOWI3My5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7KZnIW6gbORI8CNnjPsvzqSXwGY173cu5671JKmciFo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konoha, house, scenic, naruto, naruto shippuuden, home, bonito ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/776/134/HD-wallpaper-konoha-house-scenic-naruto-naruto-shippuuden-home-beautiful-mountain-city-multicolor-anime-color-shippuuden-beauty-scenery-ninja-shinobi-town-sky-building-scene-landscape.jpg' alt='Konoha, house, scenic, naruto, naruto shippuuden, home, bonito ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/776/134/HD-wallpaper-konoha-house-scenic-naruto-naruto-shippuuden-home-beautiful-mountain-city-multicolor-anime-color-shippuuden-beauty-scenery-ninja-shinobi-town-sky-building-scene-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper clouds, trees, landscape, the wind, art, guy, naruto ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/ff/art-naruto-paren-spinoy.webp' alt='Wallpaper clouds, trees, landscape, the wind, art, guy, naruto ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/ff/art-naruto-paren-spinoy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bosque Naruto by lwisf3rxd on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f849f1e6-b991-4b89-bd9b-7b86ae209054/d6pi18v-369efb91-e157-4287-aa6c-dc3e4ea8eb59.jpg/v1/fill/w_1024,h_576,q_75,strp/bosque_naruto_by_lwisf3rxd_d6pi18v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZjg0OWYxZTYtYjk5MS00Yjg5LWJkOWItN2I4NmFlMjA5MDU0XC9kNnBpMTh2LTM2OWVmYjkxLWUxNTctNDI4Ny1hYTZjLWRjM2U0ZWE4ZWI1OS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RoI2GdQti1ecWIq4XV1XtYS6SH0LB_WvZmhqMxg3hN0' alt='Bosque Naruto by lwisf3rxd on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f849f1e6-b991-4b89-bd9b-7b86ae209054/d6pi18v-369efb91-e157-4287-aa6c-dc3e4ea8eb59.jpg/v1/fill/w_1024,h_576,q_75,strp/bosque_naruto_by_lwisf3rxd_d6pi18v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZjg0OWYxZTYtYjk5MS00Yjg5LWJkOWItN2I4NmFlMjA5MDU0XC9kNnBpMTh2LTM2OWVmYjkxLWUxNTctNDI4Ny1hYTZjLWRjM2U0ZWE4ZWI1OS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RoI2GdQti1ecWIq4XV1XtYS6SH0LB_WvZmhqMxg3hN0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Naruto Scenery in Real Life pt.2">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/060/979/009/large/hopenia-world-pont-water-scenery.jpg?1679740220' alt='ArtStation - Naruto Scenery in Real Life pt.2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1278">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/060/979/009/large/hopenia-world-pont-water-scenery.jpg?1679740220' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

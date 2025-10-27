@@ -1,0 +1,129 @@
+<title>Emily the Strange Wallpaper: Unleash Your Unique Style</title>
+                    <meta name="description" content="Discover the perfect Emily the Strange wallpaper for a unique and edgy decor upgrade. Featuring bold designs and playful themes, these wallpapers will transform your space into a reflection of your individuality. Ideal for fans of alternative art and quirky aesthetics, breathe new life into your walls today!">
+                    <meta name="keywords" content="emily the strange wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emily-the-strange-wallpaper">
+                            <span itemprop="name">emily the strange wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Emily the Strange Wallpaper: Unleash Your Unique Style</h1>
+                <p>Emily the Strange wallpaper is a captivating blend of edgy aesthetics and whimsical charm. Perfect for those who embrace individuality, these striking designs feature Emily's iconic black cat and her dark yet playful persona. Transform your space with vibrant colors and unique patterns that reflect your inner quirky spirit and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily the Strange :: Desktops :: Dark Horse Comics">
+                                <img itemprop="contentUrl url" src='https://d2lzb5v10mb0lj.cloudfront.net/darkhorse/downloads/desktops/strange7/strange7_lg.jpg' alt='Emily the Strange :: Desktops :: Dark Horse Comics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dark Horse Comics" />
+                                </span>
+                                <a href='https://d2lzb5v10mb0lj.cloudfront.net/darkhorse/downloads/desktops/strange7/strange7_lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="emily the strange wallpaper | Emily the strange, Strange, Emily">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/e6/a2/94e6a2b9d9f8e3df98cabfd3a1f6e43d.jpg' alt='emily the strange wallpaper | Emily the strange, Strange, Emily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/e6/a2/94e6a2b9d9f8e3df98cabfd3a1f6e43d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily The Strange Clothing, Books, Accessories, Art & Attitude!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e1/85/bf/e185bfebb9ed55b8d5b31e29fa5610e0.jpg' alt='Emily The Strange Clothing, Books, Accessories, Art & Attitude!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e1/85/bf/e185bfebb9ed55b8d5b31e29fa5610e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily The Strange Wallpaper : HD Wallpapers Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/b4/73/1eb4733771c1746eb9cc95ca15ab0bdb.jpg' alt='Emily The Strange Wallpaper : HD Wallpapers Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/b4/73/1eb4733771c1746eb9cc95ca15ab0bdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD emily the strange wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/334/48/HD-wallpaper-rock-out-strange-emily-guitar-girl.jpg' alt='HD emily the strange wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/334/48/HD-wallpaper-rock-out-strange-emily-guitar-girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily The Strange Wallpaper by giraffe-mango on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38b899c1-a884-428b-b751-ff968c614277/d1fr63r-eb435480-e930-4ac0-a59f-c02ccf99ad92.png/v1/fill/w_900,h_563,q_80,strp/emily_the_strange_wallpaper_by_giraffe_mango_d1fr63r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvMzhiODk5YzEtYTg4NC00MjhiLWI3NTEtZmY5NjhjNjE0Mjc3XC9kMWZyNjNyLWViNDM1NDgwLWU5MzAtNGFjMC1hNTlmLWMwMmNjZjk5YWQ5Mi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TRE1Jr-8Fl-M09i5Dp2CiqbAwdzo2GGAcw9a2a1CxGI' alt='Emily The Strange Wallpaper by giraffe-mango on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38b899c1-a884-428b-b751-ff968c614277/d1fr63r-eb435480-e930-4ac0-a59f-c02ccf99ad92.png/v1/fill/w_900,h_563,q_80,strp/emily_the_strange_wallpaper_by_giraffe_mango_d1fr63r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvMzhiODk5YzEtYTg4NC00MjhiLWI3NTEtZmY5NjhjNjE0Mjc3XC9kMWZyNjNyLWViNDM1NDgwLWU5MzAtNGFjMC1hNTlmLWMwMmNjZjk5YWQ5Mi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TRE1Jr-8Fl-M09i5Dp2CiqbAwdzo2GGAcw9a2a1CxGI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily the Strange added a new photo. - Emily the Strange">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/5c/14/c95c14cad6810c69637cba4ba8d28c41.jpg' alt='Emily the Strange added a new photo. - Emily the Strange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/5c/14/c95c14cad6810c69637cba4ba8d28c41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Comic Emily The Strange HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/474/474517.jpg' alt='Download Comic Emily The Strange HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/474/474517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily the Strange Manga, red, random, emily the strange, black ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/75/668/HD-wallpaper-emily-the-strange-manga-red-random-emily-the-strange-black-manga-white.jpg' alt='Emily the Strange Manga, red, random, emily the strange, black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/75/668/HD-wallpaper-emily-the-strange-manga-red-random-emily-the-strange-black-manga-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily the Strange - Please feel free to use for your timeline ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10151184029763321' alt='Emily the Strange - Please feel free to use for your timeline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10151184029763321' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

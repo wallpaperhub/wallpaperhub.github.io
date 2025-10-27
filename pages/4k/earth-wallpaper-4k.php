@@ -1,0 +1,129 @@
+<title>Stunning 4K Earth Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover stunning 4K earth wallpapers that elevate your device's aesthetics. Immerse yourself in breathtaking landscapes and vibrant nature scenes, all optimized for a crystal-clear display. Perfect for nature enthusiasts seeking to enhance their digital experience with beautiful imagery of our planet.">
+                    <meta name="keywords" content="earth wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/earth-wallpaper-4k">
+                            <span itemprop="name">earth wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Earth Wallpapers for Your Screen</h1>
+                <p>Transform your screen with breathtaking earth wallpaper in stunning 4K resolution. Experience the beauty of our planet like never before, featuring vibrant landscapes, serene nature scenes, and enchanting celestial images. Perfect for nature lovers, these wallpapers will elevate your devices and inspire tranquility daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Earth Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/b7/b8/ccb7b82afb1f512fe14257b8c974fb3b.jpg' alt='4K Earth Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/b7/b8/ccb7b82afb1f512fe14257b8c974fb3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Earth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-earth-blue-sunrise-mytv6wwpw580w5lh.jpg' alt='100+] 4k Earth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-earth-blue-sunrise-mytv6wwpw580w5lh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Wallpaper 4K, Night, iOS 11, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/earth-night-ios-11-stock-black-background-ipad-2560x2560-769.jpg' alt='Earth Wallpaper 4K, Night, iOS 11, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/earth-night-ios-11-stock-black-background-ipad-2560x2560-769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/e/e/55467-1242x2688-samsung-hd-planet-earth-wallpaper-photo.jpg' alt='Earth Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/e/e/55467-1242x2688-samsung-hd-planet-earth-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: earth 4k best desktop download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/28/b2/a228b25d8cb1d8ad4cd3a69c8e3590ed.jpg' alt='HD wallpaper: earth 4k best desktop download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/28/b2/a228b25d8cb1d8ad4cd3a69c8e3590ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth's Horizon - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/807/807247.jpg' alt='Earth's Horizon - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/807/807247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth 4k Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-rendering-planet-earth_23-2150498478.jpg' alt='Earth 4k Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-rendering-planet-earth_23-2150498478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View of Earth from the Moon 4K Wallpaper - Cosmic Perspective ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinV5yyRD_L-S2qLjZcbMZTEI2yBv1joMdhtdcMZjsv2diNqe3d1J6pWaBPhsqFhLvYbvdbKaiP2EhaOFbtMfPMim3ZFW6YzU0ueLFStoLOscTPfaFawBmapQN8jfqaRjLgi2dQBnxZxDQif3GPo9qH9LyhfrB-UbaMTGfhcFHfPNZ_gOaNHGHF9HauNgo/d/view-of-earth-from-moon-4k-wallpaper.jpg' alt='View of Earth from the Moon 4K Wallpaper - Cosmic Perspective ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinV5yyRD_L-S2qLjZcbMZTEI2yBv1joMdhtdcMZjsv2diNqe3d1J6pWaBPhsqFhLvYbvdbKaiP2EhaOFbtMfPMim3ZFW6YzU0ueLFStoLOscTPfaFawBmapQN8jfqaRjLgi2dQBnxZxDQif3GPo9qH9LyhfrB-UbaMTGfhcFHfPNZ_gOaNHGHF9HauNgo/d/view-of-earth-from-moon-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise Over Planet Earth 4K Wallpaper - Download Free 4K Desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/wp-content/uploads/2023/12/Sunrise-Over-Planet-Earth-AI-Generated-4K-Wallpaper-1081x608.jpg' alt='Sunrise Over Planet Earth 4K Wallpaper - Download Free 4K Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/wp-content/uploads/2023/12/Sunrise-Over-Planet-Earth-AI-Generated-4K-Wallpaper-1081x608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Earth Wallpaper 4K, Night view, Illuminated, Orbit">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/planet-earth-night-view-illuminated-orbit-dark-background-5k-3840x2160-8934.jpg' alt='Planet Earth Wallpaper 4K, Night view, Illuminated, Orbit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/planet-earth-night-view-illuminated-orbit-dark-background-5k-3840x2160-8934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning K-Pop Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the best K-pop wallpapers to personalize your device! Browse a collection of high-quality images featuring your favorite artists and groups, perfect for any fan. Elevate your screen's aesthetic with vibrant and stylish designs, capturing the spirit of K-pop culture.">
+                    <meta name="keywords" content="kpop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kpop-wallpaper">
+                            <span itemprop="name">kpop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning K-Pop Wallpapers for Every Fan</h1>
+                <p>K-pop wallpaper enthusiasts can transform their screens with stunning visuals of their favorite idols and groups. From vibrant concert shots to artistic edits, these wallpapers capture the essence of K-pop. Explore a variety of designs, from minimalist aesthetics to colorful collages, breathing life into your devices and showcasing your fandom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Favourite K-pop wallpaper of yours! : r/kpoppers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/favourite-k-pop-wallpaper-of-yours-v0-qzjk28aa854c1.jpg?width=1125&format=pjpg&auto=webp&s=cdb925121f6b4779220561879ce598cbd740d184' alt='Favourite K-pop wallpaper of yours! : r/kpoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/favourite-k-pop-wallpaper-of-yours-v0-qzjk28aa854c1.jpg?width=1125&format=pjpg&auto=webp&s=cdb925121f6b4779220561879ce598cbd740d184' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/1c/c1/cc1cc187a06f5edcd04594e701f9bd3b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/1c/c1/cc1cc187a06f5edcd04594e701f9bd3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kpop wallpaper by I1O2T on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a510ffb8-bae4-41df-8307-b239226c9a54/dfyp61z-20ae4707-461a-41b8-beb8-cbdbbdfff1f7.png/v1/fill/w_1192,h_670,q_70,strp/kpop_wallpaper__by_i1o2t_dfyp61z-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTUxMGZmYjgtYmFlNC00MWRmLTgzMDctYjIzOTIyNmM5YTU0XC9kZnlwNjF6LTIwYWU0NzA3LTQ2MWEtNDFiOC1iZWI4LWNiZGJiZGZmZjFmNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1HiVUpj1qDfutHaYovi9q8PHpHzf3EMuXcF2g_NeTFw' alt='Kpop wallpaper by I1O2T on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a510ffb8-bae4-41df-8307-b239226c9a54/dfyp61z-20ae4707-461a-41b8-beb8-cbdbbdfff1f7.png/v1/fill/w_1192,h_670,q_70,strp/kpop_wallpaper__by_i1o2t_dfyp61z-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTUxMGZmYjgtYmFlNC00MWRmLTgzMDctYjIzOTIyNmM5YTU0XC9kZnlwNjF6LTIwYWU0NzA3LTQ2MWEtNDFiOC1iZWI4LWNiZGJiZGZmZjFmNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1HiVUpj1qDfutHaYovi9q8PHpHzf3EMuXcF2g_NeTFw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K-Pop Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/6/3/36801-1080x1920-iphone-full-hd-k-pop-wallpaper-photo.jpg' alt='K-Pop Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/6/3/36801-1080x1920-iphone-full-hd-k-pop-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any other kpop wallpapers? (Preferably girl groups) : r/kpop">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jw14nPTaUS4t-5E-OasnuzpraJECwVtin53E4FkYXOA.jpg?auto=webp&s=4486c7d7257a450e3bfbaf698493dd42557514ac' alt='Any other kpop wallpapers? (Preferably girl groups) : r/kpop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jw14nPTaUS4t-5E-OasnuzpraJECwVtin53E4FkYXOA.jpg?auto=webp&s=4486c7d7257a450e3bfbaf698493dd42557514ac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KPOP Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/ff/be/74ffbefef5b210acaff6115e1225b4cc.jpg' alt='KPOP Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/ff/be/74ffbefef5b210acaff6115e1225b4cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kpop wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/452/681/HD-wallpaper-ateez-kpop-thumbnail.jpg' alt='HD kpop wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/452/681/HD-wallpaper-ateez-kpop-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Favourite K-pop wallpaper of yours! : r/kpoppers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/favourite-k-pop-wallpaper-of-yours-v0-y1e3f7aa854c1.jpg?width=1125&format=pjpg&auto=webp&s=e0167d9391178be881446eef2abe94bbc9e1ed29' alt='Favourite K-pop wallpaper of yours! : r/kpoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/favourite-k-pop-wallpaper-of-yours-v0-y1e3f7aa854c1.jpg?width=1125&format=pjpg&auto=webp&s=e0167d9391178be881446eef2abe94bbc9e1ed29' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kpopwallpaper Stories - Wattpad">
+                                <img itemprop="contentUrl url" src='https://img.wattpad.com/cover/222157414-288-k695966.jpg' alt='Kpopwallpaper Stories - Wattpad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wattpad" />
+                                </span>
+                                <a href='https://img.wattpad.com/cover/222157414-288-k695966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Kpop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/54/1c/c3541ce1b6d6bad927b6033064d60c6b.jpg' alt='Aesthetic Kpop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/54/1c/c3541ce1b6d6bad927b6033064d60c6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

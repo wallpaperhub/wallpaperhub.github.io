@@ -1,0 +1,129 @@
+<title>Delve Into In-N-Out Burger: A Legacy of Flavors</title>
+                    <meta name="description" content="Explore the fascinating history of In-N-Out Burger, from its humble beginnings in 1948 to its rise as a beloved fast-food icon. Discover how quality ingredients and a unique drive-thru experience have shaped its legacy. Enjoy the journey of this California staple that continues to delight burger lovers everywhere!">
+                    <meta name="keywords" content="in n out history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/in-n-out-history">
+                            <span itemprop="name">in n out history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delve Into In-N-Out Burger: A Legacy of Flavors</h1>
+                <p>In-N-Out Burger, founded in 1948 by Harry and Esther Snyder in Baldwin Park, California, pioneered the drive-thru fast-food experience. Notably, it was the first drive-thru in California, featuring a simple menu focused on quality. Today, In-N-Out is beloved for its fresh ingredients, secret menu, and commitment to customer satisfaction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In-N-Out Burger">
+                                <img itemprop="contentUrl url" src='https://www.in-n-out.com/mediakit/images/snyder-family.jpg' alt='In-N-Out Burger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="In-N-Out Burger" />
+                                </span>
+                                <a href='https://www.in-n-out.com/mediakit/images/snyder-family.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How In-N-Out's hamburger restaurants looked in 1948 – San Gabriel ...">
+                                <img itemprop="contentUrl url" src='https://www.sgvtribune.com/wp-content/uploads/migration/2014/201402/NEWS_140229601_AR_0_ZCNHJBSELHYH.jpg?w=1024' alt='How In-N-Out's hamburger restaurants looked in 1948 – San Gabriel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Gabriel Valley Tribune" />
+                                </span>
+                                <a href='https://www.sgvtribune.com/wp-content/uploads/migration/2014/201402/NEWS_140229601_AR_0_ZCNHJBSELHYH.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The incredible history of In-N-Out Burger | lovefood.com">
+                                <img itemprop="contentUrl url" src='https://loveincorporated.blob.core.windows.net/contentimages/gallery/03869d33-11c5-4255-a561-64ae4f119899-drivethru_innout.jpg' alt='The incredible history of In-N-Out Burger | lovefood.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovefood" />
+                                </span>
+                                <a href='https://loveincorporated.blob.core.windows.net/contentimages/gallery/03869d33-11c5-4255-a561-64ae4f119899-drivethru_innout.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 years of In-N-Out Burger history, year by year – Orange County ...">
+                                <img itemprop="contentUrl url" src='https://www.ocregister.com/wp-content/uploads/2023/10/OCR-L-INO75-1015-01-12-e1696873962506.jpg?w=597' alt='75 years of In-N-Out Burger history, year by year – Orange County ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orange County Register" />
+                                </span>
+                                <a href='https://www.ocregister.com/wp-content/uploads/2023/10/OCR-L-INO75-1015-01-12-e1696873962506.jpg?w=597' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 1st IN-N-OUT burger opened in 1948. Harry Snyder introduced ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pgjvewv7ghd71.jpg' alt='The 1st IN-N-OUT burger opened in 1948. Harry Snyder introduced ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pgjvewv7ghd71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First In-N-Out Burger Stand Opens - Celebrate California">
+                                <img itemprop="contentUrl url" src='https://celebratecalifornia.library.ca.gov/wp-content/uploads/2013/10/1600px-In-n-Out_Burger_Store_1_original_replica_-_3-1024x768.jpg' alt='First In-N-Out Burger Stand Opens - Celebrate California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celebrate California" />
+                                </span>
+                                <a href='https://celebratecalifornia.library.ca.gov/wp-content/uploads/2013/10/1600px-In-n-Out_Burger_Store_1_original_replica_-_3-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wrote the book on In-N-Out. Here's why Julia Child kept a list ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/2b2d7b1/2147483647/strip/false/crop/2400x1600+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F33%2F61df1f4c4680875c51b57bd486ee%2Ffo-yuki-in-n-out-history.jpg' alt='I wrote the book on In-N-Out. Here's why Julia Child kept a list ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/2b2d7b1/2147483647/strip/false/crop/2400x1600+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F33%2F61df1f4c4680875c51b57bd486ee%2Ffo-yuki-in-n-out-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Visit to the First In-N-Out…Well Sort Of. | Atomic Redhead">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/atomicredhead.com/wp-content/uploads/2021/08/ar-firstinnout006.jpg?quality=100&strip=all&ssl=1' alt='A Visit to the First In-N-Out…Well Sort Of. | Atomic Redhead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atomic Redhead" />
+                                </span>
+                                <a href='https://i0.wp.com/atomicredhead.com/wp-content/uploads/2021/08/ar-firstinnout006.jpg?quality=100&strip=all&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The incredible history of In-N-Out Burger | lovefood.com">
+                                <img itemprop="contentUrl url" src='https://loveincorporated.blob.core.windows.net/contentimages/gallery/17b5a8c0-991c-4d25-bb67-610cf868c3e0-harry_esther_innout.jpg' alt='The incredible history of In-N-Out Burger | lovefood.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovefood" />
+                                </span>
+                                <a href='https://loveincorporated.blob.core.windows.net/contentimages/gallery/17b5a8c0-991c-4d25-bb67-610cf868c3e0-harry_esther_innout.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ins-N-Outs of In-N-Out Burger: The Inside Story of California's First  Drive-Through and How It Became a Beloved Cultural Icon">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-q1ut6awpbh/images/stencil/1280x1280/products/9978/21374/The_Ins_and_Outs_of_In_N_Out_Burger__95619.1691180281.jpg?c=1' alt='The Ins-N-Outs of In-N-Out Burger: The Inside Story of California's First  Drive-Through and How It Became a Beloved Cultural Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Focus on the Family" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-q1ut6awpbh/images/stencil/1280x1280/products/9978/21374/The_Ins_and_Outs_of_In_N_Out_Burger__95619.1691180281.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

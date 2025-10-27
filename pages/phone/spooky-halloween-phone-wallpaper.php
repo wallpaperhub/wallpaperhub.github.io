@@ -1,0 +1,129 @@
+<title>Spooky Halloween Phone Wallpapers for a Frightful Look</title>
+                    <meta name="description" content="Discover the ultimate collection of spooky Halloween phone wallpapers! Perfect for adding a touch of fright to your device, these wallpapers feature ghosts, pumpkins, and more. Download now and elevate your Halloween vibes!">
+                    <meta name="keywords" content="spooky halloween phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/spooky-halloween-phone-wallpaper">
+                            <span itemprop="name">spooky halloween phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Phone Wallpapers for a Frightful Look</h1>
+                <p>Get into the Halloween spirit with our collection of spooky phone wallpapers! From eerie ghosts and creepy pumpkins to haunted houses and full moons, these designs bring the fright to your device. Perfect for trick-or-treaters and Halloween lovers alike, transform your phone into a chilling sight to behold this October!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Wallpaper for Mobile Phone with HD 1080x1920 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/6c/af/2f6cafea3447cef64bbd2ff9732365fe.jpg' alt='Happy Halloween Wallpaper for Mobile Phone with HD 1080x1920 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/6c/af/2f6cafea3447cef64bbd2ff9732365fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' alt='17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Spooky Halloween Wallpapers For Phones - The XO Factor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/b5/43/03b543caaf1f6cb8823a0166e80128a7.jpg' alt='100 Spooky Halloween Wallpapers For Phones - The XO Factor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/b5/43/03b543caaf1f6cb8823a0166e80128a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Halloween Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-halloween-phone-80u2nivh0d9gijwb.jpg' alt='100+] Cute Halloween Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-halloween-phone-80u2nivh0d9gijwb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper For Android Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fa/d5/ab/fad5ab42cbb0f226cc9a28cadcaa848d.jpg' alt='Halloween Wallpaper For Android Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fa/d5/ab/fad5ab42cbb0f226cc9a28cadcaa848d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg?w=360' alt='Halloween Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Halloween Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10057292.jpg' alt='Dark Halloween Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10057292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_haunted_house_with_glowing_windows_and_bats_flyin_cd88b5e5-cf4f-4561-9b8a-750d1cc24ba2_3.webp?resize=574%2C1024&ssl=1' alt='17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_haunted_house_with_glowing_windows_and_bats_flyin_cd88b5e5-cf4f-4561-9b8a-750d1cc24ba2_3.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4818198.jpg' alt='Halloween Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4818198.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple little spooky phone background I drew today! : r/halloween">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/izcknazxbct51.jpg?width=640&crop=smart&auto=webp&s=664cb06c4a453fb4244b964ae94a4b675bda4a9d' alt='Simple little spooky phone background I drew today! : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/izcknazxbct51.jpg?width=640&crop=smart&auto=webp&s=664cb06c4a453fb4244b964ae94a4b675bda4a9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

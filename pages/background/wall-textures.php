@@ -1,0 +1,129 @@
+<title>Top Wall Textures: Enhance Your Space!</title>
+                    <meta name="description" content="Discover the art of wall textures to elevate your interiors. Explore a variety of styles, from rustic bricks to sleek finishes, perfect for any decor. Find tips on choosing the right texture to create a stunning atmosphere in your home or office. Transform your walls effortlessly!">
+                    <meta name="keywords" content="wall textures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wall-textures">
+                            <span itemprop="name">wall textures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Wall Textures: Enhance Your Space!</h1>
+                <p>Wall textures can transform a boring space into a stunning focal point. From smooth finishes to rough, tactile surfaces, various textures add depth and character to interiors. Popular options include stucco, brick, and decorative panels, each bringing a unique style. Consider your decor to choose the ideal wall texture that enhances your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Drywall Texture Types to Consider for Your Walls | Angi">
+                                <img itemprop="contentUrl url" src='https://media.angi.com/s3fs-public/drywall-texture-types.png?impolicy=infographic' alt='15 Drywall Texture Types to Consider for Your Walls | Angi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angie's List" />
+                                </span>
+                                <a href='https://media.angi.com/s3fs-public/drywall-texture-types.png?impolicy=infographic' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Wall Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533628635777-112b2239b1c7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' alt='1500+ Wall Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533628635777-112b2239b1c7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Texture a Wall: 7 Methods">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/aN0Sz1rddR176j4VQxLyYnqSK4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thespruce-slapbrushwalltexture-Nenov-609487fb3a2642f2951c96d03a2f02d1.jpg' alt='How to Texture a Wall: 7 Methods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/aN0Sz1rddR176j4VQxLyYnqSK4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thespruce-slapbrushwalltexture-Nenov-609487fb3a2642f2951c96d03a2f02d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Most Popular Wall Textures 2023">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/8a1c47b9-a97c-4a00-9d91-f340ea8345ad/homeguide-wall-texture-types.jpg' alt='10 Most Popular Wall Textures 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Renovations" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/8a1c47b9-a97c-4a00-9d91-f340ea8345ad/homeguide-wall-texture-types.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Choose the Right Wall Texture for Your Home Decor">
+                                <img itemprop="contentUrl url" src='https://paintingdrive.com/blog/wp-content/uploads/2024/06/126-scaled-e1730107803778.jpg' alt='How to Choose the Right Wall Texture for Your Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2218">
+                                <meta itemprop="height" content="1642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painting Drive" />
+                                </span>
+                                <a href='https://paintingdrive.com/blog/wp-content/uploads/2024/06/126-scaled-e1730107803778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore the Elegance of Plaster Wall Texture">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/7vvgy1g8lzw7/3U8drLTyifKzzRalcHreUa/aabc387a4284d04005b9cc5bf39f9858/plaster-wall-texture.jpeg?w=1000&h=525&fl=progressive&q=100&fm=jpg' alt='Explore the Elegance of Plaster Wall Texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlas Stucco" />
+                                </span>
+                                <a href='https://images.ctfassets.net/7vvgy1g8lzw7/3U8drLTyifKzzRalcHreUa/aabc387a4284d04005b9cc5bf39f9858/plaster-wall-texture.jpeg?w=1000&h=525&fl=progressive&q=100&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Texture a Wall: 7 Methods">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/EbOLJqtQmQLEFFltWVlrKAlb1uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thespruce-walltexture-kampeepatisena-92732ac212d84e398312dfdc1ec7d9bd.jpg' alt='How to Texture a Wall: 7 Methods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/EbOLJqtQmQLEFFltWVlrKAlb1uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thespruce-walltexture-kampeepatisena-92732ac212d84e398312dfdc1ec7d9bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Most Popular Wall Textures 2023">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/8a1c47b9-a97c-4a00-9d91-f340ea8345ad/drywall-texture.png' alt='10 Most Popular Wall Textures 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Renovations" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/8a1c47b9-a97c-4a00-9d91-f340ea8345ad/drywall-texture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Wall Textures & Treatments That Can Transform Your Home">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/living-rooms/house-no-17-ahmedabad-s-a-k-designs-img~cfc1f6520b3de2af_14-1042-1-28e3857.jpg' alt='25 Wall Textures & Treatments That Can Transform Your Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/living-rooms/house-no-17-ahmedabad-s-a-k-designs-img~cfc1f6520b3de2af_14-1042-1-28e3857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are Wall Textures and Their Benefits? - Jerry Enos Painting">
+                                <img itemprop="contentUrl url" src='https://jerryenospainting.com/wp-content/uploads/2022/11/texture-627694_1920-1200x628.jpg' alt='What Are Wall Textures and Their Benefits? - Jerry Enos Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jerry Enos Painting" />
+                                </span>
+                                <a href='https://jerryenospainting.com/wp-content/uploads/2022/11/texture-627694_1920-1200x628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

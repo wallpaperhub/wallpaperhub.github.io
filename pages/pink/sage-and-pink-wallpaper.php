@@ -1,0 +1,129 @@
+<title>Sage & Pink Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the beauty of sage and pink wallpaper! Perfect for creating a soothing atmosphere, this color combination is ideal for bedrooms and living areas. Explore floral and geometric patterns that add elegance and warmth to your home. Transform your interiors with this stylish design choice today!">
+                    <meta name="keywords" content="sage and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/sage-and-pink-wallpaper">
+                            <span itemprop="name">sage and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sage & Pink Wallpaper: Elevate Your Space</h1>
+                <p>Sage and pink wallpaper harmonizes soft elegance with a modern touch, perfect for refreshing any space. The gentle hues create a soothing atmosphere, ideal for bedrooms or living areas. Whether you choose floral patterns or geometric designs, this combination adds warmth and sophistication, making your interiors both inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage and Pink Abstract II">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/71926/sage-and-pink-abstract-ii.jpg?h=699&q=85' alt='Sage and Pink Abstract II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/71926/sage-and-pink-abstract-ii.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Gorgeous Gardinea Wallpaper in Sage Green and Pink on White">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB.webp?crop=center&height=850&v=1705483895&width=850' alt='Sample of Gorgeous Gardinea Wallpaper in Sage Green and Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB.webp?crop=center&height=850&v=1705483895&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G78499 Classic Bouquet Pink Sage Green White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250398.jpg' alt='Galerie G78499 Classic Bouquet Pink Sage Green White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highlands - Sage Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/84678/highlands-sage-pink.jpg?h=699&q=85' alt='Highlands - Sage Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1843">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/84678/highlands-sage-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown William Morris At Home Strawberry Thief Sage and Pink  Wallpaper 124233">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/d8352532-abdf-43b2-a7a9-8cec783feb5e/svn/graham-brown-wallpaper-rolls-124233-64_600.jpg' alt='Graham & Brown William Morris At Home Strawberry Thief Sage and Pink  Wallpaper 124233'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/d8352532-abdf-43b2-a7a9-8cec783feb5e/svn/graham-brown-wallpaper-rolls-124233-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Gardenia Wallpaper in Sage Green and Pink on White – I ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Roomset_WEB.webp?crop=center&height=1024&v=1706014431&width=1024' alt='Gorgeous Gardenia Wallpaper in Sage Green and Pink on White – I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Roomset_WEB.webp?crop=center&height=1024&v=1706014431&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akina Sage Floral Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/615tUmpeevL._AC_UF894,1000_QL80_.jpg' alt='Akina Sage Floral Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/615tUmpeevL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Akina Sage Floral Textured Peelable Paper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/551f8f64-c737-4a6f-b8a1-fd074ac74ece/svn/fine-decor-wallpaper-rolls-m1724-4f_600.jpg' alt='Fine Decor Akina Sage Floral Textured Peelable Paper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/551f8f64-c737-4a6f-b8a1-fd074ac74ece/svn/fine-decor-wallpaper-rolls-m1724-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor vintage pink peony sage background Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0540_1s_Watercolor-vintage-pink-peony-sage-background-wallpaper-Pretty-in-Peony_Repeating-Pattern-Sample-1.jpg?v=1734716301' alt='Watercolor vintage pink peony sage background Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0540_1s_Watercolor-vintage-pink-peony-sage-background-wallpaper-Pretty-in-Peony_Repeating-Pattern-Sample-1.jpg?v=1734716301' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Sage Wallpaper Pink Floral Hand Painted Effect Smooth Matte  Finish | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/k~sAAOSww1xlON~K/s-l400.jpg' alt='Wildflowers Sage Wallpaper Pink Floral Hand Painted Effect Smooth Matte  Finish | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/k~sAAOSww1xlON~K/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Thanksgiving Android Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of beautiful Thanksgiving Android wallpapers. From colorful autumn scenes to festive themes, personalize your device with designs that celebrate gratitude and joy. Download now to bring the spirit of Thanksgiving to your phone's home screen!">
+                    <meta name="keywords" content="thanksgiving android wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving">
+                            <span itemprop="name">Thanksgiving</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving/thanksgiving-android-wallpaper">
+                            <span itemprop="name">thanksgiving android wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Thanksgiving Android Wallpapers for Your Device</h1>
+                <p>Celebrate Thanksgiving with stunning Android wallpapers that capture the essence of the holiday! Download beautiful designs featuring autumn leaves, turkeys, and festive themes to enhance your device. Personalize your phone with vibrant colors and warm motifs that remind you of gratitude and togetherness this season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Best Thanksgiving Wallpaper! ideas | thanksgiving wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f3/ba/d4/f3bad45d1debc5f023870a9e14c27c7f.jpg' alt='56 Best Thanksgiving Wallpaper! ideas | thanksgiving wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f3/ba/d4/f3bad45d1debc5f023870a9e14c27c7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Phone Wallpapers & Screensavers | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/10/Grateful-Thankful-Blessed-Phone-Wallpaper-By-EntheosWeb.png' alt='Thanksgiving Phone Wallpapers & Screensavers | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/10/Grateful-Thankful-Blessed-Phone-Wallpaper-By-EntheosWeb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nice Thanksgiving wallpaper #thanksgiving #android #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/8e/fa/cd8efa7df5b1f101d0dfa81c2eca8917.jpg' alt='Nice Thanksgiving wallpaper #thanksgiving #android #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/8e/fa/cd8efa7df5b1f101d0dfa81c2eca8917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Thanksgiving Wallpapers ideas | thanksgiving wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/f6/8f/a4f68f5cccf76a14e1391973a82c0347.jpg' alt='16 Thanksgiving Wallpapers ideas | thanksgiving wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/f6/8f/a4f68f5cccf76a14e1391973a82c0347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/cPFoeexrksXpwSzPg4QekeqATp8mgTopkFQ74xH1zWM4KifgzIngJqWw8MCaXPTnceM' alt='Happy Thanksgiving Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/cPFoeexrksXpwSzPg4QekeqATp8mgTopkFQ74xH1zWM4KifgzIngJqWw8MCaXPTnceM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Happy Thanksgiving Turkey Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/IMG_20191119202200.jpg' alt='Free Happy Thanksgiving Turkey Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/IMG_20191119202200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/NQcAWpnLWzh4mNT-Rxpx85FyLV-u1vwaeDAlcltRAFSQVm1-XMjdDbdUD7GSQqWHkx0=w526-h296-rw' alt='Happy Thanksgiving Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/NQcAWpnLWzh4mNT-Rxpx85FyLV-u1vwaeDAlcltRAFSQVm1-XMjdDbdUD7GSQqWHkx0=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where and How to Get iPhone/Android Thanksgiving Wallpapers?">
+                                <img itemprop="contentUrl url" src='https://mobiletrans.wondershare.com/images/images2023/thanksgiving-wallpapers-update-08.jpg' alt='Where and How to Get iPhone/Android Thanksgiving Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare MobileTrans" />
+                                </span>
+                                <a href='https://mobiletrans.wondershare.com/images/images2023/thanksgiving-wallpapers-update-08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Thanksgiving Wallpapers & Backgrounds That Are Free to ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/1925511/stock-image-thanksgiving.jpg?w=1600&h=1200&q=88&f=247aa1a20e70497abeed469f8afaf3ea' alt='Cute Thanksgiving Wallpapers & Backgrounds That Are Free to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/1925511/stock-image-thanksgiving.jpg?w=1600&h=1200&q=88&f=247aa1a20e70497abeed469f8afaf3ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Thanksgiving Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71P9kqFLVLL.png' alt='4K Thanksgiving Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71P9kqFLVLL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

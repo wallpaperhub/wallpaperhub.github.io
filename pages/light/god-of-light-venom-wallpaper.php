@@ -1,0 +1,129 @@
+<title>Stunning God of Light Venom Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover vibrant God of Light Venom wallpapers that bring a unique blend of brightness and depth to your device. Perfect for fans seeking enchanting designs, these wallpapers offer a striking visual experience that showcases the duality of light and venom. Enhance your screen today!">
+                    <meta name="keywords" content="god of light venom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/god-of-light-venom-wallpaper">
+                            <span itemprop="name">god of light venom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning God of Light Venom Wallpapers for Your Device</h1>
+                <p>Explore the captivating "God of Light Venom" wallpapers that meld vibrant colors and intricate designs. Perfect for fans of supernatural themes, these stunning wallpapers symbolize duality and power, showcasing a luminous deity intertwined with the essence of venom. Transform your device’s screen with this mesmerizing fusion of light and darkness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of Light Venom by Pen-Syls on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/5a/72/7b5a72fae55e557467164907e56d6462.jpg' alt='God of Light Venom by Pen-Syls on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/5a/72/7b5a72fae55e557467164907e56d6462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WE ARE VENOM on Instagram: “God of Symbiotes Artist: @ryanstegman ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/81/8b/71818b30844c24254f934ed0f2d98df4.jpg' alt='WE ARE VENOM on Instagram: “God of Symbiotes Artist: @ryanstegman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/81/8b/71818b30844c24254f934ed0f2d98df4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of light Venom! Y'all like this design? . . . #venom #fanart ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3234708546486871825' alt='God of light Venom! Y'all like this design? . . . #venom #fanart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3234708546486871825' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artwork] God Of Light x King in Black : VENOM #SketchEmAll by ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sgad41dziju61.jpg' alt='Artwork] God Of Light x King in Black : VENOM #SketchEmAll by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sgad41dziju61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STL file God of Light Venom's Axe    ・3D printing template to ...">
+                                <img itemprop="contentUrl url" src='https://fbi.cults3d.com/uploaders/15403995/illustration-file/4bfa62f0-0672-4928-934b-90565bcf0bd5/Venom.jpeg' alt='STL file God of Light Venom's Axe    ・3D printing template to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cults 3D" />
+                                </span>
+                                <a href='https://fbi.cults3d.com/uploaders/15403995/illustration-file/4bfa62f0-0672-4928-934b-90565bcf0bd5/Venom.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nort ㊝ on X: "“Edward Brock, you have been chosen.” #Venom God of ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E86oSsVWEAQUbZJ.jpg:large' alt='Nort ㊝ on X: "“Edward Brock, you have been chosen.” #Venom God of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E86oSsVWEAQUbZJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was venom god of light ever standard for venom? : r/deathbattle">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c1c6lsqab1r91.jpg' alt='Was venom god of light ever standard for venom? : r/deathbattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c1c6lsqab1r91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom Becomes The Most Powerful Marvel Hero - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Wpam9EkZ1WU/sddefault.jpg' alt='Venom Becomes The Most Powerful Marvel Hero - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Wpam9EkZ1WU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom Faces Knull in the Battle for all of Earth | Marvel">
+                                <img itemprop="contentUrl url" src='https://cdn.marvel.com/content/1x/king_in_black_2020_5_venom_enigma_force.jpg' alt='Venom Faces Knull in the Battle for all of Earth | Marvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel.com" />
+                                </span>
+                                <a href='https://cdn.marvel.com/content/1x/king_in_black_2020_5_venom_enigma_force.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - VeNoM - God of Light">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/058/041/703/large/gustavo-herrera-vl7.jpg?1673273354' alt='ArtStation - VeNoM - God of Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/058/041/703/large/gustavo-herrera-vl7.jpg?1673273354' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Dragon Ball Wallpapers for Android</title>
+                    <meta name="description" content="Discover the ultimate collection of 4K Dragon Ball wallpapers for Android! Personalize your device with breathtaking images of beloved characters and epic scenes. Download now and bring your passion for Dragon Ball to life on your smartphone screen!">
+                    <meta name="keywords" content="dragon ball wallpaper 4k android">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-ball-wallpaper-4k-android">
+                            <span itemprop="name">dragon ball wallpaper 4k android</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Dragon Ball Wallpapers for Android</h1>
+                <p>Elevate your device's aesthetics with stunning Dragon Ball wallpaper in 4K resolution designed specifically for Android. Immerse yourself in the vibrant world of your favorite anime characters, from Goku to Vegeta. Download these high-quality images to showcase your fandom and personalize your phone effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-z-phone-5019gapwfmkg5nb3.jpg' alt='100+] Dragon Ball Z Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-z-phone-5019gapwfmkg5nb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/cb/31/37cb3155d2a36ce09f70365ff34c7065.jpg' alt='110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/cb/31/37cb3155d2a36ce09f70365ff34c7065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step Up Your Phone Game With This High-res Dragon Ball Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/step-up-your-phone-game-with-this-high-res-dragon-ball-iphone-wallpaper-ucqtjntua4x0kgkc.jpg' alt='Step Up Your Phone Game With This High-res Dragon Ball Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/step-up-your-phone-game-with-this-high-res-dragon-ball-iphone-wallpaper-ucqtjntua4x0kgkc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball z, ballz, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/147/852/HD-wallpaper-anime-dragon-ball-z-animr.jpg' alt='Dragon ball z, ballz, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/147/852/HD-wallpaper-anime-dragon-ball-z-animr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball, Android backgrounds, Ultra Instinct, Dragon Ball ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/607/231/HD-wallpaper-dragon-ball-android-backgrounds-ultra-instinct-dragon-ball-super-iphone-goku-android-dbs-manga-dbz-dragon-ball-z-anime-iphone-backgrounds.jpg' alt='Dragon Ball, Android backgrounds, Ultra Instinct, Dragon Ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/607/231/HD-wallpaper-dragon-ball-android-backgrounds-ultra-instinct-dragon-ball-super-iphone-goku-android-dbs-manga-dbz-dragon-ball-z-anime-iphone-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/f3/32/81f33223fdf4b72be027c3571731c28f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/f3/32/81f33223fdf4b72be027c3571731c28f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Four-star Dragon Ball Z Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/goku-four-star-dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' alt='Goku Four-star Dragon Ball Z Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/goku-four-star-dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Fusion, dbz, dragon ball, dragon ball super, dragon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/409/730/HD-wallpaper-the-ultimate-fusion-dbz-dragon-ball-dragon-ball-super-dragon-ball-z-gogeta.jpg' alt='The Ultimate Fusion, dbz, dragon ball, dragon ball super, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/409/730/HD-wallpaper-the-ultimate-fusion-dbz-dragon-ball-dragon-ball-super-dragon-ball-z-gogeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cell and Android sagas are coming to Dragon Ball: Sparking ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c95f8d416b640656eb7765a/1719445699934-06EXVWZTM9LKZ2GJWZJA/DB+Sparking+Zero.jpg?format=2500w' alt='The Cell and Android sagas are coming to Dragon Ball: Sparking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maxi-Geek" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c95f8d416b640656eb7765a/1719445699934-06EXVWZTM9LKZ2GJWZJA/DB+Sparking+Zero.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/c5/51/b8c551af53b2e3a5604cc41992ee5f63.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/c5/51/b8c551af53b2e3a5604cc41992ee5f63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

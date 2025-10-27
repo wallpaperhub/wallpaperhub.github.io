@@ -1,0 +1,129 @@
+<title>False Criminal Records in Background Checks: What to Do</title>
+                    <meta name="description" content="Discover how to navigate false criminal records from background checks. Understand common causes and learn how to verify and dispute inaccuracies effectively to protect your reputation and career.">
+                    <meta name="keywords" content="background check shows false criminal record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-shows-false-criminal-record">
+                            <span itemprop="name">background check shows false criminal record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>False Criminal Records in Background Checks: What to Do</h1>
+                <p>Background checks can sometimes produce false criminal records, leading to unwarranted consequences for individuals. These inaccuracies may result from name similarities, clerical errors, or outdated information. It’s crucial to verify the accuracy of any background check, as these false results can affect employment opportunities and personal lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="False Information on Your Background Check? Here's How a Lawyer ...">
+                                <img itemprop="contentUrl url" src='https://www.sanderslaw.group/wp-content/uploads/2024/06/Blog-4-Banner.png' alt='False Information on Your Background Check? Here's How a Lawyer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanders Law Group" />
+                                </span>
+                                <a href='https://www.sanderslaw.group/wp-content/uploads/2024/06/Blog-4-Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Shows False Criminal Record | Call Now!">
+                                <img itemprop="contentUrl url" src='https://creditlawyerllc.com/wp-content/uploads/2023/10/Do-Expunged-Records-Show-Up-On-Background-Checks.jpg' alt='Background Check Shows False Criminal Record | Call Now!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cook Law, LLC" />
+                                </span>
+                                <a href='https://creditlawyerllc.com/wp-content/uploads/2023/10/Do-Expunged-Records-Show-Up-On-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Record Errors Ruin Innocent Lives | Cardoza ...">
+                                <img itemprop="contentUrl url" src='https://dss.fosterwebmarketing.com/upload/792/bgcheckscardozalawcorpv2.jpeg' alt='Criminal Background Record Errors Ruin Innocent Lives | Cardoza ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cardoza Law Corporation" />
+                                </span>
+                                <a href='https://dss.fosterwebmarketing.com/upload/792/bgcheckscardozalawcorpv2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Handle Background Check Errors When A Job Is At Stake">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' alt='How To Handle Background Check Errors When A Job Is At Stake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant National Criminal Search, Search Background Checks ...">
+                                <img itemprop="contentUrl url" src='http://www.criminalbackgroundrecords.com/images/finalNoRecords.jpg' alt='Instant National Criminal Search, Search Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="1494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Background Records" />
+                                </span>
+                                <a href='http://www.criminalbackgroundrecords.com/images/finalNoRecords.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Record Template 2012-2025 Form - Fill Out and Sign ...">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/17/304/17304845.png' alt='Criminal Record Template 2012-2025 Form - Fill Out and Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/17/304/17304845.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks for Employment [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' alt='Criminal Background Checks for Employment [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What If a Background Check Shows False Criminal Record? | Fair Credit">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64468516c967826f29556de7_false-criminal-record.jpg' alt='What If a Background Check Shows False Criminal Record? | Fair Credit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fair Credit" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64468516c967826f29556de7_false-criminal-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Expunged Records Show Up On Fingerprint Background Check?">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2023/11/background-check-in-florida-1024x538.webp' alt='Do Expunged Records Show Up On Fingerprint Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2023/11/background-check-in-florida-1024x538.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

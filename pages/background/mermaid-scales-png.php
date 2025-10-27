@@ -1,0 +1,129 @@
+<title>Stunning Mermaid Scales PNG for Your Creative Projects</title>
+                    <meta name="description" content="Discover mesmerizing mermaid scales PNG images to elevate your designs! Perfect for backgrounds, overlays, and more, these vibrant graphics add a magical touch to any project. Download now for endless creative possibilities!">
+                    <meta name="keywords" content="mermaid scales png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mermaid-scales-png">
+                            <span itemprop="name">mermaid scales png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mermaid Scales PNG for Your Creative Projects</h1>
+                <p>Mermaid scales PNG images are perfect for enhancing digital designs, crafts, and creative projects. Featuring vibrant colors and enchanting textures, these graphics evoke the mythical beauty of mermaids. Use them for backgrounds, overlays, or digital scrapbooking to add a touch of magical ocean aesthetics to your work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Pattern Svg, Seamless Fish Scales Pattern, Geometric  Pattern. Cut File Cricut, Png Pdf Eps, Vector, Stencil, Vinyl.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31715137/r/il/75d362/3305427316/il_fullxfull.3305427316_av3b.jpg' alt='Mermaid Scales Pattern Svg, Seamless Fish Scales Pattern, Geometric  Pattern. Cut File Cricut, Png Pdf Eps, Vector, Stencil, Vinyl.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2376">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31715137/r/il/75d362/3305427316/il_fullxfull.3305427316_av3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/505/755/small_2x/seamless-colorful-fish-scales-mermaid-background-png.png' alt='Mermaid Scales PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/505/755/small_2x/seamless-colorful-fish-scales-mermaid-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240809/original/pngtree-enchanting-texture-of-fish-scale-fantasy-in-blue-mermaid-scales-png-image_15736166.png' alt='Mermaid Scales PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240809/original/pngtree-enchanting-texture-of-fish-scale-fantasy-in-blue-mermaid-scales-png-image_15736166.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Images – Browse 23,868 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/53/15/29/360_F_353152960_nCcM1xo8v0Wd0nsCBx2bCQzPiKmnIT1v.jpg' alt='Mermaid Scales Images – Browse 23,868 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/53/15/29/360_F_353152960_nCcM1xo8v0Wd0nsCBx2bCQzPiKmnIT1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Pattern. Files prepared for Cricut. SVG Clip Art. Digital  file available for instant download (eps, svg, pdf, dxf, png, jpeg)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24209782/r/il/5f9170/2577707009/il_570xN.2577707009_pja1.jpg' alt='Mermaid Scales Pattern. Files prepared for Cricut. SVG Clip Art. Digital  file available for instant download (eps, svg, pdf, dxf, png, jpeg)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24209782/r/il/5f9170/2577707009/il_570xN.2577707009_pja1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Colorful Sublimation Png Graphic by VeczSvgHouse ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/05/23/Mermaid-Scales-Colorful-Sublimation-Png-Graphics-12358037-2-580x387.jpg' alt='Mermaid Scales Colorful Sublimation Png Graphic by VeczSvgHouse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/05/23/Mermaid-Scales-Colorful-Sublimation-Png-Graphics-12358037-2-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aquatic_ Blue_ Mermaid_ Scales_ Texture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aquatic_-blue_-mermaid_-scales_-texture-a7hev258daooxto6.jpg' alt='Download Aquatic_ Blue_ Mermaid_ Scales_ Texture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aquatic_-blue_-mermaid_-scales_-texture-a7hev258daooxto6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Vector, Sticker Clipart Mermaid Scales In Different ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230914/original/pngtree-mermaid-scales-vector-png-image_12154574.png' alt='Mermaid Scales Vector, Sticker Clipart Mermaid Scales In Different ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230914/original/pngtree-mermaid-scales-vector-png-image_12154574.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales">
+                                <img itemprop="contentUrl url" src='https://digitalpaperpack.com/images/pictures/mermaid-scales/mermaid-scales.1200x.png' alt='Mermaid Scales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="250 Colors Digital Paper Packs" />
+                                </span>
+                                <a href='https://digitalpaperpack.com/images/pictures/mermaid-scales/mermaid-scales.1200x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mermaid Scales Seamless Pattern Svg Png Graphic by Julia's digital ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/03/28/Mermaid-scales-seamless-pattern-svg-png-Graphics-37082272.png' alt='Mermaid Scales Seamless Pattern Svg Png Graphic by Julia's digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/03/28/Mermaid-scales-seamless-pattern-svg-png-Graphics-37082272.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

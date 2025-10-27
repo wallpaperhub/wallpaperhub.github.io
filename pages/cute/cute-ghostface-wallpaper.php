@@ -1,0 +1,129 @@
+<title>Adorable Ghostface Wallpaper for a Spooky-Chic Look</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute ghostface wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-ghostface-wallpaper">
+                            <span itemprop="name">cute ghostface wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Ghostface Wallpaper for a Spooky-Chic Look</h1>
+                <p>Cute Ghostface wallpapers add a playful twist to the iconic horror character. Perfect for those who love a mix of spooky and adorable, these wallpapers feature Ghostface in various cute styles and colors. Great for personalizing your device, they bring a fun vibe to your screens while reminding you of your favorite slasher flicks!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Ghostface Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-ghostface-small-version-with-knife-x6s40aw9457g3imr.jpg' alt='100+] Cute Ghostface Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-ghostface-small-version-with-knife-x6s40aw9457g3imr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ghostface #scream #halloween #halloweenbackground #phonebackground ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/05/02/4b050243ae2ba7a257d57f8f7e01b8d2.jpg' alt='ghostface #scream #halloween #halloweenbackground #phonebackground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/05/02/4b050243ae2ba7a257d57f8f7e01b8d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/52/61/1d5261aa13e40a3e3fed45303fdeda27.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/52/61/1d5261aa13e40a3e3fed45303fdeda27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=1&sign=9c019210b09c7abe93fd57e874b76fc5' alt='✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1107">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=1&sign=9c019210b09c7abe93fd57e874b76fc5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GhostFace PFP - Halloween PFP with GhostFace for TikTok, Discord, IG">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/07/ghostface-pfp-4.jpg' alt='GhostFace PFP - Halloween PFP with GhostFace for TikTok, Discord, IG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/07/ghostface-pfp-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=4&sign=dc8a01b2f469a76a796fab4a520ca0fb' alt='✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=4&sign=dc8a01b2f469a76a796fab4a520ca0fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/5a/5f/ff5a5f5edf865763d64567c8a00ca816.jpg' alt='Ghost Face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/5a/5f/ff5a5f5edf865763d64567c8a00ca816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who would have thought floral, girly Ghostface wallpapers would be ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/who-would-have-thought-floral-girly-ghostface-wallpapers-v0-xp7ra7g4mjv81.jpg?width=640&crop=smart&auto=webp&s=0b830a16519c303e85c139306650acadb48d684c' alt='Who would have thought floral, girly Ghostface wallpapers would be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/who-would-have-thought-floral-girly-ghostface-wallpapers-v0-xp7ra7g4mjv81.jpg?width=640&crop=smart&auto=webp&s=0b830a16519c303e85c139306650acadb48d684c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scream Movie Pink Cute Ghostface Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scream-movie-pink-cute-ghostface-tcsh16yg1vdjfn1x.jpg' alt='Download Scream Movie Pink Cute Ghostface Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scream-movie-pink-cute-ghostface-tcsh16yg1vdjfn1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/7d/06/bb7d061084c8138eaa533ff887b3f327.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/7d/06/bb7d061084c8138eaa533ff887b3f327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

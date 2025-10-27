@@ -1,0 +1,129 @@
+<title>History of Sigma Gamma Rho Sorority: Celebrating Legacy & Achievement</title>
+                    <meta name="description" content="Explore the rich history of Sigma Gamma Rho Sorority, founded in 1922. Learn about its legacy of service, empowerment, and dedication to uplifting women of color through education and community engagement.">
+                    <meta name="keywords" content="sigma gamma rho history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sigma-gamma-rho-history">
+                            <span itemprop="name">sigma gamma rho history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of Sigma Gamma Rho Sorority: Celebrating Legacy & Achievement</h1>
+                <p>Sigma Gamma Rho Sorority, Inc. was founded in 1922 by seven educators in Indianapolis, Indiana. Aimed at uplifting women of color, it has since expanded to include service, scholarship, and sisterhood. The sorority focuses on community service and empowerment, making significant contributions to societal improvement and education.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About">
+                                <img itemprop="contentUrl url" src='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/AlphaChapter-BU.png' alt='About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Member Portal - Sigma Gamma Rho" />
+                                </span>
+                                <a href='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/AlphaChapter-BU.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Her Story - Notable Sigmas">
+                                <img itemprop="contentUrl url" src='https://www.sgrho1922.org/images/SGR/About/Alpha-Charter-1924.jpg' alt='Her Story - Notable Sigmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sigma Gamma Rho" />
+                                </span>
+                                <a href='https://www.sgrho1922.org/images/SGR/About/Alpha-Charter-1924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About">
+                                <img itemprop="contentUrl url" src='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/SGRLAChapter.png' alt='About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Member Portal - Sigma Gamma Rho" />
+                                </span>
+                                <a href='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/SGRLAChapter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Segregated Education · The Centennial Anniversary of Sigma Gamma ...">
+                                <img itemprop="contentUrl url" src='https://press.palni.org/omeka-s/files/large/0b1eac37dc8829f2359f5911982a201bba9d5628.jpg' alt='Segregated Education · The Centennial Anniversary of Sigma Gamma ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PALNI Open Press" />
+                                </span>
+                                <a href='https://press.palni.org/omeka-s/files/large/0b1eac37dc8829f2359f5911982a201bba9d5628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About">
+                                <img itemprop="contentUrl url" src='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/SGR_Neo_Present.png' alt='About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Member Portal - Sigma Gamma Rho" />
+                                </span>
+                                <a href='https://members.sgrho1922.org/images/SGRho_Website/About%20Sigma/SGR_Neo_Present.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorority History - Sigma Gamma Rho Sorority, Inc.">
+                                <img itemprop="contentUrl url" src='https://salisburysgrho.com/wp-content/uploads/HerStory.png' alt='Sorority History - Sigma Gamma Rho Sorority, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sigma Gamma Rho Sorority" />
+                                </span>
+                                <a href='https://salisburysgrho.com/wp-content/uploads/HerStory.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HISTORY">
+                                <img itemprop="contentUrl url" src='http://students.washington.edu/sgrho/foundersbanner.jpg' alt='HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Washington" />
+                                </span>
+                                <a href='http://students.washington.edu/sgrho/foundersbanner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herstory | About Sigma Gamma Rho Sorority, Inc. - Lambda Nu Sigma ...">
+                                <img itemprop="contentUrl url" src='https://www.lambdanusigma.ca/uploads/1/6/1/8/16183740/published/270880072.png?1510888102' alt='Herstory | About Sigma Gamma Rho Sorority, Inc. - Lambda Nu Sigma ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lambda Nu Sigma Chapter of Sigma Gamma Rho Sorority, Inc." />
+                                </span>
+                                <a href='https://www.lambdanusigma.ca/uploads/1/6/1/8/16183740/published/270880072.png?1510888102' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sigma Gamma Rho Home page - Photo Gallery - Testimonials - Notable ...">
+                                <img itemprop="contentUrl url" src='https://www.sgrho1922.org/images/SGR/HomePage/Vintage_circle.jpg' alt='Sigma Gamma Rho Home page - Photo Gallery - Testimonials - Notable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sgrho1922.org" />
+                                </span>
+                                <a href='https://www.sgrho1922.org/images/SGR/HomePage/Vintage_circle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Founders">
+                                <img itemprop="contentUrl url" src='https://celectcdn.s3.amazonaws.com/images/0029/3549/IllustriousFounders.png' alt='Founders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Member Portal - Sigma Gamma Rho" />
+                                </span>
+                                <a href='https://celectcdn.s3.amazonaws.com/images/0029/3549/IllustriousFounders.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

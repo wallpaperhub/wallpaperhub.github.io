@@ -1,0 +1,129 @@
+<title>Enchanted Disney Haunted Mansion Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover captivating Disney Haunted Mansion wallpaper that brings the spooky magic of the iconic ride into your home. Perfect for Disney lovers, this wallpaper adds charm and personality to any room, creating an enchanting ambience. Shop now to elevate your decor with a dash of ghostly whimsy!">
+                    <meta name="keywords" content="disney haunted mansion wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/disney-haunted-mansion-wallpaper">
+                            <span itemprop="name">disney haunted mansion wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanted Disney Haunted Mansion Wallpaper for Your Home</h1>
+                <p>Transform your space with enchanting Disney Haunted Mansion wallpaper! Perfect for fans of the spooky classic, this wallpaper captures the eerie charm of the iconic attraction. Unleash your inner ghost host and create a bewitching atmosphere at home. Ideal for themed rooms, it’s a delightful addition to any Disney collection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/23_SM_Haunted-Mansion-Wallpaper_Op11_2880x1800-scaled.jpg' alt='New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/23_SM_Haunted-Mansion-Wallpaper_Op11_2880x1800-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How My Most Embarrassing Childhood Moment Made Me Fall in Love ...">
+                                <img itemprop="contentUrl url" src='http://allears.net/wp-content/uploads/2019/08/haunted-mansion-larry-dotson-1.jpg' alt='How My Most Embarrassing Childhood Moment Made Me Fall in Love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="898">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllEars.Net" />
+                                </span>
+                                <a href='http://allears.net/wp-content/uploads/2019/08/haunted-mansion-larry-dotson-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2023/08/Haunted-Mansion-Wallpapers-Hitchhiking-Ghosts.jpg' alt='New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2023/08/Haunted-Mansion-Wallpapers-Hitchhiking-Ghosts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Haunted Mansion Wallpaper Repeating Pattern, Digital File, for creating  your Screen wallpaper or for Use in 3d modeling-Download Now!!">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26627443/r/il/91f962/3821335824/il_570xN.3821335824_pe7d.jpg' alt='The Haunted Mansion Wallpaper Repeating Pattern, Digital File, for creating  your Screen wallpaper or for Use in 3d modeling-Download Now!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26627443/r/il/91f962/3821335824/il_570xN.3821335824_pe7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TIL that the Haunted Mansion wallpaper is actually periwinkle blue ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/til-that-the-haunted-mansion-wallpaper-is-actually-v0-ft0s1zr5jqyb1.jpg?auto=webp&s=d037d867a9b09022825552a3c8e0d579e437c298' alt='TIL that the Haunted Mansion wallpaper is actually periwinkle blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/til-that-the-haunted-mansion-wallpaper-is-actually-v0-ft0s1zr5jqyb1.jpg?auto=webp&s=d037d867a9b09022825552a3c8e0d579e437c298' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Fine Art - Haunted Mansion">
+                                <img itemprop="contentUrl url" src='https://www.biggsltd.com/cdn/shop/products/GonzalezRodelHauntedMansion30x24SN_1024x1024_2x_70131b22-89b5-4668-bef7-13761662c9ad.jpg?v=1654779235' alt='Disney Fine Art - Haunted Mansion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biggs Ltd" />
+                                </span>
+                                <a href='https://www.biggsltd.com/cdn/shop/products/GonzalezRodelHauntedMansion30x24SN_1024x1024_2x_70131b22-89b5-4668-bef7-13761662c9ad.jpg?v=1654779235' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="haunted mansion Wallpaper High res colour 2 | This is the hi… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3647/3611073942_185694865b_b.jpg' alt='haunted mansion Wallpaper High res colour 2 | This is the hi… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3647/3611073942_185694865b_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD disneyland haunted mansion wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/569/138/HD-wallpaper-hatbox-ghost-2-black-cartoon-disney-disneyland-haunted-mansion-purple.jpg' alt='HD disneyland haunted mansion wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/569/138/HD-wallpaper-hatbox-ghost-2-black-cartoon-disney-disneyland-haunted-mansion-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/23_SM_Haunted-Mansion-Wallpaper_Op01_2880x1800-scaled.jpg' alt='New Disney Haunted Mansion Wallpapers Featuring Hitchhiking Ghosts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/23_SM_Haunted-Mansion-Wallpaper_Op01_2880x1800-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion iPhone wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/e4/ff/38e4ff02b2cc7b1df47b69c00a49880b.jpg' alt='Haunted Mansion iPhone wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/e4/ff/38e4ff02b2cc7b1df47b69c00a49880b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

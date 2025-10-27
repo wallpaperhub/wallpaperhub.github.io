@@ -1,0 +1,129 @@
+<title>Country Music Aesthetic Wallpaper: Rustic & Cozy Vibes</title>
+                    <meta name="description" content="Discover the perfect country music aesthetic wallpaper to elevate your home decor. Embrace rustic beauty with designs featuring vintage country elements, creating a cozy atmosphere that reflects your love for the genre. Perfect for any space, find the wallpaper that speaks to your soul!">
+                    <meta name="keywords" content="country music aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/country-music-aesthetic-wallpaper">
+                            <span itemprop="name">country music aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Country Music Aesthetic Wallpaper: Rustic & Cozy Vibes</h1>
+                <p>Transform your space with country music aesthetic wallpaper that resonates with your love for rustic charm and heartfelt melodies. Featuring visuals like cowboy boots, vintage guitars, and serene landscapes, these wallpapers evoke warmth and nostalgia, making your room a true reflection of your country spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country music   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/79/50/3a795040030534ede3b8be4a349d7c1d.jpg' alt='Country music   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/79/50/3a795040030534ede3b8be4a349d7c1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Music Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/fb/18/1efb187d26c849cc2542d0b7de41f92a.jpg' alt='Country Music Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/fb/18/1efb187d26c849cc2542d0b7de41f92a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Music Album Covers Wallpaper, Country Music Lovers Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38094285/r/il/4c0086/5774163580/il_fullxfull.5774163580_6xly.jpg' alt='Country Music Album Covers Wallpaper, Country Music Lovers Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2640">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38094285/r/il/4c0086/5774163580/il_fullxfull.5774163580_6xly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Wallpaper        ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4b/cc/8e/4bcc8ec5cb5c89c89ae2a964e807eea6.jpg' alt='Country Wallpaper        '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4b/cc/8e/4bcc8ec5cb5c89c89ae2a964e807eea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="country music wallpapers | Gallery posted by Aquateal06 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7371609176570905094&index=0&sign=d5c83acace35f93f6fc2fb33999ec0c6' alt='country music wallpapers | Gallery posted by Aquateal06 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7371609176570905094&index=0&sign=d5c83acace35f93f6fc2fb33999ec0c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,849 Country Music Wallpaper Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/acoustic-guitar-cowboy-hat-boots-600nw-2226107243.jpg' alt='5,849 Country Music Wallpaper Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/acoustic-guitar-cowboy-hat-boots-600nw-2226107243.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country music        #collage #aesthetics #countryaesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/49/3b/a7493ba335b8213d6bcb385cea484c64.jpg' alt='Country music        #collage #aesthetics #countryaesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/49/3b/a7493ba335b8213d6bcb385cea484c64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Country_ Music_ Collage_ Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/country-music-collage-aesthetic-3sbs41ryzlks6uph.jpg' alt='Download Country_ Music_ Collage_ Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/country-music-collage-aesthetic-3sbs41ryzlks6uph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Music Album Covers Wallpaper, Country Music Lovers Modern Wall  décor, Vinyl Record Covers Aesthetic Collage Wallpaper #86">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/Room_11_Video_1_f8kvjo.jpg' alt='Country Music Album Covers Wallpaper, Country Music Lovers Modern Wall  décor, Vinyl Record Covers Aesthetic Collage Wallpaper #86'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/Room_11_Video_1_f8kvjo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Morgan Wallen Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/morgan-wallen-inspired-collage-akvmrro60wra0ht0.jpg' alt='100+] Morgan Wallen Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/morgan-wallen-inspired-collage-akvmrro60wra0ht0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Melanin Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Discover elegant melanin wallpaper that celebrates diversity and enhances your home. With various designs, these stylish wall coverings offer warmth and personality to any room, perfect for showcasing your individuality. Transform your space today!">
+                    <meta name="keywords" content="melanin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/melanin-wallpaper">
+                            <span itemprop="name">melanin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Melanin Wallpaper for Modern Decor</h1>
+                <p>Melanin wallpaper adds a touch of elegance and sophistication to your space. This unique wallcovering not only enhances visual appeal but also celebrates diversity and inclusion. Available in various colors and patterns, melanin wallpaper is perfect for bringing warmth and personality to any room, making it a stylish choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Melanin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/melanin-b9xd7kjvua204mwh.jpg' alt='100+] Melanin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/melanin-b9xd7kjvua204mwh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="melanin wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/aa/6f/69/aa6f690eec618b461a987a2740ddd81b.jpg' alt='melanin wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/aa/6f/69/aa6f690eec618b461a987a2740ddd81b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanin Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/KSAOdfXIIIxWQZkHgzg0bytVKUxVKiwwnPnk4q7UkN5ssEhneBnkLvLcdvP_hV2mZVY' alt='Melanin Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/KSAOdfXIIIxWQZkHgzg0bytVKUxVKiwwnPnk4q7UkN5ssEhneBnkLvLcdvP_hV2mZVY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Melanin Queen wallpaper or photo widget icon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/15/a0/5b15a08a616191cf06c89ba9e421232d.jpg' alt='Custom Melanin Queen wallpaper or photo widget icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/15/a0/5b15a08a616191cf06c89ba9e421232d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Melanin Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-girl-melanin-lzvywzefacmz5fn0-2.jpg' alt='Black Girl Melanin Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-girl-melanin-lzvywzefacmz5fn0-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Baddie With Melanin Poppin' Sweater Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-girl-baddie-with-melanin-poppin-sweater-5fu9kqkyq84fkmfs.jpg' alt='Black Girl Baddie With Melanin Poppin' Sweater Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-girl-baddie-with-melanin-poppin-sweater-5fu9kqkyq84fkmfs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="melanin wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/61/73/25/61732541add79d74d9712416fafafe1f.jpg' alt='melanin wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/61/73/25/61732541add79d74d9712416fafafe1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Melanin Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/melanin-orh0b7pbta2b6cvx.jpg' alt='Download Aesthetic Melanin Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/melanin-orh0b7pbta2b6cvx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanin Wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aNIgoAEfL.png' alt='Melanin Wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aNIgoAEfL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanin Wallpaper 1.0 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/melanin-wallpaper/00/00/0H/DI/00000HDINA/pad_screenshot.png' alt='Melanin Wallpaper 1.0 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/melanin-wallpaper/00/00/0H/DI/00000HDINA/pad_screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

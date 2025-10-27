@@ -1,0 +1,129 @@
+<title>The Ultimate Car Show: Experience Automotive Excellence!</title>
+                    <meta name="description" content="Get ready for the ultimate car show! Join us for an unforgettable day of stunning vehicles, community, and entertainment on [date] at [venue]. Perfect for car lovers of all types! Bring your friends and family for an exciting day out. Don’t miss the action; mark your calendars!">
+                    <meta name="keywords" content="car show flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/car-show-flyer">
+                            <span itemprop="name">car show flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Ultimate Car Show: Experience Automotive Excellence!</h1>
+                <p>Join us for the ultimate car show! Experience the thrill of automotive excellence on [date] at [venue]. Witness stunning car displays, meet fellow enthusiasts, and enjoy food trucks and live entertainment. Whether you're a classic car lover or a fan of modern machines, there's something for everyone. Don’t miss out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Classic Car Show Flyer Template - FlyerHeroes">
+                                <img itemprop="contentUrl url" src='https://flyerheroes.com/wp-content/uploads/edd/2017/03/Old-Classic-Car-show-flyer-FH-1-1.jpg' alt='Old Classic Car Show Flyer Template - FlyerHeroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlyerHeroes" />
+                                </span>
+                                <a href='https://flyerheroes.com/wp-content/uploads/edd/2017/03/Old-Classic-Car-show-flyer-FH-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car Show Flyer Printable, Classic Car Show, Automobile, Auto Classics, Car  Club, Community Activity, Flyer Design Marketing Handout 8.5x11">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10310739/r/il/ec7be2/3351346758/il_fullxfull.3351346758_snc6.jpg' alt='Car Show Flyer Printable, Classic Car Show, Automobile, Auto Classics, Car  Club, Community Activity, Flyer Design Marketing Handout 8.5x11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10310739/r/il/ec7be2/3351346758/il_fullxfull.3351346758_snc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free car show flyer templates to edit and print | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF46GXmeRg/1/0/1131w/canva-black-and-red-illustrative-car-show-flyer-Q1E7o2MtnL8.jpg' alt='Free car show flyer templates to edit and print | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF46GXmeRg/1/0/1131w/canva-black-and-red-illustrative-car-show-flyer-Q1E7o2MtnL8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Free Car Show Flyer Templates & Designs ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2020/04/car-show-flyer-39.jpg' alt='47 Free Car Show Flyer Templates & Designs ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2020/04/car-show-flyer-39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car Show Flyer Template - FlyerHeroes">
+                                <img itemprop="contentUrl url" src='https://flyerheroes.com/wp-content/uploads/edd/2016/02/Car-Show-Flyer-Template-FH-1.jpg' alt='Car Show Flyer Template - FlyerHeroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlyerHeroes" />
+                                </span>
+                                <a href='https://flyerheroes.com/wp-content/uploads/edd/2016/02/Car-Show-Flyer-Template-FH-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car Show Flyer Printable, Classic Car Show, Automobile, Auto Classics Car  Club, Community Activity, Fundraiser Flyer Design, Handout 8.5x11">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10310739/r/il/aa7231/4722330673/il_fullxfull.4722330673_j3n0.jpg' alt='Car Show Flyer Printable, Classic Car Show, Automobile, Auto Classics Car  Club, Community Activity, Fundraiser Flyer Design, Handout 8.5x11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10310739/r/il/aa7231/4722330673/il_fullxfull.4722330673_j3n0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Car Show Flyer Graphics, Designs & Templates">
+                                <img itemprop="contentUrl url" src='https://market-resized.envatousercontent.com/previews/files/212457799/preview.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=c57048e65a511193fe45007ba3849ab2cddcd543632af3d046a833043e9ced06' alt='Classic Car Show Flyer Graphics, Designs & Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicRiver" />
+                                </span>
+                                <a href='https://market-resized.envatousercontent.com/previews/files/212457799/preview.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=c57048e65a511193fe45007ba3849ab2cddcd543632af3d046a833043e9ced06' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car show event flyer template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/car-show-event-flyer-template-design-1ff7d589ec31291a18f06cea04f6a51c_screen.jpg?ts=1700818234' alt='Car show event flyer template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/car-show-event-flyer-template-design-1ff7d589ec31291a18f06cea04f6a51c_screen.jpg?ts=1700818234' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Car Show Poster Template Free Printable">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/da/e6/d5dae69e5b38ec26b49dbb4bee613e58.jpg' alt='Classic Car Show Poster Template Free Printable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/da/e6/d5dae69e5b38ec26b49dbb4bee613e58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Georgia Technical College to sponsor a free Car Show - SGTC">
+                                <img itemprop="contentUrl url" src='https://www.southgatech.edu/wp-content/uploads/2024/05/Fathers-Day-Car-Show-2024-003.jpg' alt='South Georgia Technical College to sponsor a free Car Show - SGTC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Georgia Technical College" />
+                                </span>
+                                <a href='https://www.southgatech.edu/wp-content/uploads/2024/05/Fathers-Day-Car-Show-2024-003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

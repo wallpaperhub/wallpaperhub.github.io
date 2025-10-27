@@ -1,0 +1,129 @@
+<title>Top Basketball Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the ultimate basketball wallpapers for your iPhone! Browse our diverse selection that perfectly blends style and passion for the game. Perfect for fans and players alike, these wallpapers will add a vibrant touch to your device. Download easy and showcase your love for basketball today!">
+                    <meta name="keywords" content="iphone:n1dpgcyzqgw= wallpaper basketball">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonen1dpgcyzqgw-wallpaper-basketball">
+                            <span itemprop="name">iphone:n1dpgcyzqgw= wallpaper basketball</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Basketball Wallpapers for iPhone</h1>
+                <p>Looking to elevate your iPhone's aesthetics? Explore our stunning collection of basketball-themed wallpapers, perfect for fans of the game. Whether you're into slam dunks or three-point shots, our wallpapers capture the essence of basketball, making your device truly unique. Download now and show your love for basketball!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Nba Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' alt='200+] Nba Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba Full Hupages iPhone . Nba, Basketball, Basketball, Black and ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/913/332/HD-wallpaper-nba-full-hupages-iphone-nba-basketball-basketball-black-and-white-sports.jpg' alt='Nba Full Hupages iPhone . Nba, Basketball, Basketball, Black and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/913/332/HD-wallpaper-nba-full-hupages-iphone-nba-basketball-basketball-black-and-white-sports.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball iPhone Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/c0/f9/39c0f916802998216115e83820709bd4.jpg' alt='Basketball iPhone Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/c0/f9/39c0f916802998216115e83820709bd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Basketball Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-shaq-cool-basketball-iphone-30uwlxm9tz70ib7c.jpg' alt='100+] Cool Basketball Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-shaq-cool-basketball-iphone-30uwlxm9tz70ib7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA Basketball iPhone 8 Wallpaper - 2025 Basketball Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/9f/6b/209f6b14f270288437fa6f5de81d6097.jpg' alt='NBA Basketball iPhone 8 Wallpaper - 2025 Basketball Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/9f/6b/209f6b14f270288437fa6f5de81d6097.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4970742.jpg' alt='Basketball iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4970742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball iPhone Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/f7/f8/4bf7f86ebb1b8da238cf44c719dc3bd1.jpg' alt='Basketball iPhone Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/f7/f8/4bf7f86ebb1b8da238cf44c719dc3bd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Basketball Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-vs-kobe-cool-basketball-iphone-8n2gyik6lltf3r2p.jpg' alt='200+] Basketball Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-vs-kobe-cool-basketball-iphone-8n2gyik6lltf3r2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Basketball Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/caption-slam-dunk-technology-high-energy-basketball-iphone-background-qx9diog1rx2urrcc.jpg' alt='200+] Basketball Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/caption-slam-dunk-technology-high-energy-basketball-iphone-background-qx9diog1rx2urrcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Basketball Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-basketball-iphone-moimkcydm9sfjb2s.jpg' alt='100+] Cool Basketball Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-basketball-iphone-moimkcydm9sfjb2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

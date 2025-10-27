@@ -1,0 +1,129 @@
+<title>Awesome YouTube Channel Art Backgrounds (2560x1440)</title>
+                    <meta name="description" content="Explore the best 2560x1440 YouTube channel art backgrounds. Enhance your channel's visual appeal with unique designs that reflect your brand. Discover vibrant, trendy options optimized for mobile and desktop to engage viewers and boost subscriptions. Transform your channel's identity today!">
+                    <meta name="keywords" content="youtube channel art backgrounds 2560x1440">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/youtube-channel-art-backgrounds-2560x1440">
+                            <span itemprop="name">youtube channel art backgrounds 2560x1440</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome YouTube Channel Art Backgrounds (2560x1440)</h1>
+                <p>Discover stunning YouTube channel art backgrounds in the ideal size of 2560x1440 pixels. Elevate your channel's aesthetic with high-quality, eye-catching designs that resonate with your brand. Whether you prefer vibrant colors, minimalistic styles, or nature vibes, find the perfect background to attract subscribers and enhance your channel's identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youtube Channel Art 2560x1440 Template Background, Channel Art ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-youtube-channel-art-2560x1440-template-picture-image_1596345.jpg' alt='Youtube Channel Art 2560x1440 Template Background, Channel Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-youtube-channel-art-2560x1440-template-picture-image_1596345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="youtube banner template 2560x1440 free downlo | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-banner-template-2560x1440-free-downlo-design-a8b8267e1f36ec2a786b7fc67929206e_screen.jpg?ts=1695213079' alt='youtube banner template 2560x1440 free downlo | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-banner-template-2560x1440-free-downlo-design-a8b8267e1f36ec2a786b7fc67929206e_screen.jpg?ts=1695213079' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Youtube Banner Background No Text 2560x1440, Youtube Banner ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20221128/original/pngtree-luxury-youtube-banner-background-no-text-2560x1440-picture-image_1965483.jpg' alt='Luxury Youtube Banner Background No Text 2560x1440, Youtube Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20221128/original/pngtree-luxury-youtube-banner-background-no-text-2560x1440-picture-image_1965483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youtube Banner Wallpaper In Youtube Banner Template - 2560 X 1440 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/23/f6/0b23f6a851076df86fddf2c77399c53c.jpg' alt='Youtube Banner Wallpaper In Youtube Banner Template - 2560 X 1440 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/23/f6/0b23f6a851076df86fddf2c77399c53c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for 2560x1440 banners for youtube | Resimler, Süper ikili,  Samana">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/69/c3/aa/69c3aa424ee197a88eb4a91637d73fe4.jpg' alt='Image result for 2560x1440 banners for youtube | Resimler, Süper ikili,  Samana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/69/c3/aa/69c3aa424ee197a88eb4a91637d73fe4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youtube Channel Art 2560x1440 Background Template, Youtube Channel ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20221008/original/pngtree-youtube-channel-art-2560x1440-background-template-picture-image_1920018.jpg' alt='Youtube Channel Art 2560x1440 Background Template, Youtube Channel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20221008/original/pngtree-youtube-channel-art-2560x1440-background-template-picture-image_1920018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Killer YouTube Channel Art - @RebeccaColeman">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/rebeccacoleman.ca/wp-content/uploads/2017/10/Channel-Art-Template-Fireworks.png' alt='How to Make Killer YouTube Channel Art - @RebeccaColeman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebecca Coleman" />
+                                </span>
+                                <a href='https://i0.wp.com/rebeccacoleman.ca/wp-content/uploads/2017/10/Channel-Art-Template-Fireworks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Green Youtube Banner Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/creative-green-youtube-banner-vaklljlbu2cpsgrj.jpg' alt='Creative Green Youtube Banner Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/creative-green-youtube-banner-vaklljlbu2cpsgrj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2560 x 1440 YouTube Channel Art Template — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/templates/youtube-channel-art-template-thumbnail-0ce47144.webp' alt='2560 x 1440 YouTube Channel Art Template — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/templates/youtube-channel-art-template-thumbnail-0ce47144.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Youtube Banner Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/youtube-banner-background-tegssamq3s2b1of4.jpg' alt='100+] Youtube Banner Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/youtube-banner-background-tegssamq3s2b1of4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding FedEx Background Check Disqualifiers</title>
+                    <meta name="description" content="Learn about FedEx background check disqualifiers that could impact your job application. From felony convictions to employment history issues, stay informed to boost your chances of securing a position with FedEx. Get the insights you need to navigate the hiring process effectively.">
+                    <meta name="keywords" content="fedex background check disqualifiers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fedex-background-check-disqualifiers">
+                            <span itemprop="name">fedex background check disqualifiers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding FedEx Background Check Disqualifiers</h1>
+                <p>When applying for a position at FedEx, be aware of background check disqualifiers that may affect job eligibility. Key disqualifiers often include felony convictions, history of theft or fraud, and certain driving offenses. Drug-related charges and inconsistent employment history can also be problematic, as FedEx prioritizes safety and integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fedex background check disqualifiers - Dulin Law Firm ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pemJU70vLzk/maxresdefault.jpg' alt='Fedex background check disqualifiers - Dulin Law Firm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dulin Law Firm" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pemJU70vLzk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fedex background check disqualifiers - Dulin Law Firm ...">
+                                <img itemprop="contentUrl url" src='https://dulinlawfirm.net/wp-content/uploads/2024/03/FedEx-1024x682.webp' alt='Fedex background check disqualifiers - Dulin Law Firm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dulin Law Firm" />
+                                </span>
+                                <a href='https://dulinlawfirm.net/wp-content/uploads/2024/03/FedEx-1024x682.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FedEx Background Check: What is it with Tips to Clear It">
+                                <img itemprop="contentUrl url" src='https://synkdup.com/_next/image?url=https%3A%2F%2Fdgifxh1erilam.cloudfront.net%2Fimage%2Ffedex-background-check.jpg&w=3840&q=75' alt='FedEx Background Check: What is it with Tips to Clear It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Synkdup.Com" />
+                                </span>
+                                <a href='https://synkdup.com/_next/image?url=https%3A%2F%2Fdgifxh1erilam.cloudfront.net%2Fimage%2Ffedex-background-check.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your FedEx Background Check Wrong? - We Can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/66445ed472d1b.webp' alt='Was Your FedEx Background Check Wrong? - We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/66445ed472d1b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rejected for a package handler position : r/Fedexers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rejected-for-a-package-handler-position-v0-clvopcrvikbb1.jpg?width=640&crop=smart&auto=webp&s=47ded6ed810d3d461b8521a6116314d6dc89226d' alt='Rejected for a package handler position : r/Fedexers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rejected-for-a-package-handler-position-v0-clvopcrvikbb1.jpg?width=640&crop=smart&auto=webp&s=47ded6ed810d3d461b8521a6116314d6dc89226d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your FedEx Background Check Wrong? - We Can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2Facafar3r3eascasa.webp&w=1920&q=75' alt='Was Your FedEx Background Check Wrong? - We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2Facafar3r3eascasa.webp&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FedEx Background Check Disqualifiers - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aEzNUeG8IXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFDb3bJWUKgacwZeUMiJc9Y6TNXA' alt='FedEx Background Check Disqualifiers - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aEzNUeG8IXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFDb3bJWUKgacwZeUMiJc9Y6TNXA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FedEx Background Check: Read This Before You Apply (Felon or Not)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Fedex-Background-Check-Featured-Image.png' alt='FedEx Background Check: Read This Before You Apply (Felon or Not)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Fedex-Background-Check-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Received an offer and completed background check from a local ...">
+                                <img itemprop="contentUrl url" src='https://styles.redditmedia.com/t5_2au4lz/styles/communityIcon_lqr1bzh1kv641.jpg?format=pjpg&s=960b3cd0d707590f5e7cd2adf8f129275e33508f' alt='Received an offer and completed background check from a local ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://styles.redditmedia.com/t5_2au4lz/styles/communityIcon_lqr1bzh1kv641.jpg?format=pjpg&s=960b3cd0d707590f5e7cd2adf8f129275e33508f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First time applying for package handler and I already got my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/first-time-applying-for-package-handler-and-i-already-got-v0-5zw5jzq5oaod1.jpeg?width=1080&format=pjpg&auto=webp&s=684944273479bcae103f6edc6df9d84ca96b3b0b' alt='First time applying for package handler and I already got my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/first-time-applying-for-package-handler-and-i-already-got-v0-5zw5jzq5oaod1.jpeg?width=1080&format=pjpg&auto=webp&s=684944273479bcae103f6edc6df9d84ca96b3b0b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Heart Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful heart wallpapers for your iPhone that bring style and emotion to your screen. Perfect for romantic vibes or a personal touch, browse our selection of vibrant designs to find the one that speaks to your heart. Upgrade your device's look today!">
+                    <meta name="keywords" content="iphone:0odpoxn9fea= heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/iphone0odpoxn9fea-heart-wallpaper">
+                            <span itemprop="name">iphone:0odpoxn9fea= heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Heart Wallpapers for iPhone</h1>
+                <p>Experience love every time you glance at your device with stunning heart wallpapers for your iPhone. Transform your screen with vibrant designs that celebrate feelings and emotions. From classic red hearts to modern artistic interpretations, find the perfect wallpaper to express your style and affection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Heart Wallpaper iPhone High Quality Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/bd/f1/d8bdf130acc98edd7019d69e767a8b1d.jpg' alt='17 Heart Wallpaper iPhone High Quality Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/bd/f1/d8bdf130acc98edd7019d69e767a8b1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2f/d1/70/2fd17058aa4f8ac14cfe0f9d26783fef.jpg' alt='19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2f/d1/70/2fd17058aa4f8ac14cfe0f9d26783fef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart wallpaper | Heart iphone wallpaper, Pretty wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/e2/7c/f1e27c43bea091e07d553fbd88de4474.jpg' alt='Heart wallpaper | Heart iphone wallpaper, Pretty wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/e2/7c/f1e27c43bea091e07d553fbd88de4474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡ Heart, paired wallpaper ♡ | Simple phone wallpapers, Simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/60/03/6c/60036cd263eebd791b2cd43fe143717c.jpg' alt='♡ Heart, paired wallpaper ♡ | Simple phone wallpapers, Simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/60/03/6c/60036cd263eebd791b2cd43fe143717c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/a2/fc/4da2fcbcd083e8340581e86c6676ee11.jpg' alt='pink heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/a2/fc/4da2fcbcd083e8340581e86c6676ee11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Valentine's Complete Heart left & Right iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36437479/r/il/db13db/4494067836/il_fullxfull.4494067836_qwh8.jpg' alt='Happy Valentine's Complete Heart left & Right iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36437479/r/il/db13db/4494067836/il_fullxfull.4494067836_qwh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone hearts wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/160/359/HD-wallpaper-hearts-heart-flower-iphone-romantic-heart-design-simple.jpg' alt='HD iphone hearts wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/160/359/HD-wallpaper-hearts-heart-flower-iphone-romantic-heart-design-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/12/5d/35/125d3562ee1b042c76567c3fda52ad68.jpg' alt='19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/12/5d/35/125d3562ee1b042c76567c3fda52ad68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/91/b4/15/91b415bb56e0292a1b1413ca85c506ab.jpg' alt='19 Heart iPhone Wallpaper ideas | iphone wallpaper, heart iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/91/b4/15/91b415bb56e0292a1b1413ca85c506ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Heart iphone wallpaper ideas | heart iphone wallpaper, heart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/19/e3/03/19e30355f3bb726fe2c45a39255d9093.jpg' alt='28 Heart iphone wallpaper ideas | heart iphone wallpaper, heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/19/e3/03/19e30355f3bb726fe2c45a39255d9093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

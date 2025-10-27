@@ -1,0 +1,129 @@
+<title>Top Anime Wallpapers for Your Phone: Aesthetic & Vibrant</title>
+                    <meta name="description" content="Explore the best anime wallpapers for smartphones! Find high-quality, visually striking images of iconic characters and breathtaking scenes. Perfect for any anime lover looking to personalize their phone. Download your favorite wallpapers and transform your device today!">
+                    <meta name="keywords" content="anime wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/anime-wallpaper-for-phone">
+                            <span itemprop="name">anime wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Anime Wallpapers for Your Phone: Aesthetic & Vibrant</h1>
+                <p>Discover a stunning variety of anime wallpapers for your phone! Whether you love vibrant action scenes or serene landscapes, our collection has something for every anime fan. Personalize your device with high-quality images of your favorite characters and shows. Upgrade your screen's aesthetic with unique and vibrant anime art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/93/a9/a093a915f1336bc45fbd7ab2990bd6a0.jpg' alt='83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/93/a9/a093a915f1336bc45fbd7ab2990bd6a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Anime Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' alt='300+] Anime Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Anime phone wallpaper ideas in 2025 | anime, anime wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/f5/2a/22f52a620d88e9109b72ceeb3583a8a5.jpg' alt='240 Anime phone wallpaper ideas in 2025 | anime, anime wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="1751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/f5/2a/22f52a620d88e9109b72ceeb3583a8a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Dont Touch My Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-dont-touch-my-phone-l84bn3qfwywho4dt.jpg' alt='100+] Anime Dont Touch My Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-dont-touch-my-phone-l84bn3qfwywho4dt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some anime wallpapers I found. I hope you like them : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wwh645e874c71.gif?width=500&auto=webp&s=4b5c3c7ad53e5655c78255d875975ed31e666c6c' alt='Here are some anime wallpapers I found. I hope you like them : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wwh645e874c71.gif?width=500&auto=webp&s=4b5c3c7ad53e5655c78255d875975ed31e666c6c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime wallpaper 2025 phone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-aesthetic-anime-phone-xwmchz957c398dor.jpg' alt='Anime wallpaper 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-aesthetic-anime-phone-xwmchz957c398dor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Waterfall From Above Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-anime-girl-on-roof-with-fireflies-phone-p85fke2kghfa0iwl.webp' alt='Aesthetic Anime Waterfall From Above Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-anime-girl-on-roof-with-fireflies-phone-p85fke2kghfa0iwl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime phone boy wallpaper by Aralc_64 - Download on ZEDGE™ | 698f">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=ZrveBebj_rOp0AotDanTM56Lt-GVMVa0iPExpRSznRkGv3GmD8ekRnPZus1_h7-Vwmrk7jmUO__U2Q9ySfNjbgF1H4pOrrSkePIVDUESrXFdtSgmy_4vFv35yBqC15M3SeaWIPR6vRaZbq6zRg-hLx4qIfYzdn9aBbry27yU9MUakGjIQCGKn7g7Ugiz5neHlHZSEk_0ho3dvJJO9umRW3qtJKxdtrYe_3IfnQ' alt='Anime phone boy wallpaper by Aralc_64 - Download on ZEDGE™ | 698f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=ZrveBebj_rOp0AotDanTM56Lt-GVMVa0iPExpRSznRkGv3GmD8ekRnPZus1_h7-Vwmrk7jmUO__U2Q9ySfNjbgF1H4pOrrSkePIVDUESrXFdtSgmy_4vFv35yBqC15M3SeaWIPR6vRaZbq6zRg-hLx4qIfYzdn9aBbry27yU9MUakGjIQCGKn7g7Ugiz5neHlHZSEk_0ho3dvJJO9umRW3qtJKxdtrYe_3IfnQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Anime Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-phone-ppvo949a646aq3mo.jpg' alt='300+] Anime Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-phone-ppvo949a646aq3mo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

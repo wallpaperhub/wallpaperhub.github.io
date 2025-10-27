@@ -1,0 +1,129 @@
+<title>Heartbreak HD Wallpapers: Express Your Emotions</title>
+                    <meta name="description" content="Discover a curated selection of HD wallpapers featuring broken hearts, designed to reflect your emotions beautifully. Ideal for anyone seeking to convey their feelings through striking visuals. Browse now to find the perfect wallpaper for your device! Create a memorable background that speaks to your heart.">
+                    <meta name="keywords" content="broken heart wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/broken-heart-wallpaper-hd">
+                            <span itemprop="name">broken heart wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartbreak HD Wallpapers: Express Your Emotions</h1>
+                <p>Explore a collection of stunning HD wallpapers depicting broken hearts, perfect for expressing feelings of love and loss. These high-resolution images capture the essence of heartache, allowing you to personalize your device with art that resonates emotionally. Find the perfect backdrop for your mood today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shattered by the Reality of a Broken Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-heart-iphone-g7dyt0asm02ue9g5.jpg' alt='Download Shattered by the Reality of a Broken Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-heart-iphone-g7dyt0asm02ue9g5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart, alone, broken, heart, hurt, love, ok, sad, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/09/a1/ca/09a1ca5ca682e77bb37c45f7da98c825.jpg' alt='Broken heart, alone, broken, heart, hurt, love, ok, sad, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/09/a1/ca/09a1ca5ca682e77bb37c45f7da98c825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alone broken Heart, alone, black, broken, emotional, heart, lonely ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/98/75/f4987572d0f32c412e7d4169a45c869f.jpg' alt='Alone broken Heart, alone, black, broken, emotional, heart, lonely ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/98/75/f4987572d0f32c412e7d4169a45c869f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart HD 4K Wallpapers | HD Wallpapers | ID #27169">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/broken_heart_hd_4k-1440x2560.jpg' alt='Broken Heart HD 4K Wallpapers | HD Wallpapers | ID #27169'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/broken_heart_hd_4k-1440x2560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broken Heart Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-heart-iphone-ntvha1fjgd2n08bc.jpg' alt='100+] Broken Heart Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-heart-iphone-ntvha1fjgd2n08bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ Best Broken Heart Images · 100% Free Download · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1988698/pexels-photo-1988698.jpeg?cs=srgb&dl=pexels-isabellamariana-1988698.jpg&fm=jpg' alt='8,000+ Best Broken Heart Images · 100% Free Download · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="3888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1988698/pexels-photo-1988698.jpeg?cs=srgb&dl=pexels-isabellamariana-1988698.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartbroken, amoled, broken heart, heart, sad, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/434/178/HD-wallpaper-heartbroken-amoled-broken-heart-heart-sad.jpg' alt='Heartbroken, amoled, broken heart, heart, sad, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/434/178/HD-wallpaper-heartbroken-amoled-broken-heart-heart-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/16/25/fa1625d1640acdc815efe00c5d7b3b62.jpg' alt='Broken Heart Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/16/25/fa1625d1640acdc815efe00c5d7b3b62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L2Z0LTExMDQyNC1mcmVlc3R5bGUxLXRhLTAwMWEtc3RvcnkuanBn.jpg' alt='Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L2Z0LTExMDQyNC1mcmVlc3R5bGUxLXRhLTAwMWEtc3RvcnkuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartbreak Wallpaper 4K, Minimalist, 5K, AMOLED">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/heartbreak-1080x1920-14146.png' alt='Heartbreak Wallpaper 4K, Minimalist, 5K, AMOLED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/heartbreak-1080x1920-14146.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

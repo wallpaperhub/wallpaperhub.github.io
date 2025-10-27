@@ -1,0 +1,129 @@
+<title>Stunning iPhone 11 Default Wallpapers: A Visual Treat</title>
+                    <meta name="description" content="Discover the iPhone 11's stunning default wallpaper that combines a vibrant gradient with a sleek aesthetic. Perfect for enhancing your device's look and feel, this wallpaper exemplifies style and sophistication, making your iPhone stand out effortlessly.">
+                    <meta name="keywords" content="iphone 11 default wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-11-default-wallpaper">
+                            <span itemprop="name">iphone 11 default wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 11 Default Wallpapers: A Visual Treat</h1>
+                <p>The iPhone 11 default wallpaper is a stunning visual representation of elegance and simplicity. It features a beautifully serene gradient that transitions from vibrant yellow to a calming purple, perfectly showcasing the device's display capabilities. This wallpaper is a perfect background for any user, adding a touch of style to the iPhone experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the iPhone 11 and iPhone 11 Pro wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/09/iPhone-11-Wallpaper-1-YTECHB.png' alt='Download the iPhone 11 and iPhone 11 Pro wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="3113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/09/iPhone-11-Wallpaper-1-YTECHB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Stock Wallpaper 14 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/b6/c4/29b6c4300238ca393b4004ec5b91a87d.jpg' alt='iPhone 11 Stock Wallpaper 14 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/b6/c4/29b6c4300238ca393b4004ec5b91a87d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 HD Original Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5199378.png' alt='iPhone 11 HD Original Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5199378.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Purple (Dark) - Stock Wallpaper - Original from Apple ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1322.WP_Purple_Dark-414w-896h@2xiphone-1-768x1661.png' alt='iPhone 11 Purple (Dark) - Stock Wallpaper - Original from Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1322.WP_Purple_Dark-414w-896h@2xiphone-1-768x1661.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 11 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/553/348/HD-wallpaper-iphone-11-pro-11-apple-iphone-pro-thumbnail.jpg' alt='HD iphone 11 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/553/348/HD-wallpaper-iphone-11-pro-11-apple-iphone-pro-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 stock 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1312.WP_Black_Dark-414w-896h@2xiphone-1-473x1024.png' alt='Iphone 11 stock 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1312.WP_Black_Dark-414w-896h@2xiphone-1-473x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Stock Wallpaper 10 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/20/59/b320592cd7fb62617d89613077faeb5b.jpg' alt='iPhone 11 Stock Wallpaper 10 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/20/59/b320592cd7fb62617d89613077faeb5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 White (Dark) - Stock Wallpaper - Original from Apple ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1332.WP_White_Dark-414w-896h@2xiphone-1-473x1024.png' alt='iPhone 11 White (Dark) - Stock Wallpaper - Original from Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/1332.WP_White_Dark-414w-896h@2xiphone-1-473x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Apple iPhone 11 Stock Default Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-iphone-11-stock-default-pink-dark-bubbles-13-10-2024-1728884454-hd-wallpaper.png' alt='Most Popular Apple iPhone 11 Stock Default Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-iphone-11-stock-default-pink-dark-bubbles-13-10-2024-1728884454-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Central by @iSpazio on X: "iPhone 11 Purple (Dark ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EEMTj2IXYAA8uOH.jpg' alt='Wallpapers Central by @iSpazio on X: "iPhone 11 Purple (Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EEMTj2IXYAA8uOH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

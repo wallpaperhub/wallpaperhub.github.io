@@ -1,0 +1,129 @@
+<title>LDS Temple Wallpapers for iPhone: Inspiration at Your Fingertips</title>
+                    <meta name="description" content="Explore beautiful LDS Temple wallpapers for your iPhone! Personalize your device with inspiring images that uplift your spirit daily. Find the perfect wallpaper to reflect your faith and share the beauty of the gospel wherever you go. Download now and carry your inspiration with you!">
+                    <meta name="keywords" content="lds temple wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lds-temple-wallpaper-iphone">
+                            <span itemprop="name">lds temple wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LDS Temple Wallpapers for iPhone: Inspiration at Your Fingertips</h1>
+                <p>Transform your iPhone with stunning LDS Temple wallpapers that showcase the beauty of faith and inspiration. These wallpapers feature various temples, each radiating peace and tranquility. Perfect for personalizing your device while keeping your spiritual focus at the forefront. Discover the collection today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/28e075cd39403fd68e18c7ab77c21b9664ec6e85/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/28e075cd39403fd68e18c7ab77c21b9664ec6e85/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Mormon Temple iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/ce/97/bece97d75baeb235b40e7ae2ac058a38.jpg' alt='Awesome Mormon Temple iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/ce/97/bece97d75baeb235b40e7ae2ac058a38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Lds Temple Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1575914550597-50c184334c46?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGRzJTIwdGVtcGxlfGVufDB8fDB8fHww' alt='30,000+ Lds Temple Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1575914550597-50c184334c46?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGRzJTIwdGVtcGxlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome LDS Temple Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/7c/77/8c7c77bacf766866cfac6a0abeb0efac.jpg' alt='Awesome LDS Temple Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/7c/77/8c7c77bacf766866cfac6a0abeb0efac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Lake Temple in the Winter">
+                                <img itemprop="contentUrl url" src='https://www.churchofjesuschrist.org/imgs/cc76c90a0064a2444f405c64cde67ee39ab7e20f/full/1920%2C/0/default' alt='Salt Lake Temple in the Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://www.churchofjesuschrist.org/imgs/cc76c90a0064a2444f405c64cde67ee39ab7e20f/full/1920%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Mormon Temple iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/ed/5e/07ed5ee672c8f31eced192b531f16c9c.jpg' alt='Awesome Mormon Temple iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/ed/5e/07ed5ee672c8f31eced192b531f16c9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LDS Temple Cell Phone Wallpapers Nauvoo - Twin Falls">
+                                <img itemprop="contentUrl url" src='http://mylifebygogogoff.com/wp-content/uploads/2017/01/Nauvoo-Illinois.jpg.webp' alt='LDS Temple Cell Phone Wallpapers Nauvoo - Twin Falls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Life By Gogo Goff" />
+                                </span>
+                                <a href='http://mylifebygogogoff.com/wp-content/uploads/2017/01/Nauvoo-Illinois.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 IPhone wallpapers ideas | mormon temples, temple pictures, lds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c6/50/ce/c650ce0680d6dadb70d29606e196fd63.jpg' alt='22 IPhone wallpapers ideas | mormon temples, temple pictures, lds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c6/50/ce/c650ce0680d6dadb70d29606e196fd63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Lake City Utah Temple">
+                                <img itemprop="contentUrl url" src='https://www.churchofjesuschrist.org/imgs/91f72978620d6101375903141c161989b54a54f2/full/500%2C/0/default' alt='Salt Lake City Utah Temple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://www.churchofjesuschrist.org/imgs/91f72978620d6101375903141c161989b54a54f2/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spire of the Jordan River Utah Temple at Night, Blue Temple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/670/1014/HD-wallpaper-the-spire-of-the-jordan-river-utah-temple-at-night-blue-temple.jpg' alt='The Spire of the Jordan River Utah Temple at Night, Blue Temple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/670/1014/HD-wallpaper-the-spire-of-the-jordan-river-utah-temple-at-night-blue-temple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

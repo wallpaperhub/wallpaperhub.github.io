@@ -1,0 +1,129 @@
+<title>Cute Creamsicle Clipart for Fun Designs</title>
+                    <meta name="description" content="Discover adorable creamsicle clipart perfect for summer projects, kids' designs, or playful themes. Enhance your creative work with these vibrant, fun images that add a sweet touch to invitations, posters, and social media content. Get ready to brighten up your designs with our charming clipart collection!">
+                    <meta name="keywords" content="creamsicle clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/creamsicle-clipart">
+                            <span itemprop="name">creamsicle clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Creamsicle Clipart for Fun Designs</h1>
+                <p>Creamsicle clipart brings vibrant colors and a playful touch to your designs. Perfect for summer themes, children's projects, or any fun-related design, this delightful imagery captures the essence of the classic frozen treat. Use creamsicle clipart to add whimsy and charm to invitations, posters, and digital content!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Creamsicle- Instant digital download, PNG, JPG files, hand drawn,  popsicle, orange cream, dreamsicle, dessert, clipart">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30289585/r/il/d7f510/4686051552/il_fullxfull.4686051552_kikm.jpg' alt='Orange Creamsicle- Instant digital download, PNG, JPG files, hand drawn,  popsicle, orange cream, dreamsicle, dessert, clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30289585/r/il/d7f510/4686051552/il_fullxfull.4686051552_kikm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="018 orange creamsicle float sticker cool colors kawaii clip art ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/018-orange-creamsicle-float-sticker-cool-colors-kawaii-clip-art-illustration_296703-685.jpg?w=360' alt='018 orange creamsicle float sticker cool colors kawaii clip art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/018-orange-creamsicle-float-sticker-cool-colors-kawaii-clip-art-illustration_296703-685.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creamsicle Instant Digital Download, PNG, JPG, SVG Files, Hand Drawn,  Clipart - Etsy New Zealand">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30289585/r/il/e49802/3225429740/il_1080xN.3225429740_9kc5.jpg' alt='Creamsicle Instant Digital Download, PNG, JPG, SVG Files, Hand Drawn,  Clipart - Etsy New Zealand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30289585/r/il/e49802/3225429740/il_1080xN.3225429740_9kc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creamsicle Images – Browse 258,579 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/10/76/58/360_F_510765843_CCIoqyX3ifxwWN0ZXwAoU02HaCCzF67k.jpg' alt='Creamsicle Images – Browse 258,579 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="255">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/10/76/58/360_F_510765843_CCIoqyX3ifxwWN0ZXwAoU02HaCCzF67k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="018 orange creamsicle float sticker cool colors kawaii clip art ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/018-orange-creamsicle-float-sticker-cool-colors-kawaii-clip-art-illustration_296703-686.jpg' alt='018 orange creamsicle float sticker cool colors kawaii clip art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/018-orange-creamsicle-float-sticker-cool-colors-kawaii-clip-art-illustration_296703-686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Orange Creamsicle Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1397365390/vector/orange-fruit-ice-cream-orange-creamsicle-popsicle-sweet-delicious-frozen-summer-dessert-flat.jpg?s=612x612&w=0&k=20&c=cHTsCGqY8QVjNRtjP2O7KHe99OTMHWqklyHd2MUCsIQ=' alt='20+ Orange Creamsicle Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1397365390/vector/orange-fruit-ice-cream-orange-creamsicle-popsicle-sweet-delicious-frozen-summer-dessert-flat.jpg?s=612x612&w=0&k=20&c=cHTsCGqY8QVjNRtjP2O7KHe99OTMHWqklyHd2MUCsIQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Creamsicle | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1025279718.8876/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Orange Creamsicle | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1025279718.8876/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange creamsicle ice cream clip art illustration | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/orange-creamsicle-ice-cream-clip-art-illustration_296703-1241.jpg?w=360' alt='Orange creamsicle ice cream clip art illustration | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/orange-creamsicle-ice-cream-clip-art-illustration_296703-1241.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creamsicle by MorganCampillo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6904009b-4c13-42ec-82f8-35464ab6a2fb/d8wukr0-a1fe50d0-86c8-4d84-863a-ff97e97e286e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5MDQwMDliLTRjMTMtNDJlYy04MmY4LTM1NDY0YWI2YTJmYlwvZDh3dWtyMC1hMWZlNTBkMC04NmM4LTRkODQtODYzYS1mZjk3ZTk3ZTI4NmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4kztUIFTuV7tLN7KxKmjB_8KpwWMUODZYHy39yRmdQU' alt='Creamsicle by MorganCampillo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5906">
+                                <meta itemprop="height" content="9449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6904009b-4c13-42ec-82f8-35464ab6a2fb/d8wukr0-a1fe50d0-86c8-4d84-863a-ff97e97e286e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5MDQwMDliLTRjMTMtNDJlYy04MmY4LTM1NDY0YWI2YTJmYlwvZDh3dWtyMC1hMWZlNTBkMC04NmM4LTRkODQtODYzYS1mZjk3ZTk3ZTI4NmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4kztUIFTuV7tLN7KxKmjB_8KpwWMUODZYHy39yRmdQU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creamsicle Clipart Cute Ice Pop Has A Slice Of Orange In Front Of ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230913/original/pngtree-creamsicle-clipart-cute-ice-pop-has-a-slice-of-orange-in-png-image_11070850.png' alt='Creamsicle Clipart Cute Ice Pop Has A Slice Of Orange In Front Of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230913/original/pngtree-creamsicle-clipart-cute-ice-pop-has-a-slice-of-orange-in-png-image_11070850.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

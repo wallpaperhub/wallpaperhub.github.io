@@ -1,0 +1,129 @@
+<title>Clear Dish Soap: Effortless Cleaning & Eco-Friendly Solutions</title>
+                    <meta name="description" content="Shop our transparent background dish soap for effective cleaning! This eco-friendly solution effortlessly tackles tough grease and grime, ensuring your dishes shine. Discover the perfect addition to your kitchen for a spotless finish every time!">
+                    <meta name="keywords" content="dish soap transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dish-soap-transparent-background">
+                            <span itemprop="name">dish soap transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Clear Dish Soap: Effortless Cleaning & Eco-Friendly Solutions</h1>
+                <p>Discover the versatility of dish soap with a transparent background! Ideal for quick cleaning, our eco-friendly dish soap cuts through grease and grime effortlessly. It's perfect for everyday use, providing sparkling clean dishes without harmful chemicals. Experience the power of a clean kitchen with our stylish dish soap packaging!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish Soap PNG Images & PSDs for Download | PixelSquid - S117587149">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/dish-soap-liquid-EK8q0L9-600.jpg' alt='Dish Soap PNG Images & PSDs for Download | PixelSquid - S117587149'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/dish-soap-liquid-EK8q0L9-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Dishwashing Liquid - Original Scent">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/cj8g3qewem31/468WLNtlBahqOCCu3gcnN9/6d50403f4d1ca1ccaf1815a9cff3d76d/00030772053089_C1N1.png' alt='Ultra Dishwashing Liquid - Original Scent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dawn Dish Soap" />
+                                </span>
+                                <a href='https://images.ctfassets.net/cj8g3qewem31/468WLNtlBahqOCCu3gcnN9/6d50403f4d1ca1ccaf1815a9cff3d76d/00030772053089_C1N1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish Soap - Dish Soap for Kitchen Cleaning - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180517/tae/avcvh557b.webp' alt='Dish Soap - Dish Soap for Kitchen Cleaning - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180517/tae/avcvh557b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish Soap isolated on transparent background | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/dish-soap-isolated-transparent-background_999327-98662.jpg' alt='Dish Soap isolated on transparent background | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/dish-soap-isolated-transparent-background_999327-98662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dishwashing Liquid - Fresh Rain Scent | Dawn Dish Soap">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/cj8g3qewem31/6JKE46q9xMifYlfh7ndTJE/8afbada1fd37bf46520c7a85e5e16700/00030772121832_C1N1.png' alt='Dishwashing Liquid - Fresh Rain Scent | Dawn Dish Soap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dawn Dish Soap" />
+                                </span>
+                                <a href='https://images.ctfassets.net/cj8g3qewem31/6JKE46q9xMifYlfh7ndTJE/8afbada1fd37bf46520c7a85e5e16700/00030772121832_C1N1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish soap isolated on transparent background | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/dish-soap-isolated-transparent-background_1294784-10769.jpg' alt='Dish soap isolated on transparent background | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/dish-soap-isolated-transparent-background_1294784-10769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish Soap - Joy Dish Soap Product - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180420/rfw/avfadeklm.webp' alt='Dish Soap - Joy Dish Soap Product - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180420/rfw/avfadeklm.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish soap side view full length isolate on transparency background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/051/690/423/non_2x/dish-soap-side-view-full-length-isolate-on-transparency-background-png.png' alt='Dish soap side view full length isolate on transparency background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/051/690/423/non_2x/dish-soap-side-view-full-length-isolate-on-transparency-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advertisement Dish Liquid Detergent On Transparent Background Png ...">
+                                <img itemprop="contentUrl url" src='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/12/Advertisement-Dish-liquid-detergent-on-transparent-background-PNG.png' alt='Advertisement Dish Liquid Detergent On Transparent Background Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Similar PNG" />
+                                </span>
+                                <a href='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/12/Advertisement-Dish-liquid-detergent-on-transparent-background-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dish Soap - Fairy Ultra Plus Dish Soap - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180620/oxz/aaz5c1hpv.webp' alt='Dish Soap - Fairy Ultra Plus Dish Soap - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180620/oxz/aaz5c1hpv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

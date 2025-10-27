@@ -1,0 +1,129 @@
+<title>Stunning 4K Cosmic Wallpapers for Your Screen</title>
+                    <meta name="description" content="Explore an exquisite collection of 4K cosmic wallpapers that will elevate your device's look. Perfect for both desktops and mobile screens, these vivid images of galaxies and stars will inspire your imagination. Download and transform your screen into a captivating cosmic experience today!">
+                    <meta name="keywords" content="cosmic wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/cosmic-wallpaper-4k">
+                            <span itemprop="name">cosmic wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Cosmic Wallpapers for Your Screen</h1>
+                <p>Transform your device with stunning cosmic wallpaper in 4K resolution. Dive into the beauty of the universe, featuring breathtaking galaxy scenes, nebulae, and star fields that bring your screens to life. Perfect for stargazers and dreamers alike, these wallpapers elevate your aesthetic while providing a sense of wonder and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmos Wallpapers (53 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/2/8/1891738-3840x2160-desktop-4k-cosmos-wallpaper.jpg' alt='Cosmos Wallpapers (53 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/2/8/1891738-3840x2160-desktop-4k-cosmos-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebulae Wallpaper 4K, Cosmic, Stars, Dark blue">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/nebulae-cosmic-stars-dark-blue-dark-background-digital-4480x2520-3926.jpg' alt='Nebulae Wallpaper 4K, Cosmic, Stars, Dark blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/nebulae-cosmic-stars-dark-blue-dark-background-digital-4480x2520-3926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb - Cosmic Cliffs (original color version) [3840 x 2160 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8dzefg5529b91.jpg' alt='James Webb - Cosmic Cliffs (original color version) [3840 x 2160 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8dzefg5529b91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cosmic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cosmic-vfvp7bpv4s3vyn8p.jpg' alt='100+] Cosmic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cosmic-vfvp7bpv4s3vyn8p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper Flare">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/556/382/458/cosmic-dream-4k-wallpaper-preview.jpg' alt='Cosmic 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper Flare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/556/382/458/cosmic-dream-4k-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmos, blackhole, cosmic, space, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/673/854/HD-wallpaper-cosmos-blackhole-cosmic-space.jpg' alt='Cosmos, blackhole, cosmic, space, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/673/854/HD-wallpaper-cosmos-blackhole-cosmic-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Dreams: 4K Ultra HD Space Wallpaper by Nicola Hynes">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/644/644453.jpg' alt='Cosmic Dreams: 4K Ultra HD Space Wallpaper by Nicola Hynes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5121">
+                                <meta itemprop="height" content="2881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/644/644453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Nebula iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhtBvxSnK5LSjkyV_BPC_k4Wj4WjuMfhqq766I1YM24uY8bNZC_IypSw3RaknXLUDfuiFLSw4nKmRBZmS7_mvFT_VZiHrqG0mp3rbO-y0x_L_ZO6ffnFO2vszkYKaAT2WYgXJRl2NGVyHZv3HCUO6iB1ONYOc7sUGoFST-vRNnEpGKkIFAD5QGkx1zrY0ll' alt='Cosmic Nebula iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhtBvxSnK5LSjkyV_BPC_k4Wj4WjuMfhqq766I1YM24uY8bNZC_IypSw3RaknXLUDfuiFLSw4nKmRBZmS7_mvFT_VZiHrqG0mp3rbO-y0x_L_ZO6ffnFO2vszkYKaAT2WYgXJRl2NGVyHZv3HCUO6iB1ONYOc7sUGoFST-vRNnEpGKkIFAD5QGkx1zrY0ll' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore The Universe With Cosmic 4k Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cosmic-4k-326ejrelcfmfa2xf.jpg' alt='Download Explore The Universe With Cosmic 4k Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cosmic-4k-326ejrelcfmfa2xf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 3840x2400 starry and cloudy, cosmos, galaxy ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/3840x2400/aaf40e/starry-cosmos-galaxy-clouds.jpg' alt='Download wallpaper 3840x2400 starry and cloudy, cosmos, galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/3840x2400/aaf40e/starry-cosmos-galaxy-clouds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

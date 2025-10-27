@@ -1,0 +1,129 @@
+<title>Nu Metal Wallpaper: Bold Designs for Fans</title>
+                    <meta name="description" content="Discover unique nu metal wallpaper that captures the spirit of this iconic genre. Explore bold designs and graphics, perfect for transforming your space with a touch of raw energy. Ideal for fans wanting to express their love for nu metal in style!">
+                    <meta name="keywords" content="nu metal wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nu-metal-wallpaper">
+                            <span itemprop="name">nu metal wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nu Metal Wallpaper: Bold Designs for Fans</h1>
+                <p>Nu metal wallpaper brings the raw energy of this unique genre into your space. Featuring bold graphics and dark themes, it combines elements of rock, hip-hop, and alternative styles, perfect for fans looking to showcase their passion. Transform your room with striking designs that reflect the vibrant spirit of nu metal music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An updated version of a Nu Metal wallpaper I made and posted her ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/an-updated-version-of-a-nu-metal-wallpaper-i-made-and-v0-d9u17ck1ukoa1.png?auto=webp&s=a5673f9668447c9dad00dd33b3832bb4080b5072' alt='An updated version of a Nu Metal wallpaper I made and posted her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/an-updated-version-of-a-nu-metal-wallpaper-i-made-and-v0-d9u17ck1ukoa1.png?auto=webp&s=a5673f9668447c9dad00dd33b3832bb4080b5072' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nu-Metal Lives! : r/numetal">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/F23U_boZLI7TADC8DvcR_3bgtZiOkCOx4xD_aCrhvtc.png?auto=webp&s=0cbc4d2bac0db27f6209475dd057a82eb94df867' alt='Nu-Metal Lives! : r/numetal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/F23U_boZLI7TADC8DvcR_3bgtZiOkCOx4xD_aCrhvtc.png?auto=webp&s=0cbc4d2bac0db27f6209475dd057a82eb94df867' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nu metal wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/a9/a8/85a9a84ce01092b75d4ca8492b5a13a5.jpg' alt='Nu metal wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/a9/a8/85a9a84ce01092b75d4ca8492b5a13a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="numetal #mallgoth #90s #2000s #wallpaper #music">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/d1/78/bed178af743eadf35316d34b96914edb.jpg' alt='numetal #mallgoth #90s #2000s #wallpaper #music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/d1/78/bed178af743eadf35316d34b96914edb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My nu metal wallpaper : r/numetal">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-nu-metal-wallpaper-v0-so0naj17qrh91.jpg?width=640&crop=smart&auto=webp&s=134c96f5c4736b677ae4fdda495bdb5290a3cb26' alt='My nu metal wallpaper : r/numetal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-nu-metal-wallpaper-v0-so0naj17qrh91.jpg?width=640&crop=smart&auto=webp&s=134c96f5c4736b677ae4fdda495bdb5290a3cb26' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Hammer presents Nu Metal fan pack :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/53e2d232926023.5698d069587d2.jpg' alt='Metal Hammer presents Nu Metal fan pack :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/53e2d232926023.5698d069587d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slipknot: Dark Industrial Metal HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/709/thumb-1920-709280.jpg' alt='Slipknot: Dark Industrial Metal HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/709/thumb-1920-709280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slipknot, Nu Metal, alternative metal, colorful, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/217/808/HD-wallpaper-slipknot-nu-metal-alternative-metal-colorful.jpg' alt='Slipknot, Nu Metal, alternative metal, colorful, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/217/808/HD-wallpaper-slipknot-nu-metal-alternative-metal-colorful.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/51/83/ab518386b665ddacba5eb2c5fd19ef6f.jpg' alt='                                  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/51/83/ab518386b665ddacba5eb2c5fd19ef6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone know who these guys are on the cover of the recent nu metal ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anyone-know-who-these-guys-are-on-the-cover-of-the-recent-v0-g0btfxv5zk9b1.png?auto=webp&s=d8409d6eb7b9f6cea9f4660ce42c806ea112d64d' alt='Anyone know who these guys are on the cover of the recent nu metal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anyone-know-who-these-guys-are-on-the-cover-of-the-recent-v0-g0btfxv5zk9b1.png?auto=webp&s=d8409d6eb7b9f6cea9f4660ce42c806ea112d64d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

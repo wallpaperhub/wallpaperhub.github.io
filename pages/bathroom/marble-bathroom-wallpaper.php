@@ -1,0 +1,129 @@
+<title>Elegant Marble Wallpaper for Your Bathroom | Modern Decor Ideas</title>
+                    <meta name="description" content="Discover the charm of marble bathroom wallpaper for a stylish and low-maintenance update. Create a timeless look with easy-to-install, durable options that resist moisture. Elevate your bathroom’s decor effortlessly and enjoy the luxury of marble at an affordable price.">
+                    <meta name="keywords" content="marble bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/marble-bathroom-wallpaper">
+                            <span itemprop="name">marble bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Marble Wallpaper for Your Bathroom | Modern Decor Ideas</h1>
+                <p>Transform your bathroom into a luxurious retreat with marble bathroom wallpaper. This elegant option mimics the classic beauty of natural marble, offering a stunning aesthetic without the hefty price tag. With easy installation and moisture resistance, it's perfect for creating a sophisticated ambiance while ensuring durability in any bathroom setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Matte Beige/Gold Marble Contact Paper for Countertops Vinyl  Waterproof Peel and Stick Wallpaper for Cabinet Backsplashes Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wMGLbgpgL.jpg' alt='Wallercity Matte Beige/Gold Marble Contact Paper for Countertops Vinyl  Waterproof Peel and Stick Wallpaper for Cabinet Backsplashes Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wMGLbgpgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Swirls Wallpaper • Beautiful Flowing Stone • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/07/BLinz-Marble-Swirls-Orange-3.jpg.optimal.jpg' alt='Marble Swirls Wallpaper • Beautiful Flowing Stone • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/07/BLinz-Marble-Swirls-Orange-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil & Marble White">
+                                <img itemprop="contentUrl url" src='https://chelsealaneco.com/cdn/shop/products/psw1127rl_rs1ex.jpg?v=1600455899&width=720' alt='Oil & Marble White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsea Lane" />
+                                </span>
+                                <a href='https://chelsealaneco.com/cdn/shop/products/psw1127rl_rs1ex.jpg?v=1600455899&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Beige/Gold Marble Contact Paper for Countertops White Granite  Contact Paper for Cabinets Self Adhesive Wallpaper Peel and Stick Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mjpJF32JL.jpg' alt='Amazon.com: Beige/Gold Marble Contact Paper for Countertops White Granite  Contact Paper for Cabinets Self Adhesive Wallpaper Peel and Stick Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mjpJF32JL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Onyx Tile Peel and Stick Matte Marble Effect Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/A598Blueonyxtiletexture_46.jpg?v=1731991854&width=1946' alt='Bold Onyx Tile Peel and Stick Matte Marble Effect Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/A598Blueonyxtiletexture_46.jpg?v=1731991854&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLUTED MARBLE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://greenlyliving.co/cdn/shop/files/Marble_Fluted_CarraraWhite_Vanity04.jpg?v=1734471461&width=2000' alt='FLUTED MARBLE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="greenly living" />
+                                </span>
+                                <a href='https://greenlyliving.co/cdn/shop/files/Marble_Fluted_CarraraWhite_Vanity04.jpg?v=1734471461&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verona Marble by Albany - Black / Gold - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/214886_1_orig.jpg?v=1712936446' alt='Verona Marble by Albany - Black / Gold - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/214886_1_orig.jpg?v=1712936446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Self Adhesive Marble Wallpaper Bathroom Mural, Custom Sizes  Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/blue-and-white-self-adhesive-marble-wallpaper-bathroom-mural-custom-sizes-available-wall-murals-maughons-default-title-947655_1024x1024.jpg?v=1667178380' alt='Blue and White Self Adhesive Marble Wallpaper Bathroom Mural, Custom Sizes  Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/blue-and-white-self-adhesive-marble-wallpaper-bathroom-mural-custom-sizes-available-wall-murals-maughons-default-title-947655_1024x1024.jpg?v=1667178380' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Marble Gold Vein Wallpaper Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/turquoise-marble-wall-mural-bathroom.jpg?v=1665558657&width=1445' alt='Luxurious Marble Gold Vein Wallpaper Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/turquoise-marble-wall-mural-bathroom.jpg?v=1665558657&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/Calacatta_-_4.jpg?v=1718235819&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/Calacatta_-_4.jpg?v=1718235819&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

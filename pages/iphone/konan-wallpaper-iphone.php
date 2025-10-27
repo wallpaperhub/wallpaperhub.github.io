@@ -1,0 +1,129 @@
+<title>Stunning Konan iPhone Wallpapers for Anime Lovers</title>
+                    <meta name="description" content="Discover gorgeous Konan wallpapers for your iPhone! Perfect for anime enthusiasts, these designs will enhance your device's look and reflect your personality. Browse our collection and find your favorite wallpaper today!">
+                    <meta name="keywords" content="konan wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/konan-wallpaper-iphone">
+                            <span itemprop="name">konan wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Konan iPhone Wallpapers for Anime Lovers</h1>
+                <p>Transform your iPhone with stunning Konan wallpapers! Choose from a variety of captivating designs that highlight your love for anime and vibrant colors. Whether you prefer action-packed scenes or serene moments, there's a perfect wallpaper waiting for you. Elevate your device’s aesthetic and showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konan at sea, akatsuki, anime, iphone, manga, naruto, nature ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/280/717/HD-wallpaper-konan-at-sea-akatsuki-anime-iphone-manga-naruto-nature-ocean-paper.jpg' alt='Konan at sea, akatsuki, anime, iphone, manga, naruto, nature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/280/717/HD-wallpaper-konan-at-sea-akatsuki-anime-iphone-manga-naruto-nature-ocean-paper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Konan phone wallpaper : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z78n8lm4ute21.jpg' alt='I made a Konan phone wallpaper : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z78n8lm4ute21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konan, akatsuki, naruto, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/938/HD-wallpaper-konan-akatsuki-naruto.jpg' alt='Konan, akatsuki, naruto, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/938/HD-wallpaper-konan-akatsuki-naruto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="As requested, here's the konan wallpaper. Actually feel really ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dw5q64huxqj61.jpg' alt='As requested, here's the konan wallpaper. Actually feel really ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dw5q64huxqj61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Pain And Konan by Heart-of-Uchiha on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42f3c474-c80f-4450-9027-909f954ee1d4/dezpvdd-d59db656-8aca-4d1b-9f7b-e44097796db5.png/v1/fill/w_1024,h_2216,q_80,strp/iphone_wallpaper_pain_and_konan_by_heart_of_uchiha_dezpvdd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIxNiIsInBhdGgiOiJcL2ZcLzQyZjNjNDc0LWM4MGYtNDQ1MC05MDI3LTkwOWY5NTRlZTFkNFwvZGV6cHZkZC1kNTlkYjY1Ni04YWNhLTRkMWItOWY3Yi1lNDQwOTc3OTZkYjUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dKxE9dUxCsUJW3pp2nZ7ZwDgeCo-v8CH-y_aDci1kW0' alt='Iphone Wallpaper Pain And Konan by Heart-of-Uchiha on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="2216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42f3c474-c80f-4450-9027-909f954ee1d4/dezpvdd-d59db656-8aca-4d1b-9f7b-e44097796db5.png/v1/fill/w_1024,h_2216,q_80,strp/iphone_wallpaper_pain_and_konan_by_heart_of_uchiha_dezpvdd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIxNiIsInBhdGgiOiJcL2ZcLzQyZjNjNDc0LWM4MGYtNDQ1MC05MDI3LTkwOWY5NTRlZTFkNFwvZGV6cHZkZC1kNTlkYjY1Ni04YWNhLTRkMWItOWY3Yi1lNDQwOTc3OTZkYjUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dKxE9dUxCsUJW3pp2nZ7ZwDgeCo-v8CH-y_aDci1kW0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konan - Minimalist by amyenah on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/22/13/2922134659b5b727068dd835fb16165b.jpg' alt='Konan - Minimalist by amyenah on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/22/13/2922134659b5b727068dd835fb16165b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD konan wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/190/583/HD-wallpaper-konan-akatsuki-akatsuki-konan-konan-and-obito-konan-konan-x-pain-nagato-nagato-x-konan-yahiko-yahiko-x-nagato-thumbnail.jpg' alt='HD konan wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/190/583/HD-wallpaper-konan-akatsuki-akatsuki-konan-konan-and-obito-konan-konan-x-pain-nagato-nagato-x-konan-yahiko-yahiko-x-nagato-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konan in Amegakure - Andres Lemus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/8e/ae/848eae2c93b37b497a54a32f0ac9875a.jpg' alt='Konan in Amegakure - Andres Lemus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/8e/ae/848eae2c93b37b497a54a32f0ac9875a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Konan - The Graceful Angel of Amegakure Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/konan-1080-x-2400-wallpaper-bmepxfwdez7kciw9.jpg' alt='Download Konan - The Graceful Angel of Amegakure Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/konan-1080-x-2400-wallpaper-bmepxfwdez7kciw9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Konan (Naruto) Wallpapers (24 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/6/0/875958-1640x2453-samsung-hd-konan-naruto-wallpaper-photo.jpg' alt='Konan (Naruto) Wallpapers (24 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="2453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/6/0/875958-1640x2453-samsung-hd-konan-naruto-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

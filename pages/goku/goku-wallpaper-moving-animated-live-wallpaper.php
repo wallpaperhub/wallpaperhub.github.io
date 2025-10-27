@@ -1,0 +1,129 @@
+<title>Dynamic Goku Live Wallpapers for Your Mobile</title>
+                    <meta name="description" content="Discover a collection of vibrant Goku animated live wallpapers that elevate your device's aesthetic. Enjoy smooth animations and captivating designs, perfect for Dragon Ball enthusiasts. Download now and make your mobile screen a lively showcase of Goku's spirit!">
+                    <meta name="keywords" content="goku wallpaper moving animated live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-wallpaper-moving-animated-live-wallpaper">
+                            <span itemprop="name">goku wallpaper moving animated live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Goku Live Wallpapers for Your Mobile</h1>
+                <p>Transform your device with stunning Goku animated live wallpapers! Featuring vibrant colors and smooth movements, these wallpapers bring the iconic Dragon Ball character to life. Whether you're a hardcore fan or just love dynamic backgrounds, Goku live wallpapers are perfect for energizing your screen and showcasing your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Goku Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/392/son-goku-ultra-power.jpg' alt='90+ Goku Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/392/son-goku-ultra-power.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Live Wallpaper in 4K - Animated Dragon Ball Background">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7264138786144079109&location=0&aid=1988' alt='Goku Live Wallpaper in 4K - Animated Dragon Ball Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7264138786144079109&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Instinct Goku v1.1 Live Wallpaper ( 4K )">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/02OaZONBOGw/maxresdefault.jpg' alt='Ultra Instinct Goku v1.1 Live Wallpaper ( 4K )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/02OaZONBOGw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Goku SSB animated live wallpaper DBS">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/976604071429936085/D5D9F2B67AD3E280613507856265A4C09ACFF335/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Goku SSB animated live wallpaper DBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/976604071429936085/D5D9F2B67AD3E280613507856265A4C09ACFF335/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Goku Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' alt='90+ Goku Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOKU RISING LIVE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/c5/88/a3/c588a3b1b3c0a89a717ff6f4941c9710.0000000.jpg' alt='GOKU RISING LIVE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/c5/88/a3/c588a3b1b3c0a89a717ff6f4941c9710.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Goku Ultra Instinct and Planets Animated Wallpaper | Streamable">
+                                <img itemprop="contentUrl url" src='https://cdn-cf-east.streamable.com/image/39q1io.jpg' alt='Watch Goku Ultra Instinct and Planets Animated Wallpaper | Streamable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamable" />
+                                </span>
+                                <a href='https://cdn-cf-east.streamable.com/image/39q1io.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goku ultra instinct GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' alt='goku ultra instinct GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/8MGtPHIzLPQAAAAM/dragon-ball-goku.gif' alt='Dragon Ball Z Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/8MGtPHIzLPQAAAAM/dragon-ball-goku.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Super Live Wallpaper : r/DesktopHut">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/goku-black-super-live-wallpaper-v0-23m-y7isbyLEnclsd3Uqij4_BZBD3Ysbp_kg8IHZGPY.jpg?auto=webp&s=8125189cb4bd4b28cb338c1716c156a90dbda61b' alt='Goku Black Super Live Wallpaper : r/DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/goku-black-super-live-wallpaper-v0-23m-y7isbyLEnclsd3Uqij4_BZBD3Ysbp_kg8IHZGPY.jpg?auto=webp&s=8125189cb4bd4b28cb338c1716c156a90dbda61b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Shadow the Hedgehog Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the best Shadow the Hedgehog wallpapers to enhance your device! Our curated collection features vibrant designs and dynamic action shots, perfect for fans looking to personalize their screens. Download your favorites and showcase your love for Shadow today!">
+                    <meta name="keywords" content="shadow the hedgehog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shadow-the-hedgehog-wallpaper">
+                            <span itemprop="name">shadow the hedgehog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shadow the Hedgehog Wallpapers for Every Fan</h1>
+                <p>Transform your device's aesthetic with striking Shadow the Hedgehog wallpapers! From dynamic action poses to moody, atmospheric designs, our collection captures the essence of this iconic character. Perfect for fans who want to showcase their love for Shadow. Download now and give your device a fierce new look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic The Hedgehog 3 Exclusive Shadow Poster 4k by EdgarDALoquendo ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78b23e13-9487-4beb-9ebe-9e989607e006/di6y8al-c7e98979-a312-4c24-8c0d-d8753ccf0686.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4YjIzZTEzLTk0ODctNGJlYi05ZWJlLTllOTg5NjA3ZTAwNlwvZGk2eThhbC1jN2U5ODk3OS1hMzEyLTRjMjQtOGMwZC1kODc1M2NjZjA2ODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KD_TSy2jizPZXmd2M-CQCy035VBV0LLmM2jJ8rNVmwo' alt='Sonic The Hedgehog 3 Exclusive Shadow Poster 4k by EdgarDALoquendo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2113">
+                                <meta itemprop="height" content="3193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78b23e13-9487-4beb-9ebe-9e989607e006/di6y8al-c7e98979-a312-4c24-8c0d-d8753ccf0686.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4YjIzZTEzLTk0ODctNGJlYi05ZWJlLTllOTg5NjA3ZTAwNlwvZGk2eThhbC1jN2U5ODk3OS1hMzEyLTRjMjQtOGMwZC1kODc1M2NjZjA2ODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KD_TSy2jizPZXmd2M-CQCy035VBV0LLmM2jJ8rNVmwo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/f0/b4/0cf0b44cedc4364db4ccab6f927db775.jpg' alt='Shadow the Hedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/f0/b4/0cf0b44cedc4364db4ccab6f927db775.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog Wallpaper 4K, 8K, Sonic the Hedgehog 3">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/shadow-the-hedgehog-3840x2160-20091.jpg' alt='Shadow the Hedgehog Wallpaper 4K, 8K, Sonic the Hedgehog 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/shadow-the-hedgehog-3840x2160-20091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic 3 Shadow poster as a 4K Wallpaper : r/SonicTheHedgehog">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sonic-3-shadow-poster-as-a-4k-wallpaper-v0-fbmebtxub7td1.jpeg?auto=webp&s=8decf0a8837d47ee7eeea932a60772eda00a855e' alt='Sonic 3 Shadow poster as a 4K Wallpaper : r/SonicTheHedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sonic-3-shadow-poster-as-a-4k-wallpaper-v0-fbmebtxub7td1.jpeg?auto=webp&s=8decf0a8837d47ee7eeea932a60772eda00a855e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shadow the hedgehog wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/c1/39/2bc1397a8d694bcba7d88cbde6128d59.jpg' alt='shadow the hedgehog wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/c1/39/2bc1397a8d694bcba7d88cbde6128d59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted to set my pcs wallpaper as shadow in preperation for the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wanted-to-set-my-pcs-wallpaper-as-shadow-in-preperation-for-v0-a048g1mhrnld1.png?width=1920&format=png&auto=webp&s=838d795418b2456c3b77bf5f32b4fb9274c8a938' alt='Wanted to set my pcs wallpaper as shadow in preperation for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wanted-to-set-my-pcs-wallpaper-as-shadow-in-preperation-for-v0-a048g1mhrnld1.png?width=1920&format=png&auto=webp&s=838d795418b2456c3b77bf5f32b4fb9274c8a938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow The Hedgehog - Wallpaper by SonicTheHedgehogBG on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/915557f8-0a72-4811-922b-e43a06edfb65/d77osq2-cf466554-2a8f-4d85-bc16-9c8bc5fce59c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxNTU1N2Y4LTBhNzItNDgxMS05MjJiLWU0M2EwNmVkZmI2NVwvZDc3b3NxMi1jZjQ2NjU1NC0yYThmLTRkODUtYmMxNi05YzhiYzVmY2U1OWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zc4uiVG0cH6bnVM4zELKW2NgBbbfJujjU-Qxbjd-VPQ' alt='Shadow The Hedgehog - Wallpaper by SonicTheHedgehogBG on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/915557f8-0a72-4811-922b-e43a06edfb65/d77osq2-cf466554-2a8f-4d85-bc16-9c8bc5fce59c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxNTU1N2Y4LTBhNzItNDgxMS05MjJiLWU0M2EwNmVkZmI2NVwvZDc3b3NxMi1jZjQ2NjU1NC0yYThmLTRkODUtYmMxNi05YzhiYzVmY2U1OWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zc4uiVG0cH6bnVM4zELKW2NgBbbfJujjU-Qxbjd-VPQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Shadow the Hedgehog: Unleash Your Dark Side by ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/416/thumb-1920-416522.jpg' alt='HD Wallpaper of Shadow the Hedgehog: Unleash Your Dark Side by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/416/thumb-1920-416522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TBSF on X: "Shadow the Hedgehog Wallpaper! https://t.co/Feqa2pGRdL ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GTNYctzXkAAQaKD?format=jpg&name=4096x4096' alt='TBSF on X: "Shadow the Hedgehog Wallpaper! https://t.co/Feqa2pGRdL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1845">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GTNYctzXkAAQaKD?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog Epic Desktop Wallpaper - Sonic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/09/shadow-the-hedgehog-epic-desktop-wallpaper-cover.jpg' alt='Shadow the Hedgehog Epic Desktop Wallpaper - Sonic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/09/shadow-the-hedgehog-epic-desktop-wallpaper-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

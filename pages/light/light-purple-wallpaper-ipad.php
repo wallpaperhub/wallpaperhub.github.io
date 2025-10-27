@@ -1,0 +1,129 @@
+<title>Light Purple iPad Wallpaper: A Soft Touch for Your Device</title>
+                    <meta name="description" content="Discover beautiful light purple wallpaper options for your iPad. Enhance your device's look with stylish and soothing designs that reflect your personality. Perfect for creating a tranquil workspace or a chic home screen. Choose your favorite and elevate your iPad's aesthetic today!">
+                    <meta name="keywords" content="light purple wallpaper ipad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-purple-wallpaper-ipad">
+                            <span itemprop="name">light purple wallpaper ipad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Purple iPad Wallpaper: A Soft Touch for Your Device</h1>
+                <p>Light purple wallpaper for iPad adds a soothing and elegant touch to your device. Perfect for those who appreciate subtle colors, this wallpaper can transform your home screen, offering a calm aesthetic. Choose from various designs, from floral patterns to abstract art, enhancing your iPad's visual appeal while keeping it stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone purple wallpaper | Light purple wallpaper, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/10/c0/c410c0583fec95237853b45e0c0ef27e.jpg' alt='Cute iPhone purple wallpaper | Light purple wallpaper, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/10/c0/c410c0583fec95237853b45e0c0ef27e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Ipad Wallpaper Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902621.jpg' alt='Aesthetic Ipad Wallpaper Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/53/85/8a5385bab008e4081cc21dcc3cefca0e.jpg' alt='Purple Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/53/85/8a5385bab008e4081cc21dcc3cefca0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Ipad Purple Holographic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-ipad-purple-holographic-iurvb03bye5yo7u5-2.webp' alt='Aesthetic Ipad Purple Holographic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-ipad-purple-holographic-iurvb03bye5yo7u5-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper IPad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/82/9a/ca829a22e003e4f98b92558a13f12bb8.jpg' alt='Wallpaper IPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/82/9a/ca829a22e003e4f98b92558a13f12bb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple lavander light purple aesthetic wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' alt='Pastel Purple lavander light purple aesthetic wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Pastel Ipad Violet Sky Stars Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/pastel-ipad-violet-sky-stars-hvg6x9mpid1hloif.jpg' alt='Download free Pastel Ipad Violet Sky Stars Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/pastel-ipad-violet-sky-stars-hvg6x9mpid1hloif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sm47-pastel-purple-blur-gradation-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sm47-pastel-purple-blur-gradation-40-wallpaper.jpg' alt='sm47-pastel-purple-blur-gradation-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sm47-pastel-purple-blur-gradation-40-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Ipad Wallpaper Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_23-2148973123.jpg' alt='Aesthetic Ipad Wallpaper Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_23-2148973123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable purple aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZDia7G8A/1/0/400w/canva-pink-purple-gradient-aesthetic-motivational-quote-desktop-wallpaper-zOGOwkgz7rY.jpg' alt='Free and customizable purple aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZDia7G8A/1/0/400w/canva-pink-purple-gradient-aesthetic-motivational-quote-desktop-wallpaper-zOGOwkgz7rY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

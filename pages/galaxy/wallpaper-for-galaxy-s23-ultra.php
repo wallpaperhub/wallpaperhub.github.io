@@ -1,0 +1,129 @@
+<title>Stunning Wallpapers for Galaxy S23 Ultra: Revamp Your Device</title>
+                    <meta name="description" content="Explore a curated selection of stunning wallpapers for your Galaxy S23 Ultra. Find the perfect design to enhance your device's look and express your unique style. Discover high-quality images tailored for a vibrant display, easy to access and perfect for personalization. Upgrade your wallpaper choice now!">
+                    <meta name="keywords" content="wallpaper for galaxy s23 ultra">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/wallpaper-for-galaxy-s23-ultra">
+                            <span itemprop="name">wallpaper for galaxy s23 ultra</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wallpapers for Galaxy S23 Ultra: Revamp Your Device</h1>
+                <p>Transform your Galaxy S23 Ultra with stunning wallpapers that reflect your style! From breathtaking landscapes to minimalist designs, discover a wide range of high-quality images. Enhance your device's aesthetic and make a statement with unique themes that suit any mood. Upgrade your wallpaper game today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Samsung S23 Ultra Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/samsung-s23-ultra-137ai083wkwo2t91.jpg' alt='100+] Samsung S23 Ultra Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="895">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/samsung-s23-ultra-137ai083wkwo2t91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is name s22 ultra wallpaper? i want to set it on s23 : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-wog32uztjuqd1.jpeg?width=1200&format=pjpg&auto=webp&s=d92d807b70f5b52245d4c1ebf8b6e03e264445b6' alt='what is name s22 ultra wallpaper? i want to set it on s23 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-wog32uztjuqd1.jpeg?width=1200&format=pjpg&auto=webp&s=d92d807b70f5b52245d4c1ebf8b6e03e264445b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S23 4K-Purple wallpaper by ERP_Stuff - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/2b/7d/b92b7dc62461d98fe65355328216e3f3.jpg' alt='Galaxy S23 4K-Purple wallpaper by ERP_Stuff - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/2b/7d/b92b7dc62461d98fe65355328216e3f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="S23 Ultra Punch Hole Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/c697Nv2NN_WS3XR_I7jQDmGKo0VZhFyGXNx7txQN8eyRR-P6NlGCEpMGaK6lPBn01A' alt='S23 Ultra Punch Hole Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/c697Nv2NN_WS3XR_I7jQDmGKo0VZhFyGXNx7txQN8eyRR-P6NlGCEpMGaK6lPBn01A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#samsung #s23ultra #wallpaper #livewallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7196355830046919963&location=0&aid=1988' alt='#samsung #s23ultra #wallpaper #livewallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7196355830046919963&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S23 Ultra Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/RKRDRGC1nZoC0QQ541Akp9CdPdQbph7af-G9sVwnWE6jawzsvgTcMRJ0KiUvyx5CW6U=w526-h296-rw' alt='Galaxy S23 Ultra Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/RKRDRGC1nZoC0QQ541Akp9CdPdQbph7af-G9sVwnWE6jawzsvgTcMRJ0KiUvyx5CW6U=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BEST Place For Wallpapers On Samsung Galaxy S23 Ultra! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VpiWzR-SgBY/sddefault.jpg' alt='BEST Place For Wallpapers On Samsung Galaxy S23 Ultra! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VpiWzR-SgBY/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Samsung S23 Ultra Abstract Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/samsung-s23-ultra-abstract-wallpaper-7uxkaz8xjyp6hrxw.jpg' alt='Download Samsung S23 Ultra Abstract Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="895">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/samsung-s23-ultra-abstract-wallpaper-7uxkaz8xjyp6hrxw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper-for-samsung-galaxy-s23-ultra by sinthawall on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96d87b71-66d2-44da-be45-6874bafa8296/dg0rshr-2cd54fa2-5323-4e1b-a75d-10af7309e79e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZDg3YjcxLTY2ZDItNDRkYS1iZTQ1LTY4NzRiYWZhODI5NlwvZGcwcnNoci0yY2Q1NGZhMi01MzIzLTRlMWItYTc1ZC0xMGFmNzMwOWU3OWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Se3IO4cNwng85yAHveX3JpKQJ9uB7ymovHCqNlUT4h4' alt='wallpaper-for-samsung-galaxy-s23-ultra by sinthawall on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96d87b71-66d2-44da-be45-6874bafa8296/dg0rshr-2cd54fa2-5323-4e1b-a75d-10af7309e79e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZDg3YjcxLTY2ZDItNDRkYS1iZTQ1LTY4NzRiYWZhODI5NlwvZGcwcnNoci0yY2Q1NGZhMi01MzIzLTRlMWItYTc1ZC0xMGFmNzMwOWU3OWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Se3IO4cNwng85yAHveX3JpKQJ9uB7ymovHCqNlUT4h4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Samsung S23 Ultra Backgrounds ideas | galaxy phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/dc/64/67/dc6467a8bf9cfbcd91e543aabe41fa5f.jpg' alt='12 Samsung S23 Ultra Backgrounds ideas | galaxy phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/dc/64/67/dc6467a8bf9cfbcd91e543aabe41fa5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

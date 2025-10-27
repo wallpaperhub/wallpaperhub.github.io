@@ -1,0 +1,129 @@
+<title>Epic Lightsaber Wallpaper: Ignite Your Screens</title>
+                    <meta name="description" content="Discover a collection of captivating lightsaber wallpapers that bring the Star Wars magic to life on your device. Perfect for fans and enthusiasts, our wallpapers add flair and excitement to your screens. Download your favorite designs now and showcase your love for the galaxy far, far away!">
+                    <meta name="keywords" content="light saber wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-saber-wallpaper">
+                            <span itemprop="name">light saber wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Lightsaber Wallpaper: Ignite Your Screens</h1>
+                <p>Explore the galaxy with stunning lightsaber wallpaper designs that bring the Star Wars universe right to your device. Whether you prefer iconic colors or unique styles, these wallpapers will ignite your imagination and showcase your love for the Force. Transform your screens and embrace your inner Jedi or Sith today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/20/f3/b120f39f80b51a092387313547b3928f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/20/f3/b120f39f80b51a092387313547b3928f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/3/0/463099-1125x2436-mobile-hd-lightsaber-wallpaper.jpg' alt='Lightsaber Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/3/0/463099-1125x2436-mobile-hd-lightsaber-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Lightsaber Wallpaper | Star wars wallpaper, Star wars ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e9/bf/0d/e9bf0d269d272f915ac4806a9dc77cd8.jpg' alt='Star Wars Lightsaber Wallpaper | Star wars wallpaper, Star wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e9/bf/0d/e9bf0d269d272f915ac4806a9dc77cd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I did some lightsaber backgrounds and I thought I should share ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-did-some-lightsaber-backgrounds-and-i-thought-i-should-v0-8538yw3lcb491.png?width=1080&format=png&auto=webp&s=bdce5407ed784addf5045f4934b7d58d22bd664d' alt='I did some lightsaber backgrounds and I thought I should share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-did-some-lightsaber-backgrounds-and-i-thought-i-should-v0-8538yw3lcb491.png?width=1080&format=png&auto=webp&s=bdce5407ed784addf5045f4934b7d58d22bd664d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Star Wars, sword, Jedi, light saber for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2560x1600/2/69/sword-light-saber-jedi-star.jpg' alt='Wallpaper Star Wars, sword, Jedi, light saber for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2560x1600/2/69/sword-light-saber-jedi-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Lightsaber Wallpaper | Star wars background, Star wars ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/41/de/8d41de399036f59ff7f694e697a8bc26.jpg' alt='Star Wars Lightsaber Wallpaper | Star wars background, Star wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/41/de/8d41de399036f59ff7f694e697a8bc26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lightsaber In Star Wars Cell Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/green-lightsaber-in-star-wars-cell-phone-7dha9qrx6z0k5ftv.jpg' alt='Green Lightsaber In Star Wars Cell Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/green-lightsaber-in-star-wars-cell-phone-7dha9qrx6z0k5ftv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Lightsaber Wallpaper by SuperVilan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d540697e-db84-4396-940a-2800410f7ca4/dei9k05-0ab6ffc0-c80d-419a-8164-f35ae172aa1b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1NDA2OTdlLWRiODQtNDM5Ni05NDBhLTI4MDA0MTBmN2NhNFwvZGVpOWswNS0wYWI2ZmZjMC1jODBkLTQxOWEtODE2NC1mMzVhZTE3MmFhMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WktFSeMR1_Zizrre5vf9JmRGzRVD5KWXiq_gzFUuL9A' alt='Darth Vader Lightsaber Wallpaper by SuperVilan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d540697e-db84-4396-940a-2800410f7ca4/dei9k05-0ab6ffc0-c80d-419a-8164-f35ae172aa1b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1NDA2OTdlLWRiODQtNDM5Ni05NDBhLTI4MDA0MTBmN2NhNFwvZGVpOWswNS0wYWI2ZmZjMC1jODBkLTQxOWEtODE2NC1mMzVhZTE3MmFhMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WktFSeMR1_Zizrre5vf9JmRGzRVD5KWXiq_gzFUuL9A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber wallpapers I made with some of my favorite sabers! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5bksgbrj1i891.png' alt='Lightsaber wallpapers I made with some of my favorite sabers! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5bksgbrj1i891.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lightsaber - [] for your, Mobile & Tablet. Explore Lightsaber ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/396/796/HD-wallpaper-blue-lightsaber-for-your-mobile-tablet-explore-lightsaber-background-lightsaber-lightsaber-star-wars-lightsaber.jpg' alt='Blue Lightsaber - [] for your, Mobile & Tablet. Explore Lightsaber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/396/796/HD-wallpaper-blue-lightsaber-for-your-mobile-tablet-explore-lightsaber-background-lightsaber-lightsaber-star-wars-lightsaber.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

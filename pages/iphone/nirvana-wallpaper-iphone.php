@@ -1,0 +1,129 @@
+<title>Nirvana iPhone Wallpaper: Elevate Your Device</title>
+                    <meta name="description" content="Discover the best Nirvana wallpapers for your iPhone! Explore a range of stunning designs that celebrate the band's legacy while enhancing your device's style. Perfect for music lovers and fans alike, our collection showcases unique art that reflects a passion for iconic rock. Download your favorite now!">
+                    <meta name="keywords" content="nirvana wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/nirvana-wallpaper-iphone">
+                            <span itemprop="name">nirvana wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nirvana iPhone Wallpaper: Elevate Your Device</h1>
+                <p>Transform your iPhone's aesthetic with stunning Nirvana wallpapers! Showcase your love for the iconic band and embrace the grunge vibe by featuring unique designs, vibrant colors, and legendary album covers. Whether you prefer classic photos or abstract art, these wallpapers will elevate your device's look and reflect your musical spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Nirvana iPhone Background on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/80/61/64806117436173fbe08b76540a5cd7b8.jpg' alt='   Free download Nirvana iPhone Background on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/80/61/64806117436173fbe08b76540a5cd7b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixelTabs: The best source of AI-Images, Templates and HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/11/de/4811de585c2f41970fedc4e353c339b9.jpg' alt='PixelTabs: The best source of AI-Images, Templates and HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/11/de/4811de585c2f41970fedc4e353c339b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Nirvana Wallpapers made by me for Android/iPhone! : r/Nirvana">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/lHa0_slocg1etjgmNAxWFJ3bnTNVNBuhOKfH0ysMmlE.jpg?auto=webp&s=6f8d2d9adecffe4254ee09f895660e279f1f8dc2' alt='50 Nirvana Wallpapers made by me for Android/iPhone! : r/Nirvana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/lHa0_slocg1etjgmNAxWFJ3bnTNVNBuhOKfH0ysMmlE.jpg?auto=webp&s=6f8d2d9adecffe4254ee09f895660e279f1f8dc2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana phone wallpaper I edited. Enjoy! : r/Nirvana">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9t7djukf2pz41.jpg?auto=webp&s=1ef274b86f0191aaed6dfc04900ffa07d2d95b6e' alt='Nirvana phone wallpaper I edited. Enjoy! : r/Nirvana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9t7djukf2pz41.jpg?auto=webp&s=1ef274b86f0191aaed6dfc04900ffa07d2d95b6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana, nirvana logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/290/955/HD-wallpaper-nirvana-nirvana-logo.jpg' alt='Nirvana, nirvana logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/290/955/HD-wallpaper-nirvana-nirvana-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2022/12/nirvana-bw_iphone-x-1125x2434.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2022/12/nirvana-bw_iphone-x-1125x2434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11020231.png' alt='Nirvana iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11020231.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Nirvana iphone wallpaper pastel pink | Nirvana wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/53/2b/9c532bc8602a5443e0f1c009c958257b.jpg' alt='Skull Nirvana iphone wallpaper pastel pink | Nirvana wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/53/2b/9c532bc8602a5443e0f1c009c958257b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Album Cover Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/nirvana-album-cover-collage-29ma3wjed4s7x2nf.jpg' alt='Nirvana Album Cover Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/nirvana-album-cover-collage-29ma3wjed4s7x2nf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="unofficial) iPhone wallpapers — Nirvana “Live at Reading ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/536d6478154c0fa3b45e49a1a94f2d8e/tumblr_n9lgsqfTrt1sr0h8to1_1280.jpg' alt='unofficial) iPhone wallpapers — Nirvana “Live at Reading ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="(unofficial) iPhone wallpapers - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/536d6478154c0fa3b45e49a1a94f2d8e/tumblr_n9lgsqfTrt1sr0h8to1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

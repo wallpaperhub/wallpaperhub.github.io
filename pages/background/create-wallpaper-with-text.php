@@ -1,0 +1,129 @@
+<title>Create Custom Text Wallpapers for Your Space</title>
+                    <meta name="description" content="Transform your walls with personalized text wallpapers! Learn how to easily create stunning designs that reflect your personality. Discover tips for choosing backgrounds, fonts, and layouts to bring your vision to life. Perfect for home or office, our guide will help you design the ideal wallpaper for any space!">
+                    <meta name="keywords" content="create wallpaper with text">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/create-wallpaper-with-text">
+                            <span itemprop="name">create wallpaper with text</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Custom Text Wallpapers for Your Space</h1>
+                <p>Creating custom wallpaper with text allows you to personalize your space significantly. Start by choosing a background color or image that matches your style. Next, select a font that resonates with you. Use online design tools to easily add your chosen text, adjust size, color, and placement for a unique touch. Finally, download your design and print it for a fresh, motivational environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Text Wallpapers for iPhone and Android | Text to Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://texttowallpaper.com/image/4.webp' alt='Create Text Wallpapers for iPhone and Android | Text to Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="texttowallpaper.com" />
+                                </span>
+                                <a href='https://texttowallpaper.com/image/4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyText - Text Wallpaper Maker - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/U0UFh2qiLdOQeSDqv2cQq1CE3ayyPojnN_kHJL4K9H4g200Z4emhac4K37lz5G2hxyby' alt='MyText - Text Wallpaper Maker - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/U0UFh2qiLdOQeSDqv2cQq1CE3ayyPojnN_kHJL4K9H4g200Z4emhac4K37lz5G2hxyby' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Write your text/name on a wallpaper or photo">
+                                <img itemprop="contentUrl url" src='https://wall2mob.com/m/images/create_text.png' alt='Write your text/name on a wallpaper or photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall2mob.com" />
+                                </span>
+                                <a href='https://wall2mob.com/m/images/create_text.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Maker - Make Your Own Wallpaper in Canva">
+                                <img itemprop="contentUrl url" src='https://template.canva.com/EADajWqezAY/1/0/400w-Fo-JcVPgxAg.jpg' alt='Wallpaper Maker - Make Your Own Wallpaper in Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://template.canva.com/EADajWqezAY/1/0/400w-Fo-JcVPgxAg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make a Typographical Wallpaper in Adobe Photoshop">
+                                <img itemprop="contentUrl url" src='https://1stwebdesigner.com/wp-content/uploads/2009/11/typography-tutorial/text6-how-to-create-typographic-wallpaper.jpg' alt='How To Make a Typographical Wallpaper in Adobe Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stWebDesigner" />
+                                </span>
+                                <a href='https://1stwebdesigner.com/wp-content/uploads/2009/11/typography-tutorial/text6-how-to-create-typographic-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Maker - Make Your Own Wallpaper & Background | Fotor">
+                                <img itemprop="contentUrl url" src='https://pub-static.fotor.com/assets/projects/pages/4e2575bb08b543618a828f6d12d3f1f3/fotor-8ba5a892e3cb4f1dae576ea84ead16e7.jpg' alt='Wallpaper Maker - Make Your Own Wallpaper & Background | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://pub-static.fotor.com/assets/projects/pages/4e2575bb08b543618a828f6d12d3f1f3/fotor-8ba5a892e3cb4f1dae576ea84ead16e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Maker - Make Your Own Wallpaper in Canva">
+                                <img itemprop="contentUrl url" src='https://template.canva.com/EAEWlHhQQxc/1/0/400w-YJyDzmHwilU.jpg' alt='Wallpaper Maker - Make Your Own Wallpaper in Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://template.canva.com/EAEWlHhQQxc/1/0/400w-YJyDzmHwilU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create wallpaper, banner with modern metal text">
+                                <img itemprop="contentUrl url" src='https://photooxy.com/uploads/worigin/2017/08/27/icon5915cafbc4d8d_9a5568f9e53bfd56d98096dbbdc9ed9259a24ec40ad87_c81dd4996d599ca23550d029a4b94dd3.jpg' alt='Create wallpaper, banner with modern metal text'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photooxy.com" />
+                                </span>
+                                <a href='https://photooxy.com/uploads/worigin/2017/08/27/icon5915cafbc4d8d_9a5568f9e53bfd56d98096dbbdc9ed9259a24ec40ad87_c81dd4996d599ca23550d029a4b94dd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers quotes, You Have to Create your Future ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/a4/b6/53a4b6c52b4025a80a13ed4eb8915cef.jpg' alt='Download wallpapers quotes, You Have to Create your Future ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/a4/b6/53a4b6c52b4025a80a13ed4eb8915cef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make a Typographical Wallpaper in Adobe Photoshop">
+                                <img itemprop="contentUrl url" src='https://1stwebdesigner.com/wp-content/uploads/2009/11/typography-tutorial/motionblur2-how-to-create-typographic-wallpaper.jpg' alt='How To Make a Typographical Wallpaper in Adobe Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stWebDesigner" />
+                                </span>
+                                <a href='https://1stwebdesigner.com/wp-content/uploads/2009/11/typography-tutorial/motionblur2-how-to-create-typographic-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Ocean Waves Pictures: Nature's Beauty Unleashed</title>
+                    <meta name="description" content="Explore breathtaking ocean waves pictures that showcase the beauty and power of the sea. Perfect for nature enthusiasts and artists, our curated collection celebrates the tranquility and dynamism of ocean waves, inviting you to dive into their captivating essence.">
+                    <meta name="keywords" content="ocean waves pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ocean-waves-pictures">
+                            <span itemprop="name">ocean waves pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ocean Waves Pictures: Nature's Beauty Unleashed</h1>
+                <p>Ocean waves pictures capture the mesmerizing beauty and power of the sea. From crashing surf to gentle ripples, these images showcase the diverse moods of the ocean. Ideal for nature lovers, artists, and photographers, each picture tells a unique story, inviting viewers to immerse themselves in the tranquil yet dynamic world of waves.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,300+ Ocean Wave Breaking Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155380802/photo/close-up-view-of-huge-ocean-waves.jpg?s=612x612&w=0&k=20&c=QlyP-ou1nMNO0uaWKr8DN0pH8o9m0MaarvDaMNPgHrg=' alt='50,300+ Ocean Wave Breaking Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155380802/photo/close-up-view-of-huge-ocean-waves.jpg?s=612x612&w=0&k=20&c=QlyP-ou1nMNO0uaWKr8DN0pH8o9m0MaarvDaMNPgHrg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Images – Browse 9,242,292 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/19/15/89/360_F_219158969_kv2s7REq6A7arX6n9TX6tt6H9g7uujYU.jpg' alt='Ocean Waves Images – Browse 9,242,292 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/19/15/89/360_F_219158969_kv2s7REq6A7arX6n9TX6tt6H9g7uujYU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/414268/pexels-photo-414268.jpeg?cs=srgb&dl=pexels-pixabay-414268.jpg&fm=jpg' alt='Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4161">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/414268/pexels-photo-414268.jpeg?cs=srgb&dl=pexels-pixabay-414268.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="218,400+ Ocean Waves Close Up Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1222094389/photo/wave-crashing-in-ocean-with-blue-sky.jpg?s=612x612&w=0&k=20&c=s_I2fh7pRsDkto2LidgoNyAtW-Hj9ktIqGwsJFvTtAU=' alt='218,400+ Ocean Waves Close Up Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1222094389/photo/wave-crashing-in-ocean-with-blue-sky.jpg?s=612x612&w=0&k=20&c=s_I2fh7pRsDkto2LidgoNyAtW-Hj9ktIqGwsJFvTtAU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3282189/pexels-photo-3282189.jpeg?cs=srgb&dl=pexels-raybilcliff-3282189.jpg&fm=jpg' alt='Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3282189/pexels-photo-3282189.jpeg?cs=srgb&dl=pexels-raybilcliff-3282189.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Majestic ocean wave Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/6/6/b66c3aa6-305d-4b30-a473-73fda35826d6_large/majestic-ocean-wave-stockcake.jpg' alt='Free Majestic ocean wave Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/6/6/b66c3aa6-305d-4b30-a473-73fda35826d6_large/majestic-ocean-wave-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="906,467 Ocean Waves Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sunset-sunrise-over-ocean-sea-waves-159487059.jpg' alt='906,467 Ocean Waves Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sunset-sunrise-over-ocean-sea-waves-159487059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathtaking Wave Photos You Won't Believe Are Real | Reader's Digest">
+                                <img itemprop="contentUrl url" src='https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1142330016-1024x683.jpg' alt='Breathtaking Wave Photos You Won't Believe Are Real | Reader's Digest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reader's Digest" />
+                                </span>
+                                <a href='https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1142330016-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Images – Browse 9,242,292 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/24/59/84/360_F_224598402_ygREV8C2Uyh803MVdNDXsYyNiI2VYChN.jpg' alt='Ocean Waves Images – Browse 9,242,292 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/24/59/84/360_F_224598402_ygREV8C2Uyh803MVdNDXsYyNiI2VYChN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave Images (HD) - Download Free Photos of Ocean Waves">
+                                <img itemprop="contentUrl url" src='https://burst.shopifycdn.com/photos/rich-sunset-reflected-on-waters.jpg?width=1000&format=pjpg&exif=0&iptc=0' alt='Wave Images (HD) - Download Free Photos of Ocean Waves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopify" />
+                                </span>
+                                <a href='https://burst.shopifycdn.com/photos/rich-sunset-reflected-on-waters.jpg?width=1000&format=pjpg&exif=0&iptc=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning December 2023 Desktop Wallpapers</title>
+                    <meta name="description" content="Discover beautiful December 2023 desktop wallpapers to enhance your computer. Choose from winter scenes, festive themes, and artistic designs that bring the holiday spirit to your workspace. Download now for a refreshing seasonal look that inspires creativity!">
+                    <meta name="keywords" content="december wallpaper desktop 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/december-wallpaper-desktop-2023">
+                            <span itemprop="name">december wallpaper desktop 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning December 2023 Desktop Wallpapers</h1>
+                <p>As December 2023 approaches, elevate your workspace with stunning December wallpaper for your desktop. Embrace the cozy vibes of the holiday season with beautiful winter landscapes, festive decorations, and artistic designs that inspire. Refresh your screen and bring the spirit of December right to your fingertips!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 FREE DECEMBER 2023 DESKTOP CALENDAR BACKGROUNDS (EASY DOWNLOAD)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/81/8d/04818d40df3cf6e2da2d0af6115f503c.jpg' alt='20 FREE DECEMBER 2023 DESKTOP CALENDAR BACKGROUNDS (EASY DOWNLOAD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/81/8d/04818d40df3cf6e2da2d0af6115f503c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Calendar Desktop Wallpaper | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-9-1024x576.png' alt='December Calendar Desktop Wallpaper | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-9-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 wallpapers – 96 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday34.jpg' alt='December 2023 wallpapers – 96 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 wallpapers – 96 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday28.jpg' alt='December 2023 wallpapers – 96 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Calendar Desktop Wallpaper | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/08/December-2023-Calendar-Desktop-Wallpaper-5-1024x576.png' alt='December Calendar Desktop Wallpaper | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/08/December-2023-Calendar-Desktop-Wallpaper-5-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 wallpapers – 96 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday72.jpg' alt='December 2023 wallpapers – 96 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/12-2023/december-2023-wallpaper-calendar-christmas-tree-1366x768.jpg' alt='December 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5692">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/12-2023/december-2023-wallpaper-calendar-christmas-tree-1366x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Calendar Desktop Wallpaper | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-5-1024x576.png' alt='December Calendar Desktop Wallpaper | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-5-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Wallpaper to Share! – The 1764 Sheperdess">
+                                <img itemprop="contentUrl url" src='https://the1764shepherdess.com/wp-content/uploads/2023/11/December-2023-wallpaper-desktop-1024x576.png' alt='December Wallpaper to Share! – The 1764 Sheperdess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The 1764 Shepherdess" />
+                                </span>
+                                <a href='https://the1764shepherdess.com/wp-content/uploads/2023/11/December-2023-wallpaper-desktop-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Scenery December 2023 Desktop Wallpaper Organizer">
+                                <img itemprop="contentUrl url" src='https://www.jennifersquires.ca/blog/wp-content/uploads/2023/11/december-2023-desktop-wallpaper-calendar-3072x1920-1.jpg' alt='Winter Scenery December 2023 Desktop Wallpaper Organizer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jennifer Squires Productions" />
+                                </span>
+                                <a href='https://www.jennifersquires.ca/blog/wp-content/uploads/2023/11/december-2023-desktop-wallpaper-calendar-3072x1920-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

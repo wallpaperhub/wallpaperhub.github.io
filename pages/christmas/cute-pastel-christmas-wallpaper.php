@@ -1,0 +1,129 @@
+<title>Adorable Pastel Christmas Wallpaper for a Joyful Holiday Vibe</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute pastel christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/cute-pastel-christmas-wallpaper">
+                            <span itemprop="name">cute pastel christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel Christmas Wallpaper for a Joyful Holiday Vibe</h1>
+                <p>Transform your holiday spirit with adorable cute pastel Christmas wallpapers. These charming designs feature soft colors, whimsical ornaments, and cozy winter scenes, perfect for adding a festive touch to your devices. Embrace the joy of the season with these delightful backgrounds that blend modern aesthetics with timeless cheer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Christmas Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-christmas-pastel-textile-seamless-pattern_513640-3733.jpg' alt='Pastel Christmas Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-christmas-pastel-textile-seamless-pattern_513640-3733.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel aesthetic sanrio christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/8d/9c/9d8d9cb3fab893f60f3d12f562892d3f.jpg' alt='pastel aesthetic sanrio christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/8d/9c/9d8d9cb3fab893f60f3d12f562892d3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink christmas rainbows Christmas tree pattern. Pastel Christmas ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/71/39/71/1000_F_471397112_KWeSYkhr1IWWhdHacByJtsl5TiD6vRGF.jpg' alt='Pink christmas rainbows Christmas tree pattern. Pastel Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/71/39/71/1000_F_471397112_KWeSYkhr1IWWhdHacByJtsl5TiD6vRGF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 853+ Christmas Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' alt='Customize 853+ Christmas Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dd/57/d0/dd57d0a166b04a8b71fe518d8ddc6c7e.jpg' alt='pastel wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dd/57/d0/dd57d0a166b04a8b71fe518d8ddc6c7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pastel Wallpapers [28+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/457/pastel-girly-christmas-wallpaper-1920x1080.jpg' alt='Christmas Pastel Wallpapers [28+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/457/pastel-girly-christmas-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Christmas Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/christmas-cookies-seamless-vector-pattern-gingerbread-background_629110-410.jpg' alt='Pastel Christmas Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/christmas-cookies-seamless-vector-pattern-gingerbread-background_629110-410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel #Christmas #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/6e/bb/c66ebb5aa7bbf0d0e1cc44530b1f6050.jpg' alt='Pastel #Christmas #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/6e/bb/c66ebb5aa7bbf0d0e1cc44530b1f6050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Aesthetic Christmas Doodle Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-aesthetic-christmas-doodle-art-xyg16rdq71m7t2ci.jpg' alt='Download Pastel Aesthetic Christmas Doodle Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-aesthetic-christmas-doodle-art-xyg16rdq71m7t2ci.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Christmas Pastel Trees Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-christmas-pastel-trees-tk7nsb9wl23osvth.jpg' alt='Simple Christmas Pastel Trees Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-christmas-pastel-trees-tk7nsb9wl23osvth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Retro Windows Wallpaper: Nostalgic Designs for Your Desktop</title>
+                    <meta name="description" content="Explore our collection of retro Windows wallpapers that blend nostalgia and style. Perfect for enhancing your desktop experience, these wallpapers feature classic designs that harken back to the early days of computing. Transform your screen with vibrant, nostalgic visuals today!">
+                    <meta name="keywords" content="retro windows wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/retro-windows-wallpaper">
+                            <span itemprop="name">retro windows wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Windows Wallpaper: Nostalgic Designs for Your Desktop</h1>
+                <p>Discover the charm of retro Windows wallpapers that bring nostalgia to your workspace. From classic pixel art to vibrant landscapes, these wallpapers evoke a sense of the past while offering a fresh aesthetic. Perfect for anyone looking to add personality to their desktop, transporting you back to the golden age of computing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 90's Retro Wallpaper, HD Hi-Tech 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/windows-10-90-s-retro_bGpqbmiUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Windows 10 90's Retro Wallpaper, HD Hi-Tech 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/windows-10-90-s-retro_bGpqbmiUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Retro wallpaper 4K : r/Windows_Redesign">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pq5h55894gz71.jpg' alt='Windows 11 Retro wallpaper 4K : r/Windows_Redesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pq5h55894gz71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Windows 10 Retro wallpaper by samforbis on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7aba39ef-773f-4b0b-a24d-3df964f30a38/da2xzlz-06454206-57ea-4331-a25e-65de58148f15.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhYmEzOWVmLTc3M2YtNGIwYi1hMjRkLTNkZjk2NGYzMGEzOFwvZGEyeHpsei0wNjQ1NDIwNi01N2VhLTQzMzEtYTI1ZS02NWRlNTgxNDhmMTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LxLnpq3bpO0yMsX2pm-74KQ2Wmj7Wsx7RG0QrqJbME4' alt='4K Windows 10 Retro wallpaper by samforbis on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7aba39ef-773f-4b0b-a24d-3df964f30a38/da2xzlz-06454206-57ea-4331-a25e-65de58148f15.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhYmEzOWVmLTc3M2YtNGIwYi1hMjRkLTNkZjk2NGYzMGEzOFwvZGEyeHpsei0wNjQ1NDIwNi01N2VhLTQzMzEtYTI1ZS02NWRlNTgxNDhmMTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LxLnpq3bpO0yMsX2pm-74KQ2Wmj7Wsx7RG0QrqJbME4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old Windows Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-windows-1920-x-1080-background-ngg7bmgpkxrk69lm.jpg' alt='100+] Old Windows Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-windows-1920-x-1080-background-ngg7bmgpkxrk69lm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Windows Retro wallpapers [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kag1qgd014961.png' alt='Simple Windows Retro wallpapers [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kag1qgd014961.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today I stumbled upon Microsoft's 4K rendering of the Windows XP ...">
+                                <img itemprop="contentUrl url" src='https://msdesign.blob.core.windows.net/wallpapers/Microsoft_Nostalgic_Windows_Wallpaper_4k.jpg' alt='Today I stumbled upon Microsoft's 4K rendering of the Windows XP ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4089">
+                                <meta itemprop="height" content="2726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ars Technica" />
+                                </span>
+                                <a href='https://msdesign.blob.core.windows.net/wallpapers/Microsoft_Nostalgic_Windows_Wallpaper_4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro #windows #95 #wallpaper #geeky #teal #original">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/03/0d/5a/030d5abb950000b1550814e22b7a2f03.jpg' alt='retro #windows #95 #wallpaper #geeky #teal #original'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/03/0d/5a/030d5abb950000b1550814e22b7a2f03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Windows 11 [3440x1440] : r/WidescreenWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xy0fkmz3yqqa1.png' alt='Retro Windows 11 [3440x1440] : r/WidescreenWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xy0fkmz3yqqa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Windows by Adam | Wallpapers | WallpaperHub">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperhub.app/cloudcache/b/2/9/2/e/6/b292e6c206a76b57b8cadf2abf4e14fdaf813096.jpg' alt='Retro Windows by Adam | Wallpapers | WallpaperHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperHub" />
+                                </span>
+                                <a href='https://cdn.wallpaperhub.app/cloudcache/b/2/9/2/e/6/b292e6c206a76b57b8cadf2abf4e14fdaf813096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Retro Windows logo, windows back in the days logo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/9d/93/959d935aa5e36c31a6043f026ad0417b.jpg' alt='HD wallpaper: Retro Windows logo, windows back in the days logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/9d/93/959d935aa5e36c31a6043f026ad0417b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

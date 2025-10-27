@@ -1,0 +1,129 @@
+<title>Star Trek Bridge Background: Explore the Final Frontier</title>
+                    <meta name="description" content="Discover the iconic Star Trek bridge background! Perfect for fans and decorators, this stunning visual captures the essence of space exploration with its sleek design and vibrant controls. Ideal for mobile screens, enhance your space-themed projects or personal spaces with this captivating backdrop.">
+                    <meta name="keywords" content="star trek bridge background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-trek-bridge-background">
+                            <span itemprop="name">star trek bridge background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Trek Bridge Background: Explore the Final Frontier</h1>
+                <p>The star trek bridge background is a captivating visual that transports viewers into the heart of space exploration. Featuring a sleek, futuristic design, bright control panels, and panoramic views of the cosmos, the bridge represents command and adventure, embodying the spirit of discovery in the Star Trek universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek: TOS Sound Effects - "U.S.S. Enterprise Bridge ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WKJcgelw2F4/hqdefault.jpg' alt='Star Trek: TOS Sound Effects - "U.S.S. Enterprise Bridge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WKJcgelw2F4/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Refurbished 'Star Trek' Bridge Aims To Beam To San Diego | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/62LwoXnJdNsLN8hVWEaKQW-1200-80.jpg' alt='Refurbished 'Star Trek' Bridge Aims To Beam To San Diego | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/62LwoXnJdNsLN8hVWEaKQW-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Bridge HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/846/thumb-1920-84604.jpg' alt='Star Trek Bridge HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/846/thumb-1920-84604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Trek Enterprise Bridge With Beige Colored Interior ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-trek-enterprise-bridge-a1q7xz2jf5rzgpjy.jpg' alt='Download Star Trek Enterprise Bridge With Beige Colored Interior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-trek-enterprise-bridge-a1q7xz2jf5rzgpjy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for a TOS bridge zoom background pic that puts you in the ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/4/33/43341e23-12a7-5386-b801-43e8a39a3be1/599caa1c1ebde.image.jpg?resize=1200%2C900' alt='Looking for a TOS bridge zoom background pic that puts you in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/4/33/43341e23-12a7-5386-b801-43e8a39a3be1/599caa1c1ebde.image.jpg?resize=1200%2C900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Trek Enterprise Bridge Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-trek-enterprise-bridge-unouywft1yqjvcez.jpg' alt='100+] Star Trek Enterprise Bridge Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-trek-enterprise-bridge-unouywft1yqjvcez.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Star Trek Continues Bridge in 3D">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/b2/46/2cb24630d54848ba5c404cfd2c986fed.jpg' alt='Explore Star Trek Continues Bridge in 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/b2/46/2cb24630d54848ba5c404cfd2c986fed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enterprise D Bridge | This is the picture of the Actual Brid… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/32/52510611_3cbe0212f4_b.jpg' alt='Enterprise D Bridge | This is the picture of the Actual Brid… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/32/52510611_3cbe0212f4_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Star Trek: TOS Enterprise Bridge Background Ambience *8 Hours* w/ quiet  conversations, calming">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vnU2qn6-hz4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBuDzszgwICzb-k4qH99DJwN1cdLA' alt='   Star Trek: TOS Enterprise Bridge Background Ambience *8 Hours* w/ quiet  conversations, calming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vnU2qn6-hz4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBuDzszgwICzb-k4qH99DJwN1cdLA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attend Your Virtual Day in Star Trek Zoom Style | Star Trek">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/star-trek-untold/YjUwNTc2MDktNzBlZS00OGQ1LWFmNDktNTJhMDdiNDI2NmVj_cc206_bg_a202_int_enterprise_d_bridge_facing_captchair_v03_co_4.jpg?auto=compress,format&rect=0,0,6782,4131&w=6782&h=4131' alt='Attend Your Virtual Day in Star Trek Zoom Style | Star Trek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6782">
+                                <meta itemprop="height" content="4131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Star Trek" />
+                                </span>
+                                <a href='https://images.prismic.io/star-trek-untold/YjUwNTc2MDktNzBlZS00OGQ1LWFmNDktNTJhMDdiNDI2NmVj_cc206_bg_a202_int_enterprise_d_bridge_facing_captchair_v03_co_4.jpg?auto=compress,format&rect=0,0,6782,4131&w=6782&h=4131' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

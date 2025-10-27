@@ -1,0 +1,129 @@
+<title>Get the Best Lorax Wallpaper for Your iPhone!</title>
+                    <meta name="description" content="Discover delightful Lorax wallpaper for your iPhone! Energize your device with colorful designs that embody nature and environmentalism. Perfect for every Dr. Seuss fan, these wallpapers are visually stunning and inspire a love for the Earth. Download yours now and showcase your unique style!">
+                    <meta name="keywords" content="lorax wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lorax-wallpaper-iphone">
+                            <span itemprop="name">lorax wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Get the Best Lorax Wallpaper for Your iPhone!</h1>
+                <p>Transform your iPhone with vibrant Lorax wallpaper! Capture the essence of the beloved Dr. Seuss character, bringing eco-friendly inspiration to your screen. Choose from various stunning designs featuring the Lorax and lush landscapes. Perfect for nature lovers and fans alike, make your iPhone reflect your passion for the environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpapers обои | The lorax, Funny iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/34/41/ae3441fb55c68f217d7a2ece568ecd55.jpg' alt='iPhone wallpapers обои | The lorax, Funny iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/34/41/ae3441fb55c68f217d7a2ece568ecd55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am the Lorax and I speak for the trees">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/c7/6c/71c76c8da186f3a2e9109ed740fc6f05.jpg' alt='I am the Lorax and I speak for the trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/c7/6c/71c76c8da186f3a2e9109ed740fc6f05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lorax Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-lorax-standing-proud-quupcny7q95rhubn.jpg' alt='100+] Lorax Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-lorax-standing-proud-quupcny7q95rhubn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/01/f1/2901f1a666191d1607104a1335fdec9f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/01/f1/2901f1a666191d1607104a1335fdec9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lorax Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/77/5e/5a775eb3c8086262e5bc987c37201e78.jpg' alt='The Lorax Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/77/5e/5a775eb3c8086262e5bc987c37201e78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lorax Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/625/625307.jpg' alt='The Lorax Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/625/625307.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorax Characters Looking Up Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-lorax-character-portrait-w61qb5z8ofeyqe80.webp' alt='Lorax Characters Looking Up Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-lorax-character-portrait-w61qb5z8ofeyqe80.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorax, dr seuss, trees, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/882/979/HD-wallpaper-lorax-dr-seuss-trees.jpg' alt='Lorax, dr seuss, trees, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/882/979/HD-wallpaper-lorax-dr-seuss-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lorax backgrounds     | Gallery posted by Neely  the Lorax ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7384814938328482309&index=2&sign=ae9a8817bbef60f30a57a3fe563b8f3f' alt='Cute Lorax backgrounds     | Gallery posted by Neely  the Lorax ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7384814938328482309&index=2&sign=ae9a8817bbef60f30a57a3fe563b8f3f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out kherrndobler's Shuffles #lorax #vibes #wallpaper #orange ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/86/99/1a/86991a0f4c0681d86a783110fd8008fc.jpg' alt='Check out kherrndobler's Shuffles #lorax #vibes #wallpaper #orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/86/99/1a/86991a0f4c0681d86a783110fd8008fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Unveiling the Background of 'Nothing Was the Same'"</title>
+                    <meta name="description" content="Discover the background of Drake's iconic album, "Nothing Was the Same." Explore its themes, production, and how it reshaped the landscape of hip-hop and R&B, reflecting personal growth and fame in Drake's journey. Join us in unraveling the story behind the music!">
+                    <meta name="keywords" content="nothing was the same background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nothing-was-the-same-background">
+                            <span itemprop="name">nothing was the same background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Unveiling the Background of 'Nothing Was the Same'"</h1>
+                <p>"Nothing Was the Same" is a pivotal album by Drake, released in 2013, showcasing a blend of introspective lyrics and captivating beats. The background explores themes of fame, relationships, and personal growth, set against a sonic landscape that incorporates elements of hip-hop and R&B. This album marked a significant evolution in Drake's artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nothing Was The Same': How Drake Changed The Game Forever">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2018/09/Drake-Nothing-Was-The-Same-deluxe-album-cover-web-optimised-820-820x820.jpg' alt='Nothing Was The Same': How Drake Changed The Game Forever'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscover Music" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2018/09/Drake-Nothing-Was-The-Same-deluxe-album-cover-web-optimised-820-820x820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nothing Was the Same - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/4/42/Drake_-_Nothing_Was_the_Same_cover.png' alt='Nothing Was the Same - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/4/42/Drake_-_Nothing_Was_the_Same_cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NOTHING WAS THE SAME | LIMITED EDITION GICLEE ON WATERCOLOR PAPER">
+                                <img itemprop="contentUrl url" src='https://129739507.cdn6.editmysite.com/uploads/1/2/9/7/129739507/s950551849721562186_p46_i1_w1200.jpeg' alt='NOTHING WAS THE SAME | LIMITED EDITION GICLEE ON WATERCOLOR PAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kadir Nelson" />
+                                </span>
+                                <a href='https://129739507.cdn6.editmysite.com/uploads/1/2/9/7/129739507/s950551849721562186_p46_i1_w1200.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Nothing Was the Same Clouds by RKellWhitlock8 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f7988ad8-ad4c-482f-8916-78aec9e2fc19/daembpc-34cbcb21-a438-44d6-8599-9ef53eb56cad.jpg/v1/fill/w_1024,h_1024,q_75,strp/drake_nothing_was_the_same_clouds_by_rkellwhitlock8_daembpc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2Y3OTg4YWQ4LWFkNGMtNDgyZi04OTE2LTc4YWVjOWUyZmMxOVwvZGFlbWJwYy0zNGNiY2IyMS1hNDM4LTQ0ZDYtODU5OS05ZWY1M2ViNTZjYWQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._3NPWPmpqpSvo0HSkBKb-9xSrXeEpdCijoPNrHXCJq0' alt='Drake Nothing Was the Same Clouds by RKellWhitlock8 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f7988ad8-ad4c-482f-8916-78aec9e2fc19/daembpc-34cbcb21-a438-44d6-8599-9ef53eb56cad.jpg/v1/fill/w_1024,h_1024,q_75,strp/drake_nothing_was_the_same_clouds_by_rkellwhitlock8_daembpc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2Y3OTg4YWQ4LWFkNGMtNDgyZi04OTE2LTc4YWVjOWUyZmMxOVwvZGFlbWJwYy0zNGNiY2IyMS1hNDM4LTQ0ZDYtODU5OS05ZWY1M2ViNTZjYWQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._3NPWPmpqpSvo0HSkBKb-9xSrXeEpdCijoPNrHXCJq0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Drake Nothing Was The Same Release Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/drake-nothing-was-the-same-p1v9kzr65oeiut53.jpg' alt='Download Drake Nothing Was The Same Release Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/drake-nothing-was-the-same-p1v9kzr65oeiut53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Drake Nothing Was The Same Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/drake-nothing-was-the-same-1080-x-1680-ewqc75vo1p0sgse4.jpg' alt='100+] Drake Nothing Was The Same Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/drake-nothing-was-the-same-1080-x-1680-ewqc75vo1p0sgse4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This item is unavailable | Etsy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/b9/8c/bbb98c5aa15d64f872dbd235168dde0f.jpg' alt='This item is unavailable | Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/b9/8c/bbb98c5aa15d64f872dbd235168dde0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download DRAKE Nothing Was The Same Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/drake-nothing-was-the-same-vmyv5uo2do2iilib.jpg' alt='Download DRAKE Nothing Was The Same Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/drake-nothing-was-the-same-vmyv5uo2do2iilib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Drake's Nothing Was The Same Album Cover Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/drake-nothing-was-the-same-1yb73pmj22efb07k.jpg' alt='Download Drake's Nothing Was The Same Album Cover Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/drake-nothing-was-the-same-1yb73pmj22efb07k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake's 'Nothing Was the Same': What the Critics Are Saying">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2013/09/drake_nothing_was_the_same_0.jpg?w=200&h=200&crop=1' alt='Drake's 'Nothing Was the Same': What the Critics Are Saying'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2013/09/drake_nothing_was_the_same_0.jpg?w=200&h=200&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

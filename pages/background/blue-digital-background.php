@@ -1,0 +1,129 @@
+<title>Stunning Blue Digital Backgrounds for Your Projects</title>
+                    <meta name="description" content="Discover vibrant blue digital backgrounds that breathe life into your designs. Perfect for enhancing websites, presentations, and social media, our collection offers diverse shades to spark creativity and captivate your audience. Transform your digital experience with these eye-catching visuals today!">
+                    <meta name="keywords" content="blue digital background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-digital-background">
+                            <span itemprop="name">blue digital background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Digital Backgrounds for Your Projects</h1>
+                <p>Explore the captivating world of blue digital backgrounds that enhance your projects and presentations. Ideal for websites, social media, or personal use, these mesmerizing designs offer a calming effect while energizing your visuals. Discover shades of blue that inspire creativity and elevate your digital aesthetics today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Light Blue Digital Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1330248664/vector/hexagonal-and-rectangular-abstracts-with-a-digital-network-image-blue-gradient-background.jpg?s=612x612&w=0&k=20&c=JgeKAVSAO_S-A0r61OP99BqNduP0CXE7gvc0jjoAD4Q=' alt='14,000+ Light Blue Digital Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1330248664/vector/hexagonal-and-rectangular-abstracts-with-a-digital-network-image-blue-gradient-background.jpg?s=612x612&w=0&k=20&c=JgeKAVSAO_S-A0r61OP99BqNduP0CXE7gvc0jjoAD4Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Digital Art Abstract Images – Browse 5,835,498 ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/06/98/61/360_F_706986180_zZgC3v7oDNVwWGtFYmvkehLTNBkkl4dd.jpg' alt='Blue Background Digital Art Abstract Images – Browse 5,835,498 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/06/98/61/360_F_706986180_zZgC3v7oDNVwWGtFYmvkehLTNBkkl4dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="761,500+ Blue Digital Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410455925/vector/dynamic-blue-particle-wave-abstract-sound-visualization-digital-structure-of-the-wave-flow.jpg?s=612x612&w=0&k=20&c=RL7do3aEvte0cKukjC30eHQ4nujXUIOa2TvQbIN8eKw=' alt='761,500+ Blue Digital Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410455925/vector/dynamic-blue-particle-wave-abstract-sound-visualization-digital-structure-of-the-wave-flow.jpg?s=612x612&w=0&k=20&c=RL7do3aEvte0cKukjC30eHQ4nujXUIOa2TvQbIN8eKw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Digital Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-data-technology-background-with-circuit-board_53876-119577.jpg' alt='Blue Digital Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-data-technology-background-with-circuit-board_53876-119577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Abstract Particle Wave Bokeh Background - Blue, Water, Snow - Beautiful  Glitter Loop Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1199496434/video/4k-abstract-particle-wave-bokeh-background-blue-water-snow-beautiful-glitter-loop.jpg?s=640x640&k=20&c=wJZnP92dlyTfrnhzG_dQ8atT77i0u3vX6_qBXhx7-WE=' alt='4k Abstract Particle Wave Bokeh Background - Blue, Water, Snow - Beautiful  Glitter Loop Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1199496434/video/4k-abstract-particle-wave-bokeh-background-blue-water-snow-beautiful-glitter-loop.jpg?s=640x640&k=20&c=wJZnP92dlyTfrnhzG_dQ8atT77i0u3vX6_qBXhx7-WE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Digital Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/705/166/non_2x/abstract-speed-digital-circuit-board-and-wave-particle-futuristic-future-high-speed-motion-on-the-blue-background-vector.jpg' alt='Blue Digital Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1589">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/705/166/non_2x/abstract-speed-digital-circuit-board-and-wave-particle-futuristic-future-high-speed-motion-on-the-blue-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Digital Art Abstract Images – Browse 5,835,498 ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/43/89/85/360_F_243898544_kj0MT8XHVEbnx7ZbTeKRLFaX5PSBFQqp.jpg' alt='Blue Background Digital Art Abstract Images – Browse 5,835,498 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/43/89/85/360_F_243898544_kj0MT8XHVEbnx7ZbTeKRLFaX5PSBFQqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Digital Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/935/672/non_2x/abstract-technology-digital-futuristic-blue-glowing-hud-circuit-high-tech-on-dark-background-vector.jpg' alt='Blue Digital Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/935/672/non_2x/abstract-technology-digital-futuristic-blue-glowing-hud-circuit-high-tech-on-dark-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Digital Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/creative-digital-blue-wallpaper-technology-innovation-landing-page-concept-3d-rendering_670147-111293.jpg' alt='Blue Digital Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/creative-digital-blue-wallpaper-technology-innovation-landing-page-concept-3d-rendering_670147-111293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,262,000+ Blue Digital Abstract Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1419766496/photo/abstract-concepts-of-cybersecurity-technology-and-digital-data-protection-protect-internet.jpg?s=612x612&w=0&k=20&c=3GM-GKO4wrU1wj03fE21cQXSVhvGBF8AO-9lOLpiaq8=' alt='1,262,000+ Blue Digital Abstract Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1419766496/photo/abstract-concepts-of-cybersecurity-technology-and-digital-data-protection-protect-internet.jpg?s=612x612&w=0&k=20&c=3GM-GKO4wrU1wj03fE21cQXSVhvGBF8AO-9lOLpiaq8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

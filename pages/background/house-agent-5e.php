@@ -1,0 +1,129 @@
+<title>Mastering the House Agent in D&D 5e: A Complete Guide</title>
+                    <meta name="description" content="Explore the intricacies of the House Agent in D&D 5e. Uncover strategies, skills, and roles that make this character essential for negotiation and influence in your campaign. Perfect for players and DMs looking to enhance storytelling and character development!">
+                    <meta name="keywords" content="house agent 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/house-agent-5e">
+                            <span itemprop="name">house agent 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering the House Agent in D&D 5e: A Complete Guide</h1>
+                <p>In Dungeons & Dragons 5th Edition, the House Agent is a pivotal character that represents a faction or organization, often playing a key role as an information broker or negotiator. Their skills in persuasion and deception can sway political tides and navigate complex social landscapes, making them invaluable in any adventuring party.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Build A Dimir Agent in DnD 5e – @clericofsune on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/0b25ee85a6c76e3112263617117fa297/fd1a0f3afc40a839-e8/s1280x1920/3f568b3fa18c7d6d6ae2c0b1ab6c3ca7fb038a6f.pnj' alt='How to Build A Dimir Agent in DnD 5e – @clericofsune on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/0b25ee85a6c76e3112263617117fa297/fd1a0f3afc40a839-e8/s1280x1920/3f568b3fa18c7d6d6ae2c0b1ab6c3ca7fb038a6f.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Agent 5e Background - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://streaming.humix.com/resized-posters/DGOpR1WQYG2/res640.webp?cb=0' alt='House Agent 5e Background - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://streaming.humix.com/resized-posters/DGOpR1WQYG2/res640.webp?cb=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #29: House Agent (DnD 5E)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9987nNjLK2E/maxresdefault.jpg' alt='Background #29: House Agent (DnD 5E)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9987nNjLK2E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Agent | D&D 5e Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest/smart/width/386/height/259?cb=20221129073406' alt='House Agent | D&D 5e Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D 5e Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest/smart/width/386/height/259?cb=20221129073406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Orien | Eberron Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/eberron/images/3/3b/House_orien_heir.png/revision/latest?cb=20150329164919' alt='House Orien | Eberron Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="1833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eberron Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/eberron/images/3/3b/House_orien_heir.png/revision/latest?cb=20150329164919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wayfinder's Guide to Eberron | D&D Beyond">
+                                <img itemprop="contentUrl url" src='https://cdn.media.amplience.net/i/wizardsprod/wayfinders-guide-to-eberron-details-05?w=768&sm=aspect&aspect=1:1&qlt=default&fmt=auto' alt='Wayfinder's Guide to Eberron | D&D Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://cdn.media.amplience.net/i/wizardsprod/wayfinders-guide-to-eberron-details-05?w=768&sm=aspect&aspect=1:1&qlt=default&fmt=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Tharashk | Eberron Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/eberron/images/5/5e/Tharashk_warrior.png/revision/latest?cb=20140422141143' alt='House Tharashk | Eberron Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="261">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eberron Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/eberron/images/5/5e/Tharashk_warrior.png/revision/latest?cb=20140422141143' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonmarks of Eberron, Revised | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/oQ007bs.jpg'' alt='Dragonmarks of Eberron, Revised | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/oQ007bs.jpg'' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Phiarlan | Eberron Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/eberron/images/1/1f/Phiarlan_spy.png/revision/latest/scale-to-width-down/861?cb=20150124182006' alt='House Phiarlan | Eberron Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eberron Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/eberron/images/1/1f/Phiarlan_spy.png/revision/latest/scale-to-width-down/861?cb=20150124182006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faction Agent 5e: Background Review — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/21194e97-c325-47b3-a0de-7cd5ebc39b49/stacey+rogue.png' alt='Faction Agent 5e: Background Review — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/21194e97-c325-47b3-a0de-7cd5ebc39b49/stacey+rogue.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

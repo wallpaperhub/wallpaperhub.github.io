@@ -1,0 +1,129 @@
+<title>Stunning Iceberg Images: Nature's Frozen Art</title>
+                    <meta name="description" content="Discover breathtaking iceberg images that showcase nature's frozen beauty. Explore stunning photographs capturing the intricate details and vibrant colors of these colossal ice formations, inviting you to appreciate the wonders of our planet's polar regions. Perfect for nature lovers and photography enthusiasts.">
+                    <meta name="keywords" content="iceberg image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iceberg-image">
+                            <span itemprop="name">iceberg image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Iceberg Images: Nature's Frozen Art</h1>
+                <p>Icebergs are stunning natural wonders that float majestically in polar oceans. These massive ice structures are often more submerged than visible, showcasing nature’s beauty and power. Capture their brilliance in photographs that reveal intricate textures and vibrant blue hues, reminding us of the delicate balance of our environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="142,500+ Iceberg Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/693474546/photo/iceberg-floating-in-arctic-sea.jpg?s=612x612&w=0&k=20&c=7JISfbPbqqOXzkwtqBuGJZi5hI1m4xhZTtuQH4kJLIk=' alt='142,500+ Iceberg Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/693474546/photo/iceberg-floating-in-arctic-sea.jpg?s=612x612&w=0&k=20&c=7JISfbPbqqOXzkwtqBuGJZi5hI1m4xhZTtuQH4kJLIk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iceberg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iceberg_in_the_Arctic_with_its_underside_exposed.jpg/1200px-Iceberg_in_the_Arctic_with_its_underside_exposed.jpg' alt='Iceberg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iceberg_in_the_Arctic_with_its_underside_exposed.jpg/1200px-Iceberg_in_the_Arctic_with_its_underside_exposed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red iceberg causes a stir in Greenland">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/msnbc/Components/Photos/040325/040325_hmed_iceberg_1130a.jpg' alt='Red iceberg causes a stir in Greenland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/msnbc/Components/Photos/040325/040325_hmed_iceberg_1130a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Truth about Icebergs | Robert Hammond Ministries">
+                                <img itemprop="contentUrl url" src='http://roberthammondministries.org/wp-content/uploads/2013/04/iceberg.jpg' alt='The Truth about Icebergs | Robert Hammond Ministries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robert Hammond Ministries" />
+                                </span>
+                                <a href='http://roberthammondministries.org/wp-content/uploads/2013/04/iceberg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iceberg Below Images – Browse 591,780 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/69/56/41/360_F_369564134_EJHAEjLyofOtWDFm10ZxWLMWnsxatx8x.jpg' alt='Iceberg Below Images – Browse 591,780 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/69/56/41/360_F_369564134_EJHAEjLyofOtWDFm10ZxWLMWnsxatx8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Iceberg.jpg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/1200px-Iceberg.jpg' alt='File:Iceberg.jpg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/1200px-Iceberg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use The Iceberg Model of Organisational Culture">
+                                <img itemprop="contentUrl url" src='http://therightquestions.co/wp-content/uploads/2024/08/iceberg-model.webp' alt='How to Use The Iceberg Model of Organisational Culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Right Questions" />
+                                </span>
+                                <a href='http://therightquestions.co/wp-content/uploads/2024/08/iceberg-model.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,800+ Iceberg Ship Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515809757/photo/ocean-liner-approaching-iceberg.jpg?s=612x612&w=0&k=20&c=nES_W8yJ0l4iJXtaxckjSvwqFy28Orx4VaaRgCurCjU=' alt='6,800+ Iceberg Ship Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515809757/photo/ocean-liner-approaching-iceberg.jpg?s=612x612&w=0&k=20&c=nES_W8yJ0l4iJXtaxckjSvwqFy28Orx4VaaRgCurCjU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iceberg Photos, Download The BEST Free Iceberg Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2574997/pexels-photo-2574997.jpeg?cs=srgb&dl=pexels-jean-christophe-andre-1336424-2574997.jpg&fm=jpg' alt='Iceberg Photos, Download The BEST Free Iceberg Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4536">
+                                <meta itemprop="height" content="2482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2574997/pexels-photo-2574997.jpeg?cs=srgb&dl=pexels-jean-christophe-andre-1336424-2574997.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iceberg Life Cycle | HowStuffWorks">
+                                <img itemprop="contentUrl url" src='https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ljZWJlcmctMTQwNTI4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjEyMDAifX19' alt='Iceberg Life Cycle | HowStuffWorks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science | HowStuffWorks" />
+                                </span>
+                                <a href='https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ljZWJlcmctMTQwNTI4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjEyMDAifX19' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

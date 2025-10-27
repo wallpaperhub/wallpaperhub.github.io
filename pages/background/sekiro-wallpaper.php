@@ -1,0 +1,129 @@
+<title>Stunning Sekiro Wallpapers for Your Device</title>
+                    <meta name="description" content="Elevate your screen with breathtaking Sekiro wallpapers! Discover a collection of vibrant images capturing the essence of this iconic action-adventure game. Perfect for fans looking to showcase their love for Sekiro while enhancing their device’s aesthetic. Download now for stunning visuals that inspire!">
+                    <meta name="keywords" content="sekiro wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sekiro-wallpaper">
+                            <span itemprop="name">sekiro wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sekiro Wallpapers for Your Device</h1>
+                <p>Sekiro wallpaper features stunning artwork showcasing the samurai's journey through a beautifully crafted world of Feudal Japan. From dynamic combat scenes to serene landscapes, these wallpapers encapsulate the essence of the game. Perfect for fans seeking to personalize their devices with striking visuals that celebrate the artistry of Sekiro.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Sekiro wallpaper : r/Sekiro">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f2d4po3oiaj81.jpg' alt='My favorite Sekiro wallpaper : r/Sekiro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3239">
+                                <meta itemprop="height" content="1851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f2d4po3oiaj81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro: Shadows Die Twice 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/100/1004016.jpg' alt='Sekiro: Shadows Die Twice 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/100/1004016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro: Shadows Die Twice HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/100/1001341.jpg' alt='Sekiro: Shadows Die Twice HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/100/1001341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wvjxthcs02i41.png?auto=webp&s=9bac2e074dd747ee8eaf07f2330c87af637d11ee' alt='Sekiro [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wvjxthcs02i41.png?auto=webp&s=9bac2e074dd747ee8eaf07f2330c87af637d11ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am never going to finish Sekiro: Shadows Die Twice | PC Gamer">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/Qjac87KCV6YFDzsRtzoCUC-1200-80.jpg' alt='I am never going to finish Sekiro: Shadows Die Twice | PC Gamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/Qjac87KCV6YFDzsRtzoCUC-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Sekiro - Shadows Die Twice by 不想当画家的 LEO">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/103/1033673.jpg' alt='HD Wallpaper: Sekiro - Shadows Die Twice by 不想当画家的 LEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/103/1033673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro Shadows Die Twice Hd Desktop Wallpaper For K Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sekiro-shadows-die-twice-hd-desktop-wallpaper-for-k-n8bdatlahnreu2bq.jpg' alt='Sekiro Shadows Die Twice Hd Desktop Wallpaper For K Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sekiro-shadows-die-twice-hd-desktop-wallpaper-for-k-n8bdatlahnreu2bq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro: Shadows Die Twice Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Sekiro-Shadows-Die-Twice-PS4-Wallpapers-34.png' alt='Sekiro: Shadows Die Twice Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Sekiro-Shadows-Die-Twice-PS4-Wallpapers-34.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro Shadows Die Twice Gaming Poster Wallpaper, HD Games 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/sekiro-shadows-die-twice-gaming-poster_bmZta2iUmZqaraWkpJRobWllrWdma2U.jpg' alt='Sekiro Shadows Die Twice Gaming Poster Wallpaper, HD Games 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/sekiro-shadows-die-twice-gaming-poster_bmZta2iUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sekiro Wallpapers Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/dc/6b/9e/dc6b9e3b326d8249f17de7a8d7debfd1.jpg' alt='Sekiro Wallpapers Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/dc/6b/9e/dc6b9e3b326d8249f17de7a8d7debfd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

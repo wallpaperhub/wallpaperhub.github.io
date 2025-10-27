@@ -1,0 +1,129 @@
+<title>Exploring Kid Cudi: The Voice of a Generation</title>
+                    <meta name="description" content="Discover Kid Cudi's profound influence on hip-hop through his introspective lyrics and unique sound. Dive into his music journey and themes of mental health and self-discovery that resonate with fans globally. Experience the artistry behind hits like "Man on the Moon" and celebrate his lasting impact on the genre.">
+                    <meta name="keywords" content="kid cudi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kid-cudi">
+                            <span itemprop="name">kid cudi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Kid Cudi: The Voice of a Generation</h1>
+                <p>Kid Cudi, an influential artist in hip-hop, blends introspective lyrics with innovative sounds. Known for his unique style, he tackles themes of mental health and identity, resonating with fans worldwide. His albums, like "Man on the Moon," have left a lasting impact, showcasing his creativity and emotional depth in music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kid_Cudi_2010_2_%28crop%29.jpg/800px-Kid_Cudi_2010_2_%28crop%29.jpg' alt='Kid Cudi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kid_Cudi_2010_2_%28crop%29.jpg/800px-Kid_Cudi_2010_2_%28crop%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY1MjkzNzc5MV5BMl5BanBnXkFtZTgwNzU5NzkwNDM@._V1_FMjpg_UX1000_.jpg' alt='Kid Cudi - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY1MjkzNzc5MV5BMl5BanBnXkFtZTgwNzU5NzkwNDM@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kid_Cudi_2010_1.jpg/220px-Kid_Cudi_2010_1.jpg' alt='Kid Cudi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kid_Cudi_2010_1.jpg/220px-Kid_Cudi_2010_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi 'Entergalactic' Album and Netflix Review">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/d7b/6f1/ed80415dd135beebadcf9e3035823469e3-kid-cudi.1x.rsquare.w1400.jpg' alt='Kid Cudi 'Entergalactic' Album and Netflix Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/d7b/6f1/ed80415dd135beebadcf9e3035823469e3-kid-cudi.1x.rsquare.w1400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi Wears Wedding Dress to 2021 CFDA Awards">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2021/11/kid-cudi-cfda-2021-billboard-1548-1636604687.jpg?w=942&h=623&crop=1' alt='Kid Cudi Wears Wedding Dress to 2021 CFDA Awards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2021/11/kid-cudi-cfda-2021-billboard-1548-1636604687.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi | Hip Hop Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hip-hop-music/images/5/58/Cudder.jpg/revision/latest/scale-to-width-down/1200?cb=20210915090322' alt='Kid Cudi | Hip Hop Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hip Hop Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hip-hop-music/images/5/58/Cudder.jpg/revision/latest/scale-to-width-down/1200?cb=20210915090322' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Need to Talk About Kid Cudi's Cameo in M. Night Shyamalan's ...">
+                                <img itemprop="contentUrl url" src='https://media.them.us/photos/66bbcb10233728d61efddfe1/16:9/w_2560%2Cc_limit/THEM%2520Kid%2520Cudi%2520Trap%2520Header.jpg' alt='We Need to Talk About Kid Cudi's Cameo in M. Night Shyamalan's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Them" />
+                                </span>
+                                <a href='https://media.them.us/photos/66bbcb10233728d61efddfe1/16:9/w_2560%2Cc_limit/THEM%2520Kid%2520Cudi%2520Trap%2520Header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi | Westworld Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/westworld/images/9/91/Kid_Cudi.jpg/revision/latest?cb=20190808233458' alt='Kid Cudi | Westworld Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Westworld Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/westworld/images/9/91/Kid_Cudi.jpg/revision/latest?cb=20190808233458' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616100005174876faa285687786c3d314ae0' alt='Kid Cudi Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616100005174876faa285687786c3d314ae0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Cudi Launches Interactive Live Music App Encore">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1210689746-H-2020-1603925642.jpg?w=1296&h=730&crop=1' alt='Kid Cudi Launches Interactive Live Music App Encore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1210689746-H-2020-1603925642.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

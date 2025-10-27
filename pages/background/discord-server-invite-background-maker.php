@@ -1,0 +1,129 @@
+<title>Create Stunning Discord Server Invite Backgrounds Easily</title>
+                    <meta name="description" content="Design custom invite backgrounds for your Discord server effortlessly! Our intuitive maker helps you create visually striking graphics that attract new members. Personalize with logos and colors, ensuring your server looks unique and inviting. Join the fun and enhance your Discord community today!">
+                    <meta name="keywords" content="discord server invite background maker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-server-invite-background-maker">
+                            <span itemprop="name">discord server invite background maker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Stunning Discord Server Invite Backgrounds Easily</h1>
+                <p>Elevate your Discord server's appeal with a personalized invite background maker! Create unique and eye-catching designs that capture your community's essence. With easy-to-use tools and customizable templates, you can add your server's logo, colors, and themes. Attract new members and make your server stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Discord Server Invite Background">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/size/w1200/2021/03/discord-server-invite-background-cover.png' alt='How to Make a Discord Server Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/size/w1200/2021/03/discord-server-invite-background-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a full Discord Server Invite Background "template" for you ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lrl1dmy32yo51.png' alt='Made a full Discord Server Invite Background "template" for you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lrl1dmy32yo51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Discord Server Invite Background">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/2021/03/discord-server-invite-background-3--1-.jpeg' alt='How to Make a Discord Server Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/2021/03/discord-server-invite-background-3--1-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Discord Invite Background">
+                                <img itemprop="contentUrl url" src='http://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background.jpg?v=1676774610' alt='Retro Discord Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodpunch's Graphics" />
+                                </span>
+                                <a href='http://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background.jpg?v=1676774610' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Discord Server Invite Background">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/2021/03/discord-server-invite-background-3--3-.jpeg' alt='How to Make a Discord Server Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/2021/03/discord-server-invite-background-3--3-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sundown Invite Background">
+                                <img itemprop="contentUrl url" src='https://woodpunchsgraphics.com/cdn/shop/products/Sundown-Discord-Invite-BG.jpg?v=1676774943&width=1445' alt='Sundown Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodpunch's Graphics" />
+                                </span>
+                                <a href='https://woodpunchsgraphics.com/cdn/shop/products/Sundown-Discord-Invite-BG.jpg?v=1676774943&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Discord Invite Background">
+                                <img itemprop="contentUrl url" src='https://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background-Blue-2.jpg?v=1676774779&width=1946' alt='Retro Discord Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodpunch's Graphics" />
+                                </span>
+                                <a href='https://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background-Blue-2.jpg?v=1676774779&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ember Invite Background">
+                                <img itemprop="contentUrl url" src='http://woodpunchsgraphics.com/cdn/shop/products/Ember-Discord-Invite-Background.jpg?v=1676772721' alt='Ember Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodpunch's Graphics" />
+                                </span>
+                                <a href='http://woodpunchsgraphics.com/cdn/shop/products/Ember-Discord-Invite-Background.jpg?v=1676772721' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Custom Server Invite on Discord">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wvjLILG8tOU/mqdefault.jpg' alt='How to Make a Custom Server Invite on Discord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wvjLILG8tOU/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Discord Invite Background">
+                                <img itemprop="contentUrl url" src='https://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background-Blue.jpg?v=1676774779&width=416' alt='Retro Discord Invite Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodpunch's Graphics" />
+                                </span>
+                                <a href='https://woodpunchsgraphics.com/cdn/shop/products/Retro-Discord-Server-Invite-Background-Blue.jpg?v=1676774779&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Email Background Check: Verify and Protect</title>
+                    <meta name="description" content="Uncover important insights with an email background check. Verify identities and protect yourself from scams. Learn how to efficiently check the history of email addresses for safer interactions today!">
+                    <meta name="keywords" content="email background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/email-background-check">
+                            <span itemprop="name">email background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Email Background Check: Verify and Protect</h1>
+                <p>Conducting an email background check is an essential step in verifying identities and ensuring safety. It involves checking the history associated with an email address, uncovering potential risks such as scams or fraudulent identities. By utilizing various tools, individuals and businesses can make informed decisions and protect themselves.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Screening - Backgrounds Online">
+                                <img itemprop="contentUrl url" src='https://content.backgroundsonline.com/images/sites/bgo/appss-email.png' alt='Employment Background Screening - Backgrounds Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.backgroundsonline.com" />
+                                </span>
+                                <a href='https://content.backgroundsonline.com/images/sites/bgo/appss-email.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee background verification check email in Word and Pdf formats">
+                                <img itemprop="contentUrl url" src='https://static.dexform.com/media/docs/11106/employee-background-verification-check-email_1.png' alt='Employee background verification check email in Word and Pdf formats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DexForm" />
+                                </span>
+                                <a href='https://static.dexform.com/media/docs/11106/employee-background-verification-check-email_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks">
+                                <img itemprop="contentUrl url" src='http://training3.proscreening.com/bgchecks/images/upload/1481232347-1.jpg' alt='Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="961">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='http://training3.proscreening.com/bgchecks/images/upload/1481232347-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleMatter: How do I complete my background check? – Fourth ...">
+                                <img itemprop="contentUrl url" src='https://media.snagajob.com/zendesk_kb/article_attachments/115001105906-background_check2.png' alt='PeopleMatter: How do I complete my background check? – Fourth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fourth & HotSchedules Customer Success Portal" />
+                                </span>
+                                <a href='https://media.snagajob.com/zendesk_kb/article_attachments/115001105906-background_check2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I Request Background Checks for Volunteers? – HELPFUL VILLAGE">
+                                <img itemprop="contentUrl url" src='https://support.helpfulvillage.com/hc/article_attachments/4420559853207/Screen_Shot_2022-01-27_at_1.30.04_PM.png' alt='How do I Request Background Checks for Volunteers? – HELPFUL VILLAGE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="817">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HELPFUL VILLAGE" />
+                                </span>
+                                <a href='https://support.helpfulvillage.com/hc/article_attachments/4420559853207/Screen_Shot_2022-01-27_at_1.30.04_PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks">
+                                <img itemprop="contentUrl url" src='http://bgchecks.proscreening.com/bgchecks/images/upload/1546642399-Picture14.png' alt='Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1895">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='http://bgchecks.proscreening.com/bgchecks/images/upload/1546642399-Picture14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check email from Checkr ? | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/screenshot_20190201-132647-png.293727/' alt='Background check email from Checkr ? | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/screenshot_20190201-132647-png.293727/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Check Adverse Action Letter | PDF | Word">
+                                <img itemprop="contentUrl url" src='https://esign.com/wp-content/uploads/Background-Check-Adverse-Action-Letter.png' alt='Free Background Check Adverse Action Letter | PDF | Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eSign" />
+                                </span>
+                                <a href='https://esign.com/wp-content/uploads/Background-Check-Adverse-Action-Letter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening with Verified First">
+                                <img itemprop="contentUrl url" src='https://help.jazzhr.com/servlet/rtaImage?eid=ka1Uk00000004gL&feoid=00N2R000007IzLX&refid=0EM3n000004AD2r' alt='Background Screening with Verified First'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1452">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JazzHR Help Center" />
+                                </span>
+                                <a href='https://help.jazzhr.com/servlet/rtaImage?eid=ka1Uk00000004gL&feoid=00N2R000007IzLX&refid=0EM3n000004AD2r' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Update To Candidates Email Template in Google ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/50250/Background-Check-Update-To-Candidates-Email-1.jpg' alt='Background Check Update To Candidates Email Template in Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/50250/Background-Check-Update-To-Candidates-Email-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

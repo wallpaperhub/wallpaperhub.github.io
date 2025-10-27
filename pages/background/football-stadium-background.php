@@ -1,0 +1,129 @@
+<title>Football Stadiums: A Glimpse into History and Passion</title>
+                    <meta name="description" content="Discover the captivating world of football stadiums, where history meets passion. Explore iconic arenas that capture the essence of the game and the unforgettable moments that unfold within their walls. Perfect for fans seeking to enhance their love for football!">
+                    <meta name="keywords" content="football stadium background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/football-stadium-background">
+                            <span itemprop="name">football stadium background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football Stadiums: A Glimpse into History and Passion</h1>
+                <p>Football stadiums are more than just venues for the game; they are historic arenas filled with passion, culture, and unforgettable moments. Their towering structures and vibrant atmospheres create a backdrop for fierce rivalries and celebrations alike. Each stadium tells a story, echoing the spirit of the game and its fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1502846052/photo/textured-soccer-game-field-with-neon-fog-center-midfield.jpg?s=612x612&w=0&k=20&c=LPSo6ps1NfZ_xviL0tmhnnrcLjjFXAQhsYr3qAOfviY=' alt='83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1502846052/photo/textured-soccer-game-field-with-neon-fog-center-midfield.jpg?s=612x612&w=0&k=20&c=LPSo6ps1NfZ_xviL0tmhnnrcLjjFXAQhsYr3qAOfviY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Stadium Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' alt='Football Stadium Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Field Background Images – Browse 66,722 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/97/44/57/360_F_97445702_faYBL0ObQgGxnUOahUiIzY1w2mnJ2g4Y.jpg' alt='American Football Field Background Images – Browse 66,722 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/97/44/57/360_F_97445702_faYBL0ObQgGxnUOahUiIzY1w2mnJ2g4Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,319 American Football Stadium Lights Images, Stock Photos, 3D ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/packed-american-football-stadium-night-600nw-2483497829.jpg' alt='15,319 American Football Stadium Lights Images, Stock Photos, 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/packed-american-football-stadium-night-600nw-2483497829.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Soccer Stadium Day Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1434062157/photo/soccer-stadium-field-soccer-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=WrYqBbsMSgttmxZkOWOp6QiwnNF6h7scvoA-4QI6vvU=' alt='6,900+ Soccer Stadium Day Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1434062157/photo/soccer-stadium-field-soccer-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=WrYqBbsMSgttmxZkOWOp6QiwnNF6h7scvoA-4QI6vvU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,222,960 Background Football Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/dynamic-stadium-large-modern-filled-600nw-2472452971.jpg' alt='1,222,960 Background Football Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/dynamic-stadium-large-modern-filled-600nw-2472452971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Stadium background — Stock Photo © efks #108597802">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/3725083/10859/i/950/depositphotos_108597802-stock-photo-football-stadium-background.jpg' alt='Football Stadium background — Stock Photo © efks #108597802'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/3725083/10859/i/950/depositphotos_108597802-stock-photo-football-stadium-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Background Images – Browse 708,237 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/17/36/11/360_F_417361125_RnrhT3Np0zB0UpeD7QlwuOoyghEGGjBX.jpg' alt='Stadium Background Images – Browse 708,237 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/17/36/11/360_F_417361125_RnrhT3Np0zB0UpeD7QlwuOoyghEGGjBX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Field Background with smoke and lights, Football Backdrop,  Football Stadium Background Image - High Quality Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46050293/r/il/fb4899/5389659140/il_fullxfull.5389659140_e6hu.jpg' alt='Football Field Background with smoke and lights, Football Backdrop,  Football Stadium Background Image - High Quality Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1268">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46050293/r/il/fb4899/5389659140/il_fullxfull.5389659140_e6hu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Soccer Stadium Field Backdrop Modern Football Stadium with  Fans Green Grass Field Photography Background Sports Club Fitness Match ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media-library-service-media/14d072dc-94b7-48e3-9ed0-5dd76abcdf92.__CR0,0,970,600_PT0_SX970_V1___.jpg' alt='Amazon.com : Soccer Stadium Field Backdrop Modern Football Stadium with  Fans Green Grass Field Photography Background Sports Club Fitness Match ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media-library-service-media/14d072dc-94b7-48e3-9ed0-5dd76abcdf92.__CR0,0,970,600_PT0_SX970_V1___.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

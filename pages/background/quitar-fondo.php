@@ -1,0 +1,129 @@
+<title>Fácilmente Quita el Fondo de tus Imágenes</title>
+                    <meta name="description" content="Descubre cómo quitar el fondo de tus imágenes de forma sencilla y rápida. Mejora tus proyectos de diseño y fotografía con técnicas efectivas que resaltan tus elementos principales. Ideal para profesionales y aficionados. ¡Aprende más y transforma tus imágenes hoy!">
+                    <meta name="keywords" content="quitar fondo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/quitar-fondo">
+                            <span itemprop="name">quitar fondo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fácilmente Quita el Fondo de tus Imágenes</h1>
+                <p>Quitar fondo es una técnica esencial en el diseño gráfico y la fotografía que permite eliminar el fondo no deseado de una imagen, destacando el objeto principal. Ya sea para mejorar la presentación de un producto, crear contenido visual atractivo o facilitar un montaje, esta habilidad es muy valorada en el mundo digital.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quita el fondo de tus imágenes gratis | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1271883/tools-feature_bg-remover_hero_mobile.jpg' alt='Quita el fondo de tus imágenes gratis | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1271883/tools-feature_bg-remover_hero_mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eliminar Fondo de fotografía en Photoshop y Online">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d77a7f8ad30356d21445262/13afe806-3d7f-4118-bd25-5d081b923161/quitar-fondo-foto-en-ps.jpg' alt='Eliminar Fondo de fotografía en Photoshop y Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIKE ARNAIZ" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d77a7f8ad30356d21445262/13afe806-3d7f-4118-bd25-5d081b923161/quitar-fondo-foto-en-ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quitar fondo a una imagen online gratis | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1355666/tools-feature_bg-remover_how-to.jpg' alt='Quitar fondo a una imagen online gratis | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4184">
+                                <meta itemprop="height" content="2849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1355666/tools-feature_bg-remover_how-to.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eliminar Fondo de fotografía en Photoshop y Online">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d77a7f8ad30356d21445262/1677696371147-1T3CNW0V25WDJ0NOP70Z/quitar-fondo-photoshop.jpg' alt='Eliminar Fondo de fotografía en Photoshop y Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIKE ARNAIZ" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d77a7f8ad30356d21445262/1677696371147-1T3CNW0V25WDJ0NOP70Z/quitar-fondo-photoshop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Como quitar el fondo de una imagen SIN PROGRAMAS 2019">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f0pHRou-3hk/maxresdefault.jpg' alt='Como quitar el fondo de una imagen SIN PROGRAMAS 2019'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f0pHRou-3hk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COMO QUITAR EL FONDO DE UNA IMAGEN FÁCIL Y SIN PROGRAMAS - PIXLR 2018">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BbODbuC__Dw/sddefault.jpg' alt='COMO QUITAR EL FONDO DE UNA IMAGEN FÁCIL Y SIN PROGRAMAS - PIXLR 2018'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BbODbuC__Dw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quitar fondo a una imagen online gratis | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1355661/tools-feature_bg-remover_promo-showcase_03.jpg' alt='Quitar fondo a una imagen online gratis | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5040">
+                                <meta itemprop="height" content="3361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1355661/tools-feature_bg-remover_promo-showcase_03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cómo eliminar el fondo de una foto en Word">
+                                <img itemprop="contentUrl url" src='https://i.blogs.es/e57948/quitar-fondo/650_1200.jpg' alt='Cómo eliminar el fondo de una foto en Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xataka" />
+                                </span>
+                                <a href='https://i.blogs.es/e57948/quitar-fondo/650_1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removedor de fondo : Quitar fondo a una imagen online gratis | PicWish">
+                                <img itemprop="contentUrl url" src='https://picwish.com/es/wp-content/uploads/2023/06/free-online-background-remover.jpg' alt='Removedor de fondo : Quitar fondo a una imagen online gratis | PicWish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicWish" />
+                                </span>
+                                <a href='https://picwish.com/es/wp-content/uploads/2023/06/free-online-background-remover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cómo eliminar el fondo de una foto en Word">
+                                <img itemprop="contentUrl url" src='https://i.blogs.es/da8e06/como-eliminar-el-fondo-de-una-foto-en-word-/1366_2000.jpg' alt='Cómo eliminar el fondo de una foto en Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xataka" />
+                                </span>
+                                <a href='https://i.blogs.es/da8e06/como-eliminar-el-fondo-de-una-foto-en-word-/1366_2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

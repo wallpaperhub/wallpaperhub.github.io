@@ -1,0 +1,129 @@
+<title>Inviting Welcome Backgrounds: Enhance Your Space</title>
+                    <meta name="description" content="Discover the art of creating captivating welcome backgrounds that set the perfect tone for any environment. Learn tips and ideas for designing backgrounds that engage and invite visitors, making every interaction memorable and welcoming. Optimize your space or project effortlessly!">
+                    <meta name="keywords" content="welcome background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-background">
+                            <span itemprop="name">welcome background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inviting Welcome Backgrounds: Enhance Your Space</h1>
+                <p>Welcome backgrounds serve as the first impression for any space or project, creating a warm and inviting atmosphere. Whether it’s for a personal website, social media page, or a physical location, a well-designed background can enhance the overall experience. They set the tone, reflect personality, and engage visitors effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/010/925/944/non_2x/colorful-welcome-design-template-free-vector.jpg' alt='Welcome Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/010/925/944/non_2x/colorful-welcome-design-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best welcome background ideas | welcome background, background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/c2/e4/aac2e4ae038a93420b0190165c73e06d.jpg' alt='10 Best welcome background ideas | welcome background, background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/c2/e4/aac2e4ae038a93420b0190165c73e06d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/658/619/small/welcome-sign-letters-with-blue-sky-background-welcome-banner-greeting-card-vector.jpg' alt='Welcome Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/658/619/small/welcome-sign-letters-with-blue-sky-background-welcome-banner-greeting-card-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Background Stock Illustrations – 169,458 Welcome ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/welcome-background-shapes-bubbles-welcome-background-shapes-bubbles-266241723.jpg' alt='Welcome Background Stock Illustrations – 169,458 Welcome ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/welcome-background-shapes-bubbles-welcome-background-shapes-bubbles-266241723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Background Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/colorful-welcome-lettering-concept-design_638606-212.jpg?semt=ais_hybrid' alt='Welcome Background Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/colorful-welcome-lettering-concept-design_638606-212.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/978/361/small/colorful-floral-background-to-welcome-spring-free-vector.jpg' alt='Welcome Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/978/361/small/colorful-floral-background-to-welcome-spring-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Sign Letters Confetti Background Celebration Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/520563463/display_1500/stock-vector-welcome-sign-letters-with-confetti-background-celebration-greeting-holiday-illustration-banner-520563463.jpg' alt='Welcome Sign Letters Confetti Background Celebration Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/520563463/display_1500/stock-vector-welcome-sign-letters-with-confetti-background-celebration-greeting-holiday-illustration-banner-520563463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 | Trending Worship Backgrounds & Loops for Church">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/51/58/c551588a54726fdc89c59daf68cdd4a4.jpg' alt='Page 4 | Trending Worship Backgrounds & Loops for Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/51/58/c551588a54726fdc89c59daf68cdd4a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="654,706 Welcome Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1146069941/display_1500/stock-vector-welcome-poster-with-spectrum-brush-strokes-on-white-background-colorful-gradient-brush-design-1146069941.jpg' alt='654,706 Welcome Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1146069941/display_1500/stock-vector-welcome-poster-with-spectrum-brush-strokes-on-white-background-colorful-gradient-brush-design-1146069941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Poster. Welcoming Quote Banner on the Blue Background with ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/welcome-poster-welcoming-quote-banner-blue-background-colorful-leafs-flowers-frame-botanical-floral-illustration-303106557.jpg' alt='Welcome Poster. Welcoming Quote Banner on the Blue Background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/welcome-poster-welcoming-quote-banner-blue-background-colorful-leafs-flowers-frame-botanical-floral-illustration-303106557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

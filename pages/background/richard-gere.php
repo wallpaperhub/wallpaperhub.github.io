@@ -1,0 +1,129 @@
+<title>Discover Richard Gere: Iconic Actor & Activist</title>
+                    <meta name="description" content="Explore the life and career of Richard Gere, the beloved actor famous for roles in "Pretty Woman" and "Chicago." Learn about his contributions to film and his activism for human rights. Dive into the world of this multifaceted star today!">
+                    <meta name="keywords" content="richard gere">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/richard-gere">
+                            <span itemprop="name">richard gere</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Richard Gere: Iconic Actor & Activist</h1>
+                <p>Richard Gere is a celebrated American actor known for his charismatic performances in films like "Pretty Woman" and "Chicago." He was born on August 31, 1949, and has captivated audiences with his charm and talent. In addition to acting, Gere is an activist, advocating for human rights and the Tibetan cause.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/99/Richard_Gere-69101.jpg' alt='Richard Gere - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2616">
+                                <meta itemprop="height" content="3488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/99/Richard_Gere-69101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_FMjpg_UX1000_.jpg' alt='Richard Gere - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere - Actor, Activist">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/623_v9_bc.jpg?w=360&h=480' alt='Richard Gere - Actor, Activist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/623_v9_bc.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere Is "Happier than Ever" After Moving to Spain">
+                                <img itemprop="contentUrl url" src='https://www.instyle.com/thmb/jOcnWAp-6vOT55TDiQCr2USbfQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2186071123-102fa0711da045a6a3482ead005d1e34.jpeg' alt='Richard Gere Is "Happier than Ever" After Moving to Spain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InStyle" />
+                                </span>
+                                <a href='https://www.instyle.com/thmb/jOcnWAp-6vOT55TDiQCr2USbfQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2186071123-102fa0711da045a6a3482ead005d1e34.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere | Biography, Films, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/75/132275-050-894095B0/Richard-Gere-American-Gigolo.jpg' alt='Richard Gere | Biography, Films, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1266">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/75/132275-050-894095B0/Richard-Gere-American-Gigolo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Richard Gere Chose to 'Step Back' from Fame and Attention in '90s">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/jyjFaS-5bs3wvKB7fmF5qUpbwIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(722x336:724x338)/richard-gere-the-agency-new-york-premiere-112224-1-e89c749e70e64e85b32014a2c0bf1b5c.jpg' alt='Why Richard Gere Chose to 'Step Back' from Fame and Attention in '90s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/jyjFaS-5bs3wvKB7fmF5qUpbwIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(722x336:724x338)/richard-gere-the-agency-new-york-premiere-112224-1-e89c749e70e64e85b32014a2c0bf1b5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere still looks good. Here is his before and after ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u0iwt5yxylub1.jpg' alt='Richard Gere still looks good. Here is his before and after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u0iwt5yxylub1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere and His Wife Share Peek Inside Glamorous New Life in ...">
+                                <img itemprop="contentUrl url" src='https://na.rdcpix.com/d1e505bac792a6091e427badbc7241faw-c1379852109srd-w928_q80.jpg' alt='Richard Gere and His Wife Share Peek Inside Glamorous New Life in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Realtor.com" />
+                                </span>
+                                <a href='https://na.rdcpix.com/d1e505bac792a6091e427badbc7241faw-c1379852109srd-w928_q80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere's handsome son has his famous mom's striking features ...">
+                                <img itemprop="contentUrl url" src='https://images.hellomagazine.com/horizon/square/e85ce276252f-richard-gere-smiling.jpg' alt='Richard Gere's handsome son has his famous mom's striking features ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HELLO! Magazine" />
+                                </span>
+                                <a href='https://images.hellomagazine.com/horizon/square/e85ce276252f-richard-gere-smiling.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richard Gere, Wife Alejandra Silva's Family Album: Photos | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2022/12/Richard-Geres-Sweetest-Photos-With-His-3-Sons-Wife-Alejandra-Silva-Through-the-Years-Family-Album-11.jpg?quality=40&strip=all' alt='Richard Gere, Wife Alejandra Silva's Family Album: Photos | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1979">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2022/12/Richard-Geres-Sweetest-Photos-With-His-3-Sons-Wife-Alejandra-Silva-Through-the-Years-Family-Album-11.jpg?quality=40&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

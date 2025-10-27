@@ -1,0 +1,129 @@
+<title>Charming Sumikko Gurashi Wallpapers for Your Space</title>
+                    <meta name="description" content="Discover the cutest Sumikko Gurashi wallpapers to enhance your home decor! Perfect for fans, these delightful designs feature adorable characters that bring joy and whimsy to any room. Enjoy a cozy atmosphere with these charming, high-quality wallpapers!">
+                    <meta name="keywords" content="sumikko gurashi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sumikko-gurashi-wallpaper">
+                            <span itemprop="name">sumikko gurashi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Sumikko Gurashi Wallpapers for Your Space</h1>
+                <p>Brighten up your space with adorable Sumikko Gurashi wallpapers! These charming characters from Japan bring a sense of warmth and whimsy to any room. Choose from various designs showcasing shy critters enjoying their cozy corners. Perfect for fans of cute aesthetics, these wallpapers bring joy and character to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumikko Baby Wallpaper | Sumikko Gurashi Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sumikko-gurashi/images/a/af/Babywallpaper.png/revision/latest/scale-to-width-down/700?cb=20231018051407' alt='Sumikko Baby Wallpaper | Sumikko Gurashi Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sumikko Gurashi Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sumikko-gurashi/images/a/af/Babywallpaper.png/revision/latest/scale-to-width-down/700?cb=20231018051407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Night Park Wallpaper | Sumikko Gurashi Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sumikko-gurashi/images/a/ad/Ghostnightparkwallpaper.png/revision/latest?cb=20231017015339' alt='Ghost Night Park Wallpaper | Sumikko Gurashi Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sumikko Gurashi Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sumikko-gurashi/images/a/ad/Ghostnightparkwallpaper.png/revision/latest?cb=20231017015339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sumikko Gurashi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sumikko-gurashi-cbwovztzd7i8sp3d.jpg' alt='100+] Sumikko Gurashi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sumikko-gurashi-cbwovztzd7i8sp3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumikko Gurashi In Hot Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sumikko-gurashi-in-hot-spring-ogzgev1goihe6akn.jpg' alt='Sumikko Gurashi In Hot Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sumikko-gurashi-in-hot-spring-ogzgev1goihe6akn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Sumikko Gurashi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/130/thumb-1920-1300033.png' alt='Download Anime Sumikko Gurashi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/130/thumb-1920-1300033.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumikko Gurashi Green Clover Pattern Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/36_1080_1920.png' alt='Sumikko Gurashi Green Clover Pattern Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/36_1080_1920.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sumikko Gurashi Anime HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1350904.png' alt='Download Sumikko Gurashi Anime HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1350904.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumikko Gurashi Nighttime Star Train Wallpaper For Desktop + ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/Sumikko-Gurashi-Nighttime-Star-Train-Wallpaper_1920_1080-1536x864.png' alt='Sumikko Gurashi Nighttime Star Train Wallpaper For Desktop + ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/Sumikko-Gurashi-Nighttime-Star-Train-Wallpaper_1920_1080-1536x864.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumikko Gurashi ☆ | Iphone wallpaper kawaii, Cute cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/7c/18/217c18ffb6cfa860e7d83b34e0177046.jpg' alt='Sumikko Gurashi ☆ | Iphone wallpaper kawaii, Cute cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/7c/18/217c18ffb6cfa860e7d83b34e0177046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Sumikko gurashi ideas | kawaii wallpaper, cute drawings, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a0/9b/f8/a09bf82089c2d88a7372cd75c58b534e.jpg' alt='55 Sumikko gurashi ideas | kawaii wallpaper, cute drawings, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a0/9b/f8/a09bf82089c2d88a7372cd75c58b534e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

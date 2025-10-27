@@ -1,0 +1,129 @@
+<title>Stunning Anime Love Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore beautiful anime love wallpapers that capture romance and passion. Perfect for fans wanting to enhance their devices with captivating images of beloved couples. Download now to bring a touch of anime magic to your screen!">
+                    <meta name="keywords" content="anime love wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-love-wallpaper">
+                            <span itemprop="name">anime love wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Love Wallpapers for Your Device</h1>
+                <p>Elevate your screen with stunning anime love wallpapers! Discover a variety of enchanting designs featuring your favorite couples, from heartwarming moments to passionate embraces. Perfect for anime fans, these wallpapers add a touch of romance and art to your devices, keeping the spirit of love alive around the clock!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette Of Couple Love Anime Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/silhouette-of-couple-love-anime-eptkmyu5p4r2lodo.jpg' alt='Silhouette Of Couple Love Anime Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/silhouette-of-couple-love-anime-eptkmyu5p4r2lodo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Couple Heartfelt HD Wallpaper by Benjamin Cehelsky">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/736/736227.png' alt='Anime Couple Heartfelt HD Wallpaper by Benjamin Cehelsky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2189">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/736/736227.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ iPhone Anime Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/8e/4b/998e4bc98403785a9052599d0eb696a7.jpg' alt='40+ iPhone Anime Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/8e/4b/998e4bc98403785a9052599d0eb696a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Love Light Love Kiss Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-love-light-love-kiss-8txn9ftejhwmm9nz.jpg' alt='Anime Love Light Love Kiss Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-love-light-love-kiss-8txn9ftejhwmm9nz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Anime Love Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-love-aincrad-final-floor-l2t9iic3ste6x0xr.jpg' alt='300+] Anime Love Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-love-aincrad-final-floor-l2t9iic3ste6x0xr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlit Anime Romance: 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/307/307001.jpg' alt='Moonlit Anime Romance: 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/307/307001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romance, anime, love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/838/231/HD-wallpaper-romance-anime-love.jpg' alt='Romance, anime, love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/838/231/HD-wallpaper-romance-anime-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't Click Here If You Love Anime ... Just Don't Do It !">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0d/99/49/0d9949eec1af2d952228314009232fe7.jpg' alt='Don't Click Here If You Love Anime ... Just Don't Do It !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0d/99/49/0d9949eec1af2d952228314009232fe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Boy And Girl In Love Wallpaper Free Desktop | Anime Bo… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/8736/16737024107_720f7dc1ba_b.jpg' alt='Anime Boy And Girl In Love Wallpaper Free Desktop | Anime Bo… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/8736/16737024107_720f7dc1ba_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="av43-anime-kiss-love-blue-girl-boy-illustration-art-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-av43-anime-kiss-love-blue-girl-boy-illustration-art-41-iphone-wallpaper.jpg' alt='av43-anime-kiss-love-blue-girl-boy-illustration-art-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-av43-anime-kiss-love-blue-girl-boy-illustration-art-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

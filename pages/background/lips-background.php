@@ -1,0 +1,129 @@
+<title>"The Allure of Lips: A Cultural Perspective"</title>
+                    <meta name="description" content="Explore the captivating significance of lips across cultures and trends. Discover how their aesthetic appeal influences art, beauty, and fashion, making them a timeless symbol of expression and allure.">
+                    <meta name="keywords" content="lips background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lips-background">
+                            <span itemprop="name">lips background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Allure of Lips: A Cultural Perspective"</h1>
+                <p>Lips are a prominent focal point in facial aesthetics, often drawing attention due to their softness and color. Their background represents a canvas where beauty and expression meet, with various cultures attributing unique meanings to lip aesthetics. This fascination inspires art, fashion, and makeup trends continually evolving over time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,372 Lipstick Wallpaper Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/94010314/display_1500/stock-vector-vector-seamless-background-lips-prints-94010314.jpg' alt='31,372 Lipstick Wallpaper Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/94010314/display_1500/stock-vector-vector-seamless-background-lips-prints-94010314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/c9/12/11c912c16db281a3db13f72426b168f8.jpg' alt='Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/c9/12/11c912c16db281a3db13f72426b168f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Watercolor lips pattern background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-lips-pattern-background_23-2151175381.jpg' alt='Free Vector | Watercolor lips pattern background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-lips-pattern-background_23-2151175381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Lips Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-lips-pattern-background_23-2151177968.jpg' alt='Page 2 | Lips Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-lips-pattern-background_23-2151177968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kylie Jenner Lips Backgrounds Images & Pictures | Free Download On ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201230/pngtree-valentines-day-little-love-lip-print-background-image_518849.jpg' alt='Kylie Jenner Lips Backgrounds Images & Pictures | Free Download On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201230/pngtree-valentines-day-little-love-lip-print-background-image_518849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="578 Lips Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/947549020/vector/lip-pattern.jpg?s=612x612&w=gi&k=20&c=_1aEu65rrtF_1l7v6TESuTbyD5nHmFlep10cxjsDL0U=' alt='578 Lips Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/947549020/vector/lip-pattern.jpg?s=612x612&w=gi&k=20&c=_1aEu65rrtF_1l7v6TESuTbyD5nHmFlep10cxjsDL0U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/c3/1d/d0c31d8500209db4ccb1a065954ec1bb.jpg' alt='Lips Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/c3/1d/d0c31d8500209db4ccb1a065954ec1bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink lips seamless pattern Vector female lips background.Colorful ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/25/79/42/1000_F_125794258_nBgmAn0RNTFgCfXidoK7NHVKgEeCXgPB.jpg' alt='Pink lips seamless pattern Vector female lips background.Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/25/79/42/1000_F_125794258_nBgmAn0RNTFgCfXidoK7NHVKgEeCXgPB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Background Red Lips On White Background Royalty Free SVG ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nete/nete1612/nete161200045/68720210-seamless-background-red-lips-on-white-background.jpg' alt='Seamless Background Red Lips On White Background Royalty Free SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nete/nete1612/nete161200045/68720210-seamless-background-red-lips-on-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Lips Peel + Stick Wallpaper – The Novogratz">
+                                <img itemprop="contentUrl url" src='https://www.shopthenovogratz.com/cdn/shop/products/NG14129_PaintedLips_Red_Swatch.jpg?v=1706720566' alt='Painted Lips Peel + Stick Wallpaper – The Novogratz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Novogratz" />
+                                </span>
+                                <a href='https://www.shopthenovogratz.com/cdn/shop/products/NG14129_PaintedLips_Red_Swatch.jpg?v=1706720566' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

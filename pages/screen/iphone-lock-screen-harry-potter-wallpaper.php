@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover enchanting Harry Potter lock screen wallpapers for your iPhone! Personalize your device with vibrant designs featuring your favorite characters and Hogwarts scenes. Perfect for any wizarding world fan looking to showcase their love for magic on their phone!">
+                    <meta name="keywords" content="iphone lock screen harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/iphone-lock-screen-harry-potter-wallpaper">
+                            <span itemprop="name">iphone lock screen harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Lock Screen Wallpapers for iPhone</h1>
+                <p>Transform your iPhone lock screen into a magical world with stunning Harry Potter wallpapers! Choose your favorite house emblem, enchanting scenes from Hogwarts, or beloved characters like Harry, Hermione, and Ron. Add a touch of wizardry to your phone with vibrant and captivating designs that showcase your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Perfect Lock Screen. : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yy0eojw0u2wa1.jpg' alt='The Perfect Lock Screen. : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1862">
+                                <meta itemprop="height" content="4029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yy0eojw0u2wa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter, lock screen, funny, harry potter, muggle, harry ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/563/584/HD-wallpaper-harry-potter-lock-screen-funny-harry-potter-muggle-harry-potter-lock-screen-harry-potter.jpg' alt='Harry Potter, lock screen, funny, harry potter, muggle, harry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/563/584/HD-wallpaper-harry-potter-lock-screen-funny-harry-potter-muggle-harry-potter-lock-screen-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Harry Potter Lockscreen ideas | harry potter, potter, harry ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/55/1c/77/551c77e4ae0c8424ab0b6beee7f1f4ad.jpg' alt='90 Harry Potter Lockscreen ideas | harry potter, potter, harry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/55/1c/77/551c77e4ae0c8424ab0b6beee7f1f4ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love the new iOS 16 wallpapers depth feature : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3dqlnb3c9je91.jpg' alt='Love the new iOS 16 wallpapers depth feature : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3dqlnb3c9je91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Harry Potter Red Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-harry-potter-red-lockscreen-26ylkk005viq411g.jpg' alt='Cute Harry Potter Red Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-harry-potter-red-lockscreen-26ylkk005viq411g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Harry Potter Golden Snitch Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-harry-potter-golden-snitch-yj3v7f422td0v6bn.jpg' alt='Cute Harry Potter Golden Snitch Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-harry-potter-golden-snitch-yj3v7f422td0v6bn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/f1/dd/bbf1dd739e29618e7579f437dbf86e68.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/f1/dd/bbf1dd739e29618e7579f437dbf86e68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter lock 2025 screen">
+                                <img itemprop="contentUrl url" src='https://e1.pxfuel.com/desktop-wallpaper/908/10/desktop-wallpaper-recklessly-lock-screen-harry-potter.jpg' alt='Harry potter lock 2025 screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://e1.pxfuel.com/desktop-wallpaper/908/10/desktop-wallpaper-recklessly-lock-screen-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/82/80/73/828073937b7d6c0365cea54a63d2e402.jpg' alt='Harry Potter background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/82/80/73/828073937b7d6c0365cea54a63d2e402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new lock   screen   wallpaper!     | Harry Potter Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6198/1b74264d4c339c58b551c3746290e9694ce6d8fa_00.jpg' alt='My new lock   screen   wallpaper!     | Harry Potter Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6198/1b74264d4c339c58b551c3746290e9694ce6d8fa_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

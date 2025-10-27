@@ -1,0 +1,129 @@
+<title>Stunning Rose Gold & Pink Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Discover the beauty of rose gold and pink wallpaper! Perfect for adding a touch of elegance to any room, this wallpaper brings warmth and sophistication to your decor. Explore stunning designs and transform your space effortlessly.">
+                    <meta name="keywords" content="rose gold and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/rose-gold-and-pink-wallpaper">
+                            <span itemprop="name">rose gold and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rose Gold & Pink Wallpaper Ideas for Your Home</h1>
+                <p>Rose gold and pink wallpaper combines elegance with a modern twist, creating a stunning backdrop for any room. Its soft hues add warmth and sophistication, perfect for bedrooms, living rooms, or offices. This versatile design complements various decor styles, making it an ideal choice for a chic and inviting space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Beige Rose Gold Marble Swirls Illustration Wallpaper, Blush ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/005_Angle_Interior_Scene11-17.jpg' alt='Large Beige Rose Gold Marble Swirls Illustration Wallpaper, Blush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/005_Angle_Interior_Scene11-17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Arken Rose Gold Geometric Rose Gold Wallpaper Sample  2900-41685SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/e5208a2a-f314-4c40-b860-bb12ebc33e39/svn/fine-decor-wallpaper-samples-2900-41685sam-64_600.jpg' alt='Fine Decor Arken Rose Gold Geometric Rose Gold Wallpaper Sample  2900-41685SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/e5208a2a-f314-4c40-b860-bb12ebc33e39/svn/fine-decor-wallpaper-samples-2900-41685sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wingate Geometric Wallpaper in Pink and Rose Gold">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/WingateGeometricPinkRoseGold-Thumbnail.jpg?crop=center&height=886&v=1725009141&width=886' alt='Wingate Geometric Wallpaper in Pink and Rose Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/WingateGeometricPinkRoseGold-Thumbnail.jpg?crop=center&height=886&v=1725009141&width=886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper Rose Gold Purple Pastel Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/1798ee/3044080472/il_fullxfull.3044080472_s5ns.jpg' alt='Pink Marble Wallpaper Rose Gold Purple Pastel Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2980">
+                                <meta itemprop="height" content="2610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/1798ee/3044080472/il_fullxfull.3044080472_s5ns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Best Rose Gold Wallpapers For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/b6/f0/3bb6f0115ae678c552352ae36505743a.jpg' alt='25 Best Rose Gold Wallpapers For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/b6/f0/3bb6f0115ae678c552352ae36505743a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Best Rose gold Wallpaper! ideas | rose gold wallpaper, gold ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b0/90/dd/b090dd2fa4629f5797cc9da1a05deeea.jpg' alt='120 Best Rose gold Wallpaper! ideas | rose gold wallpaper, gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b0/90/dd/b090dd2fa4629f5797cc9da1a05deeea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Rose Gold Images – Browse 82,000 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/33/34/79/360_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' alt='Marble Rose Gold Images – Browse 82,000 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/33/34/79/360_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' alt='Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble With Rose Gold Glitters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-marble-with-rose-gold-glitters-p04j9ui1v74p9bs3.jpg' alt='Pink Marble With Rose Gold Glitters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-marble-with-rose-gold-glitters-p04j9ui1v74p9bs3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

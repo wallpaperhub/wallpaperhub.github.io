@@ -1,0 +1,129 @@
+<title>Score Big with Our Soccer PowerPoint Template</title>
+                    <meta name="description" content="Discover the ultimate soccer PowerPoint template for dynamic presentations! Perfect for coaches and players, featuring customizable slides and vibrant designs. Make your soccer strategies stand out and captivate your audience easily!">
+                    <meta name="keywords" content="soccer powerpoint template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soccer-powerpoint-template">
+                            <span itemprop="name">soccer powerpoint template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Score Big with Our Soccer PowerPoint Template</h1>
+                <p>Elevate your soccer presentations with our dynamic soccer PowerPoint template! Designed for coaches, players, and fans, this template includes vibrant graphics, customizable slides, and easy-to-use layouts. Perfect for team meetings, strategy sessions, or showcasing stats. Score big with engaging presentations!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Theme | Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37935390/conversions/0-soccer-theme-thumb.jpg' alt='Soccer Theme | Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37935390/conversions/0-soccer-theme-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Soccer PowerPoint Template & Presentation Slides">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/wp-content/uploads/2017/07/160039-soccer-scheme-template-4x3-1.jpg' alt='Free Soccer PowerPoint Template & Presentation Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/wp-content/uploads/2017/07/160039-soccer-scheme-template-4x3-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer PowerPoint Presentation Template - EaTemp">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2023/04/Soccer-PowerPoint-Presentation-Template-1.jpeg' alt='Soccer PowerPoint Presentation Template - EaTemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2023/04/Soccer-PowerPoint-Presentation-Template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Soccer PowerPoint Template and Google Slides Theme">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/a/ba35ee1c53a361dcdc75d5c1ab8ffe704229ecc5ee8e8ea2f73502590ba7656a/soccer-slide1.png' alt='Free Soccer PowerPoint Template and Google Slides Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/a/ba35ee1c53a361dcdc75d5c1ab8ffe704229ecc5ee8e8ea2f73502590ba7656a/soccer-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Theme | Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37935398/conversions/4-soccer-theme-thumb.jpg' alt='Soccer Theme | Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37935398/conversions/4-soccer-theme-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazilian Soccer Powerpoint Template and Google Slides Themes ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/myfreeslides.com/wp-content/uploads/2019/10/Free-Brazilian-Soccer-Powerpoint-Template-and-Google-Slides-Themes-1.jpg?fit=640%2C438&ssl=1' alt='Brazilian Soccer Powerpoint Template and Google Slides Themes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyFreeSlides" />
+                                </span>
+                                <a href='https://i0.wp.com/myfreeslides.com/wp-content/uploads/2019/10/Free-Brazilian-Soccer-Powerpoint-Template-and-Google-Slides-Themes-1.jpg?fit=640%2C438&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/60566-01-soccer-powerpoint-template-16x9-2.jpg' alt='Soccer PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/60566-01-soccer-powerpoint-template-16x9-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer - Free Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2023/06/Soccer-Field-Free-Google-Slides-Theme-PowerPoint-Template.png' alt='Soccer - Free Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2023/06/Soccer-Field-Free-Google-Slides-Theme-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Soccer PowerPoint Template - SlideBazaar">
+                                <img itemprop="contentUrl url" src='https://slidebazaar.com/wp-content/uploads/2023/03/Football-Soccer-PowerPoint-Template.jpg' alt='Football Soccer PowerPoint Template - SlideBazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideBazaar" />
+                                </span>
+                                <a href='https://slidebazaar.com/wp-content/uploads/2023/03/Football-Soccer-PowerPoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Sports PowerPoint Templates for Free">
+                                <img itemprop="contentUrl url" src='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2018/10/Soccer-Sports-PowerPoint-Templates-Features.gif' alt='Soccer Sports PowerPoint Templates for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates Design" />
+                                </span>
+                                <a href='https://www.free-powerpoint-templates-design.com/wp-content/uploads/2018/10/Soccer-Sports-PowerPoint-Templates-Features.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

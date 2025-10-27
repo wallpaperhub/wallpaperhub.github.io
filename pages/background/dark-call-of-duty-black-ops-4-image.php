@@ -1,0 +1,129 @@
+<title>Dark Imagery in Call of Duty: Black Ops 4</title>
+                    <meta name="description" content="Explore the fierce and captivating dark imagery of Call of Duty: Black Ops 4. Discover how its striking visuals enhance the gaming experience, drawing players into intense battles and strategic warfare. Uncover the artistic elements that define this iconic title.">
+                    <meta name="keywords" content="dark call of duty black ops 4 image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-call-of-duty-black-ops-4-image">
+                            <span itemprop="name">dark call of duty black ops 4 image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Imagery in Call of Duty: Black Ops 4</h1>
+                <p>Experience the intense action of Call of Duty: Black Ops 4 with its captivating dark imagery. The game's visual themes showcase gritty battlefields, tactical warfare, and a high-stakes atmosphere. Dive into the heart of combat where strategy and skill reign supreme, making every match a pulse-pounding adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Operation Dark Divide launches on September 23 on Playstation 4!">
+                                <img itemprop="contentUrl url" src='https://www.treyarch.com/content/dam/atvi/treyarch/treyarch-touchui/blog/feature/2019/09/darkdivideblog/Op6KeyArt.jpg' alt='Operation Dark Divide launches on September 23 on Playstation 4!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2088">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treyarch" />
+                                </span>
+                                <a href='https://www.treyarch.com/content/dam/atvi/treyarch/treyarch-touchui/blog/feature/2019/09/darkdivideblog/Op6KeyArt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: Black Ops 4 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/1c/Call_of_Duty_Black_Ops_4_official_box_art.jpg' alt='Call of Duty: Black Ops 4 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/1c/Call_of_Duty_Black_Ops_4_official_box_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty®: Black Ops 4 - Operation Dark Divide MP Maps">
+                                <img itemprop="contentUrl url" src='https://image.api.playstation.com/vulcan/img/cfn/11307Ckuoz6R15usepHlnuvfZAbwhSpf50dVhTzvC5Js6zwwUI2IFufKNFQlim2wtxI45yALYJMNPvuY8FRJO0Rac0YHY3IJ.png' alt='Call of Duty®: Black Ops 4 - Operation Dark Divide MP Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Store" />
+                                </span>
+                                <a href='https://image.api.playstation.com/vulcan/img/cfn/11307Ckuoz6R15usepHlnuvfZAbwhSpf50dVhTzvC5Js6zwwUI2IFufKNFQlim2wtxI45yALYJMNPvuY8FRJO0Rac0YHY3IJ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: Black Ops 4 “Operation Dark Divide” Out Now, Will be ...">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2019/09/WCCFcallofdutyblackops432.jpg' alt='Call of Duty: Black Ops 4 “Operation Dark Divide” Out Now, Will be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2019/09/WCCFcallofdutyblackops432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Call of Duty®: Black Ops 4 - Digital Deluxe | Xbox">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.14001.64296191659533745.305416b5-8d80-4bf7-86c3-f56109edb529.fa49a3cb-78bb-48dc-bb55-3aa908d20170?q=90&w=480&h=270' alt='Buy Call of Duty®: Black Ops 4 - Digital Deluxe | Xbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox.com" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.14001.64296191659533745.305416b5-8d80-4bf7-86c3-f56109edb529.fa49a3cb-78bb-48dc-bb55-3aa908d20170?q=90&w=480&h=270' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: Black Ops 4's final operation is Dark Divide ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/call-of-duty-black-ops-4s-final-operation-is-dark-divide-1569324326667.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Call of Duty: Black Ops 4's final operation is Dark Divide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/call-of-duty-black-ops-4s-final-operation-is-dark-divide-1569324326667.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty: 10 Rumors About Black Ops 4 Confirmed To Be True ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/09/Call-of-Duty-Black-Ops-4-calling-card.jpeg' alt='Call Of Duty: 10 Rumors About Black Ops 4 Confirmed To Be True ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/09/Call-of-Duty-Black-Ops-4-calling-card.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: Black Ops 4 Review">
+                                <img itemprop="contentUrl url" src='https://www.trueachievements.com/customimages/l/087955.jpg' alt='Call of Duty: Black Ops 4 Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrueAchievements" />
+                                </span>
+                                <a href='https://www.trueachievements.com/customimages/l/087955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Martin - Call of Duty: Black Ops 4 | "Operation: Dark Divide ...">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/020/809/078/large/kyle-martin-camera-poster.jpg?1569259924' alt='Kyle Martin - Call of Duty: Black Ops 4 | "Operation: Dark Divide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kyle Martin - ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/020/809/078/large/kyle-martin-camera-poster.jpg?1569259924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Call of Duty®: Black Ops 4 - Operation Dark Divide MP Maps | Xbox">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.46358.13951534101062814.f6f72480-698c-4153-8e87-bf4617ee33c8.c7e1c4cf-423b-43b6-bbfd-b913fcecd944?q=90&w=480&h=270' alt='Buy Call of Duty®: Black Ops 4 - Operation Dark Divide MP Maps | Xbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox.com" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.46358.13951534101062814.f6f72480-698c-4153-8e87-bf4617ee33c8.c7e1c4cf-423b-43b6-bbfd-b913fcecd944?q=90&w=480&h=270' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

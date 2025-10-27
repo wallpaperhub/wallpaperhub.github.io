@@ -1,0 +1,129 @@
+<title>I Love Messi Wallpapers: Stunning Designs for Fans</title>
+                    <meta name="description" content="Explore our collection of "I Love Messi" wallpapers, featuring dynamic images and inspiring designs. Perfect for any fan, these wallpapers let you showcase your admiration for the soccer superstar. Download now and personalize your devices with the charm of Lionel Messi!">
+                    <meta name="keywords" content="i love messi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/i-love-messi-wallpaper">
+                            <span itemprop="name">i love messi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Love Messi Wallpapers: Stunning Designs for Fans</h1>
+                <p>Discover stunning "I Love Messi" wallpapers that capture the essence of this football legend. Transform your screen with vibrant images showcasing Messi's incredible skills and passion for the game. Perfect for fans, these wallpapers bring a piece of football magic to your daily life. Celebrate your love for Messi today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i love messi">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/70/99/ae709935ade64ac84a792168b9aff225.jpg' alt='i love messi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/70/99/ae709935ade64ac84a792168b9aff225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Messi | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5167007161.1482/fposter,small,wall_texture,product,750x1000.jpg' alt='I Love Messi | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5167007161.1482/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi, love, electric blue, art, Barcelona, football, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/907/152/HD-wallpaper-leo-messi-love-electric-blue-art-barcelona-football.jpg' alt='Leo Messi, love, electric blue, art, Barcelona, football, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/907/152/HD-wallpaper-leo-messi-love-electric-blue-art-barcelona-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am a soccer chic! Who else is girl upsets with messi ?!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/d9/37/a5d93722ab8da5765f9853e44ae48270.jpg' alt='I am a soccer chic! Who else is girl upsets with messi ?!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/d9/37/a5d93722ab8da5765f9853e44ae48270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/43/bd/1143bd8f6531ce36eb545bbad843d619.jpg' alt='124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/43/bd/1143bd8f6531ce36eb545bbad843d619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/ad/85/4cad856d910fd4c1cf8441969c84d4dc.jpg' alt='Lionel Messi Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/ad/85/4cad856d910fd4c1cf8441969c84d4dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Messi ideas | messi, lionel messi, leo messi">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/c2/74/fdc27414b67071dfdda171e03efbb7bb.jpg' alt='27 Messi ideas | messi, lionel messi, leo messi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/c2/74/fdc27414b67071dfdda171e03efbb7bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC Barcelona Lionel Messi iPhone 4s Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/65/f7/1565f7c1156ff183531197c927fb25f3.jpg' alt='FC Barcelona Lionel Messi iPhone 4s Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/65/f7/1565f7c1156ff183531197c927fb25f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/91/87/70918780aff04e6a66d07e681788880e.jpg' alt='124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/91/87/70918780aff04e6a66d07e681788880e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Love Messi - Leo Messi Wallpaper    | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=232561834930716' alt='We Love Messi - Leo Messi Wallpaper    | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=232561834930716' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

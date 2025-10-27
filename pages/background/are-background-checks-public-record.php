@@ -1,0 +1,129 @@
+<title>Are Background Checks Considered Public Records?</title>
+                    <meta name="description" content="Discover whether background checks are classified as public records. Learn about what information is accessible to the public and how privacy laws vary by state. Stay informed about your rights and the implications of background checks for yourself or potential employees.">
+                    <meta name="keywords" content="are background checks public record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/are-background-checks-public-record">
+                            <span itemprop="name">are background checks public record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Are Background Checks Considered Public Records?</h1>
+                <p>Background checks are not necessarily public records. While certain information, like criminal records and court judgments, may be accessible to the public, personal data such as credit history and employment details often remain confidential. The availability of records varies by state and jurisdiction, impacting transparency and privacy rights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='New York State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks in New York for Looking Up Public Records ...">
+                                <img itemprop="contentUrl url" src='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' alt='Free Background Checks in New York for Looking Up Public Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cision News" />
+                                </span>
+                                <a href='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Background Checks: A Complete Guide for Employers [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/04/new-york-background-check-1.jpg' alt='New York Background Checks: A Complete Guide for Employers [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/04/new-york-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navigating NY Criminal Background Checks | Metrodata Services, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.metro-check.com/wp-content/uploads/2025/01/1-7-1024x536.jpg' alt='Navigating NY Criminal Background Checks | Metrodata Services, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metrodata Services" />
+                                </span>
+                                <a href='https://www.metro-check.com/wp-content/uploads/2025/01/1-7-1024x536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 4 Different Types of Criminal Background Checks | TruDiligence">
+                                <img itemprop="contentUrl url" src='https://www.trudiligence.com/wp-content/uploads/2019/07/TruDiligence_CriminalCheck.png' alt='The 4 Different Types of Criminal Background Checks | TruDiligence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruDiligence" />
+                                </span>
+                                <a href='https://www.trudiligence.com/wp-content/uploads/2019/07/TruDiligence_CriminalCheck.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Consist of?">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' alt='What Does a Background Check Consist of?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a nationwide criminal background check? | HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' alt='What is a nationwide criminal background check? | HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York State Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='New York State Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks - U.S. Apostille Services">
+                                <img itemprop="contentUrl url" src='https://www.foreigndocumentsexpress.com/images/fde2/Criminal_records/NYS-criminal-record.jpg' alt='Background checks - U.S. Apostille Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foreign Documents Express" />
+                                </span>
+                                <a href='https://www.foreigndocumentsexpress.com/images/fde2/Criminal_records/NYS-criminal-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

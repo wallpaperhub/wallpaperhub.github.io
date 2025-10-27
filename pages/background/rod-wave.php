@@ -1,0 +1,129 @@
+<title>Rod Wave: A Journey Through Emotion and Music</title>
+                    <meta name="description" content="Explore the world of Rod Wave, the rising star known for his soulful voice and heartfelt lyrics. Discover his journey, hits like "Heart on Ice," and how he connects with fans through authentic storytelling and powerful performances. Dive into his unique blend of hip-hop and R&B today!">
+                    <meta name="keywords" content="rod wave">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rod-wave">
+                            <span itemprop="name">rod wave</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rod Wave: A Journey Through Emotion and Music</h1>
+                <p>Rod Wave, an American rapper and singer, captivated audiences with his emotional storytelling and powerful vocals. His unique blend of hip-hop and R&B explores themes of struggle, perseverance, and personal growth. Rising to fame with hits like "Heart on Ice," Rod Wave continues to resonate with fans, making waves in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb8674f92cf33931fa4cd298c2' alt='Rod Wave Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb8674f92cf33931fa4cd298c2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RodWave (@rodwave) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540005684041321274' alt='RodWave (@rodwave) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540005684041321274' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Rod Wave's 'Beautiful Mind'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2022/08/rod-wave-beautiful-mind.jpg?w=1581&h=1054&crop=1' alt='Review: Rod Wave's 'Beautiful Mind''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2022/08/rod-wave-beautiful-mind.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RodWave - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/_exo_BBe7gp1q7yut-Tb9MS5JWmfSky9OX7-FukdjgQCo8uMdjGz9DU5c64_EdlYUEmA51w7=s900-c-k-c0x00ffffff-no-rj' alt='RodWave - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/_exo_BBe7gp1q7yut-Tb9MS5JWmfSky9OX7-FukdjgQCo8uMdjGz9DU5c64_EdlYUEmA51w7=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave | Audible Treats">
+                                <img itemprop="contentUrl url" src='https://audibletreats.com/wp-content/uploads/2019/08/Coleman-DSC09837.png' alt='Rod Wave | Audible Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audible Treats" />
+                                </span>
+                                <a href='https://audibletreats.com/wp-content/uploads/2019/08/Coleman-DSC09837.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave on TIDAL">
+                                <img itemprop="contentUrl url" src='https://resources.tidal.com/images/984faf36/517f/42cb/b7b8/be1c5b21daf9/750x750.jpg' alt='Rod Wave on TIDAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TIDAL" />
+                                </span>
+                                <a href='https://resources.tidal.com/images/984faf36/517f/42cb/b7b8/be1c5b21daf9/750x750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Rod Wave music | Listen to songs, albums, playlists for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/avatars-NOzbXZYR5Z8Dc5jX-Zfmhlg-t240x240.jpg' alt='Stream Rod Wave music | Listen to songs, albums, playlists for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/avatars-NOzbXZYR5Z8Dc5jX-Zfmhlg-t240x240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave on His Tour, Ed Sheeran & Becoming a 'Franchise Player'">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2023/12/feature-rod-wave-billboard-2023-bb16-eric-ryan-anderson-4-1260.jpg?w=1260&h=840&crop=1' alt='Rod Wave on His Tour, Ed Sheeran & Becoming a 'Franchise Player''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2023/12/feature-rod-wave-billboard-2023-bb16-eric-ryan-anderson-4-1260.jpg?w=1260&h=840&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave | Kia Center">
+                                <img itemprop="contentUrl url" src='https://www.kiacenter.com/assets/img/RodWave_EventImage_840x500-e726ad5572.png' alt='Rod Wave | Kia Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kia Center" />
+                                </span>
+                                <a href='https://www.kiacenter.com/assets/img/RodWave_EventImage_840x500-e726ad5572.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rod Wave Sings Through the Pain - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/04/14/arts/09rodwave1/09rodwave1-mediumSquareAt3X.jpg' alt='Rod Wave Sings Through the Pain - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="1464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/04/14/arts/09rodwave1/09rodwave1-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Background Ganpati Decoration Ideas</title>
+                    <meta name="description" content="Create an inviting atmosphere this Ganesh Chaturthi with our unique background Ganpati decoration ideas! Discover tips for vibrant backdrops, eco-friendly materials, and festive embellishments that transform your space into a celebration of joy and devotion. Perfect for home or community settings!">
+                    <meta name="keywords" content="background ganpati decoration">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-ganpati-decoration">
+                            <span itemprop="name">background ganpati decoration</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Ganpati Decoration Ideas</h1>
+                <p>Ganpati decorations play a crucial role in enhancing the festive ambiance. Background Ganpati decoration ideas can include vibrant hangings, colorful lights, and creative backdrops like floral arrangements or traditional artifacts. Incorporating eco-friendly materials can add a unique touch while promoting sustainability. Make your space divine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Floral Backdrop Ganpati Decoration - Shrih Ganpati ...">
+                                <img itemprop="contentUrl url" src='https://ganpati.shrih.net/wp-content/uploads/2024/07/Shrih-Events-Ganpati-Decorations-With-Mandap-Background-Ganpati-Bappas-Mandap-Decoration-7-scaled.jpg' alt='Pink Purple Floral Backdrop Ganpati Decoration - Shrih Ganpati ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shrih Ganpati Festival Decorations - Shrih Festivals" />
+                                </span>
+                                <a href='https://ganpati.shrih.net/wp-content/uploads/2024/07/Shrih-Events-Ganpati-Decorations-With-Mandap-Background-Ganpati-Bappas-Mandap-Decoration-7-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ganapati decoration idea    | Ganpati decoration theme, Ganpati ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/a6/9c/79a69c933d0dbfdc3ec4646adc4c6f26.jpg' alt='Ganapati decoration idea    | Ganpati decoration theme, Ganpati ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/a6/9c/79a69c933d0dbfdc3ec4646adc4c6f26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ganpati Decoration Ideas | Ganpati Background Decoration With Paper |Eco  Friendly Ganpati Decoration">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sXBiMgV7xlI/hqdefault.jpg' alt='Ganpati Decoration Ideas | Ganpati Background Decoration With Paper |Eco  Friendly Ganpati Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sXBiMgV7xlI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ganpati Decoration Ideas for Home - YF Decor">
+                                <img itemprop="contentUrl url" src='https://yfdecor.com/wp-content/uploads/2024/08/Ganpati-decoration-with-drapes.jpg' alt='Ganpati Decoration Ideas for Home - YF Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YF Decor" />
+                                </span>
+                                <a href='https://yfdecor.com/wp-content/uploads/2024/08/Ganpati-decoration-with-drapes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Ganpati decoration ideas for home / Ganpati background ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/gcLLFwpqm3k/sddefault.jpg' alt='Simple Ganpati decoration ideas for home / Ganpati background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/gcLLFwpqm3k/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Floral Ganpati decoration">
+                                <img itemprop="contentUrl url" src='https://www.takerentpe.com/media/images/products/2024/03/PUNDECGFD1020_2.webp' alt='Beautiful Floral Ganpati decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3249">
+                                <meta itemprop="height" content="3326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Event Decoration Supplies" />
+                                </span>
+                                <a href='https://www.takerentpe.com/media/images/products/2024/03/PUNDECGFD1020_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Ganpati Decoration With Sarees & Bangles • One Brick At A Time">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/89/1f/68891f859a85da2ac3fac96c4dc7a444.jpg' alt='DIY Ganpati Decoration With Sarees & Bangles • One Brick At A Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/89/1f/68891f859a85da2ac3fac96c4dc7a444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3A Featuretail Background Decoration Items for Ganpati decoration ...">
+                                <img itemprop="contentUrl url" src='https://images-eu.ssl-images-amazon.com/images/I/71FtnvDNiaL._AC_UL210_SR210,210_.jpg' alt='3A Featuretail Background Decoration Items for Ganpati decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://images-eu.ssl-images-amazon.com/images/I/71FtnvDNiaL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Beautiful Ganpati Decoration Ideas for Ganesh Chaturthi 2024">
+                                <img itemprop="contentUrl url" src='https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/2/2022/08/18145106/Coloured-Paper-Fan-Backdrop-Decoration.jpg' alt='30+ Beautiful Ganpati Decoration Ideas for Ganesh Chaturthi 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livspace" />
+                                </span>
+                                <a href='https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/2/2022/08/18145106/Coloured-Paper-Fan-Backdrop-Decoration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Ganpati Decoration Ideas at Home 2022 | Ganesh Pooja Decor | Simple &  Easy Ganpati Decoration">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6LMzbMmvgC4/sddefault.jpg' alt='New Ganpati Decoration Ideas at Home 2022 | Ganesh Pooja Decor | Simple &  Easy Ganpati Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6LMzbMmvgC4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

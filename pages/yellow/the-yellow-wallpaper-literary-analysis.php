@@ -1,0 +1,129 @@
+<title>Analyzing "The Yellow Wallpaper": A Deep Dive</title>
+                    <meta name="description" content="Discover the rich literary themes and symbolism in "The Yellow Wallpaper." This analysis delves into mental health, gender roles, and the critique of societal norms, offering insights into Gilman's powerful commentary on women's autonomy and oppression. Enhance your understanding today!">
+                    <meta name="keywords" content="the yellow wallpaper literary analysis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-literary-analysis">
+                            <span itemprop="name">the yellow wallpaper literary analysis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Analyzing "The Yellow Wallpaper": A Deep Dive</h1>
+                <p>In Charlotte Perkins Gilman's "The Yellow Wallpaper," the narrative explores themes of mental health, gender roles, and the oppressive nature of patriarchal society. The protagonist's descent into madness symbolizes the stifling confinement that women faced, as represented by the wallpaper itself. Through vivid imagery and powerful symbolism, the story critiques societal norms and advocates for women's autonomy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Literary Analysis Essay of The Yellow Wallpaper, Free Example ...">
+                                <img itemprop="contentUrl url" src='https://speedypaper.com/essay-previews/3eff0a78cfb0121117501a47cd92410c/literary-analysis-essay-of-the-yellow-wallpaper-free-example.webp' alt='   Literary Analysis Essay of The Yellow Wallpaper, Free Example ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeedyPaper" />
+                                </span>
+                                <a href='https://speedypaper.com/essay-previews/3eff0a78cfb0121117501a47cd92410c/literary-analysis-essay-of-the-yellow-wallpaper-free-example.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...">
+                                <img itemprop="contentUrl url" src='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' alt='The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom-Writing.org" />
+                                </span>
+                                <a href='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Literary Analysis of "The Yellow Wallpaper" | PDF | The Yellow ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/501079279/original/371c1e1cad/1?v=1' alt='Literary Analysis of "The Yellow Wallpaper" | PDF | The Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/501079279/original/371c1e1cad/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper -- Feminist Literary Criticism by Chris Oven ...">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/fku6ydqibvekf3b4txvzmeh7vp6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='The Yellow Wallpaper -- Feminist Literary Criticism by Chris Oven ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/fku6ydqibvekf3b4txvzmeh7vp6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Connection between the Narrator & the Paper ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' alt='The Yellow Wallpaper: Connection between the Narrator & the Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Literary Analysis The Yellow Wallpaper.docx - Surname 1 Name ...">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/thumb/50/5d/505db909bd5a9ca7a4a63e596f0d4980e164cf5e_180.jpg' alt='Literary Analysis The Yellow Wallpaper.docx - Surname 1 Name ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/thumb/50/5d/505db909bd5a9ca7a4a63e596f0d4980e164cf5e_180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary & Plot Diagram Activity">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' alt='The Yellow Wallpaper Summary & Plot Diagram Activity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) The Yellow Wallpaper Psychoanalysis by Sigmund Freud">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/60943998/mini_magick20191018-19020-1y1cdhl.png?1571406062' alt='DOC) The Yellow Wallpaper Psychoanalysis by Sigmund Freud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/60943998/mini_magick20191018-19020-1y1cdhl.png?1571406062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Paper - Charlotte Perkins Gilman Analysis - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3O6_7bHvFOY/sddefault.jpg' alt='The Yellow Paper - Charlotte Perkins Gilman Analysis - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3O6_7bHvFOY/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper" by Gilman: Literary Analysis | Free Essay ...">
+                                <img itemprop="contentUrl url" src='https://studycorgi.com/wp-content/uploads/screens/624/62481/the-yellow-wallpaper-by-gilman-literary-analysis-page1.webp' alt='The Yellow Wallpaper" by Gilman: Literary Analysis | Free Essay ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudyCorgi" />
+                                </span>
+                                <a href='https://studycorgi.com/wp-content/uploads/screens/624/62481/the-yellow-wallpaper-by-gilman-literary-analysis-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

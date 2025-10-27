@@ -1,0 +1,129 @@
+<title>Away in a Manger: History & Significance</title>
+                    <meta name="description" content="Discover the history and significance of "Away in a Manger," a classic Christmas carol. Learn about its origins, lyrics, and the warmth it brings to holiday celebrations around the globe. Dive into this cherished song that beautifully celebrates the birth of Jesus.">
+                    <meta name="keywords" content="away in a manger history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/away-in-a-manger-history">
+                            <span itemprop="name">away in a manger history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Away in a Manger: History & Significance</h1>
+                <p>"Away in a Manger," a beloved Christmas carol, traces its roots back to the late 19th century in the United States. The hymn, often attributed to Martin Luther, reflects the humble nativity scene of Jesus' birth. Its tender melody and heartfelt lyrics evoke the warmth of the season, making it a cherished holiday staple worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Birth_of_Jesus.jpg' alt='Away in a Manger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4596">
+                                <meta itemprop="height" content="5640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Birth_of_Jesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger: Concordia Publishing House, Mike Jaroszko: 9780758614971:  Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51EvPsONhtL._AC_UF350,350_QL50_.jpg' alt='Away in a Manger: Concordia Publishing House, Mike Jaroszko: 9780758614971:  Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51EvPsONhtL._AC_UF350,350_QL50_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Away_in_a_manger_Christian_cynosure.png/220px-Away_in_a_manger_Christian_cynosure.png' alt='Away in a Manger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Away_in_a_manger_Christian_cynosure.png/220px-Away_in_a_manger_Christian_cynosure.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Away_in_a_Manger_Herbert.png/298px-Away_in_a_Manger_Herbert.png' alt='Away in a Manger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Away_in_a_Manger_Herbert.png/298px-Away_in_a_Manger_Herbert.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discipleship Ministries | History of Hymns: “Away in a Manger”">
+                                <img itemprop="contentUrl url" src='http://gbod.org.s3.amazonaws.com/legacy/kintera-images/worship-history-hymns/Luther-By-Konig.jpg' alt='Discipleship Ministries | History of Hymns: “Away in a Manger”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discipleship Ministries" />
+                                </span>
+                                <a href='http://gbod.org.s3.amazonaws.com/legacy/kintera-images/worship-history-hymns/Luther-By-Konig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger: History and a Mystery -">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.hopeinthehealing.com/wp-content/uploads/2020/12/awayinamanger-2.png?resize=1024%2C682' alt='Away in a Manger: History and a Mystery -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hope In The Healing" />
+                                </span>
+                                <a href='https://i0.wp.com/www.hopeinthehealing.com/wp-content/uploads/2020/12/awayinamanger-2.png?resize=1024%2C682' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a manger — Hymnology Archive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1543954533907-ZKSBPBK0LED4LXWWNHE8/away-murray1887.jpg' alt='Away in a manger — Hymnology Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2358">
+                                <meta itemprop="height" content="3454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymnology Archive" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1543954533907-ZKSBPBK0LED4LXWWNHE8/away-murray1887.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a manger — Hymnology Archive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/4192f96c-fb2c-4b2a-a2ac-58c8e0e93b9a/Away+in+a+manger+1868.jpg' alt='Away in a manger — Hymnology Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymnology Archive" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/4192f96c-fb2c-4b2a-a2ac-58c8e0e93b9a/Away+in+a+manger+1868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a Manger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Away_in_a_manger_Kirkpatrick.png/300px-Away_in_a_manger_Kirkpatrick.png' alt='Away in a Manger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Away_in_a_manger_Kirkpatrick.png/300px-Away_in_a_manger_Kirkpatrick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Away in a manger — Hymnology Archive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1624564469598-WP64MN906EZLLMWE207Z/LuthersCradleSong_Congregationalist1882_crop.png' alt='Away in a manger — Hymnology Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymnology Archive" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1624564469598-WP64MN906EZLLMWE207Z/LuthersCradleSong_Congregationalist1882_crop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

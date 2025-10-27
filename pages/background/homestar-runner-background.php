@@ -1,0 +1,129 @@
+<title>Discover the Quirky World of Homestar Runner</title>
+                    <meta name="description" content="Dive into the whimsical universe of Homestar Runner! Explore this iconic web cartoon, known for its humor, unique animation, and memorable characters. Perfect for fans of nostalgia and animation alike!">
+                    <meta name="keywords" content="homestar runner background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/homestar-runner-background">
+                            <span itemprop="name">homestar runner background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Quirky World of Homestar Runner</h1>
+                <p>Homestar Runner is a web cartoon created by Mike and Matt Chapman, launched in 2000. The series features the goofy, inept character Homestar and his friends in a variety of humorous scenarios. It gained a cult following, characterized by its unique animation style and writing, along with memorable catchphrases and quirky characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Homestar Runner Wallpapers! (OC) : r/HomestarRunner">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LWaO8f4JDCbWUimZLI-yPsGs8eOxOKA0bAO3KZKcySg.jpg?width=1080&crop=smart&auto=webp&s=bb17868768672d32af7c7b9369f077b2cdd2a616' alt='New Homestar Runner Wallpapers! (OC) : r/HomestarRunner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LWaO8f4JDCbWUimZLI-yPsGs8eOxOKA0bAO3KZKcySg.jpg?width=1080&crop=smart&auto=webp&s=bb17868768672d32af7c7b9369f077b2cdd2a616' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers">
+                                <img itemprop="contentUrl url" src='https://old.homestarrunner.com/evolution3.jpg' alt='Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="old.homestarrunner.com" />
+                                </span>
+                                <a href='https://old.homestarrunner.com/evolution3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teen Girl Squad and Homestar Runner iMessage Stickers - New ...">
+                                <img itemprop="contentUrl url" src='https://homestarrunner.com/media/pages/new-imessage-stickers/9b338ea4f9-1679594067/imessage_bg01.png' alt='Teen Girl Squad and Homestar Runner iMessage Stickers - New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homestar Runner" />
+                                </span>
+                                <a href='https://homestarrunner.com/media/pages/new-imessage-stickers/9b338ea4f9-1679594067/imessage_bg01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="homestar runner wallpapers : r/HomestarRunner">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jw03istqv9v51.jpg?width=640&crop=smart&auto=webp&s=a5fead5f70f20ce17f22d09e41dd5e0cb0634597' alt='homestar runner wallpapers : r/HomestarRunner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jw03istqv9v51.jpg?width=640&crop=smart&auto=webp&s=a5fead5f70f20ce17f22d09e41dd5e0cb0634597' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers">
+                                <img itemprop="contentUrl url" src='https://old.homestarrunner.com/seriously3.jpg' alt='Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="old.homestarrunner.com" />
+                                </span>
+                                <a href='https://old.homestarrunner.com/seriously3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers">
+                                <img itemprop="contentUrl url" src='https://old.homestarrunner.com/hs_crayon3.jpg' alt='Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="old.homestarrunner.com" />
+                                </span>
+                                <a href='https://old.homestarrunner.com/hs_crayon3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homestarrunner by ensomnic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9872a7e1-359c-415b-91da-36456c832b28/dasdv8-51611f84-e2f4-40f7-b59e-acc014fcf22f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4NzJhN2UxLTM1OWMtNDE1Yi05MWRhLTM2NDU2YzgzMmIyOFwvZGFzZHY4LTUxNjExZjg0LWUyZjQtNDBmNy1iNTllLWFjYzAxNGZjZjIyZi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.wTJ3YpNMhS8kGUFJAYntpgxE0tJPn4XpSZKFJijqaBY' alt='Homestarrunner by ensomnic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9872a7e1-359c-415b-91da-36456c832b28/dasdv8-51611f84-e2f4-40f7-b59e-acc014fcf22f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4NzJhN2UxLTM1OWMtNDE1Yi05MWRhLTM2NDU2YzgzMmIyOFwvZGFzZHY4LTUxNjExZjg0LWUyZjQtNDBmNy1iNTllLWFjYzAxNGZjZjIyZi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.wTJ3YpNMhS8kGUFJAYntpgxE0tJPn4XpSZKFJijqaBY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HomeStar Runner Wallpaper by StormSketch on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1f9e8cc-b951-4974-9b6b-18bfc84fd7c9/d6n9941-5e8ecfc5-aa06-468d-96e6-e2100f4fed16.png/v1/fill/w_1024,h_640,q_80,strp/homestar_runner_wallpaper_by_stormsketch_d6n9941-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvYTFmOWU4Y2MtYjk1MS00OTc0LTliNmItMThiZmM4NGZkN2M5XC9kNm45OTQxLTVlOGVjZmM1LWFhMDYtNDY4ZC05NmU2LWUyMTAwZjRmZWQxNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cDfriqPVR31a_VbY5SLwAal_SjKHtwlV_Q1uyQ1qGi8' alt='HomeStar Runner Wallpaper by StormSketch on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1f9e8cc-b951-4974-9b6b-18bfc84fd7c9/d6n9941-5e8ecfc5-aa06-468d-96e6-e2100f4fed16.png/v1/fill/w_1024,h_640,q_80,strp/homestar_runner_wallpaper_by_stormsketch_d6n9941-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvYTFmOWU4Y2MtYjk1MS00OTc0LTliNmItMThiZmM4NGZkN2M5XC9kNm45OTQxLTVlOGVjZmM1LWFhMDYtNDY4ZC05NmU2LWUyMTAwZjRmZWQxNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cDfriqPVR31a_VbY5SLwAal_SjKHtwlV_Q1uyQ1qGi8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Homestar Runner Wiki">
+                                <img itemprop="contentUrl url" src='https://old.homestarrunner.com/wallpapers/poopsmith_d.jpg' alt='Wallpaper - Homestar Runner Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1602">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homestar Runner Wiki" />
+                                </span>
+                                <a href='https://old.homestarrunner.com/wallpapers/poopsmith_d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner">
+                                <img itemprop="contentUrl url" src='https://www.vice.com/wp-content/uploads/sites/2/2016/09/homestar.gif' alt='Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICE" />
+                                </span>
+                                <a href='https://www.vice.com/wp-content/uploads/sites/2/2016/09/homestar.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

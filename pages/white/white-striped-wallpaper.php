@@ -1,0 +1,129 @@
+<title>Stylish White Striped Wallpaper for a Chic Home</title>
+                    <meta name="description" content="Discover the elegance of white striped wallpaper, perfect for adding a touch of charm to any space. Explore a variety of colors and textures to enhance your home decor. Ideal for creating the illusion of space while maintaining a sophisticated look. Upgrade your interiors today!">
+                    <meta name="keywords" content="white striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-striped-wallpaper">
+                            <span itemprop="name">white striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish White Striped Wallpaper for a Chic Home</h1>
+                <p>White striped wallpaper is a timeless choice that adds elegance to any room. Its vertical or horizontal stripes can enhance space, making ceilings appear higher or walls seem wider. Available in various colors and textures, this wallpaper is perfect for both modern and traditional interiors. Elevate your décor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3" Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/SA9175_YWDD203Stripe_2ex_46fd7f0f-8080-46b7-ab5d-0f9ef40e380d.jpg?v=1703778116&width=800' alt='3" Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/SA9175_YWDD203Stripe_2ex_46fd7f0f-8080-46b7-ab5d-0f9ef40e380d.jpg?v=1703778116&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticking Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/01/Wallpaper-Ticking-Stripe-Natural-1.jpg' alt='Ticking Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/01/Wallpaper-Ticking-Stripe-Natural-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Textured Linen Stripe White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899528335406_3.jpg?v=1714031625' alt='Schumacher Textured Linen Stripe White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899528335406_3.jpg?v=1714031625' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striped Peel And Stick Removable Wallpaper In Any Color!">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/35832/vintage-stripes-wallpaper.jpg?q=1701881687' alt='Striped Peel And Stick Removable Wallpaper In Any Color!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/35832/vintage-stripes-wallpaper.jpg?q=1701881687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decorline Intrepid White Textured Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Decorline-Intrepid-White-Textured-Stripe-Wallpaper_e0ebcdfd-8aa5-439a-86c8-ce87f25b7d97.8965bf471370b9a8e30ba476462fc129.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Decorline Intrepid White Textured Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Decorline-Intrepid-White-Textured-Stripe-Wallpaper_e0ebcdfd-8aa5-439a-86c8-ce87f25b7d97.8965bf471370b9a8e30ba476462fc129.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Horizontal Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/stripes-wallpaper-wallpaper-3.jpg?v=1560875228' alt='Watercolor Horizontal Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/stripes-wallpaper-wallpaper-3.jpg?v=1560875228' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Brown and White Striped Wallpaper 17.7"118" Modern DIY Peel and  Stick Removable Contact Paper Self-Adhesive Wallpaper for Bedroom, Living  Room, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/517tGqXsukL._AC_UF894,1000_QL80_.jpg' alt='Guvana Brown and White Striped Wallpaper 17.7"118" Modern DIY Peel and  Stick Removable Contact Paper Self-Adhesive Wallpaper for Bedroom, Living  Room, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/517tGqXsukL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Striped Wallpaper Design Ideas - Bright Bazaar by Will Taylor">
+                                <img itemprop="contentUrl url" src='http://www.brightbazaarblog.com/wp-content/uploads/2017/01/stripe-wallpaper-design-ideas-9.jpg' alt='10 Striped Wallpaper Design Ideas - Bright Bazaar by Will Taylor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1877">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bright Bazaar" />
+                                </span>
+                                <a href='http://www.brightbazaarblog.com/wp-content/uploads/2017/01/stripe-wallpaper-design-ideas-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresco Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/11/Wallpaper-BLinz-Fresco-Stripe-Beige-1.jpg.optimal.jpg' alt='Fresco Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/11/Wallpaper-BLinz-Fresco-Stripe-Beige-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Striped Wallpaper Watercolor Wallpaper Peel and Stick and  Traditional Wallpaper - D858">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5659475145_n1ca.jpg?v=1706964928&width=1445' alt='Baby Blue Striped Wallpaper Watercolor Wallpaper Peel and Stick and  Traditional Wallpaper - D858'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5659475145_n1ca.jpg?v=1706964928&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

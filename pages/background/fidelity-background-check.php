@@ -1,0 +1,129 @@
+<title>Essential Insights on Fidelity Background Checks</title>
+                    <meta name="description" content="Discover the importance of fidelity background checks for employers. Ensure a trustworthy workforce by screening criminal records, credit histories, and past employment. Protect your business by understanding how comprehensive background checks can maintain workplace safety and integrity.">
+                    <meta name="keywords" content="fidelity background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fidelity-background-check">
+                            <span itemprop="name">fidelity background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insights on Fidelity Background Checks</h1>
+                <p>Fidelity background checks are crucial for employers seeking to ensure trustworthiness in their hires. These screenings often include criminal records, credit history, and employment verification. By conducting thorough checks, companies can mitigate risks and maintain a safe, secure workplace, fostering a culture of integrity and reliability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Fidelity Background Checks">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066419174972' alt='Profile for Fidelity Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066419174972' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA">
+                                <img itemprop="contentUrl url" src='https://fidelitybackgroundchecks.com/wp-content/uploads/screensRight.png' alt='Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fidelitybackgroundchecks.com" />
+                                </span>
+                                <a href='https://fidelitybackgroundchecks.com/wp-content/uploads/screensRight.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA">
+                                <img itemprop="contentUrl url" src='https://fidelitybackgroundchecks.com/wp-content/uploads/elementor/thumbs/discoverwhy5-qu23e5y658xsd1se7y88ga37oyfdnhti7jt22tcsg0.png' alt='Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1087">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fidelitybackgroundchecks.com" />
+                                </span>
+                                <a href='https://fidelitybackgroundchecks.com/wp-content/uploads/elementor/thumbs/discoverwhy5-qu23e5y658xsd1se7y88ga37oyfdnhti7jt22tcsg0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Fidelity Background Check Wrong? - We can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/dfmnseojgn4545.webp' alt='Was Your Fidelity Background Check Wrong? - We can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/dfmnseojgn4545.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fidelity Background Checks | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E1BAQHmmLF0CxkegA/company-background_10000/company-background_10000/0/1595871702962/fidelity_background_checks_cover?e=2147483647&v=beta&t=kfFXJOaliZZbDR3d_qJxxBbUKWHiC6wMfBeKrcd3qEI' alt='Fidelity Background Checks | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E1BAQHmmLF0CxkegA/company-background_10000/company-background_10000/0/1595871702962/fidelity_background_checks_cover?e=2147483647&v=beta&t=kfFXJOaliZZbDR3d_qJxxBbUKWHiC6wMfBeKrcd3qEI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA">
+                                <img itemprop="contentUrl url" src='https://fidelitybackgroundchecks.com/wp-content/uploads/box4.jpg' alt='Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fidelitybackgroundchecks.com" />
+                                </span>
+                                <a href='https://fidelitybackgroundchecks.com/wp-content/uploads/box4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Fidelity Background Checks">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=418922980331671' alt='Profile for Fidelity Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2050">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=418922980331671' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA">
+                                <img itemprop="contentUrl url" src='https://fidelitybackgroundchecks.com/wp-content/uploads/2024/09/FidelityBackgroundChecks_Staffing1-1.jpg' alt='Background Check Metro Atlanta, GA | Employment Screening Atlanta, GA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fidelitybackgroundchecks.com" />
+                                </span>
+                                <a href='https://fidelitybackgroundchecks.com/wp-content/uploads/2024/09/FidelityBackgroundChecks_Staffing1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Know Your Hires: Background Checks">
+                                <img itemprop="contentUrl url" src='https://3411792.fs1.hubspotusercontent-na1.net/hub/3411792/hubfs/background%20checks.jpg?width=1000&name=background%20checks.jpg' alt='Know Your Hires: Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fidelity Private Shares" />
+                                </span>
+                                <a href='https://3411792.fs1.hubspotusercontent-na1.net/hub/3411792/hubfs/background%20checks.jpg?width=1000&name=background%20checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Role of Employee Background Checks in Crime Fidelity Insurance ...">
+                                <img itemprop="contentUrl url" src='https://www.haughn.com/wp-content/uploads/2023/07/Haughn_CrimeFidelityInsurance.jpg' alt='The Role of Employee Background Checks in Crime Fidelity Insurance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haughn & Associates" />
+                                </span>
+                                <a href='https://www.haughn.com/wp-content/uploads/2023/07/Haughn_CrimeFidelityInsurance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vintage Football Wallpaper: Timeless Designs for Sports Fans</title>
+                    <meta name="description" content="Explore our collection of vintage football wallpaper, ideal for passionate fans and classic decor lovers. This timeless selection adds a nostalgic touch to any space, creating an inviting atmosphere filled with memories of the game. Perfect for homes, offices, and man caves!">
+                    <meta name="keywords" content="vintage football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-football-wallpaper">
+                            <span itemprop="name">vintage football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Football Wallpaper: Timeless Designs for Sports Fans</h1>
+                <p>Transform your space with vintage football wallpaper that pays homage to the classic game. Featuring iconic teams, legendary players, and nostalgic designs, this wallpaper brings a timeless charm to interiors. Perfect for sports enthusiasts and vintage lovers, it creates a unique ambiance, sparking conversations and memories of the beautiful game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey, corner coming | Retro football shirts, Football wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/9b/e9/e1/9be9e19098f5f31e459fbe11293718d3.jpg' alt='Hey, corner coming | Retro football shirts, Football wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/9b/e9/e1/9be9e19098f5f31e459fbe11293718d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Football Action Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Vintage-Football-Action-Wall-Mural_7960ffdb-ff12-46cb-a0ca-abe813ba01a9.jpg?v=1628796355' alt='Vintage Football Action Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Vintage-Football-Action-Wall-Mural_7960ffdb-ff12-46cb-a0ca-abe813ba01a9.jpg?v=1628796355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Retro Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12305161.jpg' alt='Football Retro Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12305161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage football print wallpaper | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/vintage-football-print-wallpaper/_1000xAUTO_cover_center-center_line/Vintage-football-print-wallpaper-2.jpeg' alt='Vintage football print wallpaper | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/vintage-football-print-wallpaper/_1000xAUTO_cover_center-center_line/Vintage-football-print-wallpaper-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Football Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a7/16/88/a71688eb4bb748281a0901f4eda8e9db.jpg' alt='Retro Football Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a7/16/88/a71688eb4bb748281a0901f4eda8e9db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Football Wallpapers: Vintage Soccer Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7147312294509186310&location=0&aid=1988' alt='Retro Football Wallpapers: Vintage Soccer Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7147312294509186310&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spencer on X: "Vintage Football Pictures as Wallpapers. (pt.1 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FTT0pFUWAAAd5go?format=jpg&name=large' alt='Spencer on X: "Vintage Football Pictures as Wallpapers. (pt.1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FTT0pFUWAAAd5go?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Illustration Football Wallpaper for Kids Room Decor, Hand ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/8e8f05/3752518255/il_fullxfull.3752518255_6czq.jpg' alt='Vintage Illustration Football Wallpaper for Kids Room Decor, Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2469">
+                                <meta itemprop="height" content="2464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/8e8f05/3752518255/il_fullxfull.3752518255_6czq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Milan | Football images, Soccer pictures, Football wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b6/78/47/b678476cfaab49fefc7ee95b8d2ce062.jpg' alt='Pin on Milan | Football images, Soccer pictures, Football wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b6/78/47/b678476cfaab49fefc7ee95b8d2ce062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Football Wallpaper - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/KVuOM3s.jpeg' alt='Retro Football Wallpaper - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/KVuOM3s.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

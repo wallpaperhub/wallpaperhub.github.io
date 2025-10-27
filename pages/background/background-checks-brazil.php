@@ -1,0 +1,119 @@
+<title>Essential Guide to Background Checks in Brazil</title>
+                    <meta name="description" content="Discover the importance and process of background checks in Brazil. Ensure safety and integrity in your hiring process with our concise guide, covering criminal records, employment history, and more, all while navigating privacy laws effectively.">
+                    <meta name="keywords" content="background checks brazil">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-checks-brazil">
+                            <span itemprop="name">background checks brazil</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Background Checks in Brazil</h1>
+                <p>In Brazil, background checks are essential for employers seeking to ensure the integrity and safety of their workforce. These checks typically include criminal record verification, employment history, and education confirmation. Adhering to privacy laws, businesses can vet candidates effectively while fostering a trustworthy workplace environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil Background Checks: How Our Company Conducts International ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/55c7a3e2e4b0fa365689d8aa/1629909932771-JW2BEP52JMEZ05ODKNO0/brazil.jpg?format=1500w' alt='Brazil Background Checks: How Our Company Conducts International ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Backgrounds" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/55c7a3e2e4b0fa365689d8aa/1629909932771-JW2BEP52JMEZ05ODKNO0/brazil.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil Background Check - How to Order a Background Check in Brazil">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/538880_c163117b42d04bb2980747307d45bad7~mv2.png/v1/fill/w_980,h_351,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/538880_c163117b42d04bb2980747307d45bad7~mv2.png' alt='Brazil Background Check - How to Order a Background Check in Brazil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Background Screening" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/538880_c163117b42d04bb2980747307d45bad7~mv2.png/v1/fill/w_980,h_351,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/538880_c163117b42d04bb2980747307d45bad7~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks in Brazil - What you need to know - Emptor - Emptor">
+                                <img itemprop="contentUrl url" src='https://www.emptor.io/_vercel/image?url=%2Fblogimages%2FImage_from_Background_checks_in_Brazil_-_What_you_need_to_know_-_Emptor.png&w=1200&q=100' alt='Background checks in Brazil - What you need to know - Emptor - Emptor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emptor" />
+                                </span>
+                                <a href='https://www.emptor.io/_vercel/image?url=%2Fblogimages%2FImage_from_Background_checks_in_Brazil_-_What_you_need_to_know_-_Emptor.png&w=1200&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Background Check - Brazil I">
+                                <img itemprop="contentUrl url" src='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Background-Check-Brazil-I.jpg' alt='Police Background Check - Brazil I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tranlanguage" />
+                                </span>
+                                <a href='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Background-Check-Brazil-I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Background Check - Brazil III">
+                                <img itemprop="contentUrl url" src='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Background-Check-Brazil-III-2.jpg' alt='Police Background Check - Brazil III'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tranlanguage" />
+                                </span>
+                                <a href='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Background-Check-Brazil-III-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Need to Know About an FBI Background Check from Brazil">
+                                <img itemprop="contentUrl url" src='https://www.globeia.com/_next/image?url=https%3A%2F%2Fglobeia-strapi.sfo3.digitaloceanspaces.com%2F6bd102024c412b6498da7316b2a43d91.webp&w=3840&q=75' alt='What You Need to Know About an FBI Background Check from Brazil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Globeia" />
+                                </span>
+                                <a href='https://www.globeia.com/_next/image?url=https%3A%2F%2Fglobeia-strapi.sfo3.digitaloceanspaces.com%2F6bd102024c412b6498da7316b2a43d91.webp&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil Background Check - How to Order a Background Check in Brazil">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/11062b_f064ed19ab1e4d2f8263d51045764a89~mv2.jpeg/v1/fill/w_568,h_380,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_f064ed19ab1e4d2f8263d51045764a89~mv2.jpeg' alt='Brazil Background Check - How to Order a Background Check in Brazil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Background Screening" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/11062b_f064ed19ab1e4d2f8263d51045764a89~mv2.jpeg/v1/fill/w_568,h_380,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_f064ed19ab1e4d2f8263d51045764a89~mv2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Apostille for Brazil">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/917dcc_2f75c9b7ac434ce391df7bd13195c0b5~mv2.jpg/v1/fill/w_568,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/917dcc_2f75c9b7ac434ce391df7bd13195c0b5~mv2.jpg' alt='FBI Background Check Apostille for Brazil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Notary Service Center" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/917dcc_2f75c9b7ac434ce391df7bd13195c0b5~mv2.jpg/v1/fill/w_568,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/917dcc_2f75c9b7ac434ce391df7bd13195c0b5~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil's Discriminatory Background Check | Brazil Counsel">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5d32284984694100013c3a74/t/634d60d8a17b2e4f7bc2cb59/1666015449009/238.+Brazil%27s+Discriminatory+Background+Check.png?format=1500w' alt='Brazil's Discriminatory Background Check | Brazil Counsel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brazil Counsel" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5d32284984694100013c3a74/t/634d60d8a17b2e4f7bc2cb59/1666015449009/238.+Brazil%27s+Discriminatory+Background+Check.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Festive Christmas Phone Wallpapers for Holiday Cheer</title>
+                    <meta name="description" content="Discover beautiful Christmas wallpapers for your phone that bring holiday cheer to your screen! Choose from various festive designs to celebrate the season in style. Perfect for spreading joy and creating a cozy atmosphere, our collection of wallpapers will make your device merry and bright.">
+                    <meta name="keywords" content="christmas wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/christmas-wallpaper-phone">
+                            <span itemprop="name">christmas wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Phone Wallpapers for Holiday Cheer</h1>
+                <p>Transform your phone this festive season with stunning Christmas wallpaper! Discover a range of designs from cozy winter scenes to vibrant holiday patterns. Personalize your device and spread the holiday spirit wherever you go. Choose wallpapers that bring joy and cheer to your daily routine, celebrating the magic of Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Christmas phone wallpaper ideas | christmas phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' alt='180 Best Christmas phone wallpaper ideas | christmas phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' alt='Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/still-life-christmas-decoration-with-copy-space_23-2151868677.jpg' alt='Christmas Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/still-life-christmas-decoration-with-copy-space_23-2151868677.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Merry Christmas Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/IMG_20141217193917.jpg' alt='Free Merry Christmas Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/IMG_20141217193917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Forest Phone Wallpapers for a Festive Touch">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' alt='Christmas Forest Phone Wallpapers for a Festive Touch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 852+ Christmas Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' alt='Customize 852+ Christmas Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Christmas Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/christmas-phone-k8h23h31w33z7jhv.jpg' alt='200+] Christmas Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/christmas-phone-k8h23h31w33z7jhv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 852+ Christmas Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFzf-DceJY/1/0/900w/canva-beige-illustrative-christmas-phone-wallpaper-Qi4IfBZicP4.jpg' alt='Customize 852+ Christmas Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFzf-DceJY/1/0/900w/canva-beige-illustrative-christmas-phone-wallpaper-Qi4IfBZicP4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zMl9jYXB0dXJlX2FuX2Flc3RoZXRpY19jbG9zZS11cF9waG90b19vZl9hX3Bpbl9mMjlmMmQxYi0wMTQ1LTRhODktYTYyYy05Yzc2ODc5ZTdiY2RfMS5qcGc.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zMl9jYXB0dXJlX2FuX2Flc3RoZXRpY19jbG9zZS11cF9waG90b19vZl9hX3Bpbl9mMjlmMmQxYi0wMTQ1LTRhODktYTYyYy05Yzc2ODc5ZTdiY2RfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Christmas Phone Wallpapers, Minimalist iPhone Backgrounds, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35055726/r/il/bb3bf4/5276470563/il_fullxfull.5276470563_fyyy.jpg' alt='3 Christmas Phone Wallpapers, Minimalist iPhone Backgrounds, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35055726/r/il/bb3bf4/5276470563/il_fullxfull.5276470563_fyyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Photo Backdrops for Every Occasion</title>
+                    <meta name="description" content="Discover the perfect photo backdrops to elevate your photography game. From vibrant colors to elegant designs, find a range of options ideal for portraits, events, and more. Transform any setting into a professional studio and make your memories shine!">
+                    <meta name="keywords" content="photo backdrops">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-backdrops">
+                            <span itemprop="name">photo backdrops</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Photo Backdrops for Every Occasion</h1>
+                <p>Photo backdrops are essential for creating stunning visuals in photography. They enhance the overall aesthetic by providing a perfect setting for portraits, events, and more. Available in various materials, colors, and patterns, these backdrops can transform any space into a professional studio, making your photos pop and leave lasting impressions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SJOLOON 10x10FT Rustic Wood Vinyl Photography Backdrop  Nostalgia Wood Floor Photo Backdrop Baby Newborn Photo Studio Props  JLT10359 : ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sMELSZlFL.jpg' alt='Amazon.com : SJOLOON 10x10FT Rustic Wood Vinyl Photography Backdrop  Nostalgia Wood Floor Photo Backdrop Baby Newborn Photo Studio Props  JLT10359 : ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sMELSZlFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Mist">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/ART1175x5OceanMist.jpg?v=1624901295' alt='Ocean Mist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/ART1175x5OceanMist.jpg?v=1624901295' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Floor + Wall Backdrop NAV15">
+                                <img itemprop="contentUrl url" src='http://newbornstudioprops.com/cdn/shop/products/NAV15-P-principal.jpg?v=1561448965' alt='Studio Floor + Wall Backdrop NAV15'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newborn Studio Props" />
+                                </span>
+                                <a href='http://newbornstudioprops.com/cdn/shop/products/NAV15-P-principal.jpg?v=1561448965' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Abstract Blue Texture Backdrops For Photography ...">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/J04304-U.png?v=1687106910&width=1000' alt='Kate Abstract Blue Texture Backdrops For Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/J04304-U.png?v=1687106910&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5ft(W) x7ft(H) Light Gray Backdrop Photography Gray Abstract Texture  Professional Portrait Background Photography Photography Studio Props  Photos ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71TfrDGRoXL._AC_UF894,1000_QL80_.jpg' alt='5ft(W) x7ft(H) Light Gray Backdrop Photography Gray Abstract Texture  Professional Portrait Background Photography Photography Studio Props  Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71TfrDGRoXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal">
+                                <img itemprop="contentUrl url" src='http://us.clubbackdrops.com/cdn/shop/products/club-backdrops-vinyl-charcoal-0.jpg?v=1597065412' alt='Charcoal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Club Backdrops" />
+                                </span>
+                                <a href='http://us.clubbackdrops.com/cdn/shop/products/club-backdrops-vinyl-charcoal-0.jpg?v=1597065412' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops">
+                                <img itemprop="contentUrl url" src='http://www.whosedrop.com/cdn/shop/products/MH-020_600x.jpg?v=1579885708' alt='Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="397">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whosedrop" />
+                                </span>
+                                <a href='http://www.whosedrop.com/cdn/shop/products/MH-020_600x.jpg?v=1579885708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Classic Brick Wall Digital Backdrop Photography Backdrops Newborn  Baby Printed Backgrounds for Children Photoshoot Studio Props JHGB50">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18325098/r/il/ef5aaf/1725097514/il_570xN.1725097514_8kjv.jpg' alt='White Classic Brick Wall Digital Backdrop Photography Backdrops Newborn  Baby Printed Backgrounds for Children Photoshoot Studio Props JHGB50'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18325098/r/il/ef5aaf/1725097514/il_570xN.1725097514_8kjv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Floor + Wall Backdrop SP59">
+                                <img itemprop="contentUrl url" src='http://newbornstudioprops.com/cdn/shop/products/SP-59-P-principal.jpg?v=1561448962' alt='Studio Floor + Wall Backdrop SP59'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newborn Studio Props" />
+                                </span>
+                                <a href='http://newbornstudioprops.com/cdn/shop/products/SP-59-P-principal.jpg?v=1561448962' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballet Beauty">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/ART1045x5BalletBeauty.jpg?v=1624901286' alt='Ballet Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/ART1045x5BalletBeauty.jpg?v=1624901286' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

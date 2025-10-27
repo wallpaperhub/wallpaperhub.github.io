@@ -1,0 +1,129 @@
+<title>Gary Brecka's Educational Journey: A Path to Wellness</title>
+                    <meta name="description" content="Explore Gary Brecka's educational background and its influence on health and wellness innovations. Discover how his studies in human biology and health sciences drive his mission to transform lives through natural solutions and holistic approaches. Join us in uncovering his impactful journey today!">
+                    <meta name="keywords" content="gary brecka education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gary-brecka-education">
+                            <span itemprop="name">gary brecka education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gary Brecka's Educational Journey: A Path to Wellness</h1>
+                <p>Gary Brecka is known for his diverse and impactful education background, focusing on human biology and health sciences. He has applied his knowledge to create innovative health solutions and promote wellness. With a mission to enhance lives, his educational journey blends science, entrepreneurship, and holistic health approaches.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka, Human Biologist | AMMG April 2020 Conference Faculty">
+                                <img itemprop="contentUrl url" src='https://agemed.org/wp-content/uploads/Brecka-Gary-Human-Biologist_AMMG-Faculty.jpg' alt='Gary Brecka, Human Biologist | AMMG April 2020 Conference Faculty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Age Management Medicine Group" />
+                                </span>
+                                <a href='https://agemed.org/wp-content/uploads/Brecka-Gary-Human-Biologist_AMMG-Faculty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka Assumes Leadership Role as Chair of Once Upon a ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/2391201/Once_Upon_A_Coconut_gary.jpg' alt='Gary Brecka Assumes Leadership Role as Chair of Once Upon a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WKRG" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/2391201/Once_Upon_A_Coconut_gary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Man Who Can Predict How Long You Have Left To Live (To The Nearest  Month): Gary Brecka | E225">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/r3atRG5wvtg/maxresdefault.jpg' alt='The Man Who Can Predict How Long You Have Left To Live (To The Nearest  Month): Gary Brecka | E225'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/r3atRG5wvtg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka - The Ultimate Human | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5603AQEPBk14sbcSWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702388719554?e=2147483647&v=beta&t=KGQdh7-n_H9Jw9aD1kdmLBalf5xK2N_9l8QtLnG7MGo' alt='Gary Brecka - The Ultimate Human | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5603AQEPBk14sbcSWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702388719554?e=2147483647&v=beta&t=KGQdh7-n_H9Jw9aD1kdmLBalf5xK2N_9l8QtLnG7MGo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka | Booking Agent | Roster | MN2S">
+                                <img itemprop="contentUrl url" src='https://mn2s.com/wp-content/uploads/2025/01/Gary-Brecka.png' alt='Gary Brecka | Booking Agent | Roster | MN2S'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MN2S" />
+                                </span>
+                                <a href='https://mn2s.com/wp-content/uploads/2025/01/Gary-Brecka.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka | Human Biologist & Biohacker">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/664ce4a8066756ce23802f7a/664d2f4777af62bef8597d46_gary-brecka-sunlight-1600x2000.jpg' alt='Gary Brecka | Human Biologist & Biohacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.garybrecka.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/664ce4a8066756ce23802f7a/664d2f4777af62bef8597d46_gary-brecka-sunlight-1600x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gary Brecka | Biohacker Keynote Speaker | Chartwell Speakers">
+                                <img itemprop="contentUrl url" src='https://chartwellspeakers.b-cdn.net/wp-content/uploads/2024/04/gary-brecka-3-scaled-1.jpg' alt='Gary Brecka | Biohacker Keynote Speaker | Chartwell Speakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chartwell Speakers" />
+                                </span>
+                                <a href='https://chartwellspeakers.b-cdn.net/wp-content/uploads/2024/04/gary-brecka-3-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learning from the best in the business!    So grateful for the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3544063146569194659' alt='Learning from the best in the business!    So grateful for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3544063146569194659' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World #1 Biohacker - The Fastest Way To Change Your Health and Live Longer  | Gary Brecka">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nBIY-vqrIds/maxresdefault.jpg' alt='World #1 Biohacker - The Fastest Way To Change Your Health and Live Longer  | Gary Brecka'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nBIY-vqrIds/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Critical Review of Gary Brecka : Performance Through Health">
+                                <img itemprop="contentUrl url" src='https://performancethroughhealth.com/wp-content/uploads/2024/07/maxresdefault-3.webp' alt='A Critical Review of Gary Brecka : Performance Through Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Performance Through Health" />
+                                </span>
+                                <a href='https://performancethroughhealth.com/wp-content/uploads/2024/07/maxresdefault-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

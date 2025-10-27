@@ -1,0 +1,129 @@
+<title>Stunning Anime iPhone 4K Wallpapers</title>
+                    <meta name="description" content="Explore our collection of breathtaking anime iPhone 4K wallpapers designed to enhance your device. With vibrant colors and sharp details, find the perfect background that reflects your love for anime. Download now and give your phone a stylish makeover!">
+                    <meta name="keywords" content="anime iphone 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/anime-iphone-4k-wallpaper">
+                            <span itemprop="name">anime iphone 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime iPhone 4K Wallpapers</h1>
+                <p>Discover stunning anime iPhone 4K wallpaper that transforms your device into a vibrant canvas. From beloved characters to breathtaking landscapes, our curated collection ensures sharp visuals that pop. Perfect for anime fans looking to customize their screens with high-quality art. Elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Anime Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-iphone-background-psdmm565oizldbbg.jpg' alt='200+] Anime Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-iphone-background-psdmm565oizldbbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' alt='Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Anime Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-anime-iphone-lady-on-flower-garden-a5pr8vn654qyazmb.jpg' alt='100+] 4k Anime Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1677">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-anime-iphone-lady-on-flower-garden-a5pr8vn654qyazmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/44/862/HD-wallpaper-madara-rinesharingan-naruto-sharingan-cool-iphone-anime-thumbnail.jpg' alt='HD anime iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/44/862/HD-wallpaper-madara-rinesharingan-naruto-sharingan-cool-iphone-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-4k-anime-battle-scene-features-character-with-glowing-red-eyes-for-iphone-yuqte4gg6lnnq42k.jpg' alt='4k Anime Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-4k-anime-battle-scene-features-character-with-glowing-red-eyes-for-iphone-yuqte4gg6lnnq42k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Anime iPhone 11 4k Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/b9/55/eab9550a0ea99d415893d2071b79ccab.jpg' alt='   Anime iPhone 11 4k Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/b9/55/eab9550a0ea99d415893d2071b79ccab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper-4K-iPhone-Anime-5 by ffoiy on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a1ed2a7-6aef-418e-bf1d-45599c2b6f62/dfz5j8e-42a5bb8b-54fe-4ff0-a5b9-d95423cadafd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhMWVkMmE3LTZhZWYtNDE4ZS1iZjFkLTQ1NTk5YzJiNmY2MlwvZGZ6NWo4ZS00MmE1YmI4Yi01NGZlLTRmZjAtYTViOS1kOTU0MjNjYWRhZmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GGpGJsOx2xv_g2YEmrmcVYHQlu4j2dNFmQ6orN9C-yE' alt='Wallpaper-4K-iPhone-Anime-5 by ffoiy on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a1ed2a7-6aef-418e-bf1d-45599c2b6f62/dfz5j8e-42a5bb8b-54fe-4ff0-a5b9-d95423cadafd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhMWVkMmE3LTZhZWYtNDE4ZS1iZjFkLTQ1NTk5YzJiNmY2MlwvZGZ6NWo4ZS00MmE1YmI4Yi01NGZlLTRmZjAtYTViOS1kOTU0MjNjYWRhZmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GGpGJsOx2xv_g2YEmrmcVYHQlu4j2dNFmQ6orN9C-yE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Anime iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-wallpapers/download-109660/Levi-Ackermann-Red-moon_200.jpg' alt='Best Anime iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-wallpapers/download-109660/Levi-Ackermann-Red-moon_200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Iphone Swing Boy With Umbrella Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/4k-anime-iphone-swing-boy-with-umbrella-zpg7m0veii4t7mzb.webp' alt='4k Anime Iphone Swing Boy With Umbrella Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/4k-anime-iphone-swing-boy-with-umbrella-zpg7m0veii4t7mzb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/2c/da/a72cda7312f5a685f281921e9b7a9662.jpg' alt='Awesome Anime iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/2c/da/a72cda7312f5a685f281921e9b7a9662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

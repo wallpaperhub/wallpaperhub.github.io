@@ -1,0 +1,129 @@
+<title>Elegant Black and Red Invitation Backgrounds for Events</title>
+                    <meta name="description" content="Discover stunning black and red invitation backgrounds that add a sophisticated touch to any event. Perfect for formal occasions, our designs are eye-catching and elegant, ensuring your invitations stand out. Get inspired and create memorable invites that will impress your guests!">
+                    <meta name="keywords" content="layout black and red invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/layout-black-and-red-invitation-background">
+                            <span itemprop="name">layout black and red invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Red Invitation Backgrounds for Events</h1>
+                <p>Elevate your event with a striking black and red invitation background! This bold color combination sets the tone for sophistication and elegance. Perfect for formal gatherings, parties, or celebratory events, it captures attention while remaining classy. Use stylish fonts and designs to enhance the visual appeal!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Beautiful wedding invitation template with red ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/beautiful-wedding-invitation-template-with-red-flower-s-black-background-watercolor-free-vector_607164-240.jpg' alt='Premium Vector | Beautiful wedding invitation template with red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/beautiful-wedding-invitation-template-with-red-flower-s-black-background-watercolor-free-vector_607164-240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and red ribbon invitation card flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/black-and-red-ribbon-invitation-card-flyer-design-template-b4f12d612e2cdff5cb3a97c3ffa5bb67_screen.jpg?ts=1696545056' alt='Black and red ribbon invitation card flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/black-and-red-ribbon-invitation-card-flyer-design-template-b4f12d612e2cdff5cb3a97c3ffa5bb67_screen.jpg?ts=1696545056' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage invitation card with ornate elegant retro abstract floral ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EW4WE6/vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-EW4WE6.jpg' alt='Vintage invitation card with ornate elegant retro abstract floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EW4WE6/vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-EW4WE6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Editable black and red wedding invitation card template">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/editable-black-red-wedding-invitation-card-template_199112-1010.jpg' alt='Premium PSD | Editable black and red wedding invitation card template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/editable-black-red-wedding-invitation-card-template_199112-1010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage invitation card with ornate elegant abstract floral design ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EW8MBD/vintage-invitation-card-with-ornate-elegant-abstract-floral-design-EW8MBD.jpg' alt='Vintage invitation card with ornate elegant abstract floral design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1111">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EW8MBD/vintage-invitation-card-with-ornate-elegant-abstract-floral-design-EW8MBD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red rose black theme invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/red-rose-black-theme-invitation-design-template-a1ec52fd2615e2584c8a99143e18061d_screen.jpg?ts=1637013569' alt='Red rose black theme invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/red-rose-black-theme-invitation-design-template-a1ec52fd2615e2584c8a99143e18061d_screen.jpg?ts=1637013569' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Blank invitation Template Black Red Texture Party Event Printable 5x7  Commercial Use">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19995110/r/il/ffecd2/3557081547/il_fullxfull.3557081547_8beb.jpg' alt='DIY Blank invitation Template Black Red Texture Party Event Printable 5x7  Commercial Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19995110/r/il/ffecd2/3557081547/il_fullxfull.3557081547_8beb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Editable red and black wedding invitation card with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/editable-red-black-wedding-invitation-card-with-watercolor-background_199112-899.jpg' alt='Premium PSD | Editable red and black wedding invitation card with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/editable-red-black-wedding-invitation-card-with-watercolor-background_199112-899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Black Style Event Invitation Background Design Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20181127/red-and-black-style-event-invitation-background-design_2791635.jpg!sw800' alt='Red And Black Style Event Invitation Background Design Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20181127/red-and-black-style-event-invitation-background-design_2791635.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Invitation Card With Ornate Elegant Retro Abstract Floral ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/morphart/morphart1503/morphart150302281/37708257-vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-design-white-red-and-dark-red.jpg' alt='Vintage Invitation Card With Ornate Elegant Retro Abstract Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/morphart/morphart1503/morphart150302281/37708257-vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-design-white-red-and-dark-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

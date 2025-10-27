@@ -1,0 +1,129 @@
+<title>Stunning Green Wavy Background for Your Design Needs</title>
+                    <meta name="description" content="Discover the beauty of a green wavy background! Perfect for enhancing your designs with tranquility and elegance. This versatile backdrop is ideal for websites, presentations, and creative projects. Elevate your visuals effortlessly with its mesmerizing flowing patterns!">
+                    <meta name="keywords" content="green wavy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-wavy-background">
+                            <span itemprop="name">green wavy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green Wavy Background for Your Design Needs</h1>
+                <p>Transform your design projects with a green wavy background, blending elegance and nature's serenity. Its flowing patterns evoke harmony and freshness, making it ideal for websites, presentations, or art prints. Whether you seek a soothing backdrop or an energetic design element, this captivating green wave can elevate your visual storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wavy Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/576/504/non_2x/abstract-wavy-green-background-free-vector.jpg' alt='Green Wavy Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/576/504/non_2x/abstract-wavy-green-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Green wavy background modern design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-wavy-background-modern-design_677411-2160.jpg' alt='Free Vector | Green wavy background modern design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-wavy-background-modern-design_677411-2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Gradient green wavy background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-green-wavy-background_23-2149140690.jpg' alt='Free Vector | Gradient green wavy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-green-wavy-background_23-2149140690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wave Abstract Motion Background Seamless">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1108741529/thumb/1.jpg?ip=x480' alt='Green Wave Abstract Motion Background Seamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1108741529/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract green waves background. To see the other vector wavy ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/00/52/32/58/1000_F_52325870_OI9r291EdMRVGf64ET0lXmnuPKqcRQbf.jpg' alt='abstract green waves background. To see the other vector wavy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/00/52/32/58/1000_F_52325870_OI9r291EdMRVGf64ET0lXmnuPKqcRQbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wavy Lines Abstract Background Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/168680/raw/36116478f8241c875d4be0fa9dee0194-green-wavy-lines-abstract-background.jpg' alt='Green Wavy Lines Abstract Background Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/168680/raw/36116478f8241c875d4be0fa9dee0194-green-wavy-lines-abstract-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wavy Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/586/041/small/abstract-green-black-grey-wavy-background-illustration-eps10-vector.jpg' alt='Green Wavy Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/586/041/small/abstract-green-black-grey-wavy-background-illustration-eps10-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Green Wavy Lines Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1190020388/vector/smooth-flow-abstract-background.jpg?s=612x612&w=0&k=20&c=lOTydIMQHZVYMLOw6w0T3u7AW0iCQP1BTqJ7my53EG4=' alt='6,900+ Green Wavy Lines Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1190020388/vector/smooth-flow-abstract-background.jpg?s=612x612&w=0&k=20&c=lOTydIMQHZVYMLOw6w0T3u7AW0iCQP1BTqJ7my53EG4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Green wavy background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/green-wavy-background_1409-1272.jpg' alt='Premium Vector | Green wavy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/green-wavy-background_1409-1272.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wavy Pattern On White Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2059070864/display_1500/stock-photo-green-wavy-pattern-on-white-background-abstract-art-of-wavy-lines-illustration-of-the-abstract-2059070864.jpg' alt='Green Wavy Pattern On White Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2059070864/display_1500/stock-photo-green-wavy-pattern-on-white-background-abstract-art-of-wavy-lines-illustration-of-the-abstract-2059070864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

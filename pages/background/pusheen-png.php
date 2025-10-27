@@ -1,0 +1,129 @@
+<title>Pusheen PNGs: Cute Cat Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover a delightful collection of Pusheen PNG images! Perfect for projects, social media, or just for fun, these cute cat images are sure to bring a smile. Easy to use and share, explore the charm of Pusheen today!">
+                    <meta name="keywords" content="pusheen png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pusheen-png">
+                            <span itemprop="name">pusheen png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pusheen PNGs: Cute Cat Images for Your Creative Projects</h1>
+                <p>Pusheen PNGs are adorable images of the lovable cartoon cat that are perfect for use in digital projects, social media posts, or as stickers. These transparent background images make it easy to add a cute touch to designs without any hassle. Collect your favorite Pusheen expressions and share the cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen transparent PNG images - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/587e31f49686194a55adab6e.png' alt='Pusheen transparent PNG images - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/587e31f49686194a55adab6e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/200/501/png-clipart-pusheen-pusheen-cat-illustration-thumbnail.png' alt='Pusheen png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/200/501/png-clipart-pusheen-pusheen-cat-illustration-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen PNG transparent image download, size: 955x1055px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pusheen_PNG15.png' alt='Pusheen PNG transparent image download, size: 955x1055px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pusheen_PNG15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gato Pusheen PNG 3 by vaniiina on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88d46ccc-40c8-4363-8a7f-824e686e9fd2/d6bsuw2-da2d9d66-2f1e-4836-94ca-22682ab25b09.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZDQ2Y2NjLTQwYzgtNDM2My04YTdmLTgyNGU2ODZlOWZkMlwvZDZic3V3Mi1kYTJkOWQ2Ni0yZjFlLTQ4MzYtOTRjYS0yMjY4MmFiMjViMDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m0n_UVbh-bAwbT8ZRRAFUA4tbSOYNyOw1dnpjz2RzYQ' alt='Gato Pusheen PNG 3 by vaniiina on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88d46ccc-40c8-4363-8a7f-824e686e9fd2/d6bsuw2-da2d9d66-2f1e-4836-94ca-22682ab25b09.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZDQ2Y2NjLTQwYzgtNDM2My04YTdmLTgyNGU2ODZlOWZkMlwvZDZic3V3Mi1kYTJkOWQ2Ni0yZjFlLTQ4MzYtOTRjYS0yMjY4MmFiMjViMDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m0n_UVbh-bAwbT8ZRRAFUA4tbSOYNyOw1dnpjz2RzYQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/1000/192/png-clipart-pusheen-sticker-illustration-pusheen-a-love-for-cats-telegram-sticker-upscale-mammal-animals-thumbnail.png' alt='Pusheen png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/1000/192/png-clipart-pusheen-sticker-illustration-pusheen-a-love-for-cats-telegram-sticker-upscale-mammal-animals-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen PNG transparent image download, size: 981x1026px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pusheen_PNG16.png' alt='Pusheen PNG transparent image download, size: 981x1026px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="981">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pusheen_PNG16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Eating Donut transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/587e32259686194a55adab73.png' alt='Pusheen Eating Donut transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/587e32259686194a55adab73.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Pusheen The Cat in Front View Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/cool-pusheen-the-cat-in-front-view-transparent-background-735811696680907mweei6f0g3.png' alt='Cool Pusheen The Cat in Front View Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/cool-pusheen-the-cat-in-front-view-transparent-background-735811696680907mweei6f0g3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Pusheencat Pusheenthecat Globos Ballons Cartoon - Pusheen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/12/2f/a0122f141a91b901949a64906c7d80cc.jpg' alt='Pusheen Pusheencat Pusheenthecat Globos Ballons Cartoon - Pusheen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/12/2f/a0122f141a91b901949a64906c7d80cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen PNG transparent image download, size: 163x200px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pusheen_PNG40.png' alt='Pusheen PNG transparent image download, size: 163x200px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="163">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pusheen_PNG40.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

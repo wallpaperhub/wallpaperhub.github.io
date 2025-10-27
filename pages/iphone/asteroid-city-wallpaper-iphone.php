@@ -1,0 +1,129 @@
+<title>Asteroid City iPhone Wallpapers: Cosmic Aesthetics</title>
+                    <meta name="description" content="Discover breathtaking asteroid city wallpapers for your iPhone! Elevate your device's look with vibrant, cosmic designs. Perfect for any space lover or anyone seeking a unique aesthetic. Explore our curated collection of stunning wallpapers today and make your iPhone truly out of this world!">
+                    <meta name="keywords" content="asteroid city wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/asteroid-city-wallpaper-iphone">
+                            <span itemprop="name">asteroid city wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Asteroid City iPhone Wallpapers: Cosmic Aesthetics</h1>
+                <p>Transform your iPhone with stunning asteroid city wallpaper! Featuring vibrant colors and captivating designs, these wallpapers bring a celestial vibe to your screen. Perfect for space enthusiasts and anyone looking to add a touch of cosmic wonder to their device. Explore our collection and elevate your iPhone aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asteroid City Wallpaper V2 : r/wesanderson">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/asteroid-city-wallpaper-v2-v0-9mlqxe0wmj9b1.png?width=640&crop=smart&auto=webp&s=fa24976603e075c6bdeef0ab03f083c8722453b4' alt='Asteroid City Wallpaper V2 : r/wesanderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/asteroid-city-wallpaper-v2-v0-9mlqxe0wmj9b1.png?width=640&crop=smart&auto=webp&s=fa24976603e075c6bdeef0ab03f083c8722453b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Asteroid City Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/617/thumb-617112.jpg' alt='Download Movie Asteroid City Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/617/thumb-617112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Asteroid City HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/130/1308698.jpeg' alt='Download Movie Asteroid City HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3517">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/130/1308698.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asteroid City Wallpaper for Phone | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7255716581676731694&location=0&aid=1988' alt='Asteroid City Wallpaper for Phone | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7255716581676731694&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Asteroid City (movie), poster, movies, Wes Anderson ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/107/205/235/asteroid-city-movie-poster-movies-wes-anderson-digital-art-hd-wallpaper-preview.jpg' alt='HD wallpaper: Asteroid City (movie), poster, movies, Wes Anderson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/107/205/235/asteroid-city-movie-poster-movies-wes-anderson-digital-art-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson Asteroid City Movie Poster, Asteroid City Poster | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/jk4AAOSw0idkpNh7/s-l1200.jpg' alt='Wes Anderson Asteroid City Movie Poster, Asteroid City Poster | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ebay.nl" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/jk4AAOSw0idkpNh7/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asteroid City Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12569429.jpg' alt='Asteroid City Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12569429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asteroid City Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12569440.jpg' alt='Asteroid City Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12569440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson returns with ASTEROID CITY   ☄️ Now Showing at Palace! | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7262225144582655233&location=0&aid=1988' alt='Wes Anderson returns with ASTEROID CITY   ☄️ Now Showing at Palace! | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7262225144582655233&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Asteroid City HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/131/1316316.jpeg' alt='Download Movie Asteroid City HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3705">
+                                <meta itemprop="height" content="2084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/131/1316316.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

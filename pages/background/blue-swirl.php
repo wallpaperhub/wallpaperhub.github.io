@@ -1,0 +1,129 @@
+<title>Captivating Blue Swirl Designs: Embrace Elegance</title>
+                    <meta name="description" content="Discover the beauty of blue swirl designs! Explore how this enchanting pattern adds tranquility and sophistication to art, fashion, and interiors. Perfect for inspiring creativity, our collection showcases the dynamic allure of blue swirls. Dive in and elevate your aesthetic today!">
+                    <meta name="keywords" content="blue swirl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-swirl">
+                            <span itemprop="name">blue swirl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Blue Swirl Designs: Embrace Elegance</h1>
+                <p>Blue swirls evoke a sense of calm and elegance, often found in art, fashion, and design. This mesmerizing pattern mimics the gentle ebb of waves or the flow of smoke, creating a dynamic visual experience. Blue swirls can inspire creativity, adding depth and intrigue to any space or aesthetic, making them a favorite choice among artists and designers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Background Graphic by davidzydd · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Blue-Swirl-Background-Graphics-1.jpg' alt='Blue Swirl Background Graphic by davidzydd · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Blue-Swirl-Background-Graphics-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Images – Browse 2,489,648 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/64/52/09/360_F_664520916_GLVzmbV8zbctmPbttWp7V9I0HFV0wk4g.jpg' alt='Blue Swirl Images – Browse 2,489,648 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/64/52/09/360_F_664520916_GLVzmbV8zbctmPbttWp7V9I0HFV0wk4g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,800+ Light Blue Swirl Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1389532343/vector/swirling-radial-pattern-spiral-background.jpg?s=612x612&w=0&k=20&c=oIh5x_uromp22_nxPw7F6QzgZGs1ABTY90XbPwhKjV8=' alt='1,800+ Light Blue Swirl Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1389532343/vector/swirling-radial-pattern-spiral-background.jpg?s=612x612&w=0&k=20&c=oIh5x_uromp22_nxPw7F6QzgZGs1ABTY90XbPwhKjV8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl">
+                                <img itemprop="contentUrl url" src='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20220323144003/Blue-Swirl.jpg' alt='Blue Swirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pattern Crew" />
+                                </span>
+                                <a href='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20220323144003/Blue-Swirl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Images – Browse 2,489,648 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/85/56/79/360_F_485567905_5irHEPpOphpUik16ACIwsHRCaKs7IFeD.jpg' alt='Blue Swirl Images – Browse 2,489,648 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/85/56/79/360_F_485567905_5irHEPpOphpUik16ACIwsHRCaKs7IFeD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Blue and white abstract background with a blue ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blue-white-abstract-background-with-blue-swirl-pattern_82802-5921.jpg' alt='Premium Photo | Blue and white abstract background with a blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blue-white-abstract-background-with-blue-swirl-pattern_82802-5921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker Blue swirl pattern">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/44/49/61/63/700_FO44496163_ce912f698da156d72c60fdb224471795.jpg,700,493,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,443,jpg)/stickers-blue-swirl-pattern.jpg.jpg' alt='Sticker Blue swirl pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/44/49/61/63/700_FO44496163_ce912f698da156d72c60fdb224471795.jpg,700,493,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,443,jpg)/stickers-blue-swirl-pattern.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Artistic Swirls Handmade Aesthetic Background With ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/blue-swirl-artistic-swirls-handmade-aesthetic-background-with-flowing-texture_9984607.jpg!w700wp' alt='Blue Swirl Artistic Swirls Handmade Aesthetic Background With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/blue-swirl-artistic-swirls-handmade-aesthetic-background-with-flowing-texture_9984607.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract blue swirl background wave Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/30/88/abstract-blue-swirl-background-wave-vector-26503088.jpg' alt='Abstract blue swirl background wave Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/30/88/abstract-blue-swirl-background-wave-vector-26503088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/740/561/small/abstract-blue-textured-paint-swirl-background-vector.jpg' alt='Blue Swirl Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/740/561/small/abstract-blue-textured-paint-swirl-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

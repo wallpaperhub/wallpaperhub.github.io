@@ -1,0 +1,129 @@
+<title>Bad Bunny Heart Logo Wallpaper: Download Now!</title>
+                    <meta name="description" content="Explore our collection of Bad Bunny heart logo wallpapers! Perfect for fans who want to showcase their love for the artist, these vibrant designs will add a unique touch to your device. Download your favorite wallpaper today and enjoy the iconic style of Bad Bunny on your screen!">
+                    <meta name="keywords" content="bad bunny heart logo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/bad-bunny-heart-logo-wallpaper">
+                            <span itemprop="name">bad bunny heart logo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bad Bunny Heart Logo Wallpaper: Download Now!</h1>
+                <p>Discover the perfect Bad Bunny heart logo wallpaper to express your love for this iconic artist! Featuring vibrant colors and stylish designs, these wallpapers will elevate your device and bring a touch of Bad Bunny's unique vibe to your screen. Ideal for fans looking to showcase their passion in a creative way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Heart, Bad Bunny, PNG File - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/a1/94/e1a194b893e7c413a72c946472f3df2d.jpg' alt='Bad Bunny Heart, Bad Bunny, PNG File - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/a1/94/e1a194b893e7c413a72c946472f3df2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Primo Talks Working with Bad Bunny for 'Un Verano Sin Ti' Cover">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/05/bad-bunny-cover-art-2022-billboard-1548.jpg?w=942&h=623&crop=1' alt='Ugly Primo Talks Working with Bad Bunny for 'Un Verano Sin Ti' Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/05/bad-bunny-cover-art-2022-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bad Bunny Heart Character Pattern | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bad-bunny-heart-character-pattern-yb7cbxiugsqklz6l.jpg' alt='Download Bad Bunny Heart Character Pattern | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bad-bunny-heart-character-pattern-yb7cbxiugsqklz6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bad Bunny Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-heart-character-beach-scene-dgzs6fijv5fn2634.jpg' alt='100+] Bad Bunny Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="846">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-heart-character-beach-scene-dgzs6fijv5fn2634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Heart, Bad Bunny, PNG File - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21034215/r/il/fade9b/3907270007/il_fullxfull.3907270007_mog1.jpg' alt='Bad Bunny Heart, Bad Bunny, PNG File - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21034215/r/il/fade9b/3907270007/il_fullxfull.3907270007_mog1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Bad bunny ideas | bunny, bunny wallpaper, bad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9a/ab/ff/9aabff1a74e52b14a09c04c8235bc876.jpg' alt='290 Bad bunny ideas | bunny, bunny wallpaper, bad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9a/ab/ff/9aabff1a74e52b14a09c04c8235bc876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Heart Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11512971.jpg' alt='Bad Bunny Heart Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11512971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bad Bunny Turned Up the Heat on the Stage | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bad-bunny-background-81xbw9yq4e3ps0n5.jpg' alt='Download Bad Bunny Turned Up the Heat on the Stage | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bad-bunny-background-81xbw9yq4e3ps0n5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Svg, Sad Heart Svg, Benito Svg, Cut Files for Cricut ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25769395/r/il/85ff35/3872610234/il_fullxfull.3872610234_to8c.jpg' alt='Bad Bunny Svg, Sad Heart Svg, Benito Svg, Cut Files for Cricut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25769395/r/il/85ff35/3872610234/il_fullxfull.3872610234_to8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BUY ART FOR LESS Officially Licensed Bad Bunny Heart 24 x 36  Inch Art Poster - Decorative Print - Poster Paper - Ready to Frame: Posters  & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71a5ocEwrhL.jpg' alt='Amazon.com: BUY ART FOR LESS Officially Licensed Bad Bunny Heart 24 x 36  Inch Art Poster - Decorative Print - Poster Paper - Ready to Frame: Posters  & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71a5ocEwrhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

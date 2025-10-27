@@ -1,0 +1,129 @@
+<title>Troubleshooting Code42 Connection Issues</title>
+                    <meta name="description" content="Struggling with Code42 not connecting to its background service? Discover troubleshooting tips, from firewall settings to application updates, that can help you resolve the issue quickly and efficiently. Get your data protection back on track now!">
+                    <meta name="keywords" content="code42 cannot connect to its background service">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/code42-cannot-connect-to-its-background-service">
+                            <span itemprop="name">code42 cannot connect to its background service</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Troubleshooting Code42 Connection Issues</h1>
+                <p>If you're facing issues with Code42 not connecting to its background service, it may stem from network settings or firewall configurations. Ensure your security software isn't blocking the application. Restarting the application or your system might help as well. Check for updates to ensure compatibility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cannot connect to background service – CrashPlan Help Center">
+                                <img itemprop="contentUrl url" src='https://support.crashplan.com/hc/article_attachments/8867202490509' alt='Cannot connect to background service – CrashPlan Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CrashPlan Support" />
+                                </span>
+                                <a href='https://support.crashplan.com/hc/article_attachments/8867202490509' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Error: Code42 cannot connect to its background service · Issue ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/11349349/88491223-d943b980-cfa1-11ea-8f80-7900d2ebfafb.png' alt='Error: Code42 cannot connect to its background service · Issue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/11349349/88491223-d943b980-cfa1-11ea-8f80-7900d2ebfafb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Error: Code42 cannot connect to its background service · Issue ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/4baf749e3cc0fdc3971f75816e647b936d7ec841f56390d8c5b40782a4790c21/jlesage/docker-crashplan-pro/issues/253' alt='Error: Code42 cannot connect to its background service · Issue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/4baf749e3cc0fdc3971f75816e647b936d7ec841f56390d8c5b40782a4790c21/jlesage/docker-crashplan-pro/issues/253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CrashPlan app does not run – CrashPlan Help Center">
+                                <img itemprop="contentUrl url" src='https://support.crashplan.com/hc/article_attachments/21334329118093' alt='CrashPlan app does not run – CrashPlan Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CrashPlan Support" />
+                                </span>
+                                <a href='https://support.crashplan.com/hc/article_attachments/21334329118093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code42 cannot connect to it's background service (since new ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/75cab284dd0883d9fca51155242168c5079d5055df76b2f9f48456935bf95363/jlesage/docker-crashplan-pro/issues/121' alt='Code42 cannot connect to it's background service (since new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/75cab284dd0883d9fca51155242168c5079d5055df76b2f9f48456935bf95363/jlesage/docker-crashplan-pro/issues/121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crashplan 10 won't start on Ubuntu derivatives">
+                                <img itemprop="contentUrl url" src='https://feeding.cloud.geek.nz/posts/crashplan-10-wont-start-on-ubuntu-derivatives/crashplan-error-message.png' alt='Crashplan 10 won't start on Ubuntu derivatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="382">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feeding the Cloud" />
+                                </span>
+                                <a href='https://feeding.cloud.geek.nz/posts/crashplan-10-wont-start-on-ubuntu-derivatives/crashplan-error-message.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Connect to the CrashPlan Background Service">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nspcqLfvLxc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5HlxpnXKByxDydxVbQPgP49_y1A' alt='How to Connect to the CrashPlan Background Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nspcqLfvLxc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5HlxpnXKByxDydxVbQPgP49_y1A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cannot connect to background service – CrashPlan Help Center">
+                                <img itemprop="contentUrl url" src='https://support.crashplan.com/hc/article_attachments/20335830723981' alt='Cannot connect to background service – CrashPlan Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1496">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CrashPlan Support" />
+                                </span>
+                                <a href='https://support.crashplan.com/hc/article_attachments/20335830723981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Fix Code42 CrashPlan 'cannot connect to background service ...">
+                                <img itemprop="contentUrl url" src='https://cdn.appuals.com/wp-content/uploads/2019/10/6i2.png.webp' alt='How to Fix Code42 CrashPlan 'cannot connect to background service ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Appuals" />
+                                </span>
+                                <a href='https://cdn.appuals.com/wp-content/uploads/2019/10/6i2.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Error: Code42 cannot connect to its background service · Issue ...">
+                                <img itemprop="contentUrl url" src='https://avatars.githubusercontent.com/u/66867404?s=80&v=4' alt='Error: Code42 cannot connect to its background service · Issue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://avatars.githubusercontent.com/u/66867404?s=80&v=4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Flower Vine Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover stunning flower vine wallpaper that enhances your interiors with natural charm. Ideal for any room, it combines elegance and sophistication, transforming your space into a serene retreat. Explore our collection to find the perfect design for your home today!">
+                    <meta name="keywords" content="flower vine wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-vine-wallpaper">
+                            <span itemprop="name">flower vine wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Flower Vine Wallpaper for Your Home</h1>
+                <p>Flower vine wallpaper brings the beauty of nature indoors, combining elegance and freshness. Perfect for brightening up living rooms, bedrooms, or hallways, this wallpaper adds a touch of sophistication with its intricate floral patterns and swirling vines. It's an ideal choice for creating a serene atmosphere in any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Vine Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-itni-l.jpg' alt='Tiny Vine Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-itni-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Vine Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thealleyex.com/cdn/shop/products/EHN20176_main-01_1200x.jpg?v=1663973358' alt='Blooming Vine Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Alley Exchange" />
+                                </span>
+                                <a href='https://thealleyex.com/cdn/shop/products/EHN20176_main-01_1200x.jpg?v=1663973358' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Legacy Prints Floral Vine Wallpaper - Stream Blue & Sage">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/ET12004.jpg?v=1712805062' alt='Seabrook Legacy Prints Floral Vine Wallpaper - Stream Blue & Sage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/ET12004.jpg?v=1712805062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine Haven Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.foresthomesstore.com/cdn/shop/files/Vine_Haven1_1800x.jpg?v=1661327465' alt='Vine Haven Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='https://www.foresthomesstore.com/cdn/shop/files/Vine_Haven1_1800x.jpg?v=1661327465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Vine Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-xllg-l.jpg' alt='Tiny Vine Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-xllg-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AL13724 Berkin Blue Large Floral Vine Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn10.bigcommerce.com/s-9qugz4w/products/9080/images/9943/AL13724__10394.1411016721.1280.1280.jpg?c=2' alt='AL13724 Berkin Blue Large Floral Vine Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indoor Wallpaper" />
+                                </span>
+                                <a href='https://cdn10.bigcommerce.com/s-9qugz4w/products/9080/images/9943/AL13724__10394.1411016721.1280.1280.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vine Wallpaper - 3 Foot Sample">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2023/03/ET12010-seabrook-wallcoverings-etten-studios-legacy-prints-floral-vine-wallpaper-smoke-laurel-green.jpg?fit=500%2C500&ssl=1' alt='Floral Vine Wallpaper - 3 Foot Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2023/03/ET12010-seabrook-wallcoverings-etten-studios-legacy-prints-floral-vine-wallpaper-smoke-laurel-green.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine Floral Flowers Wallpaper Norwall Wallcovering PP27729">
+                                <img itemprop="contentUrl url" src='https://www.wallpaper-inc.com/media/catalog/product/cache/609b674efe3611e6902f99850b2e0bbf/c/h/chi-pp27729-white-textured-vines-of-flower-0.jpg' alt='Vine Floral Flowers Wallpaper Norwall Wallcovering PP27729'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper-Inc" />
+                                </span>
+                                <a href='https://www.wallpaper-inc.com/media/catalog/product/cache/609b674efe3611e6902f99850b2e0bbf/c/h/chi-pp27729-white-textured-vines-of-flower-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Colorful Vine Flowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/f/l/floral-wallpaper-vintage-flower-wall-mural-colorful-peony-floral_zgp1aqv4zmh_3d_0.jpg' alt='Vintage Colorful Vine Flowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/f/l/floral-wallpaper-vintage-flower-wall-mural-colorful-peony-floral_zgp1aqv4zmh_3d_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vine Wallpaper in Blue Jay & Sage">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/ET12012_90f1cc98-4044-4aef-b091-a7f94bce55c7_1080x.jpg?v=1689612240' alt='Floral Vine Wallpaper in Blue Jay & Sage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/ET12012_90f1cc98-4044-4aef-b091-a7f94bce55c7_1080x.jpg?v=1689612240' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

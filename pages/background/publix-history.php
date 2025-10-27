@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Publix Super Markets</title>
+                    <meta name="description" content="Explore the fascinating history of Publix Super Markets, from its 1930 founding by George W. Jenkins to becoming one of America’s leading grocery chains. Learn how Publix’s commitment to quality and customer service has shaped its growth and success across the Southeast.">
+                    <meta name="keywords" content="publix history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/publix-history">
+                            <span itemprop="name">publix history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Publix Super Markets</h1>
+                <p>Publix Super Markets, founded in 1930 by George W. Jenkins in Winter Haven, Florida, has a rich history of growth and community commitment. From its humble beginnings as a single store, it evolved into one of the largest grocery chains in the U.S., emphasizing quality, customer service, and employee ownership. Today, Publix operates over 1,200 locations across several states, maintaining its reputation for excellence and dedication to customers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Timeline | Publix Culture | About Publix | Publix Super Markets">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/photo-timeline/01_1930-first-store_345x360.jpg' alt='Photo Timeline | Publix Culture | About Publix | Publix Super Markets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/photo-timeline/01_1930-first-store_345x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Timeline | Publix Culture | About Publix | Publix Super Markets">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/photo-timeline/03_1940-store-front_535x360.jpg' alt='Photo Timeline | Publix Culture | About Publix | Publix Super Markets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/photo-timeline/03_1940-store-front_535x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Publix through the decades">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/newsroom/media-asset-library/news-releases/media-downloads/stores-through-the-decades-1940s.jpg' alt='Publix through the decades'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/newsroom/media-asset-library/news-releases/media-downloads/stores-through-the-decades-1940s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Timeline | Publix Culture | About Publix | Publix Super Markets">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/photo-timeline/06_1960-ribbon-cutting_535x360.jpg' alt='Photo Timeline | Publix Culture | About Publix | Publix Super Markets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/photo-timeline/06_1960-ribbon-cutting_535x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Timeline | Publix Culture | About Publix | Publix Super Markets">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/photo-timeline/11_1980-industrial-center_535x360.jpg' alt='Photo Timeline | Publix Culture | About Publix | Publix Super Markets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/photo-timeline/11_1980-industrial-center_535x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 years of Publix | Modern Cities">
+                                <img itemprop="contentUrl url" src='https://photos.moderncities.com/History/Publix-State-Archives-of-Florida/i-8rqZ2cX/0/7ae2cbf0/L/n044583-L.jpg' alt='87 years of Publix | Modern Cities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Cities" />
+                                </span>
+                                <a href='https://photos.moderncities.com/History/Publix-State-Archives-of-Florida/i-8rqZ2cX/0/7ae2cbf0/L/n044583-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Publix founder George Jenkins picked his grocery's name ...">
+                                <img itemprop="contentUrl url" src='https://www.miamiherald.com/latest-news/neqixm/picture286626485/alternates/LANDSCAPE_1140/Screenshot%202024-03-13%20at%209.09.58%E2%80%AFA_fitted.jpeg' alt='How Publix founder George Jenkins picked his grocery's name ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Herald" />
+                                </span>
+                                <a href='https://www.miamiherald.com/latest-news/neqixm/picture286626485/alternates/LANDSCAPE_1140/Screenshot%202024-03-13%20at%209.09.58%E2%80%AFA_fitted.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insight into the journey of the creation of Publix">
+                                <img itemprop="contentUrl url" src='https://images.publixcdn.com/cms/images/corporate/newsroom/media-asset-library/news-releases/media-downloads/08_03_ch_post2_history_image3.jpg' alt='Insight into the journey of the creation of Publix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publix Corporate" />
+                                </span>
+                                <a href='https://images.publixcdn.com/cms/images/corporate/newsroom/media-asset-library/news-releases/media-downloads/08_03_ch_post2_history_image3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Publix through the years">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/bltf544847d81460465/66e3241ec17960dcdfe82506/2024-roy-timeline-1280x720.png?width=1280&auto=webp&quality=95&format=jpg&disable=upscale' alt='Publix through the years'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Supermarket News" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/bltf544847d81460465/66e3241ec17960dcdfe82506/2024-roy-timeline-1280x720.png?width=1280&auto=webp&quality=95&format=jpg&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Publix Supermarket: Part of Florida History Since 1930">
+                                <img itemprop="contentUrl url" src='https://www.florida-backroads-travel.com/images/PublixSupermarket.jpg' alt='Publix Supermarket: Part of Florida History Since 1930'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Backroads Travel" />
+                                </span>
+                                <a href='https://www.florida-backroads-travel.com/images/PublixSupermarket.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

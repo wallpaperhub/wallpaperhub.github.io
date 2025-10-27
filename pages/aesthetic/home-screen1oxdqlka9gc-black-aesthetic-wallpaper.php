@@ -1,0 +1,129 @@
+<title>Stunning Black Aesthetic Wallpapers for Your Home Screen</title>
+                    <meta name="description" content="Discover chic black aesthetic wallpapers designed to elevate your home screen. Explore our collection for sleek, sophisticated styles that enhance your mobile experience. Perfect for minimalists seeking a dark yet stylish vibe!">
+                    <meta name="keywords" content="home screen:1oxdqlka9gc= black aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/home-screen1oxdqlka9gc-black-aesthetic-wallpaper">
+                            <span itemprop="name">home screen:1oxdqlka9gc= black aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Aesthetic Wallpapers for Your Home Screen</h1>
+                <p>Transform your device's aesthetic with stunning black aesthetic wallpapers! Browse a collection of 1oxdqlka9gc= designs that fuse elegance with simplicity. Perfect for those who appreciate the darkness as beauty, these wallpapers will elevate your home screen and make a bold statement every time you unlock your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61+ Black Aesthetic Wallpaper Choices (FREE) | Bridal Shower 101">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/89/a7/8089a7cf4c069e6928201857591424bc.jpg' alt='61+ Black Aesthetic Wallpaper Choices (FREE) | Bridal Shower 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/89/a7/8089a7cf4c069e6928201857591424bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Black Aesthetic Wallpapers For 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5f/1a/a9/5f1aa9564d04d6826040b82f168b5a48.jpg' alt='50+ Black Aesthetic Wallpapers For 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5f/1a/a9/5f1aa9564d04d6826040b82f168b5a48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Black Aesthetic Wallpapers For 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/75/c8/25/75c825e51312db0be8033f9b394cd395.jpg' alt='50+ Black Aesthetic Wallpapers For 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/75/c8/25/75c825e51312db0be8033f9b394cd395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/88/06/6b/88066b124708ae34182358bf1e21d5fe.jpg' alt='Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/88/06/6b/88066b124708ae34182358bf1e21d5fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Free Black Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ae/58/d8/ae58d8ee3333dbe1c20ae359f948801b.jpg' alt='45+ Free Black Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ae/58/d8/ae58d8ee3333dbe1c20ae359f948801b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Free Black Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7f/13/04/7f130464587ccc3cfc22e6b797656810.jpg' alt='45+ Free Black Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7f/13/04/7f130464587ccc3cfc22e6b797656810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Andrea Castro on wallpapers in 2021 | Black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/f0/80/a2f080d706f3b9ae28eff95935602260.jpg' alt='Pin by Andrea Castro on wallpapers in 2021 | Black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/f0/80/a2f080d706f3b9ae28eff95935602260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/zPQLzLv_LSOe9FiClxtlSJniaemNbYuxj_5eX2Ir3W3i-LkQrDTNk-rq5bHRoOv3UeuN=w526-h296-rw' alt='Black Aesthetic Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/zPQLzLv_LSOe9FiClxtlSJniaemNbYuxj_5eX2Ir3W3i-LkQrDTNk-rq5bHRoOv3UeuN=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/65/a6/1c/65a61c28a4d375a94fbe1cde0b7615e3.jpg' alt='Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/65/a6/1c/65a61c28a4d375a94fbe1cde0b7615e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/11x11LDz6qL.jpg' alt='Black Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/11x11LDz6qL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

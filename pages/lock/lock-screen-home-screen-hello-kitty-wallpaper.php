@@ -1,0 +1,129 @@
+<title>Charming Hello Kitty Wallpapers for Your Lock & Home Screen</title>
+                    <meta name="description" content="Explore a delightful collection of Hello Kitty wallpapers perfect for your lock and home screens. Brighten up your phone with cute designs that reflect your style and love for this beloved character. Download now and personalize your device!">
+                    <meta name="keywords" content="lock screen home screen hello kitty wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-home-screen-hello-kitty-wallpaper">
+                            <span itemprop="name">lock screen home screen hello kitty wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Hello Kitty Wallpapers for Your Lock & Home Screen</h1>
+                <p>Transform your device's lock and home screens with adorable Hello Kitty wallpapers! Whether you prefer pastel colors or vibrant prints, these charming designs add a touch of fun and nostalgia to your everyday tech experience. Personalize your screens and let Hello Kitty bring a smile to your face every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Girly Background For iPhone Wallpaper Car ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/25/4b/2f254bd8ab740b6ee6b78da16a737ea8.jpg' alt='   Free download Girly Background For iPhone Wallpaper Car ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/25/4b/2f254bd8ab740b6ee6b78da16a737ea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seeking feedback for Hello Kitty lockscreen wallpaper I made : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/seeking-feedback-for-hello-kitty-lockscreen-wallpaper-i-made-v0-86sje7sm0sac1.jpg?width=1284&format=pjpg&auto=webp&s=a2ffbf66f81d723f029b5b4c00f83ff5e2ac38d5' alt='Seeking feedback for Hello Kitty lockscreen wallpaper I made : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/seeking-feedback-for-hello-kitty-lockscreen-wallpaper-i-made-v0-86sje7sm0sac1.jpg?width=1284&format=pjpg&auto=webp&s=a2ffbf66f81d723f029b5b4c00f83ff5e2ac38d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Hello kitty lock screens ideas | hello kitty, kitty, hello ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cd/87/49/cd8749b95882d5ced9a755ad299805c1.jpg' alt='100 Hello kitty lock screens ideas | hello kitty, kitty, hello ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cd/87/49/cd8749b95882d5ced9a755ad299805c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Katie, home screen lock screen love it   | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7313626595843539461&index=5&sign=243a94da11203a45d220dbfd67b7f2cb' alt='Hello Katie, home screen lock screen love it   | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7313626595843539461&index=5&sign=243a94da11203a45d220dbfd67b7f2cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Angel Lockscreen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e7/f5/58/e7f558dea1a52c599f41fc7464bdd9a6.jpg' alt='Hello Kitty Angel Lockscreen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e7/f5/58/e7f558dea1a52c599f41fc7464bdd9a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty iPhone 4S HomeScreen & LockScreen Wallpapers | May Themes">
+                                <img itemprop="contentUrl url" src='https://maythemes.wordpress.com/wp-content/uploads/2013/07/20130729-000742.jpg' alt='Hello Kitty iPhone 4S HomeScreen & LockScreen Wallpapers | May Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="May Themes - WordPress.com" />
+                                </span>
+                                <a href='https://maythemes.wordpress.com/wp-content/uploads/2013/07/20130729-000742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Screen Lock 1.3 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/hello-kitty-screen-lock/00/00/0F/WP/00000FWPUR/pad_screenshot.png' alt='Hello Kitty Screen Lock 1.3 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/hello-kitty-screen-lock/00/00/0F/WP/00000FWPUR/pad_screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty Locked Screen Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-locked-screen-wallpaper-n5fq24xtmkgb47oc.jpg' alt='Download Hello Kitty Locked Screen Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-locked-screen-wallpaper-n5fq24xtmkgb47oc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Locked, hello kitty, lock screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/540/925/HD-wallpaper-locked-hello-kitty-lock-screen.jpg' alt='Locked, hello kitty, lock screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/540/925/HD-wallpaper-locked-hello-kitty-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/35/5c/66/355c669877d9b6766dccd6df4d08786f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/35/5c/66/355c669877d9b6766dccd6df4d08786f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

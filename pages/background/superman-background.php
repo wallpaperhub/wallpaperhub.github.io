@@ -1,0 +1,129 @@
+<title>Discover Superman's Incredible Origin Story</title>
+                    <meta name="description" content="Explore the fascinating background of Superman, from his Kryptonian roots to his heroic journey as Earth's protector. Learn about his powers, upbringing, and the values he stands for—all in a concise and engaging format perfect for mobile readers!">
+                    <meta name="keywords" content="superman background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/superman-background">
+                            <span itemprop="name">superman background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Superman's Incredible Origin Story</h1>
+                <p>Superman, the iconic superhero created by Jerry Siegel and Joe Shuster in 1938, hails from the fictional planet Krypton. His birth name is Kal-El, and he possesses extraordinary powers, including super strength, flight, and heat vision. Raised in Smallville by Jonathan and Martha Kent, he embodies truth, justice, and the American way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Superman HD Wallpaper: A Hero's Journey">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/355/thumb-1920-355334.jpg' alt='Epic Superman HD Wallpaper: A Hero's Journey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/355/thumb-1920-355334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy the new Superman Wallpaper for your iphones in 4k : r/superman">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p4ic4wgq329e1.jpeg' alt='Enjoy the new Superman Wallpaper for your iphones in 4k : r/superman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p4ic4wgq329e1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Wallpapers (18 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/e/5/349229-3840x2160-desktop-4k-superman-background.jpg' alt='Superman Wallpapers (18 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/e/5/349229-3840x2160-desktop-4k-superman-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Background Images – Browse 28,703 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/58/68/53/360_F_258685363_5CoOPPMQw0e6Wb1IJ7sq7iW12CdVBNF6.jpg' alt='Superman Background Images – Browse 28,703 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/58/68/53/360_F_258685363_5CoOPPMQw0e6Wb1IJ7sq7iW12CdVBNF6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Backgrounds - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/cd/b6/77cdb6414efadddab557f7b758a0abd0.jpg' alt='Superman Backgrounds - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/cd/b6/77cdb6414efadddab557f7b758a0abd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Teaser Poster - Custom Wallpaper Version : r/superman">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/superman-teaser-poster-custom-wallpaper-version-v0-ja32ev05s97e1.jpg?width=1920&format=pjpg&auto=webp&s=18bda7efb7959d7788c6ff87458f821f3ad16d72' alt='Superman Teaser Poster - Custom Wallpaper Version : r/superman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/superman-teaser-poster-custom-wallpaper-version-v0-ja32ev05s97e1.jpg?width=1920&format=pjpg&auto=webp&s=18bda7efb7959d7788c6ff87458f821f3ad16d72' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Backdrop Superhero Boys Birthday Party Kids Photo ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/QsMAAOSwJWVk-9TW/s-l1200.jpg' alt='Superman Backdrop Superhero Boys Birthday Party Kids Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/QsMAAOSwJWVk-9TW/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Wallpaper 4K, Logo, DC Superheroes">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/superman-logo-dc-superheroes-blue-background-3840x2160-5646.jpg' alt='Superman Wallpaper 4K, Logo, DC Superheroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/superman-logo-dc-superheroes-blue-background-3840x2160-5646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stary Superman background by KalEl7 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c7/0b/ffc70bce52011f6d920fe8e035390563.jpg' alt='Stary Superman background by KalEl7 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c7/0b/ffc70bce52011f6d920fe8e035390563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Superman Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/animated-superman-wallpaper-1gq3rvkvac75p2l1.jpg' alt='Animated Superman Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/animated-superman-wallpaper-1gq3rvkvac75p2l1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

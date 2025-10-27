@@ -1,0 +1,129 @@
+<title>You Are So Cute Wallpapers: Adorable Designs for Your Device</title>
+                    <meta name="description" content="Find your perfect "You Are So Cute" wallpaper! Explore a collection of delightful designs featuring cute illustrations and heartwarming themes, perfect for sprucing up your screen. Enjoy the joy and positivity that these wallpapers bring to your daily life, making every glance at your device a little brighter!">
+                    <meta name="keywords" content="you are so cute wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/you-are-so-cute-wallpaper">
+                            <span itemprop="name">you are so cute wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>You Are So Cute Wallpapers: Adorable Designs for Your Device</h1>
+                <p>Discover the charm of "You Are So Cute" wallpapers that add a splash of joy to your device! From adorable animals to heartwarming quotes, these wallpapers elevate your mood and express your personality. Perfect for all ages, they are ideal for anyone looking to brighten their screens with cuteness and positivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So Cute PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210703/ourmid/pngtree-you-are-so-cute-png-image_3543737.jpg' alt='So Cute PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210703/ourmid/pngtree-you-are-so-cute-png-image_3543737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Are So Cute - Comic Book Style Word On Comic Book Abstract ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/noravector/noravector1603/noravector160300085/54364944-you-are-so-cute-comic-book-style-word-on-comic-book-abstract-background.jpg' alt='You Are So Cute - Comic Book Style Word On Comic Book Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/noravector/noravector1603/noravector160300085/54364944-you-are-so-cute-comic-book-style-word-on-comic-book-abstract-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,583 You Are So Cute Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/friendship-family-romantic-love-lettering-260nw-433611625.jpg' alt='4,583 You Are So Cute Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/friendship-family-romantic-love-lettering-260nw-433611625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A handwritten phrase - You are so cute. Hand lettering. Motivating ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/950/894/non_2x/a-handwritten-phrase-you-are-so-cute-hand-lettering-motivating-inspiring-phrase-for-postcards-and-posters-black-and-white-silhouette-isolated-on-a-white-background-vector.jpg' alt='A handwritten phrase - You are so cute. Hand lettering. Motivating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/950/894/non_2x/a-handwritten-phrase-you-are-so-cute-hand-lettering-motivating-inspiring-phrase-for-postcards-and-posters-black-and-white-silhouette-isolated-on-a-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You're so Cute! | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4725080786.7578/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='You're so Cute! | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4725080786.7578/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You are so cute tender illustration with lettering hand drawn ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/34/56/62/1000_F_234566209_yXIH7vHAsFVZtXVDJmVd1dFV0GdLJgJ7.jpg' alt='You are so cute tender illustration with lettering hand drawn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/34/56/62/1000_F_234566209_yXIH7vHAsFVZtXVDJmVd1dFV0GdLJgJ7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You are so cute Royalty Free Vector Image - VectorStock">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/15/86/you-are-so-cute-vector-20161586.jpg' alt='You are so cute Royalty Free Vector Image - VectorStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/15/86/you-are-so-cute-vector-20161586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sooo Cute GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/76EXMjSGIxwAAAAM/youre-so-cute-youre-cute.gif' alt='Sooo Cute GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/76EXMjSGIxwAAAAM/youre-so-cute-youre-cute.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lettering Design Featuring The Quote You Are So Cute PNG & SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/324237/isolated/preview/d49c7b6e7172ad11be7368e36cefd423-lettering-design-featuring-the-quote-you-are-so-cute.png' alt='Lettering Design Featuring The Quote You Are So Cute PNG & SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/324237/isolated/preview/d49c7b6e7172ad11be7368e36cefd423-lettering-design-featuring-the-quote-you-are-so-cute.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Are So Cute. | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5083632073.7754/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='You Are So Cute. | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5083632073.7754/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

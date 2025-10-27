@@ -1,0 +1,129 @@
+<title>Stunning iPhone XXtenations Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore an exquisite selection of iPhone XXtenations wallpapers designed to enhance your device's look. Discover unique, high-quality backgrounds that resonate with your personality. Download your favorites today and give your iPhone a fresh, stylish upgrade!">
+                    <meta name="keywords" content="iphone xxtenations wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-xxtenations-wallpaper">
+                            <span itemprop="name">iphone xxtenations wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone XXtenations Wallpapers for Your Device</h1>
+                <p>Discover a stunning collection of iPhone XXtenations wallpapers that elevate your device's aesthetics. From minimalist designs to vibrant art, find the perfect backdrop that reflects your style. Transform your home screen and lock screen with these high-quality wallpapers tailored for the iPhone XX. Download now and make your device uniquely yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xxxtenatcion cloudy IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/4f/74/a24f742152cff5c176ad766fb61eb792.jpg' alt='Xxxtenatcion cloudy IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/4f/74/a24f742152cff5c176ad766fb61eb792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made A X iPhone wallpaper again. Hope you like it : r/XXXTENTACION">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vwwma5c7emf91.jpg' alt='Made A X iPhone wallpaper again. Hope you like it : r/XXXTENTACION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vwwma5c7emf91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 XXXTentacion Wallpapers ideas | rap wallpaper, x picture ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ec/37/d1/ec37d1988a40c9973760b859465a69d0.jpg' alt='65 XXXTentacion Wallpapers ideas | rap wallpaper, x picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ec/37/d1/ec37d1988a40c9973760b859465a69d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXTentacion iPhone XR Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12814103.jpg' alt='XXXTentacion iPhone XR Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12814103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXTentacion wallpapers">
+                                <img itemprop="contentUrl url" src='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/0cb4c095-7161-4eb9-9d9a-b8fb6bf88b00/public' alt='XXXTentacion wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpics" />
+                                </span>
+                                <a href='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/0cb4c095-7161-4eb9-9d9a-b8fb6bf88b00/public' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X*XTENTACION Pray, KingJediah, music, praying, rap, rapper, rip ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/430/820/HD-wallpaper-x-xtentacion-edits-rip-thumbnail.jpg' alt='X*XTENTACION Pray, KingJediah, music, praying, rap, rapper, rip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/430/820/HD-wallpaper-x-xtentacion-edits-rip-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXTentacion iPhone Wallpapers -Top 25 Best XXXTentacion iPhone ...">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/XXXTentacion-Wallpaper-iPhone-11.jpg' alt='XXXTentacion iPhone Wallpapers -Top 25 Best XXXTentacion iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/XXXTentacion-Wallpaper-iPhone-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/83/72/118372cfc403ce0178f0a0fbab674717.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/83/72/118372cfc403ce0178f0a0fbab674717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXTentacion iPhone Wallpapers -Top 25 Best XXXTentacion iPhone ...">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/XXXTentacion-8k-iPhone-Wallpaper.jpg' alt='XXXTentacion iPhone Wallpapers -Top 25 Best XXXTentacion iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/XXXTentacion-8k-iPhone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXtentacion iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4094012.jpg' alt='XXXtentacion iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4094012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

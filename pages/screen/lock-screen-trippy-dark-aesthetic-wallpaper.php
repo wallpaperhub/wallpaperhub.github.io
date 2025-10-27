@@ -1,0 +1,129 @@
+<title>Trippy Dark Aesthetic Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover stunning trippy dark aesthetic lock screen wallpapers that bring your device to life. Perfect for fans of surreal art, these wallpapers feature intricate designs and deep colors, creating a unique vibe for your phone. Download now for a fresh, eye-catching look every time you access your lock screen!">
+                    <meta name="keywords" content="lock screen trippy dark aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-trippy-dark-aesthetic-wallpaper">
+                            <span itemprop="name">lock screen trippy dark aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Dark Aesthetic Lock Screen Wallpapers</h1>
+                <p>Transform your device with mesmerizing lock screen trippy dark aesthetic wallpapers. These captivating designs blend rich colors and intricate patterns, perfect for those who love to indulge in a surreal visual experience. Elevate your phone’s style and create an atmosphere of mystique and creativity every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Trippy Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-trippy-face-ge1a7mq6xxbyu5vp.jpg' alt='Black Trippy Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-trippy-face-ge1a7mq6xxbyu5vp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dark Aesthetic Wallpaper for mobile phone, tablet, desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/35/0c/fd350cbd2210229cac5c76bc5b4fbd54.jpg' alt='Trippy Dark Aesthetic Wallpaper for mobile phone, tablet, desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/35/0c/fd350cbd2210229cac5c76bc5b4fbd54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/27/22/022722eebad3f58618a0c80a3ab82269.jpg' alt='Lock Screen Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/27/22/022722eebad3f58618a0c80a3ab82269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dark Aesthetic Rick Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/trippy-dark-aesthetic-rick-mmtnxsk4sbygx6c6.jpg' alt='Trippy Dark Aesthetic Rick Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/trippy-dark-aesthetic-rick-mmtnxsk4sbygx6c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/3e/e1/6b3ee1c39ce635da2286de562e6db7d7.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/3e/e1/6b3ee1c39ce635da2286de562e6db7d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Dont Give A, black, dark, dark aesthetic, dark, glitch, glitch ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/221/459/HD-wallpaper-i-dont-give-a-black-dark-dark-aesthetic-dark-glitch-glitch-aesthetic-glitch-ninjapickles49.jpg' alt='I Dont Give A, black, dark, dark aesthetic, dark, glitch, glitch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/221/459/HD-wallpaper-i-dont-give-a-black-dark-dark-aesthetic-dark-glitch-glitch-aesthetic-glitch-ninjapickles49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dark Aesthetic Losing Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/trippy-dark-aesthetic-losing-quote-urz2rc5iuys3ng63.jpg' alt='Trippy Dark Aesthetic Losing Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1354">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/trippy-dark-aesthetic-losing-quote-urz2rc5iuys3ng63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, android, best, dark, grunge, look, night, rap, reality ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/903/968/HD-wallpaper-aesthetic-android-best-dark-grunge-look-night-rap-reality-screen.jpg' alt='Aesthetic, android, best, dark, grunge, look, night, rap, reality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/903/968/HD-wallpaper-aesthetic-android-best-dark-grunge-look-night-rap-reality-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/d0/78/72d0782915dd9d1a84b8834c5989ec8a.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/d0/78/72d0782915dd9d1a84b8834c5989ec8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trippy Dark Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mysterious-abstract-galaxy-in-murky-tones-lxoami4647toed7u.jpg' alt='100+] Trippy Dark Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mysterious-abstract-galaxy-in-murky-tones-lxoami4647toed7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

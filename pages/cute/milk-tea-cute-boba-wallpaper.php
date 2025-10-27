@@ -1,0 +1,129 @@
+<title>Adorable Milk Tea & Boba Wallpaper for Your Devices</title>
+                    <meta name="description" content="Explore our delightful collection of milk tea and boba wallpapers! Brighten your devices with unique, cute designs perfect for tea enthusiasts. Download now and enjoy a refreshing splash of color with every look!">
+                    <meta name="keywords" content="milk tea cute boba wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/milk-tea-cute-boba-wallpaper">
+                            <span itemprop="name">milk tea cute boba wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Milk Tea & Boba Wallpaper for Your Devices</h1>
+                <p>Discover the adorable world of milk tea and boba with our cute wallpaper collection! Perfect for tea lovers, these charming designs feature colorful boba, whimsical tea cups, and playful patterns to brighten up your phone or desktop. Let your passion for milk tea shine with each glance at your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Boba Tea Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' alt='Kawaii Boba Tea Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Bubble Tea Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1256532152/vector/bubble-tea-seamless-pattern-vector-illustration-boba-pattern-on-chocolate-color-background.jpg?s=612x612&w=0&k=20&c=RHt0mkpXmerIqpHM_Fwujv_JYQcTA2MjRHvlTFUFxxc=' alt='1,100+ Bubble Tea Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1256532152/vector/bubble-tea-seamless-pattern-vector-illustration-boba-pattern-on-chocolate-color-background.jpg?s=612x612&w=0&k=20&c=RHt0mkpXmerIqpHM_Fwujv_JYQcTA2MjRHvlTFUFxxc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Tea">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/de/73/1ede7347ec4d0943483b8d46e037d08e.jpg' alt='Boba Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/de/73/1ede7347ec4d0943483b8d46e037d08e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Boba Tea Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' alt='100+] Cute Boba Tea Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Bubble Tea Cute Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1286337359/vector/kawaii-bubble-tea-collection-vector-illustration.jpg?s=612x612&w=0&k=20&c=kTOBG2BrJKkmnVNqXKbaEP8-JA4QduxN5OSsMJ8pnog=' alt='2,200+ Bubble Tea Cute Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1286337359/vector/kawaii-bubble-tea-collection-vector-illustration.jpg?s=612x612&w=0&k=20&c=kTOBG2BrJKkmnVNqXKbaEP8-JA4QduxN5OSsMJ8pnog=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/75/72/3c75726e7fc99486172e406d3993bb9e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/75/72/3c75726e7fc99486172e406d3993bb9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii bubble tea Wallpaper 4K, Kawaii boba tea, Cute tea cups">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2048x2048-10101.png' alt='Kawaii bubble tea Wallpaper 4K, Kawaii boba tea, Cute tea cups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2048x2048-10101.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,467 Milk Tea Wallpaper Vector Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-pattern-hand-drawn-bubble-260nw-1888578919.jpg' alt='3,467 Milk Tea Wallpaper Vector Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-pattern-hand-drawn-bubble-260nw-1888578919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Boba Tea With Peaches Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-boba-tea-with-peaches-b96ijrn61d2ctyoh.jpg' alt='Download Cute Boba Tea With Peaches Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-boba-tea-with-peaches-b96ijrn61d2ctyoh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' alt='cute boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

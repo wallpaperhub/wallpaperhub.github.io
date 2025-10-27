@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="film reel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/film-reel-background">
+                            <span itemprop="name">film reel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Reel Background Images – Browse 274,679 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/80/48/21/360_F_280482114_NUxshs6Br7d1f5FripqBqsYXrKSC21aG.jpg' alt='Film Reel Background Images – Browse 274,679 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/80/48/21/360_F_280482114_NUxshs6Br7d1f5FripqBqsYXrKSC21aG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Vintage film strip frame reel background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-film-strip-frame-reel-background_1017-23460.jpg' alt='Free Vector | Vintage film strip frame reel background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-film-strip-frame-reel-background_1017-23460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Motion Picture Film Reel Strip Vintage Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/185640659/photo/grunge-scratched-film-strip-background.jpg?s=612x612&w=is&k=20&c=ydMs939dHZ3BGjCjqcp3RlrnjD1ZfOAWcueejIKERSc=' alt='Old Motion Picture Film Reel Strip Vintage Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/185640659/photo/grunge-scratched-film-strip-background.jpg?s=612x612&w=is&k=20&c=ydMs939dHZ3BGjCjqcp3RlrnjD1ZfOAWcueejIKERSc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film background. stock illustration. Illustration of edit - 10772201">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/film-background-10772201.jpg' alt='Film background. stock illustration. Illustration of edit - 10772201'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/film-background-10772201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Movie Reel Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391013277/vector/realistic-film-stripe-wave-on-blue-background-with-place-for-text-modern-3d-isometric-film.jpg?s=170667a&w=is&k=20&c=4Ic6bMdBGmMr9Bo-iUOeqo78Mqp0OOlyGDf9IMO307o=' alt='6,900+ Movie Reel Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391013277/vector/realistic-film-stripe-wave-on-blue-background-with-place-for-text-modern-3d-isometric-film.jpg?s=170667a&w=is&k=20&c=4Ic6bMdBGmMr9Bo-iUOeqo78Mqp0OOlyGDf9IMO307o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="457 Movie Reel Background High Res Vector Graphics - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/610774522/vector/filmstrips.jpg?s=612x612&w=gi&k=20&c=iDsYRq6ojTk-EghzdPh8Nv3YTGlAcjzhcYog4lkXi9o=' alt='457 Movie Reel Background High Res Vector Graphics - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/610774522/vector/filmstrips.jpg?s=612x612&w=gi&k=20&c=iDsYRq6ojTk-EghzdPh8Nv3YTGlAcjzhcYog4lkXi9o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Reel Background Shine">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/4043077/thumb/1.jpg' alt='Film Reel Background Shine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/4043077/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Reels">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/5a4025e9-720f-43c7-84d7-b827dfd2b01f/inline_image_preview.jpg?w=1200&cf_fit=cover&q=85&format=auto&s=8ba86a4d14d761afafc293628b39ae15c2d568266560b32799c3a594f3ef986e' alt='Film Reels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/5a4025e9-720f-43c7-84d7-b827dfd2b01f/inline_image_preview.jpg?w=1200&cf_fit=cover&q=85&format=auto&s=8ba86a4d14d761afafc293628b39ae15c2d568266560b32799c3a594f3ef986e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Reel Background 2 - producerplanet.com">
+                                <img itemprop="contentUrl url" src='https://cdn.magix-iap.com/resize/600x600/OYLYnyUeSPK9LWGp5FmAUQ' alt='Film Reel Background 2 - producerplanet.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Producer Planet" />
+                                </span>
+                                <a href='https://cdn.magix-iap.com/resize/600x600/OYLYnyUeSPK9LWGp5FmAUQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Reel Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-vector-icon-film-tape-strip-with-white-square-isolated-white-cinema-concept_134830-1383.jpg' alt='Film Reel Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-vector-icon-film-tape-strip-with-white-square-isolated-white-cinema-concept_134830-1383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

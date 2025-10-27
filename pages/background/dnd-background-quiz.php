@@ -1,0 +1,129 @@
+<title>Dive into Your DnD Background: Quiz Your Character!</title>
+                    <meta name="description" content="Explore your DnD character's backstory with our fun and interactive quiz! Uncover unique traits and histories that will enrich your gaming experience. Perfect for newcomers and seasoned players alike, this quick quiz will enhance your D&D adventures!">
+                    <meta name="keywords" content="dnd background quiz">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-background-quiz">
+                            <span itemprop="name">dnd background quiz</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dive into Your DnD Background: Quiz Your Character!</h1>
+                <p>Unleash your inner hero with our DnD background quiz! Discover your ideal character backstory and traits that fit your gameplay style. Whether you’re a seasoned adventurer or a curious newcomer, this quiz will help you craft a compelling narrative. Get ready to roll the dice on your destiny and start your epic journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/backstory-generator-dnd-1.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1887">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/backstory-generator-dnd-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Dnd Background - Quiz | Quotev">
+                                <img itemprop="contentUrl url" src='https://i.quotev.com/knqmeg7xdmhq.jpg' alt='Your Dnd Background - Quiz | Quotev'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quotev" />
+                                </span>
+                                <a href='https://i.quotev.com/knqmeg7xdmhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art][5e] What backgrounds say about your character : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/co5u3nhdd2lz.jpg' alt='Art][5e] What backgrounds say about your character : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="2310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/co5u3nhdd2lz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-sage.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-sage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-entertainer.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-entertainer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-folk-hero.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-folk-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-acolyte.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-acolyte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which DND Character Am I? Take This Quiz to Find Out!">
+                                <img itemprop="contentUrl url" src='https://randomtablesrpg.com/wp-content/uploads/2024/09/dnd-backgrounds-combat-focused-chick-beck-yeah.jpg' alt='Which DND Character Am I? Take This Quiz to Find Out!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1977">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Random Tables RPG" />
+                                </span>
+                                <a href='https://randomtablesrpg.com/wp-content/uploads/2024/09/dnd-backgrounds-combat-focused-chick-beck-yeah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-urchin.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-urchin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2024/09/epic-outlander.jpg' alt='What DND Background Am I? Take This Quiz To Find Out - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2024/09/epic-outlander.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

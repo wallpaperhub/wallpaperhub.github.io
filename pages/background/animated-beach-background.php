@@ -1,0 +1,129 @@
+<title>Beautiful Animated Beach Background for Your Projects</title>
+                    <meta name="description" content="Enhance your digital creations with a stunning animated beach background! Perfect for videos and websites, this captivating scene adds a touch of summer paradise and relaxation. Discover the perfect blend of vibrant colors and gentle movements to bring your visuals to life!">
+                    <meta name="keywords" content="animated beach background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/animated-beach-background">
+                            <span itemprop="name">animated beach background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Animated Beach Background for Your Projects</h1>
+                <p>Bring your digital projects to life with an animated beach background! Featuring gently swaying palm trees, rolling waves, and vibrant sunsets, this immersive backdrop transports viewers to a serene seaside paradise. Perfect for videos, presentations, or web designs, it evokes relaxation and adventure, capturing the essence of summer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Animated Beach Background I Beach Background Video I No Copyright">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oXw3bk-ykMI/maxresdefault.jpg' alt='Free Animated Beach Background I Beach Background Video I No Copyright'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oXw3bk-ykMI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Beach Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/summer-landscape-background-zoom_52683-42161.jpg' alt='Animated Beach Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/summer-landscape-background-zoom_52683-42161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach 2d Animated Video Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1105415227/thumb/1.jpg?ip=x480' alt='Beach 2d Animated Video Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1105415227/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Beach Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/823/045/non_2x/beach-cartoon-scenery-background-free-vector.jpg' alt='Cartoon Beach Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/823/045/non_2x/beach-cartoon-scenery-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Beach Scene Images – Browse 59,307 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/11/52/74/360_F_111527426_9LVSGbjcl2Vo74Q8UNX2iuPBR5tAm3Gm.jpg' alt='Cartoon Beach Scene Images – Browse 59,307 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/11/52/74/360_F_111527426_9LVSGbjcl2Vo74Q8UNX2iuPBR5tAm3Gm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Beach Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/tropical-paradise-beach-oasis_1308-162104.jpg' alt='Animated Beach Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/tropical-paradise-beach-oasis_1308-162104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Beach Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/284/755/small/a-tranquil-tropical-beach-with-palm-trees-clear-blue-skies-and-turquoise-waters-evoking-a-sense-of-peace-and-escape-video.jpg' alt='Animated Beach Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/284/755/small/a-tranquil-tropical-beach-with-palm-trees-clear-blue-skies-and-turquoise-waters-evoking-a-sense-of-peace-and-escape-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation of tropical landscape stock video 1036313300">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1036313300/video/animation-of-tropical-landscape.jpg?s=640x640&k=20&c=0T5qnK_3WUb5etpQFY91JHN1ZQ3-12eDflZtrsoN1ws=' alt='Animation of tropical landscape stock video 1036313300'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1036313300/video/animation-of-tropical-landscape.jpg?s=640x640&k=20&c=0T5qnK_3WUb5etpQFY91JHN1ZQ3-12eDflZtrsoN1ws=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach palms sunset lo fi animated cartoon background. Moving ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/fb/6e/bffb6ed6692dd3ea13418435664ea109.jpg' alt='Beach palms sunset lo fi animated cartoon background. Moving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/fb/6e/bffb6ed6692dd3ea13418435664ea109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon summer beach Stock Vector Image & Art - Alamy">
+                                <img itemprop="contentUrl url" src='https://l450v.alamy.com/450v/2kekmtk/cartoon-summer-beach-seaside-landscape-tropical-beach-relax-vector-background-illustration-2kekmtk.jpg' alt='Cartoon summer beach Stock Vector Image & Art - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://l450v.alamy.com/450v/2kekmtk/cartoon-summer-beach-seaside-landscape-tropical-beach-relax-vector-background-illustration-2kekmtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

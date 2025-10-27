@@ -1,0 +1,129 @@
+<title>Efficient Wholesale Background Screening Services</title>
+                    <meta name="description" content="Discover streamlined wholesale background screening solutions designed for businesses. Ensure safety and compliance while saving time and costs with our efficient services tailored to evaluate potential employees and partners effectively.">
+                    <meta name="keywords" content="wholesale background screening">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wholesale-background-screening">
+                            <span itemprop="name">wholesale background screening</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Efficient Wholesale Background Screening Services</h1>
+                <p>Wholesale background screening is essential for businesses aiming to ensure a safe and trustworthy work environment. By leveraging bulk screening services, companies can efficiently evaluate potential employees, partners, or vendors. This streamlined process not only saves time and costs but also enhances security, compliance, and overall organizational integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulk Background Checks : How to Negotiate a Fair Price">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2018/06/bulk-background-checks-pricing.jpg' alt='Bulk Background Checks : How to Negotiate a Fair Price'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2018/06/bulk-background-checks-pricing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulk Background Checks : How to Negotiate a Fair Price">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2018/06/Negotiating-Advice-with-Bulk-Background-Checks.jpg' alt='Bulk Background Checks : How to Negotiate a Fair Price'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2018/06/Negotiating-Advice-with-Bulk-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulk Background Checks: Full List of Screening Options (Bulk ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrecords.com/wp-content/uploads/2022/07/Bulk-Background-Checks.png' alt='Bulk Background Checks: Full List of Screening Options (Bulk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks & Criminal Records" />
+                                </span>
+                                <a href='https://backgroundcheckrecords.com/wp-content/uploads/2022/07/Bulk-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2024-25 Suppliers to the Background Screening Industry Buyers ...">
+                                <img itemprop="contentUrl url" src='https://preemploymentdirectory.com/wp-content/uploads/2024/03/Affirm-cover-card-min.png' alt='2024-25 Suppliers to the Background Screening Industry Buyers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='https://preemploymentdirectory.com/wp-content/uploads/2024/03/Affirm-cover-card-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Vendor Showcase: Wholesalers/Resellers ...">
+                                <img itemprop="contentUrl url" src='https://preemploymentdirectory.com/wp-content/uploads/2019/03/sentinal_logo.jpg' alt='Background Screening Vendor Showcase: Wholesalers/Resellers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='https://preemploymentdirectory.com/wp-content/uploads/2019/03/sentinal_logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Craig Caddell Interview (Wholesale Screening Solutions)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qo0SLlx9GZE/maxresdefault.jpg' alt='Craig Caddell Interview (Wholesale Screening Solutions)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qo0SLlx9GZE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wholesale Background Screening Solutions | Eagle Eye">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/86e9a4f7/dms3rep/multi/opt/EE+circle-02-280w.png' alt='Wholesale Background Screening Solutions | Eagle Eye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.eagleeyescreening.com" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/86e9a4f7/dms3rep/multi/opt/EE+circle-02-280w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manufacturing and Wholesale – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/12/manufacturing.jpg' alt='Manufacturing and Wholesale – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/12/manufacturing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Services Trade - Tru Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.trubackgrounds.com/wp-content/uploads/2022/07/service_to_the_trade.png' alt='Services Trade - Tru Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruBackgrounds" />
+                                </span>
+                                <a href='https://www.trubackgrounds.com/wp-content/uploads/2022/07/service_to_the_trade.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Harris on LinkedIn: #wholesalesolutions #backgroundscreening ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5610AQHlcMTXhk45eA/image-shrink_800/image-shrink_800/0/1683810003994?e=2147483647&v=beta&t=zy2ijMxdsqA-WJtBq7Jzuz_mkcvh5cUisjztf6nMYtU' alt='Rick Harris on LinkedIn: #wholesalesolutions #backgroundscreening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5610AQHlcMTXhk45eA/image-shrink_800/image-shrink_800/0/1683810003994?e=2147483647&v=beta&t=zy2ijMxdsqA-WJtBq7Jzuz_mkcvh5cUisjztf6nMYtU' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

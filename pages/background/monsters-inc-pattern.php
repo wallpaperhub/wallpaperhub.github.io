@@ -1,0 +1,129 @@
+<title>Monsters, Inc. Pattern: Colorful Designs & Fun!</title>
+                    <meta name="description" content="Explore the captivating pattern behind Monsters, Inc., featuring imaginative monster designs that blend humor and creativity. Dive into the vibrant world of these lovable characters and their unique styles, perfect for fans and enthusiasts alike! Discover how art and storytelling come together in this beloved film.">
+                    <meta name="keywords" content="monsters inc pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/monsters-inc-pattern">
+                            <span itemprop="name">monsters inc pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Monsters, Inc. Pattern: Colorful Designs & Fun!</h1>
+                <p>Monster's Inc. showcases a vibrant pattern of colorful and imaginative monsters, each with unique designs and personalities. The film’s art style blends whimsical elements with humor, creating an engaging visual experience. This pattern reflects creativity in storytelling, bringing fear and laughter together in a unique way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters inc,monsters seamless Pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Design,Clipart,Printable,Pattern,sully monsters">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37626230/r/il/80d130/4687273236/il_570xN.4687273236_g3ye.jpg' alt='Monsters inc,monsters seamless Pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Design,Clipart,Printable,Pattern,sully monsters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37626230/r/il/80d130/4687273236/il_570xN.4687273236_g3ye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters Inc. Cream Little Monsters Fabric – End of Bolt – 45″ × 44/45″ -  Camelot Fabrics">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1918/9937/files/Monsters-Inc_-Cream-Little-Monsters-Fabric-End-of-Bolt-45-x-4445-Camelot-Fabrics.jpg?v=1738433303' alt='Monsters Inc. Cream Little Monsters Fabric – End of Bolt – 45″ × 44/45″ -  Camelot Fabrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Favorite Quilt Store" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1918/9937/files/Monsters-Inc_-Cream-Little-Monsters-Fabric-End-of-Bolt-45-x-4445-Camelot-Fabrics.jpg?v=1738433303' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters inc,monsters seamless Pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Design,Clipart,Printable,Pattern,sully monsters">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37626230/r/il/a63fcd/4735497583/il_fullxfull.4735497583_rzy3.jpg' alt='Monsters inc,monsters seamless Pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Design,Clipart,Printable,Pattern,sully monsters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37626230/r/il/a63fcd/4735497583/il_fullxfull.4735497583_rzy3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scare Team Digital Paper | PRINTABLE Jpg | 8.5 X 11 and 12x12 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11052512/r/il/596618/1983499577/il_fullxfull.1983499577_in39.jpg' alt='Scare Team Digital Paper | PRINTABLE Jpg | 8.5 X 11 and 12x12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1167">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11052512/r/il/596618/1983499577/il_fullxfull.1983499577_in39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Licensed Monsters, Inc Mike and Sully Stripe Aqua 85300405-01 Cotton W">
+                                <img itemprop="contentUrl url" src='http://thefabriccandyshoppe.com/cdn/shop/products/mike_20and_20sully_20stripe_20aqua_2085300405-01.jpg?v=1662753643' alt='Licensed Monsters, Inc Mike and Sully Stripe Aqua 85300405-01 Cotton W'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fabric Candy Shoppe" />
+                                </span>
+                                <a href='http://thefabriccandyshoppe.com/cdn/shop/products/mike_20and_20sully_20stripe_20aqua_2085300405-01.jpg?v=1662753643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters Inc Fabric - HALF YARD - 100% Cotton - Sewing Quilting ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/8wAAAOSwhBNfts6p/s-l1200.jpg' alt='Monsters Inc Fabric - HALF YARD - 100% Cotton - Sewing Quilting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/8wAAAOSwhBNfts6p/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters Inc Seamless Pattern, Digital Download, Cute Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39415386/r/il/9f24a9/5763389843/il_fullxfull.5763389843_hqq5.jpg' alt='Monsters Inc Seamless Pattern, Digital Download, Cute Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39415386/r/il/9f24a9/5763389843/il_fullxfull.5763389843_hqq5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Licensed Monsters, Inc Mike Wazowski Aqua 85300404-01 Cotton Woven Fab">
+                                <img itemprop="contentUrl url" src='http://thefabriccandyshoppe.com/cdn/shop/products/mike_20wazowski_20aqua_2085300404-01.jpg?v=1662753650' alt='Licensed Monsters, Inc Mike Wazowski Aqua 85300404-01 Cotton Woven Fab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fabric Candy Shoppe" />
+                                </span>
+                                <a href='http://thefabriccandyshoppe.com/cdn/shop/products/mike_20wazowski_20aqua_2085300404-01.jpg?v=1662753650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters Inc. Seamless Pattern – MBH Seamless Designs">
+                                <img itemprop="contentUrl url" src='https://mbhseamlessdesigns.com/cdn/shop/files/331153C2-02E8-458C-9D4D-96D44546E21E.jpg?v=1697224601&width=1946' alt='Monsters Inc. Seamless Pattern – MBH Seamless Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MBH Seamless Designs" />
+                                </span>
+                                <a href='https://mbhseamlessdesigns.com/cdn/shop/files/331153C2-02E8-458C-9D4D-96D44546E21E.jpg?v=1697224601&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters Inc.">
+                                <img itemprop="contentUrl url" src='https://birtlesfabrics.com/cdn/shop/products/85300402-01-Monsters-Inc-Cotton-Fabric_large.jpg?v=1672289684' alt='Monsters Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birtles Fabrics" />
+                                </span>
+                                <a href='https://birtlesfabrics.com/cdn/shop/products/85300402-01-Monsters-Inc-Cotton-Fabric_large.jpg?v=1672289684' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

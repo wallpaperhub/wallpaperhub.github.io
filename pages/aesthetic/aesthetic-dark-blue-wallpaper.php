@@ -1,0 +1,129 @@
+<title>Aesthetic Dark Blue Wallpaper: Elegance in Depth</title>
+                    <meta name="description" content="Discover the beauty of aesthetic dark blue wallpaper. Perfect for creating a calming atmosphere, this deep hue enhances any room's decor. Ideal for bedrooms, offices, or creative spaces, it pairs well with various styles. Transform your space with this elegant and versatile choice today!">
+                    <meta name="keywords" content="aesthetic dark blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-dark-blue-wallpaper">
+                            <span itemprop="name">aesthetic dark blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Dark Blue Wallpaper: Elegance in Depth</h1>
+                <p>Aesthetic dark blue wallpaper brings a serene yet captivating touch to your space. With its deep hues, it creates an inviting atmosphere that soothes the mind and highlights design elements. Perfect for bedrooms, offices, or creative spaces, this wallpaper harmonizes beautifully with both minimalistic and ornate decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark blue aesthetic collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/71/92/af71923cce8bc464fdf0d623eb026440.jpg' alt='dark blue aesthetic collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/71/92/af71923cce8bc464fdf0d623eb026440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Dark Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-aesthetic-city-gsij37skzbw3pgd2.jpg' alt='300+] Dark Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-aesthetic-city-gsij37skzbw3pgd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Aesthetic Sky At Night Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-blue-aesthetic-sky-at-night-loaluwkdu9aaky5b.jpg' alt='Dark Blue Aesthetic Sky At Night Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-blue-aesthetic-sky-at-night-loaluwkdu9aaky5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Flower Aesthetic Wallpapers - Wallpaper Cave CF8">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fd/fd/d0/fdfdd0db9c14f6a1577fa90c43cb1cec.jpg' alt='Dark Blue Flower Aesthetic Wallpapers - Wallpaper Cave CF8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fd/fd/d0/fdfdd0db9c14f6a1577fa90c43cb1cec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Cool And Stylish In This Cute Dark Blue Outfit. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stay-cool-and-stylish-in-this-cute-dark-blue-outfit-hwgdhs01g0xzdgbx.jpg' alt='Stay Cool And Stylish In This Cute Dark Blue Outfit. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stay-cool-and-stylish-in-this-cute-dark-blue-outfit-hwgdhs01g0xzdgbx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue aesthetic 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' alt='Neon blue aesthetic 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1432">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpapers#edit#dark#blue#aesthetic#blackaesthetic#darkaesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fa/8c/d7/fa8cd7a43ca00e16f4ad5de70b0fc488.jpg' alt='wallpapers#edit#dark#blue#aesthetic#blackaesthetic#darkaesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fa/8c/d7/fa8cd7a43ca00e16f4ad5de70b0fc488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Dark Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-night-sky-2wdq0kvgm14avrxh.jpg' alt='100+] Neon Dark Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-night-sky-2wdq0kvgm14avrxh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Flower Aesthetic Dark Blue Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/neon-flower-aesthetic-dark-blue-hd-0z7t1mnmxx59h4yh.jpg' alt='Neon Flower Aesthetic Dark Blue Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/neon-flower-aesthetic-dark-blue-hd-0z7t1mnmxx59h4yh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Aesthetic Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-background-with-smoke-effect_1048-5489.jpg' alt='Dark Blue Aesthetic Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-background-with-smoke-effect_1048-5489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

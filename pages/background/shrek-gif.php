@@ -1,0 +1,129 @@
+<title>Fun Shrek GIFs to Share and Enjoy</title>
+                    <meta name="description" content="Explore a delightful collection of Shrek GIFs perfect for sharing! Capture laughs and emotions with iconic scenes from the beloved movie. Ideal for enhancing your chats and social media posts, these GIFs bring the magical world of Shrek right to your conversations!">
+                    <meta name="keywords" content="shrek gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shrek-gif">
+                            <span itemprop="name">shrek gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun Shrek GIFs to Share and Enjoy</h1>
+                <p>Shrek GIFs capture the humor and heart of the beloved character from the animated film series. Whether you're looking for a laugh, sharing a memorable moment from the movie, or expressing your feelings with Shrek's iconic expressions, these GIFs are perfect for any digital conversation. Share the fun today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/TIGP3k4gNAqvza2KJK/giphy-downsized.gif' alt='Shrek GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/TIGP3k4gNAqvza2KJK/giphy-downsized.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/08/icegif-564.gif' alt='Shrek Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/08/icegif-564.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/KNYTiWGWHRYAAAAM/saturnoir.gif' alt='Shrek GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/KNYTiWGWHRYAAAAM/saturnoir.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Dance GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/Jb56O0QSZRopG/200w.gif?cid=6c09b952p6g0e0edmuhogmhhjszmoi3yg6u3akq3lv3fzqq4&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Shrek Dance GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/Jb56O0QSZRopG/200w.gif?cid=6c09b952p6g0e0edmuhogmhhjszmoi3yg6u3akq3lv3fzqq4&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2021/12/icegif-702.gif' alt='Shrek Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2021/12/icegif-702.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Deal With It GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cb/80/4c/cb804c0ae6fede8c17d35ca66c3ef1d1.gif' alt='Shrek Deal With It GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cb/80/4c/cb804c0ae6fede8c17d35ca66c3ef1d1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Smirk Shrek Sus GIF - Shrek smirk Shrek sus Shrek smile - Discover &  Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media1.tenor.com/m/RSc9Gw10HnsAAAAd/shrek-smirk-shrek-sus.gif' alt='Shrek Smirk Shrek Sus GIF - Shrek smirk Shrek sus Shrek smile - Discover &  Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media1.tenor.com/m/RSc9Gw10HnsAAAAd/shrek-smirk-shrek-sus.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/PzUS.gif' alt='Shrek GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/PzUS.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Film Smile GIF by Peacock - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/QTrG6mjkHEkpFR3DqX/giphy.gif?cid=6c09b952w4yey518nj6rfkldd4lvzdsr6lnvsql9ywdhnzcj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Shrek Film Smile GIF by Peacock - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/QTrG6mjkHEkpFR3DqX/giphy.gif?cid=6c09b952w4yey518nj6rfkldd4lvzdsr6lnvsql9ywdhnzcj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Dancing GIF - Shrek Dancing Dance - Discover & Share GIFs ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/02/6c/5d/026c5dab9176700ffd06beb7db7da674.gif' alt='Shrek Dancing GIF - Shrek Dancing Dance - Discover & Share GIFs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/02/6c/5d/026c5dab9176700ffd06beb7db7da674.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

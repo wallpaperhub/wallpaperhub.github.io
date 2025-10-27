@@ -1,0 +1,129 @@
+<title>How to Draw the Bisexual Pride Flag</title>
+                    <meta name="description" content="Learn how to draw the bisexual pride flag with our simple, step-by-step guide. Perfect for all skill levels, this quick tutorial celebrates bisexuality using bold colors and clear instructions. Get creative and show your support with this vibrant symbol of love and inclusion!">
+                    <meta name="keywords" content="bi flag drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bi-flag-drawing">
+                            <span itemprop="name">bi flag drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Draw the Bisexual Pride Flag</h1>
+                <p>Drawing the bisexual pride flag is a simple yet meaningful way to celebrate and express bisexuality. The flag features a bold pink stripe at the top, representing attraction to the same sex, a blue stripe at the bottom for attraction to the opposite sex, and a purple stripe in the middle, symbolizing the blending of both. Use bright colors and straight lines to capture its essence!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bisexual Flag Cartoon Vector Illustration Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-bisexual-flag-cartoon-vector-600w-1451480795.jpg' alt='Cute Bisexual Flag Cartoon Vector Illustration Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-bisexual-flag-cartoon-vector-600w-1451480795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bi-flag - TrashGoblin - Drawings & Illustration, Politics ...">
+                                <img itemprop="contentUrl url" src='https://img.artpal.com/859602/9-21-2-22-4-38-28m.jpg' alt='bi-flag - TrashGoblin - Drawings & Illustration, Politics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtPal" />
+                                </span>
+                                <a href='https://img.artpal.com/859602/9-21-2-22-4-38-28m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual flag drawing">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35393570/r/il/caa019/4085018362/il_570xN.4085018362_eklm.jpg' alt='Bisexual flag drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35393570/r/il/caa019/4085018362/il_570xN.4085018362_eklm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Flag | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.352577760.7424/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Bisexual Flag | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.352577760.7424/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual lgbt vector watercolor flag. Hand drawn ink dry brush ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/97/29/83/1000_F_397298308_BLQDH2amkkEPZhPnZ4UKbclFABprmmmn.jpg' alt='Bisexual lgbt vector watercolor flag. Hand drawn ink dry brush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/97/29/83/1000_F_397298308_BLQDH2amkkEPZhPnZ4UKbclFABprmmmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Flag | Journal">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.761477786.8810/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg' alt='Bisexual Flag | Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.761477786.8810/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Illustration of the Flag of Bisexual Pride. Coloring Book ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vector-illustration-flag-bisexual-pride-coloring-book-children-adults-isolated-background-idea-educational-177975480.jpg' alt='Vector Illustration of the Flag of Bisexual Pride. Coloring Book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vector-illustration-flag-bisexual-pride-coloring-book-children-adults-isolated-background-idea-educational-177975480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisexual Pride Not a Phase Moon Bisexual Flag Designs by Van Tran">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bisexual-pride-not-a-phase-moon-designs-van-tran.jpg' alt='Bisexual Pride Not a Phase Moon Bisexual Flag Designs by Van Tran'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bisexual-pride-not-a-phase-moon-designs-van-tran.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biromantic Bisexual Flag Vector SVG Icon - SVG Repo">
+                                <img itemprop="contentUrl url" src='https://www.svgrepo.com/show/415060/biromantic-bisexual-flag.svg' alt='Biromantic Bisexual Flag Vector SVG Icon - SVG Repo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG Repo" />
+                                </span>
+                                <a href='https://www.svgrepo.com/show/415060/biromantic-bisexual-flag.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bi- by Pride-Flags on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5829ed-efc1-4ca8-813f-8e31e4df26af/d8zu7il-37b24977-fa28-4451-8d91-5a8734ef767a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkNTgyOWVkLWVmYzEtNGNhOC04MTNmLThlMzFlNGRmMjZhZlwvZDh6dTdpbC0zN2IyNDk3Ny1mYTI4LTQ0NTEtOGQ5MS01YTg3MzRlZjc2N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Uh4AkFvlRFqgo6Q2gLnmL3pe04TW4ZlpHJAQGO-o2bU' alt='Bi- by Pride-Flags on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5829ed-efc1-4ca8-813f-8e31e4df26af/d8zu7il-37b24977-fa28-4451-8d91-5a8734ef767a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkNTgyOWVkLWVmYzEtNGNhOC04MTNmLThlMzFlNGRmMjZhZlwvZDh6dTdpbC0zN2IyNDk3Ny1mYTI4LTQ0NTEtOGQ5MS01YTg3MzRlZjc2N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Uh4AkFvlRFqgo6Q2gLnmL3pe04TW4ZlpHJAQGO-o2bU' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

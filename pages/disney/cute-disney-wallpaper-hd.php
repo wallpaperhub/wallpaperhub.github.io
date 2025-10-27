@@ -1,0 +1,129 @@
+<title>Adorable Disney HD Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute disney wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/cute-disney-wallpaper-hd">
+                            <span itemprop="name">cute disney wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Disney HD Wallpapers for Your Device</h1>
+                <p>Discover a delightful collection of cute Disney wallpapers in HD that brings your favorite characters to life! From the enchanting Mickey Mouse to the adventurous Moana, give your device a magical touch with these vibrant images. Perfect for kids and Disney lovers, download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Disney Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-disney-classic-mickey-and-minnie-jasq2es72wdb28zk.jpg' alt='100+] Cute Disney Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-disney-classic-mickey-and-minnie-jasq2es72wdb28zk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/2/9/868768-1080x1920-iphone-full-hd-disney-background-photo.jpg' alt='Disney Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/2/9/868768-1080x1920-iphone-full-hd-disney-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Disney wallpapers in 2022 | Disney wallpaper, Cute disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/9e/73/e59e73bb3bf96147cfa12a11a70bacd7.jpg' alt='Cute Disney wallpapers in 2022 | Disney wallpaper, Cute disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/9e/73/e59e73bb3bf96147cfa12a11a70bacd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Disney Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/disney-phone-gducnxww6wfo59vb.jpg' alt='100+] Disney Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/disney-phone-gducnxww6wfo59vb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cute Disney Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/9c/50/089c508dfa6f5455781deb89593abb84.jpg' alt='Awesome Cute Disney Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/9c/50/089c508dfa6f5455781deb89593abb84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Disney wallpaper by NotSyrenaroblox on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dff63384-c7b5-4e5b-b060-a7540a4481cf/dg9ymx0-08a90e80-3905-4de5-816a-96ee802bf68c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmZjYzMzg0LWM3YjUtNGU1Yi1iMDYwLWE3NTQwYTQ0ODFjZlwvZGc5eW14MC0wOGE5MGU4MC0zOTA1LTRkZTUtODE2YS05NmVlODAyYmY2OGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3Dn9fcd_2crP275-QP7Sy8OEMHkNDnsLChEe_YIukDA' alt='Cute Disney wallpaper by NotSyrenaroblox on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dff63384-c7b5-4e5b-b060-a7540a4481cf/dg9ymx0-08a90e80-3905-4de5-816a-96ee802bf68c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmZjYzMzg0LWM3YjUtNGU1Yi1iMDYwLWE3NTQwYTQ0ODFjZlwvZGc5eW14MC0wOGE5MGU4MC0zOTA1LTRkZTUtODE2YS05NmVlODAyYmY2OGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3Dn9fcd_2crP275-QP7Sy8OEMHkNDnsLChEe_YIukDA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Disney Backgrounds (68 Wallpapers) – HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/96/63/4e9663955734e440ab246786a41ded6c.jpg' alt='Cute Disney Backgrounds (68 Wallpapers) – HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/96/63/4e9663955734e440ab246786a41ded6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Disney Princesses Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-disney-princesses-nryqi5lmjw09y4pb.jpg' alt='Cute Disney Princesses Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-disney-princesses-nryqi5lmjw09y4pb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stitch, cute, disney, love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/430/HD-wallpaper-stitch-cute-disney-love.jpg' alt='Stitch, cute, disney, love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/430/HD-wallpaper-stitch-cute-disney-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Wallpaper | Disney wallpaper, Wallpaper iphone disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/a0/9c/94a09c3a4596f316d50f98fe2f177a53.jpg' alt='Disney Wallpaper | Disney wallpaper, Wallpaper iphone disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/a0/9c/94a09c3a4596f316d50f98fe2f177a53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

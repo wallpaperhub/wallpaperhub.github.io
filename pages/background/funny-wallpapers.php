@@ -1,0 +1,129 @@
+<title>Hilarious & Fun Wallpapers to Brighten Your Screen</title>
+                    <meta name="description" content="Discover a collection of funny wallpapers that bring joy and laughter to your screen. From silly quotes to comical characters, our curated selection is perfect for those who love humor. Easy to download and optimized for all devices, brighten your day with a touch of fun!">
+                    <meta name="keywords" content="funny wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-wallpapers">
+                            <span itemprop="name">funny wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious & Fun Wallpapers to Brighten Your Screen</h1>
+                <p>Looking to spice up your screen with something hilarious? Funny wallpapers are the perfect way to add a splash of humor to your devices! Whether it's quirky animals, witty quotes, or ridiculous memes, these wallpapers will make you chuckle every time you unlock your phone or computer. Fun and laughter are just a tap away!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Clean Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-clean-mbjz4f9j3pi9eqdb.jpg' alt='100+] Funny Clean Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-clean-mbjz4f9j3pi9eqdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Funny Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-funny-m8tgyz3bj6ss2sjs.jpg' alt='100+] Cool Funny Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-funny-m8tgyz3bj6ss2sjs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/9/c/5815750-3840x2160-desktop-hd-funny-background-photo.jpg' alt='Funny Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/9/c/5815750-3840x2160-desktop-hd-funny-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/8d/ff/208dffd40b894a2deee88fc5e41fd9c6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/8d/ff/208dffd40b894a2deee88fc5e41fd9c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Test HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/742/thumb-1920-74249.png' alt='Funny Test HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/742/thumb-1920-74249.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Funny Phone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/eb/86/feeb8677bc7a3700a2bc1ecc5184c2e0.jpg' alt='Awesome Funny Phone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/eb/86/feeb8677bc7a3700a2bc1ecc5184c2e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny minimalist wallpapers (Part 2 in comments) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/9njXL5PyA_5U4frWU4ZMjxJHDcWNj2yDNGY0gtIUx7M.jpg?auto=webp&s=cb854a1fe5f02d269b85992a2b92b6c66fac3ed3' alt='Funny minimalist wallpapers (Part 2 in comments) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/9njXL5PyA_5U4frWU4ZMjxJHDcWNj2yDNGY0gtIUx7M.jpg?auto=webp&s=cb854a1fe5f02d269b85992a2b92b6c66fac3ed3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable funny desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFCKgwVLac/1/0/1600w/canva-pastel-funny-cat-meme-screensaver-desktop-wallpaper-JbP47NpVo0Y.jpg' alt='Free and customizable funny desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFCKgwVLac/1/0/1600w/canva-pastel-funny-cat-meme-screensaver-desktop-wallpaper-JbP47NpVo0Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Funny Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/iphone-is-disabled-ios-alert-notification-unique-funny-17-09-2024-1726608243.jpg' alt='Most Popular Funny Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/iphone-is-disabled-ios-alert-notification-unique-funny-17-09-2024-1726608243.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="funny3">
+                                <img itemprop="contentUrl url" src='https://www.bu.edu/lernet/artemis/projects/StudentWebsites/Harshini/img/funny3' alt='funny3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bu.edu" />
+                                </span>
+                                <a href='https://www.bu.edu/lernet/artemis/projects/StudentWebsites/Harshini/img/funny3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

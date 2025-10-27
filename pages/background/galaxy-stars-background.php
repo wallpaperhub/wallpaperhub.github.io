@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Stars Background: Explore the Cosmos</title>
+                    <meta name="description" content="Discover breathtaking galaxy stars backgrounds perfect for your digital projects. Embrace the beauty of the cosmos with vibrant colors and twinkling stars. Ideal for wallpapers, art, or inspiration, these cosmic images will ignite your creativity and awe for the universe.">
+                    <meta name="keywords" content="galaxy stars background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-stars-background">
+                            <span itemprop="name">galaxy stars background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Stars Background: Explore the Cosmos</h1>
+                <p>A galaxy stars background can evoke wonder and inspiration, filled with twinkling stars, colorful nebulae, and the vast expanse of the cosmos. Ideal for wallpapers or digital art, it enhances creativity and connects viewers with the mysteries of space. Every star tells a story, a reminder of the universe’s grandeur.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Stars Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520034475321-cbe63696469a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z2FsYXh5JTIwc3RhcnN8ZW58MHx8MHx8fDA%3D' alt='Galaxy Stars Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520034475321-cbe63696469a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z2FsYXh5JTIwc3RhcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="452,400+ Galaxy Stars Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/91768525/photo/starfield-with-flares.jpg?s=612x612&w=0&k=20&c=fpwjXzky1oKADNFoVQwcRwb1yJ5GPIzqpW9cIqc-ZgU=' alt='452,400+ Galaxy Stars Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/91768525/photo/starfield-with-flares.jpg?s=612x612&w=0&k=20&c=fpwjXzky1oKADNFoVQwcRwb1yJ5GPIzqpW9cIqc-ZgU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Stars Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGdhbGF4eSUyMHN0YXJzfGVufDB8fDB8fHww' alt='Galaxy Stars Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGdhbGF4eSUyMHN0YXJzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Stars Backdrop for Photography Abstract Space Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18325098/r/il/16da60/1874165319/il_fullxfull.1874165319_2958.jpg' alt='Galaxy Stars Backdrop for Photography Abstract Space Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18325098/r/il/16da60/1874165319/il_fullxfull.1874165319_2958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="453,100+ Galaxy Stars Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/177247796/photo/night-sky-filled-with-stars-and-nebulae.jpg?s=612x612&w=0&k=20&c=x9Y2ztO09G0LKzb-Zwcc9LBL6wjQ9NXfZaf1XrfaMuA=' alt='453,100+ Galaxy Stars Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/177247796/photo/night-sky-filled-with-stars-and-nebulae.jpg?s=612x612&w=0&k=20&c=x9Y2ztO09G0LKzb-Zwcc9LBL6wjQ9NXfZaf1XrfaMuA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy, Stars, Background. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/01/05/15/55/galaxy-6917436_1280.jpg' alt='Download Galaxy, Stars, Background. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/01/05/15/55/galaxy-6917436_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Stars Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bring-night-space-wallpaper-with-glowing-starfield_1017-53512.jpg' alt='Galaxy Stars Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bring-night-space-wallpaper-with-glowing-starfield_1017-53512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wallpaper, Plasma, Galaxy Background Images, Star Space ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/50/f0/a550f046ee2aee2c69ee56f9cc254faa.jpg' alt='Free Wallpaper, Plasma, Galaxy Background Images, Star Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/50/f0/a550f046ee2aee2c69ee56f9cc254faa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Stars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-stars-1679-x-993-wallpaper-pqdgqthavl4qrkfo.jpg' alt='100+] Galaxy Stars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1679">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-stars-1679-x-993-wallpaper-pqdgqthavl4qrkfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BELECO 10x8ft Fabric Galaxy Stars Backdrop Starry Night Sky  Outer Space Galaxy Backdrop Universe Nebula Photography Background Kids  Space ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ahSuVi44L.jpg' alt='Amazon.com: BELECO 10x8ft Fabric Galaxy Stars Backdrop Starry Night Sky  Outer Space Galaxy Backdrop Universe Nebula Photography Background Kids  Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ahSuVi44L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

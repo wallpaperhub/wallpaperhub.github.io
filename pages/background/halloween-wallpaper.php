@@ -1,0 +1,129 @@
+<title>Spooky Halloween Wallpaper Collection for Your Device</title>
+                    <meta name="description" content="Discover vibrant and spooky Halloween wallpapers to elevate your festive spirit! Perfect for phones and tablets, our collection features everything from haunted houses to playful pumpkins. Change your background and enjoy the Halloween vibes this season! Get yours now!">
+                    <meta name="keywords" content="halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-wallpaper">
+                            <span itemprop="name">halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Wallpaper Collection for Your Device</h1>
+                <p>Transform your device this Halloween with our spooky wallpaper collection! From eerie haunted houses to cute pumpkins, our Halloween wallpapers bring the festive spirit right to your screen. Perfect for setting a spooky mood or simply enjoying the season, these designs will delight both kids and adults alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Halloween Wallpaper Graphic by mimishop · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/09/01/gothic-halloween-wallpaper-Graphics-78301352-1.jpg' alt='Gothic Halloween Wallpaper Graphic by mimishop · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/09/01/gothic-halloween-wallpaper-Graphics-78301352-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Halloween Wallpaper ideas | halloween wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/6e/85/0c6e85bf0ae7b2ffcac94a69273060e8.jpg' alt='310 Halloween Wallpaper ideas | halloween wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/6e/85/0c6e85bf0ae7b2ffcac94a69273060e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Halloween Wallpapers for Desktop & Laptop : Pumpkin Patch Parade">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/08/halloween-wallpaper-2-1.jpg' alt='20 Halloween Wallpapers for Desktop & Laptop : Pumpkin Patch Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/08/halloween-wallpaper-2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easily my favorite Halloween wallpaper. : r/halloween">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/hjTSKmS.jpg' alt='Easily my favorite Halloween wallpaper. : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/hjTSKmS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Cute Halloween Wallpaper for Phone (FREE Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/65/3e/d6653e9068bb57f6864cab9143108d00.jpg' alt='35+ Cute Halloween Wallpaper for Phone (FREE Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/65/3e/d6653e9068bb57f6864cab9143108d00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Images – Browse 4,129,742 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/74/16/75/360_F_374167530_ZsM37zja3byI9dJaeNfBCF1tcQz5ZA8y.jpg' alt='Halloween Background Images – Browse 4,129,742 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/74/16/75/360_F_374167530_ZsM37zja3byI9dJaeNfBCF1tcQz5ZA8y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Images & Wallpapers: Free Download and Edit ...">
+                                <img itemprop="contentUrl url" src='https://pub-static.fotor.com/assets/bg/1cad6f71-61a7-457e-84f7-c7589a34f9f5.jpg' alt='Halloween Background Images & Wallpapers: Free Download and Edit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7296">
+                                <meta itemprop="height" content="4098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://pub-static.fotor.com/assets/bg/1cad6f71-61a7-457e-84f7-c7589a34f9f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Halloween Wallpapers: Discover The Pumpkin Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molanghalloweenwallpapermobile3_577x1024.jpg?v=1634910278' alt='Molang Halloween Wallpapers: Discover The Pumpkin Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molanghalloweenwallpapermobile3_577x1024.jpg?v=1634910278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BSD Aku Halloween wallpaper (self made) : r/BungouSimpBattles">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bsd-aku-halloween-wallpaper-self-made-v0-ecryg74wo7sb1.jpg?width=640&crop=smart&auto=webp&s=ed2d742e65a7e847d3d48b29f85aad3990ccede1' alt='BSD Aku Halloween wallpaper (self made) : r/BungouSimpBattles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bsd-aku-halloween-wallpaper-self-made-v0-ecryg74wo7sb1.jpg?width=640&crop=smart&auto=webp&s=ed2d742e65a7e847d3d48b29f85aad3990ccede1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

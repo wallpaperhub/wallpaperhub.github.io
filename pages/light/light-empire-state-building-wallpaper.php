@@ -1,0 +1,129 @@
+<title>Stunning Light Empire State Building Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="light empire state building wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-empire-state-building-wallpaper">
+                            <span itemprop="name">light empire state building wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Empire State Building Wallpapers</h1>
+                <p>Transform your device with a stunning light Empire State Building wallpaper! Featuring the iconic skyscraper illuminated against the night sky, these wallpapers bring a touch of New York's charm to your screens. Perfect for anyone who loves cityscapes or seeks inspiration from this architectural masterpiece. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Empire State Building Lights Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/496799869/photo/the-empire-state-building.jpg?s=612x612&w=0&k=20&c=Q2ahP61k-xOSkLD0fImFIFkaMLOFGU3TJYDJXe5J1xY=' alt='4,300+ Empire State Building Lights Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/496799869/photo/the-empire-state-building.jpg?s=612x612&w=0&k=20&c=Q2ahP61k-xOSkLD0fImFIFkaMLOFGU3TJYDJXe5J1xY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Empire State Building Lights Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/494890116/photo/new-york-city-skyline-night-empire-state-building-twilight-sky.jpg?s=612x612&w=0&k=20&c=NMvR4jKoQzGffzbXTgccauFgG-YO0A--aY3Z2NzCCcc=' alt='4,300+ Empire State Building Lights Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/494890116/photo/new-york-city-skyline-night-empire-state-building-twilight-sky.jpg?s=612x612&w=0&k=20&c=NMvR4jKoQzGffzbXTgccauFgG-YO0A--aY3Z2NzCCcc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Empire State Building Lights Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/495988256/photo/new-york-city-skyline-night-empire-state-building-twilight-sky.jpg?s=612x612&w=0&k=20&c=hPcB07uw5WaxEYfGj4MVH7CIpOvJ6KylNnARUO0j1w4=' alt='4,300+ Empire State Building Lights Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/495988256/photo/new-york-city-skyline-night-empire-state-building-twilight-sky.jpg?s=612x612&w=0&k=20&c=hPcB07uw5WaxEYfGj4MVH7CIpOvJ6KylNnARUO0j1w4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,968 Empire State Building Lights Stock Photos, High-Res ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1126705091/photo/empire-state-building-and-new-york-city-skyline-at-night.jpg?s=612x612&w=gi&k=20&c=MMdGyLhC1ndvssHD_bvbWVQypRpxo7ljKSVAhbC3pMI=' alt='13,968 Empire State Building Lights Stock Photos, High-Res ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1126705091/photo/empire-state-building-and-new-york-city-skyline-at-night.jpg?s=612x612&w=gi&k=20&c=MMdGyLhC1ndvssHD_bvbWVQypRpxo7ljKSVAhbC3pMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empire State Building Night Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1690741818722-3f96fc94f678?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW1waXJlJTIwc3RhdGUlMjBidWlsZGluZyUyMG5pZ2h0fGVufDB8fDB8fHww' alt='Empire State Building Night Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1690741818722-3f96fc94f678?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW1waXJlJTIwc3RhdGUlMjBidWlsZGluZyUyMG5pZ2h0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Empire State Building Lights Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/136261747/photo/new-york-skyline.jpg?s=612x612&w=0&k=20&c=gMAG1AmKNuKKFRigkMHVdd34zpyTwbUOEhv7pv66PzI=' alt='4,300+ Empire State Building Lights Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/136261747/photo/new-york-skyline.jpg?s=612x612&w=0&k=20&c=gMAG1AmKNuKKFRigkMHVdd34zpyTwbUOEhv7pv66PzI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Lights At The Empire State Building Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/teal-lights-at-the-empire-state-building-e3mwqfzb0sy4oapo.jpg' alt='Teal Lights At The Empire State Building Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/teal-lights-at-the-empire-state-building-e3mwqfzb0sy4oapo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Empire State Building Lights Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/495829839/photo/empire-state-building-at-sunrise-new-york-city-new-york-united-states.jpg?s=612x612&w=0&k=20&c=uUqLuBLLIt4e4VnVJpsQZ-5gUP3DOQWyL7yNvh8ZcSI=' alt='4,300+ Empire State Building Lights Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/495829839/photo/empire-state-building-at-sunrise-new-york-city-new-york-united-states.jpg?s=612x612&w=0&k=20&c=uUqLuBLLIt4e4VnVJpsQZ-5gUP3DOQWyL7yNvh8ZcSI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper World, Sunset, New York City, Empire State Building ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/5/17/new-york-city-empire-state-building-cityscape-city-lights-su.webp' alt='Wallpaper World, Sunset, New York City, Empire State Building ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/5/17/new-york-city-empire-state-building-cityscape-city-lights-su.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Beautiful Empire State Building Pictures - NYC | Download ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1528291151377-165f5107c82a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW1waXJlJTIwc3RhdGUlMjBidWlsZGluZ3xlbnwwfHwwfHx8MA%3D%3D' alt='500+ Beautiful Empire State Building Pictures - NYC | Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1528291151377-165f5107c82a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW1waXJlJTIwc3RhdGUlMjBidWlsZGluZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

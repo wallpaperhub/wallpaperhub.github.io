@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Ghana: Culture, History & Adventure</title>
+                    <meta name="description" content="Discover Ghana, a West African gem rich in culture and history. From its stunning landscapes to vibrant markets, experience the warmth of Ghanaian hospitality and explore must-see attractions like Cape Coast Castle and lush national parks. Join us on an unforgettable journey through this captivating country!">
+                    <meta name="keywords" content="ghana">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ghana">
+                            <span itemprop="name">ghana</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Ghana: Culture, History & Adventure</h1>
+                <p>Ghana, located in West Africa, is known for its rich cultural heritage, vibrant communities, and stunning landscapes. Famous for cocoa production, it boasts attractions like Cape Coast Castle and the bustling markets of Accra. With warm hospitality and diverse traditions, Ghana offers a captivating experience for travelers and a unique glimpse into African history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghana - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png' alt='Ghana - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghana | History, Flag, Map, Population, Language, Currency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/183649-050-28EB93C4/World-Data-Locator-Map-Ghana.jpg' alt='Ghana | History, Flag, Map, Population, Language, Currency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/183649-050-28EB93C4/World-Data-Locator-Map-Ghana.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghana | History, Flag, Map, Population, Language, Currency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/75/5075-050-78E51BD5/Ghana.jpg' alt='Ghana | History, Flag, Map, Population, Language, Currency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/75/5075-050-78E51BD5/Ghana.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghana Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/862db349-3491-45cf-8e85-236f9c2376ed/ghana-huts_3x2.jpg' alt='Ghana Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/862db349-3491-45cf-8e85-236f9c2376ed/ghana-huts_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life in Ghana | Article | Denison University">
+                                <img itemprop="contentUrl url" src='https://denison.edu/sites/default/files/styles/original/public/article/image/Untitled.png?itok=tP1tJYLK' alt='Life in Ghana | Article | Denison University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denison University" />
+                                </span>
+                                <a href='https://denison.edu/sites/default/files/styles/original/public/article/image/Untitled.png?itok=tP1tJYLK' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghana Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/fc783901-1999-47a5-81f0-049a7530d632/ghana-beach-boats.jpg?wp=1&w=1084.125&h=609' alt='Ghana Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/fc783901-1999-47a5-81f0-049a7530d632/ghana-beach-boats.jpg?wp=1&w=1084.125&h=609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring Ghana: The Experience & Traditions - Vice Versa Global">
+                                <img itemprop="contentUrl url" src='https://www.viceversaglobal.com/wp-content/uploads/2024/03/ADOM-GHANA-MONTH_11-696x464-1.jpg' alt='Exploring Ghana: The Experience & Traditions - Vice Versa Global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vice Versa Global" />
+                                </span>
+                                <a href='https://www.viceversaglobal.com/wp-content/uploads/2024/03/ADOM-GHANA-MONTH_11-696x464-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accra is congested, but relocating Ghana's capital is not the only ...">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/505824/original/file-20230123-22-yykqto.jpeg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip' alt='Accra is congested, but relocating Ghana's capital is not the only ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/505824/original/file-20230123-22-yykqto.jpeg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of: Ghana - African Adventures">
+                                <img itemprop="contentUrl url" src='https://www.africanadventures.co.uk/wp-content/uploads/2023/11/Ghana-banner-1440x900-c-center.jpg' alt='A Brief History of: Ghana - African Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="African Adventures" />
+                                </span>
+                                <a href='https://www.africanadventures.co.uk/wp-content/uploads/2023/11/Ghana-banner-1440x900-c-center.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Ghana's Huge Coastal City (life here is surreal) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/abZPr5kRRlg/sddefault.jpg' alt='Inside Ghana's Huge Coastal City (life here is surreal) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/abZPr5kRRlg/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

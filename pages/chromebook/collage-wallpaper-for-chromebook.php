@@ -1,0 +1,129 @@
+<title>Stunning Collage Wallpaper for Your Chromebook</title>
+                    <meta name="description" content="Discover unique collage wallpaper for your Chromebook to personalize your device. From vibrant themes to artistic designs, find the ideal backdrop that reflects your style. Elevate your Chromebook experience with eye-catching wallpapers that inspire creativity and express who you are!">
+                    <meta name="keywords" content="collage wallpaper for chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/collage-wallpaper-for-chromebook">
+                            <span itemprop="name">collage wallpaper for chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Collage Wallpaper for Your Chromebook</h1>
+                <p>Transform your Chromebook with stunning collage wallpaper! Whether you love travel, pets, or artistic designs, customizing your device has never been easier. Choose vibrant images that tell your story and showcase your personality. Find the perfect collage wallpaper to inspire you every day and make your Chromebook truly yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Mood Board Collage for all devices, Macbook, Microsoft, Chromebook,  and more for wallpaper/desktop use.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37115834/r/il/773328/4085141316/il_fullxfull.4085141316_1swc.jpg' alt='Luxury Mood Board Collage for all devices, Macbook, Microsoft, Chromebook,  and more for wallpaper/desktop use.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37115834/r/il/773328/4085141316/il_fullxfull.4085141316_1swc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ White ChromeBook wallpaper ✨ made it my self .">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/98/ba/8e98ba85400695ca11526de240bad48b.jpg' alt='✨ White ChromeBook wallpaper ✨ made it my self .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/98/ba/8e98ba85400695ca11526de240bad48b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beige Trendy Aesthetic Wall Collage Kit Digital Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26750792/r/il/72a02e/2807733127/il_fullxfull.2807733127_n0s9.jpg' alt='Boho Beige Trendy Aesthetic Wall Collage Kit Digital Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1996">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26750792/r/il/72a02e/2807733127/il_fullxfull.2807733127_n0s9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Cool Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/beach-cool-collage-uiokmvnylijwu470.jpg' alt='Beach Cool Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/beach-cool-collage-uiokmvnylijwu470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel_ Summer_ Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-summer-collage-tdrd0ts6zhubzukd.jpg' alt='Download Pastel_ Summer_ Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-summer-collage-tdrd0ts6zhubzukd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image A Cool Collage Of Fun And Eclectic Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/image-a-cool-collage-of-fun-and-eclectic-art-zq6z2prl45wgd5uz.jpg' alt='Image A Cool Collage Of Fun And Eclectic Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/image-a-cool-collage-of-fun-and-eclectic-art-zq6z2prl45wgd5uz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Filtered Beach Laptop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/be/c7/12bec79a1bf75ed43191c8c051108904.jpg' alt='Cool Filtered Beach Laptop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/be/c7/12bec79a1bf75ed43191c8c051108904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Orange Peachy Vibes Aesthetic Wall Collage Kit Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26750792/r/il/04ae0c/2859851741/il_fullxfull.2859851741_loyq.jpg' alt='Light Orange Peachy Vibes Aesthetic Wall Collage Kit Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1844">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26750792/r/il/04ae0c/2859851741/il_fullxfull.2859851741_loyq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Collage Chromebook Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9873415.png' alt='Halloween Collage Chromebook Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9873415.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Collages Chromebook, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/176/1018/HD-wallpaper-christmas-collages-chromebook.jpg' alt='Christmas Collages Chromebook, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/176/1018/HD-wallpaper-christmas-collages-chromebook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

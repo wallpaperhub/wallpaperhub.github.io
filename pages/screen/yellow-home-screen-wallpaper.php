@@ -1,0 +1,129 @@
+<title>Bright Yellow Home Screen Wallpapers for a Vibrant Look</title>
+                    <meta name="description" content="Discover cheerful yellow home screen wallpapers to brighten your device. Perfect for any aesthetic, these vibrant designs add warmth and positivity to your digital experience. Customize your screens with beautiful shades of yellow that energize and inspire. Explore now!">
+                    <meta name="keywords" content="yellow home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/yellow-home-screen-wallpaper">
+                            <span itemprop="name">yellow home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright Yellow Home Screen Wallpapers for a Vibrant Look</h1>
+                <p>Brighten up your devices with stunning yellow home screen wallpapers! Whether you're looking for a burst of sunshine or a calming pastel, these wallpapers bring joy and positivity to your digital space. Suitable for any style, yellow hues can energize your mood and uplift your day. Explore unique designs to personalize your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow flowers wallpaper for iphone is the best high definition ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/yellow-flowers-wallpaper-iphone-is-best-high-definition-iphone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-iphone-wallpaper_900958-14339.jpg' alt='Yellow flowers wallpaper for iphone is the best high definition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/yellow-flowers-wallpaper-iphone-is-best-high-definition-iphone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-iphone-wallpaper_900958-14339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dasiy For Cute Yellow Phone Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ee/fa/40/eefa4070ba693760ff9103d91abe022a.jpg' alt='Download Dasiy For Cute Yellow Phone Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ee/fa/40/eefa4070ba693760ff9103d91abe022a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flowers Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/home-screen/images/640/yellow-flowers-home-screen-wallpaper.png' alt='Yellow Flowers Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/home-screen/images/640/yellow-flowers-home-screen-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Yellow Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/plain-yellow-iphone-rnv4a9w4l6za677n.jpg' alt='100+] Plain Yellow Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1087">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/plain-yellow-iphone-rnv4a9w4l6za677n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Yellow-themed Iphone Home Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vibrant-yellow-themed-iphone-home-screen-6rgix71fmfzlsjyy.jpg' alt='Vibrant Yellow-themed Iphone Home Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vibrant-yellow-themed-iphone-home-screen-6rgix71fmfzlsjyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 + amazing phone Wallpapers In 2019 - Page 23 of 52 - LoveIn Home">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/0e/ab/80/0eab8069d5055080eb16a1048eadc414.jpg' alt='50 + amazing phone Wallpapers In 2019 - Page 23 of 52 - LoveIn Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/0e/ab/80/0eab8069d5055080eb16a1048eadc414.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2809256/pexels-photo-2809256.jpeg?cs=srgb&dl=pexels-cgardenhire12-2809256.jpg&fm=jpg' alt='Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2809256/pexels-photo-2809256.jpeg?cs=srgb&dl=pexels-cgardenhire12-2809256.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/8b/0a/b2/8b0ab2d2b974a099b1607bcf12e5a793.jpg' alt='Yellow   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/8b/0a/b2/8b0ab2d2b974a099b1607bcf12e5a793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Yellow Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-aesthetic-plain-yellow-desktop-pmvnk0tu3t8zb37b.jpg' alt='100+] Plain Yellow Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-aesthetic-plain-yellow-desktop-pmvnk0tu3t8zb37b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tender Yellow Flowers Beyond the Fence Wallpapers - Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/11/tender-yellow-flowers-beyond-the-fence-background.jpg' alt='Tender Yellow Flowers Beyond the Fence Wallpapers - Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="3171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/11/tender-yellow-flowers-beyond-the-fence-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

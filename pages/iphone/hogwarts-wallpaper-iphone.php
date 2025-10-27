@@ -1,0 +1,129 @@
+<title>Magical Hogwarts Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a mesmerizing collection of Hogwarts wallpapers for iPhone, perfect for every Harry Potter fan! Customize your home screen with stunning images of the castle, characters, and house crests. Download now to add a touch of magic to your device!">
+                    <meta name="keywords" content="hogwarts wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hogwarts-wallpaper-iphone">
+                            <span itemprop="name">hogwarts wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Hogwarts Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with enchanting Hogwarts wallpapers! From the majestic castle to iconic house emblems, discover a variety of stunning designs that capture the magic of the Wizarding World. Whether you're a Gryffindor, Slytherin, Hufflepuff, or Ravenclaw, find the perfect wallpaper to showcase your house pride and bring a little bit of magic to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iphone harry 2025 potter">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/135/982/HD-wallpaper-hogwarts-legacy-harry-harry-potter-potter-thumbnail.jpg' alt='Wallpaper iphone harry 2025 potter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/135/982/HD-wallpaper-hogwarts-legacy-harry-harry-potter-potter-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter Hogwarts iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e9/f3/9b/e9f39bf032f944cb51a36a15dd4aae2e.jpg' alt='Awesome Harry Potter Hogwarts iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e9/f3/9b/e9f39bf032f944cb51a36a15dd4aae2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kn4oosuklzj91.jpg' alt='Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kn4oosuklzj91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ed/a1/71/eda1714289fb8a068f209a557a2e44bd.jpg' alt='Hogwarts Legacy iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ed/a1/71/eda1714289fb8a068f209a557a2e44bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Harry Potter Hogwarts Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/reflection-harry-potter-hogwarts-iphone-61a7tycvkobbrafs.jpg' alt='100+] Harry Potter Hogwarts Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/reflection-harry-potter-hogwarts-iphone-61a7tycvkobbrafs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crescent Moon Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/crescent-moon-harry-potter-hogwarts-iphone-2hw9qqzh08u65iwd.jpg' alt='Crescent Moon Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/crescent-moon-harry-potter-hogwarts-iphone-2hw9qqzh08u65iwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 65+ Best Free Harry Potter Wallpaper Downloads For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/28/9e/6d289ea8d2dab475e88f537fb42fbd24.jpg' alt='The 65+ Best Free Harry Potter Wallpaper Downloads For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/28/9e/6d289ea8d2dab475e88f537fb42fbd24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wizarding World Harry Potter Hogwarts iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wizarding-world-harry-potter-hogwarts-iphone-hv81b994lo41rzcx.jpg' alt='Download Wizarding World Harry Potter Hogwarts iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wizarding-world-harry-potter-hogwarts-iphone-hv81b994lo41rzcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love the new iOS 16 wallpapers depth feature : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3dqlnb3c9je91.jpg' alt='Love the new iOS 16 wallpapers depth feature : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3dqlnb3c9je91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/turrets-harry-potter-hogwarts-iphone-bv67xvysi4d24iwa.webp' alt='Starry Night Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/turrets-harry-potter-hogwarts-iphone-bv67xvysi4d24iwa.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

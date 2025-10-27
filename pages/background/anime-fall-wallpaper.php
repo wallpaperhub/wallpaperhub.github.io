@@ -1,0 +1,129 @@
+<title>Stunning Anime Fall Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover beautiful anime fall wallpapers that capture the essence of autumn! Perfect for any device, these vibrant designs showcase stunning landscapes and beloved characters. Refresh your screen with seasonal charm today!">
+                    <meta name="keywords" content="anime fall wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-fall-wallpaper">
+                            <span itemprop="name">anime fall wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Fall Wallpapers for Your Devices</h1>
+                <p>Transform your device screen this autumn with stunning anime fall wallpapers. Featuring vibrant colors of falling leaves, beautifully illustrated characters amidst cozy landscapes, and captivating autumn-themed scenes, these wallpapers bring warmth and charm to your digital space. Perfect for anime lovers embracing the season's essence!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Anime Stock Illustrations – 6,485 Autumn Anime Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-autumn-anime-wallpaper-leaves-blowing-around-ai-generated-image-301478957.jpg' alt='Autumn Anime Stock Illustrations – 6,485 Autumn Anime Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-autumn-anime-wallpaper-leaves-blowing-around-ai-generated-image-301478957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="autumn-anime-fall-scenery-wallpaper-desktop-63737_28212581… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3865/33110764495_91f055093d_h.jpg' alt='autumn-anime-fall-scenery-wallpaper-desktop-63737_28212581… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3865/33110764495_91f055093d_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Serenity - Anime HD Wallpaper by 染谷 真衣">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/921/thumb-1920-921020.png' alt='Autumn Serenity - Anime HD Wallpaper by 染谷 真衣'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/921/thumb-1920-921020.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-anime-couple-lying-on-leaves-t8o6p5naiby62p19.jpg' alt='100+] Fall Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-anime-couple-lying-on-leaves-t8o6p5naiby62p19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bc75-fall-autume-tree-anime-paint-art-illustration-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-bc75-fall-autume-tree-anime-paint-art-illustration-41-iphone-wallpaper.jpg' alt='bc75-fall-autume-tree-anime-paint-art-illustration-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-bc75-fall-autume-tree-anime-paint-art-illustration-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Nightfall Tree Reflection - HD Anime Wallpaper by Kupe">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/894/thumb-1920-894126.jpg' alt='Autumn Nightfall Tree Reflection - HD Anime Wallpaper by Kupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/894/thumb-1920-894126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper autumn, leaves, beautiful anime girl, original desktop ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1024x768/53b2a0/autumn-leaves-beautiful-anime-girl.jpeg' alt='Wallpaper autumn, leaves, beautiful anime girl, original desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1024x768/53b2a0/autumn-leaves-beautiful-anime-girl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Anime Stock Illustrations – 6,485 Autumn Anime Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wind-blowing-autumn-anime-wallpaper-falling-leaves-ai-generated-image-301482614.jpg' alt='Autumn Anime Stock Illustrations – 6,485 Autumn Anime Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wind-blowing-autumn-anime-wallpaper-falling-leaves-ai-generated-image-301482614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/10/a3/4510a34a9dba3572a701247e3a601725.jpg' alt='Autumn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/10/a3/4510a34a9dba3572a701247e3a601725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Tree Anime Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/autumn-tree-anime-phone-4vyd1n3aquomyzmp.jpg' alt='Autumn Tree Anime Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/autumn-tree-anime-phone-4vyd1n3aquomyzmp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

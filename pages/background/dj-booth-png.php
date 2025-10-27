@@ -1,0 +1,129 @@
+<title>High-Quality DJ Booth PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover stunning DJ booth PNG images that enhance your creative projects. Perfect for flyers, websites, and more, our high-quality graphics offer versatility and style. Download your favorite DJ booth PNG today and elevate your design game with ease!">
+                    <meta name="keywords" content="dj booth png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dj-booth-png">
+                            <span itemprop="name">dj booth png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality DJ Booth PNG Images for Your Projects</h1>
+                <p>Looking for a perfect DJ booth PNG image? Our collection features high-quality, transparent PNG graphics of DJ booths suitable for various creative projects. Whether you're designing flyers, music event promotions, or digital art, these versatile PNGs will add a professional touch to your work. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DJ Booth by BronyRD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62f8c1a1-c064-4a57-892a-851425dbfee7/d68iub6-79dba863-ce51-422d-9e82-be2d19951c8b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyZjhjMWExLWMwNjQtNGE1Ny04OTJhLTg1MTQyNWRiZmVlN1wvZDY4aXViNi03OWRiYTg2My1jZTUxLTQyMmQtOWU4Mi1iZTJkMTk5NTFjOGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4OWrke8-VMiteWvTAlrqjLkHGdpsEBvu6r8yfS7TL9E' alt='DJ Booth by BronyRD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3753">
+                                <meta itemprop="height" content="2413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62f8c1a1-c064-4a57-892a-851425dbfee7/d68iub6-79dba863-ce51-422d-9e82-be2d19951c8b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyZjhjMWExLWMwNjQtNGE1Ny04OTJhLTg1MTQyNWRiZmVlN1wvZDY4aXViNi03OWRiYTg2My1jZTUxLTQyMmQtOWU4Mi1iZTJkMTk5NTFjOGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4OWrke8-VMiteWvTAlrqjLkHGdpsEBvu6r8yfS7TL9E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dj booth - Free music and multimedia icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/4382/4382588.png' alt='Dj booth - Free music and multimedia icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/4382/4382588.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DJ Booth PNG Images & PSDs for Download | PixelSquid - S111282190">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/dj-booth-mixer-1VNlV80-600.jpg' alt='DJ Booth PNG Images & PSDs for Download | PixelSquid - S111282190'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/dj-booth-mixer-1VNlV80-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disc jockey Television Clear Console LLC DJBooth Itsourtree.com ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/286/292/png-clipart-disc-jockey-television-clear-console-llc-djbooth-itsourtree-com-dj-booth-electronics-dj-booth.png' alt='Disc jockey Television Clear Console LLC DJBooth Itsourtree.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/286/292/png-clipart-disc-jockey-television-clear-console-llc-djbooth-itsourtree-com-dj-booth-electronics-dj-booth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disc Jockey DJ Mixer The DJ Booth Drawing PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/71/27/b2712765485fcaac33ed8982afddc38c.jpg' alt='Disc Jockey DJ Mixer The DJ Booth Drawing PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/71/27/b2712765485fcaac33ed8982afddc38c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DJ BOOTH – Episode Life">
+                                <img itemprop="contentUrl url" src='http://episodelife.com/backgrounds/DJ_BOOTH.png' alt='DJ BOOTH – Episode Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Episode Life" />
+                                </span>
+                                <a href='http://episodelife.com/backgrounds/DJ_BOOTH.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DJ Booth PNG Images & PSDs for Download | PixelSquid - S117469872">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/dj-booth-mixer-d78BDx2-600.jpg' alt='DJ Booth PNG Images & PSDs for Download | PixelSquid - S117469872'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/dj-booth-mixer-d78BDx2-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DJ Booth | Club Penguin Journey Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/clubpenguinjourney/images/8/8c/DJ_Booth.png/revision/latest/scale-to-width-down/1200?cb=20240713234305' alt='DJ Booth | Club Penguin Journey Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Club Penguin Journey Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/clubpenguinjourney/images/8/8c/DJ_Booth.png/revision/latest/scale-to-width-down/1200?cb=20240713234305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stellar Blue DJ Booth - Dreamlight Valley Wiki">
+                                <img itemprop="contentUrl url" src='https://dreamlightvalleywiki.com/images/2/24/Stellar_Blue_DJ_Booth.png' alt='Stellar Blue DJ Booth - Dreamlight Valley Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="233">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Dreamlight Valley Wiki" />
+                                </span>
+                                <a href='https://dreamlightvalleywiki.com/images/2/24/Stellar_Blue_DJ_Booth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disc jockey Der Standard Nightclub Disco LeuEVENTS, Dj Concert ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/254/614/png-clipart-disc-jockey-der-standard-nightclub-disco-leuevents-dj-concert-electronics-technical-standard.png' alt='Disc jockey Der Standard Nightclub Disco LeuEVENTS, Dj Concert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/254/614/png-clipart-disc-jockey-der-standard-nightclub-disco-leuevents-dj-concert-electronics-technical-standard.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

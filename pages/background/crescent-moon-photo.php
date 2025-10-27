@@ -1,0 +1,129 @@
+<title>Crescent Moon Photography: Capture the Night Sky</title>
+                    <meta name="description" content="Discover tips and techniques for stunning crescent moon photography. Learn how to capture the moon's delicate arc and serene glow, regardless of your photography skill level. Elevate your night sky photography and create breathtaking images that capture the moon's enchanting beauty.">
+                    <meta name="keywords" content="crescent moon photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crescent-moon-photo">
+                            <span itemprop="name">crescent moon photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Crescent Moon Photography: Capture the Night Sky</h1>
+                <p>Capture the beauty of the crescent moon with stunning photography that highlights its delicate curve and ethereal glow. Use a tripod for stability, and experiment with different settings to enhance the lunar landscape. Whether in a dark sky or partially clouded, a crescent moon photo can evoke wonder and serenity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Crescent Moon and the Inky Sky">
+                                <img itemprop="contentUrl url" src='https://compote.slate.com/images/0866d66c-ad68-4fe1-ba87-7e0c56fd7912.jpg' alt='A Crescent Moon and the Inky Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slate.com" />
+                                </span>
+                                <a href='https://compote.slate.com/images/0866d66c-ad68-4fe1-ba87-7e0c56fd7912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Crescent moon sunset Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/e/e/beefdc89-2f06-4d57-b0f1-9b530448a017_large/crescent-moon-sunset-stockcake.jpg' alt='Free Crescent moon sunset Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/e/e/beefdc89-2f06-4d57-b0f1-9b530448a017_large/crescent-moon-sunset-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waxing Crescent Moon">
+                                <img itemprop="contentUrl url" src='https://c.tadst.com/gfx/600x337/waxing-crescent-moon.jpg?1' alt='Waxing Crescent Moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time and Date" />
+                                </span>
+                                <a href='https://c.tadst.com/gfx/600x337/waxing-crescent-moon.jpg?1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-day old crescent moon in blue twilight print by Alan Dyer ...">
+                                <img itemprop="contentUrl url" src='https://media.posterlounge.com/img/products/770000/762799/762799_poster.jpg' alt='4-day old crescent moon in blue twilight print by Alan Dyer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterlounge" />
+                                </span>
+                                <a href='https://media.posterlounge.com/img/products/770000/762799/762799_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crescent Moon Photos, Download The BEST Free Crescent Moon Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Crescent Moon Photos, Download The BEST Free Crescent Moon Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to observe a crescent Moon | BBC Sky at Night Magazine">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2019/02/Moon-04-12-2016-jp-058ff2e.jpg?webp=1&w=1200' alt='How to observe a crescent Moon | BBC Sky at Night Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2019/02/Moon-04-12-2016-jp-058ff2e.jpg?webp=1&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Crescent moon above Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/2/5/2/252801c2-a3d2-436b-a539-3911c1723c56_large/crescent-moon-above-stockcake.jpg' alt='Free Crescent moon above Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/2/5/2/252801c2-a3d2-436b-a539-3911c1723c56_large/crescent-moon-above-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,000+ Free Crescent Moon & Moon Photos - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/08/03/13/09/moon-7362632_1280.jpg' alt='9,000+ Free Crescent Moon & Moon Photos - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/08/03/13/09/moon-7362632_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A crescent moon in the sky photo – Free Cluj-napoca Image on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1659379851615-8d2e78446b21?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A crescent moon in the sky photo – Free Cluj-napoca Image on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1659379851615-8d2e78446b21?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print the crescent moon and stars outlined by clouds ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/86/02/02/1000_F_686020284_WwhEfbgzOXOjvND5YcNGjQB1ZP5tre9q.jpg' alt='Photo & Art Print the crescent moon and stars outlined by clouds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/86/02/02/1000_F_686020284_WwhEfbgzOXOjvND5YcNGjQB1ZP5tre9q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

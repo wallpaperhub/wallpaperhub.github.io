@@ -1,0 +1,129 @@
+<title>Freshen Up with Green Stick and Peel Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of green stick and peel wallpaper! Easy to apply and remove, it’s perfect for renters seeking a quick refresh. Elevate your decor with this stylish and durable option, adding a touch of nature to any space without hassle.">
+                    <meta name="keywords" content="green wallpaper stick and peel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/green-wallpaper-stick-and-peel">
+                            <span itemprop="name">green wallpaper stick and peel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Freshen Up with Green Stick and Peel Wallpaper</h1>
+                <p>Transform your space with stunning green stick and peel wallpaper! Effortlessly add a fresh, vibrant touch to any room with this easy-to-install option. Perfect for renters or a temporary change, our removable wallpaper is durable and stylish. Enjoy a lush look that’s simple to apply and remove without damage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TANONE Green Peel and Stick Wallpaper 17.7"x118" Herringbone Vinyl Self  Adhesive Removable Wall Paper Modern Stripe Green Wallpaper for  Wallcovering ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aP6JhQ8kL.jpg' alt='TANONE Green Peel and Stick Wallpaper 17.7"x118" Herringbone Vinyl Self  Adhesive Removable Wall Paper Modern Stripe Green Wallpaper for  Wallcovering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aP6JhQ8kL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream And Olive Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 370">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3613845354_t01f.jpg' alt='Cream And Olive Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 370'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3613845354_t01f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimoon 236"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Delicate Thicken Waterproof Light Green Vintage Flower Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' alt='Dimoon 236"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Delicate Thicken Waterproof Light Green Vintage Flower Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Green Peel and Stick Wallpaper, Groovy Wallpaper, Accent ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36729687/r/il/f4058c/4189005329/il_570xN.4189005329_5vww.jpg' alt='Olive Green Peel and Stick Wallpaper, Groovy Wallpaper, Accent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36729687/r/il/f4058c/4189005329/il_570xN.4189005329_5vww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and Gold Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C878">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C878_05.png?v=1731688067&width=416' alt='Green and Gold Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C878'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C878_05.png?v=1731688067&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Garden Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/little-garden-removable-peel-and-stick-wallpaper-343862.png?v=1707209531' alt='Little Garden Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/little-garden-removable-peel-and-stick-wallpaper-343862.png?v=1707209531' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Farmhouse Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3414">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3682450409_5r2h.jpg' alt='Modern Farmhouse Green Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3414'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3682450409_5r2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaves Peel and Stick Removable Wallpaper 2872">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/floral_1331502872_05_grande.jpg?v=1617122797' alt='Green Leaves Peel and Stick Removable Wallpaper 2872'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/floral_1331502872_05_grande.jpg?v=1617122797' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Green Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3670">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/022b7346-fc0b-4fc6-8f9b-5bd539b6badb/svn/nuwallpaper-wallpaper-rolls-nu3670-64_600.jpg' alt='NuWallpaper Green Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3670'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/022b7346-fc0b-4fc6-8f9b-5bd539b6badb/svn/nuwallpaper-wallpaper-rolls-nu3670-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Abstract Leaf Wallpaper Boho Wallpaper Peel and Stick and Traditional  Wallpaper - D619">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5319383530_ogwo.jpg?v=1725094753&width=1946' alt='Green Abstract Leaf Wallpaper Boho Wallpaper Peel and Stick and Traditional  Wallpaper - D619'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5319383530_ogwo.jpg?v=1725094753&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Fascinating World of Mummy Backgrounds</title>
+                    <meta name="description" content="Explore the intriguing background of mummies, diving into ancient Egyptian practices, burial rituals, and the significance behind their preservation. Uncover the stories hidden within these ancient remains and learn how they shape our understanding of history and culture.">
+                    <meta name="keywords" content="mummy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mummy-background">
+                            <span itemprop="name">mummy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Fascinating World of Mummy Backgrounds</h1>
+                <p>Mummies have been a source of fascination for centuries, primarily linked to ancient Egypt. These preserved bodies reflect the customs of burial practices and the belief in the afterlife. Often wrapped in linen and adorned with artifacts, mummies serve as valuable archaeological evidence, revealing insights into social structure, health, and religious beliefs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190+ Bandage Mummy Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366974911/vector/mummy-pattern-spooky-bandages-and-eyes.jpg?s=612x612&w=0&k=20&c=Rrvm_ZnIlonsqlR_phSgreej2rdaH8_B9dlFKwoIn3U=' alt='190+ Bandage Mummy Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366974911/vector/mummy-pattern-spooky-bandages-and-eyes.jpg?s=612x612&w=0&k=20&c=Rrvm_ZnIlonsqlR_phSgreej2rdaH8_B9dlFKwoIn3U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Mummy Tomb Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1281657437/photo/kv9-kings-valley-no-9-tomb-of-memnon-tomb-of-the-pharaohs-from-the-20th-dynasty-ramses-v-and.jpg?s=612x612&w=0&k=20&c=thXHAgn1SPupUhOwy6yTzGZo73TopKiJ4NVcFzOPVsk=' alt='4,300+ Mummy Tomb Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1281657437/photo/kv9-kings-valley-no-9-tomb-of-memnon-tomb-of-the-pharaohs-from-the-20th-dynasty-ramses-v-and.jpg?s=612x612&w=0&k=20&c=thXHAgn1SPupUhOwy6yTzGZo73TopKiJ4NVcFzOPVsk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mummy, Halloween Digital Backdrop, Digital Background for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15632459/r/il/2b3827/2590898441/il_570xN.2590898441_home.jpg' alt='The Mummy, Halloween Digital Backdrop, Digital Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15632459/r/il/2b3827/2590898441/il_570xN.2590898441_home.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get ready for the party with the perfect Mummy Costume ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mummy-costumes-1920-x-1080-wallpaper-fphlqxv8vfikka93.jpg' alt='Download Get ready for the party with the perfect Mummy Costume ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mummy-costumes-1920-x-1080-wallpaper-fphlqxv8vfikka93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendly Mummy Stock Illustrations – 228 Friendly Mummy Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/friendly-mummy-halloween-backdrop-spider-webs-bats-playful-mummy-stands-against-bright-orange-halloween-backdrop-325946872.jpg' alt='Friendly Mummy Stock Illustrations – 228 Friendly Mummy Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/friendly-mummy-halloween-backdrop-spider-webs-bats-playful-mummy-stands-against-bright-orange-halloween-backdrop-325946872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Emotional Halloween Mummy Against The Background Of A Wall ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/prometeus/prometeus2010/prometeus201000306/156725521-funny-emotional-halloween-mummy-against-the-background-of-a-wall-with-ancient-egyptian-hieroglyphs.jpg' alt='Funny Emotional Halloween Mummy Against The Background Of A Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/prometeus/prometeus2010/prometeus201000306/156725521-funny-emotional-halloween-mummy-against-the-background-of-a-wall-with-ancient-egyptian-hieroglyphs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract background bandage mummy,vector design 10651753 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/010/651/753/non_2x/abstract-background-bandage-mummy-design-free-vector.jpg' alt='abstract background bandage mummy,vector design 10651753 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/010/651/753/non_2x/abstract-background-bandage-mummy-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Egyptian Mummy Background 7684248 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/684/248/non_2x/egyptian-mummy-background-free-vector.jpg' alt='Egyptian Mummy Background 7684248 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/684/248/non_2x/egyptian-mummy-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Mummy Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static1.bigstockphoto.com/9/8/3/large1500/389686453.jpg' alt='Halloween Mummy Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static1.bigstockphoto.com/9/8/3/large1500/389686453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Egyptian Mummy Background">
+                                <img itemprop="contentUrl url" src='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/120046/Vecteezyegyptian-mummybackgroundDF0422_generated.jpg' alt='Egyptian Mummy Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector4Free" />
+                                </span>
+                                <a href='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/120046/Vecteezyegyptian-mummybackgroundDF0422_generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

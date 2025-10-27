@@ -1,0 +1,129 @@
+<title>Vibrant Shrimp Wallpaper for Coastal Decor</title>
+                    <meta name="description" content="Explore our vibrant shrimp wallpaper collection, ideal for seafood lovers! Perfect for kitchens and coastal-themed rooms, our unique designs bring life to your interiors. Shop now for an easy way to elevate your space with playful elegance!">
+                    <meta name="keywords" content="shrimp wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shrimp-wallpaper">
+                            <span itemprop="name">shrimp wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Shrimp Wallpaper for Coastal Decor</h1>
+                <p>Transform your space with vibrant shrimp wallpaper! Perfect for seafood lovers and coastal decor enthusiasts, this eye-catching design adds a unique touch to any room. Whether you're looking to enhance your kitchen, dining area, or beach-themed space, shrimp wallpaper brings a fresh and playful vibe to your interior.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrimp Cocktail Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPYPSHRMPCKTL100.jpg?v=1650982550' alt='Shrimp Cocktail Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPYPSHRMPCKTL100.jpg?v=1650982550' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Shrimp Images – Browse 13,253 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/69/66/65/360_F_1069666567_FRQzRdQkVzQTDYohKh4yxVXCzfS4Zy4F.jpg' alt='Live Shrimp Images – Browse 13,253 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/69/66/65/360_F_1069666567_FRQzRdQkVzQTDYohKh4yxVXCzfS4Zy4F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Shrimp Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17106369/p/f/l/M-4VmXrXAbW8hA7I-8Yl6Wlwf5gMtBIjVkMKxgOT0dW9SzXs-0Hogdj_Tw/Shrimp%20Bounty.jpg' alt='Pink Shrimp Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17106369/p/f/l/M-4VmXrXAbW8hA7I-8Yl6Wlwf5gMtBIjVkMKxgOT0dW9SzXs-0Hogdj_Tw/Shrimp%20Bounty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrimp Photos, Download The BEST Free Shrimp Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1483780/pexels-photo-1483780.jpeg?cs=srgb&dl=pexels-elletakesphotos-1483780.jpg&fm=jpg' alt='Shrimp Photos, Download The BEST Free Shrimp Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1483780/pexels-photo-1483780.jpeg?cs=srgb&dl=pexels-elletakesphotos-1483780.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Shrimp Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16060225/p/f/m/5--1QYpGS-8yf5YPFv94ZpgeOqnfH2Q6SP1JgsW6j1k_v2m2of9rYDYRFw/Skrimply%20the%20best%20-%20Pink.jpg' alt='Pink Shrimp Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16060225/p/f/m/5--1QYpGS-8yf5YPFv94ZpgeOqnfH2Q6SP1JgsW6j1k_v2m2of9rYDYRFw/Skrimply%20the%20best%20-%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shrimp pattern wallpaper 9 by 16">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48993163/r/il/192b9f/6210474521/il_570xN.6210474521_c4dy.jpg' alt='shrimp pattern wallpaper 9 by 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48993163/r/il/192b9f/6210474521/il_570xN.6210474521_c4dy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute seamless background of cooked different ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-seamless-background-cooked-different-shrimps-hand-drawn-illustration_257845-2858.jpg?w=360' alt='Premium Vector | Cute seamless background of cooked different ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-seamless-background-cooked-different-shrimps-hand-drawn-illustration_257845-2858.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Shrimp Images – Browse 13,253 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/39/67/10/360_F_39671020_6PvXDnyj0HtDkhsFsFOFmXUz3MwIhnCd.jpg' alt='Live Shrimp Images – Browse 13,253 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/39/67/10/360_F_39671020_6PvXDnyj0HtDkhsFsFOFmXUz3MwIhnCd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrimp Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16896203/p/f/m/_jokRPKP9T2aid700hUwXj4vOW2Us4aR88FtmyrimXCXGopEuUmM/shrimps%20on%20cream%20-%20large.jpg' alt='Shrimp Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16896203/p/f/m/_jokRPKP9T2aid700hUwXj4vOW2Us4aR88FtmyrimXCXGopEuUmM/shrimps%20on%20cream%20-%20large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrimp Cocktail Wallpaper - 2x3 / Mellow Yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/4d/25/534d25881988fc7d0a6b176df7dcfd9f.jpg' alt='Shrimp Cocktail Wallpaper - 2x3 / Mellow Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/4d/25/534d25881988fc7d0a6b176df7dcfd9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

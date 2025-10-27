@@ -1,0 +1,129 @@
+<title>Top Wallpaper Trends of 2023: Transform Your Space</title>
+                    <meta name="description" content="Explore the best wallpaper styles of 2023 to revamp your home! Discover vibrant colors, eco-friendly options, and stunning patterns that suit every aesthetic. Create a unique and inviting atmosphere with our curated wallpaper selections. Perfect for any room makeover!">
+                    <meta name="keywords" content="best wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-wallpaper-2023">
+                            <span itemprop="name">best wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Wallpaper Trends of 2023: Transform Your Space</h1>
+                <p>In 2023, the best wallpaper trends emphasize bold colors, intricate patterns, and eco-friendly materials. From nature-inspired designs to geometric shapes, there's something for every taste. Transform your space with vibrant florals or minimalist styles that create a calming atmosphere. Elevate your interiors effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Wallpaper Trends for 2023: Bathroom, Bedroom and Living Room">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/elaine-thompson-pistachio-designs-powder-room-1669682653.jpg' alt='16 Wallpaper Trends for 2023: Bathroom, Bedroom and Living Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Housekeeping" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/elaine-thompson-pistachio-designs-powder-room-1669682653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper: March 2023">
+                                <img itemprop="contentUrl url" src='https://design-milk.com/images/2023/02/March-2023-Desktop-Wallpaper-1680x1050-1.jpg' alt='Desktop Wallpaper: March 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Milk" />
+                                </span>
+                                <a href='https://design-milk.com/images/2023/02/March-2023-Desktop-Wallpaper-1680x1050-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Wallpaper Trends 2023 [With Some Exciting Comebacks]">
+                                <img itemprop="contentUrl url" src='https://lovechicliving.co.uk/wp-content/uploads/2023/01/wallpaper-trends-2023.jpg' alt='The Top Wallpaper Trends 2023 [With Some Exciting Comebacks]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love Chic Living" />
+                                </span>
+                                <a href='https://lovechicliving.co.uk/wp-content/uploads/2023/01/wallpaper-trends-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...">
+                                <img itemprop="contentUrl url" src='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/paper-trends-3.jpg' alt='The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Jade Design" />
+                                </span>
+                                <a href='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/paper-trends-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper: March 2023">
+                                <img itemprop="contentUrl url" src='https://design-milk.com/images/2023/02/March-2023-Desktop-Wallpaper-1125x2436-1.jpg' alt='Desktop Wallpaper: March 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Milk" />
+                                </span>
+                                <a href='https://design-milk.com/images/2023/02/March-2023-Desktop-Wallpaper-1125x2436-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commander 2023 Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/ispazio-10.jpg' alt='Commander 2023 Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/ispazio-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.melaniejadedesign.com/wp-content/uploads/2022/12/florenzia-dusk-mural-graham-brown-design-ofvthe-year-nordroom.jpg?resize=1024%2C1024&ssl=1' alt='The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Jade Design" />
+                                </span>
+                                <a href='https://i0.wp.com/www.melaniejadedesign.com/wp-content/uploads/2022/12/florenzia-dusk-mural-graham-brown-design-ofvthe-year-nordroom.jpg?resize=1024%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Wallpaper Trends for 2023: Bathroom, Bedroom and Living Room">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/wallpaper-trends-index-1669748233.jpeg' alt='16 Wallpaper Trends for 2023: Bathroom, Bedroom and Living Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6720">
+                                <meta itemprop="height" content="4480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Housekeeping" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/wallpaper-trends-index-1669748233.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best wallpaper for 2025 android">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/blog/wp-content/uploads/2023/03/Neon-Colorful-Spiral-3d-Android-Phone-Wallpaper-473x1024.jpg' alt='Best wallpaper for 2025 android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/blog/wp-content/uploads/2023/03/Neon-Colorful-Spiral-3d-Android-Phone-Wallpaper-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper trends for 2023 | Blog | Muance">
+                                <img itemprop="contentUrl url" src='https://muance.eu/wp-content/uploads/2022/06/MU11043.jpg' alt='wallpaper trends for 2023 | Blog | Muance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muance" />
+                                </span>
+                                <a href='https://muance.eu/wp-content/uploads/2022/06/MU11043.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

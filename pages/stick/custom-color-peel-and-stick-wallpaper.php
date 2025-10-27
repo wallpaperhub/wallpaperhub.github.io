@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Custom Color Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of custom color peel and stick wallpaper. Perfect for renters or DIY enthusiasts, our removable wallpaper offers a hassle-free way to revamp your home. Choose from unique designs and vibrant hues to personalize any room quickly and easily!">
+                    <meta name="keywords" content="custom color peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/custom-color-peel-and-stick-wallpaper">
+                            <span itemprop="name">custom color peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Custom Color Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with custom color peel and stick wallpaper! Tailored to your unique style, this removable wallpaper allows easy application and repositioning. It's perfect for renters or anyone looking to add a personal touch to their home. Choose from vibrant colors and patterns to create stunning accents in any room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' alt='Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="peelandpaper.com" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper | Removable & Easy To Install">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' alt='Peel and Stick Wallpaper | Removable & Easy To Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1525">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recolor a Tempaper Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp_1024x1024.jpg?v=1738345312' alt='Recolor a Tempaper Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp_1024x1024.jpg?v=1738345312' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Coral Wallpaper Custom Color Corals Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26864170/r/il/f2ce38/3079440095/il_570xN.3079440095_imaw.jpg' alt='Red Coral Wallpaper Custom Color Corals Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26864170/r/il/f2ce38/3079440095/il_570xN.3079440095_imaw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Peel and Stick Wallpaper / One Color Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_570xN.2111424606_n4jh.jpg' alt='Solid Color Peel and Stick Wallpaper / One Color Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_570xN.2111424606_n4jh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Turquoise Green Marble Stone Wallpaper Light Luxury TV Background  Wall Marble Wallpaper Design Mural Paper Living Room Peel and Stick -  Custom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eKiVrte2L._UF894,1000_QL80_.jpg' alt='Natural Turquoise Green Marble Stone Wallpaper Light Luxury TV Background  Wall Marble Wallpaper Design Mural Paper Living Room Peel and Stick -  Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eKiVrte2L._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Your Own Removable Wallpaper or Custom Wallpaper Murals">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/IMG_2126_600x600.jpg?v=1593026803' alt='Design Your Own Removable Wallpaper or Custom Wallpaper Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/IMG_2126_600x600.jpg?v=1593026803' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Color Wallpaper – Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/FlorianWallpaperWithBeigeBedWithBeigePlantsandLampshade.jpg?v=1736949235&width=533' alt='Custom Color Wallpaper – Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/FlorianWallpaperWithBeigeBedWithBeigePlantsandLampshade.jpg?v=1736949235&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recolor a Tempaper Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/custom-recolor-pdp-2_1800x1800.jpg?v=1738784410' alt='Recolor a Tempaper Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/custom-recolor-pdp-2_1800x1800.jpg?v=1738784410' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Pastel Damask Peach 2024 Color ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Jr3khGXAL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Pastel Damask Peach 2024 Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Jr3khGXAL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

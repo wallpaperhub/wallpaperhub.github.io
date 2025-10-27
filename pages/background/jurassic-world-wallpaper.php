@@ -1,0 +1,129 @@
+<title>Stunning Jurassic World Wallpapers for Your Home</title>
+                    <meta name="description" content="Explore a collection of breathtaking Jurassic World wallpapers that elevate your decor. Perfect for fans and dinosaur lovers, these vibrant designs transform any space into a thrilling adventure. Discover unique styles that bring the prehistoric world to life. Get your Jurassic vibe today!">
+                    <meta name="keywords" content="jurassic world wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jurassic-world-wallpaper">
+                            <span itemprop="name">jurassic world wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jurassic World Wallpapers for Your Home</h1>
+                <p>Transform your space with stunning Jurassic World wallpaper that brings the thrill of the prehistoric era into your home. Featuring vibrant designs of iconic dinosaurs and breathtaking landscapes, these wallpapers create an immersive atmosphere. Perfect for fans of the franchise and nature lovers looking to add excitement to their decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jurassic World wallpaper by Pramukh07 - Download on ZEDGE™ | c471">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1c/50/75/1c50752cad2495c3b6d6dac608066c93.jpg' alt='Jurassic World wallpaper by Pramukh07 - Download on ZEDGE™ | c471'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1c/50/75/1c50752cad2495c3b6d6dac608066c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaurs Wallpaper for Boy Nursery Navy Blue Jurassic World Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24624982/r/il/9b6c3a/3690811686/il_570xN.3690811686_amy5.jpg' alt='Dinosaurs Wallpaper for Boy Nursery Navy Blue Jurassic World Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24624982/r/il/9b6c3a/3690811686/il_570xN.3690811686_amy5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Jurassic World Alive">
+                                <img itemprop="contentUrl url" src='https://jurassicworldalive.com/wp-content/uploads/JurassicWorldAlive_Wallpaper_46_Thumb-481x325.jpg' alt='Wallpapers - Jurassic World Alive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jurassic World Alive" />
+                                </span>
+                                <a href='https://jurassicworldalive.com/wp-content/uploads/JurassicWorldAlive_Wallpaper_46_Thumb-481x325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers – Jurassic World: The Game">
+                                <img itemprop="contentUrl url" src='https://www.jwthegame.com/wp-content/uploads/2022/06/JWTG_Wallpaper_04_Omega09_iPhone.jpg' alt='Wallpapers – Jurassic World: The Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jurassic World: The Game" />
+                                </span>
+                                <a href='https://www.jwthegame.com/wp-content/uploads/2022/06/JWTG_Wallpaper_04_Omega09_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Jurassic World Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-jurassic-world-c89x4yfg9q630rj7.jpg' alt='100+] Blue Jurassic World Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-jurassic-world-c89x4yfg9q630rj7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jurassic world wallpaper or wall mural">
+                                <img itemprop="contentUrl url" src='https://www.stickerforwall.com/42711-thickbox/jurassic-world-wallpaper-or-wall-mural.jpg' alt='Jurassic world wallpaper or wall mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decorative vinyls - stickers" />
+                                </span>
+                                <a href='https://www.stickerforwall.com/42711-thickbox/jurassic-world-wallpaper-or-wall-mural.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JW:E - Wallpaper(PS4 PRO 4K Screenshot) : r/jurassicworldevo">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/NQKyb_Xj8mnDfZv9Fhgq9PmsxqS9ZAcUDPsYRwOPi2Q.png?width=1080&crop=smart&auto=webp&s=7521709f0c1d675ba15e6d53ee09b59d4e14a400' alt='JW:E - Wallpaper(PS4 PRO 4K Screenshot) : r/jurassicworldevo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/NQKyb_Xj8mnDfZv9Fhgq9PmsxqS9ZAcUDPsYRwOPi2Q.png?width=1080&crop=smart&auto=webp&s=7521709f0c1d675ba15e6d53ee09b59d4e14a400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jurassic World HD Wallpaper: A Stunning Dino Adventure">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/609/609823.jpg' alt='Jurassic World HD Wallpaper: A Stunning Dino Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/609/609823.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers – Jurassic World: The Game">
+                                <img itemprop="contentUrl url" src='https://www.jwthegame.com/wp-content/uploads/2022/12/JWTG_Wallpaper_06_RexyMortemRex_Desktop.jpg' alt='Wallpapers – Jurassic World: The Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1928">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jurassic World: The Game" />
+                                </span>
+                                <a href='https://www.jwthegame.com/wp-content/uploads/2022/12/JWTG_Wallpaper_06_RexyMortemRex_Desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jurassic Park and Jurassic World Wallpaper by Thekingblader995 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df761et-c849b320-5f54-4885-b283-9e56b5d3a31b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGY3NjFldC1jODQ5YjMyMC01ZjU0LTQ4ODUtYjI4My05ZTU2YjVkM2EzMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HvvmyOa3Z2WtPmmIxJ5ezyvbDDRlpqf7jqoF9CnTqDI' alt='Jurassic Park and Jurassic World Wallpaper by Thekingblader995 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df761et-c849b320-5f54-4885-b283-9e56b5d3a31b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGY3NjFldC1jODQ5YjMyMC01ZjU0LTQ4ODUtYjI4My05ZTU2YjVkM2EzMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HvvmyOa3Z2WtPmmIxJ5ezyvbDDRlpqf7jqoF9CnTqDI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

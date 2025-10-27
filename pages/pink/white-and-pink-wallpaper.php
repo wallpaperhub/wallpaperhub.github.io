@@ -1,0 +1,129 @@
+<title>Charming White and Pink Wallpaper Ideas for Your Space</title>
+                    <meta name="description" content="Discover the beauty of white and pink wallpaper to transform your home. Explore a variety of patterns that enhance your decor while creating a light and airy feel. Perfect for any room, these versatile designs add a touch of elegance and charm to your living space.">
+                    <meta name="keywords" content="white and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/white-and-pink-wallpaper">
+                            <span itemprop="name">white and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming White and Pink Wallpaper Ideas for Your Space</h1>
+                <p>White and pink wallpaper brings a soft, charming ambiance to any space. Perfect for nurseries, bedrooms, or accent walls, this delicate color combination can brighten and uplift interiors. Choose from floral patterns, stripes, or geometric shapes to create an inviting atmosphere that reflects your personal style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Pastel Pink">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' alt='Classic Stripe Wallpaper in Pastel Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Dainty Dot' Wallpaper by Sugar Paper - Pink On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/TripleDots__pink-on-white_C_for_web_05740f69-8566-4537-b244-0f97a02a1df8.jpg?v=1615484679' alt=''Dainty Dot' Wallpaper by Sugar Paper - Pink On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/TripleDots__pink-on-white_C_for_web_05740f69-8566-4537-b244-0f97a02a1df8.jpg?v=1615484679' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & White Swirl Cell Phone Wallpaper Digital - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25871122/r/il/087d82/2890649966/il_fullxfull.2890649966_kbqu.jpg' alt='Pink & White Swirl Cell Phone Wallpaper Digital - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25871122/r/il/087d82/2890649966/il_fullxfull.2890649966_kbqu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' alt=''Candy Stripe' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Pink and White Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/e6/43/35e643e781ca87909ff6036c1eb63b6e.jpg' alt='Minimal Pink and White Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/e6/43/35e643e781ca87909ff6036c1eb63b6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Roses Wallpaper in Soft Pink on White – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?crop=center&height=1024&v=1722250129&width=1024' alt='Romantic Roses Wallpaper in Soft Pink on White – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?crop=center&height=1024&v=1722250129&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & White Chequerboard Square Pattern Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716286841/articles/GE5105PI03R_product.jpg' alt='Pink & White Chequerboard Square Pattern Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716286841/articles/GE5105PI03R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/15/74/9c/15749cd126272b95f047ff8c1b0e9c81.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/15/74/9c/15749cd126272b95f047ff8c1b0e9c81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Hearts Wallpaper Pink Holden 12581">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41Xb8kZ8cpL._AC_UF894,1000_QL80_.jpg' alt='Love Hearts Wallpaper Pink Holden 12581'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41Xb8kZ8cpL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Peggy Sue' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_294e9a93-6c84-4b7b-9bbf-3fa7ef03dacc.jpg?v=1615485528' alt=''Peggy Sue' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_294e9a93-6c84-4b7b-9bbf-3fa7ef03dacc.jpg?v=1615485528' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Shimmering Pink Glitter iPhone Wallpapers</title>
+                    <meta name="description" content="Discover beautiful pink glitter wallpapers for your iPhone! Elevate your device's look with sparkling designs that radiate style and charm. Perfect for fans of glam, these wallpapers are ideal for a chic and vibrant aesthetic. Download now and give your iPhone a fashionable makeover!">
+                    <meta name="keywords" content="glitter iphone pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/glitter-iphone-pink-wallpaper">
+                            <span itemprop="name">glitter iphone pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmering Pink Glitter iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning pink glitter wallpaper that adds a touch of glamour to your device. Perfect for those who love a chic and sparkly aesthetic, these wallpapers are designed to impress. Enjoy vibrant colors and shimmering effects that brighten up your screen, making every glance a delight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b7/4e/2e/b74e2e69576dc59bf3cad2473ad80c51.jpg' alt='20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b7/4e/2e/b74e2e69576dc59bf3cad2473ad80c51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600 Best Glitter Wallpaper ideas | glitter wallpaper, glitter ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/44/c6/a6/44c6a6aed9cf61913921fa0e7c7c7944.jpg' alt='600 Best Glitter Wallpaper ideas | glitter wallpaper, glitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/44/c6/a6/44c6a6aed9cf61913921fa0e7c7c7944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot pink glitter iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/2/hot-pink-glitter-top-wallpapers.jpg' alt='Hot pink glitter iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top Wallpapers" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/2/hot-pink-glitter-top-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Best Pink & Sparkly ideas | pink, everything pink, tickled pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/be/62/bfbe62f398d5ae31742cd6ffe5375aae.jpg' alt='340 Best Pink & Sparkly ideas | pink, everything pink, tickled pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/be/62/bfbe62f398d5ae31742cd6ffe5375aae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Streaks Of Fine Pink Sparkle Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/streaks-of-fine-pink-sparkle-iphone-fwfh62uub69e941y.jpg' alt='Streaks Of Fine Pink Sparkle Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/streaks-of-fine-pink-sparkle-iphone-fwfh62uub69e941y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter, cute, pink, sparkle, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/197/244/HD-wallpaper-glitter-cute-pink-sparkle.jpg' alt='Glitter, cute, pink, sparkle, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/197/244/HD-wallpaper-glitter-cute-pink-sparkle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Pink Glitter Phone Wallpaper iPhone Wallpaper, Samsung ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/51300110/r/il/3258da/6148871407/il_fullxfull.6148871407_ogqz.jpg' alt='HD Pink Glitter Phone Wallpaper iPhone Wallpaper, Samsung ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/51300110/r/il/3258da/6148871407/il_fullxfull.6148871407_ogqz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter iPhone Wallpapers | Download High Resolution Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwODUtMDc2Yy14XzEuanBn.jpg' alt='Glitter iPhone Wallpapers | Download High Resolution Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwODUtMDc2Yy14XzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Wallpaper [affd68346a484b87bb90] by Wallpaper HD | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f07cf2b4600147530cf1398f610606e4/h5f4i7eoNc6RnjEMv2GD.jpg?q=70&w=500' alt='Glitter Wallpaper [affd68346a484b87bb90] by Wallpaper HD | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f07cf2b4600147530cf1398f610606e4/h5f4i7eoNc6RnjEMv2GD.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

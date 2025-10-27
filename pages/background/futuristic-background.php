@@ -1,0 +1,129 @@
+<title>Embrace the Future: Stunning Futuristic Backgrounds</title>
+                    <meta name="description" content="Discover mesmerizing futuristic backgrounds that blend technology with nature. Explore vibrant landscapes, innovative architecture, and eco-friendly designs, perfect for inspiring creativity and imagination. Ideal for use in digital art, presentations, and more!">
+                    <meta name="keywords" content="futuristic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/futuristic-background">
+                            <span itemprop="name">futuristic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Future: Stunning Futuristic Backgrounds</h1>
+                <p>Imagine a world where technology harmoniously blends with nature, where towering skyscrapers glisten under holographic skies. Futuristic backgrounds are a canvas of innovation, showcasing sleek designs, vibrant colors, and advanced transportation systems. From smart cities to eco-friendly architecture, the future is a breathtaking fusion of creativity and sustainability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/278/153/non_2x/abstract-sciencece-or-technology-with-neon-light-and-empty-space-for-text-futuristic-background-vector.jpg' alt='Futuristic Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/278/153/non_2x/abstract-sciencece-or-technology-with-neon-light-and-empty-space-for-text-futuristic-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Background Images – Browse 17,806,050 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/41/09/60/360_F_541096083_KJcorovXUvyIordnevCAaNEIAeHY258R.jpg' alt='Futuristic Background Images – Browse 17,806,050 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/41/09/60/360_F_541096083_KJcorovXUvyIordnevCAaNEIAeHY258R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/266/448/non_2x/retro-futuristic-background-free-vector.jpg' alt='Futuristic Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/266/448/non_2x/retro-futuristic-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Futuristic Blue Background Graphic by Artmr · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/09/14/Abstract-futuristic-blue-background-Graphics-17251979-1.jpg' alt='Abstract Futuristic Blue Background Graphic by Artmr · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/09/14/Abstract-futuristic-blue-background-Graphics-17251979-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Futuristic Background Stock Illustrations – 2,619,230 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-futuristic-background-gold-pink-blue-glowing-neon-network-technoogy-abstract-futuristic-background-gold-pink-337123812.jpg' alt='Abstract Futuristic Background Stock Illustrations – 2,619,230 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-futuristic-background-gold-pink-blue-glowing-neon-network-technoogy-abstract-futuristic-background-gold-pink-337123812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,600+ Futuristic Neon City Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.jpg?s=612x612&w=0&k=20&c=8u9du7wZ_gwMt6beuW-QRhzts2U38oioiPH-ZDdXJwQ=' alt='25,600+ Futuristic Neon City Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.jpg?s=612x612&w=0&k=20&c=8u9du7wZ_gwMt6beuW-QRhzts2U38oioiPH-ZDdXJwQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Backgrounds" Images – Browse 1,723 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/84/17/79/360_F_1184177969_hOhBVShcfzZJkJ6rI5XacCwSUFtEz5tz.jpg' alt='Futuristic Backgrounds" Images – Browse 1,723 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/84/17/79/360_F_1184177969_hOhBVShcfzZJkJ6rI5XacCwSUFtEz5tz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic background 2025">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/futuristic-city-background-gfixge3n17657ygy.jpg' alt='Futuristic background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/futuristic-city-background-gfixge3n17657ygy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Futuristic, Technology, Wallpaper. Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/10/08/22/14/futuristic-6692617_1280.png' alt='Download Futuristic, Technology, Wallpaper. Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/10/08/22/14/futuristic-6692617_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Futuristic Background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/d362b7d37acc8c1d290da35c507d6979800909438c8a9594bd1c022f12152826.jpg' alt='Retro Futuristic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/d362b7d37acc8c1d290da35c507d6979800909438c8a9594bd1c022f12152826.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Incorrect Job Title in Background Checks: What to Do</title>
+                    <meta name="description" content="Discover how to handle incorrect job titles on background checks. Learn effective steps to clarify discrepancies and ensure your employment history is accurate for better job opportunities. Stay informed to navigate the hiring process smoothly!">
+                    <meta name="keywords" content="background check shows incorrect job title">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-shows-incorrect-job-title">
+                            <span itemprop="name">background check shows incorrect job title</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Incorrect Job Title in Background Checks: What to Do</h1>
+                <p>When a background check reveals an incorrect job title, it can cause frustration and potentially impact job opportunities. It's crucial to address discrepancies promptly. Verify your employment history, gather documentation, and communicate with the hiring company to clarify misunderstandings. Accurate records ensure a smooth hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can one fail background checks due to inconsistent... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/can-one-fail-background-checks-due-to-inconsistent-job-titles-that-were-verified-non-of-which-is-my-fault-one-of-my-ex-companies-1.png' alt='Can one fail background checks due to inconsistent... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/can-one-fail-background-checks-due-to-inconsistent-job-titles-that-were-verified-non-of-which-is-my-fault-one-of-my-ex-companies-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1383">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is a job title discrepancy on a employment verific... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/is-a-job-title-discrepancy-on-a-employment-verification-for-a-background-check-a-big-deal-the-job-title-i-listed-was-reflective-of.png' alt='Is a job title discrepancy on a employment verific... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/is-a-job-title-discrepancy-on-a-employment-verification-for-a-background-check-a-big-deal-the-job-title-i-listed-was-reflective-of.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Background Check Show Employment History? Spoiler: Yes">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/627c8700df0be67c4b1d533c/66a29712dfc4d2bada877aa2_6605f2941fce1119856ba5c8_Can%2520employers%2520see%2520my%2520work%2520history%2520through%2520a%2520background%2520check.png' alt='Does a Background Check Show Employment History? Spoiler: Yes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teal" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/627c8700df0be67c4b1d533c/66a29712dfc4d2bada877aa2_6605f2941fce1119856ba5c8_Can%2520employers%2520see%2520my%2520work%2520history%2520through%2520a%2520background%2520check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check at KPMG got dinged because of job... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/background-check-at-kpmg-got-dinged-because-of-job-title-discrepancy-i-put-the-job-titles-on-the-online-job-posting-instead-of-rk8i-5.png' alt='Background check at KPMG got dinged because of job... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/background-check-at-kpmg-got-dinged-because-of-job-title-discrepancy-i-put-the-job-titles-on-the-online-job-posting-instead-of-rk8i-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Check: How to Inform a Job Candidate">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' alt='Failed Background Check: How to Inform a Job Candidate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee background check errors harm thousands of workers ...">
+                                <img itemprop="contentUrl url" src='https://www.techtarget.com/rms/onlineimages/criminal_background_check_disconnects-f_mobile.png' alt='Employee background check errors harm thousands of workers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechTarget" />
+                                </span>
+                                <a href='https://www.techtarget.com/rms/onlineimages/criminal_background_check_disconnects-f_mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

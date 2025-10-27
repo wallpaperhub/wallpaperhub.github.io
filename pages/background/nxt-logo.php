@@ -1,0 +1,129 @@
+<title>NXT Logo: The Emblem of Blockchain Innovation</title>
+                    <meta name="description" content="Explore the NXT logo, a powerful symbol of blockchain technology that captures the essence of innovation and decentralization. Discover its significance and design elements that represent NXT's commitment to secure digital transactions. Perfect for enthusiasts and newcomers alike!">
+                    <meta name="keywords" content="nxt logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nxt-logo">
+                            <span itemprop="name">nxt logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NXT Logo: The Emblem of Blockchain Innovation</h1>
+                <p>The NXT logo symbolizes innovation and modernity in the world of blockchain technology. Featuring a sleek design and unique color scheme, it embodies the platform's goals of decentralization and security. The logo serves not only as an identifier but also represents the vision of facilitating digital transactions with efficiency and trust.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE NXT - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NXT2024.jpg/800px-NXT2024.jpg' alt='WWE NXT - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NXT2024.jpg/800px-NXT2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:WWE NXT Logo (2022).svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WWE_NXT_Logo_%282022%29.svg/2560px-WWE_NXT_Logo_%282022%29.svg.png' alt='File:WWE NXT Logo (2022).svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WWE_NXT_Logo_%282022%29.svg/2560px-WWE_NXT_Logo_%282022%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE NXT | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/4/46/NXT2024.png/revision/latest?cb=20241002003326' alt='WWE NXT | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/4/46/NXT2024.png/revision/latest?cb=20241002003326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE NXT Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2023/04/WWE-NXT-Logo-2014.png' alt='WWE NXT Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2023/04/WWE-NXT-Logo-2014.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New NXT Logo, Opening Intro Revealed On 10/1 WWE NXT">
+                                <img itemprop="contentUrl url" src='https://media.zenfs.com/en/wrestle_zone_910/bd4f8b3e6325fd4598849b992221495b' alt='New NXT Logo, Opening Intro Revealed On 10/1 WWE NXT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://media.zenfs.com/en/wrestle_zone_910/bd4f8b3e6325fd4598849b992221495b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NXT teases a new look with updated logo | WWE">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/og_image/public/all/2022/09/20220913_NXT_NewLogo--52bc0a658df3cb6753ffd8b7da947690.jpg' alt='NXT teases a new look with updated logo | WWE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/og_image/public/all/2022/09/20220913_NXT_NewLogo--52bc0a658df3cb6753ffd8b7da947690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE NXT | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/b/bc/NXT_2019--2b967d83b5c984deb297bb44180c54a6.png/revision/latest?cb=20191003210106' alt='WWE NXT | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/b/bc/NXT_2019--2b967d83b5c984deb297bb44180c54a6.png/revision/latest?cb=20191003210106' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE NXT: New Logo, Theme & Titles Kick-Off New Era On The CW">
+                                <img itemprop="contentUrl url" src='https://www.sescoops.com/wp-content/uploads/2024/10/WWE-NXT-New-Logo.jpeg.optimal.jpeg' alt='WWE NXT: New Logo, Theme & Titles Kick-Off New Era On The CW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEScoops" />
+                                </span>
+                                <a href='https://www.sescoops.com/wp-content/uploads/2024/10/WWE-NXT-New-Logo.jpeg.optimal.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New NXT logo : r/Wrasslin">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-nxt-logo-v0-k0lmb9onj7sd1.jpeg?auto=webp&s=c7b53b10ffe52b6e4b71662d2c159723b6173a45' alt='New NXT logo : r/Wrasslin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-nxt-logo-v0-k0lmb9onj7sd1.jpeg?auto=webp&s=c7b53b10ffe52b6e4b71662d2c159723b6173a45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Changes NXT Logo Again Bringing Back Traditional Gold-And ...">
+                                <img itemprop="contentUrl url" src='https://ewrestling.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-14-at-9.07.58-AM.png' alt='WWE Changes NXT Logo Again Bringing Back Traditional Gold-And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eWrestling" />
+                                </span>
+                                <a href='https://ewrestling.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-14-at-9.07.58-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

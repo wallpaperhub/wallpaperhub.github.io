@@ -1,0 +1,129 @@
+<title>Stylish Broken Screen Wallpapers for Your Chromebook</title>
+                    <meta name="description" content="Discover captivating broken screen wallpapers for your Chromebook! Transform your device's look with playful designs that mimic a cracked display, offering style without the stress. Easy to download and customize, these wallpapers are perfect for adding a unique twist to your tech experience.">
+                    <meta name="keywords" content="broken screen wallpaper for chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/broken-screen-wallpaper-for-chromebook">
+                            <span itemprop="name">broken screen wallpaper for chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Broken Screen Wallpapers for Your Chromebook</h1>
+                <p>Enhance your Chromebook's aesthetic with a broken screen wallpaper! This unique design adds a playful twist, mimicking a cracked display while keeping the functionality intact. Perfect for users who enjoy embracing the quirky side of tech, these wallpapers are easy to download and personalize your device without the anxiety of actual damage!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Broken Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cracked-screen-blue-868xk2t77gj2k04o.jpg' alt='200+] Broken Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cracked-screen-blue-868xk2t77gj2k04o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello on my Chromebook I opened it up and theres a fake cracked ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/support-forums-api/attachment/thread-73099119-4086342267488020073.png' alt='Hello on my Chromebook I opened it up and theres a fake cracked ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Help" />
+                                </span>
+                                <a href='https://storage.googleapis.com/support-forums-api/attachment/thread-73099119-4086342267488020073.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cracked Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cracked-screen-lines-4x17e1sxu8n1uy3k.jpg' alt='200+] Cracked Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cracked-screen-lines-4x17e1sxu8n1uy3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen HD Wallpapers (300++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/featured/cracked-screen-xi12jci1vrf8cpzb.jpg' alt='Cracked Screen HD Wallpapers (300++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/featured/cracked-screen-xi12jci1vrf8cpzb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Broken And Shattered Screen Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/broken-and-shattered-screen-6a4qc9ntdj5m3raz.jpg' alt='Download free Broken And Shattered Screen Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/broken-and-shattered-screen-6a4qc9ntdj5m3raz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs">
+                                <img itemprop="contentUrl url" src='https://cdn4.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-01.jpg' alt='11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geckoandfly" />
+                                </span>
+                                <a href='https://cdn4.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen HD Wallpaper - Shattered Glass Background">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/687/thumb-1920-687700.jpg' alt='Cracked Screen HD Wallpaper - Shattered Glass Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/687/thumb-1920-687700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken computer screen 2025 prank">
+                                <img itemprop="contentUrl url" src='https://cdn.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-04.jpg' alt='Broken computer screen 2025 prank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy wallpaper for chrome laptop broken screen wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3385711.jpg' alt='Galaxy wallpaper for chrome laptop broken screen wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="stevequiredtizig1987's Ownd - Ameba Ownd" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3385711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Fools Broken Panel - Instructables">
+                                <img itemprop="contentUrl url" src='https://content.instructables.com/FSI/MICA/FSSIKWPQ/FSIMICAFSSIKWPQ.jpg?auto=webp' alt='April Fools Broken Panel - Instructables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instructables" />
+                                </span>
+                                <a href='https://content.instructables.com/FSI/MICA/FSSIKWPQ/FSIMICAFSSIKWPQ.jpg?auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

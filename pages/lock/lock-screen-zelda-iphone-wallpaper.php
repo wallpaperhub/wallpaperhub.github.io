@@ -1,0 +1,129 @@
+<title>Zelda Lock Screen Wallpapers for iPhone: Adventure Awaits</title>
+                    <meta name="description" content="Discover enchanting Zelda lock screen wallpapers for your iPhone. Elevate your device with vibrant designs featuring beloved characters and epic scenes from Hyrule. Perfect for gamers and fans alike, these wallpapers will make your screen come alive! Download your favorite today!">
+                    <meta name="keywords" content="lock screen zelda iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-zelda-iphone-wallpaper">
+                            <span itemprop="name">lock screen zelda iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Zelda Lock Screen Wallpapers for iPhone: Adventure Awaits</h1>
+                <p>Transform your iPhone with stunning Zelda lock screen wallpapers that showcase the beauty of Hyrule. From iconic characters like Link and Princess Zelda to breathtaking landscapes, these unique designs bring a touch of adventure to your device. Perfect for every fan, enhance your iPhone experience with a magical Zelda theme!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] [OC] I made another zelda lockscreen for iOS 16! : r/zelda">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c2gt03b8ciua1.jpg' alt='TotK] [OC] I made another zelda lockscreen for iOS 16! : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c2gt03b8ciua1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blaze Zelda">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/5e/f0/ea5ef07758379bdeca7a58fc9c48387b.jpg' alt='Blaze Zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/5e/f0/ea5ef07758379bdeca7a58fc9c48387b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do you guys like this iPhone wallpaper I made? : r/zelda">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/T03XuekR-HFO7lqalCpKjpi0mfXOX6Fgg-Mw2OYkFsE.jpg?auto=webp&s=5baee259d452af552deabd8b480fed8cc888109b' alt='How do you guys like this iPhone wallpaper I made? : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/T03XuekR-HFO7lqalCpKjpi0mfXOX6Fgg-Mw2OYkFsE.jpg?auto=webp&s=5baee259d452af552deabd8b480fed8cc888109b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BoTW] Zelda iOS 16 lock-screen with depth effect. : r/zelda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/41e6mztjsrn91.jpg?width=640&crop=smart&auto=webp&s=82658f5c8a98a891e71c89e0575e275244564a52' alt='BoTW] Zelda iOS 16 lock-screen with depth effect. : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/41e6mztjsrn91.jpg?width=640&crop=smart&auto=webp&s=82658f5c8a98a891e71c89e0575e275244564a52' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legend of Zelda Lock Screen by bastian on DeviantArt Check more at ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/05/a8/2005a82c56e4409e71545b04103340c2.jpg' alt='Legend of Zelda Lock Screen by bastian on DeviantArt Check more at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/05/a8/2005a82c56e4409e71545b04103340c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Other] I added text to this lockscreen wallpaper so that I can ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bwxrpq62uda61.png?auto=webp&s=1154c9856357a3276eb4eadfff3d40c6fd043a11' alt='Other] I added text to this lockscreen wallpaper so that I can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bwxrpq62uda61.png?auto=webp&s=1154c9856357a3276eb4eadfff3d40c6fd043a11' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Nintendo released a few TotK themed mobile wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' alt='TotK] Nintendo released a few TotK themed mobile wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 wallpaper for The Legend of Zelda Tears of the Kingdom : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1irts45lmoo91.jpg' alt='iOS 16 wallpaper for The Legend of Zelda Tears of the Kingdom : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1irts45lmoo91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K The Legend Of Zelda Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/54/08/cd54088e4fe63ab5edb2baa9168a6274.jpg' alt='4K The Legend Of Zelda Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/54/08/cd54088e4fe63ab5edb2baa9168a6274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 quick Zelda Breath of the Wild home/lock screen wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/JYQMaj6.jpeg' alt='2 quick Zelda Breath of the Wild home/lock screen wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/JYQMaj6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

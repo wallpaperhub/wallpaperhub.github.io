@@ -1,0 +1,129 @@
+<title>Santa's Cozy Chair: A Magical Holiday Tradition</title>
+                    <meta name="description" content="Explore the joy of Santa sitting in his festive chair, a beloved holiday tradition for children everywhere. Discover the magic as kids share their wishes while basking in the warmth of the season. Join us to create unforgettable memories this Christmas!">
+                    <meta name="keywords" content="santa sitting in a chair">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/santa-sitting-in-a-chair">
+                            <span itemprop="name">santa sitting in a chair</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Santa's Cozy Chair: A Magical Holiday Tradition</h1>
+                <p>Santa sat comfortably in his big, festive chair, surrounded by twinkling lights and decorations. His red suit gleamed against the rich, green fabric, while a sack of toys rested by his side. Children stared in awe, eagerly waiting for their turn to share their wishes. The warmth of the season filled the air, creating magical memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A christmas scene with a santa claus sitting in a chair with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-scene-with-santa-claus-sitting-chair-with-presents_1293835-2714.jpg' alt='A christmas scene with a santa claus sitting in a chair with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-scene-with-santa-claus-sitting-chair-with-presents_1293835-2714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Santa Sitting In Chair Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1066570936/photo/surprised-santa-claus-sitting-in-an-armchair.jpg?s=612x612&w=0&k=20&c=QZhbE7S96WpjX4dIlXL5ie5UwVNr7wr27cxiYUZ55ho=' alt='2,800+ Santa Sitting In Chair Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1066570936/photo/surprised-santa-claus-sitting-in-an-armchair.jpg?s=612x612&w=0&k=20&c=QZhbE7S96WpjX4dIlXL5ie5UwVNr7wr27cxiYUZ55ho=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Chair">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/28/aa/a128aae60f7a15f1b22c224b800c843c.jpg' alt='Santa Chair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/28/aa/a128aae60f7a15f1b22c224b800c843c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Santa Sitting In Chair Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/524858967/photo/ho-ho-ho.jpg?s=612x612&w=0&k=20&c=BtEQBDzbqlFgfYSRcN_Ef360Y3dfO-4WUSXh-dW3w7w=' alt='2,800+ Santa Sitting In Chair Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/524858967/photo/ho-ho-ho.jpg?s=612x612&w=0&k=20&c=BtEQBDzbqlFgfYSRcN_Ef360Y3dfO-4WUSXh-dW3w7w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black santa claus sitting in a chair with a thoughtful expre">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/fbc12c272370881976638e5c1c5b8aac62ccb9f44da85de849dd636cad749ee7.jpg' alt='Black santa claus sitting in a chair with a thoughtful expre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/fbc12c272370881976638e5c1c5b8aac62ccb9f44da85de849dd636cad749ee7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life Size Animated Rocking Chair Santa Claus Christmas Decor ...">
+                                <img itemprop="contentUrl url" src='https://cdn10.bigcommerce.com/s-qw6n9/products/1948/images/4939/mr4124012_s__23302.1647389649.1280.1280.jpg?c=2' alt='Life Size Animated Rocking Chair Santa Claus Christmas Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Holiday Store" />
+                                </span>
+                                <a href='https://cdn10.bigcommerce.com/s-qw6n9/products/1948/images/4939/mr4124012_s__23302.1647389649.1280.1280.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,760 Santa Claus Sitting Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/157695404/photo/pictures-of-real-santa-claus-relaxing-at-home.jpg?s=612x612&w=gi&k=20&c=rKUvv_YLfbb-NkcK73LAnzimwtGMEHFXFdrVr71BOZA=' alt='6,760 Santa Claus Sitting Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/157695404/photo/pictures-of-real-santa-claus-relaxing-at-home.jpg?s=612x612&w=gi&k=20&c=rKUvv_YLfbb-NkcK73LAnzimwtGMEHFXFdrVr71BOZA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRICE DROP Digital backdrop of Santa sitting beside a child's chair DIY  Santa pictures, photography studio, Christmas backdrop">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10552298/r/il/cd6633/1765166211/il_fullxfull.1765166211_pq0e.jpg' alt='PRICE DROP Digital backdrop of Santa sitting beside a child's chair DIY  Santa pictures, photography studio, Christmas backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10552298/r/il/cd6633/1765166211/il_fullxfull.1765166211_pq0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Sitting Images – Browse 276,475 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/41/50/96/360_F_641509675_eVfudSNW9hdFYabymINNfbrElnLLKUpH.jpg' alt='Santa Sitting Images – Browse 276,475 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/41/50/96/360_F_641509675_eVfudSNW9hdFYabymINNfbrElnLLKUpH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Santa claus sitting on a wooden chair and giving a thumb up ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DFWXWT/happy-santa-claus-sitting-on-a-wooden-chair-and-giving-a-thumb-up-DFWXWT.jpg' alt='Happy Santa claus sitting on a wooden chair and giving a thumb up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DFWXWT/happy-santa-claus-sitting-on-a-wooden-chair-and-giving-a-thumb-up-DFWXWT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

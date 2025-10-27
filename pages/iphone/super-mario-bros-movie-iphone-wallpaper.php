@@ -1,0 +1,129 @@
+<title>Super Mario Bros Movie iPhone Wallpapers: Download Now</title>
+                    <meta name="description" content="Discover a collection of stunning Super Mario Bros movie iPhone wallpapers that will transform your device. Perfect for fans, these eye-catching designs celebrate the iconic characters and adventures of the beloved franchise. Download your favorites today and enjoy the whimsical charm on your screen!">
+                    <meta name="keywords" content="super mario bros movie iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/super-mario-bros-movie-iphone-wallpaper">
+                            <span itemprop="name">super mario bros movie iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Super Mario Bros Movie iPhone Wallpapers: Download Now</h1>
+                <p>Elevate your device's look with vibrant Super Mario Bros movie iPhone wallpapers! Immerse yourself in the fantastical world of Mario, Luigi, and friends with stunning visuals. Perfect for fans of all ages, these wallpapers bring your screen to life, making everyday use a more enjoyable adventure. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Movie (2023) Second Poster (Versión Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/d9/e2/34d9e2099232733cb257595735786398.jpg' alt='Super Mario Bros Movie (2023) Second Poster (Versión Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/d9/e2/34d9e2099232733cb257595735786398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Poster Version 3 Wallpaper - Cat with ...">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/03/smb-movie-poster-03-1284x2778-1.jpg' alt='The Super Mario Bros. Movie Poster Version 3 Wallpaper - Cat with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/03/smb-movie-poster-03-1284x2778-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone12 1170x2532 Wallpaper super Mario bros movie poster : r/Mario">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/uel5g8wo5ns91.jpg?auto=webp&s=c6899dafd8a546fe230196a61094f1f56700d508' alt='iPhone12 1170x2532 Wallpaper super Mario bros movie poster : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/uel5g8wo5ns91.jpg?auto=webp&s=c6899dafd8a546fe230196a61094f1f56700d508' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Wallpaper 4K, 2023 Movies">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/the-super-mario-1290x2796-10880.jpg' alt='The Super Mario Bros. Movie Wallpaper 4K, 2023 Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/the-super-mario-1290x2796-10880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Mario Kart Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/04/smb-movie-mario-kart-1440x2960-1.jpg' alt='The Super Mario Bros. Movie Mario Kart Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/04/smb-movie-mario-kart-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie wallpaper 01 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?titel=The+Super+Mario+Bros.+Movie&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8104' alt='The Super Mario Bros. Movie wallpaper 01 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?titel=The+Super+Mario+Bros.+Movie&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8104' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/ed/7c/6eed7ca715fdd2f17e94038bb53fa632.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/ed/7c/6eed7ca715fdd2f17e94038bb53fa632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie, Super Mario Bros. (2023), HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/217/667/HD-wallpaper-the-super-mario-bros-movie-2023-movie-poster.jpg' alt='Movie, Super Mario Bros. (2023), HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/217/667/HD-wallpaper-the-super-mario-bros-movie-2023-movie-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie 4K Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/the-super-mario-1280x1280-10843.jpg' alt='The Super Mario Bros. Movie 4K Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/the-super-mario-1280x1280-10843.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros Movie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/01/2b/9f/012b9fc6434b51787fab4d2cf9742d83.jpg' alt='The Super Mario Bros Movie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/01/2b/9f/012b9fc6434b51787fab4d2cf9742d83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

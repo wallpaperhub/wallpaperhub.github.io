@@ -1,0 +1,129 @@
+<title>Funny Anime GIF Wallpapers: A Collection of Hilarious Animations</title>
+                    <meta name="description" content="Discover a fun collection of funny anime GIF wallpapers to liven up your device! These lighthearted animations bring joy and laughter, making your screen more enjoyable. Explore the best GIFs that reflect your personality and keep your mood elevated all day long!">
+                    <meta name="keywords" content="funny anime gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-anime-gif-wallpaper">
+                            <span itemprop="name">funny anime gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Anime GIF Wallpapers: A Collection of Hilarious Animations</h1>
+                <p>Looking to brighten up your device? Funny anime GIF wallpapers are the perfect way to add a dash of humor and personality! From silly characters to comical scenes, these animated wallpapers will keep you smiling every time you unlock your screen. Explore a variety of options and express your unique style with laughter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Anime Gifs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/31/0b/b3/310bb378a858ff6458f2dd7d278ce65f.gif' alt='Funny Anime Gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/31/0b/b3/310bb378a858ff6458f2dd7d278ce65f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintama ~ GIF of Gintoki being his usual self">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b0/ee/d1/b0eed110afd8d75da22918a703cb06db.gif' alt='Gintama ~ GIF of Gintoki being his usual self'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b0/ee/d1/b0eed110afd8d75da22918a703cb06db.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Anime GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/aF0ipAtOk9cAAAAM/spy-x-family-anya.gif' alt='Funny Anime GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/aF0ipAtOk9cAAAAM/spy-x-family-anya.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Gif PFP - Anime Gif PFPs for Facebook, Discord, Telegram">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-2.gif' alt='Naruto Gif PFP - Anime Gif PFPs for Facebook, Discord, Telegram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Anime GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/u9jAXVyIZV8AAAAM/anime-gojou.gif' alt='Funny Anime GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/u9jAXVyIZV8AAAAM/anime-gojou.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime-gif-Nichijou">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/08/9a/43/089a436507c291a7c4b504a34f2443c6.gif' alt='anime-gif-Nichijou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/08/9a/43/089a436507c291a7c4b504a34f2443c6.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime-gifs-310-16420-hd-wallpapers | Anime Introvert">
+                                <img itemprop="contentUrl url" src='https://psychicpostpirate.wordpress.com/wp-content/uploads/2015/12/anime-gifs-310-16420-hd-wallpapers.gif' alt='anime-gifs-310-16420-hd-wallpapers | Anime Introvert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Introvert - WordPress.com" />
+                                </span>
+                                <a href='https://psychicpostpirate.wordpress.com/wp-content/uploads/2015/12/anime-gifs-310-16420-hd-wallpapers.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eto">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b0/6a/6d/b06a6dfbc6af9d7289b4cc458877ebbc.gif' alt='eto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b0/6a/6d/b06a6dfbc6af9d7289b4cc458877ebbc.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Anime GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Bu5E2PUPVa0AAAAM/one-punch-man-anime-girl.gif' alt='Funny Anime GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Bu5E2PUPVa0AAAAM/one-punch-man-anime-girl.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image reblogged from @pururin – @funny-anime-gifs on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/585e193349e7057f43d6621f6a3d387e/tumblr_pngbon2KYD1snbyiqo1_r1_540.gif' alt='Image reblogged from @pururin – @funny-anime-gifs on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/585e193349e7057f43d6621f6a3d387e/tumblr_pngbon2KYD1snbyiqo1_r1_540.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Prepasted Wallpaper</title>
+                    <meta name="description" content="Discover the charm of floral prepasted wallpaper! Easy to apply and remove, this decorative option adds elegance and vibrancy to any room. Perfect for a quick home makeover, floral designs embrace nature's beauty while providing a seamless look. Ideal for those seeking style with convenience!">
+                    <meta name="keywords" content="floral prepasted wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-prepasted-wallpaper">
+                            <span itemprop="name">floral prepasted wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Prepasted Wallpaper</h1>
+                <p>Floral prepasted wallpaper is a beautiful and convenient way to enhance your living spaces. With its easy application, you can effortlessly transform any room with vibrant floral patterns. Just soak, stick, and enjoy! Perfect for adding a touch of nature to your home, it's both stylish and practical, making redecorating a breeze.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Floral Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11901-D_2000x2000.jpg?v=1673063236' alt='Wildflowers Floral Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11901-D_2000x2000.jpg?v=1673063236' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Acanthus Floral Vintage Prepasted Wallpaper (Denim & Sage) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81QotZkgEYL.jpg' alt='Acanthus Floral Vintage Prepasted Wallpaper (Denim & Sage) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81QotZkgEYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Plumeria Blue Floral Trail Matte Paper Pre-Pasted Wallpaper  Sample 4071-71040SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/94f2faed-0775-4d7a-8f1c-a37386cb36d3/svn/chesapeake-wallpaper-samples-4071-71040sam-64_600.jpg' alt='Chesapeake Plumeria Blue Floral Trail Matte Paper Pre-Pasted Wallpaper  Sample 4071-71040SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/94f2faed-0775-4d7a-8f1c-a37386cb36d3/svn/chesapeake-wallpaper-samples-4071-71040sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stenciled Floral Vintage Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR10202-HDCrop.jpg?v=1664753278' alt='Stenciled Floral Vintage Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR10202-HDCrop.jpg?v=1664753278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Acanthus Floral Prepasted Wallpaper in Charcoal & Goldenrod">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/PR10010-A_720x.jpg?v=1707928374' alt='Acanthus Floral Prepasted Wallpaper in Charcoal & Goldenrod'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/PR10010-A_720x.jpg?v=1707928374' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Pattern Peel & Stick Wallpaper Self-adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20151272/r/il/c3459f/5849093569/il_570xN.5849093569_elj5.jpg' alt='Floral Pattern Peel & Stick Wallpaper Self-adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20151272/r/il/c3459f/5849093569/il_570xN.5849093569_elj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Designs Charcoal and Rosewood Acanthus Floral Prepasted Wallpaper  Roll 56 sq. ft. PR10001">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7c484241-b651-4d3f-b602-de8fb1eeb260/svn/seabrook-designs-wallpaper-rolls-pr10001-64_600.jpg' alt='Seabrook Designs Charcoal and Rosewood Acanthus Floral Prepasted Wallpaper  Roll 56 sq. ft. PR10001'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7c484241-b651-4d3f-b602-de8fb1eeb260/svn/seabrook-designs-wallpaper-rolls-pr10001-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Wildflowers Floral Prepasted Wallpaper (Multicolored) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HujS3QJTL.jpg' alt='NextWall Wildflowers Floral Prepasted Wallpaper (Multicolored) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HujS3QJTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swans Island Daffodil Yellow Floral Pre-Pasted Wallpaper Sample">
+                                <img itemprop="contentUrl url" src='https://madcapcottage.com/cdn/shop/products/SwansIslandDaffodilFloralWallpaper_0fefbf2c-7572-4117-8242-ff06a72b4f18.png?v=1665708659&width=1080' alt='Swans Island Daffodil Yellow Floral Pre-Pasted Wallpaper Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madcap Cottage" />
+                                </span>
+                                <a href='https://madcapcottage.com/cdn/shop/products/SwansIslandDaffodilFloralWallpaper_0fefbf2c-7572-4117-8242-ff06a72b4f18.png?v=1665708659&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Designs Acanthus Floral Prepasted Wallpaper 20.5 in. W x 33 ft. L  - Red Clay & Lichen">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Seabrook-Designs-Acanthus-Floral-Prepasted-Wallpaper-20-5-in-W-x-33-ft-L-Red-Clay-Lichen_50144c93-0a08-42cb-92ec-e6cabb0be135.ee837489b9431caeb86e9a732ce2fca0.jpeg' alt='Seabrook Designs Acanthus Floral Prepasted Wallpaper 20.5 in. W x 33 ft. L  - Red Clay & Lichen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Seabrook-Designs-Acanthus-Floral-Prepasted-Wallpaper-20-5-in-W-x-33-ft-L-Red-Clay-Lichen_50144c93-0a08-42cb-92ec-e6cabb0be135.ee837489b9431caeb86e9a732ce2fca0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

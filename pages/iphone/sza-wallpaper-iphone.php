@@ -1,0 +1,129 @@
+<title>Awesome SZA Wallpapers for iPhone: A Must-Have for Fans!</title>
+                    <meta name="description" content="Discover breathtaking SZA wallpapers for your iPhone! Perfect for fans who want to showcase their love for her music and style, these wallpapers feature vibrant designs and captivating imagery. Elevate your device's look with SZA-inspired art that's optimized for a stunning mobile display!">
+                    <meta name="keywords" content="sza wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sza-wallpaper-iphone">
+                            <span itemprop="name">sza wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome SZA Wallpapers for iPhone: A Must-Have for Fans!</h1>
+                <p>Transform your iPhone with stunning SZA wallpapers that capture her unique style and vibe. From vibrant colors to soulful aesthetics, these wallpapers bring a touch of her artistry to your device. Perfect for fans and enthusiasts, each image resonates with her music and personality, turning your screen into a visual celebration of SZA.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sza wallpaper and lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/cf/1a/07cf1a8108306ab9ab165b1ad49a74a5.jpg' alt='sza wallpaper and lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/cf/1a/07cf1a8108306ab9ab165b1ad49a74a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a phone background from the new album, hope y'all love it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-phone-background-from-the-new-album-hope-yall-love-it-v0-ev3oxa36qr4a1.jpg?auto=webp&s=eeadaebf1902427258c053758ede9b90940c4d23' alt='Made a phone background from the new album, hope y'all love it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-phone-background-from-the-new-album-hope-yall-love-it-v0-ev3oxa36qr4a1.jpg?auto=webp&s=eeadaebf1902427258c053758ede9b90940c4d23' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sza wallpaper aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/a9/0d/efa90da5efd7e13f5ba7215fd73ef398.jpg' alt='Sza wallpaper aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/a9/0d/efa90da5efd7e13f5ba7215fd73ef398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for iOS #wallpaper #sza #ios17 | sza | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7289323373430082818&location=0&aid=1988' alt='Wallpaper for iOS #wallpaper #sza #ios17 | sza | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7289323373430082818&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA Wallpaper | Gallery posted by     Favgurlzyah     | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7358819143640384005&index=0&sign=6e41b068387e1f8d785b1eafc6c8df94' alt='SZA Wallpaper | Gallery posted by     Favgurlzyah     | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7358819143640384005&index=0&sign=6e41b068387e1f8d785b1eafc6c8df94' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic SZA Wallpaper - Digital Prints - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49082479/r/il/ff567b/5837146038/il_1080xN.5837146038_go9k.jpg' alt='Aesthetic SZA Wallpaper - Digital Prints - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49082479/r/il/ff567b/5837146038/il_1080xN.5837146038_go9k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA LOCK SCREEN ✩">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/15/d9/5a/15d95ad2851e04bce07213ff54e967a4.jpg' alt='SZA LOCK SCREEN ✩'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/15/d9/5a/15d95ad2851e04bce07213ff54e967a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sza Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/s-z-a-collage-aesthetic-m8g78uqv2vuhgcvq.jpg' alt='100+] Sza Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/s-z-a-collage-aesthetic-m8g78uqv2vuhgcvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA wallpaper    | Gallery posted by Iamthatgirl | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osQPDE90J9BIbUi7tABA9iA8aAAnhiEZA2mAU~tplv-tej9nj120t-origin.webp' alt='SZA wallpaper    | Gallery posted by Iamthatgirl | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osQPDE90J9BIbUi7tABA9iA8aAAnhiEZA2mAU~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/2/7/39249-1080x2130-iphone-hd-sza-wallpaper-photo.jpg' alt='SZA Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/2/7/39249-1080x2130-iphone-hd-sza-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

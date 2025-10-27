@@ -1,0 +1,129 @@
+<title>Charming Light Pink & White Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover stunning light pink and white wallpaper to enhance your home decor. Perfect for creating a serene and stylish ambiance, explore a variety of patterns and textures that fit seamlessly into any room. Transform your space with this elegant wallpaper choice today!">
+                    <meta name="keywords" content="light pink and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/light-pink-and-white-wallpaper">
+                            <span itemprop="name">light pink and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Light Pink & White Wallpaper for Elegant Interiors</h1>
+                <p>Light pink and white wallpaper adds a touch of elegance and charm to any space. Its soft hues create a soothing atmosphere, perfect for bedrooms or living rooms. Whether you prefer floral patterns, geometric designs, or a simple texture, this wallpaper complements various decor styles, making it an ideal choice for a refreshing home makeover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Roses Wallpaper in Soft Pink on White">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' alt='Romantic Roses Wallpaper in Soft Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Pastel Pink">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?v=1705668684' alt='Classic Stripe Wallpaper in Pastel Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?v=1705668684' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_design_9719e96a-deb7-4f38-901a-4db7fa979473.jpg?v=1633378004' alt=''Françoise Floral' Wallpaper by Clare V. - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_design_9719e96a-deb7-4f38-901a-4db7fa979473.jpg?v=1633378004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4074-87374 Augusta Pink Flock Damask Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/4074-87374AugustaPinkFlockDamaskWallpaper.jpg?v=1675131158' alt='4074-87374 Augusta Pink Flock Damask Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="633">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/4074-87374AugustaPinkFlockDamaskWallpaper.jpg?v=1675131158' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink and White Vertical 2.5in Stripe with Texture Prepasted Wall">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-vertical-25in-stri-jtlx.jpg' alt='Light Pink and White Vertical 2.5in Stripe with Texture Prepasted Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-vertical-25in-stri-jtlx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Pink Floral Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/Floral_76714635_01_f5e210d6-b38d-4392-8171-8fa86bdb0e05-sw_grande.jpg?v=1723298836' alt='White and Pink Floral Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/Floral_76714635_01_f5e210d6-b38d-4392-8171-8fa86bdb0e05-sw_grande.jpg?v=1723298836' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Sketch Floral Peel and Stick Wallpaper Pink Removable 17.5in×10ft  Pale Pink Flower Wall Paper Sticker Light Pink Floral Contact Paper Peel &  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qi3J1Mg7L._AC_UF894,1000_QL80_.jpg' alt='Pastel Sketch Floral Peel and Stick Wallpaper Pink Removable 17.5in×10ft  Pale Pink Flower Wall Paper Sticker Light Pink Floral Contact Paper Peel &  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qi3J1Mg7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Peggy Sue' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_294e9a93-6c84-4b7b-9bbf-3fa7ef03dacc.jpg?v=1615485528' alt=''Peggy Sue' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_294e9a93-6c84-4b7b-9bbf-3fa7ef03dacc.jpg?v=1615485528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/74/9c/15749cd126272b95f047ff8c1b0e9c81.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/74/9c/15749cd126272b95f047ff8c1b0e9c81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mastering Ranger Backgrounds in 5E: A Comprehensive Guide</title>
+                    <meta name="description" content="Discover the intricacies of Ranger backgrounds in D&D 5E! Learn how to enhance gameplay with unique skills, traits, and lore that shape your character. Perfect for players eager to explore nature, survival tactics, and wilderness adventures in the game.">
+                    <meta name="keywords" content="ranger background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ranger-background-5e">
+                            <span itemprop="name">ranger background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Ranger Backgrounds in 5E: A Comprehensive Guide</h1>
+                <p>In Dungeons & Dragons 5th Edition, the Ranger class blends martial prowess with nature-based spells. Rangers excel in tracking, hunting, and using the environment to their advantage. With subclasses like Beast Master or Hunter, Rangers offer unique play styles, becoming adept in survival and combat, embodying the essence of the wilderness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D: Unique Fictional Characters to Base Your Ranger Build on">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/02/dnd-ranger-5e.jpg' alt='D&D: Unique Fictional Characters to Base Your Ranger Build on'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/02/dnd-ranger-5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The DnD 5e Ranger Guide (2022) | Arcane Eye">
+                                <img itemprop="contentUrl url" src='https://arcaneeye.com/wp-content/uploads/2020/06/unnamed1-512x481.jpg' alt='The DnD 5e Ranger Guide (2022) | Arcane Eye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arcane Eye" />
+                                </span>
+                                <a href='https://arcaneeye.com/wp-content/uploads/2020/06/unnamed1-512x481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The D&D 5E Ranger – Fixed – Mythcreants">
+                                <img itemprop="contentUrl url" src='https://mythcreants.com/wp-content/uploads/2020/11/Ranger-1.png' alt='The D&D 5E Ranger – Fixed – Mythcreants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mythcreants" />
+                                </span>
+                                <a href='https://mythcreants.com/wp-content/uploads/2020/11/Ranger-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ranger Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/avatars/thumbnails/43940/840/420/618/638607458991513657.png' alt='The Ranger Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="412">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/avatars/thumbnails/43940/840/420/618/638607458991513657.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranger of the North | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/d9YdllL.jpg' alt='Ranger of the North | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="817">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/d9YdllL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranger | New Monster for Fifth Edition (366 Days of Monsters ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/dmdave.com/wp-content/uploads/2019/06/ranger-psychohunter.png?fit=970%2C545&ssl=1' alt='Ranger | New Monster for Fifth Edition (366 Days of Monsters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMDave Publishing" />
+                                </span>
+                                <a href='https://i0.wp.com/dmdave.com/wp-content/uploads/2019/06/ranger-psychohunter.png?fit=970%2C545&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5e Character Optimization - Ranger - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2016/01/e7317b2c24f1be79448140ef3e51afc1.jpg' alt='D&D 5e Character Optimization - Ranger - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2016/01/e7317b2c24f1be79448140ef3e51afc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5e Character Optimization - Ranger - Tribality">
+                                <img itemprop="contentUrl url" src='https://tribality.com/wp-content/uploads/2016/01/female-ranger-300x240.jpg' alt='D&D 5e Character Optimization - Ranger - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://tribality.com/wp-content/uploads/2016/01/female-ranger-300x240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Focused Ranger | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/RL0wHsa.jpg' alt='The Focused Ranger | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/RL0wHsa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranger | D&D 5e Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dnd-5e/images/e/e3/DND_Art5.png/revision/latest?cb=20221129072133' alt='Ranger | D&D 5e Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D 5e Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dnd-5e/images/e/e3/DND_Art5.png/revision/latest?cb=20221129072133' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

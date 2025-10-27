@@ -1,0 +1,129 @@
+<title>Stunning Dungeons and Dragons iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of stunning Dungeons and Dragons iPhone wallpapers that capture the essence of fantasy and adventure. Perfect for fans, these wallpapers will transform your device while showcasing epic dragons, brave heroes, and mystical realms. Download yours now for a magical experience!">
+                    <meta name="keywords" content="dungeons and dragons iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dungeons-and-dragons-iphone-wallpaper">
+                            <span itemprop="name">dungeons and dragons iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dungeons and Dragons iPhone Wallpapers</h1>
+                <p>Transform your iPhone with captivating Dungeons and Dragons wallpapers that bring fantasy to life. From epic dragons soaring through the skies to enchanting landscapes and heroic characters, find the perfect design to express your love for D&D. Elevate your screen with magic and adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] A Bunch of D&D Phone Wallpapers : r/DnD">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hs0e_lHU15n4PFS9ipbcti7NLU6BF-SHS01-bA-LLqA.jpg?auto=webp&s=9bf8e74b2b1270a094b9ad1949b008bab6638761' alt='OC] A Bunch of D&D Phone Wallpapers : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hs0e_lHU15n4PFS9ipbcti7NLU6BF-SHS01-bA-LLqA.jpg?auto=webp&s=9bf8e74b2b1270a094b9ad1949b008bab6638761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] iPhone Wallpaper - Erol Otis Art from the Basic Rule Set ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4x42c9zwglcz.jpg' alt='Art] iPhone Wallpaper - Erol Otis Art from the Basic Rule Set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4x42c9zwglcz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] iPhone Wallpaper: 1983 Larry Elmore Red Box basic set w/5e ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qj4rive977cz.jpg' alt='Art] iPhone Wallpaper: 1983 Larry Elmore Red Box basic set w/5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qj4rive977cz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dungeons And Dragons Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dungeons-and-dragons-phone-ogy990baidirzrdx.jpg' alt='100+] Dungeons And Dragons Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dungeons-and-dragons-phone-ogy990baidirzrdx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dungeons And Dragons iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13436068.jpg' alt='Dungeons And Dragons iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13436068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Wallpapers based on the isometric DND art by /u ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/ac/78/27ac7827cbb251dea46ad5abb9c82cca.jpg' alt='iPhone X Wallpapers based on the isometric DND art by /u ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/ac/78/27ac7827cbb251dea46ad5abb9c82cca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dungeons Dragons, dice, dm, dnd, dragon, logo, rpg, tabletop, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/709/206/HD-wallpaper-neon-dice-v2-and-bright-dm-dnd-dragons-dungeons-rpg-tabletop-thumbnail.jpg' alt='Dungeons Dragons, dice, dm, dnd, dragon, logo, rpg, tabletop, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/709/206/HD-wallpaper-neon-dice-v2-and-bright-dm-dnd-dragons-dungeons-rpg-tabletop-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="& DND wallpaper by Knner13 - Download on ZEDGE™ | 5232">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/5c/60/595c607ef95136ea161c6ce4ca9af75a.jpg' alt='& DND wallpaper by Knner13 - Download on ZEDGE™ | 5232'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/5c/60/595c607ef95136ea161c6ce4ca9af75a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monter Manual, d20, dungeons, dice, dnd, monstermanual, dungeon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/952/588/HD-wallpaper-monter-manual-d20-dungeons-dice-dnd-monstermanual-dungeon-dragons.jpg' alt='Monter Manual, d20, dungeons, dice, dnd, monstermanual, dungeon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/952/588/HD-wallpaper-monter-manual-d20-dungeons-dice-dnd-monstermanual-dungeon-dragons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dnd Heroes And Red Dragon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dnd-heroes-and-red-dragon-4nbasnhakkg3m4i6.jpg' alt='Dnd Heroes And Red Dragon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dnd-heroes-and-red-dragon-4nbasnhakkg3m4i6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

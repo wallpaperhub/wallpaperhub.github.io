@@ -1,0 +1,129 @@
+<title>Exploring Rococo Style: Elegance and Whimsy</title>
+                    <meta name="description" content="Discover the enchanting rococo style, known for its ornate designs and playful themes. This 18th-century artistic movement celebrates elegance and whimsy across architecture and decor, making it a timeless favorite for lovers of intricate beauty.">
+                    <meta name="keywords" content="rococo style">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rococo-style">
+                            <span itemprop="name">rococo style</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Rococo Style: Elegance and Whimsy</h1>
+                <p>Rococo style, originating in early 18th-century France, is characterized by ornate detailing, playful themes, and elegant curves. This artistic movement reflects a sense of whimsy, focusing on lightness and asymmetrical forms. Common in architecture, interior design, and art, rococo celebrates luxury and intricate craftsmanship, embodying a carefree elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo Style - Furnishings and Architecture">
+                                <img itemprop="contentUrl url" src='https://cdn-ilbljnn.nitrocdn.com/TTAKoHBkGToXeiyBZSVOoWexbXGMYdgC/assets/images/optimized/rev-7f54b3f/htdeco.fr/wp-content/uploads/img/cms/baroque/Style-Rococo-Sieges-et-Ameublement.jpeg' alt='Rococo Style - Furnishings and Architecture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Htdeco" />
+                                </span>
+                                <a href='https://cdn-ilbljnn.nitrocdn.com/TTAKoHBkGToXeiyBZSVOoWexbXGMYdgC/assets/images/optimized/rev-7f54b3f/htdeco.fr/wp-content/uploads/img/cms/baroque/Style-Rococo-Sieges-et-Ameublement.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blog - Rococo Style: Furniture, Painting and Sculpture Guide ...">
+                                <img itemprop="contentUrl url" src='https://www.mayfairgallery.com/media/wysiwyg/fragonard_the_swing.jpg' alt='Blog - Rococo Style: Furniture, Painting and Sculpture Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayfair Gallery" />
+                                </span>
+                                <a href='https://www.mayfairgallery.com/media/wysiwyg/fragonard_the_swing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo-Style Clothing, Accessories & Housewares – Yore Finery">
+                                <img itemprop="contentUrl url" src='https://yorefinery.com/cdn/shop/collections/rococo.png?v=1705656425&width=750' alt='Rococo-Style Clothing, Accessories & Housewares – Yore Finery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yore Finery" />
+                                </span>
+                                <a href='https://yorefinery.com/cdn/shop/collections/rococo.png?v=1705656425&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo Rugs | Rococo Tapestries | Art and Rococo Interiors">
+                                <img itemprop="contentUrl url" src='https://nazmiyalantiquerugs.com/wp-content/uploads/2017/02/rococo-interior-design-nazmiyal.jpg' alt='Rococo Rugs | Rococo Tapestries | Art and Rococo Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nazmiyal Rugs" />
+                                </span>
+                                <a href='https://nazmiyalantiquerugs.com/wp-content/uploads/2017/02/rococo-interior-design-nazmiyal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festsaal_im_Schaezlerpalais.jpg/568px-Festsaal_im_Schaezlerpalais.jpg' alt='Rococo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festsaal_im_Schaezlerpalais.jpg/568px-Festsaal_im_Schaezlerpalais.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Rococo Fashion - fashionabc">
+                                <img itemprop="contentUrl url" src='http://www.fashionabc.org/wp-content/uploads/2025/01/rococo.jpg' alt='What Is Rococo Fashion - fashionabc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fashionabc" />
+                                </span>
+                                <a href='http://www.fashionabc.org/wp-content/uploads/2025/01/rococo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo | Definition, Art, Painting, Architecture ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/95/241695-050-F77A494A/The-Swing-Jean-Honore-Fragonard-1767-1768.jpg' alt='Rococo | Definition, Art, Painting, Architecture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1187">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/95/241695-050-F77A494A/The-Swing-Jean-Honore-Fragonard-1767-1768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rococo | Definition, Art, Painting, Architecture ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/97/108497-004-3D6892C8/room-Rococo-style-Munich-Nymphenburg-palace.jpg' alt='Rococo | Definition, Art, Painting, Architecture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="331">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/97/108497-004-3D6892C8/room-Rococo-style-Munich-Nymphenburg-palace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rococo Style: What is it and What are its Characteristics ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0534/1718/1337/files/germany-old-chapel-alte-kapelle-interior-bavarian-rococo-style.webp?v=1664362016' alt='The Rococo Style: What is it and What are its Characteristics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berbers Market" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0534/1718/1337/files/germany-old-chapel-alte-kapelle-interior-bavarian-rococo-style.webp?v=1664362016' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Rococo Art — Style, Artists & Famous Works Explained">
+                                <img itemprop="contentUrl url" src='https://s.studiobinder.com/wp-content/uploads/2021/01/What-is-Rococo-Art-Style-Artists-and-Famous-Works-Explained-Featured.jpg' alt='What is Rococo Art — Style, Artists & Famous Works Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudioBinder" />
+                                </span>
+                                <a href='https://s.studiobinder.com/wp-content/uploads/2021/01/What-is-Rococo-Art-Style-Artists-and-Famous-Works-Explained-Featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

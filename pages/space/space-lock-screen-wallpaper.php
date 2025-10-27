@@ -1,0 +1,129 @@
+<title>Stunning Space Lock Screen Wallpapers for Every Device</title>
+                    <meta name="description" content="Dive into the cosmos with our captivating space lock screen wallpapers. Featuring breathtaking galaxies and starry skies, these wallpapers will elevate your device's look while bringing the beauty of space to your fingertips. Perfect for anyone who loves the universe!">
+                    <meta name="keywords" content="space lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-lock-screen-wallpaper">
+                            <span itemprop="name">space lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Lock Screen Wallpapers for Every Device</h1>
+                <p>Transform your device with stunning space lock screen wallpapers. Explore mesmerizing cosmic landscapes, vibrant galaxies, and twinkling stars that transport you to the heart of the universe. Perfect for stargazers and dreamers alike, these wallpapers provide a daily escape into the wonders of outer space while enhancing your device's aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space lockscreen hot sale">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j22d02xazwta1.png' alt='Space lockscreen hot sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alika The Saloon" />
+                                </span>
+                                <a href='https://i.redd.it/j22d02xazwta1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Live Lock Screen - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/io6k3uffjh1dLSXDBjeEZ-2zhYMSubIFlheQqDo2RQ4JxN1tbk3gnzWSRrgFAnaCsQ' alt='Space Live Lock Screen - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/io6k3uffjh1dLSXDBjeEZ-2zhYMSubIFlheQqDo2RQ4JxN1tbk3gnzWSRrgFAnaCsQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Galaxy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/29/c2/d929c2a93e0ee31862a8ee7365322698.jpg' alt='Beautiful Galaxy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/29/c2/d929c2a93e0ee31862a8ee7365322698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Mobile Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/earth-mobile-lock-screen-2e90qb06m0udlb1t.jpg' alt='Earth Mobile Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/earth-mobile-lock-screen-2e90qb06m0udlb1t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Space Home Screen and Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/deep-space.png' alt='Deep Space Home Screen and Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/deep-space.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space planet Earth Lockscreen Samsung">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/46/36/9f463640c93fc90efc5dd1fc3d18366a.jpg' alt='Space planet Earth Lockscreen Samsung'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/46/36/9f463640c93fc90efc5dd1fc3d18366a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oneplus 7 Astronaut Lock Screen Wallpaper by Lusifuregor on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05cb9ecf-be27-4090-a230-c69c5a2b6d32/degp6f8-6b6d239c-1d8c-4c93-890a-61eabd3f6812.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1Y2I5ZWNmLWJlMjctNDA5MC1hMjMwLWM2OWM1YTJiNmQzMlwvZGVncDZmOC02YjZkMjM5Yy0xZDhjLTRjOTMtODkwYS02MWVhYmQzZjY4MTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BdvIqLugw112OJGHsiZqLIL6ZPpIpuoqTNL0ugXIEeg' alt='Oneplus 7 Astronaut Lock Screen Wallpaper by Lusifuregor on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05cb9ecf-be27-4090-a230-c69c5a2b6d32/degp6f8-6b6d239c-1d8c-4c93-890a-61eabd3f6812.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1Y2I5ZWNmLWJlMjctNDA5MC1hMjMwLWM2OWM1YTJiNmQzMlwvZGVncDZmOC02YjZkMjM5Yy0xZDhjLTRjOTMtODkwYS02MWVhYmQzZjY4MTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BdvIqLugw112OJGHsiZqLIL6ZPpIpuoqTNL0ugXIEeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut space, charge, charging, earth, lockscreen, planet ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/64/667/HD-wallpaper-astronaut-space-charge-charging-earth-lockscreen-planet-realme.jpg' alt='Astronaut space, charge, charging, earth, lockscreen, planet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/64/667/HD-wallpaper-astronaut-space-charge-charging-earth-lockscreen-planet-realme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Earth In Space Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-iphone-lock-screen-rt71xd7xi2d2rjdf.jpg' alt='Download Earth In Space Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-iphone-lock-screen-rt71xd7xi2d2rjdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S5 Space Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/galaxy-s5-space-lock-screen-qr0rjaoul6esk2jm.jpg' alt='Galaxy S5 Space Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/galaxy-s5-space-lock-screen-qr0rjaoul6esk2jm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

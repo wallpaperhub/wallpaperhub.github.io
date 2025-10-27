@@ -1,0 +1,129 @@
+<title>Chic Girly Home Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best selection of girly home screen wallpapers that perfectly match your style! Choose from vibrant colors, floral patterns, and trendy designs to personalize your phone. Make your device a reflection of your personality with these eye-catching wallpapers. Explore now!">
+                    <meta name="keywords" content="girly home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/girly-home-screen-wallpaper">
+                            <span itemprop="name">girly home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Girly Home Screen Wallpapers for Your Phone</h1>
+                <p>Transform your phone with girly home screen wallpapers that showcase your personality! From floral designs to pastel colors and whimsical patterns, find the perfect backdrop that adds a touch of charm. Express your style with unique wallpapers that inspire joy and creativity every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGTUMZha0/1/0/900w/canva-pink-flowers-girly-phone-wallpaper-_gyE0MitQ_8.jpg' alt='Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGTUMZha0/1/0/900w/canva-pink-flowers-girly-phone-wallpaper-_gyE0MitQ_8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly glitter wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81s8oFZfQwL.jpg' alt='Girly glitter wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81s8oFZfQwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFibLHakMU/1/0/900w/canva-pink-white-cute-girly-elegant-summer-floral-daisy-phone-wallpaper-5K6Icg8ymGU.jpg' alt='Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFibLHakMU/1/0/900w/canva-pink-white-cute-girly-elegant-summer-floral-daisy-phone-wallpaper-5K6Icg8ymGU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Star For Girl Phone Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pink-star-for-girl-phone-screen-pjyfp9owrxn5ixfo.webp' alt='Pink Star For Girl Phone Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pink-star-for-girl-phone-screen-pjyfp9owrxn5ixfo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Girly Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/girly-lock-screen-4f1gw9h3c7yh32xe.jpg' alt='100+] Girly Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/girly-lock-screen-4f1gw9h3c7yh32xe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts In Cute Girly Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pink-hearts-in-cute-girly-screen-z0z5noaj2qdpze8k.jpg' alt='Pink Hearts In Cute Girly Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pink-hearts-in-cute-girly-screen-z0z5noaj2qdpze8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Cute Fun Gold iPhone Lock Screen Home Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5805937/r/il/74b0c8/3339863102/il_fullxfull.3339863102_mrj3.jpg' alt='Pink Marble Cute Fun Gold iPhone Lock Screen Home Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2004">
+                                <meta itemprop="height" content="2168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5805937/r/il/74b0c8/3339863102/il_fullxfull.3339863102_mrj3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Pink Rose and Accessories Wallpaper [8821e2243e924ba7bd6c ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f1c8cbcb68952c336638f51db04246f5/mR6XJsTUzwo3eD8xru7I.jpg?q=70&w=500' alt='Pretty Pink Rose and Accessories Wallpaper [8821e2243e924ba7bd6c ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/f1c8cbcb68952c336638f51db04246f5/mR6XJsTUzwo3eD8xru7I.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cute Girly Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/3a/3a/f33a3aa096e94f0874b1956214877bf0.jpg' alt='Awesome Cute Girly Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/3a/3a/f33a3aa096e94f0874b1956214877bf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girly Lock Screen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-girly-lock-screen-iphone-013icv9r1yb4i8vf.jpg' alt='Cute Girly Lock Screen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-girly-lock-screen-iphone-013icv9r1yb4i8vf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

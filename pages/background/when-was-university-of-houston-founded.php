@@ -1,0 +1,129 @@
+<title>University of Houston: History & Founding Year</title>
+                    <meta name="description" content="Discover the origins of the University of Houston, founded in 1927. Learn about its evolution from a junior college to a leading research institution, and explore its contributions to education and innovation in Texas and beyond.">
+                    <meta name="keywords" content="when was university of houston founded">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-university-of-houston-founded">
+                            <span itemprop="name">when was university of houston founded</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>University of Houston: History & Founding Year</h1>
+                <p>The University of Houston was founded in 1927, originally starting as a junior college before transitioning into a four-year institution. Over the decades, it has grown significantly, becoming a major public research university, dedicated to providing high-quality education and fostering innovation in various fields.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Establishing the University of Houston | Houston History Magazine">
+                                <img itemprop="contentUrl url" src='https://houstonhistorymagazine.org/wp-content/uploads/2022/02/Drawing-RCG-1938-783x1024.jpg' alt='Establishing the University of Houston | Houston History Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston History Magazine" />
+                                </span>
+                                <a href='https://houstonhistorymagazine.org/wp-content/uploads/2022/02/Drawing-RCG-1938-783x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of University of Houston - Texas Proud">
+                                <img itemprop="contentUrl url" src='https://texasproud.com/files/2020/12/uh-1934.jpg' alt='The History of University of Houston - Texas Proud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Proud" />
+                                </span>
+                                <a href='https://texasproud.com/files/2020/12/uh-1934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historical Timeline - University of Houston">
+                                <img itemprop="contentUrl url" src='https://uh.edu/nsm/about/historical-timeline/images/historicalTimeline-1939-science.jpg' alt='Historical Timeline - University of Houston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Houston" />
+                                </span>
+                                <a href='https://uh.edu/nsm/about/historical-timeline/images/historicalTimeline-1939-science.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Houston - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_Houston_seal.svg/800px-University_of_Houston_seal.svg.png' alt='University of Houston - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_Houston_seal.svg/800px-University_of_Houston_seal.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The People's University: UH Alumni Memories Through the Decades ...">
+                                <img itemprop="contentUrl url" src='https://houstonhistorymagazine.org/wp-content/uploads/2012/11/students-e-cullen.jpg' alt='The People's University: UH Alumni Memories Through the Decades ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5697">
+                                <meta itemprop="height" content="4455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston History Magazine" />
+                                </span>
+                                <a href='https://houstonhistorymagazine.org/wp-content/uploads/2012/11/students-e-cullen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Establishing the University of Houston | Houston History Magazine">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ua9gjnjltj4/maxresdefault.jpg' alt='Establishing the University of Houston | Houston History Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston History Magazine" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ua9gjnjltj4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Houston on X: "Today is the University of Houston's ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GIEqhYFWEAEUP3X?format=jpg&name=4096x4096' alt='University of Houston on X: "Today is the University of Houston's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GIEqhYFWEAEUP3X?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - University of Houston">
+                                <img itemprop="contentUrl url" src='https://uh.edu/fiesta/_images/history2.jpg' alt='History - University of Houston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Houston" />
+                                </span>
+                                <a href='https://uh.edu/fiesta/_images/history2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UH at 85 | Houston History Magazine">
+                                <img itemprop="contentUrl url" src='https://houstonhistorymagazine.org/wp-content/uploads/2012/11/03SJ-UofH0421.jpg' alt='UH at 85 | Houston History Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston History Magazine" />
+                                </span>
+                                <a href='https://houstonhistorymagazine.org/wp-content/uploads/2012/11/03SJ-UofH0421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historical Timeline - University of Houston">
+                                <img itemprop="contentUrl url" src='https://uh.edu/nsm/about/historical-timeline/images/historicalTimeline-1969-sr1.jpg' alt='Historical Timeline - University of Houston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Houston" />
+                                </span>
+                                <a href='https://uh.edu/nsm/about/historical-timeline/images/historicalTimeline-1969-sr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Add a Beautiful Frame to Your Photos for Stunning Results</title>
+                    <meta name="description" content="Transform your photos with the perfect frame! Learn how to choose and add a frame that enhances your image and fits your style. Discover tips and ideas to elevate your photography game today!">
+                    <meta name="keywords" content="add frame to photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/add-frame-to-photo">
+                            <span itemprop="name">add frame to photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Add a Beautiful Frame to Your Photos for Stunning Results</h1>
+                <p>Adding a frame to your photo is a simple yet effective way to enhance its appeal and create a polished look. Whether you choose a classic black frame or a colorful, artistic design, the right frame can highlight the subject and complement any decor. Explore various styles to find the perfect match for your cherished memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Frames: BeFunky - Free Online Photo Frame Effects">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/5d4891cf-1f45-4ebb-91b0-6a3c8de3b770_hero-photo-frames.jpg?auto=avif,webp&format=jpg&width=896' alt='Photo Frames: BeFunky - Free Online Photo Frame Effects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/5d4891cf-1f45-4ebb-91b0-6a3c8de3b770_hero-photo-frames.jpg?auto=avif,webp&format=jpg&width=896' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add a Photo Frame Effect To Your Pictures - Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1271943/frame.5a12f968.jpg' alt='Add a Photo Frame Effect To Your Pictures - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1271943/frame.5a12f968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Frame to Photo : 6 Steps - Instructables">
+                                <img itemprop="contentUrl url" src='https://content.instructables.com/FRI/C25R/KZ9UKRXV/FRIC25RKZ9UKRXV.jpg?auto=webp&fit=bounds&frame=1' alt='Add Frame to Photo : 6 Steps - Instructables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instructables" />
+                                </span>
+                                <a href='https://content.instructables.com/FRI/C25R/KZ9UKRXV/FRIC25RKZ9UKRXV.jpg?auto=webp&fit=bounds&frame=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Frames: BeFunky - Free Online Photo Frame Effects">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/e196bd7f-9d0b-45a2-89c9-a1baba539522_landing-photo-frames-img-1.png?auto=avif,webp&format=jpg&width=863' alt='Photo Frames: BeFunky - Free Online Photo Frame Effects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/e196bd7f-9d0b-45a2-89c9-a1baba539522_landing-photo-frames-img-1.png?auto=avif,webp&format=jpg&width=863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add a Photo Frame Effect To Your Pictures - Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1271940/6.png' alt='Add a Photo Frame Effect To Your Pictures - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1271940/6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Borders to Photos | Photo Border App | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2022-12-01/6940a27f-efa9-44bc-9118-56a8babf314f.jpg' alt='How to Add Borders to Photos | Photo Border App | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2022-12-01/6940a27f-efa9-44bc-9118-56a8babf314f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Online Editing Tools to Add Frames to Photos Online">
+                                <img itemprop="contentUrl url" src='https://p16-capcut-va.ibyteimg.com/tos-maliva-i-6rr7idwo9f-us/1703582407168.image~tplv-6rr7idwo9f-image.image' alt='Best Online Editing Tools to Add Frames to Photos Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CapCut" />
+                                </span>
+                                <a href='https://p16-capcut-va.ibyteimg.com/tos-maliva-i-6rr7idwo9f-us/1703582407168.image~tplv-6rr7idwo9f-image.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add picture frame to an image | Free Online Image Editor">
+                                <img itemprop="contentUrl url" src='https://www.online-image-editor.com/help/images/picture_frames_04.png' alt='Add picture frame to an image | Free Online Image Editor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Online Image Editor" />
+                                </span>
+                                <a href='https://www.online-image-editor.com/help/images/picture_frames_04.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Frame Editor: Add Frame to Photo Online for Free | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/side/Add-picture-frames-to-photos-and-combine-them-as-wall-decorations-for-your-home.jpg' alt='Photo Frame Editor: Add Frame to Photo Online for Free | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/side/Add-picture-frames-to-photos-and-combine-them-as-wall-decorations-for-your-home.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Frame Editor: Add Frame to Photo Online for Free | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/side/Add-a-photo-frame-to-a-girls-photo-on-mobile-and-computer.jpg' alt='Photo Frame Editor: Add Frame to Photo Online for Free | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/side/Add-a-photo-frame-to-a-girls-photo-on-mobile-and-computer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

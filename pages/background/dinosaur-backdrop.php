@@ -1,0 +1,129 @@
+<title>Dinosaur Backdrop: Bring Prehistoric Adventure to Life</title>
+                    <meta name="description" content="Discover the perfect dinosaur backdrop to elevate your event! Ideal for parties, classrooms, or playrooms, our vibrant designs spark imagination and adventure. Easy to install and a great conversation starter, this backdrop will transform your space and delight dinosaur enthusiasts of all ages!">
+                    <meta name="keywords" content="dinosaur backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinosaur-backdrop">
+                            <span itemprop="name">dinosaur backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dinosaur Backdrop: Bring Prehistoric Adventure to Life</h1>
+                <p>Transform your space with a vibrant dinosaur backdrop that brings the prehistoric era to life! Perfect for parties, classrooms, or themed events, this backdrop features detailed illustrations of dinosaurs in their natural habitats. Capture the imagination of kids and adults alike with a stunning visual focal point that sparks creativity and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Dinosaur Photo Backdrop, Dinosaur Park Theme Backdrop, Dinosaur  Photography Background for Boy Girl Birthday Party Banner Newborn Baby  Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81WLPRTE5BL._AC_UF894,1000_QL80_.jpg' alt='7x5ft Dinosaur Photo Backdrop, Dinosaur Park Theme Backdrop, Dinosaur  Photography Background for Boy Girl Birthday Party Banner Newborn Baby  Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81WLPRTE5BL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Birthday">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/files/WHM2888x5dinosaurbackdrop_1800x1800.jpg?v=1698635819' alt='Dinosaur Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/files/WHM2888x5dinosaurbackdrop_1800x1800.jpg?v=1698635819' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Jungle Dinosaur Backdrop Green for Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/Kate_Jungle_Dinosaur_Backdrop_Green_for_Photography_6.5x6.5ft_BH1030732G.jpg?v=1631330097&width=938' alt='Kate Jungle Dinosaur Backdrop Green for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/Kate_Jungle_Dinosaur_Backdrop_Green_for_Photography_6.5x6.5ft_BH1030732G.jpg?v=1631330097&width=938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Dinosaur Photography Backdrop Kids Birthday Party Photo Background  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/L1IAAOSwcapewBUq/s-l1200.jpg' alt='Cartoon Dinosaur Photography Backdrop Kids Birthday Party Photo Background  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/L1IAAOSwcapewBUq/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Dinosaur Backdrops for Event | 3-Piece Arched Set">
+                                <img itemprop="contentUrl url" src='http://sensfunbackdrops.com/cdn/shop/files/dinosaur-arch-backdrop-set.webp?v=1729498252' alt='Realistic Dinosaur Backdrops for Event | 3-Piece Arched Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sensfun" />
+                                </span>
+                                <a href='http://sensfunbackdrops.com/cdn/shop/files/dinosaur-arch-backdrop-set.webp?v=1729498252' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Ladvis Dinosaur Theme Backdrop, Happy Birthday Dinosaur Photo  Background Tropical Jungle Decor Dino Party Decorations Prehistoric Party  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814cOcQlmbL.jpg' alt='Amazon.com : Ladvis Dinosaur Theme Backdrop, Happy Birthday Dinosaur Photo  Background Tropical Jungle Decor Dino Party Decorations Prehistoric Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814cOcQlmbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Backdrop, Dinosaur Birthday, Dinosaur Party, Dinosaur ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12802782/r/il/ced6ec/5138329887/il_fullxfull.5138329887_pw4q.jpg' alt='Dinosaur Backdrop, Dinosaur Birthday, Dinosaur Party, Dinosaur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12802782/r/il/ced6ec/5138329887/il_fullxfull.5138329887_pw4q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land of Dinosaurs">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/files/WHM42080x60dinosaurcakesmashbackdrop.jpg?v=1713762199' alt='Land of Dinosaurs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/files/WHM42080x60dinosaurcakesmashbackdrop.jpg?v=1713762199' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Wall Mural Backdrop">
+                                <img itemprop="contentUrl url" src='https://api.windycitynovelties.com/Data/Media/Catalog/600/39256166-82e4-4314-b8c2-935d6bd64bb6dec54984ea-dinosaur%20backdrop%205ft%20x%206ft-master.jpg' alt='Dinosaur Wall Mural Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windy City Novelties" />
+                                </span>
+                                <a href='https://api.windycitynovelties.com/Data/Media/Catalog/600/39256166-82e4-4314-b8c2-935d6bd64bb6dec54984ea-dinosaur%20backdrop%205ft%20x%206ft-master.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Boho Dinosaur Photography Backdrop, Bohemian, Pampas ...">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/Dino_Neutral_Balloons_LB_Jessica_Ruth_Photography.jpg' alt='Neutral Boho Dinosaur Photography Backdrop, Bohemian, Pampas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/Dino_Neutral_Balloons_LB_Jessica_Ruth_Photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

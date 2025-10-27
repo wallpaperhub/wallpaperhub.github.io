@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Washington D.C.</title>
+                    <meta name="description" content="Explore the fascinating history and political significance of Washington D.C. Uncover the stories behind iconic landmarks, diverse communities, and America’s capital heritage in this concise guide tailored for mobile users.">
+                    <meta name="keywords" content="washington dc background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/washington-dc-background">
+                            <span itemprop="name">washington dc background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Washington D.C.</h1>
+                <p>Washington D.C., the capital of the United States, is rich in history and political significance. Established in 1790, it houses iconic landmarks like the White House, Capitol Hill, and the Lincoln Memorial. As a hub of cultural and national heritage, D.C. reflects the country's democratic values and is home to diverse communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,400+ Washington Dc Cherry Blossoms Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/627202312/photo/washington-dc-in-spring.jpg?s=612x612&w=0&k=20&c=Y4ZM2uPmgDVpWde9tuh0hCJ1f1Ii9e4yXAvwK77YlQo=' alt='7,400+ Washington Dc Cherry Blossoms Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/627202312/photo/washington-dc-in-spring.jpg?s=612x612&w=0&k=20&c=Y4ZM2uPmgDVpWde9tuh0hCJ1f1Ii9e4yXAvwK77YlQo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ Washington Dc Night Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332550848/photo/aerial-view-of-washington-dc-with-a-full-moon.jpg?s=612x612&w=0&k=20&c=vc1PXOhjXCGr--z_HFrOp8IlGPnuC8gLDkJFG8mLH9M=' alt='6,500+ Washington Dc Night Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332550848/photo/aerial-view-of-washington-dc-with-a-full-moon.jpg?s=612x612&w=0&k=20&c=vc1PXOhjXCGr--z_HFrOp8IlGPnuC8gLDkJFG8mLH9M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Washington Dc Pictures | Download Free Images & Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1617581629397-a72507c3de9e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2FzaGluZ3RvbiUyMGRjfGVufDB8fDB8fHww' alt='100+ Washington Dc Pictures | Download Free Images & Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1617581629397-a72507c3de9e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2FzaGluZ3RvbiUyMGRjfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, DC Zoom Meeting Backgrounds | Washington DC">
+                                <img itemprop="contentUrl url" src='https://washington.org/sites/default/files/2021-01/Zoom_DC%20skyline.png' alt='Washington, DC Zoom Meeting Backgrounds | Washington DC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://washington.org/sites/default/files/2021-01/Zoom_DC%20skyline.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Washington Dc Pictures | Download Free Images & Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1694475191764-09f8c42f7a58?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2FzaGluZ3RvbiUyMGRjfGVufDB8fDB8fHww' alt='100+ Washington Dc Pictures | Download Free Images & Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1694475191764-09f8c42f7a58?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2FzaGluZ3RvbiUyMGRjfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington Dc Skyline Images – Browse 41,998 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/84/67/67/360_F_84676723_FSBa8RY636alUZtfAmdMPdXvZ0ybDRxJ.jpg' alt='Washington Dc Skyline Images – Browse 41,998 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/84/67/67/360_F_84676723_FSBa8RY636alUZtfAmdMPdXvZ0ybDRxJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000+ Washington Dc Fall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1668588606/photo/washington-dc-in-the-fall.jpg?s=612x612&w=0&k=20&c=RqvpWDEeVHDaKc4Fy0esFKfiIjCCW9PjIjQ0QBPRdk4=' alt='5,000+ Washington Dc Fall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1668588606/photo/washington-dc-in-the-fall.jpg?s=612x612&w=0&k=20&c=RqvpWDEeVHDaKc4Fy0esFKfiIjCCW9PjIjQ0QBPRdk4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usa, Washington Dc Skyline, Night With Greeting Card by James P. Blair">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/2/usa-washington-dc-skyline-night-with-james-p-blair.jpg' alt='Usa, Washington Dc Skyline, Night With Greeting Card by James P. Blair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/2/usa-washington-dc-skyline-night-with-james-p-blair.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, D.C. Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/4/9/293340-3840x2160-desktop-4k-washington-dc-background-photo.jpg' alt='Washington, D.C. Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/4/9/293340-3840x2160-desktop-4k-washington-dc-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington Dc Skyline Images – Browse 41,998 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/62/97/36/360_F_262973652_ptypaeqnjOtAMhQmVcAZZ31VI7mNI1zy.jpg' alt='Washington Dc Skyline Images – Browse 41,998 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/62/97/36/360_F_262973652_ptypaeqnjOtAMhQmVcAZZ31VI7mNI1zy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

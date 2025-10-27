@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Purple Brand Wallpaper</title>
+                    <meta name="description" content="Discover exquisite purple brand wallpaper to enhance your home or office. Choose from a wide range of shades and designs to match your decor style. Shop now for a vibrant and stylish transformation!">
+                    <meta name="keywords" content="purple brand wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-brand-wallpaper">
+                            <span itemprop="name">purple brand wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Purple Brand Wallpaper</h1>
+                <p>Transform your space with stunning purple brand wallpaper! Perfect for adding a touch of elegance and creativity to your home or office. Available in various shades, patterns, and textures, it can complement any decor style - from modern to classic. Upgrade your walls and make a bold statement with vibrant hues of purple!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE (@purple_brand) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/purple_brand/profile_pic.jpg' alt='PURPLE (@purple_brand) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/purple_brand/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/2d/69/9e2d6948ea9ea13242187f786fff7b03.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/2d/69/9e2d6948ea9ea13242187f786fff7b03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Purple Brand Ideas | purple wallpaper, dark purple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/eb/ac/d0/ebacd0fb6f598bac1cd80a758111aa34.jpg' alt='23 Purple Brand Ideas | purple wallpaper, dark purple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/eb/ac/d0/ebacd0fb6f598bac1cd80a758111aa34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camo purple supreme, black, brand, cool, designer, famous, red ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/730/HD-wallpaper-camo-purple-supreme-black-brand-cool-designer-famous-red-white-thumbnail.jpg' alt='Camo purple supreme, black, brand, cool, designer, famous, red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/730/HD-wallpaper-camo-purple-supreme-black-brand-cool-designer-famous-red-white-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike logo, purple background, Nike 3d logo, 3d art, Nike, brands ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/59/963/HD-wallpaper-nike-logo-purple-background-nike-3d-logo-3d-art-nike-brands-logo-purple-3d-nike-logo.jpg' alt='Nike logo, purple background, Nike 3d logo, 3d art, Nike, brands ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/59/963/HD-wallpaper-nike-logo-purple-background-nike-3d-logo-3d-art-nike-brands-logo-purple-3d-nike-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Purple Brand Ideas | purple wallpaper, dark purple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3e/99/8e/3e998ef20a5571f48d4f7fd801132e5c.jpg' alt='23 Purple Brand Ideas | purple wallpaper, dark purple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3e/99/8e/3e998ef20a5571f48d4f7fd801132e5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple lit adidas, brands, galaxy, logos, neon, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/286/834/HD-wallpaper-purple-lit-adidas-brands-galaxy-logos-neon-thumbnail.jpg' alt='Purple lit adidas, brands, galaxy, logos, neon, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/286/834/HD-wallpaper-purple-lit-adidas-brands-galaxy-logos-neon-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✖️ Off-White Brand Wallpaper - Purple Spray Black Background for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2020/08/streetwear-off-white-purple-spray-wallpaper-scaled.jpg' alt='✖️ Off-White Brand Wallpaper - Purple Spray Black Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2020/08/streetwear-off-white-purple-spray-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Luxury Brands Versace Purple Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luxury-brands-fe4jggmalpmx5i9s.jpg' alt='Download Luxury Brands Versace Purple Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luxury-brands-fe4jggmalpmx5i9s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/625/144/HD-wallpaper-supreme-purple.jpg' alt='Supreme Purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/625/144/HD-wallpaper-supreme-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

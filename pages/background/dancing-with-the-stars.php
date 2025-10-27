@@ -1,0 +1,129 @@
+<title>Dancing with the Stars: Where Celebrities Shine on the Dance Floor</title>
+                    <meta name="description" content="Join the excitement of Dancing with the Stars as celebrities pair with pros to wow audiences with dazzling performances. Experience thrilling dances, heartfelt moments, and fierce competition for the iconic mirrorball trophy! Don't miss the spotlight as stars take on the dance floor each week!">
+                    <meta name="keywords" content="dancing with the stars">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dancing-with-the-stars">
+                            <span itemprop="name">dancing with the stars</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dancing with the Stars: Where Celebrities Shine on the Dance Floor</h1>
+                <p>Dancing with the Stars is an exhilarating fusion of celebrity and dance, where stars team up with professional dancers to compete in an electrifying ballroom showdown. Each week, they showcase stunning routines, charming personalities, and fierce competition, all while capturing the audience's heart and striving for the coveted mirrorball trophy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing with the Stars (TV Series 2005– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BY2E1ZmQ4N2MtNmUzNy00ZWNkLThhMjAtMzc4MGVjMmM0MjRjXkEyXkFqcGc@._V1_.jpg' alt='Dancing with the Stars (TV Series 2005– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BY2E1ZmQ4N2MtNmUzNy00ZWNkLThhMjAtMzc4MGVjMmM0MjRjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing with the Stars' 2023: Which season 32 pros have the most ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/7e545501-d7a9-4f79-9791-edeefc04bebf/dwts-1-abc-bb-230913_1694635320981_hpMain_16x9.jpg?w=992' alt='Dancing with the Stars' 2023: Which season 32 pros have the most ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/7e545501-d7a9-4f79-9791-edeefc04bebf/dwts-1-abc-bb-230913_1694635320981_hpMain_16x9.jpg?w=992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing With The Stars - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/bzazpfiKkdPMgKjYhHvHvwO9xw2DKFWLM4Hdh4d2It_qmuJaxP3rkMIP9GKnW8qTkazVvMQG=s900-c-k-c0x00ffffff-no-rj' alt='Dancing With The Stars - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/bzazpfiKkdPMgKjYhHvHvwO9xw2DKFWLM4Hdh4d2It_qmuJaxP3rkMIP9GKnW8qTkazVvMQG=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing With the Stars - ABC & Disney+ Reality Series - Where To Watch">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/p187511_b_h8_ah.jpg?w=960&h=540' alt='Dancing With the Stars - ABC & Disney+ Reality Series - Where To Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/p187511_b_h8_ah.jpg?w=960&h=540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was This the Best Season of 'Dancing with the Stars' Ever? | Vogue">
+                                <img itemprop="contentUrl url" src='http://assets.vogue.com/photos/619c038d7d222640a1ed29c3/master/pass/dwts:storypromo.jpeg' alt='Was This the Best Season of 'Dancing with the Stars' Ever? | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2401">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='http://assets.vogue.com/photos/619c038d7d222640a1ed29c3/master/pass/dwts:storypromo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DANCING WITH THE STARS SEASON 33 CAST REVIEW – Knight Errant">
+                                <img itemprop="contentUrl url" src='https://bsmknighterrant.org/wp-content/uploads/2024/10/dance.png' alt='DANCING WITH THE STARS SEASON 33 CAST REVIEW – Knight Errant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knight Errant" />
+                                </span>
+                                <a href='https://bsmknighterrant.org/wp-content/uploads/2024/10/dance.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing With the Stars' season 25 pros revealed: Exclusive list ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/Entertainment/dwts-pro-announcement-02-abc-jef-170823_16x9_992.jpg' alt='Dancing With the Stars' season 25 pros revealed: Exclusive list ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/Entertainment/dwts-pro-announcement-02-abc-jef-170823_16x9_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing With The Stars' Confirms Judges For Season 33">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2024/08/170360_CW_00021.jpg' alt='Dancing With The Stars' Confirms Judges For Season 33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2024/08/170360_CW_00021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Dancing with the Stars | Full Episodes | Disney+">
+                                <img itemprop="contentUrl url" src='https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7BD36AB0E51F5BA9A3A16B6DE0706C5C74807E88BCFD021ADAD635D954F67106/scale?width=1200&aspectRatio=1.78&format=webp' alt='Watch Dancing with the Stars | Full Episodes | Disney+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Plus" />
+                                </span>
+                                <a href='https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7BD36AB0E51F5BA9A3A16B6DE0706C5C74807E88BCFD021ADAD635D954F67106/scale?width=1200&aspectRatio=1.78&format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing With the Stars' Monster Night: Who Went Home on Halloween ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/11/dancing-with-the-stars-monster-night-who-went-home-on-halloween-feature-001.jpg?quality=86&strip=all' alt='Dancing With the Stars' Monster Night: Who Went Home on Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/11/dancing-with-the-stars-monster-night-who-went-home-on-halloween-feature-001.jpg?quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

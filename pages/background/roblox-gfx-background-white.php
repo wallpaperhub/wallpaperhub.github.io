@@ -1,0 +1,129 @@
+<title>Stunning Roblox GFX: White Backgrounds for Your Creations</title>
+                    <meta name="description" content="Discover the perfect white backgrounds for your Roblox GFX projects. Enhance your images and make your characters stand out with clean, modern aesthetics that elevate your visuals. Ideal for game designs, screenshots, and personal creations, find the best GFX backgrounds now!">
+                    <meta name="keywords" content="roblox gfx background white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/roblox-gfx-background-white">
+                            <span itemprop="name">roblox gfx background white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Roblox GFX: White Backgrounds for Your Creations</h1>
+                <p>Roblox GFX background white offers a clean and modern aesthetic that enhances your Roblox creations. Perfect for showcasing characters or game screenshots, a white background makes colors pop and provides focus. Whether you're creating graphics for a game or a personal project, a white backdrop elevates your visual presentation effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White background for roblox gfxs free to use by Nancyrbx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5613351-3a61-4da2-89ef-7e1a422a868c/dht911w-40e6ca7e-fc6e-4938-9573-8eb027dff2a7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NjEzMzUxLTNhNjEtNGRhMi04OWVmLTdlMWE0MjJhODY4Y1wvZGh0OTExdy00MGU2Y2E3ZS1mYzZlLTQ5MzgtOTU3My04ZWIwMjdkZmYyYTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._lF-VzijN9tQj43nMuxpuvgy93kRjETee181tq9k86A' alt='White background for roblox gfxs free to use by Nancyrbx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5613351-3a61-4da2-89ef-7e1a422a868c/dht911w-40e6ca7e-fc6e-4938-9573-8eb027dff2a7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NjEzMzUxLTNhNjEtNGRhMi04OWVmLTdlMWE0MjJhODY4Y1wvZGh0OTExdy00MGU2Y2E3ZS1mYzZlLTQ5MzgtOTU3My04ZWIwMjdkZmYyYTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._lF-VzijN9tQj43nMuxpuvgy93kRjETee181tq9k86A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/dc/78/fcdc7889097705ed83aae6dde42f5031.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/dc/78/fcdc7889097705ed83aae6dde42f5031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white Roblox gfx by regi0n on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e7c98ec-e125-4d2a-942b-b1dfdb0f65ed/dfvhiks-4c3e7968-f579-4b0b-a171-5fb91df14d5b.png/v1/fill/w_894,h_894,q_70,strp/black_and_white_roblox_gfx_by_regi0n_dfvhiks-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzJlN2M5OGVjLWUxMjUtNGQyYS05NDJiLWIxZGZkYjBmNjVlZFwvZGZ2aGlrcy00YzNlNzk2OC1mNTc5LTRiMGItYTE3MS01ZmI5MWRmMTRkNWIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W8494jAgrtkcwWQozHNLg2mRaKej41WgMbtVdwsjUdo' alt='Black and white Roblox gfx by regi0n on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e7c98ec-e125-4d2a-942b-b1dfdb0f65ed/dfvhiks-4c3e7968-f579-4b0b-a171-5fb91df14d5b.png/v1/fill/w_894,h_894,q_70,strp/black_and_white_roblox_gfx_by_regi0n_dfvhiks-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzJlN2M5OGVjLWUxMjUtNGQyYS05NDJiLWIxZGZkYjBmNjVlZFwvZGZ2aGlrcy00YzNlNzk2OC1mNTc5LTRiMGItYTE3MS01ZmI5MWRmMTRkNWIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W8494jAgrtkcwWQozHNLg2mRaKej41WgMbtVdwsjUdo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gfx background roblox">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/d6/49/10d64933a4d7193e6c081f45077a39e6.jpg' alt='Gfx background roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/d6/49/10d64933a4d7193e6c081f45077a39e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Specific Roblox Logo background - Art Design Support - Developer ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/8/c/4/8c4c82c41a83dd4d7cf1b7f5abbc1ce9e8336db9.png' alt='Specific Roblox Logo background - Art Design Support - Developer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/8/c/4/8c4c82c41a83dd4d7cf1b7f5abbc1ce9e8336db9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fun 3D Gfx on Roblox | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/roblox-gfx-1920-x-1080-background-a06vwtu2par0juhc.jpg' alt='Download Fun 3D Gfx on Roblox | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/roblox-gfx-1920-x-1080-background-a06vwtu2par0juhc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 WHITE GFX BACKGROUNDS ideas | gfx roblox background, white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/49/54/69/4954690711d7c557490dc43301c161d1.jpg' alt='28 WHITE GFX BACKGROUNDS ideas | gfx roblox background, white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/49/54/69/4954690711d7c557490dc43301c161d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black background for roblox gfxs free to use by Nancyrbx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5613351-3a61-4da2-89ef-7e1a422a868c/dht9194-92059c0d-1dbb-4d5c-8cca-6b002d05302b.png/v1/fill/w_500,h_500,q_80,strp/black_background_for_roblox_gfxs_free_to_use__by_nancyrbx_dht9194-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvYTU2MTMzNTEtM2E2MS00ZGEyLTg5ZWYtN2UxYTQyMmE4NjhjXC9kaHQ5MTk0LTkyMDU5YzBkLTFkYmItNGQ1Yy04Y2NhLTZiMDAyZDA1MzAyYi5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.i-ajtgwmbrcnMPlUq0IaL1K8dngb4-_4SLrpuzmOmiU' alt='Black background for roblox gfxs free to use by Nancyrbx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5613351-3a61-4da2-89ef-7e1a422a868c/dht9194-92059c0d-1dbb-4d5c-8cca-6b002d05302b.png/v1/fill/w_500,h_500,q_80,strp/black_background_for_roblox_gfxs_free_to_use__by_nancyrbx_dht9194-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvYTU2MTMzNTEtM2E2MS00ZGEyLTg5ZWYtN2UxYTQyMmE4NjhjXC9kaHQ5MTk0LTkyMDU5YzBkLTFkYmItNGQ1Yy04Y2NhLTZiMDAyZDA1MzAyYi5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.i-ajtgwmbrcnMPlUq0IaL1K8dngb4-_4SLrpuzmOmiU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to make a TRANSPARENT background GFX! || mxddsie ♡">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iY7Q2CnRtI4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPovibuTP0hCMVdAZCVHhFQjW7fA' alt='how to make a TRANSPARENT background GFX! || mxddsie ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iY7Q2CnRtI4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPovibuTP0hCMVdAZCVHhFQjW7fA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GFX backgrounds - Art Design Support - Developer Forum | Roblox">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/4/f/0/4f02510b58f7bec3eee0a014b87d6349cf3bd8a6.jpeg' alt='GFX backgrounds - Art Design Support - Developer Forum | Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/4/f/0/4f02510b58f7bec3eee0a014b87d6349cf3bd8a6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

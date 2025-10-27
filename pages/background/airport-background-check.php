@@ -1,0 +1,129 @@
+<title>Essential Guide to Airport Background Checks</title>
+                    <meta name="description" content="Discover the importance of airport background checks for ensuring passenger and airline safety. Learn about the processes involved and their role in maintaining secure airport operations. Stay informed and understand how these checks impact air travel security today!">
+                    <meta name="keywords" content="airport background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/airport-background-check">
+                            <span itemprop="name">airport background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Airport Background Checks</h1>
+                <p>Airport background checks are essential security measures to ensure safety in aviation. They involve a thorough investigation of an individual's history, including criminal records, employment verification, and identity checks. These checks help prevent threats and maintain a secure environment for passengers and airline staff alike, ensuring smooth airport operations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which Trusted Traveler Program is Right for You? - Berardi ...">
+                                <img itemprop="contentUrl url" src='https://berardiimmigrationlaw.com/wp-content/uploads/2018/05/TSAAirport-52918-scaled-1.jpg' alt='Which Trusted Traveler Program is Right for You? - Berardi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berardi Immigration Law" />
+                                </span>
+                                <a href='https://berardiimmigrationlaw.com/wp-content/uploads/2018/05/TSAAirport-52918-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Background Check Counter Airport Terminal Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1078033397/display_1500/stock-photo-blurred-background-of-check-in-counter-at-an-airport-terminal-1078033397.jpg' alt='Blurred Background Check Counter Airport Terminal Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1078033397/display_1500/stock-photo-blurred-background-of-check-in-counter-at-an-airport-terminal-1078033397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The longest airport security line: TSA to start security ...">
+                                <img itemprop="contentUrl url" src='https://www.mysecuritysign.com/blog/wp-content/uploads/2013/10/770px-Portland_International_Airport_security_check.jpg' alt='The longest airport security line: TSA to start security ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Security Sign" />
+                                </span>
+                                <a href='https://www.mysecuritysign.com/blog/wp-content/uploads/2013/10/770px-Portland_International_Airport_security_check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airport Check-in Counters for Background, No People Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/airport-check-counters-background-no-people-empty-225407714.jpg' alt='Airport Check-in Counters for Background, No People Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/airport-check-counters-background-no-people-empty-225407714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telos ID biometric background check service renewed by Denver ...">
+                                <img itemprop="contentUrl url" src='https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/29123753/Airport-Australia-1-scaled.jpg' alt='Telos ID biometric background check service renewed by Denver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biometric Update" />
+                                </span>
+                                <a href='https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/29123753/Airport-Australia-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airport Check-in Counters for Background, No People Stock Image ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/airport-check-counters-background-no-people-empty-226916703.jpg' alt='Airport Check-in Counters for Background, No People Stock Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/airport-check-counters-background-no-people-empty-226916703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Counter Airportblur Background Stock Photo 688982401 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/check-counter-airportblur-background-260nw-688982401.jpg' alt='Check Counter Airportblur Background Stock Photo 688982401 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/check-counter-airportblur-background-260nw-688982401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firms eye TSA background-check job - POLITICO">
+                                <img itemprop="contentUrl url" src='https://www.politico.com/dims4/default/828c0c9/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2013%2F05%2F08%2F130508_tsa_pre_check_ap_605.jpg' alt='Firms eye TSA background-check job - POLITICO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://www.politico.com/dims4/default/828c0c9/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2013%2F05%2F08%2F130508_tsa_pre_check_ap_605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Airport checkin counters for background no people">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/airport-checkin-counters-background-no-people_93675-115011.jpg' alt='Premium Photo | Airport checkin counters for background no people'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/airport-checkin-counters-background-no-people_93675-115011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reception Of Documents At The Airport. Background, Passport Check ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nastenkapeka/nastenkapeka1610/nastenkapeka161000008/65153243-reception-of-documents-at-the-airport-background-passport-check-and-submission-of-luggage.jpg' alt='Reception Of Documents At The Airport. Background, Passport Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nastenkapeka/nastenkapeka1610/nastenkapeka161000008/65153243-reception-of-documents-at-the-airport-background-passport-check-and-submission-of-luggage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

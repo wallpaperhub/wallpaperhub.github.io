@@ -1,0 +1,129 @@
+<title>Love Pink Heart Wallpaper: Romantic Designs for Your Space</title>
+                    <meta name="description" content="Explore stunning love pink heart wallpaper designs that bring warmth and romance to your home. Perfect for bedrooms or living areas, these delightful patterns create a cozy atmosphere. Ideal for anyone looking to add a touch of love and charm to their decor. Upgrade your space with these beautiful wallpapers today!">
+                    <meta name="keywords" content="love pink heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/love-pink-heart-wallpaper">
+                            <span itemprop="name">love pink heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Love Pink Heart Wallpaper: Romantic Designs for Your Space</h1>
+                <p>Transform your space with beautiful love pink heart wallpapers, perfect for adding a touch of romance and warmth to any room. These charming designs not only uplift your mood but also create an inviting atmosphere. Discover various shades of pink and heart patterns to express your love and create a cozy, stylish environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: love, pink, heart, hearts, background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/d3/e6/8fd3e6c1065904e58b84a7ccf26f9c4b.jpg' alt='HD wallpaper: love, pink, heart, hearts, background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/d3/e6/8fd3e6c1065904e58b84a7ccf26f9c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink hearts aesthetic wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/dd/e2/df/dde2df033e9fdbe9f14bd92daca2436e.jpg' alt='Pink hearts aesthetic wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/dd/e2/df/dde2df033e9fdbe9f14bd92daca2436e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink heart, love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/630/171/HD-wallpaper-pink-heart-love.jpg' alt='Pink heart, love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/630/171/HD-wallpaper-pink-heart-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Pink Heart On Black Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1338994448/photo/heart-shape-with-ultraviolet-neon-lights-cosmic-landscape-with-smoke.jpg?s=612x612&w=0&k=20&c=yC3AYETM6mVfxVnFpjG_kXyWiTPViTctwzQWYqDXi5c=' alt='1,500+ Pink Heart On Black Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1338994448/photo/heart-shape-with-ultraviolet-neon-lights-cosmic-landscape-with-smoke.jpg?s=612x612&w=0&k=20&c=yC3AYETM6mVfxVnFpjG_kXyWiTPViTctwzQWYqDXi5c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts background. Pink heart with happy and smiling face among ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2C644JG/hearts-background-pink-heart-with-happy-and-smiling-face-among-many-sweet-pink-ball-foam-with-heart-shape-love-care-and-valentine-day-concept-2C644JG.jpg' alt='Hearts background. Pink heart with happy and smiling face among ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2C644JG/hearts-background-pink-heart-with-happy-and-smiling-face-among-many-sweet-pink-ball-foam-with-heart-shape-love-care-and-valentine-day-concept-2C644JG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink hearts, lips, love, sparkle, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/736/267/HD-wallpaper-pink-hearts-lips-love-sparkle.jpg' alt='Pink hearts, lips, love, sparkle, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/736/267/HD-wallpaper-pink-hearts-lips-love-sparkle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin By Bobbie Frock On Hearts | Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/9a/cf/c09acf81e1e880657f6a798235abdac9.jpg' alt='Pin By Bobbie Frock On Hearts | Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/9a/cf/c09acf81e1e880657f6a798235abdac9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Bubble Heart Love Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pink-bubble-heart-love-phone-rv5y7e3vy6rcz0fh.jpg' alt='Pink Bubble Heart Love Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pink-bubble-heart-love-phone-rv5y7e3vy6rcz0fh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8yOV8zZF9yZW5kZXJfb2ZfY3V0ZV9pbmZsYXRlZF9kZXNpZ25fb2ZfcGlua19wdV8yNWYyMDY4Mi05NzI0LTQzMWUtYWJiNy1mYmMwY2IyMTk5ZTFfMS5qcGc.jpg' alt='Pink Hearts Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8yOV8zZF9yZW5kZXJfb2ZfY3V0ZV9pbmZsYXRlZF9kZXNpZ25fb2ZfcGlua19wdV8yNWYyMDY4Mi05NzI0LTQzMWUtYWJiNy1mYmMwY2IyMTk5ZTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper hearts, love, fluffy, pink, hearts, fluffy for mobile ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/8402x5962/6/4c/fluffy-hearts-pink-3d-love.jpg' alt='Wallpaper hearts, love, fluffy, pink, hearts, fluffy for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8402">
+                                <meta itemprop="height" content="5962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/8402x5962/6/4c/fluffy-hearts-pink-3d-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

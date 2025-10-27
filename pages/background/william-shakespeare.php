@@ -1,0 +1,129 @@
+<title>Discover the Genius of William Shakespeare</title>
+                    <meta name="description" content="Explore the life and works of William Shakespeare, the influential playwright whose timeless stories and characters shaped English literature. Dive into his unforgettable plays and the profound themes that continue to captivate audiences today.">
+                    <meta name="keywords" content="william shakespeare">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/william-shakespeare">
+                            <span itemprop="name">william shakespeare</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Genius of William Shakespeare</h1>
+                <p>William Shakespeare, the renowned English playwright and poet, lived from 1564 to 1616. Often dubbed the "Bard of Avon," he authored iconic works such as "Hamlet," "Romeo and Juliet," and "Macbeth." His contributions to literature, particularly in themes of love, betrayal, and ambition, continue to resonate, influencing countless writers and artists worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare | The Poetry Foundation">
+                                <img itemprop="contentUrl url" src='https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/_1200x630_crop_center-center_82_none/653f5eeafab7a9895af1eca68e97459c831812c6.jpeg?mtime=1717166287' alt='William Shakespeare | The Poetry Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poetry Foundation" />
+                                </span>
+                                <a href='https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/_1200x630_crop_center-center_82_none/653f5eeafab7a9895af1eca68e97459c831812c6.jpeg?mtime=1717166287' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg' alt='William Shakespeare - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare: Biography, Playwright, Poet">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/william-shakespeare-194895-1-402.jpg' alt='William Shakespeare: Biography, Playwright, Poet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/william-shakespeare-194895-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Works of William Shakespeare: All 37 plays, 160 sonnets and 5  poetry books (Global Classics) See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71-2eqoOuFL._UF1000,1000_QL80_.jpg' alt='The Complete Works of William Shakespeare: All 37 plays, 160 sonnets and 5  poetry books (Global Classics) See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71-2eqoOuFL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare | American Players Theatre">
+                                <img itemprop="contentUrl url" src='https://americanplayers.org/assets/images-people/_1000x750_crop_center-center_none/Shakespeare-William-_-banner.png' alt='William Shakespeare | American Players Theatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Players Theatre" />
+                                </span>
+                                <a href='https://americanplayers.org/assets/images-people/_1000x750_crop_center-center_none/Shakespeare-William-_-banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare | PlayMakers Repertory Company">
+                                <img itemprop="contentUrl url" src='https://playmakersrep.org/wp-content/uploads/2019/06/William-Shakespeare-headshot-WEB.png' alt='William Shakespeare | PlayMakers Repertory Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayMakers Repertory Company" />
+                                </span>
+                                <a href='https://playmakersrep.org/wp-content/uploads/2019/06/William-Shakespeare-headshot-WEB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The London life of William Shakespeare | London Museum">
+                                <img itemprop="contentUrl url" src='https://media.londonmuseum.org.uk/images/WagtailSource-Portrait-of-Willia.width-1122.format-webp.webp' alt='The London life of William Shakespeare | London Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="London Museum" />
+                                </span>
+                                <a href='https://media.londonmuseum.org.uk/images/WagtailSource-Portrait-of-Willia.width-1122.format-webp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shakespeare's 'Lost Years'">
+                                <img itemprop="contentUrl url" src='https://media.shakespeare.org.uk/images/Cobbe_High_Res.original.jpg' alt='Shakespeare's 'Lost Years''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1331">
+                                <meta itemprop="height" content="1905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shakespeare Birthplace Trust" />
+                                </span>
+                                <a href='https://media.shakespeare.org.uk/images/Cobbe_High_Res.original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Founders' Writings on Their Admiration of William Shakespeare ...">
+                                <img itemprop="contentUrl url" src='https://moar-prod.imgix.net/85776ffc-30a8-4753-81ac-a439fa025e28/image_042122_wwilliam_shakespeare_portrait_national_portrait_gallery_london.jpg?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C394%2C1943%2C1094' alt='Founders' Writings on Their Admiration of William Shakespeare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1943">
+                                <meta itemprop="height" content="1094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Museum of the American Revolution" />
+                                </span>
+                                <a href='https://moar-prod.imgix.net/85776ffc-30a8-4753-81ac-a439fa025e28/image_042122_wwilliam_shakespeare_portrait_national_portrait_gallery_london.jpg?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C394%2C1943%2C1094' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare: Biography, Playwright, Poet">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/william-shakespeare-royalty-free-illustration-1682006990.jpg?crop=0.972xw:0.897xh;0.0104xw,0.0930xh&resize=980:*' alt='William Shakespeare: Biography, Playwright, Poet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/william-shakespeare-royalty-free-illustration-1682006990.jpg?crop=0.972xw:0.897xh;0.0104xw,0.0930xh&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

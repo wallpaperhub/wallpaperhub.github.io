@@ -1,0 +1,129 @@
+<title>Colorful LEGO Wallpaper for Your Phone</title>
+                    <meta name="description" content="Discover the joy of LEGO with amazing wallpapers for your phone! Browse unique designs featuring iconic characters and vibrant sets. Personalize your device and showcase your love for LEGO anywhere you go. Easy to download and perfect for fans of all ages!">
+                    <meta name="keywords" content="lego wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/lego-wallpaper-phone">
+                            <span itemprop="name">lego wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful LEGO Wallpaper for Your Phone</h1>
+                <p>Transform your phone's appearance with vibrant LEGO wallpaper! With countless designs featuring your favorite LEGO characters and sets, you can express your creativity and love for building. Easy to download and customize, a LEGO wallpaper not only personalizes your device but also adds a touch of fun to your screen. Explore and enjoy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this wallpaper for my phone using the Newsweek cover :) : r/lego">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dqfd2meud9g11.jpg' alt='Made this wallpaper for my phone using the Newsweek cover :) : r/lego'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dqfd2meud9g11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free LEGO phone wallpapers and backgrounds – Brick Pixels">
+                                <img itemprop="contentUrl url" src='https://brickpixels.net/wp-content/uploads/2023/02/img_6486.jpg' alt='Free LEGO phone wallpapers and backgrounds – Brick Pixels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1643">
+                                <meta itemprop="height" content="2920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brick Pixels" />
+                                </span>
+                                <a href='https://brickpixels.net/wp-content/uploads/2023/02/img_6486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free LEGO phone wallpapers and backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/d9/a6/d6d9a67c944faa84e77e70073742f657.jpg' alt='Free LEGO phone wallpapers and backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/d9/a6/d6d9a67c944faa84e77e70073742f657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO Phone Wallpaper Collection : r/lego">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ool9d5hcdcn81.jpg' alt='LEGO Phone Wallpaper Collection : r/lego'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3210">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ool9d5hcdcn81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free LEGO phone wallpapers and backgrounds – Brick Pixels">
+                                <img itemprop="contentUrl url" src='https://brickpixels.net/wp-content/uploads/2023/02/explorer.jpg' alt='Free LEGO phone wallpapers and backgrounds – Brick Pixels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2125">
+                                <meta itemprop="height" content="3777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brick Pixels" />
+                                </span>
+                                <a href='https://brickpixels.net/wp-content/uploads/2023/02/explorer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/d/4/50348-1080x1920-phone-1080p-the-lego-movie-wallpaper-image.jpg' alt='The Lego Movie Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/d/4/50348-1080x1920-phone-1080p-the-lego-movie-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lego wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/456/948/HD-wallpaper-lego-constructor-denmark-duplo-kids-lego-group-lego-systems-toy-thumbnail.jpg' alt='HD lego wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/456/948/HD-wallpaper-lego-constructor-denmark-duplo-kids-lego-group-lego-systems-toy-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - LEGO Phone Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/047/291/903/large/stefan-muller-wallpaper-phone-spiderman-v02.jpg?1647257052' alt='ArtStation - LEGO Phone Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/047/291/903/large/stefan-muller-wallpaper-phone-spiderman-v02.jpg?1647257052' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/d/a/50280-1536x2732-samsung-hd-the-lego-movie-background.jpg' alt='The Lego Movie Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/d/a/50280-1536x2732-samsung-hd-the-lego-movie-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - LEGO Phone Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/047/292/094/large/stefan-muller-wallpaper-phone-skeleton-v02.jpg?1647257429' alt='ArtStation - LEGO Phone Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/047/292/094/large/stefan-muller-wallpaper-phone-skeleton-v02.jpg?1647257429' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Biology Slides Template for Engaging Presentations</title>
+                    <meta name="description" content="Discover the ultimate biology slides template to elevate your presentations. Enjoy customizable designs and captivating visuals that simplify complex ideas. Perfect for students, educators, and professionals looking to make an impact in biology. Download now for amazing results!">
+                    <meta name="keywords" content="biology slides template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/biology-slides-template">
+                            <span itemprop="name">biology slides template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Biology Slides Template for Engaging Presentations</h1>
+                <p>Enhance your biology presentations with our versatile biology slides template. Featuring visually appealing designs, customizable layouts, and essential scientific diagrams, these templates make conveying complex concepts engaging and straightforward. Perfect for educators, students, and professionals alike. Make your next presentation a hit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Biology Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/100975/upload.png' alt='Free Biology Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/100975/upload.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Biology Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/17199625/biochemistry-lesson-for-high-school1644579692.jpg' alt='Free Biology Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/17199625/biochemistry-lesson-for-high-school1644579692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Biology PowerPoint Templates And Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/64828-biology-themes-for-powerpoint.png' alt='Free Biology PowerPoint Templates And Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/64828-biology-themes-for-powerpoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green biology | Free PowerPoint template & Google Slides theme">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2021/05/Biology-presentation.jpg' alt='Green biology | Free PowerPoint template & Google Slides theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2021/05/Biology-presentation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Biology Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/8969299/science-subject-for-high-school-9th-grade-the-building-blocks-of-life1627374795.jpg' alt='Free Biology Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/8969299/science-subject-for-high-school-9th-grade-the-building-blocks-of-life1627374795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cells Biology Research Powerpoint Template and Google Slides Theme">
+                                <img itemprop="contentUrl url" src='https://stg-uploads.slidenest.com/template_1616/templateColor_1608/previewImages/cells-biology-research-powerpoint-google-slides-keynote-presentation-template-1.jpeg' alt='Cells Biology Research Powerpoint Template and Google Slides Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidenest" />
+                                </span>
+                                <a href='https://stg-uploads.slidenest.com/template_1616/templateColor_1608/previewImages/cells-biology-research-powerpoint-google-slides-keynote-presentation-template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable biology templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPrU5UABk/1/0/1600w/canva-orange-and-blue-doodle-science-project-presentation-AXKGv0-4PuI.jpg' alt='Free and customizable biology templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPrU5UABk/1/0/1600w/canva-orange-and-blue-doodle-science-project-presentation-AXKGv0-4PuI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plants and Biology Green Powerpoint Template and Google Slides Theme">
+                                <img itemprop="contentUrl url" src='https://stg-uploads.slidenest.com/template_1672/templateColor_1659/previewImages/plants-and-biology-green-powerpoint-google-slides-keynote-presentation-template-1.jpeg' alt='Plants and Biology Green Powerpoint Template and Google Slides Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidenest" />
+                                </span>
+                                <a href='https://stg-uploads.slidenest.com/template_1672/templateColor_1659/previewImages/plants-and-biology-green-powerpoint-google-slides-keynote-presentation-template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free PowerPoint Templates Biology">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/14/cb/bd14cbd13e312703d55db286a64908e9.jpg' alt='Free PowerPoint Templates Biology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/14/cb/bd14cbd13e312703d55db286a64908e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable biology templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuOT5HJ2g/2/0/1600w/canva-blue-and-white-professional-science-project-presentation-hZ3ZTuMiroc.jpg' alt='Free and customizable biology templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuOT5HJ2g/2/0/1600w/canva-blue-and-white-professional-science-project-presentation-hZ3ZTuMiroc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

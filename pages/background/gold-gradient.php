@@ -1,0 +1,129 @@
+<title>Stunning Gold Gradient: Elevate Your Design!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="gold gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-gradient">
+                            <span itemprop="name">gold gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gold Gradient: Elevate Your Design!</h1>
+                <p>Gold gradients are a stunning design element that blends various shades of gold, creating a luxurious and eye-catching effect. Ideal for backgrounds, logos, and digital artwork, these gradients enhance visual appeal, adding warmth and richness to projects. Perfect for conveying elegance and sophistication in any creative endeavor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector of gold gradient. Gold gradient background texture metallic ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/982/182/non_2x/of-gold-gradient-gold-gradient-background-texture-metallic-free-vector.jpg' alt='Vector of gold gradient. Gold gradient background texture metallic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1503">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/982/182/non_2x/of-gold-gradient-gold-gradient-background-texture-metallic-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Gradient Background Images – Browse 985,275 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/96/18/29/360_F_696182900_U9hK5MqHVuG1kFEIMyJeAzgtYdP4GBtL.jpg' alt='Gold Gradient Background Images – Browse 985,275 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/96/18/29/360_F_696182900_U9hK5MqHVuG1kFEIMyJeAzgtYdP4GBtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/yellow-gold-gradients-metallic-gradients-set_1017-26151.jpg' alt='Gold Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/yellow-gold-gradients-metallic-gradients-set_1017-26151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Gradient Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/220/438/small/of-gold-gradient-gold-gradient-background-texture-metallic-illustration-for-luxury-frame-ribbon-banner-web-coin-and-label-elegant-light-and-shine-template-free-vector.jpg' alt='Gold Gradient Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/220/438/small/of-gold-gradient-gold-gradient-background-texture-metallic-illustration-for-luxury-frame-ribbon-banner-web-coin-and-label-elegant-light-and-shine-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector of gold gradient. Gold gradient background texture metallic ...">
+                                <img itemprop="contentUrl url" src='https://www.superstock.com/cdn/5507/Comp/5507-43625254.webp' alt='Vector of gold gradient. Gold gradient background texture metallic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SuperStock" />
+                                </span>
+                                <a href='https://www.superstock.com/cdn/5507/Comp/5507-43625254.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Gradient, Gradients Including: gradient & moderngradient - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-cover-images/e70414ac-8c6a-4984-a8bd-44331a1dc5fe?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=ab4a80f2a0e6e97442b13b6d60ec6347e3bbdb4b1f8ec28aff06e2c31f1e13b0' alt='Gold Gradient, Gradients Including: gradient & moderngradient - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-cover-images/e70414ac-8c6a-4984-a8bd-44331a1dc5fe?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=ab4a80f2a0e6e97442b13b6d60ec6347e3bbdb4b1f8ec28aff06e2c31f1e13b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Gold Gradient Texture Shiny Golden Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/realistic-gold-gradient-texture-shiny-260nw-1264078213.jpg' alt='Realistic Gold Gradient Texture Shiny Golden Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="397">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/realistic-gold-gradient-texture-shiny-260nw-1264078213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Gradient Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDgtbXludC0yMi5qcGc.jpg' alt='Gold Gradient Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDgtbXludC0yMi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Gold color gold background gold gradient gold metal">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/gold-color-gold-background-gold-gradient-gold-metal_359013-21880.jpg' alt='Premium Vector | Gold color gold background gold gradient gold metal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/gold-color-gold-background-gold-gradient-gold-metal_359013-21880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200 Gold Photoshop Gradients (FREE) | Resource Boy">
+                                <img itemprop="contentUrl url" src='https://resourceboy.com/wp-content/uploads/2022/04/resourceboy-free-gold-photoshop-gradients-01.jpg' alt='200 Gold Photoshop Gradients (FREE) | Resource Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resource Boy" />
+                                </span>
+                                <a href='https://resourceboy.com/wp-content/uploads/2022/04/resourceboy-free-gold-photoshop-gradients-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

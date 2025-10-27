@@ -1,0 +1,129 @@
+<title>Stunning UGA Screensaver for Georgia Bulldogs Fans</title>
+                    <meta name="description" content="Transform your device with a captivating UGA screensaver! Perfect for fans of the University of Georgia, this screensaver features iconic images, legendary moments, and the spirit of the Dawgs. Show your pride and make your screen shine with Georgia Bulldogs spirit!">
+                    <meta name="keywords" content="uga screensaver">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/uga-screensaver">
+                            <span itemprop="name">uga screensaver</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning UGA Screensaver for Georgia Bulldogs Fans</h1>
+                <p>Bring the spirit of the University of Georgia to your screen with a dynamic UGA screensaver! Showcase stunning campus views, beloved mascots like Uga, and memorable moments from Dawgs history. Perfect for students, alumni, and fans, this screensaver keeps the pride of UGA alive on your desktop or mobile device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Georgia Bulldogs Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/georgia-bulldogs-phone-axl8dg6hq3u580tv.jpg' alt='100+] Georgia Bulldogs Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/georgia-bulldogs-phone-axl8dg6hq3u580tv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Georgia Bulldogs wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Georgia-Bulldogs-wallpaper-logo-desktop-NCAA-2024.png' alt='2025 Georgia Bulldogs wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Georgia-Bulldogs-wallpaper-logo-desktop-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Bulldogs National Champions Downloadable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2022/01/UGANAt_ChampLogo-wallpaper_2.png' alt='Georgia Bulldogs National Champions Downloadable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UGA Wire" />
+                                </span>
+                                <a href='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2022/01/UGANAt_ChampLogo-wallpaper_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Georgia Bulldogs Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/georgia-bulldogs-overlay-q21a8ivu3e40pizn.jpg' alt='100+] Georgia Bulldogs Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/georgia-bulldogs-overlay-q21a8ivu3e40pizn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Vanta Blaqk on Wallpaper | Bulldog wallpaper, Georgia ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/45/42/ea45428751d1dbfb760152ce0f96e892.jpg' alt='Pin by Vanta Blaqk on Wallpaper | Bulldog wallpaper, Georgia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/45/42/ea45428751d1dbfb760152ce0f96e892.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I like to photoshop helmets. Made this Georgia phone wallpaper a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-like-to-photoshop-helmets-made-this-georgia-phone-v0-u6vi7f2y08eb1.png?width=640&crop=smart&auto=webp&s=3b32881c42b2b58608e7351a6c9547f5c2c75678' alt='I like to photoshop helmets. Made this Georgia phone wallpaper a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-like-to-photoshop-helmets-made-this-georgia-phone-v0-u6vi7f2y08eb1.png?width=640&crop=smart&auto=webp&s=3b32881c42b2b58608e7351a6c9547f5c2c75678' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Football on X: "Desktop wallpapers incoming    #GoDawgs ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fn0Img8aAAEfw6H?format=jpg&name=4096x4096' alt='Georgia Football on X: "Desktop wallpapers incoming    #GoDawgs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fn0Img8aAAEfw6H?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UGA iPhone wallpaper | Red UGA logo iPhone wallpaper - by Ph… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3079/2832237664_987041e2c9.jpg' alt='UGA iPhone wallpaper | Red UGA logo iPhone wallpaper - by Ph… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3079/2832237664_987041e2c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Football Phone Wallpapers - UGA Development and Alumni ...">
+                                <img itemprop="contentUrl url" src='https://photos.smugmug.com/Digital-Downloads/Georgia-football-phone-wallpapers/i-7JD2Mrt/0/Lbb6sf2nBSm9XkTcg3LQwNVdnhrC7SMTgs9JwrQHh/L/Wallpapers-1080x1920-WIN-natty-9-L.jpg' alt='Georgia Football Phone Wallpapers - UGA Development and Alumni ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="277">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UGA Development and Alumni Relations - SmugMug" />
+                                </span>
+                                <a href='https://photos.smugmug.com/Digital-Downloads/Georgia-football-phone-wallpapers/i-7JD2Mrt/0/Lbb6sf2nBSm9XkTcg3LQwNVdnhrC7SMTgs9JwrQHh/L/Wallpapers-1080x1920-WIN-natty-9-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Georgia Bulldogs wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Georgia-Bulldogs-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' alt='2025 Georgia Bulldogs wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Georgia-Bulldogs-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

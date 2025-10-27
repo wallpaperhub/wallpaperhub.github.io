@@ -1,0 +1,129 @@
+<title>Stunning 3D Cube Wallpaper for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="3d cube wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-cube-wallpaper">
+                            <span itemprop="name">3d cube wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Cube Wallpaper for Your Device</h1>
+                <p>Enhance your digital space with captivating 3D cube wallpaper designs. These eye-catching patterns transform your device's background, adding depth and a modern feel. Ideal for any style, 3D cube wallpapers create a visually dynamic experience, perfect for both work and play. Discover your favorite cubes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d cube wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ac/d3/7d/acd37d7691a2224e10cf034ff7ded973.jpg' alt='3d cube wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ac/d3/7d/acd37d7691a2224e10cf034ff7ded973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Neon 3D Cube Wallpaper Mural, Custom Sizes Available ...">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/files/colorful-3d-cube-wallpaper-mural-custom-sizes-available-maughons-218359-transformed_1024x1024.jpg?v=1691594266' alt='Colorful Neon 3D Cube Wallpaper Mural, Custom Sizes Available ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/files/colorful-3d-cube-wallpaper-mural-custom-sizes-available-maughons-218359-transformed_1024x1024.jpg?v=1691594266' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Cube Wallpapers [45+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/376/3d-cube-wallpaper-1920x1080.jpg' alt='3D Cube Wallpapers [45+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/376/3d-cube-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="529 Cube Wallpapers Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-cube-wallpapers-hd-wallpapers-wallpaper-cave-d-cube-wallpapers-hd-wallpapers-wallpaper-cave-291686751.jpg' alt='529 Cube Wallpapers Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-cube-wallpapers-hd-wallpapers-wallpaper-cave-d-cube-wallpapers-hd-wallpapers-wallpaper-cave-291686751.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Cube Wallpaper, wall mural - ColorayDecor.com">
+                                <img itemprop="contentUrl url" src='https://coloraydecor.com/images/cd/coloraydecor-f-as-98622382-modyfikacja/5/s/wallpaper-3d-cube.jpg' alt='3D Cube Wallpaper, wall mural - ColorayDecor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorayDecor.com" />
+                                </span>
+                                <a href='https://coloraydecor.com/images/cd/coloraydecor-f-as-98622382-modyfikacja/5/s/wallpaper-3d-cube.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cube Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-black-background-with-cubes_23-2149140166.jpg' alt='Cube Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-black-background-with-cubes_23-2149140166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vector isometric seamless cube patterns. Geometric abstract 3d ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HG3CAX/vector-isometric-seamless-cube-patterns-geometric-abstract-3d-cube-wallpaper-background-2HG3CAX.jpg' alt='vector isometric seamless cube patterns. Geometric abstract 3d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HG3CAX/vector-isometric-seamless-cube-patterns-geometric-abstract-3d-cube-wallpaper-background-2HG3CAX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cube Wallpapers [31+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/377/black-and-blue-cubes-wallpaper-1920x1080.jpg' alt='Black Cube Wallpapers [31+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/377/black-and-blue-cubes-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D cubes Wallpaper 4K, Colorful, Geometric, Patterns">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/3d-cubes-colorful-geometric-patterns-2560x1440-906.jpg' alt='3D cubes Wallpaper 4K, Colorful, Geometric, Patterns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/3d-cubes-colorful-geometric-patterns-2560x1440-906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Texture Wallpaper 3d Cube Background Backgrounds | JPG ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230426/bfc4e9af5cbd46f5f68d4a5d18cae8f9.jpg!w700wp' alt='Abstract Texture Wallpaper 3d Cube Background Backgrounds | JPG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230426/bfc4e9af5cbd46f5f68d4a5d18cae8f9.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

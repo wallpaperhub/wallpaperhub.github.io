@@ -1,0 +1,129 @@
+<title>Navy Blue Star Wallpaper: Stylish & Cozy Decor</title>
+                    <meta name="description" content="Transform your space with navy blue star wallpaper! Ideal for bedrooms and nurseries, this elegant design combines deep blue tones with stunning star motifs, creating a serene and imaginative environment. Perfect for anyone looking to add a touch of sophistication to their home decor.">
+                    <meta name="keywords" content="navy blue star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/navy-blue-star-wallpaper">
+                            <span itemprop="name">navy blue star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Blue Star Wallpaper: Stylish & Cozy Decor</h1>
+                <p>Navy blue star wallpaper is a captivating choice for any room, bringing a sense of calm and sophistication. Its deep, rich hue paired with dazzling celestial patterns creates an enchanting atmosphere, perfect for bedrooms, nurseries, or living spaces. This wallpaper not only enhances aesthetic appeal but also sparks imagination and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Navy">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Navy_detail_720x.jpg?v=1633377782' alt=''Star' Wallpaper by Clare V. - Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Navy_detail_720x.jpg?v=1633377782' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Upon A Star Navy Vinyl Peel & Stick Wallpaper Roll (Covers 28.18  Sq. Ft.) RMK11319WP - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f3f3820f-0f66-415c-a6b4-3e75f7b0eb7a/svn/roommates-wallpaper-rolls-rmk11319wp-64_1000.jpg' alt='RoomMates Upon A Star Navy Vinyl Peel & Stick Wallpaper Roll (Covers 28.18  Sq. Ft.) RMK11319WP - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f3f3820f-0f66-415c-a6b4-3e75f7b0eb7a/svn/roommates-wallpaper-rolls-rmk11319wp-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Navy Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.lionheartwallpaper.com/cdn/shop/products/118330-1-WALLPAPER.jpg?v=1657384520' alt='Stars Navy Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lionheart Wallpaper" />
+                                </span>
+                                <a href='http://www.lionheartwallpaper.com/cdn/shop/products/118330-1-WALLPAPER.jpg?v=1657384520' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Starlight Stars Wallpaper Navy / Gold M1490">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/c/w/cwv118_starlight_stars_wallpaper_navy_gold_ae1.jpg' alt='Crown Starlight Stars Wallpaper Navy / Gold M1490'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/c/w/cwv118_starlight_stars_wallpaper_navy_gold_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/03/9f/9f039f142daf3a55fd290f2fbe72164f.jpg' alt='Blue stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/03/9f/9f039f142daf3a55fd290f2fbe72164f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster 443-Jj6834 Starfleet Navy Blue Stars Wallpaper, Navy Blue">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91hNhB3VhOL.jpg' alt='Brewster 443-Jj6834 Starfleet Navy Blue Stars Wallpaper, Navy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91hNhB3VhOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark blue star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/23/16/542316b2e6362d24ed81097ec8a1f309.jpg' alt='dark blue star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/23/16/542316b2e6362d24ed81097ec8a1f309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Navy / White">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Navy-on-White_detail_720x.jpg?v=1633377780' alt=''Star' Wallpaper by Clare V. - Navy / White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Navy-on-White_detail_720x.jpg?v=1633377780' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,400+ Dark Blue Stars Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/153814923/vector/background-of-a-clear-starry-sky.jpg?s=612x612&w=0&k=20&c=nwTxz-W3eiJDwDX-l9Cp_IT4I-cNM-KSUpdE4E6IH_4=' alt='14,400+ Dark Blue Stars Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/153814923/vector/background-of-a-clear-starry-sky.jpg?s=612x612&w=0&k=20&c=nwTxz-W3eiJDwDX-l9Cp_IT4I-cNM-KSUpdE4E6IH_4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars in Midnight Blue Wallpaper by Cole & Son">
+                                <img itemprop="contentUrl url" src='http://www.vertigohome.us/cdn/shop/products/Cole-_-Son-Whimsical-Stars-Midnight-Blue-wallpaper-at-www.vertigohome.us_1024x.jpg?v=1571438632' alt='Stars in Midnight Blue Wallpaper by Cole & Son'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vertigo Home" />
+                                </span>
+                                <a href='http://www.vertigohome.us/cdn/shop/products/Cole-_-Son-Whimsical-Stars-Midnight-Blue-wallpaper-at-www.vertigohome.us_1024x.jpg?v=1571438632' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

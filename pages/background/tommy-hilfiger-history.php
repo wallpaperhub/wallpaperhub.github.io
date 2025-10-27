@@ -1,0 +1,129 @@
+<title>Tommy Hilfiger: A Brief History of an American Fashion Icon</title>
+                    <meta name="description" content="Explore Tommy Hilfiger's journey from a small-town designer to a global fashion icon. Learn how the brand's unique style and innovative approach shaped modern American fashion, making it a staple in casual luxury. Discover the key moments and collections that define Tommy Hilfiger today.">
+                    <meta name="keywords" content="tommy hilfiger history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tommy-hilfiger-history">
+                            <span itemprop="name">tommy hilfiger history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tommy Hilfiger: A Brief History of an American Fashion Icon</h1>
+                <p>Tommy Hilfiger, founded in 1985, revolutionized American fashion with his preppy, classic designs that blend pop culture and sportswear. The brand quickly gained global recognition, becoming an icon for casual luxury. Over the years, it expanded into various categories, including denim, accessories, and fragrances, maintaining its commitment to quality and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Hilfiger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tommy_Hilfiger_1996.jpg/640px-Tommy_Hilfiger_1996.jpg' alt='Tommy Hilfiger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tommy_Hilfiger_1996.jpg/640px-Tommy_Hilfiger_1996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brand History - Tommy Hilfiger | Double Double Vintage">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2974/2654/files/Bildschirmfoto_2022-07-01_um_13.23.16_480x480.png?v=1658827328' alt='Brand History - Tommy Hilfiger | Double Double Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Double Double Vintage" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2974/2654/files/Bildschirmfoto_2022-07-01_um_13.23.16_480x480.png?v=1658827328' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Hilfiger Company History & Timeline">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2023/09/Tommy-Hilfiger-SZA_ph-by-Cassidy-Meyers.jpg' alt='Tommy Hilfiger Company History & Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2786">
+                                <meta itemprop="height" content="2278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2023/09/Tommy-Hilfiger-SZA_ph-by-Cassidy-Meyers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Tommy Hilfiger? | Get To Know The Icon - The Hut">
+                                <img itemprop="contentUrl url" src='https://blogscdn.thehut.net/app/uploads/sites/14/2020/06/201704_ST_HIL_02-RT-WEB_1592921436.jpg' alt='Who is Tommy Hilfiger? | Get To Know The Icon - The Hut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hut" />
+                                </span>
+                                <a href='https://blogscdn.thehut.net/app/uploads/sites/14/2020/06/201704_ST_HIL_02-RT-WEB_1592921436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Hilfiger Heritage | Biography & History | Tommy Hilfiger USA">
+                                <img itemprop="contentUrl url" src='https://media.tommy.com/us/static/images/scheduled_marketing/2022/01/PPL_TILE1_v2.jpg' alt='Tommy Hilfiger Heritage | Biography & History | Tommy Hilfiger USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tommy Hilfiger" />
+                                </span>
+                                <a href='https://media.tommy.com/us/static/images/scheduled_marketing/2022/01/PPL_TILE1_v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Hilfiger Biography - Catwalk Yourself">
+                                <img itemprop="contentUrl url" src='https://www.catwalkyourself.com/wp-content/uploads/2012/08/catwalk_yourself.tommyhilfiger2.jpeg' alt='Tommy Hilfiger Biography - Catwalk Yourself'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catwalk Yourself" />
+                                </span>
+                                <a href='https://www.catwalkyourself.com/wp-content/uploads/2012/08/catwalk_yourself.tommyhilfiger2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It was a perfect storm. I was dressing Tupac': Tommy Hilfiger on ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/fd34545209cf718248d1729502141a10479b85b1/0_26_4258_2555/master/4258.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7ce063edf1c8e274caa4b33854da1dc9' alt='It was a perfect storm. I was dressing Tupac': Tommy Hilfiger on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/fd34545209cf718248d1729502141a10479b85b1/0_26_4258_2555/master/4258.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7ce063edf1c8e274caa4b33854da1dc9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Tommy Hilfiger">
+                                <img itemprop="contentUrl url" src='https://www.bundlex.com/media/immagini/512470_n_tommy.png' alt='The History of Tommy Hilfiger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bundlex" />
+                                </span>
+                                <a href='https://www.bundlex.com/media/immagini/512470_n_tommy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brand History - Tommy Hilfiger | Double Double Vintage">
+                                <img itemprop="contentUrl url" src='https://doubledoublevintage.com/cdn/shop/articles/Bildschirmfoto_2022-07-01_um_13.09.54.jpg?v=1659109365' alt='Brand History - Tommy Hilfiger | Double Double Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Double Double Vintage" />
+                                </span>
+                                <a href='https://doubledoublevintage.com/cdn/shop/articles/Bildschirmfoto_2022-07-01_um_13.09.54.jpg?v=1659109365' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Hilfiger - Career, Fashion & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/fashion-designer-tommy-hilfiger-attends-the-2016-vanity-news-photo-1675800446.jpg?crop=0.677xw:0.451xh;0.154xw,0.0437xh&resize=640:*' alt='Tommy Hilfiger - Career, Fashion & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/fashion-designer-tommy-hilfiger-attends-the-2016-vanity-news-photo-1675800446.jpg?crop=0.677xw:0.451xh;0.154xw,0.0437xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

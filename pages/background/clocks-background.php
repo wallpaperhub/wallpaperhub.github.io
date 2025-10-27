@@ -1,0 +1,129 @@
+<title>Discover the Art and History of Clocks</title>
+                    <meta name="description" content="Explore the fascinating world of clocks – their history, design, and cultural impact. From ancient time-tellers to contemporary styles, learn how clocks shape our understanding of time. Perfect for enthusiasts and casual readers alike!">
+                    <meta name="keywords" content="clocks background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/clocks-background">
+                            <span itemprop="name">clocks background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Art and History of Clocks</h1>
+                <p>Clocks have been integral to human civilization, evolving from sundials to today's digital masterpieces. Each clock embodies cultural significance, depicting artistry and innovation. Whether vintage or modern, clocks serve as practical time-keepers and decorative pieces, influencing how we perceive time throughout history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clock Background Images – Browse 1,342,020 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/63/99/45/360_F_663994561_qy30RA6KgMrrHIWTK6y7V2RRKQxwQInj.jpg' alt='Clock Background Images – Browse 1,342,020 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/63/99/45/360_F_663994561_qy30RA6KgMrrHIWTK6y7V2RRKQxwQInj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clock background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WMTWWT/clock-background-and-time-abstract-design-concept-as-a-group-of-clock-objects-representing-day-and-night-planning-or-business-working-hours-WMTWWT.jpg' alt='Clock background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WMTWWT/clock-background-and-time-abstract-design-concept-as-a-group-of-clock-objects-representing-day-and-night-planning-or-business-working-hours-WMTWWT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clocks Background">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/2a1c6897-5399-4207-b88c-a31785dd1a62/inline_image_preview.jpg' alt='Clocks Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VideoHive" />
+                                </span>
+                                <a href='https://s3.envato.com/files/2a1c6897-5399-4207-b88c-a31785dd1a62/inline_image_preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Clocks Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533749047139-189de3cf06d3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvY2tzfGVufDB8fDB8fHww' alt='50,000+ Clocks Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533749047139-189de3cf06d3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvY2tzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clocks Running Fast stock video 1499733452">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1499733452/video/clocks-running-fast.jpg?s=640x640&k=20&c=WtyuJ-wQuYegjxFs5HRSKfADrz7TahSgayFm9O6iCp0=' alt='Clocks Running Fast stock video 1499733452'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1499733452/video/clocks-running-fast.jpg?s=640x640&k=20&c=WtyuJ-wQuYegjxFs5HRSKfADrz7TahSgayFm9O6iCp0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210+ Time Clock Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/886511790/vector/turquoise-background-with-gears.jpg?s=612x612&w=0&k=20&c=tjBy2ei5L815x36kPC4aIPmcilYl6nYv7JQD-fd3LwY=' alt='210+ Time Clock Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/886511790/vector/turquoise-background-with-gears.jpg?s=612x612&w=0&k=20&c=tjBy2ei5L815x36kPC4aIPmcilYl6nYv7JQD-fd3LwY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clock Pattern Background (Decor-And-Ornaments) | Textures for ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/clock-pattern-background-thumb24.jpg' alt='Clock Pattern Background (Decor-And-Ornaments) | Textures for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/clock-pattern-background-thumb24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold clock live wallpaper PRO">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1HBDFjveGL.png' alt='Gold clock live wallpaper PRO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1HBDFjveGL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="168,438 Antique Clock Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1888068406/display_1500/stock-photo-the-dials-of-the-old-antique-classic-clocks-on-a-vintage-wide-paper-background-concept-of-time-1888068406.jpg' alt='168,438 Antique Clock Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1888068406/display_1500/stock-photo-the-dials-of-the-old-antique-classic-clocks-on-a-vintage-wide-paper-background-concept-of-time-1888068406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Time Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/992/423/non_2x/droste-effect-background-with-infinite-clock-spiral-abstract-design-for-concepts-related-to-time-photo.jpg' alt='Time Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/992/423/non_2x/droste-effect-background-with-infinite-clock-spiral-abstract-design-for-concepts-related-to-time-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

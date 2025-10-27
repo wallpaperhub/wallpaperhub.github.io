@@ -1,0 +1,129 @@
+<title>Essential Guide to Royal Caribbean's Guest Screening Policy</title>
+                    <meta name="description" content="Discover Royal Caribbean's guest screening policy designed for safety and ease. Understand health checks, testing requirements, and essential travel protocols to ensure a smooth boarding process and an unforgettable cruise experience. Stay informed to enjoy your trip worry-free!">
+                    <meta name="keywords" content="royal caribbean guest screening policy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royal-caribbean-guest-screening-policy">
+                            <span itemprop="name">royal caribbean guest screening policy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Royal Caribbean's Guest Screening Policy</h1>
+                <p>Royal Caribbean's guest screening policy ensures a safe and enjoyable cruising experience. All guests undergo health checks, including COVID-19 testing and vaccination verification, prior to boarding. Travelers must complete online check-in forms and comply with safety protocols, ensuring readiness for a memorable voyage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROYAL CARIBBEAN CRUISES LTD.">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1577da1581a2c8b151af7e0b48a3d85221ca317d09719734e72d25a84dc58261' alt='ROYAL CARIBBEAN CRUISES LTD.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Cruises" />
+                                </span>
+                                <a href='x-raw-image:///1577da1581a2c8b151af7e0b48a3d85221ca317d09719734e72d25a84dc58261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Untitled">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e55f51066b9ae4b514cd14cae7409b1cf622f113c7b8aba6a08d8f840ea7ae57' alt='Untitled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Cruises" />
+                                </span>
+                                <a href='x-raw-image:///e55f51066b9ae4b514cd14cae7409b1cf622f113c7b8aba6a08d8f840ea7ae57' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hong Kong Guest Health Safety and Conduct Policy">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d25737a96b60144b3b8e63e9809896adfb0a500e9c21331664735d9f3cb20251' alt='Hong Kong Guest Health Safety and Conduct Policy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Cruises" />
+                                </span>
+                                <a href='x-raw-image:///d25737a96b60144b3b8e63e9809896adfb0a500e9c21331664735d9f3cb20251' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="While conditions around... - Royal Caribbean International | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158233402171397' alt='While conditions around... - Royal Caribbean International | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158233402171397' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coronavirus leads Royal Caribbean to bar Chinese, Hong Kong and ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_06/3220341/200207-anthem-of-the-seas-al-0721.jpg' alt='Coronavirus leads Royal Caribbean to bar Chinese, Hong Kong and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_06/3220341/200207-anthem-of-the-seas-al-0721.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homepage - Guest Terms and Conditions">
+                                <img itemprop="contentUrl url" src='https://www.royalcaribbean.com/guest-terms/content/uploads/2022/01/quantum-of-the-seas-sunset-singapore-hero-2.png' alt='Homepage - Guest Terms and Conditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Cruises" />
+                                </span>
+                                <a href='https://www.royalcaribbean.com/guest-terms/content/uploads/2022/01/quantum-of-the-seas-sunset-singapore-hero-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean and Carnival join cruises dropping some vaccine ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHN6AWB6GNBEVJ3TUE4CNAKU2I.jpg&w=1440' alt='Royal Caribbean and Carnival join cruises dropping some vaccine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHN6AWB6GNBEVJ3TUE4CNAKU2I.jpg&w=1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="g268328.jpg">
+                                <img itemprop="contentUrl url" src='https://www.sec.gov/Archives/edgar/data/884887/000104746921001010/g268328.jpg' alt='g268328.jpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEC.gov" />
+                                </span>
+                                <a href='https://www.sec.gov/Archives/edgar/data/884887/000104746921001010/g268328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homepage - Guest Terms and Conditions">
+                                <img itemprop="contentUrl url" src='https://www.royalcaribbean.com/guest-terms/content/uploads/2022/01/378820fc1ebb04a0df5ee0d02e4776d7.jpg' alt='Homepage - Guest Terms and Conditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Cruises" />
+                                </span>
+                                <a href='https://www.royalcaribbean.com/guest-terms/content/uploads/2022/01/378820fc1ebb04a0df5ee0d02e4776d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="While conditions around... - Royal Caribbean International | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158233401861397' alt='While conditions around... - Royal Caribbean International | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158233401861397' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

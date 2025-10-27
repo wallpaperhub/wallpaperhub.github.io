@@ -1,0 +1,129 @@
+<title>Quick and Reliable Criminal Background Checks</title>
+                    <meta name="description" content="Discover efficient criminal background checks that deliver quick results. Safeguard your interests with fast, reliable services that provide essential insights into an individual's history. Perfect for employers and landlords seeking informed decisions swiftly. Get started today!">
+                    <meta name="keywords" content="fast criminal background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fast-criminal-background-check">
+                            <span itemprop="name">fast criminal background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick and Reliable Criminal Background Checks</h1>
+                <p>A fast criminal background check is an essential tool for employers, landlords, and individuals looking to ensure safety and trust. With instant access to databases, these checks provide timely insights into an individual's criminal history, helping make informed decisions quickly. Stay secure and informed with a reliable background screening service.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks for Employment [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' alt='Criminal Background Checks for Employment [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Criminal Background Check Sites of 2024 | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='8 Best Criminal Background Check Sites of 2024 | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct a Fast Background Check - Precise Hire">
+                                <img itemprop="contentUrl url" src='https://www.precisehire.com/wp-content/uploads/2025/01/Green-Podcast-Minimalist-Blog-Banner-74.png' alt='How to Conduct a Fast Background Check - Precise Hire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Precise Hire" />
+                                </span>
+                                <a href='https://www.precisehire.com/wp-content/uploads/2025/01/Green-Podcast-Minimalist-Blog-Banner-74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/Criminal-Background-Check-optimized.jpg?width=420&name=Criminal-Background-Check-optimized.jpg' alt='Criminal Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/Criminal-Background-Check-optimized.jpg?width=420&name=Criminal-Background-Check-optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Online Criminal Background Check, Most Thorough">
+                                <img itemprop="contentUrl url" src='https://www.backgroundreport.com/images/img-01-sm.png' alt='Real Online Criminal Background Check, Most Thorough'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundReport.com" />
+                                </span>
+                                <a href='https://www.backgroundreport.com/images/img-01-sm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expedited FBI Background Check NV | FBI Records Check LV">
+                                <img itemprop="contentUrl url" src='https://fingerprintingexpress.com/wp-content/uploads/2018/03/fbi-criminal-background-checks-history-reports-24-hour-results-FE.jpg' alt='Expedited FBI Background Check NV | FBI Records Check LV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fingerprinting Express" />
+                                </span>
+                                <a href='https://fingerprintingexpress.com/wp-content/uploads/2018/03/fbi-criminal-background-checks-history-reports-24-hour-results-FE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Criminal Background Check Sites & Services | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/3b39ceb5fe/checkr-1.png/m/' alt='Best Criminal Background Check Sites & Services | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3010">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/3b39ceb5fe/checkr-1.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Software for Employers | Foley Services">
+                                <img itemprop="contentUrl url" src='https://www.foleyservices.com/hs-fs/hubfs/Static%20Hero%20Images/Foley%20-%20Hero%20-%20Background%20Checks.png?width=600&name=Foley%20-%20Hero%20-%20Background%20Checks.png' alt='Background Check Software for Employers | Foley Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foley Services" />
+                                </span>
+                                <a href='https://www.foleyservices.com/hs-fs/hubfs/Static%20Hero%20Images/Foley%20-%20Hero%20-%20Background%20Checks.png?width=600&name=Foley%20-%20Hero%20-%20Background%20Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast Background Check Com">
+                                <img itemprop="contentUrl url" src='https://fast-background-check-com.govbackgroundchecks.com/screenshots/fast-background-check-com/0.jpg' alt='Fast Background Check Com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://fast-background-check-com.govbackgroundchecks.com/screenshots/fast-background-check-com/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

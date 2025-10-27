@@ -1,0 +1,129 @@
+<title>Purple Gray Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the beauty of purple gray wallpaper for your interiors. Perfect for any room, this trendy design enhances your space with a touch of sophistication. Explore various styles to find the ideal match for your decor and make a statement with ease!">
+                    <meta name="keywords" content="purple gray wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-gray-wallpaper">
+                            <span itemprop="name">purple gray wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Gray Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning purple gray wallpaper, a versatile choice that blends elegance with modernity. Ideal for bedrooms, living rooms, or creative studios, this wallpaper adds depth and sophistication. With various patterns and textures available, create a serene ambiance that reflects your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Grey Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11702358/p/f/m/2GhbfK8w0ODpVsU0WdJbd9XuNeWBd0hAobWr8n7pS9pFHwR_ZdlA4AMelw/Solid%20Light%20Gray%20Purple%20-%20Hex%20%238E88A3%20-%20Plain%20Light%20Gray%20Purple.jpg' alt='Purple Grey Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11702358/p/f/m/2GhbfK8w0ODpVsU0WdJbd9XuNeWBd0hAobWr8n7pS9pFHwR_ZdlA4AMelw/Solid%20Light%20Gray%20Purple%20-%20Hex%20%238E88A3%20-%20Plain%20Light%20Gray%20Purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allen + roth Grey/Purple/Silver Strippable Non-Woven Paper ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/product/converted/623467/623467025500.jpg' alt='allen + roth Grey/Purple/Silver Strippable Non-Woven Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/product/converted/623467/623467025500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casa Mia RM70209 Graffity Effect Soft Grey White Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/219119.jpg' alt='Casa Mia RM70209 Graffity Effect Soft Grey White Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/219119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Floral, Glitter, Striped & Plain World of ...">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/m/u/mur601-issey-mauve-wallpaper-ae5.jpg' alt='Purple Wallpaper | Floral, Glitter, Striped & Plain World of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/m/u/mur601-issey-mauve-wallpaper-ae5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Grey Purple Clouds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/07/15/bb07151cc821b2fce7f879b8d3984416.jpg' alt='Aesthetic Grey Purple Clouds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/07/15/bb07151cc821b2fce7f879b8d3984416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gray Backgrounds Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/abstract-blue-background-layout-design-260nw-116263621.jpg' alt='Purple Gray Backgrounds Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="209">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/abstract-blue-background-layout-design-260nw-116263621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gray Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220718/original/pngtree-morandi-purple-gray-background-picture-image_1659248.jpg' alt='Purple Gray Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220718/original/pngtree-morandi-purple-gray-background-picture-image_1659248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey and purple 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/mBwAAOSwDJ5gR7Qj/s-l1600.jpg' alt='Grey and purple 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/mBwAAOSwDJ5gR7Qj/s-l1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gray Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210714/pngtree-gray-purple-gradient-gold-foil-watercolor-smudge-background-image_741608.jpg' alt='Purple Gray Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210714/pngtree-gray-purple-gradient-gold-foil-watercolor-smudge-background-image_741608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

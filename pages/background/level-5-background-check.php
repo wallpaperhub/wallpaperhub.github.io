@@ -1,0 +1,129 @@
+<title>Comprehensive Level 5 Background Checks Explained</title>
+                    <meta name="description" content="Discover the importance of Level 5 background checks for hiring in sensitive roles. Learn what this extensive screening entails and why it's crucial for employers in high-risk industries. Stay informed and ensure safety in your hiring process!">
+                    <meta name="keywords" content="level 5 background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/level-5-background-check">
+                            <span itemprop="name">level 5 background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comprehensive Level 5 Background Checks Explained</h1>
+                <p>A Level 5 background check is a comprehensive screening process that includes criminal history, credit reports, employment verification, and education verification. Often required for sensitive roles, this level of scrutiny helps ensure safety and integrity in hiring, making it a critical step for employers in high-risk industries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 4 Different Types of Criminal Background Checks | TruDiligence">
+                                <img itemprop="contentUrl url" src='https://www.trudiligence.com/wp-content/uploads/2019/07/TruDiligence_CriminalCheck.png' alt='The 4 Different Types of Criminal Background Checks | TruDiligence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruDiligence" />
+                                </span>
+                                <a href='https://www.trudiligence.com/wp-content/uploads/2019/07/TruDiligence_CriminalCheck.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Differences Between Tier 4 and Tier 5 Security Clearance ...">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' alt='Differences Between Tier 4 and Tier 5 Security Clearance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding U.S. Government Background Investigations ...">
+                                <img itemprop="contentUrl url" src='https://ors.od.nih.gov/ser/dpsac/applicants-employees/know-before-you-go/PublishingImages/Pages/understanding-background-investigations/Final-DCSA-Investigation-Process.jpg' alt='Understanding U.S. Government Background Investigations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ORS - Office Of Research Services | NIH" />
+                                </span>
+                                <a href='https://ors.od.nih.gov/ser/dpsac/applicants-employees/know-before-you-go/PublishingImages/Pages/understanding-background-investigations/Final-DCSA-Investigation-Process.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Background Investigations - Federal Background Investigations">
+                                <img itemprop="contentUrl url" src='https://www.dcsecurityclearanceconsultants.com/i/ce.jpg' alt='Types of Background Investigations - Federal Background Investigations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Security Clearance Consultants" />
+                                </span>
+                                <a href='https://www.dcsecurityclearanceconsultants.com/i/ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Many Levels of Background Checks Are There? | Peopletrail">
+                                <img itemprop="contentUrl url" src='https://peopletrail.com/wp-content/uploads/2020/05/AdobeStock_144657691.jpg' alt='How Many Levels of Background Checks Are There? | Peopletrail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peopletrail" />
+                                </span>
+                                <a href='https://peopletrail.com/wp-content/uploads/2020/05/AdobeStock_144657691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Background Checks - Abuse Prevention Systems">
+                                <img itemprop="contentUrl url" src='https://abusepreventionsystems.com/wp-content/uploads/2023/12/BCT-List-with-5PSS-MOBILE-WEB-Dark-BG-NO-ARMS-V3.png' alt='All About Background Checks - Abuse Prevention Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abuse Prevention Systems" />
+                                </span>
+                                <a href='https://abusepreventionsystems.com/wp-content/uploads/2023/12/BCT-List-with-5PSS-MOBILE-WEB-Dark-BG-NO-ARMS-V3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does Background Check take? - Mintly">
+                                <img itemprop="contentUrl url" src='https://www.blog1.trymintly.com/wp-content/uploads/2022/05/Chart-Best-Background-Check-Services-Compared-03-2023-1.png' alt='How long does Background Check take? - Mintly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mintly" />
+                                </span>
+                                <a href='https://www.blog1.trymintly.com/wp-content/uploads/2022/05/Chart-Best-Background-Check-Services-Compared-03-2023-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection_1639233989/image.coreimg.png/1721240017685/background-checks-hero-2.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection_1639233989/image.coreimg.png/1721240017685/background-checks-hero-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Microsoft's Background Check Process</title>
+                    <meta name="description" content="Explore the details of Microsoft's background check process, from employment history verification to education checks. Learn how these measures enhance workplace integrity and safety, ensuring a professional and secure environment for all employees. Stay informed and prepared for your Microsoft application journey.">
+                    <meta name="keywords" content="microsoft background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/microsoft-background-check">
+                            <span itemprop="name">microsoft background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Microsoft's Background Check Process</h1>
+                <p>Microsoft conducts thorough background checks to ensure the integrity and reliability of its workforce. This process typically includes verification of employment history, educational qualifications, and criminal records. Such measures help maintain a safe and trustworthy work environment, aligning with the company's core values and commitment to excellence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Microsoft Cloud Background Check?">
+                                <img itemprop="contentUrl url" src='https://cloudkeeda.com/wp-content/uploads/2022/06/What-is-Microsoft-cloud-background-check.jpg' alt='What is Microsoft Cloud Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cloudkeeda" />
+                                </span>
+                                <a href='https://cloudkeeda.com/wp-content/uploads/2022/06/What-is-Microsoft-cloud-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Microsoft Cloud Background Check?">
+                                <img itemprop="contentUrl url" src='https://cloudkeeda.com/wp-content/uploads/2022/05/Microsoft-Pre-Employment-Screening-Process-1024x683.jpg' alt='What is Microsoft Cloud Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cloudkeeda" />
+                                </span>
+                                <a href='https://cloudkeeda.com/wp-content/uploads/2022/05/Microsoft-Pre-Employment-Screening-Process-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Microsoft Cloud Background Check?">
+                                <img itemprop="contentUrl url" src='https://cloudkeeda.com/wp-content/uploads/2022/05/Microsoft-Background-Check-Process-1024x683.jpg' alt='What is Microsoft Cloud Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cloudkeeda" />
+                                </span>
+                                <a href='https://cloudkeeda.com/wp-content/uploads/2022/05/Microsoft-Background-Check-Process-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Microsoft - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/12/456/12456877.png' alt='Background Check Microsoft - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/12/456/12456877.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Microsoft Cloud Background Check?">
+                                <img itemprop="contentUrl url" src='https://cloudkeeda.com/wp-content/uploads/2022/05/What-is-Microsoft-Cloud-Background-Check-1024x725.jpg' alt='What is Microsoft Cloud Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cloudkeeda" />
+                                </span>
+                                <a href='https://cloudkeeda.com/wp-content/uploads/2022/05/What-is-Microsoft-Cloud-Background-Check-1024x725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft HireRight Guide | Tech Industry - Blind">
+                                <img itemprop="contentUrl url" src='https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/943/bbd6e6366c933a80957bea9bb32b0427_res.jpeg' alt='Microsoft HireRight Guide | Tech Industry - Blind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blind" />
+                                </span>
+                                <a href='https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/943/bbd6e6366c933a80957bea9bb32b0427_res.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Cloud Background Check? | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/microsoft-cloud-background-check.png' alt='Microsoft Cloud Background Check? | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/microsoft-cloud-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3-2-1-GoCheck. Background checking: The new way!">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.19924.5810aa5d-6984-408e-af42-0f4d04cb2c55.e19bb158-15c6-45e8-9377-ddf0d7e5dfe3.0ac6cb2b-da69-4b8b-b28d-4888d4ad85f9' alt='3-2-1-GoCheck. Background checking: The new way!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="216">
+                                <meta itemprop="height" content="216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft AppSource" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.19924.5810aa5d-6984-408e-af42-0f4d04cb2c55.e19bb158-15c6-45e8-9377-ddf0d7e5dfe3.0ac6cb2b-da69-4b8b-b28d-4888d4ad85f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Microsoft Cloud Background Check? - SEARCH HELP - Quora">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-bb578d650377426d790dafba2bfcf3bc-pjlq' alt='What is Microsoft Cloud Background Check? - SEARCH HELP - Quora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-bb578d650377426d790dafba2bfcf3bc-pjlq' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Cloud Background Check - Azure Lessons">
+                                <img itemprop="contentUrl url" src='https://azurelessons.com/wp-content/uploads/2020/07/What-is-Microsoft-Cloud-Background-Check.jpg' alt='Microsoft Cloud Background Check - Azure Lessons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azure Lessons" />
+                                </span>
+                                <a href='https://azurelessons.com/wp-content/uploads/2020/07/What-is-Microsoft-Cloud-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

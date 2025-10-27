@@ -1,0 +1,129 @@
+<title>Celebrate the Birthday Girl: Unique Backgrounds and Themes</title>
+                    <meta name="description" content="Discover the essence of a birthday girl's special day! Explore unique backgrounds, themes, and ideas that highlight her personality and elevate celebrations. Perfect for anyone planning a memorable birthday experience!">
+                    <meta name="keywords" content="birthday girl background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-girl-background">
+                            <span itemprop="name">birthday girl background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate the Birthday Girl: Unique Backgrounds and Themes</h1>
+                <p>Every birthday girl shines with unique charm, reflecting her joy and excitement on her special day. From childhood celebrations adorned with colorful balloons to sophisticated soirees, each moment captures her personality. Whether she enjoys princess themes or elegant parties, the birthday girl's background tells a story of cherished memories and love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Sumind Happy Birthday Backdrop for Women Pink Birthday  Decorations Banner for Girl Glitter Backdrop Sign Baby Shower Photo Booth,  72.8 x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81GBvMsIvhL.jpg' alt='Amazon.com: Sumind Happy Birthday Backdrop for Women Pink Birthday  Decorations Banner for Girl Glitter Backdrop Sign Baby Shower Photo Booth,  72.8 x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81GBvMsIvhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Birthday Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/037/446/075/small/pastel-pink-background-with-colorful-balloons-copy-space-birthday-or-party-greeting-card-generative-ai-photo.jpg' alt='Girl Birthday Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/037/446/075/small/pastel-pink-background-with-colorful-balloons-copy-space-birthday-or-party-greeting-card-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : First Birthday Backdrop for Girl 1st One Year Old First  Birthday Cake Smash Decor Backdrop Photo Studio Photography Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71t-Y4196CL.jpg' alt='Amazon.com : First Birthday Backdrop for Girl 1st One Year Old First  Birthday Cake Smash Decor Backdrop Photo Studio Photography Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71t-Y4196CL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Birthday Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-background-with-bubbles-stars-copy-space-it-s-girl-vertical-backdrop-with-empty-space-text-baby-shower-birthday-invitation-party-baby-girl-birth-announcement-3d-render_429124-6161.jpg' alt='Girl Birthday Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-background-with-bubbles-stars-copy-space-it-s-girl-vertical-backdrop-with-empty-space-text-baby-shower-birthday-invitation-party-baby-girl-birth-announcement-3d-render_429124-6161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Girl Celebration">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/files/WHM3087x5cupcakebackdrop_1800x1800.jpg?v=1693595620' alt='Birthday Girl Celebration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/files/WHM3087x5cupcakebackdrop_1800x1800.jpg?v=1693595620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital First Birthday One 1 Backdrop for Baby Girl With Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19943850/r/il/af626a/6076166978/il_fullxfull.6076166978_bdch.jpg' alt='Digital First Birthday One 1 Backdrop for Baby Girl With Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2219">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19943850/r/il/af626a/6076166978/il_fullxfull.6076166978_bdch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Girl">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/SPG1855x5BirthdayGirlPhotographyBackdrop.jpg?v=1625505971' alt='Birthday Girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/SPG1855x5BirthdayGirlPhotographyBackdrop.jpg?v=1625505971' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280+ Pink Baby Girl Birthday Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157988156/vector/seamless-pink-birthday-background.jpg?s=612x612&w=0&k=20&c=S3XEC5G_BqOOFJDLtBJ1jZYTw1S8mTtXzkyAb76mzzo=' alt='280+ Pink Baby Girl Birthday Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157988156/vector/seamless-pink-birthday-background.jpg?s=612x612&w=0&k=20&c=S3XEC5G_BqOOFJDLtBJ1jZYTw1S8mTtXzkyAb76mzzo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : MEHOFOND Girl 1st Birthday Photography Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61BvkbtmyFS.jpg' alt='Amazon.com : MEHOFOND Girl 1st Birthday Photography Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61BvkbtmyFS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Birthday Girl - A Pink Background With The Words Birthday ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-birthday-39jiot36clcffltp.jpg' alt='Download Birthday Girl - A Pink Background With The Words Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-birthday-39jiot36clcffltp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

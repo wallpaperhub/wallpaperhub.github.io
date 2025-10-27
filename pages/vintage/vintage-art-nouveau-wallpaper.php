@@ -1,0 +1,129 @@
+<title>Vintage Art Nouveau Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Discover the beauty of vintage Art Nouveau wallpaper, perfect for enhancing any room. With its intricate designs and natural motifs, this wallpaper style brings timeless elegance to your home decor. Explore our collection and transform your space with unique, classic charm!">
+                    <meta name="keywords" content="vintage art nouveau wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-art-nouveau-wallpaper">
+                            <span itemprop="name">vintage art nouveau wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Art Nouveau Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Vintage Art Nouveau wallpaper is a stunning choice for those looking to infuse their space with timeless elegance. Characterized by flowing lines, botanical motifs, and intricate patterns, this style celebrates natural beauty and craftsmanship. Ideal for both modern and classic interiors, it adds a unique charm to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' alt='Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Art Nouveau Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D029">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4963417161_sv55.jpg?v=1717308327&width=1946' alt='Vintage Art Nouveau Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D029'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4963417161_sv55.jpg?v=1717308327&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Wallpaper, Art Deco Wallpaper, Geometric Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/b91c35/4953234878/il_fullxfull.4953234878_8j28.jpg' alt='Art Nouveau Wallpaper, Art Deco Wallpaper, Geometric Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/b91c35/4953234878/il_fullxfull.4953234878_8j28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Retro Art Nouveau Wallpaper Peel and Stick Beige Vintage Floral  Wallpaper for Bedroom Bathroom by William Morris 17.7''x354'' Removable Art  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nUJNG5nBL.jpg' alt='VEELIKE Retro Art Nouveau Wallpaper Peel and Stick Beige Vintage Floral  Wallpaper for Bedroom Bathroom by William Morris 17.7''x354'' Removable Art  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nUJNG5nBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art nouveau wallpaper | Decorative turn-of-the-century art ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/18/28/c2/461502_Despina_518x389.jpg' alt='Art nouveau wallpaper | Decorative turn-of-the-century art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="257">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/18/28/c2/461502_Despina_518x389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Move Over Art Deco… Art Nouveau Wallpaper is Here | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-05/blobid1652693973695.jpg' alt='Move Over Art Deco… Art Nouveau Wallpaper is Here | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-05/blobid1652693973695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Wallpaper">
+                                <img itemprop="contentUrl url" src='https://deccoprint.com/cdn/shop/files/Art_Nouveau_Wallpaper_DeccoPrint-5235720_2048x.jpg?v=1739435584' alt='Art Nouveau Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeccoPrint" />
+                                </span>
+                                <a href='https://deccoprint.com/cdn/shop/files/Art_Nouveau_Wallpaper_DeccoPrint-5235720_2048x.jpg?v=1739435584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique Wallpaper, Victorian Wallpaper, Art Nouveau Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/c12875/4465107915/il_570xN.4465107915_aiej.jpg' alt='Antique Wallpaper, Victorian Wallpaper, Art Nouveau Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/c12875/4465107915/il_570xN.4465107915_aiej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Art Nouveau Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1672829409/articles/R19227_product.jpg' alt='50 Art Nouveau Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1672829409/articles/R19227_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arts & Crafts Wallpaper - Vintage Morris - Flora Nouveau Design -  Liberty-Hope">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/BFcAAOSwQJZiHLlB/s-l1200.jpg' alt='Arts & Crafts Wallpaper - Vintage Morris - Flora Nouveau Design -  Liberty-Hope'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/BFcAAOSwQJZiHLlB/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

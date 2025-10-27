@@ -1,0 +1,129 @@
+<title>Stunning JJK Manga iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover beautiful Jujutsu Kaisen manga wallpapers for iPhone! Find high-quality images of your favorite characters and scenes that will enhance your device's appearance. Download now and showcase your love for JJK with exclusive and captivating designs!">
+                    <meta name="keywords" content="jjk manga iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jjk-manga-iphone-wallpaper">
+                            <span itemprop="name">jjk manga iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning JJK Manga iPhone Wallpapers for Fans</h1>
+                <p>Looking for stunning Jujutsu Kaisen (JJK) manga iPhone wallpapers? Transform your home screen with amazing artwork featuring your favorite characters! From epic fight scenes to emotional moments, JJK offers a range of high-resolution images perfect for any fan. Download your favorite designs and elevate your iPhone’s style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I photoshopped a couple manga panels to make a gojo wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n74idmvhbpz61.jpg' alt='I photoshopped a couple manga panels to make a gojo wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n74idmvhbpz61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some manga wallpapers I made (they're basically all white with a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-cdly04bv4loa1.jpg?width=1125&format=pjpg&auto=webp&s=879bf21765bd414e48e91ccaa8aee8327977aeaf' alt='Some manga wallpapers I made (they're basically all white with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-cdly04bv4loa1.jpg?width=1125&format=pjpg&auto=webp&s=879bf21765bd414e48e91ccaa8aee8327977aeaf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Jujutsu Kaisen iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/7c/e8/267ce8d3ef7b66b5b023c5410eda569a.jpg' alt='Awesome Jujutsu Kaisen iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/7c/e8/267ce8d3ef7b66b5b023c5410eda569a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some manga wallpapers I made (they're basically all white with a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-1wmfknav4loa1.jpg?width=640&crop=smart&auto=webp&s=b799e4fdc043ae0a1e613af528f2f061bf5b9bda' alt='Some manga wallpapers I made (they're basically all white with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-1wmfknav4loa1.jpg?width=640&crop=smart&auto=webp&s=b799e4fdc043ae0a1e613af528f2f061bf5b9bda' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JJK Manga, Black Jujutsu Kaisen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/544/780/HD-wallpaper-jjk-manga-black-jujutsu-kaisen.jpg' alt='JJK Manga, Black Jujutsu Kaisen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/544/780/HD-wallpaper-jjk-manga-black-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JJK Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/d6/6d/1cd66da54e30f862d29e1bd71cbefb80.jpg' alt='JJK Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/d6/6d/1cd66da54e30f862d29e1bd71cbefb80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some manga wallpapers I made (they're basically all white with a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-3p3nsqav4loa1.jpg?width=1125&format=pjpg&auto=webp&s=ea64fccc6edef0f6c0fb6ce56174a6f7e677b220' alt='Some manga wallpapers I made (they're basically all white with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-3p3nsqav4loa1.jpg?width=1125&format=pjpg&auto=webp&s=ea64fccc6edef0f6c0fb6ce56174a6f7e677b220' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JJK Vol. 16 Extras (JP)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/f3/4f/b2f34f003b80f83c4efcd6f734267d4c.jpg' alt='JJK Vol. 16 Extras (JP)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/f3/4f/b2f34f003b80f83c4efcd6f734267d4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Manga iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12938689.jpg' alt='Jujutsu Kaisen Manga iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12938689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some manga wallpapers I made (they're basically all white with a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-myb0qpav4loa1.jpg?width=1125&format=pjpg&auto=webp&s=36028ab1b741371eaf585449a069f88633ed087f' alt='Some manga wallpapers I made (they're basically all white with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-myb0qpav4loa1.jpg?width=1125&format=pjpg&auto=webp&s=36028ab1b741371eaf585449a069f88633ed087f' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

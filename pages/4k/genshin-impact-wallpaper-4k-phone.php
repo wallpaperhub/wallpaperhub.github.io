@@ -1,0 +1,129 @@
+<title>Stunning 4K Genshin Impact Phone Wallpapers</title>
+                    <meta name="description" content="Discover breathtaking 4K Genshin Impact wallpapers for your phone! Download high-quality images to transform your mobile display with stunning visuals of characters and landscapes from Teyvat. Perfect for gamers and fans who want to showcase their love for Genshin Impact!">
+                    <meta name="keywords" content="genshin impact wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/genshin-impact-wallpaper-4k-phone">
+                            <span itemprop="name">genshin impact wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Genshin Impact Phone Wallpapers</h1>
+                <p>Elevate your phone's aesthetic with stunning Genshin Impact 4K wallpapers! Immerse yourself in the vibrant world of Teyvat through high-quality images of your favorite characters and landscapes. Download now to transform your mobile experience into a breathtaking adventure. Perfect for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drew a Raiden Shogun phone wallpaper! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ufrlrfyzj6l71.png?auto=webp&s=afacdc8b968d29fb22ba9269ccc743d5c82902dc' alt='Drew a Raiden Shogun phone wallpaper! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ufrlrfyzj6l71.png?auto=webp&s=afacdc8b968d29fb22ba9269ccc743d5c82902dc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanderer Genshin Impact 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/9b/a3/a09ba3dd632efa5d13d743a818921a04.jpg' alt='Wanderer Genshin Impact 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/9b/a3/a09ba3dd632efa5d13d743a818921a04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Genshin Impact Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/main-characters-genshin-impact-phone-kdkw3fgkxaytjpma.jpg' alt='100+] Genshin Impact Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/main-characters-genshin-impact-phone-kdkw3fgkxaytjpma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xiao Genshin Impact 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/ab/50/9eab50cc91e317423ab8f92e789115e3.jpg' alt='Xiao Genshin Impact 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/ab/50/9eab50cc91e317423ab8f92e789115e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper {Genshin Impact} Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/04/23/217791947/3c27662cf7bcaeca62a0f3cdf27e2697_7272596845137384126.jpg' alt='Wallpaper {Genshin Impact} Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/04/23/217791947/3c27662cf7bcaeca62a0f3cdf27e2697_7272596845137384126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreens & wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/00/97/d2/0097d2512b74d9820cb9cd78fc43e3be.jpg' alt='lockscreens & wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/00/97/d2/0097d2512b74d9820cb9cd78fc43e3be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Characters Wallpaper iPhone Phone 4K #520e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/genshin-impact-characters-52@0@e-phone-4k.jpg' alt='Genshin Impact Characters Wallpaper iPhone Phone 4K #520e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/genshin-impact-characters-52@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Genshin Impact 2020 Wallpaper, HD Games 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/4k-genshin-impact-2020_bGhtam6UmZqaraWkpJRnamtlrWlqamY.jpg' alt='4K Genshin Impact 2020 Wallpaper, HD Games 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="4551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/4k-genshin-impact-2020_bGhtam6UmZqaraWkpJRnamtlrWlqamY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xiao, anemo, genshin impact, xiao, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/944/820/HD-wallpaper-xiao-anemo-genshin-impact-xiao.jpg' alt='Xiao, anemo, genshin impact, xiao, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/944/820/HD-wallpaper-xiao-anemo-genshin-impact-xiao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact (1080x1920) Mobile Wallpaper - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTozkb5SFQ35HX0oyQfQvZxCI_2bqKSmdPxALP4_WlQhQwCxO2MISekyn2YDTKdt5OXswGQY7FICgiQVUTd8WmyI4G9Q3CmxGunrPWYT3vXawaX_oUMojNxg9XU6_ZdB-5EB9yQyjEn8pP/d/Genshin+Impact+%25281080x1920%2529+Mobile+Wallpaper.jpg' alt='Genshin Impact (1080x1920) Mobile Wallpaper - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTozkb5SFQ35HX0oyQfQvZxCI_2bqKSmdPxALP4_WlQhQwCxO2MISekyn2YDTKdt5OXswGQY7FICgiQVUTd8WmyI4G9Q3CmxGunrPWYT3vXawaX_oUMojNxg9XU6_ZdB-5EB9yQyjEn8pP/d/Genshin+Impact+%25281080x1920%2529+Mobile+Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

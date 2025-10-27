@@ -1,0 +1,129 @@
+<title>Elegant Purple Gothic Wallpaper for Dramatic Spaces</title>
+                    <meta name="description" content="Discover striking purple and dark purple gothic wallpaper to elevate your decor. Perfect for a dramatic touch to any room, these wallpapers offer a blend of elegance and mystery. Transform your living space with captivating designs that reflect your unique style. Ideal for both modern and vintage aesthetics.">
+                    <meta name="keywords" content="purple dark purple gothic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-dark-purple-gothic-wallpaper">
+                            <span itemprop="name">purple dark purple gothic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Gothic Wallpaper for Dramatic Spaces</h1>
+                <p>Transform your space with stunning purple and dark purple gothic wallpaper. Perfect for creating a moody, atmospheric vibe, these wallpapers blend elegance with a touch of mystery. Ideal for living rooms, bedrooms, or creative spaces, they add a unique flair that captivates the senses. Embrace the gothic charm today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple goth aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' alt='purple goth aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gothic Elegance Skull Damask Purple Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/72225/dark_gothic_elegance_skull_damask_purple_limited.jpg' alt='Dark Gothic Elegance Skull Damask Purple Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/72225/dark_gothic_elegance_skull_damask_purple_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-1cluqpamixksj1fx.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-1cluqpamixksj1fx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Alfa Img Showing Dark Purple Gothic Wallpaper on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/d5/41/65d5418b7c4545ca2809e8131d15c6a7.jpg' alt='   Free download Alfa Img Showing Dark Purple Gothic Wallpaper on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/d5/41/65d5418b7c4545ca2809e8131d15c6a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Purple Gothic Damask Skulls Black Goth  Maximalist Victorian Spooky Halloween Custom Removable Wallpaper by  Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61d1X6Zj0nL.jpg' alt='Peel & Stick Wallpaper Swatch - Purple Gothic Damask Skulls Black Goth  Maximalist Victorian Spooky Halloween Custom Removable Wallpaper by  Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61d1X6Zj0nL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' alt='Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-a5yq8q7z10j8m5fd.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-a5yq8q7z10j8m5fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/8f/05/fb8f0553365c65653e810b6562c9f699.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/8f/05/fb8f0553365c65653e810b6562c9f699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gothic Elegance Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/72225/dark-gothic-elegance-skull-damask-purple-roll.jpg?w=1400&auto=format&q=40' alt='Dark Gothic Elegance Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/72225/dark-gothic-elegance-skull-damask-purple-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High Resolution Dallas Skyline - Stunning City Views</title>
+                    <meta name="description" content="Discover breathtaking high-resolution images of the Dallas skyline. Perfect for art lovers and city enthusiasts, our collection showcases the vibrant architectural beauty of Dallas. Ideal for wallpapers, print media, or simply to admire the urban landscape. Explore now!">
+                    <meta name="keywords" content="high resolution dallas skyline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/high-resolution-dallas-skyline">
+                            <span itemprop="name">high resolution dallas skyline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High Resolution Dallas Skyline - Stunning City Views</h1>
+                <p>Experience the stunning beauty of the Dallas skyline in high resolution, where modern architecture meets vibrant urban life. From the iconic Reunion Tower to the sleek lines of the Margaret Hunt Hill Bridge, each element captures the spirit of this bustling city. Perfect for wallpaper, art prints, or inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Skyline Images – Browse 7,799 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/50/00/21/360_F_150002194_7VAC0K8RXUsQeBcpT5ps3Ba4aHti3Sd0.jpg' alt='Dallas Skyline Images – Browse 7,799 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/50/00/21/360_F_150002194_7VAC0K8RXUsQeBcpT5ps3Ba4aHti3Sd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ Dallas Skyline Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/923519778/photo/dallas-texas-cityscape.jpg?s=612x612&w=0&k=20&c=i4JccEMqxIs2NwGUgB7-zY_SQVq37G_8aPWcZsKJdBc=' alt='3,300+ Dallas Skyline Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/923519778/photo/dallas-texas-cityscape.jpg?s=612x612&w=0&k=20&c=i4JccEMqxIs2NwGUgB7-zY_SQVq37G_8aPWcZsKJdBc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="650+ Dallas Skyline At Night Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/522580445/photo/dallas-at-dusk.jpg?s=612x612&w=0&k=20&c=Vgj8EZ48ypylpejRQL2Uim-Osb5qZ-D1zMUziQwEfZg=' alt='650+ Dallas Skyline At Night Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/522580445/photo/dallas-at-dusk.jpg?s=612x612&w=0&k=20&c=Vgj8EZ48ypylpejRQL2Uim-Osb5qZ-D1zMUziQwEfZg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos of the Dallas Skyline - VAST">
+                                <img itemprop="contentUrl url" src='https://vastphotos.com/files/uploads/photos/10476/dallas-skyline-photo-vast-xl.jpg?v=20220712043521' alt='Photos of the Dallas Skyline - VAST'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="1505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VAST Photos" />
+                                </span>
+                                <a href='https://vastphotos.com/files/uploads/photos/10476/dallas-skyline-photo-vast-xl.jpg?v=20220712043521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50-megapixel ultra-high-res stock photo license: Dallas Skyline Sunset by  Chris Blake">
+                                <img itemprop="contentUrl url" src='https://vastphotos.com/files/uploads/photos/10916/dallas-skyline-photo-l.jpg?v=20220712043521' alt='50-megapixel ultra-high-res stock photo license: Dallas Skyline Sunset by  Chris Blake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VAST Photos" />
+                                </span>
+                                <a href='https://vastphotos.com/files/uploads/photos/10916/dallas-skyline-photo-l.jpg?v=20220712043521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Downtown Dallas Texas Skyline Reflections Photo Photograph Cool Wall Art  Print Poster 24x36">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61VmYAGCGFL._AC_UF894,1000_QL80_.jpg' alt='Downtown Dallas Texas Skyline Reflections Photo Photograph Cool Wall Art  Print Poster 24x36'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61VmYAGCGFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Skyline Photos, Download The BEST Free Dallas Skyline Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Dallas Skyline Photos, Download The BEST Free Dallas Skyline Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="763 Dallas Skyline Sunset Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dallas-skyline-sunset-38593113.jpg' alt='763 Dallas Skyline Sunset Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dallas-skyline-sunset-38593113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ Dallas Skyline Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/526371301/photo/dallas-at-sunset.jpg?s=612x612&w=0&k=20&c=h7ewvrQoV8NptNMx3KQLM5q-rqSU8SqrQAdQ7-gEUwQ=' alt='3,300+ Dallas Skyline Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/526371301/photo/dallas-at-sunset.jpg?s=612x612&w=0&k=20&c=h7ewvrQoV8NptNMx3KQLM5q-rqSU8SqrQAdQ7-gEUwQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Dallas Skyline Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1631660975301-b2b65e80c98a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFsbGFzJTIwc2t5bGluZXxlbnwwfHwwfHx8MA%3D%3D' alt='30k+ Dallas Skyline Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1631660975301-b2b65e80c98a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFsbGFzJTIwc2t5bGluZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

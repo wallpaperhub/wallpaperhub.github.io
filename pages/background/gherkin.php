@@ -1,0 +1,129 @@
+<title>Gherkins: The Crunchy Pickle Delight</title>
+                    <meta name="description" content="Discover the world of gherkins, the crunchy, tangy pickles perfect for salads or as snacks. Low in calories and rich in antioxidants, gherkins are a delightful addition to any meal. Learn about their health benefits and culinary uses today!">
+                    <meta name="keywords" content="gherkin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gherkin">
+                            <span itemprop="name">gherkin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gherkins: The Crunchy Pickle Delight</h1>
+                <p>Gherkins are small, pickled cucumbers often used in salads and sandwiches. Known for their tangy crunch, they are a key ingredient in many dishes, adding flavor and texture. Rich in antioxidants and low in calories, gherkins are a healthy choice. These tiny veggies can also be enjoyed as snacks or in a charcuterie board.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Gherkins Pickles - Old World Garden Farms">
+                                <img itemprop="contentUrl url" src='https://oldworldgardenfarms.com/wp-content/uploads/2019/08/gherkins-featured-720x540.jpg' alt='Homemade Gherkins Pickles - Old World Garden Farms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old World Garden Farms" />
+                                </span>
+                                <a href='https://oldworldgardenfarms.com/wp-content/uploads/2019/08/gherkins-featured-720x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gherkin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/30_St_Mary_Axe%2C_%27Gherkin%27.JPG/640px-30_St_Mary_Axe%2C_%27Gherkin%27.JPG' alt='The Gherkin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/30_St_Mary_Axe%2C_%27Gherkin%27.JPG/640px-30_St_Mary_Axe%2C_%27Gherkin%27.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've always wanted to write about Gherkin — MIRJAM LETSCH">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60d2052696041e771b8b7a60/6173a084-afec-4724-8b96-d2955e1844ec/%C2%A9MirjamLetsch-AUGURK-4.jpg' alt='I've always wanted to write about Gherkin — MIRJAM LETSCH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIRJAM LETSCH" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60d2052696041e771b8b7a60/6173a084-afec-4724-8b96-d2955e1844ec/%C2%A9MirjamLetsch-AUGURK-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BDD 101: The Gherkin Language | Automation Panda">
+                                <img itemprop="contentUrl url" src='https://automationpanda.com/wp-content/uploads/2017/01/gherkins_facebook.jpg' alt='BDD 101: The Gherkin Language | Automation Panda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Automation Panda" />
+                                </span>
+                                <a href='https://automationpanda.com/wp-content/uploads/2017/01/gherkins_facebook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Gherkin Pickles">
+                                <img itemprop="contentUrl url" src='https://www.lordbyronskitchen.com/wp-content/uploads/2024/08/1-AND-2-18.jpg' alt='Quick Gherkin Pickles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lord Byron's Kitchen" />
+                                </span>
+                                <a href='https://www.lordbyronskitchen.com/wp-content/uploads/2024/08/1-AND-2-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gherkin - Nature's Produce">
+                                <img itemprop="contentUrl url" src='https://naturesproduce.com/wp-content/uploads/2018/10/gherkin.jpg' alt='Gherkin - Nature's Produce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature's Produce" />
+                                </span>
+                                <a href='https://naturesproduce.com/wp-content/uploads/2018/10/gherkin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gherkins: Pickled Cucumbers With a Fancy Name – Recette Magazine">
+                                <img itemprop="contentUrl url" src='https://blog.suvie.com/wp-content/uploads/2021/09/cucumber-5453364_1920-1024x683.jpg' alt='Gherkins: Pickled Cucumbers With a Fancy Name – Recette Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recette Magazine - Suvie" />
+                                </span>
+                                <a href='https://blog.suvie.com/wp-content/uploads/2021/09/cucumber-5453364_1920-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARCHAEOLOGY OF FRUITS & VEGETABLES – Gherkin (Cornichon)">
+                                <img itemprop="contentUrl url" src='https://chefsmandala.com/wp-content/uploads/2018/04/Gherkin-Cornichon.jpg' alt='ARCHAEOLOGY OF FRUITS & VEGETABLES – Gherkin (Cornichon)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chef's Mandala" />
+                                </span>
+                                <a href='https://chefsmandala.com/wp-content/uploads/2018/04/Gherkin-Cornichon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gherkin | History, Description, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/77/175777-050-370B4EE7/architecture-skyscraper-30-St-Mary-Axe-London-england-Gherkin.jpg' alt='The Gherkin | History, Description, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1073">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/77/175777-050-370B4EE7/architecture-skyscraper-30-St-Mary-Axe-London-england-Gherkin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gherkins: Pickled Cucumbers With a Fancy Name – Recette Magazine">
+                                <img itemprop="contentUrl url" src='https://blog.suvie.com/wp-content/uploads/2021/09/cucumbers-3556425_1920.jpg' alt='Gherkins: Pickled Cucumbers With a Fancy Name – Recette Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recette Magazine - Suvie" />
+                                </span>
+                                <a href='https://blog.suvie.com/wp-content/uploads/2021/09/cucumbers-3556425_1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

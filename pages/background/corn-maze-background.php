@@ -1,0 +1,129 @@
+<title>"Explore the Excitement of Corn Mazes"</title>
+                    <meta name="description" content="Discover the fun of corn mazes this autumn! Navigate through intricate paths, enjoy the fresh air, and create unforgettable memories with family and friends. Experience the thrill of the harvest season in a unique outdoor adventure!">
+                    <meta name="keywords" content="corn maze background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/corn-maze-background">
+                            <span itemprop="name">corn maze background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Explore the Excitement of Corn Mazes"</h1>
+                <p>A corn maze, often found on farms during the fall, offers a fun, challenging experience for visitors. Typically designed as intricate pathways through tall corn stalks, it provides adventure and amusement for families and friends. These mazes celebrate the harvest season, encouraging outdoor exploration and creating lasting memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310+ Corn Maze Path Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1203971242/photo/corn-maze.jpg?s=612x612&w=0&k=20&c=4w86CYsRW8BUVmDZhhuR-KSTQ-kaN-NNO8RmubuuRh4=' alt='310+ Corn Maze Path Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1203971242/photo/corn-maze.jpg?s=612x612&w=0&k=20&c=4w86CYsRW8BUVmDZhhuR-KSTQ-kaN-NNO8RmubuuRh4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x3ft Corn Maze Backdrop Autumn Cornfield Entrance Countryside Corn Farm  Harvest Blue Sky Scenery Background Halloween Game Corn Maze Party  Decoration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81+pcwSwz0L._AC_UF894,1000_QL80_.jpg' alt='5x3ft Corn Maze Backdrop Autumn Cornfield Entrance Countryside Corn Farm  Harvest Blue Sky Scenery Background Halloween Game Corn Maze Party  Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81+pcwSwz0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320+ Corn Maze Shape Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/855980612/photo/corn-maze.jpg?s=612x612&w=0&k=20&c=yaUZmVx9YCIMBLNrn8wpGaN27W-l9Z-7BVgm12-xg7Q=' alt='320+ Corn Maze Shape Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/855980612/photo/corn-maze.jpg?s=612x612&w=0&k=20&c=yaUZmVx9YCIMBLNrn8wpGaN27W-l9Z-7BVgm12-xg7Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO Fabric 15x10ft Green Corn Field Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/812gB-Xm-1L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : CORFOTO Fabric 15x10ft Green Corn Field Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/812gB-Xm-1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 10ftx8ft Corn Maze Backdrop Wooden Entrance ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Mfhp0JbpL.jpg' alt='Amazon.com : CHNYWORK 10ftx8ft Corn Maze Backdrop Wooden Entrance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Mfhp0JbpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310+ Corn Maze Path Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/485885648/photo/maize-maze.jpg?s=612x612&w=0&k=20&c=0PWw6DHTHFvM96xAWCObVGOcARYCbRpzuLKMfvjfvS0=' alt='310+ Corn Maze Path Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/485885648/photo/maize-maze.jpg?s=612x612&w=0&k=20&c=0PWw6DHTHFvM96xAWCObVGOcARYCbRpzuLKMfvjfvS0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corn Maze Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/657/173/non_2x/ai-generated-ai-generative-green-farm-harvest-corn-field-outdoor-nature-wild-plant-growing-graphic-art-photo.jpg' alt='Corn Maze Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/657/173/non_2x/ai-generated-ai-generative-green-farm-harvest-corn-field-outdoor-nature-wild-plant-growing-graphic-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Country's Creepiest Haunted Corn Mazes for Halloween">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/KEQoCbCGfbcki2ISOlZhsYHqTq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creepy-corn-maze-HAUNTED0716-3c7d2ef7247b47cdb735146f11203d01.jpg' alt='The Country's Creepiest Haunted Corn Mazes for Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/KEQoCbCGfbcki2ISOlZhsYHqTq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creepy-corn-maze-HAUNTED0716-3c7d2ef7247b47cdb735146f11203d01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,503 Corn Maze Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/corn-maze-country-autumn-33556610.jpg' alt='3,503 Corn Maze Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/corn-maze-country-autumn-33556610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,506 Corn Mazes Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/ohio-fall-season-corn-maze-600nw-2516199689.jpg' alt='10,506 Corn Mazes Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/ohio-fall-season-corn-maze-600nw-2516199689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

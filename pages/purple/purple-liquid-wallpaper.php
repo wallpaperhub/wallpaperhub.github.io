@@ -1,0 +1,129 @@
+<title>Stunning Purple Liquid Wallpaper for Vibrant Spaces</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="purple liquid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-liquid-wallpaper">
+                            <span itemprop="name">purple liquid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Liquid Wallpaper for Vibrant Spaces</h1>
+                <p>Transform your space with stunning purple liquid wallpaper, perfect for creating a soothing and vibrant atmosphere. This mesmerizing design adds depth and character to any room, making it an eye-catching focal point. Ideal for living rooms, bedrooms, or offices, it's easy to apply and remove, allowing for effortless style updates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Liquid Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-82940.jpg?semt=ais_hybrid' alt='Purple Liquid Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-82940.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple + Black Liquid Marble Seamless Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1657157127257-WZWQPT6XTLG3OXU41DOV/Purple+Black+Marble+Seamless+Cover+WM+1.jpg?format=1500w' alt='Purple + Black Liquid Marble Seamless Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1657157127257-WZWQPT6XTLG3OXU41DOV/Purple+Black+Marble+Seamless+Cover+WM+1.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Vibrant neon purple liquid background by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/19/94/b21994b488264edd5d63aacb0051418b.jpg' alt='Download free image of Vibrant neon purple liquid background by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/19/94/b21994b488264edd5d63aacb0051418b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lime Green Purple Marble Seamless Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/20ac74/4041448149/il_570xN.4041448149_ik5s.jpg' alt='Lime Green Purple Marble Seamless Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/20ac74/4041448149/il_570xN.4041448149_ik5s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Iphone Abstract Liquid Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-purple-iphone-abstract-liquid-er9mjckdkr2acrr4.jpg' alt='Neon Purple Iphone Abstract Liquid Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-purple-iphone-abstract-liquid-er9mjckdkr2acrr4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Purple Liquid [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/blue-and-purple-liquid-3840x2160-v0-l73y9lbbsdi81.png?auto=webp&s=dda4f9ebc315724b3c0ed184c0c598a75f583fa2' alt='Blue and Purple Liquid [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/blue-and-purple-liquid-3840x2160-v0-l73y9lbbsdi81.png?auto=webp&s=dda4f9ebc315724b3c0ed184c0c598a75f583fa2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: abstract, fluid, liquid, artwork, ArtStation, shapes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/cd/41/31cd41c991b956a6b7b8a060a5cb3460.jpg' alt='HD wallpaper: abstract, fluid, liquid, artwork, ArtStation, shapes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/cd/41/31cd41c991b956a6b7b8a060a5cb3460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Purple Liquid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-theme-abstract-background-with-marble-texture_474888-4941.jpg' alt='Black Purple Liquid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-theme-abstract-background-with-marble-texture_474888-4941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet creative backdrop on liquid. Purple fluid art background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/13/20/10/1000_F_513201065_bADZLYYeT1qKUKtoGU7Np5Vrs5HFzpAX.jpg' alt='Violet creative backdrop on liquid. Purple fluid art background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/13/20/10/1000_F_513201065_bADZLYYeT1qKUKtoGU7Np5Vrs5HFzpAX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple water, abstract, purple, acrylic, black, blue, fluid liquid ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/463/2/HD-wallpaper-purple-water-abstract-purple-acrylic-black-blue-fluid-kor4-rts-liquid-texture-water-watercolor-white.jpg' alt='Purple water, abstract, purple, acrylic, black, blue, fluid liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/463/2/HD-wallpaper-purple-water-abstract-purple-acrylic-black-blue-fluid-kor4-rts-liquid-texture-water-watercolor-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Optimal Wood Elf Ranger Build in BG3</title>
+                    <meta name="description" content="Discover how to create the ideal Wood Elf Ranger build in Baldur’s Gate 3! Unleash your potential with expert tips on attributes, skills, and equipment to enhance your gameplay. Perfect for both stealthy approaches and ranged combat, this guide ensures you dominate your enemies in the wild!">
+                    <meta name="keywords" content="wood elf ranger build bg3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wood-elf-ranger-build-bg3">
+                            <span itemprop="name">wood elf ranger build bg3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimal Wood Elf Ranger Build in BG3</h1>
+                <p>For an effective Wood Elf Ranger build in Baldur's Gate 3, focus on Dexterity for ranged attacks and Stealth for sneaky play. Choose skills like Perception and Survival to enhance exploration. Select unique subclasses like Hunter or Beast Master for diverse playstyles. Equip nature-based gear and enhance spells for survival and combat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Ranger build">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-ranger-class.jpg' alt='Best Baldur's Gate 3 Ranger build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-ranger-class.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Build The Best Ranger In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-wood-elf-ranger-ability-point-distribution-screen.jpg' alt='How To Build The Best Ranger In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-wood-elf-ranger-ability-point-distribution-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Ranger build">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-ranger.jpg' alt='Best Baldur's Gate 3 Ranger build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-ranger.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Elf rangers as skill monkeys? : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3bu933r24r081.png?width=1920&format=png&auto=webp&s=0cd4fbdff3fea550dd071e3eaf2e34b51fa702e0' alt='Wood Elf rangers as skill monkeys? : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3bu933r24r081.png?width=1920&format=png&auto=webp&s=0cd4fbdff3fea550dd071e3eaf2e34b51fa702e0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Ranger Hunter Build - Deltia's Gaming">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/08/Best-Baldurs-Gate-3-Gloom-Stalker-Ranger-Character-Creation.jpg' alt='Best Baldur's Gate 3 Ranger Hunter Build - Deltia's Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/08/Best-Baldurs-Gate-3-Gloom-Stalker-Ranger-Character-Creation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is The Best Hunter Ranger Build In BG3?">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/11/20231110232340_1.jpg' alt='What Is The Best Hunter Ranger Build In BG3?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/11/20231110232340_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ranger build in Baldur's Gate 3: Race, skills, subclass ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/01/Baldurs-Gate-3-Ranger-best-build.jpg' alt='Best Ranger build in Baldur's Gate 3: Race, skills, subclass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/01/Baldurs-Gate-3-Ranger-best-build.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ranger build in Baldur's Gate 3: Race, skills, subclass ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/01/Baldurs-Gate-3-ranger-1024x576.jpg?width=1200&quality=75&format=auto' alt='Best Ranger build in Baldur's Gate 3: Race, skills, subclass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/01/Baldurs-Gate-3-ranger-1024x576.jpg?width=1200&quality=75&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Ranger build: Race, subclass, background ...">
+                                <img itemprop="contentUrl url" src='https://www.charlieintel.com/cdn-image/wp-content/uploads/2023/08/02/best-baldurs-gate-3-ranger-build.jpg?width=1200&quality=60&format=auto' alt='Best Baldur's Gate 3 Ranger build: Race, subclass, background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charlie INTEL" />
+                                </span>
+                                <a href='https://www.charlieintel.com/cdn-image/wp-content/uploads/2023/08/02/best-baldurs-gate-3-ranger-build.jpg?width=1200&quality=60&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Elf Race Overview - Deltia's Gaming">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/07/Baldurs-Gate-3-Best-Ranger-Build.jpg' alt='Baldur's Gate 3: Elf Race Overview - Deltia's Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/07/Baldurs-Gate-3-Best-Ranger-Build.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

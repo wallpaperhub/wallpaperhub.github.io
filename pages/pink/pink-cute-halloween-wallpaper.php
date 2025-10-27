@@ -1,0 +1,129 @@
+<title>Adorable Pink Halloween Wallpaper for a Whimsical Touch</title>
+                    <meta name="description" content="Discover our charming pink cute Halloween wallpaper that perfectly blends spooky and sweet! Ideal for decorating kids' spaces or adding a playful flair to your home. Check out our designs that bring festive joy and creativity to any room, making your Halloween celebrations truly special!">
+                    <meta name="keywords" content="pink cute halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-cute-halloween-wallpaper">
+                            <span itemprop="name">pink cute halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pink Halloween Wallpaper for a Whimsical Touch</h1>
+                <p>Transform your space this Halloween with our delightful pink cute Halloween wallpaper! Featuring charming ghosts, playful pumpkins, and sweet bats, this whimsical design adds a touch of fun and festive spirit to your home. Perfect for kids' rooms or any Halloween-lovers seeking a cute vibe! Embrace the holiday in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/54/96/08/549608bae0b24f61273fa5cdf8dbd867.jpg' alt='Pink Halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/54/96/08/549608bae0b24f61273fa5cdf8dbd867.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,100+ Pink Halloween Backgrounds Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2162985575/vector/seamless-pattern-of-pink-halloween-items-vector-graphics.jpg?s=612x612&w=0&k=20&c=hD1NS2fQFuGH9BveAC2Os4Mp-LdWqU7b2wPq2yAe_O8=' alt='3,100+ Pink Halloween Backgrounds Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2162985575/vector/seamless-pattern-of-pink-halloween-items-vector-graphics.jpg?s=612x612&w=0&k=20&c=hD1NS2fQFuGH9BveAC2Os4Mp-LdWqU7b2wPq2yAe_O8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,132 Cute Pink Pumpkin Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/pink-coquette-bow-pumpkin-trellis-600nw-2483882815.jpg' alt='2,132 Cute Pink Pumpkin Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/pink-coquette-bow-pumpkin-trellis-600nw-2483882815.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Cute Halloween Wallpapers!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/b2/2c/4bb22cf10ed250e3da24c2f19a099aa9.jpg' alt='More Cute Halloween Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/b2/2c/4bb22cf10ed250e3da24c2f19a099aa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Halloween Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Pink-Halloween-Desktop-Wallpapers-10164329-1694530327/original-10164329-1.jpg' alt='Pink Halloween Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Pink-Halloween-Desktop-Wallpapers-10164329-1694530327/original-10164329-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ghost, Halloween wallpaper, Fall Phone Wallpaper, October wallpaper,  Ghost wallpaper, Pumpkin phone screen, Bats wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30055525/r/il/6c835f/4171020459/il_570xN.4171020459_eoam.jpg' alt='Pink Ghost, Halloween wallpaper, Fall Phone Wallpaper, October wallpaper,  Ghost wallpaper, Pumpkin phone screen, Bats wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30055525/r/il/6c835f/4171020459/il_570xN.4171020459_eoam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Halloween Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-halloween-background-uu00uoe67xdquq21.jpg' alt='100+] Pink Halloween Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-halloween-background-uu00uoe67xdquq21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Cute Halloween Wallpaper Ideas : Pink Spooky Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/4f/a1/d04fa118c3adc5ee1aa9e89e9828b0df.jpg' alt='12 Cute Halloween Wallpaper Ideas : Pink Spooky Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/4f/a1/d04fa118c3adc5ee1aa9e89e9828b0df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,100+ Pink Halloween Backgrounds Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1684917872/vector/vector-background-for-halloween.jpg?s=612x612&w=0&k=20&c=RH2KZLhkQLpfgXZQMbLS2wvOUs_IohlrA4WZZ1XB3_k=' alt='3,100+ Pink Halloween Backgrounds Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1684917872/vector/vector-background-for-halloween.jpg?s=612x612&w=0&k=20&c=RH2KZLhkQLpfgXZQMbLS2wvOUs_IohlrA4WZZ1XB3_k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Halloween Wallpaper! - Life & Sprinkles by Taryn Camp">
+                                <img itemprop="contentUrl url" src='https://lifeandsprinkles.com/wp-content/uploads/2023/10/Halloween-Wallpaper.png' alt='New Halloween Wallpaper! - Life & Sprinkles by Taryn Camp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="by taryn camp" />
+                                </span>
+                                <a href='https://lifeandsprinkles.com/wp-content/uploads/2023/10/Halloween-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

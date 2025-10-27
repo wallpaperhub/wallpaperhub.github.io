@@ -1,0 +1,129 @@
+<title>Festive Red Christmas Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful red Christmas wallpapers for your iPhone. Elevate your holiday spirit with stunning designs that bring warmth and joy to your screen. Perfect for celebrating the season, these wallpapers are easy to download and personalize your device.">
+                    <meta name="keywords" content="red christmas wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-christmas-wallpaper-iphone">
+                            <span itemprop="name">red christmas wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Red Christmas Wallpapers for iPhone</h1>
+                <p>Transform your iPhone this festive season with stunning red Christmas wallpaper! From vibrant patterns to elegant designs, find the perfect backdrop to create a joyful holiday atmosphere on your screen. Embrace the spirit of Christmas and make your device merry and bright with unique designs that celebrate this wonderful time of year!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/93/da/2193da2c0ea61d7efbc0de5a9d4dfc44.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/93/da/2193da2c0ea61d7efbc0de5a9d4dfc44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookie Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/a7/e4/3fa7e4f281ca92b56c03dbb861d43242.jpg' alt='Christmas Cookie Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/a7/e4/3fa7e4f281ca92b56c03dbb861d43242.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="0+] Red Christmas Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/red-christmas-iphone-background-0zmtngv8fct84ix3.jpg' alt='0+] Red Christmas Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/red-christmas-iphone-background-0zmtngv8fct84ix3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Christmas Background Images – Browse 6,732,373 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/12/03/53/360_F_1012035300_G1Afyo36b2lw86ElgCtxUFxp3vLjNRwL.jpg' alt='Red Christmas Background Images – Browse 6,732,373 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="229">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/12/03/53/360_F_1012035300_G1Afyo36b2lw86ElgCtxUFxp3vLjNRwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZV91cF9waG90b19vZl93aGl0ZV9jaHJpc3RtYXNfdHJlZV93aXRoX184ZDRiMDJhNi05NDMyLTRjMTUtOGUyNS1lNjI5ODAzMDI4NjlfMS5qcGc.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZV91cF9waG90b19vZl93aGl0ZV9jaHJpc3RtYXNfdHJlZV93aXRoX184ZDRiMDJhNi05NDMyLTRjMTUtOGUyNS1lNjI5ODAzMDI4NjlfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Iphone Red And White Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-christmas-iphone-red-and-white-b72u38xftbqad14c.jpg' alt='Cute Christmas Iphone Red And White Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-christmas-iphone-red-and-white-b72u38xftbqad14c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Glowy Red Christmas Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-christmas-iphone-yol72s66j42xg8x2.jpg' alt='Download Glowy Red Christmas Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-christmas-iphone-yol72s66j42xg8x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Christmas Wallpapers for iPhone 6/7/8/SE/X/XS/XR/11/12/13">
+                                <img itemprop="contentUrl url" src='https://www.aiseesoft.com/images/resource/christmas-wallpaper-iphone/19-houses-in-red-background.jpg' alt='2025 Christmas Wallpapers for iPhone 6/7/8/SE/X/XS/XR/11/12/13'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aiseesoft" />
+                                </span>
+                                <a href='https://www.aiseesoft.com/images/resource/christmas-wallpaper-iphone/19-houses-in-red-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Christmas iPhone 6S Plus Wallpaper​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/12057' alt='Red Christmas iPhone 6S Plus Wallpaper​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/12057' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Santa On Red Christmas Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/christmas-tree-pattern-iphone-ti4vgmpsk4189932.webp' alt='Tiny Santa On Red Christmas Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/christmas-tree-pattern-iphone-ti4vgmpsk4189932.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

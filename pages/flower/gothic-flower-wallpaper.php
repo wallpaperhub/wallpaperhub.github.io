@@ -1,0 +1,129 @@
+<title>Gothic Flower Wallpaper: Dark Romance for Your Walls</title>
+                    <meta name="description" content="Discover gothic flower wallpaper for a chic, dramatic look. Featuring elegant floral designs in deep hues, it’s perfect for creating a striking ambiance. Enhance your decor with this unique wallpaper that brings a gothic touch to any space, making your walls a canvas of mystery and beauty.">
+                    <meta name="keywords" content="gothic flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/gothic-flower-wallpaper">
+                            <span itemprop="name">gothic flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Flower Wallpaper: Dark Romance for Your Walls</h1>
+                <p>Transform your space with gothic flower wallpaper, a perfect blend of dark romance and nature's beauty. Featuring intricate floral patterns, rich colors, and a unique aesthetic, this wallpaper adds a touch of elegance to any room. Ideal for those who love the mysterious allure of gothic decor, it's more than just wallpaper—it's a statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_570xN.5906782583_mjfi.jpg' alt='Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_570xN.5906782583_mjfi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_fullxfull.4459978270_45iq.jpg' alt='Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_fullxfull.4459978270_45iq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_1-min.jpg?v=1739231685&width=1214' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_1-min.jpg?v=1739231685&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qianglive Floral Peel and Stick Wallpaper Dark Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/81XvZ+c6InL._AC_UL210_SR210,210_.jpg' alt='Qianglive Floral Peel and Stick Wallpaper Dark Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/81XvZ+c6InL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' alt='Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Flower Wallpaper | Moody Flowers Gothic Aesthetic Wall Art">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/54426/moody_flowers_gothic_vibe_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Gothic Flower Wallpaper | Moody Flowers Gothic Aesthetic Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/54426/moody_flowers_gothic_vibe_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Garden | Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://maatluxe.com/cdn/shop/products/VelvetTales-PaperAesthetic-Pattern4copy.png?v=1670189539&width=1080' alt='Dark Garden | Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MA'AT LUXE HOME" />
+                                </span>
+                                <a href='https://maatluxe.com/cdn/shop/products/VelvetTales-PaperAesthetic-Pattern4copy.png?v=1670189539&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Dark Gothic Wallpaper Skulls Ferns Peel and Stick Wallpaper Floral  Wallpaper for Bedroom Bathroom Living Room 17.7''x118'' Removable Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91u8zS4bK3L.jpg' alt='VEELIKE Dark Gothic Wallpaper Skulls Ferns Peel and Stick Wallpaper Floral  Wallpaper for Bedroom Bathroom Living Room 17.7''x118'' Removable Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91u8zS4bK3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Flower Wallpaper">
+                                <img itemprop="contentUrl url" src='https://villohome.com/cdn/shop/files/BlackandWhiteRoses2_800x.jpg?v=1715160116' alt='Gothic Flower Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villohome" />
+                                </span>
+                                <a href='https://villohome.com/cdn/shop/files/BlackandWhiteRoses2_800x.jpg?v=1715160116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic and Floral Wallpaper Skull and Peony Wallpaper Peel and ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5384002172_r783.jpg?v=1719962594&width=416' alt='Gothic and Floral Wallpaper Skull and Peony Wallpaper Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5384002172_r783.jpg?v=1719962594&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

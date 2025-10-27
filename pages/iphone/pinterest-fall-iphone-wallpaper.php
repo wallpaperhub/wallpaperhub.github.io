@@ -1,0 +1,129 @@
+<title>Stunning Fall iPhone Wallpapers from Pinterest</title>
+                    <meta name="description" content="Explore beautiful fall iPhone wallpapers on Pinterest! From vibrant autumn leaves to cozy seasonal themes, find the perfect backdrop to refresh your device this autumn. Enjoy daily inspiration and the warmth of the season right on your screen!">
+                    <meta name="keywords" content="pinterest fall iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pinterest-fall-iphone-wallpaper">
+                            <span itemprop="name">pinterest fall iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall iPhone Wallpapers from Pinterest</h1>
+                <p>As autumn approaches, it's time to refresh your device with stunning fall-themed iPhone wallpapers from Pinterest. Discover a variety of cozy designs featuring vibrant foliage, warm tones, and seasonal illustrations that capture the essence of fall. Add a seasonal touch to your iPhone and enjoy the beauty of autumn daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/c0/63/a4c06321f60e80a4a1585635c7e8aafc.jpg' alt='Fall wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/c0/63/a4c06321f60e80a4a1585635c7e8aafc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn | Halloween wallpaper iphone backgrounds, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/0a/52/490a52bfe75ed750ab53e516c65cca44.jpg' alt='Autumn | Halloween wallpaper iphone backgrounds, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/0a/52/490a52bfe75ed750ab53e516c65cca44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✰ p i n t e r e s t : livebyfaithh ✰">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/42/67/93426765e380e7a81a155b20db491487.jpg' alt='✰ p i n t e r e s t : livebyfaithh ✰'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/42/67/93426765e380e7a81a155b20db491487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                  : @  _                    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/97/72/a597725d18350504e123c006d2162b0e.jpg' alt='                  : @  _                    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/97/72/a597725d18350504e123c006d2162b0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall wallpaper made by me">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/e9/ac/10e9acd28fd586751d2bfbf06d9480df.jpg' alt='Fall wallpaper made by me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/e9/ac/10e9acd28fd586751d2bfbf06d9480df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm & Cosy Autumn Fall Illustration Phone Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/57/4c/ab/574cab022631919f1af6403526f96018.jpg' alt='Warm & Cosy Autumn Fall Illustration Phone Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/57/4c/ab/574cab022631919f1af6403526f96018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Best Free Fall Wallpaper & Autumn Wallpaper Options For Your ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8f/37/be/8f37be1f35030f5a2cbd61d7cfd1525b.jpg' alt='30+ Best Free Fall Wallpaper & Autumn Wallpaper Options For Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8f/37/be/8f37be1f35030f5a2cbd61d7cfd1525b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Fall iPhone Wallpapers Pumpkins">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/5a/74/7a5a747b879141cd3fbdf2ed1981c206.jpg' alt='Free Fall iPhone Wallpapers Pumpkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/5a/74/7a5a747b879141cd3fbdf2ed1981c206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Callie C. on Wallpapers in 2022 | Cute fall wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/46/86/3d/46863d7df62a110d3b08d1c710e51977.jpg' alt='Pin by Callie C. on Wallpapers in 2022 | Cute fall wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/46/86/3d/46863d7df62a110d3b08d1c710e51977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background cover page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cb/24/a9/cb24a9baf91b0d73b2ff38cebfd1b9e6.jpg' alt='background cover page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cb/24/a9/cb24a9baf91b0d73b2ff38cebfd1b9e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

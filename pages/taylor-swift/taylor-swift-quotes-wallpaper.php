@@ -1,0 +1,129 @@
+<title>Taylor Swift Quotes Wallpaper: Inspire Your Screen!</title>
+                    <meta name="description" content="Discover beautiful Taylor Swift quotes wallpaper to inspire and uplift your screens. Perfect for fans wanting daily motivation, these wallpapers showcase her iconic lyrics and messages. Elevate your device aesthetics with a touch of Swift!">
+                    <meta name="keywords" content="taylor swift quotes wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-quotes-wallpaper">
+                            <span itemprop="name">taylor swift quotes wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Quotes Wallpaper: Inspire Your Screen!</h1>
+                <p>Dive into the world of Taylor Swift with stunning quotes wallpaper that resonates with her inspiring lyrics and powerful messages. Perfect for your phone or desktop, these wallpapers bring a touch of magic and motivation to your daily life. Adorn your screens with Swift's wisdom and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift homescreen <33">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' alt='taylor swift homescreen <33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This quote is my new phone wallpaper! Planning to make more. What ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pus6g6hf66s41.jpg' alt='This quote is my new phone wallpaper! Planning to make more. What ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2302">
+                                <meta itemprop="height" content="4094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pus6g6hf66s41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Motivational Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/be/8c/65/be8c65ac5a73543e905da86399182725.jpg' alt='Taylor Swift Motivational Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/be/8c/65/be8c65ac5a73543e905da86399182725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="illustrated some wallpapers of lyrics that hit extra hard after ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/illustrated-some-wallpapers-of-lyrics-that-hit-extra-hard-v0-a2gsmstwgbua1.jpg?width=640&crop=smart&auto=webp&s=3f28c8486f2ca3d9c2002079e6ce425091a19d67' alt='illustrated some wallpapers of lyrics that hit extra hard after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/illustrated-some-wallpapers-of-lyrics-that-hit-extra-hard-v0-a2gsmstwgbua1.jpg?width=640&crop=smart&auto=webp&s=3f28c8486f2ca3d9c2002079e6ce425091a19d67' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Taylor Swift Lyrics Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-lyrics-l9bitjblcv89uvy6.jpg' alt='100+] Taylor Swift Lyrics Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-lyrics-l9bitjblcv89uvy6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lyric Wallpapers Part 2!! In light of the recent news ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3080143430944807233' alt='Taylor Swift Lyric Wallpapers Part 2!! In light of the recent news ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3080143430944807233' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Floral Quote iPhone Wallpaper | Taylor swift lyrics ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/7b/46/637b46a677b04d24fd26f5d631f759b4.jpg' alt='Taylor Swift Floral Quote iPhone Wallpaper | Taylor swift lyrics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/7b/46/637b46a677b04d24fd26f5d631f759b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Wallpaper | Taylor Swift's Quote by beautifulhana on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3cbbca2-3c48-4420-99d8-635dae4b3ef2/d6tuwpb-6a245103-8fd7-4cb2-8eed-e2eb2b4a41df.jpg/v1/fill/w_1024,h_576,q_75,strp/simple_wallpaper___taylor_swift_s_quote_by_beautifulhana_d6tuwpb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZTNjYmJjYTItM2M0OC00NDIwLTk5ZDgtNjM1ZGFlNGIzZWYyXC9kNnR1d3BiLTZhMjQ1MTAzLThmZDctNGNiMi04ZWVkLWUyZWIyYjRhNDFkZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1gbvqkkfUWKXVm4r5nHo9pOT8re1giQtv80uOdCJ5go' alt='Simple Wallpaper | Taylor Swift's Quote by beautifulhana on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3cbbca2-3c48-4420-99d8-635dae4b3ef2/d6tuwpb-6a245103-8fd7-4cb2-8eed-e2eb2b4a41df.jpg/v1/fill/w_1024,h_576,q_75,strp/simple_wallpaper___taylor_swift_s_quote_by_beautifulhana_d6tuwpb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZTNjYmJjYTItM2M0OC00NDIwLTk5ZDgtNjM1ZGFlNGIzZWYyXC9kNnR1d3BiLTZhMjQ1MTAzLThmZDctNGNiMi04ZWVkLWUyZWIyYjRhNDFkZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1gbvqkkfUWKXVm4r5nHo9pOT8re1giQtv80uOdCJ5go' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Quotes From Taylor Swift Songs Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/made-to-worship-small-quotes-9l53nrvdsaub1502.webp' alt='Small Quotes From Taylor Swift Songs Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/made-to-worship-small-quotes-9l53nrvdsaub1502.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Purple Background With Flowers And A Quote Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-lyrics-1080-x-2160-tj3pib7j14i3ohgd.jpg' alt='Download A Purple Background With Flowers And A Quote Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-lyrics-1080-x-2160-tj3pib7j14i3ohgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

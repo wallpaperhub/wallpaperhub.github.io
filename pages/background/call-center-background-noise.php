@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="call center background noise">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/call-center-background-noise">
+                            <span itemprop="name">call center background noise</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Quick Ways to Curb Background Noise in a Call Center for Stress ...">
+                                <img itemprop="contentUrl url" src='https://www.ameyo.com/wp-content/uploads/2016/05/BG_noise.jpg' alt='10 Quick Ways to Curb Background Noise in a Call Center for Stress ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ameyo" />
+                                </span>
+                                <a href='https://www.ameyo.com/wp-content/uploads/2016/05/BG_noise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reduce Background Noise in Call Centres - Picovoice">
+                                <img itemprop="contentUrl url" src='https://picovoice.ai/static/04acdfec157c66a040b37f5c72bf046a/fcb2f/thumbnail_reduce_background_noise_call_centres.jpg' alt='Reduce Background Noise in Call Centres - Picovoice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picovoice" />
+                                </span>
+                                <a href='https://picovoice.ai/static/04acdfec157c66a040b37f5c72bf046a/fcb2f/thumbnail_reduce_background_noise_call_centres.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Suggestions to Reduce Noise In The Call Center [INFOGRAPHIC ...">
+                                <img itemprop="contentUrl url" src='https://ccsi.com/images/news/Reduce-noise-call-center-infographic.jpg' alt='14 Suggestions to Reduce Noise In The Call Center [INFOGRAPHIC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call Center Services International" />
+                                </span>
+                                <a href='https://ccsi.com/images/news/Reduce-noise-call-center-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Manage Call Centre Acoustics | Reduce Background Noise">
+                                <img itemprop="contentUrl url" src='https://contactspace.com/wp-content/uploads/call-centre-agent-struggling-with-background-noise-min-1.jpeg' alt='How To Manage Call Centre Acoustics | Reduce Background Noise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8688">
+                                <meta itemprop="height" content="5792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="contactSPACE" />
+                                </span>
+                                <a href='https://contactspace.com/wp-content/uploads/call-centre-agent-struggling-with-background-noise-min-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Manage Noise in the Call Center/Office – Headset.com">
+                                <img itemprop="contentUrl url" src='https://www.headset.com/blog/wp-content/uploads/2017/09/Managing-Noise-Artwork-Option-4-1.png' alt='How to Manage Noise in the Call Center/Office – Headset.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Headset.com" />
+                                </span>
+                                <a href='https://www.headset.com/blog/wp-content/uploads/2017/09/Managing-Noise-Artwork-Option-4-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Center Outsourcer Ascensos Partners with IRIS Audio to ...">
+                                <img itemprop="contentUrl url" src='https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/AdobeStock_158417324-background-noise-frustration-frustrated-customer-agent-support-service-supersize-1200x630.jpeg' alt='Call Center Outsourcer Ascensos Partners with IRIS Audio to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Workforce Management" />
+                                </span>
+                                <a href='https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/AdobeStock_158417324-background-noise-frustration-frustrated-customer-agent-support-service-supersize-1200x630.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Study Finds Call Center Background Noise Leads to Increased ...">
+                                <img itemprop="contentUrl url" src='https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/AdobeStock_angry_call_center_agent_SUPERSIZE.jpg' alt='Study Finds Call Center Background Noise Leads to Increased ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMCnet" />
+                                </span>
+                                <a href='https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/AdobeStock_angry_call_center_agent_SUPERSIZE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soundproofing for Call Centres: Enhancing Productivity">
+                                <img itemprop="contentUrl url" src='https://sound-zero.com/wp-content/uploads/2023/11/pexels-pixabay-267507.jpg' alt='Soundproofing for Call Centres: Enhancing Productivity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sound Zero" />
+                                </span>
+                                <a href='https://sound-zero.com/wp-content/uploads/2023/11/pexels-pixabay-267507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Noise Guide for call centre agents | IRIS Audio">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/iris-cms/Two_call_centre_agents_238416208e/Two_call_centre_agents_238416208e.webp' alt='Background Noise Guide for call centre agents | IRIS Audio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IRIS Audio" />
+                                </span>
+                                <a href='https://storage.googleapis.com/iris-cms/Two_call_centre_agents_238416208e/Two_call_centre_agents_238416208e.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Center Sounds - No Phones Ringing - Work From Home - Office - Ambience">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7hwYo-oZF2o/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgUSg9MA8=&rs=AOn4CLB4796DPCfEp25OEPccpjUiGD8vNA' alt='Call Center Sounds - No Phones Ringing - Work From Home - Office - Ambience'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7hwYo-oZF2o/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgUSg9MA8=&rs=AOn4CLB4796DPCfEp25OEPccpjUiGD8vNA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

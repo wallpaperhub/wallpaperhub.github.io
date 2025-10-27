@@ -1,0 +1,129 @@
+<title>Sally from The Nightmare Before Christmas: A Spooky Style Icon</title>
+                    <meta name="description" content="Explore the enchanting world of Sally from "The Nightmare Before Christmas." Discover her unique patchwork style and captivating character that blends beauty with a touch of Halloween magic. Perfect for fans and collectors alike, celebrate Sally's iconic presence in this beloved classic!">
+                    <meta name="keywords" content="sally wallpaper nightmare before christmas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/sally-wallpaper-nightmare-before-christmas">
+                            <span itemprop="name">sally wallpaper nightmare before christmas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sally from The Nightmare Before Christmas: A Spooky Style Icon</h1>
+                <p>Sally from "The Nightmare Before Christmas" embodies a unique blend of beauty and spookiness. Her patchwork design and melancholy yet hopeful demeanor capture our hearts. With her bold character and dreamy aspirations, she stands as a symbol of resilience. Dive into the enchanting world where Halloween meets Christmas through Sally's eyes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sally Nightmare Before Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sally-nightmare-before-christmas-3r45fvmchhtuboby.jpg' alt='100+] Sally Nightmare Before Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sally-nightmare-before-christmas-3r45fvmchhtuboby.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally From The Nightmare Before Christmas Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sally-from-the-nightmare-before-christmas-xyaqynxs2h1vvsqr.jpg' alt='Sally From The Nightmare Before Christmas Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sally-from-the-nightmare-before-christmas-xyaqynxs2h1vvsqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion Holiday - Disneyland - Sally">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/a5/25/19a5258fe0d742fdc9ed064b916dc518.jpg' alt='Haunted Mansion Holiday - Disneyland - Sally'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/a5/25/19a5258fe0d742fdc9ed064b916dc518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sally (The Nightmare Before Christmas) Jack Skellington ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/128/1285918.jpg' alt='Download Sally (The Nightmare Before Christmas) Jack Skellington ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/128/1285918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally From The Nightmare Before Christmas Mugshot Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sally-from-the-nightmare-before-christmas-mugshot-fm5tmd4oufxhmbun.jpg' alt='Sally From The Nightmare Before Christmas Mugshot Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sally-from-the-nightmare-before-christmas-mugshot-fm5tmd4oufxhmbun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally, love, terror, horror, movie, nightmare before christmas ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/427/781/HD-wallpaper-sally-love-terror-horror-movie-nightmare-before-christmas-before-christmas-nightmare-animation.jpg' alt='Sally, love, terror, horror, movie, nightmare before christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/427/781/HD-wallpaper-sally-love-terror-horror-movie-nightmare-before-christmas-before-christmas-nightmare-animation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sally Nightmare Before Christmas Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sally-nightmare-before-christmas-aesthetic-nqai7nl9wc8orkzh.jpg' alt='Download Sally Nightmare Before Christmas Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sally-nightmare-before-christmas-aesthetic-nqai7nl9wc8orkzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sally (The Nightmare Before Christmas) Jack Skellington ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/128/1285923.jpg' alt='Download Sally (The Nightmare Before Christmas) Jack Skellington ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/128/1285923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HALLOWEEN NIGHTMARE BEFORE CHRISTMAS SALLY JACK PACKED COTTON FABRIC FAT  QUARTER">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/D2IAAOSwc49g8WgA/s-l1200.jpg' alt='HALLOWEEN NIGHTMARE BEFORE CHRISTMAS SALLY JACK PACKED COTTON FABRIC FAT  QUARTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="793">
+                                <meta itemprop="height" content="847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/D2IAAOSwc49g8WgA/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by cher marino on Skulls | Nightmare before christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/e6/f5/43e6f5410b2fc9c7395d6c49e6d1df36.jpg' alt='Pin by cher marino on Skulls | Nightmare before christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/e6/f5/43e6f5410b2fc9c7395d6c49e6d1df36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

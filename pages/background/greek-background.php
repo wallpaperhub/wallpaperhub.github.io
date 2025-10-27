@@ -1,0 +1,129 @@
+<title>Discovering the Rich Greek Background</title>
+                    <meta name="description" content="Explore the fascinating Greek background—its history, mythology, and cultural impact. Uncover the roots of ancient civilization and how they shape today's world. Ideal for history buffs and culture enthusiasts! Join us in celebrating Greece's lasting legacy.">
+                    <meta name="keywords" content="greek background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/greek-background">
+                            <span itemprop="name">greek background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Rich Greek Background</h1>
+                <p>Greek background refers to the rich tapestry of history, mythology, art, and culture that has shaped Greece. It spans ancient civilizations known for philosophy, democracy, and theater, to modern innovations. Greek traditions, language, and cuisine reflect this heritage, making it a unique blend of the past and present that continues to influence the world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greek Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661911756283-fd0fbefee201?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5jaWVudCUyMGdyZWVrfGVufDB8fDB8fHww' alt='Ancient Greek Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661911756283-fd0fbefee201?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5jaWVudCUyMGdyZWVrfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,700+ Greek Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/531491819/vector/background-antique-wall-with-greek-ornament-meander-vector-illustration.jpg?s=612x612&w=0&k=20&c=8AoJBrEsTpbXk8vgoHPCI2mCDI-brUMQN6-zAd8hmbg=' alt='25,700+ Greek Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/531491819/vector/background-antique-wall-with-greek-ornament-meander-vector-illustration.jpg?s=612x612&w=0&k=20&c=8AoJBrEsTpbXk8vgoHPCI2mCDI-brUMQN6-zAd8hmbg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Ancient Greek Photography Backdrop  Parthenon Temple in Acropolis in Athens Greece Backdrops for Mythology  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71SBH-nsCFL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Ancient Greek Photography Backdrop  Parthenon Temple in Acropolis in Athens Greece Backdrops for Mythology  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71SBH-nsCFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek Background Images – Browse 685,023 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/90/53/06/360_F_190530679_Kt7fSxJRLQpmZ2Ija9zMvh7uyd0WtGp4.jpg' alt='Greek Background Images – Browse 685,023 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/90/53/06/360_F_190530679_Kt7fSxJRLQpmZ2Ija9zMvh7uyd0WtGp4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baocicco Greek Backdrop 4x4ft Cotton Polyester Photography Background  Ancient Background Ancient Ruins Background Ancient Greek Architecture  Seascape ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/516s1rI3n3L._AC_UF894,1000_QL80_.jpg' alt='Baocicco Greek Backdrop 4x4ft Cotton Polyester Photography Background  Ancient Background Ancient Ruins Background Ancient Greek Architecture  Seascape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/516s1rI3n3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor Fabric 7x5ft Ancient Greece Warrior Backdrop Ancient  Greek Mythology Backdrop Black Figure Pottery Warriors Figures Spartans  Gods ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71b5k8OrMaL.jpg' alt='Amazon.com : Loccor Fabric 7x5ft Ancient Greece Warrior Backdrop Ancient  Greek Mythology Backdrop Black Figure Pottery Warriors Figures Spartans  Gods ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71b5k8OrMaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greece Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/055/163/039/non_2x/ancient-greek-temple-ruins-at-sunset-with-dramatic-clouds-historical-architecture-and-dramatic-landscape-concept-photo.jpeg' alt='Ancient Greece Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/055/163/039/non_2x/ancient-greek-temple-ruins-at-sunset-with-dramatic-clouds-historical-architecture-and-dramatic-landscape-concept-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greek background. stock vector. Illustration of design ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ancient-greek-background-ancient-greek-background-two-columns-national-ornament-old-beige-papyrus-aging-effect-108940143.jpg' alt='Ancient Greek background. stock vector. Illustration of design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ancient-greek-background-ancient-greek-background-two-columns-national-ornament-old-beige-papyrus-aging-effect-108940143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,700+ Greek Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332567781/vector/greek-style-blue-grunge-frame-for-design-or-text.jpg?s=612x612&w=0&k=20&c=tdMOrm4oVi9J2CNn0IjstFK_CpX6hJBXwNUuMnMQj7M=' alt='25,700+ Greek Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332567781/vector/greek-style-blue-grunge-frame-for-design-or-text.jpg?s=612x612&w=0&k=20&c=tdMOrm4oVi9J2CNn0IjstFK_CpX6hJBXwNUuMnMQj7M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greek Courtyard Myths Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/d1/6a/f8d16af36d872b0ff338a3428822233d.jpg' alt='Ancient Greek Courtyard Myths Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/d1/6a/f8d16af36d872b0ff338a3428822233d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

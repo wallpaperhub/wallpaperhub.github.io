@@ -1,0 +1,129 @@
+<title>Stunning Music Lock Screen Wallpapers for Every Music Lover</title>
+                    <meta name="description" content="Discover vibrant music lock screen wallpapers that elevate your device's aesthetic. Perfect for music lovers, these unique designs feature instruments, notes, and iconic artists. Explore our collection to find the ideal wallpaper that showcases your passion for music in style!">
+                    <meta name="keywords" content="music lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/music-lock-screen-wallpaper">
+                            <span itemprop="name">music lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Music Lock Screen Wallpapers for Every Music Lover</h1>
+                <p>Music lock screen wallpapers bring a vibrant touch to your device, reflecting your passion for tunes and rhythm. With stunning visuals featuring musical instruments, notes, or your favorite artists, these wallpapers enhance your phone's aesthetic and showcase your unique style. Discover a variety of designs to express your love for music!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/cf/56/c7cf5606d4d47e4724296e2e3cc2ef8f.jpg' alt='wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/cf/56/c7cf5606d4d47e4724296e2e3cc2ef8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music lover, lock, logo, screen, do, locked, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/646/901/HD-wallpaper-music-lover-lock-logo-screen-do-locked.jpg' alt='Music lover, lock, logo, screen, do, locked, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/646/901/HD-wallpaper-music-lover-lock-logo-screen-do-locked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Lock Screen   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/74/5f/fc745fdfb18c470d4221a032bf5700c8.jpg' alt='Music Lock Screen   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/74/5f/fc745fdfb18c470d4221a032bf5700c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Wallpaper Photos, Download The BEST Free Music Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Music Wallpaper Photos, Download The BEST Free Music Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper on X: "4k #wallpaper for your #smartphone lockscreen and ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FYYLaa4X0AgyA_6.jpg:large' alt='Wallpaper on X: "4k #wallpaper for your #smartphone lockscreen and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="922">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FYYLaa4X0AgyA_6.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music, mode, music lover, playing song, music is life, screens ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/464/260/HD-wallpaper-music-mode-music-lover-playing-song-music-is-life-screens-songs-logo-look-quotes.jpg' alt='Music, mode, music lover, playing song, music is life, screens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/464/260/HD-wallpaper-music-mode-music-lover-playing-song-music-is-life-screens-songs-logo-look-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spotify Lock Screen Song Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/song-pictures-900-x-1600-1fuq2c0j2tdlzqth.jpg' alt='Download Spotify Lock Screen Song Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/song-pictures-900-x-1600-1fuq2c0j2tdlzqth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Appreciation post for iOS 16 Full Screen Music on Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6kmvtjjzmjd91.jpg' alt='Appreciation post for iOS 16 Full Screen Music on Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6kmvtjjzmjd91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Class In Music) Wallpapers - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/07z2DwC.png' alt='Class In Music) Wallpapers - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/07z2DwC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is how to make a music wallpaper for your Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7156309520132672810&location=0&aid=1988' alt='This is how to make a music wallpaper for your Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7156309520132672810&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

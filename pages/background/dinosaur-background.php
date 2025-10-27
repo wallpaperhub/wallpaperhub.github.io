@@ -1,0 +1,129 @@
+<title>Fascinating Dinosaur Background: The Age of Reptiles</title>
+                    <meta name="description" content="Explore the captivating history of dinosaurs! Discover their evolution, diverse species, and reign during the Mesozoic Era. Uncover the mysteries behind their extinction and their lasting impact on our understanding of prehistoric life.">
+                    <meta name="keywords" content="dinosaur background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinosaur-background">
+                            <span itemprop="name">dinosaur background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fascinating Dinosaur Background: The Age of Reptiles</h1>
+                <p>Dinosaurs were a diverse group of reptiles that roamed the Earth during the Mesozoic Era, approximately 230 to 65 million years ago. They evolved into various species, ranging from the fierce Tyrannosaurus rex to the gentle giant Brachiosaurus. Dinosaurs adapted to numerous habitats, dominating the planet until their extinction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/15/24/18/360_F_715241873_2etuPuCuPlLyRXWhxpuq6tHM55hz91ON.jpg' alt='Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/15/24/18/360_F_715241873_2etuPuCuPlLyRXWhxpuq6tHM55hz91ON.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 7x5ft Dinosaur Photo Backdrop, Dinosaur Park Theme Backdrop,  Dinosaur Photography Background for Boy Girl Birthday Party Banner Newborn  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81WLPRTE5BL.jpg' alt='Amazon.com : 7x5ft Dinosaur Photo Backdrop, Dinosaur Park Theme Backdrop,  Dinosaur Photography Background for Boy Girl Birthday Party Banner Newborn  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81WLPRTE5BL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/827/494/small_2x/a-dinosaur-is-walking-through-a-jungle-with-a-sunset-in-the-background-free-photo.jpg' alt='Dinosaur Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/827/494/small_2x/a-dinosaur-is-walking-through-a-jungle-with-a-sunset-in-the-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,500+ Dinosaur Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1050196856/vector/vector-illustration-of-silhouette-of-dinosaurs-on-the-jurassic-period-landscape-with.jpg?s=612x612&w=0&k=20&c=J-0l37ErexNz4yCrrdktRGVSmpOXVLV5JceNEe7xhfc=' alt='23,500+ Dinosaur Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1050196856/vector/vector-illustration-of-silhouette-of-dinosaurs-on-the-jurassic-period-landscape-with.jpg?s=612x612&w=0&k=20&c=J-0l37ErexNz4yCrrdktRGVSmpOXVLV5JceNEe7xhfc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Border Background High-Res Vector Graphic - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165788296/vector/dinosaur-border-background.jpg?s=1024x1024&w=gi&k=20&c=W6XZwvn-hTBvva6eqZuO_KJeW2wHmye1A-cxhvukkxQ=' alt='Dinosaur Border Background High-Res Vector Graphic - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165788296/vector/dinosaur-border-background.jpg?s=1024x1024&w=gi&k=20&c=W6XZwvn-hTBvva6eqZuO_KJeW2wHmye1A-cxhvukkxQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Free Seamless Patterns for Web Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b6/a3/88/b6a3881f88a77686e1f682377368e53d.jpg' alt='100 Free Seamless Patterns for Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b6/a3/88/b6a3881f88a77686e1f682377368e53d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/56/31/66/360_F_456316681_khoRnKqVS9hzlge4qlaHuQDBxjHCtDQZ.jpg' alt='Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/56/31/66/360_F_456316681_khoRnKqVS9hzlge4qlaHuQDBxjHCtDQZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brachiosaurus Dinosaur evening stock video 1410744393">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410744393/video/brachiosaurus-dinosaur-evening.jpg?s=640x640&k=20&c=F4ZHU_o1BXuXqjP8eckUDy35nQWNfiPpgPOmy3XwRVo=' alt='Brachiosaurus Dinosaur evening stock video 1410744393'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410744393/video/brachiosaurus-dinosaur-evening.jpg?s=640x640&k=20&c=F4ZHU_o1BXuXqjP8eckUDy35nQWNfiPpgPOmy3XwRVo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/333/787/small/triceratops-and-tyrannosaurus-t-rex-dinosaur-living-in-late-jurassic-photo.jpg' alt='Dinosaur Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/333/787/small/triceratops-and-tyrannosaurus-t-rex-dinosaur-living-in-late-jurassic-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Colorful World of the Dinosaurs Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000013.jpg' alt='Cute Colorful World of the Dinosaurs Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

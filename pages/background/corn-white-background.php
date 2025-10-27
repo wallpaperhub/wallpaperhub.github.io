@@ -1,0 +1,129 @@
+<title>Stunning Corn Images on White Background</title>
+                    <meta name="description" content="Explore the beauty of corn set against a white background. Perfect for food photography, recipes, and design inspiration, this imagery showcases the freshness and vibrancy of corn, making it a delightful addition to any content or culinary project.">
+                    <meta name="keywords" content="corn white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/corn-white-background">
+                            <span itemprop="name">corn white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Corn Images on White Background</h1>
+                <p>Corn against a white background creates a visually striking image that emphasizes its vibrant yellow kernels and green husks. This simple yet effective presentation highlights the natural beauty of this staple crop, often used in various culinary dishes and products. Great for fresh recipes or as a vibrant decor element!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Single ear of corn isolated on white background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/87/62/90/1000_F_187629015_Lob15tmtj9GSsoiNrJR0MH5sUZTfoK80.jpg' alt='Single ear of corn isolated on white background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/87/62/90/1000_F_187629015_Lob15tmtj9GSsoiNrJR0MH5sUZTfoK80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corn White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/fresh-corn_1339-506.jpg' alt='Corn White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/fresh-corn_1339-506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,100+ Ear Of Corn On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/164922688/photo/fresh-ear-of-yellow-corn-with-a-green-husk.jpg?s=612x612&w=0&k=20&c=me7GqFWak33XCPVqTQvANpXnR9IeGXhEAETQl94pMkk=' alt='3,100+ Ear Of Corn On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/164922688/photo/fresh-ear-of-yellow-corn-with-a-green-husk.jpg?s=612x612&w=0&k=20&c=me7GqFWak33XCPVqTQvANpXnR9IeGXhEAETQl94pMkk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Corn on white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/corn-white-background_59226-73.jpg' alt='Premium Photo | Corn on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/corn-white-background_59226-73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet whole kernel corn on white background 4161454 Stock Photo at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/161/454/large_2x/sweet-whole-kernel-corn-on-white-background-photo.jpg' alt='Sweet whole kernel corn on white background 4161454 Stock Photo at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2893">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/161/454/large_2x/sweet-whole-kernel-corn-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="166,700+ White Maize Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1214597670/photo/corn-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=hPqBQLOs_fzDT8rxm1Fom4C8Vl_MJlNftHvXzTlVx9Q=' alt='166,700+ White Maize Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1214597670/photo/corn-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=hPqBQLOs_fzDT8rxm1Fom4C8Vl_MJlNftHvXzTlVx9Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corn on a white background. creative photo Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2B3MB09/corn-on-a-white-background-creative-photo-2B3MB09.jpg' alt='Corn on a white background. creative photo Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2B3MB09/corn-on-a-white-background-creative-photo-2B3MB09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet corn on white background — Stock Photo © sommaill #55211203">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/2524151/5521/i/950/depositphotos_55211203-stock-photo-sweet-corn-on-white-background.jpg' alt='Sweet corn on white background — Stock Photo © sommaill #55211203'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/2524151/5521/i/950/depositphotos_55211203-stock-photo-sweet-corn-on-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Sweet Corn Images – Browse 274,722 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/34/42/43/360_F_534424302_B0js0y2QToWfmkErxYtvu7LR0yOzcaJj.jpg' alt='White Sweet Corn Images – Browse 274,722 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/34/42/43/360_F_534424302_B0js0y2QToWfmkErxYtvu7LR0yOzcaJj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Ear Of Corn Isolated On A White Background Stock Photo, Picture ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/atoss/atoss1305/atoss130500105/19690129-an-ear-of-corn-isolated-on-a-white-background.jpg' alt='An Ear Of Corn Isolated On A White Background Stock Photo, Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/atoss/atoss1305/atoss130500105/19690129-an-ear-of-corn-isolated-on-a-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

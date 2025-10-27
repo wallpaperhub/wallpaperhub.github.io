@@ -1,0 +1,129 @@
+<title>Stunning Shadowheart Wallpapers for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="shadowheart wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/shadowheart-wallpaper-phone">
+                            <span itemprop="name">shadowheart wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shadowheart Wallpapers for Your Phone</h1>
+                <p>Your phone deserves a stunning look! Download captivating Shadowheart wallpapers that showcase the enchanting essence of this beloved character. With a mix of dark and mystical tones, each wallpaper brings a unique vibe. Personalize your device and immerse yourself in the world of Shadowheart every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out this piece my friend made of Shadowheart. : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/check-out-this-piece-my-friend-made-of-shadowheart-v0-502dtob64wlb1.jpg?auto=webp&s=ea43783d36ffd015a48738b8e1a7976bd2182b4f' alt='Check out this piece my friend made of Shadowheart. : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/check-out-this-piece-my-friend-made-of-shadowheart-v0-502dtob64wlb1.jpg?auto=webp&s=ea43783d36ffd015a48738b8e1a7976bd2182b4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 - Shadowheart - Kazuliski - Larian Studios">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/4a/05/594a05015a3a16e22a2375a8695b23d8.jpg' alt='Baldur's Gate 3 - Shadowheart - Kazuliski - Larian Studios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/4a/05/594a05015a3a16e22a2375a8695b23d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for a new mobile wallpaper. Post your favorite pls! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/looking-for-a-new-mobile-wallpaper-post-your-favorite-pls-v0-1zuxid84fnpd1.jpeg?width=933&format=pjpg&auto=webp&s=66a023573f687d3b524c5c6187b135746b12a474' alt='Looking for a new mobile wallpaper. Post your favorite pls! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/looking-for-a-new-mobile-wallpaper-post-your-favorite-pls-v0-1zuxid84fnpd1.jpeg?width=933&format=pjpg&auto=webp&s=66a023573f687d3b524c5c6187b135746b12a474' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally found the time to draw Shadowheart :) : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aosv76ntpq5c1.jpg' alt='Finally found the time to draw Shadowheart :) : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1292">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aosv76ntpq5c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My fanart of Shadowheart : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-fanart-of-shadowheart-v0-4r397z4j1epb1.jpg?width=640&crop=smart&auto=webp&s=b5c51e053deb4b69a7200637d417064d4d7711ab' alt='My fanart of Shadowheart : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-fanart-of-shadowheart-v0-4r397z4j1epb1.jpg?width=640&crop=smart&auto=webp&s=b5c51e053deb4b69a7200637d417064d4d7711ab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sasha tudvaseva on X: "Shadowheart in daylight ✨ #BaldursGate3 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F6OIKMwWIAAw_Yh?format=jpg&name=4096x4096' alt='sasha tudvaseva on X: "Shadowheart in daylight ✨ #BaldursGate3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F6OIKMwWIAAw_Yh?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/91/b9/8691b976f28cad0148816e10826c547d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/91/b9/8691b976f28cad0148816e10826c547d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadowheart Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13151966.jpg' alt='Shadowheart Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13151966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shadowheart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mystic-warrior-amidst-chaos-jpg-95oar7pvydpgub5o.jpg' alt='100+] Shadowheart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1097">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mystic-warrior-amidst-chaos-jpg-95oar7pvydpgub5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadowheart Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13151977.jpg' alt='Shadowheart Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13151977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

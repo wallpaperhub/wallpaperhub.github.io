@@ -1,0 +1,129 @@
+<title>Spook Up Your iPhone: Haunted Mansion Wallpapers</title>
+                    <meta name="description" content="Add a spooky vibe to your iPhone with our exclusive haunted mansion wallpapers! Perfect for Halloween lovers, these chilling designs will elevate your phone's aesthetic with ghostly charm. Explore unique, haunting visuals that keep your device looking spooky and stylish all year round!">
+                    <meta name="keywords" content="haunted mansion wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/haunted-mansion-wallpaper-iphone">
+                            <span itemprop="name">haunted mansion wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spook Up Your iPhone: Haunted Mansion Wallpapers</h1>
+                <p>Transform your iPhone with our haunted mansion wallpaper, perfect for Halloween enthusiasts and spooky lovers alike! This eerie design features ghostly figures, creaky doors, and moody lighting, capturing the essence of a classic haunted house. Make your device a frightful delight with this unique wallpaper, sure to impress!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion iPhone wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/e4/ff/38e4ff02b2cc7b1df47b69c00a49880b.jpg' alt='Haunted Mansion iPhone wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/e4/ff/38e4ff02b2cc7b1df47b69c00a49880b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/5b/1e/705b1e2163b137dd71e6534f126a2270.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/5b/1e/705b1e2163b137dd71e6534f126a2270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2858172317.4906/flat,750x1000,075,t.jpg' alt='Haunted Mansion | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2858172317.4906/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion iPhone wall by CJ702 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45a8856b-3dbd-4551-9296-53f5d48d2d11/d396dse-86fb43d0-93d4-4475-800e-f3749dd148ff.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1YTg4NTZiLTNkYmQtNDU1MS05Mjk2LTUzZjVkNDhkMmQxMVwvZDM5NmRzZS04NmZiNDNkMC05M2Q0LTQ0NzUtODAwZS1mMzc0OWRkMTQ4ZmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xiiRO8cpkX2lY3eDQXBl_wi7g-Iu1pPuxa3LoT6WspM' alt='Haunted Mansion iPhone wall by CJ702 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45a8856b-3dbd-4551-9296-53f5d48d2d11/d396dse-86fb43d0-93d4-4475-800e-f3749dd148ff.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1YTg4NTZiLTNkYmQtNDU1MS05Mjk2LTUzZjVkNDhkMmQxMVwvZDM5NmRzZS04NmZiNDNkMC05M2Q0LTQ0NzUtODAwZS1mMzc0OWRkMTQ4ZmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xiiRO8cpkX2lY3eDQXBl_wi7g-Iu1pPuxa3LoT6WspM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/af/b0/80/afb0801982ce343039c5b3ea4b82f83e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/af/b0/80/afb0801982ce343039c5b3ea4b82f83e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="haunted mansion wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.881429712.1810/flat,750x1000,075,t.u2.jpg' alt='haunted mansion wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.881429712.1810/flat,750x1000,075,t.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion, disney, halloween, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/517/199/HD-wallpaper-haunted-mansion-disney-halloween.jpg' alt='Haunted Mansion, disney, halloween, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/517/199/HD-wallpaper-haunted-mansion-disney-halloween.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/68/e7/35/68e735c7596a015f6514bc76a8e01b7b.jpg' alt='Haunted Mansion wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/68/e7/35/68e735c7596a015f6514bc76a8e01b7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Haunted Mansion Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/creative-creepy-art-haunted-mansion-q7ubudtbmoigubpp.jpg' alt='Download Haunted Mansion Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1409">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/creative-creepy-art-haunted-mansion-q7ubudtbmoigubpp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Demon-eye Wallpaper With Blinking Demons Seamless Loop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14012943/r/il/7ebbf3/5257713387/il_1080xN.5257713387_1x34.jpg' alt='Animated Demon-eye Wallpaper With Blinking Demons Seamless Loop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14012943/r/il/7ebbf3/5257713387/il_1080xN.5257713387_1x34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

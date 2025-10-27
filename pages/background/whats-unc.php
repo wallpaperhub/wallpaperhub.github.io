@@ -1,0 +1,129 @@
+<title>What is UNC? Discover the University of North Carolina</title>
+                    <meta name="description" content="Learn about the University of North Carolina (UNC), its academic offerings, vibrant community, and commitment to excellence. Explore what makes UNC a top choice for higher education and how it shapes the futures of its students. Join a legacy of achievement and discovery!">
+                    <meta name="keywords" content="whats unc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/whats-unc">
+                            <span itemprop="name">whats unc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is UNC? Discover the University of North Carolina</h1>
+                <p>UNC, or the University of North Carolina, is a prestigious public university known for its strong academic programs, vibrant campus life, and commitment to research and community service. Located in Chapel Hill, it offers a diverse range of undergraduate and graduate programs, fostering both academic excellence and personal growth among students.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unc Meaning: TikTok and Twitter Slang, Explained">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/8/82/Unc-Meaning-Step-1.jpg/v4-460px-Unc-Meaning-Step-1.jpg' alt='Unc Meaning: TikTok and Twitter Slang, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/8/82/Unc-Meaning-Step-1.jpg/v4-460px-Unc-Meaning-Step-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does Unc mean? Meaning & Definition">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60f56c56947f0f1b3c881960/668fd972ae5a6169444ffc9c_GenZ%20Dictionary%20for%20Parents%20157.png' alt='What does Unc mean? Meaning & Definition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AstroSafe" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60f56c56947f0f1b3c881960/668fd972ae5a6169444ffc9c_GenZ%20Dictionary%20for%20Parents%20157.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the UNC Terminology in Gaming Culture">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7351438051727445254&location=0&aid=1988' alt='Understanding the UNC Terminology in Gaming Culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7351438051727445254&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does 'unc' mean on TikTok? TikTok redefines slang word - Dexerto">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/05/14/Unc-meaning-TikTok.jpg?width=1200&quality=60&format=auto' alt='What does 'unc' mean on TikTok? TikTok redefines slang word - Dexerto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/05/14/Unc-meaning-TikTok.jpg?width=1200&quality=60&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of North Carolina at Chapel Hill - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/University_of_North_Carolina_at_Chapel_Hill_seal.svg/1200px-University_of_North_Carolina_at_Chapel_Hill_seal.svg.png' alt='University of North Carolina at Chapel Hill - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/University_of_North_Carolina_at_Chapel_Hill_seal.svg/1200px-University_of_North_Carolina_at_Chapel_Hill_seal.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unc Meaning: TikTok and Twitter Slang, Explained">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/0/00/Unc-Meaning-Step-9.jpg/v4-460px-Unc-Meaning-Step-9.jpg' alt='Unc Meaning: TikTok and Twitter Slang, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/0/00/Unc-Meaning-Step-9.jpg/v4-460px-Unc-Meaning-Step-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unc Meaning: TikTok and Twitter Slang, Explained">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/f/f8/Unc-Meaning-Step-3.jpg/v4-460px-Unc-Meaning-Step-3.jpg' alt='Unc Meaning: TikTok and Twitter Slang, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/f/f8/Unc-Meaning-Step-3.jpg/v4-460px-Unc-Meaning-Step-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I got all 4     #unc #gramps #brainrot | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7373439045780704554&location=0&aid=1988' alt='I got all 4     #unc #gramps #brainrot | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7373439045780704554&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Us 90’s Babies Up There Now      | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7244661464936631598&location=0&aid=1988' alt='Us 90’s Babies Up There Now      | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7244661464936631598&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNC vs UNF Fittings: What is the Difference?">
+                                <img itemprop="contentUrl url" src='https://cntopa.com/wp-content/uploads/elementor/thumbs/UNF-and-UNC-qcokn269ahnusvfsw7x40jvnuscnr5a4zglt4s4p0g.jpg' alt='UNC vs UNF Fittings: What is the Difference?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Topa's hydraulic fittings" />
+                                </span>
+                                <a href='https://cntopa.com/wp-content/uploads/elementor/thumbs/UNF-and-UNC-qcokn269ahnusvfsw7x40jvnuscnr5a4zglt4s4p0g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Are Background Checks Conducted by Burger King?</title>
+                    <meta name="description" content="Discover whether Burger King conducts background checks during the hiring process. Learn what to expect if you're applying for a job and how it affects your application. Stay informed and prepared for your next career opportunity at Burger King!">
+                    <meta name="keywords" content="does burger king do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-burger-king-do-background-checks">
+                            <span itemprop="name">does burger king do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Are Background Checks Conducted by Burger King?</h1>
+                <p>Yes, Burger King typically conducts background checks as part of their hiring process. This includes checking for criminal history, employment verification, and sometimes credit history, depending on the position. Candidates are usually informed of this process during the application phase and must provide consent for the checks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-burger-king-hire-felons.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-burger-king-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/C6NgOjCUoAEnGYp.jpg' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/C6NgOjCUoAEnGYp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/staff-burger-king-restaurant-st-petersburg-russia-november-th-service-area-day-opening-first-opened-105158357.jpg' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/staff-burger-king-restaurant-st-petersburg-russia-november-th-service-area-day-opening-first-opened-105158357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://www.mightyearth.org/wp-content/uploads/2017/03/IMG_4827.jpg' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://www.mightyearth.org/wp-content/uploads/2017/03/IMG_4827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-burger-king.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-burger-king.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King Do Background Check?">
+                                <img itemprop="contentUrl url" src='https://felonhome.com/wp-content/uploads/2024/11/Does-Burger-King-Do-Background-Check.webp' alt='Does Burger King Do Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Institutions that hire felons" />
+                                </span>
+                                <a href='https://felonhome.com/wp-content/uploads/2024/11/Does-Burger-King-Do-Background-Check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-much-does-burger-king-pay-16-year-olds.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-much-does-burger-king-pay-16-year-olds.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-benefits-does-burger-king-offer.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-benefits-does-burger-king-offer.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-dress-code-at-burger-king.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-dress-code-at-burger-king.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Burger King hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-do-you-write-a-cover-letter-for-a-job-at-burger-king.webp' alt='Does Burger King hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-do-you-write-a-cover-letter-for-a-job-at-burger-king.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

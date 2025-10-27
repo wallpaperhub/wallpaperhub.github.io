@@ -1,0 +1,129 @@
+<title>Trippy Preppy Smiley Face Wallpaper for a Cheerful Space</title>
+                    <meta name="description" content="Discover the ultimate trippy preppy wallpaper adorned with smiley faces! This eye-catching design brightens up any room, adding a joyful and lively atmosphere. Perfect for personalizing your space and expressing your unique style. Ideal for both home and office!">
+                    <meta name="keywords" content="trippy:9j5qrfhfqik= preppy wallpaper smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/trippy9j5qrfhfqik-preppy-wallpaper-smiley-face">
+                            <span itemprop="name">trippy:9j5qrfhfqik= preppy wallpaper smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Preppy Smiley Face Wallpaper for a Cheerful Space</h1>
+                <p>Transform your space with our vibrant trippy preppy wallpaper featuring smiley faces! This bold design brings a cheerful vibe to any room and enhances your mood. Perfect for a playful touch in a bedroom, office, or any creative space. Embrace the fun, and let your walls speak your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Preppy Moonstone Smiley Face - Magenta Purple and Blue Smiley Face -  Bold Preppy Blue and Preppy Magenta Purple Psychedelic Trippy Smiley Face  ...">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15417989/p/f/m/uaWkgULs7UXHkvW-BzwHvFW62jhOYzsUYqh8m89ZPvowuV7oUH-4/Trippy_Preppy_Moonstone_Smiley_Face_-_Magenta_Purple_and_Blue_Smiley_Face_-_Bold_Preppy_Blue_and_Preppy_Magenta_Purple_Psychedelic_Trippy_Smiley_Face_-_SmileBlob_-_xxtsf103_-_67.91in_x_56.49in_repeat_-_150dpi_(Full_Scale).jpg' alt='Trippy Preppy Moonstone Smiley Face - Magenta Purple and Blue Smiley Face -  Bold Preppy Blue and Preppy Magenta Purple Psychedelic Trippy Smiley Face  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15417989/p/f/m/uaWkgULs7UXHkvW-BzwHvFW62jhOYzsUYqh8m89ZPvowuV7oUH-4/Trippy_Preppy_Moonstone_Smiley_Face_-_Magenta_Purple_and_Blue_Smiley_Face_-_Bold_Preppy_Blue_and_Preppy_Magenta_Purple_Psychedelic_Trippy_Smiley_Face_-_SmileBlob_-_xxtsf103_-_67.91in_x_56.49in_repeat_-_150dpi_(Full_Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy drippy smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' alt='Preppy drippy smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Preppy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15431742/p/f/m/c39EnIj191QZLiNfAbpE722Pb25hSWbUR2kHYFlhSHVlbMqre0e1/Trippy%20Preppy%20Flame%20over%20Black%20Smiley%20Face%20-%20Pink%20Orange%20Yellow%20Smiley%20Face%20-%20Bold%20Preppy%20Pink%2C%20Preppy%20Orange%2C%20and%20Preppy%20Yellow%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf104b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' alt='Smiley Preppy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15431742/p/f/m/c39EnIj191QZLiNfAbpE722Pb25hSWbUR2kHYFlhSHVlbMqre0e1/Trippy%20Preppy%20Flame%20over%20Black%20Smiley%20Face%20-%20Pink%20Orange%20Yellow%20Smiley%20Face%20-%20Bold%20Preppy%20Pink%2C%20Preppy%20Orange%2C%20and%20Preppy%20Yellow%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf104b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy #smiley #aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/11/63/bd11630222dbd7a399fae4003968f501.jpg' alt='preppy #smiley #aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/11/63/bd11630222dbd7a399fae4003968f501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-pyschedelic-y2k-seamless-aesthetic-trippy-smiley-face-f01oz4xet94n2sgd.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-pyschedelic-y2k-seamless-aesthetic-trippy-smiley-face-f01oz4xet94n2sgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Smiley Face Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/preppy-smiley-face-nice-day-gz7c3y1shx2ijnu0.jpg' alt='Preppy Smiley Face Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/preppy-smiley-face-nice-day-gz7c3y1shx2ijnu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-floral-pattern-0ixpiku6kjye1o7w.jpg' alt='100+] Preppy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-floral-pattern-0ixpiku6kjye1o7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Preppy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15431740/p/f/m/Ae77Mq3Y7bTgXX90l2qJbWlw6eDAOW65mZ_YfJOuTQwTdGs4L6em/Trippy%20Preppy%20Nightshade%20over%20Black%20Smiley%20Face%20-%20Purple%20and%20Blue%20Smiley%20Face%20-%20Bold%20Preppy%20Blue%20and%20Preppy%20Purple%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf102b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' alt='Smiley Preppy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15431740/p/f/m/Ae77Mq3Y7bTgXX90l2qJbWlw6eDAOW65mZ_YfJOuTQwTdGs4L6em/Trippy%20Preppy%20Nightshade%20over%20Black%20Smiley%20Face%20-%20Purple%20and%20Blue%20Smiley%20Face%20-%20Bold%20Preppy%20Blue%20and%20Preppy%20Purple%20Psychedelic%20Trippy%20Smiley%20Face%20-%20SmileBlob%20-%20xxtsf102b%20-%2067.91in%20x%2056.49in%20repeat%20-%20150dpi%20(Full%20Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Art Deco Phone Wallpapers for a Vintage Touch</title>
+                    <meta name="description" content="Discover exquisite Art Deco phone wallpapers that bring a touch of vintage elegance to your screen. Explore bold patterns and rich colors inspired by the iconic 1920s style, perfect for enhancing your device's look. Download now and transform your wallpaper into a stunning work of art!">
+                    <meta name="keywords" content="art deco phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/art-deco-phone-wallpaper">
+                            <span itemprop="name">art deco phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Art Deco Phone Wallpapers for a Vintage Touch</h1>
+                <p>Elevate your device's aesthetics with stunning Art Deco phone wallpapers! Embrace the elegance of the 1920s with bold geometric patterns, vivid colors, and luxurious motifs that capture the spirit of glamour and sophistication. Transform your screen into a work of art that reflects your unique style and appreciation for vintage design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Art deco ideas | cellphone wallpaper, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/fb/e4/db/fbe4db697db6b478bf368b39f431b2c4.jpg' alt='42 Art deco ideas | cellphone wallpaper, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/fb/e4/db/fbe4db697db6b478bf368b39f431b2c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3Y5NDUtdGFuZy0wMS1oLmpwZw.jpg' alt='Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3Y5NDUtdGFuZy0wMS1oLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3Y5NDUtdGFuZy0wMy1qLmpwZw.jpg' alt='Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3Y5NDUtdGFuZy0wMy1qLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Wallpaper HD Phone Wallpaper Iphone Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/19/2e/05192ea5ec0f5a6b2d5c938060b4f96f.jpg' alt='Art Deco Wallpaper HD Phone Wallpaper Iphone Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/19/2e/05192ea5ec0f5a6b2d5c938060b4f96f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Art Deco Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/art-deco-iphone-background-1lx6wozr5unl0imw.jpg' alt='100+] Art Deco Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/art-deco-iphone-background-1lx6wozr5unl0imw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Wallpapers (20 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/e/d/2308495-1920x1920-mobile-hd-art-deco-wallpaper.jpg' alt='Art Deco Wallpapers (20 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/e/d/2308495-1920x1920-mobile-hd-art-deco-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download these Art Deco wallpapers for your phone - Android Authority">
+                                <img itemprop="contentUrl url" src='https://www.androidauthority.com/wp-content/uploads/2024/05/Art-Deco-wallpaper-12.jpg' alt='Download these Art Deco wallpapers for your phone - Android Authority'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Authority" />
+                                </span>
+                                <a href='https://www.androidauthority.com/wp-content/uploads/2024/05/Art-Deco-wallpaper-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Phone wallpaper by FatedRepute on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db024c0-ada8-4a07-a084-9008502afd7a/ddmivd9-b7c44ff9-3de4-40b9-b83c-2ba5464a13fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYjAyNGMwLWFkYTgtNGEwNy1hMDg0LTkwMDg1MDJhZmQ3YVwvZGRtaXZkOS1iN2M0NGZmOS0zZGU0LTQwYjktYjgzYy0yYmE1NDY0YTEzZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X0QlRaOlPE0j2eZUrOu-mLb-ECAlCLWD2VAZHEuaJeM' alt='Art Deco Phone wallpaper by FatedRepute on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="1337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db024c0-ada8-4a07-a084-9008502afd7a/ddmivd9-b7c44ff9-3de4-40b9-b83c-2ba5464a13fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYjAyNGMwLWFkYTgtNGEwNy1hMDg0LTkwMDg1MDJhZmQ3YVwvZGRtaXZkOS1iN2M0NGZmOS0zZGU0LTQwYjktYjgzYy0yYmE1NDY0YTEzZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X0QlRaOlPE0j2eZUrOu-mLb-ECAlCLWD2VAZHEuaJeM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco phone wallpaper #01 : r/DigitalPainting">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/GijIvtLNhZdy0nQmSWOuOwSRixs0shtXugRnWr_6w3o.png?width=640&crop=smart&auto=webp&s=0eedcbaf96eb247333fc98cc33a7347f5fc96d2b' alt='Art Deco phone wallpaper #01 : r/DigitalPainting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/GijIvtLNhZdy0nQmSWOuOwSRixs0shtXugRnWr_6w3o.png?width=640&crop=smart&auto=webp&s=0eedcbaf96eb247333fc98cc33a7347f5fc96d2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80MF9hcnQtZGVjb19pbGx1c3RyYXRpb25zX29mX3BhdHRlcm5fbGluZV9saWdodF9iNWIwM2U4OC1kNzI4LTRkM2YtYjU4Yy1mMjE5MWFhOTEzYzFfMS5qcGc.jpg' alt='Art Deco Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80MF9hcnQtZGVjb19pbGx1c3RyYXRpb25zX29mX3BhdHRlcm5fbGluZV9saWdodF9iNWIwM2U4OC1kNzI4LTRkM2YtYjU4Yy1mMjE5MWFhOTEzYzFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

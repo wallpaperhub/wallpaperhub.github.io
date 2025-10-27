@@ -1,0 +1,129 @@
+<title>Alex Pereira: Rising Star in Mixed Martial Arts</title>
+                    <meta name="description" content="Discover the journey of Alex Pereira, a Brazilian MMA fighter and former kickboxer. Explore his rise to fame in the UFC, impressive fighting style, and achievements that establish him as a leading contender in the middleweight division. Stay updated on his latest fights and career milestones!">
+                    <meta name="keywords" content="alex pereira">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alex-pereira">
+                            <span itemprop="name">alex pereira</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Alex Pereira: Rising Star in Mixed Martial Arts</h1>
+                <p>Alex Pereira is a Brazilian mixed martial artist and former kickboxer, renowned for his striking skills and knockout power. He gained fame in the UFC’s middleweight division after capturing the title by defeating Israel Adesanya. Known for his athleticism and resilience, Pereira has quickly become a fan favorite and a dominant force in MMA.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Pereira - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Alex_Pereira_UFC_300.png' alt='Alex Pereira - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a5/Alex_Pereira_UFC_300.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Pereira (Light Heavyweight) MMA Profile - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4705658.png&w=350&h=254' alt='Alex Pereira (Light Heavyweight) MMA Profile - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4705658.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Pereira | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/5/PEREIRA_ALEX_L_BELT_10-05.png?itok=-HWopS_9' alt='Alex Pereira | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/5/PEREIRA_ALEX_L_BELT_10-05.png?itok=-HWopS_9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Pereira - GLORY Kickboxing">
+                                <img itemprop="contentUrl url" src='https://glory.pinkyellow.network/assets/pereira-stats.png' alt='Alex Pereira - GLORY Kickboxing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GLORY Kickboxing" />
+                                </span>
+                                <a href='https://glory.pinkyellow.network/assets/pereira-stats.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn More About Alex "Poatan" Pereira's UFC Career And His ...">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/2024-06/GettyImages-1788804691.jpg?itok=2jtISmTQ' alt='Learn More About Alex "Poatan" Pereira's UFC Career And His ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/2024-06/GettyImages-1788804691.jpg?itok=2jtISmTQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why did Alex Pereira go to light heavyweight? Explaining Brazilian ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2023-04/Alex%20Pereira%20130423%20%282%29.jpg?itok=1BiRxGYn' alt='Why did Alex Pereira go to light heavyweight? Explaining Brazilian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5807">
+                                <meta itemprop="height" content="3266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2023-04/Alex%20Pereira%20130423%20%282%29.jpg?itok=1BiRxGYn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alex Pereira: The Journey Continues | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/2024-10/100324-Alex-Pereira-UFC-307-Press-Conference-HERO-gradient-GettyImages-2176549340.jpg?h=d1cb525d&itok=1yBB6Q0C' alt='Alex Pereira: The Journey Continues | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/2024-10/100324-Alex-Pereira-UFC-307-Press-Conference-HERO-gradient-GettyImages-2176549340.jpg?h=d1cb525d&itok=1yBB6Q0C' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC: Alex Pereira & 23 fighters make weight under new weigh-in ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0c3f/live/f13456c0-826d-11ef-ad45-893aa022fcbc.jpg' alt='UFC: Alex Pereira & 23 fighters make weight under new weigh-in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0c3f/live/f13456c0-826d-11ef-ad45-893aa022fcbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC 313: Alex Pereira issues $200,000 challenge to Magomed Ankalaev">
+                                <img itemprop="contentUrl url" src='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2025/03/alex-pereira-magomed-ankalaev-ufc-313.jpg?w=1000&h=600&crop=1' alt='UFC 313: Alex Pereira issues $200,000 challenge to Magomed Ankalaev'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MMA Junkie - USA Today" />
+                                </span>
+                                <a href='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2025/03/alex-pereira-magomed-ankalaev-ufc-313.jpg?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN MMA - Alex Pereira said that he wants to fight Dricus ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1066750251481767' alt='ESPN MMA - Alex Pereira said that he wants to fight Dricus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1066750251481767' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Inspirational iPhone Wallpaper: Walk by Faith, Not by Sight</title>
+                    <meta name="description" content="Elevate your device with our "Walk by Faith, Not by Sight" iPhone wallpaper. This powerful and uplifting backdrop inspires daily motivation and spiritual growth, perfect for anyone seeking positivity in their lives. Download now and keep faith at the forefront of your journey!">
+                    <meta name="keywords" content="iphone walk by faith not by sight wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-walk-by-faith-not-by-sight-wallpaper">
+                            <span itemprop="name">iphone walk by faith not by sight wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational iPhone Wallpaper: Walk by Faith, Not by Sight</h1>
+                <p>Transform your iPhone with our "Walk by Faith, Not by Sight" wallpaper. This inspiring design serves as a daily reminder to trust in the journey, embrace positivity, and strengthen your faith. Perfect for those looking to uplift their spirits and motivate themselves every time they check their phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walk by Faith, fuel, light, quote, sight, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/839/336/HD-wallpaper-walk-by-faith-fuel-light-quote-sight.jpg' alt='Walk by Faith, fuel, light, quote, sight, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/839/336/HD-wallpaper-walk-by-faith-fuel-light-quote-sight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For we walk by faith, not by sight. | Bible verse wallpaper, Bible ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/72/ef/9f/72ef9fee3590d87be64dc86e4cbff229.jpg' alt='For we walk by faith, not by sight. | Bible verse wallpaper, Bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/72/ef/9f/72ef9fee3590d87be64dc86e4cbff229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We walk by faith and not by sight.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/75/9e/96/759e965e85fb68802ada1bcba298681e.jpg' alt='We walk by faith and not by sight.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/75/9e/96/759e965e85fb68802ada1bcba298681e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We walk by faith not by sight">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/12/1d/31/121d31ca9c96124dce242ac8275fe796.jpg' alt='We walk by faith not by sight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/12/1d/31/121d31ca9c96124dce242ac8275fe796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Live By Faith // Wallpaper for Phones and Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/a5/4c/a7a54c4e311285efef1c69dd6a2c2ebc.jpg' alt='We Live By Faith // Wallpaper for Phones and Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/a5/4c/a7a54c4e311285efef1c69dd6a2c2ebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For We Walk iPhone Wallpaper, Christian Bible Verse Art, Scripture Art, 1  Corinthians 5:7, for We Walk by Faith and Not by Sight - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42678384/r/il/5e42ca/4893265410/il_1080xN.4893265410_9lxk.jpg' alt='For We Walk iPhone Wallpaper, Christian Bible Verse Art, Scripture Art, 1  Corinthians 5:7, for We Walk by Faith and Not by Sight - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42678384/r/il/5e42ca/4893265410/il_1080xN.4893265410_9lxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give thanks to the... - Encouraging Bible Verses and Quotes | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=969059141934272' alt='Give thanks to the... - Encouraging Bible Verses and Quotes | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Give thanks to the... - Encouraging Bible Verses and Quotes | Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=969059141934272' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Walk By Faith Not By Sight Inspirational Quote Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/walk-by-faith-not-by-sight-inspirational-quote-q25jzrge2lciiewi.jpg' alt='Download Walk By Faith Not By Sight Inspirational Quote Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/walk-by-faith-not-by-sight-inspirational-quote-q25jzrge2lciiewi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dvoapp Archives - Page 2 of 6 - PktFuel.com">
+                                <img itemprop="contentUrl url" src='https://www.pktfuel.com/wp-content/uploads/2014/10/20140822-2-Cor-5-7-iPad.jpg' alt='dvoapp Archives - Page 2 of 6 - PktFuel.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PktFuel.com" />
+                                </span>
+                                <a href='https://www.pktfuel.com/wp-content/uploads/2014/10/20140822-2-Cor-5-7-iPad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For We Walk by Faith, Not by Sight ART PRINT Scripture, Christian ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18756474/r/il/a552c7/5876306057/il_fullxfull.5876306057_211v.jpg' alt='For We Walk by Faith, Not by Sight ART PRINT Scripture, Christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18756474/r/il/a552c7/5876306057/il_fullxfull.5876306057_211v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

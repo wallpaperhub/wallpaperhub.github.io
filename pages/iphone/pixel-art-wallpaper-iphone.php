@@ -1,0 +1,129 @@
+<title>Pixel Art Wallpaper for iPhone: Stunning Designs!</title>
+                    <meta name="description" content="Discover an amazing collection of pixel art wallpapers for your iPhone. Enhance your device's look with vibrant, retro-inspired designs. Perfect for gamers and art lovers alike, these wallpapers are easy to download and fit all models. Transform your iPhone now!">
+                    <meta name="keywords" content="pixel art wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pixel-art-wallpaper-iphone">
+                            <span itemprop="name">pixel art wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pixel Art Wallpaper for iPhone: Stunning Designs!</h1>
+                <p>Transform your iPhone with stunning pixel art wallpapers! From retro gaming vibes to vibrant modern designs, our collection offers unique visuals that will elevate your home and lock screens. Easy to download and compatible with all iPhone models, these wallpapers add a creative touch to your device while showcasing your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/05/c9/9a05c9cdac69597fbac64cb51e0d614f.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/05/c9/9a05c9cdac69597fbac64cb51e0d614f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7jjp5mmmu3e51.png?width=640&crop=smart&auto=webp&s=d0d78a4ac2841dae822673125e47cc01a19b0e5a' alt='Pixel Art Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7jjp5mmmu3e51.png?width=640&crop=smart&auto=webp&s=d0d78a4ac2841dae822673125e47cc01a19b0e5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/db/d8/4bdbd8c100a5f6b0f1506fda08c5f998.jpg' alt='                  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/db/d8/4bdbd8c100a5f6b0f1506fda08c5f998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A fun iPhone wallpaper I made while learning pixel art, any ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iwi23ovy8pv81.gif' alt='A fun iPhone wallpaper I made while learning pixel art, any ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iwi23ovy8pv81.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13012376.png' alt='Pixel Art iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13012376.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pixel art wallpapers - Wallpaperize | Personalize your Phone with ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMjoOi65cs3nPzslZhOc1Ts2QKlSoO4bPsw-Y4nqOij5MlEb1ylzU0CpgnwO6ZD5zG2XbHkzqIaVzY0EzgxXCXyTUhNIx5Al_Nse8tSmkm--iqs4UnSpi2igTwGMKrhh5K5ki4jCbql-IhFQQj_vpiDkaLAgx9RfepLFOk1YDEVdR5Fdsevhz7mLy/d/pixelart%20wallpaper%20(1).png' alt='pixel art wallpapers - Wallpaperize | Personalize your Phone with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="5400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaperize" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMjoOi65cs3nPzslZhOc1Ts2QKlSoO4bPsw-Y4nqOij5MlEb1ylzU0CpgnwO6ZD5zG2XbHkzqIaVzY0EzgxXCXyTUhNIx5Al_Nse8tSmkm--iqs4UnSpi2igTwGMKrhh5K5ki4jCbql-IhFQQj_vpiDkaLAgx9RfepLFOk1YDEVdR5Fdsevhz7mLy/d/pixelart%20wallpaper%20(1).png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PIXEL ART HD WALLPAPER FOR PHONE - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0e9wRSUm9LRiEyKPRiaDlm2VkmpbHlDSjA2CU2lzzdB4LDOktmGZEcOB7k13AArbnI8wDkmbVJa7lQ-VQJ_jH4IeVFq_b1_L4SXMVTqyElHBDVA6NPVoxdrYyt6dk39hiekKJogKiuo_vCBuXbeznwC7jhrbgY2lPDUqYtE4qkJ6RQzc0ynrpZVvUg/s16000-rw/pixelart-phone-wallpaper-1125x2436.png' alt='PIXEL ART HD WALLPAPER FOR PHONE - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0e9wRSUm9LRiEyKPRiaDlm2VkmpbHlDSjA2CU2lzzdB4LDOktmGZEcOB7k13AArbnI8wDkmbVJa7lQ-VQJ_jH4IeVFq_b1_L4SXMVTqyElHBDVA6NPVoxdrYyt6dk39hiekKJogKiuo_vCBuXbeznwC7jhrbgY2lPDUqYtE4qkJ6RQzc0ynrpZVvUg/s16000-rw/pixelart-phone-wallpaper-1125x2436.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpaper Pack">
+                                <img itemprop="contentUrl url" src='http://moer.tel/cdn/shop/products/wallpaper_pack__2022__pixel_art__by_stefanie_grunwald__previews.png?v=1681405109' alt='Pixel Art Wallpaper Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1765">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moertel Pixel Art" />
+                                </span>
+                                <a href='http://moer.tel/cdn/shop/products/wallpaper_pack__2022__pixel_art__by_stefanie_grunwald__previews.png?v=1681405109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel City, 16 bits, nintendo, pixel art, retro, sega, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/482/318/HD-wallpaper-pixel-city-16-bits-nintendo-pixel-art-retro-sega.jpg' alt='Pixel City, 16 bits, nintendo, pixel art, retro, sega, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/482/318/HD-wallpaper-pixel-city-16-bits-nintendo-pixel-art-retro-sega.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aj26-pixel-art-city-by-army-of-trolls-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-aj26-pixel-art-city-by-army-of-trolls-41-iphone-wallpaper.jpg' alt='aj26-pixel-art-city-by-army-of-trolls-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-aj26-pixel-art-city-by-army-of-trolls-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charles Leclerc: Monaco's F1 Superstar</title>
+                    <meta name="description" content="Explore the journey of Charles Leclerc, the talented F1 driver from Monaco, known for his impressive skills and dedication. Discover his achievements with Scuderia Ferrari and his pursuit of racing glory in the fast-paced world of Formula 1.">
+                    <meta name="keywords" content="charles leclerc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charles-leclerc">
+                            <span itemprop="name">charles leclerc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charles Leclerc: Monaco's F1 Superstar</h1>
+                <p>Charles Leclerc, a rising star in Formula 1, drives for Scuderia Ferrari. Born on October 16, 1997, in Monaco, he made his F1 debut in 2018 and quickly captured attention with his speed and skill. Leclerc is known for his aggressive driving style and strong performances, aiming for success and championships in his Ferrari career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/800px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg' alt='Charles Leclerc - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/800px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc - F1 Driver for Ferrari">
+                                <img itemprop="contentUrl url" src='https://media.formula1.com/image/upload/f_auto/q_auto/v1739440985/content/dam/fom-website/drivers/2025Drivers/leclerc.png' alt='Charles Leclerc - F1 Driver for Ferrari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="F1" />
+                                </span>
+                                <a href='https://media.formula1.com/image/upload/f_auto/q_auto/v1739440985/content/dam/fom-website/drivers/2025Drivers/leclerc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc Stats, Race Results, Wins, News, Record, Videos ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/rpm/players/full/5498.png' alt='Charles Leclerc Stats, Race Results, Wins, News, Record, Videos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/rpm/players/full/5498.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6753832b78f53643f93a2dbc/0x0.jpg?format=jpg&crop=1263,1266,x300,y30,safe&height=416&width=416&fit=bounds' alt='Charles Leclerc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6753832b78f53643f93a2dbc/0x0.jpg?format=jpg&crop=1263,1266,x300,y30,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scuderia Ferrari Team: Charles Leclerc - Ferrari.com">
+                                <img itemprop="contentUrl url" src='https://cdn.ferrari.com/cms/network/media/img/resize/67ac7e41596e810010250400-ferrari-charles-leclerc-cl-all%20about?width=1024&height=1024' alt='Scuderia Ferrari Team: Charles Leclerc - Ferrari.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferrari" />
+                                </span>
+                                <a href='https://cdn.ferrari.com/cms/network/media/img/resize/67ac7e41596e810010250400-ferrari-charles-leclerc-cl-all%20about?width=1024&height=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A disappointing weekend in Canada. Some power unit issues at the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3387480028394792396' alt='A disappointing weekend in Canada. Some power unit issues at the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3387480028394792396' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday is my favorite day   - @scuderiaferrari - #f1 ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3221407133424458607' alt='Wallpaper Wednesday is my favorite day   - @scuderiaferrari - #f1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3221407133424458607' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc Profile - Bio, News, High-Res Photos & High ...">
+                                <img itemprop="contentUrl url" src='https://cdn-8.motorsport.com/images/mgl/YMdm7R32/s8/charles-leclerc-ferrari.jpg' alt='Charles Leclerc Profile - Bio, News, High-Res Photos & High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorsport.com" />
+                                </span>
+                                <a href='https://cdn-8.motorsport.com/images/mgl/YMdm7R32/s8/charles-leclerc-ferrari.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Charles Leclerc? Meet F1 Driver: Age, Girlfriend, Monaco | J-14">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2024/05/charles-leclerc-2.jpg?resize=800%2C800&quality=86&strip=all' alt='Who Is Charles Leclerc? Meet F1 Driver: Age, Girlfriend, Monaco | J-14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2024/05/charles-leclerc-2.jpg?resize=800%2C800&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Leclerc (@charles_leclerc) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572363581544712248' alt='Charles Leclerc (@charles_leclerc) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572363581544712248' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

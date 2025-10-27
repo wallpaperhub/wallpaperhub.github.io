@@ -1,0 +1,129 @@
+<title>Stunning Dark Floral Wallpaper Designs for Your Desktop</title>
+                    <meta name="description" content="Enhance your desktop aesthetic with captivating dark floral wallpaper. Ideal for those seeking a unique touch, these designs blend elegance and style, making your workspace both inviting and inspiring. Perfect for any device, discover the perfect wallpaper that resonates with your personality.">
+                    <meta name="keywords" content="dark floral wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/dark-floral-wallpaper-desktop">
+                            <span itemprop="name">dark floral wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Floral Wallpaper Designs for Your Desktop</h1>
+                <p>Transform your desktop with dark floral wallpaper that marries elegance and drama. These stunning designs feature rich, moody shades and intricate floral patterns, perfect for adding depth to your workspace. Whether you prefer vintage blooms or modern styles, dark floral wallpaper can create a striking backdrop that inspires creativity and enhances your mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' alt='16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpapers for Home Decor | Flower Wall Murals">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/dark-floral-wallpaper-mural.jpg?v=1655712604' alt='Dark Floral Wallpapers for Home Decor | Flower Wall Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/dark-floral-wallpaper-mural.jpg?v=1655712604' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Garden Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000111-crop.jpg' alt='Dark Floral Garden Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000111-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dark Floral Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-floral-1640-x-1064-background-l6j9buay8vhz84v6.jpg' alt='200+] Dark Floral Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-floral-1640-x-1064-background-l6j9buay8vhz84v6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper | Black Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/wysiwyg/specification-image/EllieCashman_DF01_Wallpaper_Specifications-01.jpg?optimize=medium&width=345' alt='Dark Floral Wallpaper | Black Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1219">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/wysiwyg/specification-image/EllieCashman_DF01_Wallpaper_Specifications-01.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/drawing-flowers-blackboard-wallpaper_23-2148417466.jpg' alt='Dark Floral Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/drawing-flowers-blackboard-wallpaper_23-2148417466.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enchanting Dark Floral Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-floral-1920-x-1080-background-j1lzu24tbmq1v0ov.jpg' alt='Download Enchanting Dark Floral Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-floral-1920-x-1080-background-j1lzu24tbmq1v0ov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blooming-roses-banner_53876-89188.jpg' alt='Dark Floral Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blooming-roses-banner_53876-89188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Print Images – Browse 160,774 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/89/20/35/360_F_489203508_94oZOM8kcapwZLJ6z0RKDKYQHl2Mc1qm.jpg' alt='Dark Floral Print Images – Browse 160,774 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/89/20/35/360_F_489203508_94oZOM8kcapwZLJ6z0RKDKYQHl2Mc1qm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper | Watercolour Rose Mural | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1654873584-valance.jpg?auto=format&dpr=0.24&w=3420' alt='Dark Floral Wallpaper | Watercolour Rose Mural | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1654873584-valance.jpg?auto=format&dpr=0.24&w=3420' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

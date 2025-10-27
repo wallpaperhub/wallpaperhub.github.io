@@ -1,0 +1,129 @@
+<title>Stunning Nativity Wallpaper for Your Phone</title>
+                    <meta name="description" content="Enhance your phone with beautiful nativity wallpaper that adds a touch of spirituality and peace to your screen. Explore a variety of designs featuring the Holy Family and festive themes, perfect for embracing the season while staying stylish and inspired. Ideal for those seeking meaningful and vibrant phone aesthetics.">
+                    <meta name="keywords" content="nativity wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nativity-wallpaper-phone">
+                            <span itemprop="name">nativity wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nativity Wallpaper for Your Phone</h1>
+                <p>Your phone's nativity wallpaper can beautifully capture the essence of the season, bringing a touch of warmth and spirituality to your daily routine. With various designs featuring the Holy Family, angels, and serene landscapes, these images create a peaceful backdrop that enhances your phone experience while inspiring thoughts of faith and love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/51/ec/ed51ecbaa29352b9ca94d08bb3d25fe7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/51/ec/ed51ecbaa29352b9ca94d08bb3d25fe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Christmas nativity wallpaper will surely put you in the Holiday  mood!     Don’t forget to LIKE & FOLLOW for more beautiful art videos!  Also, we would love to hear your thoughts, so feel free to drop ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7447423976022134021&location=0&aid=1988' alt='Our Christmas nativity wallpaper will surely put you in the Holiday  mood!     Don’t forget to LIKE & FOLLOW for more beautiful art videos!  Also, we would love to hear your thoughts, so feel free to drop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7447423976022134021&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nativity iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/80/d1/be80d1c762570860aace0d19d735f76a.jpg' alt='Nativity iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/80/d1/be80d1c762570860aace0d19d735f76a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nativity Wallpaper, Holy Family Lockscreen, Christian iPhone, Catholic Lock  Screen, iPhone Downloadable, Catholic Background, Jesus">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48858031/r/il/09a056/5616853898/il_570xN.5616853898_rspb.jpg' alt='Nativity Wallpaper, Holy Family Lockscreen, Christian iPhone, Catholic Lock  Screen, iPhone Downloadable, Catholic Background, Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48858031/r/il/09a056/5616853898/il_570xN.5616853898_rspb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Nativity Wallpaper for Holiday Cheer">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7450418586750946566&location=0&aid=1988' alt='Christmas Nativity Wallpaper for Holiday Cheer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7450418586750946566&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nativity Scene Wallpapers [37+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/231/nativity-scene-wallpaper-for-ipad-2224x3065.jpg' alt='Nativity Scene Wallpapers [37+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2224">
+                                <meta itemprop="height" content="3065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/231/nativity-scene-wallpaper-for-ipad-2224x3065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Nativity Scene Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13858861/r/il/a09308/4524866804/il_570xN.4524866804_540h.jpg' alt='Minimalist Nativity Scene Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13858861/r/il/a09308/4524866804/il_570xN.4524866804_540h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Nativity Wallpaper Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/466422/Christmas-Nativity-Wallpaper-Template-edit-online.png' alt='Free Christmas Nativity Wallpaper Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/466422/Christmas-Nativity-Wallpaper-Template-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silent Night, manger, christmas, holy, star, nativity, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/296/863/HD-wallpaper-silent-night-manger-christmas-holy-star-nativity.jpg' alt='Silent Night, manger, christmas, holy, star, nativity, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/296/863/HD-wallpaper-silent-night-manger-christmas-holy-star-nativity.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nativity Scene Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/916vzHNvUxL.png' alt='Nativity Scene Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/916vzHNvUxL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

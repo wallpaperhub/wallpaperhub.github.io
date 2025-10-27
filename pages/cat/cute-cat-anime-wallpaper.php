@@ -1,0 +1,129 @@
+<title>Adorable Cat Anime Wallpapers for Your Screen</title>
+                    <meta name="description" content="Explore a delightful range of cute cat anime wallpapers to brighten up your devices! Perfectly designed for cat lovers, these charming backgrounds will add a touch of whimsy and fun. Download your favorite and let your love for anime and adorable felines shine through!">
+                    <meta name="keywords" content="cute cat anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/cute-cat-anime-wallpaper">
+                            <span itemprop="name">cute cat anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cat Anime Wallpapers for Your Screen</h1>
+                <p>Looking for adorable cat anime wallpapers? Discover a collection of vibrant and cute designs featuring playful kittens, stylish cats, and enchanting characters. Perfect for your desktop or mobile device, these wallpapers will bring a touch of whimsy and charm to your screens. Embrace your love for cats with our cute anime art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Chicco Volante on Gatti | Cute cartoon wallpapers, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/35/f1/80/35f180e0bbc21ede09009dd322d2c33c.jpg' alt='Pin by Chicco Volante on Gatti | Cute cartoon wallpapers, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/35/f1/80/35f180e0bbc21ede09009dd322d2c33c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Cat Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/digital-art-portrait-adorable-pet-heaven_23-2151478742.jpg?semt=ais_hybrid' alt='Anime Cat Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/digital-art-portrait-adorable-pet-heaven_23-2151478742.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Anime Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-anime-cat-lk5bei2gls1qkzpn.jpg' alt='100+] Kawaii Anime Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-anime-cat-lk5bei2gls1qkzpn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Cat Desktop Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/91/98/01919892a650fa5f71228d52d088471d.jpg' alt='Anime Cat Desktop Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/91/98/01919892a650fa5f71228d52d088471d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Anime Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/kawaii-pastel-illustration-adorable-fluffy-cat-with-blue-eyes-beige-background-that-says_1101825-30795.jpg?semt=ais_hybrid' alt='Cute Cat Anime Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/kawaii-pastel-illustration-adorable-fluffy-cat-with-blue-eyes-beige-background-that-says_1101825-30795.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Wallpaper Cute Anime Wallpaper for Phone Aesthetic Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44271498/r/il/827fee/5060352627/il_fullxfull.5060352627_2w0u.jpg' alt='Cute Cat Wallpaper Cute Anime Wallpaper for Phone Aesthetic Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1121">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44271498/r/il/827fee/5060352627/il_fullxfull.5060352627_2w0u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cat With Bonnet And Blue Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/kawaii-cat-with-bonnet-and-blue-heart-98zk1ndwsudf41lh.jpg' alt='Kawaii Cat With Bonnet And Blue Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/kawaii-cat-with-bonnet-and-blue-heart-98zk1ndwsudf41lh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cute pink cat wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/501/834/HD-wallpaper-cute-cats-cat-cats-cute-cute-cat-kawaii-love-pink-thumbnail.jpg' alt='HD cute pink cat wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/501/834/HD-wallpaper-cute-cats-cat-cats-cute-cute-cat-kawaii-love-pink-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats Wallpaper Books Plants Wallpapers Books Cozy Wallpaper Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/0fc0f3/5908621470/il_fullxfull.5908621470_lbib.jpg' alt='Cats Wallpaper Books Plants Wallpapers Books Cozy Wallpaper Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/0fc0f3/5908621470/il_fullxfull.5908621470_lbib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Adorably Cute Anime Cat Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-anime-cat-bjefd4wbwbim7xov.jpg' alt='Download Adorably Cute Anime Cat Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-anime-cat-bjefd4wbwbim7xov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vagabond iPhone Wallpapers: Inspire Your Travels</title>
+                    <meta name="description" content="Explore stunning vagabond iPhone wallpapers that capture the essence of adventure and wanderlust. Perfect for enthusiasts of travel and nature, these wallpapers will inspire your next journey. Download now to bring your screen to life with breathtaking visuals!">
+                    <meta name="keywords" content="vagabond iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/vagabond-iphone-wallpaper">
+                            <span itemprop="name">vagabond iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vagabond iPhone Wallpapers: Inspire Your Travels</h1>
+                <p>Discover the perfect vagabond iPhone wallpaper to inspire your wanderlust! Images of breathtaking landscapes, cozy campsites, and adventurous trails will transform your device screen into a gateway for exploration. Embrace the spirit of travel with daily reminders of freedom and adventure. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vagabond Background | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/e0/bf/cae0bff30017e67eebd74e749fdac706.jpg' alt='Vagabond Background | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/e0/bf/cae0bff30017e67eebd74e749fdac706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I just wanted to share my new iPhone wallpaper inspired by u ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-just-wanted-to-share-my-new-iphone-wallpaper-inspired-by-v0-uoiyz2oy1fsb1.png?auto=webp&s=36e65b52568ccdc0b79acc6f36eba1b8aa61d6ec' alt='I just wanted to share my new iPhone wallpaper inspired by u ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="3362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-just-wanted-to-share-my-new-iphone-wallpaper-inspired-by-v0-uoiyz2oy1fsb1.png?auto=webp&s=36e65b52568ccdc0b79acc6f36eba1b8aa61d6ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My iOS 16 vagabond wallpapers : r/vagabondmanga">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/863/398/HD-wallpaper-grateful-miyamoto-musashi-slam-dunk-takehiko-inoue-vagabond.jpg' alt='My iOS 16 vagabond wallpapers : r/vagabondmanga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/863/398/HD-wallpaper-grateful-miyamoto-musashi-slam-dunk-takehiko-inoue-vagabond.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made an iPhone version of this wallpaper : r/vagabondmanga">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/943u319tg8l61.jpg?width=1080&crop=smart&auto=webp&s=31e4657825770efeab41a89fc8617038e7cb3567' alt='Made an iPhone version of this wallpaper : r/vagabondmanga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/943u319tg8l61.jpg?width=1080&crop=smart&auto=webp&s=31e4657825770efeab41a89fc8617038e7cb3567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Musashi Vagabond | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2754831241.3999/flat,750x1000,075,t.jpg' alt='Musashi Vagabond | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2754831241.3999/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="c154f4783cb6748419d354cb85a86d ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/54/f4/c154f4783cb6748419d354cb85a86d8d.jpg' alt='c154f4783cb6748419d354cb85a86d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/54/f4/c154f4783cb6748419d354cb85a86d8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Musashi, manga, rohan, vagabond, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/404/760/HD-wallpaper-musashi-manga-rohan-vagabond.jpg' alt='Musashi, manga, rohan, vagabond, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/404/760/HD-wallpaper-musashi-manga-rohan-vagabond.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD vagabond wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/518/957/HD-wallpaper-vagabond-musashi.jpg' alt='HD vagabond wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/518/957/HD-wallpaper-vagabond-musashi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vagabond Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/80/42/c7/8042c7f1979e9179fee87be7d11a142a.jpg' alt='Vagabond Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/80/42/c7/8042c7f1979e9179fee87be7d11a142a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VAGABOND MANGA DESIGN | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4295805650.7665/flat,750x1000,075,t.jpg' alt='VAGABOND MANGA DESIGN | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4295805650.7665/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

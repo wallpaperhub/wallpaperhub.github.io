@@ -1,0 +1,129 @@
+<title>Stunning Dragon Quest 11 Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the best Dragon Quest 11 wallpapers to personalize your devices! Explore a variety of high-quality images featuring beloved characters and enchanting scenery, all optimized for mobile and desktop use. Transform your screens with these vibrant designs and celebrate your adventure in Erdrea!">
+                    <meta name="keywords" content="dragon quest 11 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-quest-11-wallpaper">
+                            <span itemprop="name">dragon quest 11 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Quest 11 Wallpapers for Your Devices</h1>
+                <p>Elevate your gaming experience with stunning Dragon Quest 11 wallpapers! From breathtaking landscapes to iconic characters, immerse yourself in the vibrant world of Erdrea. Perfect for your desktop or mobile device, these wallpapers bring your favorite scenes and heroes to life, enhancing your gaming atmosphere. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some DQ XI wallpaper i gathered since i played it. Does ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-are-some-dq-xi-wallpaper-i-gathered-since-i-played-it-v0-0wgejwircf7b1.jpg?width=1440&format=pjpg&auto=webp&s=320dc12f61debc1984da40f2921c1f24247df453' alt='Here are some DQ XI wallpaper i gathered since i played it. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-are-some-dq-xi-wallpaper-i-gathered-since-i-played-it-v0-0wgejwircf7b1.jpg?width=1440&format=pjpg&auto=webp&s=320dc12f61debc1984da40f2921c1f24247df453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PS4] Dragon Quest XI start up screen Wallpaper. : r/dragonquest">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/n3qcn4zdotj11.png?auto=webp&s=75d2e1a299a6179b4a8a66d313600b969e4fb398' alt='PS4] Dragon Quest XI start up screen Wallpaper. : r/dragonquest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/n3qcn4zdotj11.png?auto=webp&s=75d2e1a299a6179b4a8a66d313600b969e4fb398' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest Xi S: Echoes Of An Elusive Age Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/11/dragon_quest_xi_echoes_of_an_elusive_age_ps4-wallpapers-01.jpg' alt='Dragon Quest Xi S: Echoes Of An Elusive Age Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/11/dragon_quest_xi_echoes_of_an_elusive_age_ps4-wallpapers-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest Xi S: Echoes Of An Elusive Age Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/11/dragon_quest_xi_echoes_of_an_elusive_age_ps4-wallpapers-09.jpg' alt='Dragon Quest Xi S: Echoes Of An Elusive Age Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/11/dragon_quest_xi_echoes_of_an_elusive_age_ps4-wallpapers-09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some DQ XI wallpaper i gathered since i played it. Does ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-are-some-dq-xi-wallpaper-i-gathered-since-i-played-it-v0-m6yhjtmqcf7b1.jpg?width=630&format=pjpg&auto=webp&s=8d67108d02862c6079d08d2650c9abd38b9c6602' alt='Here are some DQ XI wallpaper i gathered since i played it. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-are-some-dq-xi-wallpaper-i-gathered-since-i-played-it-v0-m6yhjtmqcf7b1.jpg?width=630&format=pjpg&auto=webp&s=8d67108d02862c6079d08d2650c9abd38b9c6602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest XI: Echoes of an Elusive Age wallpapers or desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_dragon_quest_xi_echoes_of_an_elusive_age_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Dragon Quest XI: Echoes of an Elusive Age wallpapers or desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_dragon_quest_xi_echoes_of_an_elusive_age_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Quest Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-quest-iphone-t2tacsro6cppgldk.jpg' alt='100+] Dragon Quest Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-quest-iphone-t2tacsro6cppgldk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest XI: Echoes of An Elusive Age Review and Final ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/jarinjove.com/wp-content/uploads/2018/11/1510743216_e58b87e88085e69697e681b6e9be9911-2.jpg?ssl=1' alt='Dragon Quest XI: Echoes of An Elusive Age Review and Final ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jarin Jove's Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/jarinjove.com/wp-content/uploads/2018/11/1510743216_e58b87e88085e69697e681b6e9be9911-2.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest XI Computer Wallpaper - Dragon Quest XI - Dragon's ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/YJDGNBE.jpg' alt='Dragon Quest XI Computer Wallpaper - Dragon Quest XI - Dragon's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodus.com" />
+                                </span>
+                                <a href='https://i.imgur.com/YJDGNBE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Productions Dragon Quest XI Game Review">
+                                <img itemprop="contentUrl url" src='https://foggyproductions.com/img/gameReviews/dragon-quest-xi.jpg' alt='Foggy Productions Dragon Quest XI Game Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foggy Productions" />
+                                </span>
+                                <a href='https://foggyproductions.com/img/gameReviews/dragon-quest-xi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

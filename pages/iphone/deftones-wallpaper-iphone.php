@@ -1,0 +1,129 @@
+<title>Stunning Deftones Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a collection of breathtaking Deftones wallpapers optimized for your iPhone. Perfectly blend style and music, showcasing your love for the band. Download now to personalize your device with striking visuals that resonate with Deftones' iconic vibe!">
+                    <meta name="keywords" content="deftones wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/deftones-wallpaper-iphone">
+                            <span itemprop="name">deftones wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Deftones Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning Deftones wallpapers that capture the essence of their unique sound. From edgy artwork to serene imagery, find the perfect backdrop that resonates with your love for the band. Upgrade your device's aesthetic and showcase your dedication to Deftones—download your favorite wallpaper now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Deftones wallpaper by JaRabbis - Download on ZEDGE™ | 9274">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/09/58/0d0958a4d0ba79fd5a29b2d4feaa0834.jpg' alt='The Deftones wallpaper by JaRabbis - Download on ZEDGE™ | 9274'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/09/58/0d0958a4d0ba79fd5a29b2d4feaa0834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="deftones lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a7/bf/02/a7bf0263abee0f8ff090a731a8fc2c0a.jpg' alt='deftones lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a7/bf/02/a7bf0263abee0f8ff090a731a8fc2c0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More wallpapers : r/deftones">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-wallpapers-v0-evkwhjvtrade1.jpg?width=640&crop=smart&auto=webp&s=62e546e800c6f2ae04642602803450bebfe08008' alt='More wallpapers : r/deftones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-wallpapers-v0-evkwhjvtrade1.jpg?width=640&crop=smart&auto=webp&s=62e546e800c6f2ae04642602803450bebfe08008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koi No Yokan in 4k + Wallpapers : r/deftones">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/koi-no-yokan-in-4k-wallpapers-v0-ucyyl5us9whb1.jpg?width=4000&format=pjpg&auto=webp&s=372bd194705613b324848ae84bd3580a518f2c41' alt='Koi No Yokan in 4k + Wallpapers : r/deftones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/koi-no-yokan-in-4k-wallpapers-v0-ucyyl5us9whb1.jpg?width=4000&format=pjpg&auto=webp&s=372bd194705613b324848ae84bd3580a518f2c41' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Deftones wallpapers for your mobile : r/deftones">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-deftones-wallpapers-for-your-mobile-v0-5gs5dvemnjbd1.jpg?width=736&format=pjpg&auto=webp&s=05d0fde023ce3d5da9cbafd11f8c340306df5d2e' alt='More Deftones wallpapers for your mobile : r/deftones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-deftones-wallpapers-for-your-mobile-v0-5gs5dvemnjbd1.jpg?width=736&format=pjpg&auto=webp&s=05d0fde023ce3d5da9cbafd11f8c340306df5d2e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deftones wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/28/78/5f28788987890af0f63c621cca886916.jpg' alt='Deftones wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/28/78/5f28788987890af0f63c621cca886916.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2023/04/deftones-deadstock-star_iphone-x-1125x2434.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2023/04/deftones-deadstock-star_iphone-x-1125x2434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#Ohms #deftones #wallpapers #aesthetic xd | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7184645279633689862&location=0&aid=1988' alt='#Ohms #deftones #wallpapers #aesthetic xd | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7184645279633689862&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deftones Pony, black, logo, silver, style, text, type, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/178/159/HD-wallpaper-deftones-pony-black-logo-silver-style-text-type.jpg' alt='Deftones Pony, black, logo, silver, style, text, type, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/178/159/HD-wallpaper-deftones-pony-black-logo-silver-style-text-type.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deftones Phone Wallpapers - Top Free Deftones Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/b7/22/28b7228df4baef2996e4c1edaba8b17e.jpg' alt='Deftones Phone Wallpapers - Top Free Deftones Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/b7/22/28b7228df4baef2996e4c1edaba8b17e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High-Quality Fedora PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover premium fedora PNG images, perfect for enhancing your digital projects. Ideal for web design, logos, and more, these graphics are versatile and stylish, helping you elevate your brand or creative work effortlessly. Explore our collection now!">
+                    <meta name="keywords" content="fedora png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fedora-png">
+                            <span itemprop="name">fedora png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Fedora PNG Images for Your Creative Projects</h1>
+                <p>Fedora PNG images are versatile graphic assets commonly used in web design, branding, and digital projects. Their transparent backgrounds enhance versatility, making them perfect for overlays, logos, or icons on various backgrounds. High-quality fedora PNGs can elevate a design's visual appeal, adding a touch of sophistication and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Fedora Hat PNG Clipart Picture​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/6511' alt='Black Fedora Hat PNG Clipart Picture​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/6511' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Fedora PNG Transparent Background, Free Download #34104 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/black-fedora-png-20.png' alt='Black Fedora PNG Transparent Background, Free Download #34104 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/black-fedora-png-20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fedora Hat PNG Clipart​ | Gallery Yopriceville - High-Quality Free ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/26672' alt='Fedora Hat PNG Clipart​ | Gallery Yopriceville - High-Quality Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="5629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/26672' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Fedora Hat PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/classic-fedora-hat-Q9LN9q5-600.jpg' alt='Classic Fedora Hat PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/classic-fedora-hat-Q9LN9q5-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Fedora Hat On Transparent Background, Hat, Fedora, Black PNG ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240728/ourlarge/pngtree-black-fedora-hat-on-transparent-background-png-image_13256539.png' alt='Black Fedora Hat On Transparent Background, Hat, Fedora, Black PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240728/ourlarge/pngtree-black-fedora-hat-on-transparent-background-png-image_13256539.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Fedora PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231014/ourmid/pngtree-men-s-classic-fedora-hat-png-illustration-png-image_10158879.png' alt='Classic Fedora PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231014/ourmid/pngtree-men-s-classic-fedora-hat-png-illustration-png-image_10158879.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fedora, hyde park, hat, fedora png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/627/370/png-clipart-fedora-hyde-park-hat-fedora.png' alt='Fedora, hyde park, hat, fedora png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/627/370/png-clipart-fedora-hyde-park-hat-fedora.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Fedora Hat Images PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/black-fedora-hat-transparent-images-14.png' alt='Black Fedora Hat Images PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/black-fedora-hat-transparent-images-14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Fedora Hat PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/black-fedora-hat-x7O8al7-600.jpg' alt='Black Fedora Hat PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/black-fedora-hat-x7O8al7-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fedora Transparent Background Transparent HQ PNG Download | FreePNGimg">
+                                <img itemprop="contentUrl url" src='https://freepngimg.com/thumb/hat/27161-3-fedora-transparent-background.png' alt='Fedora Transparent Background Transparent HQ PNG Download | FreePNGimg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePNGimg" />
+                                </span>
+                                <a href='https://freepngimg.com/thumb/hat/27161-3-fedora-transparent-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Pastel Minimalist Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Explore aesthetic pastel minimalist wallpaper to transform your space! Soft shades and clean designs create a serene atmosphere, perfect for any modern home or office. Discover your ideal backdrop for relaxation and creativity!">
+                    <meta name="keywords" content="aesthetic pastel minimalist wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-pastel-minimalist-wallpaper">
+                            <span itemprop="name">aesthetic pastel minimalist wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Pastel Minimalist Wallpaper for Modern Spaces</h1>
+                <p>Aesthetic pastel minimalist wallpaper enhances your space with soothing colors and clean lines. Perfect for creating a tranquil atmosphere, these wallpapers feature soft hues like lavender, mint, and blush, harmonizing with modern decor. Ideal for bedrooms, offices, or creative spaces, they inspire calm and creativity while keeping your environment chic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable pastel desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFibplS8Jg/1/0/1600w/canva-pastel-colors-simple-modern-comic-illustration-motivational-positive-desktop-wallpaper-iTVEzHLebAc.jpg' alt='Free customizable pastel desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFibplS8Jg/1/0/1600w/canva-pastel-colors-simple-modern-comic-illustration-motivational-positive-desktop-wallpaper-iTVEzHLebAc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Minimalist Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-minimalist-r7tjpgww3om3bkpv.jpg' alt='100+] Pastel Minimalist Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-minimalist-r7tjpgww3om3bkpv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Pastel Yellow Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minimalist-pastel-yellow-aesthetic-pwcks95ov292mhbd.jpg' alt='Minimalist Pastel Yellow Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minimalist-pastel-yellow-aesthetic-pwcks95ov292mhbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Brown Aesthetic Pastel Minimalist Line Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/brown-aesthetic-pastel-minimalist-line-art-5pweoveh23363bp3.jpg' alt='Download Brown Aesthetic Pastel Minimalist Line Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/brown-aesthetic-pastel-minimalist-line-art-5pweoveh23363bp3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="minimalist flower wallpaper; pastel yellow background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/35/67/8a3567befb7d1ad3ec7149e70d111ee8.jpg' alt='minimalist flower wallpaper; pastel yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/35/67/8a3567befb7d1ad3ec7149e70d111ee8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Cream Pastel Floral Background Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-minimalist-cream-pastel-floral-background-wallpaper-picture-image_1441632.jpg' alt='Minimalist Cream Pastel Floral Background Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-minimalist-cream-pastel-floral-background-wallpaper-picture-image_1441632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Pastel Aesthetic Minimalist Coffee Cup Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brown-pastel-aesthetic-minimalist-coffee-cup-1g4po6dk7n2wgjk3.jpg' alt='Brown Pastel Aesthetic Minimalist Coffee Cup Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brown-pastel-aesthetic-minimalist-coffee-cup-1g4po6dk7n2wgjk3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Minimalist Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-watercolor-blue-shade-background-vector_53876-140750.jpg' alt='Pastel Minimalist Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-watercolor-blue-shade-background-vector_53876-140750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Organic Abstract Pastel Shapes Background Minimalist aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/051/624/non_2x/organic-abstract-pastel-shapes-background-minimalist-aesthetic-free-vector.jpg' alt='Organic Abstract Pastel Shapes Background Minimalist aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/051/624/non_2x/organic-abstract-pastel-shapes-background-minimalist-aesthetic-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 16 | Pastel Minimalist Wallpaper Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149006549.jpg' alt='Page 16 | Pastel Minimalist Wallpaper Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149006549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Dirt 3: Unleashing Epic Racing Adventures</title>
+                    <meta name="description" content="Explore Dark Dirt 3, an adrenaline-pumping racing game that features stunning graphics, challenging terrains, and realistic dirt physics. Get ready to race through vibrant environments and face thrilling challenges in this exciting racing experience, perfect for gamers seeking adventure on-the-go!">
+                    <meta name="keywords" content="dark dirt 3 image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-dirt-3-image">
+                            <span itemprop="name">dark dirt 3 image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Dirt 3: Unleashing Epic Racing Adventures</h1>
+                <p>Dark Dirt 3 showcases stunning visuals in a vibrant racing environment, filled with dynamic animation and intricate details that bring the track to life. The gritty textures of the dirt create a unique challenge for players as they navigate through various terrains, making for an exhilarating gaming experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dirt 3 Review - IGN">
+                                <img itemprop="contentUrl url" src='https://assets-prd.ignimgs.com/2022/01/07/dirt-3-button-1641538652562.jpg' alt='Dirt 3 Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets-prd.ignimgs.com/2022/01/07/dirt-3-button-1641538652562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caption: Thrilling Rally Race In Dirt 3 With A Ferris Wheel In The ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/caption-thrilling-rally-race-in-dirt-3-with-a-ferris-wheel-in-the-background-z75cr9n14ch73p7o.jpg' alt='Caption: Thrilling Rally Race In Dirt 3 With A Ferris Wheel In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/caption-thrilling-rally-race-in-dirt-3-with-a-ferris-wheel-in-the-background-z75cr9n14ch73p7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dirt 3 Review - IGN">
+                                <img itemprop="contentUrl url" src='https://xbox360media.ign.com/xbox360/image/article/116/1169553/Dirt32_1305853037.jpg' alt='Dirt 3 Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://xbox360media.ign.com/xbox360/image/article/116/1169553/Dirt32_1305853037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 (Xbox 360) – DarkZero">
+                                <img itemprop="contentUrl url" src='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-tyres-600x337.jpg' alt='DiRT 3 (Xbox 360) – DarkZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarkZero" />
+                                </span>
+                                <a href='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-tyres-600x337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dirt 3 - IGN">
+                                <img itemprop="contentUrl url" src='http://assets1.ignimgs.com/2015/01/29/dirt-3-buttonjpg-56e929.jpg' alt='Dirt 3 - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='http://assets1.ignimgs.com/2015/01/29/dirt-3-buttonjpg-56e929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 - Gamersyde">
+                                <img itemprop="contentUrl url" src='https://www.gamersyde.com/news_dirt_3_pc_videos_of_monte_carlo-11419.jpg' alt='DiRT 3 - Gamersyde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamersyde" />
+                                </span>
+                                <a href='https://www.gamersyde.com/news_dirt_3_pc_videos_of_monte_carlo-11419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dirt 3 - IGN">
+                                <img itemprop="contentUrl url" src='https://gearmedia.ign.com/gear/image/object/082/082108/DIRT-3_US_ESRB_PS3.jpg' alt='Dirt 3 - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://gearmedia.ign.com/gear/image/object/082/082108/DIRT-3_US_ESRB_PS3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 (Xbox 360) – DarkZero">
+                                <img itemprop="contentUrl url" src='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-header.jpg' alt='DiRT 3 (Xbox 360) – DarkZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarkZero" />
+                                </span>
+                                <a href='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 Pics Thread | GTPlanet">
+                                <img itemprop="contentUrl url" src='https://www.gtplanet.net/forum/proxy.php?image=http%3A%2F%2Ffarm3.static.flickr.com%2F2398%2F5756191819_13c08c81b5_b.jpg&hash=06fa3b3314d8be04aea7e993235c3a85' alt='DiRT 3 Pics Thread | GTPlanet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GTPlanet" />
+                                </span>
+                                <a href='https://www.gtplanet.net/forum/proxy.php?image=http%3A%2F%2Ffarm3.static.flickr.com%2F2398%2F5756191819_13c08c81b5_b.jpg&hash=06fa3b3314d8be04aea7e993235c3a85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 (Xbox 360) – DarkZero">
+                                <img itemprop="contentUrl url" src='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-england-600x337.jpg' alt='DiRT 3 (Xbox 360) – DarkZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarkZero" />
+                                </span>
+                                <a href='https://darkzero.co.uk/wp-content/uploads/2011/06/dirt-3-england-600x337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

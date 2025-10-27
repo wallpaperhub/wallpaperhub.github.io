@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Moody Bathroom Wallpaper Ideas</title>
+                    <meta name="description" content="Discover how moody bathroom wallpaper can transform your space into a sophisticated oasis. From deep colors to bold patterns, find inspiration that brings drama and relaxation to your daily routine.">
+                    <meta name="keywords" content="moody bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/moody-bathroom-wallpaper">
+                            <span itemprop="name">moody bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Moody Bathroom Wallpaper Ideas</h1>
+                <p>Transform your bathroom with moody wallpaper that evokes a sense of drama and elegance. Dark hues, rich textures, and bold patterns can turn an ordinary space into a luxurious retreat. Whether it's deep blues or sophisticated blacks, moody wallpaper creates a soothing yet striking atmosphere, elevating your bathroom's aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Neutrals Moody Floral Garden  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 763">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574815347_f3h9.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Neutrals Moody Floral Garden  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 763'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574815347_f3h9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_570xN.5957947768_brh1.jpg' alt='Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_570xN.5957947768_brh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 765">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5526705796_czhv.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 765'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5526705796_czhv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Botanical Wallpaper | Black Forest Plants Bedroom Bathroom |  Removable Peel Stick, Prepasted | Dark Academia Woodland Maximalist Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/c/2500/1985/0/0/il/fcdc9f/6056100443/il_340x270.6056100443_e7ku.jpg' alt='Moody Botanical Wallpaper | Black Forest Plants Bedroom Bathroom |  Removable Peel Stick, Prepasted | Dark Academia Woodland Maximalist Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/c/2500/1985/0/0/il/fcdc9f/6056100443/il_340x270.6056100443_e7ku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A moody floral bathroom - Diana Elizabeth Steffen">
+                                <img itemprop="contentUrl url" src='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' alt='A moody floral bathroom - Diana Elizabeth Steffen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diana Elizabeth Blog" />
+                                </span>
+                                <a href='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Bathroom With Grasscloth Wallpaper - Remington Avenue">
+                                <img itemprop="contentUrl url" src='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-3.jpg' alt='Moody Bathroom With Grasscloth Wallpaper - Remington Avenue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remington Avenue" />
+                                </span>
+                                <a href='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charming and clever wallpaper in this moody powder room - it's ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3154370104338074935' alt='Charming and clever wallpaper in this moody powder room - it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3154370104338074935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark wallpaper patterns for the bathroom that elicit a moody ...">
+                                <img itemprop="contentUrl url" src='https://designdispatch.mt/wp-content/uploads/2024/01/2.-Photo-Camille-Styles.jpg' alt='Dark wallpaper patterns for the bathroom that elicit a moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Dispatch" />
+                                </span>
+                                <a href='https://designdispatch.mt/wp-content/uploads/2024/01/2.-Photo-Camille-Styles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Refresh (After - During - Before) - Moody/Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/powder-room-refresh-after-during-before-moody-wallpaper-v0-n6p1irz45cfb1.jpg?width=640&crop=smart&auto=webp&s=900fd4adbbb1df4677aaf63419b04d09d7d263e3' alt='Powder Room Refresh (After - During - Before) - Moody/Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/powder-room-refresh-after-during-before-moody-wallpaper-v0-n6p1irz45cfb1.jpg?width=640&crop=smart&auto=webp&s=900fd4adbbb1df4677aaf63419b04d09d7d263e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Beautiful Dark & Moody Bathrooms • White Oak & Linen Design Co ...">
+                                <img itemprop="contentUrl url" src='https://whiteoakandlinen.com/wp-content/uploads/2023/01/jean-stoffer-design-woodward-powder-bathroom-opt.jpg' alt='18 Beautiful Dark & Moody Bathrooms • White Oak & Linen Design Co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White Oak & Linen Design Co." />
+                                </span>
+                                <a href='https://whiteoakandlinen.com/wp-content/uploads/2023/01/jean-stoffer-design-woodward-powder-bathroom-opt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

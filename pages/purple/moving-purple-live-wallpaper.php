@@ -1,0 +1,129 @@
+<title>Mesmerizing Moving Purple Live Wallpaper for Your Device</title>
+                    <meta name="description" content="Enhance your device's aesthetics with our moving purple live wallpaper! Enjoy captivating animations and vibrant colors that bring tranquility and style to your screen. Perfect for those who love elegance and creativity. Download now for a refreshing digital experience!">
+                    <meta name="keywords" content="moving purple live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/moving-purple-live-wallpaper">
+                            <span itemprop="name">moving purple live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Moving Purple Live Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning moving purple live wallpaper! Immerse yourself in a vibrant digital world filled with mesmerizing purple hues and dynamic animations. Perfect for adding a touch of elegance to your screen, this live wallpaper offers a captivating visual experience. Enjoy a unique blend of calm and creativity every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Peaceful Purple Space - Moving Background #AAVFX Animated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M6CLYXkfiWE/maxresdefault.jpg' alt='4K Peaceful Purple Space - Moving Background #AAVFX Animated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M6CLYXkfiWE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Shooting Purple Star-Field ~ Moving Background ~ AA-vfx ~ Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tPNJ9Xenk48/maxresdefault.jpg' alt='4K Shooting Purple Star-Field ~ Moving Background ~ AA-vfx ~ Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tPNJ9Xenk48/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Purple - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/cb/ba/8acbbaf8240496268cdafce56a2fc296.jpg' alt='Wallpaper Purple - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/cb/ba/8acbbaf8240496268cdafce56a2fc296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Purple Moving Background - Sparkling Strings #AAVFX Relaxing Live  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UW4te6Ph-Nk/maxresdefault.jpg' alt='4K Purple Moving Background - Sparkling Strings #AAVFX Relaxing Live  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UW4te6Ph-Nk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Purple Topo Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/3364/abstract-purple-topo.jpg' alt='Abstract Purple Topo Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/3364/abstract-purple-topo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Moon Live Wallpaper - WallpaperWaifu">
+                                <img itemprop="contentUrl url" src='https://wallpaperwaifu.com/wp-content/uploads/2020/05/purple-moon-thumb.jpg' alt='Purple Moon Live Wallpaper - WallpaperWaifu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperWaifu" />
+                                </span>
+                                <a href='https://wallpaperwaifu.com/wp-content/uploads/2020/05/purple-moon-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Purple Blue Mirror Show ~ Live Wallpaper ~ AA-vfx ~ Wide Screen 21:9  Motion Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0UC3A8QDpAs/maxresdefault.jpg' alt='4K Purple Blue Mirror Show ~ Live Wallpaper ~ AA-vfx ~ Wide Screen 21:9  Motion Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0UC3A8QDpAs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Purple Moving Background - Particle Space Rings #AAvfx Relaxing Stars  Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Y2UrPD9GRlQ/maxresdefault.jpg' alt='4K Purple Moving Background - Particle Space Rings #AAvfx Relaxing Stars  Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Y2UrPD9GRlQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/s35hKRBCD6_U2U6RwvI259b7wPwOMsIABJkv_dltPPtQHb6q_OYhx1_7ejojW-gyPRY' alt='Purple Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/s35hKRBCD6_U2U6RwvI259b7wPwOMsIABJkv_dltPPtQHb6q_OYhx1_7ejojW-gyPRY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Art Live Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-abstract-art-live-7auhgvxpf8s1ai9u.jpg' alt='Purple Abstract Art Live Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-abstract-art-live-7auhgvxpf8s1ai9u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

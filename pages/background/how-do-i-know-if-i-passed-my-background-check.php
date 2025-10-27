@@ -1,0 +1,129 @@
+<title>How to Confirm Your Background Check Status</title>
+                    <meta name="description" content="Discover how to know if you passed your background check with our quick guide. Learn what steps to take and when to follow up with potential employers to ensure you stay informed about your application status.">
+                    <meta name="keywords" content="how do i know if i passed my background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-do-i-know-if-i-passed-my-background-check">
+                            <span itemprop="name">how do i know if i passed my background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Confirm Your Background Check Status</h1>
+                <p>To find out if you passed your background check, wait for the employer to contact you. They typically will reach out to confirm your employment status. Alternatively, you can inquire directly with the HR department about your status. If you haven't heard back after a couple of weeks, it's acceptable to follow up.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did I pass my hire right background check ? : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' alt='Did I pass my hire right background check ? : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take? | ResumeSpice">
+                                <img itemprop="contentUrl url" src='https://resumespice.com/wp-content/uploads/2021/07/BackgroundCheck-1024x706.png' alt='How Long Does a Background Check Take? | ResumeSpice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResumeSpice" />
+                                </span>
+                                <a href='https://resumespice.com/wp-content/uploads/2021/07/BackgroundCheck-1024x706.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsyQ' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsyQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Need help my background check seems to be cleared but I can't move ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/need-help-my-background-check-seems-to-be-cleared-but-i-v0-fmj824of9opb1.jpg?auto=webp&s=4e61447f5a381645c75e8d8bf7b704c192e49bc3' alt='Need help my background check seems to be cleared but I can't move ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/need-help-my-background-check-seems-to-be-cleared-but-i-v0-fmj824of9opb1.jpg?auto=webp&s=4e61447f5a381645c75e8d8bf7b704c192e49bc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks For Large Businesses - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1772620&step_number=2&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' alt='Background Checks For Large Businesses - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks For Large Businesses - Accurate" />
+                                </span>
+                                <a href='https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1772620&step_number=2&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checking your Sterling Background Check Status - AYSO Wiki">
+                                <img itemprop="contentUrl url" src='https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/ayso/Check-sterling-bgc-status-2.png' alt='Checking your Sterling Background Check Status - AYSO Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AYSO Wiki" />
+                                </span>
+                                <a href='https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/ayso/Check-sterling-bgc-status-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

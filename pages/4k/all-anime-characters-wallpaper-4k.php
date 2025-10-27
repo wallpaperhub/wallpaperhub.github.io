@@ -1,0 +1,129 @@
+<title>Stunning 4K Anime Character Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover vibrant 4K anime character wallpapers to enhance your devices. Perfect for fans, our collection features stunning visuals that bring your favorite characters to life. Elevate your screen today and showcase your passion for anime in high definition!">
+                    <meta name="keywords" content="all anime characters wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/all-anime-characters-wallpaper-4k">
+                            <span itemprop="name">all anime characters wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Anime Character Wallpapers for Your Devices</h1>
+                <p>Explore a stunning collection of 4K anime character wallpapers that elevate your screen's aesthetics. Dive into vibrant scenes featuring your favorite characters, from action-packed heroes to enchanting fantasy figures. Perfect for true fans, these high-resolution wallpapers bring life to your devices and showcase the art of anime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime All Characters Hd Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-all-characters-hd-4r9pb6ju4v1b0m48.jpg' alt='100+] Anime All Characters Hd Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-all-characters-hd-4r9pb6ju4v1b0m48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] All Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-all-characters-hd-4q9fva9f4zdfe9md.jpg' alt='100+] All Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-all-characters-hd-4q9fva9f4zdfe9md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime protagonists wallpaper 15163">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/4e/e3/8a4ee3ade19c8f67f6417a3543b1e6f8.jpg' alt='Anime protagonists wallpaper 15163'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/4e/e3/8a4ee3ade19c8f67f6417a3543b1e6f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper with every main character of my favorite anime ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ewcozcahkwk61.png?width=640&crop=smart&auto=webp&s=84099419be60421904f3d3f580fdd1cd72bb111b' alt='I made a wallpaper with every main character of my favorite anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ewcozcahkwk61.png?width=640&crop=smart&auto=webp&s=84099419be60421904f3d3f580fdd1cd72bb111b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: anime wallpaper, assorted anime characters, Accel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/07/5d/79075d5a8667cafe0845b3333cc42ebc.jpg' alt='HD wallpaper: anime wallpaper, assorted anime characters, Accel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/07/5d/79075d5a8667cafe0845b3333cc42ebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solve 19300-anime-characters-1920x1200-anime-wallpaper-Bleach ...">
+                                <img itemprop="contentUrl url" src='https://d2cbe6qj96hbor.cloudfront.net/puzzles/Y1O9B1G92O9KVJZM.jpg' alt='Solve 19300-anime-characters-1920x1200-anime-wallpaper-Bleach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jigidi" />
+                                </span>
+                                <a href='https://d2cbe6qj96hbor.cloudfront.net/puzzles/Y1O9B1G92O9KVJZM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ANIME Wallpapers HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/3Y1eygZDcaqRwTV51-rdvaJklgH2Whv2h9-Aza2lPyMy2ct5kAi7sNvJlQUwcTDtXV0=w526-h296-rw' alt='ANIME Wallpapers HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/3Y1eygZDcaqRwTV51-rdvaJklgH2Whv2h9-Aza2lPyMy2ct5kAi7sNvJlQUwcTDtXV0=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: anime characters digital wallpaper, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/58/df/8058dfeb9c2f275e32c094de1d9f03a2.jpg' alt='HD wallpaper: anime characters digital wallpaper, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/58/df/8058dfeb9c2f275e32c094de1d9f03a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Anime Crossover HD Wallpaper by DinocoZero">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/833/thumb-1920-833315.jpg' alt='Epic Anime Crossover HD Wallpaper by DinocoZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/833/thumb-1920-833315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Anime Characters 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12785901.jpg' alt='All Anime Characters 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12785901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

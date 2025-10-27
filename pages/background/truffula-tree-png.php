@@ -1,0 +1,129 @@
+<title>Vibrant Truffula Tree PNG Images for Creative Projects</title>
+                    <meta name="description" content="Explore a vibrant collection of Truffula tree PNG images! Perfect for designs, backgrounds, and crafts, these colorful graphics bring a whimsical touch to any project. Download yours today and let your creativity thrive with these charming trees!">
+                    <meta name="keywords" content="truffula tree png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/truffula-tree-png">
+                            <span itemprop="name">truffula tree png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Truffula Tree PNG Images for Creative Projects</h1>
+                <p>Discover stunning Truffula tree PNG images perfect for your projects! These whimsical trees, inspired by Dr. Seuss’s beloved tale, add a splash of color and creativity to any design. Explore various styles and sizes, ideal for backgrounds, graphics, and more. Unleash your imagination with our enchanting collection!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truffula Tree - Red and Yellow Truffula Tree - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180330/kye/aviv5nitj.webp' alt='Truffula Tree - Red and Yellow Truffula Tree - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180330/kye/aviv5nitj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Seuss The Lorax - Truffula Tree Clipart - FlyClipart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/88/2f/5a882f1f30d7b5af91dcb380ee24733d.jpg' alt='Dr Seuss The Lorax - Truffula Tree Clipart - FlyClipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/88/2f/5a882f1f30d7b5af91dcb380ee24733d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="truffula trees - Google Search | Truffula trees, The lorax, Lorax ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/df/92/63df929c4c079f79da9edfbdf772726e.jpg' alt='truffula trees - Google Search | Truffula trees, The lorax, Lorax ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/df/92/63df929c4c079f79da9edfbdf772726e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truffula tree - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/1795120/truffula-tree-clipart-xl.png' alt='Truffula tree - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/1795120/truffula-tree-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorax - Lorax with Truffula Tree - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190613/uwy/kisspng-portable-network-graphics-once-ler-image-clip-art-5-themes-of-the-lorax-lorax-png-382x1-91-png-1713887491601.webp' alt='Lorax - Lorax with Truffula Tree - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190613/uwy/kisspng-portable-network-graphics-once-ler-image-clip-art-5-themes-of-the-lorax-lorax-png-382x1-91-png-1713887491601.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truffula Tree Violet Svg, Lorax Tree Svg, Dr. Seuss Svg, Png Dxf Eps File">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1673888707_1-Dr-SeussThing-1-Thing-2Dr-Seuss-Hat--Dr-Seuss-Birthday-SeussCat-in-the-Hat-Green-Eggs-and-Ham8.jpeg&width=600&height=600&quality=90&format=auto&fit=pad' alt='Truffula Tree Violet Svg, Lorax Tree Svg, Dr. Seuss Svg, Png Dxf Eps File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1673888707_1-Dr-SeussThing-1-Thing-2Dr-Seuss-Hat--Dr-Seuss-Birthday-SeussCat-in-the-Hat-Green-Eggs-and-Ham8.jpeg&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorax Tree SVG By stockvectorsvg | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_3982316_dz7v8qmqnaj6pr4zr3x6230izkllnzn8iavzbt8n_lorax-tree-svg.jpg' alt='Lorax Tree SVG By stockvectorsvg | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_3982316_dz7v8qmqnaj6pr4zr3x6230izkllnzn8iavzbt8n_lorax-tree-svg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truffula Tree Red Svg, Lorax Tree Svg, Dr. Seuss Svg, Png Dxf Eps File">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/1673889021_1-Dr-SeussThing-1-Thing-2Dr-Seuss-Hat--Dr-Seuss-Birthday-SeussCat-in-the-Hat-Green-Eggs-and-Ham9.jpeg' alt='Truffula Tree Red Svg, Lorax Tree Svg, Dr. Seuss Svg, Png Dxf Eps File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/1673889021_1-Dr-SeussThing-1-Thing-2Dr-Seuss-Hat--Dr-Seuss-Birthday-SeussCat-in-the-Hat-Green-Eggs-and-Ham9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Grade Four Class Blog » Blog Archive » Truffula Seed Story">
+                                <img itemprop="contentUrl url" src='https://missvidotto.edublogs.org/files/2015/05/tree-onihzy.png' alt='Our Grade Four Class Blog » Blog Archive » Truffula Seed Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Grade Four Class Blog - Edublogs" />
+                                </span>
+                                <a href='https://missvidotto.edublogs.org/files/2015/05/tree-onihzy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Wocket In My Pocket Clipart - Lorax Truffula Tree Png ...">
+                                <img itemprop="contentUrl url" src='https://www.vhv.rs/dpng/d/560-5609869_transparent-wocket-in-my-pocket-clipart-lorax-truffula.png' alt='Transparent Wocket In My Pocket Clipart - Lorax Truffula Tree Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="vhv.rs" />
+                                </span>
+                                <a href='https://www.vhv.rs/dpng/d/560-5609869_transparent-wocket-in-my-pocket-clipart-lorax-truffula.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Living Room: Stunning Wallpaper Ideas</title>
+                    <meta name="description" content="Discover trendy wallpaper decor ideas for your living room! From bold patterns to calming designs, explore how to transform your space with style. Perfect for creating a unique and inviting ambiance that reflects your personality.">
+                    <meta name="keywords" content="wallpaper decor for living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-decor-for-living-room">
+                            <span itemprop="name">wallpaper decor for living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Living Room: Stunning Wallpaper Ideas</h1>
+                <p>Transform your living room with trendy wallpaper decor that adds personality and charm. Choose from bold patterns or soothing textures to create a space that reflects your style. Accent walls, stripes, or floral designs can enhance your room’s ambiance, making it inviting and unique. Embrace creativity and elevate your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019 Home Design Trends | Interior Design Inspiration | Hadley Court">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' alt='2019 Home Design Trends | Interior Design Inspiration | Hadley Court'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' alt='Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Designs to Inspire You">
+                                <img itemprop="contentUrl url" src='https://media.designcafe.com/wp-content/uploads/2020/01/21002756/3d-wallpaper-designs-for-living-room.jpg' alt='Living Room Wallpaper Designs to Inspire You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesignCafe" />
+                                </span>
+                                <a href='https://media.designcafe.com/wp-content/uploads/2020/01/21002756/3d-wallpaper-designs-for-living-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Art Abstract Canvas Painting Gray Wall Decor Fluid Ink Modern Artwork  for Living Room Bedroom Dining Room Home Office Decor 20"x40" with Framed">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ujNRFmUvL._AC_UF894,1000_QL80_.jpg' alt='Wall Art Abstract Canvas Painting Gray Wall Decor Fluid Ink Modern Artwork  for Living Room Bedroom Dining Room Home Office Decor 20"x40" with Framed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ujNRFmUvL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Inspiring Living Room Wallpaper Ideas - Best Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/living-room-16-1559140863.jpg?crop=0.685xw:0.853xh;0,0.0395xh&resize=980:*' alt='20 Inspiring Living Room Wallpaper Ideas - Best Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/living-room-16-1559140863.jpg?crop=0.685xw:0.853xh;0,0.0395xh&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Ideas That Make a Design Statement">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/VwncOi6vTB5VYmgNXUn-pZadIt8=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-119056d6b5ed4f0e9e7bd6e8ec67070e.jpg' alt='Living Room Wallpaper Ideas That Make a Design Statement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="1681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/VwncOi6vTB5VYmgNXUn-pZadIt8=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-119056d6b5ed4f0e9e7bd6e8ec67070e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper for Lounges | I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ZurichMetallic_Coolgreywithmetallicgold_ILW50207_Roomset_WEB.jpg?crop=center&height=1080&v=1705502163&width=1080' alt='Living Room Wallpaper for Lounges | I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ZurichMetallic_Coolgreywithmetallicgold_ILW50207_Roomset_WEB.jpg?crop=center&height=1080&v=1705502163&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Inspiring Living Room Wallpaper Ideas - Best Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/living-room-1-1557931775.jpg?crop=1.00xw:0.763xh;0,0&resize=1200:*' alt='20 Inspiring Living Room Wallpaper Ideas - Best Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/living-room-1-1557931775.jpg?crop=1.00xw:0.763xh;0,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Living Room Wallpaper Online At Best Price in India">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/06/15153820/Tropical-Trees-and-Plants-Wallpaper-Mural-2-710x488.jpg' alt='Buy Living Room Wallpaper Online At Best Price in India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/06/15153820/Tropical-Trees-and-Plants-Wallpaper-Mural-2-710x488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

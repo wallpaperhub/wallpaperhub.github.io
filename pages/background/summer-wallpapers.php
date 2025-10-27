@@ -1,0 +1,129 @@
+<title>Brighten Up Your Screen with Stunning Summer Wallpapers</title>
+                    <meta name="description" content="Discover a vibrant collection of summer wallpapers that will refresh your device. Enjoy stunning beach scenes, floral patterns, and tropical designs ideal for adding a touch of summer joy to your screens. Perfectly curated for every preference, make your device reflect the sunny vibes!">
+                    <meta name="keywords" content="summer wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-wallpapers">
+                            <span itemprop="name">summer wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Up Your Screen with Stunning Summer Wallpapers</h1>
+                <p>Summer wallpapers can transform your device, bringing vibrant colors and warm vibes to your screen. Whether you prefer sunny beaches, lush gardens, or abstract designs, these wallpapers capture the essence of the season. Perfect for any mood, they inspire joy and relaxation, making every glance at your screen a reminder of summer fun.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/c1/e6/1cc1e65502ae3216f735b81394f54f18.jpg' alt='10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/c1/e6/1cc1e65502ae3216f735b81394f54f18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1553649084-3e42773ff0e3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN1bW1lciUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Summer Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1553649084-3e42773ff0e3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN1bW1lciUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 Summer wallpapers/lock screens ideas | summer wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/93/fb/9d/93fb9dab09834752ddb7e78c06a7a1b2.jpg' alt='360 Summer wallpapers/lock screens ideas | summer wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/93/fb/9d/93fb9dab09834752ddb7e78c06a7a1b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?cs=srgb&dl=pexels-pixabay-67566.jpg&fm=jpg' alt='Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4799">
+                                <meta itemprop="height" content="7200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?cs=srgb&dl=pexels-pixabay-67566.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sand-path.png?resize=471%2C1024&ssl=1' alt='Summer iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insider Mama" />
+                                </span>
+                                <a href='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sand-path.png?resize=471%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681437096361-c5f1e29d6997?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VtbWVyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Summer Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681437096361-c5f1e29d6997?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VtbWVyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers (99 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/0/f/19122-1242x2208-phone-hd-summer-wallpaper.jpg' alt='Summer Wallpapers (99 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/0/f/19122-1242x2208-phone-hd-summer-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/262325/pexels-photo-262325.jpeg?cs=srgb&dl=pexels-pixabay-262325.jpg&fm=jpg' alt='Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/262325/pexels-photo-262325.jpeg?cs=srgb&dl=pexels-pixabay-262325.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/16/b9/c716b92ce239a4fc55890274a0355d0b.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/16/b9/c716b92ce239a4fc55890274a0355d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

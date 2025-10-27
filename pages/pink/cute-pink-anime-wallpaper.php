@@ -1,0 +1,129 @@
+<title>Adorable Pink Anime Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a collection of cute pink anime wallpapers that bring joy and style to your device. Perfect for fans of vibrant art, these wallpapers add a playful touch and enhance your screen. Explore now for the cutest designs that express your unique anime spirit!">
+                    <meta name="keywords" content="cute pink anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/cute-pink-anime-wallpaper">
+                            <span itemprop="name">cute pink anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pink Anime Wallpapers for Your Screen</h1>
+                <p>Transform your screen with adorable cute pink anime wallpapers! Perfect for adding a touch of warmth and playfulness, these vibrant designs feature charming characters and whimsical art. Ideal for anime lovers, they provide a delightful aesthetic that brightens up your device. Explore our collection and find the perfect match for your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl With Backpack Aesthetic Pink Anime Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-pink-anime-girl-cat-headphones-w0597ij115j4cwp3.webp' alt='Girl With Backpack Aesthetic Pink Anime Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-pink-anime-girl-cat-headphones-w0597ij115j4cwp3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pink Anime Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-anime-aesthetic-d5jzsbvhp5e1nkrx.jpg' alt='200+] Pink Anime Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-anime-aesthetic-d5jzsbvhp5e1nkrx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It | Cute anime wallpaper, Iphone wallpaper kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/2d/3a/4a2d3a9539b28a60fdd7804837036b03.jpg' alt='We Heart It | Cute anime wallpaper, Iphone wallpaper kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/2d/3a/4a2d3a9539b28a60fdd7804837036b03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Anime Ultra Background for U TV : & UltraWide & Laptop ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/816/120/HD-wallpaper-cute-pink-anime-ultra-background-for-u-tv-widescreen-ultrawide-laptop-tablet-smartphone-kawaii-anime.jpg' alt='Cute Pink Anime Ultra Background for U TV : & UltraWide & Laptop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/816/120/HD-wallpaper-cute-pink-anime-ultra-background-for-u-tv-widescreen-ultrawide-laptop-tablet-smartphone-kawaii-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Anime Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/c9/cf/e4c9cfa10ae5561cddde30ea6ffcec3f.jpg' alt='Pink Anime Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/c9/cf/e4c9cfa10ae5561cddde30ea6ffcec3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Pfp For Tiktok Pink Anime Girl Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pfp-for-tiktok-pink-anime-girl-qmnjfal0eejc44wc.jpg' alt='Download Cute Pfp For Tiktok Pink Anime Girl Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pfp-for-tiktok-pink-anime-girl-qmnjfal0eejc44wc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Anime Girl Wink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' alt='Cute Pink Anime Girl Wink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Hair Pink Anime Woman Pink Anime HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/209/thumb-1920-209037.jpg' alt='Download Pink Hair Pink Anime Woman Pink Anime HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/209/thumb-1920-209037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute anime girl with bunny | pastel pink | mobile wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9nac0cpdu1gb1.jpg?width=640&crop=smart&auto=webp&s=f48a5b2e7c386f41e7115d7e99cf6e2a64bd86d8' alt='Cute anime girl with bunny | pastel pink | mobile wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9nac0cpdu1gb1.jpg?width=640&crop=smart&auto=webp&s=f48a5b2e7c386f41e7115d7e99cf6e2a64bd86d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink aesthetic 5, anime, anime aesthetic, iphone, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/527/690/HD-wallpaper-pink-aesthetic-5-anime-anime-aesthetic-iphone-kawaii-lockscreen-pink-aesthetic-pink-anime.jpg' alt='Pink aesthetic 5, anime, anime aesthetic, iphone, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/527/690/HD-wallpaper-pink-aesthetic-5-anime-anime-aesthetic-iphone-kawaii-lockscreen-pink-aesthetic-pink-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

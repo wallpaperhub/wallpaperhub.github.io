@@ -1,0 +1,129 @@
+<title>Epic Escape from Tarkov Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of Escape from Tarkov wallpapers! Elevate your gaming experience with breathtaking visuals and characters from the intense world of Tarkov. Perfect for fans looking to personalize their devices with stunning backgrounds. Explore now and find your favorite design!">
+                    <meta name="keywords" content="escape from tarkov wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/escape-from-tarkov-wallpaper">
+                            <span itemprop="name">escape from tarkov wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Escape from Tarkov Wallpapers for Gamers</h1>
+                <p>Escape from Tarkov wallpapers immerse you in the gritty, intense world of this popular online FPS game. Featuring stunning graphics, detailed landscapes, and iconic characters, these wallpapers enhance your gaming experience on any device. Perfect for fans seeking to showcase their love for Tarkov, find your ideal backdrop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Tarkov Wallpaper (1440p) : r/EscapefromTarkov">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g7z8a1hc71f51.png' alt='I made a Tarkov Wallpaper (1440p) : r/EscapefromTarkov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g7z8a1hc71f51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Tarkov inspired wallpaper from some pics I took at a range ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xpmo8194g2t41.jpg?auto=webp&s=d20c189046bca990861bdf307f6af33458d12acb' alt='Made a Tarkov inspired wallpaper from some pics I took at a range ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xpmo8194g2t41.jpg?auto=webp&s=d20c189046bca990861bdf307f6af33458d12acb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new USEC art - Escape from Tarkov">
+                                <img itemprop="contentUrl url" src='https://www.escapefromtarkov.com/uploads/content/news/escape_from_tarkov_wallpaper_2560.jpg' alt='The new USEC art - Escape from Tarkov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Escape from Tarkov" />
+                                </span>
+                                <a href='https://www.escapefromtarkov.com/uploads/content/news/escape_from_tarkov_wallpaper_2560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rogues Wallpaper made by me, enjoy : r/EscapefromTarkov">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/ctvSiZk.jpg' alt='Rogues Wallpaper made by me, enjoy : r/EscapefromTarkov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/ctvSiZk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Escape From Tarkov 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/720/720691.jpg' alt='Download Video Game Escape From Tarkov 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4900">
+                                <meta itemprop="height" content="3064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/720/720691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated* For those who requested it - EFT Mobile Wallpaper! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f8967nv0f4961.jpg?width=1080&crop=smart&auto=webp&s=d6699efaee6b811679b03f9787d538d7e416cd92' alt='Updated* For those who requested it - EFT Mobile Wallpaper! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f8967nv0f4961.jpg?width=1080&crop=smart&auto=webp&s=d6699efaee6b811679b03f9787d538d7e416cd92' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tarkov Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tarkov-d4k10gw8780ne9gi.jpg' alt='100+] Tarkov Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tarkov-d4k10gw8780ne9gi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Escape From Tarkov Desktop Background 3840x2160 by AndyerKazi on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83ec2783-e4ef-4b7b-b18f-5a881551e241/ddniwhd-0646da79-50ce-4574-bab4-0300fa2208c6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzZWMyNzgzLWU0ZWYtNGI3Yi1iMThmLTVhODgxNTUxZTI0MVwvZGRuaXdoZC0wNjQ2ZGE3OS01MGNlLTQ1NzQtYmFiNC0wMzAwZmEyMjA4YzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hr0nVrntBb2SKHy6SfM7eI9lmY0NT0IuFtWyN5xbdHY' alt='Escape From Tarkov Desktop Background 3840x2160 by AndyerKazi on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83ec2783-e4ef-4b7b-b18f-5a881551e241/ddniwhd-0646da79-50ce-4574-bab4-0300fa2208c6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzZWMyNzgzLWU0ZWYtNGI3Yi1iMThmLTVhODgxNTUxZTI0MVwvZGRuaXdoZC0wNjQ2ZGE3OS01MGNlLTQ1NzQtYmFiNC0wMzAwZmEyMjA4YzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hr0nVrntBb2SKHy6SfM7eI9lmY0NT0IuFtWyN5xbdHY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Escape from Tarkov - 4th place - Author: Mirage | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2323580307936276' alt='Escape from Tarkov - 4th place - Author: Mirage | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2323580307936276' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Rifle M4A1 Video Game Escape From Tarkov 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/123/1238645.jpg' alt='Download Rifle M4A1 Video Game Escape From Tarkov 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/123/1238645.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

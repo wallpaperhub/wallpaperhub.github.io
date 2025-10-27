@@ -1,0 +1,129 @@
+<title>Vibrant 80s Neon Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover the bold appeal of 80s neon wallpaper! Perfect for retro-themed spaces, these colorful designs rejuvenate any room with vibrant energy and nostalgia. Transform your decor today with the electric hues that made the '80s iconic!">
+                    <meta name="keywords" content="80s neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/80s-neon-wallpaper">
+                            <span itemprop="name">80s neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 80s Neon Wallpaper: Brighten Your Space</h1>
+                <p>Step back into the vibrant world of the '80s with neon wallpaper! Bursting with bold colors like hot pink, electric blue, and neon green, these wallpapers can transform any space into a retro paradise. Perfect for accent walls or themed rooms, 80s neon designs add a fun and energetic touch, bringing life and nostalgia to contemporary decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave - Neon 80's - Background – Rafaël De Jongh – Web ...">
+                                <img itemprop="contentUrl url" src='https://www.rafaeldejongh.com/wp-content/uploads/2017/08/Synthwave-Neon-80s-BackgroundRV.jpg' alt='Synthwave - Neon 80's - Background – Rafaël De Jongh – Web ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rafaël De Jongh" />
+                                </span>
+                                <a href='https://www.rafaeldejongh.com/wp-content/uploads/2017/08/Synthwave-Neon-80s-BackgroundRV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon 80s">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/62/d3/1862d38a31600405ea4526333dfc7168.jpg' alt='Neon 80s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/62/d3/1862d38a31600405ea4526333dfc7168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Neon Shapes/Wallpapers :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/76552736655273.5723da17a334a.jpg' alt='80s Neon Shapes/Wallpapers :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/76552736655273.5723da17a334a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Neon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/795/873/non_2x/retro-sci-fi-futuristic-background-1980s-and-1990s-style-3d-illustration-digital-landscape-in-a-cyber-world-for-use-as-design-cover-free-vector.jpg' alt='80s Neon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/795/873/non_2x/retro-sci-fi-futuristic-background-1980s-and-1990s-style-3d-illustration-digital-landscape-in-a-cyber-world-for-use-as-design-cover-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80S Neon Images – Browse 290,770 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/09/27/82/360_F_509278239_fkkwanP7vTmPiNPj5yRddZN2FwHSN91S.jpg' alt='80S Neon Images – Browse 290,770 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/09/27/82/360_F_509278239_fkkwanP7vTmPiNPj5yRddZN2FwHSN91S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 80s Neon Shapes Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15482681/p/f/m/YwJoKBlM1xFsJ2Mfl9OrPP9Cv0Ir2oXP5l_jXBtzvFN_DKzFCTdt/Retro%2090's%20Throwback.jpg' alt='Retro 80s Neon Shapes Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15482681/p/f/m/YwJoKBlM1xFsJ2Mfl9OrPP9Cv0Ir2oXP5l_jXBtzvFN_DKzFCTdt/Retro%2090's%20Throwback.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 80s Neon Lights Grid Vaporwave Retro SciFi Digital Cyber Video  Game Futuristic 1980s Galaxy Universe Landscape Background Cool Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61uLl2YAbRL.jpg' alt='Amazon.com: 80s Neon Lights Grid Vaporwave Retro SciFi Digital Cyber Video  Game Futuristic 1980s Galaxy Universe Landscape Background Cool Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61uLl2YAbRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Neon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-neon-0n440mmmwsfa3r6v.jpg' alt='100+] 80s Neon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-neon-0n440mmmwsfa3r6v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Synthwave City Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/8b/a9/e48ba9b92521a5285a8f12c36552c110.jpg' alt='80s Synthwave City Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/8b/a9/e48ba9b92521a5285a8f12c36552c110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Neon Grid Triangle Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/80s-neon-grid-triangle-dvbybgcx7zx0qz1c.jpg' alt='80s Neon Grid Triangle Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/80s-neon-grid-triangle-dvbybgcx7zx0qz1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Magic of IU: Singer, Songwriter, and Actress</title>
+                    <meta name="description" content="Explore the incredible journey of IU, a celebrated South Korean singer-songwriter, and actress. Dive into her hit songs, awards, and impactful roles in dramas as we uncover what makes her a beloved figure in the entertainment industry. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="iu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iu">
+                            <span itemprop="name">iu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of IU: Singer, Songwriter, and Actress</h1>
+                <p>IU, also known as Lee Ji-eun, is a popular South Korean singer-songwriter and actress. She has gained immense fame for her powerful vocals, emotive songwriting, and charming personality. IU debuted in 2008 and has since released numerous hit songs, earning multiple awards and accolades. She's also well-known for her roles in successful dramas, captivating audiences with her talent.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/240807_IU_at_Estee_Lauder_Photo_Call.png/640px-240807_IU_at_Estee_Lauder_Photo_Call.png' alt='IU (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/240807_IU_at_Estee_Lauder_Photo_Call.png/640px-240807_IU_at_Estee_Lauder_Photo_Call.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU (singer) - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a9/221125_%EC%B2%AD%EB%A3%A1%EC%98%81%ED%99%94%EC%83%81_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_01_%28cropped%29.jpg' alt='IU (singer) - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a9/221125_%EC%B2%AD%EB%A3%A1%EC%98%81%ED%99%94%EC%83%81_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_01_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU Songs | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd' alt='IU Songs | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU | Drama Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/drama/images/a/a2/IU.png/revision/latest/thumbnail/width/360/height/450?cb=20220516183854' alt='IU | Drama Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drama Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/drama/images/a/a2/IU.png/revision/latest/thumbnail/width/360/height/450?cb=20220516183854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/IU_at_The_Golden_Hour_concert_in_Seoul%2C_18_September_2022_14.jpg/170px-IU_at_The_Golden_Hour_concert_in_Seoul%2C_18_September_2022_14.jpg' alt='IU (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/IU_at_The_Golden_Hour_concert_in_Seoul%2C_18_September_2022_14.jpg/170px-IU_at_The_Golden_Hour_concert_in_Seoul%2C_18_September_2022_14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU (이지은) - MyDramaList">
+                                <img itemprop="contentUrl url" src='https://i.mydramalist.com/W2mRD_5f.jpg' alt='IU (이지은) - MyDramaList'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyDramaList" />
+                                </span>
+                                <a href='https://i.mydramalist.com/W2mRD_5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="아이유 — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w500/xxYawgFO1woBRveH7WL9D1BxB4W.jpg' alt='아이유 — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w500/xxYawgFO1woBRveH7WL9D1BxB4W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU Joins Cast Of Hirokazu Kore-Eda Film 'Baby, Box, Broker'">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/601812e67216b232862e5f3f/Lee-Ji-eun--better-known-as-IU--will-star-in-the-drama--Hotel-Del-Luna--/960x0.png?format=png&width=960' alt='IU Joins Cast Of Hirokazu Kore-Eda Film 'Baby, Box, Broker''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/601812e67216b232862e5f3f/Lee-Ji-eun--better-known-as-IU--will-star-in-the-drama--Hotel-Del-Luna--/960x0.png?format=png&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA=w544-h544-l90-rj' alt='IU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube Music" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA=w544-h544-l90-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU - NamuWiki">
+                                <img itemprop="contentUrl url" src='https://i.namu.wiki/i/R0AhIJhNi8fkU2Al72pglkrT8QenAaCJd1as-d_iY6MC8nub1iI5VzIqzJlLa-1uzZm--TkB-KHFiT-P-t7bEg.webp' alt='IU - NamuWiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Namuwiki:main door" />
+                                </span>
+                                <a href='https://i.namu.wiki/i/R0AhIJhNi8fkU2Al72pglkrT8QenAaCJd1as-d_iY6MC8nub1iI5VzIqzJlLa-1uzZm--TkB-KHFiT-P-t7bEg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

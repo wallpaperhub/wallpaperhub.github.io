@@ -1,0 +1,129 @@
+<title>Fall iPhone Home Screen Wallpapers: Embrace Autumn</title>
+                    <meta name="description" content="Discover beautiful fall-themed iPhone home screen wallpapers! Elevate your device with vibrant autumn colors and cozy seasonal images. Perfect for adding a touch of seasonal charm to your mobile experience. Explore our collection and find the ideal wallpaper for your fall aesthetic!">
+                    <meta name="keywords" content="fall iphone home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/fall-iphone-home-screen-wallpaper">
+                            <span itemprop="name">fall iphone home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fall iPhone Home Screen Wallpapers: Embrace Autumn</h1>
+                <p>Transform your iPhone home screen this fall with stunning wallpapers that capture the essence of the season. From vibrant orange leaves and cozy pumpkin patches to soft golden hues, our curated collection will bring warmth and beauty to your device. Refresh your look and embrace the spirit of autumn today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/Zh60wYAtFxF3O2znWiLN5Y29DB4=/fit-in/3744x5616/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/72fb14bf213407b2_GettyImages-1168034002.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3744">
+                                <meta itemprop="height" content="5616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/Zh60wYAtFxF3O2znWiLN5Y29DB4=/fit-in/3744x5616/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/72fb14bf213407b2_GettyImages-1168034002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/Zatx1LpMiIeivfiGSGqPRFE-vM0=/fit-in/4480x6720/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/d7e90485cfba81a4_GettyImages-1165056607.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="6720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/Zatx1LpMiIeivfiGSGqPRFE-vM0=/fit-in/4480x6720/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/d7e90485cfba81a4_GettyImages-1165056607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn iPhone Wallpaper Home Screen @PanPins">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/94/4c/df944c97b3c6612bb9110243fe881247.jpg' alt='Autumn iPhone Wallpaper Home Screen @PanPins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/94/4c/df944c97b3c6612bb9110243fe881247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/m6oZWbVUVuqcwp-M7sZnv0M29ro=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/079/n/45222255/07671bb6edc8fb6b_fall-foliage-maple-trees-path-1477199.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/m6oZWbVUVuqcwp-M7sZnv0M29ro=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/079/n/45222255/07671bb6edc8fb6b_fall-foliage-maple-trees-path-1477199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="330 Fall ❤️ ideas | fall, fall wallpaper, iphone wallpaper fall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/49/74/87/4974873c60f8a1e562da8ba64bcb1032.jpg' alt='330 Fall ❤️ ideas | fall, fall wallpaper, iphone wallpaper fall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/49/74/87/4974873c60f8a1e562da8ba64bcb1032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/PTR5vm_gRA8L0pKuJqZ-guedLSU=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/999/n/45222255/77ebc0c07aee24e9_autumn-mott-rodeheaver-SPd9CSoWCkY-unsplash.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/PTR5vm_gRA8L0pKuJqZ-guedLSU=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/999/n/45222255/77ebc0c07aee24e9_autumn-mott-rodeheaver-SPd9CSoWCkY-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Gorgeous Happy Fall iPhone 13 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/46/6c/4a466ce92870c3410ae455ee8eab2d46.jpg' alt='15 Gorgeous Happy Fall iPhone 13 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/46/6c/4a466ce92870c3410ae455ee8eab2d46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/fall-iphone-wallpapers/pumpkin-patch-iphone-wallpaper' alt='Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/fall-iphone-wallpapers/pumpkin-patch-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/frf1FW3JDUNzTuuzDXwfjCA0tqE=/fit-in/792x1186/filters:format_auto():upscale()/2019/09/03/002/n/45222255/7f01f05f7da78b17_eberhard-grossgasteiger-wUWP53W7KbY-unsplash.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/frf1FW3JDUNzTuuzDXwfjCA0tqE=/fit-in/792x1186/filters:format_auto():upscale()/2019/09/03/002/n/45222255/7f01f05f7da78b17_eberhard-grossgasteiger-wUWP53W7KbY-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

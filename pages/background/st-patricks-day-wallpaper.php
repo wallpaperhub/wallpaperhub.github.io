@@ -1,0 +1,129 @@
+<title>Vibrant St. Patrick's Day Wallpaper for Every Device</title>
+                    <meta name="description" content="Discover a collection of lively St. Patrick's Day wallpapers that enhance your space with Irish charm. Suitable for desktops and mobile devices, our designs feature shamrocks, leprechauns, and holiday themes. Bring joy and good luck this season with just a tap! Perfect for celebrating in style!">
+                    <meta name="keywords" content="st patrick's day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/st-patricks-day-wallpaper">
+                            <span itemprop="name">st patrick's day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant St. Patrick's Day Wallpaper for Every Device</h1>
+                <p>Celebrate St. Patrick's Day with festive wallpaper that brings the luck of the Irish into your home. Choose from vibrant shamrocks, leprechauns, and rainbow designs to create a cheerful atmosphere. Whether for your desktop or smartphone, these wallpapers add a touch of green and fun, perfect for embracing the holiday spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Background Images – Browse 295,245 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/43/20/86/360_F_943208614_4oQG7xKLwwQNOfM1SSU7RxoZjHBedqeQ.jpg' alt='St Patricks Day Background Images – Browse 295,245 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/43/20/86/360_F_943208614_4oQG7xKLwwQNOfM1SSU7RxoZjHBedqeQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Cute St Patricks Day Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1305193240/vector/cute-clover-leaves-seamless-pattern.jpg?s=612x612&w=0&k=20&c=IUKdyKt34pZZ_uP0Hqrp0nvFekEDroQ_qyU4Pe2ZoTg=' alt='1,900+ Cute St Patricks Day Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1305193240/vector/cute-clover-leaves-seamless-pattern.jpg?s=612x612&w=0&k=20&c=IUKdyKt34pZZ_uP0Hqrp0nvFekEDroQ_qyU4Pe2ZoTg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wall: St. Patrick's Day tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/c8/2e/f7c82e89e6baac774da0c663e54c081a.jpg' alt='iPhone Wall: St. Patrick's Day tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/c8/2e/f7c82e89e6baac774da0c663e54c081a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Patrick's Day On Pastel Green Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/saint-patricks-day-on-pastel-green-gablevoidcz6b1n7.jpg' alt='Saint Patrick's Day On Pastel Green Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1157">
+                                <meta itemprop="height" content="1851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/saint-patricks-day-on-pastel-green-gablevoidcz6b1n7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Wallpaper Sparkle Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/minimalist-st-patricks-day-background-clovers-decorative-elements-invitations-347243448.jpg' alt='St Patricks Wallpaper Sparkle Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/minimalist-st-patricks-day-background-clovers-decorative-elements-invitations-347243448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240229/pngtree-three-dimensional-3d-gold-coin-clover-hat-st-patricks-day-web-image_15632805.jpg' alt='St Patricks Day Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240229/pngtree-three-dimensional-3d-gold-coin-clover-hat-st-patricks-day-web-image_15632805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/09/01/040901776bd2718d8919f7d6197bbe1b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/09/01/040901776bd2718d8919f7d6197bbe1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic St Patricks Day Wallpaper Vectors & Illustrations for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/linear-simple-st-patrick-s-day-clover-desktop-wallpaper_742173-13872.jpg' alt='Aesthetic St Patricks Day Wallpaper Vectors & Illustrations for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/linear-simple-st-patrick-s-day-clover-desktop-wallpaper_742173-13872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Leyiyi 5x3ft Happy St. Patrick's Day Backdrop Luxury Clovers  Banner Rustic Green Wooden Board Background Glitter Sequin Shamrock Ireland  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71AyAyufHfL.jpg' alt='Amazon.com : Leyiyi 5x3ft Happy St. Patrick's Day Backdrop Luxury Clovers  Banner Rustic Green Wooden Board Background Glitter Sequin Shamrock Ireland  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71AyAyufHfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clovers And Water Drops St Patrick's Day Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/clovers-and-water-drops-st-patrick-s-day-mkxleyh8fgayyedo.jpg' alt='Clovers And Water Drops St Patrick's Day Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/clovers-and-water-drops-st-patrick-s-day-mkxleyh8fgayyedo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

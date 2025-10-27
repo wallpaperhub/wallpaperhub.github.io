@@ -1,0 +1,129 @@
+<title>Yeezus iPhone Wallpapers: Bold Designs for Your Device</title>
+                    <meta name="description" content="Explore our curated collection of Yeezus iPhone wallpapers. Find striking designs inspired by Kanye West’s groundbreaking album. Perfect for fans who want to showcase their love for Yeezus on their devices. Download now and transform your iPhone's look with unique and bold styles!">
+                    <meta name="keywords" content="yeezus iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/yeezus-iphone-wallpaper">
+                            <span itemprop="name">yeezus iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Yeezus iPhone Wallpapers: Bold Designs for Your Device</h1>
+                <p>Looking for the perfect Yeezus iPhone wallpaper? Discover a collection of stunning designs that capture the essence of Kanye West's iconic album. From dark, minimalist artwork to captivating graphics, these wallpapers will elevate your device's style. Download your favorite Yeezus wallpaper today and make a statement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanye West Yeezus iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/10/4e/0b104e0daf1fa0f670007c79ee9fbf91.jpg' alt='Kanye West Yeezus iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/10/4e/0b104e0daf1fa0f670007c79ee9fbf91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeezus iPhone Wallpaper : r/Kanye">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i_3JNdlyAurlWZKax7ii4nSqbMtjiwY_j20tJO5-XRw.png?width=640&crop=smart&auto=webp&s=b1de90f0ca2018ae67cfb37499a45f838c8370a6' alt='Yeezus iPhone Wallpaper : r/Kanye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i_3JNdlyAurlWZKax7ii4nSqbMtjiwY_j20tJO5-XRw.png?width=640&crop=smart&auto=webp&s=b1de90f0ca2018ae67cfb37499a45f838c8370a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found this cool Yeezus wallpaper for iPhone and thought you guys ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aot6sl9uo1y81.jpg' alt='I found this cool Yeezus wallpaper for iPhone and thought you guys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aot6sl9uo1y81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeezus wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/cc/5b/53cc5b4bf4858306c843c0dee7f6cd32.jpg' alt='Yeezus wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/cc/5b/53cc5b4bf4858306c843c0dee7f6cd32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Yeezus phone Wallpaper (1170 x 2532) : r/Kanye">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/st4psiolola91.png' alt='I made a Yeezus phone Wallpaper (1170 x 2532) : r/Kanye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/st4psiolola91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanye West Yeezus Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/41/92/b9/4192b95603bddf33e72f12830e1005b3.jpg' alt='Kanye West Yeezus Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/41/92/b9/4192b95603bddf33e72f12830e1005b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeezus, iphone, kanye, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/974/247/HD-wallpaper-yeezus-iphone-kanye.jpg' alt='Yeezus, iphone, kanye, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/974/247/HD-wallpaper-yeezus-iphone-kanye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yeezus cover dark mode phone wallpaper : r/Kanye">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yeezus-cover-dark-mode-phone-wallpaper-v0-togucppumz3d1.jpg?width=1179&format=pjpg&auto=webp&s=83f472811524d5b35138b3f8aa0b8eed4d8eaf9d' alt='yeezus cover dark mode phone wallpaper : r/Kanye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yeezus-cover-dark-mode-phone-wallpaper-v0-togucppumz3d1.jpg?width=1179&format=pjpg&auto=webp&s=83f472811524d5b35138b3f8aa0b8eed4d8eaf9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kanye West unveils the latest Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kanye-iphone-fruphzpeegbv0jni.jpg' alt='Download Kanye West unveils the latest Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kanye-iphone-fruphzpeegbv0jni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRVY SCVLE DESIGNS — iPhone Wallpaper: Kanye West - Yeezus Tour...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8996b979db0e972dbe28316fc2eea8fa/tumblr_n1saz0AS8a1raw34bo1_1280.png' alt='GRVY SCVLE DESIGNS — iPhone Wallpaper: Kanye West - Yeezus Tour...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRVY SCVLE DESIGNS - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8996b979db0e972dbe28316fc2eea8fa/tumblr_n1saz0AS8a1raw34bo1_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

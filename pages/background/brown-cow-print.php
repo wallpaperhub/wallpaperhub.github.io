@@ -1,0 +1,129 @@
+<title>Chic Brown Cow Print: Trendy Rustic Style</title>
+                    <meta name="description" content="Discover the trendy brown cow print pattern that blends rustic charm with modern aesthetics. Ideal for fashion and home décor, this design adds a chic touch to any space. Explore how brown cow print can elevate your style today!">
+                    <meta name="keywords" content="brown cow print">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-cow-print">
+                            <span itemprop="name">brown cow print</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Brown Cow Print: Trendy Rustic Style</h1>
+                <p>Brown cow print is a trendy pattern that evokes the charm of farmhouse aesthetics while adding a touch of whimsy to modern designs. Often characterized by its dark, rich brown spots on a light background, this motif is popular in fashion, home décor, and accessories, providing a rustic yet chic vibe to any setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cow Print BROWN Seamless Pattern, Animal Print fabric design, Watercolour,  Digital Download, Commercial Licence, Non-Exclusive">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23136514/r/il/cb6d5b/3810520982/il_570xN.3810520982_1ro6.jpg' alt='Cow Print BROWN Seamless Pattern, Animal Print fabric design, Watercolour,  Digital Download, Commercial Licence, Non-Exclusive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23136514/r/il/cb6d5b/3810520982/il_570xN.3810520982_1ro6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Manfei Cow Print Fabric by The Yard, Brown White Cow Fur Print  Fabric for Craft Lovers and Sewing Hobby, Abstract Cowhide Print Decorative  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81y7zrcEGgL.jpg' alt='Amazon.com: Manfei Cow Print Fabric by The Yard, Brown White Cow Fur Print  Fabric for Craft Lovers and Sewing Hobby, Abstract Cowhide Print Decorative  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81y7zrcEGgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Cow Spots Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/Browncowprint_grande.jpg?v=1625842222' alt='Brown Cow Spots Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/Browncowprint_grande.jpg?v=1625842222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cow Print in Mushroom Brown">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/files/43e9366bde5644dbd19c0d9ba28bad33.jpg?v=1690544868' alt='Cow Print in Mushroom Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/files/43e9366bde5644dbd19c0d9ba28bad33.jpg?v=1690544868' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy Duty Brown Cream Cow Print Microfiber Animal Pattern Upholstery Fabric">
+                                <img itemprop="contentUrl url" src='https://fabricbistro.com/cdn/shop/files/1_19e55420-a16c-4054-a2df-e47835c30ac1_700x.jpg?v=1696488478' alt='Heavy Duty Brown Cream Cow Print Microfiber Animal Pattern Upholstery Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabric Bistro" />
+                                </span>
+                                <a href='https://fabricbistro.com/cdn/shop/files/1_19e55420-a16c-4054-a2df-e47835c30ac1_700x.jpg?v=1696488478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Cow Print Seamless">
+                                <img itemprop="contentUrl url" src='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-08-23T091138.507.png?v=1692886378' alt='Brown Cow Print Seamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wild Cattle Designs" />
+                                </span>
+                                <a href='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-08-23T091138.507.png?v=1692886378' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cow Print Svg Free, Brown Cow Print Themed Png and Svg ...">
+                                <img itemprop="contentUrl url" src='https://cdn.lazyshop.com/files/303139fc-71f3-41b9-b87d-9d966fc1f313/product/a27bd61e35cd96cc676bff75772908c9.jpeg' alt='Cow Print Svg Free, Brown Cow Print Themed Png and Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cow Print Svg" />
+                                </span>
+                                <a href='https://cdn.lazyshop.com/files/303139fc-71f3-41b9-b87d-9d966fc1f313/product/a27bd61e35cd96cc676bff75772908c9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute brown cow print | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1385706119.0247/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Cute brown cow print | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1385706119.0247/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Cow Print Stencil Over Off-White Cowhide">
+                                <img itemprop="contentUrl url" src='https://yourwesterndecorating.com/cdn/shop/products/brown-cow-print-stencil-over-off-white-cowhide.jpg?v=1723508658&width=1600' alt='Brown Cow Print Stencil Over Off-White Cowhide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Western Decor" />
+                                </span>
+                                <a href='https://yourwesterndecorating.com/cdn/shop/products/brown-cow-print-stencil-over-off-white-cowhide.jpg?v=1723508658&width=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Cow Print Large Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14336805/r/l/d-i-21/DbszSWkYoMR2RLeA6e0CBYkiW3nlemwjneno/Dark_Brown_Cow_Print_Large.jpg' alt='Dark Brown Cow Print Large Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14336805/r/l/d-i-21/DbszSWkYoMR2RLeA6e0CBYkiW3nlemwjneno/Dark_Brown_Cow_Print_Large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

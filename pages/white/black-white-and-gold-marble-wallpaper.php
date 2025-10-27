@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Black, White & Gold Marble Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of black, white, and gold marble wallpaper. Perfect for adding a touch of luxury to your interiors, this stylish design enhances any room. Transform your walls and create a sophisticated atmosphere in your home or office today!">
+                    <meta name="keywords" content="black white and gold marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-white-and-gold-marble-wallpaper">
+                            <span itemprop="name">black white and gold marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Black, White & Gold Marble Wallpaper</h1>
+                <p>Transform your space with stunning black, white, and gold marble wallpaper. This sophisticated design blends timeless elegance with modern flair, perfect for creating a luxurious ambiance in any room. Whether it’s for a feature wall or as an accent, this wallpaper adds depth and character, combining style with quality for a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLACK AND WHITE Marble With Gold Details- Adhesive Marble ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/664444/4400218677/il_fullxfull.4400218677_5amq.jpg' alt='BLACK AND WHITE Marble With Gold Details- Adhesive Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/664444/4400218677/il_fullxfull.4400218677_5amq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Black white gold liquid 3d abstract marbled golden inlay  veins lines Wall Mural Peel and Stick Canvas Art Wall Mural Decor Self- ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71a9xMNhOhL._AC_UF350,350_QL80_.jpg' alt='Vintage Wallpaper Black white gold liquid 3d abstract marbled golden inlay  veins lines Wall Mural Peel and Stick Canvas Art Wall Mural Decor Self- ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71a9xMNhOhL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRETTY MARBLE WALLPAPER- Black and White Marble- Adhesive Marble ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/5cfda9/3635363277/il_fullxfull.3635363277_45mx.jpg' alt='PRETTY MARBLE WALLPAPER- Black and White Marble- Adhesive Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1490">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/5cfda9/3635363277/il_fullxfull.3635363277_45mx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Gold white Patterned natural Black marble texture  for Texture Canvas Wallpaper Wall Decor Wall Art Wall mural Home Decor for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/718l25FDRcL._AC_UF350,350_QL80_.jpg' alt='Peel and Stick Wallpaper Gold white Patterned natural Black marble texture  for Texture Canvas Wallpaper Wall Decor Wall Art Wall mural Home Decor for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/718l25FDRcL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Peel & Stick Black Gold Marble Pattern Wallpaper for a Chic ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/03/15-scaled.jpg' alt='Modern Peel & Stick Black Gold Marble Pattern Wallpaper for a Chic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/03/15-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Black White Gold Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.muravie.com/wp-content/uploads/2022/04/MUR-1056-0-3.jpg' alt='Gradient Black White Gold Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muravie" />
+                                </span>
+                                <a href='https://www.muravie.com/wp-content/uploads/2022/04/MUR-1056-0-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black, White, And Gold Marble Background Texture For Use ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/bluedeamoure/bluedeamoure2301/bluedeamoure230100682/197509300-elegant-black-white-and-gold-marble-background-texture-for-use-in-design-projects.jpg' alt='Elegant Black, White, And Gold Marble Background Texture For Use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/bluedeamoure/bluedeamoure2301/bluedeamoure230100682/197509300-elegant-black-white-and-gold-marble-background-texture-for-use-in-design-projects.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White and Gold Cracked Marble Wall Mural Wallpaper | Canvas ...">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Black_White_and_Gold_Cracked_Marble_Wallpaper_Mural_a_1400x.jpg?v=1735831508' alt='Black White and Gold Cracked Marble Wall Mural Wallpaper | Canvas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Black_White_and_Gold_Cracked_Marble_Wallpaper_Mural_a_1400x.jpg?v=1735831508' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D abstract texture artificial black white marble  gold veins decorative Peel and Stick Removable Self-Adhesive canvas Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/e9e35d71-6650-4e0e-8140-9160136fe629.edc869eb406479c1c4afc81dc36b1146.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D abstract texture artificial black white marble  gold veins decorative Peel and Stick Removable Self-Adhesive canvas Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/e9e35d71-6650-4e0e-8140-9160136fe629.edc869eb406479c1c4afc81dc36b1146.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White, Gold and Black Ink Marble">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/909760/pr22/1/1280/white-gold-black-ink-marble-white-gold-marble-wallpaper.jpg' alt='White, Gold and Black Ink Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/909760/pr22/1/1280/white-gold-black-ink-marble-white-gold-marble-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

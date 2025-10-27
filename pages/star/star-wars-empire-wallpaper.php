@@ -1,0 +1,129 @@
+<title>Epic Star Wars Empire Wallpaper for Your Screens</title>
+                    <meta name="description" content="Discover an amazing collection of Star Wars Empire wallpaper! Perfect for fans, these high-quality images bring the dark side to life, enhancing your device’s display. Download now and showcase your love for the Empire with stunning visuals that captivate and inspire!">
+                    <meta name="keywords" content="star wars empire wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-empire-wallpaper">
+                            <span itemprop="name">star wars empire wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Empire Wallpaper for Your Screens</h1>
+                <p>Transform your screen with stunning Star Wars Empire wallpaper! Featuring iconic characters, ships, and epic battles, these wallpapers bring the dark side's allure right to your desktop or mobile device. Perfect for fans of all ages, immerse yourself in the galaxy far, far away and celebrate the Empire’s legacy every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the Powerful Galactic Empire In Star Wars" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-unrelenting-power-of-the-star-wars-empire-9vy6ji4euiwvyj76.webp' alt='the Powerful Galactic Empire In Star Wars" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-unrelenting-power-of-the-star-wars-empire-9vy6ji4euiwvyj76.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Galactic Empire wallpaper 1920 x 1080 px by TaNa-Jo on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be384998-a801-46c0-a893-1054e137bcf0/d9q17v5-0d80f5f7-67a7-45a0-b8ed-3160a969c329.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlMzg0OTk4LWE4MDEtNDZjMC1hODkzLTEwNTRlMTM3YmNmMFwvZDlxMTd2NS0wZDgwZjVmNy02N2E3LTQ1YTAtYjhlZC0zMTYwYTk2OWMzMjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fJkAKkgyh5nCZGGH-ueIhzCtM3C-_YdUltlH-5Vqiqo' alt='Star Wars Galactic Empire wallpaper 1920 x 1080 px by TaNa-Jo on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be384998-a801-46c0-a893-1054e137bcf0/d9q17v5-0d80f5f7-67a7-45a0-b8ed-3160a969c329.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlMzg0OTk4LWE4MDEtNDZjMC1hODkzLTEwNTRlMTM3YmNmMFwvZDlxMTd2NS0wZDgwZjVmNy02N2E3LTQ1YTAtYjhlZC0zMTYwYTk2OWMzMjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fJkAKkgyh5nCZGGH-ueIhzCtM3C-_YdUltlH-5Vqiqo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galactic Empire HD Wallpaper - Star Wars Art">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/754/thumb-1920-75475.jpg' alt='Galactic Empire HD Wallpaper - Star Wars Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/754/thumb-1920-75475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: The Epic Tale Of The Empire Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-wars-the-epic-tale-of-the-empire-qadp6scuhgr868zr.jpg' alt='Star Wars: The Epic Tale Of The Empire Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-wars-the-epic-tale-of-the-empire-qadp6scuhgr868zr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Star Wars Empire Strikes Back HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/107/1079738.jpg' alt='Epic Star Wars Empire Strikes Back HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/107/1079738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evolution of the Empire (Wallpaper [1920x1080]) : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/y625c1ur6XXthc9o_GD8m7gJt2LirUEC1ndlkwLryqw.jpg?width=1080&crop=smart&auto=webp&s=94dc06569909671a77d6042817a311aa8db7ebe2' alt='Evolution of the Empire (Wallpaper [1920x1080]) : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/y625c1ur6XXthc9o_GD8m7gJt2LirUEC1ndlkwLryqw.jpg?width=1080&crop=smart&auto=webp&s=94dc06569909671a77d6042817a311aa8db7ebe2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Empire Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-empire-3w6bqh11f2tlbw7o.jpg' alt='100+] Star Wars Empire Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-empire-3w6bqh11f2tlbw7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Hidden Empire Wallpaper (1920x1080) : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/covx1qb24v2y.png' alt='Star Wars Hidden Empire Wallpaper (1920x1080) : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/covx1qb24v2y.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Empire iPhone Wallpaper 32 by masimage on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a1f2bf8-9796-4910-99fd-3598a2caa367/d6qaqmg-6fd1b688-1b01-4240-91f3-744da3d30398.jpg/v1/fill/w_759,h_1053,q_70,strp/star_wars_empire_iphone_wallpaper_32_by_masimage_d6qaqmg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExMCIsInBhdGgiOiJcL2ZcLzRhMWYyYmY4LTk3OTYtNDkxMC05OWZkLTM1OThhMmNhYTM2N1wvZDZxYXFtZy02ZmQxYjY4OC0xYjAxLTQyNDAtOTFmMy03NDRkYTNkMzAzOTguanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pCyslr1yuoFG2JmbfeKOWkyI7LvzE4XFP-CyZYqIJt4' alt='Star Wars Empire iPhone Wallpaper 32 by masimage on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a1f2bf8-9796-4910-99fd-3598a2caa367/d6qaqmg-6fd1b688-1b01-4240-91f3-744da3d30398.jpg/v1/fill/w_759,h_1053,q_70,strp/star_wars_empire_iphone_wallpaper_32_by_masimage_d6qaqmg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExMCIsInBhdGgiOiJcL2ZcLzRhMWYyYmY4LTk3OTYtNDkxMC05OWZkLTM1OThhMmNhYTM2N1wvZDZxYXFtZy02ZmQxYjY4OC0xYjAxLTQyNDAtOTFmMy03NDRkYTNkMzAzOTguanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pCyslr1yuoFG2JmbfeKOWkyI7LvzE4XFP-CyZYqIJt4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Empire Logo Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-empire-logo-ottwx5mgpxe4lug8.jpg' alt='100+] Star Wars Empire Logo Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-empire-logo-ottwx5mgpxe4lug8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

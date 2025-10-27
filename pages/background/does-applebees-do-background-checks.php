@@ -1,0 +1,129 @@
+<title>Do Applebee's Conduct Background Checks? Here’s What You Need to Know</title>
+                    <meta name="description" content="Discover if Applebee's conducts background checks during the hiring process. Find out what you need to know about the application and screening steps for potential employees, ensuring you're well-prepared for your job application.">
+                    <meta name="keywords" content="does applebee's do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-applebees-do-background-checks">
+                            <span itemprop="name">does applebee's do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Applebee's Conduct Background Checks? Here’s What You Need to Know</h1>
+                <p>Yes, Applebee's does conduct background checks on potential employees as part of their hiring process. This is to ensure a safe and trustworthy work environment. Applicants may be asked to provide consent for the check during the application phase. It's important for candidates to be aware of this when applying.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Applebee's drug test or do a background check? - Applebee's ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/applebees/questions/3795947/does-applebee-s-drug-test-or-do-a-background-check' alt='Does Applebee's drug test or do a background check? - Applebee's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/applebees/questions/3795947/does-applebee-s-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check was dropped and I was shocked : r/Applebees">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/check-was-dropped-and-i-was-shocked-v0-tu2mb4mcf5wc1.jpeg?width=1080&crop=smart&auto=webp&s=bfa5dc7e95a459bffe9370e7ec58ce6a048258c9' alt='Check was dropped and I was shocked : r/Applebees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/check-was-dropped-and-i-was-shocked-v0-tu2mb4mcf5wc1.jpeg?width=1080&crop=smart&auto=webp&s=bfa5dc7e95a459bffe9370e7ec58ce6a048258c9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Felony Friendly Companies : r/Prison">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/national-felony-friendly-companies-v0-7x6plcph4j4c1.jpg?auto=webp&s=13a66fbf046d6d6609f9a169966a2a15e48f4c67' alt='National Felony Friendly Companies : r/Prison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="2127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/national-felony-friendly-companies-v0-7x6plcph4j4c1.jpg?auto=webp&s=13a66fbf046d6d6609f9a169966a2a15e48f4c67' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions (FAQs) about Applebee's | JobzMall">
+                                <img itemprop="contentUrl url" src='https://www.jobzmall.com/_next/image?url=https%3A%2F%2Fassets.jobzmall.com%2Fstores%2F3577649%2Fimages%2F2e51b447-f641-435a-a2ff-8f33cfbb8ed2.jpg&w=3840&q=75' alt='Frequently Asked Questions (FAQs) about Applebee's | JobzMall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JobzMall" />
+                                </span>
+                                <a href='https://www.jobzmall.com/_next/image?url=https%3A%2F%2Fassets.jobzmall.com%2Fstores%2F3577649%2Fimages%2F2e51b447-f641-435a-a2ff-8f33cfbb8ed2.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applebee's profit plan? Check your receipts people! : r/pics">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f7akbq51nouz.jpg' alt='Applebee's profit plan? Check your receipts people! : r/pics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1575">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f7akbq51nouz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applebee's with two different menu prices : r/mildlyinfuriating">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lqq3z75ixgda1.jpg' alt='Applebee's with two different menu prices : r/mildlyinfuriating'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2142">
+                                <meta itemprop="height" content="2856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lqq3z75ixgda1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applebee's Half Off Apps - A Foodie's Delight!">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7381997820175289642&location=0&aid=1988' alt='Applebee's Half Off Apps - A Foodie's Delight!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7381997820175289642&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to do with background check red flags? | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' alt='What to do with background check red flags? | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="F’s in the chat please #applebees #id #90sbaby #imold | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7350436881944923435&location=0&aid=1988' alt='F’s in the chat please #applebees #id #90sbaby #imold | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7350436881944923435&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applebee's All You Can Eat Boneless Wings for $14.99! Food Review">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7322231503629323563&location=0&aid=1988' alt='Applebee's All You Can Eat Boneless Wings for $14.99! Food Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7322231503629323563&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

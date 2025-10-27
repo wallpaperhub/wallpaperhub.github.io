@@ -1,0 +1,129 @@
+<title>Understanding Kidney Health: Essential Facts</title>
+                    <meta name="description" content="Discover the importance of kidney health and learn how these vital organs filter waste, regulate fluids, and produce hormones. Stay informed with essential tips for keeping your kidneys healthy and functioning optimally for your overall wellbeing.">
+                    <meta name="keywords" content="kidney">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kidney">
+                            <span itemprop="name">kidney</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Kidney Health: Essential Facts</h1>
+                <p>The kidneys are vital organs responsible for filtering waste from the blood, regulating electrolytes, and maintaining fluid balance. Each person has two kidneys, which also produce hormones that control blood pressure and stimulate red blood cell production. Proper kidney function is essential for overall health and wellbeing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kidney - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blausen_0592_KidneyAnatomy_01.png/1200px-Blausen_0592_KidneyAnatomy_01.png' alt='Kidney - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blausen_0592_KidneyAnatomy_01.png/1200px-Blausen_0592_KidneyAnatomy_01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Definition of kidney - NCI Dictionary of Cancer Terms - NCI">
+                                <img itemprop="contentUrl url" src='https://nci-media.cancer.gov/pdq/media/images/664288.jpg' alt='Definition of kidney - NCI Dictionary of Cancer Terms - NCI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="3150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Cancer Institute" />
+                                </span>
+                                <a href='https://nci-media.cancer.gov/pdq/media/images/664288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kidneys: Location, Anatomy, Function & Health">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21824-kidney' alt='Kidneys: Location, Anatomy, Function & Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21824-kidney' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Kidneys & How They Work - NIDDK">
+                                <img itemprop="contentUrl url" src='https://www.niddk.nih.gov/-/media/Images/Health-Information/Kidney/Kidney_FINAL-Labels_1460x1623.jpg' alt='Your Kidneys & How They Work - NIDDK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute of Diabetes and Digestive and Kidney Diseases ..." />
+                                </span>
+                                <a href='https://www.niddk.nih.gov/-/media/Images/Health-Information/Kidney/Kidney_FINAL-Labels_1460x1623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kidneys: Location, function, anatomy, pictures, and related diseases">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/1450092-Where-Are-the-Kidneys-Located-What-Do-They-Do-What-Do-They-Look-Like_Header_1296x728-1024x575.png?w=1155&h=1528' alt='Kidneys: Location, function, anatomy, pictures, and related diseases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MedicalNewsToday" />
+                                </span>
+                                <a href='https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/1450092-Where-Are-the-Kidneys-Located-What-Do-They-Do-What-Do-They-Look-Like_Header_1296x728-1024x575.png?w=1155&h=1528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Kidneys & How They Work - NIDDK">
+                                <img itemprop="contentUrl url" src='https://www.niddk.nih.gov/-/media/Images/Health-Information/Kidney/B1Image-01A--Urinary-TrackMainFINALLabels.jpg' alt='Your Kidneys & How They Work - NIDDK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute of Diabetes and Digestive and Kidney Diseases ..." />
+                                </span>
+                                <a href='https://www.niddk.nih.gov/-/media/Images/Health-Information/Kidney/B1Image-01A--Urinary-TrackMainFINALLabels.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kidney Diseases | Kidney Resource Center | Washington University ...">
+                                <img itemprop="contentUrl url" src='https://kidney.wustl.edu/files/2016/12/Normal_Kidney_Function2-1-350x420.jpg' alt='Kidney Diseases | Kidney Resource Center | Washington University ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidney Resource Center - Washington University" />
+                                </span>
+                                <a href='https://kidney.wustl.edu/files/2016/12/Normal_Kidney_Function2-1-350x420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomy of the Kidney">
+                                <img itemprop="contentUrl url" src='https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/10/shutterstock_1027902178.jpg' alt='Anatomy of the Kidney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News-Medical" />
+                                </span>
+                                <a href='https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/10/shutterstock_1027902178.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kidney health quick-start guide - Harvard Health">
+                                <img itemprop="contentUrl url" src='https://domf5oio6qrcr.cloudfront.net/medialibrary/13266/conversions/92cb00a4-4596-4b8e-a64b-519f9bd8c9dc-thumb.jpg' alt='Kidney health quick-start guide - Harvard Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Health" />
+                                </span>
+                                <a href='https://domf5oio6qrcr.cloudfront.net/medialibrary/13266/conversions/92cb00a4-4596-4b8e-a64b-519f9bd8c9dc-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renal Cortex: Kidney, Anatomy, Function & Conditions">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23127-renal-cortex' alt='Renal Cortex: Kidney, Anatomy, Function & Conditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23127-renal-cortex' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

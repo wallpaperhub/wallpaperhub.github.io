@@ -1,0 +1,129 @@
+<title>Who Was King Baldwin IV of Jerusalem?</title>
+                    <meta name="description" content="Discover the life and legacy of King Baldwin IV of Jerusalem, the Leper King who shaped a nation. Learn about his battles, reign, and enduring influence on history in just a few words. Perfect for history buffs and curious minds alike!">
+                    <meta name="keywords" content="who was king baldwin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-was-king-baldwin">
+                            <span itemprop="name">who was king baldwin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Was King Baldwin IV of Jerusalem?</h1>
+                <p>King Baldwin IV of Jerusalem, also known as Baldwin the Leper, ruled from 1174 to 1185. He was the son of Amalric I and became king at a young age. Despite battling leprosy, he was known for his military prowess and efforts to defend his kingdom against Saladin's forces. His reign is marked by valor and tragedy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Baldwin the 4th | MY HERO">
+                                <img itemprop="contentUrl url" src='https://myhero.com/content/images/thumbs/0120341_king-baldwin-the-4th.jpeg' alt='King Baldwin the 4th | MY HERO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MY HERO" />
+                                </span>
+                                <a href='https://myhero.com/content/images/thumbs/0120341_king-baldwin-the-4th.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Baldwin IV | Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/p__/images/2/27/King_Baldwin_IV.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200818183529&path-prefix=protagonist' alt='King Baldwin IV | Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/p__/images/2/27/King_Baldwin_IV.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200818183529&path-prefix=protagonist' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legacy of King Baldwin IV: The Leper King of Jerusalem | History">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/675d9c0cebce06001dcca983.jpg' alt='The Legacy of King Baldwin IV: The Leper King of Jerusalem | History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/675d9c0cebce06001dcca983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life of Baldwin the Leper King -">
+                                <img itemprop="contentUrl url" src='https://www.returntoorder.org/content/uploads/2020/03/Baldwin4_3-1-e1584560774306.jpg' alt='The Life of Baldwin the Leper King -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Return to Order" />
+                                </span>
+                                <a href='https://www.returntoorder.org/content/uploads/2020/03/Baldwin4_3-1-e1584560774306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legacy of King Baldwin IV: The Leper King of Jerusalem | History">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/675d9c189d1f3c001dbd83b9.jpg' alt='The Legacy of King Baldwin IV: The Leper King of Jerusalem | History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/675d9c189d1f3c001dbd83b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldwin IV of Jerusalem - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png' alt='Baldwin IV of Jerusalem - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Capitano Based on King Baldwin : r/CapitanoMainsGI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/is-capitano-based-on-king-baldwin-v0-nphtqyyhy25e1.jpg?width=1080&crop=smart&auto=webp&s=ff4c5cd2e733733998ed377c9a1c4b77489fa43d' alt='Is Capitano Based on King Baldwin : r/CapitanoMainsGI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/is-capitano-based-on-king-baldwin-v0-nphtqyyhy25e1.jpg?width=1080&crop=smart&auto=webp&s=ff4c5cd2e733733998ed377c9a1c4b77489fa43d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Baldwin IV - The Leper King | Historicways">
+                                <img itemprop="contentUrl url" src='http://historicways.com/wp-content/uploads/2023/12/King-Baldwin-IV.jpg' alt='King Baldwin IV - The Leper King | Historicways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Historicways" />
+                                </span>
+                                <a href='http://historicways.com/wp-content/uploads/2023/12/King-Baldwin-IV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Baldwin Song Edit Compilation">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7357906922609118481&location=0&aid=1988' alt='King Baldwin Song Edit Compilation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7357906922609118481&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How King Baldwin th Fourth, The Greatest Christian King, Used a ...">
+                                <img itemprop="contentUrl url" src='https://popehistory.com/wp-content/uploads/2024/07/baldwin-iv-the-leper-king.webp' alt='How King Baldwin th Fourth, The Greatest Christian King, Used a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PopeHistory.com" />
+                                </span>
+                                <a href='https://popehistory.com/wp-content/uploads/2024/07/baldwin-iv-the-leper-king.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

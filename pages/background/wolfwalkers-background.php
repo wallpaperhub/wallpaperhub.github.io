@@ -1,0 +1,129 @@
+<title>"Exploring the Enchanting World of Wolfwalkers"</title>
+                    <meta name="description" content="Discover the rich background of "Wolfwalkers," an animated film that blends Irish folklore with environmental advocacy. Follow the journey of Robyn as she uncovers a mystical bond with nature and challenges societal norms. Perfect for fans of enchanting storytelling and animation!">
+                    <meta name="keywords" content="wolfwalkers background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wolfwalkers-background">
+                            <span itemprop="name">wolfwalkers background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Enchanting World of Wolfwalkers"</h1>
+                <p>"Wolfwalkers" is a captivating animated film set in medieval Ireland, combining folklore and environmental themes. The story follows Robyn, a young girl who befriends a wolfwalker—a human who can transform into a wolf when asleep—leading her to discover magic, nature's balance, and her own strength as she confronts the town's fears and prejudices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Wolfwalkers - Concept Art and Background Painting">
+                                <img itemprop="contentUrl url" src='https://cdn.artstation.com/p/thumbnails/000/958/447/thumb.jpg' alt='ArtStation - Wolfwalkers - Concept Art and Background Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdn.artstation.com/p/thumbnails/000/958/447/thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Wolfwalkers - Concept Art and Background Painting">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/054/615/929/large/almu-redondo-almuredondo-wolfwalkers-bg-20-almu.jpg?1664949031' alt='ArtStation - Wolfwalkers - Concept Art and Background Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/054/615/929/large/almu-redondo-almuredondo-wolfwalkers-bg-20-almu.jpg?1664949031' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Wolfwalkers - Concept Art and Background Painting">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/054/616/049/large/almu-redondo-almuredondo-wolfwalkers-bg-02-almu.jpg?1664949458' alt='ArtStation - Wolfwalkers - Concept Art and Background Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/054/616/049/large/almu-redondo-almuredondo-wolfwalkers-bg-02-almu.jpg?1664949458' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfwalkers — Ludo Gavillet">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607595630165-I5TR6IWGB6HKI09O5MLA/Capture+d%E2%80%99e%CC%81cran+2020-12-10+a%CC%80+11.19.07.png' alt='Wolfwalkers — Ludo Gavillet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ludo Gavillet" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607595630165-I5TR6IWGB6HKI09O5MLA/Capture+d%E2%80%99e%CC%81cran+2020-12-10+a%CC%80+11.19.07.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfwalkers — Ludo Gavillet">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607543186889-82OD6VY8UUZMH5XGEWLF/ww_bg_b2_07_v06_LudoGAVILLET.jpg?format=1000w' alt='Wolfwalkers — Ludo Gavillet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ludo Gavillet" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607543186889-82OD6VY8UUZMH5XGEWLF/ww_bg_b2_07_v06_LudoGAVILLET.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Wolfwalkers - Concept Art and Background Painting">
+                                <img itemprop="contentUrl url" src='https://cdn.artstation.com/p/thumbnails/000/958/449/thumb.jpg' alt='ArtStation - Wolfwalkers - Concept Art and Background Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdn.artstation.com/p/thumbnails/000/958/449/thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REVIEW: Wolfwalkers – [art]seen">
+                                <img itemprop="contentUrl url" src='https://artsatmichigan.umich.edu/seen/wp-content/uploads/2020/12/wolfwalkers-1-750x410.jpg' alt='REVIEW: Wolfwalkers – [art]seen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arts at Michigan" />
+                                </span>
+                                <a href='https://artsatmichigan.umich.edu/seen/wp-content/uploads/2020/12/wolfwalkers-1-750x410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfwalkers — Ludo Gavillet">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607543300336-41OTFGY53NIY7VP0EBZI/ww_bg_b4_05_v08_LudoGAVILLET.jpg?format=1000w' alt='Wolfwalkers — Ludo Gavillet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ludo Gavillet" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fc0bc9f2e34347c70432b7e/1607543300336-41OTFGY53NIY7VP0EBZI/ww_bg_b4_05_v08_LudoGAVILLET.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfwalkers | An Eoraip Chruthaitheach Éire">
+                                <img itemprop="contentUrl url" src='https://www.creativeeuropeireland.eu/content/media/_1224x600_crop_center-center_none/Wolfwalkers_CartoonSaloon_wolf.jpg' alt='Wolfwalkers | An Eoraip Chruthaitheach Éire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1224">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Europe Desk Ireland" />
+                                </span>
+                                <a href='https://www.creativeeuropeireland.eu/content/media/_1224x600_crop_center-center_none/Wolfwalkers_CartoonSaloon_wolf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfwalkers: the Story behind Story | by Iker Maidagan | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*NxFzV1o7g3DQd1mTol5p6g.png' alt='Wolfwalkers: the Story behind Story | by Iker Maidagan | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iker Maidagan - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*NxFzV1o7g3DQd1mTol5p6g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

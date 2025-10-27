@@ -1,0 +1,129 @@
+<title>High-Quality Rock PNG Images for Creative Projects</title>
+                    <meta name="description" content="Explore a vast selection of rock PNG images to enhance your designs effortlessly. Perfect for graphics, websites, and presentations, our transparent background rocks come in various shapes and sizes. Download high-quality rock PNGs for your next creative project today!">
+                    <meta name="keywords" content="rock png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rock-png">
+                            <span itemprop="name">rock png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Rock PNG Images for Creative Projects</h1>
+                <p>Discover high-quality rock PNG images for your creative projects! These transparent background rocks are perfect for enhancing graphics, websites, and presentations. With various shapes and sizes, you can easily find the perfect rock PNG to suit your needs. Download now and elevate your designs with stunning natural elements!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/036/353/917/non_2x/ai-generated-gray-heavy-rock-file-of-isolated-cutout-object-on-transparent-background-with-shadow-png.png' alt='Rock PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/036/353/917/non_2x/ai-generated-gray-heavy-rock-file-of-isolated-cutout-object-on-transparent-background-with-shadow-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/beautiful-stone-studio_23-2151860813.jpg' alt='Rock Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/beautiful-stone-studio_23-2151860813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20231019/original/pngtree-close-up-of-big-stone-isolated-big-rock-png-image_13370758.png' alt='Rock PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20231019/original/pngtree-close-up-of-big-stone-isolated-big-rock-png-image_13370758.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Background Stones PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/rock-transparent-background-stones-1.png' alt='Rock Background Stones PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2483">
+                                <meta itemprop="height" content="2077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/rock-transparent-background-stones-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/beautiful-stone-studio_23-2151860821.jpg' alt='Rock Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/beautiful-stone-studio_23-2151860821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Stone PNG Images & PSDs for Download | PixelSquid - S117063099">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/rock-stone-AvXzl49-600.jpg' alt='Rock Stone PNG Images & PSDs for Download | PixelSquid - S117063099'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/rock-stone-AvXzl49-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Boulder, rock, stone, rock png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/69/333/png-clipart-rock-boulder-rock-stone-rock.png' alt='Rock Boulder, rock, stone, rock png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/69/333/png-clipart-rock-boulder-rock-stone-rock.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tags - rock png top view - Pngcore - Millions of light PNG Images ...">
+                                <img itemprop="contentUrl url" src='https://pngcore.com/files/preview/1280x667/11726917291qbpcfx6iyfs9scwuvabcx0kea2r9jgdf85r9o1iues5pvygfxkbqbe4kwk5jrpurt8f76c4mez6lsigc2nxjql7wjzf6adpqyace.png' alt='Tags - rock png top view - Pngcore - Millions of light PNG Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngcore" />
+                                </span>
+                                <a href='https://pngcore.com/files/preview/1280x667/11726917291qbpcfx6iyfs9scwuvabcx0kea2r9jgdf85r9o1iues5pvygfxkbqbe4kwk5jrpurt8f76c4mez6lsigc2nxjql7wjzf6adpqyace.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rock PNG transparent image download, size: 900x645px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/stone_PNG13573.png' alt='rock PNG transparent image download, size: 900x645px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/stone_PNG13573.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/grey-boulder-rock-isolated-transparent-background_632498-25568.jpg' alt='Rock Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/grey-boulder-rock-isolated-transparent-background_632498-25568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Essential Landlord Tenant Checks for Secure Rentals</title>
+                    <meta name="description" content="Discover the importance of landlord tenant checks in creating secure and reliable rental agreements. Learn how to conduct credit screenings, verify employment, and ensure responsible tenancy for both landlords and tenants.">
+                    <meta name="keywords" content="landlord tenant checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/landlord-tenant-checks">
+                            <span itemprop="name">landlord tenant checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Landlord Tenant Checks for Secure Rentals</h1>
+                <p>Landlord tenant checks are essential for ensuring a reliable and responsible rental agreement. This process typically involves credit checks, employment verification, and background screenings. By conducting thorough checks, landlords can minimize risks, while tenants gain security knowing they are renting from a verified landlord.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant screening laws in California: What you need to know">
+                                <img itemprop="contentUrl url" src='https://wp-assets.stessa.com/wp-content/uploads/2023/05/08100440/RP-background-screening%402x.png' alt='Tenant screening laws in California: What you need to know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1524">
+                                <meta itemprop="height" content="1524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stessa" />
+                                </span>
+                                <a href='https://wp-assets.stessa.com/wp-content/uploads/2023/05/08100440/RP-background-screening%402x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Steps to Run a Tenant Background Check in California">
+                                <img itemprop="contentUrl url" src='https://www.truedoorpm.com/wp-content/uploads/2024/10/tenant-screening-laws-california.jpg' alt='7 Steps to Run a Tenant Background Check in California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrueDoor Property Management" />
+                                </span>
+                                <a href='https://www.truedoorpm.com/wp-content/uploads/2024/10/tenant-screening-laws-california.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tenant (Renter) Background Check Form - PDF | Word – eForms">
+                                <img itemprop="contentUrl url" src='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form.png' alt='Free Tenant (Renter) Background Check Form - PDF | Word – eForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eForms" />
+                                </span>
+                                <a href='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Credit Checks for Landlords – ApplyConnect">
+                                <img itemprop="contentUrl url" src='https://www.applyconnect.com/wp-content/uploads/2021/03/Experian-tenant-screening-credit-report.png' alt='Tenant Credit Checks for Landlords – ApplyConnect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ApplyConnect" />
+                                </span>
+                                <a href='https://www.applyconnect.com/wp-content/uploads/2021/03/Experian-tenant-screening-credit-report.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant screening checklist: Free template for landlords">
+                                <img itemprop="contentUrl url" src='https://wp-assets.stessa.com/wp-content/uploads/2023/10/04150335/Tenant_Screening_Checklist_Template_-_Stessa__VIEW_ONLY_-_DOWNLOAD_OR_MAKE_A_COPY_TO_EDIT__-_Google_Docs.png' alt='Tenant screening checklist: Free template for landlords'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stessa" />
+                                </span>
+                                <a href='https://wp-assets.stessa.com/wp-content/uploads/2023/10/04150335/Tenant_Screening_Checklist_Template_-_Stessa__VIEW_ONLY_-_DOWNLOAD_OR_MAKE_A_COPY_TO_EDIT__-_Google_Docs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Scams: How Landlords Can Spot and Avoid Them">
+                                <img itemprop="contentUrl url" src='https://coloradobiz.com/files/2024/02/unnamed-1.jpg' alt='Tenant Scams: How Landlords Can Spot and Avoid Them'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColoradoBiz" />
+                                </span>
+                                <a href='https://coloradobiz.com/files/2024/02/unnamed-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legal Tenant Screening Criteria Checklist: Infographic">
+                                <img itemprop="contentUrl url" src='https://www.rentecdirect.com/blog/wp-content/uploads/2018/12/Tenant-Screening-Criteria-Checklist-Infographic.png' alt='Legal Tenant Screening Criteria Checklist: Infographic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="6250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rentec Direct" />
+                                </span>
+                                <a href='https://www.rentecdirect.com/blog/wp-content/uploads/2018/12/Tenant-Screening-Criteria-Checklist-Infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Screen Tenants For A Rental Property - 2025 Guide">
+                                <img itemprop="contentUrl url" src='https://www.goodlifemgmt.com/wp-content/uploads/2023/10/tenant-screening-checklist.webp' alt='How To Screen Tenants For A Rental Property - 2025 Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1583">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Life Property Management" />
+                                </span>
+                                <a href='https://www.goodlifemgmt.com/wp-content/uploads/2023/10/tenant-screening-checklist.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Properly screen potential tenants | Patrize Properties">
+                                <img itemprop="contentUrl url" src='https://patrizeproperties.com/wp-content/uploads/2018/01/tenant-screening.png' alt='Properly screen potential tenants | Patrize Properties'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2092">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patrize Properties, Inc" />
+                                </span>
+                                <a href='https://patrizeproperties.com/wp-content/uploads/2018/01/tenant-screening.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Checklist | ezLandlordForms">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/ezlf/image/upload/f_auto,q_auto,w_700/v1619052353/Live/DocumentImages/16192/274e0256-ae57-4ccf-8073-d8bb81983724' alt='Tenant Screening Checklist | ezLandlordForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ezLandlordForms" />
+                                </span>
+                                <a href='https://res.cloudinary.com/ezlf/image/upload/f_auto,q_auto,w_700/v1619052353/Live/DocumentImages/16192/274e0256-ae57-4ccf-8073-d8bb81983724' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

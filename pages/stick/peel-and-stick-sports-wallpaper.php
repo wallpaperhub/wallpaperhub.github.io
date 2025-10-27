@@ -1,0 +1,129 @@
+<title>Peel and Stick Sports Wallpaper: Game On!</title>
+                    <meta name="description" content="Revamp your room with peel and stick sports wallpaper! Perfect for fans, it's easy to apply and remove, leaving no mess behind. Show off your team spirit in any space—ideal for bedrooms, game rooms, and more. Create a winning atmosphere effortlessly!">
+                    <meta name="keywords" content="peel and stick sports wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-sports-wallpaper">
+                            <span itemprop="name">peel and stick sports wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peel and Stick Sports Wallpaper: Game On!</h1>
+                <p>Transform your space with peel and stick sports wallpaper! Perfect for fans of all ages, this easy-to-apply wallpaper showcases your favorite teams and athletes in vibrant colors. No mess, no fuss: simply peel, stick, and enjoy a revamped room that reflects your passion for sports. Ideal for bedrooms, game rooms, or even offices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/vintage-sports_Mockup.jpg?v=1715990908&width=1500' alt='LUXE Traditional / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/vintage-sports_Mockup.jpg?v=1715990908&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sport Pattern Wallpaper | Pattern Wall Mural | Peel and Stick Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22886966/r/il/02d87b/3202119733/il_fullxfull.3202119733_66z1.jpg' alt='Sport Pattern Wallpaper | Pattern Wall Mural | Peel and Stick Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22886966/r/il/02d87b/3202119733/il_fullxfull.3202119733_66z1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Athlete Removable Vinyl Mural / Peel and Stick Sports Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21403697/r/il/ae8e89/6151931481/il_570xN.6151931481_6gyi.jpg' alt='Athlete Removable Vinyl Mural / Peel and Stick Sports Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21403697/r/il/ae8e89/6151931481/il_570xN.6151931481_6gyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blitz Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/FB_Chalk-Mock.jpg?v=1715992727&width=2048' alt='Blitz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/FB_Chalk-Mock.jpg?v=1715992727&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige and Black Sports Children Peel and Stick Removable Wallpaper 3511">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/4c8624bc0f7478d17c151158322cc017_grande.jpg?v=1628704750' alt='Beige and Black Sports Children Peel and Stick Removable Wallpaper 3511'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/4c8624bc0f7478d17c151158322cc017_grande.jpg?v=1628704750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Wallpaper Peel and Stick Sports Wall Murals Bicycle Kick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/82f053/4897910659/il_570xN.4897910659_1qy3.jpg' alt='Football Wallpaper Peel and Stick Sports Wall Murals Bicycle Kick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/82f053/4897910659/il_570xN.4897910659_1qy3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Design Custom Wallpaper & Surface Covering">
+                                <img itemprop="contentUrl url" src='https://www.youcustomizeit.com/common/MAKE/423653/Sports-Wallpaper-Scene.jpg?lm=1554146440' alt='Sports Design Custom Wallpaper & Surface Covering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouCustomizeIt" />
+                                </span>
+                                <a href='https://www.youcustomizeit.com/common/MAKE/423653/Sports-Wallpaper-Scene.jpg?lm=1554146440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wall Paper Sports Decor Collection Neutral Wallpaper Wall  Decor Living Room Protects Surface (W) 31.5" X(H) 24"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pABARYM0L._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wall Paper Sports Decor Collection Neutral Wallpaper Wall  Decor Living Room Protects Surface (W) 31.5" X(H) 24"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pABARYM0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Sports Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.modifiedtot.com/cdn/shop/products/vintage-sports-removable-wallpaper-209975.jpg?v=1661449918' alt='Vintage Sports Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modified Tot" />
+                                </span>
+                                <a href='https://www.modifiedtot.com/cdn/shop/products/vintage-sports-removable-wallpaper-209975.jpg?v=1661449918' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letterman (Gray) - Sports Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/vintage-sports_grey_Mockup.jpg?v=1715993545&width=1500' alt='Letterman (Gray) - Sports Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/vintage-sports_grey_Mockup.jpg?v=1715993545&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

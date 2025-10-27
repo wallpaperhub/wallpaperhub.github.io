@@ -1,0 +1,129 @@
+<title>Funny Dog GIF Wallpapers: A Pawsitively Hilarious Collection</title>
+                    <meta name="description" content="Add joy to your screens with our funny dog GIF wallpapers! Featuring a parade of adorable pups in comical situations, these dynamic backgrounds bring laughter and charm to your device. Perfect for dog lovers, our collection provides a daily dose of smiles with every glance at your phone!">
+                    <meta name="keywords" content="funny dog gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-dog-gif-wallpaper">
+                            <span itemprop="name">funny dog gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Dog GIF Wallpapers: A Pawsitively Hilarious Collection</h1>
+                <p>Brighten your day with our collection of funny dog GIF wallpapers! These hilarious and heartwarming moving images capture the playful spirit of dogs in action, perfect for your device background. Whether it's a pup rolling in the grass or a clumsy doggo chasing its tail, your screens will never be dull with these delightful GIFs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Puppy Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/aiS1VeeL3aKUU/giphy.gif?cid=6c09b952ouzjn2ibtuq62wy2dedxkcp1hh14f01n4zn1eeay&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Cute Puppy Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/aiS1VeeL3aKUU/giphy.gif?cid=6c09b952ouzjn2ibtuq62wy2dedxkcp1hh14f01n4zn1eeay&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Puppy Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/h5f2egExWztmktlx3g/200w.gif?cid=6c09b952ouzjn2ibtuq62wy2dedxkcp1hh14f01n4zn1eeay&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Cute Puppy Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/h5f2egExWztmktlx3g/200w.gif?cid=6c09b952ouzjn2ibtuq62wy2dedxkcp1hh14f01n4zn1eeay&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goofy Dog GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Z7-MN7U5z4cAAAAM/dog-happy.gif' alt='Goofy Dog GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Z7-MN7U5z4cAAAAM/dog-happy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Puppy GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ITu4QKJ1hWgAAAAM/huggie.gif' alt='Cute Puppy GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ITu4QKJ1hWgAAAAM/huggie.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/cYZkY9HeKgofpQnOUl/200w.gif?cid=6c09b9527xoz9b4flaac1kv1gm87pknx30qbafguhotbuuwh&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Puppy GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/cYZkY9HeKgofpQnOUl/200w.gif?cid=6c09b9527xoz9b4flaac1kv1gm87pknx30qbafguhotbuuwh&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute dog | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ed/cd/cb/edcdcbdbc839e44359912d93c623561d.gif' alt='cute dog | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ed/cd/cb/edcdcbdbc839e44359912d93c623561d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the last pug gif too weird? — ILLUSTRATOR / WIZARD / WEIRDO">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/594974c0e58c62484cbd42f9/1602018534188-YBAICQDPYHIBA8773I3G/funny+pug+meme+gif+stroller+baby' alt='Is the last pug gif too weird? — ILLUSTRATOR / WIZARD / WEIRDO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pug Jokes" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/594974c0e58c62484cbd42f9/1602018534188-YBAICQDPYHIBA8773I3G/funny+pug+meme+gif+stroller+baby' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/04/icegif-1323.gif' alt='Pug Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/04/icegif-1323.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some dog gifs to brighten your day | Hypixel Forums">
+                                <img itemprop="contentUrl url" src='https://hypixel.net/attachments/3290529/' alt='some dog gifs to brighten your day | Hypixel Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypixel Forums" />
+                                </span>
+                                <a href='https://hypixel.net/attachments/3290529/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Dogs GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/xoYz-ERVc4UAAAAM/superdog-super-cute-dog.gif' alt='Funny Dogs GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/xoYz-ERVc4UAAAAM/superdog-super-cute-dog.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

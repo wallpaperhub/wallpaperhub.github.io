@@ -1,0 +1,129 @@
+<title>Generate Your Own "Breaking Bad" Logo Instantly</title>
+                    <meta name="description" content="Craft your personalized "Breaking Bad" logo with our user-friendly logo generator! Create iconic designs and show your fandom in style. Perfect for quick, creative projects—start making your unique badge of honor today!">
+                    <meta name="keywords" content="breaking bad logo generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/breaking-bad-logo-generator">
+                            <span itemprop="name">breaking bad logo generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Generate Your Own "Breaking Bad" Logo Instantly</h1>
+                <p>Experience the thrill of creating your own unique "Breaking Bad" logo with our simple logo generator! Customize designs that pay homage to the iconic show, featuring elements like the chemistry theme and memorable quotes. Unleash your creativity and show off your fandom with a personalized touch. Perfect for fans and creative projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Intro Creator">
+                                <img itemprop="contentUrl url" src='https://breakingbadintrocreator.kassellabs.io/images/breaking-bad-intro-creator-default-preview.jpg' alt='Breaking Bad Intro Creator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kassel Labs" />
+                                </span>
+                                <a href='https://breakingbadintrocreator.kassellabs.io/images/breaking-bad-intro-creator-default-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Logo Name Generator | The Worley Gig">
+                                <img itemprop="contentUrl url" src='http://worleygig.com/wp-content/uploads/2013/09/img_1407.jpg?w=640' alt='Breaking Bad Logo Name Generator | The Worley Gig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Worley Gig" />
+                                </span>
+                                <a href='http://worleygig.com/wp-content/uploads/2013/09/img_1407.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/04/Breaking-Bad-Logo.png' alt='Breaking Bad Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/04/Breaking-Bad-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turn Your Name Into A Breaking Bad Logo">
+                                <img itemprop="contentUrl url" src='https://www.alistdaily.com/wp-content/uploads/assets/alist-archived/2013/06/b1.JPG' alt='Turn Your Name Into A Breaking Bad Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AList" />
+                                </span>
+                                <a href='https://www.alistdaily.com/wp-content/uploads/assets/alist-archived/2013/06/b1.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Font FREE Download | Hyperpix">
+                                <img itemprop="contentUrl url" src='https://hyperpix.net/wp-content/uploads/2020/04/breaking-bad-logo-font-free-download-1200x900.jpg' alt='Breaking Bad Font FREE Download | Hyperpix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hyperpix" />
+                                </span>
+                                <a href='https://hyperpix.net/wp-content/uploads/2020/04/breaking-bad-logo-font-free-download-1200x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo Breaking Bad, Season 1 Brand Font Design, Breaking bad, text ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/24/215/png-clipart-logo-breaking-bad-season-1-brand-font-design-breaking-bad-text-logo.png' alt='Logo Breaking Bad, Season 1 Brand Font Design, Breaking bad, text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/24/215/png-clipart-logo-breaking-bad-season-1-brand-font-design-breaking-bad-text-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create your own Breaking Bad style Name in 5 minutes!!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HBLNqQ_t47E/maxresdefault.jpg' alt='Create your own Breaking Bad style Name in 5 minutes!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HBLNqQ_t47E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad font">
+                                <img itemprop="contentUrl url" src='https://www.actionfonts.com/wp-content/uploads/breaking-bad-font-preview.png' alt='Breaking Bad font'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Action Fonts" />
+                                </span>
+                                <a href='https://www.actionfonts.com/wp-content/uploads/breaking-bad-font-preview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Logo PNG Vector (AI, EPS, SVG) Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/35/2/breaking-bad-logo-png_seeklogo-357723.png' alt='Breaking Bad Logo PNG Vector (AI, EPS, SVG) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/35/2/breaking-bad-logo-png_seeklogo-357723.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Bad Opening Generator. Ever wanted to give your videos a ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*PZwQVYbZDCubzxCig0XMqA.png' alt='Breaking Bad Opening Generator. Ever wanted to give your videos a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*PZwQVYbZDCubzxCig0XMqA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable BT21 Wallpaper Collection for Fans</title>
+                    <meta name="description" content="Discover a delightful selection of cute BT21 wallpapers! Perfect for fans, these vibrant designs will enhance your device and showcase your love for the charming characters. Explore and download your favorites to add a touch of joy to your screen today!">
+                    <meta name="keywords" content="cute bt21 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-bt21-wallpaper">
+                            <span itemprop="name">cute bt21 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable BT21 Wallpaper Collection for Fans</h1>
+                <p>Transform your device with adorable BT21 wallpapers! Featuring the lovable characters from the hit BTS-inspired project, these cute designs will brighten your screen and showcase your fandom. Perfect for any BT21 lover, our collection includes colorful patterns and charming illustrations that capture each character’s personality. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BT21 Wallpaper / BT21 Stickers / Cute Wallpaper for iOS and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/0b/a4/cd0ba4d38d437b456549660d743378cb.jpg' alt='BT21 Wallpaper / BT21 Stickers / Cute Wallpaper for iOS and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/0b/a4/cd0ba4d38d437b456549660d743378cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Bt21 Xoxo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-bt21-van-cuddle-yu1rrz8m3krgpfwe.webp' alt='Van Bt21 Xoxo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-bt21-van-cuddle-yu1rrz8m3krgpfwe.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bt21 All Characters Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-bt21-all-characters-pink-o8e4onoyff3n9e8w.jpg' alt='Cute Bt21 All Characters Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-bt21-all-characters-pink-o8e4onoyff3n9e8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute bt21 wallpaper | ARMY's Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6958/cb47f84960a839743b10a66ccd422862c6b1b742r1-540-960v2_uhq.jpg' alt='Cute bt21 wallpaper | ARMY's Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6958/cb47f84960a839743b10a66ccd422862c6b1b742r1-540-960v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BT21 Phone Wallpaper! | ARMY's Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6893/1c9b0ecf94884553cfde90e7b0e0f5fe951be634r1-750-1333v2_uhq.jpg' alt='BT21 Phone Wallpaper! | ARMY's Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6893/1c9b0ecf94884553cfde90e7b0e0f5fe951be634r1-750-1333v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pink bt21 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/b5/dc/a3b5dc583f0f939f82d86abf81ccc058.jpg' alt='Cute pink bt21 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/b5/dc/a3b5dc583f0f939f82d86abf81ccc058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BT21, credit to curator, cute, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/454/709/HD-wallpaper-bt21-credit-to-curator-cute.jpg' alt='BT21, credit to curator, cute, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/454/709/HD-wallpaper-bt21-credit-to-curator-cute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Cute Bt21 3d Space Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/cute-bt21-3d-space-tsimsbaooceib7ex.jpg' alt='Download free Cute Bt21 3d Space Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/cute-bt21-3d-space-tsimsbaooceib7ex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/eb/74/02eb748bd96d89713aa4e6bc2ec6a8c2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/eb/74/02eb748bd96d89713aa4e6bc2ec6a8c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confused Bt21 Characters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-kawaii-chimmy-and-cooky-bt21-8llzufdgeryws85f-2.webp' alt='Confused Bt21 Characters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-kawaii-chimmy-and-cooky-bt21-8llzufdgeryws85f-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

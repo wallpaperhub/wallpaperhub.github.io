@@ -1,0 +1,129 @@
+<title>Elegant Black Floral Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover stunning black floral wallpaper perfect for elevating your interior decor. Featuring vibrant patterns on a dark backdrop, this design adds a touch of elegance and depth to any room. Ideal for accent walls, it seamlessly blends with various styles, enhancing your space beautifully.">
+                    <meta name="keywords" content="floral wallpaper black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-black">
+                            <span itemprop="name">floral wallpaper black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Floral Wallpaper for Modern Spaces</h1>
+                <p>Floral wallpaper in black adds a chic and modern touch to any space. Its dark background highlights vibrant, detailed floral patterns, creating a beautiful contrast. Ideal for accent walls, it brings depth and sophistication to rooms from living areas to bedrooms. Transform your decor with this stunning design element.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' alt='Dark Floral II Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Floral Wallpaper Peel and Stick- 473" x 17.3" Farm Floral Wall  Wallpaper, Wildwood Wallpaper Daisy Flower Wallpaper Dark Floral Contact  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81EFgySFnCL.jpg' alt='JiffDiff Floral Wallpaper Peel and Stick- 473" x 17.3" Farm Floral Wall  Wallpaper, Wildwood Wallpaper Daisy Flower Wallpaper Dark Floral Contact  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81EFgySFnCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' alt='Dark Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral 18045 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.roomservice360.com/media/catalog/product/1/8/18045-01-dark-floral.jpg' alt='Dark Floral 18045 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="room service 360" />
+                                </span>
+                                <a href='https://www.roomservice360.com/media/catalog/product/1/8/18045-01-dark-floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 297087535 Voysey Black Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/233872.jpg' alt='A Street Prints 297087535 Voysey Black Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/233872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abundance">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1716565655/articles/FL0014DA30W_interior1.jpg' alt='Abundance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1716565655/articles/FL0014DA30W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick Black Rose  Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor 393.8'' x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91MhwTNrxOL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick Black Rose  Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor 393.8'' x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91MhwTNrxOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Self Adhesive Wallpaper - Dark Garden - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/12/black_floral_wallpaper_pattern.jpg' alt='Floral Self Adhesive Wallpaper - Dark Garden - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/12/black_floral_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/5/6554d5e227b53.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265' alt='Dark Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/5/6554d5e227b53.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Floral, Black - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1718364170/articles/R20697_interior1.jpg' alt='Bold Floral, Black - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1718364170/articles/R20697_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

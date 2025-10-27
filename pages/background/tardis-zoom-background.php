@@ -1,0 +1,129 @@
+<title>TARDIS Zoom Background: Travel Through Time in Style</title>
+                    <meta name="description" content="Enhance your virtual meetings with a TARDIS Zoom background! Perfect for Doctor Who fans, this backdrop adds charm and creativity to your calls. Transform your space into a time-traveling adventure and impress colleagues and friends alike. Download now for a unique Zoom experience!">
+                    <meta name="keywords" content="tardis zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tardis-zoom-background">
+                            <span itemprop="name">tardis zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TARDIS Zoom Background: Travel Through Time in Style</h1>
+                <p>The TARDIS Zoom background brings the magic of Doctor Who to your virtual meetings. Transform your space into the iconic blue police box, making every call an adventure through time and space. Ideal for fans, this background adds a whimsical touch, providing a perfect blend of nostalgia and creativity. Stand out while you connect!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy720000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy720000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom backgrounds from the Doctor Who's TARDIS and other BBC sets ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/3/2020/05/Tardis-667f240.jpg' alt='Zoom backgrounds from the Doctor Who's TARDIS and other BBC sets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="1434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radio Times" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/3/2020/05/Tardis-667f240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy6u0000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy6u0000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy750000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2303">
+                                <meta itemprop="height" content="1544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy750000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host Your Zoom Video Calls from Inside the TARDIS! – The Doctor ...">
+                                <img itemprop="contentUrl url" src='https://thedoctorwhocompanion.com/wp-content/uploads/2020/05/TARDIS-interior-9th-10th.jpg' alt='Host Your Zoom Video Calls from Inside the TARDIS! – The Doctor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Doctor Who Companion" />
+                                </span>
+                                <a href='https://thedoctorwhocompanion.com/wp-content/uploads/2020/05/TARDIS-interior-9th-10th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy740000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4575">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy740000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doctor Who Zoom Backgrounds: Make Your Next Call From The TARDIS">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/creating-tardis.jpg' alt='Doctor Who Zoom Backgrounds: Make Your Next Call From The TARDIS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/creating-tardis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Doctor Who Backgrounds for Virtual Meetings (Plus ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/images/ic/1280xn/p08cbwbk.jpg' alt='Download Free Doctor Who Backgrounds for Virtual Meetings (Plus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Open Culture" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/images/ic/1280xn/p08cbwbk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/2022-02/2fy700000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1660">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/2022-02/2fy700000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a video call from the TARDIS! | Doctor Who">
+                                <img itemprop="contentUrl url" src='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy760000001000.jpg' alt='Host a video call from the TARDIS! | Doctor Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2437">
+                                <meta itemprop="height" content="1722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doctor Who" />
+                                </span>
+                                <a href='https://cms.doctorwho.tv/sites/default/files/inline-images/2fy760000001000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

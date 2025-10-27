@@ -1,0 +1,129 @@
+<title>Origin of the Name Mason: Meaning & History</title>
+                    <meta name="description" content="Discover the origins of the name Mason, tracing back to its roots in stonemasonry. Explore its meaning and significance, highlighting its evolution from a skilled trade to a popular name. Ideal for those interested in names with rich historical backgrounds.">
+                    <meta name="keywords" content="where does the name mason come from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-does-the-name-mason-come-from">
+                            <span itemprop="name">where does the name mason come from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Origin of the Name Mason: Meaning & History</h1>
+                <p>The name "Mason" has origins in the Old French word "masson," meaning "stone worker" or "builder." It was initially a surname for skilled artisans who worked with stone. The name has historical roots in the Middle Ages, associated with the stonemasonry trade, and over time evolved into a popular given name, symbolizing craftsmanship and strength.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Name Meaning, Family History, Family Crest & Coats of Arms">
+                                <img itemprop="contentUrl url" src='https://www.houseofnames.com/dpreview/MASON/EN/Mason/family-crest-coat-of-arms.png' alt='Mason Name Meaning, Family History, Family Crest & Coats of Arms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HouseOfNames" />
+                                </span>
+                                <a href='https://www.houseofnames.com/dpreview/MASON/EN/Mason/family-crest-coat-of-arms.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Name Meaning, Origin, Popularity, Boy Names Like Mason ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/boys/m/mason-name-meaning-baby-boy-h.gif' alt='Mason Name Meaning, Origin, Popularity, Boy Names Like Mason ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/boys/m/mason-name-meaning-baby-boy-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Name Meaning and Mason Family History at FamilySearch">
+                                <img itemprop="contentUrl url" src='https://www.familysearch.org/service/home/fig/lang/en/surname/v4/Mason.png' alt='Mason Name Meaning and Mason Family History at FamilySearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://www.familysearch.org/service/home/fig/lang/en/surname/v4/Mason.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Family Crest, Coat of Arms and Name History">
+                                <img itemprop="contentUrl url" src='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-nocrest-1.png' alt='Mason Family Crest, Coat of Arms and Name History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COADB.com" />
+                                </span>
+                                <a href='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-nocrest-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Family Crest, Coat of Arms and Name History">
+                                <img itemprop="contentUrl url" src='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-withcrest-13.png' alt='Mason Family Crest, Coat of Arms and Name History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COADB.com" />
+                                </span>
+                                <a href='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-withcrest-13.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason: Name Meaning, Origin, Popularity">
+                                <img itemprop="contentUrl url" src='https://www.parents.com/thmb/TIy-FAY93n44pNHWnq6miDtXEUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CopyofTop1000Names20-c63306d3aeb04f18845d298a7b2021c4.png' alt='Mason: Name Meaning, Origin, Popularity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parents" />
+                                </span>
+                                <a href='https://www.parents.com/thmb/TIy-FAY93n44pNHWnq6miDtXEUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CopyofTop1000Names20-c63306d3aeb04f18845d298a7b2021c4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meaning, origin and history of the name Mason - Behind the Name">
+                                <img itemprop="contentUrl url" src='https://www.behindthename.com/imagebank/images/mason.jpg' alt='Meaning, origin and history of the name Mason - Behind the Name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behind the Name" />
+                                </span>
+                                <a href='https://www.behindthename.com/imagebank/images/mason.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Name Meaning, Family History, Family Crest & Coats of Arms ...">
+                                <img itemprop="contentUrl url" src='https://www.houseofnames.com/dpreview/MASI/IT/Mason/family-crest-coat-of-arms.png' alt='Mason Name Meaning, Family History, Family Crest & Coats of Arms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HouseOfNames" />
+                                </span>
+                                <a href='https://www.houseofnames.com/dpreview/MASI/IT/Mason/family-crest-coat-of-arms.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name of the Week: Mason - British Baby Names">
+                                <img itemprop="contentUrl url" src='https://www.britishbabynames.com/.a/6a014e87d88579970d01b8d286f3a3970c-550wi' alt='Name of the Week: Mason - British Baby Names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Baby Names" />
+                                </span>
+                                <a href='https://www.britishbabynames.com/.a/6a014e87d88579970d01b8d286f3a3970c-550wi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Family Crest, Coat of Arms and Name History">
+                                <img itemprop="contentUrl url" src='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-withcrest-15.png' alt='Mason Family Crest, Coat of Arms and Name History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COADB.com" />
+                                </span>
+                                <a href='https://d2pzb3b6cafvxw.cloudfront.net/mason/middle_images/mason-withcrest-15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

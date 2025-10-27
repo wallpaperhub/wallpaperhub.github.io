@@ -1,0 +1,129 @@
+<title>“Unleashing Chaos: The Suicide Squad Explained”</title>
+                    <meta name="description" content="Discover the world of the Suicide Squad, a team of antiheroes tasked with daring missions and moral dilemmas. Explore the complex dynamics and explosive action that make this unique ensemble captivating. Join the chaos and learn more about these iconic characters today!">
+                    <meta name="keywords" content="suicide squad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/suicide-squad">
+                            <span itemprop="name">suicide squad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Unleashing Chaos: The Suicide Squad Explained”</h1>
+                <p>Suicide Squad features an unpredictable team of antiheroes, including iconic characters like Harley Quinn, Deadshot, and The Joker. Tasked with high-risk missions, these outcasts challenge moral boundaries while providing explosive action and dark humor. Their chaotic dynamics and complex stories make for a thrilling cinematic experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad (2016) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_FMjpg_UX1000_.jpg' alt='Suicide Squad (2016) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Suicide Squad, explained | Polygon">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13077225/Suicide-Squad-Cast-Photo-Costumes.0.0.1487739379.jpg?quality=90&strip=all&crop=9.9853515625,0,80.029296875,100' alt='The Suicide Squad, explained | Polygon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="1639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13077225/Suicide-Squad-Cast-Photo-Costumes.0.0.1487739379.jpg?quality=90&strip=all&crop=9.9853515625,0,80.029296875,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Suicide Squad (2021) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Suicide Squad (2021) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad: The Main Characters Ranked By Power & Influence">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/A-collage-of-the-faces-of-Killer-Croc-Diablo-Captain-Boomerang-Harley-Quinn-Deadshot-Joker-and-Enchantress-from-their-Suicide-Squad-character-posters.jpg' alt='Suicide Squad: The Main Characters Ranked By Power & Influence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/A-collage-of-the-faces-of-Killer-Croc-Diablo-Captain-Boomerang-Harley-Quinn-Deadshot-Joker-and-Enchantress-from-their-Suicide-Squad-character-posters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad' Members: Who's Who">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2016/07/15-suicide-squad.jpg?w=700' alt='Suicide Squad' Members: Who's Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2016/07/15-suicide-squad.jpg?w=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Margot Robbie and More Suicide Squad Stars Returning for James ...">
+                                <img itemprop="contentUrl url" src='http://media.vanityfair.com/photos/5d7d1fc4f5a0580008e62d42/master/pass/suicide-squad-2-margot-robbie.jpg' alt='Margot Robbie and More Suicide Squad Stars Returning for James ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='http://media.vanityfair.com/photos/5d7d1fc4f5a0580008e62d42/master/pass/suicide-squad-2-margot-robbie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81NyY90J0fL._AC_UF894,1000_QL80_.jpg' alt='Suicide Squad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81NyY90J0fL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Squad Character Profiles">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/ipNRECOL0qyGjiq8oOLjrlJCpFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/00000055-the-squad-c3226384745d45e9b6bf67b0da6d83b0.jpg' alt='Suicide Squad Character Profiles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/ipNRECOL0qyGjiq8oOLjrlJCpFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/00000055-the-squad-c3226384745d45e9b6bf67b0da6d83b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New 'Suicide Squad' TV Spots Assemble the Worst of the Worst">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/442/files/2016/06/Suicide-Squad-characters-1.jpg?w=780&q=75' alt='New 'Suicide Squad' TV Spots Assemble the Worst of the Worst'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banana 101.5" />
+                                </span>
+                                <a href='https://townsquare.media/site/442/files/2016/06/Suicide-Squad-characters-1.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who's Who in The Suicide Squad: A Character Guide">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/7cf/6ac/4754a78c5d16f70990b2037cae93bb7993-suicide-squad-character-lede.rsquare.w400.jpg' alt='Who's Who in The Suicide Squad: A Character Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/7cf/6ac/4754a78c5d16f70990b2037cae93bb7993-suicide-squad-character-lede.rsquare.w400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

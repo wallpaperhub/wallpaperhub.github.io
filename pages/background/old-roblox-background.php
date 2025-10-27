@@ -1,0 +1,129 @@
+<title>Explore the Nostalgia of Old Roblox Backgrounds</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="old roblox background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-roblox-background">
+                            <span itemprop="name">old roblox background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Nostalgia of Old Roblox Backgrounds</h1>
+                <p>Old Roblox backgrounds hold a nostalgic charm for many players. These classic designs reflect the simplest era of Roblox, filled with vibrant colors and pixel art. They evoke memories of early game experiences and the creativity of passionate developers. Revisiting these backgrounds allows both new and veteran players to appreciate the platform’s evolution.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/87/3f/c7873f08775f9bec67b9e218f41eca2e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/87/3f/c7873f08775f9bec67b9e218f41eca2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old roblox baseplat, nostolagia, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/781/789/HD-wallpaper-old-roblox-baseplat-nostolagia.jpg' alt='Old roblox baseplat, nostolagia, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/781/789/HD-wallpaper-old-roblox-baseplat-nostolagia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/6c/4b/546c4b3d7cec2f6bff31d0f050737928.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/6c/4b/546c4b3d7cec2f6bff31d0f050737928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crossroads Background for Roblox! (Low Quality) — UserStyles.world">
+                                <img itemprop="contentUrl url" src='https://userstyles.world/preview/2606/0.jpeg' alt='Crossroads Background for Roblox! (Low Quality) — UserStyles.world'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UserStyles.world" />
+                                </span>
+                                <a href='https://userstyles.world/preview/2606/0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feedback on my Classic Roblox creation? - Creations Feedback ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/3/4/f/34f491b9f09efce10752ac2f297f543ca032861f.jpeg' alt='Feedback on my Classic Roblox creation? - Creations Feedback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/3/4/f/34f491b9f09efce10752ac2f297f543ca032861f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Roblox Wallpaper (web.roblox.com) | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://userstyles.org/style_screenshots/220071_after.png?r=1739062806' alt='Old Roblox Wallpaper (web.roblox.com) | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://userstyles.org/style_screenshots/220071_after.png?r=1739062806' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Classic Roblox Baseplate">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1665730758165153712/32CB974CED18896BA62F6E4C0F89261290F30C1D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Classic Roblox Baseplate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1665730758165153712/32CB974CED18896BA62F6E4C0F89261290F30C1D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old ROBLOX Avatar Editor Background - Roblox">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-1b85fee8e214210fb3fbe9b492481200/500/280/Image/Jpeg/noFilter' alt='Old ROBLOX Avatar Editor Background - Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roblox" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-1b85fee8e214210fb3fbe9b492481200/500/280/Image/Jpeg/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found the game from that Roblox wallpaper! It's called Block ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-found-the-game-from-that-roblox-wallpaper-its-called-v0-4qbt8wvrggsb1.png?width=1905&format=png&auto=webp&s=e4fa9af26c60dac96079920d4b7365bbfba0ce8c' alt='I found the game from that Roblox wallpaper! It's called Block ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1905">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-found-the-game-from-that-roblox-wallpaper-its-called-v0-4qbt8wvrggsb1.png?width=1905&format=png&auto=webp&s=e4fa9af26c60dac96079920d4b7365bbfba0ce8c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Skybox Background [Classic] - Roblox">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-3f61069b8cc4808f53168c43dcfccc6a/420/420/Hat/Png/noFilter' alt='Retro Skybox Background [Classic] - Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roblox" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-3f61069b8cc4808f53168c43dcfccc6a/420/420/Hat/Png/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

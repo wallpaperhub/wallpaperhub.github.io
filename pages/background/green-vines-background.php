@@ -1,0 +1,129 @@
+<title>Vibrant Green Vines Background: Nature's Touch</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="green vines background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-vines-background">
+                            <span itemprop="name">green vines background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Vines Background: Nature's Touch</h1>
+                <p>Immerse yourself in the beauty of nature with a stunning green vines background. Perfect for adding a touch of freshness and tranquility to any space, these lush vines create a serene atmosphere. Ideal for wallpapers, website designs, or as a creative backdrop, the vibrant greens evoke feelings of growth and harmony.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AS CREATION Strippable Hedera Green Painterly Vine Wallpaper AS370441">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8862843e-8148-4f7a-914d-12889fb7dfca/svn/as-creation-wallpaper-rolls-as370441-64_600.jpg' alt='AS CREATION Strippable Hedera Green Painterly Vine Wallpaper AS370441'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8862843e-8148-4f7a-914d-12889fb7dfca/svn/as-creation-wallpaper-rolls-as370441-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Ewald Green Garden Vines Wallpaper Sample 2932-65121SAM -  The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/07b68854-547c-47ed-aaae-f0c3e2d24f5d/svn/wallpaper-samples-2932-65121sam-64_1000.jpg' alt='A-Street Prints Ewald Green Garden Vines Wallpaper Sample 2932-65121SAM -  The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/07b68854-547c-47ed-aaae-f0c3e2d24f5d/svn/wallpaper-samples-2932-65121sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Green Vines Wallpaper — E.Lamb Studio">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e8cef24d3d5ba030116ba72/1677800350215-OYWTWR4HJRZGGG6QQU1Z/paintedvine_sagepatternswatch+copy.jpg?format=1000w' alt='Painted Green Vines Wallpaper — E.Lamb Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E.Lamb Studio" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e8cef24d3d5ba030116ba72/1677800350215-OYWTWR4HJRZGGG6QQU1Z/paintedvine_sagepatternswatch+copy.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picture of Moody Green Vine Wall Texture — Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://burst.shopifycdn.com/photos/moody-green-vine-wall-texture.jpg?exif=0&iptc=0' alt='Picture of Moody Green Vine Wall Texture — Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4636">
+                                <meta itemprop="height" content="3091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopify" />
+                                </span>
+                                <a href='https://burst.shopifycdn.com/photos/moody-green-vine-wall-texture.jpg?exif=0&iptc=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cascading Vines Wallpaper in Green – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/396971-thumbnail.webp?crop=center&height=850&v=1725973363&width=850' alt='Cascading Vines Wallpaper in Green – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/396971-thumbnail.webp?crop=center&height=850&v=1725973363&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Vine Background" Images – Browse 9 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/37/24/37/360_F_437243723_Vnv9Wx52eVuya1DSnxOClqsuBJDAtLmE.jpg' alt='Green Vine Background" Images – Browse 9 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/37/24/37/360_F_437243723_Vnv9Wx52eVuya1DSnxOClqsuBJDAtLmE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vines and ivy background with climbing leaves in green on a pastel ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/36/50/11/1000_F_236501169_6mf1EIrMgbcbMPiirzA54pWOnvPIHXWD.jpg' alt='vines and ivy background with climbing leaves in green on a pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/36/50/11/1000_F_236501169_6mf1EIrMgbcbMPiirzA54pWOnvPIHXWD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanging Watercolor Vines Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK12060RLex.jpg?v=1640721126' alt='Hanging Watercolor Vines Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK12060RLex.jpg?v=1640721126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless dark mystery green leaves vine plant in layers pattern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/726/133/non_2x/seamless-dark-mystery-green-leaves-vine-plant-in-layers-pattern-floral-leaf-on-brunch-for-wallpaper-wrapping-textile-printing-and-backgrounds-free-vector.jpg' alt='Seamless dark mystery green leaves vine plant in layers pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/726/133/non_2x/seamless-dark-mystery-green-leaves-vine-plant-in-layers-pattern-floral-leaf-on-brunch-for-wallpaper-wrapping-textile-printing-and-backgrounds-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border or frame of green vine leaves on white wood background with ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2F97BE6/border-or-frame-of-green-vine-leaves-on-white-wood-background-with-copy-space-2F97BE6.jpg' alt='Border or frame of green vine leaves on white wood background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2F97BE6/border-or-frame-of-green-vine-leaves-on-white-wood-background-with-copy-space-2F97BE6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Hiring Practices at Ace Hardware: Felons Welcome?</title>
+                    <meta name="description" content="Curious if Ace Hardware hires felons? Discover the policies and considerations that influence their hiring practices, offering potential job opportunities for those with criminal records seeking a fresh start in the workforce.">
+                    <meta name="keywords" content="does ace hardware hire felons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-ace-hardware-hire-felons">
+                            <span itemprop="name">does ace hardware hire felons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hiring Practices at Ace Hardware: Felons Welcome?</h1>
+                <p>Yes, Ace Hardware does consider hiring felons, but it depends on various factors such as the nature of the felony, the time elapsed since the conviction, and the specific job role. Each application is assessed individually, offering opportunities for rehabilitation and reintegration into the workforce.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Getting hired as a felon : r/okc">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/getting-hired-as-a-felon-v0-5es566xblxge1.jpeg?width=1179&format=pjpg&auto=webp&s=ecd3063b4a5c99cb7f445ff43228ea06ac0aea1d' alt='Getting hired as a felon : r/okc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/getting-hired-as-a-felon-v0-5es566xblxge1.jpeg?width=1179&format=pjpg&auto=webp&s=ecd3063b4a5c99cb7f445ff43228ea06ac0aea1d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Companies that hire felons. : r/Atlantology">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/companies-that-hire-felons-v0-uwtb221kwspd1.jpeg?width=640&crop=smart&auto=webp&s=f48b534265681470c6ad3025f78961d708aaa305' alt='Companies that hire felons. : r/Atlantology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/companies-that-hire-felons-v0-uwtb221kwspd1.jpeg?width=640&crop=smart&auto=webp&s=f48b534265681470c6ad3025f78961d708aaa305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resume & Career Readiness |                                      ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3507876036141144299' alt='Resume & Career Readiness |                                      ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3507876036141144299' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone asked about felon friendly employers. Here is a list.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=612809545059860' alt='Someone asked about felon friendly employers. Here is a list.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=612809545059860' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I don't know how accurate this is, posting it just in case it's ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ml8rbuxqzf6e1.jpeg' alt='I don't know how accurate this is, posting it just in case it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ml8rbuxqzf6e1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shari - Here's an updated list of the companies that hire felons ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3992279781043469' alt='Shari - Here's an updated list of the companies that hire felons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3992279781043469' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ace Hardware's Hiring Policy on Felons: An In-Depth Look ...">
+                                <img itemprop="contentUrl url" src='https://www.marketingscoop.com/wp-content/uploads/2024/04/20240419052828-662200fcc05c8.jpg' alt='Ace Hardware's Hiring Policy on Felons: An In-Depth Look ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marketing Scoop" />
+                                </span>
+                                <a href='https://www.marketingscoop.com/wp-content/uploads/2024/04/20240419052828-662200fcc05c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please share with those that are in need of employment. This is a short  list but there are so many more jobs that hire felons. Keep pushing  thru      ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3496139429728562366' alt='Please share with those that are in need of employment. This is a short  list but there are so many more jobs that hire felons. Keep pushing  thru      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3496139429728562366' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Companies That Hire Felons">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/704/files/2024/11/attachment-GettyImages-1424336273.jpg?w=5840&q=75' alt='New York Companies That Hire Felons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRRV" />
+                                </span>
+                                <a href='https://townsquare.media/site/704/files/2024/11/attachment-GettyImages-1424336273.jpg?w=5840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felony Friendly Companies! : r/probation">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/felony-friendly-companies-v0-pejvsjs86cba1.jpg?width=1080&crop=smart&auto=webp&s=43b0c212edd307f6a3812b4675ddf3caceeb4d73' alt='Felony Friendly Companies! : r/probation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/felony-friendly-companies-v0-pejvsjs86cba1.jpg?width=1080&crop=smart&auto=webp&s=43b0c212edd307f6a3812b4675ddf3caceeb4d73' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

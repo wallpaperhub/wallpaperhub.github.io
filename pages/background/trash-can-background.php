@@ -1,0 +1,129 @@
+<title>Creative Trash Can Backgrounds for Eco-Friendly Designs</title>
+                    <meta name="description" content="Explore innovative trash can backgrounds to enhance your eco-friendly design projects. Perfect for promoting waste management awareness, these backgrounds will engage and inspire audiences about responsible disposal practices. Ideal for educational materials and marketing campaigns focused on sustainability.">
+                    <meta name="keywords" content="trash can background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trash-can-background">
+                            <span itemprop="name">trash can background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Trash Can Backgrounds for Eco-Friendly Designs</h1>
+                <p>Trash can backgrounds are essential elements in design, bringing attention to waste management themes. Whether you're creating educational material or promoting eco-friendly practices, a stylish trash can background can elevate your message. Use visually striking designs to inspire responsible disposal and a cleaner environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="trash can garbage rubbish dustbin outside brick wall background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/72/57/55/1000_F_72575504_Scu96cLHkzrfbQz5L7WBDTDrBskU7jXP.jpg' alt='trash can garbage rubbish dustbin outside brick wall background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/72/57/55/1000_F_72575504_Scu96cLHkzrfbQz5L7WBDTDrBskU7jXP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trash Can Trashcan Dustbin Garbage Rubbish Stock Photo 391513393 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/trash-can-trashcan-dustbin-garbage-260nw-391513393.jpg' alt='Trash Can Trashcan Dustbin Garbage Rubbish Stock Photo 391513393 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="382">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/trash-can-trashcan-dustbin-garbage-260nw-391513393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trash can seamless pattern wheelie bin background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/98/46/trash-can-seamless-pattern-wheelie-bin-background-vector-16229846.jpg' alt='Trash can seamless pattern wheelie bin background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/98/46/trash-can-seamless-pattern-wheelie-bin-background-vector-16229846.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garbage Can Full Stock Illustrations – 4,301 Garbage Can Full ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/please-download-png-file-high-quality-transparent-background-ai-generated-old-garbage-can-full-garbage-isolated-338767877.jpg' alt='Garbage Can Full Stock Illustrations – 4,301 Garbage Can Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/please-download-png-file-high-quality-transparent-background-ai-generated-old-garbage-can-full-garbage-isolated-338767877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macro Photo Trash Containers Texture Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1413175133/display_1500/stock-photo-macro-photo-of-trash-containers-texture-background-iron-dumpster-containers-filled-with-trash-cans-1413175133.jpg' alt='Macro Photo Trash Containers Texture Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1413175133/display_1500/stock-photo-macro-photo-of-trash-containers-texture-background-iron-dumpster-containers-filled-with-trash-cans-1413175133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,500+ Full Garbage Can Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/985883808/photo/garbage-on-white-background.jpg?s=612x612&w=0&k=20&c=9ESqJmKFLUthyBrjzx-KFd17-ywL4uKb2NMnn6I2V4w=' alt='7,500+ Full Garbage Can Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/985883808/photo/garbage-on-white-background.jpg?s=612x612&w=0&k=20&c=9ESqJmKFLUthyBrjzx-KFd17-ywL4uKb2NMnn6I2V4w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trash Can Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/trash-can-background-dk6xa63jb1o5z521.jpg' alt='100+] Trash Can Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/trash-can-background-dk6xa63jb1o5z521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trash can trashcan dustbin garbage rubbish bin background waste round  outside in street against brick wall with brick copy space">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/trash-can-trashcan-dustbin-garbage-rubbish-bin-background-waste-round-outside-street-against-brick-wall-brick-copy-space-148722376.jpg?w=400' alt='Trash can trashcan dustbin garbage rubbish bin background waste round  outside in street against brick wall with brick copy space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/trash-can-trashcan-dustbin-garbage-rubbish-bin-background-waste-round-outside-street-against-brick-wall-brick-copy-space-148722376.jpg?w=400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Cute Trash Cans Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1828200520/vector/funny-trash-can-cartoon-illustration.jpg?s=612x612&w=0&k=20&c=v7ixBcu6u0I2RM41L0MNrxqoN3NlEr651BZadvXnD44=' alt='1,000+ Cute Trash Cans Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1828200520/vector/funny-trash-can-cartoon-illustration.jpg?s=612x612&w=0&k=20&c=v7ixBcu6u0I2RM41L0MNrxqoN3NlEr651BZadvXnD44=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open trash can on white background — Stock Photo © mipan #94852636">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1323882/9485/i/950/depositphotos_94852636-stock-photo-open-trash-can-on-white.jpg' alt='Open trash can on white background — Stock Photo © mipan #94852636'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1323882/9485/i/950/depositphotos_94852636-stock-photo-open-trash-can-on-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

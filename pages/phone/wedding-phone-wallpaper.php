@@ -1,0 +1,129 @@
+<title>Elegant Wedding Phone Wallpapers for Your Special Day</title>
+                    <meta name="description" content="Discover a stunning collection of wedding phone wallpapers that capture the magic of your special day. Perfect for showcasing love and romance, these designs add charm to your device. Personalize your phone with beautiful images and celebrate your wedding memories every time you unlock your screen!">
+                    <meta name="keywords" content="wedding phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wedding-phone-wallpaper">
+                            <span itemprop="name">wedding phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Wedding Phone Wallpapers for Your Special Day</h1>
+                <p>Wedding phone wallpapers are beautifully designed images capturing the essence of love and celebration. From stunning floral arrangements to breathtaking venues, these wallpapers serve as a daily reminder of your special day. Customize your smartphone's look with romantic themes that inspire joy and happiness, perfect for any couple!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 Wedding Wallpapers ideas | wedding, iphone wallpaper, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d6/b3/07/d6b307d39e4ff7a4d8a7d8685b353a7e.jpg' alt='87 Wedding Wallpapers ideas | wedding, iphone wallpaper, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d6/b3/07/d6b307d39e4ff7a4d8a7d8685b353a7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpapers For The Newly-Engaged Bride!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/ae/37/c4ae370ec510bbcf07e31b9ed6daac56.jpg' alt='Free iPhone Wallpapers For The Newly-Engaged Bride!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/ae/37/c4ae370ec510bbcf07e31b9ed6daac56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Rwiien on My Saves in 2021 | Floral wallpaper phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/8a/41/308a41f505293912a91509cec477309b.jpg' alt='Pin by Rwiien on My Saves in 2021 | Floral wallpaper phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/8a/41/308a41f505293912a91509cec477309b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Ring Wallpapers (55 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/1/1/2338946-1080x1920-phone-1080p-wedding-ring-background-image.jpg' alt='Wedding Ring Wallpapers (55 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/1/1/2338946-1080x1920-phone-1080p-wedding-ring-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wedding Day Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/27/ae/c027ae89333915c34767ac74b6fbc15f.jpg' alt='Free Wedding Day Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/27/ae/c027ae89333915c34767ac74b6fbc15f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Bride and groom phone wallpaper, wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/f2/40/39f240f01302e3823cb1b4db6030cb78.jpg' alt='Download premium image of Bride and groom phone wallpaper, wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/f2/40/39f240f01302e3823cb1b4db6030cb78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Flowers Border Phone Wallpaper, Beige Textured Background ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWMtYm9yZGVyLTAwMmItMDEtbGRiZjV1NTUuanBn.jpg' alt='Wedding Flowers Border Phone Wallpaper, Beige Textured Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWMtYm9yZGVyLTAwMmItMDEtbGRiZjV1NTUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver-colored wedding bands, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/564/133/HD-wallpaper-silver-colored-wedding-bands.jpg' alt='Silver-colored wedding bands, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/564/133/HD-wallpaper-silver-colored-wedding-bands.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful wedding colors">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/7d/43/db7d436e40e7533224d451f0fc370d73.jpg' alt='beautiful wedding colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/7d/43/db7d436e40e7533224d451f0fc370d73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Wedding" wallpapers for mobile phone, free "Wedding" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/62/623022fdb0a94ad3458d8b4ef5d1e232.jpeg' alt='Download "Wedding" wallpapers for mobile phone, free "Wedding" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/62/623022fdb0a94ad3458d8b4ef5d1e232.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

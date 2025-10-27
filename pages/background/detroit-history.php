@@ -1,0 +1,129 @@
+<title>Explore the Rich History of Detroit</title>
+                    <meta name="description" content="Discover Detroit's captivating history, from its 1701 founding to its role in the automobile industry. Learn about the city's vibrant culture, enduring landmarks, and transformation in modern times. Uncover how Detroit shaped America's social and economic landscape.">
+                    <meta name="keywords" content="detroit history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/detroit-history">
+                            <span itemprop="name">detroit history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of Detroit</h1>
+                <p>Detroit, founded in 1701 by Antoine Laumet de La Mothe, is a city rich in history. Known as the Motor City, it revolutionized the automobile industry in the early 20th century. Detroit's vibrant culture includes Motown music and significant contributions to civil rights. Today, the city is transforming, balancing its storied past with a hopeful future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Detroit - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Detroit_1818_Hurd-Martin_1906.jpg/250px-Detroit_1818_Hurd-Martin_1906.jpg' alt='History of Detroit - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Detroit_1818_Hurd-Martin_1906.jpg/250px-Detroit_1818_Hurd-Martin_1906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Detroit - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Campus_Martius%2C_Detroit%2C_MI.jpg/220px-Campus_Martius%2C_Detroit%2C_MI.jpg' alt='History of Detroit - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Campus_Martius%2C_Detroit%2C_MI.jpg/220px-Campus_Martius%2C_Detroit%2C_MI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Detroit - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Detroit_1908_Hurd-Martin_1907.jpeg/250px-Detroit_1908_Hurd-Martin_1907.jpeg' alt='History of Detroit - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Detroit_1908_Hurd-Martin_1907.jpeg/250px-Detroit_1908_Hurd-Martin_1907.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forgetting Machine: Notes Toward a History of Detroit">
+                                <img itemprop="contentUrl url" src='https://placesjournal.org/wp-content/uploads/2012/01/Herron-02-Detroit.jpg' alt='Forgetting Machine: Notes Toward a History of Detroit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Places Journal" />
+                                </span>
+                                <a href='https://placesjournal.org/wp-content/uploads/2012/01/Herron-02-Detroit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detroit: Historical and Cultural Issues">
+                                <img itemprop="contentUrl url" src='https://project.geo.msu.edu/geogmich/images/Hudsons1911.gif' alt='Detroit: Historical and Cultural Issues'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan State University" />
+                                </span>
+                                <a href='https://project.geo.msu.edu/geogmich/images/Hudsons1911.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travel Detroit, Michigan (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='http://home.nps.gov/common/uploads/grid_builder/traveldetroit/crop16_9/138CA291-D686-EE6B-35F9A804B69A2B59.jpg?width=1300&quality=90&mode=crop' alt='Travel Detroit, Michigan (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='http://home.nps.gov/common/uploads/grid_builder/traveldetroit/crop16_9/138CA291-D686-EE6B-35F9A804B69A2B59.jpg?width=1300&quality=90&mode=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Places of Labor History in Detroit (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/articles/000/images/POSTCARD_New_Michigan_Central_Station_circa_1915.jpg?maxwidth=650&autorotate=false' alt='Places of Labor History in Detroit (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/articles/000/images/POSTCARD_New_Michigan_Central_Station_circa_1915.jpg?maxwidth=650&autorotate=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Detroit - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Griswold_looking_south_from_Michigan_Detroit_c1910.jpg/220px-Griswold_looking_south_from_Michigan_Detroit_c1910.jpg' alt='History of Detroit - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Griswold_looking_south_from_Michigan_Detroit_c1910.jpg/220px-Griswold_looking_south_from_Michigan_Detroit_c1910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="C-SPAN to feature Detroit history in upcoming broadcasts">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/presto/2018/07/23/PDTF/fc2d0b3e-84ad-4b08-a520-a043c54a73c6-Vintage_Detroit_Tony_Spina_12.JPG' alt='C-SPAN to feature Detroit history in upcoming broadcasts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4233">
+                                <meta itemprop="height" content="2565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Detroit Free Press" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/presto/2018/07/23/PDTF/fc2d0b3e-84ad-4b08-a520-a043c54a73c6-Vintage_Detroit_Tony_Spina_12.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detroit History | The Real Woodstock Story">
+                                <img itemprop="contentUrl url" src='http://woodstockstory.com/wp-content/uploads/2015/03/detroit-history.png' alt='Detroit History | The Real Woodstock Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Real Woodstock Story |" />
+                                </span>
+                                <a href='http://woodstockstory.com/wp-content/uploads/2015/03/detroit-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

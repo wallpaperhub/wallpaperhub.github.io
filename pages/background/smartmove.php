@@ -1,0 +1,129 @@
+<title>Smartmove: Your Ultimate Moving Solution</title>
+                    <meta name="description" content="Discover Smartmove, the ultimate tool for simplifying your move. From planning to unpacking, enjoy a hassle-free experience with our innovative features that streamline the entire process. Save time, reduce stress, and make your next move the easiest one yet!">
+                    <meta name="keywords" content="smartmove">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smartmove">
+                            <span itemprop="name">smartmove</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smartmove: Your Ultimate Moving Solution</h1>
+                <p>Smartmove is a revolutionary system designed to streamline your moving process. It simplifies planning, packing, and relocating your belongings efficiently. With Smartmove, users can manage timelines, budgets, and logistics seamlessly, making moving less stressful and more organized. Enjoy a stress-free move with Smartmove!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Internet, Cable TV & Phone Service Offers | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.smartmove.us/img/content-images/logo-smartmove_tagline.png' alt='Get Internet, Cable TV & Phone Service Offers | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1520">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.smartmove.us" />
+                                </span>
+                                <a href='https://www.smartmove.us/img/content-images/logo-smartmove_tagline.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for SmartMove">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064817133435' alt='Profile for SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064817133435' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Tenant Screening | TransUnion">
+                                <img itemprop="contentUrl url" src='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' alt='SmartMove Tenant Screening | TransUnion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion" />
+                                </span>
+                                <a href='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TransUnion (SmartMove) – C.A.R. Business Products">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2510/5826/files/TransUnion_SmartMove_logo_480x480.png?v=1679791462' alt='TransUnion (SmartMove) – C.A.R. Business Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C.A.R. Business Products" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2510/5826/files/TransUnion_SmartMove_logo_480x480.png?v=1679791462' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TransUnion SmartMove">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063912947409' alt='TransUnion SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063912947409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Review — Pricing, Comparisons, and FAQs">
+                                <img itemprop="contentUrl url" src='https://www.thesmbguide.com/images/smartmove-1024x512-20190614.png' alt='SmartMove Review — Pricing, Comparisons, and FAQs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The SMB Guide" />
+                                </span>
+                                <a href='https://www.thesmbguide.com/images/smartmove-1024x512-20190614.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove (TransUnion) - Reviews, Pricing, Alternatives 2025">
+                                <img itemprop="contentUrl url" src='https://rentalrealestate.com/wp-content/uploads/transunion-smartmove-logo.jpg' alt='SmartMove (TransUnion) - Reviews, Pricing, Alternatives 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentalRealEstate" />
+                                </span>
+                                <a href='https://rentalrealestate.com/wp-content/uploads/transunion-smartmove-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smartmove - Motorista - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/wj9OP23yYIOHaaFpYKnWNJ1tN87HEFgJ0ooDF3g3ZfOZGydSuZ0Q1mbsFmv2dXi5rg=w240-h480-rw' alt='Smartmove - Motorista - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/wj9OP23yYIOHaaFpYKnWNJ1tN87HEFgJ0ooDF3g3ZfOZGydSuZ0Q1mbsFmv2dXi5rg=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smartmove Professional Mortgage Advisors | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQEiqP1JCuAjjA/feedshare-shrink_800/B56ZT4MFciGsAg-/0/1739330705733?e=2147483647&v=beta&t=W3TR4Nz5_4KHsO2JLYQMTKBLhyMknc3qO8nguoXdxsU' alt='Smartmove Professional Mortgage Advisors | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQEiqP1JCuAjjA/feedshare-shrink_800/B56ZT4MFciGsAg-/0/1739330705733?e=2147483647&v=beta&t=W3TR4Nz5_4KHsO2JLYQMTKBLhyMknc3qO8nguoXdxsU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Review — Pricing, Comparisons, and FAQs">
+                                <img itemprop="contentUrl url" src='https://www.thesmbguide.com/images/transunion-smartmove-affiliate-420x320-20220613.png' alt='SmartMove Review — Pricing, Comparisons, and FAQs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The SMB Guide" />
+                                </span>
+                                <a href='https://www.thesmbguide.com/images/transunion-smartmove-affiliate-420x320-20220613.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

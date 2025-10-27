@@ -1,0 +1,129 @@
+<title>Stunning Steven Universe Lapis Phone Wallpapers</title>
+                    <meta name="description" content="Discover beautiful Steven Universe Lapis Lazuli phone wallpapers that brighten your device with charm and color. Perfect for fans, these wallpapers create a striking backdrop while celebrating Lapis’s spirit. Download your favorites today and showcases your love for the show!">
+                    <meta name="keywords" content="steven universe phone wallpaper lapis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/steven-universe-phone-wallpaper-lapis">
+                            <span itemprop="name">steven universe phone wallpaper lapis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Steven Universe Lapis Phone Wallpapers</h1>
+                <p>Transform your phone with stunning Steven Universe wallpapers featuring Lapis Lazuli! Dive into the vibrant hues and captivating visuals that capture Lapis's unique personality and journey. Perfect for fans of the show, these wallpapers will bring a piece of Gem-world right to your pocket, making your device stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lapis lazuli wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/436/758/HD-wallpaper-lapis-lazuli.jpg' alt='HD lapis lazuli wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/436/758/HD-wallpaper-lapis-lazuli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers] Made a Lapis & Steven Wallpaper for my new S7 : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/74lzfgows1ux.png' alt='Wallpapers] Made a Lapis & Steven Wallpaper for my new S7 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/74lzfgows1ux.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lapis Lazuli - Steven Universe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/63/7e/40637e0118706c906e854cc8484ed40e.jpg' alt='Lapis Lazuli - Steven Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/63/7e/40637e0118706c906e854cc8484ed40e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lapis Lazuli : r/stevenuniverse">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xff1nwoc1nm61.jpg?width=640&crop=smart&auto=webp&s=5cf9c2b485ee288013ae5db57aa8a08e36c0b80e' alt='Lapis Lazuli : r/stevenuniverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xff1nwoc1nm61.jpg?width=640&crop=smart&auto=webp&s=5cf9c2b485ee288013ae5db57aa8a08e36c0b80e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lapis, bob, lapis lazuli, lappy, ocean, steven universe, su ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/430/561/HD-wallpaper-blue-lapis-bob-lapis-lazuli-lappy-ocean-steven-universe-su.jpg' alt='Blue Lapis, bob, lapis lazuli, lappy, ocean, steven universe, su ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/430/561/HD-wallpaper-blue-lapis-bob-lapis-lazuli-lappy-ocean-steven-universe-su.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lapis lazuli phone wallpaper • like/reblog if you save ♡ first ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/98d0c777902ab7eb4e465d59d110e42a/tumblr_p6vg8o8eJH1xpomclo1_400.jpg' alt='lapis lazuli phone wallpaper • like/reblog if you save ♡ first ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/98d0c777902ab7eb4e465d59d110e42a/tumblr_p6vg8o8eJH1xpomclo1_400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lapis lazuli Steven universe wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/1a/34/0a1a34d8b0c043259d5e8f890106b6dd.jpg' alt='Lapis lazuli Steven universe wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/1a/34/0a1a34d8b0c043259d5e8f890106b6dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Lapis Lazuli (Steven Universe)" wallpapers for mobile ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/50/5016c033e08cbe25623ae7eccdaa007f.jpeg' alt='Download "Lapis Lazuli (Steven Universe)" wallpapers for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/50/5016c033e08cbe25623ae7eccdaa007f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lapis Lazuli, cartoon, steven, universe, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/64/904/HD-wallpaper-lapis-lazuli-cartoon-steven-universe.jpg' alt='Lapis Lazuli, cartoon, steven, universe, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/64/904/HD-wallpaper-lapis-lazuli-cartoon-steven-universe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper of Steven and Lapis(1920x1080).Enjoy! : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/UqZysyLoqyYuLxsLKEj4mYxlLfePfqy1oSl-s35lW7Q.jpg?auto=webp&s=2a1b75509355a3d5618316073ce9ba5d5a0e5497' alt='Made a wallpaper of Steven and Lapis(1920x1080).Enjoy! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/UqZysyLoqyYuLxsLKEj4mYxlLfePfqy1oSl-s35lW7Q.jpg?auto=webp&s=2a1b75509355a3d5618316073ce9ba5d5a0e5497' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

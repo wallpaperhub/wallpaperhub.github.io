@@ -1,0 +1,129 @@
+<title>Cool Cristiano Ronaldo Wallpapers for Fans</title>
+                    <meta name="description" content="Discover an amazing collection of cool Cristiano Ronaldo wallpapers to personalize your device! From action shots to artistic designs, find the perfect wallpaper to showcase your love for the legendary soccer player. Download now to elevate your screen's style!">
+                    <meta name="keywords" content="cristiano ronaldo wallpaper cool">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/cristiano-ronaldo-wallpaper-cool">
+                            <span itemprop="name">cristiano ronaldo wallpaper cool</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Cristiano Ronaldo Wallpapers for Fans</h1>
+                <p>Elevate your device's aesthetic with stunning Cristiano Ronaldo wallpapers! Featuring iconic moments, vibrant colors, and dynamic poses, these cool wallpapers celebrate CR7's legendary status in football. Perfect for fans wanting to showcase their admiration for this soccer superstar, download your favorite design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/b/a/12377-1440x2560-mobile-hd-cristiano-ronaldo-background.jpg' alt='Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/b/a/12377-1440x2560-mobile-hd-cristiano-ronaldo-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Cristiano Ronaldo Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/31/e9/3631e9913257b8bf218c9338df2bd8c7.jpg' alt='4K Cristiano Ronaldo Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/31/e9/3631e9913257b8bf218c9338df2bd8c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Full HD Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/ec/47/6eec47e551d941344324b3c4c1d5bcfb.jpg' alt='Cristiano Ronaldo Full HD Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/ec/47/6eec47e551d941344324b3c4c1d5bcfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cristiano Ronaldo Cool Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cristiano-ronaldo-cool-red-and-green-design-n9z7tg32j5lzochb.jpg' alt='100+] Cristiano Ronaldo Cool Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cristiano-ronaldo-cool-red-and-green-design-n9z7tg32j5lzochb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Real Madrid Wallpapers by jafarjeef on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/408fd07f-2369-407d-a6db-724beb218ddc/d7j78t6-ddd98f1a-10b3-4769-a854-652f5dceef23.jpg/v1/fill/w_1024,h_646,q_75,strp/cristiano_ronaldo_real_madrid_wallpapers_by_jafarjeef_d7j78t6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNDA4ZmQwN2YtMjM2OS00MDdkLWE2ZGItNzI0YmViMjE4ZGRjXC9kN2o3OHQ2LWRkZDk4ZjFhLTEwYjMtNDc2OS1hODU0LTY1MmY1ZGNlZWYyMy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nTlG0n7aazr8nc5nT4u7vHv1jkfqzl_fS39fYRyKTGg' alt='Cristiano Ronaldo Real Madrid Wallpapers by jafarjeef on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/408fd07f-2369-407d-a6db-724beb218ddc/d7j78t6-ddd98f1a-10b3-4769-a854-652f5dceef23.jpg/v1/fill/w_1024,h_646,q_75,strp/cristiano_ronaldo_real_madrid_wallpapers_by_jafarjeef_d7j78t6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNDA4ZmQwN2YtMjM2OS00MDdkLWE2ZGItNzI0YmViMjE4ZGRjXC9kN2o3OHQ2LWRkZDk4ZjFhLTEwYjMtNDc2OS1hODU0LTY1MmY1ZGNlZWYyMy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nTlG0n7aazr8nc5nT4u7vHv1jkfqzl_fS39fYRyKTGg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portugal National Football Team - Cristiano Ronaldo HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/961/961878.jpg' alt='Portugal National Football Team - Cristiano Ronaldo HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/961/961878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Cristiano Ronaldo Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ronaldo-moment-wallpaper-scored-gawabg-600nw-2345528491.jpg' alt='25 Cristiano Ronaldo Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ronaldo-moment-wallpaper-scored-gawabg-600nw-2345528491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Ronaldo Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11598053.jpg' alt='Cool Ronaldo Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11598053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo HD wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.sportskeeda.com/wp-content/uploads/2016/08/cr7-1472215049-800.jpg' alt='Cristiano Ronaldo HD wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://statico.sportskeeda.com/wp-content/uploads/2016/08/cr7-1472215049-800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350 Best Ronaldo wallpaper ideas | ronaldo, ronaldo wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/fc/0a/8f/fc0a8f361089a8f6296c55c2a558e358.jpg' alt='350 Best Ronaldo wallpaper ideas | ronaldo, ronaldo wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/fc/0a/8f/fc0a8f361089a8f6296c55c2a558e358.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

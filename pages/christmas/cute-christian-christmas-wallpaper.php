@@ -1,0 +1,129 @@
+<title>Cute Christian Christmas Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover charming Christian Christmas wallpapers that celebrate the season's spirit. Perfect for personalizing your phone or computer, these delightful designs feature nativity scenes and uplifting scriptures. Add a touch of festive joy and inspiration to your digital space this holiday!">
+                    <meta name="keywords" content="cute christian christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/cute-christian-christmas-wallpaper">
+                            <span itemprop="name">cute christian christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Christian Christmas Wallpapers for Your Device</h1>
+                <p>Transform your device this Christmas with adorable Christian-themed wallpapers. Featuring joyful nativity scenes, festive scripture, and elegant designs, these cute Christmas wallpapers will inspire the holiday spirit. Perfect for all ages, they bring comfort and joy, reminding us of the true meaning of Christmas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper Jesus loves you">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/39/39/c339398890a73af4880d666a1dd0fdb9.jpg' alt='Christmas wallpaper Jesus loves you'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/39/39/c339398890a73af4880d666a1dd0fdb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/bb/86/5ebb86403c36c6f45edb404cb3672c58.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/bb/86/5ebb86403c36c6f45edb404cb3672c58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Christian Christmas wallpaper ideas | christian christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4a/17/96/4a179636e04c9a48527c2372a2baea0d.png' alt='13 Christian Christmas wallpaper ideas | christian christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4a/17/96/4a179636e04c9a48527c2372a2baea0d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,400+ Religious Christmas Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/456013987/vector/christian-christmas-night.jpg?s=612x612&w=0&k=20&c=09u_7LiDV_gaiTGecbRXc6N_RVYvYvHe-FK3MCcotzE=' alt='13,400+ Religious Christmas Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/456013987/vector/christian-christmas-night.jpg?s=612x612&w=0&k=20&c=09u_7LiDV_gaiTGecbRXc6N_RVYvYvHe-FK3MCcotzE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Scripture Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/christmas-scripture-jmzvbogzvnjb3bgs.jpg' alt='100+] Christmas Scripture Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/christmas-scripture-jmzvbogzvnjb3bgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Jesus Xmas PNG, Jesus Christmas PNG, Christian Cross">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/pinterest/4b676c5fc4e7b45a4e93c3c01107638982f9906ce6deec568fa630317ddd259f.jpg' alt='Merry Jesus Xmas PNG, Jesus Christmas PNG, Christian Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/pinterest/4b676c5fc4e7b45a4e93c3c01107638982f9906ce6deec568fa630317ddd259f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@blissfulmakingsco">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/59/b9/2459b9e1fbd1a5ce26a8398d99b9c24b.jpg' alt='@blissfulmakingsco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/59/b9/2459b9e1fbd1a5ce26a8398d99b9c24b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resting place, baby jesus, christian, christmas, cute christian ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/692/470/HD-wallpaper-resting-place-baby-jesus-christian-christmas-cute-christian-find-rest-in-thee-christian-jesus-luvujesus.jpg' alt='Resting place, baby jesus, christian, christmas, cute christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/692/470/HD-wallpaper-resting-place-baby-jesus-christian-christmas-cute-christian-find-rest-in-thee-christian-jesus-luvujesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0d/79/9a/0d799a2fcbfc05caf63fe5abffb39407.jpg' alt='Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0d/79/9a/0d799a2fcbfc05caf63fe5abffb39407.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2018/12/Christmas-Joy.jpg' alt='Christmas wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2018/12/Christmas-Joy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

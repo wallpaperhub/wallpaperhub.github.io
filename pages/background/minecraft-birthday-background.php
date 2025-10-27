@@ -1,0 +1,129 @@
+<title>Ultimate Minecraft Birthday Background Ideas</title>
+                    <meta name="description" content="Discover creative Minecraft birthday background ideas to elevate your celebration! From vibrant decorations to themed photo backdrops, make your party unforgettable for every Minecraft enthusiast. Perfect for a fun and immersive experience that brings your favorite game to life!">
+                    <meta name="keywords" content="minecraft birthday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-birthday-background">
+                            <span itemprop="name">minecraft birthday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Minecraft Birthday Background Ideas</h1>
+                <p>Celebrate your special day with a Minecraft-themed birthday background! Transform your party space into the pixelated world of Minecraft, featuring iconic elements like Creepers, blocks, and adorable animals. Perfect for any Minecraft fan, this backdrop will create unforgettable memories and vibrant photo opportunities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE EDITABLE – 11+ Awesome Minecraft Canva Birthday Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/75/e9/ed75e93f93867633c27120de4f75606e.jpg' alt='FREE EDITABLE – 11+ Awesome Minecraft Canva Birthday Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/75/e9/ed75e93f93867633c27120de4f75606e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Pink Girls Pixel Birthday Banner Personalized Party ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/97f1119c-e220-424d-9c6e-286092a05e05.3bd88847dde2eb0d49c0bed3859a5a41.jpeg' alt='Minecraft Pink Girls Pixel Birthday Banner Personalized Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/97f1119c-e220-424d-9c6e-286092a05e05.3bd88847dde2eb0d49c0bed3859a5a41.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Theme Birthday Party Complete Decoration Kit">
+                                <img itemprop="contentUrl url" src='http://thememyparty.in/cdn/shop/products/5_a1d7274e-50c3-45cd-9c22-cbba716ec853.jpg?v=1664443578' alt='Minecraft Theme Birthday Party Complete Decoration Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Theme My Party" />
+                                </span>
+                                <a href='http://thememyparty.in/cdn/shop/products/5_a1d7274e-50c3-45cd-9c22-cbba716ec853.jpg?v=1664443578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Birthday Party Backdrop and candy table. Black and green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/28/01/a0280126cf993b1fdd31a88f389fc0a0.jpg' alt='Minecraft Birthday Party Backdrop and candy table. Black and green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/28/01/a0280126cf993b1fdd31a88f389fc0a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft – Theme My Party">
+                                <img itemprop="contentUrl url" src='https://thememyparty.in/cdn/shop/products/1_91323ae1-d955-496e-a920-40af7defb5d5_600x.jpg?v=1664364207' alt='Minecraft – Theme My Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Theme My Party" />
+                                </span>
+                                <a href='https://thememyparty.in/cdn/shop/products/1_91323ae1-d955-496e-a920-40af7defb5d5_600x.jpg?v=1664364207' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Game YB Bn Birthday Banner Personalized Party Backdrop Decoration  60 x 44 Inches">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/54b62acf-d3bd-41c5-9a24-020b1d3a5b49.7ad250e322ae98cc18b207222d19f2b0.jpeg' alt='Minecraft Game YB Bn Birthday Banner Personalized Party Backdrop Decoration  60 x 44 Inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/54b62acf-d3bd-41c5-9a24-020b1d3a5b49.7ad250e322ae98cc18b207222d19f2b0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop birthday background minecraft for Sale on Shopee Philippines">
+                                <img itemprop="contentUrl url" src='https://cf.shopee.ph/file/ph-11134201-23030-hz3u2l6z4jov9d' alt='Shop birthday background minecraft for Sale on Shopee Philippines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopee Philippines" />
+                                </span>
+                                <a href='https://cf.shopee.ph/file/ph-11134201-23030-hz3u2l6z4jov9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Printable Minecraft Birthday Invitation Template – UPDATE!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/90/19/359019de71661d39994d676e0830d695.jpg' alt='FREE Printable Minecraft Birthday Invitation Template – UPDATE!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/90/19/359019de71661d39994d676e0830d695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft theme Tarpaulin design for Daniel's 10th Birthda… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5789/21630804533_809ac70941_z.jpg' alt='Minecraft theme Tarpaulin design for Daniel's 10th Birthda… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5789/21630804533_809ac70941_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Birthday Party Story - Down Redbud Drive">
+                                <img itemprop="contentUrl url" src='https://www.downredbuddrive.com/wp-content/uploads/2020/01/minecraft-birthday-16.jpg' alt='Minecraft Birthday Party Story - Down Redbud Drive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Down Redbud Drive" />
+                                </span>
+                                <a href='https://www.downredbuddrive.com/wp-content/uploads/2020/01/minecraft-birthday-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

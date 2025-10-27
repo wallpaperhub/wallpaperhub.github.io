@@ -1,0 +1,129 @@
+<title>Get Captivated by Black Cat Marvel Wallpapers</title>
+                    <meta name="description" content="Discover an exquisite collection of Black Cat Marvel wallpapers to elevate your devices. Featuring vibrant art and iconic designs, these wallpapers perfectly capture Felicia Hardy’s essence. Ideal for Marvel fans seeking to personalize their screens with stylish and captivating imagery.">
+                    <meta name="keywords" content="black cat marvel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/black-cat-marvel-wallpaper">
+                            <span itemprop="name">black cat marvel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Get Captivated by Black Cat Marvel Wallpapers</h1>
+                <p>Explore the enchanting world of "Black Cat" with stunning Marvel wallpapers! Perfect for fans of Felicia Hardy, these vibrant and dynamic images showcase her charm and agility. Whether you prefer classic comic illustrations or sleek modern designs, our collection is sure to add a touch of Marvel magic to your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat (Marvel Comics) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/926/thumb-1920-926609.jpg' alt='Black Cat (Marvel Comics) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/926/thumb-1920-926609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat, Felicia Hardy, 4K, #4.233 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/55/1e/e7/551ee7dc01fadc9ae768a369d3d7cf37.jpg' alt='Black Cat, Felicia Hardy, 4K, #4.233 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/55/1e/e7/551ee7dc01fadc9ae768a369d3d7cf37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Cat (Marvel Comics) Comic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/812/812517.jpg' alt='Download Black Cat (Marvel Comics) Comic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/812/812517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DC | Marvel Character Costumes Trend 2023 | Wallpapers & Fashion">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/67/6b/2e676b2ba05eaf0cbfd5b9b43ab5b750.jpg' alt='DC | Marvel Character Costumes Trend 2023 | Wallpapers & Fashion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/67/6b/2e676b2ba05eaf0cbfd5b9b43ab5b750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper marvel, Marvel Comics, black cat, Black cat, Felicia ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/2/66/black-cat-marvel-chernaya-koshka.webp' alt='Wallpaper marvel, Marvel Comics, black cat, Black cat, Felicia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/2/66/black-cat-marvel-chernaya-koshka.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Cat (Marvel Comics) Comic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/621/thumb-1920-621519.jpg' alt='Download Black Cat (Marvel Comics) Comic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/621/thumb-1920-621519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Marvel, Comics, Spider-Man, Black Cat, Felicia Hardy for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/1/cf/spider-man-black-cat-felicia-5147.webp' alt='Wallpaper Marvel, Comics, Spider-Man, Black Cat, Felicia Hardy for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/1/cf/spider-man-black-cat-felicia-5147.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Black Cat - Marvel - Wallpaper +18/Animation">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1738926189717461651/0FDAC78140185AD87AE6C6D87692C5559A1F4ACC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Black Cat - Marvel - Wallpaper +18/Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1738926189717461651/0FDAC78140185AD87AE6C6D87692C5559A1F4ACC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat Marvel Comic Art Wallpaper, HD Superheroes 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/black-cat-marvel-comic-art_bGdsaGyUmZqaraWkpJRobWllrWdpZWs.jpg' alt='Black Cat Marvel Comic Art Wallpaper, HD Superheroes 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/black-cat-marvel-comic-art_bGdsaGyUmZqaraWkpJRobWllrWdpZWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat, Comics, Black Cat (Marvel Comics), HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/808/639/HD-wallpaper-black-cat-comics-black-cat-marvel-comics.jpg' alt='Black Cat, Comics, Black Cat (Marvel Comics), HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/808/639/HD-wallpaper-black-cat-comics-black-cat-marvel-comics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

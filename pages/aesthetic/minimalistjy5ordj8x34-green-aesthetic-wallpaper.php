@@ -1,0 +1,129 @@
+<title>Minimalist Green Aesthetic Wallpapers: Refresh Your Space</title>
+                    <meta name="description" content="Explore stunning minimalist green aesthetic wallpapers that bring tranquility to your environment. Perfect for creating a refreshing backdrop, our collection highlights nature-inspired designs tailored for a peaceful vibe. Elevate your decor effortlessly with these harmonious and stylish options.">
+                    <meta name="keywords" content="minimalist:jy5ordj8x34= green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/minimalistjy5ordj8x34-green-aesthetic-wallpaper">
+                            <span itemprop="name">minimalist:jy5ordj8x34= green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist Green Aesthetic Wallpapers: Refresh Your Space</h1>
+                <p>Discover a soothing range of minimalist green aesthetic wallpapers that transform your space into a serene oasis. Featuring gentle hues of nature, our wallpapers emphasize simplicity and harmony. Ideal for those seeking a breath of fresh air, they effortlessly complement any decor, creating a calm and refreshing atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Green Background Minimalist Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y5NDQtYmItMTYtam9iNTk4LmpwZw.jpg' alt='Aesthetic Green Background Minimalist Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y5NDQtYmItMTYtam9iNTk4LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Minimalist Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/85/38/da8538911113358af141ae4859c250cc.jpg' alt='Green Aesthetic Minimalist Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/85/38/da8538911113358af141ae4859c250cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green minimalist wallpaper in 2022 | Dark green aesthetic, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/dc/fa/96dcfa5257ea3af21278f665337e28f2.jpg' alt='green minimalist wallpaper in 2022 | Dark green aesthetic, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/dc/fa/96dcfa5257ea3af21278f665337e28f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Minimalistic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-minimalistic-736-x-1308-wallpaper-i9ik0p739im3npeo.jpg' alt='100+] Green Minimalistic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-minimalistic-736-x-1308-wallpaper-i9ik0p739im3npeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal wallpaper design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/73/9a/92739ae589deb58d0a004c83250444de.jpg' alt='Minimal wallpaper design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/73/9a/92739ae589deb58d0a004c83250444de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Minimalist Green Aesthetic Wallpaper by patrika">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/132/1323576.png' alt='Abstract Minimalist Green Aesthetic Wallpaper by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2563">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/132/1323576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Green minimalist wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/d3/a6/3fd3a6d36c99f9525583a111195db748.jpg' alt='Aesthetic Green minimalist wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/d3/a6/3fd3a6d36c99f9525583a111195db748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MINIMALIST WALLPAPER by Patricia Amigleo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/5c/e1/9e5ce11161cefee359ef87d155d59027.jpg' alt='MINIMALIST WALLPAPER by Patricia Amigleo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/5c/e1/9e5ce11161cefee359ef87d155d59027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mackenzie :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/87/e0/2d87e08c22b90322de46860a6a3b0ac2.jpg' alt='mackenzie :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/87/e0/2d87e08c22b90322de46860a6a3b0ac2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Minimalist Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11259946.jpg' alt='Green Minimalist Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11259946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

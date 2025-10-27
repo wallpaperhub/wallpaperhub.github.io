@@ -1,0 +1,129 @@
+<title>How to Change Background Color in DaVinci Resolve: A Step-by-Step Guide</title>
+                    <meta name="description" content="Learn how to easily change the background color in DaVinci Resolve with our quick step-by-step guide. Perfect for beginners, this simple tutorial will have you adjusting colors in no time, enhancing your videos with a fresh and professional look.">
+                    <meta name="keywords" content="davinci resolve change background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/davinci-resolve-change-background-color">
+                            <span itemprop="name">davinci resolve change background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Change Background Color in DaVinci Resolve: A Step-by-Step Guide</h1>
+                <p>To change the background color in DaVinci Resolve, first select the clip in your timeline. Navigate to the “Color” workspace and open the “Nodes” panel. Use the “Solid Color” effect by adding a new node. Adjust the color to your preference. Finally, ensure the new background is visible behind your main clip for a seamless look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a solid color Background in Davinci Resolve ...">
+                                <img itemprop="contentUrl url" src='https://artomedics.com/wp-content/uploads/2021/07/image.png' alt='How to Set a solid color Background in Davinci Resolve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artomedics Studio" />
+                                </span>
+                                <a href='https://artomedics.com/wp-content/uploads/2021/07/image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a color background in DaVinci Resolve">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nDVF0ADzgFU/maxresdefault.jpg' alt='How to add a color background in DaVinci Resolve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nDVF0ADzgFU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Davinci Resolve: How to easily add background-colour to text ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/pJO8l.png' alt='Davinci Resolve: How to easily add background-colour to text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2848">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Video Production Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/pJO8l.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a Solid Color Background in Davinci Resolve">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/K9SbsGsCOKg/maxresdefault.jpg' alt='How to Set a Solid Color Background in Davinci Resolve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/K9SbsGsCOKg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To CHANGE Background COLOR In Davinci Resolve">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kfwBN6oWZT0/maxresdefault.jpg' alt='How To CHANGE Background COLOR In Davinci Resolve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kfwBN6oWZT0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to change background color in 3d image plain so i can see it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-to-change-background-color-in-3d-image-plain-so-i-can-v0-pvzfi2nx8hdd1.png?width=3825&format=png&auto=webp&s=a829171231b06f81db8b0a8bfb2c89718e6c8e4d' alt='how to change background color in 3d image plain so i can see it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3825">
+                                <meta itemprop="height" content="2090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-to-change-background-color-in-3d-image-plain-so-i-can-v0-pvzfi2nx8hdd1.png?width=3825&format=png&auto=webp&s=a829171231b06f81db8b0a8bfb2c89718e6c8e4d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I change backgrounds in Davinci Resolve? – Virtual Set Lab">
+                                <img itemprop="contentUrl url" src='http://virtual-studio-set.com/cdn/shop/articles/resolve-tutorial.jpg?v=1654536415' alt='How do I change backgrounds in Davinci Resolve? – Virtual Set Lab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Set Lab" />
+                                </span>
+                                <a href='http://virtual-studio-set.com/cdn/shop/articles/resolve-tutorial.jpg?v=1654536415' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the UI color? : r/davinciresolve">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5ax7qun7upz61.png?width=823&format=png&auto=webp&s=bc1d7e93e4539619458e60c6adbc4dc618e358da' alt='How to change the UI color? : r/davinciresolve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="823">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5ax7qun7upz61.png?width=823&format=png&auto=webp&s=bc1d7e93e4539619458e60c6adbc4dc618e358da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Solid Colored Box Background | Davinci Resolve 14 Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/p-e8pNP30KM/maxresdefault.jpg' alt='How to Add a Solid Colored Box Background | Davinci Resolve 14 Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/p-e8pNP30KM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Davinci Resolve: How to easily add background-colour to text ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/xzPoV.jpg' alt='Davinci Resolve: How to easily add background-colour to text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Video Production Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/xzPoV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Valentine's Wallpaper: Embrace Love's Mysterious Side</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dark valentines wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines">
+                            <span itemprop="name">Valentines</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines/dark-valentines-wallpaper">
+                            <span itemprop="name">dark valentines wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Valentine's Wallpaper: Embrace Love's Mysterious Side</h1>
+                <p>Explore the allure of dark Valentine's wallpaper, where romance meets mystery. Perfect for those who prefer a gothic twist to their decor, these wallpapers feature rich colors, enchanting motifs, and hauntingly beautiful imagery. Transform your space into a romantic haven with wallpapers that express love in a unique and captivating way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,100+ Black Valentines Day Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1369756876/vector/valentine-day-seamless-background-vector-stipple-classic-heart-red-black-pattern.jpg?s=612x612&w=0&k=20&c=OgzED5Ig_RebWcycNxBaYJ61JXJJDjznd45NiR71oeo=' alt='20,100+ Black Valentines Day Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1369756876/vector/valentine-day-seamless-background-vector-stipple-classic-heart-red-black-pattern.jpg?s=612x612&w=0&k=20&c=OgzED5Ig_RebWcycNxBaYJ61JXJJDjznd45NiR71oeo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and Black Valentines Day iPhone iPhone Wallpaper / Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36437479/r/il/e93b00/4541388997/il_570xN.4541388997_mqki.jpg' alt='Red and Black Valentines Day iPhone iPhone Wallpaper / Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36437479/r/il/e93b00/4541388997/il_570xN.4541388997_mqki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Valentine Stock Illustrations – 67,847 Dark Valentine Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dark-valentine-heart-29003470.jpg' alt='Dark Valentine Stock Illustrations – 67,847 Dark Valentine Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dark-valentine-heart-29003470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Day Wallpaper Black Background Stock Photo 1014336223 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/valentines-day-wallpaper-black-background-260nw-1014336223.jpg' alt='Valentines Day Wallpaper Black Background Stock Photo 1014336223 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/valentines-day-wallpaper-black-background-260nw-1014336223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,700+ Dark Valentines Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1296175665/photo/futuristic-modern-empty-stage-reflective-dark-room-with-glowing-neon-heart-shape-and-cloud.jpg?s=612x612&w=0&k=20&c=rMRlBxK6-qhjh1nxWtZ_dwpdvp8qIxGN57kD-6rZrf0=' alt='48,700+ Dark Valentines Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1296175665/photo/futuristic-modern-empty-stage-reflective-dark-room-with-glowing-neon-heart-shape-and-cloud.jpg?s=612x612&w=0&k=20&c=rMRlBxK6-qhjh1nxWtZ_dwpdvp8qIxGN57kD-6rZrf0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Hand drawn seamless pattern for Valentines Day on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/hand-drawn-seamless-pattern-valentines-day-dark-background-can-be-used-wallpaper-pattern-fills-web-page-background-surface-textures_558796-39.jpg' alt='Premium Photo | Hand drawn seamless pattern for Valentines Day on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/hand-drawn-seamless-pattern-valentines-day-dark-background-can-be-used-wallpaper-pattern-fills-web-page-background-surface-textures_558796-39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Valentine's Day Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5318447.jpg' alt='Dark Valentine's Day Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5318447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13701559/p/f/l/4rY7qS8CmXKeC7PZFkM6Ee7D6AjuK9Il7qWiNGAWiwEXRenZ8i_mos4/Goth%20Valentine's%20Day%20Kawaii%20Gothic%20Valentine%20Emo%20Valoween%20Creepy%20Cute.jpg' alt='Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13701559/p/f/l/4rY7qS8CmXKeC7PZFkM6Ee7D6AjuK9Il7qWiNGAWiwEXRenZ8i_mos4/Goth%20Valentine's%20Day%20Kawaii%20Gothic%20Valentine%20Emo%20Valoween%20Creepy%20Cute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/ea/14/08ea14ec78ce3289f04a35c4118cc5f9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/ea/14/08ea14ec78ce3289f04a35c4118cc5f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corazones, red, valentine day, love, heart, black, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/502/977/HD-wallpaper-hearts-red-valentine-day-love-heart-black.jpg' alt='Corazones, red, valentine day, love, heart, black, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/502/977/HD-wallpaper-hearts-red-valentine-day-love-heart-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

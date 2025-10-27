@@ -1,0 +1,129 @@
+<title>August 2023 Desktop Wallpapers: Brighten Your Screen Today!</title>
+                    <meta name="description" content="Discover gorgeous August 2023 desktop wallpapers to enhance your computer experience. Choose from a variety of stunning designs that reflect the essence of summer. Perfect for bringing a splash of color and inspiration to your workspace. Download your favorites now and transform your desktop!">
+                    <meta name="keywords" content="august 2023 wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/august-2023-wallpaper-desktop">
+                            <span itemprop="name">august 2023 wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>August 2023 Desktop Wallpapers: Brighten Your Screen Today!</h1>
+                <p>Elevate your workspace with stunning August 2023 desktop wallpapers! Celebrate the beauty of summer with vibrant images featuring sunlit beaches, lush landscapes, and colorful sunsets. Perfect for personalizing your computer screen, these eye-catching backgrounds bring joy and inspiration to your daily tasks. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-floral.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-floral.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-Sunflowers.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-Sunflowers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-flowers.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-flowers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/02/08_2023_Aug_Christian_Landscape_Designed-By-EntheosWeb.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/02/08_2023_Aug_Christian_Landscape_Designed-By-EntheosWeb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-Beach.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Calendar-Desktop-Wallpaper-Beach.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Desktop-Wallpaper-Watermelon-Watercolor-Background.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Desktop-Wallpaper-Watermelon-Watercolor-Background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Desktop-Wallpaper-Sunflower-Background.png' alt='August Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/August-2023-Desktop-Wallpaper-Sunflower-Background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August 2023 Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/08/08-2023-computer-calendar-scaled.jpg' alt='August 2023 Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/08/08-2023-computer-calendar-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="August 2023 wallpapers – 40 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/10/0e/31100e559b6dfe07d669276ead73a3da.jpg' alt='August 2023 wallpapers – 40 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/10/0e/31100e559b6dfe07d669276ead73a3da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable August 2023 Calendar - The Knit Picks Staff ...">
+                                <img itemprop="contentUrl url" src='https://blog.knitpicks.com/wp-content/uploads/2023/07/wallpapers_2023_desktop_August.jpg' alt='Free Downloadable August 2023 Calendar - The Knit Picks Staff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knit Picks Blog" />
+                                </span>
+                                <a href='https://blog.knitpicks.com/wp-content/uploads/2023/07/wallpapers_2023_desktop_August.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

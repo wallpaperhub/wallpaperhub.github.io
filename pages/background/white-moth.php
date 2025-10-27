@@ -1,0 +1,129 @@
+<title>Discover the Enigmatic Beauty of White Moths</title>
+                    <meta name="description" content="Explore the fascinating world of white moths, their ecological importance, and symbolism. Learn about their unique characteristics, habitats, and the role they play in nature's delicate balance. Dive into their beauty and discover why these creatures captivate nature lovers everywhere!">
+                    <meta name="keywords" content="white moth">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-moth">
+                            <span itemprop="name">white moth</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enigmatic Beauty of White Moths</h1>
+                <p>White moths are captivating creatures, often found in gardens and fields. They symbolize purity and transformation, attracting attention with their delicate wings. These insects play essential roles in ecosystems, aiding in pollination. Their presence is a reminder of nature's beauty and the delicate balance of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Satin Moth Control | Arborist Now - Arborist Now">
+                                <img itemprop="contentUrl url" src='https://www.arboristnow.com/system/refinery/images/W1siZiIsIjIwMjQvMDUvMjkvMTcvNDUvNTYvODUxYTQ3ZjktNzc5Ni00OWExLTg3NDAtMWY5Nzk4MjVjYjk2L2IxNDkwMjg1MzMzd2hpdGVzYXRpbnNtYTMwMTcuanBnIl0sWyJwIiwidGh1bWIiLCI4MDB4NDAwIl1d/b1490285333whitesatinsma3017.jpg' alt='White Satin Moth Control | Arborist Now - Arborist Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arborist Now" />
+                                </span>
+                                <a href='https://www.arboristnow.com/system/refinery/images/W1siZiIsIjIwMjQvMDUvMjkvMTcvNDUvNTYvODUxYTQ3ZjktNzc5Ni00OWExLTg3NDAtMWY5Nzk4MjVjYjk2L2IxNDkwMjg1MzMzd2hpdGVzYXRpbnNtYTMwMTcuanBnIl0sWyJwIiwidGh1bWIiLCI4MDB4NDAwIl1d/b1490285333whitesatinsma3017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Ermine | Butterfly Conservation">
+                                <img itemprop="contentUrl url" src='https://butterfly-conservation.org/sites/default/files/styles/masthead/public/2018-10/9207635368_61ef06f2b4_o%20%281%29.jpg?itok=SSIeY1kL' alt='White Ermine | Butterfly Conservation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Butterfly Conservation" />
+                                </span>
+                                <a href='https://butterfly-conservation.org/sites/default/files/styles/masthead/public/2018-10/9207635368_61ef06f2b4_o%20%281%29.jpg?itok=SSIeY1kL' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Visit From White Moth - Fullmoonfiberart.com">
+                                <img itemprop="contentUrl url" src='https://www.fullmoonfiberart.com/wp-content/uploads/2022/05/moth-1-1-1024x704.jpeg' alt='A Visit From White Moth - Fullmoonfiberart.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Full Moon Fiber Art" />
+                                </span>
+                                <a href='https://www.fullmoonfiberart.com/wp-content/uploads/2022/05/moth-1-1-1024x704.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leucoma salicis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c5/Leucoma_salicis1.JPG' alt='Leucoma salicis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c5/Leucoma_salicis1.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White) Satin Moth Leucoma salicis (Linnaeus, 1758) | Butterflies ...">
+                                <img itemprop="contentUrl url" src='https://www.butterfliesandmoths.org/sites/default/files/bamona_images/2011-0630_0.jpg' alt='White) Satin Moth Leucoma salicis (Linnaeus, 1758) | Butterflies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Butterflies and Moths of North America" />
+                                </span>
+                                <a href='https://www.butterfliesandmoths.org/sites/default/files/bamona_images/2011-0630_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Moth Spiritual Meaning and Symbolism | Astrology.com">
+                                <img itemprop="contentUrl url" src='https://www.astrology.com/img/hubs/spiritual-animals/White-Moth.png' alt='White Moth Spiritual Meaning and Symbolism | Astrology.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astrology.com" />
+                                </span>
+                                <a href='https://www.astrology.com/img/hubs/spiritual-animals/White-Moth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Satin Moth Control | Arborist Now - Arborist Now">
+                                <img itemprop="contentUrl url" src='https://www.arboristnow.com/system/refinery/images/W1siZiIsIjIwMjQvMDUvMjAvMTQvMjEvMDYvMDM5NTJmYzQtYWFiYS00MGM5LThlNzQtMDM0NTdkYTViMmM5L0Fkb2JlU3RvY2tfMzk0MDg1MTEzIGVkaXQuanBnIl0sWyJwIiwidGh1bWIiLCI1MDB4NTAwXHUwMDNlIl1d/AdobeStock_394085113%20edit.jpg' alt='White Satin Moth Control | Arborist Now - Arborist Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arborist Now" />
+                                </span>
+                                <a href='https://www.arboristnow.com/system/refinery/images/W1siZiIsIjIwMjQvMDUvMjAvMTQvMjEvMDYvMDM5NTJmYzQtYWFiYS00MGM5LThlNzQtMDM0NTdkYTViMmM5L0Fkb2JlU3RvY2tfMzk0MDg1MTEzIGVkaXQuanBnIl0sWyJwIiwidGh1bWIiLCI1MDB4NTAwXHUwMDNlIl1d/AdobeStock_394085113%20edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest little white moth : r/moths">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5f5xtjrdq0jd1.jpeg' alt='Cutest little white moth : r/moths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2252">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5f5xtjrdq0jd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slow Motion Moth - White Ermine Moth">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qDRe6_YmKG0/maxresdefault.jpg' alt='Slow Motion Moth - White Ermine Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qDRe6_YmKG0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dayton Insects">
+                                <img itemprop="contentUrl url" src='http://daytoninsects.com/assets/IMG_030172615.JPG' alt='Dayton Insects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dayton Insects" />
+                                </span>
+                                <a href='http://daytoninsects.com/assets/IMG_030172615.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High-Quality Benjamin Franklin PNG Images for Download</title>
+                    <meta name="description" content="Discover premium Benjamin Franklin PNG images for all your design needs. Perfect for projects, presentations, and more. Download high-quality, transparent images of this historical icon today!">
+                    <meta name="keywords" content="benjamin franklin png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/benjamin-franklin-png">
+                            <span itemprop="name">benjamin franklin png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Benjamin Franklin PNG Images for Download</h1>
+                <p>Explore a diverse collection of high-quality Benjamin Franklin PNG images, perfect for educational projects, presentations, or creative designs. These transparent images capture Franklin's iconic features, making them versatile for use in various digital formats. Download now to enrich your visual content with this historical figure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin" Images – Browse 15,028 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/45/83/48/360_F_545834820_FQi8ci2kGD0Fs78dlAmolefuqCCDl7Pd.jpg' alt='Benjamin Franklin" Images – Browse 15,028 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/45/83/48/360_F_545834820_FQi8ci2kGD0Fs78dlAmolefuqCCDl7Pd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Benjamin Franklin.PNG - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Benjamin_Franklin.PNG/815px-Benjamin_Franklin.PNG' alt='File:Benjamin Franklin.PNG - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Benjamin_Franklin.PNG/815px-Benjamin_Franklin.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/87/759/png-clipart-benjamin-franklin-national-memorial-franklin-institute-benjamin-franklin-ink-face-thumbnail.png' alt='Benjamin Franklin png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/87/759/png-clipart-benjamin-franklin-national-memorial-franklin-institute-benjamin-franklin-ink-face-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Benjamin Franklin.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e2/Benjamin_Franklin.png' alt='File:Benjamin Franklin.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e2/Benjamin_Franklin.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin - Historical Portrait of Benjamin Franklin ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180602/sfc/avoemtjuw.webp' alt='Benjamin Franklin - Historical Portrait of Benjamin Franklin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180602/sfc/avoemtjuw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin Statue PNG, Vector, PSD, and Clipart With ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231222/ourmid/pngtree-benjamin-franklin-concepts-png-image_11056969.png' alt='Benjamin Franklin Statue PNG, Vector, PSD, and Clipart With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231222/ourmid/pngtree-benjamin-franklin-concepts-png-image_11056969.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin by CrashTheCrazyPuppet on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/00176661-7553-4c7b-9aa8-5af2fe2388c3/dhwrauf-b69022fc-3781-4cc0-a95b-f0cb082e8be9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMTc2NjYxLTc1NTMtNGM3Yi05YWE4LTVhZjJmZTIzODhjM1wvZGh3cmF1Zi1iNjkwMjJmYy0zNzgxLTRjYzAtYTk1Yi1mMGNiMDgyZThiZTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8-CSKAd2qQAW-rUXPQn_4ZYo9hphOKyOJVv-3_Gl8k' alt='Benjamin Franklin by CrashTheCrazyPuppet on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/00176661-7553-4c7b-9aa8-5af2fe2388c3/dhwrauf-b69022fc-3781-4cc0-a95b-f0cb082e8be9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMTc2NjYxLTc1NTMtNGM3Yi05YWE4LTVhZjJmZTIzODhjM1wvZGh3cmF1Zi1iNjkwMjJmYy0zNzgxLTRjYzAtYTk1Yi1mMGNiMDgyZThiZTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8-CSKAd2qQAW-rUXPQn_4ZYo9hphOKyOJVv-3_Gl8k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin Hand Drawn PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/250882/preview/benjamin-franklin-hand-drawn-539c1f.png' alt='Benjamin Franklin Hand Drawn PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/250882/preview/benjamin-franklin-hand-drawn-539c1f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Benjamin Franklin Portrait | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/benjamin-franklin-portrait-drhrz0a9e6s01tob.jpg' alt='Download Benjamin Franklin Portrait | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/benjamin-franklin-portrait-drhrz0a9e6s01tob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait - Black and White Engraving of Historical Figure ...">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20190512/goj/kisspng-benjamin-franklin-united-states-one-hundred-dollar-1713893020291.webp' alt='Portrait - Black and White Engraving of Historical Figure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20190512/goj/kisspng-benjamin-franklin-united-states-one-hundred-dollar-1713893020291.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

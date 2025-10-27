@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Clipart: Perfect for All Your Designs!</title>
+                    <meta name="description" content="Explore our Halloween clipart collection! Ideal for invitations, social media, and more—these fun designs will elevate your seasonal projects. Get inspired and add some spooky charm to your creative works today!">
+                    <meta name="keywords" content="halloween clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-clipart">
+                            <span itemprop="name">halloween clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Clipart: Perfect for All Your Designs!</h1>
+                <p>Halloween clipart brings a spooky flair to your creative projects! Perfect for invitations, flyers, or social media posts, this vibrant collection features pumpkins, ghosts, bats, and witches. Use these fun and festive designs to celebrate the season, inspire imagination, and engage your audience with a touch of Halloween spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Clipart Images – Browse 342,467 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/84/18/16/360_F_884181669_7O965J3A6fFKeRbI21DpMvXuUpUWb795.jpg' alt='Halloween Clipart Images – Browse 342,467 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/84/18/16/360_F_884181669_7O965J3A6fFKeRbI21DpMvXuUpUWb795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Clipart Images, Download Free Halloween Party PNG Images ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20241003/original/pngtree-happy-halloween-ghost-and-pumpkin-clipart-illustration-png-image_16177593.png' alt='Halloween Clipart Images, Download Free Halloween Party PNG Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20241003/original/pngtree-happy-halloween-ghost-and-pumpkin-clipart-illustration-png-image_16177593.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Clipart Pictures, Cute Halloween Clip Art Designs, Witch  Illustration, Pumpkin Clipart Set, Commercial Use">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13346159/r/il/858bf0/1264200608/il_fullxfull.1264200608_1w1o.jpg' alt='Halloween Clipart Pictures, Cute Halloween Clip Art Designs, Witch  Illustration, Pumpkin Clipart Set, Commercial Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13346159/r/il/858bf0/1264200608/il_fullxfull.1264200608_1w1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clip Art Halloween Images – Browse 359,917 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/33/27/85/360_F_533278541_0qwBVjuzewpwloqt9bzIEE28CFUeTTcv.jpg' alt='Clip Art Halloween Images – Browse 359,917 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1101">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/33/27/85/360_F_533278541_0qwBVjuzewpwloqt9bzIEE28CFUeTTcv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67,100+ Halloween Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/614742340/vector/halloween-pumpkin.jpg?s=612x612&w=0&k=20&c=wVzau-d7E9Xo4rVQ1_ztkwiU3mApRBYWijuTOgHMp9o=' alt='67,100+ Halloween Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/614742340/vector/halloween-pumpkin.jpg?s=612x612&w=0&k=20&c=wVzau-d7E9Xo4rVQ1_ztkwiU3mApRBYWijuTOgHMp9o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Ghost Clipart Stock Illustrations – 14,575 Halloween ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-ghost-clipart-background-ghost-silhouette-halloween-ghost-logo-isolated-white-background-vector-template-halloween-330896848.jpg' alt='Halloween Ghost Clipart Stock Illustrations – 14,575 Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-ghost-clipart-background-ghost-silhouette-halloween-ghost-logo-isolated-white-background-vector-template-halloween-330896848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free halloween Clipart Images | FreeImages">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2168573068/vector/halloween-pumpkin-bucket-full-sweet.webp?b=1&s=612x612&w=0&k=20&c=5KiClZ26Hpb7lgxfUItTJT4EmYBuYqDM5YStc0mU4IY=' alt='Free halloween Clipart Images | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2168573068/vector/halloween-pumpkin-bucket-full-sweet.webp?b=1&s=612x612&w=0&k=20&c=5KiClZ26Hpb7lgxfUItTJT4EmYBuYqDM5YStc0mU4IY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween clipart. Halloween SVG. Halloween pumpkin graphic By ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4166878_95q0daebz1tftasr27tlcx9ckrdz1rfut3godw8i_halloween-clipart-halloween-svg-halloween-pumpkin-graphic.png' alt='Halloween clipart. Halloween SVG. Halloween pumpkin graphic By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4166878_95q0daebz1tftasr27tlcx9ckrdz1rfut3godw8i_halloween-clipart-halloween-svg-halloween-pumpkin-graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette Halloween Clipart Images | Free Download | PNG ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220507/ourmid/pngtree-vector-illustration-happy-halloween-png-image_4537964.png' alt='Silhouette Halloween Clipart Images | Free Download | PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220507/ourmid/pngtree-vector-illustration-happy-halloween-png-image_4537964.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Wearing Witches Hat Clip Art - Spider Wearing Witches Hat Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/halloween/spider-wearing-witch-hat.png' alt='Spider Wearing Witches Hat Clip Art - Spider Wearing Witches Hat Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/halloween/spider-wearing-witch-hat.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

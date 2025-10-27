@@ -1,0 +1,129 @@
+<title>Understanding ICP: Unearth the Musical Madness</title>
+                    <meta name="description" content="Explore the world of ICP, the iconic hip-hop duo that blends horror and innovative storytelling. Discover their influence on underground culture and what makes their performances captivating. Join their dedicated fanbase and dive into the thrilling universe of Insane Clown Posse!">
+                    <meta name="keywords" content="icp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/icp">
+                            <span itemprop="name">icp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding ICP: Unearth the Musical Madness</h1>
+                <p>ICP, or Insane Clown Posse, is a hip-hop duo known for their theatrical style and dedicated fanbase. Originating from Detroit, their unique blend of horrorcore and hip-hop challenges norms through wild performances, vibrant visuals, and deep storytelling. They have significantly impacted underground culture, creating a loyal community around their music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Insane_clown_posse_2017.jpg' alt='Insane Clown Posse - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1585">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/ff/Insane_clown_posse_2017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTc2NWRjMDEtNDI0MS00N2I4LWJhOWQtOGJiMTUyMGQ1M2Q0XkEyXkFqcGc@._V1_.jpg' alt='Insane Clown Posse - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="745">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTc2NWRjMDEtNDI0MS00N2I4LWJhOWQtOGJiMTUyMGQ1M2Q0XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/3fI5SaAA800mwR37-h1hHEuCVi_dqu_59O_6KzyiTw3dHYmoPJZm_hzb9Fcakg4nhA8ERY8fZVY=s900-c-k-c0x00ffffff-no-rj' alt='Insane Clown Posse - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/3fI5SaAA800mwR37-h1hHEuCVi_dqu_59O_6KzyiTw3dHYmoPJZm_hzb9Fcakg4nhA8ERY8fZVY=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse on COVID Era, Wokeness, Eminem">
+                                <img itemprop="contentUrl url" src='https://static.spin.com/files/2020/09/ICP1-1-1601341604.jpg' alt='Insane Clown Posse on COVID Era, Wokeness, Eminem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2499">
+                                <meta itemprop="height" content="2499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SPIN" />
+                                </span>
+                                <a href='https://static.spin.com/files/2020/09/ICP1-1-1601341604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Insane Clown Posse | BWWE Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bwwe/images/9/9d/ICP.jpg/revision/latest?cb=20190601211127' alt='The Insane Clown Posse | BWWE Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BWWE Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bwwe/images/9/9d/ICP.jpg/revision/latest?cb=20190601211127' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violent J - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/28/Violent_J_Insane_Clown_Posse_2017_Juggalo_March_%2837464357701%29_%28cropped%29.jpg' alt='Violent J - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1702">
+                                <meta itemprop="height" content="2553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/28/Violent_J_Insane_Clown_Posse_2017_Juggalo_March_%2837464357701%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse's History In Wrestling, Explained">
+                                <img itemprop="contentUrl url" src='https://www.wrestlinginc.com/img/gallery/insane-clown-posses-history-in-wrestling-explained/l-intro-1669921430.jpg' alt='Insane Clown Posse's History In Wrestling, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wrestling Inc." />
+                                </span>
+                                <a href='https://www.wrestlinginc.com/img/gallery/insane-clown-posses-history-in-wrestling-explained/l-intro-1669921430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insane Clown Posse Discography: Vinyl, CDs, & More | Discogs">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/PpvoobVP-kDh5vm6vEoY8-JSEaOspTslmgfw1MmfzNo/rs:fit/g:sm/q:90/h:574/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg3/LTE1NjA0NTgyNTgt/OTExMi5wbmc.jpeg' alt='Insane Clown Posse Discography: Vinyl, CDs, & More | Discogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/PpvoobVP-kDh5vm6vEoY8-JSEaOspTslmgfw1MmfzNo/rs:fit/g:sm/q:90/h:574/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg3/LTE1NjA0NTgyNTgt/OTExMi5wbmc.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Icp Band by Ove Tkin">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/icp-band-ove-tkin.jpg' alt='Icp Band by Ove Tkin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/icp-band-ove-tkin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crisis for Insane Clown Posse: Getting Saner - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2013/12/09/arts/ICP/ICP-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Crisis for Insane Clown Posse: Getting Saner - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2013/12/09/arts/ICP/ICP-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

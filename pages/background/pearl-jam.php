@@ -1,0 +1,129 @@
+<title>Pearl Jam: The Iconic Rock Band That Redefined Grunge</title>
+                    <meta name="description" content="Discover Pearl Jam, the legendary rock band that shaped the grunge era. With their emotive lyrics and electrifying performances, they continue to resonate with fans worldwide. Dive into their music, impact, and legacy that's still felt today.">
+                    <meta name="keywords" content="pearl jam">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pearl-jam">
+                            <span itemprop="name">pearl jam</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pearl Jam: The Iconic Rock Band That Redefined Grunge</h1>
+                <p>Pearl Jam is an iconic American rock band formed in 1990 in Seattle. Known for their powerful lyrics and passionate performances, they played a pivotal role in the grunge movement of the 1990s. With hits like "Alive" and "Jeremy," the band has inspired countless fans. Their commitment to social issues and authentic sound sets them apart in the music scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam - The Band">
+                                <img itemprop="contentUrl url" src='https://downloads.pearljam.com/versioned/9e0c71a6/assets/img/band.jpg' alt='Pearl Jam - The Band'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearl Jam" />
+                                </span>
+                                <a href='https://downloads.pearljam.com/versioned/9e0c71a6/assets/img/band.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam | Members, Songs, Albums, Grunge, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/31/256931-050-16FC9FFA/Pearl-Jam-band-1992.jpg' alt='Pearl Jam | Members, Songs, Albums, Grunge, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/31/256931-050-16FC9FFA/Pearl-Jam-band-1992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam - Seattle Grunge Legends | uDiscover Music">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pearl-Jam-GettyImages-86111976-1000x600.jpg' alt='Pearl Jam - Seattle Grunge Legends | uDiscover Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscover Music" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pearl-Jam-GettyImages-86111976-1000x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/btX91X6V9ZMo6c59bk5PeJqQFp2dKAHKMEV0tnOKybdp_agkj-UwpQt6DGYpNeuz-6bBlrl0nTAi4w=w2880-h1200-p-l90-rj' alt='Pearl Jam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube Music" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/btX91X6V9ZMo6c59bk5PeJqQFp2dKAHKMEV0tnOKybdp_agkj-UwpQt6DGYpNeuz-6bBlrl0nTAi4w=w2880-h1200-p-l90-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Pearl Jam Stayed Alive : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2011/09/16/2185656_com_pearljam_wide-96b903a9036dccae3f18ab1e0f301518fe0bb72a.jpg?s=1100&c=50&f=jpeg' alt='How Pearl Jam Stayed Alive : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2011/09/16/2185656_com_pearljam_wide-96b903a9036dccae3f18ab1e0f301518fe0bb72a.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam - Ten - Amazon.com Music">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61BgJqc2SJL._UF1000,1000_QL80_.jpg' alt='Pearl Jam - Ten - Amazon.com Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearl Jam - Ten - Amazon.com Music" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61BgJqc2SJL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0Q8JGw-default.jpg' alt='Pearl Jam Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0Q8JGw-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Pearl Jam Songs">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/443/files/2016/05/Pearl-Jam-2006.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' alt='10 Best Pearl Jam Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diffuser.fm" />
+                                </span>
+                                <a href='https://townsquare.media/site/443/files/2016/05/Pearl-Jam-2006.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam | Pearl Jam Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pearl-jam/images/2/2f/Normal_Pearl_Jam.jpg/revision/latest/scale-to-width-down/314?cb=20130124154154' alt='Pearl Jam | Pearl Jam Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="314">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearl Jam Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pearl-jam/images/2/2f/Normal_Pearl_Jam.jpg/revision/latest/scale-to-width-down/314?cb=20130124154154' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Jam : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/music/news/2009/10/pearljam_wide-1b0e86658314c4258f25d19a7a5c74426d29b7bb.jpg?s=400&c=85&f=jpeg' alt='Pearl Jam : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/music/news/2009/10/pearljam_wide-1b0e86658314c4258f25d19a7a5c74426d29b7bb.jpg?s=400&c=85&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

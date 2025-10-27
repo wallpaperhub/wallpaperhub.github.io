@@ -1,0 +1,129 @@
+<title>Luxury Leather iPhone Wallpapers: Style Your Screen</title>
+                    <meta name="description" content="Discover premium leather iPhone wallpapers that blend elegance and functionality. Our curated collection enhances your device’s aesthetic with rich textures and colors. Perfect for personalizing your iPhone while providing a sophisticated look. Explore now to find the ideal backdrop for your style!">
+                    <meta name="keywords" content="leather iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/leather-iphone-wallpaper">
+                            <span itemprop="name">leather iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxury Leather iPhone Wallpapers: Style Your Screen</h1>
+                <p>Elevate your iPhone's style with stunning leather wallpapers. This rich, textured backdrop adds a touch of sophistication and luxury to your device, allowing you to personalize your digital experience. Choose from a variety of colors and patterns that complement your unique style. Transform your screen into a chic accessory today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown leather iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/50/c1/8950c1e587b805c3d68e788f306fc649.jpg' alt='brown leather iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/50/c1/8950c1e587b805c3d68e788f306fc649.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Wood And Black Leather Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brown-wood-and-black-leather-iphone-g33rutxzeqqd265x.jpg' alt='Brown Wood And Black Leather Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brown-wood-and-black-leather-iphone-g33rutxzeqqd265x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Leather iPhone 13 Wallpaper | iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/black-leather.png' alt='Black Leather iPhone 13 Wallpaper | iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/black-leather.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These wallpapers will match your Apple leather case">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/12/Saddle-Brown-By-JasonZigrino.jpg' alt='These wallpapers will match your Apple leather case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1497">
+                                <meta itemprop="height" content="2662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/12/Saddle-Brown-By-JasonZigrino.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black leather iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/5a/5f/7e5a5f52fb1d05eb458e5fcfaf6e52fd.jpg' alt='Black leather iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/5a/5f/7e5a5f52fb1d05eb458e5fcfaf6e52fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bidtheewell iPhone Masculine Leather Aesthetic Wallpaper Bundle ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46443760/r/il/19901a/5709341941/il_fullxfull.5709341941_9owj.jpg' alt='Bidtheewell iPhone Masculine Leather Aesthetic Wallpaper Bundle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46443760/r/il/19901a/5709341941/il_fullxfull.5709341941_9owj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Leather Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/diamond-pattern-on-black-leather-iphone-ir8roay28on0m39i.jpg' alt='100+] Black Leather Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/diamond-pattern-on-black-leather-iphone-ir8roay28on0m39i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple And Textured Black Leather Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/poked-holes-on-black-leather-iphone-c40r4zxe0qnk8ten.webp' alt='Simple And Textured Black Leather Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/poked-holes-on-black-leather-iphone-c40r4zxe0qnk8ten.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 4 brown leather wallpaper | Bradford Sherrill | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4142/4751945186_391655e42f_b.jpg' alt='iphone 4 brown leather wallpaper | Bradford Sherrill | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4142/4751945186_391655e42f_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/02/a3/a402a34fad6fec175c2bbbb20ba47944.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/02/a3/a402a34fad6fec175c2bbbb20ba47944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

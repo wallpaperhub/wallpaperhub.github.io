@@ -1,0 +1,129 @@
+<title>Essential Guide to Background Investigations</title>
+                    <meta name="description" content="Discover the importance of background investigations for hiring processes. Learn how these checks safeguard organizations by validating candidate histories, from criminal records to employment verification, ensuring a trustworthy workforce.">
+                    <meta name="keywords" content="background investigations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-investigations">
+                            <span itemprop="name">background investigations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Background Investigations</h1>
+                <p>Background investigations are crucial for employers and organizations to assess a candidate's history. These checks typically include criminal records, employment history, and educational qualifications. Conducting thorough background investigations helps ensure that individuals meet the standards of integrity and trustworthiness required in sensitive positions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Essential Steps for Conducting a Background Investigation">
+                                <img itemprop="contentUrl url" src='https://www.caseiq.com/wp-content/uploads/2023/04/background-investigation.jpg' alt='8 Essential Steps for Conducting a Background Investigation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Case IQ" />
+                                </span>
+                                <a href='https://www.caseiq.com/wp-content/uploads/2023/04/background-investigation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included in a Criminal Background Investigation?">
+                                <img itemprop="contentUrl url" src='https://blog.bib.com/hubfs/background-check.jpg' alt='What's Included in a Criminal Background Investigation?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIB.com" />
+                                </span>
+                                <a href='https://blog.bib.com/hubfs/background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comprehensive Background Investigations in the United States">
+                                <img itemprop="contentUrl url" src='https://bondinvestigations.com/wp-content/uploads/2023/03/Background-Investigations-1024x401.png' alt='Comprehensive Background Investigations in the United States'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bond Investigations" />
+                                </span>
+                                <a href='https://bondinvestigations.com/wp-content/uploads/2023/03/Background-Investigations-1024x401.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigation Meaning: A Beginner's Guide to Know">
+                                <img itemprop="contentUrl url" src='https://duws858oznvmq.cloudfront.net/background_investigation_meaning_9268ab8563.webp' alt='Background Investigation Meaning: A Beginner's Guide to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitch N Hire" />
+                                </span>
+                                <a href='https://duws858oznvmq.cloudfront.net/background_investigation_meaning_9268ab8563.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigations – Investigative Intelligence Group">
+                                <img itemprop="contentUrl url" src='https://2ig.org/wp-content/uploads/2016/04/IIG-Banners-Investigations-1.jpg' alt='Background Investigations – Investigative Intelligence Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1499">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investigative Intelligence Group" />
+                                </span>
+                                <a href='https://2ig.org/wp-content/uploads/2016/04/IIG-Banners-Investigations-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigations and Adjudication Process">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E12AQH4SnPr_JX--w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1533996314798?e=2147483647&v=beta&t=-w8BvCpsmCN7nxgbfaU_jss2xI1PjQ7OdauRXTGAr9o' alt='Background Investigations and Adjudication Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E12AQH4SnPr_JX--w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1533996314798?e=2147483647&v=beta&t=-w8BvCpsmCN7nxgbfaU_jss2xI1PjQ7OdauRXTGAr9o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigations | Employment Investigation Services ...">
+                                <img itemprop="contentUrl url" src='https://danbeeinvestigations.com/wp-content/uploads/2010/07/background.jpg' alt='Background Investigations | Employment Investigation Services ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danbee Investigations" />
+                                </span>
+                                <a href='https://danbeeinvestigations.com/wp-content/uploads/2010/07/background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigation, Top Secret, Clearance, Security">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/cadac795/dms3rep/multi/opt/BG-Investigation-640w.jpeg' alt='Background Investigation, Top Secret, Clearance, Security'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Special Agents Blog" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/cadac795/dms3rep/multi/opt/BG-Investigation-640w.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigations - Merge Investigations">
+                                <img itemprop="contentUrl url" src='https://www.mergeinv.com/wp-content/uploads/2022/05/istockphoto-1218863598-1024x1024-1.jpg' alt='Background Investigations - Merge Investigations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Merge Investigations" />
+                                </span>
+                                <a href='https://www.mergeinv.com/wp-content/uploads/2022/05/istockphoto-1218863598-1024x1024-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigation IT Systems Software Will Now Be Bought ...">
+                                <img itemprop="contentUrl url" src='https://cdn.nextgov.com/media/img/cd/2023/04/04/040423consolidationNG/route-fifty-lead-image.jpg?1680634506' alt='Background Investigation IT Systems Software Will Now Be Bought ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nextgov/FCW" />
+                                </span>
+                                <a href='https://cdn.nextgov.com/media/img/cd/2023/04/04/040423consolidationNG/route-fifty-lead-image.jpg?1680634506' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

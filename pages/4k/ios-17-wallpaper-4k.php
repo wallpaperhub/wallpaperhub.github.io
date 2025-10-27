@@ -1,0 +1,129 @@
+<title>Stunning 4K iOS 17 Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of breathtaking 4K wallpapers for iOS 17. Enhance your device with high-quality images that resonate with your style and personality. Perfect for customizing both your lock and home screens. Download your favorites for a fresh new look today!">
+                    <meta name="keywords" content="ios 17 wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/ios-17-wallpaper-4k">
+                            <span itemprop="name">ios 17 wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K iOS 17 Wallpapers for Your Device</h1>
+                <p>Discover stunning 4K wallpapers for iOS 17 that elevate your device's style! From breathtaking landscapes to artistic designs, find the perfect backdrop to reflect your personality. Customize your home screen or lock screen with high-resolution options that bring your iPhone or iPad to life. Download now and transform your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new iOS 17 wallpaper right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2023/06/iOS-17-wallpaper-dark.png' alt='Download the new iOS 17 wallpaper right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2023/06/iOS-17-wallpaper-dark.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 - Official Stock Wallpaper | Light - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/06/CarPlay-iOS-17-6-768x768.png' alt='iOS 17 - Official Stock Wallpaper | Light - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/06/CarPlay-iOS-17-6-768x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iOS 17 wallpapers for iPhone in 4K (official) - iGeeksBlog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/20/e7/a820e72ff58be18f94961c48b7099c0a.jpg' alt='Download iOS 17 wallpapers for iPhone in 4K (official) - iGeeksBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/20/e7/a820e72ff58be18f94961c48b7099c0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 by okmateo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bfdafbf6-1804-48c5-af79-1dcfd696ac50/dgyi4hv-c267c2c7-3e08-4f59-a150-d7c8fe461d5a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmZGFmYmY2LTE4MDQtNDhjNS1hZjc5LTFkY2ZkNjk2YWM1MFwvZGd5aTRodi1jMjY3YzJjNy0zZTA4LTRmNTktYTE1MC1kN2M4ZmU0NjFkNWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mifSmU1Zq0ZadiRujqO5T78-GG3ciuceJoweO8Jgiyw' alt='iOS 17 by okmateo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bfdafbf6-1804-48c5-af79-1dcfd696ac50/dgyi4hv-c267c2c7-3e08-4f59-a150-d7c8fe461d5a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmZGFmYmY2LTE4MDQtNDhjNS1hZjc5LTFkY2ZkNjk2YWM1MFwvZGd5aTRodi1jMjY3YzJjNy0zZTA4LTRmNTktYTE1MC1kN2M4ZmU0NjFkNWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mifSmU1Zq0ZadiRujqO5T78-GG3ciuceJoweO8Jgiyw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iOS 17 Wallpapers [4K Resolution] (Official)">
+                                <img itemprop="contentUrl url" src='https://www.ytechb.com/wp-content/uploads/2023/06/ios-17-wallpapers.webp' alt='Download iOS 17 Wallpapers [4K Resolution] (Official)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YTECHB" />
+                                </span>
+                                <a href='https://www.ytechb.com/wp-content/uploads/2023/06/ios-17-wallpapers.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/bb/a4/08bba4eb29e07f9cc113567eeb7cf1aa.jpg' alt='iOS 17 Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/bb/a4/08bba4eb29e07f9cc113567eeb7cf1aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 17 Dark, ios-17, ios, apple, computer, dark, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/411/141/HD-wallpaper-ios-17-dark-ios-17-ios-apple-computer-dark.jpg' alt='Ios 17 Dark, ios-17, ios, apple, computer, dark, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/411/141/HD-wallpaper-ios-17-dark-ios-17-ios-apple-computer-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular iPhone 17 iPhone Air Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/dark-pink-blue-default-stock-best-high-resolution-iphone-16-pro-max-wallpaper-4k-hd-16pro-13-mini-17-air-27-10-2024-1730073653-hd-wallpaper.jpg' alt='Most Popular iPhone 17 iPhone Air Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/dark-pink-blue-default-stock-best-high-resolution-iphone-16-pro-max-wallpaper-4k-hd-16pro-13-mini-17-air-27-10-2024-1730073653-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning View Of Ios 17 Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-view-of-ios-17-wallpaper-ujs7jx7zwtnqavxa-3.jpg' alt='Stunning View Of Ios 17 Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-view-of-ios-17-wallpaper-ujs7jx7zwtnqavxa-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone know any artists who make walls similar to that of iOS 17 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gbuelf3cbprb1.png' alt='Anyone know any artists who make walls similar to that of iOS 17 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="954">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gbuelf3cbprb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

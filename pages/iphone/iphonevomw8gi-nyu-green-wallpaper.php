@@ -1,0 +1,129 @@
+<title>Stunning Green iPhone Wallpapers for a Refreshing Look</title>
+                    <meta name="description" content="Discover the ultimate collection of green iPhone wallpapers to enhance your device's style! From bold greens to calming hues, find the perfect backdrop that resonates with your personality. Download now and give your iPhone a fresh, natural makeover!">
+                    <meta name="keywords" content="iphone:vomw8gi-nyu= green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonevomw8gi-nyu-green-wallpaper">
+                            <span itemprop="name">iphone:vomw8gi-nyu= green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green iPhone Wallpapers for a Refreshing Look</h1>
+                <p>Transform your iPhone with stunning green wallpapers! Whether you prefer vibrant emerald shades or soft pastel greens, our collection has something for everyone. Elevate your device's aesthetic and embrace the refreshing vibes of nature right on your screen. Explore now for the perfect wallpaper to match your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper iPhone and Android Optimized: Minimalist New ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/e6/6c/5be66c19f27c77170c1ef0b6d3cfda9a.jpg' alt='Aesthetic Wallpaper iPhone and Android Optimized: Minimalist New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/e6/6c/5be66c19f27c77170c1ef0b6d3cfda9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Campus Photos for Your Phone or Zoom Background">
+                                <img itemprop="contentUrl url" src='https://www.nyu.edu/content/dam/nyu/social/images/WALLPAPERS/2020_0706_nyu-background_1_phone.jpg' alt='Summer Campus Photos for Your Phone or Zoom Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYU" />
+                                </span>
+                                <a href='https://www.nyu.edu/content/dam/nyu/social/images/WALLPAPERS/2020_0706_nyu-background_1_phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Olive Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/olive-green-iphone-qyvbgu1dbiqzpvu9.jpg' alt='100+] Olive Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/olive-green-iphone-qyvbgu1dbiqzpvu9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Featured Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.nyu.edu/content/nyu/en/about/news-publications/news/2018/march/wallpapers/jcr:content/1/par/nyu70_nyuimage_2.img.320.medium.jpg/1522352280692.jpg' alt='Featured Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYU" />
+                                </span>
+                                <a href='https://www.nyu.edu/content/nyu/en/about/news-publications/news/2018/march/wallpapers/jcr:content/1/par/nyu70_nyuimage_2.img.320.medium.jpg/1522352280692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Olive Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/olive-green-iphone-ap5ozu2sd1u2yw6i.jpg' alt='100+] Olive Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/olive-green-iphone-ap5ozu2sd1u2yw6i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-iphone-ahpebq9w69qhji3w.jpg' alt='200+] Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-iphone-ahpebq9w69qhji3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Nature Foliage iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/4f/40/904f4049b9ef3db78b1a11e4e55807a5.jpg' alt='Green Nature Foliage iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/4f/40/904f4049b9ef3db78b1a11e4e55807a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Olive Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/olive-green-iphone-1125-x-2100-n49l6aluy29rsgi0.jpg' alt='100+] Olive Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/olive-green-iphone-1125-x-2100-n49l6aluy29rsgi0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Olive Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/olive-green-iphone-1080-x-1920-pqo0apk0r1tv1n0n.jpg' alt='100+] Olive Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/olive-green-iphone-1080-x-1920-pqo0apk0r1tv1n0n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Featured Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.nyu.edu/content/dam/nyu/nyuStories/images/wallpaper/2018_03_WALLPAPER_FLAG_IPHONE_PLUS.jpg' alt='Featured Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYU" />
+                                </span>
+                                <a href='https://www.nyu.edu/content/dam/nyu/nyuStories/images/wallpaper/2018_03_WALLPAPER_FLAG_IPHONE_PLUS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pink and Green Watercolor Backgrounds</title>
+                    <meta name="description" content="Add a touch of elegance to your projects with our pink and green watercolor backgrounds. Perfect for digital designs, art prints, or social media graphics, these stunning, soft blends inspire creativity while providing a serene aesthetic. Explore our collection now!">
+                    <meta name="keywords" content="pink and green watercolor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-green-watercolor-background">
+                            <span itemprop="name">pink and green watercolor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink and Green Watercolor Backgrounds</h1>
+                <p>Experience the beauty of a pink and green watercolor background, where soft hues blend harmoniously to create a serene atmosphere. Perfect for art projects, invitations, or digital designs, this backdrop adds a touch of elegance and creativity. Let the tranquil colors inspire your next masterpiece!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Green Watercolor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287505.jpg' alt='Pink And Green Watercolor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink and green watercolor background with a place ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-green-watercolor-background-with-place-text_853804-16.jpg' alt='Premium Photo | Pink and green watercolor background with a place ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-green-watercolor-background-with-place-text_853804-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Green Watercolor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background-design_23-2150319801.jpg' alt='Pink And Green Watercolor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background-design_23-2150319801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="watercolor wash pink and green background texture Stock ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/20/01/73/1000_F_220017316_xdSVH9F2j2gWD53z1Am7DrQOfaxIpVRd.jpg' alt='watercolor wash pink and green background texture Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/20/01/73/1000_F_220017316_xdSVH9F2j2gWD53z1Am7DrQOfaxIpVRd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract pink-green watercolor background, bright, contrast ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/89/01/12/1000_F_289011200_8N8k5DDAYrpvr9lnxkg1D8UNMKAdwoKv.jpg' alt='Abstract pink-green watercolor background, bright, contrast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/89/01/12/1000_F_289011200_8N8k5DDAYrpvr9lnxkg1D8UNMKAdwoKv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Pink Green Gradient Watercolor Background Texture Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-pink-green-gradient-artistic-watercolor-background-texture-modern-web-wallpaper-graphic-design-abstract-aesthetic-247114991.jpg' alt='Vibrant Pink Green Gradient Watercolor Background Texture Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-pink-green-gradient-artistic-watercolor-background-texture-modern-web-wallpaper-graphic-design-abstract-aesthetic-247114991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Mixing Pink Green Watercolor On Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/abstract-mixing-pink-green-watercolor-260nw-1569948460.jpg' alt='Abstract Mixing Pink Green Watercolor On Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/abstract-mixing-pink-green-watercolor-260nw-1569948460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Art Delicate Blend Of Pink And Green Tones Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20231008/pngtree-watercolor-art-delicate-blend-of-pink-and-green-tones-image_13621968.png' alt='Watercolor Art Delicate Blend Of Pink And Green Tones Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20231008/pngtree-watercolor-art-delicate-blend-of-pink-and-green-tones-image_13621968.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium psd / image of Pink and green watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/77/62/cf7762afd38429404bc9e065154be831.jpg' alt='Download premium psd / image of Pink and green watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/77/62/cf7762afd38429404bc9e065154be831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink Green watercolor texture background template ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-green-watercolor-texture-background-template-premium-vector_587382-93.jpg' alt='Premium Vector | Pink Green watercolor texture background template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-green-watercolor-texture-background-template-premium-vector_587382-93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

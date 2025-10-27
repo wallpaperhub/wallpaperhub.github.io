@@ -1,0 +1,129 @@
+<title>Exploring the Unique Art Style of Ren and Stimpy</title>
+                    <meta name="description" content="Discover the iconic art style of Ren and Stimpy! Dive into the vibrant colors, exaggerated features, and surreal designs that define this groundbreaking 90s cartoon. Learn how its unique visual flair contributes to the show's humor and impact in animation history. Perfect for fans and art enthusiasts alike!">
+                    <meta name="keywords" content="ren and stimpy art style">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ren-and-stimpy-art-style">
+                            <span itemprop="name">ren and stimpy art style</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Unique Art Style of Ren and Stimpy</h1>
+                <p>Ren and Stimpy's art style is a unique blend of exaggerated features, vibrant colors, and surrealism that captures the essence of 90s cartoons. Character designs often showcase grotesque and humorous expressions, infused with a chaotic energy. This distinct aesthetic enhances the show’s comedic and satirical approach, making it unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best art style for Ren & Stimpy : r/renandstimpy">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-m3fxug9y4zib1.jpg?width=841&format=pjpg&auto=webp&s=904f228784474e28ff7d505e96ab8cebbcff4d5c' alt='Best art style for Ren & Stimpy : r/renandstimpy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-m3fxug9y4zib1.jpg?width=841&format=pjpg&auto=webp&s=904f228784474e28ff7d505e96ab8cebbcff4d5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ren & Stimpy Show' Reinvented TV Animation And Its Influence ...">
+                                <img itemprop="contentUrl url" src='https://www.cartoonbrew.com/wp-content/uploads/2021/08/renstimpy_30th.jpg' alt='The Ren & Stimpy Show' Reinvented TV Animation And Its Influence ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Brew" />
+                                </span>
+                                <a href='https://www.cartoonbrew.com/wp-content/uploads/2021/08/renstimpy_30th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best art style for Ren & Stimpy : r/renandstimpy">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-k1zd29105zib1.jpg?width=640&crop=smart&auto=webp&s=893df72788f0022b9868350904ee28c4971dcbbb' alt='Best art style for Ren & Stimpy : r/renandstimpy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-k1zd29105zib1.jpg?width=640&crop=smart&auto=webp&s=893df72788f0022b9868350904ee28c4971dcbbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairly Oddparents in Ren and Stimpy style by Alex Rocky Ferrer : r ...">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/010/810/561/large/alex-ferrer-fairlyoddparentsrenstimpmashedit1052x744.jpg' alt='Fairly Oddparents in Ren and Stimpy style by Alex Rocky Ferrer : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1052">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/010/810/561/large/alex-ferrer-fairlyoddparentsrenstimpmashedit1052x744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best art style for Ren & Stimpy : r/renandstimpy">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-jbhga5f75zib1.jpg?width=640&crop=smart&auto=webp&s=5343a513f4f177d917ff565950dd9c351ba27229' alt='Best art style for Ren & Stimpy : r/renandstimpy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-art-style-for-ren-stimpy-v0-jbhga5f75zib1.jpg?width=640&crop=smart&auto=webp&s=5343a513f4f177d917ff565950dd9c351ba27229' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Petrie Print + Product Design, Inc. - Ren & Stimpy Style ...">
+                                <img itemprop="contentUrl url" src='https://cdn.myportfolio.com/4e80716921aea9ee65fd41a4f690a253/1846756b-db2b-4a20-8c10-fab2a225db20_rw_1200.jpg?h=3106c1cbdd8dae36e06b5020adcc33cb' alt='Anthony Petrie Print + Product Design, Inc. - Ren & Stimpy Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthony Petrie" />
+                                </span>
+                                <a href='https://cdn.myportfolio.com/4e80716921aea9ee65fd41a4f690a253/1846756b-db2b-4a20-8c10-fab2a225db20_rw_1200.jpg?h=3106c1cbdd8dae36e06b5020adcc33cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ren and Stimpy Tribute 11x17 Art Print - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6198323/r/il/a762b1/4904518985/il_1080xN.4904518985_gu0c.jpg' alt='Ren and Stimpy Tribute 11x17 Art Print - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6198323/r/il/a762b1/4904518985/il_1080xN.4904518985_gu0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hallelujah, The Creator Of Ren & Stimpy Has His Own Art Show ...">
+                                <img itemprop="contentUrl url" src='https://images.huffingtonpost.com/2013-11-07-JOHN_K_images_0002.jpg' alt='Hallelujah, The Creator Of Ren & Stimpy Has His Own Art Show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3180">
+                                <meta itemprop="height" content="2099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HuffPost" />
+                                </span>
+                                <a href='https://images.huffingtonpost.com/2013-11-07-JOHN_K_images_0002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Mint - Animation Art - The Ren & Stimpy Show "Big House Blues" (1991)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/566a4af357eb8d3974390587/f217e526-a58c-462f-b7e8-48bb3c7ea61f/BigHouseBlues-PublicityCel.jpg?format=750w' alt='Comic Mint - Animation Art - The Ren & Stimpy Show "Big House Blues" (1991)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comic Mint" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/566a4af357eb8d3974390587/f217e526-a58c-462f-b7e8-48bb3c7ea61f/BigHouseBlues-PublicityCel.jpg?format=750w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Petrie Print + Product Design, Inc. - Ren & Stimpy Style ...">
+                                <img itemprop="contentUrl url" src='https://cdn.myportfolio.com/4e80716921aea9ee65fd41a4f690a253/1f0af336-253c-4e4d-8e9e-0133d2ac977b_rw_1200.jpg?h=9d33ea561defb03a0852262da6a37fbd' alt='Anthony Petrie Print + Product Design, Inc. - Ren & Stimpy Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthony Petrie" />
+                                </span>
+                                <a href='https://cdn.myportfolio.com/4e80716921aea9ee65fd41a4f690a253/1f0af336-253c-4e4d-8e9e-0133d2ac977b_rw_1200.jpg?h=9d33ea561defb03a0852262da6a37fbd' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

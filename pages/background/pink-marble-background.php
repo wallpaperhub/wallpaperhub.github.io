@@ -1,0 +1,129 @@
+<title>Elegant Pink Marble Backgrounds for Stylish Designs</title>
+                    <meta name="description" content="Discover the beauty of pink marble backgrounds, perfect for adding a luxurious touch to your designs. Ideal for digital wallpapers and social media posts, these elegant textures bring softness and sophistication to any project. Explore our collection and elevate your visuals today!">
+                    <meta name="keywords" content="pink marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-marble-background">
+                            <span itemprop="name">pink marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Marble Backgrounds for Stylish Designs</h1>
+                <p>Pink marble backgrounds are a stunning choice for modern designs, bringing a touch of elegance and softness to any space. The delicate swirls of pink, white, and grey create a luxurious feel, perfect for digital wallpapers, websites, or social media. This aesthetic choice is ideal for those seeking a stylish yet soothing ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink phone wallpaper, aesthetic marble ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c0/8c/85/c08c85af4860d2e974a6ecb7b32afab0.jpg' alt='Download premium image of Pink phone wallpaper, aesthetic marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c0/8c/85/c08c85af4860d2e974a6ecb7b32afab0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble iPhone Background in Illustrator, JPG, EPS, SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/75655/Free-pink-marble-iphone-background-1.jpg' alt='Pink Marble iPhone Background in Illustrator, JPG, EPS, SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/75655/Free-pink-marble-iphone-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Pink Marble High Resolution Texture Photography Backdrop ...">
+                                <img itemprop="contentUrl url" src='http://www.shopbackdrop.com/cdn/shop/products/natural-pink-marble-high-resolution-texture-photography-backdrop.jpg?v=1535699829' alt='Natural Pink Marble High Resolution Texture Photography Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopbackdrop" />
+                                </span>
+                                <a href='http://www.shopbackdrop.com/cdn/shop/products/natural-pink-marble-high-resolution-texture-photography-backdrop.jpg?v=1535699829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=1024&v=1705576650&width=1024' alt='Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=1024&v=1705576650&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink marble pattern iPhone wallpaper | Pink marble wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/7a/6f/db7a6fcc174888db69de08a7a055a13e.jpg' alt='Soft pink marble pattern iPhone wallpaper | Pink marble wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/7a/6f/db7a6fcc174888db69de08a7a055a13e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Pink Marble Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG1hcmJsZXxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Pink Marble Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG1hcmJsZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmMuanBn.jpg' alt='Pink Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmMuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble store background pink">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210421/pngtree-light-pink-marble-background-with-gold-glitters-streaks-image_637033.jpg' alt='Marble store background pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210421/pngtree-light-pink-marble-background-with-gold-glitters-streaks-image_637033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,300+ Pink Marble Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1160568525/vector/vector-marble-pattern-white-and-pink-marble-texture-background-trendy-template-for-design.jpg?s=612x612&w=0&k=20&c=YR5uur2cWM7T_26Ws2MJA9saErca4AivHkaQVEN0AfU=' alt='9,300+ Pink Marble Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1160568525/vector/vector-marble-pattern-white-and-pink-marble-texture-background-trendy-template-for-design.jpg?s=612x612&w=0&k=20&c=YR5uur2cWM7T_26Ws2MJA9saErca4AivHkaQVEN0AfU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Pink Marble">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/62913/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='White and Pink Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/62913/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

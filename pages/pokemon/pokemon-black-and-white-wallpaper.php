@@ -1,0 +1,129 @@
+<title>Stunning Pokémon Black & White Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our captivating collection of Pokémon Black and White wallpapers! Perfectly designed to enhance your mobile experience, these wallpapers showcase iconic characters and stunning visuals from the Unova region. Download yours today and show off your Pokémon pride!">
+                    <meta name="keywords" content="pokemon black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-black-and-white-wallpaper">
+                            <span itemprop="name">pokemon black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pokémon Black & White Wallpapers for Your Devices</h1>
+                <p>Discover vibrant Pokémon Black and White wallpapers that bring your favorite characters to life! Our collection features stunning designs, from iconic Pokémon like Zekrom and Reshiram to captivating landscapes of the Unova region. Perfect for any Pokémon fan, these wallpapers add a unique flair to your devices. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0b10ev9v3l6y.png' alt='Black and White Wallpaper : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0b10ev9v3l6y.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pokemon Zekrom (Pokemon) Reshiram (Pokémon) Video Game ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/116/1163959.jpg' alt='Download Pokemon Zekrom (Pokemon) Reshiram (Pokémon) Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/116/1163959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pokemon white fan art - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/a8/90/89a8900be97e040cdd5d729eed6883d6.jpg' alt='pokemon white fan art - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/a8/90/89a8900be97e040cdd5d729eed6883d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Black White Wallpaper by darkfailure on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c79a2ee-9202-4bff-9c86-853d721a798c/d46hytc-3a788b2b-15cb-4637-92e1-47d496fc6a3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVjNzlhMmVlLTkyMDItNGJmZi05Yzg2LTg1M2Q3MjFhNzk4Y1wvZDQ2aHl0Yy0zYTc4OGIyYi0xNWNiLTQ2MzctOTJlMS00N2Q0OTZmYzZhM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pevjZTDPDfklklR-NrTtRwv5-DvlMPKw0yNl9R4k7xQ' alt='Pokemon Black White Wallpaper by darkfailure on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c79a2ee-9202-4bff-9c86-853d721a798c/d46hytc-3a788b2b-15cb-4637-92e1-47d496fc6a3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVjNzlhMmVlLTkyMDItNGJmZi05Yzg2LTg1M2Q3MjFhNzk4Y1wvZDQ2aHl0Yy0zYTc4OGIyYi0xNWNiLTQ2MzctOTJlMS00N2Q0OTZmYzZhM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pevjZTDPDfklklR-NrTtRwv5-DvlMPKw0yNl9R4k7xQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon: Black and White HD Wallpaper Adventure">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/252/252265.jpg' alt='Pokemon: Black and White HD Wallpaper Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2047">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/252/252265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Black and White 2 Wallpaper by MoeRenai on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c161018b-85de-43ac-b11d-23e8f4b70087/d59ptw8-c1a8d7d8-46b8-4b28-84b6-6ca9c350fc3b.jpg/v1/fill/w_900,h_675,q_75,strp/pokemon_black_and_white_2_wallpaper_by_moerenai_d59ptw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvYzE2MTAxOGItODVkZS00M2FjLWIxMWQtMjNlOGY0YjcwMDg3XC9kNTlwdHc4LWMxYThkN2Q4LTQ2YjgtNGIyOC04NGI2LTZjYTljMzUwZmMzYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TJG2Ge5DJpW-LXIUBUuW5FLBFi5WVpnzLfpJaPqfhdw' alt='Pokemon Black and White 2 Wallpaper by MoeRenai on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c161018b-85de-43ac-b11d-23e8f4b70087/d59ptw8-c1a8d7d8-46b8-4b28-84b6-6ca9c350fc3b.jpg/v1/fill/w_900,h_675,q_75,strp/pokemon_black_and_white_2_wallpaper_by_moerenai_d59ptw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvYzE2MTAxOGItODVkZS00M2FjLWIxMWQtMjNlOGY0YjcwMDg3XC9kNTlwdHc4LWMxYThkN2Q4LTQ2YjgtNGIyOC04NGI2LTZjYTljMzUwZmMzYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TJG2Ge5DJpW-LXIUBUuW5FLBFi5WVpnzLfpJaPqfhdw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon black and white 1080P, 2K, 4K, 5K HD wallpapers free download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c0/14/ffc01462d2498f82a4efd71996562800.jpg' alt='Pokemon black and white 1080P, 2K, 4K, 5K HD wallpapers free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c0/14/ffc01462d2498f82a4efd71996562800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Pokémon Peel and Stick Wallpaper, RMK12626RL - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81BFkpt8GtL.jpg' alt='RoomMates Pokémon Peel and Stick Wallpaper, RMK12626RL - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81BFkpt8GtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pokemon Black Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pokemon-black-jk82oxeztsukctzb.jpg' alt='100+] Pokemon Black Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pokemon-black-jk82oxeztsukctzb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Black & White Mobile Wallpaper by BK #3599914 - Zerochan ...">
+                                <img itemprop="contentUrl url" src='https://s1.zerochan.net/Pok%C3%A9mon.Black...White.600.3594586.jpg' alt='Pokémon Black & White Mobile Wallpaper by BK #3599914 - Zerochan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan Anime Image Board" />
+                                </span>
+                                <a href='https://s1.zerochan.net/Pok%C3%A9mon.Black...White.600.3594586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

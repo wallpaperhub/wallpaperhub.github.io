@@ -1,0 +1,129 @@
+<title>WCW Wrestling: The Rise and Fall of a Wrestling Icon</title>
+                    <meta name="description" content="Discover the legacy of WCW Wrestling, a powerhouse in the wrestling world known for unforgettable matches and legendary stars. Explore its rise, thrilling storylines, and the reasons behind its decline. Join fans in celebrating the impact of WCW on professional wrestling history.">
+                    <meta name="keywords" content="wcw wrestling">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wcw-wrestling">
+                            <span itemprop="name">wcw wrestling</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WCW Wrestling: The Rise and Fall of a Wrestling Icon</h1>
+                <p>WCW Wrestling, or World Championship Wrestling, was a major professional wrestling promotion that dominated the 1990s. Known for its intense rivalries and iconic matches, WCW introduced legendary wrestlers like Hulk Hogan and Sting. Its innovative storytelling and production values transformed wrestling entertainment, making it a fan favorite before its eventual decline.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WCW Wrestling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/1f/WCW_World_Championship_Wrestling_Coverart.png' alt='WCW Wrestling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="252">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/1f/WCW_World_Championship_Wrestling_Coverart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 50 greatest stars in WCW history | WWE">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/og_image/public/list/intro/2012/05/20120516_Article_Top50_WCW.jpg' alt='The 50 greatest stars in WCW history | WWE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/og_image/public/list/intro/2012/05/20120516_Article_Top50_WCW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Championship Wrestling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e5/Wcw_logo.svg' alt='World Championship Wrestling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1004">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e5/Wcw_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best of WCW Monday Nitro, Vol. 2">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1MqjtsT3IL._AC_UF894,1000_QL80_.jpg' alt='The Best of WCW Monday Nitro, Vol. 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1MqjtsT3IL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE: The Rise And Fall of WCW">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjM2YjVmZTItNzYxZC00NTU5LTk3MmQtMDdiMmQ5OTg0NGM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg' alt='WWE: The Rise And Fall of WCW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjM2YjVmZTItNzYxZC00NTU5LTk3MmQtMDdiMmQ5OTg0NGM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A.I Ranks The Best WCW Wrestlers Of All Time">
+                                <img itemprop="contentUrl url" src='https://static0.thesportsterimages.com/wordpress/wp-content/uploads/wm/2024/12/we-asked-a-i-to-rank-the-10-best-wcw-wrestlers-of-all-time.jpg' alt='A.I Ranks The Best WCW Wrestlers Of All Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheSportster" />
+                                </span>
+                                <a href='https://static0.thesportsterimages.com/wordpress/wp-content/uploads/wm/2024/12/we-asked-a-i-to-rank-the-10-best-wcw-wrestlers-of-all-time.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best Wrestlers in WCW History (Ranked)">
+                                <img itemprop="contentUrl url" src='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/09/wcw.jpg' alt='9 Best Wrestlers in WCW History (Ranked)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GiveMeSport" />
+                                </span>
+                                <a href='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/09/wcw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of WCW World Heavyweight Champions - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b6/DDPChampBelt.jpg' alt='List of WCW World Heavyweight Champions - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b6/DDPChampBelt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FULL EPISODE: WCW Saturday Night, Aug. 27, 1994 - Austin, Regal, Vader and  more in action!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tNjIClDfm4o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNFogKXmHg0fCDtIp2gJMs8E3VxQ' alt='FULL EPISODE: WCW Saturday Night, Aug. 27, 1994 - Austin, Regal, Vader and  more in action!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tNjIClDfm4o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNFogKXmHg0fCDtIp2gJMs8E3VxQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Killed WCW? A New Show Unpacks the Collapse of a Wrestling ...">
+                                <img itemprop="contentUrl url" src='https://www.vice.com/wp-content/uploads/sites/2/2024/05/1717062614051-img4052.jpeg?w=1024' alt='Who Killed WCW? A New Show Unpacks the Collapse of a Wrestling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICE" />
+                                </span>
+                                <a href='https://www.vice.com/wp-content/uploads/sites/2/2024/05/1717062614051-img4052.jpeg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Metroid Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore a curated collection of captivating 4K Metroid wallpapers. Perfect for gamers and fans, these high-resolution images enhance your devices with vivid visuals. Download your favorites today and bring the Metroid universe to your screens!">
+                    <meta name="keywords" content="metroid wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/metroid-wallpaper-4k">
+                            <span itemprop="name">metroid wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Metroid Wallpapers for Gamers</h1>
+                <p>Transform your space with stunning 4K Metroid wallpapers! Whether you're a fan of Samus Aran or the intricate worlds of the Metroid universe, our high-resolution images provide vibrant colors and amazing detail. Perfect for gaming enthusiasts looking to enhance their desktop or mobile device experience. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid Prime Remastered - 4K Wallpapers (3840x2160) : r/Metroid">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/metroid-prime-remastered-4k-wallpapers-3840x2160-v0-hh0v6suu9lha1.png?width=3840&format=png&auto=webp&s=4fdce729588d8cd9eedcf9c578c8439956ff59bc' alt='Metroid Prime Remastered - 4K Wallpapers (3840x2160) : r/Metroid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/metroid-prime-remastered-4k-wallpapers-3840x2160-v0-hh0v6suu9lha1.png?width=3840&format=png&auto=webp&s=4fdce729588d8cd9eedcf9c578c8439956ff59bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metroid HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/923/923113.jpg' alt='Download Video Game Metroid HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2458">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/923/923113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Metroid Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/metroid-3nc8jol5751aw6co.jpg' alt='100+] Metroid Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/metroid-3nc8jol5751aw6co.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samus Aran in Action - 4K Ultra HD Metroid Wallpaper by Miguel Blanco">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/113/1136440.jpg' alt='Samus Aran in Action - 4K Ultra HD Metroid Wallpaper by Miguel Blanco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/113/1136440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metroid Dread 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/130/1305931.jpeg' alt='Download Video Game Metroid Dread 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/130/1305931.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid Dread, Samus, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/849/919/HD-wallpaper-metroid-dread-samus.jpg' alt='Metroid Dread, Samus, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/849/919/HD-wallpaper-metroid-dread-samus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid Prime Remastered - 4K Wallpapers (3840x2160) : r/Metroid">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/metroid-prime-remastered-4k-wallpapers-3840x2160-v0-oxrray7v9lha1.png?width=3840&format=png&auto=webp&s=efc101b0196d3485272ecdbef867399d24755339' alt='Metroid Prime Remastered - 4K Wallpapers (3840x2160) : r/Metroid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/metroid-prime-remastered-4k-wallpapers-3840x2160-v0-oxrray7v9lha1.png?width=3840&format=png&auto=webp&s=efc101b0196d3485272ecdbef867399d24755339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid 4K by DragonCrestPC on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6252c821-132a-4309-b174-40c0f4ed6a21/df3zb0p-7c08d209-bdbc-4687-b4bb-fe6a17c18354.png/v1/fill/w_1280,h_720,q_80,strp/metroid_4k_by_dragoncrestpc_df3zb0p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjI1MmM4MjEtMTMyYS00MzA5LWIxNzQtNDBjMGY0ZWQ2YTIxXC9kZjN6YjBwLTdjMDhkMjA5LWJkYmMtNDY4Ny1iNGJiLWZlNmExN2MxODM1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UIjZcfAn4ocbcO31We-dRIBpkF-BfLw7zoPOUY8J4m0' alt='Metroid 4K by DragonCrestPC on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6252c821-132a-4309-b174-40c0f4ed6a21/df3zb0p-7c08d209-bdbc-4687-b4bb-fe6a17c18354.png/v1/fill/w_1280,h_720,q_80,strp/metroid_4k_by_dragoncrestpc_df3zb0p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjI1MmM4MjEtMTMyYS00MzA5LWIxNzQtNDBjMGY0ZWQ2YTIxXC9kZjN6YjBwLTdjMDhkMjA5LWJkYmMtNDY4Ny1iNGJiLWZlNmExN2MxODM1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UIjZcfAn4ocbcO31We-dRIBpkF-BfLw7zoPOUY8J4m0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I remade one of my favourite Metroid wallpapers! : r/Metroid">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-remade-one-of-my-favourite-metroid-wallpapers-v0-04atpn6cquud1.jpg?width=640&crop=smart&auto=webp&s=07dfdafbcf75771f71f6e1ff3705cc1c7d65adb9' alt='I remade one of my favourite Metroid wallpapers! : r/Metroid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-remade-one-of-my-favourite-metroid-wallpapers-v0-04atpn6cquud1.jpg?width=640&crop=smart&auto=webp&s=07dfdafbcf75771f71f6e1ff3705cc1c7d65adb9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Samus Aran Armor Video Game Metroid 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/104/1040981.jpg' alt='Download Samus Aran Armor Video Game Metroid 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/104/1040981.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

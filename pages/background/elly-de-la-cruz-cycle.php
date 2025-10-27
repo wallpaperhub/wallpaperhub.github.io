@@ -1,0 +1,129 @@
+<title>Elly De La Cruz's Spectacular Cycle: A Rising Star in MLB</title>
+                    <meta name="description" content="Discover Elly De La Cruz's unforgettable cycle in MLB, a moment that highlights his extraordinary skills and potential. Explore the impact of this achievement on his career and the excitement it brings to baseball fans everywhere!">
+                    <meta name="keywords" content="elly de la cruz cycle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elly-de-la-cruz-cycle">
+                            <span itemprop="name">elly de la cruz cycle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elly De La Cruz's Spectacular Cycle: A Rising Star in MLB</h1>
+                <p>Elly De La Cruz’s cycle is a remarkable achievement in Major League Baseball, showcasing his incredible talent and versatility. During this game, he demonstrated exceptional hitting skills, speed on the bases, and defensive prowess, highlighting his potential as a future star in the league. Fans and analysts alike are excited for what lies ahead.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz hits for cycle">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/beb9c5y3magjp0fofrau' alt='Elly De La Cruz hits for cycle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/beb9c5y3magjp0fofrau' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz HITS FOR THE CYCLE!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W3bvOAB8Vuc/maxresdefault.jpg' alt='Elly De La Cruz HITS FOR THE CYCLE!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W3bvOAB8Vuc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz hits for cycle">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/lwl7mlzlc3wxvkdbjz1c.jpg' alt='Elly De La Cruz hits for cycle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/lwl7mlzlc3wxvkdbjz1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz has hit for the Cycle! : r/mlb">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/elly-de-la-cruz-has-hit-for-the-cycle-v0-0226nvj79v7b1.jpg?width=640&crop=smart&auto=webp&s=b58f0a9b97ea7f803440f730a51143b8f5839885' alt='Elly De La Cruz has hit for the Cycle! : r/mlb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/elly-de-la-cruz-has-hit-for-the-cycle-v0-0226nvj79v7b1.jpg?width=640&crop=smart&auto=webp&s=b58f0a9b97ea7f803440f730a51143b8f5839885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz Hits for Cycle, Accomplishes MLB Feat Not Seen in ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTk4ODc5Nzc4NjU5Mzc4OTUx/usatsi_20939124-1.jpg' alt='Elly De La Cruz Hits for Cycle, Accomplishes MLB Feat Not Seen in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTk4ODc5Nzc4NjU5Mzc4OTUx/usatsi_20939124-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reds rookie Elly De La Cruz hits for the cycle against Braves ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/389831f/2147483647/strip/false/crop/6459x4306+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F8e%2F32d6a4cc416e87b475a132b43f70%2Fbraves-reds-baseball-71011.jpg' alt='Reds rookie Elly De La Cruz hits for the cycle against Braves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/389831f/2147483647/strip/false/crop/6459x4306+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F8e%2F32d6a4cc416e87b475a132b43f70%2Fbraves-reds-baseball-71011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz hits for cycle">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1024,c_fill,f_jpg,dpr_3.0/mlb/ixuhzaolluag7zzufea9' alt='Elly De La Cruz hits for cycle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1024,c_fill,f_jpg,dpr_3.0/mlb/ixuhzaolluag7zzufea9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Elly De La Cruz hit for the cycle - MLB Stories">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/jjy6kn17ukuckofumafh' alt='Watch Elly De La Cruz hit for the cycle - MLB Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2608">
+                                <meta itemprop="height" content="4636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/jjy6kn17ukuckofumafh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ELLY DE LA CRUZ HITS FOR THE CYCLE">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pnmK8fJSqUA/maxresdefault.jpg' alt='ELLY DE LA CRUZ HITS FOR THE CYCLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pnmK8fJSqUA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elly De La Cruz hits for the cycle in just his 15th career game ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3131892111582519455' alt='Elly De La Cruz hits for the cycle in just his 15th career game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3131892111582519455' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

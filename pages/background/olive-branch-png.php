@@ -1,0 +1,129 @@
+<title>High-Quality Olive Branch PNG Images for Design</title>
+                    <meta name="description" content="Explore our premium selection of olive branch PNGs perfect for all your design needs. Easily downloadable and ideal for projects that call for a touch of elegance and symbolism. Enhance your visuals with beautiful, high-quality graphics that communicate peace and harmony.">
+                    <meta name="keywords" content="olive branch png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/olive-branch-png">
+                            <span itemprop="name">olive branch png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Olive Branch PNG Images for Design</h1>
+                <p>Discover our collection of olive branch PNG images, perfect for enhancing your design projects. These versatile graphics symbolize peace and harmony, making them ideal for various uses, from invitations to digital art. Download high-quality olive branch PNGs to elevate your creative work effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch PNG Transparent Clipart​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/30464' alt='Olive Branch PNG Transparent Clipart​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="3943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/30464' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190530/ourmid/pngtree-hand-drawn-black-and-white-olive-branch-image_1262086.jpg' alt='Olive Branch PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190530/ourmid/pngtree-hand-drawn-black-and-white-olive-branch-image_1262086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Tree Branch No Olives PNG Images & PSDs for Download ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/olive-tree-branch-no-olives-Gqv4D87-600.jpg' alt='Olive Tree Branch No Olives PNG Images & PSDs for Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/olive-tree-branch-no-olives-Gqv4D87-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/fresh-olive-branch-against-white-background_84443-27366.jpg' alt='Olive Branch Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/fresh-olive-branch-against-white-background_84443-27366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green olive branch isolated on a transparent background 22024879 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/024/879/non_2x/green-olive-branch-isolated-on-a-transparent-background-png.png' alt='Green olive branch isolated on a transparent background 22024879 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/024/879/non_2x/green-olive-branch-isolated-on-a-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium png of Green olive branch plant transparent png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/68/3e/1a683e0e14f7efb2c1d1dac1848fd26c.jpg' alt='Download premium png of Green olive branch plant transparent png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/68/3e/1a683e0e14f7efb2c1d1dac1848fd26c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Tree Branch PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/429/547/small_2x/leafy-olive-tree-branch-with-beautiful-shape-isolated-transparent-background-png.png' alt='Olive Tree Branch PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/429/547/small_2x/leafy-olive-tree-branch-with-beautiful-shape-isolated-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch with Green Olives Lying PNG Images & PSDs for ...">
+                                <img itemprop="contentUrl url" src='https://atlas-content-cdn.pixelsquid.com/assets_v2/291/2912720407465301350/jpeg-600/G03.jpg?modifiedAt=1' alt='Olive Branch with Green Olives Lying PNG Images & PSDs for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='https://atlas-content-cdn.pixelsquid.com/assets_v2/291/2912720407465301350/jpeg-600/G03.jpg?modifiedAt=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch - Olive Branch with Green Leaves and Olives ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181130/kxa/kisspng-olive-oil-portable-network-graphics-olive-branch-s-anasayfa-web-site-temasi-1713916361291.webp' alt='Olive Branch - Olive Branch with Green Leaves and Olives ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181130/kxa/kisspng-olive-oil-portable-network-graphics-olive-branch-s-anasayfa-web-site-temasi-1713916361291.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Branch Png Stock Illustrations – 678 Olive Branch Png Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/olive-branch-icon-trendy-olive-branch-logo-concept-white-bac-olive-branch-icon-trendy-olive-branch-logo-concept-white-131171282.jpg' alt='Olive Branch Png Stock Illustrations – 678 Olive Branch Png Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/olive-branch-icon-trendy-olive-branch-logo-concept-white-bac-olive-branch-icon-trendy-olive-branch-logo-concept-white-131171282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

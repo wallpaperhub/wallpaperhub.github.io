@@ -1,0 +1,129 @@
+<title>Whimsical Fall Gnomes Clipart for Your Seasonal Designs</title>
+                    <meta name="description" content="Discover charming fall gnomes clipart to elevate your autumn creations! Ideal for crafts, invitations, and digital projects, our collection features whimsical designs full of seasonal spirit. Perfect for adding a cozy touch to your artwork. Download and embrace the joy of fall today!">
+                    <meta name="keywords" content="fall gnomes clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-gnomes-clipart">
+                            <span itemprop="name">fall gnomes clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Fall Gnomes Clipart for Your Seasonal Designs</h1>
+                <p>Enhance your fall designs with delightful fall gnomes clipart! Perfect for autumn-themed projects, these whimsical gnomes bring a touch of charm and color to your crafts, invitations, or digital creations. Featuring cozy hats, pumpkins, and fall leaves, our clipart adds seasonal joy to every design. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Autumn Gnomes, Gnome Clipart Png">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/274-2-dcfda6c51434fcabba9a10e483cb001cae7e7a8c9cc9bf64a786ccef15649af8.jpg' alt='Fall Autumn Gnomes, Gnome Clipart Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/274-2-dcfda6c51434fcabba9a10e483cb001cae7e7a8c9cc9bf64a786ccef15649af8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall bundle. Thanksgiving clipart. Fall Gnomes. Autumn SVG By ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4185991_7a8htcjj98qzhph8s4mkjl3z9kwfw5xrhp4fl9vc_fall-bundle-thanksgiving-clipart-fall-gnomes-autumn-svg.gif' alt='Fall bundle. Thanksgiving clipart. Fall Gnomes. Autumn SVG By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4185991_7a8htcjj98qzhph8s4mkjl3z9kwfw5xrhp4fl9vc_fall-bundle-thanksgiving-clipart-fall-gnomes-autumn-svg.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Gnome Clipart, Fall Gnome Sublimation PNG, Coffee ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5329279/r/il/e84108/3273440626/il_570xN.3273440626_sld7.jpg' alt='Pumpkin Spice Gnome Clipart, Fall Gnome Sublimation PNG, Coffee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5329279/r/il/e84108/3273440626/il_570xN.3273440626_sld7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Gnome Stock Illustrations – 1,879 Fall Gnome Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fall-gnome-pumkins-nordic-magic-dwarfs-hand-drawn-watercolor-illustration-isolated-cute-cartoon-character-fall-gnome-323006482.jpg' alt='Fall Gnome Stock Illustrations – 1,879 Fall Gnome Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fall-gnome-pumkins-nordic-magic-dwarfs-hand-drawn-watercolor-illustration-isolated-cute-cartoon-character-fall-gnome-323006482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Gnomes Hand Drawn Digital Clipart - Set of 16 - Gnomes Pumpkin  Sunflower Pumpkin Spice Coffee - Instant Download - Item #9214">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5507584/r/il/9d90c6/2572984135/il_fullxfull.2572984135_ih85.jpg' alt='Fall Gnomes Hand Drawn Digital Clipart - Set of 16 - Gnomes Pumpkin  Sunflower Pumpkin Spice Coffee - Instant Download - Item #9214'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5507584/r/il/9d90c6/2572984135/il_fullxfull.2572984135_ih85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Gnomes Clipart, Nordic Gnomes Clipart, Thanksgiving Gnomes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/c3/74/fcc374cb617d2823a67106f521e65edc.jpg' alt='Fall Gnomes Clipart, Nordic Gnomes Clipart, Thanksgiving Gnomes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/c3/74/fcc374cb617d2823a67106f521e65edc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall gnomes clipart, autumn pumpkins, buffalo - Crealandia">
+                                <img itemprop="contentUrl url" src='https://crealandia.com/wp-content/uploads/2022/08/Fall-gnomes-clipart_01-1.jpg' alt='Fall gnomes clipart, autumn pumpkins, buffalo - Crealandia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crealandia" />
+                                </span>
+                                <a href='https://crealandia.com/wp-content/uploads/2022/08/Fall-gnomes-clipart_01-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Autumn Gnomes, Gnome Clipart">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Fall-Autumn-Gnomes-Gnome-Clipart-10094556-1693319173/original-10094556-3.jpg' alt='Fall Autumn Gnomes, Gnome Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Fall-Autumn-Gnomes-Gnome-Clipart-10094556-1693319173/original-10094556-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Gnome PNG Clipart Pumpkin Season/ Hello (2569534)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/1-169e349caae7ccbd871221bb5b546188bd2f7c96a56e2053e304d303782e3e04.jpg' alt='Fall Gnome PNG Clipart Pumpkin Season/ Hello (2569534)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/1-169e349caae7ccbd871221bb5b546188bd2f7c96a56e2053e304d303782e3e04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn gnomes with autumn elements. Fall shirt design. DIY fall ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/040/294/non_2x/autumn-gnomes-with-autumn-elements-fall-shirt-design-diy-fall-gnomes-shirt-design-gnomes-with-leaves-pumpkin-autumn-sublimation-free-png.png' alt='Autumn gnomes with autumn elements. Fall shirt design. DIY fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/040/294/non_2x/autumn-gnomes-with-autumn-elements-fall-shirt-design-diy-fall-gnomes-shirt-design-gnomes-with-leaves-pumpkin-autumn-sublimation-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

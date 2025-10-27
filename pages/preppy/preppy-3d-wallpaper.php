@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Preppy 3D Wallpaper</title>
+                    <meta name="description" content="Discover stylish preppy 3D wallpaper that adds depth and flair to your decor. Perfect for any space, these vibrant designs reflect personality and elegance. Upgrade your home or office with stunning visuals that captivate and inspire. Perfect for modern living!">
+                    <meta name="keywords" content="preppy 3d wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-3d-wallpaper">
+                            <span itemprop="name">preppy 3d wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Preppy 3D Wallpaper</h1>
+                <p>Transform your space with preppy 3D wallpaper, offering a stylish and modern touch to any room. These wallpapers bring vibrant colors and playful patterns to life, creating an illusion of depth and dimension. Perfect for bedrooms, offices, or living areas, they elevate your decor effortlessly while showcasing your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Phone Wallpapers, 145 Aesthetic Phone Background, Room Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33191584/r/il/46fadd/5174726443/il_570xN.5174726443_cwdh.jpg' alt='3D Phone Wallpapers, 145 Aesthetic Phone Background, Room Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33191584/r/il/46fadd/5174726443/il_570xN.5174726443_cwdh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-8.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy #wallpaper #3Dwallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/d9/0a/a1d90ab388b9e00942983559a7fdb708.jpg' alt='preppy #wallpaper #3Dwallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/d9/0a/a1d90ab388b9e00942983559a7fdb708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Latest on Fab Mood Wedding Colour Palette">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-6.jpg' alt='Latest on Fab Mood Wedding Colour Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Latest on Fab Mood Wedding Colour Palette" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Preppy Wallpaper Ideas To Elevate Your Screen Style : 3D Red ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/eb/54/50eb54a34a9a3b615c747d4611a3e777.jpg' alt='50 Preppy Wallpaper Ideas To Elevate Your Screen Style : 3D Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/eb/54/50eb54a34a9a3b615c747d4611a3e777.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-4.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper 3d bubbles      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f7/3f/02/f73f02a33cbf187612ec278f5527c4d7.jpg' alt='Wallpaper 3d bubbles      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f7/3f/02/f73f02a33cbf187612ec278f5527c4d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-2.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/aesthetic-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Phone Wallpapers, 145 Aesthetic Phone Background, Room Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33191584/r/il/574984/5126484460/il_570xN.5126484460_myad.jpg' alt='3D Phone Wallpapers, 145 Aesthetic Phone Background, Room Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33191584/r/il/574984/5126484460/il_570xN.5126484460_myad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @Luciana   match phonewallpaper，preppy 3d #preppy  #phonewallpaper #pinkwallpaper #3dwallaper #match #fyp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7256425767746276613&location=0&aid=1988' alt='Replying to @Luciana   match phonewallpaper，preppy 3d #preppy  #phonewallpaper #pinkwallpaper #3dwallaper #match #fyp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7256425767746276613&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

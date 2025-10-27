@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Wallpaper: Timeless Designs</title>
+                    <meta name="description" content="Discover the beauty of vintage wallpaper to elevate your home's style. Explore timeless patterns and designs that add character and nostalgia to any room. Perfect for DIY enthusiasts and interior design lovers looking for unique decor solutions. Unleash your creativity with vintage charm today!">
+                    <meta name="keywords" content="vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-wallpaper">
+                            <span itemprop="name">vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Wallpaper: Timeless Designs</h1>
+                <p>Vintage wallpaper brings a unique charm to any space, evoking nostalgia through intricate designs and patterns. Perfect for those looking to add character to their interiors, these wallpapers come in various styles, from Art Deco to floral prints. Revitalize your home with the timeless elegance of vintage wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Peel and Stick Wallpaper Floral Wallpaper Vintage Contact Paper  196.8"x16.1" Removable Wallpaper Black Flower Leaf Self Adhesive Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81U2-KgOuRL.jpg' alt='Toduso Peel and Stick Wallpaper Floral Wallpaper Vintage Contact Paper  196.8"x16.1" Removable Wallpaper Black Flower Leaf Self Adhesive Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81U2-KgOuRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/06/WR563HC-S-MeadowsAntique-Stone-1.jpg' alt='Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/06/WR563HC-S-MeadowsAntique-Stone-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick Wallpaper  for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kzf+2bdbL._AC_UF894,1000_QL80_.jpg' alt='Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick Wallpaper  for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kzf+2bdbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden, Ivory">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1672829829/articles/R19268_interior1.jpg' alt='Vintage Garden, Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1672829829/articles/R19268_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Botanical Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_9765_f54deaef-76be-4483-ab98-a130e915abd5.jpg?v=1501613321' alt='1950s Botanical Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_9765_f54deaef-76be-4483-ab98-a130e915abd5.jpg?v=1501613321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony in Pigeon – North and Finch">
+                                <img itemprop="contentUrl url" src='http://northandfinch.com/cdn/shop/products/BluePeony_b461b9af-97f1-4e73-990d-7dd0dbde0ae0.jpg?v=1676058737' alt='Peony in Pigeon – North and Finch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="2040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North and Finch" />
+                                </span>
+                                <a href='http://northandfinch.com/cdn/shop/products/BluePeony_b461b9af-97f1-4e73-990d-7dd0dbde0ae0.jpg?v=1676058737' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Triaste - Brown">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/73807/vintage-triaste-brown.jpg?h=699&q=85' alt='Vintage Triaste - Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/73807/vintage-triaste-brown.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202771.jpg' alt='Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' alt='Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2369">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper by the Yard - Floral Vintage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5251483/r/il/068ae6/898501606/il_1080xN.898501606_7oa9.jpg' alt='1960s Vintage Wallpaper by the Yard - Floral Vintage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5251483/r/il/068ae6/898501606/il_1080xN.898501606_7oa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

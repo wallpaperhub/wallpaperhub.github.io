@@ -1,0 +1,129 @@
+<title>Does Divorce Show Up on a Background Check?</title>
+                    <meta name="description" content="Learn if a divorce can appear on background checks. Discover what information is public and how it can impact employment and housing opportunities. Stay informed about your rights and the specifics of background checks related to divorce records.">
+                    <meta name="keywords" content="does a divorce show up on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-divorce-show-up-on-a-background-check">
+                            <span itemprop="name">does a divorce show up on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Divorce Show Up on a Background Check?</h1>
+                <p>Yes, a divorce typically shows up on a background check, especially if the check includes public records. Divorce records are publicly accessible, which means potential employers or landlords can discover this information. However, it's essential to note that the details seen may vary depending on the type of background check conducted.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Divorce Show Up on a Background Check? - Law Expression">
+                                <img itemprop="contentUrl url" src='http://lawexpression.com/wp-content/uploads/2022/08/Does-Divorce-Show-Up-on-a-Background-Check-1024x679.jpg' alt='Does Divorce Show Up on a Background Check? - Law Expression'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Expression" />
+                                </span>
+                                <a href='http://lawexpression.com/wp-content/uploads/2022/08/Does-Divorce-Show-Up-on-a-Background-Check-1024x679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Show Employers?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' alt='What Does a Background Check Show Employers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on a Background Check? - Spendmenot">
+                                <img itemprop="contentUrl url" src='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' alt='What Shows Up on a Background Check? - Spendmenot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spendmenot" />
+                                </span>
+                                <a href='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Do a Criminal Background Check by darren chase - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/120103095136-6755e7c18c0d4b509eebebae8f0d5012/jpg/page_1_thumb_large.jpg' alt='How To Do a Criminal Background Check by darren chase - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/120103095136-6755e7c18c0d4b509eebebae8f0d5012/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Restraining Orders Show Up On Employment Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-restraining-orders-show-up-on-employment-background-checks.govbackgroundchecks.com/screenshots/do-restraining-orders-show-up-on-employment-background-checks/3.jpg' alt='Do Restraining Orders Show Up On Employment Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-restraining-orders-show-up-on-employment-background-checks.govbackgroundchecks.com/screenshots/do-restraining-orders-show-up-on-employment-background-checks/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Importance of Background Verification Before Marriage - City ...">
+                                <img itemprop="contentUrl url" src='https://cityintelligence.net/wp-content/uploads/2023/02/background-check.png' alt='Importance of Background Verification Before Marriage - City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City Intelligence" />
+                                </span>
+                                <a href='https://cityintelligence.net/wp-content/uploads/2023/02/background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Restraining Orders Show Up On Employment Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-restraining-orders-show-up-on-employment-background-checks.govbackgroundchecks.com/screenshots/do-restraining-orders-show-up-on-employment-background-checks/4.jpg' alt='Do Restraining Orders Show Up On Employment Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-restraining-orders-show-up-on-employment-background-checks.govbackgroundchecks.com/screenshots/do-restraining-orders-show-up-on-employment-background-checks/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go in Texas? | Thiessen ...">
+                                <img itemprop="contentUrl url" src='https://www.thetexastrialattorney.com/wp-content/uploads/2020/03/shutterstock_571652542-1200x675.jpg' alt='How Far Back Does a Background Check Go in Texas? | Thiessen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thiessen Law Firm" />
+                                </span>
+                                <a href='https://www.thetexastrialattorney.com/wp-content/uploads/2020/03/shutterstock_571652542-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Bankruptcies Show Up On Background Checks? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' alt='Do Bankruptcies Show Up On Background Checks? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Divorce Affects Federal Employee Security Clearances and ...">
+                                <img itemprop="contentUrl url" src='https://bourdontortolero.com/wp-content/uploads/2024/10/How-Divorce-Affects-Federal-Employee-Security-Clearances-and-Background-Checks-in-Northern-Virginia.png' alt='How Divorce Affects Federal Employee Security Clearances and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bourdon & Tortolero, PLLC" />
+                                </span>
+                                <a href='https://bourdontortolero.com/wp-content/uploads/2024/10/How-Divorce-Affects-Federal-Employee-Security-Clearances-and-Background-Checks-in-Northern-Virginia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

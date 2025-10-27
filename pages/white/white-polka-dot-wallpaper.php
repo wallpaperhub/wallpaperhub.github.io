@@ -1,0 +1,129 @@
+<title>"Charming White Polka Dot Wallpaper for Every Room"</title>
+                    <meta name="description" content="Discover the timeless appeal of white polka dot wallpaper! Transform your living spaces with this playful design that suits any room. Enhance your decor with a touch of whimsy while enjoying versatility and style. Shop now for patterns that elevate your interior design effortlessly.">
+                    <meta name="keywords" content="white polka dot wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-polka-dot-wallpaper">
+                            <span itemprop="name">white polka dot wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Charming White Polka Dot Wallpaper for Every Room"</h1>
+                <p>White polka dot wallpaper offers a charming and whimsical touch to interiors, adding depth and personality to any space. Perfect for bedrooms, nurseries, or playful living areas, this classic pattern effortlessly blends with various decor styles. Elevate your home with vibrant colors or subtle tones to match your unique aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Black On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' alt=''Polka Dot' Wallpaper by Sugar Paper - Black On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Pink On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_pink-on-white_C_for_web_f9c3c824-1dd3-4e2b-b934-30cf9f953e84.jpg?v=1615485580' alt=''Polka Dot' Wallpaper by Sugar Paper - Pink On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_pink-on-white_C_for_web_f9c3c824-1dd3-4e2b-b934-30cf9f953e84.jpg?v=1615485580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Peel and Stick Wallpaper Polka Dot Contact Paper Black and White  Wallpaper 17.7” x 118.1” Polka Dots Wallpaper Stick and Peel Black Dot ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719AcKxJCNL.jpg' alt='Jeweluck Peel and Stick Wallpaper Polka Dot Contact Paper Black and White  Wallpaper 17.7” x 118.1” Polka Dots Wallpaper Stick and Peel Black Dot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719AcKxJCNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - French Blue On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_blue-on-white_B_for_web_1024x1024_e210a8c3-6e9a-43af-9388-4838e6211f8b.jpg?v=1588609612' alt=''Polka Dot' Wallpaper by Sugar Paper - French Blue On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_blue-on-white_B_for_web_1024x1024_e210a8c3-6e9a-43af-9388-4838e6211f8b.jpg?v=1588609612' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GaliGali Peel and Stick Wallpaper, Contact Paper for Home Decorate, Black  and White Polka-Dot Wallpaper, Self-Adhesive Wallpaper Peel and Stick,  Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Go8INmOQL._AC_UF894,1000_QL80_.jpg' alt='GaliGali Peel and Stick Wallpaper, Contact Paper for Home Decorate, Black  and White Polka-Dot Wallpaper, Self-Adhesive Wallpaper Peel and Stick,  Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Go8INmOQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka dot wallpaper Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/polka-dot-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Polka dot wallpaper Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/polka-dot-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dot Black and White Spots PEEL & STICK Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_570xN.2263498324_k6t2.jpg' alt='Polka Dot Black and White Spots PEEL & STICK Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_570xN.2263498324_k6t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Navy On White">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/PolkaDot_navy-on-white_E_detail_8108ce00-cb58-45b9-b8d7-22e1a408ea02_720x.jpg?v=1633378539' alt=''Polka Dot' Wallpaper by Sugar Paper - Navy On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/PolkaDot_navy-on-white_E_detail_8108ce00-cb58-45b9-b8d7-22e1a408ea02_720x.jpg?v=1633378539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Glass Bead Textured Polka Dot Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/off-white-glass-bead-textured-polka-dot-odhm.jpg' alt='Off White Glass Bead Textured Polka Dot Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/off-white-glass-bead-textured-polka-dot-odhm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="╰☆Black⚫️⚪️White☆╮">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/9d/b3/229db39bfd06aabf3a522405ddb5e73e.jpg' alt='╰☆Black⚫️⚪️White☆╮'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/9d/b3/229db39bfd06aabf3a522405ddb5e73e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

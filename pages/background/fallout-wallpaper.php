@@ -1,0 +1,129 @@
+<title>Stunning Fallout Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore a vibrant collection of Fallout wallpapers! Perfect for fans who want to showcase their love for the game with high-quality images. From iconic scenes to beloved characters, find your perfect backdrop and transform your device today!">
+                    <meta name="keywords" content="fallout wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fallout-wallpaper">
+                            <span itemprop="name">fallout wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fallout Wallpapers for Every Fan</h1>
+                <p>Discover stunning Fallout wallpapers that bring the post-apocalyptic world to your screen. Featuring iconic characters, landscapes, and art, our collection is perfect for fans of the franchise. Enhance your device's aesthetic with high-quality images that capture the spirit of survival and adventure in Fallout. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Fallout background. It really captures the feel of the ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/boMwWBb.jpg' alt='My favorite Fallout background. It really captures the feel of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/boMwWBb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Randomly stumbled upon this Fallout wallpaper. It's my favorite ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/urSgM.jpg' alt='Randomly stumbled upon this Fallout wallpaper. It's my favorite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/urSgM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 76 Ultra HD Adventure Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/927/thumb-1920-927080.jpg' alt='Fallout 76 Ultra HD Adventure Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/927/thumb-1920-927080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Fallout 4 Wallpaper for those that are interested. : r/fo4">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/3ooBGhPsbEiC3VKJ3GzU3iwFuvrS6BKD9g-hD65OHqk.jpg?auto=webp&s=f9908fa1c3e2f8e111f7b9551703c19ba9641b8e' alt='A Fallout 4 Wallpaper for those that are interested. : r/fo4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/3ooBGhPsbEiC3VKJ3GzU3iwFuvrS6BKD9g-hD65OHqk.jpg?auto=webp&s=f9908fa1c3e2f8e111f7b9551703c19ba9641b8e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 4: Post-Apocalyptic Warrior HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/10/ee/0910eeeece66e2a672d8c66781cffe29.jpg' alt='Fallout 4: Post-Apocalyptic Warrior HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/10/ee/0910eeeece66e2a672d8c66781cffe29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another amazing Fallout wallpaper : r/Fallout">
+                                <img itemprop="contentUrl url" src='http://www.fallout.ru/fallout/fan-art/pictures/city_ruins.jpg' alt='Another amazing Fallout wallpaper : r/Fallout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://www.fallout.ru/fallout/fan-art/pictures/city_ruins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/9/6/5441-1125x2436-samsung-hd-fallout-background-photo.jpg' alt='Fallout Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/9/6/5441-1125x2436-samsung-hd-fallout-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout: New Vegas Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/342/342392.jpg' alt='Fallout: New Vegas Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/342/342392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster of Fallout TV Show Wallpaper, HD TV Series 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/poster-of-fallout-tv-show_bmdsZWeUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Poster of Fallout TV Show Wallpaper, HD TV Series 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/poster-of-fallout-tv-show_bmdsZWeUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/04/28/ae042825c2a2d759cbdc80e85b423099.jpg' alt='Fallout 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/04/28/ae042825c2a2d759cbdc80e85b423099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

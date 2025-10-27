@@ -1,0 +1,129 @@
+<title>Young M.A: Rising Star in Hip-Hop</title>
+                    <meta name="description" content="Explore the journey of Young M.A, the Brooklyn-born rapper redefining hip-hop with her powerful lyrics and bold presence. Discover her music, impact, and the trail she's blazed for emerging artists.">
+                    <meta name="keywords" content="young ma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/young-ma">
+                            <span itemprop="name">young ma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Young M.A: Rising Star in Hip-Hop</h1>
+                <p>Young M.A is a dynamic rapper and entrepreneur from Brooklyn, whose raw lyricism and unique style have captivated audiences. Bursting onto the scene with her hit single "OOOUUU," she quickly gained a loyal following. Young M.A is not just a musician but a trailblazer, continually breaking barriers in the music industry and inspiring young artists.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7d/Young_M.A._%282018%29.jpg' alt='Young M.A - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7d/Young_M.A._%282018%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapper Young M.A on Her Song 'Ooouuu' and the Beats by Dre ...">
+                                <img itemprop="contentUrl url" src='http://ell.h-cdn.co/assets/16/46/1600x900/hd-aspect-1479139610-3w9a8018-resize-crop.jpg' alt='Rapper Young M.A on Her Song 'Ooouuu' and the Beats by Dre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='http://ell.h-cdn.co/assets/16/46/1600x900/hd-aspect-1479139610-3w9a8018-resize-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A (@youngma) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3491210779880374787' alt='Young M.A (@youngma) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3491210779880374787' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A Dropped One of The Year's Best Freestyles">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2019/09/YoungMa.jpg' alt='Young M.A Dropped One of The Year's Best Freestyles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2019/09/YoungMa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A is a songwriter">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab677762000056b8fc6287038fcaf093581ad092' alt='Young M.A is a songwriter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify for Artists" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab677762000056b8fc6287038fcaf093581ad092' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A. - The Masquerade">
+                                <img itemprop="contentUrl url" src='https://www.masqueradeatlanta.com/wp-content/uploads/2019/10/112919_youngma_site.jpg' alt='Young M.A. - The Masquerade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Masquerade" />
+                                </span>
+                                <a href='https://www.masqueradeatlanta.com/wp-content/uploads/2019/10/112919_youngma_site.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A. | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/998498_v9_ba.jpg' alt='Young M.A. | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/998498_v9_ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A Speaks Out on 'Health Issues' After Viral Video—Full ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2209619/young-m.jpg' alt='Young M.A Speaks Out on 'Health Issues' After Viral Video—Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3206">
+                                <meta itemprop="height" content="3261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2209619/young-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young M.A Talks Her Vulnerable Debut Album & The 'Fake' Industry ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/young-ma-press-2019-cr-Andrew-Boyle-billboard-1548.jpg?w=942&h=623&crop=1' alt='Young M.A Talks Her Vulnerable Debut Album & The 'Fake' Industry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/young-ma-press-2019-cr-Andrew-Boyle-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Young M.A Is Taking Over the New York Rap Scene | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/5891804ae8e3104f57c73cc3/master/pass/00-holding-young-ma.jpg' alt='How Young M.A Is Taking Over the New York Rap Scene | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/5891804ae8e3104f57c73cc3/master/pass/00-holding-young-ma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

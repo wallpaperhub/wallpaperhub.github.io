@@ -1,0 +1,129 @@
+<title>How to Create a Transparent Background in Premiere Pro</title>
+                    <meta name="description" content="Learn how to easily create a transparent background in Premiere Pro. This step-by-step guide helps you remove unwanted backgrounds using the Color Key or Ultra Key effects, enhancing your video projects with seamless overlays. Perfect for beginners and pros alike!">
+                    <meta name="keywords" content="premiere pro transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/premiere-pro-transparent-background">
+                            <span itemprop="name">premiere pro transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Create a Transparent Background in Premiere Pro</h1>
+                <p>In Premiere Pro, creating a transparent background is essential for overlaying videos or graphics. Start by selecting the clip you want to edit, go to the Effects Control panel, and apply the "Color Key" or "Ultra Key" effect. Adjust the settings to remove the background and achieve a seamless transparent look, perfect for any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re: How to export with transparent background in P... - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1134711_Screen%20Shot%202017-02-22%20at%207.57.00%20AM.png' alt='Re: How to export with transparent background in P... - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1134711_Screen%20Shot%202017-02-22%20at%207.57.00%20AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Adobe Premiere Pro CC icon.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png' alt='File:Adobe Premiere Pro CC icon.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2101">
+                                <meta itemprop="height" content="2049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Export Transparent Video in Premiere Pro – Nick Frostbutter">
+                                <img itemprop="contentUrl url" src='https://nick.af/media/articles/adobe/transparent-video/premiere_pro-transparent_background-2-quicktime-settting.png' alt='Export Transparent Video in Premiere Pro – Nick Frostbutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="1312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nick Frostbutter" />
+                                </span>
+                                <a href='https://nick.af/media/articles/adobe/transparent-video/premiere_pro-transparent_background-2-quicktime-settting.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PNG image still showing checkered background in Pr... - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/t5/image/serverpage/image-id/88700iB70942AE0366346C?v=v2' alt='PNG image still showing checkered background in Pr... - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1277">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/t5/image/serverpage/image-id/88700iB70942AE0366346C?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Background in Premiere Pro | Best Settings">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0wsiUCQWKKY/maxresdefault.jpg' alt='Transparent Background in Premiere Pro | Best Settings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0wsiUCQWKKY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Export With A Transparent Background in Premiere Pro (alpha channel)  | Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ukY2IGDXSAU/maxresdefault.jpg' alt='How To Export With A Transparent Background in Premiere Pro (alpha channel)  | Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ukY2IGDXSAU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adobe Premiere Pro PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/437/285/non_2x/adobe-premiere-pro-icon-free-png.png' alt='Adobe Premiere Pro PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/437/285/non_2x/adobe-premiere-pro-icon-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premiere Pro CC Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/premiere-cc-logo-png-transparent.png' alt='Premiere Pro CC Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/premiere-cc-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exporting With A Transparent Background in Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/THp6VgOvgj8/maxresdefault.jpg' alt='Exporting With A Transparent Background in Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/THp6VgOvgj8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adobe Premiere Pro Logo - Adobe Premiere Pro Logo Illustration ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180420/lgw/avfwpctkb.webp' alt='Adobe Premiere Pro Logo - Adobe Premiere Pro Logo Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180420/lgw/avfwpctkb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

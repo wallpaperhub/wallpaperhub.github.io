@@ -1,0 +1,129 @@
+<title>Lion King Birthday Invitation: Roar into the Celebration!</title>
+                    <meta name="description" content="Celebrate your child's special day with a roaring Lion King birthday party invitation! Make unforgettable memories with thrilling games and delightful treats inspired by the Lion King. Join the adventure today!">
+                    <meta name="keywords" content="lion king birthday invitation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lion-king-birthday-invitation">
+                            <span itemprop="name">lion king birthday invitation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lion King Birthday Invitation: Roar into the Celebration!</h1>
+                <p>Join us for a roaring good time at [Child’s Name]’s Lion King birthday party! Celebrate under the African sun with fun games, delicious treats, and your favorite characters! Date: [Date], Time: [Time], Location: [Venue]. Don’t miss the adventure – RSVP by [RSVP Date]! Hakuna Matata!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Invitation Lion King Birthday Party Invitation Lion King Party  Lion King Invite Lion King Card Lion King Digital Card">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22292126/r/il/cd9c9a/2470064172/il_fullxfull.2470064172_61dt.jpg' alt='Lion King Invitation Lion King Birthday Party Invitation Lion King Party  Lion King Invite Lion King Card Lion King Digital Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22292126/r/il/cd9c9a/2470064172/il_fullxfull.2470064172_61dt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Invitation Lion King Birthday Invitation Lion King Party Lion  King Invite Lion King Digital File Lion King Printable File">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30304987/r/il/39711d/3700380039/il_fullxfull.3700380039_b769.jpg' alt='Lion King Invitation Lion King Birthday Invitation Lion King Party Lion  King Invite Lion King Digital File Lion King Printable File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30304987/r/il/39711d/3700380039/il_fullxfull.3700380039_b769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney The Lion King Just Can’t Wait Birthday Invitation for only USD 2.99  | Hallmark">
+                                <img itemprop="contentUrl url" src='https://www.hallmark.com/on/demandware.static/-/Sites-hallmark-master/default/dwbd59738c/images/finished-goods/products/2PGM3300/Disney-Lion-King-Birthday-Invitation_2PGM3300_01.jpg' alt='Disney The Lion King Just Can’t Wait Birthday Invitation for only USD 2.99  | Hallmark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallmark" />
+                                </span>
+                                <a href='https://www.hallmark.com/on/demandware.static/-/Sites-hallmark-master/default/dwbd59738c/images/finished-goods/products/2PGM3300/Disney-Lion-King-Birthday-Invitation_2PGM3300_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Birthday Invitation – Easy Inviting">
+                                <img itemprop="contentUrl url" src='https://www.easyinviting.com/cdn/shop/products/lion-king-birthday-invitation-2-printable_1024x1024.jpg?v=1617230875' alt='Lion King Birthday Invitation – Easy Inviting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Inviting" />
+                                </span>
+                                <a href='https://www.easyinviting.com/cdn/shop/products/lion-king-birthday-invitation-2-printable_1024x1024.jpg?v=1617230875' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Birthday Party Invitation, Simba, Lion King Party, Invite">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTE0MlgxNjAw/z/3gkAAOSwKeRkwz3t/$_57.JPG?set_id=8800005007' alt='Lion King Birthday Party Invitation, Simba, Lion King Party, Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTE0MlgxNjAw/z/3gkAAOSwKeRkwz3t/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lion King Birthday Party Invitation">
+                                <img itemprop="contentUrl url" src='http://jollyowldesigns.com/cdn/shop/products/INVITATION_mockup_1_1200x1200.jpg?v=1594465502' alt='The Lion King Birthday Party Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jolly Owl Designs" />
+                                </span>
+                                <a href='http://jollyowldesigns.com/cdn/shop/products/INVITATION_mockup_1_1200x1200.jpg?v=1594465502' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Simba from Disney's The Lion King" - Customizable Children's Birthday  Party Invitations in Brown by Teju Reval.">
+                                <img itemprop="contentUrl url" src='https://mintedcdn0.global.ssl.fastly.net/files/mintedProductsImages/MIN/CBP/6W2/MIN-6W2-CBP-001_A_PZ.jpg' alt='"Simba from Disney's The Lion King" - Customizable Children's Birthday  Party Invitations in Brown by Teju Reval.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minted" />
+                                </span>
+                                <a href='https://mintedcdn0.global.ssl.fastly.net/files/mintedProductsImages/MIN/CBP/6W2/MIN-6W2-CBP-001_A_PZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Nala Lion King 1st Birthday Invitation DIY | Bobotemp">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/jQzDHV7Ndy/zVQfCInQut___OlIdB_640.webp' alt='Printable Nala Lion King 1st Birthday Invitation DIY | Bobotemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/jQzDHV7Ndy/zVQfCInQut___OlIdB_640.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King Birthday Invitation Printable">
+                                <img itemprop="contentUrl url" src='https://www.easyinviting.com/cdn/shop/products/lion-king-birthday-invitation-printable_1201x.jpg?v=1617230886' alt='Lion King Birthday Invitation Printable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Inviting" />
+                                </span>
+                                <a href='https://www.easyinviting.com/cdn/shop/products/lion-king-birthday-invitation-printable_1201x.jpg?v=1617230886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Set of 20 Jungle King-Themed Happy Birthday Invitation Cards &  Envelopes – Lightweight (240g), Postcard Style Invites for the Perfect ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/819olvM+TeL.jpg' alt='Amazon.com : Set of 20 Jungle King-Themed Happy Birthday Invitation Cards &  Envelopes – Lightweight (240g), Postcard Style Invites for the Perfect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/819olvM+TeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

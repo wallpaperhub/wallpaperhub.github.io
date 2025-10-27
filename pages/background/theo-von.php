@@ -1,0 +1,129 @@
+<title>Theo Von: Stand-Up, Podcast & Storytelling</title>
+                    <meta name="description" content="Discover the humor and charm of Theo Von, a standout comedian and podcast host. Dive into his unique storytelling and captivating performances that resonate with audiences everywhere. Join the fun and explore his journey through stand-up and podcasting, bringing laughter and insight to fans!">
+                    <meta name="keywords" content="theo von">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/theo-von">
+                            <span itemprop="name">theo von</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Theo Von: Stand-Up, Podcast & Storytelling</h1>
+                <p>Theo Von is a renowned comedian and podcast host, known for his charming storytelling and unique perspectives on life. With a background in stand-up, television, and podcasting, he captivates audiences with his authenticity and humor. Theo's engaging style has made him a beloved figure in the comedy scene, appealing to a broad audience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjFmODVkNzMtMzY2OS00NmFkLThmYTktZDA4MjAwMjk2ZDAxXkEyXkFqcGc@._V1_.jpg' alt='Theo Von - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1672">
+                                <meta itemprop="height" content="2090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjFmODVkNzMtMzY2OS00NmFkLThmYTktZDA4MjAwMjk2ZDAxXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6c/Theo_Von_Edited_James_Tamim.jpg' alt='Theo Von - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2484">
+                                <meta itemprop="height" content="2692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6c/Theo_Von_Edited_James_Tamim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von: From Comedy Underdog to TikTok Mainstay">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/04/L1040627.jpg?w=1581&h=1054&crop=1' alt='Theo Von: From Comedy Underdog to TikTok Mainstay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/04/L1040627.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von: Return of the Rat | Paycom Center">
+                                <img itemprop="contentUrl url" src='https://www.paycomcenter.com/assets/img/theovon560x520-0cb8bcc715.png' alt='Theo Von: Return of the Rat | Paycom Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paycom Center" />
+                                </span>
+                                <a href='https://www.paycomcenter.com/assets/img/theovon560x520-0cb8bcc715.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="“The Grinch That Stole Everything”- Theo Von - Full Special">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BUI0sGnx9Us/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-R_PLsOqSJ3HQ9H6IU-jmuRuQ6g' alt='“The Grinch That Stole Everything”- Theo Von - Full Special'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BUI0sGnx9Us/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-R_PLsOqSJ3HQ9H6IU-jmuRuQ6g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home | Theo Von">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/657211c664d691579a22326f/6669d11571a9471f63e22230_Hotline_2.webp' alt='Home | Theo Von'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.theovon.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/657211c664d691579a22326f/6669d11571a9471f63e22230_Hotline_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name a better clothing   ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572398059516819960' alt='Name a better clothing   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572398059516819960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von - Comedian, Personality, Podcaster, Actor">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/532805_v9_bc.jpg?w=360&h=480' alt='Theo Von - Comedian, Personality, Podcaster, Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/532805_v9_bc.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w500/mpHwqrgqlCGSdgCHzA6oKh6slZG.jpg' alt='Theo Von — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w500/mpHwqrgqlCGSdgCHzA6oKh6slZG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theo Von: Regular People (TV Special 2021) - User reviews - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNDM1M2U2ODItZDg0Mi00MWI2LWIyNWUtNmZkZDRkZjVkOTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Theo Von: Regular People (TV Special 2021) - User reviews - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNDM1M2U2ODItZDg0Mi00MWI2LWIyNWUtNmZkZDRkZjVkOTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

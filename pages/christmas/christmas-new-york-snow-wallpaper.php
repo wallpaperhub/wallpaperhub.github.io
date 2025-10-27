@@ -1,0 +1,129 @@
+<title>Christmas in New York: Snowy Wallpaper Delight</title>
+                    <meta name="description" content="Enhance your holiday décor with our Christmas in New York snow wallpaper. Featuring iconic snowy scenes of the city, this wallpaper brings the festive spirit home. Perfect for any room, it's an easy way to celebrate the magic of the season! Download now for a cozy holiday atmosphere.">
+                    <meta name="keywords" content="christmas new york snow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-new-york-snow-wallpaper">
+                            <span itemprop="name">christmas new york snow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Christmas in New York: Snowy Wallpaper Delight</h1>
+                <p>Experience the magic of Christmas in New York with our stunning snow wallpaper! Transform your space into a winter wonderland filled with twinkling lights, snowy streets, and festive cheer. Perfect for adding a cozy touch to your home this holiday season. Download now and embrace the festive spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyc Christmas Snow Images – Browse 6,275 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/39/70/67/360_F_239706791_ihIghwf937z6seMIQgJ8XfSSneRnz5HX.jpg' alt='Nyc Christmas Snow Images – Browse 6,275 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/39/70/67/360_F_239706791_ihIghwf937z6seMIQgJ8XfSSneRnz5HX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   New York Christmas Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7a/ba/65/7aba65f843d0a15812f98d9a34d057c2.jpg' alt='   New York Christmas Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7a/ba/65/7aba65f843d0a15812f98d9a34d057c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,959 New York Christmas Snow Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1301817179/photo/usa-new-york-new-york-city-illuminated-christmas-tree-in-madison-square-park-at-night.jpg?s=612x612&w=gi&k=20&c=ccCcVTVIHC_ZAzW4Uk6v6sm3WgheiqQOWCKREkDJaZM=' alt='1,959 New York Christmas Snow Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1301817179/photo/usa-new-york-new-york-city-illuminated-christmas-tree-in-madison-square-park-at-night.jpg?s=612x612&w=gi&k=20&c=ccCcVTVIHC_ZAzW4Uk6v6sm3WgheiqQOWCKREkDJaZM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/543477586/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=3D0FLKwX1pvq-yqTGj3Mjw4k-RqatqKMUpmJxXgkYY4=' alt='8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/543477586/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=3D0FLKwX1pvq-yqTGj3Mjw4k-RqatqKMUpmJxXgkYY4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,836 Christmas New York Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/rockefeller-christmas-tree-new-york-600nw-2494034019.jpg' alt='13,836 Christmas New York Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/rockefeller-christmas-tree-new-york-600nw-2494034019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Lovers - Christmas in NYC! I'm dreaming of a... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1696201920570421' alt='New York Lovers - Christmas in NYC! I'm dreaming of a... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1696201920570421' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,800+ New York Christmas Snow Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/899707900/photo/people-and-famous-led-advertising-panels-in-times-square-during-snow-one-of-the-symbol-of-new.jpg?s=612x612&w=0&k=20&c=OgLcVCRB1mk8ui-q0VQmPSt3ZyrFnO3Kpdc5j0_nBdY=' alt='1,800+ New York Christmas Snow Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/899707900/photo/people-and-famous-led-advertising-panels-in-times-square-during-snow-one-of-the-symbol-of-new.jpg?s=612x612&w=0&k=20&c=OgLcVCRB1mk8ui-q0VQmPSt3ZyrFnO3Kpdc5j0_nBdY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 New York: Snow ideas | new york christmas, new york, winter scenery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8f/12/ff/8f12ffbad09ad6546bff0b30f46cc9a8.jpg' alt='12 New York: Snow ideas | new york christmas, new york, winter scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8f/12/ff/8f12ffbad09ad6546bff0b30f46cc9a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,800+ New York Christmas Snow Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/885125580/photo/snowing-in-new-york.jpg?s=612x612&w=0&k=20&c=wbqMQW87gMfMyLrCqqBtx1Bg1YFJjUQOUT6X7Zo0EVc=' alt='1,800+ New York Christmas Snow Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/885125580/photo/snowing-in-new-york.jpg?s=612x612&w=0&k=20&c=wbqMQW87gMfMyLrCqqBtx1Bg1YFJjUQOUT6X7Zo0EVc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,791 New York City Snow Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/central-park-new-york-city-snow-storm-early-morning-sunrise-winter-83065061.jpg' alt='9,791 New York City Snow Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/central-park-new-york-city-snow-storm-early-morning-sunrise-winter-83065061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

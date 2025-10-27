@@ -1,0 +1,129 @@
+<title>Who Owns Inter Miami CF? David Beckham & Partners</title>
+                    <meta name="description" content="Discover the ownership of Inter Miami CF, led by soccer legend David Beckham and business mogul Jorge Mas. Learn how their vision is shaping the future of soccer in Miami and the United States. Find out more about this dynamic ownership team and their ambitions in the MLS.">
+                    <meta name="keywords" content="who owns inter miami">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-owns-inter-miami">
+                            <span itemprop="name">who owns inter miami</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Owns Inter Miami CF? David Beckham & Partners</h1>
+                <p>Inter Miami CF, a Major League Soccer team, is primarily owned by David Beckham, the former professional soccer player and global ambassador for the sport. Alongside Beckham, the ownership group includes Jorge Mas, a prominent businessman, and other investors. This diverse ownership aims to elevate soccer in the U.S. and enhance Miami's sports culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inter Miami Club Owners">
+                                <img itemprop="contentUrl url" src='https://cdn1.intermiami.news/uploads/52/2023/09/GettyImages-1536547654-1024x638.jpg' alt='Inter Miami Club Owners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inter Miami News" />
+                                </span>
+                                <a href='https://cdn1.intermiami.news/uploads/52/2023/09/GettyImages-1536547654-1024x638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inter Miami CF Announces Mas Brothers, Beckham Increase Ownership ...">
+                                <img itemprop="contentUrl url" src='https://images.mlssoccer.com/image/private/t_q-best/mls-mia-prd/mr93ofjjizoygu5gjdtx.jpg' alt='Inter Miami CF Announces Mas Brothers, Beckham Increase Ownership ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1918">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inter Miami CF" />
+                                </span>
+                                <a href='https://images.mlssoccer.com/image/private/t_q-best/mls-mia-prd/mr93ofjjizoygu5gjdtx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inter Miami CF owner and president David Beckham: "It's times like ...">
+                                <img itemprop="contentUrl url" src='https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/g24evx15ixobykxe0wkv.jpg' alt='Inter Miami CF owner and president David Beckham: "It's times like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Major League Soccer" />
+                                </span>
+                                <a href='https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/g24evx15ixobykxe0wkv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inter Miami Club Owners">
+                                <img itemprop="contentUrl url" src='https://cdn1.intermiami.news/uploads/52/2023/09/GettyImages-1646607706-1024x683.jpg' alt='Inter Miami Club Owners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inter Miami News" />
+                                </span>
+                                <a href='https://cdn1.intermiami.news/uploads/52/2023/09/GettyImages-1646607706-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Always remember what you represent' - Inter Miami co-owner David ...">
+                                <img itemprop="contentUrl url" src='https://assets.goal.com/images/v3/blt80d512e8042694a7/GOAL_-_Blank_WEB_-_Facebook_-_2024-04-01T094733.784.jpg?auto=webp&format=pjpg&width=3840&quality=60' alt='Always remember what you represent' - Inter Miami co-owner David ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goal.com" />
+                                </span>
+                                <a href='https://assets.goal.com/images/v3/blt80d512e8042694a7/GOAL_-_Blank_WEB_-_Facebook_-_2024-04-01T094733.784.jpg?auto=webp&format=pjpg&width=3840&quality=60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beckham increases ownership stake in MLS club Inter Miami | Reuters">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5BUOX67ENKZ3HKKKV2WFEQHN4.jpg' alt='Beckham increases ownership stake in MLS club Inter Miami | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3091">
+                                <meta itemprop="height" content="2061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5BUOX67ENKZ3HKKKV2WFEQHN4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Beckham Increases Ownership Stake in MLS' Inter Miami CF">
+                                <img itemprop="contentUrl url" src='https://media.bleacherreport.com/image/upload/v1631893475/i3vs0rl4hflncxcfrqfj.jpg' alt='David Beckham Increases Ownership Stake in MLS' Inter Miami CF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleacher Report" />
+                                </span>
+                                <a href='https://media.bleacherreport.com/image/upload/v1631893475/i3vs0rl4hflncxcfrqfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inter Miami owner now interested in buying one Europe's biggest clubs">
+                                <img itemprop="contentUrl url" src='https://cdn1.intermiami.news/uploads/52/2024/02/GettyImages-2021281355-1024x683.jpg' alt='Inter Miami owner now interested in buying one Europe's biggest clubs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inter Miami News" />
+                                </span>
+                                <a href='https://cdn1.intermiami.news/uploads/52/2024/02/GettyImages-2021281355-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who owns Inter Miami FC? | The Sun">
+                                <img itemprop="contentUrl url" src='https://www.thesun.co.uk/wp-content/uploads/2019/06/NINTCHDBPICT000476050635-1.jpg?strip=all&w=960' alt='Who owns Inter Miami FC? | The Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sun" />
+                                </span>
+                                <a href='https://www.thesun.co.uk/wp-content/uploads/2019/06/NINTCHDBPICT000476050635-1.jpg?strip=all&w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who owns Inter Miami? Breaking down the ownership group">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_3224,h_1813,x_0,y_57/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/90min_en_international_web/01hwtbmh2mzve74132eg.jpg' alt='Who owns Inter Miami? Breaking down the ownership group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="90Min.com" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_3224,h_1813,x_0,y_57/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/90min_en_international_web/01hwtbmh2mzve74132eg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

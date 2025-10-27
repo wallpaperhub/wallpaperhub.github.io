@@ -1,0 +1,129 @@
+<title>“Enchanting Fairy Lights on Transparent Background”</title>
+                    <meta name="description" content="“Discover the magic of fairy lights with a transparent background, perfect for adding charm to your designs. Ideal for celebrations, home decor, or social media graphics, these lights create a captivating ambiance that enhances any visual experience.”">
+                    <meta name="keywords" content="fairy lights transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fairy-lights-transparent-background">
+                            <span itemprop="name">fairy lights transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Enchanting Fairy Lights on Transparent Background”</h1>
+                <p>Transform your space with enchanting fairy lights on a transparent background. Perfect for creating a whimsical atmosphere for any occasion, these elegant lights add a touch of magic to your decor. Ideal for social media use or design projects, they illuminate your creativity and brighten your visuals effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 | String Lights Transparent Vectors & Illustrations for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/christmas-lights-isolated-glowing-garland-led-neon-lamp_136982-1100.jpg' alt='Page 4 | String Lights Transparent Vectors & Illustrations for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/christmas-lights-isolated-glowing-garland-led-neon-lamp_136982-1100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Creative Pull String Lights Lighting PNG Images, Light Bulb ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/81/cc/7a81cc241b1ef10479f4d79ed9ac2119.jpg' alt='Free Creative Pull String Lights Lighting PNG Images, Light Bulb ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/81/cc/7a81cc241b1ef10479f4d79ed9ac2119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-free-creative-pull-string-lights-lighting-png-image_2920241.jpg' alt='String Lights PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-free-creative-pull-string-lights-lighting-png-image_2920241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Lights Transparent Background Images – Browse 20,363 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/07/35/70/360_F_507357076_iZdK8JWVRNySGSiHYNUXc7OBflEkYEas.jpg' alt='Fairy Lights Transparent Background Images – Browse 20,363 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/07/35/70/360_F_507357076_iZdK8JWVRNySGSiHYNUXc7OBflEkYEas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Lights Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230225/ourmid/pngtree-string-lights-png-image_6617943.png' alt='Fairy Lights Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230225/ourmid/pngtree-string-lights-png-image_6617943.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ String Lights Transparent Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1425851957/vector/christmas-lights-lights-bulbs-glowing-garlands-string-new-years-party-lights-holiday.jpg?s=612x612&w=0&k=20&c=3EcJRFkfjLb-OPXQXYx-eNZmbOvyLOp6Ax7efm75etE=' alt='3,200+ String Lights Transparent Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1425851957/vector/christmas-lights-lights-bulbs-glowing-garlands-string-new-years-party-lights-holiday.jpg?s=612x612&w=0&k=20&c=3EcJRFkfjLb-OPXQXYx-eNZmbOvyLOp6Ax7efm75etE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Transparent Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/135/914/small/christmas-lights-isolated-on-a-transparent-background-christmas-glowing-garland-for-the-new-year-and-christmas-light-effect-illustration-vector.jpg' alt='String Lights Transparent Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/135/914/small/christmas-lights-isolated-on-a-transparent-background-christmas-glowing-garland-for-the-new-year-and-christmas-light-effect-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Light PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/15/Fairy-Light-PNG-Image.png' alt='Fairy Light PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="871">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/15/Fairy-Light-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights PNG, String Lights Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/string-lights-png/string-lights-png-0.png' alt='String Lights PNG, String Lights Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/string-lights-png/string-lights-png-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,471 Fairy Lights Backgrounds Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/christmas-lights-isolated-on-transparent-260nw-1711170553.jpg' alt='52,471 Fairy Lights Backgrounds Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/christmas-lights-isolated-on-transparent-260nw-1711170553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

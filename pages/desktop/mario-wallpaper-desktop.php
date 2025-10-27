@@ -1,0 +1,129 @@
+<title>Mario Desktop Wallpapers: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover a collection of stunning Mario wallpapers for your desktop, featuring iconic characters and vibrant designs. Ideal for gamers and fans, our curated selection offers a perfect way to personalize your workspace. Download your favorites today and bring the magic of Mario to your screen!">
+                    <meta name="keywords" content="mario wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/mario-wallpaper-desktop">
+                            <span itemprop="name">mario wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mario Desktop Wallpapers: Brighten Your Screen!</h1>
+                <p>Transform your desktop with vibrant Mario wallpapers that celebrate the beloved gaming franchise. Choose from a variety of styles, featuring classic characters like Mario, Luigi, and Princess Peach, perfect for any fan. Elevate your workspace aesthetics while enjoying a blast from the past every time you log in!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Bros. Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/2/3/942450-3840x2160-desktop-4k-mario-bros-background.jpg' alt='Mario Bros. Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/2/3/942450-3840x2160-desktop-4k-mario-bros-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/a/b/2123438-1920x1200-desktop-hd-mario-background-image.jpg' alt='Mario Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/a/b/2123438-1920x1200-desktop-hd-mario-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brendan Lane's Portfolio">
+                                <img itemprop="contentUrl url" src='http://www.sfu.ca/~blane/portfolio/public_html/img/wallpaper-mario/wallpaper-mario-poster-mario.jpg' alt='Brendan Lane's Portfolio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sfu.ca" />
+                                </span>
+                                <a href='http://www.sfu.ca/~blane/portfolio/public_html/img/wallpaper-mario/wallpaper-mario-poster-mario.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is such a cool mario galaxy desktop : r/Mario">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vzvna1cflpc41.jpg' alt='This is such a cool mario galaxy desktop : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vzvna1cflpc41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Super Mario Colorful Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/51/c9/0951c9c6e8e90ee287f070906bf30bd1.jpg' alt='Aesthetic Super Mario Colorful Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/51/c9/0951c9c6e8e90ee287f070906bf30bd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Mario HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/136/thumb-1920-1367181.jpeg' alt='Download Super Mario HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/136/thumb-1920-1367181.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario: HD Wallpaper Adventure in a Colorful World">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/509/thumb-1920-509521.png' alt='Mario: HD Wallpaper Adventure in a Colorful World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/509/thumb-1920-509521.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/super-mario-bros-desktop-background.jpg' alt='Super Mario Bros Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/super-mario-bros-desktop-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros. Movie Mario Kart 4K PC Wallpaper - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwKK5fH1AwC7RFKwUQRN2efUy2QbtEyIlMnaA3KpUBrBhEa_bjvUD8ZRsqcesYRoomJLt-MIE07GpTj7twtqZYsWkzEJknqckFodeT1AHbQkVY2swd-Z_Ss99SdUZ90f1le-TIw9fA_HiqgHxFqqpfuvMUjG2S0u7oq9Vh_WWNNHpelF_cgrMRmH4lA/s3840/smb-movie-mario-kart-3840x2160-1.jpg' alt='Super Mario Bros. Movie Mario Kart 4K PC Wallpaper - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwKK5fH1AwC7RFKwUQRN2efUy2QbtEyIlMnaA3KpUBrBhEa_bjvUD8ZRsqcesYRoomJLt-MIE07GpTj7twtqZYsWkzEJknqckFodeT1AHbQkVY2swd-Z_Ss99SdUZ90f1le-TIw9fA_HiqgHxFqqpfuvMUjG2S0u7oq9Vh_WWNNHpelF_cgrMRmH4lA/s3840/smb-movie-mario-kart-3840x2160-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5K Super Mario Odyssey Backgrounds (Phone and Desktop) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i3vmwrfE9ngPle-xwxj1o-MPdEwE9pfmTwfdm3kq5vU.jpg?width=640&crop=smart&auto=webp&s=996c4025e6b81b528667484460df4b2943da0f40' alt='5K Super Mario Odyssey Backgrounds (Phone and Desktop) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i3vmwrfE9ngPle-xwxj1o-MPdEwE9pfmTwfdm3kq5vU.jpg?width=640&crop=smart&auto=webp&s=996c4025e6b81b528667484460df4b2943da0f40' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

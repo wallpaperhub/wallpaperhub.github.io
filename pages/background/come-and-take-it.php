@@ -1,0 +1,129 @@
+<title>"Come and Take It: A Rallying Cry for Freedom"</title>
+                    <meta name="description" content="Discover the powerful origins and modern significance of "Come and Take It," a phrase that symbolizes defiance and the pursuit of freedom. Learn how this iconic expression continues to inspire movements advocating for independence and personal rights today. Perfect for anyone interested in history and activism.">
+                    <meta name="keywords" content="come and take it">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/come-and-take-it">
+                            <span itemprop="name">come and take it</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Come and Take It: A Rallying Cry for Freedom"</h1>
+                <p>"Come and take it" is a powerful rallying cry rooted in the fight for freedom and resistance against oppression. Originating from the Texas Revolution, this phrase symbolizes bravery and defiance in the face of challenges. Today, it continues to inspire various movements advocating for independence and personal rights, embodying the spirit of resolve and tenacity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Texas Flag Come and Take It.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Texas_Flag_Come_and_Take_It.svg/1200px-Texas_Flag_Come_and_Take_It.svg.png' alt='File:Texas Flag Come and Take It.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Texas_Flag_Come_and_Take_It.svg/1200px-Texas_Flag_Come_and_Take_It.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gonzales Flag Come and Take It Flag with Cannon Brass Grommets, Double  Stitched Edges and 100% Polyester Fabric Come and Take It Alamo Flag 2nd ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gnf4wkqbL._AC_UF894,1000_QL80_.jpg' alt='Gonzales Flag Come and Take It Flag with Cannon Brass Grommets, Double  Stitched Edges and 100% Polyester Fabric Come and Take It Alamo Flag 2nd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gnf4wkqbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come And Take It: The Skirmish That Inspired A Texas Mantra ...">
+                                <img itemprop="contentUrl url" src='https://cdn.houstonpublicmedia.org/wp-content/uploads/2018/10/01173308/Come-And-Take-It-Flag-Wiki.jpg' alt='Come And Take It: The Skirmish That Inspired A Texas Mantra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Public Media" />
+                                </span>
+                                <a href='https://cdn.houstonpublicmedia.org/wp-content/uploads/2018/10/01173308/Come-And-Take-It-Flag-Wiki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come And Take It': A Texan Symbol Of Defiance For Sale : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/10/01/burnett_cati8_wide-8d200c7ca42a4b2c965b60a504939ad3a567de40.jpg' alt='Come And Take It': A Texan Symbol Of Defiance For Sale : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3167">
+                                <meta itemprop="height" content="1781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/10/01/burnett_cati8_wide-8d200c7ca42a4b2c965b60a504939ad3a567de40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come and Take It" Flag - Authentic Texas">
+                                <img itemprop="contentUrl url" src='https://authentictexas.com/wp-content/uploads/Featured-image.jpg' alt='Come and Take It" Flag - Authentic Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="834">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Authentic Texas" />
+                                </span>
+                                <a href='https://authentictexas.com/wp-content/uploads/Featured-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come And Take It Wood Flag">
+                                <img itemprop="contentUrl url" src='https://www.patriotwood.com/cdn/shop/products/Come-And-Take-It-Wood-Flag-1.jpg?v=1411740167' alt='Come And Take It Wood Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patriot Wood" />
+                                </span>
+                                <a href='https://www.patriotwood.com/cdn/shop/products/Come-And-Take-It-Wood-Flag-1.jpg?v=1411740167' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come and Take It">
+                                <img itemprop="contentUrl url" src='http://thecovertgarage.com/cdn/shop/products/d80471_90e6b1f2d60d401cb9289ce4393cbc0e_7Emv2.png?v=1600253738' alt='Come and Take It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Covert Garage" />
+                                </span>
+                                <a href='http://thecovertgarage.com/cdn/shop/products/d80471_90e6b1f2d60d401cb9289ce4393cbc0e_7Emv2.png?v=1600253738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come and Take It 3' X 5' Flag - Omahas Army Navy Surplus">
+                                <img itemprop="contentUrl url" src='https://www.omahas.com/wp-content/uploads/2018/05/come-and-take-it-3x5-flag-nov2814-1-min.jpg' alt='Come and Take It 3' X 5' Flag - Omahas Army Navy Surplus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="858">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Omaha's Surplus" />
+                                </span>
+                                <a href='https://www.omahas.com/wp-content/uploads/2018/05/come-and-take-it-3x5-flag-nov2814-1-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come And Take It Flag (Gonzales Banner of 1835) | 3' x 5' Nylon">
+                                <img itemprop="contentUrl url" src='http://www.libertyflagpoles.com/cdn/shop/products/61VfCwkUmUL._AC_SX466.jpg?v=1647922335' alt='Come And Take It Flag (Gonzales Banner of 1835) | 3' x 5' Nylon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Flagpoles" />
+                                </span>
+                                <a href='http://www.libertyflagpoles.com/cdn/shop/products/61VfCwkUmUL._AC_SX466.jpg?v=1647922335' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come and Take It Decal">
+                                <img itemprop="contentUrl url" src='http://therebeldecal.com/cdn/shop/products/come_and_take_it_black.jpg?v=1504395801' alt='Come and Take It Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Decal" />
+                                </span>
+                                <a href='http://therebeldecal.com/cdn/shop/products/come_and_take_it_black.jpg?v=1504395801' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

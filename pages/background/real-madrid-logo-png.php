@@ -1,0 +1,129 @@
+<title>Download Real Madrid Logo PNG - Iconic & High Quality</title>
+                    <meta name="description" content="Get the best Real Madrid logo PNG for your projects! High-resolution, transparent design perfect for fans and creators. Download now to showcase your love for this legendary football club! Ideal for websites, merchandise, and more.">
+                    <meta name="keywords" content="real madrid logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/real-madrid-logo-png">
+                            <span itemprop="name">real madrid logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Real Madrid Logo PNG - Iconic & High Quality</h1>
+                <p>Discover a high-quality Real Madrid logo PNG that captures the essence of one of the most iconic football clubs in the world. Ideal for various uses such as digital projects, wallpapers, or fan merchandise, this transparent logo showcases the club's rich history and prestigious identity. Perfect for any Real Madrid supporter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Real Madrid logo.png - Wikinews, the free news source">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikinews/en/archive/b/bf/20070306161914%21Real_Madrid_logo.png' alt='File:Real Madrid logo.png - Wikinews, the free news source'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikinews, the free news source" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikinews/en/archive/b/bf/20070306161914%21Real_Madrid_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Madrid FC logo, History of Real Madrid C.F. Logo, REAL MADRID ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/147/259/png-clipart-real-madrid-fc-logo-history-of-real-madrid-c-f-logo-real-madrid-miscellaneous-cdr.png' alt='Real Madrid FC logo, History of Real Madrid C.F. Logo, REAL MADRID ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/147/259/png-clipart-real-madrid-fc-logo-history-of-real-madrid-c-f-logo-real-madrid-miscellaneous-cdr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Carlos on Carlos | Real madrid logo, Logo real, Real madrid">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/26/98/622698a29d78bcd48edeb88f7f0dfe5c.jpg' alt='Pin by Carlos on Carlos | Real madrid logo, Logo real, Real madrid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/26/98/622698a29d78bcd48edeb88f7f0dfe5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Madrid Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2020/06/Real-Madrid-Logo.png' alt='Real Madrid Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2020/06/Real-Madrid-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ⴰⴼⴰⵢⵍⵓ:Logo Fundación Real Madrid.png - ⵡⵉⴽⵉⴱⵉⴷⵢⴰ">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_Fundaci%C3%B3n_Real_Madrid.png' alt='ⴰⴼⴰⵢⵍⵓ:Logo Fundación Real Madrid.png - ⵡⵉⴽⵉⴱⵉⴷⵢⴰ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ⵜⴰⵙⵏⴰ ⵏ ⵓⵙⵏⵓⴱⴳ - Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_Fundaci%C3%B3n_Real_Madrid.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Real Madrid Logo Pictures PNG Transparent Background, Free ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/real-madrid-logo-png-20.png' alt='Get Real Madrid Logo Pictures PNG Transparent Background, Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/real-madrid-logo-png-20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Madrid C F Centenario Logo PNG Transparent & SVG Vector ...">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/real-madrid-c-f-centenario-logo-png-transparent.png' alt='Real Madrid C F Centenario Logo PNG Transparent & SVG Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/real-madrid-c-f-centenario-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Madrid C.F. (old) Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/R/real-madrid-c-f-old-logo-BD49841513-seeklogo.com.png' alt='Real Madrid C.F. (old) Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/R/real-madrid-c-f-old-logo-BD49841513-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo - Sports Team Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180621/gjj/aazjc1qvs.webp' alt='Logo - Sports Team Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180621/gjj/aazjc1qvs.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Madrid logo svg cricut">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0731/7871/0295/products/Real-Madrid-emblem-Real-Madrid-logo-Real-Madrid-svg-Real-Madrid-png-Real-Madrid-clipart-Real-Madrid-cricut-dxf-eps-pdf-instant-download-svgcosmos-908.jpg?v=1680857252' alt='Real Madrid logo svg cricut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="svgcosmos" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0731/7871/0295/products/Real-Madrid-emblem-Real-Madrid-logo-Real-Madrid-svg-Real-Madrid-png-Real-Madrid-clipart-Real-Madrid-cricut-dxf-eps-pdf-instant-download-svgcosmos-908.jpg?v=1680857252' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

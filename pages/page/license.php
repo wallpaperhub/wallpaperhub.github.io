@@ -1,0 +1,61 @@
+<title>License</title>
+<meta name="description" content="License">
+<meta name="keywords" content="License">
+</head>
+<body>
+<?php include_once("././navbar.php"); ?>
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/">
+            <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page">
+            <span itemprop="name">Page</span></a>
+        <meta itemprop="position" content="2" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page/license">
+            <span itemprop="name">License</span></a>
+        <meta itemprop="position" content="3" />
+    </li>
+</ul>
+<h1>License</h1>
+<p>The content provided on Giasuglory.edu.vn, including but not limited to wallpapers, images, and associated media, is made available to users under the terms outlined in this License Agreement. By accessing or downloading any content from this website, you acknowledge and agree to be bound by the terms and conditions set forth below.</p>
+<h2>1. Permitted Use</h2>
+<p>All wallpapers made available on Giasuglory.edu.vn are provided strictly for <b>personal, non-commercial use</b>. Subject to compliance with these terms, users are granted a limited, non-exclusive, and non-transferable license to:</p>
+<ul>
+    <li>Download and use wallpapers for personal display on mobile phones, tablets, laptops, and desktop computers</li>
+    <li>Print wallpapers for private, non-commercial purposes</li>
+    <li>Apply wallpapers as digital backgrounds for personal use only</li>
+</ul>
+<p>This license is granted free of charge and does not confer ownership or any intellectual property rights to the user.</p>
+<h2>2. Prohibited Use</h2>
+<p>The following actions are strictly prohibited unless prior written permission has been obtained from the website administrator or the rightful copyright holder:</p>
+<ul>
+    <li>Use of wallpapers for commercial purposes, including but not limited to resale, advertising, promotional materials, merchandise, mobile applications, or website themes</li>
+    <li>Redistribution, reproduction, or publication of wallpapers on other websites, platforms, or third-party services</li>
+    <li>Claiming authorship or ownership of any wallpaper or image available on Giasuglory.edu.vn</li>
+    <li>Incorporating wallpapers into products intended for sale or public distribution</li>
+    <li>Use of content in a manner that violates applicable copyright, trademark, or intellectual property laws</li>
+</ul>
+<h2>3. Copyright and Intellectual Property</h2>
+<p>Giasuglory.edu.vn does not claim ownership of all wallpapers published on the website. Efforts are made to ensure that all content is either:</p>
+<ul>
+    <li>In the public domain</li>
+    <li>Used under royalty-free or open licensing terms</li>
+    <li>Original content created by or for Giasuglory.edu.vn</li>
+    <li>Used with the understanding that such content is permitted for non-commercial use</li>
+</ul>
+<p>If you believe any content made available on this site infringes upon your intellectual property rights, we encourage you to submit a takedown request via our DMCA Policy page.</p>
+<h2>4. No Warranty</h2>
+<p>All content on Giasuglory.edu.vn is provided “as is,” without any warranties or guarantees, express or implied, including but not limited to accuracy, completeness, or suitability for any particular purpose. The website shall not be held liable for any damages resulting from the use or inability to use the content.</p>
+<h2>5. Amendments</h2>
+<p>Giasuglory.edu.vn reserves the right to amend or update this License Agreement at any time without prior notice. Continued use of the website and its content constitutes acceptance of the most recent version of this License.</p>
+<h2>6. Contact</h2>
+<p>For inquiries related to licensing terms, requests for commercial use, or any other legal matter, please contact us at:</p>
+<p><b>Email:</b> <a href="mailto:contact@giasuglory.edu.vn" title="Contact">contact@giasuglory.edu.vn</a></p>

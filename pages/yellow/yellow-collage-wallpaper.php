@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Collage Wallpaper</title>
+                    <meta name="description" content="Discover the charm of yellow collage wallpaper! Perfect for any room, it adds warmth and a playful vibe. Transform your walls with bold patterns and textures that inspire creativity and cheerfulness. Perfect for homes and offices alike!">
+                    <meta name="keywords" content="yellow collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-collage-wallpaper">
+                            <span itemprop="name">yellow collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Collage Wallpaper</h1>
+                <p>Yellow collage wallpaper brings a vibrant touch to your space, infusing energy and cheerfulness. Ideal for creating accent walls, it showcases an array of patterns and textures that can uplift any room's aesthetic. Perfect for children's rooms, playful spaces, or even a trendy office, yellow collage wallpaper inspires creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Aesthetic Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-aesthetic-collage-8s5xe92n3kifotq7.jpg' alt='100+] Yellow Aesthetic Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-aesthetic-collage-8s5xe92n3kifotq7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/a9/a3/05a9a3d0bcc324289812d6188634b528.jpg' alt='yellow aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/a9/a3/05a9a3d0bcc324289812d6188634b528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Mood Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/yellow-mood-aesthetic-collage-96iubr44714s0yae.jpg' alt='Yellow Mood Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/yellow-mood-aesthetic-collage-96iubr44714s0yae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/73/bf/bb/73bfbb091e9619d43ca48fc63b264e2e.jpg' alt='Yellow Aesthetic Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/73/bf/bb/73bfbb091e9619d43ca48fc63b264e2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh Neon Yellow Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fresh-neon-yellow-aesthetic-collage-akcihb0zbdtjlq3p.jpg' alt='Fresh Neon Yellow Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fresh-neon-yellow-aesthetic-collage-akcihb0zbdtjlq3p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow - Aesthetic Wall Collage Kit | Digital Download | Photo Wallpaper  Room Decor | Vision Mood Board | DIY Printable Art | - 100+ PCS">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7242499/r/il/4be7da/2826149202/il_fullxfull.2826149202_1m7g.jpg' alt='Yellow - Aesthetic Wall Collage Kit | Digital Download | Photo Wallpaper  Room Decor | Vision Mood Board | DIY Printable Art | - 100+ PCS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7242499/r/il/4be7da/2826149202/il_fullxfull.2826149202_1m7g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow aesthetic laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/a3/81/a8a381718cdbb3d62003527f9b1bb39f.jpg' alt='yellow aesthetic laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/a3/81/a8a381718cdbb3d62003527f9b1bb39f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A stunning yellow aesthetic collage, perfect for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-aesthetic-collage-6lm9u6fnjrajfxy1.jpg' alt='Download A stunning yellow aesthetic collage, perfect for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-aesthetic-collage-6lm9u6fnjrajfxy1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 PCS | Yellow Aesthetic Wall Collage | Bright Aesthetic Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32705599/r/il/8a8db0/3637144915/il_570xN.3637144915_nt1o.jpg' alt='100 PCS | Yellow Aesthetic Wall Collage | Bright Aesthetic Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32705599/r/il/8a8db0/3637144915/il_570xN.3637144915_nt1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Things Collage Yellow Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/girl-things-collage-yellow-aesthetic-iphone-qhut8m5rx4g22obx.jpg' alt='Girl Things Collage Yellow Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/girl-things-collage-yellow-aesthetic-iphone-qhut8m5rx4g22obx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

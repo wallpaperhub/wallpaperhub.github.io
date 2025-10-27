@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Wallpapers for Your Chromebook</title>
+                    <meta name="description" content="Explore mesmerizing galaxy wallpapers tailored for your Chromebook! Transform your screen with vibrant cosmic visuals that inspire and captivate. Download now and give your device a celestial upgrade! Perfect for space lovers and anyone wanting a unique aesthetic.">
+                    <meta name="keywords" content="galaxy:vmfmbrhio3m= chromebook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxyvmfmbrhio3m-chromebook-wallpaper">
+                            <span itemprop="name">galaxy:vmfmbrhio3m= chromebook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Wallpapers for Your Chromebook</h1>
+                <p>Elevate your Chromebook with stunning galaxy-themed wallpapers! Discover vibrant designs featuring celestial bodies, starry skies, and cosmic wonders that transform your screen into a window to the universe. Perfect for stargazers and space enthusiasts, these wallpapers will give your device a unique cosmic touch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/galaxy-1920x1080.jpg' alt='Galaxy Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/galaxy-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Chromebook Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/galaxy-chromebook-background-dd1sgbohlivwqkap.jpg' alt='Galaxy Chromebook Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/galaxy-chromebook-background-dd1sgbohlivwqkap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Space Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/galaxy-space-chromebook-wallpaper.jpg' alt='Galaxy Space Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/galaxy-space-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/lmr3lpQMEZrDFE-23r42NPFUiDa5vmBR3uLPFOPAsmKaJCdWAQk5LWYdYIazF5sAj5JLlH823dJkq8NTaAod__A64A=s1280-w1280-h800' alt='Galaxy Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/lmr3lpQMEZrDFE-23r42NPFUiDa5vmBR3uLPFOPAsmKaJCdWAQk5LWYdYIazF5sAj5JLlH823dJkq8NTaAod__A64A=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Chromebook Cosmic Whirl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-chromebook-cosmic-whirl-0xlsnpyd6y5nmtmr.jpg' alt='Aesthetic Chromebook Cosmic Whirl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-chromebook-cosmic-whirl-0xlsnpyd6y5nmtmr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/340/dark-space-chromebook-wallpaper.jpg' alt='Galaxy Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/340/dark-space-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Galaxy HD Wallpapers in Chromebook Pixel, 2560x1700 Resolution ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-glowing-space-4k-portal_90996.jpg' alt='35+ Galaxy HD Wallpapers in Chromebook Pixel, 2560x1700 Resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-glowing-space-4k-portal_90996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Blue Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/milky-way-blue-chromebook-wallpaper.jpg' alt='Milky Way Blue Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/milky-way-blue-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/7LmB9n7eX10lWe6tvyOIncuTNwa-lWEZkiuol1wN5eAiiFahqbTl-fzZtF9_40eTkNxTEUmEliFg64swTvwDAkJkuA=s1280-w1280-h800' alt='Galaxy Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/7LmB9n7eX10lWe6tvyOIncuTNwa-lWEZkiuol1wN5eAiiFahqbTl-fzZtF9_40eTkNxTEUmEliFg64swTvwDAkJkuA=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Galaxy HD Wallpapers in Chromebook Pixel, 2560x1700 Resolution ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-cosmos-galaxy-art_67716.jpg' alt='35+ Galaxy HD Wallpapers in Chromebook Pixel, 2560x1700 Resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-cosmos-galaxy-art_67716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Who Owns Fenty Beauty? Discover the Brand Behind the Makeup Revolution</title>
+                    <meta name="description" content="Uncover the ownership of Fenty Beauty, a groundbreaking cosmetics line by Rihanna. Learn how Fenty is transforming the beauty industry with inclusive products for every skin tone, setting new standards for beauty and diversity.">
+                    <meta name="keywords" content="who owns fenty beauty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-owns-fenty-beauty">
+                            <span itemprop="name">who owns fenty beauty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Owns Fenty Beauty? Discover the Brand Behind the Makeup Revolution</h1>
+                <p>Fenty Beauty is owned by superstar Rihanna, who launched the cosmetics line in 2017 under the umbrella of her brand, Fenty. With a focus on inclusivity, Fenty Beauty offers a wide range of products that cater to all skin tones, making it a revolutionary brand in the makeup industry. Its success has redefined beauty standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fenty Beauty by Rihanna - LVMH">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/lvmh-com/27d967c9-e104-49d9-ad80-1df47fd96eb4_fentybeauty_lvmh_brandpage_slideshow_2218x1296_Fenty-Face.jpg?auto=compress%2Cformat&fit=max&w=3840' alt='Fenty Beauty by Rihanna - LVMH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2218">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LVMH" />
+                                </span>
+                                <a href='https://images.prismic.io/lvmh-com/27d967c9-e104-49d9-ad80-1df47fd96eb4_fentybeauty_lvmh_brandpage_slideshow_2218x1296_Fenty-Face.jpg?auto=compress%2Cformat&fit=max&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TIME's Best Inventions of 2017: 5 Reasons Why Rihanna's Fenty ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/rihanna-fenty-beauty-sephora-a-billboard-1548.jpg' alt='TIME's Best Inventions of 2017: 5 Reasons Why Rihanna's Fenty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/rihanna-fenty-beauty-sephora-a-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fenty Beauty by Rihanna - LVMH">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/lvmh-com/eecece4c-f013-47bc-b8c2-0edac76b09e2_regard-944x1270.jpg?auto=compress%2Cformat&rect=0%2C83%2C944%2C944&w=3840&fit=max' alt='Fenty Beauty by Rihanna - LVMH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LVMH" />
+                                </span>
+                                <a href='https://images.prismic.io/lvmh-com/eecece4c-f013-47bc-b8c2-0edac76b09e2_regard-944x1270.jpg?auto=compress%2Cformat&rect=0%2C83%2C944%2C944&w=3840&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna's Fenty Beauty Is Here and It's Even Better Than We ...">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/59b1aa093cbc557ffc24da04/master/pass/Screen%20Shot%202017-09-07%20at%204.20.11%20PM.png' alt='Rihanna's Fenty Beauty Is Here and It's Even Better Than We ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="956">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/59b1aa093cbc557ffc24da04/master/pass/Screen%20Shot%202017-09-07%20at%204.20.11%20PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fenty Beauty by Rihanna - LVMH">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/lvmh-com/4eb29051-f739-441c-9cfb-27632f162540_Carrousel+8.jpg?auto=compress%2Cformat&fit=max&w=3840' alt='Fenty Beauty by Rihanna - LVMH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1992">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LVMH" />
+                                </span>
+                                <a href='https://images.prismic.io/lvmh-com/4eb29051-f739-441c-9cfb-27632f162540_Carrousel+8.jpg?auto=compress%2Cformat&fit=max&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Rihanna's Fenty Beauty revolutionised the makeup and skincare ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.in/photos/5cee5cccd314d34630eb749a/2:3/w_2560%2Cc_limit/Fenty%2520Beatuty%2520by%2520Rihanna%2520Anniversary%2520Event.jpg' alt='How Rihanna's Fenty Beauty revolutionised the makeup and skincare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue India" />
+                                </span>
+                                <a href='https://assets.vogue.in/photos/5cee5cccd314d34630eb749a/2:3/w_2560%2Cc_limit/Fenty%2520Beatuty%2520by%2520Rihanna%2520Anniversary%2520Event.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is Fenty Beauty Launching in Africa? Rhianna Taps Into $2 ...">
+                                <img itemprop="contentUrl url" src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2W3sI1rlVmU/v3/-1x-1.webp' alt='Why Is Fenty Beauty Launching in Africa? Rhianna Taps Into $2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg News" />
+                                </span>
+                                <a href='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2W3sI1rlVmU/v3/-1x-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fenty Beauty by Rihanna - LVMH">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/lvmh-com/bf2edaa1-a0c8-446d-b62e-7860e7758b0e_Carrousel+4.jpg?auto=compress%2Cformat&fit=max&w=3840' alt='Fenty Beauty by Rihanna - LVMH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1992">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LVMH" />
+                                </span>
+                                <a href='https://images.prismic.io/lvmh-com/bf2edaa1-a0c8-446d-b62e-7860e7758b0e_Carrousel+4.jpg?auto=compress%2Cformat&fit=max&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fenty Beauty by Rihanna: A Billion-Dollar Empire Redefining Beauty ...">
+                                <img itemprop="contentUrl url" src='https://thewilldowntown.com/wp-content/uploads/2023/12/Rihannas-Fenty-Beauty-is-a-Billion-dollar-empire.jpg' alt='Fenty Beauty by Rihanna: A Billion-Dollar Empire Redefining Beauty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheWill Downtown" />
+                                </span>
+                                <a href='https://thewilldowntown.com/wp-content/uploads/2023/12/Rihannas-Fenty-Beauty-is-a-Billion-dollar-empire.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About the Brands">
+                                <img itemprop="contentUrl url" src='https://fentybeauty.com/cdn/shop/files/FB606750-FENTY-BEHIND-THE-BRANDS-LANDING-PAGE_BRAND-TILE_FB_982260e6-9404-43f4-a255-f5f9a96e5a3e_768x.jpg?v=1712169345' alt='About the Brands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fenty Beauty" />
+                                </span>
+                                <a href='https://fentybeauty.com/cdn/shop/files/FB606750-FENTY-BEHIND-THE-BRANDS-LANDING-PAGE_BRAND-TILE_FB_982260e6-9404-43f4-a255-f5f9a96e5a3e_768x.jpg?v=1712169345' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

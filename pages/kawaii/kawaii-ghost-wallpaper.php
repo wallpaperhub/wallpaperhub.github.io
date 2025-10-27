@@ -1,0 +1,129 @@
+<title>Kawaii Ghost Wallpaper: Adorable & Playful Designs</title>
+                    <meta name="description" content="Explore enchanting kawaii ghost wallpapers that bring cuteness to your screens! Discover a variety of charming designs perfect for anime lovers and anyone seeking a whimsical touch. Brighten your device with colorful, playful ghosts today!">
+                    <meta name="keywords" content="kawaii ghost wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-ghost-wallpaper">
+                            <span itemprop="name">kawaii ghost wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Ghost Wallpaper: Adorable & Playful Designs</h1>
+                <p>Transform your digital space with adorable kawaii ghost wallpaper! These charming designs add a playful touch to any device, showcasing cute spirits in pastel colors and whimsical patterns. Perfect for fans of Japanese pop culture, kawaii ghost wallpapers brighten up your screens while spreading joy and personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/45/c8/d145c8358432fa65631f249c74de800f.jpg' alt='Halloween Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/45/c8/d145c8358432fa65631f249c74de800f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvln9XKSM/1/0/900w/canva-peach-pink-cute-floral-ghost-halloween-phone-wallpaper-fZOmYtLJ1Is.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvln9XKSM/1/0/900w/canva-peach-pink-cute-floral-ghost-halloween-phone-wallpaper-fZOmYtLJ1Is.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Ghost">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/5f/6f/7d5f6f9b82cde4b14f9b6ab91759bdee.jpg' alt='Pastel Ghost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/5f/6f/7d5f6f9b82cde4b14f9b6ab91759bdee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Ghost Wallpaper Cute Pink Wallpapers Ghost Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49656304/r/il/5fefcd/6191934585/il_570xN.6191934585_rabg.jpg' alt='Kawaii Ghost Wallpaper Cute Pink Wallpapers Ghost Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49656304/r/il/5fefcd/6191934585/il_570xN.6191934585_rabg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Adorable Little Ghost Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-ghost-p19rlv41uhqj895n.jpg' alt='Download Adorable Little Ghost Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-ghost-p19rlv41uhqj895n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFxnemfYb8/1/0/900w/canva-beige-and-black-cute-illustrative-ghosts-phone-wallpaper-QTGcfsts4KQ.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFxnemfYb8/1/0/900w/canva-beige-and-black-cute-illustrative-ghosts-phone-wallpaper-QTGcfsts4KQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-ghost-pattern-background_23-2150737216.jpg' alt='Cute Ghost Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-ghost-pattern-background_23-2150737216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Wallpaper 4K, Kawaii cartoon, Cute ghost">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cute-halloween-7680x4320-13095.png' alt='Cute Halloween Wallpaper 4K, Kawaii cartoon, Cute ghost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cute-halloween-7680x4320-13095.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Kawaii Ghost Aesthetic Pattern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/cute-ghosts-aesthetic-in-black-li3ftr94124es0d9.webp' alt='Download free Kawaii Ghost Aesthetic Pattern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/cute-ghosts-aesthetic-in-black-li3ftr94124es0d9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

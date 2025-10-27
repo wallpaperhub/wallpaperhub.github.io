@@ -1,0 +1,129 @@
+<title>Top Fortnite Skins Wallpaper for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of Fortnite skins wallpaper! Elevate your device’s look with vibrant and stylish designs featuring the best characters from the game. Perfect for gamers who want to showcase their love for Fortnite. Download now and personalize your screens with these eye-catching wallpapers!">
+                    <meta name="keywords" content="wallpaper hot fortnite skins">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/wallpaper-hot-fortnite-skins">
+                            <span itemprop="name">wallpaper hot fortnite skins</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Fortnite Skins Wallpaper for Gamers</h1>
+                <p>Unleash your creativity with stunning wallpaper featuring the hottest Fortnite skins! These vibrant designs showcase your favorite characters, from iconic outfits to limited-edition skins. Perfect for personalizing your devices or adding flair to your gaming setup. Level up your wallpaper game and show off your Fortnite style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Fortnite Skin Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/29/17/b4/2917b4648a49ea5ed2830cc779e078bb.jpg' alt='   Fortnite Skin Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/29/17/b4/2917b4648a49ea5ed2830cc779e078bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 Fortnite Girl ideas | fortnite, gaming wallpapers, best gaming ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f1/aa/78/f1aa78bb60dc388acf3fee935b20a34c.jpg' alt='220 Fortnite Girl ideas | fortnite, gaming wallpapers, best gaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f1/aa/78/f1aa78bb60dc388acf3fee935b20a34c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite girls wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/403/937/HD-wallpaper-fortnite-fortnite-girl.jpg' alt='HD fortnite girls wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/403/937/HD-wallpaper-fortnite-fortnite-girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Fortnite character">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/3e/26/e9/3e26e9d1198990a46afd94705329cddd.jpg' alt='Hot Fortnite character'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/3e/26/e9/3e26e9d1198990a46afd94705329cddd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Aura Skin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fortnite-aura-skin-mhb8im6wilxkv5r9.jpg' alt='100+] Fortnite Aura Skin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fortnite-aura-skin-mhb8im6wilxkv5r9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ruby Fortnite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ruby-fortnite-itnc9f6tnq0j9dju.jpg' alt='100+] Ruby Fortnite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ruby-fortnite-itnc9f6tnq0j9dju.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Aura Skin Hot Outfit Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fortnite-battle-royale-aura-skin-hot-outfit-85siwjl6fomhgfux.jpg' alt='Fortnite Battle Royale Aura Skin Hot Outfit Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fortnite-battle-royale-aura-skin-hot-outfit-85siwjl6fomhgfux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Aura Fortnite ideas | fortnite, aura, best gaming wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b4/f5/91/b4f59175ce7dacf099b2ee4e1a61168a.jpg' alt='39 Aura Fortnite ideas | fortnite, aura, best gaming wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b4/f5/91/b4f59175ce7dacf099b2ee4e1a61168a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Girl Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-aura-skin-sitting-warehouse-hand-gesture-289umg31applk94q.jpg' alt='100+] Fortnite Girl Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-aura-skin-sitting-warehouse-hand-gesture-289umg31applk94q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite girl     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/a5/59/f9a559ba22e8210b15407fd48f894a55.jpg' alt='Fortnite girl     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/a5/59/f9a559ba22e8210b15407fd48f894a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

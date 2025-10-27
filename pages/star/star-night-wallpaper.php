@@ -1,0 +1,129 @@
+<title>Stunning Star Night Wallpapers for Cosmic Lovers</title>
+                    <meta name="description" content="Explore our collection of mesmerizing star night wallpapers! Perfect for adding a celestial touch to your device, these wallpapers feature breathtaking night skies filled with stars. Enhance your screen's aesthetic and let your imagination soar with every glance. Download your favorite now!">
+                    <meta name="keywords" content="star night wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-night-wallpaper">
+                            <span itemprop="name">star night wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Night Wallpapers for Cosmic Lovers</h1>
+                <p>Transform your device with stunning star night wallpapers that capture the beauty of the cosmos. Perfect for stargazers, these wallpapers showcase breathtaking celestial scenes filled with twinkling stars and tranquil night skies. Bring a touch of magic to your screen and inspire your imagination every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky Photos, Download The BEST Free Night Sky Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg' alt='Night Sky Photos, Download The BEST Free Night Sky Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky Stars Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/235/456/small/starry-night-sky-with-clouds-and-glowing-stars-creating-a-serene-and-tranquil-atmosphere-photo.jpeg' alt='Night Sky Stars Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/235/456/small/starry-night-sky-with-clouds-and-glowing-stars-creating-a-serene-and-tranquil-atmosphere-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky Photos, Download The BEST Free Night Sky Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' alt='Night Sky Photos, Download The BEST Free Night Sky Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4040">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Night">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58530/star-night.jpg?h=699&q=85' alt='Star Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58530/star-night.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky iPhone wallpapers | Night sky photos, Starry night sky ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/18/9d/ac189d58aa1efb2ec99e59203b9b159d.jpg' alt='Night Sky iPhone wallpapers | Night sky photos, Starry night sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/18/9d/ac189d58aa1efb2ec99e59203b9b159d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky Over Mountain Range HD Wallpaper by CelestialCanvas">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/135/1355525.png' alt='Starry Night Sky Over Mountain Range HD Wallpaper by CelestialCanvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/135/1355525.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky Stars | Perfect wallpaper for the iPhone 4 Home sc… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4099/4747109572_484cb42384_z.jpg' alt='Night Sky Stars | Perfect wallpaper for the iPhone 4 Home sc… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4099/4747109572_484cb42384_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night sky wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/300/244/HD-wallpaper-night-sky-stars-starry-star-space-navy-milky-purple.jpg' alt='Night sky wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/300/244/HD-wallpaper-night-sky-stars-starry-star-space-navy-milky-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the sky, stars, landscape, night, background, widescreen ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/3/5c/peyzazh-zvezdnoe-nebo-zvezdy.webp' alt='Wallpaper the sky, stars, landscape, night, background, widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/3/5c/peyzazh-zvezdnoe-nebo-zvezdy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Ocean Water Blue Night Planet Fantasy Anime Sci Fi ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/793/793016.jpg' alt='Download Star Ocean Water Blue Night Planet Fantasy Anime Sci Fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/793/793016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

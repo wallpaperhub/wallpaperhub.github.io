@@ -1,0 +1,129 @@
+<title>Discover the Wonders of Cambodia: Land of Temples and Culture</title>
+                    <meta name="description" content="Explore Cambodia's breathtaking landscapes, rich history, and vibrant culture. From the majestic Angkor Wat to bustling Phnom Penh, discover the heart of Southeast Asia in this diverse and enchanting destination. Perfect for adventure seekers and culture lovers alike.">
+                    <meta name="keywords" content="cambodia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cambodia">
+                            <span itemprop="name">cambodia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Wonders of Cambodia: Land of Temples and Culture</h1>
+                <p>Cambodia, known for its rich history and stunning landscapes, is a Southeast Asian gem that attracts travelers worldwide. Home to the ancient Angkor Wat temple complex, lush jungles, and vibrant cities like Phnom Penh and Siem Reap, Cambodia offers a unique blend of tradition and modernity, enticing adventurers and culture enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg' alt='Cambodia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia | History, Map, Flag, Capital, Population, Language ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/24/77424-050-4FF80B58/Angkor-Wat-Cambodia.jpg' alt='Cambodia | History, Map, Flag, Capital, Population, Language ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/24/77424-050-4FF80B58/Angkor-Wat-Cambodia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia | History, Map, Flag, Capital, Population, Language ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/08/183608-050-492A2406/World-Data-Locator-Map-Cambodia.jpg' alt='Cambodia | History, Map, Flag, Capital, Population, Language ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/08/183608-050-492A2406/World-Data-Locator-Map-Cambodia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient city uncovered in Cambodia - ABC News">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/US/angkor-wat-temple-cambodia-file-gty-jef-191018_hpMain_16x9_992.jpg' alt='Ancient city uncovered in Cambodia - ABC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/US/angkor-wat-temple-cambodia-file-gty-jef-191018_hpMain_16x9_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia - Wikiversity">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_map_of_Cambodia.svg' alt='Cambodia - Wikiversity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikiversity" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_map_of_Cambodia.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia - A country profile">
+                                <img itemprop="contentUrl url" src='https://www.eyeonasia.gov.sg/images/asean-countries/Cambodia%20snapshot%20cover.jpg' alt='Cambodia - A country profile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eye on Asia" />
+                                </span>
+                                <a href='https://www.eyeonasia.gov.sg/images/asean-countries/Cambodia%20snapshot%20cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia travel - Lonely Planet | Asia">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2023-02/GettyImages-865119770.jpeg' alt='Cambodia travel - Lonely Planet | Asia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2114">
+                                <meta itemprop="height" content="1419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2023-02/GettyImages-865119770.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Incredible Facts About Cambodia | Intrepid Travel Blog">
+                                <img itemprop="contentUrl url" src='https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/10/Intrepid-Travel-cambodia_angkor-temple-stone-face-bayon.jpg' alt='10 Incredible Facts About Cambodia | Intrepid Travel Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intrepid Travel" />
+                                </span>
+                                <a href='https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/10/Intrepid-Travel-cambodia_angkor-temple-stone-face-bayon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia Trips & Tours | Timbuktu Travel">
+                                <img itemprop="contentUrl url" src='https://waybird.imgix.net/countries/kodak_images/000/000/063/original/Siem-Reap-Cambodia-Timbuktu-h1.jpg?w=1420&h=946&crop=center%20center&fit=min&dpr=1&q=50&auto=format' alt='Cambodia Trips & Tours | Timbuktu Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timbuktu Travel" />
+                                </span>
+                                <a href='https://waybird.imgix.net/countries/kodak_images/000/000/063/original/Siem-Reap-Cambodia-Timbuktu-h1.jpg?w=1420&h=946&crop=center%20center&fit=min&dpr=1&q=50&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambodia country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/54D9/production/_128312712_bbcmp_cambodia.png' alt='Cambodia country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/54D9/production/_128312712_bbcmp_cambodia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Black Galaxy Wallpaper for a Cosmic Touch</title>
+                    <meta name="description" content="Add a cosmic flair to your home decor with our captivating black galaxy wallpaper. Embrace the beauty of the universe while enhancing your space's elegance. Perfect for any room, our designs combine style and serenity, creating an atmosphere of wonder. Explore the cosmos right from your walls!">
+                    <meta name="keywords" content="black galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/black-galaxy-wallpaper">
+                            <span itemprop="name">black galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Galaxy Wallpaper for a Cosmic Touch</h1>
+                <p>Transform your space with stunning black galaxy wallpaper that captures the beauty of the cosmos. Featuring deep black tones adorned with twinkling stars and celestial motifs, this wallpaper creates a mesmerizing backdrop for any room. Ideal for those seeking a touch of elegance and mystery, let your walls inspire cosmic dreams.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/76/b2/2f76b2ab053b7e9bf67f38f268955cb6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/76/b2/2f76b2ab053b7e9bf67f38f268955cb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Galaxy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/stars-galaxy-outer-space-sky-night-universe-black-starry-background-shiny-starfield_146539-618.jpg' alt='Black Galaxy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/stars-galaxy-outer-space-sky-night-universe-black-starry-background-shiny-starfield_146539-618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-galaxy-wturp0ytecb3kpqq.jpg' alt='100+] Dark Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-galaxy-wturp0ytecb3kpqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Galaxy Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-black-galaxy-aesthetic-1ahxf7rykmssveq9.jpg' alt='Cute Black Galaxy Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-black-galaxy-aesthetic-1ahxf7rykmssveq9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Photo of Galaxy · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/10033671/pexels-photo-10033671.jpeg' alt='Black and White Photo of Galaxy · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2529">
+                                <meta itemprop="height" content="3345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/10033671/pexels-photo-10033671.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galax, dark, galaxy, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/986/611/HD-wallpaper-galax-dark-galaxy.jpg' alt='Galax, dark, galaxy, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/986/611/HD-wallpaper-galax-dark-galaxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Galaxy Ejecting Material Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-galaxy-ejecting-material-o74fqabbs6wk50w5.jpg' alt='Black Galaxy Ejecting Material Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5292">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-galaxy-ejecting-material-o74fqabbs6wk50w5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Galaxy Wallpapers - Top Free Black Galaxy Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/9f/49/ed9f491653c5f5fc2fd9092b8fd7fed5.jpg' alt='Black Galaxy Wallpapers - Top Free Black Galaxy Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/9f/49/ed9f491653c5f5fc2fd9092b8fd7fed5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mysterious Dark Galaxy Awaits Exploration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-galaxy-750-x-1334-wallpaper-kl5d1vje4i0f3quh.jpg' alt='Download Mysterious Dark Galaxy Awaits Exploration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-galaxy-750-x-1334-wallpaper-kl5d1vje4i0f3quh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Galaxy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/starry-night-sky-showcasing-vast-galaxy-filled-with-twinkling-stars-cosmic-landscape-capture_871349-89400.jpg' alt='Black Galaxy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/starry-night-sky-showcasing-vast-galaxy-filled-with-twinkling-stars-cosmic-landscape-capture_871349-89400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

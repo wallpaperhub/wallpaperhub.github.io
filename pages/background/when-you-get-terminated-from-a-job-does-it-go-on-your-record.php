@@ -1,0 +1,129 @@
+<title>Does Job Termination Affect Your Professional Record?</title>
+                    <meta name="description" content="Discover how job termination impacts your professional record and what employers consider during hiring. Learn tips on addressing terminations in job interviews and how to maintain your reputation in the workforce effectively.">
+                    <meta name="keywords" content="when you get terminated from a job does it go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-you-get-terminated-from-a-job-does-it-go-on-your-record">
+                            <span itemprop="name">when you get terminated from a job does it go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Job Termination Affect Your Professional Record?</h1>
+                <p>When you get terminated from a job, it typically does not create a formal "record" like a criminal background. However, it can influence future employment opportunities, as potential employers may request references or access to your work history. It's essential to address any termination honestly during interviews to mitigate concerns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When You Get Terminated From a Job Does it Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://expectllc.com/wp-content/uploads/2024/04/Terminated-From-a-Job-1-e1714114688885.webp' alt='When You Get Terminated From a Job Does it Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expect Technical Staffing" />
+                                </span>
+                                <a href='https://expectllc.com/wp-content/uploads/2024/04/Terminated-From-a-Job-1-e1714114688885.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When You Get Terminated From A Job Does It Go On Your Record? - OkJob">
+                                <img itemprop="contentUrl url" src='https://cdn.statcdn.com/Infographic/images/normal/27830.jpeg' alt='When You Get Terminated From A Job Does It Go On Your Record? - OkJob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OkJob" />
+                                </span>
+                                <a href='https://cdn.statcdn.com/Infographic/images/normal/27830.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Getting Fired Go on Your Record? Sometimes (See Reasons Why)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrecords.com/wp-content/uploads/2022/08/Does-Getting-Fired-Go-on-Your-Record.png' alt='Does Getting Fired Go on Your Record? Sometimes (See Reasons Why)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks & Criminal Records" />
+                                </span>
+                                <a href='https://backgroundcheckrecords.com/wp-content/uploads/2022/08/Does-Getting-Fired-Go-on-Your-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Getting Fired Go On Your Record? - SkillsForChange.com">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record-3.jpg' alt='Does Getting Fired Go On Your Record? - SkillsForChange.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Getting Fired Go On Your Record? Answers Here | The Muse">
+                                <img itemprop="contentUrl url" src='https://cms-assets.themuse.com/media/lead/does-getting-fired-go-on-your-record.png' alt='Does Getting Fired Go On Your Record? Answers Here | The Muse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Muse" />
+                                </span>
+                                <a href='https://cms-assets.themuse.com/media/lead/does-getting-fired-go-on-your-record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When You Get Terminated From a Job Does it Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://expectllc.com/wp-content/uploads/2024/04/The-Hard-Truth-1-300x200.webp' alt='When You Get Terminated From a Job Does it Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expect Technical Staffing" />
+                                </span>
+                                <a href='https://expectllc.com/wp-content/uploads/2024/04/The-Hard-Truth-1-300x200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Getting Fired Go On Your Record? - SkillsForChange.com">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record.jpg' alt='Does Getting Fired Go On Your Record? - SkillsForChange.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What To Do When You Are Fired">
+                                <img itemprop="contentUrl url" src='https://www.thebalancemoney.com/thmb/JWxs8Fv9hpMuLpa3EujekZOOOFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Balance_What_To_Do_When_Youre_Fired_2061659-final-d265c858a7cc44cc9679df15980b08cd.png' alt='What To Do When You Are Fired'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Balance" />
+                                </span>
+                                <a href='https://www.thebalancemoney.com/thmb/JWxs8Fv9hpMuLpa3EujekZOOOFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Balance_What_To_Do_When_Youre_Fired_2061659-final-d265c858a7cc44cc9679df15980b08cd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have been terminated from my job, which I was about to quit ...">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-29d103c50d005c38eb553eff27ab6c5a' alt='I have been terminated from my job, which I was about to quit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-29d103c50d005c38eb553eff27ab6c5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Getting Fired Go On Your Record? - SkillsForChange.com">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record-2.jpg' alt='Does Getting Fired Go On Your Record? - SkillsForChange.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2023/03/Does-Getting-Fired-Go-On-Your-Record-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

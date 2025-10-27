@@ -1,0 +1,129 @@
+<title>Explore the Rich History of the Chola Dynasty</title>
+                    <meta name="description" content="Discover the fascinating legacy of the Chola dynasty, a powerful South Indian empire known for its remarkable art, architecture, and cultural achievements from the 9th to the 13th century. Dive into their influence on Tamil literature and iconic temples, shaping an enduring heritage.">
+                    <meta name="keywords" content="chola background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chola-background">
+                            <span itemprop="name">chola background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of the Chola Dynasty</h1>
+                <p>The Chola dynasty, one of the longest-ruling dynasties in South India, flourished between the 9th and 13th centuries. Renowned for their advances in art, architecture, and Tamil literature, the Cholas established a vast empire spanning Southeast Asia. Their iconic bronze sculptures and majestic temples, like Brihadeeswarar, reflect their rich cultural heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Chola background ideas | photoshoot backdrops, y2k background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/b3/d8/a3b3d8fd174cca7b231570cc1c5fe120.jpg' alt='12 Chola background ideas | photoshoot backdrops, y2k background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/b3/d8/a3b3d8fd174cca7b231570cc1c5fe120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Chola background ideas | photoshoot backdrops, y2k background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/df/b9/4c/dfb94c42bc3c08a38c7fab6691f5fbbc.jpg' alt='12 Chola background ideas | photoshoot backdrops, y2k background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/df/b9/4c/dfb94c42bc3c08a38c7fab6691f5fbbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lux Rosa High Times at Sadie Hawkins Blue Heart Y2k Backdrop Airbrushed  2000s Glamour Shots Photography Photo Backdrop 90s Chola Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28519165/r/il/a86633/3946851257/il_1080xN.3946851257_3hro.jpg' alt='Lux Rosa High Times at Sadie Hawkins Blue Heart Y2k Backdrop Airbrushed  2000s Glamour Shots Photography Photo Backdrop 90s Chola Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28519165/r/il/a86633/3946851257/il_1080xN.3946851257_3hro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chola Butterfly Seamless JPEG File, Airbrush Butterfly Photo ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24989273/r/il/696e9c/2988652002/il_fullxfull.2988652002_7dfn.jpg' alt='Chola Butterfly Seamless JPEG File, Airbrush Butterfly Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24989273/r/il/696e9c/2988652002/il_fullxfull.2988652002_7dfn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Chola background ideas | photoshoot backdrops, y2k background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/85/17/5e/85175e4e61d050d1bc4b9d20f1f9ea91.jpg' alt='12 Chola background ideas | photoshoot backdrops, y2k background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/85/17/5e/85175e4e61d050d1bc4b9d20f1f9ea91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cholo Theme Backdrop Early 2000s Background 8x6FT Black Glitter Old School  Photography Banner Kids Birthday Cholo Party Decoration Photo Props">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713+yaEvvGL.jpg' alt='Cholo Theme Backdrop Early 2000s Background 8x6FT Black Glitter Old School  Photography Banner Kids Birthday Cholo Party Decoration Photo Props'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713+yaEvvGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dd/a6/f8/dda6f8f0126a83bcb7c29a885520de7d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dd/a6/f8/dda6f8f0126a83bcb7c29a885520de7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lux Rosa High Times At Sadie Hawkins Pink Heart y2k backdrop Airbrushed  2000s Glamour Shots Photography Photo Backdrop 90s chola Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28519165/r/il/6f0c1b/4606150085/il_570xN.4606150085_pxww.jpg' alt='Lux Rosa High Times At Sadie Hawkins Pink Heart y2k backdrop Airbrushed  2000s Glamour Shots Photography Photo Backdrop 90s chola Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28519165/r/il/6f0c1b/4606150085/il_570xN.4606150085_pxww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Lofaris Cholo Theme Backdrop Chola Mexcian Women Girl Happy  Birthday Photography Background for Cholo Party Decoration Car Black Flower  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7143fctUcgL.jpg' alt='Amazon.com : Lofaris Cholo Theme Backdrop Chola Mexcian Women Girl Happy  Birthday Photography Background for Cholo Party Decoration Car Black Flower  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7143fctUcgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chola Hearts | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4712765515.3653/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' alt='Chola Hearts | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4712765515.3653/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

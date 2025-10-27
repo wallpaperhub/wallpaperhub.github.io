@@ -1,0 +1,129 @@
+<title>Discover the Eerie Charm of The Addams Family</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="addams family">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/addams-family">
+                            <span itemprop="name">addams family</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Eerie Charm of The Addams Family</h1>
+                <p>The Addams Family is an iconic fictional family created by cartoonist Charles Addams. Known for their quirky and macabre antics, they consist of characters like Gomez, Morticia, Wednesday, and Uncle Fester. Their dark humor and gothic style have captivated audiences since their debut in comics, leading to numerous adaptations in films and TV shows.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family (2019 film) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/39/The_Addams_Family_%282019_film%29.png' alt='The Addams Family (2019 film) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/39/The_Addams_Family_%282019_film%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family (1991) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Addams Family (1991) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family (1964 TV series) - Simple English Wikipedia, the ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/95/Addams_Family_main_cast_1964.JPG' alt='The Addams Family (1964 TV series) - Simple English Wikipedia, the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/95/Addams_Family_main_cast_1964.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family (TV Series 1964–1966) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYmJkMDBlZTgtODg5YS00MmFlLWE3YzUtNjdlYmQ5ODdhZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Addams Family (TV Series 1964–1966) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYmJkMDBlZTgtODg5YS00MmFlLWE3YzUtNjdlYmQ5ODdhZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How The Addams Family Values inverts the ideal American household ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/5GnSjWqcTBg3uvbp4wsjc6-1200-80.jpg' alt='How The Addams Family Values inverts the ideal American household ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Games Radar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/5GnSjWqcTBg3uvbp4wsjc6-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet the New Addams Family From Tim Burton's 'Wednesday' | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/62faca32888dcb1c799a5d52/4:3/w_1999,h_1499,c_limit/Wednesday-First-Look-04.jpg' alt='Meet the New Addams Family From Tim Burton's 'Wednesday' | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/62faca32888dcb1c799a5d52/4:3/w_1999,h_1499,c_limit/Wednesday-First-Look-04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13571_p_v12_an.jpg' alt='The Addams Family | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13571_p_v12_an.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family Review | Movie - Empire">
+                                <img itemprop="contentUrl url" src='https://images.bauerhosting.com/legacy/empire-tmdb/films/2907/images/cf9WjvymdQMYyHHpp30ePvXrUZG.jpg?ar=16:9&fit=crop&crop=top' alt='The Addams Family Review | Movie - Empire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Empire Magazine" />
+                                </span>
+                                <a href='https://images.bauerhosting.com/legacy/empire-tmdb/films/2907/images/cf9WjvymdQMYyHHpp30ePvXrUZG.jpg?ar=16:9&fit=crop&crop=top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Addams Family [DVD] [1991] : Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91xhFi8-jFL.jpg' alt='Amazon.com: The Addams Family [DVD] [1991] : Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="2196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91xhFi8-jFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family - IGN">
+                                <img itemprop="contentUrl url" src='https://assets1.ignimgs.com/2019/03/29/addams-family-xlg-poster-button-1553888820897.jpg?width=300&auto=webp' alt='The Addams Family - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets1.ignimgs.com/2019/03/29/addams-family-xlg-poster-button-1553888820897.jpg?width=300&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

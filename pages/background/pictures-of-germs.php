@@ -1,0 +1,129 @@
+<title>Stunning Pictures of Germs: Discover the Invisible World</title>
+                    <meta name="description" content="Explore captivating pictures of germs, showcasing the hidden life of bacteria, viruses, and fungi. Understand their roles in health and ecosystems through stunning visuals. Discover the importance of these microorganisms today!">
+                    <meta name="keywords" content="pictures of germs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-germs">
+                            <span itemprop="name">pictures of germs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pictures of Germs: Discover the Invisible World</h1>
+                <p>Pictures of germs reveal the unseen world that exists all around us. These microscopic organisms can cause diseases, but they also play essential roles in ecosystems. Visuals of bacteria, viruses, and fungi help us understand their shapes, sizes, and the environments they thrive in. By exploring germ imagery, we gain insight into both harmful and beneficial microbes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GERMS 101 | UNH Today">
+                                <img itemprop="contentUrl url" src='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2020/depositphotos_9547467-stock-photo-bacteria.jpg?itok=rdy8f7Ki' alt='GERMS 101 | UNH Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of New Hampshire" />
+                                </span>
+                                <a href='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2020/depositphotos_9547467-stock-photo-bacteria.jpg?itok=rdy8f7Ki' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germs hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/G1F4Y4/bacteria-infected-blood-germs-epidemic-bacterial-disease-G1F4Y4.jpg' alt='Germs hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/G1F4Y4/bacteria-infected-blood-germs-epidemic-bacterial-disease-G1F4Y4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germ Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1674641195838-59ad13f8cc55?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2VybXxlbnwwfHwwfHx8MA%3D%3D' alt='Germ Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1674641195838-59ad13f8cc55?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2VybXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Was Life Like Before We Knew About Germs? | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/65/225065-050-3FB86B30/microscopic-blue-bacteria.jpg' alt='What Was Life Like Before We Knew About Germs? | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/65/225065-050-3FB86B30/microscopic-blue-bacteria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Embracing Germs Can Encourage Good Health - U of G News">
+                                <img itemprop="contentUrl url" src='https://news.uoguelph.ca/wp-content/uploads/2016/11/germs.jpg' alt='How Embracing Germs Can Encourage Good Health - U of G News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Guelph" />
+                                </span>
+                                <a href='https://news.uoguelph.ca/wp-content/uploads/2016/11/germs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germs: Fear of the Invisible Threat - Chicago Counseling Center">
+                                <img itemprop="contentUrl url" src='https://chicagocounselingcenter.com/wp-content/uploads/2021/05/germs.jpg' alt='Germs: Fear of the Invisible Threat - Chicago Counseling Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chicago Counseling Center" />
+                                </span>
+                                <a href='https://chicagocounselingcenter.com/wp-content/uploads/2021/05/germs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,138 Microscopic Germs Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/172994677/photo/microscope-view-of-bacteria-flowing.jpg?s=612x612&w=gi&k=20&c=Xz7soJKQMAvPuEdrLF4VHu43-COq8Z5YtXCNfIGeN_U=' alt='9,138 Microscopic Germs Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/172994677/photo/microscope-view-of-bacteria-flowing.jpg?s=612x612&w=gi&k=20&c=Xz7soJKQMAvPuEdrLF4VHu43-COq8Z5YtXCNfIGeN_U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germ Images – Browse 676,615 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/76/11/64/360_F_276116420_cNKVVXddWuU73oY0XTGKp0t4KVnNPxLs.jpg' alt='Germ Images – Browse 676,615 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/76/11/64/360_F_276116420_cNKVVXddWuU73oY0XTGKp0t4KVnNPxLs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germ Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1578308175084-0cfbca809d29?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2VybXxlbnwwfHwwfHx8MA%3D%3D' alt='Germ Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1578308175084-0cfbca809d29?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2VybXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germs - Bacteria and Viruses – What's the Difference when Cleaning?">
+                                <img itemprop="contentUrl url" src='https://www.in-tec.com.au/hubfs/viruses-bacteria-fungi.jpeg' alt='Germs - Bacteria and Viruses – What's the Difference when Cleaning?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="In-Tec Commercial Cleaning" />
+                                </span>
+                                <a href='https://www.in-tec.com.au/hubfs/viruses-bacteria-fungi.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

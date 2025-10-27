@@ -1,0 +1,129 @@
+<title>Aesthetic Heart Wallpapers - Romantic Inspirations for Your Device</title>
+                    <meta name="description" content="Discover stunning aesthetic heart wallpapers on Pinterest! Perfect for adding a romantic touch to your device, these designs range from soft pastels to bold art styles. Explore now to find the ideal wallpaper that expresses your vibe and elevates your screen's aesthetic!">
+                    <meta name="keywords" content="aesthetic heart wallpaper pinterest">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-heart-wallpaper-pinterest">
+                            <span itemprop="name">aesthetic heart wallpaper pinterest</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Heart Wallpapers - Romantic Inspirations for Your Device</h1>
+                <p>Aesthetic heart wallpapers on Pinterest bring a touch of love and creativity to your device's background. Explore a diverse collection that features soft pastel hues, bold artistic designs, and romantic vibes. Perfect for expressing your personality or boosting your mood, these wallpapers transform any screen into a captivating visual experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Y2k Heart Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/06/0d/fd/060dfd7f3982a6a5c928e4ea8e63f619.jpg' alt='   Y2k Heart Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/06/0d/fd/060dfd7f3982a6a5c928e4ea8e63f619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart aesthetic | Edgy wallpaper, Simple iphone wallpaper, Retro ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/fd/46/b7fd461ad8275ba9537bec5bae6f3ae3.jpg' alt='Heart aesthetic | Edgy wallpaper, Simple iphone wallpaper, Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/fd/46/b7fd461ad8275ba9537bec5bae6f3ae3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by M. on <3 | Heart wallpaper, Heart iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b4/33/0e/b4330eab6e1833818d2d7f70b5c1aea6.jpg' alt='Pin by M. on <3 | Heart wallpaper, Heart iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b4/33/0e/b4330eab6e1833818d2d7f70b5c1aea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Barbiecore Aesthetic Wallpaper Downloads For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ff/85/0d/ff850d15c9657518dc176434f0ff8958.jpg' alt='60+ Barbiecore Aesthetic Wallpaper Downloads For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="295">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ff/85/0d/ff850d15c9657518dc176434f0ff8958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/9b/a1/309ba1a94ed19cc49f92fb591dff70fd.jpg' alt='67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/9b/a1/309ba1a94ed19cc49f92fb591dff70fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ba/30/4b/ba304bf11a86df74ec58f60b83de1ffa.jpg' alt='heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ba/30/4b/ba304bf11a86df74ec58f60b83de1ffa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic | Heart wallpaper, Heart iphone wallpaper, Aura colors">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/89/0c/a5890caa763f57232af86a50c0349022.jpg' alt='Aesthetic | Heart wallpaper, Heart iphone wallpaper, Aura colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/89/0c/a5890caa763f57232af86a50c0349022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Heart Y2K Wallpaper - Retro Bronze and Grey Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/da/7d/2eda7d6d43d75e702c7305f49f1e8adc.jpg' alt='Cute Heart Y2K Wallpaper - Retro Bronze and Grey Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/da/7d/2eda7d6d43d75e702c7305f49f1e8adc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' alt='67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic minimalist heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' alt='Aesthetic minimalist heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

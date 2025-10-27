@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Aesthetic Wallpaper for Your Desktop</title>
+                    <meta name="description" content="Discover the perfect yellow aesthetic wallpaper for your desktop to elevate your space! Explore vibrant designs that inspire creativity and boost your mood. Transform your workspace with cheerful colors and artistic patterns, ideal for a fresh and uplifting look. Perfect for any aesthetic lover!">
+                    <meta name="keywords" content="yellow aesthetic wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-aesthetic-wallpaper-desktop">
+                            <span itemprop="name">yellow aesthetic wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Aesthetic Wallpaper for Your Desktop</h1>
+                <p>Brighten up your workspace with stunning yellow aesthetic wallpaper for your desktop! These vibrant designs bring warmth and positivity, perfect for inspiring creativity. Whether you prefer minimalist patterns or bold floral motifs, yellow wallpapers can transform your screen into a cheerful canvas, enhancing your mood and productivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Laptop/Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30923035/r/il/03b1c5/3199603048/il_fullxfull.3199603048_gdtk.jpg' alt='Yellow Aesthetic Laptop/Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30923035/r/il/03b1c5/3199603048/il_fullxfull.3199603048_gdtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Yellow Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13577914/r/il/d78727/4252490583/il_fullxfull.4252490583_9rjc.jpg' alt='Aesthetic Yellow Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13577914/r/il/d78727/4252490583/il_fullxfull.4252490583_9rjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Desktop Wallpaper:)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/0f/6a/790f6a042734446a843829ee516734c7.jpg' alt='Yellow Aesthetic Desktop Wallpaper:)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/0f/6a/790f6a042734446a843829ee516734c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Aesthetic Collage Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-aesthetic-collage-0psf24w89gw7jkhu.jpg' alt='100+] Yellow Aesthetic Collage Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-aesthetic-collage-0psf24w89gw7jkhu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Yellow Aesthetic Wallpaper - WPTunnel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/38/32/6b38321ffd0072a433e503038ea2a757.jpg' alt='Desktop Yellow Aesthetic Wallpaper - WPTunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/38/32/6b38321ffd0072a433e503038ea2a757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Yellow Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-yellow-pictures-05ewo3e7z47iy6dz.jpg' alt='100+] Aesthetic Yellow Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-yellow-pictures-05ewo3e7z47iy6dz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Yellow Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/8a/b5/a88ab5b8cbcbb3aead28bfb928aaa672.jpg' alt='Pretty Yellow Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/8a/b5/a88ab5b8cbcbb3aead28bfb928aaa672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Gudetama In Chopsticks For Computer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/yellow-aesthetic-gudetama-in-chopsticks-for-computer-7vqzz2bcgyvwpq7o.jpg' alt='Yellow Aesthetic Gudetama In Chopsticks For Computer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/yellow-aesthetic-gudetama-in-chopsticks-for-computer-7vqzz2bcgyvwpq7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/b1/62/20b162213af10741328767490e0b7af3.jpg' alt='Yellow Aesthetic Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/b1/62/20b162213af10741328767490e0b7af3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1100+] Yellow Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/yellow-aesthetic-lwblunwspdbt0j48.jpg' alt='1100+] Yellow Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/yellow-aesthetic-lwblunwspdbt0j48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

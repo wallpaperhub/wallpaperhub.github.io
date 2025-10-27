@@ -1,0 +1,129 @@
+<title>Elegant Isabella Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of Isabella wallpaper, perfect for creating a luxurious ambiance in your home. Featuring exquisite patterns and vibrant colors, it’s designed to enhance any room. Easy to install and durable, Isabella wallpaper is your go-to choice for a timeless interior look.">
+                    <meta name="keywords" content="isabella wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/isabella-wallpaper">
+                            <span itemprop="name">isabella wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Isabella Wallpaper for Stylish Interiors</h1>
+                <p>Isabella wallpaper is a stunning choice for transforming any space into a stylish haven. With its intricate designs and rich colors, it adds elegance to both modern and traditional interiors. Perfect for accent walls or entire rooms, this wallpaper is easy to apply and maintain, ensuring your home reflects your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/f9/8a/e2f98a58cb83e7460da9a8d987211708.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/f9/8a/e2f98a58cb83e7460da9a8d987211708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isabella Wallpaper Discover more Character, Disney, Game, Isabella ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/bd/2c/53/bd2c536a4bf08990e1212bc81400cbc2.jpg' alt='Isabella Wallpaper Discover more Character, Disney, Game, Isabella ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/bd/2c/53/bd2c536a4bf08990e1212bc81400cbc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isabella with names, female names, Isabella name, purple neon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/663/303/HD-wallpaper-isabella-with-names-female-names-isabella-name-purple-neon-lights-horizontal-text-with-isabella-name.jpg' alt='Isabella with names, female names, Isabella name, purple neon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/663/303/HD-wallpaper-isabella-with-names-female-names-isabella-name-purple-neon-lights-horizontal-text-with-isabella-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isabella Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/36/37/b836374d0f905485a54e203d35d9a6c9.jpg' alt='Isabella Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/36/37/b836374d0f905485a54e203d35d9a6c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birtay Isabella pink neon lights, Isabella name, creative ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/879/928/HD-wallpaper-happy-birtay-isabella-pink-neon-lights-isabella-name-creative-isabella-happy-birtay-isabella-birtay-popular-american-female-names-with-isabella-name-isabella.jpg' alt='Happy Birtay Isabella pink neon lights, Isabella name, creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/879/928/HD-wallpaper-happy-birtay-isabella-pink-neon-lights-isabella-name-creative-isabella-happy-birtay-isabella-birtay-popular-american-female-names-with-isabella-name-isabella.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name Isabella Stock Illustrations – 34 Name Isabella Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/female-name-isabella-girls-name-isabella-flower-text-set-dot-pink-backfround-238041137.jpg' alt='Name Isabella Stock Illustrations – 34 Name Isabella Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/female-name-isabella-girls-name-isabella-flower-text-set-dot-pink-backfround-238041137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Isabella Fan-Art Made into a Wallpaper : r/Encanto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/beautiful-isabella-fan-art-made-into-a-wallpaper-v0-po8jzr3jbwj81.png?width=1124&format=png&auto=webp&s=ae1783eb6a02fb9b6f847eb016b2c4f193b11352' alt='Beautiful Isabella Fan-Art Made into a Wallpaper : r/Encanto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/beautiful-isabella-fan-art-made-into-a-wallpaper-v0-po8jzr3jbwj81.png?width=1124&format=png&auto=webp&s=ae1783eb6a02fb9b6f847eb016b2c4f193b11352' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Isabella!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/db/06/e7db065451d79f25ea906202a721e0c7.jpg' alt='Wallpaper for Isabella!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/db/06/e7db065451d79f25ea906202a721e0c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD isabella with names wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/570/410/HD-wallpaper-isabella-pink-lines-background-with-names-isabella-name-female-names-isabella-greeting-card-line-art-with-isabella-name-thumbnail.jpg' alt='HD isabella with names wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/570/410/HD-wallpaper-isabella-pink-lines-background-with-names-isabella-name-female-names-isabella-greeting-card-line-art-with-isabella-name-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isabella Madrigal Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/4d/cd/7e4dcddff7ab9700dfc762d840a75171.jpg' alt='Isabella Madrigal Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/4d/cd/7e4dcddff7ab9700dfc762d840a75171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

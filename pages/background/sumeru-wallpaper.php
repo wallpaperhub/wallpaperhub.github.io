@@ -1,0 +1,129 @@
+<title>Sumeru Wallpaper: Vivid Backgrounds for Genshin Impact Fans</title>
+                    <meta name="description" content="Discover a collection of breathtaking Sumeru wallpapers to personalize your device. Ideal for Genshin Impact enthusiasts, these wallpapers showcase the vibrant scenery and rich culture of Sumeru. Download your favorite designs today and keep the enchanting world of Genshin Impact at your fingertips!">
+                    <meta name="keywords" content="sumeru wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sumeru-wallpaper">
+                            <span itemprop="name">sumeru wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sumeru Wallpaper: Vivid Backgrounds for Genshin Impact Fans</h1>
+                <p>Enhance your screen with stunning Sumeru wallpapers that bring the enchanting world of Genshin Impact to life. Experience lush landscapes, vibrant colors, and captivating characters from Sumeru, immersing yourself in its rich culture and aesthetics. Perfect for fans and gamers alike, these wallpapers will transform your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru Wallpaper - I made a wallpaper from the Graven Innocence ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pelptavtb7n91.jpg' alt='Sumeru Wallpaper - I made a wallpaper from the Graven Innocence ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pelptavtb7n91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru wallpaper made from a scene in Alhaitham's teaser : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sumeru-wallpaper-made-from-a-scene-in-alhaithams-teaser-v0-ykcmi2vwbpba1.png?auto=webp&s=27759356f194f5cb7231ee5bbaddfd8e6735222e' alt='Sumeru wallpaper made from a scene in Alhaitham's teaser : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sumeru-wallpaper-made-from-a-scene-in-alhaithams-teaser-v0-ykcmi2vwbpba1.png?auto=webp&s=27759356f194f5cb7231ee5bbaddfd8e6735222e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru Awakening : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hsy8rqa4mi0a1.jpg' alt='Sumeru Awakening : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hsy8rqa4mi0a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru screenshots in 4K + Edits : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sumeru-screenshots-in-4k-edits-v0-g3fsn1b1n3m91.jpg?width=3840&format=pjpg&auto=webp&s=d2cdc4ef2006c3adaf12ac756f9b892368929ca8' alt='Sumeru screenshots in 4K + Edits : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sumeru-screenshots-in-4k-edits-v0-g3fsn1b1n3m91.jpg?width=3840&format=pjpg&auto=webp&s=d2cdc4ef2006c3adaf12ac756f9b892368929ca8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru Wallpaper Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/08/14/17237280/ee56e4f7b45d66c7a123c3b4548f5dbe_389970781315217591.jpg' alt='Sumeru Wallpaper Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/08/14/17237280/ee56e4f7b45d66c7a123c3b4548f5dbe_389970781315217591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru from Genshin Impact by maxasabin on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52f0202a-f084-4764-9689-5c78c0e9a0d0/dfc9mo8-f7a060b1-77f1-417e-b490-e5e43493a801.png/v1/fill/w_1920,h_850,q_80,strp/sumeru_from_genshin_impact_by_maxasabin_dfc9mo8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODUwIiwicGF0aCI6IlwvZlwvNTJmMDIwMmEtZjA4NC00NzY0LTk2ODktNWM3OGMwZTlhMGQwXC9kZmM5bW84LWY3YTA2MGIxLTc3ZjEtNDE3ZS1iNDkwLWU1ZTQzNDkzYTgwMS5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hzOeIvovLnH7RYnma2f4OoPofMNj38YE6UeTQwOQkVE' alt='Sumeru from Genshin Impact by maxasabin on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52f0202a-f084-4764-9689-5c78c0e9a0d0/dfc9mo8-f7a060b1-77f1-417e-b490-e5e43493a801.png/v1/fill/w_1920,h_850,q_80,strp/sumeru_from_genshin_impact_by_maxasabin_dfc9mo8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODUwIiwicGF0aCI6IlwvZlwvNTJmMDIwMmEtZjA4NC00NzY0LTk2ODktNWM3OGMwZTlhMGQwXC9kZmM5bW84LWY3YTA2MGIxLTc3ZjEtNDE3ZS1iNDkwLWU1ZTQzNDkzYTgwMS5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hzOeIvovLnH7RYnma2f4OoPofMNj38YE6UeTQwOQkVE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Desktop Backgrounds from my Sumeru Experience Thus Far! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6h8ay5s1whk91.jpg' alt='Some Desktop Backgrounds from my Sumeru Experience Thus Far! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6h8ay5s1whk91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Sumeru【Genshin Impact】">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1790764668902782791/4ECD2D1A6FC36843A4AA75AF03E445F28E0C7C91/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Sumeru【Genshin Impact】'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1790764668902782791/4ECD2D1A6FC36843A4AA75AF03E445F28E0C7C91/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru is pure wallpaper material : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sumeru-is-pure-wallpaper-material-v0-tebibr9j71l91.png?width=640&crop=smart&auto=webp&s=6885f77e59074270c372676ce9f79d7a09d3ed41' alt='Sumeru is pure wallpaper material : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sumeru-is-pure-wallpaper-material-v0-tebibr9j71l91.png?width=640&crop=smart&auto=webp&s=6885f77e59074270c372676ce9f79d7a09d3ed41' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sumeru (Genshin Impact) Genshin Impact HD Wallpaper by camu">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/134/1346093.jpeg' alt='Download Sumeru (Genshin Impact) Genshin Impact HD Wallpaper by camu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2039">
+                                <meta itemprop="height" content="1184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/134/1346093.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

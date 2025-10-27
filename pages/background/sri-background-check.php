@@ -1,0 +1,129 @@
+<title>Comprehensive Sri Lanka Background Check Services</title>
+                    <meta name="description" content="Discover reliable Sri Lanka background check services to ensure the safety and integrity of your hiring process. Our comprehensive checks cover criminal records, education, and employment history, helping you make informed decisions quickly and efficiently. Trust our expertise to safeguard your business.">
+                    <meta name="keywords" content="sri background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sri-background-check">
+                            <span itemprop="name">sri background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comprehensive Sri Lanka Background Check Services</h1>
+                <p>A Sri Lanka background check involves verifying an individual’s personal history, including criminal records, education, and employment. It is essential for employers to ensure they hire trustworthy candidates and for individuals seeking peace of mind. Conducting thorough background checks promotes safety and reliability in hiring practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Background Check Software for Employers in 2025">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5dbc34a89684007e327a6c35/662214c84b5d9390ffdb5b82_Sterling-background-check-software.png' alt='Best Background Check Software for Employers in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SelectSoftware Reviews" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5dbc34a89684007e327a6c35/662214c84b5d9390ffdb5b82_Sterling-background-check-software.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Basics of Background Checks | First Contact HR">
+                                <img itemprop="contentUrl url" src='https://firstcontacthr.com/wp-content/uploads/2022/04/Background-Check-Basics.jpg' alt='The Basics of Background Checks | First Contact HR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="879">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="firstcontacthr.com" />
+                                </span>
+                                <a href='https://firstcontacthr.com/wp-content/uploads/2022/04/Background-Check-Basics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does Background Check take? - Mintly">
+                                <img itemprop="contentUrl url" src='https://www.blog1.trymintly.com/wp-content/uploads/2022/05/Chart-Best-Background-Check-Services-Compared-03-2023-1.png' alt='How long does Background Check take? - Mintly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mintly" />
+                                </span>
+                                <a href='https://www.blog1.trymintly.com/wp-content/uploads/2022/05/Chart-Best-Background-Check-Services-Compared-03-2023-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get a Quote for Employee Background Screening - Accurate ...">
+                                <img itemprop="contentUrl url" src='https://aisbackgroundchecks.com/wp-content/uploads/2020/12/ais-sample-report-1.gif' alt='Get a Quote for Employee Background Screening - Accurate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Information Systems" />
+                                </span>
+                                <a href='https://aisbackgroundchecks.com/wp-content/uploads/2020/12/ais-sample-report-1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Idaho State Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='Idaho State Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mississippi State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Mississippi State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Background Check Software for Employers in 2025">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5dbc34a89684007e327a6c35/6058e6f0b18829cfb5bc0832_Screen%20Shot%202021-03-22%20at%202.50.14%20PM.png' alt='Best Background Check Software for Employers in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SelectSoftware Reviews" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5dbc34a89684007e327a6c35/6058e6f0b18829cfb5bc0832_Screen%20Shot%202021-03-22%20at%202.50.14%20PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Background Checks Have Become a Standard for Businesses ...">
+                                <img itemprop="contentUrl url" src='https://www.securitymagazine.com/ext/resources/SEC/2016/0216/SEC0216-edu-feature-slide1_900px.jpg?1559835555' alt='Why Background Checks Have Become a Standard for Businesses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Magazine" />
+                                </span>
+                                <a href='https://www.securitymagazine.com/ext/resources/SEC/2016/0216/SEC0216-edu-feature-slide1_900px.jpg?1559835555' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

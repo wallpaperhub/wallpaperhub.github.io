@@ -1,0 +1,129 @@
+<title>Experience the Magic of Oliver! - A Timeless Musical Adventure</title>
+                    <meta name="description" content="Discover the enchanting world of Oliver!, a musical that brings Dickens' story to life with unforgettable songs and heartfelt performances. Join Oliver on his quest for family and belonging in this classic tale of hope and resilience, perfect for all ages!">
+                    <meta name="keywords" content="oliver musical">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oliver-musical">
+                            <span itemprop="name">oliver musical</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Magic of Oliver! - A Timeless Musical Adventure</h1>
+                <p>Oliver! is a beloved musical adaptation of Charles Dickens' classic tale, showcasing the journey of young Oliver Twist as he navigates the harsh world of Victorian London. Featuring memorable songs like "Consider Yourself" and "As Long As He Needs Me," the production captures themes of hope, resilience, and the search for belonging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! (film) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/d/d9/Oliver%21_%281968_movie_poster%29.jpg' alt='Oliver! (film) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="346">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/d/d9/Oliver%21_%281968_movie_poster%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver!' Review: Tunes, Glorious Tunes, in a Grimly Cheerful ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/05/04/multimedia/04OLIVER-2-gtzm/04OLIVER-2-gtzm-superJumbo.jpg' alt='Oliver!' Review: Tunes, Glorious Tunes, in a Grimly Cheerful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/05/04/multimedia/04OLIVER-2-gtzm/04OLIVER-2-gtzm-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! (1968) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjRhYmVlZGItYzgxMS00MzI3LTgzZjctNTcxMGRiN2E5ZGYwXkEyXkFqcGc@._V1_.jpg' alt='Oliver! (1968) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjRhYmVlZGItYzgxMS00MzI3LTgzZjctNTcxMGRiN2E5ZGYwXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver!: A Dickensian Musical: Napolitano, Marc: 9780199364824 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710pq8VzoKL._AC_UF1000,1000_QL80_.jpg' alt='Oliver!: A Dickensian Musical: Napolitano, Marc: 9780199364824 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710pq8VzoKL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything you need to know about 'Oliver!' | London Theatre">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/6pezt69ih962/3MiY55hERDNBoajkeR3aLv/f6e7c39edf8b2b32f35bf6dcabb7f8a3/oliver.jpg' alt='Everything you need to know about 'Oliver!' | London Theatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="London Theatre" />
+                                </span>
+                                <a href='https://images.ctfassets.net/6pezt69ih962/3MiY55hERDNBoajkeR3aLv/f6e7c39edf8b2b32f35bf6dcabb7f8a3/oliver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! The Musical | Gielgud Theatre | West End 2025">
+                                <img itemprop="contentUrl url" src='https://oliverthemusical.com/wp-content/uploads/2024/07/gallery-1.png' alt='Oliver! The Musical | Gielgud Theatre | West End 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="868">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="oliverthemusical.com" />
+                                </span>
+                                <a href='https://oliverthemusical.com/wp-content/uploads/2024/07/gallery-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! | Music Theatre International">
+                                <img itemprop="contentUrl url" src='https://www.mtishows.com/sites/default/files/media-youtube/lkC3YvPMqaE.jpg?x=3' alt='Oliver! | Music Theatre International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Music Theatre International" />
+                                </span>
+                                <a href='https://www.mtishows.com/sites/default/files/media-youtube/lkC3YvPMqaE.jpg?x=3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! The Musical">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ouP-YMTfCX4/maxresdefault.jpg' alt='Oliver! The Musical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ouP-YMTfCX4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliver! | Smash Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/smash8457/images/b/b3/Oliver_web.jpg/revision/latest?cb=20150713001147' alt='Oliver! | Smash Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="812">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smash Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/smash8457/images/b/b3/Oliver_web.jpg/revision/latest?cb=20150713001147' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Review of 'Oliver!' in Millburn - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2013/12/15/nyregion/15ARTSNJ_SPAN/15ARTSNJ_SPAN-superJumbo.jpg' alt='A Review of 'Oliver!' in Millburn - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2013/12/15/nyregion/15ARTSNJ_SPAN/15ARTSNJ_SPAN-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

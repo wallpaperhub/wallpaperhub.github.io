@@ -1,0 +1,129 @@
+<title>Accessing Dallas Criminal Records: Everything You Need to Know</title>
+                    <meta name="description" content="Discover how to access Dallas criminal records quickly and easily. This concise guide covers essential information on criminal history searches, where to find records, and the importance of background checks in Dallas. Stay informed with just a few clicks!">
+                    <meta name="keywords" content="dallas criminal records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dallas-criminal-records">
+                            <span itemprop="name">dallas criminal records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Accessing Dallas Criminal Records: Everything You Need to Know</h1>
+                <p>Dallas criminal records are public documents detailing an individual's criminal history within the city. They include arrests, charges, convictions, and sentencing information. Accessing these records can be crucial for various purposes, such as background checks or legal proceedings. In Dallas, record requests can be made through police departments or online databases.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Tx Criminal Records">
+                                <img itemprop="contentUrl url" src='https://dallas-tx-criminal-records.govbackgroundchecks.com/screenshots/dallas-tx-criminal-records/4.jpg' alt='Dallas Tx Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://dallas-tx-criminal-records.govbackgroundchecks.com/screenshots/dallas-tx-criminal-records/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do I Find Dallas, Texas Criminal Records? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hU2lopvWqTg/maxresdefault.jpg' alt='How Do I Find Dallas, Texas Criminal Records? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hU2lopvWqTg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Criminal Court Records">
+                                <img itemprop="contentUrl url" src='https://dallas-criminal-court-records.govbackgroundchecks.com/screenshots/dallas-criminal-court-records/0.jpg' alt='Dallas Criminal Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://dallas-criminal-court-records.govbackgroundchecks.com/screenshots/dallas-criminal-court-records/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas County Online Jail Search">
+                                <img itemprop="contentUrl url" src='https://www.dallascounty.org/jaillookup/show_image?url=https://www.ais.dallascounty.org/ais_dx/ReadPhoto.aspx?width=200&personid=A60017AD-3520-D084-CE48-FE4BDC4D9EAF&key=F600BE95-AAFA-42C5-EF3F-2ACEE946A4BA' alt='Dallas County Online Jail Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dallas County Online Jail Search" />
+                                </span>
+                                <a href='https://www.dallascounty.org/jaillookup/show_image?url=https://www.ais.dallascounty.org/ais_dx/ReadPhoto.aspx?width=200&personid=A60017AD-3520-D084-CE48-FE4BDC4D9EAF&key=F600BE95-AAFA-42C5-EF3F-2ACEE946A4BA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Criminal Court Records">
+                                <img itemprop="contentUrl url" src='https://dallas-criminal-court-records.govbackgroundchecks.com/screenshots/dallas-criminal-court-records/2.jpg' alt='Dallas Criminal Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://dallas-criminal-court-records.govbackgroundchecks.com/screenshots/dallas-criminal-court-records/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of Dallas County Criminal Court cases] - UNT Digital Library">
+                                <img itemprop="contentUrl url" src='https://digital.library.unt.edu/ark:/67531/metadc965344/small/' alt='List of Dallas County Criminal Court cases] - UNT Digital Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNT Digital Library - University of North Texas" />
+                                </span>
+                                <a href='https://digital.library.unt.edu/ark:/67531/metadc965344/small/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do I Find Dallas County, Texas Criminal Records? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8qSHuRSZChU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_92W_xRuIAPQrF0finOTgC4kJGw' alt='How Do I Find Dallas County, Texas Criminal Records? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8qSHuRSZChU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_92W_xRuIAPQrF0finOTgC4kJGw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dallas County Public Records: Find Criminal, Inmate & Vital ...">
+                                <img itemprop="contentUrl url" src='https://dallas.texas.recordspage.org/wp-content/uploads/sites/129/2023/08/Dallas-County-Jail-Lookup-System-Search-Result-Screenshot.webp' alt='Free Dallas County Public Records: Find Criminal, Inmate & Vital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dallas.texas.recordspage.org" />
+                                </span>
+                                <a href='https://dallas.texas.recordspage.org/wp-content/uploads/sites/129/2023/08/Dallas-County-Jail-Lookup-System-Search-Result-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Tx Criminal Records">
+                                <img itemprop="contentUrl url" src='https://dallas-tx-criminal-records.govbackgroundchecks.com/screenshots/dallas-tx-criminal-records/3.jpg' alt='Dallas Tx Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://dallas-tx-criminal-records.govbackgroundchecks.com/screenshots/dallas-tx-criminal-records/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring the History of the Dallas County Records Complex - CEC">
+                                <img itemprop="contentUrl url" src='https://enxymst93r8.exactdn.com/wp-content/uploads/2022/01/DCR1.webp?strip=all&lossy=1&ssl=1' alt='Honoring the History of the Dallas County Records Complex - CEC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CEC Facilities Group" />
+                                </span>
+                                <a href='https://enxymst93r8.exactdn.com/wp-content/uploads/2022/01/DCR1.webp?strip=all&lossy=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

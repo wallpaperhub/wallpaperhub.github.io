@@ -1,0 +1,129 @@
+<title>Stunning Live 4K Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best live 4K anime wallpapers that elevate your device's aesthetics. Enjoy mesmerizing animations featuring beloved characters and landscapes, all in breathtaking detail. Perfect for anime fans seeking to personalize their screens with dynamic and vibrant visuals. Download now for an enhanced viewing experience!">
+                    <meta name="keywords" content="live 4k anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/live-4k-anime-wallpaper">
+                            <span itemprop="name">live 4k anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live 4K Anime Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning live 4K anime wallpapers! Immerse yourself in vibrant scenes featuring your favorite characters and breathtaking landscapes. Perfect for anime lovers, these high-resolution animations bring your screen to life with dynamic visuals and eye-catching colors. Perfect for adding personality and flair to your setup!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2550+ Anime Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' alt='2550+ Anime Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4k - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GU6ncikl11Y/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyAnKH8wDw==&rs=AOn4CLBO2r_BFVbMboxGFf5bAnwsVk1LqA' alt='Live Wallpaper 4k - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GU6ncikl11Y/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyAnKH8wDw==&rs=AOn4CLBO2r_BFVbMboxGFf5bAnwsVk1LqA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Kaneki Ken Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-live-kaneki-ken-ux7sljqy07kishw5.jpg' alt='Anime Live Kaneki Ken Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-live-kaneki-ken-ux7sljqy07kishw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/0c/98/0e0c988f26e79b9ec49f3ea0418afecd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/0c/98/0e0c988f26e79b9ec49f3ea0418afecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' alt='4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Anime Live Wallpaper HD - Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7288325122245627142&location=0&aid=1988' alt='4K Anime Live Wallpaper HD - Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7288325122245627142&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai Anime Boy Koi in Sword Live Wallpaper 4k - Sonic's Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/c539ad23-c593-4d70-8d77-e5c73700320d_untitledvideo-mewithclipchamp1_003.jpg' alt='Samurai Anime Boy Koi in Sword Live Wallpaper 4k - Sonic's Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/c539ad23-c593-4d70-8d77-e5c73700320d_untitledvideo-mewithclipchamp1_003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/ibShLSiK5chy8E_40_IfLf5mVgGo_9qtEAJFOidWR_9yGUoqP_CJRcwLxLbVs4px6So=w526-h296-rw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="221">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/ibShLSiK5chy8E_40_IfLf5mVgGo_9qtEAJFOidWR_9yGUoqP_CJRcwLxLbVs4px6So=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpaper - Live 4K online game with UptoPlay">
+                                <img itemprop="contentUrl url" src='https://www.uptoplay.net/imagescropped/animewallpaperlive4kscreen2.jpgplus.webp' alt='Anime Wallpaper - Live 4K online game with UptoPlay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Games on UptoPlay" />
+                                </span>
+                                <a href='https://www.uptoplay.net/imagescropped/animewallpaperlive4kscreen2.jpgplus.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

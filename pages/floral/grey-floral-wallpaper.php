@@ -1,0 +1,129 @@
+<title>Elegant Grey Floral Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Explore our exquisite grey floral wallpaper collection, designed to enhance your living spaces. Perfect for adding a touch of sophistication and charm. Transform your home with stylish patterns that blend modern elegance with timeless beauty. Shop now for the perfect accent!">
+                    <meta name="keywords" content="grey floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/grey-floral-wallpaper">
+                            <span itemprop="name">grey floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Grey Floral Wallpaper for Chic Interiors</h1>
+                <p>Discover the elegance of grey floral wallpaper, a perfect blend of sophistication and nature. Ideal for any room, its subtle hues and intricate designs create a calming atmosphere. Whether you seek a modern or vintage vibe, this wallpaper can transform spaces, adding character and charm to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Vintage Floral Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_web.jpg' alt='Grey Vintage Floral Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Gray Floral Wallpaper, 17.7in x 236.2in, Vinyl, Self Adhesive,  Removable, Waterproof, Kitchen, Bathroom, DIY, Rentals - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81QhlMbPxEL.jpg' alt='Orainege Gray Floral Wallpaper, 17.7in x 236.2in, Vinyl, Self Adhesive,  Removable, Waterproof, Kitchen, Bathroom, DIY, Rentals - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81QhlMbPxEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Floral Wallpaper, Floral Nursery Wallpaper, Floral Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/66cd4b/3313333612/il_570xN.3313333612_llxi.jpg' alt='Grey Floral Wallpaper, Floral Nursery Wallpaper, Floral Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/66cd4b/3313333612/il_570xN.3313333612_llxi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall MH36505 Grand Floral Grey Beige Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210638.jpg' alt='Patton Norwall MH36505 Grand Floral Grey Beige Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessamine Grey Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/jessamine-grey-floral-trail-wallpaper-xrrc-l.jpg' alt='Jessamine Grey Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/jessamine-grey-floral-trail-wallpaper-xrrc-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Non-pasted Wallpaper Wall Mural - Watercolor Leaves Grey.">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/71e4148950bd6bea699f7e0a06b9abd32991a109/Floral-Non-pasted-Wallpaper-Wall-Mural---Watercolor-Leaves-Grey.jpg' alt='Floral Non-pasted Wallpaper Wall Mural - Watercolor Leaves Grey.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/71e4148950bd6bea699f7e0a06b9abd32991a109/Floral-Non-pasted-Wallpaper-Wall-Mural---Watercolor-Leaves-Grey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/211039/main/albany-vintage-floral-dark-grey-wallpaper-1@lg.webp?v=1697208212' alt='Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/211039/main/albany-vintage-floral-dark-grey-wallpaper-1@lg.webp?v=1697208212' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anemone Light Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/4080-33000_f5519f3a-3f54-4a0d-8630-4bc54af50bf7.jpg?v=1722364518&width=2400' alt='Anemone Light Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/4080-33000_f5519f3a-3f54-4a0d-8630-4bc54af50bf7.jpg?v=1722364518&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8181IrfoAHL.jpg' alt='Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8181IrfoAHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' alt='Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

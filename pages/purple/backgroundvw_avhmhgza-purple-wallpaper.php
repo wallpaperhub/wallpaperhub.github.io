@@ -1,0 +1,129 @@
+<title>Purple Wallpaper: Elevate Your Space with Color</title>
+                    <meta name="description" content="Discover the beauty of purple wallpaper for your home. From calming lilac to bold violet, our collection enhances any room's décor. Explore stylish designs and transform your walls into stunning focal points with ease. Perfect for every taste and preference!">
+                    <meta name="keywords" content="background:vw_avhmhgza= purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/backgroundvw_avhmhgza-purple-wallpaper">
+                            <span itemprop="name">background:vw_avhmhgza= purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Wallpaper: Elevate Your Space with Color</h1>
+                <p>Transform your space with stunning purple wallpaper that exudes elegance and charm. Perfect for creating a vibrant atmosphere in any room, purple wallpaper offers versatility from soft lilacs to deep violets. Embrace the allure of color and style, making your walls a focal point of your home décor. Explore various designs to fit your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hd background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/f7/24/45f7242c7722ce3acb620012312e51ca.jpg' alt='hd background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/f7/24/45f7242c7722ce3acb620012312e51ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volkswagen violet logo, , violet neon lights, creative, violet ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/923/683/HD-wallpaper-volkswagen-violet-logo-violet-neon-lights-creative-violet-abstract-background-volkswagen-logo-cars-brands-volkswagen.jpg' alt='Volkswagen violet logo, , violet neon lights, creative, violet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/923/683/HD-wallpaper-volkswagen-violet-logo-violet-neon-lights-creative-violet-abstract-background-volkswagen-logo-cars-brands-volkswagen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080xe6e7"a="b"r5154 Resolution Artistic Vaporwave Purple ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/artistic-vaporwave-purple_bG1la2yUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='1920x1080xe6e7"a="b"r5154 Resolution Artistic Vaporwave Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/artistic-vaporwave-purple_bG1la2yUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Wallpaper (Purple, 5k) #3933">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/grass-2560x1440-5k-4k-wallpaper-purple-ears-3933.jpg' alt='Grass Wallpaper (Purple, 5k) #3933'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/grass-2560x1440-5k-4k-wallpaper-purple-ears-3933.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Moon Purple Background Vaporwave Vaporwave, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/911/HD-wallpaper-white-moon-purple-background-vaporwave-vaporwave.jpg' alt='White Moon Purple Background Vaporwave Vaporwave, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/911/HD-wallpaper-white-moon-purple-background-vaporwave-vaporwave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Wallpaper (Purple, 5k) #3933">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/grass-1440x2560-5k-4k-wallpaper-purple-ears-3933.jpg' alt='Grass Wallpaper (Purple, 5k) #3933'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/grass-1440x2560-5k-4k-wallpaper-purple-ears-3933.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple waves [3840×2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0rmaq8z5voc61.jpg' alt='Purple waves [3840×2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0rmaq8z5voc61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mauve Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mauve-background-x075o7dg89yba1o3.jpg' alt='100+] Mauve Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mauve-background-x075o7dg89yba1o3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual assistant circle background purple gradient disruptive ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/virtual-assistant-circle-background-purple-gradient-disruptive-technology_636537-19548.jpg' alt='Virtual assistant circle background purple gradient disruptive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/virtual-assistant-circle-background-purple-gradient-disruptive-technology_636537-19548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101+ Stunning Violet Wallpaper Backgrounds To Download Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c7/b8/dd/c7b8dd054b314db3fca91f420e31fa35.jpg' alt='101+ Stunning Violet Wallpaper Backgrounds To Download Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c7/b8/dd/c7b8dd054b314db3fca91f420e31fa35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

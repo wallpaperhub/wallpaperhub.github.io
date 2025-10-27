@@ -1,0 +1,129 @@
+<title>Discover the Magic of Pixel Art Forests</title>
+                    <meta name="description" content="Unleash your creativity with our pixel art forest guide! Dive into vibrant pixelated landscapes that blend nature's beauty with digital charm. Perfect for artists and game developers looking for inspiration. Explore techniques, tips, and ideas to create your own pixel art masterpiece!">
+                    <meta name="keywords" content="pixel art forest">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-art-forest">
+                            <span itemprop="name">pixel art forest</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Pixel Art Forests</h1>
+                <p>Explore the charm of a pixel art forest, where whimsical trees and vibrant wildlife come to life in each tiny square. This enchanting digital landscape captures the essence of nature through meticulous design and color, inviting you to immerse yourself in a nostalgic journey. Perfect for games, art projects, or creative inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Forest Images – Browse 59,944 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/28/98/51/360_F_828985134_K5CljQcTHZvgIs9XheaQj61qPWE7duDV.jpg' alt='Pixel Forest Images – Browse 59,944 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/28/98/51/360_F_828985134_K5CljQcTHZvgIs9XheaQj61qPWE7duDV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Pixel Art Forest by edermunizz">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvMTIxNjU4LzU2MDM4MS5wbmc=/original/N%2Fb6N3.png' alt='Free Pixel Art Forest by edermunizz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="edermunizz - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvMTIxNjU4LzU2MDM4MS5wbmc=/original/N%2Fb6N3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Dragon Forest! : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/aebcfby2cqf91.png?auto=webp&s=1a49d9fb3aea1199ee4eb98f918be340d57dfffc' alt='Pixel Art Dragon Forest! : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/aebcfby2cqf91.png?auto=webp&s=1a49d9fb3aea1199ee4eb98f918be340d57dfffc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art Forest by edermunizz">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzYxMzI2MTYucG5n/original/1tzVpL.png' alt='Pixel art Forest by edermunizz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="edermunizz - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzYxMzI2MTYucG5n/original/1tzVpL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Pixel Art by EiskalterEngel18 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/dfgiio2-f12ced9b-cd3e-42eb-be85-0d863a3365d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNDcxOTRjLTQzODktNDBiMi1iMTMwLWUzZGU3NmRiNGVhMFwvZGZnaWlvMi1mMTJjZWQ5Yi1jZDNlLTQyZWItYmU4NS0wZDg2M2EzMzY1ZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CvS1KaweO7smSakgwVBNoPS4o_UyHUmB9sJO1cwWmNo' alt='Forest Pixel Art by EiskalterEngel18 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/dfgiio2-f12ced9b-cd3e-42eb-be85-0d863a3365d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNDcxOTRjLTQzODktNDBiMi1iMTMwLWUzZGU3NmRiNGVhMFwvZGZnaWlvMi1mMTJjZWQ5Yi1jZDNlLTQyZWItYmU4NS0wZDg2M2EzMzY1ZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CvS1KaweO7smSakgwVBNoPS4o_UyHUmB9sJO1cwWmNo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2D Pixel Art Platformer | Biome - American Forest | 2D ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/key-image/f7934ebb-d577-4a7d-8e81-62651e669484.jpg' alt='2D Pixel Art Platformer | Biome - American Forest | 2D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1950">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/key-image/f7934ebb-d577-4a7d-8e81-62651e669484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Forest Images – Browse 59,944 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/47/23/78/360_F_847237865_Yy2dXMCkK8KSW6zuqbGJLkheeuPkC4a8.jpg' alt='Pixel Forest Images – Browse 59,944 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/47/23/78/360_F_847237865_Yy2dXMCkK8KSW6zuqbGJLkheeuPkC4a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Forest Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-forest-background-seamless-260nw-2501937379.jpg' alt='Pixel Art Forest Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-forest-background-seamless-260nw-2501937379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Pixel Art Mockup image - Gerel: Against The Corvus Empire ...">
+                                <img itemprop="contentUrl url" src='https://media.moddb.com/images/games/1/75/74732/01-Forest_PixelArt_Mockup.png' alt='Forest Pixel Art Mockup image - Gerel: Against The Corvus Empire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="746">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ModDB" />
+                                </span>
+                                <a href='https://media.moddb.com/images/games/1/75/74732/01-Forest_PixelArt_Mockup.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel forest study : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pixel-forest-study-v0-rjq8tvxntq3c1.jpeg?width=1080&crop=smart&auto=webp&s=03cd21c437471efd2dca94cb23935d6c8d9907b1' alt='Pixel forest study : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pixel-forest-study-v0-rjq8tvxntq3c1.jpeg?width=1080&crop=smart&auto=webp&s=03cd21c437471efd2dca94cb23935d6c8d9907b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

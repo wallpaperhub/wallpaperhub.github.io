@@ -1,0 +1,129 @@
+<title>Stunning Wood Vector Graphics for Creative Projects</title>
+                    <meta name="description" content="Discover high-quality wood vector graphics perfect for all your design needs. Enhance your projects with scalable images featuring beautiful wood textures and patterns, ideal for logos, backgrounds, and more. Explore our collection today to add a natural touch to your creative work!">
+                    <meta name="keywords" content="wood vector">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wood-vector">
+                            <span itemprop="name">wood vector</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wood Vector Graphics for Creative Projects</h1>
+                <p>Wood vector graphics are versatile, high-quality digital illustrations that showcase the natural beauty of wood textures and patterns. Ideal for design projects, these vector files can be easily scaled without losing quality. Use them in logos, backgrounds, or any creative work that desires an organic touch. Explore a rich array of styles today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/173/386/small_2x/wood-texture-background-free-vector.jpg' alt='Wood Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/173/386/small_2x/wood-texture-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cartoon-set-wooden-signboards_74855-4774.jpg' alt='Wood Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cartoon-set-wooden-signboards_74855-4774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_1284-47074.jpg' alt='Wood Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_1284-47074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wooden Plank Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/404/747/small/wooden-badge-banner-wooden-plank-plate-vector.jpg' alt='Wooden Plank Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/404/747/small/wooden-badge-banner-wooden-plank-plate-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Plank Vector Images – Browse 2,164,631 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/13/39/40/360_F_213394026_QXumQddtoyPc6YFT6LmCQbzguno15KIL.jpg' alt='Wood Plank Vector Images – Browse 2,164,631 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/13/39/40/360_F_213394026_QXumQddtoyPc6YFT6LmCQbzguno15KIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/189/688/non_2x/wood-blank-brown-background-free-vector.jpg' alt='Wood Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1532">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/189/688/non_2x/wood-blank-brown-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Vector Art PNG Images | Free Download On Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190906/original/pngtree-cartoon-annual-rings-wood-vector-png-image_4572771.jpg' alt='Wood Vector Art PNG Images | Free Download On Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190906/original/pngtree-cartoon-annual-rings-wood-vector-png-image_4572771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wood Vector Art - Download 1,041+ Wood Icons & Graphics - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/10/21/08/02/wood-4565399_1280.png' alt='Free Wood Vector Art - Download 1,041+ Wood Icons & Graphics - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="902">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/10/21/08/02/wood-4565399_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Plank Vector Images – Browse 2,164,631 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/68/92/43/360_F_368924331_V60NqllUYdcE7yv6QrUOb0KVxRgwEq9Z.jpg' alt='Wood Plank Vector Images – Browse 2,164,631 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="771">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/68/92/43/360_F_368924331_V60NqllUYdcE7yv6QrUOb0KVxRgwEq9Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Grain Texture PNG Transparent SVG Vector | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2021/10/wood-grain-texture-6830.svg' alt='Wood Grain Texture PNG Transparent SVG Vector | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2628">
+                                <meta itemprop="height" content="2058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2021/10/wood-grain-texture-6830.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

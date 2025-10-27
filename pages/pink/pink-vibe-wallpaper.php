@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Pink Vibe Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance to your interiors with stunning pink vibe wallpaper. Perfect for creating a cozy and inviting atmosphere, our selection features a range of shades, from soft pastels to bold hues. Transform your home effortlessly and express your unique style today!">
+                    <meta name="keywords" content="pink vibe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-vibe-wallpaper">
+                            <span itemprop="name">pink vibe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Pink Vibe Wallpaper</h1>
+                <p>Transform your space with enchanting pink vibe wallpaper! Perfect for adding a soft, romantic touch to any room, this wallpaper combines elegance and playfulness. From pastel shades to vibrant hues, it fosters a cozy and inviting atmosphere. Unleash your creativity and personalize your interiors effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Vibes Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1564564699685-b1c926c82d16?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMHZpYmVzfGVufDB8fDB8fHww' alt='Pink Vibes Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1564564699685-b1c926c82d16?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMHZpYmVzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84 Pink Vibe Photo Wall ideas | pink vibes, photo wall collage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/04/38/f7/0438f79c9c69284ce92ebf6b94ff3003.jpg' alt='84 Pink Vibe Photo Wall ideas | pink vibes, photo wall collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/04/38/f7/0438f79c9c69284ce92ebf6b94ff3003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper✨ - pink vibe - Wattpad">
+                                <img itemprop="contentUrl url" src='https://img.wattpad.com/b5f18ee4976059ae6aedf7e456a4cb3c2e06ffcb/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f54384574506665507867536435773d3d2d3132312e313537393437656264306538633030383232303635333437363636372e6a7067?s=fit&w=720&h=720' alt='wallpaper✨ - pink vibe - Wattpad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="397">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wattpad" />
+                                </span>
+                                <a href='https://img.wattpad.com/b5f18ee4976059ae6aedf7e456a4cb3c2e06ffcb/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f54384574506665507867536435773d3d2d3132312e313537393437656264306538633030383232303635333437363636372e6a7067?s=fit&w=720&h=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Vibes Wallpaper    Outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x700/outfits/b9055044-2675-490e-a615-6c431ea22753.png' alt='Pink Vibes Wallpaper    Outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x700/outfits/b9055044-2675-490e-a615-6c431ea22753.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Vibes Pink Aesthetic Vibes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/good-vibes-pink-aesthetic-vibes-2jxx235o2veqgcar.jpg' alt='Good Vibes Pink Aesthetic Vibes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/good-vibes-pink-aesthetic-vibes-2jxx235o2veqgcar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic pink vibes for the cool souls Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-cool-aesthetic-p0qnwzmo7tb2jwxt.jpg' alt='Download Aesthetic pink vibes for the cool souls Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-cool-aesthetic-p0qnwzmo7tb2jwxt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink vibes  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/06/0b/ee060b3519b07c76853c9c592c5bcfa2.jpg' alt='pink vibes  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/06/0b/ee060b3519b07c76853c9c592c5bcfa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_570xN.6354366070_1nzr.jpg' alt='Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_570xN.6354366070_1nzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 13 - Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7oj37LTU/1/0/900w/canva-pink-vibes-phone-wallpaper-BtzUEuXkkhA.jpg' alt='Page 13 - Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7oj37LTU/1/0/900w/canva-pink-vibes-phone-wallpaper-BtzUEuXkkhA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink aesthetic wallpaper good vibes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/aa/7c/08/aa7c08f9e8958904fb19c7fb96a91177.jpg' alt='pink aesthetic wallpaper good vibes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/aa/7c/08/aa7c08f9e8958904fb19c7fb96a91177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

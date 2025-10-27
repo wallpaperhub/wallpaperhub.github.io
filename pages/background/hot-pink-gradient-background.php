@@ -1,0 +1,129 @@
+<title>Vibrant Hot Pink Gradient Backgrounds for Eye-Catching Designs</title>
+                    <meta name="description" content="Explore stunning hot pink gradient backgrounds to elevate your creative projects. Perfect for websites, social media, or wallpapers, these vibrant designs bring energy and style to any aesthetic. Discover the perfect blend of pink shades to inspire your next artistic endeavor!">
+                    <meta name="keywords" content="hot pink gradient background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hot-pink-gradient-background">
+                            <span itemprop="name">hot pink gradient background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hot Pink Gradient Backgrounds for Eye-Catching Designs</h1>
+                <p>Transform your space with a vibrant hot pink gradient background that exudes energy and creativity. Perfect for digital projects, websites, or wallpapers, this eye-catching design blends shades of pink to create a lively atmosphere. Ideal for fashion, beauty, or artistic themes, let this bold backdrop inspire your imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="251,300+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/912278170/vector/abstract-pink-background-vector.jpg?s=612x612&w=0&k=20&c=NK-pdVZFiSRxg0iyGZIlJlAuA0uCDqDsKcF26_hlfJQ=' alt='251,300+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/912278170/vector/abstract-pink-background-vector.jpg?s=612x612&w=0&k=20&c=NK-pdVZFiSRxg0iyGZIlJlAuA0uCDqDsKcF26_hlfJQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2948.jpg' alt='Hot Pink Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Pink Images – Browse 3,066,634 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/51/50/32/360_F_351503287_Zd1eOQk9BlTzHuw24h8TwBje00onZpdz.jpg' alt='Gradient Pink Images – Browse 3,066,634 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/51/50/32/360_F_351503287_Zd1eOQk9BlTzHuw24h8TwBje00onZpdz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Gradient hot pink background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-hot-pink-background_52683-139842.jpg' alt='Free Vector | Gradient hot pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-hot-pink-background_52683-139842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gradient Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/383/249/small/beautiful-pink-color-gradient-background-free-vector.jpg' alt='Pink Gradient Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/383/249/small/beautiful-pink-color-gradient-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Gradient Background Ultra HD Wallpaper for 4K UHD TV ...">
+                                <img itemprop="contentUrl url" src='https://hd.wallpaperswide.com/thumbs/hot_pink_gradient_background-t2.jpg' alt='Hot Pink Gradient Background Ultra HD Wallpaper for 4K UHD TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://hd.wallpaperswide.com/thumbs/hot_pink_gradient_background-t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Hot Pink Gradient & Glitter Digital Paper: High-quality ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35408880/r/il/9eab79/4809192911/il_570xN.4809192911_7qp8.jpg' alt='Luxury Hot Pink Gradient & Glitter Digital Paper: High-quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35408880/r/il/9eab79/4809192911/il_570xN.4809192911_7qp8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="251,300+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1086999410/photo/abstract-pink-background.jpg?s=612x612&w=0&k=20&c=HZKhBsUAIl_1oX1FumxiPmnHPxxb3AqtFvhrVvNyQnk=' alt='251,300+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1086999410/photo/abstract-pink-background.jpg?s=612x612&w=0&k=20&c=HZKhBsUAIl_1oX1FumxiPmnHPxxb3AqtFvhrVvNyQnk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Gradient Background Vector Images (over 460)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/preview-1x/40/67/white-cosmic-pink-gradient-background-vector-11514067.jpg' alt='Hot Pink Gradient Background Vector Images (over 460)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="354">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/preview-1x/40/67/white-cosmic-pink-gradient-background-vector-11514067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Pink Gradient Background, Pink, Rosa, Beauty Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210712/original/pngtree-bright-pink-gradient-picture-image_1169674.jpg' alt='Bright Pink Gradient Background, Pink, Rosa, Beauty Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210712/original/pngtree-bright-pink-gradient-picture-image_1169674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

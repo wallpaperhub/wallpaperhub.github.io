@@ -1,0 +1,129 @@
+<title>Stunning Tokyo Ghoul Wallpapers | HD Backgrounds for Fans</title>
+                    <meta name="description" content="Discover a collection of captivating Tokyo Ghoul wallpapers perfect for any fan. Our high-quality images bring the dark and thrilling atmosphere of the anime to your screens. Personalize your devices with epic backgrounds that resonate with the essence of Tokyo Ghoul. Download now and showcase your fandom!">
+                    <meta name="keywords" content="tokyo ghoul wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tokyo-ghoul-wallpaper">
+                            <span itemprop="name">tokyo ghoul wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tokyo Ghoul Wallpapers | HD Backgrounds for Fans</h1>
+                <p>Enhance your device's aesthetic with stunning Tokyo Ghoul wallpapers! From intense action scenes to character close-ups, discover a variety of high-quality images that capture the essence of this dark fantasy anime. Transform your screen and immerse yourself in the world of ghouls and humans, all while showcasing your love for the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo Ghoul Wallpapers (56 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/f/d/1564371-1920x1080-desktop-1080p-tokyo-ghoul-wallpaper-photo.jpg' alt='Tokyo Ghoul Wallpapers (56 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/f/d/1564371-1920x1080-desktop-1080p-tokyo-ghoul-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Tokyo Ghoul wallpaper : r/TokyoGhoul">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/hBoj1Da.jpg' alt='My favorite Tokyo Ghoul wallpaper : r/TokyoGhoul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/hBoj1Da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghoul Ken Kaneki Tokyo Ghoul Iphone Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/ken-with-wings-tokyo-ghoul-iphone-background-9y0n73j4yvo0vjuk.webp' alt='Ghoul Ken Kaneki Tokyo Ghoul Iphone Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/ken-with-wings-tokyo-ghoul-iphone-background-9y0n73j4yvo0vjuk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i was bored so i made some wallpapers : r/TokyoGhoul">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mhd0bc1la8461.jpg?width=640&crop=smart&auto=webp&s=2d03265b03afb7a8683806bfb4badfba6be865f3' alt='i was bored so i made some wallpapers : r/TokyoGhoul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mhd0bc1la8461.jpg?width=640&crop=smart&auto=webp&s=2d03265b03afb7a8683806bfb4badfba6be865f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaneki wallpaper by ruxtart - Download on ZEDGE™ | 6bff">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/3a/9c/8d3a9cb6e86cec71b65c0fa1d860421d.jpg' alt='Kaneki wallpaper by ruxtart - Download on ZEDGE™ | 6bff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/3a/9c/8d3a9cb6e86cec71b65c0fa1d860421d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo ghoul wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-artwork-tokyo-ghoul-iphone-j0vk20q5lp6ark3h.jpg' alt='Tokyo ghoul wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-artwork-tokyo-ghoul-iphone-j0vk20q5lp6ark3h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Kaneki Tokyo Ghoul Wallpaper Abstract 18:9 by arjunmehtaa on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/032fc660-6135-44da-9a89-f5e8bfe051db/dcr2kpq-6bac9a30-a5c5-4eb1-ad99-14b49ca97720.jpg/v1/fill/w_1024,h_2048,q_75,strp/ken_kaneki_tokyo_ghoul_wallpaper_abstract_18_9_by_arjunmehtaa_dcr2kpq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA0OCIsInBhdGgiOiJcL2ZcLzAzMmZjNjYwLTYxMzUtNDRkYS05YTg5LWY1ZThiZmUwNTFkYlwvZGNyMmtwcS02YmFjOWEzMC1hNWM1LTRlYjEtYWQ5OS0xNGI0OWNhOTc3MjAuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.od745rZvL3Ps4RcZaQ4ev-oM25CpR2Wsd2Y3FP8aVLU' alt='Ken Kaneki Tokyo Ghoul Wallpaper Abstract 18:9 by arjunmehtaa on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/032fc660-6135-44da-9a89-f5e8bfe051db/dcr2kpq-6bac9a30-a5c5-4eb1-ad99-14b49ca97720.jpg/v1/fill/w_1024,h_2048,q_75,strp/ken_kaneki_tokyo_ghoul_wallpaper_abstract_18_9_by_arjunmehtaa_dcr2kpq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA0OCIsInBhdGgiOiJcL2ZcLzAzMmZjNjYwLTYxMzUtNDRkYS05YTg5LWY1ZThiZmUwNTFkYlwvZGNyMmtwcS02YmFjOWEzMC1hNWM1LTRlYjEtYWQ5OS0xNGI0OWNhOTc3MjAuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.od745rZvL3Ps4RcZaQ4ev-oM25CpR2Wsd2Y3FP8aVLU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo Ghoul - Winter Warriors HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/767/767285.jpg' alt='Tokyo Ghoul - Winter Warriors HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/767/767285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo Ghoul wallpaper by AnimeFreak250 - Download on ZEDGE™ | 30db">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/21/32/b921329d211ba026a991bb40abf2d078.jpg' alt='Tokyo Ghoul wallpaper by AnimeFreak250 - Download on ZEDGE™ | 30db'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/21/32/b921329d211ba026a991bb40abf2d078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tokyo ghoul wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/241/792/HD-wallpaper-tokyo-ghoul-kenkaneki-moon-tokyoghoul.jpg' alt='HD tokyo ghoul wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/241/792/HD-wallpaper-tokyo-ghoul-kenkaneki-moon-tokyoghoul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

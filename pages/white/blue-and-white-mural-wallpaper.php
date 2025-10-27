@@ -1,0 +1,129 @@
+<title>Stunning Blue and White Mural Wallpaper for Elegant Spaces</title>
+                    <meta name="description" content="Add sophistication to your home with our blue and white mural wallpaper. Perfect for any room, it enhances your decor while providing a calming ambiance. Explore unique designs that blend artistry and style for a truly captivating look. Elevate your interior today!">
+                    <meta name="keywords" content="blue and white mural wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-mural-wallpaper">
+                            <span itemprop="name">blue and white mural wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue and White Mural Wallpaper for Elegant Spaces</h1>
+                <p>Transform your space with stunning blue and white mural wallpaper, a perfect blend of elegance and artistry. This versatile decor choice adds depth and character to any room. Ideal for living areas, bedrooms, or accent walls, it creates a serene atmosphere while making a bold style statement. Elevate your interior aesthetics with this timeless design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Chinoiserie with Brush Tile Pattern Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/c/h/chinoiserie-wallpaper-blue-tile-wall-mural-gold-brush-wall-print_fizjzqnjzwv_3d_1.jpg' alt='Blue Chinoiserie with Brush Tile Pattern Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/c/h/chinoiserie-wallpaper-blue-tile-wall-mural-gold-brush-wall-print_fizjzqnjzwv_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Garden">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/635/409/Blue_Garden_Room__25272.1721320162.jpg?c=1' alt='Blue Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Source" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/635/409/Blue_Garden_Room__25272.1721320162.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Chinoiserie Blue and White Mural Wallpaper M1418-Sample">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlueChinoiserieBlueandWhiteMuralWallpaper.2_646ab91e-8518-4ce6-9472-e8f5cd43b6c1.jpg?v=1701696013&width=1200' alt='Blue Chinoiserie Blue and White Mural Wallpaper M1418-Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlueChinoiserieBlueandWhiteMuralWallpaper.2_646ab91e-8518-4ce6-9472-e8f5cd43b6c1.jpg?v=1701696013&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Brush Painting Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1269886207_moc1_2_.jpg' alt='Blue and White Brush Painting Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1269886207_moc1_2_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Garden Flowers">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/711959/pr22/1/1280/blue-white-garden-flowers-blue-floral-wallpaper.jpg' alt='Blue and White Garden Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/711959/pr22/1/1280/blue-white-garden-flowers-blue-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Azure Mural by MINDTHEGAP">
+                                <img itemprop="contentUrl url" src='https://www.janeclayton.com/media/catalog/product/cache/04f3c6c3e6655e7be184d6c72b803cfa/a/z/azure-mind-the-gap-blue-white-wallpaper-wp20560-image01.jpg' alt='Azure Mural by MINDTHEGAP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jane Clayton & Company" />
+                                </span>
+                                <a href='https://www.janeclayton.com/media/catalog/product/cache/04f3c6c3e6655e7be184d6c72b803cfa/a/z/azure-mind-the-gap-blue-white-wallpaper-wp20560-image01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Grunge">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716222292/articles/WA0057BU30W_interior2.jpg' alt='Blue & White Grunge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716222292/articles/WA0057BU30W_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Feather Mural Wallpaper Large Peel and Stick Wall Murals  148" Wx 98" H Botanical Stick on Wall Paper Vintage Wall Art Canvas Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lx3J2gJWL._AC_UF894,1000_QL80_.jpg' alt='Blue and White Feather Mural Wallpaper Large Peel and Stick Wall Murals  148" Wx 98" H Botanical Stick on Wall Paper Vintage Wall Art Canvas Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lx3J2gJWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: JBTOHS Blue Smoke Cloud 3D Photo Wallpaper Mural, Blue and  White Mural Wallpaper, Wall Murals Space for Living Room Bedroom Study TV  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71U4OB++IjL.jpg' alt='Amazon.com: JBTOHS Blue Smoke Cloud 3D Photo Wallpaper Mural, Blue and  White Mural Wallpaper, Wall Murals Space for Living Room Bedroom Study TV  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71U4OB++IjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Azure Mural Wallpaper by MIND THE GAP">
+                                <img itemprop="contentUrl url" src='https://www.vertigohome.us/cdn/shop/products/AZURE-Mural-Wallpaper-WP20560_01-Mind-The-Gap-Wallaper-www.vertigohome.us_960x.jpg?v=1621716076' alt='Azure Mural Wallpaper by MIND THE GAP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vertigo Home" />
+                                </span>
+                                <a href='https://www.vertigohome.us/cdn/shop/products/AZURE-Mural-Wallpaper-WP20560_01-Mind-The-Gap-Wallaper-www.vertigohome.us_960x.jpg?v=1621716076' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

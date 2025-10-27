@@ -1,0 +1,129 @@
+<title>Stunning 3D NYC Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover breathtaking 3D NYC wallpapers that capture the spirit of New York City. From towering skyscrapers to bustling streets, our collection offers vibrant visuals perfect for any device. Elevate your wallpaper game and bring the Big Apple to your screen today!">
+                    <meta name="keywords" content="3d ny city wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-ny-city-wallpaper">
+                            <span itemprop="name">3d ny city wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D NYC Wallpapers for Every Device</h1>
+                <p>Transform your device with stunning 3D NYC wallpapers that showcase the city's iconic skyline, lively streets, and architectural marvels. Perfect for fans of New York City, these high-resolution wallpapers bring the vibrant essence of NYC to your screen. Experience the energy and beauty of the Big Apple from anywhere at any time!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern New York City Night View 3D Wallpaper Mural, City Building Photo  Mural Wallpaper, Wall Murals Space for Living Room Bedroom TV Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81DuE7pkKlL._AC_UF894,1000_QL80_.jpg' alt='Modern New York City Night View 3D Wallpaper Mural, City Building Photo  Mural Wallpaper, Wall Murals Space for Living Room Bedroom TV Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81DuE7pkKlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City 3D Wallpaper, High Rise Buildings And Busy Street ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/50/9e/25509ee07446439bfd7b6b1b31c67b33.jpg' alt='New York City 3D Wallpaper, High Rise Buildings And Busy Street ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/50/9e/25509ee07446439bfd7b6b1b31c67b33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Manhattan City Skyline 3D Mural Wallpaper, New York Cityscape  Photo Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom 169"  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/717WkKqV4IL.jpg' alt='Amazon.com: Manhattan City Skyline 3D Mural Wallpaper, New York Cityscape  Photo Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom 169"  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/717WkKqV4IL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D WALLPAPER PARK AVENUE NEW YORK CITY SKU#0011 - Trendy Blinds ...">
+                                <img itemprop="contentUrl url" src='https://trendyblinds.ca/wp-content/uploads/2023/09/2.-3D-WALLPAPER-SKU0011.jpg' alt='3D WALLPAPER PARK AVENUE NEW YORK CITY SKU#0011 - Trendy Blinds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trendy Blinds" />
+                                </span>
+                                <a href='https://trendyblinds.ca/wp-content/uploads/2023/09/2.-3D-WALLPAPER-SKU0011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D New York City Night View Lights Wallpaper Home or Business">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d9/66/25/d96625ce5d2325bac819ca1ed1d89cc2.jpg' alt='3D New York City Night View Lights Wallpaper Home or Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d9/66/25/d96625ce5d2325bac819ca1ed1d89cc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: New York City Skyline 3D Mural Wallpaper, Hudson River Sunset  View Photo Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61C2UdGajNL.jpg' alt='Amazon.com: New York City Skyline 3D Mural Wallpaper, Hudson River Sunset  View Photo Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61C2UdGajNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper 3D New York u58762">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/1000/1377/u58762piw3mr_1200.webp' alt='Wall Mural Photo Wallpaper 3D New York u58762'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/1000/1377/u58762piw3mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Wallpaper Skyline Panorama NYC Cityscape Skyscrapers Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/bbd360/3306758967/il_570xN.3306758967_81qw.jpg' alt='New York Wallpaper Skyline Panorama NYC Cityscape Skyscrapers Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/bbd360/3306758967/il_570xN.3306758967_81qw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Mural 3D New York City Night Scenery | BVM Home">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/Custom-Photo-Mural-Wallpaper-3D-New-York-City-Night-Scenery-Mural-Living-Room-Sofa-TV-Background_580x.jpg?v=1571609116' alt='Custom Wallpaper Mural 3D New York City Night Scenery | BVM Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/Custom-Photo-Mural-Wallpaper-3D-New-York-City-Night-Scenery-Mural-Living-Room-Sofa-TV-Background_580x.jpg?v=1571609116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Manhattan City Scape 3D Mural Wallpaper, American Cityscape Photo  Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom 169" by ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613pAZt1NxL._AC_UF894,1000_QL80_.jpg' alt='New York Manhattan City Scape 3D Mural Wallpaper, American Cityscape Photo  Mural Wallpapers, Mural HD Photo for Living Room TV Sofa Bedroom 169" by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613pAZt1NxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

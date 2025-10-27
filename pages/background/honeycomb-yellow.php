@@ -1,0 +1,129 @@
+<title>Explore the Vibrant Beauty of Honeycomb Yellow</title>
+                    <meta name="description" content="Discover the warmth of honeycomb yellow—a vibrant hue that energizes any space. Perfect for home decor, fashion, and branding, it brings a cheerful atmosphere and sparks creativity. Unleash the beauty of this lively color in your life today!">
+                    <meta name="keywords" content="honeycomb yellow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/honeycomb-yellow">
+                            <span itemprop="name">honeycomb yellow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Vibrant Beauty of Honeycomb Yellow</h1>
+                <p>Honeycomb yellow, a vibrant and eye-catching hue, evokes warmth and energy. This color, reminiscent of golden honey, can brighten any space, making it perfect for home decor, branding, and fashion. Its cheerful essence inspires positivity and creativity, inviting a sense of joy and comfort wherever it’s used.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honeycomb yellow seamless pattern Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/65/43/honeycomb-yellow-seamless-pattern-vector-13446543.jpg' alt='Honeycomb yellow seamless pattern Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/65/43/honeycomb-yellow-seamless-pattern-vector-13446543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honeycomb Yellow">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52358/honeycomb-yellow.jpg?h=699&q=85' alt='Honeycomb Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52358/honeycomb-yellow.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract Honeycomb Brown Yellow Color Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-honeycomb-brown-yellow-color-background_708751-176.jpg' alt='Premium Vector | Abstract Honeycomb Brown Yellow Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-honeycomb-brown-yellow-color-background_708751-176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82,300+ Yellow Honeycomb Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/994772734/photo/hexagonal-honeycomb-abstract-3d-background.jpg?s=612x612&w=0&k=20&c=xdb-s4CCyksR6Ydxrq1j7ymBlY1ehmzRWEmd_3vpdYQ=' alt='82,300+ Yellow Honeycomb Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/994772734/photo/hexagonal-honeycomb-abstract-3d-background.jpg?s=612x612&w=0&k=20&c=xdb-s4CCyksR6Ydxrq1j7ymBlY1ehmzRWEmd_3vpdYQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honeycomb Mosaic Tile Yellow Vector Images (over 400)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/77/49/seamless-honeycomb-pattern-vector-2187749.jpg' alt='Honeycomb Mosaic Tile Yellow Vector Images (over 400)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/77/49/seamless-honeycomb-pattern-vector-2187749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless yellow bee honeycomb pattern, art ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-yellow-bee-honeycomb-pattern-art-background-template-vector-honey-texture_231786-3950.jpg' alt='Premium Vector | Seamless yellow bee honeycomb pattern, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-yellow-bee-honeycomb-pattern-art-background-template-vector-honey-texture_231786-3950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Honeycomb Vinyl">
+                                <img itemprop="contentUrl url" src='https://moxievinyls.com/cdn/shop/products/Honeycomb-12x12_900x.jpg?v=1654809128' alt='Yellow Honeycomb Vinyl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moxie Vinyls" />
+                                </span>
+                                <a href='https://moxievinyls.com/cdn/shop/products/Honeycomb-12x12_900x.jpg?v=1654809128' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless vector yellow honeycomb pattern. Honey background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2E349CA/seamless-vector-yellow-honeycomb-pattern-honey-background-2E349CA.jpg' alt='Seamless vector yellow honeycomb pattern. Honey background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2E349CA/seamless-vector-yellow-honeycomb-pattern-honey-background-2E349CA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Honeycomb Background Images – Browse 193,496 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/96/23/53/360_F_1096235329_ZQoCfqygaIA9OxbecnUjxLyDH9yES5Rf.jpg' alt='Yellow Honeycomb Background Images – Browse 193,496 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/96/23/53/360_F_1096235329_ZQoCfqygaIA9OxbecnUjxLyDH9yES5Rf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6.4" Polished Honeycomb Calcite Slab - Utah (#264563) For Sale ...">
+                                <img itemprop="contentUrl url" src='https://assets0.fossilera.com/sp/677215/honeycomb-calcite/calcite.jpg' alt='6.4" Polished Honeycomb Calcite Slab - Utah (#264563) For Sale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FossilEra" />
+                                </span>
+                                <a href='https://assets0.fossilera.com/sp/677215/honeycomb-calcite/calcite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

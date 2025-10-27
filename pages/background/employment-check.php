@@ -1,0 +1,129 @@
+<title>Essential Guide to Employment Checks</title>
+                    <meta name="description" content="Discover the importance of employment checks in the hiring process. Learn how verifying work history and references helps companies make informed decisions and build reliable teams. Stay competitive by understanding essential employment verification practices.">
+                    <meta name="keywords" content="employment check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/employment-check">
+                            <span itemprop="name">employment check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Employment Checks</h1>
+                <p>An employment check is a crucial part of the hiring process, helping employers verify a candidate's work history, skills, and reliability. This process includes contacting previous employers, checking references, and confirming qualifications. By conducting thorough employment checks, companies can make informed hiring decisions and reduce turnover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Verification checks previous employers' records">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Employment%20Verification%20Sample.jpg' alt='Employment Verification checks previous employers' records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1662">
+                                <meta itemprop="height" content="3317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Employment%20Verification%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment History – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/employment.jpg' alt='Employment History – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1843">
+                                <meta itemprop="height" content="1771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/employment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get a Quote for Employee Background Screening - Accurate ...">
+                                <img itemprop="contentUrl url" src='https://aisbackgroundchecks.com/wp-content/uploads/2020/12/ais-sample-report-1.gif' alt='Get a Quote for Employee Background Screening - Accurate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Information Systems" />
+                                </span>
+                                <a href='https://aisbackgroundchecks.com/wp-content/uploads/2020/12/ais-sample-report-1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Employment Background Checks: A Complete Guide [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2020/02/employment-background-check.jpg' alt='Pre-Employment Background Checks: A Complete Guide [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2020/02/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct an Employee Background Check for Employment">
+                                <img itemprop="contentUrl url" src='https://d341ezm4iqaae0.cloudfront.net/assets/2020/09/30211231/background-check-1_lambdaoptimized.webp' alt='How to Conduct an Employee Background Check for Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d341ezm4iqaae0.cloudfront.net/assets/2020/09/30211231/background-check-1_lambdaoptimized.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Verification - Accurate Public Records">
+                                <img itemprop="contentUrl url" src='https://accuratepublicrecords.com/wp-content/uploads/2021/07/Employment-Verification.png' alt='Employment Verification - Accurate Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Public Records" />
+                                </span>
+                                <a href='https://accuratepublicrecords.com/wp-content/uploads/2021/07/Employment-Verification.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Check Template - SimplyCast">
+                                <img itemprop="contentUrl url" src='https://www.simplycast.com/webp/form-templates/employee-background-check-template.webp' alt='Employee Background Check Template - SimplyCast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyCast" />
+                                </span>
+                                <a href='https://www.simplycast.com/webp/form-templates/employee-background-check-template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Employment Screening: Your Comprehensive Guide [For 2025] - AIHR">
+                                <img itemprop="contentUrl url" src='https://www.aihr.com/wp-content/uploads/Pre-employment-Screening-Checklist-social.png' alt='Pre-Employment Screening: Your Comprehensive Guide [For 2025] - AIHR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIHR" />
+                                </span>
+                                <a href='https://www.aihr.com/wp-content/uploads/Pre-employment-Screening-Checklist-social.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks with Credit Reports">
+                                <img itemprop="contentUrl url" src='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' alt='Employment Background Checks with Credit Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAA Credit Screening & Background Checks" />
+                                </span>
+                                <a href='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

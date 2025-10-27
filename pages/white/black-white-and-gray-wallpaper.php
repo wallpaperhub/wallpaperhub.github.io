@@ -1,0 +1,129 @@
+<title>Stunning Black, White & Gray Wallpaper for Timeless Elegance</title>
+                    <meta name="description" content="Discover elegant black, white, and gray wallpaper that transforms your space with a modern touch. Perfect for any decor style, our collection enhances depth and texture while keeping a sophisticated look. Explore various patterns to elevate your home today!">
+                    <meta name="keywords" content="black white and gray wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-white-and-gray-wallpaper">
+                            <span itemprop="name">black white and gray wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black, White & Gray Wallpaper for Timeless Elegance</h1>
+                <p>Black, white, and gray wallpaper offers a timeless appeal, perfect for creating an elegant and sophisticated ambiance in any room. Its neutral tones complement various decor styles, from modern minimalism to classic designs. Use it to enhance your spaces, adding depth and texture while maintaining a chic, understated look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, Gray, & White Swirled Cell Phone Wallpaper Digital - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25871122/r/il/a1d381/2677459675/il_570xN.2677459675_7kw4.jpg' alt='Black, Gray, & White Swirled Cell Phone Wallpaper Digital - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25871122/r/il/a1d381/2677459675/il_570xN.2677459675_7kw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Floral Black, Grey & White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grand-floral-black-grey-white-wallpaper-ynhn-l.jpg' alt='Grand Floral Black, Grey & White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grand-floral-black-grey-white-wallpaper-ynhn-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip Painting Black White Gray Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/25612/drip_painting_black_white_gray_limited.jpg' alt='Drip Painting Black White Gray Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/25612/drip_painting_black_white_gray_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black/Silver/White/Gray Damask Embossed Textured Thick Wallpaper Roll for  Living Room Bedroom Decorative 20.86“ x 32.8'">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Black-Silver-White-Gray-Damask-Embossed-Textured-Thick-Wallpaper-Roll-for-Living-Room-Bedroom-Decorative-20-86-x-32-8_472ae166-ed00-47d4-b75d-38f28a4f06c5.0de57f5f4b44d680d10fcda285954e31.jpeg' alt='Black/Silver/White/Gray Damask Embossed Textured Thick Wallpaper Roll for  Living Room Bedroom Decorative 20.86“ x 32.8''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Black-Silver-White-Gray-Damask-Embossed-Textured-Thick-Wallpaper-Roll-for-Living-Room-Bedroom-Decorative-20-86-x-32-8_472ae166-ed00-47d4-b75d-38f28a4f06c5.0de57f5f4b44d680d10fcda285954e31.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Gray Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1565301660306-29e08751cc53?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBhbmQlMjBncmF5fGVufDB8fDB8fHww' alt='Black And Gray Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1565301660306-29e08751cc53?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBhbmQlMjBncmF5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wallpaper | Abstract, Simple & Modern Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1679399146-diablo-black-sideboard-cat.jpg?auto=format&dpr=0.23&w=2200' alt='Black & White Wallpaper | Abstract, Simple & Modern Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1679399146-diablo-black-sideboard-cat.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grey Aesthetic Wallpapers - Wallpaper Cave AB">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c0/18/fa/c018fa22fda9b5e71cca2c71e51b3292.jpg' alt='Light Grey Aesthetic Wallpapers - Wallpaper Cave AB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c0/18/fa/c018fa22fda9b5e71cca2c71e51b3292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Swirl Black And Grey Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/abstract-swirl-black-and-grey-iphone-o9n1z5h073d8be61.jpg' alt='Abstract Swirl Black And Grey Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/abstract-swirl-black-and-grey-iphone-o9n1z5h073d8be61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Osprey MF70900">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/files/osprey-mf70900-414699.jpg?v=1727457725' alt='Osprey MF70900'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/files/osprey-mf70900-414699.jpg?v=1727457725' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Whimsical Girly Peel and Stick Wallpaper for Effortless Decor</title>
+                    <meta name="description" content="Explore our collection of girly peel and stick wallpaper, designed for an easy and stylish makeover. Perfect for any space, these removable wallpapers feature delightful patterns that transform your decor in minutes. Ideal for bedrooms, nurseries, and playrooms, they bring a charming touch to your home.">
+                    <meta name="keywords" content="girly peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/girly-peel-and-stick-wallpaper">
+                            <span itemprop="name">girly peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Girly Peel and Stick Wallpaper for Effortless Decor</h1>
+                <p>Transform your space with girly peel and stick wallpaper, perfect for adding a touch of elegance and charm. Whether you're decorating a bedroom, nursery, or playroom, these stylish designs feature florals, patterns, and pastel colors that create a whimsical atmosphere. Easy to apply and remove, they let you personalize your room effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminine Wallpaper Light Pink Girly Wallpaper Peel and Stick Soft ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/c11c5b/5968718367/il_570xN.5968718367_d9bg.jpg' alt='Feminine Wallpaper Light Pink Girly Wallpaper Peel and Stick Soft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/c11c5b/5968718367/il_570xN.5968718367_d9bg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ariel Peel And Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://windowfilmworld.com/cdn/shop/products/NU1397_Room_grande.jpg?v=1486466558' alt='Pink Ariel Peel And Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Window Film World" />
+                                </span>
+                                <a href='https://windowfilmworld.com/cdn/shop/products/NU1397_Room_grande.jpg?v=1486466558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Watercolor  Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses (24" W x  132" ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RTeu8IpGL._AC_UF894,1000_QL80_.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Watercolor  Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses (24" W x  132" ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RTeu8IpGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Chic Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12255RL_RS2ex.jpg?v=1663084891' alt='Fun Chic Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12255RL_RS2ex.jpg?v=1663084891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Peel and Stick Wallpaper Removable">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?crop=center&height=2048&v=1689806731&width=2048' alt='Pink Peel and Stick Wallpaper Removable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?crop=center&height=2048&v=1689806731&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Floral Watercolor Coral Blush Pink Navy  Mustard Girly Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/13115565184649.jpeg?fit=inside|1280:1280' alt='Peel & Stick Wallpaper 2FT Wide Floral Watercolor Coral Blush Pink Navy  Mustard Girly Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/13115565184649.jpeg?fit=inside|1280:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Pink wallpaper Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/hot-pink-line-removable-wallpaper-in-scandinavian-style-bedroom-683x1024.jpg' alt='Explore Pink wallpaper Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/hot-pink-line-removable-wallpaper-in-scandinavian-style-bedroom-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FABRIC Wallpaper PRIM GARDEN Floral Pink Peel & Stick Nursery ...">
+                                <img itemprop="contentUrl url" src='https://sonoluna.com/cdn/shop/products/PRIM-BLUSH-White-crib_8525735e-786c-46ce-b830-bb3549510f0c_1024x1024.jpg?v=1618054668' alt='FABRIC Wallpaper PRIM GARDEN Floral Pink Peel & Stick Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sono Luna" />
+                                </span>
+                                <a href='https://sonoluna.com/cdn/shop/products/PRIM-BLUSH-White-crib_8525735e-786c-46ce-b830-bb3549510f0c_1024x1024.jpg?v=1618054668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpapers | Peel & Stick + Prepasted Options">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-pink.jpg?q=1699648020' alt='Pink Wallpapers | Peel & Stick + Prepasted Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-pink.jpg?q=1699648020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Love Peel and Stick Removable Wallpaper 3488">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Love_Purple_Peel_and_Stick_Removable_Wallpaper_Kids_169973488_05_grande.jpg?v=1642620443' alt='Purple Love Peel and Stick Removable Wallpaper 3488'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Love_Purple_Peel_and_Stick_Removable_Wallpaper_Kids_169973488_05_grande.jpg?v=1642620443' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

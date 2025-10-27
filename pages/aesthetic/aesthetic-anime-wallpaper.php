@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of stunning aesthetic anime wallpapers. Perfect for transforming your device into a captivating art space, find your favorite designs, from dreamy landscapes to character art, that reflect your unique style. Dive into the colorful world of anime today!">
+                    <meta name="keywords" content="aesthetic anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-anime-wallpaper">
+                            <span itemprop="name">aesthetic anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Anime Wallpapers for Your Device</h1>
+                <p>Aesthetic anime wallpaper brings visual storytelling to life, combining vibrant colors, intricate designs, and beloved characters. These wallpapers transform your device into a customizable art space, perfect for fans who appreciate the beauty of anime. Whether you prefer dreamy landscapes, captivating characters, or minimalist styles, there’s a perfect wallpaper waiting for you.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Sunset Background Artwork #4 | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4702587443.7551/flat,750x1000,075,t.jpg' alt='Aesthetic Anime Sunset Background Artwork #4 | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4702587443.7551/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡︎                  ♡︎">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/d5/68/2ed56825a2c0be6f00231afb23a20bff.jpg' alt='♡︎                  ♡︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/d5/68/2ed56825a2c0be6f00231afb23a20bff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Aesthetic Anime Scenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/desktop-aesthetic-anime-scenery-pmhm5vyo00sfmc4p.jpg' alt='Desktop Aesthetic Anime Scenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/desktop-aesthetic-anime-scenery-pmhm5vyo00sfmc4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic anime wallpaper new arrivals iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12208922.jpg' alt='Aesthetic anime wallpaper new arrivals iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="100 piece new arrivals jigsaw puzzles online" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12208922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable anime desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvMGz3r2I/1/0/1600w/canva-pink-blue-anime-illustrative-bright-peaceful-collage-desktop-wallpaper-fNLOhCK5MLY.jpg' alt='Free customizable anime desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvMGz3r2I/1/0/1600w/canva-pink-blue-anime-illustrative-bright-peaceful-collage-desktop-wallpaper-fNLOhCK5MLY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Girl Holding Gun Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-anime-taki-viewing-tiamat-phone-jb2sblq12svuiv1o.webp' alt='Aesthetic Anime Girl Holding Gun Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-anime-taki-viewing-tiamat-phone-jb2sblq12svuiv1o.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1 - Grungy Style's Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/73d52361-8b72-49de-9735-09c3906ee923_9.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1 - Grungy Style's Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/73d52361-8b72-49de-9735-09c3906ee923_9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An Aesthetic Anime Background with Incredible Visuals ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-anime-background-omhw80wswdpe1evj.jpg' alt='Download An Aesthetic Anime Background with Incredible Visuals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-anime-background-omhw80wswdpe1evj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, aesthetic, black, anume, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/360/471/HD-wallpaper-anime-aesthetic-black-anume-thumbnail.jpg' alt='Anime, aesthetic, black, anume, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/360/471/HD-wallpaper-anime-aesthetic-black-anume-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

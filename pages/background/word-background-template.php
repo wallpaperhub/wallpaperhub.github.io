@@ -1,0 +1,129 @@
+<title>"Stylish Word Background Templates for Every Document"</title>
+                    <meta name="description" content="Discover eye-catching word background templates ideal for all your document needs. Customize easily and enhance your reports or creative projects with professional designs. Perfect for presentations, resumes, and more – make your documents shine!">
+                    <meta name="keywords" content="word background template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/word-background-template">
+                            <span itemprop="name">word background template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stylish Word Background Templates for Every Document"</h1>
+                <p>A word background template is a versatile tool that helps streamline document design. Whether for business reports, resumes, or creative projects, these templates provide aesthetically pleasing backgrounds that enhance visual appeal. Customize colors, fonts, and graphics to match your branding, making your documents stand out effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Background PSD, High Quality Free PSD Templates for Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/rectangle-memphis-frame-psd-earth-tone-background_53876-123549.jpg' alt='Word Background PSD, High Quality Free PSD Templates for Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/rectangle-memphis-frame-psd-earth-tone-background_53876-123549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Background Professional Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-166894.jpg' alt='Word Background Professional Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-166894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/rectangle-frame-green-floral-background_53876-97577.jpg' alt='Word Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/rectangle-frame-green-floral-background_53876-97577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Templates for Word Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c6/63/32/c663322fd0df65541463a430fff06857.jpg' alt='Templates for Word Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c6/63/32/c663322fd0df65541463a430fff06857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGExgb63xw/2/0/900w/canva-beige-and-brown-aesthetic-background-instagram-story-LqZ8gkhsXXE.jpg' alt='Free and customizable background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGExgb63xw/2/0/900w/canva-beige-and-brown-aesthetic-background-instagram-story-LqZ8gkhsXXE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Cover page template word ideas | cover page template ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ae/a4/d6/aea4d61eefe73e341660ec17118ec0fe.jpg' alt='30 Best Cover page template word ideas | cover page template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ae/a4/d6/aea4d61eefe73e341660ec17118ec0fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-botanical-frame-template-vector_53876-136489.jpg' alt='Word Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-botanical-frame-template-vector_53876-136489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background images in Word - Microsoft Community">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/5ec443c4-da13-4146-baf5-0eefa5acb6cb?upload=true' alt='Background images in Word - Microsoft Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2481">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/5ec443c4-da13-4146-baf5-0eefa5acb6cb?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGM8oTaR0Y/1/0/1131w/canva-brown-vintage-background-document-zxfoslKUeas.jpg' alt='Free and customizable background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGM8oTaR0Y/1/0/1131w/canva-brown-vintage-background-document-zxfoslKUeas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Editable Background Templates in Word to Download">
+                                <img itemprop="contentUrl url" src='https://images.template.net/165718/cover-page-background-template-negfe.jpg' alt='Free Editable Background Templates in Word to Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/165718/cover-page-background-template-negfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

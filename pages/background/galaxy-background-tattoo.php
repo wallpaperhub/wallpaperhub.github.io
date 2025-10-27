@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Background Tattoos: Your Cosmic Ink Journey</title>
+                    <meta name="description" content="Explore the beauty of galaxy background tattoos! Discover vibrant designs that embody the cosmos with deep colors and swirling patterns. Perfect for expressing your love for space and its endless possibilities. Unleash your creativity and find inspiration for your next ink adventure today!">
+                    <meta name="keywords" content="galaxy background tattoo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-background-tattoo">
+                            <span itemprop="name">galaxy background tattoo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Background Tattoos: Your Cosmic Ink Journey</h1>
+                <p>Galaxy background tattoos are a stunning way to express your love for the cosmos. These vibrant designs feature swirling hues of deep blues, purples, and pinks, resembling the beauty of the universe. Perfect for dreamers and stargazers, these tattoos can symbolize hope, exploration, and the infinite possibilities that lie beyond.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1001+ Stunning Galaxy Tattoo Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/99/b0/5e99b0429bfaf14d6e2f69117de8fb29.jpg' alt='1001+ Stunning Galaxy Tattoo Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/99/b0/5e99b0429bfaf14d6e2f69117de8fb29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Galaxy and Space Background Tattoo Ideas | galaxy tattoo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b0/e3/ce/b0e3ceb421a29f65f8995c5e73d5335b.jpg' alt='160 Galaxy and Space Background Tattoo Ideas | galaxy tattoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b0/e3/ce/b0e3ceb421a29f65f8995c5e73d5335b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Cosmic Beauty: The Meaning Behind Galaxy Tattoos ...">
+                                <img itemprop="contentUrl url" src='https://d2eekvzwkg3g8b.cloudfront.net/wp-content/uploads/2024/06/galaxy_122.jpg' alt='Exploring the Cosmic Beauty: The Meaning Behind Galaxy Tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="inktat2.com" />
+                                </span>
+                                <a href='https://d2eekvzwkg3g8b.cloudfront.net/wp-content/uploads/2024/06/galaxy_122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120+ Cool Space Tattoo Ideas 2024">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/01/7e/6d/017e6d05e19c62b9a20bd0217367a7fc.jpg' alt='120+ Cool Space Tattoo Ideas 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/01/7e/6d/017e6d05e19c62b9a20bd0217367a7fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Mesmerizing Galaxy Tattoo Ideas for Men & Women in 2024">
+                                <img itemprop="contentUrl url" src='https://thai.tattoo/wp-content/uploads/2023/02/2022-11-13-01.09.08-2970041405327243479_49508369.jpg' alt='30+ Mesmerizing Galaxy Tattoo Ideas for Men & Women in 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panumart Tattoo" />
+                                </span>
+                                <a href='https://thai.tattoo/wp-content/uploads/2023/02/2022-11-13-01.09.08-2970041405327243479_49508369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple pink blue turquoise galaxy with stars on the back of the ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/f4/e9/b6f4e92e8d85101fde9397c3332cae71.jpg' alt='Purple pink blue turquoise galaxy with stars on the back of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/f4/e9/b6f4e92e8d85101fde9397c3332cae71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Added a colorful galaxy background to... - Mystic Arts Tattoo">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=401648221458383&get_thumbnail=1' alt='Added a colorful galaxy background to... - Mystic Arts Tattoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=401648221458383&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It looks like Jae's camp bruise from the hill water slide.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/ac/5c/a1ac5cd4fecaa37e1816d2f30d709b35.jpg' alt='It looks like Jae's camp bruise from the hill water slide.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/ac/5c/a1ac5cd4fecaa37e1816d2f30d709b35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy tattoo on the right arm.">
+                                <img itemprop="contentUrl url" src='https://cdntattoofilter.com/tattoo/14023/fbs.jpg' alt='Galaxy tattoo on the right arm.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoofilter" />
+                                </span>
+                                <a href='https://cdntattoofilter.com/tattoo/14023/fbs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Tattoo Ideas: Covering up Stars with Space Art">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6896750594778828037&location=0&aid=1988' alt='Galaxy Tattoo Ideas: Covering up Stars with Space Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6896750594778828037&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

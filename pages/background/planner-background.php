@@ -1,0 +1,129 @@
+<title>Essential Elements of a Planner Background: Skills & Experience</title>
+                    <meta name="description" content="Discover the key components of a planner's background, including essential skills and experiences that contribute to successful urban and project planning. Enhance your understanding of what it takes to create sustainable and engaging communities with insights on education and real-world applications.">
+                    <meta name="keywords" content="planner background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/planner-background">
+                            <span itemprop="name">planner background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Elements of a Planner Background: Skills & Experience</h1>
+                <p>A planner background encompasses a range of skills and experiences that shape effective planners. This includes education in urban planning, design, or economics, along with practical experience in project management and community engagement. A strong planner background enables individuals to develop sustainable, efficient, and aesthetically pleasing environments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planner Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-diary-background-stationery-border-pink-feminine-design-vector_53876-156594.jpg' alt='Planner Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-diary-background-stationery-border-pink-feminine-design-vector_53876-156594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds — Passion Planner">
+                                <img itemprop="contentUrl url" src='https://passionplanner.com/cdn/shop/products/SCHOOLROOM_BLUE_1931x1080.jpg?v=1599082077' alt='Zoom Backgrounds — Passion Planner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1931">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Passion Planner" />
+                                </span>
+                                <a href='https://passionplanner.com/cdn/shop/products/SCHOOLROOM_BLUE_1931x1080.jpg?v=1599082077' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ Weekly Planner Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1163550831/vector/weekly-planner.jpg?s=612x612&w=0&k=20&c=OErV3WetC94dQQePMP0tfC2HwrrIAKcdJsMe0LVqnK0=' alt='3,200+ Weekly Planner Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1163550831/vector/weekly-planner.jpg?s=612x612&w=0&k=20&c=OErV3WetC94dQQePMP0tfC2HwrrIAKcdJsMe0LVqnK0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planner Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210401/pngtree-abstract-simple-education-planners-asymmetry-image_602264.jpg' alt='Planner Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210401/pngtree-abstract-simple-education-planners-asymmetry-image_602264.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpapers - The Happy Planner">
+                                <img itemprop="contentUrl url" src='https://i.shgcdn.com/e45200eb-b9bc-4586-a9c9-35da1ee88626/-/format/auto/-/preview/3000x3000/-/quality/lighter/' alt='Desktop Wallpapers - The Happy Planner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happy Planner" />
+                                </span>
+                                <a href='https://i.shgcdn.com/e45200eb-b9bc-4586-a9c9-35da1ee88626/-/format/auto/-/preview/3000x3000/-/quality/lighter/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weekly planner. Hand drawn brush strokes. Abstract tropical ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/68/23/23/1000_F_168232397_YVTFxqv3JcbywihOu7XxEhu7hw1dQAtp.jpg' alt='Weekly planner. Hand drawn brush strokes. Abstract tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/68/23/23/1000_F_168232397_YVTFxqv3JcbywihOu7XxEhu7hw1dQAtp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Weekly Planner Background Graphic by 2qnah · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/03/30/Cute-weekly-planner-background-Graphics-28107138-1-1-580x386.png' alt='Cute Weekly Planner Background Graphic by 2qnah · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/03/30/Cute-weekly-planner-background-Graphics-28107138-1-1-580x386.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute weekly planner background for kid">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-weekly-planner-background-kid_72039-265.jpg' alt='Premium Vector | Cute weekly planner background for kid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-weekly-planner-background-kid_72039-265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daily Planner with cute stationery elements on Memphis background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/40/59/19/1000_F_240591991_2UT0QLzcZBqo8DlbxSXB1TTZPTJXv14o.jpg' alt='Daily Planner with cute stationery elements on Memphis background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/40/59/19/1000_F_240591991_2UT0QLzcZBqo8DlbxSXB1TTZPTJXv14o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Planner Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/planner-background-kgwua46ji6quzfm7.jpg' alt='100+] Planner Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/planner-background-kgwua46ji6quzfm7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Funniest LOL Images to Brighten Your Day</title>
+                    <meta name="description" content="Discover a collection of the funniest LOL images guaranteed to make you laugh! From silly memes to adorable animals, these images are perfect for sharing on social media and brightening your day. Explore our curated gallery for a quick dose of humor anytime, anywhere!">
+                    <meta name="keywords" content="lol images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lol-images">
+                            <span itemprop="name">lol images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funniest LOL Images to Brighten Your Day</h1>
+                <p>LOL images are vibrant and humorous pictures that capture funny moments, hilarious memes, and amusing reactions. They're perfect for sharing and spreading joy on social media. Whether it’s a cute animal doing something silly or a witty meme that perfectly captures a relatable moment, these images add laughter to our daily lives!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Strange Phenomenon of L.O.L. Surprise! Dolls - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/C7aNW_aresHm94BATPz_GzUvDks=/304x40:4196x2959/1200x900/media/img/mt/2018/11/GettyImages_1061366802/original.jpg' alt='The Strange Phenomenon of L.O.L. Surprise! Dolls - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/C7aNW_aresHm94BATPz_GzUvDks=/304x40:4196x2959/1200x900/media/img/mt/2018/11/GettyImages_1061366802/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lol Images – Browse 76,320 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/70/18/08/360_F_270180878_mpY6tOMJ5BegkXytgSPCTebZ7wf9SH25.jpg' alt='Lol Images – Browse 76,320 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/70/18/08/360_F_270180878_mpY6tOMJ5BegkXytgSPCTebZ7wf9SH25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collectible Dolls with Mix and Match Accessories | L.O.L. Surprise ...">
+                                <img itemprop="contentUrl url" src='https://www.kidslolsurprise.com/cdn/shop/files/1-29Tweens_CoreGroup_1020x.jpg?v=1712567919' alt='Collectible Dolls with Mix and Match Accessories | L.O.L. Surprise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.kidslolsurprise.com" />
+                                </span>
+                                <a href='https://www.kidslolsurprise.com/cdn/shop/files/1-29Tweens_CoreGroup_1020x.jpg?v=1712567919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lol Dolls Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lol-dolls-pictures-nt05s25tx7qvh2r7.jpg' alt='100+] Lol Dolls Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lol-dolls-pictures-nt05s25tx7qvh2r7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lol Doll Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lol-doll-nnhlf1l3j4qainjw.jpg' alt='100+] Lol Doll Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lol-doll-nnhlf1l3j4qainjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New LOL Surprise HD wallpapers - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2020-06/1592334294_youloveit_com_lol_surprise_hd_wallpaper05.jpg' alt='New LOL Surprise HD wallpapers - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2020-06/1592334294_youloveit_com_lol_surprise_hd_wallpaper05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="L.O.L. Surprise! Movie Night for Nintendo Switch - Nintendo Official Site">
+                                <img itemprop="contentUrl url" src='https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000041685/313d7d4bccb5ced1e8d86f1e2406eadb3b91405fde947615640a14dd0158c8ad' alt='L.O.L. Surprise! Movie Night for Nintendo Switch - Nintendo Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo" />
+                                </span>
+                                <a href='https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000041685/313d7d4bccb5ced1e8d86f1e2406eadb3b91405fde947615640a14dd0158c8ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make It Fashion      | L.O.L. Surprise! Family Episode 6 | L.O.L. Surprise!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/89ERSkXIKV8/maxresdefault.jpg' alt='Make It Fashion      | L.O.L. Surprise! Family Episode 6 | L.O.L. Surprise!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/89ERSkXIKV8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Dolls and Playsets - The MGA Shop">
+                                <img itemprop="contentUrl url" src='https://shop.mgae.com/cdn/shop/collections/Hero-Banner-LOL-Spring24-EP.jpg?v=1737482504&width=1920' alt='LOL Surprise Dolls and Playsets - The MGA Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The MGA Shop - MGA Entertainment" />
+                                </span>
+                                <a href='https://shop.mgae.com/cdn/shop/collections/Hero-Banner-LOL-Spring24-EP.jpg?v=1737482504&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="189,900+ Lol Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/528415533/vector/emoticon-with-tears-of-joy.jpg?s=612x612&w=0&k=20&c=zt919iGd1ZSJ2kFU0g676iVKLamUXMSjMD2s-NkV8_c=' alt='189,900+ Lol Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/528415533/vector/emoticon-with-tears-of-joy.jpg?s=612x612&w=0&k=20&c=zt919iGd1ZSJ2kFU0g676iVKLamUXMSjMD2s-NkV8_c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

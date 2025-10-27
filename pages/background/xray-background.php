@@ -1,0 +1,129 @@
+<title>Understanding X-Ray Background Radiation</title>
+                    <meta name="description" content="Explore the significance of X-ray background radiation in healthcare and safety. Learn how it affects radiology practices and patient safety, distinguishing natural exposure from medical imaging. Stay informed about radiation exposure and its implications in medical settings.">
+                    <meta name="keywords" content="xray background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/xray-background">
+                            <span itemprop="name">xray background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding X-Ray Background Radiation</h1>
+                <p>X-ray background refers to the natural radiation present in our environment, primarily resulting from cosmic rays and terrestrial sources. Understanding this background is crucial in radiology and safety, as it helps distinguish between natural radiation exposure and that from medical imaging procedures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] X Ray Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/x-ray-hsatbl9dtsas5zk3.jpg' alt='100+] X Ray Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/x-ray-hsatbl9dtsas5zk3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X Ray Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/330/876/small/dark-velvet-texture-with-ghostly-white-imprints-halloween-eerie-atmosphere-luxurious-yet-spooky-mysterious-and-haunting-contrast-photo.jpg' alt='X Ray Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/330/876/small/dark-velvet-texture-with-ghostly-white-imprints-halloween-eerie-atmosphere-luxurious-yet-spooky-mysterious-and-haunting-contrast-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand X-ray Background Stock Photo 47397532 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/hand-xray-background-260nw-47397532.jpg' alt='Hand X-ray Background Stock Photo 47397532 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/hand-xray-background-260nw-47397532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X Ray Images – Browse 676,144 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/78/30/69/360_F_78306965_RsUUgVrK8yXBPYksGKEBEj943EAtEVOW.jpg' alt='X Ray Images – Browse 676,144 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/78/30/69/360_F_78306965_RsUUgVrK8yXBPYksGKEBEj943EAtEVOW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X Ray Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/human-bones-realistic-x-ray-shots_1284-29690.jpg' alt='X Ray Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/human-bones-realistic-x-ray-shots_1284-29690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Radiology Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/072/149/small/detailed-high-resolution-x-ray-image-of-human-shoulder-joint-and-rib-cage-concept-of-human-anatomy-medical-imaging-bone-structure-orthopedics-scanning-photo.jpeg' alt='Radiology Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/072/149/small/detailed-high-resolution-x-ray-image-of-human-shoulder-joint-and-rib-cage-concept-of-human-anatomy-medical-imaging-bone-structure-orthopedics-scanning-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand X-ray Background Stock Photo 178240049 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/hand-xray-background-260nw-178240049.jpg' alt='Hand X-ray Background Stock Photo 178240049 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/hand-xray-background-260nw-178240049.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X Ray Film Background Stock Photo, Picture and Royalty Free Image ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/joloei/joloei1508/joloei150800305/43874567-x-ray-film-background.jpg' alt='X Ray Film Background Stock Photo, Picture and Royalty Free Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/joloei/joloei1508/joloei150800305/43874567-x-ray-film-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="big collection x-ray image on black or dark background, hight ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T36D37/big-collection-x-ray-image-on-black-or-dark-background-hight-quality-of-human-anatomy-by-x-ray-T36D37.jpg' alt='big collection x-ray image on black or dark background, hight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T36D37/big-collection-x-ray-image-on-black-or-dark-background-hight-quality-of-human-anatomy-by-x-ray-T36D37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download X-ray Vision Anatomy Hand Photography X-ray HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/196/196112.jpg' alt='Download X-ray Vision Anatomy Hand Photography X-ray HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/196/196112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

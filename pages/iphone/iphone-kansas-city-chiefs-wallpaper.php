@@ -1,0 +1,129 @@
+<title>Top Kansas City Chiefs iPhone Wallpapers</title>
+                    <meta name="description" content="Discover vibrant Kansas City Chiefs iPhone wallpapers and show your team pride! From bold logos to action-packed player images, find the perfect design to customize your device. Download now to keep the spirit of the Chiefs at your fingertips! Perfect for true fans on-the-go!">
+                    <meta name="keywords" content="iphone kansas city chiefs wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-kansas-city-chiefs-wallpaper">
+                            <span itemprop="name">iphone kansas city chiefs wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Kansas City Chiefs iPhone Wallpapers</h1>
+                <p>Elevate your iPhone with stunning Kansas City Chiefs wallpapers that showcase your team spirit! Choose from vibrant designs featuring the iconic logo, standout players, and memorable game moments. Perfect for fans wanting to personalize their devices while celebrating the Chiefs' legacy. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers : r/KansasCityChiefs">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iphone-wallpapers-v0-lnztaa3ql4lc1.jpg?width=1080&crop=smart&auto=webp&s=18f31eea5a5acee6155a5e713220ca54246fc6b7' alt='iPhone Wallpapers : r/KansasCityChiefs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iphone-wallpapers-v0-lnztaa3ql4lc1.jpg?width=1080&crop=smart&auto=webp&s=18f31eea5a5acee6155a5e713220ca54246fc6b7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kansas City Chiefs Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kansas-city-chiefs-iphone-ythjhxxzm9ue728w.jpg' alt='100+] Kansas City Chiefs Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kansas-city-chiefs-iphone-ythjhxxzm9ue728w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got this as my current iPhone wallpaper...anyone got/have/seen ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nyem1uic0me61.jpg' alt='Got this as my current iPhone wallpaper...anyone got/have/seen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nyem1uic0me61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kansas city chiefs iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/6d/e1/1c6de14749329e96d5f5df12c27d04ff.jpg' alt='kansas city chiefs iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/6d/e1/1c6de14749329e96d5f5df12c27d04ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Chiefs iPhone X/11/Android Wallpaper | Splash th… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/50884231461_4b2d4ced84_b.jpg' alt='Kansas City Chiefs iPhone X/11/Android Wallpaper | Splash th… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/50884231461_4b2d4ced84_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Chiefs iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chiefs-9_63842906487039.6.jpg' alt='Kansas City Chiefs iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="2121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chiefs-9_63842906487039.6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Chiefs wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/35/ca/a535ca69f67202852d460ca7fd95f891.jpg' alt='Kansas City Chiefs wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/35/ca/a535ca69f67202852d460ca7fd95f891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Chiefs Wood iPhone 4 Background | Kansas City Ch… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4081/4767904023_7fd97a7e2b_z.jpg' alt='Kansas City Chiefs Wood iPhone 4 Background | Kansas City Ch… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4081/4767904023_7fd97a7e2b_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A very super Wallpaper Wednesday... - The Kansas City Chiefs ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160687060283373' alt='A very super Wallpaper Wednesday... - The Kansas City Chiefs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160687060283373' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/ca/5c/63ca5c77ae17d5137dffcbafa2314be8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/ca/5c/63ca5c77ae17d5137dffcbafa2314be8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

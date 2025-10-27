@@ -1,0 +1,129 @@
+<title>Stunning Red Dead Redemption 2 Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of exquisite Red Dead Redemption 2 wallpapers. Perfect for fans, these high-quality images enhance your device's look, featuring mesmerizing scenes and iconic characters. Download your favorite and embrace the wild west today!">
+                    <meta name="keywords" content="red dead redemption 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-dead-redemption-2-wallpaper">
+                            <span itemprop="name">red dead redemption 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Dead Redemption 2 Wallpapers for Your Device</h1>
+                <p>Discover stunning Red Dead Redemption 2 wallpapers that capture the essence of the wild west. From breathtaking landscapes to iconic characters, elevate your device's background with high-quality images. Perfect for fans of the game seeking to immerse themselves in the beauty of the frontier. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/749/749807.png' alt='Red Dead Redemption 2 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/749/749807.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption II (3840x2160) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jvs9j0xke0f61.jpg' alt='Red Dead Redemption II (3840x2160) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jvs9j0xke0f61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 Iphone Xs, Iphone 10, Iphone X Hd 4k ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-dead-redemption-2-iphone-xs-iphone-10-iphone-x-hd-4k-03atbj940vun230r.jpg' alt='Red Dead Redemption 2 Iphone Xs, Iphone 10, Iphone X Hd 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-dead-redemption-2-iphone-xs-iphone-10-iphone-x-hd-4k-03atbj940vun230r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption Wallpapers (81 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/f/4/70401-2560x1440-desktop-hd-red-dead-redemption-wallpaper-image.jpg' alt='Red Dead Redemption Wallpapers (81 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/f/4/70401-2560x1440-desktop-hd-red-dead-redemption-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rdr2 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-dead-redemption-2-full-hd-a242sno6kwo4mr52.jpg' alt='100+] Rdr2 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-dead-redemption-2-full-hd-a242sno6kwo4mr52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I tried to make a custom RDR 2 Wallpaper. It looks like this. Can ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-tried-to-make-a-custom-rdr-2-wallpaper-it-looks-like-this-v0-q0setvu33fzd1.jpeg?auto=webp&s=d11a0e748f60bb0f290563b8d29034e3e476eedb' alt='I tried to make a custom RDR 2 Wallpaper. It looks like this. Can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-tried-to-make-a-custom-rdr-2-wallpaper-it-looks-like-this-v0-q0setvu33fzd1.jpeg?auto=webp&s=d11a0e748f60bb0f290563b8d29034e3e476eedb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/red-3_63862181200654.2.jpg' alt='Red Dead Redemption 2 HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/red-3_63862181200654.2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Desktop Wallpaper – Red Dead Redemption 2 – Gaming Art ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/red-dead-redemption-2-cowboy-3qqglcuumxx7tww6.webp' alt='New Desktop Wallpaper – Red Dead Redemption 2 – Gaming Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/red-dead-redemption-2-cowboy-3qqglcuumxx7tww6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption Wallpapers (81 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/6/4/656-3840x2160-desktop-4k-red-dead-redemption-background.jpg' alt='Red Dead Redemption Wallpapers (81 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/6/4/656-3840x2160-desktop-4k-red-dead-redemption-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_red_dead_redemption_2_08_2560x1080.jpg&height=506&sharpen' alt='Red Dead Redemption 2 UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_red_dead_redemption_2_08_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

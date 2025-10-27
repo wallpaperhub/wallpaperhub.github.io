@@ -1,0 +1,129 @@
+<title>Set Live Photos as iPhone Wallpaper in iOS 16</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="use live photo as wallpaper iphone ios 16">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/use-live-photo-as-wallpaper-iphone-ios-16">
+                            <span itemprop="name">use live photo as wallpaper iphone ios 16</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Set Live Photos as iPhone Wallpaper in iOS 16</h1>
+                <p>To use a Live Photo as wallpaper on your iPhone running iOS 16, first, open the Photos app. Find your Live Photo, tap the share icon, and select “Use as Wallpaper.” Make sure to enable "Live Photo" option before setting it. Adjust the position, then tap “Set” to apply it as your lock screen or home screen wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16.0 No Live Photo or live Wal… | Apple Developer Forums">
+                                <img itemprop="contentUrl url" src='https://developer.apple.com/forums/content/attachment/9fad6255-c4bd-4c4e-b615-f68a750a93a7' alt='iOS 16.0 No Live Photo or live Wal… | Apple Developer Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Developer Forums" />
+                                </span>
+                                <a href='https://developer.apple.com/forums/content/attachment/9fad6255-c4bd-4c4e-b615-f68a750a93a7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Put Live Wallpaper on iPhone iOS 16 | Set Live Wallpaper on ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Pfq9wIpfWtA/maxresdefault.jpg' alt='How to Put Live Wallpaper on iPhone iOS 16 | Set Live Wallpaper on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Pfq9wIpfWtA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Set Live Wallpaper On iPhone iOS 16 Live Wallpaper Apply To ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/T1VFcrKEYlk/maxresdefault.jpg' alt='How To Set Live Wallpaper On iPhone iOS 16 Live Wallpaper Apply To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/T1VFcrKEYlk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set Live Wallpaper on iPhone iOS 16 | Put Live Wallpaper on ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AvRRtOGvMPA/maxresdefault.jpg' alt='How to Set Live Wallpaper on iPhone iOS 16 | Put Live Wallpaper on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AvRRtOGvMPA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Set A Live Photo As Your iPhone Wallpaper In iOS 16?">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/can-you-set-live-photo-as-wallpaper-on-ios-16.jpg' alt='Can You Set A Live Photo As Your iPhone Wallpaper In iOS 16?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/can-you-set-live-photo-as-wallpaper-on-ios-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Live Wallpapers with iOS 16- The Mac Observer">
+                                <img itemprop="contentUrl url" src='https://www.macobserver.com/wp-content/uploads/2023/02/LiveWallpaperiOS16InTextOneFebruary2023.jpeg' alt='How to Use Live Wallpapers with iOS 16- The Mac Observer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Observer" />
+                                </span>
+                                <a href='https://www.macobserver.com/wp-content/uploads/2023/02/LiveWallpaperiOS16InTextOneFebruary2023.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use a Live Photo Wallpaper on Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.iphonelife.com/sites/iphonelife.com/files/styles/2023_iphone14pro_642_2x/public/live_photo_wallpaper_ios_17_4.jpg' alt='How to Use a Live Photo Wallpaper on Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Life" />
+                                </span>
+                                <a href='https://www.iphonelife.com/sites/iphonelife.com/files/styles/2023_iphone14pro_642_2x/public/live_photo_wallpaper_ios_17_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use a Live Photo Wallpaper on Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.iphonelife.com/sites/iphonelife.com/files/styles/2023_iphone14pro_642_2x/public/live_photo_wallpaper_ios_17_19.jpg' alt='How to Use a Live Photo Wallpaper on Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Life" />
+                                </span>
+                                <a href='https://www.iphonelife.com/sites/iphonelife.com/files/styles/2023_iphone14pro_642_2x/public/live_photo_wallpaper_ios_17_19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple REMOVE Live Wallpapers in iOS 16! [can't set / use anymore ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YRvuelOEVTE/hqdefault.jpg' alt='Apple REMOVE Live Wallpapers in iOS 16! [can't set / use anymore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YRvuelOEVTE/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16/17 Live Wallpapers Not Working? Everything Explained!">
+                                <img itemprop="contentUrl url" src='https://images.tenorshare.com/topics/ios-16/ios-16-animated-wallpaper.jpg?w=1155&h=2500' alt='iOS 16/17 Live Wallpapers Not Working? Everything Explained!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="196">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenorshare" />
+                                </span>
+                                <a href='https://images.tenorshare.com/topics/ios-16/ios-16-animated-wallpaper.jpg?w=1155&h=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

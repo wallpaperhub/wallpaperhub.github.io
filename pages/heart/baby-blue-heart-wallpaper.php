@@ -1,0 +1,129 @@
+<title>Baby Blue Heart Wallpaper: Sweet Serenity for Your Screens</title>
+                    <meta name="description" content="Discover the perfect baby blue heart wallpaper to elevate your device's look! Soft, stylish, and soothing, this wallpaper is ideal for adding a touch of love to your screens. Enjoy a serene aesthetic that is perfect for all ages. Download now and personalize your backdrop effortlessly!">
+                    <meta name="keywords" content="baby blue heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/baby-blue-heart-wallpaper">
+                            <span itemprop="name">baby blue heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Baby Blue Heart Wallpaper: Sweet Serenity for Your Screens</h1>
+                <p>Enhance your device background with charming baby blue heart wallpaper. Perfect for adding a touch of softness and love to your screens, this delightful design can inspire joy and warmth. Suitable for all ages, it makes a great choice for personalizing phones, tablets, or desktops. Embrace serenity with a gentle baby blue hue today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue aesthetic heart background – The Aesthetic Shop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/28/4e/2f/284e2fe6fb52997b18895d041942a0ab.jpg' alt='Blue aesthetic heart background – The Aesthetic Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/28/4e/2f/284e2fe6fb52997b18895d041942a0ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Blue Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/9f/7a/ed9f7aad94d99e5bf5963c35bf3c3ff9.jpg' alt='Cute Blue Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/9f/7a/ed9f7aad94d99e5bf5963c35bf3c3ff9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Heart Background in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/73922/Free-baby-blue-heart-background-1.jpg' alt='Baby Blue Heart Background in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/73922/Free-baby-blue-heart-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/7f/a0/107fa0c52430fbac927f66cf5eaffdd5.jpg' alt='Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/7f/a0/107fa0c52430fbac927f66cf5eaffdd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic background | Blue background wallpapers, Blue wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f0/65/02/f065027d817d6e7136fa7251c3cc77d5.jpg' alt='Aesthetic background | Blue background wallpapers, Blue wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f0/65/02/f065027d817d6e7136fa7251c3cc77d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Heart Background in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74116/Free-light-blue-heart-background-1.jpg' alt='Light Blue Heart Background in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74116/Free-light-blue-heart-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Pastel Blue Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/minimalist-pastel-blue-heart-lr4x5g6nng1gd8er.webp' alt='Minimalist Pastel Blue Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/minimalist-pastel-blue-heart-lr4x5g6nng1gd8er.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sky Blue Wildflower Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sky-blue-wildflower-heart-7kgizv70roggkwi0.jpg' alt='Download Sky Blue Wildflower Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sky-blue-wildflower-heart-7kgizv70roggkwi0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Love Heart Tunnel Background  Blue Heart Background corazones  blanco y negro 10 Hours">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CZoI8lWkktg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDdTgXgLeGWfCvMvTu7hf2BidbxKw' alt='Neon Lights Love Heart Tunnel Background  Blue Heart Background corazones  blanco y negro 10 Hours'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CZoI8lWkktg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDdTgXgLeGWfCvMvTu7hf2BidbxKw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="298,544 Blue Heart Pattern Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/tile-cute-pattern-hand-drawn-260nw-262724513.jpg' alt='298,544 Blue Heart Pattern Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/tile-cute-pattern-hand-drawn-260nw-262724513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

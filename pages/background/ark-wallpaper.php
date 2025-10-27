@@ -1,0 +1,129 @@
+<title>Discover Beautiful Ark Wallpaper for Kids' Rooms</title>
+                    <meta name="description" content="Shop our enchanting ark wallpaper collection! Perfect for kids' spaces, our designs bring playful adventures and vibrant colors into your home. Make your child's room magical with easy-to-apply wallpaper that sparks imagination and joy. Explore now for unique styles that stand out!">
+                    <meta name="keywords" content="ark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ark-wallpaper">
+                            <span itemprop="name">ark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Beautiful Ark Wallpaper for Kids' Rooms</h1>
+                <p>Transform your space with stunning ark wallpaper! Perfect for nurseries, playrooms, or any room that needs a splash of creativity. Featuring delightful colors and whimsical designs, these wallpapers celebrate adventure and nature, making them an ideal choice for both kids and the young at heart. Explore our charming collection today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARK Survival Evolved Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2017/03/ARK-Survival-Evolved-4K-Wall.jpg' alt='ARK Survival Evolved Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2017/03/ARK-Survival-Evolved-4K-Wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARK: Survival Evolved Keyart Launch Wallpaper : r/playark">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y3c0nfr4hpiz.jpg' alt='ARK: Survival Evolved Keyart Launch Wallpaper : r/playark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y3c0nfr4hpiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Extinction Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/955221317890612038/E8FE5AF56EDBFF5CC343DD5A7175AC60235581AB/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Community :: :: Extinction Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/955221317890612038/E8FE5AF56EDBFF5CC343DD5A7175AC60235581AB/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dino Clash - Free 4K Ultra HD Wallpaper from ARK ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/134/1341355.jpeg' alt='Download Dino Clash - Free 4K Ultra HD Wallpaper from ARK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/134/1341355.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARK: Survival Evolved wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_ark_survival_evolved_02_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' alt='ARK: Survival Evolved wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_ark_survival_evolved_02_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARK: Survival Evolved Epic Dinosaur Encounter HD Wallpaper by Wang ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/910/910352.jpg' alt='ARK: Survival Evolved Epic Dinosaur Encounter HD Wallpaper by Wang ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/910/910352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: ARK: Scorched Earth, ARK: Survival Evolved, 4K, 8K, DLC">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/90/2a/84902a5352a9351f58c42686f3582e76.jpg' alt='HD wallpaper: ARK: Scorched Earth, ARK: Survival Evolved, 4K, 8K, DLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/90/2a/84902a5352a9351f58c42686f3582e76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARK: Survival Evolved Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/d/e/1292310-3840x2160-desktop-4k-ark-survival-evolved-background-image.jpg' alt='ARK: Survival Evolved Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/d/e/1292310-3840x2160-desktop-4k-ark-survival-evolved-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Ark Wyvern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/795361929056728481/3EF1AF2A00F3424DB7B7C74D154DC9E89B46390F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: :: Ark Wyvern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/795361929056728481/3EF1AF2A00F3424DB7B7C74D154DC9E89B46390F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This one is for all the shadowmane fans out there (wallpaper ultra ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q82kow7rz7m91.jpg' alt='This one is for all the shadowmane fans out there (wallpaper ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5305">
+                                <meta itemprop="height" content="2475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q82kow7rz7m91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

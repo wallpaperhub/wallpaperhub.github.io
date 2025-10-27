@@ -1,0 +1,129 @@
+<title>Pastel Yellow: The Perfect Soft Hue for Your Space</title>
+                    <meta name="description" content="Discover the charming beauty of pastel yellow! Ideal for decor and fashion, this soft hue brings warmth and joy to any setting. Explore how to incorporate pastel yellow in your life to create inviting and stylish atmospheres. Experience its versatility today!">
+                    <meta name="keywords" content="pastel yellow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-yellow">
+                            <span itemprop="name">pastel yellow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Yellow: The Perfect Soft Hue for Your Space</h1>
+                <p>Pastel yellow is a soft and serene hue that evokes feelings of warmth and joy. Often associated with spring, it adds a gentle touch to any decor or wardrobe. This versatile color complements various shades, from deep blues to soft greens, making it perfect for accents or larger spaces. Embrace pastel yellow to brighten your surroundings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Color: Hex Code, Palettes & Meaning | Figma">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/599r6htc/regionalized/d784c4f0657a9e8ffb5d28564cf737f8c9edbe13-1440x810.png?w=1440&h=810&q=75&fit=max&auto=format' alt='Pastel Yellow Color: Hex Code, Palettes & Meaning | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/599r6htc/regionalized/d784c4f0657a9e8ffb5d28564cf737f8c9edbe13-1440x810.png?w=1440&h=810&q=75&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything about the color Pastel Yellow">
+                                <img itemprop="contentUrl url" src='https://about.canva.com/wp-content/uploads/sites/8/2019/05/pastel-yellow.png' alt='Everything about the color Pastel Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://about.canva.com/wp-content/uploads/sites/8/2019/05/pastel-yellow.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Color, Codes and Facts – HTML Color Codes">
+                                <img itemprop="contentUrl url" src='https://htmlcolorcodes.com/assets/images/colors/pastel-yellow-color-solid-background-1920x1080.png' alt='Pastel Yellow Color, Codes and Facts – HTML Color Codes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HTML Color Codes" />
+                                </span>
+                                <a href='https://htmlcolorcodes.com/assets/images/colors/pastel-yellow-color-solid-background-1920x1080.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel yellow color: hex code, shades, and design ideas - Picsart Blog">
+                                <img itemprop="contentUrl url" src='https://cdnblog.picsart.com/2021/06/pastel-yellow.jpeg' alt='Pastel yellow color: hex code, shades, and design ideas - Picsart Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picsart" />
+                                </span>
+                                <a href='https://cdnblog.picsart.com/2021/06/pastel-yellow.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butter Yellow Pastel Solid Photography Backdrop – Bubb Market">
+                                <img itemprop="contentUrl url" src='https://bubbmarket.com/cdn/shop/products/Butter_Yellow_Pastel_Solid_Backdrop_24x24_LR.jpg?v=1642780560&width=1920' alt='Butter Yellow Pastel Solid Photography Backdrop – Bubb Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bubb Market" />
+                                </span>
+                                <a href='https://bubbmarket.com/cdn/shop/products/Butter_Yellow_Pastel_Solid_Backdrop_24x24_LR.jpg?v=1642780560&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pastel - Yellow Shades Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/1026271.png' alt='Soft Pastel - Yellow Shades Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/1026271.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8.5 X 11 Pastel Yellow Sheets">
+                                <img itemprop="contentUrl url" src='https://www.sticker.com/picture_library/product_images/laser-sheets/DT-175/DT-175-PY-100_laser-inkjet-sheets-pastel-yellow-stickers-and-labels.png' alt='8.5 X 11 Pastel Yellow Sheets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sticker.com" />
+                                </span>
+                                <a href='https://www.sticker.com/picture_library/product_images/laser-sheets/DT-175/DT-175-PY-100_laser-inkjet-sheets-pastel-yellow-stickers-and-labels.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use the Pastel Yellow Colour Trend in Your Home – Bed Threads">
+                                <img itemprop="contentUrl url" src='http://bedthreads.com/cdn/shop/articles/pastel-yellow-colour-trend.jpg?v=1645421793' alt='How to Use the Pastel Yellow Colour Trend in Your Home – Bed Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Threads" />
+                                </span>
+                                <a href='http://bedthreads.com/cdn/shop/articles/pastel-yellow-colour-trend.jpg?v=1645421793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Notebook: Pastel Light Yellow Ruled Journal, 120 White Pages 8.5x11"  (Simple Composition Notebook for Girls and Women)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41UKQflKGPL._AC_UF1000,1000_QL80_.jpg' alt='Pastel Notebook: Pastel Light Yellow Ruled Journal, 120 White Pages 8.5x11"  (Simple Composition Notebook for Girls and Women)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41UKQflKGPL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow | Profiles Backstage">
+                                <img itemprop="contentUrl url" src='https://profilesbackstage.com/wp-content/uploads/2018/08/PASTYELL.png' alt='Pastel Yellow | Profiles Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Profiles Backstage" />
+                                </span>
+                                <a href='https://profilesbackstage.com/wp-content/uploads/2018/08/PASTYELL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

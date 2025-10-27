@@ -1,0 +1,129 @@
+<title>Transparent St. Patrick's Day Clipart: Festive & Fun!</title>
+                    <meta name="description" content="Discover engaging and vibrant transparent St. Patrick's Day clipart! Perfect for enhancing your holiday projects, these graphics feature festive designs such as shamrocks and leprechauns. Ideal for invitations, crafts, or digital use—celebrate in style with this must-have clipart collection!">
+                    <meta name="keywords" content="st patricks day clipart transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/st-patricks-day-clipart-transparent">
+                            <span itemprop="name">st patricks day clipart transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent St. Patrick's Day Clipart: Festive & Fun!</h1>
+                <p>St. Patrick's Day clipart transparent files are perfect for adding festive flair to your projects! Featuring shamrocks, leprechauns, and pots of gold, these graphics enhance invitations, social media posts, and crafts. Enjoy customizable designs that allow you to celebrate with style while making your creations stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Shamrock PNG Clipart Picture​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/6060' alt='St Patricks Day Shamrock PNG Clipart Picture​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2629">
+                                <meta itemprop="height" content="2797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/6060' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Shamrocks Decor PNG Clipart​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/5964' alt='St Patricks Day Shamrocks Decor PNG Clipart​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/5964' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE St. Patrick's Day Clipart (PNG file) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/03/St.-Patricks-Day-clipart-WM.png?fit=1000%2C1000&ssl=1' alt='FREE St. Patrick's Day Clipart (PNG file) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/03/St.-Patricks-Day-clipart-WM.png?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Cliparts Saint Patricks Day Shamrock Clip Art PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/32/ea/8232ea0f070d00c115bc7668f39b88ef.jpg' alt='St. Patrick's Cliparts Saint Patricks Day Shamrock Clip Art PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/32/ea/8232ea0f070d00c115bc7668f39b88ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy St Patricks Day Clipart Transparent Background, Happy St ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210309/original/pngtree-happy-st-patrick-s-day-holiday-sparkling-png-transparent-png-image_5857392.png' alt='Happy St Patricks Day Clipart Transparent Background, Happy St ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210309/original/pngtree-happy-st-patrick-s-day-holiday-sparkling-png-transparent-png-image_5857392.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor St Patrick's Day | Digital Clip Art | Transparent Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21887137/r/il/12e1c3/2264290885/il_fullxfull.2264290885_4w6m.jpg' alt='Watercolor St Patrick's Day | Digital Clip Art | Transparent Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21887137/r/il/12e1c3/2264290885/il_fullxfull.2264290885_4w6m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patrick's Day Shamrock Transparent Image​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/24758' alt='St Patrick's Day Shamrock Transparent Image​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6291">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/24758' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Background Transparent Stock Illustrations – 819 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-st-patricks-day-card-transparent-vector-illustration-209759690.jpg' alt='St Patricks Day Background Transparent Stock Illustrations – 819 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-st-patricks-day-card-transparent-vector-illustration-209759690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE St. Patrick's Day Gnome Clipart | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/02/FREE-St-Patricks-Day-Gnome-Clipart-WM.png?fit=1000%2C1001&ssl=1' alt='FREE St. Patrick's Day Gnome Clipart | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/02/FREE-St-Patricks-Day-Gnome-Clipart-WM.png?fit=1000%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240125/avj/transparent-st-patricks-day-watercolor-painting-of-shamrock-symbol-of-1710899583242.webp' alt='St Patricks Day PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240125/avj/transparent-st-patricks-day-watercolor-painting-of-shamrock-symbol-of-1710899583242.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

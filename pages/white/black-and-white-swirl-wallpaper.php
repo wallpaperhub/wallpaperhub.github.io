@@ -1,0 +1,129 @@
+<title>Elegant Black and White Swirl Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover the beauty of black and white swirl wallpaper! Perfect for enhancing your home decor, this stylish option brings modern elegance to any room. Easy to install and remove, transform your space today with our stunning designs! Ideal for both renters and homeowners. Shop now!">
+                    <meta name="keywords" content="black and white swirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-swirl-wallpaper">
+                            <span itemprop="name">black and white swirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Swirl Wallpaper for Modern Spaces</h1>
+                <p>Transform your space with stunning black and white swirl wallpaper, perfect for adding a touch of elegance to any room. This eye-catching design features dynamic swirls that create depth and movement, making it an ideal choice for modern interiors. Easy to apply and remove, it’s a stylish solution for renters and homeowners alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,800+ Black And White Swirl Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1182734257/vector/black-and-white-swirl-backgrounds.jpg?s=612x612&w=0&k=20&c=a0d2CS3ixlwJ6ykvGdgve3Abr4i_PFTmw2hwFyiPlB4=' alt='42,800+ Black And White Swirl Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1182734257/vector/black-and-white-swirl-backgrounds.jpg?s=612x612&w=0&k=20&c=a0d2CS3ixlwJ6ykvGdgve3Abr4i_PFTmw2hwFyiPlB4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, Gray, & White Swirled Cell Phone Wallpaper Digital - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25871122/r/il/a1d381/2677459675/il_570xN.2677459675_7kw4.jpg' alt='Black, Gray, & White Swirled Cell Phone Wallpaper Digital - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25871122/r/il/a1d381/2677459675/il_570xN.2677459675_7kw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black swirl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/ac/ea/aeaceacdaba41de99f0fd513377dfa28.jpg' alt='Black swirl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/ac/ea/aeaceacdaba41de99f0fd513377dfa28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Swirl Wallpaper White Stock Illustrations – 67,436 Black ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hypnotic-swirl-lines-spin-circular-motion-optical-illusion-spiral-pattern-vector-background-black-white-rotating-circles-102870827.jpg' alt='Black Swirl Wallpaper White Stock Illustrations – 67,436 Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hypnotic-swirl-lines-spin-circular-motion-optical-illusion-spiral-pattern-vector-background-black-white-rotating-circles-102870827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | 3d abstract black white background Ornamental ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-abstract-black-white-background-ornamental-flowing-swirl-shapes-wallpaper-spiral-line-art_320785-593.jpg' alt='Premium Photo | 3d abstract black white background Ornamental ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-abstract-black-white-background-ornamental-flowing-swirl-shapes-wallpaper-spiral-line-art_320785-593.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white swirl instagram story background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/21/fb/2921fb268c312d9ea37c0c0c81e411f3.jpg' alt='Black and white swirl instagram story background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/21/fb/2921fb268c312d9ea37c0c0c81e411f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Black and white swirl - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/60158/role/image/size/1500x2240/type/ft-osmr-ng1/3149933828246fc3905afd656e08ef41.webp' alt='Photo Wallpaper Black and white swirl - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/60158/role/image/size/1500x2240/type/ft-osmr-ng1/3149933828246fc3905afd656e08ef41.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Black and white swirl lines. Optical illusion background, vector">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/52/16/01/38/700_FO52160138_e91992c272842cfd16e0b24b6a08865f.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-black-and-white-swirl-lines-optical-illusion-background-vector.jpg.jpg' alt='Wall Mural Black and white swirl lines. Optical illusion background, vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/52/16/01/38/700_FO52160138_e91992c272842cfd16e0b24b6a08865f.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-black-and-white-swirl-lines-optical-illusion-background-vector.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white flat background with spiral energy swirl. Spiral ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/273/384/non_2x/black-and-white-flat-background-with-spiral-energy-swirl-spiral-tunnel-vector.jpg' alt='Black and white flat background with spiral energy swirl. Spiral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1709">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/273/384/non_2x/black-and-white-flat-background-with-spiral-energy-swirl-spiral-tunnel-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Swirl Mobile 3d Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-and-white-swirl-mobile-3d-2r7ku4su551ymxcs.jpg' alt='Black And White Swirl Mobile 3d Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-and-white-swirl-mobile-3d-2r7ku4su551ymxcs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

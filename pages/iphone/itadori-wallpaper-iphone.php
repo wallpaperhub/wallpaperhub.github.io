@@ -1,0 +1,129 @@
+<title>High-Quality Itadori Wallpapers for iPhone - Jujutsu Kaisen</title>
+                    <meta name="description" content="Discover the ultimate collection of Itadori wallpapers for your iPhone! Enhance your screen with vibrant designs and celebrate your favorite moments from Jujutsu Kaisen. Perfect for anime lovers, these wallpapers are sure to impress. Download now for a fresh new look!">
+                    <meta name="keywords" content="itadori wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/itadori-wallpaper-iphone">
+                            <span itemprop="name">itadori wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Itadori Wallpapers for iPhone - Jujutsu Kaisen</h1>
+                <p>Transform your iPhone with stunning Itadori wallpapers! Explore a variety of high-quality designs featuring your favorite character from Jujutsu Kaisen. Whether you prefer action-packed scenes or artistic interpretations, there's something for every fan. Personalize your device and showcase your love for anime every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yuji itadori iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/15/5e/5e/155e5e4001197567c90e4fa9bf62c930.jpg' alt='yuji itadori iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/15/5e/5e/155e5e4001197567c90e4fa9bf62c930.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Reflection Jujutsu Kaisen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/yuji-itadori-reflection-jujutsu-kaisen-iphone-sr4d0je7kaq11anx.jpg' alt='Yuji Itadori Reflection Jujutsu Kaisen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/yuji-itadori-reflection-jujutsu-kaisen-iphone-sr4d0je7kaq11anx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Yuji Itadori Jujutsu Kaisen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-yuji-itadori-jujutsu-kaisen-iphone-7n9117guj6wdzfqf.jpg' alt='Neon Yuji Itadori Jujutsu Kaisen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-yuji-itadori-jujutsu-kaisen-iphone-7n9117guj6wdzfqf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Yuji Itadori Wallpaper iPhone Phone 4K #5970e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/jujutsu-kaisen-yuji-itadori-597@0@e-phone-4k.jpg' alt='Jujutsu Kaisen Yuji Itadori Wallpaper iPhone Phone 4K #5970e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/jujutsu-kaisen-yuji-itadori-597@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Aesthetic Wallpaper | Anime, Cool anime pictures ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/98/f7/c398f7ed1fbcea64167ffbfecf82333d.jpg' alt='Yuji Itadori Aesthetic Wallpaper | Anime, Cool anime pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/98/f7/c398f7ed1fbcea64167ffbfecf82333d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Wallpaper 4K, Sukuna, Jujutsu Kaisen, AMOLED">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/yuji-itadori-1080x2340-9268.jpg' alt='Yuji Itadori Wallpaper 4K, Sukuna, Jujutsu Kaisen, AMOLED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/yuji-itadori-1080x2340-9268.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Jujutsu Kaisen Anime Wallpaper iPhone Phone 4K #5550e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/yuji-itadori-jujutsu-kaisen-anime-555@0@e-phone-4k.jpg' alt='Yuji Itadori Jujutsu Kaisen Anime Wallpaper iPhone Phone 4K #5550e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/yuji-itadori-jujutsu-kaisen-anime-555@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori, jujutsu, kaisen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/536/HD-wallpaper-yuji-itadori-jujutsu-kaisen.jpg' alt='Yuji Itadori, jujutsu, kaisen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/536/HD-wallpaper-yuji-itadori-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Yuji itadori wallpaper for his birthday ❤️ : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yhx7d3lqobo61.jpg' alt='Made this Yuji itadori wallpaper for his birthday ❤️ : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yhx7d3lqobo61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Itadori And Sukuna's Hand Jujutsu Kaisen Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/itadori-and-sukuna-s-hand-jujutsu-kaisen-iphone-u9syf9cg4z50z8jl.jpg' alt='Itadori And Sukuna's Hand Jujutsu Kaisen Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/itadori-and-sukuna-s-hand-jujutsu-kaisen-iphone-u9syf9cg4z50z8jl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Instagram Story Backgrounds</title>
+                    <meta name="description" content="Discover the best Halloween Instagram story backgrounds to enchant your followers! Enhance your social media presence with creative and spooky designs perfect for the season. Stand out from the crowd and make your Halloween posts unforgettable with eye-catching visuals! Perfect for any device.">
+                    <meta name="keywords" content="halloween instagram story background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-instagram-story-background">
+                            <span itemprop="name">halloween instagram story background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Instagram Story Backgrounds</h1>
+                <p>Elevate your Halloween Instagram stories with stunning, thematic backgrounds! From spooky haunted houses to vibrant pumpkins and eerie moonlit skies, the perfect backdrop sets the mood for your festive posts. Choose captivating designs that bring out the Halloween spirit and engage your followers like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 13 - Free and customizable spooky templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGTLiDEhR0/1/0/900w/canva-orange-and-black-illustrative-halloween-background-your-story-e88Zv2LO4k4.jpg' alt='Page 13 - Free and customizable spooky templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGTLiDEhR0/1/0/900w/canva-orange-and-black-illustrative-halloween-background-your-story-e88Zv2LO4k4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin instagram story wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/26/fb/9626fbc8d2e8fdae31ff12eaeb1c7c56.jpg' alt='Pumpkin instagram story wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/26/fb/9626fbc8d2e8fdae31ff12eaeb1c7c56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween backgrounds, ig stories, wallpaper, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/85/fe/9d85fe27637bd1453b912c9239e31e6b.jpg' alt='Halloween backgrounds, ig stories, wallpaper, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/85/fe/9d85fe27637bd1453b912c9239e31e6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 21 - Free custom Halloween Instagram Story templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGTieY5UYM/1/0/900w/canva-purple-and-black-illustrative-halloween-background-your-story-Xbt3bB6iETA.jpg' alt='Page 21 - Free custom Halloween Instagram Story templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGTieY5UYM/1/0/900w/canva-purple-and-black-illustrative-halloween-background-your-story-Xbt3bB6iETA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram Story Halloween Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1tdC0wMDMtc3RvcnktMS5qcGc.jpg' alt='Instagram Story Halloween Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1tdC0wMDMtc3RvcnktMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free cute fall October wallpapers - Vanity Owl">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/vanityowl.com/wp-content/uploads/2021/09/Halloween-October-Fall-autumn-screensaver-wallpaper-Instagram-story.png?resize=1080%2C1920&ssl=1' alt='Free cute fall October wallpapers - Vanity Owl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Owl" />
+                                </span>
+                                <a href='https://i0.wp.com/vanityowl.com/wp-content/uploads/2021/09/Halloween-October-Fall-autumn-screensaver-wallpaper-Instagram-story.png?resize=1080%2C1920&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween background for Instagram stories templates in retro ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2XP6723/halloween-background-for-instagram-stories-templates-in-retro-style-social-media-seamless-pattern-with-groovy-character-pumpkin-vector-illustration-with-empty-space-2XP6723.jpg' alt='Halloween background for Instagram stories templates in retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2XP6723/halloween-background-for-instagram-stories-templates-in-retro-style-social-media-seamless-pattern-with-groovy-character-pumpkin-vector-illustration-with-empty-space-2XP6723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram Stories Clipart Hd PNG, Halloween Instagram Story Border ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210620/original/pngtree-halloween-instagram-story-border-png-image_6448507.jpg' alt='Instagram Stories Clipart Hd PNG, Halloween Instagram Story Border ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210620/original/pngtree-halloween-instagram-story-border-png-image_6448507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Themed Instagram Templates and Graphics">
+                                <img itemprop="contentUrl url" src='https://www.thelifeofaglasgowgirl.co.uk/wp-content/uploads/2019/10/20190920_193015_0000-576x1024.png' alt='Free Halloween Themed Instagram Templates and Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ofaglasgowgirl" />
+                                </span>
+                                <a href='https://www.thelifeofaglasgowgirl.co.uk/wp-content/uploads/2019/10/20190920_193015_0000-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Instagram Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9790754.jpg' alt='Halloween Instagram Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9790754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

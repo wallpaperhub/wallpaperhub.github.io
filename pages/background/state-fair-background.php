@@ -1,0 +1,129 @@
+<title>Experience the Magic of State Fairs</title>
+                    <meta name="description" content="Discover the vibrant history and tradition of state fairs, where community spirit comes alive through agriculture, entertainment, and local culture. Uncover fun rides, delicious food, and unique crafts that celebrate regional heritage in one exciting event. Join the festivities today!">
+                    <meta name="keywords" content="state fair background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/state-fair-background">
+                            <span itemprop="name">state fair background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Magic of State Fairs</h1>
+                <p>State fairs have a rich history, originating in the early 19th century as agricultural exhibitions. They showcase local produce, crafts, and livestock, fostering community spirit. Over time, they evolved to include rides, games, and entertainment, becoming a celebration of regional culture, innovation, and heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Fair Ferris Wheel Images – Browse 2,050 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/74/29/93/360_F_474299392_3hHdOlVZiowNTZWK9atT8fQlzN0VLbK1.jpg' alt='State Fair Ferris Wheel Images – Browse 2,050 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/74/29/93/360_F_474299392_3hHdOlVZiowNTZWK9atT8fQlzN0VLbK1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,100+ State Fair Midway Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1008794422/photo/arizona-state-fair.jpg?s=612x612&w=0&k=20&c=cp3BQL7Qg5H1vdHRcBR7cdNRlvJQSGMx60q_5ZbqEug=' alt='2,100+ State Fair Midway Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1008794422/photo/arizona-state-fair.jpg?s=612x612&w=0&k=20&c=cp3BQL7Qg5H1vdHRcBR7cdNRlvJQSGMx60q_5ZbqEug=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Fair Background Images – Browse 11,718 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/16/80/32/360_F_716803275_dupPSDg2JkWTt8WUOby8LvxLmlhILZ2W.jpg' alt='State Fair Background Images – Browse 11,718 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/16/80/32/360_F_716803275_dupPSDg2JkWTt8WUOby8LvxLmlhILZ2W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="195,800+ State Fair Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1320998575/photo/ferris-wheel-at-sunset-with-electric-lights-and-carnival-games-and-rides-in-image-purple-and.jpg?s=612x612&w=0&k=20&c=U6uH0KbUwOKYHfmZEpYzsUIpN5SV1GGN_5u3hpcPaHY=' alt='195,800+ State Fair Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1320998575/photo/ferris-wheel-at-sunset-with-electric-lights-and-carnival-games-and-rides-in-image-purple-and.jpg?s=612x612&w=0&k=20&c=U6uH0KbUwOKYHfmZEpYzsUIpN5SV1GGN_5u3hpcPaHY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Fair Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1695802467626-e7e781c8a6bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3RhdGUlMjBmYWlyfGVufDB8fDB8fHww' alt='State Fair Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1695802467626-e7e781c8a6bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3RhdGUlMjBmYWlyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State fair   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/54/bc/ed54bc09f315cd5931730f4831b3f137.jpg' alt='State fair   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/54/bc/ed54bc09f315cd5931730f4831b3f137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pictures Of State Fair Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230516/pngtree-an-amusement-park-at-a-county-fair-at-sunset-image_2577077.jpg' alt='Pictures Of State Fair Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230516/pngtree-an-amusement-park-at-a-county-fair-at-sunset-image_2577077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minnesota State Fair Painting Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minnesota-state-fair-painting-z7nqu51h0pjpmz5w.jpg' alt='Download Minnesota State Fair Painting Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minnesota-state-fair-painting-z7nqu51h0pjpmz5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Texas State Fair Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1256177038/photo/entrance-to-the-state-fair-of-texas.jpg?s=612x612&w=0&k=20&c=Hg2zzMtVXIEV5SABAyC9ATfSI5O8bBxCVf73Z5ieNQQ=' alt='40+ Texas State Fair Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1256177038/photo/entrance-to-the-state-fair-of-texas.jpg?s=612x612&w=0&k=20&c=Hg2zzMtVXIEV5SABAyC9ATfSI5O8bBxCVf73Z5ieNQQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Minnesota State Fair Rides Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/598086714/photo/minnesota-state-fair-midway-farris-wheel-at-dusk.jpg?s=612x612&w=0&k=20&c=xiFC5yFDOgvIneIYlxtwLljjFU6CH5HnIyrY_R33hc8=' alt='200+ Minnesota State Fair Rides Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/598086714/photo/minnesota-state-fair-midway-farris-wheel-at-dusk.jpg?s=612x612&w=0&k=20&c=xiFC5yFDOgvIneIYlxtwLljjFU6CH5HnIyrY_R33hc8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

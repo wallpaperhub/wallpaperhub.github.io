@@ -1,0 +1,129 @@
+<title>Blue and Gold Star Wallpaper: Elegant Design for Your Home</title>
+                    <meta name="description" content="Add a touch of elegance to your walls with our blue and gold star wallpaper. Ideal for any room, this design features stunning navy blue and shimmering gold that enhances your decor. Perfect for bedrooms and nurseries, it creates an enchanting atmosphere in a concise and stylish way.">
+                    <meta name="keywords" content="blue and gold star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/blue-and-gold-star-wallpaper">
+                            <span itemprop="name">blue and gold star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue and Gold Star Wallpaper: Elegant Design for Your Home</h1>
+                <p>Transform your space with captivating blue and gold star wallpaper. Perfect for adding a touch of elegance to any room, this stunning design combines rich navy blue hues with shimmering gold accents, creating a starry atmosphere. Ideal for bedrooms, nurseries, or playrooms, it invites imagination and style into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Gold Stars Images – Browse 568,455 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/64/88/57/360_F_164885713_T6ZDs4PECX8lnMOFEFIWmnzGK2DHwLdF.jpg' alt='Blue And Gold Stars Images – Browse 568,455 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/64/88/57/360_F_164885713_T6ZDs4PECX8lnMOFEFIWmnzGK2DHwLdF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ERIN & BEN CO. Navy and Metallic Gold Star Splendor Paper Peel and Stick  Matte Wallpaper PSW1451RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/511a617a-31d6-4308-bb88-e6f8ce8f9f05/svn/erin-ben-co-wallpaper-rolls-psw1451rl-64_600.jpg' alt='ERIN & BEN CO. Navy and Metallic Gold Star Splendor Paper Peel and Stick  Matte Wallpaper PSW1451RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/511a617a-31d6-4308-bb88-e6f8ce8f9f05/svn/erin-ben-co-wallpaper-rolls-psw1451rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Gold / Navy">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Gold-on-Navy_design_011bc9b6-ff93-4409-90b2-2d6f4db48c6f.jpg?v=1633377787' alt=''Star' Wallpaper by Clare V. - Gold / Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Gold-on-Navy_design_011bc9b6-ff93-4409-90b2-2d6f4db48c6f.jpg?v=1633377787' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Gold Stars Images – Browse 568,455 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/52/27/28/360_F_852272880_x0LRgp4RVpbglMsMuOsVt8C4purqpOx4.jpg' alt='Blue And Gold Stars Images – Browse 568,455 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/52/27/28/360_F_852272880_x0LRgp4RVpbglMsMuOsVt8C4purqpOx4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Stars On Blue Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7998706/p/f/l/SLb3GQHDe2wzp0S-HY3xKIkH8csdTrUgEO1hr5C29iAq6CmZY5w/gold%20stars%20on%20blue%20wonder%20woman%20patriotic%20usa%20america.jpg' alt='Gold Stars On Blue Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7998706/p/f/l/SLb3GQHDe2wzp0S-HY3xKIkH8csdTrUgEO1hr5C29iAq6CmZY5w/gold%20stars%20on%20blue%20wonder%20woman%20patriotic%20usa%20america.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Blue Background Gold Stars Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/497854988/vector/background-with-stars.jpg?s=612x612&w=0&k=20&c=zvUQhIVV_I61f999RMv9GP_OkNQomFnayHneWtYGb8c=' alt='1,100+ Blue Background Gold Stars Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/497854988/vector/background-with-stars.jpg?s=612x612&w=0&k=20&c=zvUQhIVV_I61f999RMv9GP_OkNQomFnayHneWtYGb8c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wallpaper Blue Gold Images – Browse 143,550 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/82/04/99/360_F_282049926_iNSc8OlEN7n738z5Eg1nEeNUVbZVii9H.jpg' alt='Star Wallpaper Blue Gold Images – Browse 143,550 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/82/04/99/360_F_282049926_iNSc8OlEN7n738z5Eg1nEeNUVbZVii9H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars">
+                                <img itemprop="contentUrl url" src='http://www.walnutwallpaper.com/cdn/shop/products/103-3017_207ca5fe-4773-4e5a-91ac-13ffd5859ba5.jpg?v=1599781943' alt='Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walnut Wallpaper" />
+                                </span>
+                                <a href='http://www.walnutwallpaper.com/cdn/shop/products/103-3017_207ca5fe-4773-4e5a-91ac-13ffd5859ba5.jpg?v=1599781943' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Gold Stars Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/035/926/906/small_2x/ai-generated-golden-stars-on-blue-background-with-lighting-effect-and-sparkle-photo.jpg' alt='Blue And Gold Stars Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/035/926/906/small_2x/ai-generated-golden-stars-on-blue-background-with-lighting-effect-and-sparkle-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A starry sky blue and gold wallpaper that is whimsical and cute ...">
+                                <img itemprop="contentUrl url" src='https://img-musesai.163264.com/pic/202406/6s3wuzfjoxx7.jpg' alt='A starry sky blue and gold wallpaper that is whimsical and cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="musesai.io" />
+                                </span>
+                                <a href='https://img-musesai.163264.com/pic/202406/6s3wuzfjoxx7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

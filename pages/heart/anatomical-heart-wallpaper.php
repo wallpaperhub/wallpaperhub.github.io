@@ -1,0 +1,129 @@
+<title>Anatomical Heart Wallpaper | Unique & Artistic Decor</title>
+                    <meta name="description" content="Discover stunning anatomical heart wallpaper to elevate your decor! Perfect for medical lovers and art aficionados, this unique design adds character to any space. Shop now for a creative touch in your home or office!">
+                    <meta name="keywords" content="anatomical heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/anatomical-heart-wallpaper">
+                            <span itemprop="name">anatomical heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anatomical Heart Wallpaper | Unique & Artistic Decor</h1>
+                <p>Transform your space with anatomical heart wallpaper that beautifully blends art and science. This unique design captures the intricate details of the heart, making it perfect for medical enthusiasts, artists, or anyone wanting to add a touch of creativity to their environment. Ideal for homes, offices, or studios, it infuses life into any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Human Heart - Anatomical Rendering on Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/0e/2e/830e2e0b06d76d3063bd2ff11c0eee82.jpg' alt='Free Stock Photo of Human Heart - Anatomical Rendering on Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/0e/2e/830e2e0b06d76d3063bd2ff11c0eee82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Illuminated Human Heart Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/7/4/b749e057-db41-42f2-8fec-ffcd6c95b6ea_large/illuminated-human-heart-stockcake.jpg' alt='Free Illuminated Human Heart Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/7/4/b749e057-db41-42f2-8fec-ffcd6c95b6ea_large/illuminated-human-heart-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Black Heart Aesthetic Anatomy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-and-black-heart-aesthetic-anatomy-1kjbq68ka1ttduca.jpg' alt='White And Black Heart Aesthetic Anatomy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1743">
+                                <meta itemprop="height" content="1743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-and-black-heart-aesthetic-anatomy-1kjbq68ka1ttduca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Human Heart Wallpaper Stock Illustrations – 5,966 Human Heart ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/detailed-depiction-translucent-d-human-heart-intricate-veins-chambers-visible-against-deep-blue-background-adorned-344241252.jpg' alt='Human Heart Wallpaper Stock Illustrations – 5,966 Human Heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/detailed-depiction-translucent-d-human-heart-intricate-veins-chambers-visible-against-deep-blue-background-adorned-344241252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomical Heart wallpaper by CoffeeMoogle - Download on ZEDGE™ | 7ac7">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=4JWhJs0rdkXi2NJvDZJJcoNOjK8Z3aB0HFXOWl0drZkDNhKQgCzwMWEilO8oQyGwRrONakSAuHHZs5E0Ei6NrzC6Mkw2EltdTL37kxu_6d8fYb1V4UrFEW4N4FfHP2opgN7J5NLZpxWfbH_kJTwT668OIYIjwJRk95et9hpxzbELOzk3UX9z_-h_ypeQgF85GqYTtS74BLhjeSTfR302Dr0bBvN2DdTHmwgJrQ' alt='Anatomical Heart wallpaper by CoffeeMoogle - Download on ZEDGE™ | 7ac7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=4JWhJs0rdkXi2NJvDZJJcoNOjK8Z3aB0HFXOWl0drZkDNhKQgCzwMWEilO8oQyGwRrONakSAuHHZs5E0Ei6NrzC6Mkw2EltdTL37kxu_6d8fYb1V4UrFEW4N4FfHP2opgN7J5NLZpxWfbH_kJTwT668OIYIjwJRk95et9hpxzbELOzk3UX9z_-h_ypeQgF85GqYTtS74BLhjeSTfR302Dr0bBvN2DdTHmwgJrQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper - Dana's Ko-fi Shop">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/cfd101f5-af97-4dfe-983c-0307343b9616_anatomikcompcolor.jpg' alt='Heart Wallpaper - Dana's Ko-fi Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/cfd101f5-af97-4dfe-983c-0307343b9616_anatomikcompcolor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Human Heart - Anatomical Rendering on Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/55/36/46/55364671aae1886ea4568293dd576716.jpg' alt='Free Stock Photo of Human Heart - Anatomical Rendering on Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/55/36/46/55364671aae1886ea4568293dd576716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Human Heart - Anatomical Rendering - Free Stock Photo by Jack ...">
+                                <img itemprop="contentUrl url" src='https://www.stockvault.net/data/2017/01/23/221160/preview16.jpg' alt='Human Heart - Anatomical Rendering - Free Stock Photo by Jack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockVault" />
+                                </span>
+                                <a href='https://www.stockvault.net/data/2017/01/23/221160/preview16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Human Heart Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/840/427/small/human-heart-with-cardiogram-for-medical-heart-health-care-background-ai-generative-free-photo.jpg' alt='Human Heart Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/840/427/small/human-heart-with-cardiogram-for-medical-heart-health-care-background-ai-generative-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anatomical heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/866/1008/HD-wallpaper-medical-heart-anatomical-black-heart-medical-red.jpg' alt='HD anatomical heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/866/1008/HD-wallpaper-medical-heart-anatomical-black-heart-medical-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Textured White Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Discover the beauty of textured white wallpaper that adds depth and sophistication to your home. Ideal for any room, this stylish wallpaper enhances decor while maintaining a fresh appearance. Elevate your interior design with our exquisite selection of textured white wallpaper today!">
+                    <meta name="keywords" content="textured white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/textured-white-wallpaper">
+                            <span itemprop="name">textured white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Textured White Wallpaper for Modern Interiors</h1>
+                <p>Textured white wallpaper combines elegance with versatility, making it a popular choice for modern interiors. Its subtle patterns add depth and character to any room while keeping a fresh, clean look. Perfect for living spaces, bedrooms, or offices, this wallpaper enhances lighting and can complement various decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Textured White Abstract Vinyl Pre-Pasted Paintable Wallpaper Roll  (Covers 56 Sq. Ft.) 48905 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/fe4fca02-eb98-4db4-9f53-e50ca529bf39/svn/norwall-wallpaper-rolls-48905-64_1000.jpg' alt='Norwall Textured White Abstract Vinyl Pre-Pasted Paintable Wallpaper Roll  (Covers 56 Sq. Ft.) 48905 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/fe4fca02-eb98-4db4-9f53-e50ca529bf39/svn/norwall-wallpaper-rolls-48905-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Prisms Vertical Stria Textured Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-prisms-vertical-stria-textured-wa-zaao-l.jpg' alt='White Prisms Vertical Stria Textured Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-prisms-vertical-stria-textured-wa-zaao-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="W2ME19 | Merino Pure White Heavy Textured Basketweave Commercial Vinyl  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.commercialwalldecor.com/Images/product/merino-pure-white-xxcy-l.jpg' alt='W2ME19 | Merino Pure White Heavy Textured Basketweave Commercial Vinyl  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Commercial Wall Decor" />
+                                </span>
+                                <a href='https://www.commercialwalldecor.com/Images/product/merino-pure-white-xxcy-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Plain Textured Wallpaper R7938">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/WhitePlainTexturedWallpaperR7938.jpg?v=1736261309&width=1200' alt='White Plain Textured Wallpaper R7938'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/WhitePlainTexturedWallpaperR7938.jpg?v=1736261309&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Antoni White Vertical Plaster Paintable Vinyl Non-Pasted Textured  Wallpaper 4000-2409-10">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/117891b9-e50f-45e4-87c1-521245f26392/svn/brewster-wallpaper-rolls-4000-2409-10-64_600.jpg' alt='Brewster Antoni White Vertical Plaster Paintable Vinyl Non-Pasted Textured  Wallpaper 4000-2409-10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/117891b9-e50f-45e4-87c1-521245f26392/svn/brewster-wallpaper-rolls-4000-2409-10-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmering White Textured Spot Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/shimmering-white-textured-spot-wallpape-oyei-l.jpg' alt='Shimmering White Textured Spot Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/shimmering-white-textured-spot-wallpape-oyei-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster 400096299 Stinson White Stucco Texture Paintable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/228912.jpg' alt='Brewster 400096299 Stinson White Stucco Texture Paintable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/228912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LACHEERY White Textured Wallpaper Peel and Stick Modern Fabric Wallpaper  Peel and Stick Textured Contact Paper for Cabinets and Drawers Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media-library-service-media/831ac766-e858-4c8a-9132-2341197c2c84.__CR0,200,1600,1200_PT0_SX600_V1___.jpg' alt='LACHEERY White Textured Wallpaper Peel and Stick Modern Fabric Wallpaper  Peel and Stick Textured Contact Paper for Cabinets and Drawers Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media-library-service-media/831ac766-e858-4c8a-9132-2341197c2c84.__CR0,200,1600,1200_PT0_SX600_V1___.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richmond White Paintable Wallpaper Blown Vinyl Textured Embossed Belgravia">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/h40AAOSwLJ9aDFy6/s-l1200.jpg' alt='Richmond White Paintable Wallpaper Blown Vinyl Textured Embossed Belgravia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/h40AAOSwLJ9aDFy6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White textured wallpaper - fibre pattern & fabric look | A.S.">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/e8/1b/bc/1735978139/55972405262fe1b1e1185ba43ef01bd6.jpg' alt='White textured wallpaper - fibre pattern & fabric look | A.S.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/e8/1b/bc/1735978139/55972405262fe1b1e1185ba43ef01bd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

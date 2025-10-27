@@ -1,0 +1,129 @@
+<title>Stylish Minimalist Wallpapers for a Modern Touch</title>
+                    <meta name="description" content="Discover the beauty of minimalist wallpaper designs! Perfect for creating a tranquil atmosphere in any room, our collection features clean lines and subtle hues that complement modern decor. Elevate your space effortlessly with these stylish wallpapers, designed for simplicity and elegance.">
+                    <meta name="keywords" content="minimalist wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minimalist-wallpaper">
+                            <span itemprop="name">minimalist wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Minimalist Wallpapers for a Modern Touch</h1>
+                <p>Minimalist wallpaper can transform any space into a serene haven. With clean lines, subtle colors, and simple designs, these wallpapers create an ambiance that fosters calm and focus. Perfect for modern interiors, they’re versatile enough to enhance living rooms, bedrooms, or workspaces, allowing other elements to shine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple And Minimalist Wallpaper | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/91367fad-909c-4817-b0fd-e7696ae36b63/thumbnail' alt='Simple And Minimalist Wallpaper | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1206">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/91367fad-909c-4817-b0fd-e7696ae36b63/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Wallpapers (85 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/9/7/2112823-3840x2160-desktop-4k-minimalist-wallpaper-image.jpg' alt='Minimalist Wallpapers (85 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/9/7/2112823-3840x2160-desktop-4k-minimalist-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I loved the light minimalist wallpaper, so i inverted it for Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3wvhdg4awgcd1.png' alt='I loved the light minimalist wallpaper, so i inverted it for Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3wvhdg4awgcd1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Wallpapers (85 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/9/1/2113259-3840x2160-desktop-4k-minimalist-wallpaper-photo.jpg' alt='Minimalist Wallpapers (85 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/9/1/2113259-3840x2160-desktop-4k-minimalist-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 15 Minimalist Wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/10/cc/9b10cc2b071c4d26ced93c49cf9f9222.jpg' alt='Top 15 Minimalist Wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/10/cc/9b10cc2b071c4d26ced93c49cf9f9222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Minimalist iPhone Wallpaper & HD Picture Ideas for 2024">
+                                <img itemprop="contentUrl url" src='https://theminimalistvegan.com/wp-content/uploads/2024/01/Glacier-Minimalist-Wallpaper-img24.png' alt='30 Minimalist iPhone Wallpaper & HD Picture Ideas for 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Minimalist Vegan" />
+                                </span>
+                                <a href='https://theminimalistvegan.com/wp-content/uploads/2024/01/Glacier-Minimalist-Wallpaper-img24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iceberg Minimalist Wallpaper, HD Minimalist 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/iceberg-minimalist_a2pnaGmUmZqaraWkpJRsa21lrWloZ2U.jpg' alt='Iceberg Minimalist Wallpaper, HD Minimalist 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/iceberg-minimalist_a2pnaGmUmZqaraWkpJRsa21lrWloZ2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic minimalist 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/c7/d1/b3c7d116ebb295b19708c7391973b5b9.jpg' alt='Aesthetic minimalist 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/c7/d1/b3c7d116ebb295b19708c7391973b5b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Minimalist Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-flower-pots-j793ekqt0iue1qs4.jpg' alt='100+] Aesthetic Minimalist Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-flower-pots-j793ekqt0iue1qs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamscape: An Artistic Minimalist HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/438/thumb-1920-438463.png' alt='Dreamscape: An Artistic Minimalist HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/438/thumb-1920-438463.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Slides for Fun & Frights!</title>
+                    <meta name="description" content="Discover the ultimate Halloween slides that blend fright and fun! Perfect for parties, classrooms, or events. Engage your audience with captivating visuals and spooky themes while celebrating the Halloween spirit. Make your event memorable with our creatively designed slides!">
+                    <meta name="keywords" content="halloween slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-slides">
+                            <span itemprop="name">halloween slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Slides for Fun & Frights!</h1>
+                <p>Halloween slides are the perfect way to bring spookiness and fun to any gathering! Whether it’s for a classroom, party, or event, these slides can feature thrilling graphics, eerie colors, and engaging animations. Use them to create a festive atmosphere while sharing spooky stories or Halloween trivia that guests will love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/32883075/0-halloween-themed-lesson.jpg' alt='Free Halloween Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/32883075/0-halloween-themed-lesson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2022/07/Free-Halloween-Google-Slides-Template-Title-Slide-jpg.webp' alt='Free Halloween Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2022/07/Free-Halloween-Google-Slides-Template-Title-Slide-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Google Slides Theme and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/19530204/conversions/0-halloween-thumb.jpg' alt='Halloween Google Slides Theme and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/19530204/conversions/0-halloween-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Theme PowerPoint Template - SlideModel">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/FF00149-01-halloween-powerpoint-template-16x9-2.jpg' alt='Halloween Theme PowerPoint Template - SlideModel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/FF00149-01-halloween-powerpoint-template-16x9-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Google Slides Halloween PowerPoint Background">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2022/09/Scary-Pumpkin-Background.jpg' alt='Free Google Slides Halloween PowerPoint Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2022/09/Scary-Pumpkin-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/25491409/spooky-season-halloween-pumpkins-carving-workshop1664464191.jpg' alt='Free Halloween Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/25491409/spooky-season-halloween-pumpkins-carving-workshop1664464191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween template for PowerPoint, Google Slides and Keynote ...">
+                                <img itemprop="contentUrl url" src='https://hislide.io/wp-content/uploads/2023/01/00-Halloween-template-for-PowerPoint-Google-Slides-and-Keynote.jpg' alt='Halloween template for PowerPoint, Google Slides and Keynote ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HiSlide.io" />
+                                </span>
+                                <a href='https://hislide.io/wp-content/uploads/2023/01/00-Halloween-template-for-PowerPoint-Google-Slides-and-Keynote.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Spooky Slide Background">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/2024/10/Spooky-Slide-Background-0944-scaled.jpg' alt='Purple Spooky Slide Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/2024/10/Spooky-Slide-Background-0944-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Spooky Halloween PowerPoint Templates & Google Slides Themes ...">
+                                <img itemprop="contentUrl url" src='https://www.slidescarnival.com/wp-content/uploads/Scary-Halloween-Background-Slides-1.jpg' alt='Free Spooky Halloween PowerPoint Templates & Google Slides Themes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCarnival" />
+                                </span>
+                                <a href='https://www.slidescarnival.com/wp-content/uploads/Scary-Halloween-Background-Slides-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick or Treat, Halloween slides backgrounds. - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/10/trick-or-treat.jpg' alt='Trick or Treat, Halloween slides backgrounds. - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/10/trick-or-treat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

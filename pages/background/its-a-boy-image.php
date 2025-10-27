@@ -1,0 +1,129 @@
+<title>Joyful "It's a Boy" Announcement Images</title>
+                    <meta name="description" content="Discover charming "It's a Boy" images to celebrate your baby boy's arrival. Perfect for announcements, social media shares, and more, these eye-catching designs express your joy and excitement. Share the love with friends and family today!">
+                    <meta name="keywords" content="its a boy image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/its-a-boy-image">
+                            <span itemprop="name">its a boy image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joyful "It's a Boy" Announcement Images</h1>
+                <p>Celebrate the arrival of your little one with a joyful "It's a Boy" image! Perfect for sharing on social media or as part of your baby announcement, these images capture the excitement and love surrounding your new baby boy. Bright colors and cute designs make these images a delightful way to share your happiness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's a boy! SVG PNG Files for cutting machines, digital clipart, pregnancy  announcement, gender reveal, baby shower">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16511586/r/il/d9edda/5043671174/il_340x270.5043671174_el98.jpg' alt='It's a boy! SVG PNG Files for cutting machines, digital clipart, pregnancy  announcement, gender reveal, baby shower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16511586/r/il/d9edda/5043671174/il_340x270.5043671174_el98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,100+ Its A Boy Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/ed/4c/daed4c1bff7e848aa2df8e6b9e9a01c7.jpg' alt='2,100+ Its A Boy Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/ed/4c/daed4c1bff7e848aa2df8e6b9e9a01c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="870+ Congratulations Its A Boy Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/497509667/photo/baby-boy-birthday-greeting-card.jpg?s=612x612&w=0&k=20&c=LAD9y0WXUlTxAA8h6uL_i3YcFmU8-Je4rBkECOPAVqc=' alt='870+ Congratulations Its A Boy Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/497509667/photo/baby-boy-birthday-greeting-card.jpg?s=612x612&w=0&k=20&c=LAD9y0WXUlTxAA8h6uL_i3YcFmU8-Je4rBkECOPAVqc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's a Boy digital download file svg eps jpg pdf">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13414318/r/il/b8115f/4201835467/il_fullxfull.4201835467_dd3l.jpg' alt='It's a Boy digital download file svg eps jpg pdf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1843">
+                                <meta itemprop="height" content="2693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13414318/r/il/b8115f/4201835467/il_fullxfull.4201835467_dd3l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its A Boy Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/253/502/non_2x/baby-shower-3d-space-banner-poster-on-baby-shower-in-render-style-lettering-it-s-a-boy-in-3-d-style-vector.jpg' alt='Its A Boy Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/253/502/non_2x/baby-shower-3d-space-banner-poster-on-baby-shower-in-render-style-lettering-it-s-a-boy-in-3-d-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120-1" It's a Boy Stickers, Baby Shower Stickers (#372-B)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Mx+Bo7PSL._UF894,1000_QL80_.jpg' alt='120-1" It's a Boy Stickers, Baby Shower Stickers (#372-B)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Mx+Bo7PSL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Its A Boy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1298106900/vector/its-a-boy-newborn-greeting-lettering-with-crown.jpg?s=612x612&w=0&k=20&c=mPhgLUIctALidWmsAJnPA68CCvUD-B0DNllAOBOcs0A=' alt='3,900+ Its A Boy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1298106900/vector/its-a-boy-newborn-greeting-lettering-with-crown.jpg?s=612x612&w=0&k=20&c=mPhgLUIctALidWmsAJnPA68CCvUD-B0DNllAOBOcs0A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its A Boy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/baby-shower-boy_23-2148461131.jpg' alt='Its A Boy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/baby-shower-boy_23-2148461131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is A Boy Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/185/514/non_2x/baby-svg-bundle-free-vector.jpg' alt='It Is A Boy Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/185/514/non_2x/baby-svg-bundle-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Its A Boy Sign Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1463588748/vector/its-a-boy-baby-shower-invitation-blue-card-with-balloons-shaped-as-rainbow-star-and-moon.jpg?s=612x612&w=0&k=20&c=ujUcM-rwl09fjw-Zb3zhevMQ0Pt0N9yGrLuLiCLzVtE=' alt='1,000+ Its A Boy Sign Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1463588748/vector/its-a-boy-baby-shower-invitation-blue-card-with-balloons-shaped-as-rainbow-star-and-moon.jpg?s=612x612&w=0&k=20&c=ujUcM-rwl09fjw-Zb3zhevMQ0Pt0N9yGrLuLiCLzVtE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

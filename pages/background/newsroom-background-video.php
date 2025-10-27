@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="newsroom background video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/newsroom-background-video">
+                            <span itemprop="name">newsroom background video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D virtual news studio with news background Loop 4k">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/87/95/39/360_F_387953928_skv09kXUP4ImlReQJGtRohqZ8kFZ2Ndk.jpg' alt='3D virtual news studio with news background Loop 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/87/95/39/360_F_387953928_skv09kXUP4ImlReQJGtRohqZ8kFZ2Ndk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d tv virtual studio backgrounds HD 1080">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/94/07/55/360_F_294075552_lTV8twpp9yqFzaxwwnyX2kUomgRj0eic.jpg' alt='3d tv virtual studio backgrounds HD 1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/94/07/55/360_F_294075552_lTV8twpp9yqFzaxwwnyX2kUomgRj0eic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="free virtual newsroom set background video in hd HD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uBBopmS498E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0dkYOpY_C0-KcEIU4V9oQsE7L5Q' alt='free virtual newsroom set background video in hd HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uBBopmS498E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0dkYOpY_C0-KcEIU4V9oQsE7L5Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D rendering background is perfect for any type of news or information  presentation. The background features a stylish and clean layout">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/02/83/53/360_F_302835383_jfNSp3TUqlLukMyKAyGOxKTkD9P1Wlh5.jpg' alt='3D rendering background is perfect for any type of news or information  presentation. The background features a stylish and clean layout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/02/83/53/360_F_302835383_jfNSp3TUqlLukMyKAyGOxKTkD9P1Wlh5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual News Studio Set Green Screen stock video 1344380588">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1344380588/video/virtual-news-studio-set-green-screen.jpg?s=640x640&k=20&c=KijTUMeiH6ts8jExJoQqiHfT9DgRSh7trPmV7J7UT3c=' alt='Virtual News Studio Set Green Screen stock video 1344380588'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1344380588/video/virtual-news-studio-set-green-screen.jpg?s=640x640&k=20&c=KijTUMeiH6ts8jExJoQqiHfT9DgRSh7trPmV7J7UT3c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Virtual TV Studio News with green screen, 3D Rendering">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/774/043/small_2x/3d-virtual-tv-studio-news-with-green-screen-3d-rendering-free-video.jpg' alt='3D Virtual TV Studio News with green screen, 3D Rendering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/774/043/small_2x/3d-virtual-tv-studio-news-with-green-screen-3d-rendering-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/654/517/small_2x/3d-virtual-tv-studio-news-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-loop-video.jpg' alt='3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/654/517/small_2x/3d-virtual-tv-studio-news-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-loop-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Studio, Backdrop For TV Shows .TV On Wall.3D Virtual News Studio  Background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/654/515/small_2x/news-studio-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-video.jpg' alt='News Studio, Backdrop For TV Shows .TV On Wall.3D Virtual News Studio  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/654/515/small_2x/news-studio-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Virtual News Studio Background With Desk Newsroom Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-T-ymRGYgxU/maxresdefault.jpg' alt='3D Virtual News Studio Background With Desk Newsroom Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-T-ymRGYgxU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsroom Background Video Stock Illustrations – 933 Newsroom ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/news-digital-background-presentation-d-rendering-perfect-any-type-information-features-stylish-clean-layout-178792899.jpg' alt='Newsroom Background Video Stock Illustrations – 933 Newsroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/news-digital-background-presentation-d-rendering-perfect-any-type-information-features-stylish-clean-layout-178792899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

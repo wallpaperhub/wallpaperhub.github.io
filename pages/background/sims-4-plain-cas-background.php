@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Sims 4 Plain CAS Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of simple with Sims 4 plain CAS backgrounds! Perfect for focused character creation and stunning visual captures. Elevate your Sims 4 gameplay with these minimalist designs for an enhanced gaming experience.">
+                    <meta name="keywords" content="sims 4 plain cas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sims-4-plain-cas-background">
+                            <span itemprop="name">sims 4 plain cas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Sims 4 Plain CAS Backgrounds</h1>
+                <p>Enhance your Sims 4 experience with a plain CAS background! This simple backdrop allows your Sims to shine without distractions, making character customization effortless. Whether you're creating a new household or capturing stunning screenshots, a clean background ensures focus on every detail. Elevate your game today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shasims — *:・ﾟ✧*:・ﾟ✧ || hi!! here's my own nature edition...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/28ded8712f907492382f2070466947fb/8d6f6e820e567158-09/s500x750/2f48717882795cac5128e759d92e34f802d3cf1c.png' alt='shasims — *:・ﾟ✧*:・ﾟ✧ || hi!! here's my own nature edition...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@shasimss on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/28ded8712f907492382f2070466947fb/8d6f6e820e567158-09/s500x750/2f48717882795cac5128e759d92e34f802d3cf1c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simmish CC Finds">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9f6d1d33fe141c456f07d9f6139918aa/913b6bed378fce6b-c4/s1280x1920/6fa14700425f9f7cd13839b5d6a42d21a04f0553.jpg' alt='Simmish CC Finds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simmish CC Finds" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9f6d1d33fe141c456f07d9f6139918aa/913b6bed378fce6b-c4/s1280x1920/6fa14700425f9f7cd13839b5d6a42d21a04f0553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="milk tea; cas background set | Patreon">
+                                <img itemprop="contentUrl url" src='https://c10.patreonusercontent.com/4/patreon-media/p/post/77426563/f1e7c43546534cddab9533d92450b024/eyJ3Ijo2MjB9/1.jpg?token-time=1742342400&token-hash=zbedspqQX8fXsO6npguBGIy9c9kDaAM8el03Q7QyqZM%3D' alt='milk tea; cas background set | Patreon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patreon" />
+                                </span>
+                                <a href='https://c10.patreonusercontent.com/4/patreon-media/p/post/77426563/f1e7c43546534cddab9533d92450b024/eyJ3Ijo2MjB9/1.jpg?token-time=1742342400&token-hash=zbedspqQX8fXsO6npguBGIy9c9kDaAM8el03Q7QyqZM%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shasims — hi!! here's my own peach edition cas backgrounds...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1435b1aa5405efee25e68d7c9515a208/b9e9400e901ebe58-40/s540x810/dc4c273ae8136d3aaebcea82f69c1e82c1164016.png' alt='shasims — hi!! here's my own peach edition cas backgrounds...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@shasimss on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1435b1aa5405efee25e68d7c9515a208/b9e9400e901ebe58-40/s540x810/dc4c273ae8136d3aaebcea82f69c1e82c1164016.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made some cas backgrounds!        : r/Sims4">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-some-cas-backgrounds-v0-iwqgj90j7hab1.jpg?width=1100&format=pjpg&auto=webp&s=147e2750454566168fa408d18a75ae9664d49337' alt='i made some cas backgrounds!        : r/Sims4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-some-cas-backgrounds-v0-iwqgj90j7hab1.jpg?width=1100&format=pjpg&auto=webp&s=147e2750454566168fa408d18a75ae9664d49337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shasims — *:・ﾟ✧*:・ﾟ✧ || hi!! here's my own brown edition cas...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/fcf9499fe3e71917b7b475e7097d5434/65709954af137d19-3b/s1280x1920/baf4f687c6c2026065ab261445ce62763b1c6aa7.jpg' alt='shasims — *:・ﾟ✧*:・ﾟ✧ || hi!! here's my own brown edition cas...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@shasimss on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/fcf9499fe3e71917b7b475e7097d5434/65709954af137d19-3b/s1280x1920/baf4f687c6c2026065ab261445ce62763b1c6aa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Solid Cas Background Ofelya_Sims - The Sims 4 Mods ...">
+                                <img itemprop="contentUrl url" src='https://media.forgecdn.net/attachments/670/128/casbackground_ofelyasims-png-1.png' alt='Colorful Solid Cas Background Ofelya_Sims - The Sims 4 Mods ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CurseForge" />
+                                </span>
+                                <a href='https://media.forgecdn.net/attachments/670/128/casbackground_ofelyasims-png-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="milk tea; cas background set | Patreon">
+                                <img itemprop="contentUrl url" src='https://www.patreon.com/meta-image/post/77426563' alt='milk tea; cas background set | Patreon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patreon" />
+                                </span>
+                                <a href='https://www.patreon.com/meta-image/post/77426563' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims Resource - Light grey CAS background">
+                                <img itemprop="contentUrl url" src='https://www.thesimsresource.com/scaled/3153/w-600h-450-3153459.jpg' alt='The Sims Resource - Light grey CAS background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sims Resource" />
+                                </span>
+                                <a href='https://www.thesimsresource.com/scaled/3153/w-600h-450-3153459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jenni Sims: CAS Screens My Colors -18 Cas background • Sims 4 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/23/41/102341ac0c174060dd184d880632cfaa.jpg' alt='Jenni Sims: CAS Screens My Colors -18 Cas background • Sims 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/23/41/102341ac0c174060dd184d880632cfaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

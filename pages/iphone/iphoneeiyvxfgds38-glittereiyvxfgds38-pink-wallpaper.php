@@ -1,0 +1,129 @@
+<title>Stunning Pink Glitter Wallpaper for iPhone</title>
+                    <meta name="description" content="Elevate your iPhone's look with beautiful pink glitter wallpaper. Perfect for adding a trendy touch, this eye-catching design radiates charm and style, making your device shine. Ideal for those who love glamour and want their phone to reflect their personality. Download now!">
+                    <meta name="keywords" content="iphone:eiyvxfgds38= glitter:eiyvxfgds38= pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoneeiyvxfgds38-glittereiyvxfgds38-pink-wallpaper">
+                            <span itemprop="name">iphone:eiyvxfgds38= glitter:eiyvxfgds38= pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Glitter Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning pink glitter wallpaper that dazzles! Perfectly designed for a chic aesthetic, this wallpaper adds a splash of glam to your device. Whether you're showcasing your style or just love a touch of sparkle, this pink glitter design will make your iPhone stand out. Upgrade your home screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Pink Glitter iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/29/65/e929653386e9f980e7720b1be68ebcf8.jpg' alt='Awesome Pink Glitter iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/29/65/e929653386e9f980e7720b1be68ebcf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/e8/68/afe868ceffb104975dc701000c570cd5.jpg' alt='Pink Glitter iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/e8/68/afe868ceffb104975dc701000c570cd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Pink Glitter iPhone Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/7c/fa/f67cfab09e1f4f5b57d1a4ed820015df.jpg' alt='55+ Pink Glitter iPhone Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/7c/fa/f67cfab09e1f4f5b57d1a4ed820015df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink glitter wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/57/e7/0a57e7d123902766b2ad64f634a8532e.jpg' alt='Pink glitter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/57/e7/0a57e7d123902766b2ad64f634a8532e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iPhone glitter ⚪️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2b/24/b7/2b24b7dee65800f31678ec91c8236ec5.jpg' alt='Wallpaper iPhone glitter ⚪️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2b/24/b7/2b24b7dee65800f31678ec91c8236ec5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/4c/18/3e4c18e25c762c71fb8b604dd43495cd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/4c/18/3e4c18e25c762c71fb8b604dd43495cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/af/a1/29/afa12905bd0767e51649ca6dcdbf432d.jpg' alt='Pink iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/af/a1/29/afa12905bd0767e51649ca6dcdbf432d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Gold Glitter Sparkle Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pink-and-gold-glitter-sparkle-iphone-dkredrohrtmxoljm.webp' alt='Pink And Gold Glitter Sparkle Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pink-and-gold-glitter-sparkle-iphone-dkredrohrtmxoljm.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Pink Glitter iPhone Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/ac/e9/45ace93660ed79f5b26a9fbaae6af27f.jpg' alt='55+ Pink Glitter iPhone Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/ac/e9/45ace93660ed79f5b26a9fbaae6af27f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

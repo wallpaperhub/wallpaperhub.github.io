@@ -1,0 +1,129 @@
+<title>Transform Your Space with Light Pink Solid Wallpaper</title>
+                    <meta name="description" content="Add a charming touch to your home with light pink solid wallpaper. Perfect for various decor styles, it creates a soothing ambiance in any room. Easy to apply and maintain, this wallpaper is an ideal choice for transforming spaces into welcoming retreats. Enhance your decor effortlessly today!">
+                    <meta name="keywords" content="light pink solid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-pink-solid-wallpaper">
+                            <span itemprop="name">light pink solid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Light Pink Solid Wallpaper</h1>
+                <p>Light pink solid wallpaper adds a touch of elegance and warmth to any space. Its soft hue promotes a calming atmosphere, making it ideal for bedrooms, nurseries, or cozy living areas. Easy to install and maintain, this wallpaper complements a variety of decor styles, from modern to classic, enhancing the beauty of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Pink Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' alt='640x1136 Pink Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Solid Color Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-solid-color-364gx2fy3h6alydq.jpg' alt='100+] Pink Solid Color Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-solid-color-364gx2fy3h6alydq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Pale Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16751447/p/f/m/67mg4KNap-Laq9iXDpPfRmuf_mHkARIV4yIthoHFGaDJ28FX4Mc1/Solid%20Pale%20Pink%20Purple.jpg' alt='Solid Pale Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16751447/p/f/m/67mg4KNap-Laq9iXDpPfRmuf_mHkARIV4yIthoHFGaDJ28FX4Mc1/Solid%20Pale%20Pink%20Purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Light Pink Solid Color Phone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-solid-color-h8g2lkifxo5boe1o.jpg' alt='Download Light Pink Solid Color Phone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-solid-color-h8g2lkifxo5boe1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Pale Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12659234/p/f/m/q9sWi71v0Kc0tZsVoszdgKhANKGbLlLeBLs8PiUB8Pm5QfxL8C9MtOg/Blush%20Solid%20efdace.jpg' alt='Solid Pale Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12659234/p/f/m/q9sWi71v0Kc0tZsVoszdgKhANKGbLlLeBLs8PiUB8Pm5QfxL8C9MtOg/Blush%20Solid%20efdace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Solid Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/b4/41/0eb441a7cfdcca437653448548fe32d0.jpg' alt='Light Pink Solid Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/b4/41/0eb441a7cfdcca437653448548fe32d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Solid Pink Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/solid-pink-background-bzx0smdzlb77zsvi.jpg' alt='100+] Solid Pink Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/solid-pink-background-bzx0smdzlb77zsvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,813 Solid Pink Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/solid-pink-background-wall-close-up-169015927.jpg' alt='6,813 Solid Pink Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/solid-pink-background-wall-close-up-169015927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HeloHo Solid Light Pink Wallpaper Matte Textured Wallpaper Peel and Stick  Wallpaper Modern Self Adhesive Removable Wallpaper Waterproof Contact Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61orv8BVSSL.jpg' alt='HeloHo Solid Light Pink Wallpaper Matte Textured Wallpaper Peel and Stick  Wallpaper Modern Self Adhesive Removable Wallpaper Waterproof Contact Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61orv8BVSSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5b/c5/b3/5bc5b3b2f91806f5166179b9defe7147.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="378">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5b/c5/b3/5bc5b3b2f91806f5166179b9defe7147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

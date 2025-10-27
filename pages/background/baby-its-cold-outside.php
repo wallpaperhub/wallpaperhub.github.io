@@ -1,0 +1,129 @@
+<title>Cozy Winter Vibes: Baby It's Cold Outside</title>
+                    <meta name="description" content="Discover the charm of winter's chill with "Baby, It's Cold Outside." Embrace cozy moments indoors, snuggling with loved ones, and enjoying warm treats. Get tips on making the most of winter, from recipes to activities that bring warmth while celebrating the season's magic.">
+                    <meta name="keywords" content="baby it's cold outside">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baby-its-cold-outside">
+                            <span itemprop="name">baby it's cold outside</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Winter Vibes: Baby It's Cold Outside</h1>
+                <p>As winter sets in, there's a distinct chill in the air that beckons for cozy moments indoors. "Baby, it's cold outside" reminds us to snuggle under blankets, sip hot cocoa, and enjoy laughter with loved ones. Embrace the beauty of the season with warm fires, festive decorations, and cherished memories made inside.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside Print">
+                                <img itemprop="contentUrl url" src='https://images.desenio.com/zoom/16575_2-40649.jpg' alt='Baby It's Cold Outside Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Desenio" />
+                                </span>
+                                <a href='https://images.desenio.com/zoom/16575_2-40649.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside - Cool Christmas Decoration and Holiday Wall Art,  Funny Snowman Decor and Winter Snowflakes Sign, Modern Family Wall Decor  and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZaSCJ3yHL._UF894,1000_QL80_.jpg' alt='Baby It's Cold Outside - Cool Christmas Decoration and Holiday Wall Art,  Funny Snowman Decor and Winter Snowflakes Sign, Modern Family Wall Decor  and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZaSCJ3yHL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside ~ Free Christmas Printable | Kitchen Trials">
+                                <img itemprop="contentUrl url" src='https://www.kitchentrials.com/wp-content/uploads/2017/11/Baby-Its-Cold-Outside-8x10n.jpg' alt='Baby It's Cold Outside ~ Free Christmas Printable | Kitchen Trials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kitchen Trials" />
+                                </span>
+                                <a href='https://www.kitchentrials.com/wp-content/uploads/2017/11/Baby-Its-Cold-Outside-8x10n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby, It's Cold Outside by Melanie Harlow | Goodreads">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671403524i/70235260.jpg' alt='Baby, It's Cold Outside by Melanie Harlow | Goodreads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1647">
+                                <meta itemprop="height" content="2537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671403524i/70235260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby it's Cold Outside">
+                                <img itemprop="contentUrl url" src='https://bling3t.com/cdn/shop/products/1123650Babyit_sColdOutside_600x.jpg?v=1639054693' alt='Baby it's Cold Outside'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bling3t" />
+                                </span>
+                                <a href='https://bling3t.com/cdn/shop/products/1123650Babyit_sColdOutside_600x.jpg?v=1639054693' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside Embroidery Designs - NextEmbroidery">
+                                <img itemprop="contentUrl url" src='https://nextembroidery.com/wp-content/uploads/2023/09/baby-its-cold-outside-embroidery-designs-vintage-merry-christmas-embroidery-design.jpg' alt='Baby It's Cold Outside Embroidery Designs - NextEmbroidery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Embroidery Digitizing - NextEmbroidery" />
+                                </span>
+                                <a href='https://nextembroidery.com/wp-content/uploads/2023/09/baby-its-cold-outside-embroidery-designs-vintage-merry-christmas-embroidery-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside 2 Print and Cut File">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-hii7479o/images/stencil/original/products/20097/45020/baby_its_cold_outside__27775.1704483998.jpg?c=2' alt='Baby It's Cold Outside 2 Print and Cut File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snap Click Supply Co." />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-hii7479o/images/stencil/original/products/20097/45020/baby_its_cold_outside__27775.1704483998.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby It's Cold Outside cut file instant digital download">
+                                <img itemprop="contentUrl url" src='https://5outof4.com/wp-content/uploads/2017/12/Baby-Its-Cold-Listing-1.jpg' alt='Baby It's Cold Outside cut file instant digital download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5 out of 4 Patterns" />
+                                </span>
+                                <a href='https://5outof4.com/wp-content/uploads/2017/12/Baby-Its-Cold-Listing-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby it's Cold Outside 9">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-zlf3iiy2/images/stencil/1280x1280/products/27811/31940/JB-Baby-it's-cold-outside-9__18574.1700520537.jpg?c=2' alt='Baby it's Cold Outside 9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lori Whitlock SVG Shop" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-zlf3iiy2/images/stencil/1280x1280/products/27811/31940/JB-Baby-it's-cold-outside-9__18574.1700520537.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 40 Baby its Cold Outside Stickers Pink - Baby Shower Labels -  Winter Party Favors (Pink) : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51IAAUnVHKL.jpg' alt='Amazon.com: 40 Baby its Cold Outside Stickers Pink - Baby Shower Labels -  Winter Party Favors (Pink) : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51IAAUnVHKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

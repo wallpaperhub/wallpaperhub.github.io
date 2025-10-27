@@ -1,0 +1,129 @@
+<title>Ideas for Stunning Sketch Backgrounds</title>
+                    <meta name="description" content="Discover creative ideas for sketch backgrounds that elevate your art. Explore various styles, techniques, and tips to enhance depth and context in your sketches. Perfect for artists looking to add unique flair to their work!">
+                    <meta name="keywords" content="sketch backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sketch-backgrounds">
+                            <span itemprop="name">sketch backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ideas for Stunning Sketch Backgrounds</h1>
+                <p>Sketch backgrounds are essential for artists to create depth and context in their work. Whether it's urban landscapes, serene nature scenes, or abstract textures, a well-crafted background enhances the main subject. Experimenting with different styles and techniques can add unique flair and elevate the overall impact of the artwork.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil Sketch Background Images – Browse 6,826,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/57/55/91/360_F_157559100_NHI2HIhnlEsRMZfDkNkB2BrvN9FWmhv0.jpg' alt='Pencil Sketch Background Images – Browse 6,826,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/57/55/91/360_F_157559100_NHI2HIhnlEsRMZfDkNkB2BrvN9FWmhv0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="816,900+ Sketch Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/642952704/vector/grunge-background-texture.jpg?s=170667a&w=is&k=20&c=v7lLZ0QX5AnM0pLeIF8ClIJ_CiZOen_q3kXn-yGUtSE=' alt='816,900+ Sketch Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/642952704/vector/grunge-background-texture.jpg?s=170667a&w=is&k=20&c=v7lLZ0QX5AnM0pLeIF8ClIJ_CiZOen_q3kXn-yGUtSE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/HPNB0G/geometric-shape-hand-drawn-sketch-seamless-background-abstract-pattern-HPNB0G.jpg' alt='Sketch background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/HPNB0G/geometric-shape-hand-drawn-sketch-seamless-background-abstract-pattern-HPNB0G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil Sketch Background Images – Browse 6,826,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/68/71/47/360_F_368714779_MUSFOjZyTFpPCNssvUI7O9YkNPOhNENZ.jpg' alt='Pencil Sketch Background Images – Browse 6,826,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/68/71/47/360_F_368714779_MUSFOjZyTFpPCNssvUI7O9YkNPOhNENZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Background (Environments and Landscapes) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VkAOpEZQo20/sddefault.jpg' alt='How to Draw a Background (Environments and Landscapes) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VkAOpEZQo20/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/memphis-background-vector-muted-tone_53876-126674.jpg' alt='Sketch Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/memphis-background-vector-muted-tone_53876-126674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Background: Draw 1-Point Perspective">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ddALJ0S3ycg/maxresdefault.jpg' alt='How to Draw a Background: Draw 1-Point Perspective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ddALJ0S3ycg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Pencil Drawing Sketch Backgrounds Scribble Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184120193/vector/scratchy-surface.jpg?s=612x612&w=0&k=20&c=pFVSU7Mc8Jd4vKG5ZE7n8SzuV3hxxNK48cwqzlLAI94=' alt='5,900+ Pencil Drawing Sketch Backgrounds Scribble Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184120193/vector/scratchy-surface.jpg?s=612x612&w=0&k=20&c=pFVSU7Mc8Jd4vKG5ZE7n8SzuV3hxxNK48cwqzlLAI94=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/artistic-background-with-scribbled-shapes_373171-41.jpg?semt=ais_hybrid' alt='Sketch Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/artistic-background-with-scribbled-shapes_373171-41.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Sketch Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1602738328654-51ab2ae6c4ff?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2tldGNofGVufDB8fDB8fHww' alt='100+ Sketch Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1602738328654-51ab2ae6c4ff?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2tldGNofGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

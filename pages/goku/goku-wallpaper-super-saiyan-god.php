@@ -1,0 +1,129 @@
+<title>Stunning Super Saiyan God Goku Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an array of breathtaking Goku Super Saiyan God wallpapers! Perfect for Dragon Ball enthusiasts, these vibrant designs will elevate your device's aesthetic. Find the perfect backdrop today and showcase your love for one of anime's most iconic heroes!">
+                    <meta name="keywords" content="goku wallpaper super saiyan god">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-wallpaper-super-saiyan-god">
+                            <span itemprop="name">goku wallpaper super saiyan god</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Super Saiyan God Goku Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Goku wallpaper as Super Saiyan God! Dive into the vibrant energy of Goku embodying this powerful form, radiating strength and determination. Ideal for fans of Dragon Ball, these wallpapers capture epic moments, making your screen truly legendary. Unleash the Saiyan within!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan God Goku Amoled Wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q4dd5tp49o621.png' alt='Super Saiyan God Goku Amoled Wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q4dd5tp49o621.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan God Goku in Flames - 8K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/814/814689.png' alt='Super Saiyan God Goku in Flames - 8K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/814/814689.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan God Goku (Dragonball Legends) - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/10/46/5f/10465fcf6a2d5c934a229bcea8b670be.jpg' alt='Super Saiyan God Goku (Dragonball Legends) - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/10/46/5f/10465fcf6a2d5c934a229bcea8b670be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Super Saiyan Blue">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-5760x3240-5099.jpg' alt='Goku Wallpaper 4K, Super Saiyan Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-5760x3240-5099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan god, Goku, dragon ball, red head, 720x1280 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c6/5c/47/c65c478750c9683491907112d5fec6d2.jpg' alt='Super Saiyan god, Goku, dragon ball, red head, 720x1280 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c6/5c/47/c65c478750c9683491907112d5fec6d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Saiyan God Goku Wallpaper (1080x2340) : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q87jrrkv0rd41.png' alt='New Super Saiyan God Goku Wallpaper (1080x2340) : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q87jrrkv0rd41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Saiyan God Goku Dragon Ball Super iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-super-iphone-w9eza6m39cfa607y.jpg' alt='Download Super Saiyan God Goku Dragon Ball Super iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-super-iphone-w9eza6m39cfa607y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ssg goku wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/471/978/HD-wallpaper-goku-ssg-ssgss-dragon-ball-dragon-ball-super-dragon-ball-z-super-saiyan-blue-super-saiyan-god-thumbnail.jpg' alt='HD ssg goku wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/471/978/HD-wallpaper-goku-ssg-ssgss-dragon-ball-dragon-ball-super-dragon-ball-z-super-saiyan-blue-super-saiyan-god-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Songoku Ssj God [Wallpaper DB Legends] by DB-Ghost23 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6772b39-03be-4804-b60a-d10d9e3a6dbb/dfx0p8f-5af2670b-ebe7-4385-bd97-b22bf8102c3c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2NzcyYjM5LTAzYmUtNDgwNC1iNjBhLWQxMGQ5ZTNhNmRiYlwvZGZ4MHA4Zi01YWYyNjcwYi1lYmU3LTQzODUtYmQ5Ny1iMjJiZjgxMDJjM2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ErkjPigVzIyyPWu9x_qKqgNLrePL0zlRmXc4cqfLIE' alt='Songoku Ssj God [Wallpaper DB Legends] by DB-Ghost23 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6772b39-03be-4804-b60a-d10d9e3a6dbb/dfx0p8f-5af2670b-ebe7-4385-bd97-b22bf8102c3c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2NzcyYjM5LTAzYmUtNDgwNC1iNjBhLWQxMGQ5ZTNhNmRiYlwvZGZ4MHA4Zi01YWYyNjcwYi1lYmU3LTQzODUtYmQ5Ny1iMjJiZjgxMDJjM2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ErkjPigVzIyyPWu9x_qKqgNLrePL0zlRmXc4cqfLIE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "PUR Super Saiyan God Goku v2 4K PC Wallpaper + 4k ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Eb3OMR5XkAIpPnE?format=jpg&name=4096x4096' alt='Hydros on X: "PUR Super Saiyan God Goku v2 4K PC Wallpaper + 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Eb3OMR5XkAIpPnE?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

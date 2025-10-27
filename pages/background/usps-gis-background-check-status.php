@@ -1,0 +1,129 @@
+<title>USPS GIS Background Check Status: Track Your Progress</title>
+                    <meta name="description" content="Stay informed about your USPS GIS background check status. Discover how to easily track updates and what to expect during the process. Get the latest information to ensure a smooth application journey.">
+                    <meta name="keywords" content="usps gis background check status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usps-gis-background-check-status">
+                            <span itemprop="name">usps gis background check status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>USPS GIS Background Check Status: Track Your Progress</h1>
+                <p>When applying for a position with USPS, you’ll undergo a GIS background check. Tracking your background check status can be crucial for peace of mind. USPS typically sends updates via email or can be monitored through your account online. Ensure you provide accurate information to avoid delays.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm confused wasn't the GIS the Criminal and Driving Background ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/30atepjbqp961.jpg' alt='I'm confused wasn't the GIS the Criminal and Driving Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/30atepjbqp961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just received NACI/GIS background report via priority Mail. Does ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-xgy52grq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=9bc840abd973eb5a2cdf0e5c92d46cf537521d83' alt='Just received NACI/GIS background report via priority Mail. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-xgy52grq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=9bc840abd973eb5a2cdf0e5c92d46cf537521d83' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The USPS uses advanced technology like GIS to perform background ...">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d250c6e3.webp&w=1920&q=75' alt='The USPS uses advanced technology like GIS to perform background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d250c6e3.webp&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to GIS Background Check Services">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/juleADylxUM/maxresdefault.jpg' alt='Introduction to GIS Background Check Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/juleADylxUM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just received NACI/GIS background report via priority Mail. Does ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-q5y41frq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=ba07127e4887278b6d796721d59c28313b3c50b6' alt='Just received NACI/GIS background report via priority Mail. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-q5y41frq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=ba07127e4887278b6d796721d59c28313b3c50b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So this means im in? : r/USPS">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/so-this-means-im-in-v0-eftc0ite3sie1.jpeg?width=640&crop=smart&auto=webp&s=9897024ccec5801aa5bf917985940f61cbfc6080' alt='So this means im in? : r/USPS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/so-this-means-im-in-v0-eftc0ite3sie1.jpeg?width=640&crop=smart&auto=webp&s=9897024ccec5801aa5bf917985940f61cbfc6080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USPS Background Check: GIS or NACI? Which To Choose (2023 Guide)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Background-Check.png' alt='USPS Background Check: GIS or NACI? Which To Choose (2023 Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usps Gis Background Check | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7278430541102222634&location=0&aid=1988' alt='Usps Gis Background Check | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7278430541102222634&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USPS Background Check: GIS or NACI? Which To Choose (2023 Guide)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Nationwide-Employee-Background-Screening-Screenshot.webp' alt='USPS Background Check: GIS or NACI? Which To Choose (2023 Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Nationwide-Employee-Background-Screening-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Major takeaways from my experience mailing the background check: -go to  USPS not UPS (it might have just been my location but just in case, I would  start with USPS TO SAVE TIME) -get a return envelope ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7379028263210929454&location=0&aid=1988' alt='Major takeaways from my experience mailing the background check: -go to  USPS not UPS (it might have just been my location but just in case, I would  start with USPS TO SAVE TIME) -get a return envelope ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7379028263210929454&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

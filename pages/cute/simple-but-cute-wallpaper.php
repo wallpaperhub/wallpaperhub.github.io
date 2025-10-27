@@ -1,0 +1,129 @@
+<title>Charming Simple Cute Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover adorable, simple wallpapers that add a touch of whimsy to your screens. From pastel colors to playful designs, find the perfect cute wallpaper to brighten your phone or tablet. Transform your digital experience with delightful visuals tailored for every aesthetic!">
+                    <meta name="keywords" content="simple but cute wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/simple-but-cute-wallpaper">
+                            <span itemprop="name">simple but cute wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Simple Cute Wallpapers for Your Device</h1>
+                <p>Simple but cute wallpapers can transform your device's look with charm and personality. Opt for pastel colors, playful patterns, or adorable animal designs that bring joy to your screen. Whether it's for your phone, tablet, or computer, a stylish wallpaper adds a touch of whimsy and warmth, making your daily interaction a little brighter.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Simple Aesthetic Wallpaper Top on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/88/8e/5e888e6b3c3c116225f4564237378822.jpg' alt='   Free download Simple Aesthetic Wallpaper Top on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/88/8e/5e888e6b3c3c116225f4564237378822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Walking Cacti Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-simple-walking-cacti-kzquqjifujnuf02o.jpg' alt='Cute Simple Walking Cacti Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-simple-walking-cacti-kzquqjifujnuf02o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Free Cute HD Pattern Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/8a/0c/7b8a0c169c69cde6a2a9ef053a2ca316.jpg' alt='36 Free Cute HD Pattern Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/8a/0c/7b8a0c169c69cde6a2a9ef053a2ca316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Sun Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-simple-dont-worry-sk6i0r6t7oiojoat.webp' alt='Cute Simple Sun Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-simple-dont-worry-sk6i0r6t7oiojoat.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable beautiful cute wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFssCUHN_c/1/0/900w/canva-green-cute-ilustrated-flowers-cell-wallpaper--uanm_7XPr4.jpg' alt='Free and customizable beautiful cute wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFssCUHN_c/1/0/900w/canva-green-cute-ilustrated-flowers-cell-wallpaper--uanm_7XPr4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIMPLE AND CUTE WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/cf/43/28cf431eb9e3a5da3bb9ee2ac45384da.jpg' alt='SIMPLE AND CUTE WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/cf/43/28cf431eb9e3a5da3bb9ee2ac45384da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute on sale simple wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-simple-three-flowers-3ikioxmomt525xxm.jpg' alt='Cute on sale simple wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-simple-three-flowers-3ikioxmomt525xxm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Lavenders Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-simple-single-heart-igwyoyf7t446nb5u.webp' alt='Cute Simple Lavenders Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-simple-single-heart-igwyoyf7t446nb5u.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute And Simple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8173631.png' alt='Cute And Simple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1325">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8173631.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

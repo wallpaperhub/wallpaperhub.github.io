@@ -1,0 +1,129 @@
+<title>Blue Smurf Cat Wallpaper: Adorable Designs for Every Room</title>
+                    <meta name="description" content="Discover the charm of blue smurf cat wallpaper! Perfect for cat lovers, these playful designs add a whimsical touch to any interior. Ideal for creating a cozy and unique atmosphere in your home. Explore our collection and find the perfect match for your decor today!">
+                    <meta name="keywords" content="blue smurf cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/blue-smurf-cat-wallpaper">
+                            <span itemprop="name">blue smurf cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Smurf Cat Wallpaper: Adorable Designs for Every Room</h1>
+                <p>Transform your space with stunning blue smurf cat wallpaper! Featuring vibrant colors and adorable designs, these wallpapers bring a playful touch to any room. Perfect for cat lovers and those who enjoy unique decor. Elevate your interior with enchanting blue smurf cats that are sure to delight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smurf Cat Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/5d/5b/615d5b22f525af87e8d6efca0132eb73.jpg' alt='Smurf Cat Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/5d/5b/615d5b22f525af87e8d6efca0132eb73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Blue Smurf Cat - Шайлушай (Portrait)">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2083533568118159612/506899136CC9AB36AF2E58F17615CDEDC72A9551/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Blue Smurf Cat - Шайлушай (Portrait)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2083533568118159612/506899136CC9AB36AF2E58F17615CDEDC72A9551/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Smurf Cat Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12895580.jpg' alt='Blue Smurf Cat Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12895580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Smurf Cat | Fab">
+                                <img itemprop="contentUrl url" src='https://media.fab.com/image_previews/gallery_images/375a0ec9-4f48-468e-9935-a84d90367291/aae6d179-984d-4c0a-a39b-d659a6a3f784.jpg' alt='Blue Smurf Cat | Fab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab" />
+                                </span>
+                                <a href='https://media.fab.com/image_previews/gallery_images/375a0ec9-4f48-468e-9935-a84d90367291/aae6d179-984d-4c0a-a39b-d659a6a3f784.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Smurf Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/enchanted-forest-smurf-adventure-aba1k458yo7zbtw2.jpg' alt='100+] Smurf Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/enchanted-forest-smurf-adventure-aba1k458yo7zbtw2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream blue smurf cat (we live we love we lie) [prod. alan walker ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-pt6aooRDmGXvMNPk-4ednLw-t500x500.jpg' alt='Stream blue smurf cat (we live we love we lie) [prod. alan walker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-pt6aooRDmGXvMNPk-4ednLw-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pit - Smurf Cat Mushroom [ puffyyy ] – Fortnite Creative Map Code">
+                                <img itemprop="contentUrl url" src='https://assets.fortnitecreativehq.com/wp-content/uploads/2023/09/17181111/landscape_comp-2611.jpeg' alt='The Pit - Smurf Cat Mushroom [ puffyyy ] – Fortnite Creative Map Code'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite Creative HQ" />
+                                </span>
+                                <a href='https://assets.fortnitecreativehq.com/wp-content/uploads/2023/09/17181111/landscape_comp-2611.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Smurf Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/walking-smurf-forest-adventure-jpg-d7cfuta92njs2fz7.jpg' alt='100+] Smurf Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/walking-smurf-forest-adventure-jpg-d7cfuta92njs2fz7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nasilim #smurfcat #bluesmurfcat #bluesmurfcatmeme #catsmurf #catsmurfmeme  #catsmurfedit #cover #foryoupage #foryou #fypシ゚viral #fy #fyp  #fyppppppppppppppppppppppp #fypシ #alanwalker #naber ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7280230599309135109&location=0&aid=1988' alt='nasilim #smurfcat #bluesmurfcat #bluesmurfcatmeme #catsmurf #catsmurfmeme  #catsmurfedit #cover #foryoupage #foryou #fypシ゚viral #fy #fyp  #fyppppppppppppppppppppppp #fypシ #alanwalker #naber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7280230599309135109&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Smurf Cat Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12895550.jpg' alt='Blue Smurf Cat Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12895550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

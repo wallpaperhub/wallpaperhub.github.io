@@ -1,0 +1,129 @@
+<title>Stunning Country Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a curated selection of breathtaking country wallpapers to elevate your iPhone's home screen. Enjoy scenic views and cultural landscapes that bring your device to life. Perfect for travel lovers and photography enthusiasts looking for a fresh look!">
+                    <meta name="keywords" content="iphone country wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-country-wallpaper">
+                            <span itemprop="name">iphone country wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Country Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's aesthetic with captivating country wallpapers. From the serene landscapes of the Swiss Alps to the vibrant streets of Tokyo, each wallpaper reflects unique cultures and stunning sceneries. Transform your device into a travel portal with these stunning images that bring the beauty of the world to your fingertips.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Country Fence Road View iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/a2/d2/e4a2d21a1e545722ec3e28f85e9b1ffa.jpg' alt='Nature Country Fence Road View iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/a2/d2/e4a2d21a1e545722ec3e28f85e9b1ffa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Country Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/country-iphone-rdu6qg0nwz06top0.jpg' alt='Download Country Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/country-iphone-rdu6qg0nwz06top0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/country-iphone-98cg0uds6dewtlkz.jpg' alt='Country wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/country-iphone-98cg0uds6dewtlkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 -Western Wallpapers⚡- ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5a/9e/d9/5a9ed90f3e8a7c4fda2d040773328075.jpg' alt='70 -Western Wallpapers⚡- ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5a/9e/d9/5a9ed90f3e8a7c4fda2d040773328075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Country Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/country-iphone-6lsos48c27eupmld.jpg' alt='Download Country Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/country-iphone-6lsos48c27eupmld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-nq80-country-mountain-sun-nature-41-iphone-wallpaper.jpg' alt='Country wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-nq80-country-mountain-sun-nature-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pathway To Foggy Mountain Cute Country Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-country-cow-with-yellow-tags-yrm418a4kw9hzgat.webp' alt='Pathway To Foggy Mountain Cute Country Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-country-cow-with-yellow-tags-yrm418a4kw9hzgat.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country western aesthetic wallpaper iPhone iPad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/41/d8/3a41d83cf2e74db0b8236fafec264e25.jpg' alt='Country western aesthetic wallpaper iPhone iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/41/d8/3a41d83cf2e74db0b8236fafec264e25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Country Iphone 720 X 1280 Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/rural-countryside-landscape-on-iphone-screen-f65rkwn9sg3dfxhb.webp' alt='Download free Country Iphone 720 X 1280 Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/rural-countryside-landscape-on-iphone-screen-f65rkwn9sg3dfxhb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country iPhone Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/backgrounds/iphone-backgrounds/images/320/ducks-iphone-background.png' alt='Country iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/backgrounds/iphone-backgrounds/images/320/ducks-iphone-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

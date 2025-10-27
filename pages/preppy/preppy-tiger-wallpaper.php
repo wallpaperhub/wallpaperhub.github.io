@@ -1,0 +1,129 @@
+<title>Chic Preppy Tiger Wallpaper for Trendy Spaces</title>
+                    <meta name="description" content="Discover stylish preppy tiger wallpaper to elevate your home decor. Perfect for kids' rooms or trendy accents, its playful design adds charm and personality to any space. Transform your walls with this unique and vibrant wallpaper today!">
+                    <meta name="keywords" content="preppy tiger wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-tiger-wallpaper">
+                            <span itemprop="name">preppy tiger wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Tiger Wallpaper for Trendy Spaces</h1>
+                <p>Preppy tiger wallpaper brings a playful yet sophisticated vibe to your space. Featuring vibrant colors and charming patterns, this wallpaper adds a unique touch to any room. Perfect for nurseries, playrooms, or even as a trendy accent wall, its blend of fun and elegance will surely make a statement in your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/ec/9d/dbec9dd497be69fafaeedb86dbab83aa.jpg' alt='Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/ec/9d/dbec9dd497be69fafaeedb86dbab83aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Tigers' Wallpaper by Tea Collection - Bubblegum">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Tigers_Bubblegum_design.jpg?v=1615485889' alt=''Tigers' Wallpaper by Tea Collection - Bubblegum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Tigers_Bubblegum_design.jpg?v=1615485889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic, Wallpaper, Animal Print, Tiger Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/ab/92/46ab920872c620f8290c006e753c7fad.jpg' alt='Pink Aesthetic, Wallpaper, Animal Print, Tiger Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/ab/92/46ab920872c620f8290c006e753c7fad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Tiger Denim">
+                                <img itemprop="contentUrl url" src='https://aimeewilder.com/cdn/shop/products/WEB_Star_tiger_denim_2000x.jpg?v=1547752422' alt='Star Tiger Denim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aimee Wilder" />
+                                </span>
+                                <a href='https://aimeewilder.com/cdn/shop/products/WEB_Star_tiger_denim_2000x.jpg?v=1547752422' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Tigers' Wallpaper by Tea Collection - Cadet Blue">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Tigers_CadetBlue_design.jpg?v=1615485890' alt=''Tigers' Wallpaper by Tea Collection - Cadet Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Tigers_CadetBlue_design.jpg?v=1615485890' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy tiger wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/76/33/55763328a889aca83379011d03e0ec31.jpg' alt='preppy tiger wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/76/33/55763328a889aca83379011d03e0ec31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Tiger Silver Neon">
+                                <img itemprop="contentUrl url" src='https://aimeewilder.com/cdn/shop/products/star_tiger_neon_2000x.jpg?v=1547751932' alt='Star Tiger Silver Neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aimee Wilder" />
+                                </span>
+                                <a href='https://aimeewilder.com/cdn/shop/products/star_tiger_neon_2000x.jpg?v=1547751932' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper Pink | Aesthetic | Phone Wallpaper | Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35781899/r/il/ede03d/4547446388/il_fullxfull.4547446388_selg.jpg' alt='IPhone Wallpaper Pink | Aesthetic | Phone Wallpaper | Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1387">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35781899/r/il/ede03d/4547446388/il_fullxfull.4547446388_selg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Tigers' Wallpaper by Tea Collection - Sky">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Tigers_Sky_design.jpg?v=1615485897' alt=''Tigers' Wallpaper by Tea Collection - Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Tigers_Sky_design.jpg?v=1615485897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Collage Aesthetic / Preppy / Wallpaper Aesthetic / Vsco">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/16/2a/32/162a324799c082dee2b9e03b27d89196.jpg' alt='Wall Collage Aesthetic / Preppy / Wallpaper Aesthetic / Vsco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/16/2a/32/162a324799c082dee2b9e03b27d89196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

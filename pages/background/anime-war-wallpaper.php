@@ -1,0 +1,129 @@
+<title>Epic Anime War Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning anime war wallpapers that showcase epic battles and your favorite characters. Energize your device with vibrant visuals perfect for every anime enthusiast. Download now to transform your screens with action-packed art that captures the essence of the anime world!">
+                    <meta name="keywords" content="anime war wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-war-wallpaper">
+                            <span itemprop="name">anime war wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Anime War Wallpapers for Your Device</h1>
+                <p>Anime war wallpapers bring the electrifying energy of epic battles to your screens! Immerse yourself in stunning visuals featuring your favorite characters engaged in intense combat, vibrant colors, and dynamic poses. Perfect for fans of action-packed series, these wallpapers will elevate your device’s aesthetic while showcasing your passion for anime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download War Anime Original HD Wallpaper by 炭涂">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/864/thumb-1920-864120.jpg' alt='Download War Anime Original HD Wallpaper by 炭涂'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/864/thumb-1920-864120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime war girl, anime girl, anime girl gun, anime war, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/841/171/HD-wallpaper-anime-war-girl-anime-girl-anime-girl-gun-anime-war.jpg' alt='Anime war girl, anime girl, anime girl gun, anime war, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/841/171/HD-wallpaper-anime-war-girl-anime-girl-anime-girl-gun-anime-war.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, sword, gun, pistol, weapon, war, anime ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/fa/battlefield-1-flag-war-pistol-rifle-weapon-gun-anime-fight-g.webp' alt='Wallpaper girl, sword, gun, pistol, weapon, war, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/fa/battlefield-1-flag-war-pistol-rifle-weapon-gun-anime-fight-g.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 840x1160 war, solider, anime girl, art, iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/840x1160/22c7ac/war-solider-anime-girl-art.jpg' alt='Download wallpaper 840x1160 war, solider, anime girl, art, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/840x1160/22c7ac/war-solider-anime-girl-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, soldier, military, war, anime, cross, army, sniper ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/d/28/cannon-tank-army-sniper-official-troop-cross-cap-tanya-degur.webp' alt='Wallpaper girl, soldier, military, war, anime, cross, army, sniper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/d/28/cannon-tank-army-sniper-official-troop-cross-cap-tanya-degur.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime War Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Anime-War-EDIT.jpg' alt='Anime War Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Anime-War-EDIT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atelier Steam::War Thunder Anime Wallpaper Pack">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2054255006026400506/0950E317E02FF1EC467369959AD82DB440924021/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Atelier Steam::War Thunder Anime Wallpaper Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1515">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2054255006026400506/0950E317E02FF1EC467369959AD82DB440924021/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, War, Cute, Soldier, Bomb, Tears To Tiara, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/394/372/HD-wallpaper-anime-war-cute-soldier-bomb-tears-to-tiara.jpg' alt='Anime, War, Cute, Soldier, Bomb, Tears To Tiara, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/394/372/HD-wallpaper-anime-war-cute-soldier-bomb-tears-to-tiara.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Military 4k Ultra HD Wallpaper by 科学">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/100/1009772.jpg' alt='Download Anime Military 4k Ultra HD Wallpaper by 科学'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="3448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/100/1009772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::The Great War anime">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/949585628074348104/830D07352A592D51B038B481E9348C668FB5606F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::The Great War anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1670">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/949585628074348104/830D07352A592D51B038B481E9348C668FB5606F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

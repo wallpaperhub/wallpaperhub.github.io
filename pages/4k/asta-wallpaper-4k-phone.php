@@ -1,0 +1,129 @@
+<title>4K Asta Wallpaper for Phones: Stunning & Free Download</title>
+                    <meta name="description" content="Discover stunning 4K Asta wallpapers for your phone! Optimize your device with vibrant images that celebrate your favorite character. Easy to download and perfect for anime fans, these high-resolution wallpapers provide a fresh look for your screen. Personalize your phone with style and flair!">
+                    <meta name="keywords" content="asta wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/asta-wallpaper-4k-phone">
+                            <span itemprop="name">asta wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Asta Wallpaper for Phones: Stunning & Free Download</h1>
+                <p>Asta wallpaper in stunning 4K resolution transforms your phone's display with vibrant colors and intricate designs. Perfect for fans of anime and visually striking aesthetics, Asta wallpapers add a touch of excitement to your device. Download high-quality images to personalize your phone and showcase your love for this dynamic character!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Mobile Wallpaper by TheBJO13 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/f5/30/97f530c4429ee603d3d201aeff5f1aa9.jpg' alt='Asta Mobile Wallpaper by TheBJO13 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/f5/30/97f530c4429ee603d3d201aeff5f1aa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta, black, clover, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/397/603/HD-wallpaper-asta-black-clover-anime.jpg' alt='Asta, black, clover, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/397/603/HD-wallpaper-asta-black-clover-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta black clover 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/black-clover-asta-sword-718@1@k-phone-4k.jpg' alt='Asta black clover 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/black-clover-asta-sword-718@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta, angry, anime, aweosome, badass, blackbulls, blackclover ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/69/2/HD-wallpaper-asta-angry-anime-aweosome-badass-blackbulls-blackclover-cool.jpg' alt='Asta, angry, anime, aweosome, badass, blackbulls, blackclover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/69/2/HD-wallpaper-asta-angry-anime-aweosome-badass-blackbulls-blackclover-cool.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Black Clover 4k Phone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/ec/28/07ec2852d04063b90327b5596e7d508a.jpg' alt='   Black Clover 4k Phone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/ec/28/07ec2852d04063b90327b5596e7d508a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Demon Wallpaper 4K, Black Clover, Silhouette">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1284x2778-11222.png' alt='Asta Demon Wallpaper 4K, Black Clover, Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1284x2778-11222.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta, anime, black clover, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/642/915/HD-wallpaper-asta-anime-black-clover.jpg' alt='Asta, anime, black clover, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/642/915/HD-wallpaper-asta-anime-black-clover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Black Clover 4K Phone iPhone Wallpaper #4970b">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/image-0/b/phone-thumbnail/asta-black-clover-4k-phone-uhdpaper.com-497.0_b-thumbnail.jpg?dl' alt='Asta Black Clover 4K Phone iPhone Wallpaper #4970b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/image-0/b/phone-thumbnail/asta-black-clover-4k-phone-uhdpaper.com-497.0_b-thumbnail.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Wallpaper 4K, Black Clover">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/asta-black-clover-3440x1440-12455.jpeg' alt='Asta Wallpaper 4K, Black Clover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/asta-black-clover-3440x1440-12455.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Black Clover 4k Phone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/5f/83/2d5f83c02bdd58cfb5d9238563172ce9.jpg' alt='   Black Clover 4k Phone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/5f/83/2d5f83c02bdd58cfb5d9238563172ce9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Trolls Birthday Invitation: Join the Fun!</title>
+                    <meta name="description" content="Get ready for a magical Trolls birthday party! Enjoy exciting games, delicious treats, and vibrant decorations. Dress up as your favorite character and join us for a day full of joy and laughter. RSVP now to ensure you’re part of this unforgettable celebration! Perfect for kids who love fun and friendship!">
+                    <meta name="keywords" content="trolls birthday invitation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trolls-birthday-invitation">
+                            <span itemprop="name">trolls birthday invitation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trolls Birthday Invitation: Join the Fun!</h1>
+                <p>Join us for the ultimate Trolls birthday bash! Celebrate with vibrant colors, music, and fun activities. Dress up as your favorite Troll character and enjoy delicious treats! Don’t miss out on games, dancing, and a special surprise for all guests. RSVP by [date] to secure your spot in the happiest party ever!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poppy Trolls Birthday Invitation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10062550/r/il/d938bb/2471891344/il_fullxfull.2471891344_rm99.jpg' alt='Poppy Trolls Birthday Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10062550/r/il/d938bb/2471891344/il_fullxfull.2471891344_rm99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Birthday Invitation, Trolls invitation, Trolls Digital Invitation,  Trolls Party, Trolls, Personalized, Printable">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21405317/r/il/8a7cb2/2955929781/il_fullxfull.2955929781_8s7h.jpg' alt='Trolls Birthday Invitation, Trolls invitation, Trolls Digital Invitation,  Trolls Party, Trolls, Personalized, Printable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21405317/r/il/8a7cb2/2955929781/il_fullxfull.2955929781_8s7h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Band Together Birthday Invitation for Girl | Sweet Invite">
+                                <img itemprop="contentUrl url" src='https://amazingdesignsus.com/wp-content/uploads/2023/11/trolls-band-together-birthday-invitation-for-girl.jpg' alt='Trolls Band Together Birthday Invitation for Girl | Sweet Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazing Designs US" />
+                                </span>
+                                <a href='https://amazingdesignsus.com/wp-content/uploads/2023/11/trolls-band-together-birthday-invitation-for-girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Birthday Invitation, 5th Birthday Invitation, Trolls Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12526371/r/il/804a49/1157829713/il_1080xN.1157829713_eajp.jpg' alt='Trolls Birthday Invitation, 5th Birthday Invitation, Trolls Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12526371/r/il/804a49/1157829713/il_1080xN.1157829713_eajp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Birthday Invitation - Edit Online Instant Download">
+                                <img itemprop="contentUrl url" src='https://perfectpartyprints.com/wp-content/uploads/2021/11/trolls-birthday-invitation.jpg' alt='Trolls Birthday Invitation - Edit Online Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Party Prints" />
+                                </span>
+                                <a href='https://perfectpartyprints.com/wp-content/uploads/2021/11/trolls-birthday-invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pack of 10 Trolls Invitations With Envelopes & Banner Offer">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/1ksAAOSwt0FZCFS3/s-l1200.jpg' alt='Pack of 10 Trolls Invitations With Envelopes & Banner Offer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/1ksAAOSwt0FZCFS3/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Birthday Invitation printable template - Jamakodesigns ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.jamakodesigns.com/wp-content/uploads/2022/04/Trolls-Birthday-Invitation-3.1.jpg?fit=314%2C440&ssl=1' alt='Trolls Birthday Invitation printable template - Jamakodesigns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="314">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jamakodesigns" />
+                                </span>
+                                <a href='https://i0.wp.com/www.jamakodesigns.com/wp-content/uploads/2022/04/Trolls-Birthday-Invitation-3.1.jpg?fit=314%2C440&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Trolls Birthday Invitation Template | Sweet Invite">
+                                <img itemprop="contentUrl url" src='https://pixavite.com/wp-content/uploads/2024/01/trolls-birthday-invitation-mobile.jpg' alt='Editable Trolls Birthday Invitation Template | Sweet Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixavite" />
+                                </span>
+                                <a href='https://pixavite.com/wp-content/uploads/2024/01/trolls-birthday-invitation-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Band Together Poppy Birthday Invitation Template - Cute Trolls  Birthday Party Invite">
+                                <img itemprop="contentUrl url" src='https://girlygirltutus.com/cdn/shop/files/trolls_girl_invitation_template_5_x_7_1.jpg?v=1738435437&width=1946' alt='Trolls Band Together Poppy Birthday Invitation Template - Cute Trolls  Birthday Party Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Girly Girl Tutus" />
+                                </span>
+                                <a href='https://girlygirltutus.com/cdn/shop/files/trolls_girl_invitation_template_5_x_7_1.jpg?v=1738435437&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Birthday Invite | Lovely Princess Poppy Invitation">
+                                <img itemprop="contentUrl url" src='https://amazingdesignsus.com/wp-content/uploads/2020/05/Trolls-Birthday-Party-Invitation-731x1024.jpg' alt='Trolls Birthday Invite | Lovely Princess Poppy Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazing Designs US" />
+                                </span>
+                                <a href='https://amazingdesignsus.com/wp-content/uploads/2020/05/Trolls-Birthday-Party-Invitation-731x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

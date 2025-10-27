@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Light Turquoise Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="light turquoise wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-turquoise-wallpaper">
+                            <span itemprop="name">light turquoise wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Light Turquoise Wallpaper</h1>
+                <p>Light turquoise wallpaper adds a refreshing touch to any room, creating a serene atmosphere that's perfect for relaxation. This vibrant shade combines the calm of blue with the uplifting qualities of green, making it ideal for bedrooms or living spaces. Pair it with white accents for a clean, modern look. Transform your home with this calming hue!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Abstract Turquoise Bright Wood Texture Blue Light Natural Color  Art Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61-EqYs56-L.jpg' alt='Amazon.com: Abstract Turquoise Bright Wood Texture Blue Light Natural Color  Art Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61-EqYs56-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NOUAGE Turquoise Wallpaper Sample">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/o/r/orient_express_-_sample_a4_-_fata_-_far_strock_page_24.jpg' alt='NOUAGE Turquoise Wallpaper Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/o/r/orient_express_-_sample_a4_-_fata_-_far_strock_page_24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Light Teal Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2131603/p/f/m/kZkDXtXOGXzTBsKHfh7q2DNzRq3GrY6GC2UFUsSrBmJjX-kbmMmG4g/solid%20light%20teal.jpg' alt='Solid Light Teal Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2131603/p/f/m/kZkDXtXOGXzTBsKHfh7q2DNzRq3GrY6GC2UFUsSrBmJjX-kbmMmG4g/solid%20light%20teal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/04/turquoise_peel_and_stick_wallpaper_3.jpg' alt='Turquoise Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/04/turquoise_peel_and_stick_wallpaper_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Abstract Fluid Art Light Turquoise and Cyan Colors  Liquid Marble Self Adhesive Removable and Contact Paper for Room Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RcaFKToYL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Abstract Fluid Art Light Turquoise and Cyan Colors  Liquid Marble Self Adhesive Removable and Contact Paper for Room Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RcaFKToYL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Absolutely Chic Metallic Light Turquoise Hessian Effect Textured  Vinyl Non-Woven Non-Pasted Metallic Wallpaper AC60043">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7e15ab1c-3743-4c3c-ad1e-fe0cf8f66bc8/svn/wallpaper-rolls-ac60043-64_600.jpg' alt='Unbranded Absolutely Chic Metallic Light Turquoise Hessian Effect Textured  Vinyl Non-Woven Non-Pasted Metallic Wallpaper AC60043'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7e15ab1c-3743-4c3c-ad1e-fe0cf8f66bc8/svn/wallpaper-rolls-ac60043-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise wallpaper | The power of sky and ocean for walls ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/8d/9b/eb/Makino-B_626003_518x389.jpg' alt='Turquoise wallpaper | The power of sky and ocean for walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/8d/9b/eb/Makino-B_626003_518x389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linen by Caselio - Pale Turquoise - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/156375/tiled/caselio-linen-pale-turquoise-wallpaper-tiled-156375.jpg' alt='Linen by Caselio - Pale Turquoise - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/156375/tiled/caselio-linen-pale-turquoise-wallpaper-tiled-156375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Bright Color Ombre Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1716565303/articles/OM0002BU01W_interior1.jpg' alt='Turquoise Bright Color Ombre Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1716565303/articles/OM0002BU01W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Turquoise Leaf Wall Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-11-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMekkxTVRVekwyeHBaMmgwWDNSMWNuRjFiMmx6WlY5c1pXRm1YM2RoYkd4ZlpHbHpjR3hoZVM1cWNHY19kejB4TlRReEptZzlPVEUxSm1acGREMWpjbTl3Sm1OeWIzQTlZMlZ1ZEdWeUpUSkRZMlZ1ZEdWeUptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT0xMzUmYmxlbmQteD00MDA%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTExLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' alt='Light Turquoise Leaf Wall Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-11-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMekkxTVRVekwyeHBaMmgwWDNSMWNuRjFiMmx6WlY5c1pXRm1YM2RoYkd4ZlpHbHpjR3hoZVM1cWNHY19kejB4TlRReEptZzlPVEUxSm1acGREMWpjbTl3Sm1OeWIzQTlZMlZ1ZEdWeUpUSkRZMlZ1ZEdWeUptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT0xMzUmYmxlbmQteD00MDA%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTExLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

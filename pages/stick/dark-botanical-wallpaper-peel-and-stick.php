@@ -1,0 +1,129 @@
+<title>Dark Botanical Peel and Stick Wallpaper: Easy Elegance</title>
+                    <meta name="description" content="Discover the allure of dark botanical wallpaper peel and stick options. Perfect for renters and home decorators, these wallpapers provide a stylish, easy-to-apply solution to elevate your space. Instantly transform your room with natural elegance and vibrant designs that can be effortlessly changed as needed.">
+                    <meta name="keywords" content="dark botanical wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/dark-botanical-wallpaper-peel-and-stick">
+                            <span itemprop="name">dark botanical wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Botanical Peel and Stick Wallpaper: Easy Elegance</h1>
+                <p>Transform your living space with dark botanical wallpaper peel and stick designs. Offering a blend of elegance and nature, these wallpapers provide an easy way to refresh any room. The adhesive backing allows for easy application and removal, making it perfect for renters. Add a touch of sophistication and depth to your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' alt='Dark Botanical Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Wallpaper Wallpaper Dark Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D931">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5697347978_oc92.jpg?v=1730247211&width=1946' alt='Whimsical Wallpaper Wallpaper Dark Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D931'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5697347978_oc92.jpg?v=1730247211&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Botanical Dark - Studio Exclusive">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' alt='Vintage Botanical Dark - Studio Exclusive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper, Peel and Stick Wallpaper Vintage, Leaves ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44242442/r/il/5c8594/5051195923/il_570xN.5051195923_ef9w.jpg' alt='Dark Botanical Wallpaper, Peel and Stick Wallpaper Vintage, Leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44242442/r/il/5c8594/5051195923/il_570xN.5051195923_ef9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' alt='Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark botanical wallpaper peel and stick vintage botanical wallpaper flowers  wall mural">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/products/dark-botanical-wallpaper-peel-and-stick-vintage-botanical-wallpaper-flowers-wall-muralwp386-546486.jpg?v=1696705721' alt='dark botanical wallpaper peel and stick vintage botanical wallpaper flowers  wall mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/products/dark-botanical-wallpaper-peel-and-stick-vintage-botanical-wallpaper-flowers-wall-muralwp386-546486.jpg?v=1696705721' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ismoon Black Peel and Stick Wallpaper Dark Leaf Stick on Wallpaper  Botanical Tropical Fern Wallpaper Vintage Leaf Contact Paper Removable  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' alt='Ismoon Black Peel and Stick Wallpaper Dark Leaf Stick on Wallpaper  Botanical Tropical Fern Wallpaper Vintage Leaf Contact Paper Removable  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1850">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper | Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' alt='Dark Botanical Wallpaper | Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/dark-botanical-removable-wallpaper-peel-and-stick-113191.png?v=1718902431' alt='Dark Botanical Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/dark-botanical-removable-wallpaper-peel-and-stick-113191.png?v=1718902431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Wallpaper Wallpaper Dark Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D931">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5745399897_dsql.jpg?v=1730247341&width=1946' alt='Whimsical Wallpaper Wallpaper Dark Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D931'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5745399897_dsql.jpg?v=1730247341&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

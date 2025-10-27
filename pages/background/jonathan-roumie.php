@@ -1,0 +1,129 @@
+<title>Jonathan Roumie: Star of "The Chosen"</title>
+                    <meta name="description" content="Explore the life and career of Jonathan Roumie, the talented actor who brings Jesus to life in "The Chosen." Discover his journey in acting, his dedication to authentic storytelling, and the impact he has made in the world of faith-based entertainment.">
+                    <meta name="keywords" content="jonathan roumie">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jonathan-roumie">
+                            <span itemprop="name">jonathan roumie</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jonathan Roumie: Star of "The Chosen"</h1>
+                <p>Jonathan Roumie is an American actor known for his captivating role as Jesus in the acclaimed TV series "The Chosen." With a passion for storytelling and deep character exploration, Roumie brings a unique depth to his performances. His commitment to faith and authenticity resonates with audiences worldwide, making him a beloved figure in the industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/ca/Jonathan_Roumie.jpg' alt='Jonathan Roumie - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="1169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/ca/Jonathan_Roumie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMDk1MmUwOGYtZTIzMC00MGI4LWFkNWMtNDFiZWUxMjMyNTZhXkEyXkFqcGc@._V1_.jpg' alt='Jonathan Roumie - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMDk1MmUwOGYtZTIzMC00MGI4LWFkNWMtNDFiZWUxMjMyNTZhXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjk1MDBhYzctZmFhMS00YTBmLWFkZWQtNWI0ODcwZDFmODA0XkEyXkFqcGc@._V1_.jpg' alt='Jonathan Roumie - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjk1MDBhYzctZmFhMS00YTBmLWFkZWQtNWI0ODcwZDFmODA0XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie | Castlevania Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/castlevania/images/b/b6/Jonathan_Roumie_-_01.jpg/revision/latest?cb=20231003183711' alt='Jonathan Roumie | Castlevania Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3497">
+                                <meta itemprop="height" content="2484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Castlevania Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/castlevania/images/b/b6/Jonathan_Roumie_-_01.jpg/revision/latest?cb=20231003183711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNGZmNzRjZjEtNjlhNi00OGQwLWIxYWItNjYzYTE5ZTkxYjA3XkEyXkFqcGc@._V1_.jpg' alt='Jonathan Roumie - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2664">
+                                <meta itemprop="height" content="3616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNGZmNzRjZjEtNjlhNi00OGQwLWIxYWItNjYzYTE5ZTkxYjA3XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Jonathan Roumie, who plays Jesus in The Chosen, the ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/06/11/494bbaff-a6a8-4fb5-b652-d37c8cefb283_63243445.jpg' alt='Who is Jonathan Roumie, who plays Jesus in The Chosen, the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/06/11/494bbaff-a6a8-4fb5-b652-d37c8cefb283_63243445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus Revolution': Jonathan Roumie Connects With Playing Hippie ...">
+                                <img itemprop="contentUrl url" src='https://275132.fs1.hubspotusercontent-na1.net/hubfs/275132/JONATHAN-ROUMIE-JESUS-REVOLUTION-FFB.jpg' alt='Jesus Revolution': Jonathan Roumie Connects With Playing Hippie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3287">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Theater Productions" />
+                                </span>
+                                <a href='https://275132.fs1.hubspotusercontent-na1.net/hubfs/275132/JONATHAN-ROUMIE-JESUS-REVOLUTION-FFB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To interpret Jesus, I always start by praying" - Omnes">
+                                <img itemprop="contentUrl url" src='https://www.omnesmag.com/wp-content/uploads/2022/10/J_Roumie_chosen.jpg' alt='To interpret Jesus, I always start by praying" - Omnes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Omnes" />
+                                </span>
+                                <a href='https://www.omnesmag.com/wp-content/uploads/2022/10/J_Roumie_chosen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Roumie | English Voice Over Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/english-voice-over/images/e/ed/Jonathan_Roumie.png/revision/latest/scale-to-width-down/220?cb=20171113062014&path-prefix=sv' alt='Jonathan Roumie | English Voice Over Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="English Voice Over Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/english-voice-over/images/e/ed/Jonathan_Roumie.png/revision/latest/scale-to-width-down/220?cb=20171113062014&path-prefix=sv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Jonathan Roumie? Meet The Actor Who Plays Jesus In 'The ...">
+                                <img itemprop="contentUrl url" src='https://hollywoodlife.com/wp-content/uploads/2023/07/Jonathan-Roumie-jesus-actor-5-things-embed2.jpg?resize=620%2C777' alt='Who Is Jonathan Roumie? Meet The Actor Who Plays Jesus In 'The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hollywood Life" />
+                                </span>
+                                <a href='https://hollywoodlife.com/wp-content/uploads/2023/07/Jonathan-Roumie-jesus-actor-5-things-embed2.jpg?resize=620%2C777' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

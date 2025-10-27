@@ -1,0 +1,129 @@
+<title>Spook-tacular Halloween Home Screen Wallpapers</title>
+                    <meta name="description" content="Discover a collection of vibrant Halloween home screen wallpapers perfect for adding a festive touch to your device. Choose from spooky scenes and fun designs to celebrate the season. Download now and refresh your home screen for Halloween thrills!">
+                    <meta name="keywords" content="halloween home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/halloween-home-screen-wallpaper">
+                            <span itemprop="name">halloween home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spook-tacular Halloween Home Screen Wallpapers</h1>
+                <p>Transform your device with spooky Halloween home screen wallpapers! Choose from eerie jack-o'-lanterns, ghostly figures, and haunted houses to get into the spooky spirit. Customize your home screen to celebrate the season with vibrant colors and festive designs that will thrill and chill. Embrace Halloween vibes every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/d7/98/71d798d00a10be84a748b324f4693210.jpg' alt='Halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/d7/98/71d798d00a10be84a748b324f4693210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Phone Background SET OF 5 Digital Download Multicoloured ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30507626/r/il/4be567/3336325784/il_fullxfull.3336325784_36eu.jpg' alt='Halloween Phone Background SET OF 5 Digital Download Multicoloured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30507626/r/il/4be567/3336325784/il_fullxfull.3336325784_36eu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Best October Wallpaper ideas | halloween wallpaper, october ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a2/ca/ce/a2cace43f21e74bb19eda9eb9f8703d0.jpg' alt='90 Best October Wallpaper ideas | halloween wallpaper, october ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a2/ca/ce/a2cace43f21e74bb19eda9eb9f8703d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFL7FpvkOw/1/0/1600w/canva-colorful-pastel-cute-halloween-desktop-wallpaper-J-M4mLIq3KM.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFL7FpvkOw/1/0/1600w/canva-colorful-pastel-cute-halloween-desktop-wallpaper-J-M4mLIq3KM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Minimalist Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-halloween-xv95sfry6b7wg0u7.jpg' alt='100+] Minimalist Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-halloween-xv95sfry6b7wg0u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2018 Halloween Candy Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2018/09/10_2018_wallpaper_iphone_x_quote.jpg' alt='October 2018 Halloween Candy Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2345">
+                                <meta itemprop="height" content="5076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2018/09/10_2018_wallpaper_iphone_x_quote.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home screen for October #Halloween    | Gallery posted by Into ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-alisg-v-a3e477-sg/c3e0bbdfd03e4304ab2881261f023416~tplv-tej9nj120t-origin.webp' alt='Home screen for October #Halloween    | Gallery posted by Into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-alisg-v-a3e477-sg/c3e0bbdfd03e4304ab2881261f023416~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkins, halloween, pumpkin, pumpkins, skulls, web, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1000/380/HD-wallpaper-halloween-pumpkins-halloween-pumpkin-pumpkins-skulls-web.jpg' alt='Halloween Pumpkins, halloween, pumpkin, pumpkins, skulls, web, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1000/380/HD-wallpaper-halloween-pumpkins-halloween-pumpkin-pumpkins-skulls-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Best halloween background scary and spooky pumpkin ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/best-halloween-background-scary-spooky-pumpkin-fire-around-mystic-night-cemetery_336913-342.jpg?w=360' alt='Premium Photo | Best halloween background scary and spooky pumpkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/best-halloween-background-scary-spooky-pumpkin-fire-around-mystic-night-cemetery_336913-342.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

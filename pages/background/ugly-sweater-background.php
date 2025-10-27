@@ -1,0 +1,129 @@
+<title>Ugly Sweater Background: Embrace the Holiday Spirit!</title>
+                    <meta name="description" content="Discover the charm of ugly sweater backgrounds that add fun to your holiday celebrations! Perfect for parties and gatherings, these quirky designs will elevate your festive spirit and create memorable moments. Explore our collection of unique styles for a delightful twist this season!">
+                    <meta name="keywords" content="ugly sweater background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ugly-sweater-background">
+                            <span itemprop="name">ugly sweater background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ugly Sweater Background: Embrace the Holiday Spirit!</h1>
+                <p>Ugly sweaters are a quirky holiday tradition that brings laughter and joy to gatherings. Often featuring outrageous patterns and vibrant colors, they serve as a fun backdrop for festive events. Embrace the charm of these peculiar garments and make a statement at your next holiday party, celebrating creativity and uniqueness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Sweater Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/845/872/non_2x/ugly-sweater-christmas-and-ornament-background-vector.jpg' alt='Ugly Sweater Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/845/872/non_2x/ugly-sweater-christmas-and-ornament-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 5x7ft Christmas Ugly Sweater Backdrop Get Ugly Party  Red and Green Sweater Background Winter Holiday Xmas Eve New Year Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1htqveiuNL.jpg' alt='Amazon.com : CHNYWORK 5x7ft Christmas Ugly Sweater Backdrop Get Ugly Party  Red and Green Sweater Background Winter Holiday Xmas Eve New Year Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1htqveiuNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Ugly Sweater Backdrop Red for Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/KateUglySweaterBackdropRedforPhotography7x5ftBH1036648D.jpg?v=1638773581' alt='Kate Ugly Sweater Backdrop Red for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/KateUglySweaterBackdropRedforPhotography7x5ftBH1036648D.jpg?v=1638773581' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Flat ugly sweater background for christmas season">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-ugly-sweater-background-christmas-season_23-2150962829.jpg' alt='Free Vector | Flat ugly sweater background for christmas season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-ugly-sweater-background-christmas-season_23-2150962829.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Sweater Background Images – Browse 46,784 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/48/92/26/360_F_548922629_j9I34bG8UJV7MXLpzXx6mAja2apI1ypu.jpg' alt='Ugly Sweater Background Images – Browse 46,784 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/48/92/26/360_F_548922629_j9I34bG8UJV7MXLpzXx6mAja2apI1ypu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="94 Ugly Sweater Background High Res Vector Graphics - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1194143093/vector/christmas-sweater-pattern.jpg?s=612x612&w=gi&k=20&c=XbdBEcELvUfZ288EvsZPOJ5grvHTXPoJV3xcOrokQ9Y=' alt='94 Ugly Sweater Background High Res Vector Graphics - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1194143093/vector/christmas-sweater-pattern.jpg?s=612x612&w=gi&k=20&c=XbdBEcELvUfZ288EvsZPOJ5grvHTXPoJV3xcOrokQ9Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ Ugly Sweater Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1341397179/vector/christmas-sweater-background-with-copyspace-vector-knitted-pattern.jpg?s=612x612&w=0&k=20&c=a1jd2ZLPai_q_kbEi8slqzLj1zlODRRq3l1tVqdrXhU=' alt='3,200+ Ugly Sweater Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1341397179/vector/christmas-sweater-background-with-copyspace-vector-knitted-pattern.jpg?s=612x612&w=0&k=20&c=a1jd2ZLPai_q_kbEi8slqzLj1zlODRRq3l1tVqdrXhU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funnytree Ugly Christmas Sweater Party Backdrop Tacky Blackboard Winter  Xmas Photography Background Elfed Kids Chalkboard Photobooth Decorations ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CQr54Y+nL._AC_UF894,1000_QL80_.jpg' alt='Funnytree Ugly Christmas Sweater Party Backdrop Tacky Blackboard Winter  Xmas Photography Background Elfed Kids Chalkboard Photobooth Decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CQr54Y+nL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Christmas Sweater Background Vector Images (over 4,300)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/05/79/christmas-sweater-seamless-pattern-background-vector-44400579.jpg' alt='Ugly Christmas Sweater Background Vector Images (over 4,300)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/05/79/christmas-sweater-seamless-pattern-background-vector-44400579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Sweater Background Images – Browse 46,784 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/89/55/84/360_F_389558421_zfDXNyzskAROxF8lk0laIzVZtOZ0qCJg.jpg' alt='Ugly Sweater Background Images – Browse 46,784 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/89/55/84/360_F_389558421_zfDXNyzskAROxF8lk0laIzVZtOZ0qCJg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

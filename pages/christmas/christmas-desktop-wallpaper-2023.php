@@ -1,0 +1,129 @@
+<title>2023 Christmas Desktop Wallpaper: Festive Backgrounds</title>
+                    <meta name="description" content="Discover the best Christmas desktop wallpapers for 2023! Elevate your holiday spirit with beautiful, festive designs that brighten your day. Perfect for any screen, these wallpapers bring the joy of the season right to your desktop. Download now and enjoy a winter wonderland every time you log in!">
+                    <meta name="keywords" content="christmas desktop wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-desktop-wallpaper-2023">
+                            <span itemprop="name">christmas desktop wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>2023 Christmas Desktop Wallpaper: Festive Backgrounds</h1>
+                <p>Celebrate the festive spirit with stunning Christmas desktop wallpapers for 2023! From cozy cabin scenes to dazzling winter landscapes, these wallpapers will transform your screen into a holiday wonderland. Download the perfect backdrop to enhance your mood and get into the holiday spirit every time you log in!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFRXwrj4Qk/1/0/1600w/canva-green-minimalist-christmas-2023-december-wallpaper-V2LdfZNgELU.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFRXwrj4Qk/1/0/1600w/canva-green-minimalist-christmas-2023-december-wallpaper-V2LdfZNgELU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas 2023 Wallpaper, HD Holidays 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/christmas-2023_bWxramuUmZqaraWkpJRoZWVlrWdlZWU.jpg' alt='Christmas 2023 Wallpaper, HD Holidays 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/christmas-2023_bWxramuUmZqaraWkpJRoZWVlrWdlZWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Calendar Desktop Wallpaper | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-5-1024x576.png' alt='December Calendar Desktop Wallpaper | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/10/December-2023-Calendar-Desktop-Wallpaper-By-EntheosWeb-5-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 wallpapers – 96 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday34.jpg' alt='December 2023 wallpapers – 96 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/11/December-2023-wallpapers-OhSoLovelyBlog.com-Sunday34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/12-2023/december-2023-wallpaper-calendar-christmas-tree-1440x900.jpg' alt='December 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/12-2023/december-2023-wallpaper-calendar-christmas-tree-1440x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Calendar Desktop Wallpaper | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/23/d2/da23d2d884f26cb62d4f71324eebbadf.jpg' alt='December Calendar Desktop Wallpaper | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/23/d2/da23d2d884f26cb62d4f71324eebbadf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas HD 2023 Wallpaper, HD Holidays 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/christmas-hd-2023_bW1rZ22UmZqaraWkpJRnZmdlrWZmbmc.jpg' alt='Christmas HD 2023 Wallpaper, HD Holidays 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2120">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/christmas-hd-2023_bW1rZ22UmZqaraWkpJRnZmdlrWZmbmc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas 2023 Happy New Year Abstract, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/914/698/HD-wallpaper-merry-christmas-2023-happy-new-year-abstract.jpg' alt='Merry Christmas 2023 Happy New Year Abstract, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/914/698/HD-wallpaper-merry-christmas-2023-happy-new-year-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Day 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11655967.jpg' alt='Christmas Day 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11655967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

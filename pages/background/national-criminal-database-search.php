@@ -1,0 +1,129 @@
+<title>National Criminal Database Search: Your Key to Safety</title>
+                    <meta name="description" content="Discover the importance of a national criminal database search for background checks and safety. Access comprehensive criminal records to make informed decisions for hiring, volunteering, and more. Ensure safety and accountability today!">
+                    <meta name="keywords" content="national criminal database search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/national-criminal-database-search">
+                            <span itemprop="name">national criminal database search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>National Criminal Database Search: Your Key to Safety</h1>
+                <p>A national criminal database search is a vital tool for background checks and public safety. It allows individuals and organizations to identify criminal records across jurisdictions, ensuring informed decisions. From employers to volunteers, accessing this database promotes safety and accountability while streamlining hiring processes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affordable Background Checks Made Easy | NCS">
+                                <img itemprop="contentUrl url" src='https://www.nationalcrimesearch.com/wp-content/uploads/sites/179/2023/01/ncs-suit-stacked-01.png' alt='Affordable Background Checks Made Easy | NCS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3155">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.nationalcrimesearch.com" />
+                                </span>
+                                <a href='https://www.nationalcrimesearch.com/wp-content/uploads/sites/179/2023/01/ncs-suit-stacked-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Database Search Employment Screening">
+                                <img itemprop="contentUrl url" src='https://www.hremploymentscreening.com/images-services/national-criminal-database-search.gif' alt='National Criminal Database Search Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening solutions for HR Professionals" />
+                                </span>
+                                <a href='https://www.hremploymentscreening.com/images-services/national-criminal-database-search.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nationwide Criminal Database Search - Accurate Public Records">
+                                <img itemprop="contentUrl url" src='https://accuratepublicrecords.com/wp-content/uploads/2021/07/National-Criminal-Database-Alias-Search-1200x1553.png' alt='Nationwide Criminal Database Search - Accurate Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Public Records" />
+                                </span>
+                                <a href='https://accuratepublicrecords.com/wp-content/uploads/2021/07/National-Criminal-Database-Alias-Search-1200x1553.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Database Search Employment Screening">
+                                <img itemprop="contentUrl url" src='https://www.hremploymentscreening.com/sample/hremp-national-criminal-database-search-sample.jpg' alt='National Criminal Database Search Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening solutions for HR Professionals" />
+                                </span>
+                                <a href='https://www.hremploymentscreening.com/sample/hremp-national-criminal-database-search-sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Records Search | Online Background Check Service">
+                                <img itemprop="contentUrl url" src='https://hireshield.com/wp-content/uploads/2018/09/National-Criminal-Records.png' alt='National Criminal Records Search | Online Background Check Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireShield" />
+                                </span>
+                                <a href='https://hireshield.com/wp-content/uploads/2018/09/National-Criminal-Records.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Your Organization Needs to Know About the National Criminal ...">
+                                <img itemprop="contentUrl url" src='https://www.activescreening.com/wp-content/uploads/2024/09/What-Organizations-Need-to-Know-About-the-National-Criminal-Database-Search-1080x624.png' alt='What Your Organization Needs to Know About the National Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Active Screening" />
+                                </span>
+                                <a href='https://www.activescreening.com/wp-content/uploads/2024/09/What-Organizations-Need-to-Know-About-the-National-Criminal-Database-Search-1080x624.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a National Criminal Database Search?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KuQ68WS-E-8/hqdefault.jpg' alt='What is a National Criminal Database Search?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KuQ68WS-E-8/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Records Search - ClearCheck">
+                                <img itemprop="contentUrl url" src='https://clearcheck.app/wp-content/uploads/2023/04/Clearcheck-National-Criminal.png' alt='National Criminal Records Search - ClearCheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearCheck" />
+                                </span>
+                                <a href='https://clearcheck.app/wp-content/uploads/2023/04/Clearcheck-National-Criminal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Database Search: A Complete Guide for Employers">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2023/01/National-Criminal-Database-Search.jpg' alt='National Criminal Database Search: A Complete Guide for Employers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2023/01/National-Criminal-Database-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Good, The Bad, and The Ugly of Relying on a National Criminal ...">
+                                <img itemprop="contentUrl url" src='https://applicationverification.com/wp-content/uploads/2024/11/NATIONAL-CRIMINAL-DATABASES-1-1.png' alt='The Good, The Bad, and The Ugly of Relying on a National Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProVerify" />
+                                </span>
+                                <a href='https://applicationverification.com/wp-content/uploads/2024/11/NATIONAL-CRIMINAL-DATABASES-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Ceiling Wallpaper for Cosmic Decor</title>
+                    <meta name="description" content="Discover the beauty of galaxy ceiling wallpaper, perfect for creating a magical space. Ideal for bedrooms and playrooms, this cosmic decor brings the universe indoors. Easy to install and remove, it transforms any room into a dreamy retreat. Explore your options and elevate your home style today!">
+                    <meta name="keywords" content="galaxy ceiling wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-ceiling-wallpaper">
+                            <span itemprop="name">galaxy ceiling wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Ceiling Wallpaper for Cosmic Decor</h1>
+                <p>Transform your space with stunning galaxy ceiling wallpaper! This celestial design immerses your room in a cosmic ambiance, making it perfect for stargazers and dreamers alike. Easy to apply and remove, it's an ideal choice for bedrooms, playrooms, or home theaters. Elevate your decor with a touch of the universe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Perceive the Galaxy CA3367 Ceiling Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/0c26f1/3463200039/il_fullxfull.3463200039_ru1w.jpg' alt='3D Perceive the Galaxy CA3367 Ceiling Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1846">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/0c26f1/3463200039/il_fullxfull.3463200039_ru1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MILUXUEXUN 3D Ceiling Wallpaper Interstellar Universe Galaxy Room Ceiling  Wall Painting Living Room Bedroom Wallpaper Home Decoration - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jBXlFt0cL.jpg' alt='MILUXUEXUN 3D Ceiling Wallpaper Interstellar Universe Galaxy Room Ceiling  Wall Painting Living Room Bedroom Wallpaper Home Decoration - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jBXlFt0cL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AJ WALLPAPER 3D Galaxy Starlight A2362 Ceiling Wall Paper Wall Print Decal  Self-Adhesive Large Ceiling Wallpaper AJ US Panda 23 Sep (Wovenpaper Need  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qELCTPSPL.jpg' alt='AJ WALLPAPER 3D Galaxy Starlight A2362 Ceiling Wall Paper Wall Print Decal  Self-Adhesive Large Ceiling Wallpaper AJ US Panda 23 Sep (Wovenpaper Need  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qELCTPSPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Living Room Bedroom | Galaxy 3d Wallpaper Ceiling - Custom 3d  Photo - Aliexpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Hf5dc9ce1a79e4b229c0f8987d539db58u.jpg' alt='Wallpapers Living Room Bedroom | Galaxy 3d Wallpaper Ceiling - Custom 3d  Photo - Aliexpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Hf5dc9ce1a79e4b229c0f8987d539db58u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Blue and Purple Galaxy CA2997 Ceiling Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/115c73/3410929906/il_fullxfull.3410929906_ic5r.jpg' alt='3D Blue and Purple Galaxy CA2997 Ceiling Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1846">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/115c73/3410929906/il_fullxfull.3410929906_ic5r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Star Ceiling Mural For Living Room And Blue Bedroom Walls ...">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M01/07/57/rBVaV13VOWCAFymtAAL7o-lTP-4776.jpg' alt='Fantasy Star Ceiling Mural For Living Room And Blue Bedroom Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M01/07/57/rBVaV13VOWCAFymtAAL7o-lTP-4776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Night Starry Sky NA1171 Ceiling WallPaper Murals Wall Print ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/bLEAAOSw3eNhQq9z/s-l1200.jpg' alt='3D Night Starry Sky NA1171 Ceiling WallPaper Murals Wall Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="925">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/bLEAAOSw3eNhQq9z/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Galaxy Ceiling Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://cdn.thisiswhyimbroke.com/images/3d-galaxy-ceiling-wallpaper-mural-dhgate-640x533.jpg' alt='3D Galaxy Ceiling Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThisIsWhyImBroke" />
+                                </span>
+                                <a href='https://cdn.thisiswhyimbroke.com/images/3d-galaxy-ceiling-wallpaper-mural-dhgate-640x533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Size Blue Aurora Galaxy Ceiling Mural (㎡)">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/High-Quality-Custom-Size-3D-Murales-Carta-Da-Parati-Blue-Aurora-Universe-Galaxy-Suspended-Ceiling-Background_4e2d33fa-7dcf-4c6d-879a-01657f3ed894_2048x.jpg?v=1571609121' alt='Custom Size Blue Aurora Galaxy Ceiling Mural (㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/High-Quality-Custom-Size-3D-Murales-Carta-Da-Parati-Blue-Aurora-Universe-Galaxy-Suspended-Ceiling-Background_4e2d33fa-7dcf-4c6d-879a-01657f3ed894_2048x.jpg?v=1571609121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Galaxy Planet 1002 Adrian Chesterman Ceiling Wallpaper Murals ...">
+                                <img itemprop="contentUrl url" src='https://www.ajwallpaper.com/cdn/shop/products/DTBMB022765_e6d481ac-0a66-4d82-b842-6e87e2f538a2.jpg?v=1669268621' alt='3D Galaxy Planet 1002 Adrian Chesterman Ceiling Wallpaper Murals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1654">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AJ Wallpaper" />
+                                </span>
+                                <a href='https://www.ajwallpaper.com/cdn/shop/products/DTBMB022765_e6d481ac-0a66-4d82-b842-6e87e2f538a2.jpg?v=1669268621' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

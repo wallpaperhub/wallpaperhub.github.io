@@ -1,0 +1,129 @@
+<title>Elevate Your Space: White & Silver Wallpaper Ideas</title>
+                    <meta name="description" content="Discover the elegance of white and silver wallpaper. Perfect for adding a touch of sophistication to any room, this wallpaper enhances your decor while creating a serene atmosphere. Explore design ideas that transform your space into a stylish oasis with ease.">
+                    <meta name="keywords" content="white and silver wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-and-silver-wallpaper">
+                            <span itemprop="name">white and silver wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: White & Silver Wallpaper Ideas</h1>
+                <p>Transform your space with elegant white and silver wallpaper. This stylish choice adds a touch of sophistication and serenity, seamlessly enhancing modern and classic interiors alike. Perfect for any room, its delicate patterns create an illusion of depth and light, while providing a timeless backdrop for your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antonina Vella Modern Metals Ebb And Flow Wallpaper - Off White & Silver">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW3516-Antonina-Vella-Modern-Metals-Ebb-And-Flow-Wallpaper-White-Silver.jpg?v=1571709020' alt='Antonina Vella Modern Metals Ebb And Flow Wallpaper - Off White & Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1770">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW3516-Antonina-Vella-Modern-Metals-Ebb-And-Flow-Wallpaper-White-Silver.jpg?v=1571709020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eternity White and Silver Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8948/13939/104067_2__38100.1682003051.jpg' alt='Eternity White and Silver Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8948/13939/104067_2__38100.1682003051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Josette Metallic Silver Non Woven Unpasted Removable  Strippable Wallpaper 113379">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/68ad3e94-8ea8-421a-94b9-da5839913246/svn/laura-ashley-wallpaper-rolls-113379-64_300.jpg' alt='Laura Ashley Josette Metallic Silver Non Woven Unpasted Removable  Strippable Wallpaper 113379'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/68ad3e94-8ea8-421a-94b9-da5839913246/svn/laura-ashley-wallpaper-rolls-113379-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern wallpaper – Tagged "silver-wallpaper" – wallcoveringsmart">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/98p978657646_75f4e0a5-8a24-48b1-ba92-47a5571c8226_480x480.jpg?v=1638973669' alt='Modern wallpaper – Tagged "silver-wallpaper" – wallcoveringsmart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/98p978657646_75f4e0a5-8a24-48b1-ba92-47a5571c8226_480x480.jpg?v=1638973669' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moroccan Damask Wallpaper in White and Silver">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/296302-1_c96e29ff-14c3-4725-9d13-38125fa0b14a.webp?v=1706107524&width=1024' alt='Moroccan Damask Wallpaper in White and Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/296302-1_c96e29ff-14c3-4725-9d13-38125fa0b14a.webp?v=1706107524&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bellagio Floral by Albany - White Silver - Wallpaper - M95633">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/209985/main/albany-bellagio-floral-white-silver-wallpaper-1@lg.webp?v=1691069796' alt='Bellagio Floral by Albany - White Silver - Wallpaper - M95633'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/209985/main/albany-bellagio-floral-white-silver-wallpaper-1@lg.webp?v=1691069796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver & White Metallic Scroll Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/silver-white-metallic-scroll-wallpaper-twqr.jpg' alt='Silver & White Metallic Scroll Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/silver-white-metallic-scroll-wallpaper-twqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Silver">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ILW026_Liquid-Marble_Silver-Thumbnail_WEB_7e769a64-5dbc-4d60-8751-5af499b57d76.webp?crop=center&height=850&v=1706102126&width=850' alt='Liquid Marble Wallpaper in Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ILW026_Liquid-Marble_Silver-Thumbnail_WEB_7e769a64-5dbc-4d60-8751-5af499b57d76.webp?crop=center&height=850&v=1706102126&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MelunMer White and Silver Peel and Stick Wallpaper Modern 118In L 17.7InW  Self Adhesive Removable Wallpaper White Contact Paper for Cabinets Stripe  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81T1RoexmbL.jpg' alt='MelunMer White and Silver Peel and Stick Wallpaper Modern 118In L 17.7InW  Self Adhesive Removable Wallpaper White Contact Paper for Cabinets Stripe  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81T1RoexmbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WM4199501 Wallpaper White Gray Silver Geometric Trellis Metallic ...">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/s-l1600_5_ee547b20-2462-4e9f-8277-f6c886226d0e_480x480.jpg?v=1607878392' alt='WM4199501 Wallpaper White Gray Silver Geometric Trellis Metallic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/s-l1600_5_ee547b20-2462-4e9f-8277-f6c886226d0e_480x480.jpg?v=1607878392' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

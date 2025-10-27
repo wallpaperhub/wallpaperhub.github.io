@@ -1,0 +1,129 @@
+<title>Stunning Mandalorian Wallpaper for Fans</title>
+                    <meta name="description" content="Explore our collection of Mandalorian wallpaper perfect for all Star Wars enthusiasts. Discover vibrant designs and captivating scenes to personalize your devices with the essence of your favorite series. Transform your screens today!">
+                    <meta name="keywords" content="mandalorian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mandalorian-wallpaper">
+                            <span itemprop="name">mandalorian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mandalorian Wallpaper for Fans</h1>
+                <p>Enhance your device's aesthetics with stunning Mandalorian wallpaper! Dive into the universe of the beloved Star Wars series, featuring iconic characters and breathtaking scenes. Perfect for fans who want to showcase their love for the Mandalorian. Discover a variety of styles, from minimalistic designs to vibrant illustrations, suitable for any screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Komar Star Wars Non-Woven Photo Wallpaper - The Mandalorian Gunslingers -  Size 200 x 250 cm - Children's Bedroom Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81b6IMzIuJL._AC_UF894,1000_QL80_.jpg' alt='Komar Star Wars Non-Woven Photo Wallpaper - The Mandalorian Gunslingers -  Size 200 x 250 cm - Children's Bedroom Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="802">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81b6IMzIuJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Wallpapers (70 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/1/6/11714-3840x2160-desktop-4k-the-mandalorian-wallpaper-image.jpg' alt='The Mandalorian Wallpapers (70 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/1/6/11714-3840x2160-desktop-4k-the-mandalorian-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi-Res 'The Mandalorian' Promo Art / Desktop Wallpaper (5000 x ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3rs2yx311cu31.jpg' alt='Hi-Res 'The Mandalorian' Promo Art / Desktop Wallpaper (5000 x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3rs2yx311cu31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mandalorian wallpapers 2025 4k">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/mandalorian-2023-fanart_bmZra2yUmZqaraWkpJRnbmZnrWZraGc.jpg' alt='Mandalorian wallpapers 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/mandalorian-2023-fanart_bmZra2yUmZqaraWkpJRnbmZnrWZraGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian HD phone wallpapers 1080p">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/31/9f/a4319f7b0dbc44cf506a72b92ad77e79.jpg' alt='The Mandalorian HD phone wallpapers 1080p'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/31/9f/a4319f7b0dbc44cf506a72b92ad77e79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian and Grogu HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/110/1103710.jpg' alt='The Mandalorian and Grogu HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/110/1103710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian 4K Ultra HD Wallpaper by the mandaloria">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/130/1307233.png' alt='The Mandalorian 4K Ultra HD Wallpaper by the mandaloria'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="2363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/130/1307233.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An epic mandalorian wallpaper : r/TheMandalorianTV">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v4z36bzg1ny31.jpg?width=1080&crop=smart&auto=webp&s=060e092cead85781a73a84d4b567cb6aba0aa528' alt='An epic mandalorian wallpaper : r/TheMandalorianTV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v4z36bzg1ny31.jpg?width=1080&crop=smart&auto=webp&s=060e092cead85781a73a84d4b567cb6aba0aa528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mandalorian Wallpaper Mobile - HeroWall | Phone Backgrounds. Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjOJ1AhV3ms7dWm5USPCSUgcMYhyTJRRmk8CdnzdX5bUzdAar7xZl_4VgVsMQFNjb3hhz7zLiStsQ320at1OQuwJQm9zuGRZrK-LT5v28bOA4QFgK0mvPkSov7-VaGovLLReDnYnndeWKTdn8O3wydyAiEVzU0Od2B-0q_OTjSjE4Yam5rgKWdOZqAsnaE' alt='Mandalorian Wallpaper Mobile - HeroWall | Phone Backgrounds. Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjOJ1AhV3ms7dWm5USPCSUgcMYhyTJRRmk8CdnzdX5bUzdAar7xZl_4VgVsMQFNjb3hhz7zLiStsQ320at1OQuwJQm9zuGRZrK-LT5v28bOA4QFgK0mvPkSov7-VaGovLLReDnYnndeWKTdn8O3wydyAiEVzU0Od2B-0q_OTjSjE4Yam5rgKWdOZqAsnaE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Star Wars Battle Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-mandalorian-bounty-hunter-hl5fs7vx440afjbl.webp' alt='The Mandalorian Star Wars Battle Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-mandalorian-bounty-hunter-hl5fs7vx440afjbl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

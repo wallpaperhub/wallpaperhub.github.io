@@ -1,0 +1,129 @@
+<title>Aesthetic Pastel Kawaii Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover enchanting pastel kawaii wallpaper that brightens any room with its soft colors and playful designs. Perfect for creating a cozy aesthetic vibe, this charming wallpaper is ideal for kids’ rooms, nurseries, or any space yearning for a touch of sweetness and whimsy. Elevate your decor today!">
+                    <meta name="keywords" content="aesthetic:mjtdmxrali8= pastel kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/aestheticmjtdmxrali8-pastel-kawaii-wallpaper">
+                            <span itemprop="name">aesthetic:mjtdmxrali8= pastel kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Pastel Kawaii Wallpaper for Your Space</h1>
+                <p>Transform your space with pastel kawaii wallpaper that brings soft, charming vibes to your room. Inspired by playful designs and a gentle color palette, this aesthetic wallpaper creates a dreamy atmosphere. Perfect for young hearts and cozy corners, let your walls reflect a delightful kawaii essence for a soothing visual treat!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii pastel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/fa/d3/7ffad34e644df9677ab753f2d4545481.jpg' alt='Kawaii pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/fa/d3/7ffad34e644df9677ab753f2d4545481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Pastel Aesthetic ideas | kawaii wallpaper, pastel aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b5/1d/92/b51d92d112cb5a4bed6e64c02da58145.jpg' alt='310 Pastel Aesthetic ideas | kawaii wallpaper, pastel aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b5/1d/92/b51d92d112cb5a4bed6e64c02da58145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Kawaii Iphone Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-kawaii-iphone-art-bi29j7olws099sny.jpg' alt='Pastel Kawaii Iphone Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-kawaii-iphone-art-bi29j7olws099sny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Pastel Aesthetic ideas | kawaii wallpaper, pastel aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b1/f3/82/b1f382d56da1571a3c630e84daeaf50c.jpg' alt='310 Pastel Aesthetic ideas | kawaii wallpaper, pastel aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b1/f3/82/b1f382d56da1571a3c630e84daeaf50c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creds:lllillli08">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/89/73/6f8973ac0d61cb0249611ac8ba2d35bc.jpg' alt='Creds:lllillli08'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/89/73/6f8973ac0d61cb0249611ac8ba2d35bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pastel Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/8I0XERh9txGaGqeBlQzAUFNfci4KAKROIipXBmkXt1ymIDLdNoyxuNRGxGihH2pD_w=w526-h296-rw' alt='Kawaii Pastel Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/8I0XERh9txGaGqeBlQzAUFNfci4KAKROIipXBmkXt1ymIDLdNoyxuNRGxGihH2pD_w=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Pastel Kawaii party ideas | kawaii, kawaii wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b1/8c/e0/b18ce09b8ea3dd04fdebefe61c5cb3fd.jpg' alt='900+ Pastel Kawaii party ideas | kawaii, kawaii wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b1/8c/e0/b18ce09b8ea3dd04fdebefe61c5cb3fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel, kawaii, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/491/66/HD-wallpaper-pastel-kawaii.jpg' alt='Pastel, kawaii, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/491/66/HD-wallpaper-pastel-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pastel Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/ZfY3Rplbykq3NeAAUrKzC5-uSTAi2mPlk8HWRjqvirQHp1IPH1iiFEAHiX3l5PYh69E=w526-h296-rw' alt='Kawaii Pastel Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/ZfY3Rplbykq3NeAAUrKzC5-uSTAi2mPlk8HWRjqvirQHp1IPH1iiFEAHiX3l5PYh69E=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pastel Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/mZgcJNURpFtigE-uNR4bxYiSNFyyPTk1WRAl9HV3eiThgOeRqJG4b-2YmsBZdnXpvQ=w526-h296-rw' alt='Kawaii Pastel Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/mZgcJNURpFtigE-uNR4bxYiSNFyyPTk1WRAl9HV3eiThgOeRqJG4b-2YmsBZdnXpvQ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

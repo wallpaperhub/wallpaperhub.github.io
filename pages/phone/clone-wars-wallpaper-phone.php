@@ -1,0 +1,129 @@
+<title>Stunning Clone Wars Wallpaper for Your Phone</title>
+                    <meta name="description" content="Discover a collection of breathtaking Clone Wars wallpapers for your phone! Perfect for fans of the saga, these high-quality images enhance your device's aesthetic, showcasing memorable battles and characters. Download your favorites and elevate your phone's look effortlessly. Explore the galaxy in style today!">
+                    <meta name="keywords" content="clone wars wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/clone-wars-wallpaper-phone">
+                            <span itemprop="name">clone wars wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Clone Wars Wallpaper for Your Phone</h1>
+                <p>Transform your phone's look with stunning Clone Wars wallpapers! Featuring epic battles, iconic characters, and vibrant artwork, these wallpapers immerse you in the Star Wars universe. Perfect for fans wanting to showcase their love for the saga, these designs bring action and adventure to your device every day. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can anyone identify these clones on this phone wallpaper? I only ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/can-anyone-identify-these-clones-on-this-phone-wallpaper-i-v0-tb2wmvgzwbnb1.jpg?auto=webp&s=4b1a8de5d0f0a2ea3fd5d2518df7d1a4ce6ab1c4' alt='Can anyone identify these clones on this phone wallpaper? I only ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/can-anyone-identify-these-clones-on-this-phone-wallpaper-i-v0-tb2wmvgzwbnb1.jpg?auto=webp&s=4b1a8de5d0f0a2ea3fd5d2518df7d1a4ce6ab1c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I couldn't find a decent looking textless version of the Clone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p1e19bzc3qr81.png' alt='I couldn't find a decent looking textless version of the Clone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p1e19bzc3qr81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/78/c7/1878c7fc0a54ddcaf81a959ffa2894d5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/78/c7/1878c7fc0a54ddcaf81a959ffa2894d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars The Clone Wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/967/725/HD-wallpaper-star-wars-the-clone-wars.jpg' alt='Star Wars The Clone Wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/967/725/HD-wallpaper-star-wars-the-clone-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/6a/6a/da6a6a7f0ffbfff963ac49ca926688ad.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/6a/6a/da6a6a7f0ffbfff963ac49ca926688ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clone Troopers iPhone, Clone Wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/544/HD-wallpaper-clone-troopers-iphone-clone-wars.jpg' alt='Clone Troopers iPhone, Clone Wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/544/HD-wallpaper-clone-troopers-iphone-clone-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Star Wars wallpapers : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/j83343ifz9t91.jpg?width=640&crop=smart&auto=webp&s=be9211eb425f8d8684f5e46513c4bd3fee29bae6' alt='More Star Wars wallpapers : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/j83343ifz9t91.jpg?width=640&crop=smart&auto=webp&s=be9211eb425f8d8684f5e46513c4bd3fee29bae6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star wars, clone wars, movie, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/741/306/HD-wallpaper-star-wars-clone-wars-movie.jpg' alt='Star wars, clone wars, movie, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/741/306/HD-wallpaper-star-wars-clone-wars-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: The Clone Wars Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/05/ispazio-20.jpg' alt='Star Wars: The Clone Wars Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/05/ispazio-20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clone trooper, Star Wars, fire, 950x1534 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/03/6a/c0036a48d11532f0dfb99eebf5ace718.jpg' alt='Clone trooper, Star Wars, fire, 950x1534 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/03/6a/c0036a48d11532f0dfb99eebf5ace718.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

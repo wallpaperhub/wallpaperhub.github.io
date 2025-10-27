@@ -1,0 +1,129 @@
+<title>Funny Thanksgiving Backgrounds: A Feast of Laughter</title>
+                    <meta name="description" content="Discover the funniest Thanksgiving backgrounds to add humor to your celebration. From silly turkeys to quirky quotes, these entertaining visuals are perfect for setting a light-hearted atmosphere for your holiday festivities. Celebrate with laughter this Thanksgiving!">
+                    <meta name="keywords" content="funny thanksgiving background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-thanksgiving-background">
+                            <span itemprop="name">funny thanksgiving background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Thanksgiving Backgrounds: A Feast of Laughter</h1>
+                <p>Get ready to laugh this Thanksgiving with a hilarious background that brings the fun to the feast! Picture turkeys in sunglasses, pumpkins wearing goofy hats, and chefs struggling with oversized dishes. Add some witty quotes about family and food, and you have a backdrop that will spark joy and chuckles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="291 Funny Happy Thanksgiving Photos, Pictures And Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-turkey-in-a-hat-and-sunglasses-sitting-on-a-wooden-table-image_2677427.jpg' alt='291 Funny Happy Thanksgiving Photos, Pictures And Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-turkey-in-a-hat-and-sunglasses-sitting-on-a-wooden-table-image_2677427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,100+ Funny Thanksgiving Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1133880451/photo/dog-begging-for-food.jpg?s=612x612&w=0&k=20&c=6IUsu7-4Xhksrsoee22vLekXfblwW4JE9nFrGOWA3ks=' alt='8,100+ Funny Thanksgiving Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1133880451/photo/dog-begging-for-food.jpg?s=612x612&w=0&k=20&c=6IUsu7-4Xhksrsoee22vLekXfblwW4JE9nFrGOWA3ks=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Thanksgiving Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-thanksgiving-xh1ypam3a4h2xcv3.jpg' alt='100+] Funny Thanksgiving Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-thanksgiving-xh1ypam3a4h2xcv3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Thanksgiving Man Turkey Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/funny-thanksgiving-man-turkey-3twjj0uz0cg3d8l5.jpg' alt='Funny Thanksgiving Man Turkey Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/funny-thanksgiving-man-turkey-3twjj0uz0cg3d8l5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilarious Thanksgiving Family Photo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hilarious-thanksgiving-family-photo-1jyqgi1yfqoquigu.jpg' alt='Hilarious Thanksgiving Family Photo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hilarious-thanksgiving-family-photo-1jyqgi1yfqoquigu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Pictures Funny Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-turkeys-on-a-thanksgiving-dinner-table-with-desserts-on-the-table-image_2682913.jpg' alt='Thanksgiving Pictures Funny Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-turkeys-on-a-thanksgiving-dinner-table-with-desserts-on-the-table-image_2682913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stuffed - Funny Thanksgiving Zoom Background — Learn Funny Jokes">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f024ccc9fa198769d8942bf/1605995139491-0VZD2QYVQ0O8ZHQT8Q29/Funny+Zoom+Background+-+Stuffed.png?format=500w' alt='Stuffed - Funny Thanksgiving Zoom Background — Learn Funny Jokes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Funny Jokes" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f024ccc9fa198769d8942bf/1605995139491-0VZD2QYVQ0O8ZHQT8Q29/Funny+Zoom+Background+-+Stuffed.png?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67,000+ Turkey Funny Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1421755155/photo/thanks-giving-turkey.jpg?s=612x612&w=0&k=20&c=A6u7BR-BjHeLmZDgiB1dAKPnqq-ySlaSIMilhz9hONs=' alt='67,000+ Turkey Funny Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1421755155/photo/thanks-giving-turkey.jpg?s=612x612&w=0&k=20&c=A6u7BR-BjHeLmZDgiB1dAKPnqq-ySlaSIMilhz9hONs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Funny Images – Browse 93,942 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/00/40/80/360_F_300408044_AOY6X8rC8Q7ZKII40zGCMa4EEGRc8YQ9.jpg' alt='Thanksgiving Funny Images – Browse 93,942 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/00/40/80/360_F_300408044_AOY6X8rC8Q7ZKII40zGCMa4EEGRc8YQ9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="free thanksgiving turkeys 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cf/4e/f6/cf4ef6209164c21e255b0546724792a7.gif' alt='free thanksgiving turkeys 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cf/4e/f6/cf4ef6209164c21e255b0546724792a7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

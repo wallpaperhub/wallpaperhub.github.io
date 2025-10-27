@@ -1,0 +1,129 @@
+<title>Stunning Tree of Life Images: Explore Nature's Connections</title>
+                    <meta name="description" content="Discover a captivating collection of tree of life images that highlight the beauty and diversity of our planet. Explore the intricate connections among all living beings and appreciate the importance of preserving nature's ecosystems. Perfect for nature lovers and educators seeking inspiration.">
+                    <meta name="keywords" content="tree of life images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tree-of-life-images">
+                            <span itemprop="name">tree of life images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tree of Life Images: Explore Nature's Connections</h1>
+                <p>Tree of life images capture the essence of biodiversity and interconnectedness of all living things. These striking visuals showcase the intricate web of life, from the smallest microorganisms to towering trees. Each image serves as a reminder of the beauty and complexity of our planet's ecosystems and the importance of preserving them for future generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of life - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b9/Yggdrasil.jpg' alt='Tree of life - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b9/Yggdrasil.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life">
+                                <img itemprop="contentUrl url" src='https://www.realsteelcenter.com/cdn/shop/products/realsteelcenter_tree-of-life_black.jpg?v=1596015107' alt='Tree of Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RealSteel Center" />
+                                </span>
+                                <a href='https://www.realsteelcenter.com/cdn/shop/products/realsteelcenter_tree-of-life_black.jpg?v=1596015107' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tree of Life Symbol Meaning | House of Lor Pure Irish Gold ...">
+                                <img itemprop="contentUrl url" src='https://houseoflor.com/wp-content/uploads/2021/09/pexels-felix-mittermeier-1792626-scaled.jpg' alt='The Tree of Life Symbol Meaning | House of Lor Pure Irish Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1857">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Of Lor" />
+                                </span>
+                                <a href='https://houseoflor.com/wp-content/uploads/2021/09/pexels-felix-mittermeier-1792626-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life by Wall Wonder">
+                                <img itemprop="contentUrl url" src='https://cdn-thumbs.ohmyprints.net/1/186796d21aba0d575a531c1d791bd445/817x600/thumbnail/fit.jpg' alt='Tree of Life by Wall Wonder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tree of Life by Wall Wonder on canvas, poster, wallpaper and more" />
+                                </span>
+                                <a href='https://cdn-thumbs.ohmyprints.net/1/186796d21aba0d575a531c1d791bd445/817x600/thumbnail/fit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Of Life Black & White Images – Browse 92,430 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/64/45/21/360_F_664452182_Ju493gHLw3sPkfWQ0wUjhpYXZWTyDnPI.jpg' alt='Tree Of Life Black & White Images – Browse 92,430 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/64/45/21/360_F_664452182_Ju493gHLw3sPkfWQ0wUjhpYXZWTyDnPI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life Meaning">
+                                <img itemprop="contentUrl url" src='https://www.celtic-weddingrings.com/img/cms/tree-of-life-norse-mythology-yggdrasil.jpg' alt='Tree of Life Meaning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celtic Wedding Rings" />
+                                </span>
+                                <a href='https://www.celtic-weddingrings.com/img/cms/tree-of-life-norse-mythology-yggdrasil.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life, Tree of Life SVG, Tree Svg, Tree of Life SVG Files for  Silhouette and Cricut. Tree of Life Clipart, Svg Png Ai Eps Dxf - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10043483/r/il/14ee0c/2305506049/il_1080xN.2305506049_d5yn.jpg' alt='Tree of Life, Tree of Life SVG, Tree Svg, Tree of Life SVG Files for  Silhouette and Cricut. Tree of Life Clipart, Svg Png Ai Eps Dxf - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10043483/r/il/14ee0c/2305506049/il_1080xN.2305506049_d5yn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Of Life">
+                                <img itemprop="contentUrl url" src='https://www.bitsandpieces.com/cdn/shop/files/42854.webp' alt='Tree Of Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bits and Pieces" />
+                                </span>
+                                <a href='https://www.bitsandpieces.com/cdn/shop/files/42854.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celtic Tree of Life Symbol – Solvar Jewellery">
+                                <img itemprop="contentUrl url" src='https://solvar.com/cdn/shop/files/tree-of-life-hero-4.jpg?v=1719398148&width=1080' alt='Celtic Tree of Life Symbol – Solvar Jewellery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solvar Jewellery" />
+                                </span>
+                                <a href='https://solvar.com/cdn/shop/files/tree-of-life-hero-4.jpg?v=1719398148&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of life | Meaning, Symbol, Biology, Name, & Movie | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/22/167822-050-99C72552/roots-serpent-Jormungand-Midgard-stags-hawk-squirrel.jpg' alt='Tree of life | Meaning, Symbol, Biology, Name, & Movie | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/22/167822-050-99C72552/roots-serpent-Jormungand-Midgard-stags-hawk-squirrel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

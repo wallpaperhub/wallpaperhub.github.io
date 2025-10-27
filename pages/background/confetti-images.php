@@ -1,0 +1,129 @@
+<title>Colorful Confetti Images for Every Celebration</title>
+                    <meta name="description" content="Explore our vibrant collection of confetti images perfect for any celebration! From weddings to birthdays, discover colorful visuals that elevate your invitations and social media posts. Brighten your events and inspire creativity with our stunning confetti designs. Perfect for adding a festive touch!">
+                    <meta name="keywords" content="confetti images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/confetti-images">
+                            <span itemprop="name">confetti images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Confetti Images for Every Celebration</h1>
+                <p>Confetti images add a splash of color and joy to any celebration or event. Whether it's a wedding, birthday, or corporate gathering, vibrant confetti can enhance the festive atmosphere. These images capture the essence of fun and excitement, making them perfect for invitations, social media posts, or decoration ideas. Use confetti images to inspire creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="510,300+ Confetti Celebration Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1339034513/vector/confetti-and-serpentine-ribbons-vector-background-isolated-on-white-backdrop-explosion-burst.jpg?s=612x612&w=0&k=20&c=PAG5lIwHok80KkN-M4uCNEqCueaVKhIs_y9Kpoz03ng=' alt='510,300+ Confetti Celebration Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1339034513/vector/confetti-and-serpentine-ribbons-vector-background-isolated-on-white-backdrop-explosion-burst.jpg?s=612x612&w=0&k=20&c=PAG5lIwHok80KkN-M4uCNEqCueaVKhIs_y9Kpoz03ng=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Confetti Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1683121447942-a62eb0aef48e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29uZmV0dGl8ZW58MHx8MHx8fDA%3D' alt='Best 500+ Confetti Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1683121447942-a62eb0aef48e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29uZmV0dGl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,300+ Confetti Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1125716911/vector/party-popper-with-confetti.jpg?s=612x612&w=0&k=20&c=sAyofM-MQ5TL-pLyFseV9Vke_W2zyYX1btP90oGJQZE=' alt='11,300+ Confetti Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1125716911/vector/party-popper-with-confetti.jpg?s=612x612&w=0&k=20&c=sAyofM-MQ5TL-pLyFseV9Vke_W2zyYX1btP90oGJQZE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://pepperlu.com/cdn/shop/products/PL_Confetti_2048x2048_465e2442-7d7f-4aab-843f-b7b44ce609f9.jpg?v=1466373149' alt='Confetti Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PepperLu" />
+                                </span>
+                                <a href='https://pepperlu.com/cdn/shop/products/PL_Confetti_2048x2048_465e2442-7d7f-4aab-843f-b7b44ce609f9.jpg?v=1466373149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Confetti Images – Browse 2,121,439 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/00/44/86/360_F_200448608_fWxFgpXbAQ3LbOdcxQljW3rd2rz4kGWG.jpg' alt='Party Confetti Images – Browse 2,121,439 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="908">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/00/44/86/360_F_200448608_fWxFgpXbAQ3LbOdcxQljW3rd2rz4kGWG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Confetti" Images – Browse 3,240 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/25/20/09/360_F_1025200934_YBVgCRynmKn1ERpZE0BU7UQIVa1pmhYM.jpg' alt='Celebration Confetti" Images – Browse 3,240 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/25/20/09/360_F_1025200934_YBVgCRynmKn1ERpZE0BU7UQIVa1pmhYM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Colorful Confetti Background Graphic by distrologo ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/02/08/Realistic-colorful-confetti-background-Graphics-24891781-1.jpg' alt='Realistic Colorful Confetti Background Graphic by distrologo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4585">
+                                <meta itemprop="height" content="3056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/02/08/Realistic-colorful-confetti-background-Graphics-24891781-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti PNG transparent image download, size: 1300x1140px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/confetti_PNG86957.png' alt='Confetti PNG transparent image download, size: 1300x1140px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/confetti_PNG86957.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,926,279 Confetti Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2493311103/display_1500/stock-vector-confetti-falling-on-background-party-festive-firework-carnival-confetti-isoltaed-on-white-2493311103.jpg' alt='1,926,279 Confetti Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2493311103/display_1500/stock-vector-confetti-falling-on-background-party-festive-firework-carnival-confetti-isoltaed-on-white-2493311103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290,975 Confetti Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/celebration-background-golden-champagne-bottle-confetti-stars-party-streamers-christmas-birthday-wedding-flat-lay-161039153.jpg' alt='290,975 Confetti Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/celebration-background-golden-champagne-bottle-confetti-stars-party-streamers-christmas-birthday-wedding-flat-lay-161039153.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

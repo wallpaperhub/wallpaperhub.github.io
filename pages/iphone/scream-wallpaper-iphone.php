@@ -1,0 +1,129 @@
+<title>Scream Wallpaper for iPhone: Perfect Horror Aesthetics</title>
+                    <meta name="description" content="Explore unique scream wallpapers for your iPhone! Find stunning horror-themed designs that enhance your device’s style while keeping it scary chic. Perfect for any horror fan looking to express their personality with a touch of fright. Download now for an instant makeover!">
+                    <meta name="keywords" content="scream wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/scream-wallpaper-iphone">
+                            <span itemprop="name">scream wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scream Wallpaper for iPhone: Perfect Horror Aesthetics</h1>
+                <p>Discover the perfect "scream wallpaper" for your iPhone! With a variety of designs inspired by iconic horror themes, transform your lock and home screens into an artistic scream fest. Whether you prefer chilling aesthetics or bold colors, these wallpapers will bring your device to life with thrilling creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made an iPhone wallpaper / lockscreen from the new poster... : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m6kn5c6i7k581.jpg' alt='Made an iPhone wallpaper / lockscreen from the new poster... : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m6kn5c6i7k581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Scream Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/17/04/0e17040e8cd6b93c8659f9200e32389f.jpg' alt='100+] Scream Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/17/04/0e17040e8cd6b93c8659f9200e32389f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream iPhone 14 Pro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/0a/4c/d60a4cb3328a53bf908002938ed0f9a8.jpg' alt='Scream iPhone 14 Pro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/0a/4c/d60a4cb3328a53bf908002938ed0f9a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream wallpapers | Gallery posted by Natalia | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396485769038348806&index=1&sign=d8a981786d36104f04995cf1d788166b' alt='Scream wallpapers | Gallery posted by Natalia | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396485769038348806&index=1&sign=d8a981786d36104f04995cf1d788166b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream Corridor on X: "Scream 5 (2022) iPhone Wallpaper https://t ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GKq1muiWQAAsKz7.jpg:large' alt='Scream Corridor on X: "Scream 5 (2022) iPhone Wallpaper https://t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GKq1muiWQAAsKz7.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/f4/29/4ef429abf901ff7cf5df102f207d3710.jpg' alt='Scream Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/f4/29/4ef429abf901ff7cf5df102f207d3710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream, black, logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/19/486/HD-wallpaper-scream-black-logo.jpg' alt='Scream, black, logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/19/486/HD-wallpaper-scream-black-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13022906.jpg' alt='Scream iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13022906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new iPhone wallpaper. I'm in love with this picture : r/Scream">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g3rg048asjm81.jpg' alt='My new iPhone wallpaper. I'm in love with this picture : r/Scream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g3rg048asjm81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GHOSTFACE, blood, drew barrymore, halloween, mask, scary, scream ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/211/934/HD-wallpaper-ghostface-blood-drew-barrymore-halloween-mask-scary-scream.jpg' alt='GHOSTFACE, blood, drew barrymore, halloween, mask, scary, scream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/211/934/HD-wallpaper-ghostface-blood-drew-barrymore-halloween-mask-scary-scream.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

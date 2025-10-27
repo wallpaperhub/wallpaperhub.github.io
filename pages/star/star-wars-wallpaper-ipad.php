@@ -1,0 +1,129 @@
+<title>Stunning Star Wars Wallpapers for iPad | Space Adventure Awaits!</title>
+                    <meta name="description" content="Discover the ultimate collection of Star Wars wallpapers for your iPad! Elevate your device with vibrant designs featuring beloved characters and epic scenes. Perfectly optimized for mobile display, these wallpapers let you showcase your Star Wars fandom wherever you go! Explore now!">
+                    <meta name="keywords" content="star wars wallpaper ipad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-wallpaper-ipad">
+                            <span itemprop="name">star wars wallpaper ipad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars Wallpapers for iPad | Space Adventure Awaits!</h1>
+                <p>Transform your iPad into a galaxy far, far away with stunning Star Wars wallpaper! Choose from iconic characters like Luke Skywalker, Darth Vader, or Rey, and immerse yourself in epic star battles. Perfect for showcasing your passion for the franchise, these wallpapers add a stellar touch to your device, making every glance a thrilling adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Ipad Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-ipad-darth-vader-looking-down-n13vt5ayt8rrfhyf.jpg' alt='100+] Star Wars Ipad Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-ipad-darth-vader-looking-down-n13vt5ayt8rrfhyf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Was Ipad Darth Vader With Lightsaber Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-was-ipad-darth-vader-with-lightsaber-6siwdq6k0hdmgm58.jpg' alt='Star Was Ipad Darth Vader With Lightsaber Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-was-ipad-darth-vader-with-lightsaber-6siwdq6k0hdmgm58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Ipad Minimalist Starfighters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-wars-ipad-minimalist-starfighters-j9p8xoefia8cb5nv.jpg' alt='Star Wars Ipad Minimalist Starfighters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-wars-ipad-minimalist-starfighters-j9p8xoefia8cb5nv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Ipad Darth Vader Force Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/star-wars-ipad-darth-vader-force-rptlifndl0zw1tee.jpg' alt='Star Wars Ipad Darth Vader Force Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/star-wars-ipad-darth-vader-force-rptlifndl0zw1tee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I think I have the coolest iPad wallpaper! : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/wmMlLlG2NvOYrW2AjmK67PCNvhhsDiz1dKAT9pXB5U0.jpg?width=640&crop=smart&auto=webp&s=0000a95f0ccd711b31b4aa477bd48531cec3b8c0' alt='I think I have the coolest iPad wallpaper! : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/wmMlLlG2NvOYrW2AjmK67PCNvhhsDiz1dKAT9pXB5U0.jpg?width=640&crop=smart&auto=webp&s=0000a95f0ccd711b31b4aa477bd48531cec3b8c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPAD WALLPAPER HD - STAR WARS AT-AT - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3HEY5dot4DOVLpYoLvils8ecroWgfmqD7c9RaQLSnhxudqe3g9CgRN1L_iqOCgy5x-4kkm-_7my_YbVfi6SpDtGICshA48KQVJbMikGNl2lUZGqzYAOBIMFPERO6cMFI_B_n4BH7Xic/s0/ipad-wallpaper-hd4.webp' alt='IPAD WALLPAPER HD - STAR WARS AT-AT - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3HEY5dot4DOVLpYoLvils8ecroWgfmqD7c9RaQLSnhxudqe3g9CgRN1L_iqOCgy5x-4kkm-_7my_YbVfi6SpDtGICshA48KQVJbMikGNl2lUZGqzYAOBIMFPERO6cMFI_B_n4BH7Xic/s0/ipad-wallpaper-hd4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sith Wallpaper 4K, Star Wars, Lightsaber">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/sith-star-wars-lightsaber-dark-background-2048x2048-5554.jpg' alt='Sith Wallpaper 4K, Star Wars, Lightsaber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/sith-star-wars-lightsaber-dark-background-2048x2048-5554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars iPad, Star Wars Apple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/769/507/HD-wallpaper-star-wars-ipad-star-wars-apple.jpg' alt='Star Wars iPad, Star Wars Apple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/769/507/HD-wallpaper-star-wars-ipad-star-wars-apple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Ipad Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-ipad-characters-and-death-star-vbwpa1sbnxz61r11.jpg' alt='100+] Star Wars Ipad Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-ipad-characters-and-death-star-vbwpa1sbnxz61r11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper - Homescreens & Office Setups - MPU Talk">
+                                <img itemprop="contentUrl url" src='https://mpudata.sfo2.digitaloceanspaces.com/original/2X/6/6f7d37cd5f7ef08a2a17602e0aa6ad3a6880d747.jpeg' alt='Star Wars Wallpaper - Homescreens & Office Setups - MPU Talk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MPU Talk" />
+                                </span>
+                                <a href='https://mpudata.sfo2.digitaloceanspaces.com/original/2X/6/6f7d37cd5f7ef08a2a17602e0aa6ad3a6880d747.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

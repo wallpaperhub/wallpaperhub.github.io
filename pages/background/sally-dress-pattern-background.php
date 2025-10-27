@@ -1,0 +1,129 @@
+<title>Sew Your Own Sally Dress: Easy Pattern Guide</title>
+                    <meta name="description" content="Discover the charming versatility of Sally dress patterns! Perfect for all skill levels, our guide offers insights into creating stylish and unique dresses. Get inspired to sew your own stunning outfits today—ideal for any occasion!">
+                    <meta name="keywords" content="sally dress pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sally-dress-pattern-background">
+                            <span itemprop="name">sally dress pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sew Your Own Sally Dress: Easy Pattern Guide</h1>
+                <p>Sally dress patterns are a popular choice for seamstresses seeking a blend of style and versatility. Originating from classic designs, these patterns often feature playful prints and elegant silhouettes, making them perfect for any season. With easy-to-follow instructions, even beginners can craft stunning dresses that showcase individual flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally Dress Pattern SVG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32313175/r/il/27115f/4263980439/il_570xN.4263980439_3c7l.jpg' alt='Sally Dress Pattern SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32313175/r/il/27115f/4263980439/il_570xN.4263980439_3c7l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally Dresses Patterns, PNG| JPEG Nightmare Seamless Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46081763/r/il/ff5eeb/6229115976/il_fullxfull.6229115976_tra7.jpg' alt='Sally Dresses Patterns, PNG| JPEG Nightmare Seamless Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46081763/r/il/ff5eeb/6229115976/il_fullxfull.6229115976_tra7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally’s Dress Pattern | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2862573648.3448/fpp,small,lustre,wall_texture,product,750x1000.jpg' alt='Sally’s Dress Pattern | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2862573648.3448/fpp,small,lustre,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally's dress. The Nightmare Before Christmas. | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2122628192.5330/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Sally's dress. The Nightmare Before Christmas. | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2122628192.5330/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/4527903/p/f/m/ijaESJlfWkRgGxF-VN8Zp-MlHLWKr8MJktV39-zJ0atwj9yVDjE/Sally.jpg' alt='Sally Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/4527903/p/f/m/ijaESJlfWkRgGxF-VN8Zp-MlHLWKr8MJktV39-zJ0atwj9yVDjE/Sally.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Shades Sally Fabric Bright Nightmare | Seamless Design | Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12253770/r/il/505301/4011311160/il_fullxfull.4011311160_h1se.jpg' alt='3 Shades Sally Fabric Bright Nightmare | Seamless Design | Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12253770/r/il/505301/4011311160/il_fullxfull.4011311160_h1se.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally’s Dress Pattern | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5108248538.3448/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Sally’s Dress Pattern | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5108248538.3448/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally Dress Pattern and Jack Suit SVG">
+                                <img itemprop="contentUrl url" src='http://shop.brightcolormom.com/cdn/shop/products/2_dd22d94b-d082-4ff1-8706-f4ce904bafb0_1200x1200.png?v=1605643638' alt='Sally Dress Pattern and Jack Suit SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bright Color Mom Shop" />
+                                </span>
+                                <a href='http://shop.brightcolormom.com/cdn/shop/products/2_dd22d94b-d082-4ff1-8706-f4ce904bafb0_1200x1200.png?v=1605643638' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally Patches Large scale – Tulletastic LLC">
+                                <img itemprop="contentUrl url" src='http://tulletastic.com/cdn/shop/products/BD67CF00-5AF8-4F5B-8D7E-AAE77B7C2815_1200x1200.jpg?v=1690987739' alt='Sally Patches Large scale – Tulletastic LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tulletastic LLC" />
+                                </span>
+                                <a href='http://tulletastic.com/cdn/shop/products/BD67CF00-5AF8-4F5B-8D7E-AAE77B7C2815_1200x1200.jpg?v=1690987739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vohado The Nightmare Before Christmas Door Cover Jack and Sally  Themed Party Decoration Welcome Halloween Front Porch Sign Background for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81s6sdkiAVL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Vohado The Nightmare Before Christmas Door Cover Jack and Sally  Themed Party Decoration Welcome Halloween Front Porch Sign Background for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81s6sdkiAVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

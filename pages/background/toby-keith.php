@@ -1,0 +1,129 @@
+<title>Toby Keith: Country Music Icon & Patriot</title>
+                    <meta name="description" content="Explore the life and music of Toby Keith, an iconic country artist renowned for his hits and patriotism. Discover his journey, top songs, and lasting impact on country music in this concise overview.">
+                    <meta name="keywords" content="toby keith">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toby-keith">
+                            <span itemprop="name">toby keith</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Toby Keith: Country Music Icon & Patriot</h1>
+                <p>Toby Keith is a celebrated American country music artist known for his patriotic songs and relatable storytelling. With numerous hits like "Courtesy of the Red, White and Blue," Toby's music resonates with fans who appreciate his blend of humor and heartfelt lyricism. His contributions to the genre have solidified his status as a country music icon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About">
+                                <img itemprop="contentUrl url" src='https://s3.dualstack.us-east-1.amazonaws.com/busites_www/tobykeith/pages/meta/201014_tobykeith_rm_doorway_0145_crophoz4_1__1626982416.jpg' alt='About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toby Keith" />
+                                </span>
+                                <a href='https://s3.dualstack.us-east-1.amazonaws.com/busites_www/tobykeith/pages/meta/201014_tobykeith_rm_doorway_0145_crophoz4_1__1626982416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toby_Keith_DA-SD-07-31207_%28cropped%29.jpg/640px-Toby_Keith_DA-SD-07-31207_%28cropped%29.jpg' alt='Toby Keith - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toby_Keith_DA-SD-07-31207_%28cropped%29.jpg/640px-Toby_Keith_DA-SD-07-31207_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About">
+                                <img itemprop="contentUrl url" src='https://s3.dualstack.us-east-1.amazonaws.com/busites_www/tobykeith/pages/meta/201014_tobykeith__1626984448.jpg' alt='About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toby Keith" />
+                                </span>
+                                <a href='https://s3.dualstack.us-east-1.amazonaws.com/busites_www/tobykeith/pages/meta/201014_tobykeith__1626984448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country singer-songwriter Toby Keith, who was fighting stomach ...">
+                                <img itemprop="contentUrl url" src='https://turnto10.com/resources/media2/16x9/full/1015/center/80/cd9d6621-7a6b-4c2a-a1bb-15b502e2e356-large16x9_AP24037353181779.jpg' alt='Country singer-songwriter Toby Keith, who was fighting stomach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WJAR" />
+                                </span>
+                                <a href='https://turnto10.com/resources/media2/16x9/full/1015/center/80/cd9d6621-7a6b-4c2a-a1bb-15b502e2e356-large16x9_AP24037353181779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/gK9gb2UK5nJ6Dx92R2KDiC-UrpP7DLOZqcEMnqVl-GhpeZf84GW5Wx-oWjXKKw4qg0l8oMBDEg=s900-c-k-c0x00ffffff-no-rj' alt='Toby Keith - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/gK9gb2UK5nJ6Dx92R2KDiC-UrpP7DLOZqcEMnqVl-GhpeZf84GW5Wx-oWjXKKw4qg0l8oMBDEg=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith Health: Singer Died At 62 of Stomach Cancer">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-09/toby-keith-lc-230928-0b985d.jpg' alt='Toby Keith Health: Singer Died At 62 of Stomach Cancer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-09/toby-keith-lc-230928-0b985d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith dies: Country star was battling stomach cancer | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/ea09d31/2147483647/strip/false/crop/3469x2313+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F40%2F11de2e9ffeeffb328bee7ac1dfb0%2F423c7b243ba94a0cb41a32b507b56901' alt='Toby Keith dies: Country star was battling stomach cancer | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/ea09d31/2147483647/strip/false/crop/3469x2313+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F40%2F11de2e9ffeeffb328bee7ac1dfb0%2F423c7b243ba94a0cb41a32b507b56901' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith - www.tobykeith.com | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10152333886312124' alt='Toby Keith - www.tobykeith.com | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10152333886312124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith performs in Nashville amid stomach cancer battle">
+                                <img itemprop="contentUrl url" src='https://www.tennessean.com/gcdn/authoring/authoring-images/2023/09/28/PNAS/70996237007-pcca-015.jpg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Toby Keith performs in Nashville amid stomach cancer battle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennessean" />
+                                </span>
+                                <a href='https://www.tennessean.com/gcdn/authoring/authoring-images/2023/09/28/PNAS/70996237007-pcca-015.jpg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toby Keith dies at 62">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/toby-keith-1-gty-thg-240206_1707234040605_hpMain_4x5_608.jpg' alt='Toby Keith dies at 62'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Morning America" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/toby-keith-1-gty-thg-240206_1707234040605_hpMain_4x5_608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

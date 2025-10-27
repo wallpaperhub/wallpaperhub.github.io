@@ -1,0 +1,129 @@
+<title>Stylish December Wallpapers: Festive Backgrounds for Your Screens</title>
+                    <meta name="description" content="Discover beautiful December wallpapers to elevate your screen's aesthetic. Explore festive designs, winter landscapes, and cozy scenes, perfect for getting into the holiday spirit. Enhance your digital experience with vibrant visuals that celebrate the charm of December.">
+                    <meta name="keywords" content="december wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/december-wallpaper">
+                            <span itemprop="name">december wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish December Wallpapers: Festive Backgrounds for Your Screens</h1>
+                <p>Transform your digital space this December with stunning wallpapers that capture the magic of the season. Whether you prefer cozy winter scenes, festive decorations, or serene landscapes, there's a perfect December wallpaper waiting for you. Celebrate the holidays and winter vibes with visually striking backdrops.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Hello December Wallpaper For Festive Backgrounds - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/d3/23/01d32335ebfc49ba0936b39f5ef84694.jpg' alt='25+ Hello December Wallpaper For Festive Backgrounds - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/d3/23/01d32335ebfc49ba0936b39f5ef84694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Beginning To Look A Lot Like… December (2018 Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://smashingmagazine.com/files/wallpapers/dec-18/christmas-wreath/nocal/dec-18-christmas-wreath-nocal-1024x768.png' alt='It's Beginning To Look A Lot Like… December (2018 Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smashing Magazine" />
+                                </span>
+                                <a href='https://smashingmagazine.com/files/wallpapers/dec-18/christmas-wreath/nocal/dec-18-christmas-wreath-nocal-1024x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Cute Christmas Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/december-cute-christmas-ahaprcizp4ebedff.jpg' alt='December Cute Christmas Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/december-cute-christmas-ahaprcizp4ebedff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] December Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/december-d05869l2lirptbpi.jpg' alt='200+] December Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/december-d05869l2lirptbpi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2024 wallpapers – 79 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2024/11/December-2024-wallpapers-OhSoLovelyBlog.com-SundayStart54.jpg' alt='December 2024 wallpapers – 79 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2024/11/December-2024-wallpapers-OhSoLovelyBlog.com-SundayStart54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December phone wallpaper free downloads - Vanity Owl">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/vanityowl.com/wp-content/uploads/2021/12/December-phone-wallpaper-free-download-4.png?resize=1080%2C1920&ssl=1' alt='December phone wallpaper free downloads - Vanity Owl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Owl" />
+                                </span>
+                                <a href='https://i0.wp.com/vanityowl.com/wp-content/uploads/2021/12/December-phone-wallpaper-free-download-4.png?resize=1080%2C1920&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Tech Backgrounds: Stunning Festive Winter Wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.theeverygirl.com/wp-content/uploads/2024/11/the-everygirl-december-tech-24-ipad-no-calendar-4.jpg' alt='December Tech Backgrounds: Stunning Festive Winter Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Everygirl" />
+                                </span>
+                                <a href='https://media.theeverygirl.com/wp-content/uploads/2024/11/the-everygirl-december-tech-24-ipad-no-calendar-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Iphone Hello December Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-christmas-iphone-hello-december-kfgk2foaw76iavtm.jpg' alt='Cute Christmas Iphone Hello December Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-christmas-iphone-hello-december-kfgk2foaw76iavtm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable December 2021 Calendar - The Knit Picks Staff ...">
+                                <img itemprop="contentUrl url" src='https://blog.knitpicks.com/wp-content/uploads/2021/12/wallpapers_December-2021_desktop.jpg' alt='Free Downloadable December 2021 Calendar - The Knit Picks Staff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knit Picks Blog" />
+                                </span>
+                                <a href='https://blog.knitpicks.com/wp-content/uploads/2021/12/wallpapers_December-2021_desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

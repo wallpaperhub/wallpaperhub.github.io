@@ -1,0 +1,129 @@
+<title>Unveiling the Rich History of Cosmetics</title>
+                    <meta name="description" content="Explore the fascinating journey of cosmetics, tracing back to ancient rituals and modern beauty innovations. Discover how cultural shifts have shaped the tools, ingredients, and trends that enhance self-expression and empowerment through makeup. Join us in diving into this vibrant beauty legacy!">
+                    <meta name="keywords" content="cosmetic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cosmetic-background">
+                            <span itemprop="name">cosmetic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Rich History of Cosmetics</h1>
+                <p>Cosmetics have a rich history, rooted in both ancient rituals and modern beauty practices. From Egypt's iconic kohl to today's diverse makeup brands, the cosmetic background reflects cultural evolution. Ingredients, techniques, and trends have transformed over time, highlighting beauty as a means of self-expression and empowerment for many.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetics Background" Images – Browse 3,424 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/56/94/50/360_F_756945060_3bxEnD0NjOb4tNNYmOO33XaADWoHAFiu.jpg' alt='Cosmetics Background" Images – Browse 3,424 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/56/94/50/360_F_756945060_3bxEnD0NjOb4tNNYmOO33XaADWoHAFiu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="107,500+ Beauty Products Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1299083633/vector/abstract-scene-background-cylinder-podium-on-pink-background-product-presentation-mock-up.jpg?s=612x612&w=0&k=20&c=JRjs-XAnsRFPwOs7QogTQzPHf5G6bjrz-PRzFNHuUgM=' alt='107,500+ Beauty Products Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1299083633/vector/abstract-scene-background-cylinder-podium-on-pink-background-product-presentation-mock-up.jpg?s=612x612&w=0&k=20&c=JRjs-XAnsRFPwOs7QogTQzPHf5G6bjrz-PRzFNHuUgM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetic Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/243/558/non_2x/3d-background-products-display-podium-scene-with-green-leaf-geometric-platform-background-3d-render-with-podium-stand-to-show-cosmetic-products-stage-showcase-on-pedestal-display-pink-studio-free-vector.jpg' alt='Cosmetic Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/243/558/non_2x/3d-background-products-display-podium-scene-with-green-leaf-geometric-platform-background-3d-render-with-podium-stand-to-show-cosmetic-products-stage-showcase-on-pedestal-display-pink-studio-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetics Background" Images – Browse 3,424 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/71/90/70/360_F_771907043_cZoiMyEPDP8OdE9oOFrgJMLDOw1PxaL9.jpg' alt='Cosmetics Background" Images – Browse 3,424 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/71/90/70/360_F_771907043_cZoiMyEPDP8OdE9oOFrgJMLDOw1PxaL9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetic Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/010/586/285/non_2x/cosmetic-pink-background-and-premium-podium-display-for-product-presentation-branding-and-packaging-presentation-studio-stage-with-shadow-of-leaf-background-design-vector.jpg' alt='Cosmetic Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/010/586/285/non_2x/cosmetic-pink-background-and-premium-podium-display-for-product-presentation-branding-and-packaging-presentation-studio-stage-with-shadow-of-leaf-background-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetic Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-autumn-and---on-new-cosmetics-pink-background-picture-image_1030537.jpg' alt='Cosmetic Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-autumn-and---on-new-cosmetics-pink-background-picture-image_1030537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 31 | Beauty Products Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-makeup-background_23-2149373139.jpg' alt='Page 31 | Beauty Products Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-makeup-background_23-2149373139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty Products Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/139/523/small_2x/makeup-essentials-and-cosmetic-products-on-light-background-ideal-for-beauty-and-skincare-designs-photo.jpg' alt='Beauty Products Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/139/523/small_2x/makeup-essentials-and-cosmetic-products-on-light-background-ideal-for-beauty-and-skincare-designs-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmetics Background Top View Makeup Brushes And Cosmetics On A ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1216648318/photo/cosmetics-background-top-view-makeup-brushes-and-cosmetics-on-a-pink-background-professional.jpg?s=612x612&w=0&k=20&c=oGPPKAu0zOMhcTy0EaYtCX40_ni-MVFzaZN5U1QpWrE=' alt='Cosmetics Background Top View Makeup Brushes And Cosmetics On A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1216648318/photo/cosmetics-background-top-view-makeup-brushes-and-cosmetics-on-a-pink-background-professional.jpg?s=612x612&w=0&k=20&c=oGPPKAu0zOMhcTy0EaYtCX40_ni-MVFzaZN5U1QpWrE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makeup banner, poster or label design template.Sketch vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2D6MYGW/makeup-banner-poster-or-label-design-templatesketch-vector-illustration-of-facial-cosmetic-beauty-shop-black-frame-background-2D6MYGW.jpg' alt='Makeup banner, poster or label design template.Sketch vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2D6MYGW/makeup-banner-poster-or-label-design-templatesketch-vector-illustration-of-facial-cosmetic-beauty-shop-black-frame-background-2D6MYGW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

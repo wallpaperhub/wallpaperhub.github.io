@@ -1,0 +1,129 @@
+<title>Stunning Trippy Wallpapers for Your PC</title>
+                    <meta name="description" content="Discover the coolest trippy wallpapers for your PC. Dive into a world of vibrant colors and mind-bending patterns that enhance your desktop experience. Perfect for personalization and creativity! Explore our collection and transform your screen today!">
+                    <meta name="keywords" content="trippy wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/trippy-wallpaper-pc">
+                            <span itemprop="name">trippy wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Trippy Wallpapers for Your PC</h1>
+                <p>Transform your PC with mesmerizing trippy wallpapers that elevate your digital space. Explore a kaleidoscope of colors, swirling patterns, and psychedelic designs to create an immersive experience. Perfect for boosting creativity or simply to enjoy some visual delight, these wallpapers are a must-have for any modern desktop setup.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="psychedelic #trippy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/e5/c0/55e5c0e28e81f9d3c8559d0ba5054dec.jpg' alt='psychedelic #trippy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/e5/c0/55e5c0e28e81f9d3c8559d0ba5054dec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Latest Trippy Desktop Wallpaper Hd FULL HD 1080p For PC Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/f5/b3/36f5b36c84ce963d4f9f4f17af6a53b7.jpg' alt='10 Latest Trippy Desktop Wallpaper Hd FULL HD 1080p For PC Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/f5/b3/36f5b36c84ce963d4f9f4f17af6a53b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy | 100+ best free art, background, pattern, and texture ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1600627225432-82de96999068?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwyMTY2MjA5Mnx8ZW58MHx8fHx8' alt='Trippy | 100+ best free art, background, pattern, and texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1600627225432-82de96999068?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwyMTY2MjA5Mnx8ZW58MHx8fHx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick And Morty Trippy Multicolored Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rick-and-morty-trippy-multicolored-galaxy-y6hz243gz488bcmy.jpg' alt='Rick And Morty Trippy Multicolored Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rick-and-morty-trippy-multicolored-galaxy-y6hz243gz488bcmy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trippy Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/trippy-desktop-3rmj8x3vb134bzsx.jpg' alt='100+] Trippy Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/trippy-desktop-3rmj8x3vb134bzsx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Surreal Psychedelic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/307/307180.jpg' alt='Trippy Surreal Psychedelic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/307/307180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trippy Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trippy-galaxy-k7yntczdak29ikk8.jpg' alt='100+] Trippy Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trippy-galaxy-k7yntczdak29ikk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Colorful Colors Trippy Artistic Psychedelic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/708/thumb-1920-708368.jpg' alt='Download Colorful Colors Trippy Artistic Psychedelic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/708/thumb-1920-708368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Wallpapers HD for Desktop Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/ee/d9/6feed9b734c6ad0ffb88f55263323ae1.jpg' alt='Trippy Wallpapers HD for Desktop Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/ee/d9/6feed9b734c6ad0ffb88f55263323ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Aesthetic Computer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5869250.jpg' alt='Trippy Aesthetic Computer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5869250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

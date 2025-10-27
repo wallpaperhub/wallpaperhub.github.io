@@ -1,0 +1,129 @@
+<title>Understanding Gravitational Wave Background: Cosmic Insights</title>
+                    <meta name="description" content="Explore the gravitational wave background, a key cosmic phenomenon offering profound insights into the universe. Learn about its significance, detection techniques, and the mysteries of black holes and neutron stars. Join the journey into the depths of space-time and its impact on cosmology.">
+                    <meta name="keywords" content="gravitational wave background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gravitational-wave-background">
+                            <span itemprop="name">gravitational wave background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Gravitational Wave Background: Cosmic Insights</h1>
+                <p>Gravitational wave background refers to the persistent rumble of gravitational waves produced by numerous astrophysical events, like merging black holes and neutron stars. These waves, detected by observatories such as LIGO and Virgo, provide insight into the universe's history and the nature of space and time, enhancing our understanding of cosmology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravitational wave background - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/1200px-WMAP_2012.png' alt='Gravitational wave background - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/1200px-WMAP_2012.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravitational wave background of the universe heard for the 1st ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/CTgcA838bgTbXwysw5Fnyd-1200-80.png' alt='Gravitational wave background of the universe heard for the 1st ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/CTgcA838bgTbXwysw5Fnyd-1200-80.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravitational Wave Background: A Very Simple Explanation">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/649d6108dcabdcacc40b96c9/Gravitational-waves--illustration/960x0.jpg?format=jpg&width=960' alt='Gravitational Wave Background: A Very Simple Explanation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/649d6108dcabdcacc40b96c9/Gravitational-waves--illustration/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strong evidence for the discovery of a gravitational wave ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42254-024-00711-6/MediaObjects/42254_2024_711_Fig1_HTML.png' alt='Strong evidence for the discovery of a gravitational wave ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42254-024-00711-6/MediaObjects/42254_2024_711_Fig1_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientists Find the Gravitational Wave Background: What It Means">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/universe-ripple-gravitational-wave-nanograv-649c6281ae895.jpg' alt='Scientists Find the Gravitational Wave Background: What It Means'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popular Mechanics" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/universe-ripple-gravitational-wave-nanograv-649c6281ae895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravitational Wave Background Discovered?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/L9L_gNogNes/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2MLnKm72BqICr6vDIGH1ZRd8ccg' alt='Gravitational Wave Background Discovered?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/L9L_gNogNes/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2MLnKm72BqICr6vDIGH1ZRd8ccg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background gravitational waves from the early Universe ｜ Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gwpo.nao.ac.jp/en/gallery/assets_c/2016/06/bg-gw-en-160307-thumb-1500x1060-66.jpg' alt='Background gravitational waves from the early Universe ｜ Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gwpo.nao.ac.jp" />
+                                </span>
+                                <a href='https://gwpo.nao.ac.jp/en/gallery/assets_c/2016/06/bg-gw-en-160307-thumb-1500x1060-66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A technique to sift out the universe's first gravitational waves ...">
+                                <img itemprop="contentUrl url" src='https://news.mit.edu/sites/default/files/images/202012/MIT-Primordial-Waves-01.jpg' alt='A technique to sift out the universe's first gravitational waves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIT News" />
+                                </span>
+                                <a href='https://news.mit.edu/sites/default/files/images/202012/MIT-Primordial-Waves-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astrophysical Interpretation of a Gravitational-Wave Background ...">
+                                <img itemprop="contentUrl url" src='https://nanograv.org/sites/default/files/styles/large/public/2022-10/GravWaves_2560_HQ.jpg?itok=MQP7fGAn' alt='Astrophysical Interpretation of a Gravitational-Wave Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NANOGrav" />
+                                </span>
+                                <a href='https://nanograv.org/sites/default/files/styles/large/public/2022-10/GravWaves_2560_HQ.jpg?itok=MQP7fGAn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The gravitational wave background : a new step towards its ...">
+                                <img itemprop="contentUrl url" src='https://observatoiredeparis.psl.eu/IMG/jpg/pta42.jpg' alt='The gravitational wave background : a new step towards its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1422">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Observatoire de Paris - Université PSL" />
+                                </span>
+                                <a href='https://observatoiredeparis.psl.eu/IMG/jpg/pta42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

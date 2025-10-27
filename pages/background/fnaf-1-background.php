@@ -1,0 +1,129 @@
+<title>FNAF 1: Surviving the Haunted Pizzeria</title>
+                    <meta name="description" content="Explore the chilling world of FNAF 1, where you'll face terrifying animatronics in a haunted pizzeria. Discover how to survive the nights as a security guard, managing resources in this iconic horror game. Perfect for fans of suspense and strategy!">
+                    <meta name="keywords" content="fnaf 1 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnaf-1-background">
+                            <span itemprop="name">fnaf 1 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>FNAF 1: Surviving the Haunted Pizzeria</h1>
+                <p>Five Nights at Freddy's (FNAF 1) immerses players in a creepy, haunted pizzeria where animatronic characters roam at night. As the night security guard, you must survive five nights by monitoring cameras and managing limited power while avoiding the terrifying animatronics. The unsettling atmosphere and suspense keep players on edge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office (FNaF1) | Fnafapedia Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fnafapedia/images/3/31/OfficeClean.png/revision/latest?cb=20151213220428' alt='The Office (FNaF1) | Fnafapedia Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fnafapedia Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fnafapedia/images/3/31/OfficeClean.png/revision/latest?cb=20151213220428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FnaF 1 showstage (night) by DaUniDeviant on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2d22b0-c29c-4ddd-bb32-403b3b94a49a/dezv17y-06d5aa93-516f-43f7-ba24-0ac5ae30c570.png/v1/fill/w_1280,h_623,q_80,strp/fnaf_1_showstage__night__by_daunideviant_dezv17y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvM2MyZDIyYjAtYzI5Yy00ZGRkLWJiMzItNDAzYjNiOTRhNDlhXC9kZXp2MTd5LTA2ZDVhYTkzLTUxNmYtNDNmNy1iYTI0LTBhYzVhZTMwYzU3MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Sf7YDrihD54fdvCkufm6fgvCneUMnNUtgEG-PHWccC8' alt='FnaF 1 showstage (night) by DaUniDeviant on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2d22b0-c29c-4ddd-bb32-403b3b94a49a/dezv17y-06d5aa93-516f-43f7-ba24-0ac5ae30c570.png/v1/fill/w_1280,h_623,q_80,strp/fnaf_1_showstage__night__by_daunideviant_dezv17y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvM2MyZDIyYjAtYzI5Yy00ZGRkLWJiMzItNDAzYjNiOTRhNDlhXC9kZXp2MTd5LTA2ZDVhYTkzLTUxNmYtNDNmNy1iYTI0LTBhYzVhZTMwYzU3MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Sf7YDrihD54fdvCkufm6fgvCneUMnNUtgEG-PHWccC8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What colors are the walls in the FNaF 1 office? They look blue ...">
+                                <img itemprop="contentUrl url" src='http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3b/Office_Normal.png/revision/latest?cb=20140825010224' alt='What colors are the walls in the FNaF 1 office? They look blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3b/Office_Normal.png/revision/latest?cb=20140825010224' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FnaF 1 hallway background by DaUniDeviant on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2d22b0-c29c-4ddd-bb32-403b3b94a49a/dga8w9v-f4b4c648-8d34-4cd7-aee5-7030d3f54e59.png/v1/fill/w_1280,h_623,q_80,strp/fnaf_1_hallway_background_by_daunideviant_dga8w9v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvM2MyZDIyYjAtYzI5Yy00ZGRkLWJiMzItNDAzYjNiOTRhNDlhXC9kZ2E4dzl2LWY0YjRjNjQ4LThkMzQtNGNkNy1hZWU1LTcwMzBkM2Y1NGU1OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lHdvh-YgDupg5jZmP1haFN2vmuqezcg_sBWaZmbMUhQ' alt='FnaF 1 hallway background by DaUniDeviant on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2d22b0-c29c-4ddd-bb32-403b3b94a49a/dga8w9v-f4b4c648-8d34-4cd7-aee5-7030d3f54e59.png/v1/fill/w_1280,h_623,q_80,strp/fnaf_1_hallway_background_by_daunideviant_dga8w9v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIzIiwicGF0aCI6IlwvZlwvM2MyZDIyYjAtYzI5Yy00ZGRkLWJiMzItNDAzYjNiOTRhNDlhXC9kZ2E4dzl2LWY0YjRjNjQ4LThkMzQtNGNkNy1hZWU1LTcwMzBkM2Y1NGU1OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lHdvh-YgDupg5jZmP1haFN2vmuqezcg_sBWaZmbMUhQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fnaf 1 Stage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/4f/72/924f726a442dcae75c9cb67f2e0ff3cd.jpg' alt='Fnaf 1 Stage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/4f/72/924f726a442dcae75c9cb67f2e0ff3cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Nights at Freddy's Office (FNAF 1) - 3D model by Arnau ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/5acfb6e741e34002aecd81a8b91b2a42/thumbnails/449641077ace4762ba91a9c605e05079/0995b85d336e40de987853cd1148e936.jpeg' alt='Five Nights at Freddy's Office (FNAF 1) - 3D model by Arnau ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/5acfb6e741e34002aecd81a8b91b2a42/thumbnails/449641077ace4762ba91a9c605e05079/0995b85d336e40de987853cd1148e936.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TIL when the FNAF 1 game over screen is brightened, it looks as if ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7rQWF1z7YZMId_NzVgXpn9rlnBxaAiL_DXQGo8v3bZk.jpg?auto=webp&s=9a553e88d910c29b8070f74f97a62b75ac1088dd' alt='TIL when the FNAF 1 game over screen is brightened, it looks as if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7rQWF1z7YZMId_NzVgXpn9rlnBxaAiL_DXQGo8v3bZk.jpg?auto=webp&s=9a553e88d910c29b8070f74f97a62b75ac1088dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recreating the FNAF 1 Pizzeria .Other pictures from my version of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/recreating-the-fnaf-1-pizzeria-other-pictures-from-my-v0-gorbz8xhm52c1.jpg?width=1613&format=pjpg&auto=webp&s=0feaf20d361ffd6065d7c4e0816bbceee60769f0' alt='Recreating the FNAF 1 Pizzeria .Other pictures from my version of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1613">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/recreating-the-fnaf-1-pizzeria-other-pictures-from-my-v0-gorbz8xhm52c1.jpg?width=1613&format=pjpg&auto=webp&s=0feaf20d361ffd6065d7c4e0816bbceee60769f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Nights of Funkin (CANCELLED) on X: "we hit 800, so here is ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FZLmAOiXwAEOfl_.jpg:large' alt='Five Nights of Funkin (CANCELLED) on X: "we hit 800, so here is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FZLmAOiXwAEOfl_.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a looped Zoom background I made from the FNAF 1 office, as I could  only find images for backgrounds, and wanted something a bit better">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/e9KCL8M9jlyjF94Ri8FTZVhMp7sJyRitHYOeFs9DubQ.jpg?format=pjpg&auto=webp&s=76528fa2fe155444a247fbbb2965adf1c2d58ca7' alt='Here's a looped Zoom background I made from the FNAF 1 office, as I could  only find images for backgrounds, and wanted something a bit better'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/e9KCL8M9jlyjF94Ri8FTZVhMp7sJyRitHYOeFs9DubQ.jpg?format=pjpg&auto=webp&s=76528fa2fe155444a247fbbb2965adf1c2d58ca7' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

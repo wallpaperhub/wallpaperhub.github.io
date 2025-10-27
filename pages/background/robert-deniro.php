@@ -1,0 +1,129 @@
+<title>Robert De Niro: The Legend of Cinema</title>
+                    <meta name="description" content="Explore the life and career of Robert De Niro, a cinematic icon renowned for his powerful performances and acclaimed films. Discover his greatest roles, awards, and influence on the film industry in this concise overview of one of Hollywood's finest actors.">
+                    <meta name="keywords" content="robert deniro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/robert-deniro">
+                            <span itemprop="name">robert deniro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Robert De Niro: The Legend of Cinema</h1>
+                <p>Robert De Niro is a legendary American actor, known for his remarkable versatility and intense performances. With a career spanning over five decades, he has received multiple accolades, including two Academy Awards. Famous roles in films like "Taxi Driver," "Raging Bull," and "The Irishman" showcase his talent and dedication to the craft.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_De_Niro_Cannes_2016_2.jpg' alt='Robert De Niro - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_De_Niro_Cannes_2016_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro filmography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bd/1990_Venice_Film_Festival_Robert_De_Niro.jpg' alt='Robert De Niro filmography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1691">
+                                <meta itemprop="height" content="2374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bd/1990_Venice_Film_Festival_Robert_De_Niro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_.jpg' alt='Robert De Niro - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="303">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro | Biography, Films, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/00/213300-050-ADF31CD9/American-actor-Robert-De-Niro-2019.jpg' alt='Robert De Niro | Biography, Films, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1206">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/00/213300-050-ADF31CD9/American-actor-Robert-De-Niro-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro | Television Academy">
+                                <img itemprop="contentUrl url" src='https://www.televisionacademy.com/files/assets_r/containers/assets/Archives/Robert-De-Niro-bio-450x600.jpg/b3189fdb7dedffd0c3d387175531584b/Robert-De-Niro-bio-450x600.jpg' alt='Robert De Niro | Television Academy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Television Academy" />
+                                </span>
+                                <a href='https://www.televisionacademy.com/files/assets_r/containers/assets/Archives/Robert-De-Niro-bio-450x600.jpg/b3189fdb7dedffd0c3d387175531584b/Robert-De-Niro-bio-450x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actor Profile: Robert DeNiro – MacTheMovieguy.com">
+                                <img itemprop="contentUrl url" src='https://macthemovieguy.com/wp-content/uploads/2015/08/robert-deniro.jpg?w=1200' alt='Actor Profile: Robert DeNiro – MacTheMovieguy.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTheMovieguy.com" />
+                                </span>
+                                <a href='https://macthemovieguy.com/wp-content/uploads/2015/08/robert-deniro.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55052_v9_bc.jpg' alt='Robert De Niro | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55052_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro reuniting with Goodfellas writer on new movie">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/X7LujF8yV7tLXfvW0slZUzh48zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ROBERT-DE-NIRO_Goodfellas-ec9c2711908a47549ee4f94391e39ba0.jpg' alt='Robert De Niro reuniting with Goodfellas writer on new movie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/X7LujF8yV7tLXfvW0slZUzh48zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ROBERT-DE-NIRO_Goodfellas-ec9c2711908a47549ee4f94391e39ba0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Robert De Niro & Joe Pesci Movie Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/joe-pesci-and-robert-de-niro-in-goodfellas.jpg' alt='Every Robert De Niro & Joe Pesci Movie Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/joe-pesci-and-robert-de-niro-in-goodfellas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert De Niro - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Robert_De_Niro_KVIFF_portrait.jpg/170px-Robert_De_Niro_KVIFF_portrait.jpg' alt='Robert De Niro - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Robert_De_Niro_KVIFF_portrait.jpg/170px-Robert_De_Niro_KVIFF_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

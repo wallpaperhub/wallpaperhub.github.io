@@ -1,0 +1,129 @@
+<title>Vintage Burnt Paper Backgrounds for Creative Projects</title>
+                    <meta name="description" content="Discover unique old burnt paper backgrounds that add depth and emotion to your designs. Perfect for vintage themes, artistic projects, or digital compositions, these textures create a nostalgic atmosphere. Elevate your creativity with these captivating backdrops that invite exploration and storytelling.">
+                    <meta name="keywords" content="old burnt paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-burnt-paper-background">
+                            <span itemprop="name">old burnt paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Burnt Paper Backgrounds for Creative Projects</h1>
+                <p>Old burnt paper backgrounds evoke a sense of nostalgia, mystery, and history. These unique textures, featuring charred edges and faded ink, create a perfect backdrop for artistic projects, invitations, or digital designs. Ideal for enhancing vintage themes, they bring depth and emotion to any composition, inviting viewers to explore their stories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/471344285/photo/treasure-map-background.jpg?s=612x612&w=0&k=20&c=A4swssxrlnxPhb8ychOVQ68DgDavEsis6jckyqlcuec=' alt='28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/471344285/photo/treasure-map-background.jpg?s=612x612&w=0&k=20&c=A4swssxrlnxPhb8ychOVQ68DgDavEsis6jckyqlcuec=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burnt Paper Background Images – Browse 199,616 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/27/99/64/360_F_227996402_RBucSTIW5GYwNrMMJu5OTnM3km7Xjta0.jpg' alt='Burnt Paper Background Images – Browse 199,616 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/27/99/64/360_F_227996402_RBucSTIW5GYwNrMMJu5OTnM3km7Xjta0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/133306941/photo/old-paper.jpg?s=612x612&w=0&k=20&c=osj9ho51DkZkpFn1JIZLS8d5MgUjiP_e2SvGn5FPJHU=' alt='28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/133306941/photo/old-paper.jpg?s=612x612&w=0&k=20&c=osj9ho51DkZkpFn1JIZLS8d5MgUjiP_e2SvGn5FPJHU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burnt Paper - Old Burnt Paper - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180404/pre/avhzv309h.webp' alt='Burnt Paper - Old Burnt Paper - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180404/pre/avhzv309h.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Background Free With Burnt Paper Edge (Paper) | Textures ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/parchment-background-free-with-burnt-paper-edge-thumb47.png' alt='Parchment Background Free With Burnt Paper Edge (Paper) | Textures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/parchment-background-free-with-burnt-paper-edge-thumb47.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/496285094/photo/vintage-texture-old-paper-background.jpg?s=612x612&w=0&k=20&c=sqI3XY1PFPXL-JCXXv5HrCdkqvj7vbjUhdiizZESeBI=' alt='28,700+ Old Burnt Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/496285094/photo/vintage-texture-old-paper-background.jpg?s=612x612&w=0&k=20&c=sqI3XY1PFPXL-JCXXv5HrCdkqvj7vbjUhdiizZESeBI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burnt Paper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/207/516/small/vintage-rustic-paper-background-free-vector.jpg' alt='Burnt Paper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/207/516/small/vintage-rustic-paper-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="177 Old Parchment Background Burnt High Res Illustrations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ef/1a/1c/ef1a1c5222720e824f5212475176c54a.jpg' alt='177 Old Parchment Background Burnt High Res Illustrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ef/1a/1c/ef1a1c5222720e824f5212475176c54a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Old Burned Vintage Paper Texture - Old Burnt Paper ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/350/burned-old-paper-old-burnt-paper-background--m2i8i8G6i8d3Z5K9.jpg' alt='Free: Old Burned Vintage Paper Texture - Old Burnt Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/350/burned-old-paper-old-burnt-paper-background--m2i8i8G6i8d3Z5K9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Old Burnt Paper Background Vectors & Illustrations for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-old-paper-texture-with-blank-space_23-2149129187.jpg' alt='Page 2 | Old Burnt Paper Background Vectors & Illustrations for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-old-paper-texture-with-blank-space_23-2149129187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

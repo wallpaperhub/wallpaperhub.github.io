@@ -1,0 +1,129 @@
+<title>Discover the Charm of White Poodles</title>
+                    <meta name="description" content="Explore the delightful world of white poodles! These intelligent and stylish dogs are perfect companions, known for their hypoallergenic coats and playful nature. Learn about their care, grooming, and the joy they bring to families of all sizes.">
+                    <meta name="keywords" content="white poodle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-poodle">
+                            <span itemprop="name">white poodle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of White Poodles</h1>
+                <p>White poodles are elegant and intelligent dogs, known for their fluffy, hypoallergenic coats and friendly demeanor. They come in three sizes: standard, miniature, and toy, making them versatile companions for any lifestyle. These playful pets thrive on social interaction, and regular grooming is essential to maintain their beautiful appearance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle White: The Epitome of Elegance and Charm">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1581562444215-837aae0e7e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHxQb29kbGUlMjBXaGl0ZXxlbnwwfHx8fDE2ODc3MTQ2MTJ8MA&ixlib=rb-4.0.3&q=80&w=2000' alt='Poodle White: The Epitome of Elegance and Charm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Off Leash Blog" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1581562444215-837aae0e7e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHxQb29kbGUlMjBXaGl0ZXxlbnwwfHx8fDE2ODc3MTQ2MTJ8MA&ixlib=rb-4.0.3&q=80&w=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle - White – Healthy Breeds">
+                                <img itemprop="contentUrl url" src='http://healthybreeds.com/cdn/shop/collections/poodle_0fd6ea4c-395b-4485-8c43-9289f777161f_1200x1200.jpg?v=1641403705' alt='Poodle - White – Healthy Breeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthy Breeds" />
+                                </span>
+                                <a href='http://healthybreeds.com/cdn/shop/collections/poodle_0fd6ea4c-395b-4485-8c43-9289f777161f_1200x1200.jpg?v=1641403705' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explaining Poodle Colors - Stunningly Sweet Standards">
+                                <img itemprop="contentUrl url" src='https://www.stunninglyss.com/uploads/2/8/1/3/2813875/9063526.jpg?344' alt='Explaining Poodle Colors - Stunningly Sweet Standards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="343">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stunningly Sweet Standards" />
+                                </span>
+                                <a href='https://www.stunninglyss.com/uploads/2/8/1/3/2813875/9063526.jpg?344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White toy poodle hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/D42X59/white-toy-poodle-head-close-up-D42X59.jpg' alt='White toy poodle hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1003">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/D42X59/white-toy-poodle-head-close-up-D42X59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle Standard White – Brit">
+                                <img itemprop="contentUrl url" src='https://brit-petfood.com/file/nodes/product/Pudl%20velk%C3%BD%20b%C3%ADl%C3%BD.JPG' alt='Poodle Standard White – Brit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brit" />
+                                </span>
+                                <a href='https://brit-petfood.com/file/nodes/product/Pudl%20velk%C3%BD%20b%C3%ADl%C3%BD.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White poodles on Tedsby">
+                                <img itemprop="contentUrl url" src='https://cdn1.tedsby.com/storage/3/6/8/368294/dog-white-poodle-by-oksana-zaklinskaya.jpg' alt='White poodles on Tedsby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tedsby" />
+                                </span>
+                                <a href='https://cdn1.tedsby.com/storage/3/6/8/368294/dog-white-poodle-by-oksana-zaklinskaya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,647 White Toy Poodle Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2285162643/display_1500/stock-photo-white-poodle-on-a-blue-background-curly-dog-in-photo-studio-maltese-poodle-maltipoo-2285162643.jpg' alt='14,647 White Toy Poodle Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2285162643/display_1500/stock-photo-white-poodle-on-a-blue-background-curly-dog-in-photo-studio-maltese-poodle-maltipoo-2285162643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Toy Poodle: Info, Pictures, Origin & History – Dogster">
+                                <img itemprop="contentUrl url" src='https://dogster.com/wp-content/uploads/2024/03/White-toy-poodle-dog-on-grass-at-sunset_NicoPerez_Shutterstock.jpg' alt='White Toy Poodle: Info, Pictures, Origin & History – Dogster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dogster" />
+                                </span>
+                                <a href='https://dogster.com/wp-content/uploads/2024/03/White-toy-poodle-dog-on-grass-at-sunset_NicoPerez_Shutterstock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,900+ White Poodle Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1487943978/photo/a-small-bichon-frises-dog.jpg?s=612x612&w=0&k=20&c=QoMj9fi-ZrcqCk6ygs-4jOAQsp_u77RSqmP4TypVefY=' alt='22,900+ White Poodle Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1487943978/photo/a-small-bichon-frises-dog.jpg?s=612x612&w=0&k=20&c=QoMj9fi-ZrcqCk6ygs-4jOAQsp_u77RSqmP4TypVefY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream/White">
+                                <img itemprop="contentUrl url" src='https://www.windsweptpoodle.com/uploads/2/3/6/2/2362743/published/28312805-2056633487697076-1796777055-o.jpeg?1519259151' alt='Cream/White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="922">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WindSwept Poodles" />
+                                </span>
+                                <a href='https://www.windsweptpoodle.com/uploads/2/3/6/2/2362743/published/28312805-2056633487697076-1796777055-o.jpeg?1519259151' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

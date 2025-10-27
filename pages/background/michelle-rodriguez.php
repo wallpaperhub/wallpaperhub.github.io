@@ -1,0 +1,129 @@
+<title>Discover Michelle Rodriguez: Action Star & Icon</title>
+                    <meta name="description" content="Explore the dynamic career of Michelle Rodriguez, the fierce actress celebrated for her iconic roles in action films. Dive into her journey from the streets of L.A. to Hollywood's spotlight, and learn how she has become a symbol of empowerment for women in cinema.">
+                    <meta name="keywords" content="michelle rodriguez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/michelle-rodriguez">
+                            <span itemprop="name">michelle rodriguez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Michelle Rodriguez: Action Star & Icon</h1>
+                <p>Michelle Rodriguez is an American actress known for her roles in action films, particularly in the "Fast & Furious" franchise as Letty Ortiz. With a strong screen presence and fierce persona, she has become a leading figure in Hollywood, championing female empowerment. Additionally, Rodriguez has appeared in various films and television shows, showcasing her versatility as an actress.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Michelle_Rodriguez_Cannes_2018_cropped.jpg/220px-Michelle_Rodriguez_Cannes_2018_cropped.jpg' alt='Michelle Rodriguez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Michelle_Rodriguez_Cannes_2018_cropped.jpg/220px-Michelle_Rodriguez_Cannes_2018_cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelle_Rodriguez_at_the_New_York_Fashion_Week_crop.jpg/170px-Michelle_Rodriguez_at_the_New_York_Fashion_Week_crop.jpg' alt='Michelle Rodriguez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelle_Rodriguez_at_the_New_York_Fashion_Week_crop.jpg/170px-Michelle_Rodriguez_at_the_New_York_Fashion_Week_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/219616_v9_ba.jpg' alt='Michelle Rodriguez | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/219616_v9_ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez - Actress, Writer, DJ">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/219616_v9_bb.jpg' alt='Michelle Rodriguez - Actress, Writer, DJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/219616_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Well Do 'Dungeons & Dragons: Honor Among Thieves' Cast Know One Another?">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjU1NTUxNmItMjYxMi00Y2Q2LWE3Y2YtYzQwN2UwNDQ1NDA1XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg' alt='How Well Do 'Dungeons & Dragons: Honor Among Thieves' Cast Know One Another?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjU1NTUxNmItMjYxMi00Y2Q2LWE3Y2YtYzQwN2UwNDQ1NDA1XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez | Famous Bi People | Bi.org">
+                                <img itemprop="contentUrl url" src='https://ucarecdn.com/217aae27-4644-47aa-b6bb-6d159ec8ec66/-/crop/1280x1282/0,0/-/preview/-/progressive/yes/-/format/auto/' alt='Michelle Rodriguez | Famous Bi People | Bi.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bi.org" />
+                                </span>
+                                <a href='https://ucarecdn.com/217aae27-4644-47aa-b6bb-6d159ec8ec66/-/crop/1280x1282/0,0/-/preview/-/progressive/yes/-/format/auto/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez (@mrodofficial) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518620795574380258' alt='Michelle Rodriguez (@mrodofficial) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518620795574380258' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SS3507933) Movie picture of Michelle Rodriguez buy celebrity ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/69738/69539/ss3507933_-_photograph_of_michelle_rodriguez_available_in_4_sizes_framed_or_unframed_buy_now_at_starstills__79520__10273.1394502543.jpg?c=2' alt='SS3507933) Movie picture of Michelle Rodriguez buy celebrity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Starstills.com" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/69738/69539/ss3507933_-_photograph_of_michelle_rodriguez_available_in_4_sizes_framed_or_unframed_buy_now_at_starstills__79520__10273.1394502543.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Rodriguez | Smurfs Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/smurfs/images/a/ab/Michelle_Rodriguez.jpg/revision/latest?cb=20170205015514' alt='Michelle Rodriguez | Smurfs Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smurfs Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/smurfs/images/a/ab/Michelle_Rodriguez.jpg/revision/latest?cb=20170205015514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast and Furious' Star Michelle Rodriguez Wants More Female Stars">
+                                <img itemprop="contentUrl url" src='https://www.indiewire.com/wp-content/uploads/2017/06/michelle-rodriguez-99.jpg' alt='Fast and Furious' Star Michelle Rodriguez Wants More Female Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndieWire" />
+                                </span>
+                                <a href='https://www.indiewire.com/wp-content/uploads/2017/06/michelle-rodriguez-99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

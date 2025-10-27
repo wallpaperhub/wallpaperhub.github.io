@@ -1,0 +1,129 @@
+<title>Explore the Versatile Benefits of Brown Grids</title>
+                    <meta name="description" content="Discover the advantages of the brown grid design in urban planning. This systematic layout enhances connectivity, boosts property values, and promotes sustainability. Learn how brown grids can transform urban environments and foster walkable communities.">
+                    <meta name="keywords" content="brown grid">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-grid">
+                            <span itemprop="name">brown grid</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Versatile Benefits of Brown Grids</h1>
+                <p>A brown grid is a framework commonly used in urban planning and architectural design, characterized by its systematic layout of streets and buildings. This design optimizes space, enhances connectivity, and can increase property values. Brown grids are often associated with sustainable development, promoting walkability and reduced vehicular dependency.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown grid">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/8a/fa/f78afaf5af7fe9e05a2c72e32a3cb1be.jpg' alt='Brown grid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/8a/fa/f78afaf5af7fe9e05a2c72e32a3cb1be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Grid Pattern Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTUtMTAxOWEteC5qcGc.jpg' alt='Brown Grid Pattern Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTUtMTAxOWEteC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="grid square graph line full page on brown paper background, paper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/98/80/83/1000_F_298808337_htnEYR8y5YbFvZgxMEFJYTSLGi9vBHLi.jpg' alt='grid square graph line full page on brown paper background, paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/98/80/83/1000_F_298808337_htnEYR8y5YbFvZgxMEFJYTSLGi9vBHLi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Brown grid paper background design for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/brown-grid-paper-background-design-scrapbooking-decoration-cards-paper-goods-background_107335-521.jpg' alt='Premium Vector | Brown grid paper background design for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/brown-grid-paper-background-design-scrapbooking-decoration-cards-paper-goods-background_107335-521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Grid Background Wallpaper Image For Free Download - Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-brown-grid-background-picture-image_1590086.jpg' alt='Brown Grid Background Wallpaper Image For Free Download - Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-brown-grid-background-picture-image_1590086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid - Small Bold, Line: Brown | Background: Light Brown">
+                                <img itemprop="contentUrl url" src='https://thepatterncollective.com/cdn/shop/files/GridSmallBoldBrownonLightBrown_Poppy_ThePatternCollective.png?v=1690817768&width=1080' alt='Grid - Small Bold, Line: Brown | Background: Light Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='https://thepatterncollective.com/cdn/shop/files/GridSmallBoldBrownonLightBrown_Poppy_ThePatternCollective.png?v=1690817768&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with grid using brown color">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-grid-using-brown-color_573652-1494.jpg' alt='Premium Vector | Seamless pattern with grid using brown color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-grid-using-brown-color_573652-1494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Grid Background Stock Vector (Royalty Free) 390534010 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/brown-grid-background-260nw-390534010.jpg' alt='Brown Grid Background Stock Vector (Royalty Free) 390534010 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/brown-grid-background-260nw-390534010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown And White Grid Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/brown-and-white-grid-aesthetic-082qp1a4g54q431j.webp' alt='Brown And White Grid Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/brown-and-white-grid-aesthetic-082qp1a4g54q431j.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Grid Brown Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80M19taW5pbWFsX3NtYWxsX2xpbmVzX2dyaWRfcGF0dGVybl9vcmFuZ2Vfc29saV8yZmFhNjAwYy0xYmQyLTRhNTgtOTAyZC05MmRkMjQwNzM0YTBfMS5qcGc.jpg' alt='Background Grid Brown Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80M19taW5pbWFsX3NtYWxsX2xpbmVzX2dyaWRfcGF0dGVybl9vcmFuZ2Vfc29saV8yZmFhNjAwYy0xYmQyLTRhNTgtOTAyZC05MmRkMjQwNzM0YTBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

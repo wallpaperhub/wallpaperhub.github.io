@@ -1,0 +1,129 @@
+<title>Stunning Purple Accent Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover how purple accent wallpaper can enhance your interior design. From bold statements to subtle elegance, it’s the perfect way to add personality to any room. Explore vibrant patterns that inspire creativity and relaxation in your home decor.">
+                    <meta name="keywords" content="purple accent wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-accent-wallpaper">
+                            <span itemprop="name">purple accent wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Accent Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning purple accent wallpaper that adds a touch of elegance and creativity to any room. Perfect for accent walls or entire rooms, this wallpaper complements various styles, from modern to vintage. Choose bold patterns or subtle textures to create a unique ambiance that inspires and captivates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' alt='Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZYMECH Purple Accent Wallpaper Mosaic Decor Art Beadboard Wallpaper  Dollhouse Easy to Install (W) 98.4" X(H) 91" - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CzrE0y4GL.jpg' alt='ZYMECH Purple Accent Wallpaper Mosaic Decor Art Beadboard Wallpaper  Dollhouse Easy to Install (W) 98.4" X(H) 91" - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CzrE0y4GL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Purple Abstract Marble Wall Mural Peel and Stick Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/904349/3925655477/il_570xN.3925655477_fpw4.jpg' alt='Violet Purple Abstract Marble Wall Mural Peel and Stick Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/904349/3925655477/il_570xN.3925655477_fpw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 15.8x197 Royal Purple Wallpaper Stick and Peel Waterproof  Wallpaper for Bathroom Bedroom Accent Wall Paper Roll Peel & Stick Contact  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WuYfvSypL.jpg' alt='Livelynine 15.8x197 Royal Purple Wallpaper Stick and Peel Waterproof  Wallpaper for Bathroom Bedroom Accent Wall Paper Roll Peel & Stick Contact  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WuYfvSypL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Purple and Pink Marble Wall Mural, Colorful Abstract Accent Wall  Wallpaper, Purple Stone Mural, Peel and Stick Removable Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN139-purple-and-pink-marble-alcohol-ink-wall-mural.jpg?v=1721683058&width=2500' alt='Luxurious Purple and Pink Marble Wall Mural, Colorful Abstract Accent Wall  Wallpaper, Purple Stone Mural, Peel and Stick Removable Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN139-purple-and-pink-marble-alcohol-ink-wall-mural.jpg?v=1721683058&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZYMECH Purple Accent Wall Peel and Stick Wallpaper Mosaic Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fpphkMKVL._AC_UF894,1000_QL80_.jpg' alt='ZYMECH Purple Accent Wall Peel and Stick Wallpaper Mosaic Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fpphkMKVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper abstract | Purple and white wavy pattern — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/pattern-squiggle-19_1200x1200_crop_center.jpg?v=1736233508' alt='Mural Wallpaper abstract | Purple and white wavy pattern — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/pattern-squiggle-19_1200x1200_crop_center.jpg?v=1736233508' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple and Beige Marble Wallpaper, Dark Marble Mural, Peel and Stick Purple  Stone Wallpaper, Dark Alcohol Ink Accent Wall Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN090-dark-purple-and-gold-marble-wallpaper.jpg?v=1718907309&width=2500' alt='Purple and Beige Marble Wallpaper, Dark Marble Mural, Peel and Stick Purple  Stone Wallpaper, Dark Alcohol Ink Accent Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN090-dark-purple-and-gold-marble-wallpaper.jpg?v=1718907309&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/34860/watercolor-herringbone-wallpaper-l-purple.jpg?q=1693327534' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/34860/watercolor-herringbone-wallpaper-l-purple.jpg?q=1693327534' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

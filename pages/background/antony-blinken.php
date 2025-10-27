@@ -1,0 +1,129 @@
+<title>Antony Blinken: Navigating Global Diplomacy</title>
+                    <meta name="description" content="Discover Antony Blinken's role as U.S. Secretary of State, focusing on his efforts in international diplomacy, climate change advocacy, and global security. Learn how he influences American foreign policy and strengthens global alliances for a stable future.">
+                    <meta name="keywords" content="antony blinken">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/antony-blinken">
+                            <span itemprop="name">antony blinken</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Antony Blinken: Navigating Global Diplomacy</h1>
+                <p>Antony Blinken, the U.S. Secretary of State, is a key figure in shaping American foreign policy. Known for his diplomatic approach, he has played a vital role in addressing global issues such as climate change, international security, and human rights. His leadership seeks to enhance America's relationships with allies and promote stability worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antony Blinken - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dd/Secretary_Blinken%27s_Official_Department_Photo.jpg' alt='Antony Blinken - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6336">
+                                <meta itemprop="height" content="7920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dd/Secretary_Blinken%27s_Official_Department_Photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet the New Secretary of State Antony Blinken - U.S. Embassy in ...">
+                                <img itemprop="contentUrl url" src='https://cz.usembassy.gov/wp-content/uploads/sites/22/blinken.jpg' alt='Meet the New Secretary of State Antony Blinken - U.S. Embassy in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Embassy Prague" />
+                                </span>
+                                <a href='https://cz.usembassy.gov/wp-content/uploads/sites/22/blinken.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antony Blinken (@ABlinken) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/646067499943989248/oqBSDthR_400x400.jpg' alt='Antony Blinken (@ABlinken) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/646067499943989248/oqBSDthR_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House committee subpoenas Antony Blinken over Afghanistan withdrawal">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-09/240903-antony-blinken-ac-744p-3bd20c.jpg' alt='House committee subpoenas Antony Blinken over Afghanistan withdrawal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-09/240903-antony-blinken-ac-744p-3bd20c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Antony Blinken">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100082269363499' alt='Profile for Antony Blinken'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100082269363499' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What I've Learned: Antony Blinken, Secretary of State">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/esq040123wil-lo-643f12e8ace59.jpg?resize=980:*' alt='What I've Learned: Antony Blinken, Secretary of State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/esq040123wil-lo-643f12e8ace59.jpg?resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside The $10 Million Fortune Of Antony Blinken, Biden's ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/60ca094357b66ba25214d23b/0x0.jpg?format=jpg&crop=1536,863,x0,y0,safe&height=900&width=1600&fit=bounds' alt='Inside The $10 Million Fortune Of Antony Blinken, Biden's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/60ca094357b66ba25214d23b/0x0.jpg?format=jpg&crop=1536,863,x0,y0,safe&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 things to know about Antony Blinken, the next US secretary of ...">
+                                <img itemprop="contentUrl url" src='https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2020/11/23/GettyImages-541872954.jpg' alt='9 things to know about Antony Blinken, the next US secretary of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico EU" />
+                                </span>
+                                <a href='https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2020/11/23/GettyImages-541872954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secretary Antony J. Blinken With The Atlantic's Jeffrey Goldberg ...">
+                                <img itemprop="contentUrl url" src='https://ru.usembassy.gov/wp-content/uploads/sites/138/secretary-blinken.jpg' alt='Secretary Antony J. Blinken With The Atlantic's Jeffrey Goldberg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Embassy and Consulates in Russia" />
+                                </span>
+                                <a href='https://ru.usembassy.gov/wp-content/uploads/sites/138/secretary-blinken.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secretary Blinken Tests Positive for the Coronavirus - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/05/04/multimedia/04virus-briefing-blinken/04virus-briefing-blinken-mediumSquareAt3X.jpg' alt='Secretary Blinken Tests Positive for the Coronavirus - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/05/04/multimedia/04virus-briefing-blinken/04virus-briefing-blinken-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

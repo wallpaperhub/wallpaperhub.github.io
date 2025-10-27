@@ -1,0 +1,129 @@
+<title>Boho Heart Wallpaper: Love Your Space</title>
+                    <meta name="description" content="Add a touch of whimsy to your home with boho heart wallpaper. Perfect for creating a cozy atmosphere with vibrant designs, this wallpaper brings warmth and love to any room. Ideal for bedrooms and living spaces, it’s a trendy choice for those who love a bohemian style. Make your walls speak volumes!">
+                    <meta name="keywords" content="boho heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/boho-heart-wallpaper">
+                            <span itemprop="name">boho heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Heart Wallpaper: Love Your Space</h1>
+                <p>Transform your space with boho heart wallpaper, a perfect blend of love and artistic flair. Featuring intricate designs, natural colors, and positive vibes, this wallpaper can elevate any room's ambiance. Ideal for creating a cozy and inviting atmosphere, it's a stylish choice for bedrooms, living areas, or creative spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/3a/be/213abed9b0e98d5fae56bcc8bb9ad122.jpg' alt='Boho Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/3a/be/213abed9b0e98d5fae56bcc8bb9ad122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Hearts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13987130/p/f/m/UcORIx6k4i-hMB2UqCSuSDPTSExfX_ck6lRH-xbO4u9nkforTD0BXbc/Boho%20Hearts%20-%20Valentine's%20Day.jpg' alt='Boho Hearts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13987130/p/f/m/UcORIx6k4i-hMB2UqCSuSDPTSExfX_ck6lRH-xbO4u9nkforTD0BXbc/Boho%20Hearts%20-%20Valentine's%20Day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Hearts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12435966/p/f/m/fywCH-nHYc5_4xRk8YQQTJM9sjc66f9kF2-Kxcg434vULH4qxLf0wJVgoQ/Boho%20Dainty%20Hearts.jpg' alt='Boho Hearts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12435966/p/f/m/fywCH-nHYc5_4xRk8YQQTJM9sjc66f9kF2-Kxcg434vULH4qxLf0wJVgoQ/Boho%20Dainty%20Hearts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vector seamless pattern with boho hearts Cute ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-seamless-pattern-with-boho-hearts-cute-love-background-brown-hearts_616756-393.jpg' alt='Premium Vector | Vector seamless pattern with boho hearts Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-seamless-pattern-with-boho-hearts-cute-love-background-brown-hearts_616756-393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho heart vector seamless pattern. Romance floral wallpaper card ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2DE6GD3/boho-heart-vector-seamless-pattern-romance-floral-wallpaper-card-2DE6GD3.jpg' alt='Boho heart vector seamless pattern. Romance floral wallpaper card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2DE6GD3/boho-heart-vector-seamless-pattern-romance-floral-wallpaper-card-2DE6GD3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho hearts wallpaper :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/57/6b/3e576b77f8c045f3bdc32e09fb393f4b.jpg' alt='Boho hearts wallpaper :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/57/6b/3e576b77f8c045f3bdc32e09fb393f4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/dc/02/e6dc02b4b89b3e0b6ab2a18398443a06.jpg' alt='Boho Aesthetic Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/dc/02/e6dc02b4b89b3e0b6ab2a18398443a06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Heart Wall Stickers, Pink Watercolor Heart Stickers">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/boho-heart-wall-stickers-914522.png?v=1698426282' alt='Boho Heart Wall Stickers, Pink Watercolor Heart Stickers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/boho-heart-wall-stickers-914522.png?v=1698426282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown indie heart wallpaper | Wallpaper iphone boho, Heart iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/e2/7c/25/e27c25268f17af0484c4c7cf45bd5d81.jpg' alt='brown indie heart wallpaper | Wallpaper iphone boho, Heart iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/e2/7c/25/e27c25268f17af0484c4c7cf45bd5d81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector seamless pattern with boho hearts. Cute love background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/017/587/857/non_2x/seamless-pattern-with-boho-hearts-cute-love-background-green-background-and-white-hearts-vector.jpg' alt='Vector seamless pattern with boho hearts. Cute love background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/017/587/857/non_2x/seamless-pattern-with-boho-hearts-cute-love-background-green-background-and-white-hearts-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

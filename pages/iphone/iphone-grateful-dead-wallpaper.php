@@ -1,0 +1,129 @@
+<title>Vibrant Grateful Dead Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover stunning Grateful Dead wallpapers for your iPhone that blend nostalgia and artistry. Perfect for fans, these vibrant designs will transform your device and showcase your love for the legendary band. Download now and add a touch of rock history to your everyday life!">
+                    <meta name="keywords" content="iphone grateful dead wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-grateful-dead-wallpaper">
+                            <span itemprop="name">iphone grateful dead wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Grateful Dead Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with vibrant Grateful Dead wallpapers that capture the essence of this iconic band. Choose from stunning designs featuring legendary artwork, psychedelic colors, and classic imagery. Perfect for fans of all ages, these wallpapers bring a touch of rock history to your device while showcasing your love for the Grateful Dead.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made an iPhone Wallpaper from the Texas poster :) : r/gratefuldead">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/1jh1dKUcIaWRv__JC8g5ujJjo4WMxifdYDnYO2HhBXY.jpg?auto=webp&s=dd95acf7f8222c9f6e39190c043f5ce36895bf6e' alt='Made an iPhone Wallpaper from the Texas poster :) : r/gratefuldead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/1jh1dKUcIaWRv__JC8g5ujJjo4WMxifdYDnYO2HhBXY.jpg?auto=webp&s=dd95acf7f8222c9f6e39190c043f5ce36895bf6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grateful Dead Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/grateful-dead-iphone-m92huta83aa5bus3.jpg' alt='100+] Grateful Dead Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/grateful-dead-iphone-m92huta83aa5bus3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some Grateful Dead phone wallpapers : r/gratefuldead">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2zay2mn13p661.jpg' alt='Made some Grateful Dead phone wallpapers : r/gratefuldead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2zay2mn13p661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grateful Dead Background Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/grateful-dead.png' alt='Grateful Dead Background Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/grateful-dead.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Psychedelic Art Print Grateful Dead Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grateful-dead-iphone-c3ijjsjw925q6pyi.jpg' alt='Download Psychedelic Art Print Grateful Dead Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grateful-dead-iphone-c3ijjsjw925q6pyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I saw there were no desktop wallpapers on google so i extended one ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-saw-there-were-no-desktop-wallpapers-on-google-so-i-v0-ou7giwxu5r8b1.png?width=1080&crop=smart&auto=webp&s=3742af4334108a26e057dc8ec70342cfa16d03a9' alt='I saw there were no desktop wallpapers on google so i extended one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-saw-there-were-no-desktop-wallpapers-on-google-so-i-v0-ou7giwxu5r8b1.png?width=1080&crop=smart&auto=webp&s=3742af4334108a26e057dc8ec70342cfa16d03a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD grateful dead wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/494/60/HD-wallpaper-grateful-dead-skull-and-roses.jpg' alt='HD grateful dead wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/494/60/HD-wallpaper-grateful-dead-skull-and-roses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night of the Grateful Dead -- iPhone 7/8 wallpaper - grateful dead ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/ZKSp3qz.jpeg' alt='Night of the Grateful Dead -- iPhone 7/8 wallpaper - grateful dead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1153">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/ZKSp3qz.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grateful Dead Live Album Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/grateful-dead-skull-with-flowers-33pmqfdsyqoay2ri.webp' alt='Grateful Dead Live Album Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/grateful-dead-skull-with-flowers-33pmqfdsyqoay2ri.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Grateful Dead iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/07/c9/9307c9f1e3365b5f65c4a9a1f6e170b0.jpg' alt='   Grateful Dead iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/07/c9/9307c9f1e3365b5f65c4a9a1f6e170b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

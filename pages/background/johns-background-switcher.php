@@ -1,0 +1,129 @@
+<title>Transform Your Look with John's Background Switcher</title>
+                    <meta name="description" content="Discover John's background switcher, a versatile tool that allows effortless background changes for presentations and virtual meetings. Enhance your content's appeal with easy-to-use features and keep your audience engaged with stunning visuals.">
+                    <meta name="keywords" content="john's background switcher">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/johns-background-switcher">
+                            <span itemprop="name">john's background switcher</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Look with John's Background Switcher</h1>
+                <p>John's background switcher is a dynamic tool designed to enhance your digital experience by allowing seamless transitions between various backgrounds. Whether for presentations, videos, or virtual meetings, it ensures your content remains engaging and visually appealing. With user-friendly features, John’s switcher can adapt to any creative need!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://johnsad.ventures/wp-content/uploads/2014/09/collage14.png' alt='John's Background Switcher – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://johnsad.ventures/wp-content/uploads/2014/09/collage14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/fourpic14.png?resize=1160%2C725&ssl=1' alt='John's Background Switcher – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/fourpic14.png?resize=1160%2C725&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://johnsad.ventures/wp-content/uploads/2007/11/jmslogo-175x1521.png?w=144' alt='John's Background Switcher – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="175">
+                                <meta itemprop="height" content="152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://johnsad.ventures/wp-content/uploads/2007/11/jmslogo-175x1521.png?w=144' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/postcards14.png?resize=1160%2C725&ssl=1' alt='John's Background Switcher – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/postcards14.png?resize=1160%2C725&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher for Windows – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2007/11/corkpostcardpile.jpg?resize=1160%2C725&ssl=1' alt='John's Background Switcher for Windows – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2007/11/corkpostcardpile.jpg?resize=1160%2C725&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-icon-m/p/5572d7c0-96da-11e6-b156-00163ec9f5fa/131558088/johns-background-switcher-logo.png' alt='John's Background Switcher - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-icon-m/p/5572d7c0-96da-11e6-b156-00163ec9f5fa/131558088/johns-background-switcher-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher for Windows – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2007/11/thumbnailmosaic.jpg?resize=1160%2C725&ssl=1' alt='John's Background Switcher for Windows – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2007/11/thumbnailmosaic.jpg?resize=1160%2C725&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher for Windows – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://johnsad.ventures/wp-content/uploads/2007/11/facebookpostcardpile.jpg' alt='John's Background Switcher for Windows – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://johnsad.ventures/wp-content/uploads/2007/11/facebookpostcardpile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher – John's Adventures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/single14.png?resize=1160%2C725&ssl=1' alt='John's Background Switcher – John's Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John's Adventures" />
+                                </span>
+                                <a href='https://i0.wp.com/johnsad.ventures/wp-content/uploads/2014/09/single14.png?resize=1160%2C725&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John's Background Switcher for Windows - Download it from Uptodown ...">
+                                <img itemprop="contentUrl url" src='https://img.utdstc.com/screen/68a/307/68a307c301118a01da8e112cece59dbc96ceaa05ebac3cb3cdfeefc9dc78cb34:600' alt='John's Background Switcher for Windows - Download it from Uptodown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="johns-background-switcher.en.uptodown.com" />
+                                </span>
+                                <a href='https://img.utdstc.com/screen/68a/307/68a307c301118a01da8e112cece59dbc96ceaa05ebac3cb3cdfeefc9dc78cb34:600' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

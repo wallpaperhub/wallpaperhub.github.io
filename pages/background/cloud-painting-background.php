@@ -1,0 +1,129 @@
+<title>Stunning Cloud Painting Backgrounds for Your Art</title>
+                    <meta name="description" content="Explore beautiful cloud painting backgrounds that bring serenity and creativity to your artwork. Perfect for artists and designers seeking to create captivating visuals with soft hues. Enhance your projects with these ethereal backgrounds and let your imagination soar!">
+                    <meta name="keywords" content="cloud painting background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cloud-painting-background">
+                            <span itemprop="name">cloud painting background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cloud Painting Backgrounds for Your Art</h1>
+                <p>Cloud painting backgrounds offer a dreamy, ethereal touch to any artwork or design project. With soft hues blending seamlessly, these backgrounds can enhance the visual appeal of landscapes, portraits, or abstract pieces. They inspire creativity and evoke tranquility, making them perfect for various artistic applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/148184555/vector/cloudscape.jpg?s=612x612&w=0&k=20&c=dWtNCwuEVeMEJnZn1kI-CuFVysHFpR_PSJs7JQWDajw=' alt='109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/148184555/vector/cloudscape.jpg?s=612x612&w=0&k=20&c=dWtNCwuEVeMEJnZn1kI-CuFVysHFpR_PSJs7JQWDajw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1044276446/photo/blue-sky-with-white-clouds-in-retro-grunge-style-nature-background.jpg?s=612x612&w=0&k=20&c=jps58wDYKgC4vSFq0rVLBFToMJF6IxB3TSFxxhgya9I=' alt='109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1044276446/photo/blue-sky-with-white-clouds-in-retro-grunge-style-nature-background.jpg?s=612x612&w=0&k=20&c=jps58wDYKgC4vSFq0rVLBFToMJF6IxB3TSFxxhgya9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/534978715/vector/sky-with-clouds-in-grunge-textured-style.jpg?s=612x612&w=0&k=20&c=aOUPpgpydlL991UjIO-5WWNDYAy5z_i6iHTFp6pSs10=' alt='109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/534978715/vector/sky-with-clouds-in-grunge-textured-style.jpg?s=612x612&w=0&k=20&c=aOUPpgpydlL991UjIO-5WWNDYAy5z_i6iHTFp6pSs10=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345,043 Clouds Painting Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/background-renaissance-cloud-sky-painting-600nw-2476309365.jpg' alt='345,043 Clouds Painting Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/background-renaissance-cloud-sky-painting-600nw-2476309365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud Painting Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1509114397022-ed747cca3f65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdWQlMjBwYWludGluZ3xlbnwwfHwwfHx8MA%3D%3D' alt='Cloud Painting Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1509114397022-ed747cca3f65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdWQlMjBwYWludGluZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Sky Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-background-with-hand-painted-clouds-design_1048-19061.jpg' alt='Painted Sky Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-background-with-hand-painted-clouds-design_1048-19061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/533720826/vector/watercolor-summer-blue-sky-with-clouds.jpg?s=612x612&w=0&k=20&c=ENlpXUCHjJsd7klDOTTU9bJPECAFVKdzK5IQk0mnxLk=' alt='109,300+ Cloud Painting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/533720826/vector/watercolor-summer-blue-sky-with-clouds.jpg?s=612x612&w=0&k=20&c=ENlpXUCHjJsd7klDOTTU9bJPECAFVKdzK5IQk0mnxLk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue sky cloud water color painting art for postcard background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T127XP/blue-sky-cloud-water-color-painting-art-for-postcard-background-T127XP.jpg' alt='blue sky cloud water color painting art for postcard background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T127XP/blue-sky-cloud-water-color-painting-art-for-postcard-background-T127XP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Sky Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_52683-60366.jpg' alt='Painted Sky Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_52683-60366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cloud Painting Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/e2/0a/4de20ae67e41483e066892a1a7479303.jpg' alt='Awesome Cloud Painting Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/e2/0a/4de20ae67e41483e066892a1a7479303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

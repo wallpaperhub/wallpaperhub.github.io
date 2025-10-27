@@ -1,0 +1,129 @@
+<title>Enhance Your Film with Authentic Grain Texture</title>
+                    <meta name="description" content="Discover the captivating world of film grain texture! Learn how this classic effect transforms visuals, enhances emotion, and adds depth to your projects. Perfect for filmmakers looking to create a nostalgic or authentic feel, film grain can elevate your storytelling. Explore its impact today!">
+                    <meta name="keywords" content="film grain texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/film-grain-texture">
+                            <span itemprop="name">film grain texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Film with Authentic Grain Texture</h1>
+                <p>Film grain texture adds a distinctive aesthetic to movies, infusing them with a nostalgic charm reminiscent of classic cinema. This visual effect, characterized by small, random speckles, enhances mood, depth, and authenticity. It's an essential tool for filmmakers aiming to evoke emotions and create a unique atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film texture - grain explosion by StephanePellennec on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40550ab9-0dde-4376-ae73-77355bb45d73/d37pwfa-82dd8ce8-a772-4e1d-9f03-e355a2aa1722.jpg/v1/fill/w_1024,h_768,q_75,strp/film_texture___grain_explosion_by_stephanepellennec_d37pwfa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNDA1NTBhYjktMGRkZS00Mzc2LWFlNzMtNzczNTViYjQ1ZDczXC9kMzdwd2ZhLTgyZGQ4Y2U4LWE3NzItNGUxZC05ZjAzLWUzNTVhMmFhMTcyMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SS6BpDtRHP9Z2ROaHftKv8hr6_LhiVjOB8i0WiXuyKw' alt='Film texture - grain explosion by StephanePellennec on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40550ab9-0dde-4376-ae73-77355bb45d73/d37pwfa-82dd8ce8-a772-4e1d-9f03-e355a2aa1722.jpg/v1/fill/w_1024,h_768,q_75,strp/film_texture___grain_explosion_by_stephanepellennec_d37pwfa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNDA1NTBhYjktMGRkZS00Mzc2LWFlNzMtNzczNTViYjQ1ZDczXC9kMzdwd2ZhLTgyZGQ4Y2U4LWE3NzItNGUxZC05ZjAzLWUzNTVhMmFhMTcyMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SS6BpDtRHP9Z2ROaHftKv8hr6_LhiVjOB8i0WiXuyKw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain Texture Images – Browse 123,971 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/75/26/57/360_F_275265725_zEBiDA8Rvi0ahc2sbKpdHbwkH61iHuR7.jpg' alt='Film Grain Texture Images – Browse 123,971 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/75/26/57/360_F_275265725_zEBiDA8Rvi0ahc2sbKpdHbwkH61iHuR7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Free Film Grains And Film Burns Textures For Your Design ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/8d/bb/a18dbb6188ae0a59493f3a0f39857d3d.jpg' alt='40 Free Film Grains And Film Burns Textures For Your Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/8d/bb/a18dbb6188ae0a59493f3a0f39857d3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain Textures 8K FREE PACK :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b7c3759398743.60fdc6ec155ae.jpg' alt='Film Grain Textures 8K FREE PACK :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b7c3759398743.60fdc6ec155ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain Texture Images – Browse 123,971 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/38/48/91/360_F_938489187_bNR8OaM96dSqUdnMLfSQNsOeQMtGjVte.jpg' alt='Film Grain Texture Images – Browse 123,971 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/38/48/91/360_F_938489187_bNR8OaM96dSqUdnMLfSQNsOeQMtGjVte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free 10 High Quality Film Grain Textures - Free ...">
+                                <img itemprop="contentUrl url" src='https://titanui.com/wp-content/uploads/2017/12/02/10-High-Quality-Film-Grain-Textures.jpg' alt='Download Free 10 High Quality Film Grain Textures - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TitanUI" />
+                                </span>
+                                <a href='https://titanui.com/wp-content/uploads/2017/12/02/10-High-Quality-Film-Grain-Textures.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture film grain effect background 4258750 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/258/750/non_2x/texture-film-grain-effect-background-vector.jpg' alt='Texture film grain effect background 4258750 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/258/750/non_2x/texture-film-grain-effect-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain by ShepherdCartography on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/632824fc-22f5-49ad-9898-12742139af66/d1jcx63-fee1d224-3feb-48f3-836c-5ad22898ec03.jpg/v1/fill/w_900,h_600,q_75,strp/film_grain_by_shepherdcartography_d1jcx63-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvNjMyODI0ZmMtMjJmNS00OWFkLTk4OTgtMTI3NDIxMzlhZjY2XC9kMWpjeDYzLWZlZTFkMjI0LTNmZWItNDhmMy04MzZjLTVhZDIyODk4ZWMwMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2ByUfDF3fGmJPRK4QL2W7rD9-lYzOHdnWV0DnC0hHU8' alt='Film Grain by ShepherdCartography on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/632824fc-22f5-49ad-9898-12742139af66/d1jcx63-fee1d224-3feb-48f3-836c-5ad22898ec03.jpg/v1/fill/w_900,h_600,q_75,strp/film_grain_by_shepherdcartography_d1jcx63-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvNjMyODI0ZmMtMjJmNS00OWFkLTk4OTgtMTI3NDIxMzlhZjY2XC9kMWpjeDYzLWZlZTFkMjI0LTNmZWItNDhmMy04MzZjLTVhZDIyODk4ZWMwMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2ByUfDF3fGmJPRK4QL2W7rD9-lYzOHdnWV0DnC0hHU8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/concrete-wall-texture_1194-8666.jpg' alt='Film Grain Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/concrete-wall-texture_1194-8666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Grain Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/141/961/non_2x/film-grain-texture-free-vector.png' alt='Film Grain Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/141/961/non_2x/film-grain-texture-free-vector.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

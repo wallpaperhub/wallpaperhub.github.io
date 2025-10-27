@@ -1,0 +1,129 @@
+<title>Stunning Ubuntu Wallpaper Collections: Enhance Your Desktop</title>
+                    <meta name="description" content="Discover a stunning array of Ubuntu wallpapers that will elevate your desktop experience. Choose from landscapes, abstract designs, and more to reflect your unique style. Personalize your Ubuntu interface with high-quality visuals that inspire creativity and make everyday computing more enjoyable.">
+                    <meta name="keywords" content="ubuntu wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ubuntu-wallpaper">
+                            <span itemprop="name">ubuntu wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ubuntu Wallpaper Collections: Enhance Your Desktop</h1>
+                <p>Ubuntu wallpaper offers a vibrant range of visuals that cater to every user's aesthetic preferences. From stunning landscapes and abstract art to minimalist designs, these wallpapers enhance the desktop experience. Explore the diverse selection and personalize your Ubuntu interface to reflect your style and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Focal Fossa - Mascot & Wallpapers - Desktop - Ubuntu Community Hub">
+                                <img itemprop="contentUrl url" src='https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/0/0921cb27d5604b464218a64ae88a3f43c7b7371a.png' alt='Focal Fossa - Mascot & Wallpapers - Desktop - Ubuntu Community Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuntu Discourse" />
+                                </span>
+                                <a href='https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/0/0921cb27d5604b464218a64ae88a3f43c7b7371a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ubuntu 22.04 LTS Default Wallpaper : r/Ubuntu">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xim0ji45rzn81.jpg' alt='Ubuntu 22.04 LTS Default Wallpaper : r/Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xim0ji45rzn81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is Every Default Ubuntu Wallpaper, Ever - OMG! Ubuntu">
+                                <img itemprop="contentUrl url" src='https://149366088.v2.pressablecdn.com/wp-content/uploads/2015/03/suru-desktop-wallpaper-ubuntu-vivid.jpg' alt='This is Every Default Ubuntu Wallpaper, Ever - OMG! Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OMG! Ubuntu" />
+                                </span>
+                                <a href='https://149366088.v2.pressablecdn.com/wp-content/uploads/2015/03/suru-desktop-wallpaper-ubuntu-vivid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Default Wallpapers of Ubuntu 24.10 Oracular Oriole Revealed ...">
+                                <img itemprop="contentUrl url" src='https://ubuntuhandbook.org/wp-content/uploads/2024/09/ubuntu2410-dark.webp' alt='The Default Wallpapers of Ubuntu 24.10 Oracular Oriole Revealed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UbuntuHandbook" />
+                                </span>
+                                <a href='https://ubuntuhandbook.org/wp-content/uploads/2024/09/ubuntu2410-dark.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Gorilla - Mascot & Wallpapers - Desktop - Ubuntu Community Hub">
+                                <img itemprop="contentUrl url" src='https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/1/19a97b1db5709c9a0cdaf408adfcc1b3325c74c6.jpeg' alt='Groovy Gorilla - Mascot & Wallpapers - Desktop - Ubuntu Community Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuntu Discourse" />
+                                </span>
+                                <a href='https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/1/19a97b1db5709c9a0cdaf408adfcc1b3325c74c6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To my surprise, Ubuntu 22.04 comes with a wallpaper image I ...">
+                                <img itemprop="contentUrl url" src='https://roytanck.com/wp-content/uploads/2022/05/ubuntu-2204-wallpaper-2880x1620.jpg' alt='To my surprise, Ubuntu 22.04 comes with a wallpaper image I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roy Tanck" />
+                                </span>
+                                <a href='https://roytanck.com/wp-content/uploads/2022/05/ubuntu-2204-wallpaper-2880x1620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper | Ubuntu">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,e_sharpen,c_fill,w_555,h_311/https://ubuntu.com/wp-content/uploads/1af5/kudu-community-wallpapers.png' alt='wallpaper | Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuntu" />
+                                </span>
+                                <a href='https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,e_sharpen,c_fill,w_555,h_311/https://ubuntu.com/wp-content/uploads/1af5/kudu-community-wallpapers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Ubuntu Light & Dark : r/Ubuntu">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/z86dfnpo4wz61.png?width=640&crop=smart&auto=webp&s=c99cddca5b4beca23f3be3f6538ee75b9858e72b' alt='Wallpaper - Ubuntu Light & Dark : r/Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/z86dfnpo4wz61.png?width=640&crop=smart&auto=webp&s=c99cddca5b4beca23f3be3f6538ee75b9858e72b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Labyrinth: Revealing the Mantic Minotaur | Ubuntu">
+                                <img itemprop="contentUrl url" src='https://ubuntu.com/wp-content/uploads/0720/wallpaper_minotaur_colour.png' alt='Into the Labyrinth: Revealing the Mantic Minotaur | Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuntu" />
+                                </span>
+                                <a href='https://ubuntu.com/wp-content/uploads/0720/wallpaper_minotaur_colour.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Technology Ubuntu HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/385/thumb-1920-385447.jpg' alt='Download Technology Ubuntu HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/385/thumb-1920-385447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

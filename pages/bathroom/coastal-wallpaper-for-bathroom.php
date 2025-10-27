@@ -1,0 +1,129 @@
+<title>Coastal Wallpaper for Your Bathroom: Create a Serene Oasis</title>
+                    <meta name="description" content="Discover the charm of coastal wallpaper for your bathroom. With ocean-inspired designs, transform your space into a tranquil haven. Durable and water-resistant, our wallpapers are perfect for creating a refreshing beach vibe. Ideal for a spa-like atmosphere, elevate your bathroom decor effortlessly.">
+                    <meta name="keywords" content="coastal wallpaper for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/coastal-wallpaper-for-bathroom">
+                            <span itemprop="name">coastal wallpaper for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coastal Wallpaper for Your Bathroom: Create a Serene Oasis</h1>
+                <p>Transform your bathroom into a coastal retreat with stunning coastal wallpaper. Choose from a variety of ocean-themed designs, including serene beachscapes, vibrant coral patterns, and tranquil nautical motifs. Perfect for evoking the relaxing essence of the seaside, this wallpaper is durable, water-resistant, and easy to maintain, making it an ideal choice for bathrooms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Bathroom Wallpaper - Life On Virginia Street">
+                                <img itemprop="contentUrl url" src='https://lifeonvirginiastreet.com/wp-content/uploads/2024/09/palm-bathroom.jpg' alt='Coastal Bathroom Wallpaper - Life On Virginia Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life On Virginia Street" />
+                                </span>
+                                <a href='https://lifeonvirginiastreet.com/wp-content/uploads/2024/09/palm-bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Silhouette Coastal Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11402-B_2000x2000.jpg?v=1673149327' alt='Palm Silhouette Coastal Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11402-B_2000x2000.jpg?v=1673149327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Wallpaper, Marine, Sea Wall Mural, Coastal Decor, Removable /  Traditional 179 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17193926/r/il/f1c53b/1843432553/il_1080xN.1843432553_q0rc.jpg' alt='Coral Wallpaper, Marine, Sea Wall Mural, Coastal Decor, Removable /  Traditional 179 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17193926/r/il/f1c53b/1843432553/il_1080xN.1843432553_q0rc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace Coastal Vibes - Coastal Wallpaper Collection – Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/collections/4a8aa9b7f9f29f7e9749d55daf39c9fb_b68ad3cb-ac52-4e4b-a528-389e130344cc.jpg?v=1705426947' alt='Embrace Coastal Vibes - Coastal Wallpaper Collection – Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/collections/4a8aa9b7f9f29f7e9749d55daf39c9fb_b68ad3cb-ac52-4e4b-a528-389e130344cc.jpg?v=1705426947' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Bird Wallpaper Grey Wallpaper Blue Wallpaper Beach ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/d34baf/3633673382/il_570xN.3633673382_jbda.jpg' alt='Wallpaper Bird Wallpaper Grey Wallpaper Blue Wallpaper Beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/d34baf/3633673382/il_570xN.3633673382_jbda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Coastal Wallpaper Peel and Stick 17.3" X 197" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bFkUfH6-L.jpg' alt='WENMER Coastal Wallpaper Peel and Stick 17.3" X 197" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bFkUfH6-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper: Peel and Stick and Traditional Options ...">
+                                <img itemprop="contentUrl url" src='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' alt='Coastal Wallpaper: Peel and Stick and Traditional Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newport Lane" />
+                                </span>
+                                <a href='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Swimmers Wallpaper by Gray Malin">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/products/bathroom_mockup-2_1800x1800.jpg?v=1660941493' alt='Ocean Swimmers Wallpaper by Gray Malin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/products/bathroom_mockup-2_1800x1800.jpg?v=1660941493' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer House Bay Fish Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/SC21502-A_2000x2000.jpg?v=1676260798' alt='Summer House Bay Fish Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/SC21502-A_2000x2000.jpg?v=1676260798' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cailini Coastal Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0301/0052/1091/files/107_2_3fbc60c9-1ad3-46f8-a158-2e7b4f7b6261.jpg?v=1706287255' alt='Cailini Coastal Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0301/0052/1091/files/107_2_3fbc60c9-1ad3-46f8-a158-2e7b4f7b6261.jpg?v=1706287255' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Enigmatic Dracula Castle: History & Legends</title>
+                    <meta name="description" content="Explore the captivating history of Dracula Castle, a medieval fortress in Romania. Known for its connection to Count Dracula, this stunning landmark offers rich legends, gothic architecture, and scenic views, attracting history enthusiasts and thrill-seekers alike. Visit now and uncover its secrets!">
+                    <meta name="keywords" content="dracula castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dracula-castle-background">
+                            <span itemprop="name">dracula castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enigmatic Dracula Castle: History & Legends</h1>
+                <p>Dracula Castle, also known as Bran Castle, is steeped in legend and mystery. Located in Romania, it is often associated with Bram Stoker's iconic vampire, Count Dracula. The stunning medieval fortress, perched on a rocky cliff, attracts visitors with its gothic architecture, fascinating history, and breathtaking mountain views, making it a must-see destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle (1920x1080) - aka My New Desktop : r/smashbros">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/bs5Cj_jP4hs1Ht-kVmDR0MazHtAQjtcmt2ai17wIRUg.png?auto=webp&s=79d476db785e6af8ad9d0b46f6906f52231f92f6' alt='Dracula's Castle (1920x1080) - aka My New Desktop : r/smashbros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/bs5Cj_jP4hs1Ht-kVmDR0MazHtAQjtcmt2ai17wIRUg.png?auto=webp&s=79d476db785e6af8ad9d0b46f6906f52231f92f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle (Artwork) [1920x1980] : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vhxb1zykzmv41.jpg?auto=webp&s=446f93e0ab3e5e88b632c66b543665e278a3dedc' alt='Dracula's Castle (Artwork) [1920x1980] : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vhxb1zykzmv41.jpg?auto=webp&s=446f93e0ab3e5e88b632c66b543665e278a3dedc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle | Castlevania Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/castlevania/images/1/13/Castlevania_Manifestation.jpg/revision/latest?cb=20240315093657' alt='Dracula's Castle | Castlevania Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Castlevania Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/castlevania/images/1/13/Castlevania_Manifestation.jpg/revision/latest?cb=20240315093657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: the moon, cemetery, Dracula's castle, Dracula Castle ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/ae/fc/c7aefce29591b4f35a15c51495743bd1.jpg' alt='HD wallpaper: the moon, cemetery, Dracula's castle, Dracula Castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/ae/fc/c7aefce29591b4f35a15c51495743bd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula Castle (Bran Castle) Transylvania Romania. Photo by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/5b/53/3a5b5318b1680e69580a495956dd3274.jpg' alt='Dracula Castle (Bran Castle) Transylvania Romania. Photo by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/5b/53/3a5b5318b1680e69580a495956dd3274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle, Whendell Souza">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/f8/25/3ef825fc51ea99abf70fe65bb1e28f9b.jpg' alt='Dracula's Castle, Whendell Souza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/f8/25/3ef825fc51ea99abf70fe65bb1e28f9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bran Castle History - Discover the history of Dracula's Castle">
+                                <img itemprop="contentUrl url" src='https://bran-castle.com/wp-content/uploads/2023/03/1377-castel-bran.jpg' alt='Bran Castle History - Discover the history of Dracula's Castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bran Castle" />
+                                </span>
+                                <a href='https://bran-castle.com/wp-content/uploads/2023/03/1377-castel-bran.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lightning Dracula's Castle Dark Fantasy Castle Dark ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/772/772048.jpg' alt='Download Lightning Dracula's Castle Dark Fantasy Castle Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/772/772048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dracula's Castle | Castlevania Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/castlevania/images/0/09/Dracula%27s_Castle_-_Super_Smash_Bros._Ultimate_-_01.png/revision/latest/scale-to-width-down/985?cb=20200418183829' alt='Dracula's Castle | Castlevania Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Castlevania Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/castlevania/images/0/09/Dracula%27s_Castle_-_Super_Smash_Bros._Ultimate_-_01.png/revision/latest/scale-to-width-down/985?cb=20200418183829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Bran Castle: Between Reality and Legend | Dracula's ...">
+                                <img itemprop="contentUrl url" src='https://dracula-castle.ro/wp-content/uploads/2024/02/history-main1.webp' alt='History of the Bran Castle: Between Reality and Legend | Dracula's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dracula's Castle" />
+                                </span>
+                                <a href='https://dracula-castle.ro/wp-content/uploads/2024/02/history-main1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

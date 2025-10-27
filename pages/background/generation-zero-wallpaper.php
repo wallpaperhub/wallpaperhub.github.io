@@ -1,0 +1,129 @@
+<title>Stunning Generation Zero Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover beautiful Generation Zero wallpapers that bring the haunting landscapes and thrilling atmosphere of the game to your screens. Perfect for fans looking to elevate their devices with captivating visuals from the post-apocalyptic world of Generation Zero. Download and personalize your digital experience today!">
+                    <meta name="keywords" content="generation zero wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/generation-zero-wallpaper">
+                            <span itemprop="name">generation zero wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Generation Zero Wallpapers for Your Device</h1>
+                <p>Transform your device's screen with stunning Generation Zero wallpapers! Featuring breathtaking visuals from the open-world game set in a post-apocalyptic Sweden, these wallpapers capture the eerie beauty and tension of the game’s landscapes and creatures. Perfect for fans wanting to showcase their love for Gen Zero!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="There was a guy on here looking for wallpapers from the game but ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/there-was-a-guy-on-here-looking-for-wallpapers-from-the-v0-eufziwt5wb9a1.jpg?width=1920&format=pjpg&auto=webp&s=50e88eed0ab29fb23c310530dde5a234891d5453' alt='There was a guy on here looking for wallpapers from the game but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/there-was-a-guy-on-here-looking-for-wallpapers-from-the-v0-eufziwt5wb9a1.jpg?width=1920&format=pjpg&auto=webp&s=50e88eed0ab29fb23c310530dde5a234891d5453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generation Zero wallpaper 01 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_generation_zero_01_1920x1080.jpg' alt='Generation Zero wallpaper 01 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_generation_zero_01_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Generation Zero actually stolen from Simon Stålenhag? : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n2ix96qqf0121.jpg' alt='Is Generation Zero actually stolen from Simon Stålenhag? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n2ix96qqf0121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Robot Video Game Generation Zero HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/114/1148874.jpg' alt='Download Robot Video Game Generation Zero HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/114/1148874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generation Zero wallpaper 01 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Generation+Zero&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=6608' alt='Generation Zero wallpaper 01 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Generation+Zero&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=6608' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generation Zero LP 8 : Un autre château - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Fb8rRCDiee4/sddefault.jpg' alt='Generation Zero LP 8 : Un autre château - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Fb8rRCDiee4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game, Generation Zero, Robot, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/5/141/HD-wallpaper-video-game-generation-zero-robot.jpg' alt='Video Game, Generation Zero, Robot, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/5/141/HD-wallpaper-video-game-generation-zero-robot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="There was a guy on here looking for wallpapers from the game but ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/there-was-a-guy-on-here-looking-for-wallpapers-from-the-v0-5kfjfmy5wb9a1.jpg?width=1920&format=pjpg&auto=webp&s=b8f3e760174d1d2b82188a3558dbc22cd9c35423' alt='There was a guy on here looking for wallpapers from the game but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/there-was-a-guy-on-here-looking-for-wallpapers-from-the-v0-5kfjfmy5wb9a1.jpg?width=1920&format=pjpg&auto=webp&s=b8f3e760174d1d2b82188a3558dbc22cd9c35423' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="E3 2018: Generation Zero Is Pretty but Needs More Interesting Enemies">
+                                <img itemprop="contentUrl url" src='http://oyster.ignimgs.com/wordpress/stg.ign.com/2018/06/bigboy.jpg' alt='E3 2018: Generation Zero Is Pretty but Needs More Interesting Enemies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN Nordic" />
+                                </span>
+                                <a href='http://oyster.ignimgs.com/wordpress/stg.ign.com/2018/06/bigboy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generation Zero | Open-World Action Game">
+                                <img itemprop="contentUrl url" src='https://generationzero.com/content/1-home/generation-zero-screenshot_2.jpg' alt='Generation Zero | Open-World Action Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="generationzero.com" />
+                                </span>
+                                <a href='https://generationzero.com/content/1-home/generation-zero-screenshot_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

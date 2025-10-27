@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Cave Backgrounds</title>
+                    <meta name="description" content="Discover the enchanting world of cave backgrounds, where geology and history intertwine. Uncover unique formations, ecosystems, and the rich stories that caves tell about our planet's past. Perfect for nature lovers and history enthusiasts alike!">
+                    <meta name="keywords" content="cave background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cave-background">
+                            <span itemprop="name">cave background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Cave Backgrounds</h1>
+                <p>Caves, formed by the erosion of rock over millennia, captivate with their mysterious allure. They reveal a diverse ecosystem, showcasing unique geological formations like stalactites and stalagmites. Serving as historical shelters, caves are also home to various species and artworks, making them essential to both nature and human history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Stylized Cave 1 | Fab">
+                                <img itemprop="contentUrl url" src='https://media.fab.com/image_previews/gallery_images/2f141df3-5296-4ac0-af5f-ba30be90a9ff/44055725-5e47-46e9-a5dc-2383742a1647.jpg' alt='BACKGROUND - Stylized Cave 1 | Fab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab" />
+                                </span>
+                                <a href='https://media.fab.com/image_previews/gallery_images/2f141df3-5296-4ac0-af5f-ba30be90a9ff/44055725-5e47-46e9-a5dc-2383742a1647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cave Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/377/367/small_2x/dramatic-light-in-dark-cave-landscape-mysterious-and-surreal-digital-art-free-photo.jpg' alt='Dark Cave Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/377/367/small_2x/dramatic-light-in-dark-cave-landscape-mysterious-and-surreal-digital-art-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cave Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-cave-landscape_1308-16279.jpg' alt='Cartoon Cave Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-cave-landscape_1308-16279.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave Rock Background Stock Illustrations – 13,594 Cave Rock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cave-rock-entrance-exit-background-view-inside-to-mountain-sunrise-sunset-clean-sky-tunnel-mine-rocks-bringing-343922912.jpg' alt='Cave Rock Background Stock Illustrations – 13,594 Cave Rock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cave-rock-entrance-exit-background-view-inside-to-mountain-sunrise-sunset-clean-sky-tunnel-mine-rocks-bringing-343922912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,000+ Dark Cave Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1282785923/photo/inside-underground-stone-cave.jpg?s=612x612&w=0&k=20&c=4CLlxkhrVvNgZlM2IR9VqBPNCETuzh5LJ6ZTcgteVzE=' alt='42,000+ Dark Cave Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1282785923/photo/inside-underground-stone-cave.jpg?s=612x612&w=0&k=20&c=4CLlxkhrVvNgZlM2IR9VqBPNCETuzh5LJ6ZTcgteVzE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARCADE STYLE - SCROLLING BACKGROUND - FOSSIL CAVES | GameDev Market">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20191203145622/b08301410b1cf614fe68b998be1e58cf.png' alt='ARCADE STYLE - SCROLLING BACKGROUND - FOSSIL CAVES | GameDev Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20191203145622/b08301410b1cf614fe68b998be1e58cf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave background pixel art by SlashDashGamesStudio">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzEyMTkxMTQwLnBuZw==/original/ALYiiE.png' alt='Cave background pixel art by SlashDashGamesStudio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlashDashGamesStudio - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzEyMTkxMTQwLnBuZw==/original/ALYiiE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="378,700+ Cave Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157721344/photo/wierzchowska-gorna-cave-with-stalactites-and-stalagmites-in-wierzchowie-poland.jpg?s=612x612&w=0&k=20&c=YAgmWCKOXeO0HKMtdNQtkjlaLuaXU7fhiHLRL-RtaFk=' alt='378,700+ Cave Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157721344/photo/wierzchowska-gorna-cave-with-stalactites-and-stalagmites-in-wierzchowie-poland.jpg?s=612x612&w=0&k=20&c=YAgmWCKOXeO0HKMtdNQtkjlaLuaXU7fhiHLRL-RtaFk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cave Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cave-flat-vector-art-illustration-retro-vintage-poster-cartoon-colorful-flat-vector-illustration_36900-3668.jpg' alt='Cartoon Cave Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cave-flat-vector-art-illustration-retro-vintage-poster-cartoon-colorful-flat-vector-illustration_36900-3668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cave Background Game Stock Illustrations – 336 Ice Cave ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ice-cave-game-d-background-illustration-generative-ai-ice-cave-game-d-background-ice-illustration-generative-ai-283467201.jpg' alt='Ice Cave Background Game Stock Illustrations – 336 Ice Cave ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ice-cave-game-d-background-illustration-generative-ai-ice-cave-game-d-background-ice-illustration-generative-ai-283467201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

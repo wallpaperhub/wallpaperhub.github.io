@@ -1,0 +1,129 @@
+<title>Captivating Wedding Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect wedding wallpaper for your iPhone! Explore a variety of beautiful designs that celebrate your love story. Our wallpapers are ideal for brides and wedding fans, adding a touch of elegance to your device. Personalize your phone and keep your wedding memories alive every day!">
+                    <meta name="keywords" content="wedding wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wedding-wallpaper-iphone">
+                            <span itemprop="name">wedding wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Wedding Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with enchanting wedding wallpaper that captures the magic of your special day. Choose from stunning floral designs, romantic scenes, and elegant patterns that reflect your love story. Perfect for brides-to-be and wedding enthusiasts, these wallpapers add a personal touch to your device, keeping the joy of your celebration close at hand.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpapers For The Newly-Engaged Bride!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/ae/37/c4ae370ec510bbcf07e31b9ed6daac56.jpg' alt='Free iPhone Wallpapers For The Newly-Engaged Bride!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/ae/37/c4ae370ec510bbcf07e31b9ed6daac56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 Wedding Wallpapers ideas | wedding, iphone wallpaper, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d6/b3/07/d6b307d39e4ff7a4d8a7d8685b353a7e.jpg' alt='87 Wedding Wallpapers ideas | wedding, iphone wallpaper, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d6/b3/07/d6b307d39e4ff7a4d8a7d8685b353a7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="trockenblumen #dried #flower #aesthetic #wedding #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/73/6f/6d736fc5566f132ae28406fa032cc5ef.jpg' alt='trockenblumen #dried #flower #aesthetic #wedding #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/73/6f/6d736fc5566f132ae28406fa032cc5ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpapers For The Newly-Engaged Bride!">
+                                <img itemprop="contentUrl url" src='https://somethingturquoise.com/wp-content/uploads/2017/07/ST_iphone_WP_tropical_longimage.jpg' alt='Free iPhone Wallpapers For The Newly-Engaged Bride!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Something Turquoise" />
+                                </span>
+                                <a href='https://somethingturquoise.com/wp-content/uploads/2017/07/ST_iphone_WP_tropical_longimage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful wedding colors">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/7d/43/db7d436e40e7533224d451f0fc370d73.jpg' alt='beautiful wedding colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/7d/43/db7d436e40e7533224d451f0fc370d73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Wallpaper Iphone Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-decoration-cute-little-dried-colorful-flowers-dark-black-wallpaper_343596-3245.jpg' alt='Wedding Wallpaper Iphone Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-decoration-cute-little-dried-colorful-flowers-dark-black-wallpaper_343596-3245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Wedding Wallpaper in Illustrator, SVG, JPG, PNG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/89654/Free-Elegant-Wedding-Wallpaper--Recovered--01-1.jpg' alt='Elegant Wedding Wallpaper in Illustrator, SVG, JPG, PNG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/89654/Free-Elegant-Wedding-Wallpaper--Recovered--01-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Future Mrs. iPhone Wallpaper Download — Amanda Day Rose">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b7ac8fe70e802ba195a0f98/1534960721407-83AD2OUBPHFDOZ08KID5/julydownload_iphone4.jpg' alt='The Future Mrs. iPhone Wallpaper Download — Amanda Day Rose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amanda Day Rose" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b7ac8fe70e802ba195a0f98/1534960721407-83AD2OUBPHFDOZ08KID5/julydownload_iphone4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoes, ring, bouquet, flowers, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/481/812/HD-wallpaper-shoes-ring-bouquet-flowers.jpg' alt='Shoes, ring, bouquet, flowers, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/481/812/HD-wallpaper-shoes-ring-bouquet-flowers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpapers For The Newly-Engaged Bride!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/8f/83/718f834ee3863bfd6c3261bf7bee03fb.jpg' alt='Free iPhone Wallpapers For The Newly-Engaged Bride!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/8f/83/718f834ee3863bfd6c3261bf7bee03fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

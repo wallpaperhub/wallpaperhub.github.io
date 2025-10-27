@@ -1,0 +1,129 @@
+<title>Top Holiday Phone Wallpapers to Brighten Your Screen</title>
+                    <meta name="description" content="Discover the best holiday phone wallpapers to elevate your device! Explore festive designs that capture the essence of the season, making your screen delightful and cheerful. Perfect for everyone who loves celebrating the holidays in style!">
+                    <meta name="keywords" content="holiday phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/holiday-phone-wallpaper">
+                            <span itemprop="name">holiday phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Holiday Phone Wallpapers to Brighten Your Screen</h1>
+                <p>Transform your phone this holiday season with stunning wallpapers that celebrate the joy of festivities! From snowy landscapes to vibrant ornaments, our collection offers the perfect backdrop for your screen. Brighten your day and embrace the spirit of the holidays with every glance at your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' alt='Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Christmas Phone Wallpaper | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2018/12/Holiday-Christmas-Winter-Phone-Wallpaper-Background-Christmas-Trees.jpg' alt='FREE Christmas Phone Wallpaper | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2018/12/Holiday-Christmas-Winter-Phone-Wallpaper-Background-Christmas-Trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Christmas Wallpaper Backgrounds For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/e9/3b/48e93b92cb6f80cba2f40bb5615689f2.jpg' alt='50+ Free Christmas Wallpaper Backgrounds For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/e9/3b/48e93b92cb6f80cba2f40bb5615689f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas iPhone Wallpapers | Download Festive Holiday Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L2pvYjEyMDMtYmFja2dyb3VuZC0wMy5qcGc.jpg' alt='Christmas iPhone Wallpapers | Download Festive Holiday Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L2pvYjEyMDMtYmFja2dyb3VuZC0wMy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Phone Wallpapers | Arizon life and style | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-christmas-tree-north-pole-576x1024.png' alt='Winter Phone Wallpapers | Arizon life and style | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-christmas-tree-north-pole-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Holiday Free Phone Wallpaper | Weekly Inspiration -">
+                                <img itemprop="contentUrl url" src='https://appleslicesllc.com/winter_holiday_free_phone_backgrounds_from_apple_slices_llc_024x-20-3/' alt='Winter Holiday Free Phone Wallpaper | Weekly Inspiration -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Slices -" />
+                                </span>
+                                <a href='https://appleslicesllc.com/winter_holiday_free_phone_backgrounds_from_apple_slices_llc_024x-20-3/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Wallpaper for Phone | TikTok">
+                                <img itemprop="contentUrl url" src='https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owfnncVAC7BKbrZi34iHlED8Ei8rIAB2fjBVjA~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1740744000&x-signature=cT2PDK6nPv%2FRduUK%2FUnU%2FLu2YbA%3D&shp=b59d6b55&shcp=-' alt='Christmas Tree Wallpaper for Phone | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owfnncVAC7BKbrZi34iHlED8Ei8rIAB2fjBVjA~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1740744000&x-signature=cT2PDK6nPv%2FRduUK%2FUnU%2FLu2YbA%3D&shp=b59d6b55&shcp=-' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Holiday Cell Phone Wallpaper Background - Giggles Galore">
+                                <img itemprop="contentUrl url" src='https://gigglesgalore.net/wp-content/uploads/2017/12/Fa-La-La-La-La-Cell-Phone-Bkgrnd6-1.jpg' alt='FREE Holiday Cell Phone Wallpaper Background - Giggles Galore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giggles Galore" />
+                                </span>
+                                <a href='https://gigglesgalore.net/wp-content/uploads/2017/12/Fa-La-La-La-La-Cell-Phone-Bkgrnd6-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Phone Wallpapers | Arizon life and style | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-garland-576x1024.png' alt='Winter Phone Wallpapers | Arizon life and style | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/12/cute-free-holiday-winter-phone-wallpaper-garland-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Phone Wallpapers | Free Festive Holiday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/93/e6/e093e60dcdf86e20553e1c30e5debae1.jpg' alt='Aesthetic Christmas Phone Wallpapers | Free Festive Holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/93/e6/e093e60dcdf86e20553e1c30e5debae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

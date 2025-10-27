@@ -1,0 +1,129 @@
+<title>Discover the Timeless Style of Levi's Jeans</title>
+                    <meta name="description" content="Explore the enduring appeal of Levi's jeans. From classic fits to modern styles, Levi's combines quality and comfort for every occasion. Find your perfect pair today and elevate your wardrobe with this iconic brand.">
+                    <meta name="keywords" content="will levis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-levis">
+                            <span itemprop="name">will levis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Timeless Style of Levi's Jeans</h1>
+                <p>Levi's jeans are a timeless fashion staple, celebrated for their quality and classic styles. Originating in 1873, they embody American heritage with their signature 501 model. From skinny to bootcut, Levi's offers a diverse range that fits every body type. Each pair delivers comfort, durability, and unmatched style, making them a must-have in any wardrobe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Levis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/82/Will_Levis_Titans-Steelers_NOV2023.png' alt='Will Levis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/82/Will_Levis_Titans-Steelers_NOV2023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Levis - Tennessee Titans Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361418.png' alt='Will Levis - Tennessee Titans Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361418.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennessee Titans QB Will Levis injured during 'Monday Night ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-10/240930-will-levis-wm-517p-cf71bc.jpg' alt='Tennessee Titans QB Will Levis injured during 'Monday Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1018">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-10/240930-will-levis-wm-517p-cf71bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rookie QB Will Levis shows Titans have bright future with big ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/f317f61/2147483647/strip/false/crop/3277x4918+0+0/resize/990x1486!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F15%2F04ef8a1999f84ce24e35e60290ce%2F55fb6e02299f4ff2989a498061a54a75' alt='Rookie QB Will Levis shows Titans have bright future with big ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="1486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/f317f61/2147483647/strip/false/crop/3277x4918+0+0/resize/990x1486!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F15%2F04ef8a1999f84ce24e35e60290ce%2F55fb6e02299f4ff2989a498061a54a75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Real-Life Diet of Titans QB Will Levis, Who Eats Two Dinners ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/66df0732829501a01cbc1bf4/master/w_2560%2Cc_limit/levis.jpg' alt='The Real-Life Diet of Titans QB Will Levis, Who Eats Two Dinners ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/66df0732829501a01cbc1bf4/master/w_2560%2Cc_limit/levis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The bar must have said something about my momma.">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2882405345440631257' alt='The bar must have said something about my momma.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2882405345440631257' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titans QB Will Levis sees new faces as sign of team's desire to ...">
+                                <img itemprop="contentUrl url" src='https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/103234437_103234437-7b093629aa594061871572805713170c_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d' alt='Titans QB Will Levis sees new faces as sign of team's desire to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chattanooga Times Free Press" />
+                                </span>
+                                <a href='https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/103234437_103234437-7b093629aa594061871572805713170c_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Levis">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_auto/v1718984782/titans/xtkevbeh2j0vwvhfgndd.jpg' alt='Will Levis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tennessee Titans" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_auto/v1718984782/titans/xtkevbeh2j0vwvhfgndd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Levis '18 Dazzles in NFL Debut! | Xavier High School">
+                                <img itemprop="contentUrl url" src='https://3.files.edl.io/a1f5/23/10/30/140726-b1660281-8ae1-4380-9bd7-09bff6e843c3.jpg' alt='Will Levis '18 Dazzles in NFL Debut! | Xavier High School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xavier High School" />
+                                </span>
+                                <a href='https://3.files.edl.io/a1f5/23/10/30/140726-b1660281-8ae1-4380-9bd7-09bff6e843c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Levis (@will_levis) · Instagram photos and Reels">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509434994118966885' alt='Will Levis (@will_levis) · Instagram photos and Reels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509434994118966885' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

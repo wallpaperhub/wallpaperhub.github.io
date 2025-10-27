@@ -1,0 +1,129 @@
+<title>Essential Backpack: Your Perfect Travel Companion</title>
+                    <meta name="description" content="Discover the ultimate backpack that combines style and functionality. Perfect for any adventure, our backpacks offer comfort and space to carry your essentials. Explore more and find your ideal travel companion, ready to join you on every journey!">
+                    <meta name="keywords" content="picture of backpack">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-backpack">
+                            <span itemprop="name">picture of backpack</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Backpack: Your Perfect Travel Companion</h1>
+                <p>Capturing the essence of adventure, a picture of a backpack is not just a photo; it's a gateway to exploration. Whether on a mountain trail or a city street, a well-designed backpack embodies functionality and style. It carries memories, essentials, and dreams, making it a vital companion for every journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1  Main Compartment, Front Utility Pocket with Built-in Organizer - Premium ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81g+yVaD0TL._AC_UY580_.jpg' alt='JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1  Main Compartment, Front Utility Pocket with Built-in Organizer - Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81g+yVaD0TL._AC_UY580_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re:fresh Backpack">
+                                <img itemprop="contentUrl url" src='https://solo-ny.com/cdn/shop/files/UBN795-10_HO_c4f17d2f-425f-4fa9-98c1-dc3f06b1933a.jpg?v=1695141176&width=1080' alt='Re:fresh Backpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solo New York" />
+                                </span>
+                                <a href='https://solo-ny.com/cdn/shop/files/UBN795-10_HO_c4f17d2f-425f-4fa9-98c1-dc3f06b1933a.jpg?v=1695141176&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best 5 Backpacks for College and High School Students of 2025 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.thewirecutter.com/wp-content/media/2022/09/backpacks-2048px.jpg?auto=webp&quality=75&crop=1.91:1&width=1200' alt='The Best 5 Backpacks for College and High School Students of 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://cdn.thewirecutter.com/wp-content/media/2022/09/backpacks-2048px.jpg?auto=webp&quality=75&crop=1.91:1&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Backpack Cute Aesthetic Backpack for School">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Solid-Color-Backpack-Cute-Aesthetic-Backpack-for-School_19cdb6c3-bc78-4892-a664-bc192b64f5e7.8bdaae84faba2dba35a1ce2193f23f27.jpeg' alt='Solid Color Backpack Cute Aesthetic Backpack for School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Solid-Color-Backpack-Cute-Aesthetic-Backpack-for-School_19cdb6c3-bc78-4892-a664-bc192b64f5e7.8bdaae84faba2dba35a1ce2193f23f27.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com | School Backpack for Teen Girls Women Laptop Backpack College  Bookbags Middle School Travel Work Commuter Back Pack(Pink) | Kids' ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61tzvrmhy6L.jpg' alt='Amazon.com | School Backpack for Teen Girls Women Laptop Backpack College  Bookbags Middle School Travel Work Commuter Back Pack(Pink) | Kids' ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61tzvrmhy6L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17" Kids Basic Wholesale Backpack in 8 Colors - Bulk Case of 24">
+                                <img itemprop="contentUrl url" src='http://www.backpacksusa.com/cdn/shop/products/10067-B-8-Comp_de0bb836-30fb-4fce-aa97-767a80b40a16.jpg?v=1680296619' alt='17" Kids Basic Wholesale Backpack in 8 Colors - Bulk Case of 24'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backpacks USA" />
+                                </span>
+                                <a href='http://www.backpacksusa.com/cdn/shop/products/10067-B-8-Comp_de0bb836-30fb-4fce-aa97-767a80b40a16.jpg?v=1680296619' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bentgo® Kids Backpack & Lunch Bag | Backpacks For School">
+                                <img itemprop="contentUrl url" src='https://bentgo.com/cdn/shop/files/BGBKPAK-BUG_00.jpg?v=1684870829' alt='Bentgo® Kids Backpack & Lunch Bag | Backpacks For School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bentgo" />
+                                </span>
+                                <a href='https://bentgo.com/cdn/shop/files/BGBKPAK-BUG_00.jpg?v=1684870829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matein Expandable College Bookbag Travel Laptop Backpack">
+                                <img itemprop="contentUrl url" src='http://www.matein.com/cdn/shop/products/6391ace427ade714b70fb966024ae804.jpg?v=1599661645' alt='Matein Expandable College Bookbag Travel Laptop Backpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1516">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Matein" />
+                                </span>
+                                <a href='http://www.matein.com/cdn/shop/products/6391ace427ade714b70fb966024ae804.jpg?v=1599661645' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Utility Power Backpack (33L)">
+                                <img itemprop="contentUrl url" src='https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/fdbd25ab-6566-4024-96f5-68c732061922/NK+UTILITY+POWER+BKPK+-+2.0.png' alt='Nike Utility Power Backpack (33L)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nike" />
+                                </span>
+                                <a href='https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/fdbd25ab-6566-4024-96f5-68c732061922/NK+UTILITY+POWER+BKPK+-+2.0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Backpack">
+                                <img itemprop="contentUrl url" src='https://arloskye.com/cdn/shop/files/2023-backpack-laptop-pocket_grande.jpg?v=1687975939' alt='The Backpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arlo Skye" />
+                                </span>
+                                <a href='https://arloskye.com/cdn/shop/files/2023-backpack-laptop-pocket_grande.jpg?v=1687975939' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

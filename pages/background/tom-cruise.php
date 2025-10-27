@@ -1,0 +1,129 @@
+<title>Discover the Legendary Career of Tom Cruise</title>
+                    <meta name="description" content="Explore the remarkable journey of Tom Cruise, from his early roles to becoming a Hollywood icon. Delve into his filmography, incredible stunts, and contributions to cinema that have shaped his career over the years. Join us to celebrate the man behind the movies!">
+                    <meta name="keywords" content="tom cruise">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tom-cruise">
+                            <span itemprop="name">tom cruise</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legendary Career of Tom Cruise</h1>
+                <p>Tom Cruise is an iconic American actor and producer known for his diverse roles in blockbuster films. With a career spanning over three decades, he has starred in classics like "Top Gun," "Mission: Impossible," and "Jerry Maguire." His dedication to performing stunts and remarkable onscreen charisma have made him a legendary figure in Hollywood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/1200px-Tom_Cruise_by_Gage_Skidmore_2.jpg' alt='Tom Cruise - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/1200px-Tom_Cruise_by_Gage_Skidmore_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMmU1YWU1NmMtMjAyMi00MjFiLWFmZmUtOTc1ZjI5ODkxYmQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Tom Cruise - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMmU1YWU1NmMtMjAyMi00MjFiLWFmZmUtOTc1ZjI5ODkxYmQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise: Biography, Actor, Oscar Nominee">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/tom-cruise-attends-the-australian-premiere-of-mission-news-photo-1723493931.jpg' alt='Tom Cruise: Biography, Actor, Oscar Nominee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4954">
+                                <meta itemprop="height" content="3303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/tom-cruise-attends-the-australian-premiere-of-mission-news-photo-1723493931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rise of Tom Cruise">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGZlMWY3ZGUtMWQ4Yy00OWNkLWIxNDYtNzcwYTVjMTc3ZTA4XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg' alt='The Rise of Tom Cruise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGZlMWY3ZGUtMWQ4Yy00OWNkLWIxNDYtNzcwYTVjMTc3ZTA4XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise Net Worth (2025): From Top Gun, Mission Impossible - Parade">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/t_share/MTkwNTc4NzcwMDEwOTczMzA5/tom-cruise-net-worth.jpg' alt='Tom Cruise Net Worth (2025): From Top Gun, Mission Impossible - Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/t_share/MTkwNTc4NzcwMDEwOTczMzA5/tom-cruise-net-worth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise | Biography, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/178268-050-5B4E7FB6/Tom-Cruise-2013.jpg' alt='Tom Cruise | Biography, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1302">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/178268-050-5B4E7FB6/Tom-Cruise-2013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 20 Best Tom Cruise Movie Performances | Taste Of Cinema ...">
+                                <img itemprop="contentUrl url" src='https://www.tasteofcinema.com/wp-content/uploads/2022/06/best-Tom-Cruise-movies_-1024x576.jpg' alt='The 20 Best Tom Cruise Movie Performances | Taste Of Cinema ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taste of Cinema" />
+                                </span>
+                                <a href='https://www.tasteofcinema.com/wp-content/uploads/2022/06/best-Tom-Cruise-movies_-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise - Golden Globes">
+                                <img itemprop="contentUrl url" src='https://goldenglobes.com/wp-content/uploads/2023/10/17-tomcruiseag.jpg' alt='Tom Cruise - Golden Globes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golden Globes" />
+                                </span>
+                                <a href='https://goldenglobes.com/wp-content/uploads/2023/10/17-tomcruiseag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essential Tom Cruise Movies to Watch | Academy Newsletter">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/3m6gg2lxde82/4twvrTn66gacggAOaqckrU/44aadfba5a87e9239f72c0ebb018b288/top-gun.png?w=414&h=414&fit=fill&f=faces&q=90&fm=webp' alt='Essential Tom Cruise Movies to Watch | Academy Newsletter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academy Newsletter - Oscars.org" />
+                                </span>
+                                <a href='https://images.ctfassets.net/3m6gg2lxde82/4twvrTn66gacggAOaqckrU/44aadfba5a87e9239f72c0ebb018b288/top-gun.png?w=414&h=414&fit=fill&f=faces&q=90&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Cruise Surprises Crowd at 'Top Gun: Maverick' Orchestral ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/uwAomnfaT2v03wspVOfy4kxbcYU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1047x362:1049x364)/tom-cruise-mission-impossible-premiere-092824-4ecd3fee90a340e8bede880ce4777b9d.jpg' alt='Tom Cruise Surprises Crowd at 'Top Gun: Maverick' Orchestral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/uwAomnfaT2v03wspVOfy4kxbcYU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1047x362:1049x364)/tom-cruise-mission-impossible-premiere-092824-4ecd3fee90a340e8bede880ce4777b9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

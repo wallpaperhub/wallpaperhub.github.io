@@ -1,0 +1,129 @@
+<title>Purple Marble Wallpaper for iPhone – Elegance at Your Fingertips</title>
+                    <meta name="description" content="Discover stunning purple marble wallpaper for your iPhone! Elevate your device's look with rich colors and unique designs. Perfect for adding a touch of elegance, this wallpaper combines style and sophistication. Make your iPhone stand out effortlessly with our beautiful purple marble options!">
+                    <meta name="keywords" content="purple marble wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-marble-wallpaper-iphone">
+                            <span itemprop="name">purple marble wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Marble Wallpaper for iPhone – Elegance at Your Fingertips</h1>
+                <p>Your iPhone deserves the touch of elegance that purple marble wallpaper brings. With its stunning blend of deep purples and subtle veins, this wallpaper transforms your device into a stylish accessory. Perfect for those who love sophistication and a touch of drama, this design is crafted to impress and inspire each time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Effects Background With Purple Color Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/68/ee/a1/68eea1ecf081f3a3f925868b628bd73e.jpg' alt='Marble Effects Background With Purple Color Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/68/ee/a1/68eea1ecf081f3a3f925868b628bd73e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper Iphone - 25 New Looks For Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e0/0d/10/e00d10fb1f04fa475d57565966c8f98a.jpg' alt='Purple Marble Wallpaper Iphone - 25 New Looks For Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e0/0d/10/e00d10fb1f04fa475d57565966c8f98a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Background With Gold Streaks. Marble iphone, Purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/205/472/HD-wallpaper-purple-marble-background-with-gold-streaks-marble-iphone-purple-purple-iphone-purple-and-gold-abstract.jpg' alt='Purple Marble Background With Gold Streaks. Marble iphone, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/205/472/HD-wallpaper-purple-marble-background-with-gold-streaks-marble-iphone-purple-purple-iphone-purple-and-gold-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfcGhvdG9ncmFwaHlfb2ZfcHVycGxlX2dyYW5pdGVfcHVycGxlX2ZpbHRlcl93YV9jOWI2OTg2ZS1iYWRjLTRkMDQtOWE5ZC04ZDM3ZjM3ZTRjYmFfMS5qcGc.jpg' alt='Purple Marble Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfcGhvdG9ncmFwaHlfb2ZfcHVycGxlX2dyYW5pdGVfcHVycGxlX2ZpbHRlcl93YV9jOWI2OTg2ZS1iYWRjLTRkMDQtOWE5ZC04ZDM3ZjM3ZTRjYmFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65+ Purple Marble iPhone Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/4b/f5/eb4bf5d13c529acece601c3da66354dd.jpg' alt='65+ Purple Marble iPhone Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/4b/f5/eb4bf5d13c529acece601c3da66354dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10pcs Purple Marble Phone Wallpaper, iPhone Wallpaper, Android ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/52608288/r/il/b92872/6347449412/il_570xN.6347449412_422k.jpg' alt='10pcs Purple Marble Phone Wallpaper, iPhone Wallpaper, Android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/52608288/r/il/b92872/6347449412/il_570xN.6347449412_422k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A beautiful purple marble background. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' alt='Download A beautiful purple marble background. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Purple Marble Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-and-purple-marble-iphone-z594pf4h4r2hfa2j.jpg' alt='Pink And Purple Marble Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-and-purple-marble-iphone-z594pf4h4r2hfa2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty Purple Marble Iphone Wallpaper -Brittany Original!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/99/4a/90994a925a2a6fcc9a2797c09c8110b1.jpg' alt='Dusty Purple Marble Iphone Wallpaper -Brittany Original!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/99/4a/90994a925a2a6fcc9a2797c09c8110b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Purple And Gold Marble Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/purple-and-gold-marble-design-17-09-2024-1726635488.jpg' alt='Most Popular Purple And Gold Marble Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/purple-and-gold-marble-design-17-09-2024-1726635488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

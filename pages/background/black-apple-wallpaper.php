@@ -1,0 +1,129 @@
+<title>Stunning Black Apple Wallpaper for Your Device</title>
+                    <meta name="description" content="Elevate your device's look with our collection of black apple wallpaper. Sleek and stylish, these wallpapers offer a minimalist vibe that enhances any screen. Perfect for fans of dark aesthetics—browse and download your perfect black apple wallpaper today!">
+                    <meta name="keywords" content="black apple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-apple-wallpaper">
+                            <span itemprop="name">black apple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Apple Wallpaper for Your Device</h1>
+                <p>Discover the allure of black apple wallpaper, a stunning way to enhance your device's aesthetic. Perfect for those who appreciate minimalist design, this wallpaper exudes elegance and sophistication. Whether you're a fan of dark themes or simply wish to stand out, embrace the sleek charm of black apple wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Apple Logo On Dark Gray Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/white-apple-logo-on-dark-gray-0um2gv39jc0bqibe.webp' alt='Black Apple Logo On Dark Gray Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/white-apple-logo-on-dark-gray-0um2gv39jc0bqibe.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Apple Logo Original Iphone 4 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-apple-logo-original-iphone-4-1dp4fwmlhdzqx63y.jpg' alt='Black Apple Logo Original Iphone 4 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-apple-logo-original-iphone-4-1dp4fwmlhdzqx63y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple ID Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636123973487-B3JGAABTSWKOVO0NQ805/BlackAppleIDiPad.png' alt='Apple ID Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636123973487-B3JGAABTSWKOVO0NQ805/BlackAppleIDiPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Apple Inc., black, minimalism, logo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/30/4c/53304cec35916f3b459554bccc64ad27.jpg' alt='HD wallpaper: Apple Inc., black, minimalism, logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/30/4c/53304cec35916f3b459554bccc64ad27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Black Wallpaper by superquanganh on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30ec3b40-2e97-478f-98b4-8e46fee9b5f9/dazmi0i-93ff1ce0-8053-4215-bec0-d993ef6da12e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwZWMzYjQwLTJlOTctNDc4Zi05OGI0LThlNDZmZWU5YjVmOVwvZGF6bWkwaS05M2ZmMWNlMC04MDUzLTQyMTUtYmVjMC1kOTkzZWY2ZGExMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rc3fOdpyloBIZCGlKATo77GKwV_iVNxbB0n8hb9Rs4g' alt='Apple Logo Black Wallpaper by superquanganh on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30ec3b40-2e97-478f-98b4-8e46fee9b5f9/dazmi0i-93ff1ce0-8053-4215-bec0-d993ef6da12e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwZWMzYjQwLTJlOTctNDc4Zi05OGI0LThlNDZmZWU5YjVmOVwvZGF6bWkwaS05M2ZmMWNlMC04MDUzLTQyMTUtYmVjMC1kOTkzZWY2ZGExMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rc3fOdpyloBIZCGlKATo77GKwV_iVNxbB0n8hb9Rs4g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black apple wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/622/59/HD-wallpaper-black-apple-apple-iphone-thumbnail.jpg' alt='HD black apple wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/622/59/HD-wallpaper-black-apple-apple-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Apple - Apple & Technology Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1427/1427258-bigthumbnail.jpg' alt='Black Apple - Apple & Technology Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Technology Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1427/1427258-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of the week: Apple logo">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2016/08/papers.co-al58-logo-art-apple-rainbow-minimal-dark-40-wallpaper.jpg' alt='Wallpapers of the week: Apple logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2016/08/papers.co-al58-logo-art-apple-rainbow-minimal-dark-40-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Apple Iphone Bitten Apple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-apple-iphone-bitten-apple-8qr5znd1escrokhw.jpg' alt='Black Apple Iphone Bitten Apple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-apple-iphone-bitten-apple-8qr5znd1escrokhw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Apple Logo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/7a/3c/617a3ca3f96c13607287babd1620a24f.jpg' alt='Black Apple Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/7a/3c/617a3ca3f96c13607287babd1620a24f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

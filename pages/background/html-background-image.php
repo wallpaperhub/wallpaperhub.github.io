@@ -1,0 +1,129 @@
+<title>How to Set Background Images in HTML: A Quick Guide</title>
+                    <meta name="description" content="Learn how to effectively add background images in HTML using CSS. Discover tips on optimizing images for performance and enhancing site aesthetics. Perfect for web developers looking to improve their designs quickly and efficiently.">
+                    <meta name="keywords" content="html background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/html-background-image">
+                            <span itemprop="name">html background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Set Background Images in HTML: A Quick Guide</h1>
+                <p>To set a background image in HTML, use the CSS `background-image` property. You can specify the image URL and customize its size with `background-size`. For example: `body { background-image: url('image.jpg'); background-size: cover; }`. This method helps create visually appealing web pages. Remember to optimize images for performance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a Background in HTML and CSS: Guide + Examples">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/f/f3/2627945-7-4.jpg/v4-460px-2627945-7-4.jpg' alt='How to Set a Background in HTML and CSS: Guide + Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/f/f3/2627945-7-4.jpg/v4-460px-2627945-7-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to insert background image In HTML">
+                                <img itemprop="contentUrl url" src='https://www.contexteditor.org/wp-content/uploads/2023/03/how-to-insert-background-image-in-html.jpg?ezimgfmt=rs:362x204/rscb11/ngcb10/notWebP' alt='How to insert background image In HTML'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ConTEXT Editor" />
+                                </span>
+                                <a href='https://www.contexteditor.org/wp-content/uploads/2023/03/how-to-insert-background-image-in-html.jpg?ezimgfmt=rs:362x204/rscb11/ngcb10/notWebP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to add background image in html 2022">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fdYNqyJmYTI/maxresdefault.jpg' alt='how to add background image in html 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fdYNqyJmYTI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Html background image shop">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/opOLmUB6q9fHOlke7cuY8YceMfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1086740226-5c2d625a4cedfd00016ed36c.jpg' alt='Html background image shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="toituresrp.com" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/opOLmUB6q9fHOlke7cuY8YceMfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1086740226-5c2d625a4cedfd00016ed36c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Background Color — HTML Color Codes">
+                                <img itemprop="contentUrl url" src='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' alt='HTML Background Color — HTML Color Codes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HTML Color Codes" />
+                                </span>
+                                <a href='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Image: HTML Code Example - Fronty">
+                                <img itemprop="contentUrl url" src='https://fronty.com/static/uploads/1.12-1.01/css%20image/linear1-02.png' alt='CSS Background Image: HTML Code Example - Fronty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fronty" />
+                                </span>
+                                <a href='https://fronty.com/static/uploads/1.12-1.01/css%20image/linear1-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML how to add background image">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oU3IhuZscPo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgEyh_MA8=&rs=AOn4CLAMA-O9zN_1kMBd91k1V7TB_oCDpA' alt='HTML how to add background image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oU3IhuZscPo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgEyh_MA8=&rs=AOn4CLAMA-O9zN_1kMBd91k1V7TB_oCDpA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make an image background? - HTML CSS - The freeCodeCamp Forum">
+                                <img itemprop="contentUrl url" src='https://global.discourse-cdn.com/freecodecamp/optimized/3X/f/6/f679ba0270fe09a40c9571259e7607f2c20c3060_2_690x387.jpeg' alt='How to make an image background? - HTML CSS - The freeCodeCamp Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The freeCodeCamp Forum" />
+                                </span>
+                                <a href='https://global.discourse-cdn.com/freecodecamp/optimized/3X/f/6/f679ba0270fe09a40c9571259e7607f2c20c3060_2_690x387.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Aligning content with background-image - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/FsY6H.jpg' alt='html - Aligning content with background-image - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/FsY6H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Html background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2A7CRF4/html-text-in-neon-style-placed-in-technological-advanced-and-futuristic-background-with-codes-2A7CRF4.jpg' alt='Html background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2A7CRF4/html-text-in-neon-style-placed-in-technological-advanced-and-futuristic-background-with-codes-2A7CRF4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

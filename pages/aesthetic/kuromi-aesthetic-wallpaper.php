@@ -1,0 +1,129 @@
+<title>Kuromi Aesthetic Wallpapers: Embrace the Punk Charm</title>
+                    <meta name="description" content="Discover captivating Kuromi aesthetic wallpapers that add a playful and edgy touch to your devices. Perfect for fans of dark pastels and unique character designs, these wallpapers are ideal for expressing your style. Transform your screen with the whimsical essence of Kuromi today!">
+                    <meta name="keywords" content="kuromi aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/kuromi-aesthetic-wallpaper">
+                            <span itemprop="name">kuromi aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kuromi Aesthetic Wallpapers: Embrace the Punk Charm</h1>
+                <p>Embrace the charm of the Kuromi aesthetic with our unique wallpapers! Featuring the mischievous yet adorable Kuromi character, these designs blend dark pastel colors, playful motifs, and a touch of punk style. Perfect for your phone or desktop, these wallpapers will add a whimsical vibe to your digital space and reflect your love for this edgy aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8a/54/04/8a5404e76914fb9045b7a81634093298.jpg' alt='kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8a/54/04/8a5404e76914fb9045b7a81634093298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Kuromi - Wallpaper Sanrio - Kuromi Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/8c/a7/e18ca7a0ce09ee8f208e03f0dadfdb9d.jpg' alt='Wallpaper Kuromi - Wallpaper Sanrio - Kuromi Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/8c/a7/e18ca7a0ce09ee8f208e03f0dadfdb9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63859082706541.1.jpg' alt='Kuromi HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63859082706541.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi wallpaper :3 by kyleweirdkid on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/377f24d1-1e44-47f1-af43-8f086b85d8d9/dfmzshb-a763f7fb-234b-4340-a42d-90bc9e7d6d90.jpg/v1/fill/w_720,h_732,q_75,strp/kuromi_wallpaper__3_by_kyleweirdkid_dfmzshb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzc3ZjI0ZDEtMWU0NC00N2YxLWFmNDMtOGYwODZiODVkOGQ5XC9kZm16c2hiLWE3NjNmN2ZiLTIzNGItNDM0MC1hNDJkLTkwYmM5ZTdkNmQ5MC5qcGciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.b9G1Wdg-sweMt8VwJek4NeY4rAAHJxdnmNkeXSPmENA' alt='kuromi wallpaper :3 by kyleweirdkid on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/377f24d1-1e44-47f1-af43-8f086b85d8d9/dfmzshb-a763f7fb-234b-4340-a42d-90bc9e7d6d90.jpg/v1/fill/w_720,h_732,q_75,strp/kuromi_wallpaper__3_by_kyleweirdkid_dfmzshb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzc3ZjI0ZDEtMWU0NC00N2YxLWFmNDMtOGYwODZiODVkOGQ5XC9kZm16c2hiLWE3NjNmN2ZiLTIzNGItNDM0MC1hNDJkLTkwYmM5ZTdkNmQ5MC5qcGciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.b9G1Wdg-sweMt8VwJek4NeY4rAAHJxdnmNkeXSPmENA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Have a Kawaii Look with Kuromi Aesthetic! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-aesthetic-820-x-1447-wallpaper-7yo6zxqbz2ib18b8.jpg' alt='Download Have a Kawaii Look with Kuromi Aesthetic! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-aesthetic-820-x-1447-wallpaper-7yo6zxqbz2ib18b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Look Cute and Stay Fabulous with Kuromi Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-aesthetic-720-x-1280-wallpaper-0a1iiiv7nf4f3qrr.jpg' alt='Download Look Cute and Stay Fabulous with Kuromi Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-aesthetic-720-x-1280-wallpaper-0a1iiiv7nf4f3qrr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi & Friends Retro Purple Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/maid-kuromi-wallpaper-kawaii-hoshi-1536x960.jpg' alt='Kuromi & Friends Retro Purple Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/maid-kuromi-wallpaper-kawaii-hoshi-1536x960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi, aesthetic, cute, iphone, love, my melody, pink, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/501/710/HD-wallpaper-kuromi-aesthetic-cute-iphone-love-my-melody-pink.jpg' alt='Kuromi, aesthetic, cute, iphone, love, my melody, pink, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/501/710/HD-wallpaper-kuromi-aesthetic-cute-iphone-love-my-melody-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kuromi & My Melody Gothic Lolita Wallpaper For Desktop ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-lolita-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' alt='Cute Kuromi & My Melody Gothic Lolita Wallpaper For Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-lolita-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy And Playful Kuromi Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/happy-and-playful-kuromi-hvwv1s14lzhcowqm.jpg' alt='Happy And Playful Kuromi Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/happy-and-playful-kuromi-hvwv1s14lzhcowqm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Stylish Wallpaper with Pink Accents</title>
+                    <meta name="description" content="Explore stylish wallpaper with pink accents to enhance your interiors. Perfect for adding warmth and personality to any room, our collection features diverse patterns and hues to match your decor. Transform your walls effortlessly and create an inviting ambiance today!">
+                    <meta name="keywords" content="wallpaper with pink accents">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/wallpaper-with-pink-accents">
+                            <span itemprop="name">wallpaper with pink accents</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Stylish Wallpaper with Pink Accents</h1>
+                <p>Discover the beauty of wallpaper with pink accents, ideal for adding a touch of elegance and warmth to any room. From soft blush tones to bold fuchsia designs, pink accents can elevate your space, creating a cozy and inviting atmosphere. Transform your walls with stylish patterns that reflect your unique personality and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpapers | Peel & Stick + Prepasted Options">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-pink.jpg?q=1699648020' alt='Pink Wallpapers | Peel & Stick + Prepasted Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-pink.jpg?q=1699648020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pink Accent Wall Mural Wallpaper Abstract Wall Decor Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/a1f1aa/3388993690/il_570xN.3388993690_qqvm.jpg' alt='Blue Pink Accent Wall Mural Wallpaper Abstract Wall Decor Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/a1f1aa/3388993690/il_570xN.3388993690_qqvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper – Vivian Ferne">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/1245_4d01002b-be5e-4ca9-ada2-76c4ededb69d.jpg?v=1718338013&width=460' alt='Pink Wallpaper – Vivian Ferne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/1245_4d01002b-be5e-4ca9-ada2-76c4ededb69d.jpg?v=1718338013&width=460' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Wallpaper Accent Wall Mural Peel and Stick Adhesive or ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/aca1d0/4996867884/il_570xN.4996867884_9bpi.jpg' alt='Hot Pink Wallpaper Accent Wall Mural Peel and Stick Adhesive or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/aca1d0/4996867884/il_570xN.4996867884_9bpi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Blossom by Fresco - Pink - Wallpaper - 108290">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/179606_1_orig.jpg' alt='Apple Blossom by Fresco - Pink - Wallpaper - 108290'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/179606_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Pink Room Ideas With Pink Wallpaper | Livettes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1566/9911/files/pink-paintbrush-maze-removable-wallpaper_2048x2048.jpg?v=1688475016' alt='30 Pink Room Ideas With Pink Wallpaper | Livettes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1566/9911/files/pink-paintbrush-maze-removable-wallpaper_2048x2048.jpg?v=1688475016' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drama Queen Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/DramaQueenmockup2.jpg?v=1717014823&width=2048' alt='Drama Queen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/DramaQueenmockup2.jpg?v=1717014823&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Pink Wallpaper: Style Your Barbiecore Dreamhome • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2023/07/Wallpaper-Andler-White-Foliage-Pink-3.jpg.optimal.jpg' alt='Pretty Pink Wallpaper: Style Your Barbiecore Dreamhome • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2023/07/Wallpaper-Andler-White-Foliage-Pink-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Pink Room Ideas With Pink Wallpaper | Livettes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1566/9911/files/Pink-palm-springs-tropical-wall-mural_2048x2048.jpg?v=1706774644' alt='30 Pink Room Ideas With Pink Wallpaper | Livettes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1566/9911/files/Pink-palm-springs-tropical-wall-mural_2048x2048.jpg?v=1706774644' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper, Pink Watercolor Limewash">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-872167.jpg?v=1699999947' alt='Pink Wallpaper, Pink Watercolor Limewash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-872167.jpg?v=1699999947' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

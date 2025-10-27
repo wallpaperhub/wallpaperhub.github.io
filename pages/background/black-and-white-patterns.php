@@ -1,0 +1,129 @@
+<title>Stunning Black and White Patterns for Timeless Style</title>
+                    <meta name="description" content="Explore captivating black and white patterns that enhance your design projects. Discover their versatility in fashion, art, and interiors, and learn how these timeless contrasts can add depth and sophistication to any aesthetic. Perfect for mobile viewing and inspiration!">
+                    <meta name="keywords" content="black and white patterns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-patterns">
+                            <span itemprop="name">black and white patterns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Patterns for Timeless Style</h1>
+                <p>Black and white patterns offer a timeless aesthetic that can elevate any design. These striking contrasts create bold visuals, making them popular in fashion, interior design, and art. From classic stripes and polka dots to intricate geometrics, black and white patterns add depth and sophistication, allowing for versatile use in various styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19+ Black and White Patterns - Free PSD, AI, EPS Format Download">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2016/06/Black-and-White-Patterns.jpg' alt='19+ Black and White Patterns - Free PSD, AI, EPS Format Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2016/06/Black-and-White-Patterns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster Set of 25 black and white geometric seamless patterns ...">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/68/07/75/42/700_FO68077542_fc3564baab85a5370ead5c23b627c7ad.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-set-of-25-black-and-white-geometric-seamless-patterns.jpg.jpg' alt='Poster Set of 25 black and white geometric seamless patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/68/07/75/42/700_FO68077542_fc3564baab85a5370ead5c23b627c7ad.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-set-of-25-black-and-white-geometric-seamless-patterns.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Patterns Images – Browse 7,858,732 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/29/76/08/360_F_229760888_xNSsDETvN5dlWHA2TubbXOuI5nKz6cQu.jpg' alt='Black And White Patterns Images – Browse 7,858,732 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/29/76/08/360_F_229760888_xNSsDETvN5dlWHA2TubbXOuI5nKz6cQu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Cool Black And White Patterns Drawing Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1181051150/vector/caustics-distortion-line-art-vector-background-minimalistic-wave-concept-optical-illusion.jpg?s=612x612&w=0&k=20&c=Z_OZeiKvYquX6Nb7R1-PzeFtYLaXBAqss5AMFcO1_aQ=' alt='1,700+ Cool Black And White Patterns Drawing Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1181051150/vector/caustics-distortion-line-art-vector-background-minimalistic-wave-concept-optical-illusion.jpg?s=612x612&w=0&k=20&c=Z_OZeiKvYquX6Nb7R1-PzeFtYLaXBAqss5AMFcO1_aQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Black And White Patterns, Vectors | GraphicRiver">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/40548960/simple01_590.jpg' alt='Simple Black And White Patterns, Vectors | GraphicRiver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicRiver" />
+                                </span>
+                                <a href='https://s3.envato.com/files/40548960/simple01_590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patterning Bold Black & White Backgrounds: Easy DIY Card Project">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MVZfnkbMHHM/maxresdefault.jpg' alt='Patterning Bold Black & White Backgrounds: Easy DIY Card Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MVZfnkbMHHM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="348,700+ Black And White Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1209056597/vector/black-and-white-intersecting-repeating-circles-pattern-japanese-style-circles-seamless.jpg?s=612x612&w=0&k=20&c=c5QkcjRO3oMjyJk6I4rv8IImzMhJRtUXfIhkNowKLfE=' alt='348,700+ Black And White Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1209056597/vector/black-and-white-intersecting-repeating-circles-pattern-japanese-style-circles-seamless.jpg?s=612x612&w=0&k=20&c=c5QkcjRO3oMjyJk6I4rv8IImzMhJRtUXfIhkNowKLfE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Patterns, 20 Digital Papers (12“x12“), Geometric ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9999672/r/il/98759c/1087948659/il_570xN.1087948659_nkgs.jpg' alt='Black & White Patterns, 20 Digital Papers (12“x12“), Geometric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9999672/r/il/98759c/1087948659/il_570xN.1087948659_nkgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Patterns Images – Browse 7,858,732 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/87/38/84/360_F_187388401_8xIStJUTwLC7shtJbeeRfoZ8F4qXXSFV.jpg' alt='Black And White Patterns Images – Browse 7,858,732 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/87/38/84/360_F_187388401_8xIStJUTwLC7shtJbeeRfoZ8F4qXXSFV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-illustration_23-2150739783.jpg' alt='Black And White Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-illustration_23-2150739783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

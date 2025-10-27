@@ -1,0 +1,129 @@
+<title>Stunning Fighting Game Background GIFs for Epic Battles</title>
+                    <meta name="description" content="Discover eye-catching fighting game background GIFs that elevate your gaming experience. Perfect for fans of action-packed battles, our selection showcases dynamic arenas and vibrant environments. Enhance your game with stunning visuals optimized for mobile viewing!">
+                    <meta name="keywords" content="fighting game background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fighting-game-background-gif">
+                            <span itemprop="name">fighting game background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fighting Game Background GIFs for Epic Battles</h1>
+                <p>Explore the dynamic world of fighting game backgrounds with captivating GIFs! These vibrant, animated scenes enhance the immersive experience, transporting players to diverse arenas where battles unfold. From urban settings to mystical landscapes, fighting game backgrounds set the stage for epic confrontations and thrilling gameplay!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fighting game background gifs. | NeoGAF">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/NW0mK39.gif' alt='Fighting game background gifs. | NeoGAF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeoGAF" />
+                                </span>
+                                <a href='http://i.imgur.com/NW0mK39.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An oldie but a goodie: This huge collection of fighting game ...">
+                                <img itemprop="contentUrl url" src='https://forums.destructoid.com/attachments/otczb45-1-gif.565/' alt='An oldie but a goodie: This huge collection of fighting game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destructoid Forums" />
+                                </span>
+                                <a href='https://forums.destructoid.com/attachments/otczb45-1-gif.565/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter">
+                                <img itemprop="contentUrl url" src='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-45.gif' alt='50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TwistedSifter" />
+                                </span>
+                                <a href='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-45.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have a huge collection of fighting game backgrounds as gifs ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/jTQ0gbh.gif' alt='I have a huge collection of fighting game backgrounds as gifs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/jTQ0gbh.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fighting Game Background GIFs — Andrey Danilov">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d7b921aa20ea468a889fb20/1568380647526-YX9J52FU8INU1YFJS65P/njPhhkca.gif' alt='Fighting Game Background GIFs — Andrey Danilov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrey Danilov" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d7b921aa20ea468a889fb20/1568380647526-YX9J52FU8INU1YFJS65P/njPhhkca.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have a huge collection of fighting game backgrounds as gifs ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2d/b8/7a/2db87aace70d1da18100317a2dafc681.gif' alt='I have a huge collection of fighting game backgrounds as gifs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2d/b8/7a/2db87aace70d1da18100317a2dafc681.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have a huge collection of fighting game backgrounds as gifs ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/PoykWUB.gif' alt='I have a huge collection of fighting game backgrounds as gifs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/PoykWUB.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter">
+                                <img itemprop="contentUrl url" src='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-8.gif' alt='50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TwistedSifter" />
+                                </span>
+                                <a href='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fighting game background gifs. | Page 6 | NeoGAF">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/OACf5cL.gif' alt='Fighting game background gifs. | Page 6 | NeoGAF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeoGAF" />
+                                </span>
+                                <a href='http://i.imgur.com/OACf5cL.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge fighting games backgrounds animated gif collection | That ...">
+                                <img itemprop="contentUrl url" src='https://thatdamnpixel.wordpress.com/wp-content/uploads/2013/04/l6xgvsw.gif' alt='Huge fighting games backgrounds animated gif collection | That ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="That Damn Pixel - WordPress.com" />
+                                </span>
+                                <a href='https://thatdamnpixel.wordpress.com/wp-content/uploads/2013/04/l6xgvsw.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

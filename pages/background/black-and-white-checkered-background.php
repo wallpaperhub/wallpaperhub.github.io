@@ -1,0 +1,129 @@
+<title>Black and White Checkered Background: Bold Design Element</title>
+                    <meta name="description" content="Discover the allure of a black and white checkered background. Perfect for modern designs, it adds a stylish touch to any project. Explore how this classic pattern can enhance your brand, events, or personal style with its timeless appeal.">
+                    <meta name="keywords" content="black and white checkered background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-checkered-background">
+                            <span itemprop="name">black and white checkered background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black and White Checkered Background: Bold Design Element</h1>
+                <p>A black and white checkered background is a striking visual element that brings a sense of rhythm and style to any design. Often seen in fashion, interiors, and graphics, it evokes a classic yet modern aesthetic. This pattern offers versatility, making it perfect for events, branding, or simply to add a bold touch to your project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Checkered Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTk1NjU3LWltYWdlLWt3eXF6bGdvLmpwZw.jpg' alt='Black White Checkered Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMTk1NjU3LWltYWdlLWt3eXF6bGdvLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Checkered Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/683/228/small/black-white-horizontal-checkered-chess-board-repeatable-texture-wide-checkered-vector.jpg' alt='Black White Checkered Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/683/228/small/black-white-horizontal-checkered-chess-board-repeatable-texture-wide-checkered-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Checkered Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/17/93/e81793a54d9f2c5f32b0cd26385a6ff2.jpg' alt='Black & White Checkered Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="276">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/17/93/e81793a54d9f2c5f32b0cd26385a6ff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Black and white checkered abstract background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/black-white-checkered-abstract-background_330494-792.jpg' alt='Premium Vector | Black and white checkered abstract background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/black-white-checkered-abstract-background_330494-792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white checkered seamless pattern. Endless background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R8ND4K/black-and-white-checkered-seamless-pattern-endless-background-racing-flag-texture-R8ND4K.jpg' alt='Black and white checkered seamless pattern. Endless background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R8ND4K/black-and-white-checkered-seamless-pattern-endless-background-racing-flag-texture-R8ND4K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A black and white checkered pattern with the black and white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/black-white-checkered-pattern-with-word-i-love-it_1217673-314447.jpg' alt='A black and white checkered pattern with the black and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/black-white-checkered-pattern-with-word-i-love-it_1217673-314447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Black And White Checkered Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1091365726/vector/seamless-background-pattern-chess-board-black-and-white-wallpaper-vector-illustration.jpg?s=612x612&w=0&k=20&c=4GE1zlTObxe6kPwM2hmD_apav1xjyvEUOh7L-dQ7wfE=' alt='6,900+ Black And White Checkered Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1091365726/vector/seamless-background-pattern-chess-board-black-and-white-wallpaper-vector-illustration.jpg?s=612x612&w=0&k=20&c=4GE1zlTObxe6kPwM2hmD_apav1xjyvEUOh7L-dQ7wfE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,327 Black And White Checkered Wallpaper High Res Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/985915172/vector/vector-checker-chess-abstract-seamless-background.jpg?s=612x612&w=gi&k=20&c=56fktiLl91kBo2dQ2zVv4SQhLKyf57BbRcmDTzFn8Rk=' alt='1,327 Black And White Checkered Wallpaper High Res Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/985915172/vector/vector-checker-chess-abstract-seamless-background.jpg?s=612x612&w=gi&k=20&c=56fktiLl91kBo2dQ2zVv4SQhLKyf57BbRcmDTzFn8Rk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Checkered Pattern Images – Browse 336,897 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/09/50/10/360_F_509501019_W7WoA0ThrUvISCWH9o4R68gG5fwsFGjL.jpg' alt='Black And White Checkered Pattern Images – Browse 336,897 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/09/50/10/360_F_509501019_W7WoA0ThrUvISCWH9o4R68gG5fwsFGjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Checkered Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTFfYWJzdHJhY3RfdmVjdG9yX2ZsYXRfZGlzdG9ydGVkX2NoZWNrZXJlZF9pbl9wbF8zM2I0ODUzOC0yYzM0LTRkMWQtOWJjOC1mMmE3MGZhZThiNGJfMS5qcGc.jpg' alt='Black White Checkered Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTFfYWJzdHJhY3RfdmVjdG9yX2ZsYXRfZGlzdG9ydGVkX2NoZWNrZXJlZF9pbl9wbF8zM2I0ODUzOC0yYzM0LTRkMWQtOWJjOC1mMmE3MGZhZThiNGJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

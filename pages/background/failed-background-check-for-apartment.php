@@ -1,0 +1,129 @@
+<title>Why Your Apartment Application Got Denied: Background Check Failures</title>
+                    <meta name="description" content="Discover why background checks can lead to apartment application denials. Learn about common reasons for failure, including credit history and criminal records, and find tips on how to improve your chances in the future.">
+                    <meta name="keywords" content="failed background check for apartment">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/failed-background-check-for-apartment">
+                            <span itemprop="name">failed background check for apartment</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Your Apartment Application Got Denied: Background Check Failures</h1>
+                <p>When an applicant fails a background check for an apartment, it can be due to various reasons such as a criminal record, poor credit history, or insufficient rental history. This can lead to denial of the rental application, causing stress and uncertainty. Understanding the reasons and knowing how to address them is essential for future applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Access Denied: Faulty Automated Background Checks Freeze Out ...">
+                                <img itemprop="contentUrl url" src='https://mrkp-static-production.themarkup.org/uploads/2020/05/example-report-720x506.jpg' alt='Access Denied: Faulty Automated Background Checks Freeze Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Markup" />
+                                </span>
+                                <a href='https://mrkp-static-production.themarkup.org/uploads/2020/05/example-report-720x506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do if Your Tenant Background Report Is Wrong? – The ...">
+                                <img itemprop="contentUrl url" src='https://mrkp-static-production.themarkup.org/uploads/2020/05/tenant-screening-1200x600.jpg' alt='What Can You Do if Your Tenant Background Report Is Wrong? – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Markup" />
+                                </span>
+                                <a href='https://mrkp-static-production.themarkup.org/uploads/2020/05/tenant-screening-1200x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Mixed Files Can Cause A Failed Background Check For An ...">
+                                <img itemprop="contentUrl url" src='https://raburnkaufman.com/wp-content/uploads/2025/02/Depositphotos_336495512_L.jpg' alt='How Mixed Files Can Cause A Failed Background Check For An ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raburn Kaufman" />
+                                </span>
+                                <a href='https://raburnkaufman.com/wp-content/uploads/2025/02/Depositphotos_336495512_L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Extensive Are Background Checks for Apartments? | Avail">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/wp-content/uploads/2021/08/What-Does-A-Rental-Background-Check-Consist-Of.jpg' alt='How Extensive Are Background Checks for Apartments? | Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/wp-content/uploads/2021/08/What-Does-A-Rental-Background-Check-Consist-Of.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apartments That Don't Do Background Checks (Near Me): Do This ASAP">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/01/Landlords-Cannot-Ask.png' alt='Apartments That Don't Do Background Checks (Near Me): Do This ASAP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/01/Landlords-Cannot-Ask.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happens if a Tenant Fails Background Check">
+                                <img itemprop="contentUrl url" src='https://smartscreen.clearscreening.com/wp-content/uploads/2024/12/4b794639-83f8-49c1-9c2f-31a2ccf52128-1024x585.webp' alt='What Happens if a Tenant Fails Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SmartScreen - Clearscreening" />
+                                </span>
+                                <a href='https://smartscreen.clearscreening.com/wp-content/uploads/2024/12/4b794639-83f8-49c1-9c2f-31a2ccf52128-1024x585.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Sloppy' Background Checks Can Block Renters From Housing ...">
+                                <img itemprop="contentUrl url" src='https://img.money.com/2022/12/News-Tenant-Background-Check-Errors.jpg?quality=85' alt=''Sloppy' Background Checks Can Block Renters From Housing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7426">
+                                <meta itemprop="height" content="4953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Money" />
+                                </span>
+                                <a href='https://img.money.com/2022/12/News-Tenant-Background-Check-Errors.jpg?quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Apartment Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.apartments.com/blog/sites/default/files/styles/large/public/image/2023-06/Apartment-application-form2.jpg?itok=u0dwP6ju' alt='Everything You Need to Know About Apartment Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartments.com" />
+                                </span>
+                                <a href='https://www.apartments.com/blog/sites/default/files/styles/large/public/image/2023-06/Apartment-application-form2.jpg?itok=u0dwP6ju' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

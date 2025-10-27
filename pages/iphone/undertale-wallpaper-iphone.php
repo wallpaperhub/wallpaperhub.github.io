@@ -1,0 +1,129 @@
+<title>Stunning Undertale Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Undertale wallpapers for your iPhone! Personalize your device with high-quality images featuring your favorite characters and scenes. Perfect for gamers and fans, these stunning designs will make your screen come alive with the unique charm of Undertale. Download now for a fresh look!">
+                    <meta name="keywords" content="undertale wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/undertale-wallpaper-iphone">
+                            <span itemprop="name">undertale wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Undertale Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Undertale wallpapers that showcase your favorite characters and iconic moments from the game. Perfect for fans of all ages, these wallpapers bring the unique art style and emotional depth of Undertale right to your screen. Download your favorite design and immerse yourself in the game’s world every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Phone Cave iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/45/af/7d45af56220b07b43df55d02ce5dc88d.jpg' alt='Undertale Phone Cave iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/45/af/7d45af56220b07b43df55d02ce5dc88d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's an Undertale iOS 16 Wallpaper [Screenshot & Wallpaper] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/heres-an-undertale-ios-16-wallpaper-screenshot-wallpaper-v0-bk015lwrjsma1.png?width=2340&format=png&auto=webp&s=b0a9c21a4bcbbd55089bc666c2574c874105e1a8' alt='Here's an Undertale iOS 16 Wallpaper [Screenshot & Wallpaper] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="5064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/heres-an-undertale-ios-16-wallpaper-screenshot-wallpaper-v0-bk015lwrjsma1.png?width=2340&format=png&auto=webp&s=b0a9c21a4bcbbd55089bc666c2574c874105e1a8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Lockscreen Tumblr Iphone Wallpaper Undertale ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/e4/9e/6de49e660069bb3fba23305a025223f5.jpg' alt='Undertale Lockscreen Tumblr Iphone Wallpaper Undertale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/e4/9e/6de49e660069bb3fba23305a025223f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale, sans, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/273/253/HD-wallpaper-undertale-sans.jpg' alt='Undertale, sans, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/273/253/HD-wallpaper-undertale-sans.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 840x1160 frisk, undertale, video, game, art ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/840x1160/4381c8/frisk-undertale-video-game-art.jpg' alt='Download wallpaper 840x1160 frisk, undertale, video, game, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/840x1160/4381c8/frisk-undertale-video-game-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's an Undertale iOS 16 Wallpaper [Screenshot & Wallpaper] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/heres-an-undertale-ios-16-wallpaper-screenshot-wallpaper-v0-js1csjwrjsma1.png?width=1170&format=png&auto=webp&s=1fe590d92bb592350cc67d90d592120b687109fe' alt='Here's an Undertale iOS 16 Wallpaper [Screenshot & Wallpaper] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/heres-an-undertale-ios-16-wallpaper-screenshot-wallpaper-v0-js1csjwrjsma1.png?width=1170&format=png&auto=webp&s=1fe590d92bb592350cc67d90d592120b687109fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Determination IPhone Wallpaper by sugoisenpai42 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2426229b-9f3a-4185-a4c8-fe6f700b34a1/d9rubfh-fdd3481b-393f-4c41-bfbd-6531c9e1a242.png/v1/fill/w_400,h_755,q_80,strp/undertale_determination_iphone_wallpaper_by_sugoisenpai42_d9rubfh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzU1IiwicGF0aCI6IlwvZlwvMjQyNjIyOWItOWYzYS00MTg1LWE0YzgtZmU2ZjcwMGIzNGExXC9kOXJ1YmZoLWZkZDM0ODFiLTM5M2YtNGM0MS1iZmJkLTY1MzFjOWUxYTI0Mi5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ubsZasgqI4dgtLZIKTKg3_HrWAyGxY1GqrHh09qx03Y' alt='Undertale Determination IPhone Wallpaper by sugoisenpai42 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2426229b-9f3a-4185-a4c8-fe6f700b34a1/d9rubfh-fdd3481b-393f-4c41-bfbd-6531c9e1a242.png/v1/fill/w_400,h_755,q_80,strp/undertale_determination_iphone_wallpaper_by_sugoisenpai42_d9rubfh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzU1IiwicGF0aCI6IlwvZlwvMjQyNjIyOWItOWYzYS00MTg1LWE0YzgtZmU2ZjcwMGIzNGExXC9kOXJ1YmZoLWZkZDM0ODFiLTM5M2YtNGM0MS1iZmJkLTY1MzFjOWUxYTI0Mi5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ubsZasgqI4dgtLZIKTKg3_HrWAyGxY1GqrHh09qx03Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9733551.jpg' alt='Undertale iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9733551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale backgrounds 2025">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eihzx5add9391.png' alt='Undertale backgrounds 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.redd.it/eihzx5add9391.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale phone wallpaper ·① Download free backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/76/ab/c3/76abc35fe9da9d90285307edd4243698.jpg' alt='Undertale phone wallpaper ·① Download free backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/76/ab/c3/76abc35fe9da9d90285307edd4243698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

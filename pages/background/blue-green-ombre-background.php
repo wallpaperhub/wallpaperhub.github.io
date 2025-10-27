@@ -1,0 +1,129 @@
+<title>Stunning Blue-Green Ombre Background for Your Designs</title>
+                    <meta name="description" content="Explore the beauty of a blue-green ombre background, perfect for elevating your creative projects. Ideal for web and print designs, this gradient combines soothing colors to create a modern and serene look. Make your visuals pop with this captivating backdrop!">
+                    <meta name="keywords" content="blue green ombre background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-green-ombre-background">
+                            <span itemprop="name">blue green ombre background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue-Green Ombre Background for Your Designs</h1>
+                <p>Transform your design projects with a stunning blue-green ombre background. This gradient combines tranquil blues with refreshing greens, creating a visually captivating effect perfect for websites, social media graphics, or prints. Achieve a serene and modern aesthetic that evokes calmness and creativity, making any design stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Green Ombre Background/Texture Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Blue-and-Green-Ombre-BackgroundTexture-Graphics-4327334-1.jpg' alt='Blue and Green Ombre Background/Texture Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Blue-and-Green-Ombre-BackgroundTexture-Graphics-4327334-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Green Images – Browse 47,291 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/43/59/48/360_F_243594819_5jMMiWqGQkLMdZ0r4PqA8vj5ht8TenvZ.jpg' alt='Ombre Green Images – Browse 47,291 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/43/59/48/360_F_243594819_5jMMiWqGQkLMdZ0r4PqA8vj5ht8TenvZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Background Green Images – Browse 34,916 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/51/94/54/360_F_251945444_LYvrALFq607f55JP2OGtZSsoqPuvTD3e.jpg' alt='Ombre Background Green Images – Browse 34,916 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/51/94/54/360_F_251945444_LYvrALFq607f55JP2OGtZSsoqPuvTD3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Ombre Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-background-green-tones_23-2148374530.jpg' alt='Green Ombre Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-background-green-tones_23-2148374530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonderful Blue Green Ombre Pattern Mystery Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/wonderful-blue-green-ombre-pattern-260nw-1294571665.jpg' alt='Wonderful Blue Green Ombre Pattern Mystery Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/wonderful-blue-green-ombre-pattern-260nw-1294571665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light blue-green ombre background hand painted. Pastel ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/498/881/non_2x/watercolor-light-blue-green-ombre-background-hand-painted-pastel-blue-gradient-stains-on-paper-photo.jpg' alt='Watercolor light blue-green ombre background hand painted. Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1381">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/498/881/non_2x/watercolor-light-blue-green-ombre-background-hand-painted-pastel-blue-gradient-stains-on-paper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Blue Gradient Soft Background Blue Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/green-blue-gradient-soft-background-260nw-1521551531.jpg' alt='Green Blue Gradient Soft Background Blue Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/green-blue-gradient-soft-background-260nw-1521551531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Blue Ombre Background Stock Illustrations – 3,984 Green Blue ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/green-teal-blue-grunge-linen-cotton-gradient-ombre-background-abstract-colorful-pattern-green-teal-blue-grunge-linen-cotton-mint-151610684.jpg' alt='Green Blue Ombre Background Stock Illustrations – 3,984 Green Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/green-teal-blue-grunge-linen-cotton-gradient-ombre-background-abstract-colorful-pattern-green-teal-blue-grunge-linen-cotton-mint-151610684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Green Ombre Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1317753569/vector/blue-lo-fi-grainy-gradient-texture-colorful-gradient-background.jpg?s=612x612&w=0&k=20&c=5tj3UUUmnmlocMn6yeiL2fiF8JBge8u8xwNrek4zuVo=' alt='1,300+ Green Ombre Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1317753569/vector/blue-lo-fi-grainy-gradient-texture-colorful-gradient-background.jpg?s=612x612&w=0&k=20&c=5tj3UUUmnmlocMn6yeiL2fiF8JBge8u8xwNrek4zuVo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ocean Dark Blue Ombre Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-ombre-b7ghcd8nd59iphmz.jpg' alt='Download Ocean Dark Blue Ombre Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-ombre-b7ghcd8nd59iphmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

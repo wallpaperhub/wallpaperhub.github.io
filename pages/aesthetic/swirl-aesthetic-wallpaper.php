@@ -1,0 +1,129 @@
+<title>Captivating Swirl Aesthetic Wallpaper for Every Space</title>
+                    <meta name="description" content="Discover stunning swirl aesthetic wallpaper that transforms your surroundings with vibrant colors and mesmerizing designs. Perfect for any room or digital device, our collection adds an artistic flair and serene ambiance to your space. Explore now and elevate your decor effortlessly!">
+                    <meta name="keywords" content="swirl aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/swirl-aesthetic-wallpaper">
+                            <span itemprop="name">swirl aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Swirl Aesthetic Wallpaper for Every Space</h1>
+                <p>Swirl aesthetic wallpaper adds a vibrant touch to any space, featuring mesmerizing patterns that blend colors harmoniously. Perfect for bedrooms, living rooms, or even digital devices, these wallpapers create a dreamy ambiance, inviting creativity and tranquility. Transform your space effortlessly with these eye-catching designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colorful wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/60/13/66601314089d62d12eb89802196895aa.jpg' alt='colorful wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/60/13/66601314089d62d12eb89802196895aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Swirl Contemporary Abstract in Earth Tones ' Art Print by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/fa/3a/82fa3a180d914cd024314257d150aea1.jpg' alt='Liquid Swirl Contemporary Abstract in Earth Tones ' Art Print by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/fa/3a/82fa3a180d914cd024314257d150aea1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A mesmerizing swirl of vibrant pink | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-swirl-background-tfgs9xkugb95jb4u.jpg' alt='Download A mesmerizing swirl of vibrant pink | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-swirl-background-tfgs9xkugb95jb4u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/203/832/small/psychedelic-swirl-groovy-poster-psychedelic-retro-wave-wallpaper-liquid-groovy-background-design-illustration-vector.jpg' alt='Swirl Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/203/832/small/psychedelic-swirl-groovy-poster-psychedelic-retro-wave-wallpaper-liquid-groovy-background-design-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/034/319/859/non_2x/psychedelic-swirl-acid-wave-rainbow-line-backgrounds-in-1970s-1960s-hippie-style-y2k-wallpaper-patterns-retro-vintage-70s-60s-groove-psychedelic-poster-background-free-vector.jpg' alt='Swirl Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/034/319/859/non_2x/psychedelic-swirl-acid-wave-rainbow-line-backgrounds-in-1970s-1960s-hippie-style-y2k-wallpaper-patterns-retro-vintage-70s-60s-groove-psychedelic-poster-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Liquid Swirl Abstract Pattern Square In Powder Blue Art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d3/38/9d/d3389df7312cb8a1553079c83f735470.jpg' alt='Soft Liquid Swirl Abstract Pattern Square In Powder Blue Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d3/38/9d/d3389df7312cb8a1553079c83f735470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080xe6e7"a="b"r5154 Resolution Swirl Aesthetic 1080P Laptop ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/swirl-aesthetic_bGxlamWUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='1920x1080xe6e7"a="b"r5154 Resolution Swirl Aesthetic 1080P Laptop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/swirl-aesthetic_bGxlamWUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Brown Swirls Background Illustration ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/swirl-background-ao1a3j7sqvfalrgc.jpg' alt='Download Minimalist Brown Swirls Background Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/swirl-background-ao1a3j7sqvfalrgc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Wavy Swirl vertical background. Hand Drawn marble Vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/39/20/06/1000_F_539200618_Oh2ccHqPVkQWMtalcC8ltVEAuwJwZYZl.jpg' alt='1970s Wavy Swirl vertical background. Hand Drawn marble Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/39/20/06/1000_F_539200618_Oh2ccHqPVkQWMtalcC8ltVEAuwJwZYZl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Psychedelic swirl groovy pattern Psychedelic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/psychedelic-swirl-groovy-pattern-psychedelic-retro-wave-wallpaper-liquid-groovy-background-vector-design-illustration_533377-533.jpg' alt='Premium Vector | Psychedelic swirl groovy pattern Psychedelic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/psychedelic-swirl-groovy-pattern-psychedelic-retro-wave-wallpaper-liquid-groovy-background-vector-design-illustration_533377-533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Prayer PowerPoint Backgrounds for Worship</title>
+                    <meta name="description" content="Discover a collection of beautiful prayer PowerPoint backgrounds perfect for enhancing your worship presentations. Ideal for church services and prayer meetings, each background is designed to inspire and uplift your audience. Elevate your message today with these stunning designs!">
+                    <meta name="keywords" content="prayer powerpoint background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prayer-powerpoint-background">
+                            <span itemprop="name">prayer powerpoint background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Prayer PowerPoint Backgrounds for Worship</h1>
+                <p>Enhance your worship experience with stunning prayer PowerPoint backgrounds! Choose from a variety of serene and uplifting designs that suit any religious setting. Whether for church services, prayer groups, or personal reflection, these backgrounds will help convey your message beautifully, creating a peaceful atmosphere for your audience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free praying hands Powerpoint template and Google Slides theme">
+                                <img itemprop="contentUrl url" src='http://templateready.com/cdn/shop/products/free-praying-hands-Google-Slides-theme_1200x1200.jpg?v=1677272515' alt='Free praying hands Powerpoint template and Google Slides theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template Ready" />
+                                </span>
+                                <a href='http://templateready.com/cdn/shop/products/free-praying-hands-Google-Slides-theme_1200x1200.jpg?v=1677272515' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free religious desktop background images and Christian PPT ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/e8/57/2fe857eac9884f6d37fb2d1c5e08f0bc.jpg' alt='Free religious desktop background images and Christian PPT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/e8/57/2fe857eac9884f6d37fb2d1c5e08f0bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer Hands PowerPoint Background Image by Hipster High School ...">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Prayer-Hands-PowerPoint-Background-Image-3019853-1487287799/original-3019853-1.jpg' alt='Prayer Hands PowerPoint Background Image by Hipster High School ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Prayer-Hands-PowerPoint-Background-Image-3019853-1487287799/original-3019853-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerpoint Templates And Background With Prayer Christian On ...">
+                                <img itemprop="contentUrl url" src='https://www.slideteam.net/media/catalog/product/cache/1280x720/p/o/powerpoint_templates_and_background_with_prayer_christian_on_sunset_slide01.jpg' alt='Powerpoint Templates And Background With Prayer Christian On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideTeam" />
+                                </span>
+                                <a href='https://www.slideteam.net/media/catalog/product/cache/1280x720/p/o/powerpoint_templates_and_background_with_prayer_christian_on_sunset_slide01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer 05 PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://www.indezine.com/powerpoint/freetemplate/templates/t_ind_1431a.jpg' alt='Prayer 05 PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indezine" />
+                                </span>
+                                <a href='https://www.indezine.com/powerpoint/freetemplate/templates/t_ind_1431a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free praying hands Powerpoint template and Google Slides theme">
+                                <img itemprop="contentUrl url" src='http://templateready.com/cdn/shop/products/free-praying-hands-powerpoint-background_1200x1200.jpg?v=1677272523' alt='Free praying hands Powerpoint template and Google Slides theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template Ready" />
+                                </span>
+                                <a href='http://templateready.com/cdn/shop/products/free-praying-hands-powerpoint-background_1200x1200.jpg?v=1677272523' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Prayer Church PowerPoint – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1233861371288_182/slide-32.jpg' alt='ShareFaith Media » Prayer Church PowerPoint – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1233861371288_182/slide-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer Worship Background Template | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1333473205987_134/img_mouseover3.jpg' alt='Prayer Worship Background Template | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1333473205987_134/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer Hands Presentation Template for PowerPoint, Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://i.pptstar.com/i/pp/08/023/ppt_slide1.jpg' alt='Prayer Hands Presentation Template for PowerPoint, Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPT Star" />
+                                </span>
+                                <a href='https://i.pptstar.com/i/pp/08/023/ppt_slide1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="prayer PPT Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2014/04/Praying-Girl-PPT-Backgrounds.jpg' alt='prayer PPT Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2014/04/Praying-Girl-PPT-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

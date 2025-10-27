@@ -1,0 +1,129 @@
+<title>Discover Beautiful Brown Patterns for Your Design Projects</title>
+                    <meta name="description" content="Explore stunning brown patterns that enhance your design projects. From fashion to home decor, these versatile patterns bring warmth and sophistication to every space. Perfect for creating a cozy atmosphere, delve into the world of brown patterns today!">
+                    <meta name="keywords" content="brown patterns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-patterns">
+                            <span itemprop="name">brown patterns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Beautiful Brown Patterns for Your Design Projects</h1>
+                <p>Brown patterns can add warmth and sophistication to various designs, from fashion to home decor. Whether you’re drawn to earthy hues or intricate textures, these patterns evoke a sense of nature and comfort. They serve as a versatile backdrop, enhancing the overall aesthetic while providing a subtle, yet striking visual presence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,900+ Brown Background Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1473418999/vector/abstract-brown-psychedelic-waves-print-background-marble-acrylic-swirl-pattern-coffee-or.jpg?s=612x612&w=0&k=20&c=jCoXWwij8gIx8te2u9DLY37LqRiewGQLeO43f7Hq3gE=' alt='15,900+ Brown Background Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1473418999/vector/abstract-brown-psychedelic-waves-print-background-marble-acrylic-swirl-pattern-coffee-or.jpg?s=612x612&w=0&k=20&c=jCoXWwij8gIx8te2u9DLY37LqRiewGQLeO43f7Hq3gE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/659/931/non_2x/seamless-pattern-in-amazing-beige-and-brown-colors-for-plaid-fabric-textile-clothes-tablecloth-and-other-things-image-2-vector.jpg' alt='Brown Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/659/931/non_2x/seamless-pattern-in-amazing-beige-and-brown-colors-for-plaid-fabric-textile-clothes-tablecloth-and-other-things-image-2-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Swirly Shapes Brown Pattern Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/242460/raw/b1d273202d59c4b858d86f2c98a999ab-abstract-swirly-shapes-brown-pattern.jpg' alt='Abstract Swirly Shapes Brown Pattern Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/242460/raw/b1d273202d59c4b858d86f2c98a999ab-abstract-swirly-shapes-brown-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,900+ Brown Background Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1503558735/vector/cafe-brown-wave-pattern.jpg?s=612x612&w=0&k=20&c=7-nWk5l62d0B7cCwC2znmVYPP_x24To8uEzXLNoRWHs=' alt='15,900+ Brown Background Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1503558735/vector/cafe-brown-wave-pattern.jpg?s=612x612&w=0&k=20&c=7-nWk5l62d0B7cCwC2znmVYPP_x24To8uEzXLNoRWHs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/coloured-patterns-collection_1164-282.jpg' alt='Brown Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/coloured-patterns-collection_1164-282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Brown Pattern Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/377/FreeVector-Retro-Brown-Pattern.jpg' alt='Retro Brown Pattern Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/377/FreeVector-Retro-Brown-Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/626/948/small/elegant-brown-abstract-pattern-background-free-vector.jpg' alt='Brown Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/626/948/small/elegant-brown-abstract-pattern-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Abstract Woven Patterns Upholstery Fabric by the Yard">
+                                <img itemprop="contentUrl url" src='https://cdn.kovifabrics.com/img/products/CB800-308_Main.webp' alt='Brown Abstract Woven Patterns Upholstery Fabric by the Yard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KOVI Fabrics" />
+                                </span>
+                                <a href='https://cdn.kovifabrics.com/img/products/CB800-308_Main.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Brown abstract background striped textured ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/brown-abstract-background-striped-textured-geometric-seamless-pattern_153454-6957.jpg' alt='Premium Vector | Brown abstract background striped textured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/brown-abstract-background-striped-textured-geometric-seamless-pattern_153454-6957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="xxsunlightbaddiexx">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/40/c0/a4/40c0a46dbd001726f1b053fb98e40114.jpg' alt='xxsunlightbaddiexx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/40/c0/a4/40c0a46dbd001726f1b053fb98e40114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

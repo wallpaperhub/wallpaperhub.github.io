@@ -1,0 +1,129 @@
+<title>Star Wars: A New Hope - The Epic Beginning</title>
+                    <meta name="description" content="Discover the magic of Star Wars: Episode IV - A New Hope, where epic battles and timeless heroes kick off the legendary saga. Join Luke, Leia, and Han Solo in their quest against the dark side, forever changing the universe of sci-fi cinema. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="star wars: episode iv - a new hope">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-wars-episode-iv---a-new-hope">
+                            <span itemprop="name">star wars: episode iv - a new hope</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars: A New Hope - The Epic Beginning</h1>
+                <p>Star Wars: Episode IV - A New Hope introduced audiences to a galaxy far, far away, igniting the legendary saga of the Rebel Alliance's struggle against the Empire. With iconic characters like Luke Skywalker, Princess Leia, and Darth Vader, it blends adventure, friendship, and the timeless battle between good and evil.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars, Episode IV: A New Hope: Lucas, George: 9780345341464:  Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CIXJxQ3TL.jpg' alt='Star Wars, Episode IV: A New Hope: Lucas, George: 9780345341464:  Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="2405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CIXJxQ3TL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Episode IV - A New Hope (1977) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg' alt='Star Wars: Episode IV - A New Hope (1977) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Episode IV A New Hope: Thomas, Roy, Chaykin, Howard ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712phcZ5ljL._AC_UF1000,1000_QL80_.jpg' alt='Star Wars Episode IV A New Hope: Thomas, Roy, Chaykin, Howard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712phcZ5ljL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Star Wars Episode IV: A New Hope (Limited Edition) : Mark  Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/911uAMIhbqL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Star Wars Episode IV: A New Hope (Limited Edition) : Mark  Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/911uAMIhbqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Teaser Trailer">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg' alt='Original Teaser Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Episode IV: A New Hope 12x18" Poster">
+                                <img itemprop="contentUrl url" src='https://cdn10.bigcommerce.com/s-yhxhf/products/10032/images/24895/PO123_2__36207.1453777693.1080.1080.jpg?c=2' alt='Star Wars Episode IV: A New Hope 12x18" Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nuclear Waste Underground" />
+                                </span>
+                                <a href='https://cdn10.bigcommerce.com/s-yhxhf/products/10032/images/24895/PO123_2__36207.1453777693.1080.1080.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Episode IV - A New Hope | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/rIic1xQq9hyHMW6OJsCNOCVKRdw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4Y2VkZjJhLWRmMGYtNDljZC1iN2JhLTYzMjk1YzMxNWMwOC53ZWJw' alt='Star Wars: Episode IV - A New Hope | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/rIic1xQq9hyHMW6OJsCNOCVKRdw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4Y2VkZjJhLWRmMGYtNDljZC1iN2JhLTYzMjk1YzMxNWMwOC53ZWJw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Star Wars: A New Hope (Episode IV) | Disney+">
+                                <img itemprop="contentUrl url" src='https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/81A736C2B6CC7B7B4A3F2E2381E36542715DFC550F765F49BC0770898DE5F32B/scale?width=1200&aspectRatio=1.78&format=webp' alt='Watch Star Wars: A New Hope (Episode IV) | Disney+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Plus" />
+                                </span>
+                                <a href='https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/81A736C2B6CC7B7B4A3F2E2381E36542715DFC550F765F49BC0770898DE5F32B/scale?width=1200&aspectRatio=1.78&format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Episode IV - A New Hope (1977) | Architecture">
+                                <img itemprop="contentUrl url" src='https://architecture.mit.edu/sites/default/files/styles/large/public/event-images/star-wars-banner.jpg?itok=h0IyfDTn' alt='Star Wars: Episode IV - A New Hope (1977) | Architecture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIT Architecture" />
+                                </span>
+                                <a href='https://architecture.mit.edu/sites/default/files/styles/large/public/event-images/star-wars-banner.jpg?itok=h0IyfDTn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: A New Hope | Full Movie | Movies Anywhere">
+                                <img itemprop="contentUrl url" src='https://images.moviesanywhere.com/9903bad44ad5cea782c6ce82a1920467/b5215ed8-cc16-4b1b-a143-bd9e4a4bbb9e.jpg' alt='Star Wars: A New Hope | Full Movie | Movies Anywhere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Movies Anywhere" />
+                                </span>
+                                <a href='https://images.moviesanywhere.com/9903bad44ad5cea782c6ce82a1920467/b5215ed8-cc16-4b1b-a143-bd9e4a4bbb9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

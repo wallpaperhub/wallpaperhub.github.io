@@ -1,0 +1,129 @@
+<title>Y2K Green Wallpaper: Revive Retro Aesthetics</title>
+                    <meta name="description" content="Discover the latest in decor with Y2K green wallpaper, blending retro style with modern sustainability. Vibrant shades and playful patterns bring a nostalgic touch to your space. Perfect for those looking to infuse character while staying eco-conscious. Transform your interiors today!">
+                    <meta name="keywords" content="y2k green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/y2k-green-wallpaper">
+                            <span itemprop="name">y2k green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Y2K Green Wallpaper: Revive Retro Aesthetics</h1>
+                <p>Y2K green wallpaper is a trendy design that captures the nostalgia of the early 2000s while embracing eco-friendly aesthetics. Featuring vibrant green hues and geometric patterns, it transforms spaces with a fresh and playful vibe. Perfect for setting a retro-inspired backdrop, this wallpaper revives millennial charm for modern interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic wallpaper layered star indie y2k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/f0/6d/42f06dd1bf35509f9a3c210081c4bcfa.jpg' alt='Green aesthetic wallpaper layered star indie y2k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/f0/6d/42f06dd1bf35509f9a3c210081c4bcfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Cyber Y2 K Aesthetic Abstract Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-cyber-y2-k-aesthetic-abstract-5p76s2g5tl3kudxv.jpg' alt='Download Green Cyber Y2 K Aesthetic Abstract Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-cyber-y2-k-aesthetic-abstract-5p76s2g5tl3kudxv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Green Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11834757.jpg' alt='Y2k Green Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11834757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K 1 Hour Green Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0kzlvGmgWa4/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggZSgeMA8=&rs=AOn4CLConUS8ERKKHgFY9jFx4_dRa8L2eg' alt='4K 1 Hour Green Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0kzlvGmgWa4/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggZSgeMA8=&rs=AOn4CLConUS8ERKKHgFY9jFx4_dRa8L2eg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/be/93/45be9309af64b3287a6f885f02033a13.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/be/93/45be9309af64b3287a6f885f02033a13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="74 famous wallpaper stars y2k green">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/3a/1d/6a3a1dcdd32e60a85305d1afeea2a771.jpg' alt='74 famous wallpaper stars y2k green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/3a/1d/6a3a1dcdd32e60a85305d1afeea2a771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Wallpaper Green Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-103692.jpg' alt='Y2k Wallpaper Green Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-103692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Green Indie Y2K Flowers Pattern | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3015180837.8488/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Trendy Green Indie Y2K Flowers Pattern | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3015180837.8488/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/0a/50/f20a501c4a7540b55991b106ac79d7b1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/0a/50/f20a501c4a7540b55991b106ac79d7b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,500+ Y2k Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1426324256/vector/abstract-futuristic-galaxy-background-vector-dark-modern-illustration-with-stars-and-lines.jpg?s=612x612&w=0&k=20&c=i_q0gf1dvf2vcTtqknISeTwdRS7NHUm3hlXEmMFxVFo=' alt='24,500+ Y2k Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1426324256/vector/abstract-futuristic-galaxy-background-vector-dark-modern-illustration-with-stars-and-lines.jpg?s=612x612&w=0&k=20&c=i_q0gf1dvf2vcTtqknISeTwdRS7NHUm3hlXEmMFxVFo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

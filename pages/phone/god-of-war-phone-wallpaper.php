@@ -1,0 +1,129 @@
+<title>Epic God of War Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating "God of War" phone wallpapers that elevate your device's look. Perfect for gamers and fans alike, these stunning designs showcase your favorite characters and scenes in high resolution. Download now to personalize your phone and celebrate the epic journey of Kratos and Atreus!">
+                    <meta name="keywords" content="god of war phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/god-of-war-phone-wallpaper">
+                            <span itemprop="name">god of war phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic God of War Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning "God of War" phone wallpapers! Featuring iconic characters like Kratos and Atreus, these high-resolution images bring the epic saga to life on your screen. Perfect for fans, these wallpapers capture the game's breathtaking landscapes and intense battles, making your phone truly legendary!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of War Ragnarok phone wallpaper I made. : r/GodofWar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6b8nz7dxo2191.jpg' alt='God of War Ragnarok phone wallpaper I made. : r/GodofWar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1842">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6b8nz7dxo2191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOW3-ragnarok Phone Wallpapers for grabs : r/GodofWar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gow3-ragnarok-phone-wallpapers-for-grabs-v0-0d7l1sbz8c3c1.jpg?width=2160&format=pjpg&auto=webp&s=3075c6ae206c070163c89e57d8bbf79e1b548fe3' alt='GOW3-ragnarok Phone Wallpapers for grabs : r/GodofWar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gow3-ragnarok-phone-wallpapers-for-grabs-v0-0d7l1sbz8c3c1.jpg?width=2160&format=pjpg&auto=webp&s=3075c6ae206c070163c89e57d8bbf79e1b548fe3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kratos & Atreus God of War Fan Artwork 4K Ultra HD Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c6/c4/35/c6c4356763b2039738bb84f3f0b7bdd8.jpg' alt='Kratos & Atreus God of War Fan Artwork 4K Ultra HD Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c6/c4/35/c6c4356763b2039738bb84f3f0b7bdd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God of War Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/e/f/113561-1949x2560-phone-hd-god-of-war-background-image.jpg' alt='God of War Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1949">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/e/f/113561-1949x2560-phone-hd-god-of-war-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Of War, dragon, world, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/647/230/HD-wallpaper-god-of-war-dragon-world.jpg' alt='God Of War, dragon, world, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/647/230/HD-wallpaper-god-of-war-dragon-world.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All hail Skyfather Kratos, God of War and the Sky (live phone wallpaper)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/all-hail-skyfather-kratos-god-of-war-and-the-sky-live-phone-v0-eWlpbTM5bjBtbGRjMRq9SBghSLsKpkjuTm1BGgdAb6z2Ekpl0PbaAgaHZwrX.png?format=pjpg&auto=webp&s=e28d8d08ec4617f0059eb74ad85468f3e4e67f17' alt='All hail Skyfather Kratos, God of War and the Sky (live phone wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="2238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/all-hail-skyfather-kratos-god-of-war-and-the-sky-live-phone-v0-eWlpbTM5bjBtbGRjMRq9SBghSLsKpkjuTm1BGgdAb6z2Ekpl0PbaAgaHZwrX.png?format=pjpg&auto=webp&s=e28d8d08ec4617f0059eb74ad85468f3e4e67f17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kratos (God Of War) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/960/960818.jpg' alt='Kratos (God Of War) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/960/960818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game God Of War III Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/172/thumb-1920-172585.jpg' alt='Download Video Game God Of War III Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/172/thumb-1920-172585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOW3-ragnarok Phone Wallpapers for grabs : r/GodofWar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gow3-ragnarok-phone-wallpapers-for-grabs-v0-k2wrlubz8c3c1.jpg?width=2160&format=pjpg&auto=webp&s=05af56a1e8acde4e67bd46f0bf3ce4be3f5c5c5d' alt='GOW3-ragnarok Phone Wallpapers for grabs : r/GodofWar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gow3-ragnarok-phone-wallpapers-for-grabs-v0-k2wrlubz8c3c1.jpg?width=2160&format=pjpg&auto=webp&s=05af56a1e8acde4e67bd46f0bf3ce4be3f5c5c5d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Of War PS4 2017 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/7f/eb/5a7feb48fb9d8f944ede5787bf55d71e.jpg' alt='God Of War PS4 2017 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/7f/eb/5a7feb48fb9d8f944ede5787bf55d71e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

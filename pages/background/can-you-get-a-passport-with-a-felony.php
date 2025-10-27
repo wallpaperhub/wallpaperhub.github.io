@@ -1,0 +1,129 @@
+<title>Getting a Passport with a Felony: What You Need to Know</title>
+                    <meta name="description" content="Find out if you can get a passport with a felony conviction. Learn about eligibility requirements and how certain factors like outstanding warrants might impact your application. Get informed to navigate the passport process smoothly.">
+                    <meta name="keywords" content="can you get a passport with a felony">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-you-get-a-passport-with-a-felony">
+                            <span itemprop="name">can you get a passport with a felony</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Getting a Passport with a Felony: What You Need to Know</h1>
+                <p>Yes, you can obtain a passport with a felony, provided you're not currently incarcerated for a felony conviction. The U.S. Department of State generally does not deny passport applications based solely on criminal records. However, certain conditions, such as outstanding warrants or parole limitations, could affect eligibility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I Get A Passport With A Felony Arrest Record | Criminal Record">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-_QiQWHf2SQ/maxresdefault.jpg' alt='Can I Get A Passport With A Felony Arrest Record | Criminal Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-_QiQWHf2SQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can A Convicted Felon Get A Passport: Disqualification, Arrests">
+                                <img itemprop="contentUrl url" src='https://mcdowellfirm.com/wp-content/uploads/2023/09/Can-I-Get-a-US-Passport-with-a-Felony-Conviction.jpg' alt='Can A Convicted Felon Get A Passport: Disqualification, Arrests'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McDowell Law Firm" />
+                                </span>
+                                <a href='https://mcdowellfirm.com/wp-content/uploads/2023/09/Can-I-Get-a-US-Passport-with-a-Felony-Conviction.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a Felony Conviction Prevent You From Obtaining a Passport?| IL">
+                                <img itemprop="contentUrl url" src='https://www.illinois-defenseattorney.com/images/easyblog_images/620/shutterstock_397569799-min.jpg' alt='Can a Felony Conviction Prevent You From Obtaining a Passport?| IL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lake County Criminal Defense Attorney" />
+                                </span>
+                                <a href='https://www.illinois-defenseattorney.com/images/easyblog_images/620/shutterstock_397569799-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Have A Passport With A Felony? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/V0DPEfflAIE/maxresdefault.jpg' alt='Can You Have A Passport With A Felony? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/V0DPEfflAIE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="can you get a passport if you have a felony by arliemmiller009 - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/190503105619-23fdbf1c5aa2cfa8bcad482877c33444/jpg/page_1_thumb_large.jpg' alt='can you get a passport if you have a felony by arliemmiller009 - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/190503105619-23fdbf1c5aa2cfa8bcad482877c33444/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Obtain a U.S. Passport with a Felony Record? - Legal Reader">
+                                <img itemprop="contentUrl url" src='https://www.legalreader.com/wp-content/uploads/2021/07/AdobeStock_227723309.jpeg' alt='Can You Obtain a U.S. Passport with a Felony Record? - Legal Reader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Reader" />
+                                </span>
+                                <a href='https://www.legalreader.com/wp-content/uploads/2021/07/AdobeStock_227723309.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a Felon Get a Passport?">
+                                <img itemprop="contentUrl url" src='https://legal-explanations.com/img/blog/can-a-felon-get-a-passport-1.jpeg' alt='Can a Felon Get a Passport?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Explanations" />
+                                </span>
+                                <a href='https://legal-explanations.com/img/blog/can-a-felon-get-a-passport-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get A Second Passport With A Felony - EscapeArtist">
+                                <img itemprop="contentUrl url" src='https://www.escapeartist.com/wp-content/uploads/2024/07/How-to-get-a-passport-if-you-have-a-felony.png' alt='How To Get A Second Passport With A Felony - EscapeArtist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Escape Artist" />
+                                </span>
+                                <a href='https://www.escapeartist.com/wp-content/uploads/2024/07/How-to-get-a-passport-if-you-have-a-felony.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Get A Passport With A Criminal Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QDPTF7zNktI/maxresdefault.jpg' alt='Can You Get A Passport With A Criminal Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QDPTF7zNktI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a Felon Get a Passport? | Belén Law Firm - Phoenix Criminal ...">
+                                <img itemprop="contentUrl url" src='https://www.belenlawfirm.com/wp-content/uploads/2022/06/Can-a-felon-get-a-passport.jpg' alt='Can a Felon Get a Passport? | Belén Law Firm - Phoenix Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belen Law Firm" />
+                                </span>
+                                <a href='https://www.belenlawfirm.com/wp-content/uploads/2022/06/Can-a-felon-get-a-passport.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

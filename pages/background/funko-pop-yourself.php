@@ -1,0 +1,129 @@
+<title>Funko Pop Yourself: Custom Collectibles Made Easy</title>
+                    <meta name="description" content="Create your own unique Funko Pop figure with Funko Pop Yourself! Design a collectible that showcases your personality and style. Ideal for gifts or personal keepsakes, this fun customization experience brings your likeness to life. Start crafting your personalized Pop figure today!">
+                    <meta name="keywords" content="funko pop yourself">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funko-pop-yourself">
+                            <span itemprop="name">funko pop yourself</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funko Pop Yourself: Custom Collectibles Made Easy</h1>
+                <p>Funko Pop Yourself lets you create a personalized Funko Pop figure that reflects your unique style and personality! Choose your features, outfits, and accessories to design a customized collectible. Whether for yourself or as a creative gift, this fun experience brings your likeness to life in a charming way that's perfect for display.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop! Yourself – Create Personalized Funko Pop Figures">
+                                <img itemprop="contentUrl url" src='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dwc12bad61/images/funko/page-designer/hero/Landing%20Page%20Hero/BuddyB-PYS-wedding-Productv3.png' alt='Pop! Yourself – Create Personalized Funko Pop Figures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funko" />
+                                </span>
+                                <a href='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dwc12bad61/images/funko/page-designer/hero/Landing%20Page%20Hero/BuddyB-PYS-wedding-Productv3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing Pop! Yourself!">
+                                <img itemprop="contentUrl url" src='https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-FunkoUS-Library/default/dw5f35cf0e/images/funko/blog/20190625_800x800_Announcement_PopYourself_v02.jpg?sfrm=jpg' alt='Introducing Pop! Yourself!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funko" />
+                                </span>
+                                <a href='https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-FunkoUS-Library/default/dw5f35cf0e/images/funko/blog/20190625_800x800_Announcement_PopYourself_v02.jpg?sfrm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Turned Myself Into A Funko Pop AGAIN! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uloqY5Z-m0A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOHPFECbS0oNpznvmFr-Rz-E79gw' alt='I Turned Myself Into A Funko Pop AGAIN! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uloqY5Z-m0A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOHPFECbS0oNpznvmFr-Rz-E79gw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Yourself: Funko's new store lets you design your own toy figurine">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/22/USAT/70649576007-resized-pop-yourself-image-2.jpg?crop=6712,3797,x0,y336&width=3200&height=1811&format=pjpg&auto=webp' alt='Pop Yourself: Funko's new store lets you design your own toy figurine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/22/USAT/70649576007-resized-pop-yourself-image-2.jpg?crop=6712,3797,x0,y336&width=3200&height=1811&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funko Pop! Yourself Halloween, Unique & Custom Gifts">
+                                <img itemprop="contentUrl url" src='https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-FunkoUS-Library/default/dw652ab7bf/images/funko/blog/Pop%20Yourself/Pop!%20Yourself%20Customizable%20Babies%20and%20Halloween%20Collectibles.jpg?sfrm=jpg' alt='Funko Pop! Yourself Halloween, Unique & Custom Gifts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funko" />
+                                </span>
+                                <a href='https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-FunkoUS-Library/default/dw652ab7bf/images/funko/blog/Pop%20Yourself/Pop!%20Yourself%20Customizable%20Babies%20and%20Halloween%20Collectibles.jpg?sfrm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Yourself order arrived today : r/funkopop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pop-yourself-order-arrived-today-v0-krj55t9swyhb1.jpg?width=3610&format=pjpg&auto=webp&s=eb9935c9b7c720e9441ccf25f9e007995c0b35c8' alt='Pop Yourself order arrived today : r/funkopop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3610">
+                                <meta itemprop="height" content="2252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pop-yourself-order-arrived-today-v0-krj55t9swyhb1.jpg?width=3610&format=pjpg&auto=webp&s=eb9935c9b7c720e9441ccf25f9e007995c0b35c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing Pop! Yourself!">
+                                <img itemprop="contentUrl url" src='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dw2f4f69d5/images/funko/blog/craftassets/20190625_fdsa_large.jpg' alt='Introducing Pop! Yourself!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funko" />
+                                </span>
+                                <a href='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dw2f4f69d5/images/funko/blog/craftassets/20190625_fdsa_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Join the Pop!ulation – How to Design and Order Your Custom Pop!">
+                                <img itemprop="contentUrl url" src='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dw40febd2f/images/funko/blog/Pop%20Yourself/Pop!-Yourself-BlogImage-2.png' alt='Join the Pop!ulation – How to Design and Order Your Custom Pop!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funko" />
+                                </span>
+                                <a href='https://funko.com/on/demandware.static/-/Sites-FunkoUS-Library/default/dw40febd2f/images/funko/blog/Pop%20Yourself/Pop!-Yourself-BlogImage-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Acrylic Hard Case for POP YOURSELF 2 PACK Funko Pop Grail Boxes  (4.5mm thick) Fits 6.25h x 9.25w x 3.5d">
+                                <img itemprop="contentUrl url" src='http://displaygeek.com/cdn/shop/files/C3-POP-2-PACK-POP-YOURSELF.jpg?v=1715963153' alt='Custom Acrylic Hard Case for POP YOURSELF 2 PACK Funko Pop Grail Boxes  (4.5mm thick) Fits 6.25h x 9.25w x 3.5d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Display Geek" />
+                                </span>
+                                <a href='http://displaygeek.com/cdn/shop/files/C3-POP-2-PACK-POP-YOURSELF.jpg?v=1715963153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Funko Pop! Pop Yourself Vinyl Figures with accessories and clear case">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/xPYAAOSwaMRmxntO/s-l1200.jpg' alt='2 Funko Pop! Pop Yourself Vinyl Figures with accessories and clear case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/xPYAAOSwaMRmxntO/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

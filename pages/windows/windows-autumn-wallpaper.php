@@ -1,0 +1,129 @@
+<title>Stunning Windows Autumn Wallpaper: Embrace Fall Vibes!</title>
+                    <meta name="description" content="Explore beautiful autumn wallpapers for Windows that enhance your desktop with fall colors and cozy scenes. Discover the perfect backdrop to celebrate the stunning beauty of the season and elevate your workspace with seasonal charm. Download now for an inspiring autumn atmosphere!">
+                    <meta name="keywords" content="windows autumn wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-autumn-wallpaper">
+                            <span itemprop="name">windows autumn wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Windows Autumn Wallpaper: Embrace Fall Vibes!</h1>
+                <p>Transform your screen with stunning autumn wallpapers for Windows. Experience the beauty of fall foliage, cozy landscapes, and vibrant colors that bring warmth to your desktop. Whether you prefer serene scenery or colorful leaves, these wallpapers capture the essence of autumn, enhancing your workspace and inspiring productivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally. Windows XP's Autumn wallpaper in full res, 4200x2800 : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3ma6nhepxbb81.jpg' alt='Finally. Windows XP's Autumn wallpaper in full res, 4200x2800 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3ma6nhepxbb81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nick Tosches: Autumn and the Plot Against Me | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/54cbf7425e7a91c52822cfc2/master/w_1600%2Cc_limit/image.jpg' alt='Nick Tosches: Autumn and the Plot Against Me | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/54cbf7425e7a91c52822cfc2/master/w_1600%2Cc_limit/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally. Windows XP's Autumn wallpaper in full res, 4200x2800 : r ...">
+                                <img itemprop="contentUrl url" src='https://b.thumbs.redditmedia.com/ctA47T9j6wEwnlHacFiBNo5SS_2l6z6x72ms3cOKMEg.jpg' alt='Finally. Windows XP's Autumn wallpaper in full res, 4200x2800 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="140">
+                                <meta itemprop="height" content="93">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://b.thumbs.redditmedia.com/ctA47T9j6wEwnlHacFiBNo5SS_2l6z6x72ms3cOKMEg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Colors - Free download and install on Windows | Microsoft Store">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.27636.14594644236167456.0145350c-4ed9-430b-9788-165229c7397e.f698327c-9867-4925-b9cc-bfaa53b2a801' alt='Autumn Colors - Free download and install on Windows | Microsoft Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.27636.14594644236167456.0145350c-4ed9-430b-9788-165229c7397e.f698327c-9867-4925-b9cc-bfaa53b2a801' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Colors - Free download and install on Windows | Microsoft Store">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.16182.14594644236167456.97a1b30d-b502-4844-902b-c499a3df9673.fd57967c-42ea-4183-906b-2cee8a098e3a' alt='Autumn Colors - Free download and install on Windows | Microsoft Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.16182.14594644236167456.97a1b30d-b502-4844-902b-c499a3df9673.fd57967c-42ea-4183-906b-2cee8a098e3a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows XP on Burlington">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa03a07f-3f5a-5345-8de8-a8610d837b17/63e825ac0f211.image.jpg' alt='Windows XP on Burlington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toronto Star" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa03a07f-3f5a-5345-8de8-a8610d837b17/63e825ac0f211.image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Windows 11/10 Theme - themepack.me">
+                                <img itemprop="contentUrl url" src='https://themepack.me/i/c/749x467/media/g/682/autumn-theme-ns19.jpg' alt='Autumn Windows 11/10 Theme - themepack.me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windows Themes" />
+                                </span>
+                                <a href='https://themepack.me/i/c/749x467/media/g/682/autumn-theme-ns19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Becker on X: "Made the @Windows XP fall/autumn wallpaper the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DnkjgowUcAA62wJ.jpg:large' alt='David Becker on X: "Made the @Windows XP fall/autumn wallpaper the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DnkjgowUcAA62wJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25th Anniversary of Windows XP "Autumn" Wallpaper 1999-2024 : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/25th-anniversary-of-windows-xp-autumn-wallpaper-1999-2024-v0-9w8wn3j1bxwd1.jpeg?width=640&crop=smart&auto=webp&s=7fdeceb63c9168e193ff91dd1e58618fe134d5b0' alt='25th Anniversary of Windows XP "Autumn" Wallpaper 1999-2024 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/25th-anniversary-of-windows-xp-autumn-wallpaper-1999-2024-v0-9w8wn3j1bxwd1.jpeg?width=640&crop=smart&auto=webp&s=7fdeceb63c9168e193ff91dd1e58618fe134d5b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' alt='Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Sage Green Floral Wallpaper: Nature-Inspired Decor</title>
+                    <meta name="description" content="Transform your space with aesthetic sage green flower wallpaper. This beautiful design creates a serene atmosphere, blending floral elegance with calming hues. Perfect for modern homes, it adds a touch of nature to your decor while promoting relaxation and style. Elevate your interiors effortlessly!">
+                    <meta name="keywords" content="aesthetic sage green flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-sage-green-flower-wallpaper">
+                            <span itemprop="name">aesthetic sage green flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Sage Green Floral Wallpaper: Nature-Inspired Decor</h1>
+                <p>Aesthetic sage green flower wallpaper combines calming hues with floral patterns, perfect for creating a serene ambiance in any space. This wallpaper blends nature's beauty with modern design, making it ideal for bedrooms, living rooms, or cozy nooks. Embrace tranquility with stunning floral designs that enhance your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Wallpaper - Sage green – shopdous">
+                                <img itemprop="contentUrl url" src='https://shopdous.com/cdn/shop/products/FlowerPowerWall-01_800x.png?v=1626917350' alt='Flower Power Wallpaper - Sage green – shopdous'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shopdous" />
+                                </span>
+                                <a href='https://shopdous.com/cdn/shop/products/FlowerPowerWall-01_800x.png?v=1626917350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/51/ce/bc/51cebcac7e967f33d86552bff2dea1d9.jpg' alt='Sage green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/51/ce/bc/51cebcac7e967f33d86552bff2dea1d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/94/8a/e0948a9a847e22dff5c0f0948c99e9ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/94/8a/e0948a9a847e22dff5c0f0948c99e9ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Daisy, Wallpaper, Pattern, Flower, Aesthetic, Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/c0/a0/04c0a0086c114831c73b33ca5410575e.jpg' alt='Sage Green Daisy, Wallpaper, Pattern, Flower, Aesthetic, Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/c0/a0/04c0a0086c114831c73b33ca5410575e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower wallpaper shop">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12188918.jpg' alt='Green flower wallpaper shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="toituresrp.com" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12188918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sage Green Flower Aesthetic Wallpapers | page 2 | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sage-green-floral-pattern-rpvta7whf5nss4jw.jpg' alt='100+] Sage Green Flower Aesthetic Wallpapers | page 2 | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sage-green-floral-pattern-rpvta7whf5nss4jw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Sage Green">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/4f/f5/8f4ff5d5f0df186094548c8d6412e5e2.jpg' alt='Floral Sage Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/4f/f5/8f4ff5d5f0df186094548c8d6412e5e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Floral Mist Seacrest Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6837302132782_20.jpg?v=1692788141' alt='Seabrook Floral Mist Seacrest Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6837302132782_20.jpg?v=1692788141' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Home Fashions Brewster Archive Collection Flowers Sage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6751994413102_20.jpg?v=1692811680' alt='Brewster Home Fashions Brewster Archive Collection Flowers Sage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6751994413102_20.jpg?v=1692811680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sage green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGDRc3pYa0/1/0/900w/canva-sage-green-pink-aesthetic-floral-blank-background-instagram-story-a7-44RHz8VQ.jpg' alt='Free and customizable sage green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGDRc3pYa0/1/0/900w/canva-sage-green-pink-aesthetic-floral-blank-background-instagram-story-a7-44RHz8VQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

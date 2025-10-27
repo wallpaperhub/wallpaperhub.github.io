@@ -1,0 +1,129 @@
+<title>Stylish James Bond iPhone Wallpapers | Set the Mood</title>
+                    <meta name="description" content="Discover a collection of stylish James Bond iPhone wallpapers perfect for any fan. Each design adds a touch of sophistication, featuring famous quotes and thrilling imagery from the legendary spy series. Elevate your phone's aesthetic with these unique wallpapers today!">
+                    <meta name="keywords" content="james bond iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/james-bond-iphone-wallpaper">
+                            <span itemprop="name">james bond iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish James Bond iPhone Wallpapers | Set the Mood</h1>
+                <p>Transform your device with stunning James Bond iPhone wallpapers that embody the essence of espionage and elegance. From iconic quotes to thrilling action scenes, these wallpapers capture the allure of your favorite secret agent. Elevate your home screen and showcase your style with these exclusive designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bond iPhone Wallpaper : r/JamesBond">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/nXiJwZbvDl02if_hXWmD5gJ5CphOoiNCCTOk1vq57-4.jpg?width=640&crop=smart&auto=webp&s=30a3fa60d114ec98af1a16ca821a5bae00aa48c7' alt='Bond iPhone Wallpaper : r/JamesBond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/nXiJwZbvDl02if_hXWmD5gJ5CphOoiNCCTOk1vq57-4.jpg?width=640&crop=smart&auto=webp&s=30a3fa60d114ec98af1a16ca821a5bae00aa48c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond, 007, agent, aston, martin, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/278/955/HD-wallpaper-james-bond-007-agent-aston-martin.jpg' alt='James Bond, 007, agent, aston, martin, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/278/955/HD-wallpaper-james-bond-007-agent-aston-martin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post Your Favorite Bond Wallpapers : r/JamesBond">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/351fi44ys2z51.jpg' alt='Post Your Favorite Bond Wallpapers : r/JamesBond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/351fi44ys2z51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/14/b5/7114b5401c2082d64de378e2acc1a064.jpg' alt='James Bond iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/14/b5/7114b5401c2082d64de378e2acc1a064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond Wallpapers (62 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/1/d/142889-1242x2208-samsung-hd-james-bond-background-photo.jpg' alt='James Bond Wallpapers (62 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/1/d/142889-1242x2208-samsung-hd-james-bond-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this cool Daniel Craig bond iPhone wallpaper hope you like it ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4xmqxoyxiy091.jpg' alt='Made this cool Daniel Craig bond iPhone wallpaper hope you like it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4xmqxoyxiy091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/dd/fa/27ddfa2f4e923d57bc5ade497d5a2154.jpg' alt='James Bond IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/dd/fa/27ddfa2f4e923d57bc5ade497d5a2154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond IPhone, Daniel Craig, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/718/512/HD-wallpaper-james-bond-iphone-daniel-craig.jpg' alt='James Bond IPhone, Daniel Craig, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/718/512/HD-wallpaper-james-bond-iphone-daniel-craig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] New phone wallpaper I made. : r/JamesBond">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-phone-wallpaper-i-made-v0-7t786y9kwclb1.png?width=1080&crop=smart&auto=webp&s=083bbe5684b67394c71acad7d51a699c7b663293' alt='OC] New phone wallpaper I made. : r/JamesBond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-phone-wallpaper-i-made-v0-7t786y9kwclb1.png?width=1080&crop=smart&auto=webp&s=083bbe5684b67394c71acad7d51a699c7b663293' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Bond iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13013584.jpg' alt='James Bond iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13013584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

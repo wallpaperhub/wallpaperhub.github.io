@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Floor and Decor Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the ease of Floor and Decor peel and stick wallpaper! Perfect for quick makeovers, this removable option offers stylish designs and hassle-free application. Transform any room today without the commitment of traditional wallpaper. Ideal for both renters and DIY enthusiasts!">
+                    <meta name="keywords" content="floor and decor peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/floor-and-decor-peel-and-stick-wallpaper">
+                            <span itemprop="name">floor and decor peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Floor and Decor Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with Floor and Decor's peel and stick wallpaper. This stylish and versatile option is perfect for renters and homeowners alike. Available in a variety of modern patterns and textures, it allows for easy installation and removal. Redecorate any room without the mess of traditional wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Removable Wallpaper Peel and Stick Wallpaper Wall Decor Home  Decor Wall Art Printable Wall Art Room Decor Wall Prints - A346">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5894769594_4s9m.jpg?v=1723042797&width=416' alt='Wallpaper Removable Wallpaper Peel and Stick Wallpaper Wall Decor Home  Decor Wall Art Printable Wall Art Room Decor Wall Prints - A346'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5894769594_4s9m.jpg?v=1723042797&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PVC Wallpaper Blue Ancient Chinese Style Floor Tiles Chinoiserie Stock  Pictures Peel and Stick Removable Wall Paper for Living Room Bedroom Wall  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71d+xvXAkgL.jpg' alt='PVC Wallpaper Blue Ancient Chinese Style Floor Tiles Chinoiserie Stock  Pictures Peel and Stick Removable Wall Paper for Living Room Bedroom Wall  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71d+xvXAkgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Style Floor Tile Canvas Wallpaper Print Self Adhesive Peel &  Stick Wallpaper Wall Mural Wall Decal Wall Sticker Poster Home Decor for  Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71HZJASr10L._AC_UF894,1000_QL80_.jpg' alt='Victorian Style Floor Tile Canvas Wallpaper Print Self Adhesive Peel &  Stick Wallpaper Wall Mural Wall Decal Wall Sticker Poster Home Decor for  Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71HZJASr10L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_16.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2021/02/Peel-and-Stick-Wallpaper-On-the-Floor_16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B833">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6061035489_hkd1.jpg?v=1722574508&width=1946' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B833'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6061035489_hkd1.jpg?v=1722574508&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Plank Wallpaper, Wood Effect Texture Wallpaper, Wood Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/8ecbb8/5459157535/il_570xN.5459157535_ltyl.jpg' alt='Wood Plank Wallpaper, Wood Effect Texture Wallpaper, Wood Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/8ecbb8/5459157535/il_570xN.5459157535_ltyl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper White gray ceramic wall floor tiles abstract  geometric mosaic texture Canvas Wallpaper Wall Decals Removable Wallpaper  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ULz+dtlzL.jpg' alt='Peel and Stick Wallpaper White gray ceramic wall floor tiles abstract  geometric mosaic texture Canvas Wallpaper Wall Decals Removable Wallpaper  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ULz+dtlzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hexagon Geometric Art Deco Lines Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/9231_HexagonGeo_OffWhite_1_8c1da8a3-92ad-410e-a5cb-77bc629e913d.jpg?v=1678761548' alt='Hexagon Geometric Art Deco Lines Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/9231_HexagonGeo_OffWhite_1_8c1da8a3-92ad-410e-a5cb-77bc629e913d.jpg?v=1678761548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2023/01/Peel-and-Stick-Wallpaper-On-the-Floor_29-700x980.jpg' alt='Can You Put Peel and Stick Wallpaper on the Floor? - The Homes I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2023/01/Peel-and-Stick-Wallpaper-On-the-Floor_29-700x980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Wall  Covering Decor Room Decor / Yellow Scandinavian Wallpaper - A179">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5667216470_dt1m.jpg?v=1706927744&width=1946' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Wall  Covering Decor Room Decor / Yellow Scandinavian Wallpaper - A179'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5667216470_dt1m.jpg?v=1706927744&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

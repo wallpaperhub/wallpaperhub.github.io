@@ -1,0 +1,129 @@
+<title>Charming Cat and Dog Background Wallpapers</title>
+                    <meta name="description" content="Discover delightful cat and dog wallpapers to elevate your space! Perfect for pet lovers, our collection adds charm and personality to any background. Browse now for the best designs to personalize your devices or home decor!">
+                    <meta name="keywords" content="background cat and dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/background-cat-and-dog-wallpaper">
+                            <span itemprop="name">background cat and dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Cat and Dog Background Wallpapers</h1>
+                <p>Transform your space with stunning background wallpapers featuring adorable cats and dogs. Whether you're a cat lover or a dog enthusiast, these charming designs bring joy and warmth to any room. Perfect for personalizing your devices or as a fun backdrop in your home, our collection showcases the playful spirit of pets you'll adore.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Dog Background Images – Browse 466,378 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/96/91/04/360_F_696910475_p7XUMWNKjVpsn9ok9wJtTpTEgMBB4zjC.jpg' alt='Cat Dog Background Images – Browse 466,378 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/96/91/04/360_F_696910475_p7XUMWNKjVpsn9ok9wJtTpTEgMBB4zjC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog And Cat Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/043/858/417/small_2x/cat-and-dog-love-your-pet-day-banner-greeting-card-social-media-pink-background-photo.jpg' alt='Dog And Cat Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/043/858/417/small_2x/cat-and-dog-love-your-pet-day-banner-greeting-card-social-media-pink-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taya365 Online Casino | Download App casino in the philippines">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/3c/bd/a53cbdcf2d279bfb89747fdbdbbe65d0.jpg' alt='Taya365 Online Casino | Download App casino in the philippines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/3c/bd/a53cbdcf2d279bfb89747fdbdbbe65d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cat And Dog Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cat-and-dog-9tqegrvy3uazti1s.jpg' alt='100+] Cat And Dog Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cat-and-dog-9tqegrvy3uazti1s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats and Dogs Wallpapers - Top Free Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/33/2a/57332a0e63520bfbf5ab8b240963e91c.jpg' alt='Cats and Dogs Wallpapers - Top Free Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/33/2a/57332a0e63520bfbf5ab8b240963e91c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat And Dog Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cat-and-dog-art-jdiu7263le4pku5a.jpg' alt='Cat And Dog Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cat-and-dog-art-jdiu7263le4pku5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,800+ Dog And Cat Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1298623258/vector/pets-cats-and-dogs-seamless-pattern-in-doodle-style.jpg?s=612x612&w=0&k=20&c=aBGESJnmydI7uM1Yu8bWCm0Obf0YBG8sahzR3KJgffY=' alt='17,800+ Dog And Cat Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1298623258/vector/pets-cats-and-dogs-seamless-pattern-in-doodle-style.jpg?s=612x612&w=0&k=20&c=aBGESJnmydI7uM1Yu8bWCm0Obf0YBG8sahzR3KJgffY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat and Dog">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/60820/landscape/wallpaper/room88.jpg?w=2000&q=80' alt='Cat and Dog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/60820/landscape/wallpaper/room88.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Cat Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xOV9kb2dfYW5kX2NhdF90b2dldGhlcl9vbl93aGl0ZV9iYWNrZ3JvdW5kX2FmNzQzMzBiLWRiYzItNDNmMC04OWYwLTMxOTBjOTlkYzQ4Zi5wbmc.png' alt='Dog Cat Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xOV9kb2dfYW5kX2NhdF90b2dldGhlcl9vbl93aGl0ZV9iYWNrZ3JvdW5kX2FmNzQzMzBiLWRiYzItNDNmMC04OWYwLTMxOTBjOTlkYzQ4Zi5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat and Dog HD Wallpaper: Adorable Animal Friends">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/346/thumb-1920-346904.jpg' alt='Cute Cat and Dog HD Wallpaper: Adorable Animal Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/346/thumb-1920-346904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

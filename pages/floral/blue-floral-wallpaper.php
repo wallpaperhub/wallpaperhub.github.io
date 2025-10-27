@@ -1,0 +1,129 @@
+<title>Stunning Blue Floral Wallpaper for Elegant Decor</title>
+                    <meta name="description" content="Discover the beauty of blue floral wallpaper! Ideal for adding a serene floral touch to your home, it enhances any room's decor. Shop now for stylish designs that create a tranquil atmosphere, perfect for walls and accent pieces. Elevate your space with this elegant choice!">
+                    <meta name="keywords" content="blue floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/blue-floral-wallpaper">
+                            <span itemprop="name">blue floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Floral Wallpaper for Elegant Decor</h1>
+                <p>Transform your space with blue floral wallpaper, bringing a touch of nature indoors. The serene blue hues combined with delicate floral patterns create a calming ambiance in any room. Perfect for accent walls or entire rooms, this wallpaper enhances your decor while adding depth and elegance. Embrace style and tranquility in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' alt='Indigo Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Home Fashions UW25895 Gabriela Blue Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91YIA5oNKZL.jpg' alt='Brewster Home Fashions UW25895 Gabriela Blue Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91YIA5oNKZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Porcelain Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' alt='Miniature Roses - Porcelain Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_fullxfull.2005485123_1boi.jpg' alt='Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2379">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_fullxfull.2005485123_1boi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' alt='Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' alt='Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' alt='PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooms Second Edition Brushstroke Floral Wallpaper - Aqua">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/BL1736_0b8375c2-b16b-44fd-bc28-b558265976a4.jpg?v=1697836002' alt='Blooms Second Edition Brushstroke Floral Wallpaper - Aqua'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/BL1736_0b8375c2-b16b-44fd-bc28-b558265976a4.jpg?v=1697836002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper in blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8b/a8/e1/8ba8e1dd21e1e5f6deaf2f1dfaf47809.jpg' alt='Floral wallpaper in blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8b/a8/e1/8ba8e1dd21e1e5f6deaf2f1dfaf47809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Bird Toile - Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' alt='Floral Bird Toile - Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Stunning Live 3D Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore mesmerizing live 3D wallpapers that breathe life into your screen! Customize stunning animations and effects to create a unique and vibrant backdrop for your devices. Upgrade your aesthetic with these engaging designs, perfect for any mood or style.">
+                    <meta name="keywords" content="live 3d wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/live-3d-wallpaper">
+                            <span itemprop="name">live 3d wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Live 3D Wallpapers for Your Device</h1>
+                <p>Live 3D wallpaper transforms your device's background into a dynamic visual experience. With stunning animations and customizable effects, these wallpapers create depth and movement, bringing your screen to life. Perfect for enhancing your phone or tablet's aesthetics, you'll enjoy a vibrant and engaging backdrop every time you unlock your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Live 3d Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/corals-live-3d-sh9tbleyj6wva8fp.jpg' alt='100+] Live 3d Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/corals-live-3d-sh9tbleyj6wva8fp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="android 3d live wallpaper - what engine to use? - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/gOX2q.jpg' alt='android 3d live wallpaper - what engine to use? - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/gOX2q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper For Mobile / 3D Wallpaper For Cell Phone">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1nNCfSLu-L.jpg' alt='Live Wallpaper For Mobile / 3D Wallpaper For Cell Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1nNCfSLu-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Live 3d Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/lion-live-3d-lf8sev2i4t878dbl.jpg' alt='Lion Live 3d Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/lion-live-3d-lf8sev2i4t878dbl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live 3d Wallpaper For Mobile - 675x1080 Wallpaper - teahub.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/d5/ef/72d5ef176f5494f290af6dfd7974c2eb.jpg' alt='Live 3d Wallpaper For Mobile - 675x1080 Wallpaper - teahub.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/d5/ef/72d5ef176f5494f290af6dfd7974c2eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD 3d live wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/398/438/HD-wallpaper-gears-live-3d-iphone-motorola-steampunk.jpg' alt='HD 3d live wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/398/438/HD-wallpaper-gears-live-3d-iphone-motorola-steampunk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live Wallpapers 4D video 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/URnmANTI8UG4hIzAO1ElME7fJ6NnwqXqM0iuOvy6jYtuX4j7Qae-FLTZxToucVJMlic=w526-h296-rw' alt='3D Live Wallpapers 4D video 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/URnmANTI8UG4hIzAO1ElME7fJ6NnwqXqM0iuOvy6jYtuX4j7Qae-FLTZxToucVJMlic=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger 3D Wallpaper - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/97/45/349745ee4a628c51bb59327290c65bf6.jpg' alt='Tiger 3D Wallpaper - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/97/45/349745ee4a628c51bb59327290c65bf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD live 3d wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/136/631/HD-wallpaper-skull-of-envy-live-live-effect-live-3d-live-thumbnail.jpg' alt='HD live 3d wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/136/631/HD-wallpaper-skull-of-envy-live-live-effect-live-3d-live-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers 3D Wallcraft for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/86464366-7de8-4dd7-a525-3d2c9c1b2591/4168975114/live-wallpapers-3d-wallcraft-screenshot.png' alt='Live Wallpapers 3D Wallcraft for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="live-wallpapers-3d-wallcraft.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/86464366-7de8-4dd7-a525-3d2c9c1b2591/4168975114/live-wallpapers-3d-wallcraft-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

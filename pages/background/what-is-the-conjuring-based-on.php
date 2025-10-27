@@ -1,0 +1,129 @@
+<title>The Conjuring: Unveiling Real-Life Paranormal Investigations</title>
+                    <meta name="description" content="Discover the chilling true stories behind The Conjuring. This film draws from the legendary investigations of Ed and Lorraine Warren into real-life hauntings and supernatural phenomena. Dive into the terrifying world of paranormal activity and the Warrens' courageous attempts to bring peace to tormented families.">
+                    <meta name="keywords" content="what is the conjuring based on">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-conjuring-based-on">
+                            <span itemprop="name">what is the conjuring based on</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Conjuring: Unveiling Real-Life Paranormal Investigations</h1>
+                <p>The Conjuring is based on the true stories of paranormal investigators Ed and Lorraine Warren. The film follows their harrowing experiences as they help families plagued by paranormal entities. It showcases their encounters with demonic forces and the supernatural, highlighting the Warrens' legendary investigations into haunting cases.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story Behind 'The Conjuring': Where Is the Perron Family Now?">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/Nt0VWRq8C4fMghoBqnMJqx5l6jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(825x488:827x490)/The-True-Story-Behind-The-Conjuring-Where-Is-the-Perron-Family-Now--tout-72dea27747d44e6d979fdcd1df6a36bb.jpg' alt='The True Story Behind 'The Conjuring': Where Is the Perron Family Now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/Nt0VWRq8C4fMghoBqnMJqx5l6jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(825x488:827x490)/The-True-Story-Behind-The-Conjuring-Where-Is-the-Perron-Family-Now--tout-72dea27747d44e6d979fdcd1df6a36bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story Of The Conjuring: The Perron Family & Enfield Haunting">
+                                <img itemprop="contentUrl url" src='https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/enfield-og.jpg' alt='The True Story Of The Conjuring: The Perron Family & Enfield Haunting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All That's Interesting" />
+                                </span>
+                                <a href='https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/enfield-og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story Behind 'The Conjuring': Where Is the Perron Family Now?">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/jbm8dhL6ohKTJJGtBx8Mw9I_25o=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1109x326:1111x328)/The-True-Story-Behind-The-Conjuring-Where-Is-the-Perron-Family-Now--04-040811111a9c40c5b63e012359858b4f.jpg' alt='The True Story Behind 'The Conjuring': Where Is the Perron Family Now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/jbm8dhL6ohKTJJGtBx8Mw9I_25o=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1109x326:1111x328)/The-True-Story-Behind-The-Conjuring-Where-Is-the-Perron-Family-Now--04-040811111a9c40c5b63e012359858b4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story Of The Conjuring: The Perron Family And Enfield ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/NItFR7LU_GvzxKpeWuhq4nS7nvJ1TqeblKxDOuB7k7k.jpg?auto=webp&s=01192a560048d4f018dd708271479fecc299a8f4' alt='The True Story Of The Conjuring: The Perron Family And Enfield ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/NItFR7LU_GvzxKpeWuhq4nS7nvJ1TqeblKxDOuB7k7k.jpg?auto=webp&s=01192a560048d4f018dd708271479fecc299a8f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Conjuring' true story in pictures">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/HbdVwxwS48N50wRjYLV4ZvOZhmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/perron-family-cb9a95ae286242b18e3bd6533f0805e4.jpg' alt='The Conjuring' true story in pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/HbdVwxwS48N50wRjYLV4ZvOZhmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/perron-family-cb9a95ae286242b18e3bd6533f0805e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What really happened in 'The Conjuring: The Devil Made Me Do It ...">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/articles/03QdSyOxmfPPjsuIzZOUUBO/hero-image.fill.size_1200x675.v1622866534.png' alt='What really happened in 'The Conjuring: The Devil Made Me Do It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/articles/03QdSyOxmfPPjsuIzZOUUBO/hero-image.fill.size_1200x675.v1622866534.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Stories Behind the Conjuring Movies">
+                                <img itemprop="contentUrl url" src='https://assets-prd.ignimgs.com/2021/06/03/conjuring-enfield-1622741303002.jpg' alt='The True Stories Behind the Conjuring Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets-prd.ignimgs.com/2021/06/03/conjuring-enfield-1622741303002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story Behind 'The Conjuring' - Meet the Real Ed and ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ed-and-lorraine-warren-arrives-at-danbury-superior-court-news-photo-515561236-1540726040.jpg' alt='The True Story Behind 'The Conjuring' - Meet the Real Ed and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3857">
+                                <meta itemprop="height" content="2657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmopolitan" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ed-and-lorraine-warren-arrives-at-danbury-superior-court-news-photo-515561236-1540726040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Real Annabelle Doll | The Conjuring True Story | Haunted Rooms®">
+                                <img itemprop="contentUrl url" src='https://www.hauntedrooms.co.uk/wp-content/uploads/2016/11/conjuring-anabelle.jpg' alt='The Real Annabelle Doll | The Conjuring True Story | Haunted Rooms®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haunted Rooms" />
+                                </span>
+                                <a href='https://www.hauntedrooms.co.uk/wp-content/uploads/2016/11/conjuring-anabelle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Real-Life Stories That Inspired 'The Conjuring' Franchise">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/04/vera-farmiga-the-conjuring-2-social-featured.jpg' alt='10 Real-Life Stories That Inspired 'The Conjuring' Franchise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/04/vera-farmiga-the-conjuring-2-social-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

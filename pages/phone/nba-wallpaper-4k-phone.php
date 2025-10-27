@@ -1,0 +1,129 @@
+<title>Stunning NBA 4K Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore our collection of NBA wallpapers in 4K resolution, perfect for your mobile device. Immerse yourself in the vibrant world of basketball with stunning images of your favorite players and teams. Download now to elevate your phone's style!">
+                    <meta name="keywords" content="nba wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nba-wallpaper-4k-phone">
+                            <span itemprop="name">nba wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning NBA 4K Wallpapers for Your Phone</h1>
+                <p>NBA wallpaper in stunning 4K resolution is a must-have for any basketball fan! Transform your phone's screen with vibrant images of your favorite players and teams. High-quality wallpapers not only enhance the aesthetics of your device but also bring the excitement of the NBA right to your fingertips. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Backgrounds | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-01.webp' alt='Mobile Phone Backgrounds | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-01.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/2b/4a/602b4a071730fd6554e93b41bca5621f.jpg' alt='Nba Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/2b/4a/602b4a071730fd6554e93b41bca5621f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Backgrounds | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-14.webp' alt='Mobile Phone Backgrounds | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-14.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Backgrounds | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-35.webp' alt='Mobile Phone Backgrounds | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-35.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b4/36/fe/b436fe56d8d0529704ba5b5e1665aa66.jpg' alt='Nba Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b4/36/fe/b436fe56d8d0529704ba5b5e1665aa66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Nba Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' alt='200+] Nba Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerImage/Curry-3_63838672550820.jpg' alt='Stephen Curry HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerImage/Curry-3_63838672550820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba Wallpapers 4k for Android - Free download and software reviews ...">
+                                <img itemprop="contentUrl url" src='https://images.dwncdn.net/images/t_app-cover-s,f_auto/p/c7b95930-7077-4d2e-8021-3dbd628da214/3915780857/31713_4-78264250-imgingest-7872773080470865040.jpg' alt='Nba Wallpapers 4k for Android - Free download and software reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET Download" />
+                                </span>
+                                <a href='https://images.dwncdn.net/images/t_app-cover-s,f_auto/p/c7b95930-7077-4d2e-8021-3dbd628da214/3915780857/31713_4-78264250-imgingest-7872773080470865040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Backgrounds | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-18.webp' alt='Mobile Phone Backgrounds | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-18.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-05-lbjsolo.jpeg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-05-lbjsolo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

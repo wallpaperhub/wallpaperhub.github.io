@@ -1,0 +1,129 @@
+<title>Kevin Gates: The Rise of a Southern Rap Icon</title>
+                    <meta name="description" content="Explore the journey of Kevin Gates, the Southern rap sensation known for his impactful lyrics and unique sound. Discover his musical evolution and the stories behind his hits in this concise overview of his career and influence in the hip-hop scene.">
+                    <meta name="keywords" content="kevin gates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kevin-gates">
+                            <span itemprop="name">kevin gates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kevin Gates: The Rise of a Southern Rap Icon</h1>
+                <p>Kevin Gates is an American rapper known for his unique blend of Southern hip-hop and personal storytelling. Born in Baton Rouge, Louisiana, he gained fame with hits like "Really Really" and "2 Phones." Gates is recognized for his candid lyrics that reflect his life experiences, including struggles and triumphs, deepening the connection with fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7b/Kevin_Gates_-_Main_Pub_1_-_Photo_Credit.jpg' alt='Kevin Gates - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2134">
+                                <meta itemprop="height" content="3201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7b/Kevin_Gates_-_Main_Pub_1_-_Photo_Credit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates Vinyl Records & Discography - Vinyl Me, Please">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Kevin-Gates-hero-banner-241016-1710.webp' alt='Kevin Gates Vinyl Records & Discography - Vinyl Me, Please'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vinyl Me, Please" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Kevin-Gates-hero-banner-241016-1710.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Kevin Gates">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1162240838594389' alt='Profile for Kevin Gates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1162240838594389' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates Official Website">
+                                <img itemprop="contentUrl url" src='https://www.kvngates.com/sites/g/files/g2000013691/files/2024-08/Kevin_Gates_9_1.jpg' alt='Kevin Gates Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1380">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.kvngates.com" />
+                                </span>
+                                <a href='https://www.kvngates.com/sites/g/files/g2000013691/files/2024-08/Kevin_Gates_9_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates is one of our weirdest rappers | The FADER">
+                                <img itemprop="contentUrl url" src='https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/unnamed_10_wqm5dk/kevin-gates-rap-career-essay.jpg' alt='Kevin Gates is one of our weirdest rappers | The FADER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fader" />
+                                </span>
+                                <a href='https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/unnamed_10_wqm5dk/kevin-gates-rap-career-essay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates — apg">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5ff4a97457429516243f37fd/1612389541560-BKQK8VQDECVRLZSPH6QO/Kevin-Gates-Press-Image-1-Credit-Jimmy-Fontaine.jpg' alt='Kevin Gates — apg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artist Publishing Group" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5ff4a97457429516243f37fd/1612389541560-BKQK8VQDECVRLZSPH6QO/Kevin-Gates-Press-Image-1-Credit-Jimmy-Fontaine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates — The Signal">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/63dbff5ff3b011521c76be22/1676919836061-9CJMK2J2MY6WX0FJ0RNB/Kevin+Gates+-+Venue+Card+%28Ticketing+Image%29.jpg' alt='Kevin Gates — The Signal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Signal" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/63dbff5ff3b011521c76be22/1676919836061-9CJMK2J2MY6WX0FJ0RNB/Kevin+Gates+-+Venue+Card+%28Ticketing+Image%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/390541?ops=fit(720%2C720)' alt='Kevin Gates | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/390541?ops=fit(720%2C720)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates is one of our weirdest rappers | The FADER">
+                                <img itemprop="contentUrl url" src='https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_528,w_1014,x_0,y_179,f_auto,q_auto:eco/unnamed_10_wqm5dk/unnamed_10_wqm5dk.jpg' alt='Kevin Gates is one of our weirdest rappers | The FADER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fader" />
+                                </span>
+                                <a href='https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_528,w_1014,x_0,y_179,f_auto,q_auto:eco/unnamed_10_wqm5dk/unnamed_10_wqm5dk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Gates Announces Release Date for New Album I'M HIM | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/5d8131b54bc6510008699bbc/4:3/w_2896,h_2172,c_limit/Kevin-Gates.jpg' alt='Kevin Gates Announces Release Date for New Album I'M HIM | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2896">
+                                <meta itemprop="height" content="2172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/5d8131b54bc6510008699bbc/4:3/w_2896,h_2172,c_limit/Kevin-Gates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

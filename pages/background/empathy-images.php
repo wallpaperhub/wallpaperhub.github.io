@@ -1,0 +1,129 @@
+<title>Empathy Images: Capturing Compassion in Visuals</title>
+                    <meta name="description" content="Discover the power of empathy images that evoke understanding and compassion. Explore visuals that inspire connection and promote kindness in our communities. Join us in celebrating the beauty of shared human experiences through impactful imagery.">
+                    <meta name="keywords" content="empathy images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/empathy-images">
+                            <span itemprop="name">empathy images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empathy Images: Capturing Compassion in Visuals</h1>
+                <p>Empathy images evoke deep emotional connections, capturing the essence of understanding and compassion. These visuals can portray acts of kindness, shared experiences, or moments of vulnerability, fostering a sense of unity and support. By promoting empathy through imagery, we can inspire positive change and deeper relationships in our communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empathy: Definition, Types, and Tips for Practicing">
+                                <img itemprop="contentUrl url" src='https://www.verywellmind.com/thmb/uejCxZDJqKHeN_Qsa6kO-KoNs_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-empathy-2795562_source_file-1102e99b63214d12ad63732278597497.png' alt='Empathy: Definition, Types, and Tips for Practicing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Mind" />
+                                </span>
+                                <a href='https://www.verywellmind.com/thmb/uejCxZDJqKHeN_Qsa6kO-KoNs_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-empathy-2795562_source_file-1102e99b63214d12ad63732278597497.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't Become Apathetic Toward Empathy - From the Green Notebook">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/fromthegreennotebook.com/wp-content/uploads/2020/12/Empathy.png?fit=600%2C400&ssl=1' alt='Don't Become Apathetic Toward Empathy - From the Green Notebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="From the Green Notebook" />
+                                </span>
+                                <a href='https://i0.wp.com/fromthegreennotebook.com/wp-content/uploads/2020/12/Empathy.png?fit=600%2C400&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empathy | Empathy Images">
+                                <img itemprop="contentUrl url" src='https://www.amacad.org/sites/default/files/styles/article_image_1x/public/media/images/empathy.jpg.webp?itok=8htL5Vxt' alt='Empathy | Empathy Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Academy of Arts and Sciences" />
+                                </span>
+                                <a href='https://www.amacad.org/sites/default/files/styles/article_image_1x/public/media/images/empathy.jpg.webp?itok=8htL5Vxt' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Best Practices to Show Empathy in Customer Service | HelpCenter">
+                                <img itemprop="contentUrl url" src='https://www.helpcenterapp.com/content/images/2023/06/Empathy-In-Customer-Servi--1-.png' alt='6 Best Practices to Show Empathy in Customer Service | HelpCenter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelpCenter app" />
+                                </span>
+                                <a href='https://www.helpcenterapp.com/content/images/2023/06/Empathy-In-Customer-Servi--1-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Empathy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1405024633/vector/conceptual-illustration-of-relationships-or-empathy-or-positive-emotional-sharing-with-two.jpg?s=612x612&w=0&k=20&c=K9ykqbDWOSxmFbZamRcXCr1yVw9natZ04VG5_h0iyJ8=' alt='52,500+ Empathy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1405024633/vector/conceptual-illustration-of-relationships-or-empathy-or-positive-emotional-sharing-with-two.jpg?s=612x612&w=0&k=20&c=K9ykqbDWOSxmFbZamRcXCr1yVw9natZ04VG5_h0iyJ8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art Of Empathy – Marriage Revolution">
+                                <img itemprop="contentUrl url" src='https://marriagerevolution.org/wp-content/uploads/2020/06/shutterstock_311441591-1024x535.jpg' alt='The Art Of Empathy – Marriage Revolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marriage Revolution" />
+                                </span>
+                                <a href='https://marriagerevolution.org/wp-content/uploads/2020/06/shutterstock_311441591-1024x535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The importance of empathy in leadership - COSE">
+                                <img itemprop="contentUrl url" src='https://cose.org/clientuploads/Screenshot_2024-02-12_at_4.34.23%E2%80%AFPM.png' alt='The importance of empathy in leadership - COSE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="956">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COSE" />
+                                </span>
+                                <a href='https://cose.org/clientuploads/Screenshot_2024-02-12_at_4.34.23%E2%80%AFPM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empathy At Work: A Highly Desirable Employee Characteristic ...">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/BLOG-11-09-Empathy-at-work-1200x630_FINAL.png' alt='Empathy At Work: A Highly Desirable Employee Characteristic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/BLOG-11-09-Empathy-at-work-1200x630_FINAL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cognitive Empathy vs. Emotional Empathy">
+                                <img itemprop="contentUrl url" src='https://www.verywellmind.com/thmb/p4XCa52jIpzNhTsnf65MT_z0oJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cognitive-and-emotional-empathy-4582389_FINAL-c960740dc5cd44bb97f46df06ed0b6c8.jpg' alt='Cognitive Empathy vs. Emotional Empathy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Mind" />
+                                </span>
+                                <a href='https://www.verywellmind.com/thmb/p4XCa52jIpzNhTsnf65MT_z0oJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cognitive-and-emotional-empathy-4582389_FINAL-c960740dc5cd44bb97f46df06ed0b6c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Importance of Empathy in the Workplace - Advice to "My ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E12AQFv9A0mFRO4nA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688674151593?e=2147483647&v=beta&t=aH61RnfDAYRJ6Nq2QGxNBY_SqMJcuIBDxeaPbYf1hLM' alt='The Importance of Empathy in the Workplace - Advice to "My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E12AQFv9A0mFRO4nA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688674151593?e=2147483647&v=beta&t=aH61RnfDAYRJ6Nq2QGxNBY_SqMJcuIBDxeaPbYf1hLM' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

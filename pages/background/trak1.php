@@ -1,0 +1,129 @@
+<title>Maximize Productivity with Trak1: Your Ultimate Tracking Solution</title>
+                    <meta name="description" content="Discover Trak1, the smart way to manage tasks and goals effortlessly. Stay organized and boost your productivity with user-friendly tools designed for modern life. Elevate your efficiency and achieve more with Trak1!">
+                    <meta name="keywords" content="trak1">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trak1">
+                            <span itemprop="name">trak1</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maximize Productivity with Trak1: Your Ultimate Tracking Solution</h1>
+                <p>Trak1 is a revolutionary platform designed to streamline your personal and professional tracking needs. From managing your daily tasks to monitoring long-term goals, Trak1 provides tools to enhance productivity and ensure you stay on course. Experience a new dimension of organization and efficiency.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig6_HTML.png' alt='Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig6_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRAK adaptors regulate the recruitment and activation of dynein ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-36945-8/MediaObjects/41467_2023_36945_Fig8_HTML.png' alt='TRAK adaptors regulate the recruitment and activation of dynein ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-36945-8/MediaObjects/41467_2023_36945_Fig8_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig1_HTML.png' alt='Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="1943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig1_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRAK1 Gene - GeneCards | TRAK1 Protein | TRAK1 Antibody">
+                                <img itemprop="contentUrl url" src='https://cdn.genecards.org/protein-structure-v5-23/alphaFold/AF-Q9UPV9-F1_model-1.png' alt='TRAK1 Gene - GeneCards | TRAK1 Protein | TRAK1 Antibody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeneCards" />
+                                </span>
+                                <a href='https://cdn.genecards.org/protein-structure-v5-23/alphaFold/AF-Q9UPV9-F1_model-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig3_HTML.png' alt='Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig3_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRAK1 Gene - GeneCards | TRAK1 Protein | TRAK1 Antibody">
+                                <img itemprop="contentUrl url" src='https://string-db.org/api/image/network?species=9606&limit=0&targetmode=proteins&caller_identity=gene_cards&network_flavor=evidence&identifiers=9606.ENSP00000328998%0D9606.ENSP00000328875%0D9606.ENSP00000351132%0D9606.ENSP00000321971%0D9606.ENSP00000389297%0D9606.ENSP00000362824%0D' alt='TRAK1 Gene - GeneCards | TRAK1 Protein | TRAK1 Antibody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeneCards" />
+                                </span>
+                                <a href='https://string-db.org/api/image/network?species=9606&limit=0&targetmode=proteins&caller_identity=gene_cards&network_flavor=evidence&identifiers=9606.ENSP00000328998%0D9606.ENSP00000328875%0D9606.ENSP00000351132%0D9606.ENSP00000321971%0D9606.ENSP00000389297%0D9606.ENSP00000362824%0D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immunofluorescence detection of TRAK1 expression in the piriform ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/345940056/figure/fig5/AS:963552789671942@1606740295548/Immunofluorescence-detection-of-TRAK1-expression-in-the-piriform-cortex-of-epileptic.png' alt='Immunofluorescence detection of TRAK1 expression in the piriform ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/345940056/figure/fig5/AS:963552789671942@1606740295548/Immunofluorescence-detection-of-TRAK1-expression-in-the-piriform-cortex-of-epileptic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRAK1 and TRAK2 protein expression levels during maturation. Cell ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/314873191/figure/fig3/AS:871963715178496@1584903758165/TRAK1-and-TRAK2-protein-expression-levels-during-maturation-Cell-lysates-of-6-10-and-14.ppm' alt='TRAK1 and TRAK2 protein expression levels during maturation. Cell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/314873191/figure/fig3/AS:871963715178496@1584903758165/TRAK1-and-TRAK2-protein-expression-levels-during-maturation-Cell-lysates-of-6-10-and-14.ppm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frontiers | Role of TRAK1 variants in epilepsy: genotype–phenotype ...">
+                                <img itemprop="contentUrl url" src='https://www.frontiersin.org/files/Articles/1342371/fnmol-17-1342371-HTML/image_m/fnmol-17-1342371-g002.jpg' alt='Frontiers | Role of TRAK1 variants in epilepsy: genotype–phenotype ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4212">
+                                <meta itemprop="height" content="2421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frontiers" />
+                                </span>
+                                <a href='https://www.frontiersin.org/files/Articles/1342371/fnmol-17-1342371-HTML/image_m/fnmol-17-1342371-g002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig4_HTML.png' alt='Mitochondria-adaptor TRAK1 promotes kinesin-1 driven transport in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16972-5/MediaObjects/41467_2020_16972_Fig4_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

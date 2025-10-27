@@ -1,0 +1,129 @@
+<title>Blue and Gold Marble Background: Elegance Redefined</title>
+                    <meta name="description" content="Explore the elegance of a blue and gold marble background. Ideal for both digital and print design, this luxurious backdrop adds sophistication to any project. Elevate your aesthetic with the rich colors and intricate patterns of blue and gold marble. Perfect for wallpapers, graphics, and more!">
+                    <meta name="keywords" content="blue and gold marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-gold-marble-background">
+                            <span itemprop="name">blue and gold marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue and Gold Marble Background: Elegance Redefined</h1>
+                <p>Experience the captivating beauty of a blue and gold marble background. This stunning combination of rich blue hues and luminous gold accents creates a luxurious and elegant aesthetic, perfect for various design projects. Whether used for wallpapers, website backgrounds, or artistic designs, the blue and gold marble offers a sophisticated and modern appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gold Marble Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/766/709/small/ai-generated-cold-blue-with-gold-elements-marble-background-and-golden-waves-high-resolution-ai-generative-photo.jpg' alt='Blue Gold Marble Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/766/709/small/ai-generated-cold-blue-with-gold-elements-marble-background-and-golden-waves-high-resolution-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Gold Layered Marble Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://www.canvasartrocks.com/cdn/shop/products/Blue_and_Gold_Layered_Marble_Wallpaper_Mural_d_1400x.jpg?v=1735831503' alt='Blue and Gold Layered Marble Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://www.canvasartrocks.com/cdn/shop/products/Blue_and_Gold_Layered_Marble_Wallpaper_Mural_d_1400x.jpg?v=1735831503' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,800+ Blue Gold Marble Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333638343/vector/abstract-blue-liquid-watercolor-background-with-golden-stains-cyan-marble-alcohol-ink.jpg?s=612x612&w=0&k=20&c=lsefqU-VNnONBbfxLe09E5Uf4wpPEObWTuTBuVgCvkM=' alt='17,800+ Blue Gold Marble Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333638343/vector/abstract-blue-liquid-watercolor-background-with-golden-stains-cyan-marble-alcohol-ink.jpg?s=612x612&w=0&k=20&c=lsefqU-VNnONBbfxLe09E5Uf4wpPEObWTuTBuVgCvkM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gold Marble Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/150/161/small/abstract-dark-blue-background-with-golden-foil-free-photo.jpg' alt='Blue Gold Marble Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/150/161/small/abstract-dark-blue-background-with-golden-foil-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Blue Gold Images – Browse 315,697 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/34/75/71/360_F_534757194_mqrG1T8gmpTqoPz1ia9A9b4lVqo29h68.jpg' alt='Marble Blue Gold Images – Browse 315,697 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/34/75/71/360_F_534757194_mqrG1T8gmpTqoPz1ia9A9b4lVqo29h68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gold Look Marble with Splash Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/2/2/22-5_1.jpg' alt='Blue Gold Look Marble with Splash Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/2/2/22-5_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Liquid Marble Wallpaper in Blue and Gold">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ILW034_Liquid-Marble-Blue-Thumbnail-_WEB.webp?crop=center&height=1024&v=1705484092&width=1024' alt='Sample of Liquid Marble Wallpaper in Blue and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ILW034_Liquid-Marble-Blue-Thumbnail-_WEB.webp?crop=center&height=1024&v=1705484092&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Pink Blue Purple Gold Marble Wallpaper Modern Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/e36dbc/1866751937/il_570xN.1866751937_fbpx.jpg' alt='Beautiful Pink Blue Purple Gold Marble Wallpaper Modern Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/e36dbc/1866751937/il_570xN.1866751937_fbpx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Gold Marble Wall Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1068.jpg?v=1658824473' alt='Abstract Blue Gold Marble Wall Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1068.jpg?v=1658824473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Blue and gold marble textured background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d7/cf/0e/d7cf0e6a69b49ce39ace1c9c0961da5c.jpg' alt='Free Photo | Blue and gold marble textured background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d7/cf/0e/d7cf0e6a69b49ce39ace1c9c0961da5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

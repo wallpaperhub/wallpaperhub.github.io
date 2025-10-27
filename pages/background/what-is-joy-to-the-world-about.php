@@ -1,0 +1,129 @@
+<title>Discover the Meaning of "Joy to the World"</title>
+                    <meta name="description" content="Explore the timeless message of "Joy to the World," a beloved Christmas hymn celebrating Jesus' birth. Learn about its themes of joy, hope, and salvation that resonate with audiences today. Perfect for understanding the true spirit of the Christmas season!">
+                    <meta name="keywords" content="what is joy to the world about">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-joy-to-the-world-about">
+                            <span itemprop="name">what is joy to the world about</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Meaning of "Joy to the World"</h1>
+                <p>Joy to the World, originally a hymn by Isaac Watts, celebrates the arrival of Jesus Christ and the joy this brings to humanity. The song emphasizes themes of hope, peace, and redemption, inviting people to rejoice in the promise of salvation. Its uplifting melody and message have made it a beloved Christmas carol across generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JOY TO THE WORLD” | Postmillennial Worldview">
+                                <img itemprop="contentUrl url" src='https://postmillennialworldview.com/wp-content/uploads/2016/12/joy-to-the-world.png?w=640' alt='JOY TO THE WORLD” | Postmillennial Worldview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Postmillennial Worldview" />
+                                </span>
+                                <a href='https://postmillennialworldview.com/wp-content/uploads/2016/12/joy-to-the-world.png?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy to the World - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/score/h/8/h8olvnmkmm66q4xfk7xrecr1zma037h/h8olvnmk.png' alt='Joy to the World - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/score/h/8/h8olvnmkmm66q4xfk7xrecr1zma037h/h8olvnmk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy to the World - Lyrics, Hymn Meaning and Story">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/godtube/resource/popular-hymns/image/joy-to-the-world.jpg' alt='Joy to the World - Lyrics, Hymn Meaning and Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodTube.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/godtube/resource/popular-hymns/image/joy-to-the-world.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind 'Joy To The World' | Worship Leaders University">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.markcole.ca/wp-content/uploads/2016/12/Joy-to-the-world.jpg' alt='The Story Behind 'Joy To The World' | Worship Leaders University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worship Leaders University" />
+                                </span>
+                                <a href='https://i0.wp.com/www.markcole.ca/wp-content/uploads/2016/12/Joy-to-the-world.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy to the world — Hymnology Archive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1544731237907-2210TQGSY249RUZTDT38/ps98-2-1719.jpg' alt='Joy to the world — Hymnology Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="1942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymnology Archive" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1544731237907-2210TQGSY249RUZTDT38/ps98-2-1719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy to the World Song (Printable, Origins, and Lyrics)">
+                                <img itemprop="contentUrl url" src='https://playtivities.com/wp-content/uploads/2022/10/Joy-to-the-World-1200-x-1200.png' alt='Joy to the World Song (Printable, Origins, and Lyrics)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playtivities" />
+                                </span>
+                                <a href='https://playtivities.com/wp-content/uploads/2022/10/Joy-to-the-World-1200-x-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind the Christmas Carol "Joy to the World"">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0832/7545/files/kids-globe-joy-notes.jpg?v=1569970811' alt='The Story Behind the Christmas Carol "Joy to the World"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1908">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Galaxy Music Notes" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0832/7545/files/kids-globe-joy-notes.jpg?v=1569970811' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Interesting History of 'Joy to the World' – Eastwood Baptist ...">
+                                <img itemprop="contentUrl url" src='https://eastwoodtulsa.org/wp-content/uploads/2019/12/Joy-to-the-World-810x450.jpg' alt='The Interesting History of 'Joy to the World' – Eastwood Baptist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastwood Baptist Church" />
+                                </span>
+                                <a href='https://eastwoodtulsa.org/wp-content/uploads/2019/12/Joy-to-the-World-810x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy To The World">
+                                <img itemprop="contentUrl url" src='https://mwtb.org/cdn/shop/products/TRGS0291-1_370x.jpg?v=1539363370' alt='Joy To The World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moments With The Book" />
+                                </span>
+                                <a href='https://mwtb.org/cdn/shop/products/TRGS0291-1_370x.jpg?v=1539363370' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy To The World: Understanding True Joy | Daily Manna">
+                                <img itemprop="contentUrl url" src='https://heartofworshipchurch.wordpress.com/wp-content/uploads/2015/12/joy-to-the-world-cross-550x320.jpg' alt='Joy To The World: Understanding True Joy | Daily Manna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Manna - WordPress.com" />
+                                </span>
+                                <a href='https://heartofworshipchurch.wordpress.com/wp-content/uploads/2015/12/joy-to-the-world-cross-550x320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

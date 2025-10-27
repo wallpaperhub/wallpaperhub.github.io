@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpapers: Personalize Your Apple Device</title>
+                    <meta name="description" content="Discover a collection of eye-catching iPhone wallpapers for your Apple device. Customize your screen with high-quality images and themes that match your personality. Perfect for any style, our wallpapers will give your iPhone a fresh new look. Download now and elevate your device!">
+                    <meta name="keywords" content="wallpaper iphone apple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-apple">
+                            <span itemprop="name">wallpaper iphone apple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpapers: Personalize Your Apple Device</h1>
+                <p>Transform your iPhone with stunning Apple wallpaper! From serene landscapes to striking designs, find the perfect backdrop that reflects your style. With high-resolution images, your device will not only look great but feel personalized. Reimagine your screen with a variety of themes to suit any mood. Explore and download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Wallpapers (76 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/0/4/82261-2160x3840-iphone-4k-apple-logo-background-image.jpg' alt='Apple Logo Wallpapers (76 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/0/4/82261-2160x3840-iphone-4k-apple-logo-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple ID Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636123973487-B3JGAABTSWKOVO0NQ805/BlackAppleIDiPad.png' alt='Apple ID Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636123973487-B3JGAABTSWKOVO0NQ805/BlackAppleIDiPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Apple wallpaper iphone ideas | apple wallpaper iphone, apple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bb/ac/73/bbac7322b6b0863638b221d845f8b8bd.jpg' alt='60 Apple wallpaper iphone ideas | apple wallpaper iphone, apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bb/ac/73/bbac7322b6b0863638b221d845f8b8bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple ID Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636124973281-LUT0C696QW63G48N0NSZ/Rainbow+AppleID+Lock+Screen.png' alt='Apple ID Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636124973281-LUT0C696QW63G48N0NSZ/Rainbow+AppleID+Lock+Screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Apple iPhone Wallpapers For Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/2f/c1/372fc1421c15f3f94361c66b96558b6c.jpg' alt='50 Apple iPhone Wallpapers For Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/2f/c1/372fc1421c15f3f94361c66b96558b6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Hd 3d Smoky Black Apple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/full-hd-3d-smoky-black-apple-4uyz5oiarhmw0rlh.jpg' alt='Full Hd 3d Smoky Black Apple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/full-hd-3d-smoky-black-apple-4uyz5oiarhmw0rlh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iphone apple by jetc21 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6017424e-0db1-4a33-ab0e-bc45521853f7/d1iclt8-3cf192ba-11bd-43ae-b599-e873621b3716.jpg/v1/fill/w_320,h_480,q_75,strp/wallpaper_iphone_apple_by_jetc21_d1iclt8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgwIiwicGF0aCI6IlwvZlwvNjAxNzQyNGUtMGRiMS00YTMzLWFiMGUtYmM0NTUyMTg1M2Y3XC9kMWljbHQ4LTNjZjE5MmJhLTExYmQtNDNhZS1iNTk5LWU4NzM2MjFiMzcxNi5qcGciLCJ3aWR0aCI6Ijw9MzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Ddi2DrFezNrIZdAKsxJtmBedJ52QnMaHvepdDYe7yWY' alt='Wallpaper iphone apple by jetc21 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6017424e-0db1-4a33-ab0e-bc45521853f7/d1iclt8-3cf192ba-11bd-43ae-b599-e873621b3716.jpg/v1/fill/w_320,h_480,q_75,strp/wallpaper_iphone_apple_by_jetc21_d1iclt8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgwIiwicGF0aCI6IlwvZlwvNjAxNzQyNGUtMGRiMS00YTMzLWFiMGUtYmM0NTUyMTg1M2Y3XC9kMWljbHQ4LTNjZjE5MmJhLTExYmQtNDNhZS1iNTk5LWU4NzM2MjFiMzcxNi5qcGciLCJ3aWR0aCI6Ijw9MzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Ddi2DrFezNrIZdAKsxJtmBedJ52QnMaHvepdDYe7yWY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD apple logo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/199/239/HD-wallpaper-apple-logo-apple-light-logos-original-thumbnail.jpg' alt='HD apple logo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/199/239/HD-wallpaper-apple-logo-apple-light-logos-original-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/133/425/HD-wallpaper-apple-ios-14-iphone-iphone-10-iphone-11-iphone-12-iphone-x-iphone11-iphone12-rainbow.jpg' alt='HD iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/133/425/HD-wallpaper-apple-ios-14-iphone-iphone-10-iphone-11-iphone-12-iphone-x-iphone11-iphone12-rainbow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Animated iOS 11 | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/08/apple-logo-473x1024.png' alt='Apple Logo Animated iOS 11 | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/08/apple-logo-473x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

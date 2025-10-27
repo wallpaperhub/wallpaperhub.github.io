@@ -1,0 +1,129 @@
+<title>Stunning Inuyasha Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore a variety of high-quality Inuyasha phone wallpapers to elevate your mobile screen. Featuring your favorite characters and classic scenes, these wallpapers are perfect for any fan. Download now and showcase your love for Inuyasha in style!">
+                    <meta name="keywords" content="inuyasha phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/inuyasha-phone-wallpaper">
+                            <span itemprop="name">inuyasha phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Inuyasha Phone Wallpapers for Every Fan</h1>
+                <p>Discover stunning Inuyasha phone wallpapers that bring your favorite characters to life right on your screen! From epic battles to heartwarming moments, our collection features high-quality images for every Inuyasha fan. Customize your device with vibrant colors and iconic scenes and enjoy the world of Inuyasha wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a cool phone wallpaper I found : r/inuyasha">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/k5jrre20sorb1.jpg' alt='Here's a cool phone wallpaper I found : r/inuyasha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/k5jrre20sorb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Phone Wallpapers : r/inuyasha">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-phone-wallpapers-v0-oyctc91xfs5d1.jpeg?width=675&format=pjpg&auto=webp&s=2d8b71783201212c905e5e80ae993117e55bcd3a' alt='Some Phone Wallpapers : r/inuyasha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-phone-wallpapers-v0-oyctc91xfs5d1.jpeg?width=675&format=pjpg&auto=webp&s=2d8b71783201212c905e5e80ae993117e55bcd3a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Inuyasha Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/ec/35/26ec353b1dc322ec0b754beffc3047e3.jpg' alt='iPhone Inuyasha Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/ec/35/26ec353b1dc322ec0b754beffc3047e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="καθαρός — Inuyasha Phone Wallpapers [1080x1920] requested...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/7b/25/c77b25b28cc649f680d87807b68af2c1.jpg' alt='καθαρός — Inuyasha Phone Wallpapers [1080x1920] requested...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/7b/25/c77b25b28cc649f680d87807b68af2c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD inuyasha wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/649/913/HD-wallpaper-inuyasha-anime-half-inuyasha-japanese-manga-thumbnail.jpg' alt='HD inuyasha wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/649/913/HD-wallpaper-inuyasha-anime-half-inuyasha-japanese-manga-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inuyasha Phone Wallpapers [1440x2960] - inuyasha post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/sBJ0DOU.jpeg' alt='Inuyasha Phone Wallpapers [1440x2960] - inuyasha post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/sBJ0DOU.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Inuyasha Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inuyasha-phone-hgdr9yyte7tc742g.jpg' alt='100+] Inuyasha Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inuyasha-phone-hgdr9yyte7tc742g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="καθαρός — Inuyasha Phone Wallpapers [1080x1920] requested...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/8c/5d/bf8c5d0ee633c2903852fae711c35c86.jpg' alt='καθαρός — Inuyasha Phone Wallpapers [1080x1920] requested...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/8c/5d/bf8c5d0ee633c2903852fae711c35c86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD inuyasha aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/823/577/HD-wallpaper-inuyasha-90s-90s-anime-aesthetic-anime-clouds-couple-cute-pink-sky.jpg' alt='HD inuyasha aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/823/577/HD-wallpaper-inuyasha-90s-90s-anime-aesthetic-anime-clouds-couple-cute-pink-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha and Kagome Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/2/b/752676-1080x1920-samsung-1080p-inuyasha-and-kagome-wallpaper-photo.jpg' alt='InuYasha and Kagome Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/2/b/752676-1080x1920-samsung-1080p-inuyasha-and-kagome-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Yale University: Location in New Haven, CT</title>
+                    <meta name="description" content="Discover Yale University, located in the vibrant city of New Haven, Connecticut. Learn about its rich history, stunning campus, and role as a top-tier educational institution. Explore Yale's offerings, from renowned programs to cultural experiences in a lively urban setting.">
+                    <meta name="keywords" content="where is yale university located city and state">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-yale-university-located-city-and-state">
+                            <span itemprop="name">where is yale university located city and state</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Yale University: Location in New Haven, CT</h1>
+                <p>Yale University is located in New Haven, Connecticut. Established in 1701, it is one of the oldest and most prestigious universities in the United States. Nestled in a vibrant city known for its rich history, cultural institutions, and lively atmosphere, Yale's campus features stunning architecture and a diverse community, making it a remarkable place to study.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Is Yale University?">
+                                <img itemprop="contentUrl url" src='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/yale-university/overview/location/map_xl.jpeg' alt='Where Is Yale University?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Factual" />
+                                </span>
+                                <a href='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/yale-university/overview/location/map_xl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Is Yale University?">
+                                <img itemprop="contentUrl url" src='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/yale-university/overview/location/map_xs.jpeg' alt='Where Is Yale University?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Factual" />
+                                </span>
+                                <a href='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/yale-university/overview/location/map_xs.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yale University | History, Schools, Alumni, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/73/144873-050-104022AE/Yale-University-New-Haven-Conn.jpg' alt='Yale University | History, Schools, Alumni, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/73/144873-050-104022AE/Yale-University-New-Haven-Conn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Campus | Yale College Undergraduate Admissions">
+                                <img itemprop="contentUrl url" src='https://admissions.yale.edu/sites/default/files/styles/flexslider_full/public/2010_05_10_19_03_37_central_campus_1.jpg?itok=1hVNjje6' alt='The Campus | Yale College Undergraduate Admissions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale Admissions - Yale University" />
+                                </span>
+                                <a href='https://admissions.yale.edu/sites/default/files/styles/flexslider_full/public/2010_05_10_19_03_37_central_campus_1.jpg?itok=1hVNjje6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where is Yale University located?">
+                                <img itemprop="contentUrl url" src='https://collegesimply.imgix.net/orig/20210217/yale-university-130794.jpg?auto=format&auto=compress&auto=true&ar=1:1&fit=crop' alt='Where is Yale University located?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CollegeSimply" />
+                                </span>
+                                <a href='https://collegesimply.imgix.net/orig/20210217/yale-university-130794.jpg?auto=format&auto=compress&auto=true&ar=1:1&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Yale University">
+                                <img itemprop="contentUrl url" src='https://ycwd.memberclicks.net/assets/aboutyale.png' alt='About Yale University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale Club of Washington, D.C." />
+                                </span>
+                                <a href='https://ycwd.memberclicks.net/assets/aboutyale.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yale University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yale_Law_School_in_the_Sterling_Law_Building.jpg/220px-Yale_Law_School_in_the_Sterling_Law_Building.jpg' alt='Yale University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yale_Law_School_in_the_Sterling_Law_Building.jpg/220px-Yale_Law_School_in_the_Sterling_Law_Building.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CT's Yale University makes list of 'most beautiful places' to visit">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/32/65/06/23810464/5/rawImage.jpg' alt='CT's Yale University makes list of 'most beautiful places' to visit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Haven Register" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/32/65/06/23810464/5/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1802 Yale University Revival Archives - BEAUTIFUL FEETBEAUTIFUL FEET">
+                                <img itemprop="contentUrl url" src='https://romans1015.com/wp-content/uploads/2018/02/Slide1.jpg' alt='1802 Yale University Revival Archives - BEAUTIFUL FEETBEAUTIFUL FEET'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="beautiful feet" />
+                                </span>
+                                <a href='https://romans1015.com/wp-content/uploads/2018/02/Slide1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yale Facts | Yale University">
+                                <img itemprop="contentUrl url" src='https://www.yale.edu/sites/default/files/styles/yale_facts_500x500/public/yale-facts.jpg?itok=mxIfNFYY' alt='Yale Facts | Yale University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale University" />
+                                </span>
+                                <a href='https://www.yale.edu/sites/default/files/styles/yale_facts_500x500/public/yale-facts.jpg?itok=mxIfNFYY' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

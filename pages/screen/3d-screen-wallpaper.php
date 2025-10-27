@@ -1,0 +1,129 @@
+<title>Stunning 3D Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of eye-catching 3D screen wallpapers that elevate your device's look. Perfect for personalizing your home screen, each wallpaper offers unique designs that bring depth and color, ensuring your screen stands out. Discover the best 3D wallpapers today!">
+                    <meta name="keywords" content="3d screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/3d-screen-wallpaper">
+                            <span itemprop="name">3d screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Screen Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning 3D screen wallpapers that bring depth and vibrancy to your home and lock screens. With a range of designs—from serene landscapes to cosmic art—these wallpapers enhance the visual experience, making your screen a captivating focal point. Discover the perfect 3D wallpaper to express your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1600+] 3D Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/3d-33q6a18khxgta4ll.jpg' alt='1600+] 3D Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/3d-33q6a18khxgta4ll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 3D iPhone Lock Screen Wallpapers For 2017">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/82/e4/2682e4f63cdb1d186ebefb631a7caae1.jpg' alt='40 3D iPhone Lock Screen Wallpapers For 2017'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/82/e4/2682e4f63cdb1d186ebefb631a7caae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1601315488950-3b5047998b38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8M2QlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='3D Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1601315488950-3b5047998b38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8M2QlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Phone Wallpaper 008 - [1080x2340]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/85/00/348500a8431d9f3bddebfc4f5b7bef1d.jpg' alt='3D Phone Wallpaper 008 - [1080x2340]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/85/00/348500a8431d9f3bddebfc4f5b7bef1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper 3D / Screen Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71p9-aHqPPL.jpg' alt='Lock Screen Wallpaper 3D / Screen Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71p9-aHqPPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 3d Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/3d-phone-stacked-colorful-patterned-balls-tl45aeisn71vy3vo.jpg' alt='100+] 3d Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/3d-phone-stacked-colorful-patterned-balls-tl45aeisn71vy3vo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Square Outlines Mobile 3d Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/abstract-square-outlines-mobile-3d-lswflt4ycbwgpahf.jpg' alt='Abstract Square Outlines Mobile 3d Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/abstract-square-outlines-mobile-3d-lswflt4ycbwgpahf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Live 3D Effect 2.8 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/wallpapers-backgrounds-lockscreen-3d-effect/00/00/0H/G0/00000HG0D7/pad_screenshot_Z3S0F9O0A3.webp' alt='Wallpapers - Live 3D Effect 2.8 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/wallpapers-backgrounds-lockscreen-3d-effect/00/00/0H/G0/00000HG0D7/pad_screenshot_Z3S0F9O0A3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome abstract, 3d, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/889/69/HD-wallpaper-awesome-abstract-3d.jpg' alt='Awesome abstract, 3d, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/889/69/HD-wallpaper-awesome-abstract-3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 3D iPhone Lock Screen Wallpapers For 2017">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/fd/bc/14fdbcdfb63c3e4461ed9b60160599e2.jpg' alt='40 3D iPhone Lock Screen Wallpapers For 2017'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/fd/bc/14fdbcdfb63c3e4461ed9b60160599e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

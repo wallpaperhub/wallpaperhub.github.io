@@ -1,0 +1,129 @@
+<title>Unleash Your Style with Stunning Hollow Knight Phone Wallpapers</title>
+                    <meta name="description" content="Discover captivating Hollow Knight phone wallpapers that bring the essence of Hallownest to your screen. Perfect for fans of the game, our collection features iconic visuals and immersive designs to elevate your mobile experience. Download your favorite now and showcase your love for this indie masterpiece!">
+                    <meta name="keywords" content="hollow knight phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/hollow-knight-phone-wallpaper">
+                            <span itemprop="name">hollow knight phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Your Style with Stunning Hollow Knight Phone Wallpapers</h1>
+                <p>Looking to personalize your phone with stunning "Hollow Knight" wallpapers? Dive into the beautifully crafted world of Hallownest with these immersive designs. Featuring iconic characters and breathtaking landscapes, transform your screen into an artistic tribute to your favorite indie game. Perfect for fans seeking style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here you go guys, Some Hollow knight wallpapers I found on the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-you-go-guys-some-hollow-knight-wallpapers-i-found-on-v0-ibj5grt4svfd1.jpg?width=800&format=pjpg&auto=webp&s=c95d6116598573656982a062116517c0c8ee42de' alt='Here you go guys, Some Hollow knight wallpapers I found on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-you-go-guys-some-hollow-knight-wallpapers-i-found-on-v0-ibj5grt4svfd1.jpg?width=800&format=pjpg&auto=webp&s=c95d6116598573656982a062116517c0c8ee42de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Cast iPhone Wallpaper : r/HollowKnight">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/h3blokooi2k11.png?auto=webp&s=069f90c6908e492e22f5f1082f2b4e84e228111e' alt='Hollow Knight Cast iPhone Wallpaper : r/HollowKnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/h3blokooi2k11.png?auto=webp&s=069f90c6908e492e22f5f1082f2b4e84e228111e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Phone Wallpaper - 2025 Phone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/3b/85/233b858c719f0cd03d8c76007de7bf8d.jpg' alt='Hollow Knight Phone Wallpaper - 2025 Phone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/3b/85/233b858c719f0cd03d8c76007de7bf8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here you go guys, Some Hollow knight wallpapers I found on the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-you-go-guys-some-hollow-knight-wallpapers-i-found-on-v0-9r1imiy4svfd1.jpg?width=800&format=pjpg&auto=webp&s=6d5cbec24b3692efe65aa94aa3d14e09881de761' alt='Here you go guys, Some Hollow knight wallpapers I found on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-you-go-guys-some-hollow-knight-wallpapers-i-found-on-v0-9r1imiy4svfd1.jpg?width=800&format=pjpg&auto=webp&s=6d5cbec24b3692efe65aa94aa3d14e09881de761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight i Phones Wallpaper - 2025 Phone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/41/3b/0b413b1ba4afa94a4a0fa3f21b2e2c0a.jpg' alt='Hollow Knight i Phones Wallpaper - 2025 Phone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/41/3b/0b413b1ba4afa94a4a0fa3f21b2e2c0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Phone Wallpaper: New God - Fly-Sky-High draws!'s Ko-fi Shop">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/post/82ddf874-c8ae-488e-ad2c-cc8db2f1d5d9_wallpaper_newgod.png' alt='Hollow Knight Phone Wallpaper: New God - Fly-Sky-High draws!'s Ko-fi Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/post/82ddf874-c8ae-488e-ad2c-cc8db2f1d5d9_wallpaper_newgod.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow knight phone wallpaper | tonyachonrepon1987's Ownd">
+                                <img itemprop="contentUrl url" src='https://phonewallpaperhd.com/wp-content/uploads/2019/11/Phones-Wallpaper-Hollow-Knight.jpg' alt='Hollow knight phone wallpaper | tonyachonrepon1987's Ownd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tonyachonrepon1987's Ownd - Ameba Ownd" />
+                                </span>
+                                <a href='https://phonewallpaperhd.com/wp-content/uploads/2019/11/Phones-Wallpaper-Hollow-Knight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Phone Wallpaper: Godset - Fly-Sky-High draws!'s Ko-fi Shop">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/bcf8fd47-c827-4585-81a4-95d66df63f6d_wallpaper_godset.png' alt='Hollow Knight Phone Wallpaper: Godset - Fly-Sky-High draws!'s Ko-fi Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/bcf8fd47-c827-4585-81a4-95d66df63f6d_wallpaper_godset.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight, hollow, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/183/804/HD-wallpaper-hollow-knight-hollow.jpg' alt='Hollow Knight, hollow, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/183/804/HD-wallpaper-hollow-knight-hollow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revujo on X: "Hollow Knight Adventures part 2. I met Hornet. She ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Dh1KNblX4AA6dHn.jpg:large' alt='Revujo on X: "Hollow Knight Adventures part 2. I met Hornet. She ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Dh1KNblX4AA6dHn.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

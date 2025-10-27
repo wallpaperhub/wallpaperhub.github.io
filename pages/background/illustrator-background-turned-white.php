@@ -1,0 +1,129 @@
+<title>Fixing a White Background in Illustrator</title>
+                    <meta name="description" content="Struggling with a white background in Illustrator? Discover quick solutions to restore your background color and get back to your creative projects without hassle. Learn how to adjust settings and navigate common issues effectively. Optimize your workflow today!">
+                    <meta name="keywords" content="illustrator background turned white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/illustrator-background-turned-white">
+                            <span itemprop="name">illustrator background turned white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fixing a White Background in Illustrator</h1>
+                <p>When your Illustrator background unexpectedly turns white, it can disrupt your workflow. This often happens due to settings changes or document profile adjustments. To restore your desired background color, check the "Document Setup" and "Artboard" settings, or reset your workspace. Remember to save your work frequently!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustrator workspace white color problem | How to fix white ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XjLY4ZRB1bw/sddefault.jpg' alt='Illustrator workspace white color problem | How to fix white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XjLY4ZRB1bw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix White Workspace Adobe Illustrator">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_ug1M-TPgl8/maxresdefault.jpg' alt='Fix White Workspace Adobe Illustrator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_ug1M-TPgl8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color of the Pasteboard has turned white in Illust... - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1761472_pastedImage_6.png' alt='Color of the Pasteboard has turned white in Illust... - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1761472_pastedImage_6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Canvas color stuck as white - Adobe Community - 7091515">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/755599_jdam.jpg' alt='Solved: Canvas color stuck as white - Adobe Community - 7091515'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1921">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/755599_jdam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND CHANGED WHITE! How do I change it back to normal? (its ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-changed-white-how-do-i-change-it-back-to-normal-v0-p17qi3a9nltc1.png?auto=webp&s=39db5b3917fdade51ad6f167770f3cf96b918cc0' alt='BACKGROUND CHANGED WHITE! How do I change it back to normal? (its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1592">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-changed-white-how-do-i-change-it-back-to-normal-v0-p17qi3a9nltc1.png?auto=webp&s=39db5b3917fdade51ad6f167770f3cf96b918cc0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustrator Workspace Turned White | Adobe Illustrator Workspace White">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JMY98OVMMC0/maxresdefault.jpg' alt='Illustrator Workspace Turned White | Adobe Illustrator Workspace White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JMY98OVMMC0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Workspace/interface turned white, it will not chan ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/819835_Screen%20Shot%202015-09-19%20at%2012.08.02%20PM.png' alt='Solved: Workspace/interface turned white, it will not chan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="484">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/819835_Screen%20Shot%202015-09-19%20at%2012.08.02%20PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="adobe illustrator - Outer artboard background turned white ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/YppNX.png' alt='adobe illustrator - Outer artboard background turned white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/YppNX.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color of the Pasteboard has turned white in Illust... - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/t5/image/serverpage/image-id/116471i4E0AEA70B11F6AF0?v=v2' alt='Color of the Pasteboard has turned white in Illust... - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/t5/image/serverpage/image-id/116471i4E0AEA70B11F6AF0?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustrator's background and artboard became transparent - Graphic ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/3L2vF.png' alt='Illustrator's background and artboard became transparent - Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/3L2vF.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

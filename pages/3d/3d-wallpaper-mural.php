@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Stunning 3D Wallpaper Murals</title>
+                    <meta name="description" content="Discover how 3D wallpaper murals can revolutionize your interior design. Create a captivating ambiance with vivid designs that add depth and style. Perfect for any room, our collection offers a range of themes to match your decor. Transform your walls into immersive art pieces today!">
+                    <meta name="keywords" content="3d wallpaper mural">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-wallpaper-mural">
+                            <span itemprop="name">3d wallpaper mural</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Stunning 3D Wallpaper Murals</h1>
+                <p>Transform your space with stunning 3D wallpaper murals that create depth and dimension. Perfect for living rooms, bedrooms, or office spaces, these murals turn walls into art. Available in various themes, from nature vistas to abstract designs, 3D wallpaper murals instantly elevate any decor while offering a unique visual experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Illusion Wallpaper, Art Wall Mural, Woman Face Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35254723/r/il/41ee32/4659240478/il_fullxfull.4659240478_otpp.jpg' alt='3D Illusion Wallpaper, Art Wall Mural, Woman Face Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35254723/r/il/41ee32/4659240478/il_fullxfull.4659240478_otpp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Wall Murals Wallpaper 3D Stereo Embossed Elephant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20679300/r/il/6da501/2024459093/il_570xN.2024459093_npft.jpg' alt='Custom 3D Wall Murals Wallpaper 3D Stereo Embossed Elephant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20679300/r/il/6da501/2024459093/il_570xN.2024459093_npft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Sunshine Ocean 3D Mural Wallpaper, Sea Waves 3D Mural,Large  Wallpaper Mural Wall Decor for Bedroom Living Room Tv Background Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81My7kmojYL.jpg' alt='Amazon.com: Sunshine Ocean 3D Mural Wallpaper, Sea Waves 3D Mural,Large  Wallpaper Mural Wall Decor for Bedroom Living Room Tv Background Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81My7kmojYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant White Floral 3D Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/files/white-blossom-petal-wall-mural.png?v=1732533779' alt='Elegant White Floral 3D Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/files/white-blossom-petal-wall-mural.png?v=1732533779' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper & 3D Wall Murals for Wall • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/a/b/abstract-wallpaper-3d-look-geometric-corridor-wall-mural-modern_zgtkzqv1awd_3d_1.jpg' alt='3D Wallpaper & 3D Wall Murals for Wall • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/a/b/abstract-wallpaper-3d-look-geometric-corridor-wall-mural-modern_zgtkzqv1awd_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing 3D Peacocks Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/files/3d-peacock-wallpaper-mural-custom-sizes-available-household-wallpaper-maughons-984680__2_-transformed_1024x1024.jpg?v=1691593931' alt='Amazing 3D Peacocks Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/files/3d-peacock-wallpaper-mural-custom-sizes-available-household-wallpaper-maughons-984680__2_-transformed_1024x1024.jpg?v=1691593931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fantasy Forest Nature 3D Wallpaper Mural, Tropical Jungle  Landscape Large Custom Mural, Waterproof HD Photos Art Modern Space Design  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cm+PZRmIL.jpg' alt='Amazon.com: Fantasy Forest Nature 3D Wallpaper Mural, Tropical Jungle  Landscape Large Custom Mural, Waterproof HD Photos Art Modern Space Design  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cm+PZRmIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper, buy 3D Wall Murals in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/77000/77416/u93944pig17ms_900.webp' alt='3D Wallpaper, buy 3D Wall Murals in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/77000/77416/u93944pig17ms_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Size 3D Wallpaper Mural Cavescape (㎡)">
+                                <img itemprop="contentUrl url" src='http://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-Cave-Nature-Landscape-TV-Background-Wall-Mural-Wallpaper-For-Living-Room-Bedroom_1200x1200.jpg?v=1571609155' alt='Custom Size 3D Wallpaper Mural Cavescape (㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='http://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-Cave-Nature-Landscape-TV-Background-Wall-Mural-Wallpaper-For-Living-Room-Bedroom_1200x1200.jpg?v=1571609155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Illuminated Glass Flower Illustration Cathedral  Shadows Peel and Stick Removable Self-Adhesive PVC Wall Stickers for ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Illuminated-Glass-Flower-Illustration-Cathedral-Shadows-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids_810a4419-1481-4e6b-aa5a-a4b5d1f60c5b.ce2388338970cde123494d48d7e1b04e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D Illuminated Glass Flower Illustration Cathedral  Shadows Peel and Stick Removable Self-Adhesive PVC Wall Stickers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Illuminated-Glass-Flower-Illustration-Cathedral-Shadows-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids_810a4419-1481-4e6b-aa5a-a4b5d1f60c5b.ce2388338970cde123494d48d7e1b04e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

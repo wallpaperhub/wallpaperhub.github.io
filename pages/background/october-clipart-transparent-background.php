@@ -1,0 +1,129 @@
+<title>October Clipart: Transparent Backgrounds for Creative Projects</title>
+                    <meta name="description" content="Explore our collection of October clipart with transparent backgrounds, ideal for all your seasonal projects! From Halloween to autumn leaves, find the perfect images to elevate your designs. Easy to use and integrate into any project, these cliparts will add a creative flair to your work!">
+                    <meta name="keywords" content="october clipart transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/october-clipart-transparent-background">
+                            <span itemprop="name">october clipart transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>October Clipart: Transparent Backgrounds for Creative Projects</h1>
+                <p>Discover a vibrant collection of October clipart with transparent backgrounds. Perfect for your autumn-themed projects, these images feature pumpkins, falling leaves, Halloween icons, and more! Easily integrate our clipart into your designs, presentations, or social media posts without any distracting backgrounds. Perfect for creatives!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210207/ourmid/pngtree-october-maple-leaf-clip-art-svg-png-image_2888929.jpg' alt='October Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210207/ourmid/pngtree-october-maple-leaf-clip-art-svg-png-image_2888929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210207/ourmid/pngtree-october-clip-art-broom-svg-png-image_2888948.jpg' alt='October Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210207/ourmid/pngtree-october-clip-art-broom-svg-png-image_2888948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Pumpkin Clipart Transparent Background, October Pumpkin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/2c/c1/122cc137c7e888a2f53dd04a621fa185.jpg' alt='October Pumpkin Clipart Transparent Background, October Pumpkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/2c/c1/122cc137c7e888a2f53dd04a621fa185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Clipart Transparent Background, October Green Clip Art Svg ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/e2/ee/a8e2eed9710a9ec46376589d938b3c23.jpg' alt='October Clipart Transparent Background, October Green Clip Art Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/e2/ee/a8e2eed9710a9ec46376589d938b3c23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Cat Clipart Transparent PNG Hd, October Cat Clip Art Svg ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210311/original/pngtree-october-cat-clip-art-svg-png-image_5977775.jpg' alt='October Cat Clipart Transparent PNG Hd, October Cat Clip Art Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210311/original/pngtree-october-cat-clip-art-svg-png-image_5977775.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Free PNG Image">
+                                <img itemprop="contentUrl url" src='https://www.pngarts.com/files/7/October-Free-PNG-Image.png' alt='October Free PNG Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Png Pack" />
+                                </span>
+                                <a href='https://www.pngarts.com/files/7/October-Free-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello October PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20200904/ourmid/pngtree-hello-october-month-hand-lettering-with-leaves-png-image_2339727.jpg' alt='Hello October PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20200904/ourmid/pngtree-hello-october-month-hand-lettering-with-leaves-png-image_2339727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text Doodle October Cartoon Vector Clipart - FriendlyStock">
+                                <img itemprop="contentUrl url" src='https://friendlystock.com/wp-content/uploads/2021/07/10-text-doodle-october-cartoon-clipart.jpg' alt='Text Doodle October Cartoon Vector Clipart - FriendlyStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FriendlyStock" />
+                                </span>
+                                <a href='https://friendlystock.com/wp-content/uploads/2021/07/10-text-doodle-october-cartoon-clipart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,500+ October Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1432101432/vector/autumn-maple-leaves-orange-fall-leaf-thanksgiving-or-halloween-transparent-element-in-orange.jpg?s=612x612&w=0&k=20&c=g4h6_SozuJ3D2tnp3fFJ34H9usEkporCEI5zWe7MAis=' alt='47,500+ October Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1432101432/vector/autumn-maple-leaves-orange-fall-leaf-thanksgiving-or-halloween-transparent-element-in-orange.jpg?s=612x612&w=0&k=20&c=g4h6_SozuJ3D2tnp3fFJ34H9usEkporCEI5zWe7MAis=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello October Hd Transparent, Hello October Autumn Lettering ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/b5/8c/85b58cbab38f1bff46e1c8a212c55875.jpg' alt='Hello October Hd Transparent, Hello October Autumn Lettering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/b5/8c/85b58cbab38f1bff46e1c8a212c55875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

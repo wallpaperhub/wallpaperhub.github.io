@@ -1,0 +1,129 @@
+<title>Sour Patch Kids: The Transparent Twist on a Classic Treat</title>
+                    <meta name="description" content="Discover the fun of Sour Patch Kids Transparent! Enjoy the same iconic sour-then-sweet flavor with a unique clear design. Perfect for candy lovers seeking a new twist, these treats are visually appealing and delicious. Satisfy your sweet cravings with this colorful confection!">
+                    <meta name="keywords" content="sour patch kids transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sour-patch-kids-transparent">
+                            <span itemprop="name">sour patch kids transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sour Patch Kids: The Transparent Twist on a Classic Treat</h1>
+                <p>Sour Patch Kids Transparent is a fun twist on the classic candy! These colorful, gummy treats retain the same delicious sour-then-sweet flavor but come with a clear, see-through design. Perfect for snacking, they tantalize the taste buds while offering a unique visual appeal. Get ready for a sweet adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids">
+                                <img itemprop="contentUrl url" src='https://www.couchpotatoatx.com/cdn/shop/products/00772301_spk_original_8oz_main_580x.jpg?v=1585665445' alt='Sour Patch Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Couch Potato ATX" />
+                                </span>
+                                <a href='https://www.couchpotatoatx.com/cdn/shop/products/00772301_spk_original_8oz_main_580x.jpg?v=1585665445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Sour Patch Kids Box, 3.5-Ounce Boxes (Pack of 12 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/5173iiDblVL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA44,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOUR-medium,BottomLeft,30,-20_QL100_.jpg' alt='Amazon.com : Sour Patch Kids Box, 3.5-Ounce Boxes (Pack of 12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/5173iiDblVL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA44,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOUR-medium,BottomLeft,30,-20_QL100_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/601592dc5cc23e000407ba22.png' alt='Sour Patch Kids logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/601592dc5cc23e000407ba22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids - Sour Patch Kids Candy - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180605/ftc/aa967evfo.webp' alt='Sour Patch Kids - Sour Patch Kids Candy - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180605/ftc/aa967evfo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch #2 Sticker">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/2-sour-patch-fadila-dila-transparent.png' alt='Sour Patch #2 Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/2-sour-patch-fadila-dila-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids 2oz Bag or 24 Count Box">
+                                <img itemprop="contentUrl url" src='https://shop.sweetiescandy.com/cdn/shop/products/IMG_0695_640x480.jpg?v=1588337925' alt='Sour Patch Kids 2oz Bag or 24 Count Box'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="b.a. Sweetie Candy Store" />
+                                </span>
+                                <a href='https://shop.sweetiescandy.com/cdn/shop/products/IMG_0695_640x480.jpg?v=1588337925' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Blue Raspberry Bags">
+                                <img itemprop="contentUrl url" src='http://allcitycandy.com/cdn/shop/files/bl96vrmxcjrkipn7fys1-removebg-preview_600x.png?v=1710170742' alt='Sour Patch Kids Blue Raspberry Bags'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All City Candy" />
+                                </span>
+                                <a href='http://allcitycandy.com/cdn/shop/files/bl96vrmxcjrkipn7fys1-removebg-preview_600x.png?v=1710170742' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids - Sour Patch Kids Candy Pack - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180613/fzq/kisspng-gummi-candy-sour-patch-kids-swedish-fish-sour-sand-5b213b6e95fc72.6679877515289045586144.jpg' alt='Sour Patch Kids - Sour Patch Kids Candy Pack - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180613/fzq/kisspng-gummi-candy-sour-patch-kids-swedish-fish-sour-sand-5b213b6e95fc72.6679877515289045586144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Sour Patch Kids Soft & Chewy Candy - Sour then Sweet - Orange  Flavor - Bulk 5 Pound Party Pack : Grocery & Gourmet Food">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71DwQZG9d5L.jpg' alt='Amazon.com : Sour Patch Kids Soft & Chewy Candy - Sour then Sweet - Orange  Flavor - Bulk 5 Pound Party Pack : Grocery & Gourmet Food'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71DwQZG9d5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Big Kids HEADS – pinkiessweeties">
+                                <img itemprop="contentUrl url" src='http://pinkiessweeties.com/cdn/shop/files/IMG-6976_grande.png?v=1692799637' alt='Sour Patch Big Kids HEADS – pinkiessweeties'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pinkiessweeties" />
+                                </span>
+                                <a href='http://pinkiessweeties.com/cdn/shop/files/IMG-6976_grande.png?v=1692799637' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

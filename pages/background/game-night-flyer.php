@@ -1,0 +1,129 @@
+<title>Ultimate Game Night: Join the Fun!</title>
+                    <meta name="description" content="Get ready for an unforgettable game night! Perfect for friends and family, enjoy classic board games, tasty snacks, and lots of laughter. Join us for an evening of fun and competition that everyone will love. Reserve your spot now and bring your game face!">
+                    <meta name="keywords" content="game night flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/game-night-flyer">
+                            <span itemprop="name">game night flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Game Night: Join the Fun!</h1>
+                <p>Join us for an exciting game night! Gather your friends and family for an evening filled with laughter, friendly competition, and great memories. Enjoy a variety of board games, card games, and snacks. Whether you are a seasoned gamer or just looking for fun, this night promises to entertain everyone! Don't miss out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Flyer / Invitation / Social Media Post Template. 100% Editable.  You Can Customize It In 1000's Of Different Ways.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37646300/r/il/aba20a/4285066051/il_fullxfull.4285066051_1lat.jpg' alt='Game Night Flyer / Invitation / Social Media Post Template. 100% Editable.  You Can Customize It In 1000's Of Different Ways.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37646300/r/il/aba20a/4285066051/il_fullxfull.4285066051_1lat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free game night poster templates to edit and print | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGPcJQZE7A/1/0/1131w/canva-green-and-pink-illustrative-game-night-poster-D-tljw_bK_4.jpg' alt='Free game night poster templates to edit and print | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGPcJQZE7A/1/0/1131w/canva-green-and-pink-illustrative-game-night-poster-D-tljw_bK_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Flyer Templates | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/game-night-s-poster-template-ba759c73bd1535cca23c9f3e1274fca8_screen.jpg?ts=1706543472' alt='Game Night Flyer Templates | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/game-night-s-poster-template-ba759c73bd1535cca23c9f3e1274fca8_screen.jpg?ts=1706543472' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/game-night-entertainment-poster-template_23-2151034516.jpg' alt='Game Night Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/game-night-entertainment-poster-template_23-2151034516.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family Game Night Flyer - School Church Benefit Fundraiser Event Poster -  DIY Editable Template">
+                                <img itemprop="contentUrl url" src='https://tidylady.net/cdn/shop/products/il_fullxfull.1764574206_okyx_1024x1024.jpg?v=1580448427' alt='Family Game Night Flyer - School Church Benefit Fundraiser Event Poster -  DIY Editable Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://tidylady.net/cdn/shop/products/il_fullxfull.1764574206_okyx_1024x1024.jpg?v=1580448427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/game-night-flyer-design-template-a31795ef78bd70f8e306e813452e2aab_screen.jpg?ts=1637045573' alt='Game Night Flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/game-night-flyer-design-template-a31795ef78bd70f8e306e813452e2aab_screen.jpg?ts=1637045573' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Night Flyer Designs">
+                                <img itemprop="contentUrl url" src='https://edit.org/img/blog/y5w-family-game-night-flyer-template-free.webp' alt='Game Night Flyer Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edit.org" />
+                                </span>
+                                <a href='https://edit.org/img/blog/y5w-family-game-night-flyer-template-free.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable and customizable game flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGNo1DZNL8/1/0/1131w/canva-yellow-and-green-playful-creative-family-game-night-flyer-e24z58b6cs4.jpg' alt='Free printable and customizable game flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGNo1DZNL8/1/0/1131w/canva-yellow-and-green-playful-creative-family-game-night-flyer-e24z58b6cs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family Game Night Flyer, Printable PTA PTO Flyer, School Church Benefit  Fundraiser Event Poster Digital Party Printable Invitation MLN 143 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30441367/r/il/cc76ad/3592667497/il_1080xN.3592667497_7qow.jpg' alt='Family Game Night Flyer, Printable PTA PTO Flyer, School Church Benefit  Fundraiser Event Poster Digital Party Printable Invitation MLN 143 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30441367/r/il/cc76ad/3592667497/il_1080xN.3592667497_7qow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Game Night Flyer Templates - PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/game-night-flyer-template-9s5ks7b735daa2.webp' alt='Free Game Night Flyer Templates - PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/game-night-flyer-template-9s5ks7b735daa2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

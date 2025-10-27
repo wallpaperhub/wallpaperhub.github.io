@@ -1,0 +1,129 @@
+<title>Stunning 4K Broken Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the ultimate collection of 4K broken screen wallpapers for phones! Transform your device with unique, high-resolution designs that mimic cracks while keeping your screen intact. Perfect for those looking to stand out and express their style. Check out our gallery now!">
+                    <meta name="keywords" content="broken screen wallpaper 4k for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/broken-screen-wallpaper-4k-for-phone">
+                            <span itemprop="name">broken screen wallpaper 4k for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Broken Screen Wallpapers for Your Phone</h1>
+                <p>Transform your phone’s look with stunning 4K broken screen wallpaper! These eye-catching designs add a unique twist, simulating a cracked screen effect without the damage. Explore a variety of styles to express your personality while protecting your screen's integrity. Perfect for anyone who loves an edgy aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Wallpaper 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' alt='Broken Screen Wallpaper 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/bf/80/bf/bf80bfbcf85745ebd1c5293e72c89f56.jpg' alt='Cracked Screen Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/bf/80/bf/bf80bfbcf85745ebd1c5293e72c89f56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen HD Wallpapers (200++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/broken-phone-screen-blb5qo7j9kq8yzj9.jpg' alt='Broken Screen HD Wallpapers (200++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/broken-phone-screen-blb5qo7j9kq8yzj9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/3c/56/b03c56091243a0e6bd74b28a8e8176eb.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/3c/56/b03c56091243a0e6bd74b28a8e8176eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen, crack, iphone, realistic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/741/11/HD-wallpaper-cracked-screen-crack-iphone-realistic.jpg' alt='Cracked Screen, crack, iphone, realistic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/741/11/HD-wallpaper-cracked-screen-crack-iphone-realistic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Display, rainbow line, rainbow, line, display, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/448/676/HD-wallpaper-broken-display-rainbow-line-rainbow-line-display.jpg' alt='Broken Display, rainbow line, rainbow, line, display, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/448/676/HD-wallpaper-broken-display-rainbow-line-rainbow-line-display.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screen cracked, broken screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/938/721/HD-wallpaper-iphone-2018-android-graphic-new-wonderful.jpg' alt='Screen cracked, broken screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/938/721/HD-wallpaper-iphone-2018-android-graphic-new-wonderful.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Broken Screen Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bf/0b/20/bf0b2023bd8eaadd115be49098763d9f.jpg' alt='4K Broken Screen Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bf/0b/20/bf0b2023bd8eaadd115be49098763d9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Broken Screen Wallpapers App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/omarapps22.broken.screen.wallpaper-fcb1e87f-94b6-4694-8a1e-2bc655a09a66.jpeg?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download Broken Screen Wallpapers App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/omarapps22.broken.screen.wallpaper-fcb1e87f-94b6-4694-8a1e-2bc655a09a66.jpeg?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crack Screen Wallpaper HD / Cracked Screen Background 4K">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1q4dXeLhzL.jpg' alt='Crack Screen Wallpaper HD / Cracked Screen Background 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1q4dXeLhzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

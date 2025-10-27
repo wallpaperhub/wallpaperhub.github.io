@@ -1,0 +1,129 @@
+<title>Chic Coffee Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore our exquisite collection of coffee wallpapers designed to elevate your phone’s look. Perfect for coffee lovers, these wallpapers add a touch of warmth and style. Refresh your device with beautiful images that capture the essence of your favorite coffee moments. Download now for a cozy feel!">
+                    <meta name="keywords" content="coffee wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/coffee-wallpaper-for-phone">
+                            <span itemprop="name">coffee wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Coffee Wallpapers for Your Phone</h1>
+                <p>Transform your phone screen with stunning coffee wallpapers! Whether you love espresso, cappuccinos, or cozy café vibes, our collection offers a variety of designs that capture the essence of your favorite brew. Perfect for coffee enthusiasts looking to personalize their devices while showing off their passion for java.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Delight phone wallpaper - The Lofi Hideout's Ko-fi Shop ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/c50fe15e-c5db-4568-89a7-c50a2e20bbef_coffeedelight2.png' alt='Coffee Delight phone wallpaper - The Lofi Hideout's Ko-fi Shop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/c50fe15e-c5db-4568-89a7-c50a2e20bbef_coffeedelight2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Wallpaper Photos, Download The BEST Free Coffee Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/29784884/pexels-photo-29784884.jpeg?cs=srgb&dl=pexels-ahmetyuksek-29784884.jpg&fm=jpg' alt='Coffee Wallpaper Photos, Download The BEST Free Coffee Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5304">
+                                <meta itemprop="height" content="7952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/29784884/pexels-photo-29784884.jpeg?cs=srgb&dl=pexels-ahmetyuksek-29784884.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTE5LWItZWxlbWVudGdyb3VwLXRlLTAwMWItYy5qcGc.jpg' alt='Coffee Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTE5LWItZWxlbWVudGdyb3VwLXRlLTAwMWItYy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Coffee mobile wallpaper, cute moka pot ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/82/6d/42/826d42afbeffaa5a7eef7c1ca6f51c43.jpg' alt='Download premium image of Coffee mobile wallpaper, cute moka pot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/82/6d/42/826d42afbeffaa5a7eef7c1ca6f51c43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Coffee" wallpapers for mobile phone, free "Coffee" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/99/9959ca8fc224aa59341b03deb35167b9.jpeg' alt='Download "Coffee" wallpapers for mobile phone, free "Coffee" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3619">
+                                <meta itemprop="height" content="5429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/99/9959ca8fc224aa59341b03deb35167b9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTE1LWItZWxlbWVudGdyb3VwLW10LTAwNWEtYi5qcGc.jpg' alt='Coffee Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTE1LWItZWxlbWVudGdyb3VwLW10LTAwNWEtYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Food Coffee Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/997/997810.jpg' alt='Download Food Coffee Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/997/997810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Beans Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/a/2/593634-1080x1920-mobile-1080p-coffee-beans-wallpaper.jpg' alt='Coffee Beans Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/a/2/593634-1080x1920-mobile-1080p-coffee-beans-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cute Wallpapers About Coffee All Caffeine Addicts Will Love As ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3a/06/3e/3a063ed702b7e921019a5e406f445be2.jpg' alt='20 Cute Wallpapers About Coffee All Caffeine Addicts Will Love As ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3a/06/3e/3a063ed702b7e921019a5e406f445be2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD coffee wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/872/53/HD-wallpaper-cup-coffee-coffee-beans-splash-steam-thumbnail.jpg' alt='HD coffee wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/872/53/HD-wallpaper-cup-coffee-coffee-beans-splash-steam-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

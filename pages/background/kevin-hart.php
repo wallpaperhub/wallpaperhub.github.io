@@ -1,0 +1,129 @@
+<title>Kevin Hart: The Comedy Star You Need to Know</title>
+                    <meta name="description" content="Discover the life and career of Kevin Hart, the dynamic comedian and actor who captivates audiences with his humor and charisma. Explore his journey from stand-up to star, his hit movies, and what makes him a standout figure in the entertainment industry.">
+                    <meta name="keywords" content="kevin hart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kevin-hart">
+                            <span itemprop="name">kevin hart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kevin Hart: The Comedy Star You Need to Know</h1>
+                <p>Kevin Hart is a renowned comedian, actor, and producer, known for his energetic humor and relatable storytelling. Born on July 6, 1979, in Philadelphia, he rose to fame with stand-up specials and blockbuster films like "Central Intelligence" and "Jumanji." Hart’s engaging personality and work ethic make him a beloved figure in entertainment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg' alt='Kevin Hart - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1362">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b3/KH1_2018.png' alt='Kevin Hart - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b3/KH1_2018.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart | Executive Producer | Dave on FX Networks">
+                                <img itemprop="contentUrl url" src='https://assets.fxnetworks.com/cms-next/production/950c40a9-c758-426a-a2f9-be192d3fc395.jpg' alt='Kevin Hart | Executive Producer | Dave on FX Networks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FX Networks" />
+                                </span>
+                                <a href='https://assets.fxnetworks.com/cms-next/production/950c40a9-c758-426a-a2f9-be192d3fc395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KEVIN HART ANNOUNCES TWO SHOWS AT RESORTS WORLD THEATRE AND LIVE ...">
+                                <img itemprop="contentUrl url" src='https://www.rwlasvegas.com/wp-content/uploads/2022/09/Kevin-Hart-Reality-Check-Press-Headshot.jpeg' alt='KEVIN HART ANNOUNCES TWO SHOWS AT RESORTS WORLD THEATRE AND LIVE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1874">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resorts World Las Vegas" />
+                                </span>
+                                <a href='https://www.rwlasvegas.com/wp-content/uploads/2022/09/Kevin-Hart-Reality-Check-Press-Headshot.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart | Disney Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disneyfanon/images/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/revision/latest?cb=20200428015618' alt='Kevin Hart | Disney Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disneyfanon/images/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/revision/latest?cb=20200428015618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Conversation with Kevin Hart | ROUTE Magazine">
+                                <img itemprop="contentUrl url" src='https://www.routemagazine.us/assets/stories/kevin-hart-001.png' alt='A Conversation with Kevin Hart | ROUTE Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROUTE Magazine" />
+                                </span>
+                                <a href='https://www.routemagazine.us/assets/stories/kevin-hart-001.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix Is A Joke Festival 2024">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/qzo6ooq9c21v/4NothTC443Qcsbksfce9bT/4af6c91fa2b0288a209afcc3c097dfec/NIAJ24_Raw_KevinHart_1200x1000_v2.png' alt='Netflix Is A Joke Festival 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix Is A Joke Festival 2024" />
+                                </span>
+                                <a href='https://images.ctfassets.net/qzo6ooq9c21v/4NothTC443Qcsbksfce9bT/4af6c91fa2b0288a209afcc3c097dfec/NIAJ24_Raw_KevinHart_1200x1000_v2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart Clarifies His Height Once and for All">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/O3O3Klui-osWJfR7FFDPPmQ9POc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/kevin-hart-60-minutes-042224-d00942f903e347f29ac421184f42ceea.jpg' alt='Kevin Hart Clarifies His Height Once and for All'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/O3O3Klui-osWJfR7FFDPPmQ9POc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/kevin-hart-60-minutes-042224-d00942f903e347f29ac421184f42ceea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart's Media Company Sells $100 Million Stake to Private ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/04/27/business/26hart/merlin_198253719_a7b9a4f4-aa2e-4d68-a228-2ac198d91f34-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Kevin Hart's Media Company Sells $100 Million Stake to Private ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/04/27/business/26hart/merlin_198253719_a7b9a4f4-aa2e-4d68-a228-2ac198d91f34-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Hart's Oscars controversy feeds the stereotype of the black ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13618270/GettyImages_1062194596.jpg?quality=90&strip=all&crop=15.899932840833,0,68.200134318334,100' alt='Kevin Hart's Oscars controversy feeds the stereotype of the black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="2031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13618270/GettyImages_1062194596.jpg?quality=90&strip=all&crop=15.899932840833,0,68.200134318334,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

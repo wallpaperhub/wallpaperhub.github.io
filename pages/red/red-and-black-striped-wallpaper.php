@@ -1,0 +1,129 @@
+<title>Bold Red and Black Striped Wallpaper for Stunning Interiors</title>
+                    <meta name="description" content="Transform your space with eye-catching red and black striped wallpaper. This stylish design adds drama while complementing neutral decor. Perfect for a statement wall, it enhances any room's character. Explore trendy patterns to elevate your interior aesthetic. Ideal for bold personal styles!">
+                    <meta name="keywords" content="red and black striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-and-black-striped-wallpaper">
+                            <span itemprop="name">red and black striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Red and Black Striped Wallpaper for Stunning Interiors</h1>
+                <p>Red and black striped wallpaper is a bold design choice that adds a striking flair to any room. The combination of these two colors creates a dynamic visual impact, making spaces feel more dramatic and stylish. Ideal for feature walls, it pairs well with neutral furniture and accessories, allowing you to express your unique aesthetic effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustration Red Black Striped Wallpaper Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/illustration-red-black-striped-wallpaper-260nw-1113517820.jpg' alt='Illustration Red Black Striped Wallpaper Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/illustration-red-black-striped-wallpaper-260nw-1113517820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Red Stripes Wallpaper | happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/69739/black-and-red-stripes-wallpaper-roll.jpg?auto=format&q=40&w=2304' alt='Black and Red Stripes Wallpaper | happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/69739/black-and-red-stripes-wallpaper-roll.jpg?auto=format&q=40&w=2304' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red & Black Stripes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/84/fb/9784fb4bae93808fca3060f0cddb66cc.jpg' alt='Red & Black Stripes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/84/fb/9784fb4bae93808fca3060f0cddb66cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Red Stripes On Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-red-stripes-on-black-qdwmn7udgnjb461n.jpg' alt='Cool Red Stripes On Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-red-stripes-on-black-qdwmn7udgnjb461n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Red Stripes Wallpaper Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/69739/black_and_red_stripes_wallpaper_masked.jpg' alt='Black And Red Stripes Wallpaper Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/69739/black_and_red_stripes_wallpaper_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/98/d6/df/98d6dfaa25e22df9900ba96eef9c6347.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/98/d6/df/98d6dfaa25e22df9900ba96eef9c6347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Black Stripe Gradient Clip Art at Clker.com - vector clip art ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/1/c/d/a/1197119074545599626ryanlerch_red-black_stripe_(gradient).svg.hi.png' alt='Red Black Stripe Gradient Clip Art at Clker.com - vector clip art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/1/c/d/a/1197119074545599626ryanlerch_red-black_stripe_(gradient).svg.hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Red Stripes Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/3172901/p/f/m/7lFolsFR5GjAHgTcJInHyoPtU9mHBREyVT9RQAB91-JQpujSn5nLZw/Yo%20Ho!%20Stripe%20~%20Blood%20Red%20and%20Blackmail.jpg' alt='Blood Red Stripes Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/3172901/p/f/m/7lFolsFR5GjAHgTcJInHyoPtU9mHBREyVT9RQAB91-JQpujSn5nLZw/Yo%20Ho!%20Stripe%20~%20Blood%20Red%20and%20Blackmail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Red and black striped metal wall. Vector abstract ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-black-striped-metal-wall-vector-abstract-linear-wallpaper-plastic-grooved-siding_224234-24.jpg' alt='Premium Photo | Red and black striped metal wall. Vector abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-black-striped-metal-wall-vector-abstract-linear-wallpaper-plastic-grooved-siding_224234-24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Stripes, Red">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1718719390/articles/R20675_interior1.jpg' alt='Painted Stripes, Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1718719390/articles/R20675_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

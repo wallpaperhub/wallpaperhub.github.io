@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Bedroom Wallpaper</title>
+                    <meta name="description" content="Discover the magic of floral bedroom wallpaper! Enhance your space with beautiful designs that bring nature indoors. Perfect for creating a serene and inviting atmosphere in your bedroom. Explore styles that fit your personality and elevate your decor effortlessly!">
+                    <meta name="keywords" content="floral bedroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-bedroom-wallpaper">
+                            <span itemprop="name">floral bedroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Bedroom Wallpaper</h1>
+                <p>Floral bedroom wallpaper can transform your space with vibrant colors and enchanting patterns. Perfect for adding a touch of nature, it creates a calming and inviting atmosphere. Choose from a variety of floral designs—traditional, modern, or whimsical—that reflect your personality. Make your bedroom a retreat with the beauty of blooms!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Blooms Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' alt='Terracotta Blooms Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Girl Bedroom Wallpaper Unique Design Blossom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/b5e25c/3423457979/il_570xN.3423457979_dty5.jpg' alt='Floral Wallpaper Girl Bedroom Wallpaper Unique Design Blossom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/b5e25c/3423457979/il_570xN.3423457979_dty5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indienne Floral Wallpaper - Grande by Milola Design">
+                                <img itemprop="contentUrl url" src='https://miloladesign.com/cdn/shop/products/IndienneGrande222copy.jpg?v=1671450755&width=1080' alt='Indienne Floral Wallpaper - Grande by Milola Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milola Design" />
+                                </span>
+                                <a href='https://miloladesign.com/cdn/shop/products/IndienneGrande222copy.jpg?v=1671450755&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' alt='Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Cutesie Wallpaper | Anewall Mural Wallpapers">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/cutesie-floral-mural-wallpaper.jpg?v=1562266897' alt='Vintage Floral Cutesie Wallpaper | Anewall Mural Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/cutesie-floral-mural-wallpaper.jpg?v=1562266897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Delicate floral removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Delicate-floral-design-wall-mural-in-bohemian-bedroom-interior_1100x.jpg?v=1706636450' alt='Pink Delicate floral removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Delicate-floral-design-wall-mural-in-bohemian-bedroom-interior_1100x.jpg?v=1706636450' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Background Cream Floral Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/DarkFloralWallpaperPeelandStickDarkBlossom-PaperAesthetic4.jpg?v=1739916861&width=1214' alt='Dark Background Cream Floral Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/DarkFloralWallpaperPeelandStickDarkBlossom-PaperAesthetic4.jpg?v=1739916861&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abundance">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1716565655/articles/FL0014DA30W_interior1.jpg' alt='Abundance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1716565655/articles/FL0014DA30W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.kokoartshop.com/cdn/shop/products/002_Angle_Interior_Scene_cc7bba40-b5a4-402e-94a0-5efcd374e150.jpg?v=1636660339' alt='Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='http://www.kokoartshop.com/cdn/shop/products/002_Angle_Interior_Scene_cc7bba40-b5a4-402e-94a0-5efcd374e150.jpg?v=1636660339' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

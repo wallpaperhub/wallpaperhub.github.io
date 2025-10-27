@@ -1,0 +1,129 @@
+<title>Essential Background Check Questions for Job Applicants</title>
+                    <meta name="description" content="Discover crucial background check questions to ask when hiring. Ensure you're making informed decisions by verifying employment history, education, and more. Learn how thorough inquiries can help you identify the right candidates effectively.">
+                    <meta name="keywords" content="background check questions">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-questions">
+                            <span itemprop="name">background check questions</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Background Check Questions for Job Applicants</h1>
+                <p>Background check questions are essential for verifying an applicant’s history and qualifications. Key inquiries may include previous employment details, educational background, criminal records, and references. These questions help employers assess reliability, honesty, and overall fit, ensuring informed hiring decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="III. Background Check Questionnaire | Office of Human Resources">
+                                <img itemprop="contentUrl url" src='https://hr.fsu.edu/sites/g/files/upcbnu2186/files/inline-images/Background-Check/Section-3_BackgroundCheckLevel.jpg' alt='III. Background Check Questionnaire | Office of Human Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FSU HR - Florida State University" />
+                                </span>
+                                <a href='https://hr.fsu.edu/sites/g/files/upcbnu2186/files/inline-images/Background-Check/Section-3_BackgroundCheckLevel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Questions to Ask When Selecting a Screening Provider">
+                                <img itemprop="contentUrl url" src='https://verifiedfirst.com/wp-content/uploads/2022/07/Infographic-10-Qs-to-Ask-Background-Provider-Buyers-Guide-768x1709.png' alt='10 Questions to Ask When Selecting a Screening Provider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verified First" />
+                                </span>
+                                <a href='https://verifiedfirst.com/wp-content/uploads/2022/07/Infographic-10-Qs-to-Ask-Background-Provider-Buyers-Guide-768x1709.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Questions To Ask Your Background Check Provider | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1255217821317252&get_thumbnail=1' alt='7 Questions To Ask Your Background Check Provider | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1255217821317252&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quiz & Worksheet - Background Check Overview | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/academy/practice/quiz-worksheet-background-check-overview.jpg' alt='Quiz & Worksheet - Background Check Overview | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/academy/practice/quiz-worksheet-background-check-overview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Questionnaire Form | PDF | Background Check ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/684668368/original/64bb70aca1/1?v=1' alt='Background Check Questionnaire Form | PDF | Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/684668368/original/64bb70aca1/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="III. Background Check Questionnaire | Office of Human Resources">
+                                <img itemprop="contentUrl url" src='https://hr.fsu.edu/sites/g/files/upcbnu2186/files/inline-images/Background-Check/Section-3_OPSSubmitApproval.jpg' alt='III. Background Check Questionnaire | Office of Human Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FSU HR - Florida State University" />
+                                </span>
+                                <a href='https://hr.fsu.edu/sites/g/files/upcbnu2186/files/inline-images/Background-Check/Section-3_OPSSubmitApproval.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Important Questions asked During pre employment background ...">
+                                <img itemprop="contentUrl url" src='https://image.slidesharecdn.com/backgroundscreeningfaqs-blog11-220228095648/95/15-Important-Questions-asked-During-pre-employment-background-checks-1-638.jpg' alt='15 Important Questions asked During pre employment background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://image.slidesharecdn.com/backgroundscreeningfaqs-blog11-220228095648/95/15-Important-Questions-asked-During-pre-employment-background-checks-1-638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check For Employment - Jobstreet Philippines">
+                                <img itemprop="contentUrl url" src='https://media.graphassets.com/zYrg9yG7QPSozboXUeFn' alt='Background Check For Employment - Jobstreet Philippines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="2298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobstreet" />
+                                </span>
+                                <a href='https://media.graphassets.com/zYrg9yG7QPSozboXUeFn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the background check company really going to ask these ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/is-the-background-check-company-really-going-to-ask-these-v0-u43fhju2s0he1.jpeg?width=640&crop=smart&auto=webp&s=fd642007626d647c223cd8cd8de4a17caa61d533' alt='Is the background check company really going to ask these ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/is-the-background-check-company-really-going-to-ask-these-v0-u43fhju2s0he1.jpeg?width=640&crop=smart&auto=webp&s=fd642007626d647c223cd8cd8de4a17caa61d533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background check program Questions &amp; answers for volunteers">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/47034567/1/500x640/background-check-program-questions-amp-answers-for-volunteers.jpg' alt='background check program Questions &amp; answers for volunteers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="264">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/47034567/1/500x640/background-check-program-questions-amp-answers-for-volunteers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

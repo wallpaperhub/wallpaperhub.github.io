@@ -1,0 +1,129 @@
+<title>Dead by Daylight Logo: A Dark Icon of Survival Horror</title>
+                    <meta name="description" content="Explore the captivating aesthetics of the Dead by Daylight logo. This iconic symbol features dark graphics that embody the thrilling essence of the popular survival horror game. Discover how the design reflects its chilling gameplay and impacts the gaming community. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="dead by daylight logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dead-by-daylight-logo">
+                            <span itemprop="name">dead by daylight logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dead by Daylight Logo: A Dark Icon of Survival Horror</h1>
+                <p>The Dead by Daylight logo is a striking representation of the game's intense atmosphere. Featuring sharp, angular designs and dark hues, it encapsulates the survival horror essence. The logo reflects the game's unique blend of multiplayer gameplay and chilling narratives, making it instantly recognizable to fans and newcomers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/03/Dead-by-Daylight-Logo.png' alt='Dead by Daylight Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/03/Dead-by-Daylight-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/76nllAJJD7z0UYBekb841xa_N_nGFptaCe1thzi03gAY4wOP2uVgLRQJXktWCaQJ4FCMA0GDL0o=s900-c-k-c0x00ffffff-no-rj' alt='Dead by Daylight - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/76nllAJJD7z0UYBekb841xa_N_nGFptaCe1thzi03gAY4wOP2uVgLRQJXktWCaQJ4FCMA0GDL0o=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead By Daylight Logo - Dead by Daylight Game Logo - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180528/krw/avphc2sib.webp' alt='Dead By Daylight Logo - Dead by Daylight Game Logo - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180528/krw/avphc2sib.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight - Official Dead by Daylight Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b7/Logo_dbd.svg/revision/latest/scale-to-width-down/300?cb=20211216202129' alt='Dead by Daylight - Official Dead by Daylight Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dead by Daylight Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b7/Logo_dbd.svg/revision/latest/scale-to-width-down/300?cb=20211216202129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/04/Dead-by-Daylight-Emblem.png' alt='Dead by Daylight Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/04/Dead-by-Daylight-Emblem.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead By Daylight Minimalist Skull HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/819/819068.jpg' alt='Dead By Daylight Minimalist Skull HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/819/819068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight | Stranger Things Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/strangerthings8338/images/e/e6/Deadbydaylight_logo.png/revision/latest?cb=20220804100049' alt='Dead by Daylight | Stranger Things Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stranger Things Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/strangerthings8338/images/e/e6/Deadbydaylight_logo.png/revision/latest?cb=20220804100049' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DBD recent logo rebrending. : r/deadbydaylight">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pnydlzhg81r21.png?width=640&crop=smart&auto=webp&s=fab1aa98bd948b23e1458213c970b7dbc9a99de5' alt='DBD recent logo rebrending. : r/deadbydaylight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pnydlzhg81r21.png?width=640&crop=smart&auto=webp&s=fab1aa98bd948b23e1458213c970b7dbc9a99de5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodmoon DbD logo to be used as a wallpaper or something : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bloodmoon-dbd-logo-to-be-used-as-a-wallpaper-or-something-v0-3gx1z8v04kqc1.jpeg?auto=webp&s=10abfdf381e7fc5f5c0650281d12508158503310' alt='Bloodmoon DbD logo to be used as a wallpaper or something : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bloodmoon-dbd-logo-to-be-used-as-a-wallpaper-or-something-v0-3gx1z8v04kqc1.jpeg?auto=webp&s=10abfdf381e7fc5f5c0650281d12508158503310' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dead By Daylight Logo | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dead-by-daylight-logo-uupbkn41vod8k145.jpg' alt='Download Dead By Daylight Logo | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dead-by-daylight-logo-uupbkn41vod8k145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

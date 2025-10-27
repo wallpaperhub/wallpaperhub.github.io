@@ -1,0 +1,129 @@
+<title>Celebrate a Joyful Black Thanksgiving</title>
+                    <meta name="description" content="Join us in celebrating a joyful and reflective Thanksgiving! Embrace traditions, food, and stories that honor our Black heritage. Let's create a day filled with gratitude, togetherness, and joy.  Perfect for a meaningful holiday experience!">
+                    <meta name="keywords" content="happy thanksgiving black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-thanksgiving-black">
+                            <span itemprop="name">happy thanksgiving black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate a Joyful Black Thanksgiving</h1>
+                <p>Happy Thanksgiving! This day is a beautiful reminder of gratitude and togetherness. For the Black community, it can also be a moment to reflect on our rich history and the resilience that defines us. Let's celebrate with loved ones, enjoy delicious dishes, and share stories that connect us to our heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Family Thanksgiving Images – Browse 8,883 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/54/82/66/360_F_454826642_HZKiQdMxk2wa5w2IXEU3FWyYFq65KDmi.jpg' alt='Black Family Thanksgiving Images – Browse 8,883 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/54/82/66/360_F_454826642_HZKiQdMxk2wa5w2IXEU3FWyYFq65KDmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Woman 4 | Digital SVG - DXF - EPS - png - Jpg | Instant  Download | Happy Thanksgiving svg, fall svg,leaves svg,afro woman">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16911244/r/il/2acffb/3333631256/il_fullxfull.3333631256_fvsv.jpg' alt='Happy Thanksgiving Woman 4 | Digital SVG - DXF - EPS - png - Jpg | Instant  Download | Happy Thanksgiving svg, fall svg,leaves svg,afro woman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2002">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16911244/r/il/2acffb/3333631256/il_fullxfull.3333631256_fvsv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Blessings!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/93/95/fd/9395fd219f2983b824018e6e161afe8b.jpg' alt='Thanksgiving Blessings!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/93/95/fd/9395fd219f2983b824018e6e161afe8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have A Happy Thanksgiving - Floral Gift - Black Card Shop">
+                                <img itemprop="contentUrl url" src='https://blackstationery.com/cdn/shop/products/African-American-Have-A-Happy-Thanksgiving-Black-Card-Shop-Flowers_1024x.jpg?v=1668290046' alt='Have A Happy Thanksgiving - Floral Gift - Black Card Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Stationery" />
+                                </span>
+                                <a href='https://blackstationery.com/cdn/shop/products/African-American-Have-A-Happy-Thanksgiving-Black-Card-Shop-Flowers_1024x.jpg?v=1668290046' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Joy: Digital Image of Happy Black Family Gathering at Dinner  Table">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5668047/r/il/997a46/5413165678/il_570xN.5413165678_d0ve.jpg' alt='Thanksgiving Joy: Digital Image of Happy Black Family Gathering at Dinner  Table'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5668047/r/il/997a46/5413165678/il_570xN.5413165678_d0ve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sending Thanksgiving Blessings - African American Woman - Card">
+                                <img itemprop="contentUrl url" src='https://blackstationery.com/cdn/shop/files/Black-Card-Shop-Sending-Thanksgiving-Blessings_300x300.png?v=1699507687' alt='Sending Thanksgiving Blessings - African American Woman - Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Stationery" />
+                                </span>
+                                <a href='https://blackstationery.com/cdn/shop/files/Black-Card-Shop-Sending-Thanksgiving-Blessings_300x300.png?v=1699507687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,229 Black Family Thanksgiving Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2537248501/display_1500/stock-vector-embrace-thanksgiving-in-style-with-this-blessed-thankful-family-tee-perfect-for-sharing-2537248501.jpg' alt='4,229 Black Family Thanksgiving Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2537248501/display_1500/stock-vector-embrace-thanksgiving-in-style-with-this-blessed-thankful-family-tee-perfect-for-sharing-2537248501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,207,766 African american thanksgiving Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/3246725/4341/v/450/depositphotos_43419723-stock-illustration-family-celebrating-thanksgiving-day.jpg' alt='10,207,766 African american thanksgiving Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/3246725/4341/v/450/depositphotos_43419723-stock-illustration-family-celebrating-thanksgiving-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Black Background Free Stock Photo - Public ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/240000/nahled/happy-thanksgiving-black-background.jpg' alt='Happy Thanksgiving Black Background Free Stock Photo - Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/240000/nahled/happy-thanksgiving-black-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wishing You A Happy Thanksgiving - African American Woman - Card Shop">
+                                <img itemprop="contentUrl url" src='https://blackstationery.com/cdn/shop/files/Wishing-Thanksgiving-African-American-Woman-Gift-Shop_530x@2x.png?v=1699510169' alt='Wishing You A Happy Thanksgiving - African American Woman - Card Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Stationery" />
+                                </span>
+                                <a href='https://blackstationery.com/cdn/shop/files/Wishing-Thanksgiving-African-American-Woman-Gift-Shop_530x@2x.png?v=1699510169' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

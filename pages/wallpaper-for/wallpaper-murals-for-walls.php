@@ -1,0 +1,129 @@
+<title>Vibrant Wallpaper Murals to Elevate Your Walls</title>
+                    <meta name="description" content="Discover amazing wallpaper murals to enhance your home or office. Our vibrant, easy-to-apply murals offer unique designs that transform any space instantly. Find the perfect match for your decor and express your style today!">
+                    <meta name="keywords" content="wallpaper murals for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wallpaper-murals-for-walls">
+                            <span itemprop="name">wallpaper murals for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Wallpaper Murals to Elevate Your Walls</h1>
+                <p>Transform your space with stunning wallpaper murals! Perfect for living rooms, bedrooms, or offices, these vibrant designs create a captivating focal point. From nature-inspired scenes to abstract art, wallpaper murals add personality and charm to any wall. Easy to apply and remove, they’re an ideal choice for renters and decorators alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Hand Painted Blue Forest Deer Wall Murals, Custom Photo Landscapes Mural  Wallpaper, Wall Stickers Fill Wall Holes Easy to Install Apply to Adults ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71K-H-KTgtL._AC_UF894,1000_QL80_.jpg' alt='3D Hand Painted Blue Forest Deer Wall Murals, Custom Photo Landscapes Mural  Wallpaper, Wall Stickers Fill Wall Holes Easy to Install Apply to Adults ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71K-H-KTgtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Murals & Wallpaper Murals | Stunning Designs by Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/display/wallpaper.jpg?w=1248&h=624&q=50&dpr=2&auto=format&fit=crop&crop=entropy' alt='Wall Murals & Wallpaper Murals | Stunning Designs by Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2496">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/display/wallpaper.jpg?w=1248&h=624&q=50&dpr=2&auto=format&fit=crop&crop=entropy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Large elegant flower with deep flowing ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/109000/109603/w01538pib1mr_1200.webp' alt='Wall Mural Photo Wallpaper Large elegant flower with deep flowing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/109000/109603/w01538pib1mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning wall murals to elevate your spaces | Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interior-images/764028.jpg?q=75&w=958&h=521' alt='Stunning wall murals to elevate your spaces | Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interior-images/764028.jpg?q=75&w=958&h=521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wall Murals | Create Your Own Mural | CanvasChamp">
+                                <img itemprop="contentUrl url" src='https://cdn.canvaschamp.com/static/images/landingpage/custom-wall-murals/wall-murals-for-home.png' alt='Custom Wall Murals | Create Your Own Mural | CanvasChamp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Champ" />
+                                </span>
+                                <a href='https://cdn.canvaschamp.com/static/images/landingpage/custom-wall-murals/wall-murals-for-home.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large Nature  Scenery Wall Mural for Living Room (not self-Adhesive)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X6LQdEMNL._AC_UF894,1000_QL80_.jpg' alt='Sunshine Forest Mural Wallpaper Landscape Tree Wallpaper Large Nature  Scenery Wall Mural for Living Room (not self-Adhesive)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X6LQdEMNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extraordinary Wall Murals for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1677592124/articles/R13051_interior8.jpg' alt='Extraordinary Wall Murals for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1677592124/articles/R13051_interior8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wall Murals Wallpaper Modern Fashion Abstract Art Relief ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20679300/r/il/78f1a8/2024489125/il_570xN.2024489125_bdw3.jpg' alt='Custom Wall Murals Wallpaper Modern Fashion Abstract Art Relief ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20679300/r/il/78f1a8/2024489125/il_570xN.2024489125_bdw3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8abba94f1c8972b7a58b8fb5ec377569ab44bbb4-3000x1688.jpg?auto=format&w=3000&h=1688&rect=0,0,3000,1688' alt='Tree of Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8abba94f1c8972b7a58b8fb5ec377569ab44bbb4-3000x1688.jpg?auto=format&w=3000&h=1688&rect=0,0,3000,1688' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Larger Than Life Wall Mural Designs - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_997,h_2000/v1714556508/cronos-ha/blogs/10-larger-life/sea-of-trees.jpg' alt='10 Larger Than Life Wall Mural Designs - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_997,h_2000/v1714556508/cronos-ha/blogs/10-larger-life/sea-of-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

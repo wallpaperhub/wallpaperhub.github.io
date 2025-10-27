@@ -1,0 +1,129 @@
+<title>Discover the Wonders of Anthropology</title>
+                    <meta name="description" content="Explore anthropology, the comprehensive study of human cultures, societies, and evolution. Uncover diverse traditions and understand the complexities of human behavior and interaction. Join us in appreciating the richness of human diversity and the ties that bind us across the globe.">
+                    <meta name="keywords" content="anthropology">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anthropology">
+                            <span itemprop="name">anthropology</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Wonders of Anthropology</h1>
+                <p>Anthropology is the holistic study of humanity, exploring cultural, social, and biological dimensions across time and space. It examines human behavior, traditions, languages, and evolution, providing insights into how societies function and adapt. By analyzing diverse cultures, anthropology fosters a deeper understanding of human diversity and commonality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biological anthropology - Wikiversity">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/db/Primate_skull_series_with_legend_cropped.png' alt='Biological anthropology - Wikiversity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1748">
+                                <meta itemprop="height" content="1431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikiversity" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/db/Primate_skull_series_with_legend_cropped.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Anthropology? | Alelo">
+                                <img itemprop="contentUrl url" src='http://www.alelo.com/wp-content/uploads/2016/05/Huxley_-_Mans_Place_in_Nature-1024x613.jpg' alt='What is Anthropology? | Alelo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alelo" />
+                                </span>
+                                <a href='http://www.alelo.com/wp-content/uploads/2016/05/Huxley_-_Mans_Place_in_Nature-1024x613.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Beginner's Guide to the 4 Fields of Anthropology | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/0*3Wufg4NXQ8osiSNy.jpeg' alt='A Beginner's Guide to the 4 Fields of Anthropology | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthropology 4U - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/0*3Wufg4NXQ8osiSNy.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthropology - Meaning, Definition, Branches | Anthroholic">
+                                <img itemprop="contentUrl url" src='https://anthroholic.com/wp-content/uploads/2023/02/Anthropology-Anthroholic.webp' alt='Anthropology - Meaning, Definition, Branches | Anthroholic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthroholic" />
+                                </span>
+                                <a href='https://anthroholic.com/wp-content/uploads/2023/02/Anthropology-Anthroholic.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1.4 Beyond Cultural Anthropology – Shared Voices: An Introduction ...">
+                                <img itemprop="contentUrl url" src='https://rotel.pressbooks.pub/app/uploads/sites/40/2023/09/Image-1-30-24-at-11.15-AM.jpeg' alt='1.4 Beyond Cultural Anthropology – Shared Voices: An Introduction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1763">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remixing Open Textbooks through an Equity Lens (ROTEL)" />
+                                </span>
+                                <a href='https://rotel.pressbooks.pub/app/uploads/sites/40/2023/09/Image-1-30-24-at-11.15-AM.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Anthropology? | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/EtbfQbC8W5dBt7G8k3V6fK.jpg' alt='What is Anthropology? | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/EtbfQbC8W5dBt7G8k3V6fK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthropology – The Philosophy Room">
+                                <img itemprop="contentUrl url" src='https://www.thephilroom.com/wp-content/uploads/2024/05/Anthropology-01.png' alt='Anthropology – The Philosophy Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Philosophy Room" />
+                                </span>
+                                <a href='https://www.thephilroom.com/wp-content/uploads/2024/05/Anthropology-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guest Column: Why anthropology is such an underrated degree – Iowa ...">
+                                <img itemprop="contentUrl url" src='https://iowastatedaily.com/wp-content/uploads/2020/04/3b30e3ffdc776e42615a9d99f57b6b6f-900x478.jpg' alt='Guest Column: Why anthropology is such an underrated degree – Iowa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iowa State Daily" />
+                                </span>
+                                <a href='https://iowastatedaily.com/wp-content/uploads/2020/04/3b30e3ffdc776e42615a9d99f57b6b6f-900x478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Major in Anthropology | Anthropology">
+                                <img itemprop="contentUrl url" src='https://anthropology.uga.edu/sites/default/files/inline-images/2020%20Anthropology%20Major%20Keywords%20%281%29.jpg' alt='Why Major in Anthropology | Anthropology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthropology - UGA" />
+                                </span>
+                                <a href='https://anthropology.uga.edu/sites/default/files/inline-images/2020%20Anthropology%20Major%20Keywords%20%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Branches of Anthropology | Anthroholic">
+                                <img itemprop="contentUrl url" src='https://anthroholic.com/wp-content/uploads/2023/02/Branches-of-Anthropology-Anthroholic-e1675793034540.webp' alt='Branches of Anthropology | Anthroholic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1018">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthroholic" />
+                                </span>
+                                <a href='https://anthroholic.com/wp-content/uploads/2023/02/Branches-of-Anthropology-Anthroholic-e1675793034540.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

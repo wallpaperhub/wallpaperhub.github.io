@@ -1,0 +1,129 @@
+<title>Stylish Greek Key Peel and Stick Wallpaper for Effortless Decor</title>
+                    <meta name="description" content="Add elegance to your home with our Greek key peel and stick wallpaper. Easy to install and removable, it’s perfect for quick DIY updates. Perfect for renters, this timeless geometric design enhances any room's decor without the commitment of traditional wallpaper.">
+                    <meta name="keywords" content="greek key peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/greek-key-peel-and-stick-wallpaper">
+                            <span itemprop="name">greek key peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Greek Key Peel and Stick Wallpaper for Effortless Decor</h1>
+                <p>Transform your space effortlessly with Greek key peel and stick wallpaper. Featuring a classic geometric design, it adds an elegant touch to any room. Easy to apply and remove, this wallpaper is perfect for renters or DIY decorators. Enhance your home's aesthetic with a stylish pattern that exudes sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Beige Greek Key Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11290WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b13e4fdd-313c-451a-9a4e-49c79a34a698/svn/roommates-wallpaper-rolls-rmk11290wp-64_600.jpg' alt='RoomMates Beige Greek Key Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11290WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b13e4fdd-313c-451a-9a4e-49c79a34a698/svn/roommates-wallpaper-rolls-rmk11290wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek Key Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11291WP_RS2.jpg?v=1703791841&width=2400' alt='Greek Key Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11291WP_RS2.jpg?v=1703791841&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek Key Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11921WP.jpg?v=1703791841&width=800' alt='Greek Key Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11921WP.jpg?v=1703791841&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMINAH DECO Metallic Gold White Greek Key Wallpaper Peel and Stick 236.0' L  x 17.7" W Greek Geometric Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/615q4hWNTvL.jpg' alt='AMINAH DECO Metallic Gold White Greek Key Wallpaper Peel and Stick 236.0' L  x 17.7" W Greek Geometric Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/615q4hWNTvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek Key Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK11290WP_Install_PEEL.jpg?v=1627308504' alt='Greek Key Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK11290WP_Install_PEEL.jpg?v=1627308504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emboss greek 3d seamless Embossed relief white Greek key meanders Canvas  Wallpaper Print Self Adhesive Peel & Stick Wallpaper Wall Mural Wall Decal  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CxC7EDvmL.jpg' alt='Emboss greek 3d seamless Embossed relief white Greek key meanders Canvas  Wallpaper Print Self Adhesive Peel & Stick Wallpaper Wall Mural Wall Decal  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CxC7EDvmL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek Key Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11291WP_RS3.jpg?v=1703791841&width=800' alt='Greek Key Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11291WP_RS3.jpg?v=1703791841&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel&Stick Wallpaper Self-adhesive Greek Key Wallpaper 20.86 in x 236.0 in  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/fFcAAOSwGgRkCosY/s-l400.jpg' alt='Peel&Stick Wallpaper Self-adhesive Greek Key Wallpaper 20.86 in x 236.0 in  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/fFcAAOSwGgRkCosY/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Antique 3d check pattern greek key squares circles  vintage ornaments Wall Mural Modern Contact Paper Removable Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Fdyyvfw5L.jpg' alt='Peel and Stick Wallpaper Antique 3d check pattern greek key squares circles  vintage ornaments Wall Mural Modern Contact Paper Removable Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Fdyyvfw5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luna Retreat Greek Key Coastal Haven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lillianaugust.com/cdn/shop/files/LN41200-C_1080x1080.jpg?v=1691788683' alt='Luna Retreat Greek Key Coastal Haven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lillian August" />
+                                </span>
+                                <a href='https://lillianaugust.com/cdn/shop/files/LN41200-C_1080x1080.jpg?v=1691788683' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Plant Wallpapers for iPhone: Nature's Beauty at Your Fingertips</title>
+                    <meta name="description" content="Discover stunning aesthetic plant wallpapers for iPhone that rejuvenate your screen with nature's beauty. From lush greens to minimalist designs, find the perfect match for your style and bring tranquility to your device. Elevate your aesthetics today!">
+                    <meta name="keywords" content="aesthetic plant wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-plant-wallpaper-iphone">
+                            <span itemprop="name">aesthetic plant wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Plant Wallpapers for iPhone: Nature's Beauty at Your Fingertips</h1>
+                <p>Aesthetic plant wallpapers for iPhone are a perfect blend of style and nature. These vibrant designs can transform your phone into a verdant oasis, offering a refreshing look that promotes calm and tranquility. With various options from minimalistic greens to lush jungle vibes, you can easily find the ideal backdrop that resonates with your personal style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic plant wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' alt='Minimalistic plant wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c1/53/ffc15327f7916c43ccd46a03dedb338d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plants Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plants-iphone-ni4dfube0cp7097j.jpg' alt='100+] Plants Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plants-iphone-ni4dfube0cp7097j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/53/c7/5553c7b9c79ba57ac140bce9e1091241.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/53/c7/5553c7b9c79ba57ac140bce9e1091241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 BOTANICAL | iPhone Wallpapers ideas | iphone wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/4a/8b/6f4a8ba110e874e429ff60c7bcc16bcc.jpg' alt='100 BOTANICAL | iPhone Wallpapers ideas | iphone wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/4a/8b/6f4a8ba110e874e429ff60c7bcc16bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plant Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plant-iphone-zp4mdfpnp1aa0p75.jpg' alt='100+] Plant Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plant-iphone-zp4mdfpnp1aa0p75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' alt='Free Vectors, PNGs, Mockups & Backgrounds | rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA0ZGVzaWduLWxpZi1iLWEtcmVtaXgtMjEtMS1iLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable plant wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3ws9dcmE/1/0/900w/canva-light-gray-and-green-plant-phone-wallpaper-vzdV1SzHY50.jpg' alt='Free and customizable plant wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3ws9dcmE/1/0/900w/canva-light-gray-and-green-plant-phone-wallpaper-vzdV1SzHY50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic plant iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/dd/bd/63ddbddac7bcb38fb5305f2f62df24bc.jpg' alt='aesthetic plant iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/dd/bd/63ddbddac7bcb38fb5305f2f62df24bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaves Iphone In The Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/monstera-leaves-iphone-9qiwis3w3ozjtqk9.webp' alt='Leaves Iphone In The Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/monstera-leaves-iphone-9qiwis3w3ozjtqk9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Plant Simple Abstract iPhone. Simple phone, iphone boho ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/823/860/HD-wallpaper-sage-plant-simple-abstract-iphone-simple-phone-iphone-boho-simple-iphone-simple-plant-aesthetic.jpg' alt='Sage Plant Simple Abstract iPhone. Simple phone, iphone boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/823/860/HD-wallpaper-sage-plant-simple-abstract-iphone-simple-phone-iphone-boho-simple-iphone-simple-plant-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

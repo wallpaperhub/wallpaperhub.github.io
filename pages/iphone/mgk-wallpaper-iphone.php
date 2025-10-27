@@ -1,0 +1,129 @@
+<title>MGK iPhone Wallpapers: Stylish Backgrounds for Fans</title>
+                    <meta name="description" content="Discover an exclusive collection of MGK wallpapers for your iPhone! Perfect for fans, these unique backgrounds will elevate your device's appearance with vibrant and stylish designs. Personalize your phone and show off your admiration for Machine Gun Kelly in just a click!">
+                    <meta name="keywords" content="mgk wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mgk-wallpaper-iphone">
+                            <span itemprop="name">mgk wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>MGK iPhone Wallpapers: Stylish Backgrounds for Fans</h1>
+                <p>Transform your iPhone's aesthetic with stunning MGK wallpapers! Featuring vibrant designs inspired by Machine Gun Kelly's unique style, these wallpapers are perfect for fans looking to showcase their love for the artist. Choose from a variety of eye-catching images that will personalize your device and set it apart.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this iPhone MGK wallpaper a while back! Let me know what ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bwsvaullosh71.jpg' alt='I made this iPhone MGK wallpaper a while back! Let me know what ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bwsvaullosh71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mgk wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/1a/cf/ac1acf1a458835a57cf99d0b607f9655.jpg' alt='Mgk wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/1a/cf/ac1acf1a458835a57cf99d0b607f9655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/c7/af/b0c7af6be327de3d7f24ca2ae51eaf46.jpg' alt='Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/c7/af/b0c7af6be327de3d7f24ca2ae51eaf46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MGK on a car, 2020, blackbear, machine gun kelly, my exs best ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/335/508/HD-wallpaper-mgk-on-a-car-2020-blackbear-machine-gun-kelly-my-exs-best-friend-pink-rap-tickets-to-my-downfall-ttmd.jpg' alt='MGK on a car, 2020, blackbear, machine gun kelly, my exs best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/335/508/HD-wallpaper-mgk-on-a-car-2020-blackbear-machine-gun-kelly-my-exs-best-friend-pink-rap-tickets-to-my-downfall-ttmd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Machine Gun Kelly iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13755606.jpg' alt='Machine Gun Kelly iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13755606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Machine Gun Kelly Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/b/3/57636-1080x2340-iphone-hd-machine-gun-kelly-wallpaper.jpg' alt='Machine Gun Kelly Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/b/3/57636-1080x2340-iphone-hd-machine-gun-kelly-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mgk ttmd, 25th september, colson baker, machine gun kelly, pop ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/550/338/HD-wallpaper-mgk-ttmd-25th-september-colson-baker-machine-gun-kelly-pop-punk-rap-tickets-to-my-downfall-travis-barker.jpg' alt='Mgk ttmd, 25th september, colson baker, machine gun kelly, pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/550/338/HD-wallpaper-mgk-ttmd-25th-september-colson-baker-machine-gun-kelly-pop-punk-rap-tickets-to-my-downfall-travis-barker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Machine Gun Kelly Grayscale Photography Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/machine-gun-kelly-grayscale-photography-ck5s3x88zcl5z0cf.jpg' alt='Download Machine Gun Kelly Grayscale Photography Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/machine-gun-kelly-grayscale-photography-ck5s3x88zcl5z0cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome MGK Phone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/70/b3/d2/70b3d2205e18aaac6900f7d676ac3529.jpg' alt='Awesome MGK Phone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/70/b3/d2/70b3d2205e18aaac6900f7d676ac3529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mgk wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/778/54/HD-wallpaper-mgk-tickets-to-my-downfall-machine-gun-kelly-thumbnail.jpg' alt='HD mgk wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/778/54/HD-wallpaper-mgk-tickets-to-my-downfall-machine-gun-kelly-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

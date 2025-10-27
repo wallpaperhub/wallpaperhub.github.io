@@ -1,0 +1,129 @@
+<title>Mauve iPhone Wallpaper: Elegant and Stylish Options</title>
+                    <meta name="description" content="Explore a stunning collection of mauve iPhone wallpapers that blend elegance and style. Perfect for personalizing your device, our wallpapers offer a tranquil aesthetic that matches any vibe. Discover beautiful designs that elevate your screen's appearance effortlessly!">
+                    <meta name="keywords" content="mauve iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mauve-iphone-wallpaper">
+                            <span itemprop="name">mauve iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mauve iPhone Wallpaper: Elegant and Stylish Options</h1>
+                <p>Discover the elegance of mauve iPhone wallpaper! Ideal for those who appreciate soft, muted hues, our collection features various designs ranging from floral patterns to minimalist abstract art. Transform your device with a touch of sophistication and tranquility. Perfect for any mood, explore the best mauve wallpapers now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cute Spring Wallpaper for Phone & iPhone : Mauve Pink Tone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/d4/f6/50d4f6bee992842702abf21f17882f9c.jpg' alt='20 Cute Spring Wallpaper for Phone & iPhone : Mauve Pink Tone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/d4/f6/50d4f6bee992842702abf21f17882f9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral - purple/white/mauve">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/8b/a6/ea8ba6bd6afe157597b04abf4986dcbf.jpg' alt='Floral - purple/white/mauve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/8b/a6/ea8ba6bd6afe157597b04abf4986dcbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauve ombré // iPhone wallpaper // minimalistic aesthetic // smartphone  background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13444108/r/il/4a8696/2769580870/il_570xN.2769580870_tdip.jpg' alt='Mauve ombré // iPhone wallpaper // minimalistic aesthetic // smartphone  background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13444108/r/il/4a8696/2769580870/il_570xN.2769580870_tdip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sj66-soft-purple-pink-gradation-blur-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sj66-soft-purple-pink-gradation-blur-33-iphone6-wallpaper.jpg' alt='sj66-soft-purple-pink-gradation-blur-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sj66-soft-purple-pink-gradation-blur-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone wallpaper pink marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d7/2b/b3/d72bb35000c306fdd84c230946fa474e.jpg' alt='Iphone wallpaper pink marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d7/2b/b3/d72bb35000c306fdd84c230946fa474e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-purple-iphone-h21qbei24izb04mh.jpg' alt='Purple wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-purple-iphone-h21qbei24izb04mh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtMDEwLmpwZw.jpg' alt='Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtMDEwLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="si65-red-purple-violet-rose-quartz-gradation-blur-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-si65-red-purple-violet-rose-quartz-gradation-blur-41-iphone-wallpaper.jpg' alt='si65-red-purple-violet-rose-quartz-gradation-blur-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-si65-red-purple-violet-rose-quartz-gradation-blur-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-iphone-s49c91hwp62nsskm.jpg' alt='200+] Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-iphone-s49c91hwp62nsskm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Light Purple Iphone Gleaming In Style Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/gradient-pink-and-light-purple-iphone-o70imo0gk2jvbl0v.webp' alt='Elegant Light Purple Iphone Gleaming In Style Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/gradient-pink-and-light-purple-iphone-o70imo0gk2jvbl0v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

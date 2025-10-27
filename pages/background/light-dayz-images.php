@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="light dayz images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-dayz-images">
+                            <span itemprop="name">light dayz images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Construction Light - DayZ Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dayz_gamepedia/images/3/32/Spotlight.png/revision/latest?cb=20180614042737' alt='Construction Light - DayZ Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="328">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DayZ Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dayz_gamepedia/images/3/32/Spotlight.png/revision/latest?cb=20180614042737' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reclamation light - DayZ Screenshot/Wallpaper : r/dayz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/13o8hdnt54431.jpg' alt='Reclamation light - DayZ Screenshot/Wallpaper : r/dayz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/13o8hdnt54431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found a working street light in Dayz! : r/dayz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/oeQbLLxjaMJll--5KLRp06otUJQsq5X3QIDR1mE5p2g.jpg?auto=webp&s=7cd42c2bda4f4327d992b7b082b7e6a1a28662cb' alt='I found a working street light in Dayz! : r/dayz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/oeQbLLxjaMJll--5KLRp06otUJQsq5X3QIDR1mE5p2g.jpg?auto=webp&s=7cd42c2bda4f4327d992b7b082b7e6a1a28662cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Construction Light - DayZ Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dayz_gamepedia/images/3/32/Spotlight.png/revision/latest/thumbnail/width/360/height/360?cb=20180614042737' alt='Construction Light - DayZ Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="160">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DayZ Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dayz_gamepedia/images/3/32/Spotlight.png/revision/latest/thumbnail/width/360/height/360?cb=20180614042737' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorry for the quality of the image... I wanted to ask what is that ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sorry-for-the-quality-of-the-image-i-wanted-to-ask-what-is-v0-dicnzijdzk9a1.jpg?width=640&crop=smart&auto=webp&s=58f21c220ec940ab37cf7cac152a4ad715d8df78' alt='Sorry for the quality of the image... I wanted to ask what is that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sorry-for-the-quality-of-the-image-i-wanted-to-ask-what-is-v0-dicnzijdzk9a1.jpg?width=640&crop=smart&auto=webp&s=58f21c220ec940ab37cf7cac152a4ad715d8df78' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dayZ Street Lights | Open DayZ Community">
+                                <img itemprop="contentUrl url" src='https://opendayz.net/proxy.php?image=http%3A%2F%2Fwww.thefreezer.co.uk%2Fuserimages%2Fdayz_street_lights_axeman.jpg&hash=c119ada3c7c5a8f48c8af9ef246f724c' alt='dayZ Street Lights | Open DayZ Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Open DayZ" />
+                                </span>
+                                <a href='https://opendayz.net/proxy.php?image=http%3A%2F%2Fwww.thefreezer.co.uk%2Fuserimages%2Fdayz_street_lights_axeman.jpg&hash=c119ada3c7c5a8f48c8af9ef246f724c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dayz Lamp LED to Decoration | Light Box Streamer Bar status | Light Setup |  eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/y7sAAOSwtBhmi-AU/s-l400.jpg' alt='Dayz Lamp LED to Decoration | Light Box Streamer Bar status | Light Setup |  eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/y7sAAOSwtBhmi-AU/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights and Darkness, How to Survive the Night [DayZ 1.0]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QEwwqHv4T3A/maxresdefault.jpg' alt='Lights and Darkness, How to Survive the Night [DayZ 1.0]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QEwwqHv4T3A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dayz With Street Lights - DayZ Standalone - DayZRP">
+                                <img itemprop="contentUrl url" src='https://www.dayzrp.com/uploads/monthly_2019_07/large.DayzWithStreetLights.jpg.c1469876d90b367f3507a411a91b098d.jpg' alt='Dayz With Street Lights - DayZ Standalone - DayZRP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DayZRP" />
+                                </span>
+                                <a href='https://www.dayzrp.com/uploads/monthly_2019_07/large.DayzWithStreetLights.jpg.c1469876d90b367f3507a411a91b098d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DayZ' Standalone Update Will Allow You To Light Things On Fire ...">
+                                <img itemprop="contentUrl url" src='https://d.ibtimes.com/en/full/1568282/dayz.jpg?w=736&f=54b5222eea12e5a65b6a51ee42ad35b8' alt='DayZ' Standalone Update Will Allow You To Light Things On Fire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Business Times" />
+                                </span>
+                                <a href='https://d.ibtimes.com/en/full/1568282/dayz.jpg?w=736&f=54b5222eea12e5a65b6a51ee42ad35b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

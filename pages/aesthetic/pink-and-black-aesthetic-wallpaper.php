@@ -1,0 +1,129 @@
+<title>Pink & Black Aesthetic Wallpaper: Stylish Designs for Your Space</title>
+                    <meta name="description" content="Explore our collection of pink and black aesthetic wallpaper, perfect for enhancing any room. These stylish designs harmonize boldness and elegance, offering a chic backdrop for your home or workspace. Transform your walls today with our unique aesthetic choices!">
+                    <meta name="keywords" content="pink and black aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pink-and-black-aesthetic-wallpaper">
+                            <span itemprop="name">pink and black aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink & Black Aesthetic Wallpaper: Stylish Designs for Your Space</h1>
+                <p>Discover the perfect blend of elegance and boldness with pink and black aesthetic wallpaper. Ideal for personalizing your space, this wallpaper creates a stunning backdrop that balances softness with modern flair. Whether it's for your bedroom, office, or creative studio, these designs will surely inspire a vibrant and stylish environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink and black aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/3f/f1/e23ff13effa302b31538ceadc766535a.jpg' alt='pink and black aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/3f/f1/e23ff13effa302b31538ceadc766535a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Black and Pink Aesthetic ideas | pink aesthetic, pink, aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/09/af/0e/09af0edecead8c99c843d9285342fde7.jpg' alt='66 Black and Pink Aesthetic ideas | pink aesthetic, pink, aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/09/af/0e/09af0edecead8c99c843d9285342fde7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & black aesthetic | Pink wallpaper backgrounds, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/49/80/1d4980e1e746c4d9fbd5b3ce7a225604.jpg' alt='Pink & black aesthetic | Pink wallpaper backgrounds, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/49/80/1d4980e1e746c4d9fbd5b3ce7a225604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' alt='Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black With Pink Aesthetic Girly Board Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-with-pink-aesthetic-girly-board-hmufh1zgu7fukzdv.jpg' alt='Black With Pink Aesthetic Girly Board Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-with-pink-aesthetic-girly-board-hmufh1zgu7fukzdv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/9.-Light-Pink-and-Black-Aesthetic-Moon-Wallpaper-SaturdayGift--473x1024.jpg' alt='Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/9.-Light-Pink-and-Black-Aesthetic-Moon-Wallpaper-SaturdayGift--473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Pink Aesthetic Collage - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/trendy-pink-aesthetic-collage.webp' alt='Trendy Pink Aesthetic Collage - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/trendy-pink-aesthetic-collage.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Pink aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/98/98/23/9898233b1e85a8bec65854a0404d585d.jpg' alt='Black and Pink aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1091">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/98/98/23/9898233b1e85a8bec65854a0404d585d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Black Heart, Wallpapers Digital Download, Phone Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38765266/r/il/3401b5/4645398170/il_570xN.4645398170_5yld.jpg' alt='Pink Black Heart, Wallpapers Digital Download, Phone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38765266/r/il/3401b5/4645398170/il_570xN.4645398170_5yld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

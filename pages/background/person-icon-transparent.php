@@ -1,0 +1,129 @@
+<title>Stylish & Versatile Transparent Person Icons</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="person icon transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/person-icon-transparent">
+                            <span itemprop="name">person icon transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish & Versatile Transparent Person Icons</h1>
+                <p>Person icon transparent images are perfect for enhancing design projects, ensuring versatility without background distractions. Ideal for websites, apps, and presentations, these icons add a modern touch while maintaining clarity and professionalism. With various styles available, they can represent diverse users seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Icon, Transparent Person.PNG Images & Vector - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/person-icon/clipart--person-icon--cliparts-15.png' alt='Person Icon, Transparent Person.PNG Images & Vector - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/person-icon/clipart--person-icon--cliparts-15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Icon Transparent Images – Browse 198,553 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/67/48/21/360_F_767482124_P2kBhb0LBNJzdxzx6SQ2B4b1tfR70QpQ.jpg' alt='Person Icon Transparent Images – Browse 198,553 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/67/48/21/360_F_767482124_P2kBhb0LBNJzdxzx6SQ2B4b1tfR70QpQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Person SVG, PNG Icon, Symbol. Download Image.">
+                                <img itemprop="contentUrl url" src='https://www.iconpacks.net/icons/1/free-user-icon-295-thumb.png' alt='Free Person SVG, PNG Icon, Symbol. Download Image.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Packs" />
+                                </span>
+                                <a href='https://www.iconpacks.net/icons/1/free-user-icon-295-thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Icon - Person Icon Representation - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190612/kjo/kisspng-computer-icons-transparency-login-vector-graphics-account-summary-svg-png-icon-free-download-31985-1713887697288.webp' alt='Person Icon - Person Icon Representation - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190612/kjo/kisspng-computer-icons-transparency-login-vector-graphics-account-summary-svg-png-icon-free-download-31985-1713887697288.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Person SVG, PNG Icon, Symbol. Download Image.">
+                                <img itemprop="contentUrl url" src='https://www.iconpacks.net/icons/1/free-user-icon-972-thumb.png' alt='Free Person SVG, PNG Icon, Symbol. Download Image.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Packs" />
+                                </span>
+                                <a href='https://www.iconpacks.net/icons/1/free-user-icon-972-thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Icon png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/92/319/png-clipart-computer-icons-person-name-miscellaneous-computer-wallpaper-thumbnail.png' alt='Person Icon png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/92/319/png-clipart-computer-icons-person-name-miscellaneous-computer-wallpaper-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Icon Person Icon Clipart Image From Our Icon Clipart ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category--9.png' alt='Person Icon Person Icon Clipart Image From Our Icon Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category--9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Icon On Transparent Background. Person Symbol Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/grebeshkovmaxim/grebeshkovmaxim1805/grebeshkovmaxim180500122/100973652-people-icon-on-transparent-background-person-symbol.jpg' alt='People Icon On Transparent Background. Person Symbol Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/grebeshkovmaxim/grebeshkovmaxim1805/grebeshkovmaxim180500122/100973652-people-icon-on-transparent-background-person-symbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person - Free vector icons on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/icons/3251108/person-icon-md.png' alt='Person - Free vector icons on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/icons/3251108/person-icon-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person" Icon - Download for free – Iconduck">
+                                <img itemprop="contentUrl url" src='https://static-00.iconduck.com/assets.00/person-icon-256x242-au2z2ine.png' alt='Person" Icon - Download for free – Iconduck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconduck" />
+                                </span>
+                                <a href='https://static-00.iconduck.com/assets.00/person-icon-256x242-au2z2ine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

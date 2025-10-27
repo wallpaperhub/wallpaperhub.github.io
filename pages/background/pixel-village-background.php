@@ -1,0 +1,129 @@
+<title>Charming Pixel Village Background for Creative Projects</title>
+                    <meta name="description" content="Discover the enchanting pixel village background, perfect for games and animations. This vibrant pixel art scenery features cute houses and lush landscapes, ideal for enhancing your creative projects. Bring a touch of nostalgia to your work with this charming backdrop that invites imagination!">
+                    <meta name="keywords" content="pixel village background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-village-background">
+                            <span itemprop="name">pixel village background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pixel Village Background for Creative Projects</h1>
+                <p>Experience the charm of a pixel village background! This whimsical scenery features quaint houses, vibrant gardens, and serene landscapes, all styled in delightful pixel art. Perfect for games and digital projects, the pixel village backdrop brings a sense of nostalgia and creativity to your work, inviting exploration and storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village landscape Pixel Art Background | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/village_landscape_free_pixel_art_background.png' alt='Village landscape Pixel Art Background | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/village_landscape_free_pixel_art_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Pixel Village 1 | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/21520d19-2490-4cc0-a89c-a768de07ed62_scaled.jpg' alt='BACKGROUND - Pixel Village 1 | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/21520d19-2490-4cc0-a89c-a768de07ed62_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Pixel Village 1 | Fab">
+                                <img itemprop="contentUrl url" src='https://media.fab.com/image_previews/gallery_images/c9863ab7-58fd-457b-a19f-dde03d5b21a1/7d98c580-00bb-4f25-b0de-f5bb411fcfe7.jpg' alt='BACKGROUND - Pixel Village 1 | Fab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab" />
+                                </span>
+                                <a href='https://media.fab.com/image_previews/gallery_images/c9863ab7-58fd-457b-a19f-dde03d5b21a1/7d98c580-00bb-4f25-b0de-f5bb411fcfe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Cute Village Sunset Pixel Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-cute-village-sunset-260nw-1620602971.jpg' alt='Pixel Art Cute Village Sunset Pixel Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="831">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-cute-village-sunset-260nw-1620602971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Pixel Village 2 | Fab">
+                                <img itemprop="contentUrl url" src='https://media.fab.com/image_previews/gallery_images/ac2d82a4-4997-44b0-8098-f16be6a8d66f/7496cb1e-178d-4744-a401-1e388f9cd666.jpg' alt='BACKGROUND - Pixel Village 2 | Fab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab" />
+                                </span>
+                                <a href='https://media.fab.com/image_previews/gallery_images/ac2d82a4-4997-44b0-8098-f16be6a8d66f/7496cb1e-178d-4744-a401-1e388f9cd666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Pixel Town 2 | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/e58ad668-c821-4911-9726-a765db41d2af_scaled.jpg' alt='BACKGROUND - Pixel Town 2 | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/e58ad668-c821-4911-9726-a765db41d2af_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village Pixel Art Environment by BlackSpire Studio">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvNjQxMDQ0LzM0MzE2NDYucG5n/original/Wabllj.png' alt='Village Pixel Art Environment by BlackSpire Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1950">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackSpire Studio - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvNjQxMDQ0LzM0MzE2NDYucG5n/original/Wabllj.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peaceful Village - Top Down Pixel Art Background by camilaxiao on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03c61bf1-2b1c-4a2f-bb3e-f16dea168d7a/de7jfvd-c69b4fa1-9d34-4996-94f7-81024a7afdce.png/v1/fill/w_960,h_720,q_80,strp/peaceful_village___top_down_pixel_art_background_by_camilaxiao_de7jfvd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDNjNjFiZjEtMmIxYy00YTJmLWJiM2UtZjE2ZGVhMTY4ZDdhXC9kZTdqZnZkLWM2OWI0ZmExLTlkMzQtNDk5Ni05NGY3LTgxMDI0YTdhZmRjZS5wbmciLCJ3aWR0aCI6Ijw9OTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qwAnZGp7xMzR-CtULFYCj78RRJ0vWBZX3c5BQKlclOs' alt='Peaceful Village - Top Down Pixel Art Background by camilaxiao on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03c61bf1-2b1c-4a2f-bb3e-f16dea168d7a/de7jfvd-c69b4fa1-9d34-4996-94f7-81024a7afdce.png/v1/fill/w_960,h_720,q_80,strp/peaceful_village___top_down_pixel_art_background_by_camilaxiao_de7jfvd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDNjNjFiZjEtMmIxYy00YTJmLWJiM2UtZjE2ZGVhMTY4ZDdhXC9kZTdqZnZkLWM2OWI0ZmExLTlkMzQtNDk5Ni05NGY3LTgxMDI0YTdhZmRjZS5wbmciLCJ3aWR0aCI6Ijw9OTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qwAnZGp7xMzR-CtULFYCj78RRJ0vWBZX3c5BQKlclOs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Village Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-village_23-2151120900.jpg' alt='Pixel Village Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-village_23-2151120900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shilov (@IndieShilov) on X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/45/44/be/4544be0a9641d2648482b3d310804642.png' alt='Shilov (@IndieShilov) on X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1555">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/45/44/be/4544be0a9641d2648482b3d310804642.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

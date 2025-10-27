@@ -1,0 +1,129 @@
+<title>Charming Light Pink Flowers: A Guide</title>
+                    <meta name="description" content="Discover the enchanting world of light pink flowers! Ideal for gardens and events, these blooms symbolize love and beauty. From cherry blossoms to peonies, learn how to incorporate them into your floral arrangements for a soft, serene look that captivates. Perfect for weddings or any special occasion!">
+                    <meta name="keywords" content="light pink flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-pink-flowers">
+                            <span itemprop="name">light pink flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Light Pink Flowers: A Guide</h1>
+                <p>Light pink flowers bring a gentle and soothing touch to gardens and arrangements. From delicate cherry blossoms to vibrant peonies, these blooms symbolize love and admiration. Their soft hues create a serene ambiance, making them perfect for weddings and special occasions. Explore the beauty of light pink flowers to enhance your floral decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Fresh Spray Stock Flower">
+                                <img itemprop="contentUrl url" src='https://fiftyflowers.com/cdn/shop/files/light-pink-fresh-spray-stock-flower-wholesale-flowers-close-up_3756d.webp?v=1733847462&width=800' alt='Light Pink Fresh Spray Stock Flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FiftyFlowers" />
+                                </span>
+                                <a href='https://fiftyflowers.com/cdn/shop/files/light-pink-fresh-spray-stock-flower-wholesale-flowers-close-up_3756d.webp?v=1733847462&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Esther Light Pink Roses | Bulk Roses | FiftyFlowers">
+                                <img itemprop="contentUrl url" src='http://fiftyflowers.com/cdn/shop/files/esther-light-pink-roses-wholesale-flowers-close-up_bb985.webp?v=1705601068' alt='Esther Light Pink Roses | Bulk Roses | FiftyFlowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FiftyFlowers" />
+                                </span>
+                                <a href='http://fiftyflowers.com/cdn/shop/files/esther-light-pink-roses-wholesale-flowers-close-up_bb985.webp?v=1705601068' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spray Rose - Light Pink">
+                                <img itemprop="contentUrl url" src='https://www.cascadefloralwholesale.com/wp-content/uploads/2018/03/SPRALPI.jpg' alt='Spray Rose - Light Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="2356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cascade Floral Wholesale" />
+                                </span>
+                                <a href='https://www.cascadefloralwholesale.com/wp-content/uploads/2018/03/SPRALPI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Artificial Roses, 3cm Light Pink Foam Roses, Pale Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12704887/r/il/08d8b1/3956628968/il_fullxfull.3956628968_hkmx.jpg' alt='Light Pink Artificial Roses, 3cm Light Pink Foam Roses, Pale Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12704887/r/il/08d8b1/3956628968/il_fullxfull.3956628968_hkmx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Roses (25 Stems)">
+                                <img itemprop="contentUrl url" src='http://gdflowerscm.com/cdn/shop/products/image_7122bf7d-aede-4dce-8cc2-433aeb3ae480.webp?v=1669009494' alt='Light Pink Roses (25 Stems)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Growers Direct Flowers" />
+                                </span>
+                                <a href='http://gdflowerscm.com/cdn/shop/products/image_7122bf7d-aede-4dce-8cc2-433aeb3ae480.webp?v=1669009494' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Roses - Choose from 25 to 200 Stems">
+                                <img itemprop="contentUrl url" src='https://bloomingmore.com/cdn/shop/products/BLROS60LPI50_F.jpg?v=1739504025' alt='Light Pink Roses - Choose from 25 to 200 Stems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomingmore" />
+                                </span>
+                                <a href='https://bloomingmore.com/cdn/shop/products/BLROS60LPI50_F.jpg?v=1739504025' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valar Flowers Roll Up Fabric Artificial Brandy Pink Rose Flower ...">
+                                <img itemprop="contentUrl url" src='https://www.valarflowers.com/cdn/shop/files/DSC04308.jpg?v=1732864888&width=3840' alt='Valar Flowers Roll Up Fabric Artificial Brandy Pink Rose Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ValarFlowers" />
+                                </span>
+                                <a href='https://www.valarflowers.com/cdn/shop/files/DSC04308.jpg?v=1732864888&width=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Blommingmore | Fresh Cut Flowers | Natural Light Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61cW+hz1AdL.jpg' alt='Amazon.com : Blommingmore | Fresh Cut Flowers | Natural Light Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61cW+hz1AdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gypsophila Flower II | Ingrid Beddoes Photography">
+                                <img itemprop="contentUrl url" src='https://ingridbeddoes.com/wp-content/uploads/2018/10/Gypsophila-Pink-Blush-II.jpg' alt='Pink Gypsophila Flower II | Ingrid Beddoes Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ingrid Beddoes Photography" />
+                                </span>
+                                <a href='https://ingridbeddoes.com/wp-content/uploads/2018/10/Gypsophila-Pink-Blush-II.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Types of Pink Flowers | Petal Talk">
+                                <img itemprop="contentUrl url" src='https://www.1800flowers.com/blog/wp-content/uploads/2023/06/pink-flowers-cherry-blossoms-1024x576.jpg?q=70&width=3840&auto=webp' alt='25 Types of Pink Flowers | Petal Talk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1800 Flowers" />
+                                </span>
+                                <a href='https://www.1800flowers.com/blog/wp-content/uploads/2023/06/pink-flowers-cherry-blossoms-1024x576.jpg?q=70&width=3840&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

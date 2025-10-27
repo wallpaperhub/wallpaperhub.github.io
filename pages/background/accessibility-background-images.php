@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="accessibility background images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accessibility-background-images">
+                            <span itemprop="name">accessibility background images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accessibility icon with wheelchair and technology abstract ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/83/53/11/1000_F_483531115_3KItTd8gUEFRpu55Ku9PMa5vNqzKPvgP.jpg' alt='Accessibility icon with wheelchair and technology abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/83/53/11/1000_F_483531115_3KItTd8gUEFRpu55Ku9PMa5vNqzKPvgP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Technology Abstract Background With Symbol Of Accessibility And ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/carloscastilla/carloscastilla1106/carloscastilla110600063/9867059-technology-abstract-background-with-symbol-of-accessibility-and-arrows.jpg' alt='Technology Abstract Background With Symbol Of Accessibility And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/carloscastilla/carloscastilla1106/carloscastilla110600063/9867059-technology-abstract-background-with-symbol-of-accessibility-and-arrows.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global Accessibility of Technology as an Abstract Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/H6G9HA/global-accessibility-of-technology-as-an-abstract-background-H6G9HA.jpg' alt='Global Accessibility of Technology as an Abstract Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/H6G9HA/global-accessibility-of-technology-as-an-abstract-background-H6G9HA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accessibility icon with wheelchair and technology abstract ...">
+                                <img itemprop="contentUrl url" src='https://www.system-concepts.com/wp-content/uploads/2021/07/Digital-Accessibility-.jpg' alt='Accessibility icon with wheelchair and technology abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1304">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="System Concepts" />
+                                </span>
+                                <a href='https://www.system-concepts.com/wp-content/uploads/2021/07/Digital-Accessibility-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Writing Accessibility With Marker, Concept Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/dizanna/dizanna1912/dizanna191200122/134858126-hand-writing-accessibility-with-marker-concept-background.jpg' alt='Hand Writing Accessibility With Marker, Concept Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/dizanna/dizanna1912/dizanna191200122/134858126-hand-writing-accessibility-with-marker-concept-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,275 Abstract Wheelchair Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/accessibility-icon-wheelchair-technology-abstract-600nw-2159204803.jpg' alt='9,275 Abstract Wheelchair Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/accessibility-icon-wheelchair-technology-abstract-600nw-2159204803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accessible Colors: A Complete Guide for Web Design">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/audioeye-web/8949f54d-a922-4008-9f97-b32d06c71070_Accessible-Colors_Cover.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max' alt='Accessible Colors: A Complete Guide for Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AudioEye" />
+                                </span>
+                                <a href='https://images.prismic.io/audioeye-web/8949f54d-a922-4008-9f97-b32d06c71070_Accessible-Colors_Cover.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do for Accessibility? Take the New Online Training ...">
+                                <img itemprop="contentUrl url" src='https://cio.ucop.edu/wp-content/uploads/2019/02/accessibility-1000x361.png' alt='What Can You Do for Accessibility? Take the New Online Training ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UC Tech News - University of California | Office of The President" />
+                                </span>
+                                <a href='https://cio.ucop.edu/wp-content/uploads/2019/02/accessibility-1000x361.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Web Accessibility is a Right, Not a Privilege | Unidev Blog">
+                                <img itemprop="contentUrl url" src='https://blog.unidev.com/wp-content/uploads/2021/06/PostImage-WebDesignDev02.jpg' alt='Web Accessibility is a Right, Not a Privilege | Unidev Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Technology Insights | Unidev Blog - Unidev" />
+                                </span>
+                                <a href='https://blog.unidev.com/wp-content/uploads/2021/06/PostImage-WebDesignDev02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accessibility, IT, Information Technology Conceptual Word Cloud ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/bentchang/bentchang1803/bentchang180301791/97308378-accessibility-it-information-technology-conceptual-word-cloud-for-for-design-wallpaper-texture-or.jpg' alt='Accessibility, IT, Information Technology Conceptual Word Cloud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/bentchang/bentchang1803/bentchang180301791/97308378-accessibility-it-information-technology-conceptual-word-cloud-for-for-design-wallpaper-texture-or.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

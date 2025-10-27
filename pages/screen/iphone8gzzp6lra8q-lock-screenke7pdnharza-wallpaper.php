@@ -1,0 +1,129 @@
+<title>Stunning iPhone Lock Screen Wallpapers to Personalize Your Device</title>
+                    <meta name="description" content="Discover a collection of beautiful wallpapers for your iPhone lock screen. Transform your device's look with unique designs that represent your style. Ideal for frequent changes, these wallpapers are sure to keep your iPhone looking fresh and vibrant. Perfect for any iPhone user looking to personalize their experience!">
+                    <meta name="keywords" content="iphone:8gzzp6lra8q= lock screen:ke7pdnharza= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/iphone8gzzp6lra8q-lock-screenke7pdnharza-wallpaper">
+                            <span itemprop="name">iphone:8gzzp6lra8q= lock screen:ke7pdnharza= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Lock Screen Wallpapers to Personalize Your Device</h1>
+                <p>Customize your iPhone's lock screen with stunning wallpapers that reflect your personality! Explore a variety of immersive designs that elevate your device's aesthetic. From serene landscapes to vibrant patterns, find the perfect wallpaper to make your iPhone truly yours. Change it up whenever you wish and refresh your vibe daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/17/c2/3917c2bbb157de98ad21ec493d0fb4f6.jpg' alt='31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/17/c2/3917c2bbb157de98ad21ec493d0fb4f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Best iPhone iOS Lock Screen Wallpapers Illustration Art ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e7/74/74/e774746460bf4d4c6be8cf8b9bf09f78.jpg' alt='150 Best iPhone iOS Lock Screen Wallpapers Illustration Art ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e7/74/74/e774746460bf4d4c6be8cf8b9bf09f78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/c7/6b/4ac76b85a79c8112b097cb2be4285de0.jpg' alt='31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/c7/6b/4ac76b85a79c8112b097cb2be4285de0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/36/3e/02363e591d556074edfe2e4e9afffeaa.jpg' alt='390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/36/3e/02363e591d556074edfe2e4e9afffeaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/genuine-cool-galaxy-phone-vf0hvqvzt8m5x2jx.jpg' alt='100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/genuine-cool-galaxy-phone-vf0hvqvzt8m5x2jx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ca/be/30/cabe30dbb868a480b0a41f36ec0b4651.jpg' alt='Iphone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ca/be/30/cabe30dbb868a480b0a41f36ec0b4651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Lockscreen Wallpapers - Top 100 Lock Screen iPhone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/48/4d/83484d0db2c5466889b1d46daf08fe98.jpg' alt='iPhone Lockscreen Wallpapers - Top 100 Lock Screen iPhone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/48/4d/83484d0db2c5466889b1d46daf08fe98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9d/3a/76/9d3a76bb110508fe6ac87867072b8ddc.jpg' alt='390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9d/3a/76/9d3a76bb110508fe6ac87867072b8ddc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/09/e9/80/09e980fb3a54bc8e7ab7dc8bbf8131fa.jpg' alt='Iphone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/09/e9/80/09e980fb3a54bc8e7ab7dc8bbf8131fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0c/9d/83/0c9d83cd501b859c6dd3724054420ba2.jpg' alt='390 Best Lock Screen - IPhone ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0c/9d/83/0c9d83cd501b859c6dd3724054420ba2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

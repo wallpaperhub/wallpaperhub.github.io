@@ -1,0 +1,129 @@
+<title>Elegant Black Blue Butterfly Wallpaper for Home Decor</title>
+                    <meta name="description" content="Add a unique flair to your home with black blue butterfly wallpaper. This eye-catching design is perfect for any room, offering a blend of beauty and tranquility. Enhance your decor effortlessly with our stunning wallpaper that suits all styles. Shop now for a stylish transformation!">
+                    <meta name="keywords" content="black blue butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/black-blue-butterfly-wallpaper">
+                            <span itemprop="name">black blue butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Blue Butterfly Wallpaper for Home Decor</h1>
+                <p>Transform your space with stunning black blue butterfly wallpaper that combines elegance and creativity. Perfect for accent walls or entire rooms, this design brings a touch of nature indoors. The enchanting colors and intricate patterns create a serene atmosphere, making it ideal for a bedroom or living area. Embrace style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute aesthetic butterfly wallpaper black and blue | Butterfly ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/8c/bd/648cbda24a829bc8c0c9c1b0bde48833.jpg' alt='Cute aesthetic butterfly wallpaper black and blue | Butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/8c/bd/648cbda24a829bc8c0c9c1b0bde48833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supper Blue butterflies on a black background by Dominique Ballada ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1c/b5/3b/1cb53be4afe9a91007e7bad7d30778d9.jpg' alt='Supper Blue butterflies on a black background by Dominique Ballada ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1c/b5/3b/1cb53be4afe9a91007e7bad7d30778d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/13/0b/d8130bbf13c8bb9035388cf666140532.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/13/0b/d8130bbf13c8bb9035388cf666140532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterflies, black, blue, butterfly, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/106/14/HD-wallpaper-butterflies-black-blue-butterfly.jpg' alt='Butterflies, black, blue, butterfly, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/106/14/HD-wallpaper-butterflies-black-blue-butterfly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Butterfly Wallpaper Fly Photos Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOF9ibHVlX2J1dHRlcmZseV9faGludF9vZl9ob3dfYmVhdXRpZnVsX2l0X2lzX191c19kZTcyMWQ2Ny1iMzRiLTRlYTktYjM4Yy1hYmJmOTY0MmRiMGRfMS5qcGc.jpg' alt='Black Butterfly Wallpaper Fly Photos Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOF9ibHVlX2J1dHRlcmZseV9faGludF9vZl9ob3dfYmVhdXRpZnVsX2l0X2lzX191c19kZTcyMWQ2Ny1iMzRiLTRlYTktYjM4Yy1hYmJmOTY0MmRiMGRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/54/89/0754895fe0b5534820b7f5701af95154.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/54/89/0754895fe0b5534820b7f5701af95154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Blue Butterfly Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/glowing-blue-butterfly-aesthetic-mkgcpuwtqe86ugpu.jpg' alt='Glowing Blue Butterfly Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/glowing-blue-butterfly-aesthetic-mkgcpuwtqe86ugpu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | A butterfly that is blue and black">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/butterfly-that-is-blue-black_172235-4108.jpg' alt='Premium Photo | A butterfly that is blue and black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/butterfly-that-is-blue-black_172235-4108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark blue butterfly wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/686/789/HD-wallpaper-butterfly-2019-beautiful-sartajistic-amoled-black-blue-butterflies-chain-awesome-cute-dark-girl-new-thumbnail.jpg' alt='HD dark blue butterfly wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/686/789/HD-wallpaper-butterfly-2019-beautiful-sartajistic-amoled-black-blue-butterflies-chain-awesome-cute-dark-girl-new-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Butterfly Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3BkMjY2LXJlbWl4LWMtMDEyYi5qcGc.jpg' alt='Black Butterfly Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3BkMjY2LXJlbWl4LWMtMDEyYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

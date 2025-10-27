@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Universe Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking galaxy universe wallpapers that will elevate your device’s aesthetic. Perfect for adding a touch of cosmic beauty to your phone or computer, our collection features vibrant colors and mesmerizing designs. Enhance your digital experience today!">
+                    <meta name="keywords" content="galaxy universe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-universe-wallpaper">
+                            <span itemprop="name">galaxy universe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Universe Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning galaxy universe wallpapers. Explore mesmerizing cosmic designs featuring swirling nebulae, sparkling stars, and vibrant colors. Perfect for your phone, tablet, or desktop, these wallpapers evoke a sense of wonder and tranquility. Dive into the universe and enhance your screen with celestial beauty!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Stars, Colorful, Galaxy, Space, Planet, Universe ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/37/3a/d4373a863ba356575595ffbabba81fcd.jpg' alt='HD wallpaper: Stars, Colorful, Galaxy, Space, Planet, Universe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/37/3a/d4373a863ba356575595ffbabba81fcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Runaway Galaxy Wallpaper | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/ZxMaZq2VfVKj7Lbo5y7dLR.jpg' alt='Runaway Galaxy Wallpaper | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/ZxMaZq2VfVKj7Lbo5y7dLR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Phone Wallpaper Bundle, Blue, Stars, Starry Night, Night ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26217935/r/il/dd6ebf/2809237123/il_1080xN.2809237123_nzry.jpg' alt='Milky Way Phone Wallpaper Bundle, Blue, Stars, Starry Night, Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26217935/r/il/dd6ebf/2809237123/il_1080xN.2809237123_nzry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300,000+ Stunning Galaxy Wallpapers [HD] - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/01/20/03/23/space-6951379_640.jpg' alt='300,000+ Stunning Galaxy Wallpapers [HD] - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/01/20/03/23/space-6951379_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Galaxy Wallpaper for Walls Online in India - Magicdecor">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/02/29184224/image-1689504354-3016.jpg' alt='Buy Galaxy Wallpaper for Walls Online in India - Magicdecor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/02/29184224/image-1689504354-3016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galactic Wonders: HD Sci-Fi Space Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/101/thumb-1920-101692.jpg' alt='Galactic Wonders: HD Sci-Fi Space Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/101/thumb-1920-101692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Milky Way Galaxy Rotating Universe Starry Nebula Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/66/c6/b966c6e7d7410732774b18f79b34031e.jpg' alt='Bright Milky Way Galaxy Rotating Universe Starry Nebula Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/66/c6/b966c6e7d7410732774b18f79b34031e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTJfYWVzdGhldGljX2dhbGF4eV9iYWNrZ3JvdW5kXzNiOTUwMGE3LTIyMmYtNDAyNi05ZWNiLWQ5ZjU2ZmE5OWZkZV8xLmpwZw.jpg' alt='Galaxy Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTJfYWVzdGhldGljX2dhbGF4eV9iYWNrZ3JvdW5kXzNiOTUwMGE3LTIyMmYtNDAyNi05ZWNiLWQ5ZjU2ZmE5OWZkZV8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets Wallpaper 4K, Earth, Blue, Galaxy, Universe">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/planets-earth-blue-galaxy-universe-stars-1080x2160-2475.jpg' alt='Planets Wallpaper 4K, Earth, Blue, Galaxy, Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/planets-earth-blue-galaxy-universe-stars-1080x2160-2475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="starry deep outer space nebula and galaxy Wall Mural Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.canvasartrocks.com/cdn/shop/products/starry_deep_outer_space_nebula_and_galaxy_Wall_Mural_Wallpaper_a_ccf1bbbe-d9d1-4c6f-81e3-cc19f7a9ee89_700x.jpg?v=1735833484' alt='starry deep outer space nebula and galaxy Wall Mural Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://www.canvasartrocks.com/cdn/shop/products/starry_deep_outer_space_nebula_and_galaxy_Wall_Mural_Wallpaper_a_ccf1bbbe-d9d1-4c6f-81e3-cc19f7a9ee89_700x.jpg?v=1735833484' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Gundam Live Wallpapers for iPhone: Stunning Backgrounds</title>
+                    <meta name="description" content="Elevate your iPhone with mesmerizing Gundam live wallpapers! Explore a range of dynamic designs that showcase your favorite mechas, making your device uniquely yours. Perfect for anime lovers! Download now for an enhanced mobile experience.">
+                    <meta name="keywords" content="gundam live wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gundam-live-wallpaper-iphone">
+                            <span itemprop="name">gundam live wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gundam Live Wallpapers for iPhone: Stunning Backgrounds</h1>
+                <p>Transform your iPhone with stunning Gundam live wallpapers! Dive into the vibrant universe of Gundam with dynamic backgrounds that bring your favorite mechas to life. Perfect for fans, these live wallpapers enhance your device's aesthetics while reflecting your passion for anime and technology. Download now to experience the action!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Live Wallpaper #livewallpaper #Gundam #tiktkok #fyp | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7223363122340318470&location=0&aid=1988' alt='Gundam Live Wallpaper #livewallpaper #Gundam #tiktkok #fyp | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7223363122340318470&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Gundam Live Wallpaper      #gundam #mecha #gunpla #foryou #livewallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3120281002258213057' alt='AI Gundam Live Wallpaper      #gundam #mecha #gunpla #foryou #livewallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3120281002258213057' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Series     AI Gundam Live Wallpaper      If you need wallpaper,you can  message to me : New Wallpaper #Gundam #mecha #Gunpla #ForYou #livewallpaper  #ai #midjourney #Takaramodel | takaramodel | ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=635812271608608&get_thumbnail=1' alt='Dark Series     AI Gundam Live Wallpaper      If you need wallpaper,you can  message to me : New Wallpaper #Gundam #mecha #Gunpla #ForYou #livewallpaper  #ai #midjourney #Takaramodel | takaramodel | ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=635812271608608&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9a/04/23/9a04232a71d87542cea4d3402f68c392.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9a/04/23/9a04232a71d87542cea4d3402f68c392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Gundam Live Wallpaper - 4K Mecha Background">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7249556896649137451&location=0&aid=1988' alt='AI Gundam Live Wallpaper - 4K Mecha Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7249556896649137451&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/bc/05/79bc05fceb663c886b66b0760b6a2bcf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/bc/05/79bc05fceb663c886b66b0760b6a2bcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Aerial Live Wallpaper      #gundam #gunpla">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2965512475430304031' alt='Gundam Aerial Live Wallpaper      #gundam #gunpla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2965512475430304031' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Live Wallpaper 4K - Immersive Mobile Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7220274320210234625&location=0&aid=1988' alt='Gundam Live Wallpaper 4K - Immersive Mobile Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7220274320210234625&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/3/2116511-1080x2220-samsung-hd-gundam-background.jpg' alt='Gundam Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/3/2116511-1080x2220-samsung-hd-gundam-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam HD Live wallpapers- AI Generated,2 Live Wallpapers mp4 video  ,Instant Download">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/55B6D9C1-06CE-4527-B454-B97B87D745D0_2_kg2ctu.jpg' alt='Gundam HD Live wallpapers- AI Generated,2 Live Wallpapers mp4 video  ,Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/55B6D9C1-06CE-4527-B454-B97B87D745D0_2_kg2ctu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

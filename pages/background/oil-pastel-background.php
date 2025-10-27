@@ -1,0 +1,129 @@
+<title>Vibrant Oil Pastel Backgrounds: Tips & Techniques</title>
+                    <meta name="description" content="Discover techniques to create vibrant oil pastel backgrounds. Learn blending, layering, and texture applications to elevate your artwork. Perfect for beginners and experienced artists alike, this guide provides step-by-step tips for stunning results on any canvas!">
+                    <meta name="keywords" content="oil pastel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oil-pastel-background">
+                            <span itemprop="name">oil pastel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Oil Pastel Backgrounds: Tips & Techniques</h1>
+                <p>Creating a stunning background with oil pastels offers vibrant colors and unique textures. Blend shades while layering for depth, or create a smooth gradient. Experiment with techniques like sgraffito for added interest. Oil pastels are perfect for both abstract and realistic artworks, enhancing your creative expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Pastel Images – Browse 211,536 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/94/17/03/360_F_94170370_ALqGzdddxxWyXaCFo2SaznXspSIsCleD.jpg' alt='Oil Pastel Images – Browse 211,536 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/94/17/03/360_F_94170370_ALqGzdddxxWyXaCFo2SaznXspSIsCleD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Pastel coloured hand painted background with an ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-coloured-hand-painted-background-with-abstract-oil-painting-design_1048-18565.jpg' alt='Free Vector | Pastel coloured hand painted background with an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-coloured-hand-painted-background-with-abstract-oil-painting-design_1048-18565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Pastel Photos, Download The BEST Free Oil Pastel Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/8381916/pexels-photo-8381916.jpeg?cs=srgb&dl=pexels-pavel-danilyuk-8381916.jpg&fm=jpg' alt='Oil Pastel Photos, Download The BEST Free Oil Pastel Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2681">
+                                <meta itemprop="height" content="4016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/8381916/pexels-photo-8381916.jpeg?cs=srgb&dl=pexels-pavel-danilyuk-8381916.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract peaceful background. Oil pastel by Jeshta on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a10936c0-9968-4b75-8907-1c4f97dc9f65/dcze7xp-a82a3b4c-3ad1-4165-9164-8f9657ced332.jpg/v1/fill/w_1024,h_724,q_75,strp/abstract_peaceful_background__oil_pastel_by_jeshta_dcze7xp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI0IiwicGF0aCI6IlwvZlwvYTEwOTM2YzAtOTk2OC00Yjc1LTg5MDctMWM0Zjk3ZGM5ZjY1XC9kY3plN3hwLWE4MmEzYjRjLTNhZDEtNDE2NS05MTY0LThmOTY1N2NlZDMzMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.x72QR-hSCjiUmrhEhG3i9zorI-V3x3iCglcF1Zg5fMg' alt='Abstract peaceful background. Oil pastel by Jeshta on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a10936c0-9968-4b75-8907-1c4f97dc9f65/dcze7xp-a82a3b4c-3ad1-4165-9164-8f9657ced332.jpg/v1/fill/w_1024,h_724,q_75,strp/abstract_peaceful_background__oil_pastel_by_jeshta_dcze7xp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI0IiwicGF0aCI6IlwvZlwvYTEwOTM2YzAtOTk2OC00Yjc1LTg5MDctMWM0Zjk3ZGM5ZjY1XC9kY3plN3hwLWE4MmEzYjRjLTNhZDEtNDE2NS05MTY0LThmOTY1N2NlZDMzMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.x72QR-hSCjiUmrhEhG3i9zorI-V3x3iCglcF1Zg5fMg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract oil pastel painted background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/G0D622/abstract-oil-pastel-painted-background-G0D622.jpg' alt='Abstract oil pastel painted background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/G0D622/abstract-oil-pastel-painted-background-G0D622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Pastel Background Stock Illustrations – 35,105 Oil Pastel ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-textured-acrylic-oil-pastel-painted-background-hand-impressionism-style-43076994.jpg' alt='Oil Pastel Background Stock Illustrations – 35,105 Oil Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-textured-acrylic-oil-pastel-painted-background-hand-impressionism-style-43076994.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil pastel background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/28/49/oil-pastel-background-vector-6362849.jpg' alt='Oil pastel background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/28/49/oil-pastel-background-vector-6362849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Pastel Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-yellow-pastel-texture-background-remixed-from-artworks-famous-french-artist-edgar-degas_53876-112241.jpg' alt='Oil Pastel Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-yellow-pastel-texture-background-remixed-from-artworks-famous-french-artist-edgar-degas_53876-112241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Pastel Drawing Abstract Color Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1177848418/display_1500/stock-photo-oil-pastel-drawing-abstract-color-background-fine-art-print-impressionism-style-abstraction-1177848418.jpg' alt='Oil Pastel Drawing Abstract Color Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1177848418/display_1500/stock-photo-oil-pastel-drawing-abstract-color-background-fine-art-print-impressionism-style-abstraction-1177848418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Oil Pastel Sunset Drawing for Beginners | Step-by-Step Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TWfyFKHaRDk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB38ell9hr4SolhyBeY9h5L32roNw' alt='Easy Oil Pastel Sunset Drawing for Beginners | Step-by-Step Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TWfyFKHaRDk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB38ell9hr4SolhyBeY9h5L32roNw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

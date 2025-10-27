@@ -1,0 +1,129 @@
+<title>Chic Pink and Gray Peel and Stick Wallpaper for Effortless Decor</title>
+                    <meta name="description" content="Elevate your decor with our pink and gray peel and stick wallpaper. Ideal for quick makeovers, this lovely design combines style and convenience, making it perfect for renters and DIY enthusiasts. Easy to apply and remove, it brings a fresh, modern touch to any room. Shop now for your perfect wall transformation!">
+                    <meta name="keywords" content="pink and gray peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-gray-peel-and-stick-wallpaper">
+                            <span itemprop="name">pink and gray peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink and Gray Peel and Stick Wallpaper for Effortless Decor</h1>
+                <p>Transform your space effortlessly with pink and gray peel and stick wallpaper. This stylish and modern design adds a touch of sophistication to any room while being easy to apply and remove. Perfect for nurseries, accent walls, or apartments, it offers a chic solution for renters and decorators alike without the mess of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' alt='Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' alt='Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2510">
+                                <meta itemprop="height" content="2510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Peel and Stick Wallpaper Grey Floral Contact Paper Removable  Wallpaper Decorative Self Adhesive Wallpaper Wall Paper 17.7" x 118.1"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914cf-EXU9L._AC_UF894,1000_QL80_.jpg' alt='Floral Peel and Stick Wallpaper Grey Floral Contact Paper Removable  Wallpaper Decorative Self Adhesive Wallpaper Wall Paper 17.7" x 118.1"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="881">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914cf-EXU9L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Watercolor Texture in Light Grey Pink Colors Abstract Sky with  Clouds Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MjWeGx1AL.jpg' alt='Amazon.com: Watercolor Texture in Light Grey Pink Colors Abstract Sky with  Clouds Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MjWeGx1AL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_570xN.3330493341_e432.jpg' alt='Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_570xN.3330493341_e432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Pink Floral Wallpaper | Wallpaper Peel and Stick | Removable Wallpaper  | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2167">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470607352_a2tv.jpg?v=1644736437' alt='Gray Pink Floral Wallpaper | Wallpaper Peel and Stick | Removable Wallpaper  | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2167'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470607352_a2tv.jpg?v=1644736437' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flowers Wallpaper Peel and Stick, Grey Floral Contact Paper, Vintge  Botanical Boho Wall Paper Self Adhesive Waterproof Removable for Room  Shelves ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cEra4fYzL.jpg' alt='Pink Flowers Wallpaper Peel and Stick, Grey Floral Contact Paper, Vintge  Botanical Boho Wall Paper Self Adhesive Waterproof Removable for Room  Shelves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2411">
+                                <meta itemprop="height" content="2411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cEra4fYzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pink Gray Floral Rose Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 163">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3938450998_sfsk.jpg?v=1661945556&width=2798' alt='Blue Pink Gray Floral Rose Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 163'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2798">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3938450998_sfsk.jpg?v=1661945556&width=2798' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsy Pink Wallpaper Peel and Stick Gray Flowers Wall Mural for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/a91a8b/5497567535/il_fullxfull.5497567535_s9zc.jpg' alt='Whimsy Pink Wallpaper Peel and Stick Gray Flowers Wall Mural for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/a91a8b/5497567535/il_fullxfull.5497567535_s9zc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Mod Triangles Pink & Gray Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW31100_1.jpg' alt='NextWall Peel & Stick Mod Triangles Pink & Gray Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW31100_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

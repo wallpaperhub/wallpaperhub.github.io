@@ -1,0 +1,129 @@
+<title>Vibrant Sunflower Patterns for Bright Decor</title>
+                    <meta name="description" content="Explore stunning sunflower patterns that brighten up your decor! Perfect for textiles and art, these designs evoke warmth and positivity, adding a cheerful touch to any space. Discover the beauty of sunflowers and transform your environment into a sunny, joyful haven.">
+                    <meta name="keywords" content="sunflower pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunflower-pattern">
+                            <span itemprop="name">sunflower pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Sunflower Patterns for Bright Decor</h1>
+                <p>Sunflower patterns are vibrant and uplifting designs that capture the beauty of these iconic flowers. Their bright yellow petals and dark centers symbolize positivity and warmth. Whether used in textiles, wallpapers, or art, sunflower patterns bring a cheerful touch to any space, invoking feelings of joy and sunshine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/178/071/non_2x/yellow-seamless-pattern-with-tropical-summer-flowers-floral-repetition-background-with-spring-floral-elements-wallpaper-with-sunflower-and-daisy-plants-in-bloom-vector.jpg' alt='Sunflower Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/178/071/non_2x/yellow-seamless-pattern-with-tropical-summer-flowers-floral-repetition-background-with-spring-floral-elements-wallpaper-with-sunflower-and-daisy-plants-in-bloom-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Pattern Images – Browse 223,429 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/68/34/71/360_F_68347107_QFAbqPc2bM8gwriyjBWKGhnsAeUDpqf5.jpg' alt='Sunflower Pattern Images – Browse 223,429 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/68/34/71/360_F_68347107_QFAbqPc2bM8gwriyjBWKGhnsAeUDpqf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflowers Floral Pattern Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/222109/raw/603e13c8614d55257a8b99b58dc4aad7-sunflowers-floral-pattern-design.jpg' alt='Sunflowers Floral Pattern Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/222109/raw/603e13c8614d55257a8b99b58dc4aad7-sunflowers-floral-pattern-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Pattern With Leaves by Noirty Designs">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sunflower-pattern-with-leaves-noirty-designs.jpg' alt='Sunflower Pattern With Leaves by Noirty Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sunflower-pattern-with-leaves-noirty-designs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/028/003/non_2x/watercolor-cute-yellow-sunflower-seamless-pattern-free-vector.jpg' alt='Sunflower Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/028/003/non_2x/watercolor-cute-yellow-sunflower-seamless-pattern-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Sunflower Digital Paper Seamless Sunflower Pattern, Custom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13993772/r/il/2a92b3/2839192855/il_570xN.2839192855_t836.jpg' alt='Glitter Sunflower Digital Paper Seamless Sunflower Pattern, Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13993772/r/il/2a92b3/2839192855/il_570xN.2839192855_t836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Pattern Images – Browse 223,429 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/62/31/82/360_F_262318237_SHsBsJt5KYV2zZLzB8210rOS6kTcGcfY.jpg' alt='Sunflower Pattern Images – Browse 223,429 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/62/31/82/360_F_262318237_SHsBsJt5KYV2zZLzB8210rOS6kTcGcfY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Yellow Sunflower Pattern Graphic by elsabenaa ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/07/16/Watercolor-Yellow-Sunflower-Pattern-Graphics-4636078-1.jpg' alt='Watercolor Yellow Sunflower Pattern Graphic by elsabenaa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/07/16/Watercolor-Yellow-Sunflower-Pattern-Graphics-4636078-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Seamless Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-seamless-pattern-with-sunflowers_1191-1344.jpg' alt='Sunflower Seamless Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-seamless-pattern-with-sunflowers_1191-1344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower seamless pattern. Vector line yellow flowers texture ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs/800_3881558_0q5vxav65nvat3du22xdp4nk7n7zwwrtojue9jwn.jpg' alt='Sunflower seamless pattern. Vector line yellow flowers texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs/800_3881558_0q5vxav65nvat3du22xdp4nk7n7zwwrtojue9jwn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

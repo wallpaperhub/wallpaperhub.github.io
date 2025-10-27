@@ -1,0 +1,129 @@
+<title>Is Jimmy Carter Alive? Updates on the 39th President</title>
+                    <meta name="description" content="Discover the latest updates on Jimmy Carter's health and well-being. As the longest-living U.S. president, he continues to inspire many through his humanitarian work. Stay informed about his remarkable journey and legacy.">
+                    <meta name="keywords" content="is jimmy carter still alive?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-jimmy-carter-still-alive">
+                            <span itemprop="name">is jimmy carter still alive?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is Jimmy Carter Alive? Updates on the 39th President</h1>
+                <p>As of October 2023, Jimmy Carter, the 39th President of the United States, is still alive. He celebrated his 99th birthday on October 1, 2023, making him the longest-living U.S. president in history. Carter is known for his humanitarian work and post-presidency efforts, particularly through the Carter Center.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Longest living former US President Jimmy Carter turns 100">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2024/09/2023-11-29T210147Z_663274362_RC25N4AJALRO_RTRMADP_3_PEOPLE-ROSALYNN-CARTER-1727728688.jpg?resize=1800%2C1800' alt='Longest living former US President Jimmy Carter turns 100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2024/09/2023-11-29T210147Z_663274362_RC25N4AJALRO_RTRMADP_3_PEOPLE-ROSALYNN-CARTER-1727728688.jpg?resize=1800%2C1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter, 98, Opts for Hospice Care - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/02/19/multimedia/18dc-jimmy-carter-qpmv/18dc-jimmy-carter-qpmv-mediumSquareAt3X-v2.jpg' alt='Jimmy Carter, 98, Opts for Hospice Care - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/02/19/multimedia/18dc-jimmy-carter-qpmv/18dc-jimmy-carter-qpmv-mediumSquareAt3X-v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter is still alive">
+                                <img itemprop="contentUrl url" src='https://tortoise-s3bucket1-1c9k2kd5zjuf0.s3.amazonaws.com/original_images/CR-GettyImages-1140189994.jpg' alt='Jimmy Carter is still alive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tortoise Media" />
+                                </span>
+                                <a href='https://tortoise-s3bucket1-1c9k2kd5zjuf0.s3.amazonaws.com/original_images/CR-GettyImages-1140189994.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter dies: The oldest living president in US history was 100">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/29/USAT/77299977007-xxx-capdowncarte-rrd-297.JPG?crop=4584,2579,x0,y344' alt='Jimmy Carter dies: The oldest living president in US history was 100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4584">
+                                <meta itemprop="height" content="2579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/29/USAT/77299977007-xxx-capdowncarte-rrd-297.JPG?crop=4584,2579,x0,y344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter makes rare public appearance at his wife's memorial ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y6Z3ZHDISRMODOUP55PB7T5R7M.jpg' alt='Jimmy Carter makes rare public appearance at his wife's memorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y6Z3ZHDISRMODOUP55PB7T5R7M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter birthday: How old is Jimmy Carter? He's now 95. - The ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GC6GOIHEIMI6TMFGHUBXEG4F54.jpg' alt='Jimmy Carter birthday: How old is Jimmy Carter? He's now 95. - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GC6GOIHEIMI6TMFGHUBXEG4F54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The life and legacy of Jimmy Carter">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1043567870.jpg?c=original' alt='The life and legacy of Jimmy Carter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1043567870.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="President Jimmy Carter 'said a prayer' and is 'at ease' with death ...">
+                                <img itemprop="contentUrl url" src='https://ktxs.com/resources/media2/16x9/full/1015/center/80/5712349c-a472-4238-ac6f-9f9f5b626758-large16x9_jimmycarterfileap.jpg' alt='President Jimmy Carter 'said a prayer' and is 'at ease' with death ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTXS" />
+                                </span>
+                                <a href='https://ktxs.com/resources/media2/16x9/full/1015/center/80/5712349c-a472-4238-ac6f-9f9f5b626758-large16x9_jimmycarterfileap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Carter - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5a/JimmyCarterPortrait2.jpg' alt='Jimmy Carter - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="2027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5a/JimmyCarterPortrait2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former President Jimmy Carter lived to 100 with hospice care. Why ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/8727fb50-82a5-4552-a2d9-207051f41eba/jimmy-carter-gty-jt-241231_1735667473902_hpMain.jpg' alt='Former President Jimmy Carter lived to 100 with hospice care. Why ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/8727fb50-82a5-4552-a2d9-207051f41eba/jimmy-carter-gty-jt-241231_1735667473902_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

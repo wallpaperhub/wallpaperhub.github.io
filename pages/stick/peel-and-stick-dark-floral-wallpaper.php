@@ -1,0 +1,129 @@
+<title>Enhance Your Space with Peel and Stick Dark Floral Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of peel and stick dark floral wallpaper! Easy to apply and remove, these stunning designs elevate any room with their vibrant floral patterns on rich backgrounds. Perfect for renters or DIY enthusiasts looking for a quick decor upgrade. Explore our collection today!">
+                    <meta name="keywords" content="peel and stick dark floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-dark-floral-wallpaper">
+                            <span itemprop="name">peel and stick dark floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with Peel and Stick Dark Floral Wallpaper</h1>
+                <p>Transform your space with peel and stick dark floral wallpaper, a stylish solution that combines elegance and ease. Perfect for any room, these wallpapers feature rich, vibrant floral patterns on a dark backdrop, adding depth and character. Easy to apply and remove, they provide a hassle-free way to refresh your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Peel and Stick Wallpaper, Vintage Floral Contact Paper,  Waterproof Self Adhesive Boho Decor Black Rose Wall Paper for Bedroom Walls  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81GS8gq1+oL._AC_UF894,1000_QL80_.jpg' alt='Dark Floral Peel and Stick Wallpaper, Vintage Floral Contact Paper,  Waterproof Self Adhesive Boho Decor Black Rose Wall Paper for Bedroom Walls  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81GS8gq1+oL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable Wallpaper  Wall Decor Home Decor Wall Art Room Decor 3848">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' alt='Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable Wallpaper  Wall Decor Home Decor Wall Art Room Decor 3848'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Peel and Stick, Dutch Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25499622/r/il/17d913/2625005657/il_fullxfull.2625005657_k1xl.jpg' alt='Dark Floral Wallpaper Peel and Stick, Dutch Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25499622/r/il/17d913/2625005657/il_fullxfull.2625005657_k1xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark floral peonies wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800.jpg?v=1590580783' alt='Dark floral peonies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800.jpg?v=1590580783' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Fern and Skull Wallpaper Peel and Stick and  Traditional Wallpaper - D829">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5383941574_ccs5.jpg?v=1722497022&width=1946' alt='Dark Floral Wallpaper Fern and Skull Wallpaper Peel and Stick and  Traditional Wallpaper - D829'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5383941574_ccs5.jpg?v=1722497022&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eAsa6oAOL.jpg' alt='Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eAsa6oAOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall  Decor Home Decor Wall Art Printable Wall Art Room Decor 431">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4243373231_gglj.jpg?v=1668571926' alt='Dark Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper Wall  Decor Home Decor Wall Art Printable Wall Art Room Decor 431'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4243373231_gglj.jpg?v=1668571926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Art Wallpaper, Peel and Stick Wall Mural, Black and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/7c389f/1833025619/il_fullxfull.1833025619_ps2w.jpg' alt='Dark Floral Art Wallpaper, Peel and Stick Wall Mural, Black and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/7c389f/1833025619/il_fullxfull.1833025619_ps2w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanic Wallpaper | Dark Floral Wallpaper | Botanical Removable  Wallpaper | Dark Flower Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://miamiwallsanddecor.com/cdn/shop/files/5_Product_155_Dark_Floral_Peel_and_Stick_Wallpaper.jpg?v=1691446368&width=1946' alt='Dark Botanic Wallpaper | Dark Floral Wallpaper | Botanical Removable  Wallpaper | Dark Flower Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Walls and Decor" />
+                                </span>
+                                <a href='https://miamiwallsanddecor.com/cdn/shop/files/5_Product_155_Dark_Floral_Peel_and_Stick_Wallpaper.jpg?v=1691446368&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Self Adhesive Wallpaper Boho Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/BBIAAOSwgfFnKwdp/s-l400.jpg' alt='Dark Floral Wallpaper Self Adhesive Wallpaper Boho Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/BBIAAOSwgfFnKwdp/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

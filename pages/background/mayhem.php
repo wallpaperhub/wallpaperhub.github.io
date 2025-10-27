@@ -1,0 +1,129 @@
+<title>Embrace the Chaos: Exploring Mayhem in Everyday Life</title>
+                    <meta name="description" content="Discover the thrilling essence of mayhem! Dive into the unpredictability of life's chaotic moments and learn how to embrace disorder for unforgettable experiences. Perfect for adventure seekers and those looking to transform ordinary days into extraordinary adventures.">
+                    <meta name="keywords" content="mayhem">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mayhem">
+                            <span itemprop="name">mayhem</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Chaos: Exploring Mayhem in Everyday Life</h1>
+                <p>Mayhem captures the chaos and unpredictability of life, where plans unravel and disorder reigns. It's the exhilarating sensation of surrendering to wild adventures or the startling moments that disrupt our routine. Embracing mayhem can lead to unexpected revelations and memorable experiences, transforming mundane days into extraordinary tales.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem's Long, Dark Road to Reviving a Black-Metal Classic">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-mayhem_01-876558d5-81ec-4fae-8b8c-442623829f33.jpg' alt='Mayhem's Long, Dark Road to Reviving a Black-Metal Classic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1559">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-mayhem_01-876558d5-81ec-4fae-8b8c-442623829f33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Euronymous - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/6/68/Dead_and_Euronymous.jpg' alt='Euronymous - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/6/68/Dead_and_Euronymous.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem Songs | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebe60e1c595b887e90c6065620' alt='Mayhem Songs | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebe60e1c595b887e90c6065620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for The True Mayhem">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044624430368' alt='Profile for The True Mayhem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044624430368' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Mayhem Deathcrush Patch Album Art Black Metal Music Band Woven  Sew On Applique : Clothing, Shoes & Jewelry">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61NNhzitAcL.jpg' alt='Amazon.com: Mayhem Deathcrush Patch Album Art Black Metal Music Band Woven  Sew On Applique : Clothing, Shoes & Jewelry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61NNhzitAcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem (Band) (Music) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/mayhem.jpg' alt='Mayhem (Band) (Music) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/mayhem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem (news, biography, albums, line-up, tour dates) | Official ...">
+                                <img itemprop="contentUrl url" src='https://www.season-of-mist.com/wp-content/uploads/2020/03/MayhemEsterSegarra_5746-scaled.jpg' alt='Mayhem (news, biography, albums, line-up, tour dates) | Official ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Season of Mist" />
+                                </span>
+                                <a href='https://www.season-of-mist.com/wp-content/uploads/2020/03/MayhemEsterSegarra_5746-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="De Mysteriis Dom Sathanas | MAYHEM">
+                                <img itemprop="contentUrl url" src='https://f4.bcbits.com/img/0019025750_71.jpg' alt='De Mysteriis Dom Sathanas | MAYHEM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandcamp" />
+                                </span>
+                                <a href='https://f4.bcbits.com/img/0019025750_71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem, Mayhem - Deathcrush – The Dead Version - Amazon.com Music">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51O7IX8fffL._UF1000,1000_QL80_.jpg' alt='Mayhem, Mayhem - Deathcrush – The Dead Version - Amazon.com Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51O7IX8fffL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem – peaceville.com">
+                                <img itemprop="contentUrl url" src='https://peaceville.com/wp-content/uploads/2015/09/mayhemlogo.png' alt='Mayhem – peaceville.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="peaceville.com" />
+                                </span>
+                                <a href='https://peaceville.com/wp-content/uploads/2015/09/mayhemlogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

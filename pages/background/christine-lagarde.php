@@ -1,0 +1,129 @@
+<title>Christine Lagarde: A Leader in Global Finance</title>
+                    <meta name="description" content="Explore the impactful career of Christine Lagarde, President of the European Central Bank and former IMF Managing Director. Discover her influence on global finance and economic strategies today.">
+                    <meta name="keywords" content="christine lagarde">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christine-lagarde">
+                            <span itemprop="name">christine lagarde</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Christine Lagarde: A Leader in Global Finance</h1>
+                <p>Christine Lagarde, an influential figure in global finance, has served as the President of the European Central Bank since 2019. Prior to this, she held the position of Managing Director of the International Monetary Fund. Known for her expertise in economic policy and leadership, Lagarde continues to shape financial strategies in Europe and beyond.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde | Biography, IMF, ECB, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/66/151366-050-5F291796/Christine-Lagarde.jpg' alt='Christine Lagarde | Biography, IMF, ECB, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/66/151366-050-5F291796/Christine-Lagarde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Christine_Lagarde_%28cropped%29.jpg/640px-Christine_Lagarde_%28cropped%29.jpg' alt='Christine Lagarde - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Christine_Lagarde_%28cropped%29.jpg/640px-Christine_Lagarde_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg/220px-EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg' alt='Christine Lagarde - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg/220px-EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde | World Economic Forum">
+                                <img itemprop="contentUrl url" src='https://assets.weforum.org/author/image/8JyNSIO2OAfWiNY55ZENf0Amagzq1CRIV0MzJ9TuINI.jpg' alt='Christine Lagarde | World Economic Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The World Economic Forum" />
+                                </span>
+                                <a href='https://assets.weforum.org/author/image/8JyNSIO2OAfWiNY55ZENf0Amagzq1CRIV0MzJ9TuINI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde (@Lagarde) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1554729553758756864/o0L77J1V_400x400.jpg' alt='Christine Lagarde (@Lagarde) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1554729553758756864/o0L77J1V_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde: ready to take on Europe – The Irish Times">
+                                <img itemprop="contentUrl url" src='https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/DOBBNMTWW5B7WW55IOWJOSLWNM.jpg' alt='Christine Lagarde: ready to take on Europe – The Irish Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Irish Times" />
+                                </span>
+                                <a href='https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/DOBBNMTWW5B7WW55IOWJOSLWNM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5fce8ba6f7812d403e9e057b/0x0.jpg?format=jpg&crop=1877,1876,x1766,y514,safe&height=416&width=416&fit=bounds' alt='Christine Lagarde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5fce8ba6f7812d403e9e057b/0x0.jpg?format=jpg&crop=1877,1876,x1766,y514,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde: Changing of the Guard | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/5891eea97edfa70512d67b60/master/pass/img-christine-lagarde_130513354815.jpg' alt='Christine Lagarde: Changing of the Guard | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1511">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/5891eea97edfa70512d67b60/master/pass/img-christine-lagarde_130513354815.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christine Lagarde Biography for Kids">
+                                <img itemprop="contentUrl url" src='https://www.lottie.com/cdn/shop/articles/Christine-Lagarde_1024x1024.jpg?v=1622004522' alt='Christine Lagarde Biography for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lottie Dolls" />
+                                </span>
+                                <a href='https://www.lottie.com/cdn/shop/articles/Christine-Lagarde_1024x1024.jpg?v=1622004522' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Conversation with Christine Lagarde - Yale Jackson School of ...">
+                                <img itemprop="contentUrl url" src='https://jackson.yale.edu/wp-content/uploads/2024/04/lagarde800_Christine-Lagarde_by_Stephanie_Fuessenich_8R7A8472.jpg' alt='A Conversation with Christine Lagarde - Yale Jackson School of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale Jackson School of Global Affairs - Yale University" />
+                                </span>
+                                <a href='https://jackson.yale.edu/wp-content/uploads/2024/04/lagarde800_Christine-Lagarde_by_Stephanie_Fuessenich_8R7A8472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

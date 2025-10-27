@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Self-Adhesive Wallpaper</title>
+                    <meta name="description" content="Discover the simplicity of white self-adhesive wallpaper. Easily apply and remove without damage, perfect for a fresh look in any room. Ideal for renters, DIY projects, and quick makeovers, this wallpaper adds style and convenience to your living space.">
+                    <meta name="keywords" content="white self adhesive wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-self-adhesive-wallpaper">
+                            <span itemprop="name">white self adhesive wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Self-Adhesive Wallpaper</h1>
+                <p>White self-adhesive wallpaper is an easy and stylish way to refresh any space. Ideal for renters or DIY enthusiasts, this versatile wallpaper can transform walls, furniture, and décor without the need for glue or professional installation. Its clean look enhances modern aesthetics while offering a durable, easy-to-clean surface.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Homease Solid White Wallpaper 24 x 196 inch Thick Matte White  Contact Paper Decorative Peel and Stick Wallpaper for Shelf Liner Cabinet  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hZyZqFbBL.jpg' alt='Amazon.com: Homease Solid White Wallpaper 24 x 196 inch Thick Matte White  Contact Paper Decorative Peel and Stick Wallpaper for Shelf Liner Cabinet  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hZyZqFbBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' alt='White Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1156">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 36" x 200" Solid White Wallpaper Stick and Peel Matte White  Contact Paper Peel and Stick White Wallpaper Thick Removable Self Adhesive  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71VTDN2JL3L._AC_UF894,1000_QL80_.jpg' alt='FunStick 36" x 200" Solid White Wallpaper Stick and Peel Matte White  Contact Paper Peel and Stick White Wallpaper Thick Removable Self Adhesive  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71VTDN2JL3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?crop=center&height=1072&v=1666799200&width=1072' alt='White Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?crop=center&height=1072&v=1666799200&width=1072' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75-sq ft Off-white Vinyl Beadboard Self-adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/a2580a1f-023f-42d0-a2a9-54dbaceb83a0/17682243.jpg?size=pdhz' alt='NextWall 30.75-sq ft Off-white Vinyl Beadboard Self-adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/a2580a1f-023f-42d0-a2a9-54dbaceb83a0/17682243.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthome Wood Contact Paper White, Self-Adhesive and Removable Decorative  Wallpaper 17''x120''">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/f087c26a-2c95-4240-82a5-57b897bd60fd.891f76d934da131621f88d359dfa3aeb.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Arthome Wood Contact Paper White, Self-Adhesive and Removable Decorative  Wallpaper 17''x120'''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/f087c26a-2c95-4240-82a5-57b897bd60fd.891f76d934da131621f88d359dfa3aeb.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Marble Peel and Stick Wall Mural Wallpaper Abstract Gray ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/a01cb5/3134753976/il_570xN.3134753976_chas.jpg' alt='White Marble Peel and Stick Wall Mural Wallpaper Abstract Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/a01cb5/3134753976/il_570xN.3134753976_chas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly White Wallpaper Peel and Stick Wallpaper 15.7" X 118" Self  Adhesive Embossed White Contact Paper Removable Kitchen Vinyl Film Textured  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71WZMEMtPuL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly White Wallpaper Peel and Stick Wallpaper 15.7" X 118" Self  Adhesive Embossed White Contact Paper Removable Kitchen Vinyl Film Textured  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71WZMEMtPuL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Female Body Peel and Stick Wallpaper / Woman ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/5a510a/4210863601/il_300x300.4210863601_21qf.jpg' alt='Black and White Female Body Peel and Stick Wallpaper / Woman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/5a510a/4210863601/il_300x300.4210863601_21qf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Black white lines Peel & Stick wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://jllhomestore.com/cdn/shop/products/il_fullxfull.1330392337_4tk2_1024x1024@2x.jpg?v=1575932091' alt='Removable Wallpaper Black white lines Peel & Stick wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JLL HOME" />
+                                </span>
+                                <a href='https://jllhomestore.com/cdn/shop/products/il_fullxfull.1330392337_4tk2_1024x1024@2x.jpg?v=1575932091' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

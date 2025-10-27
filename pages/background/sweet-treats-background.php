@@ -1,0 +1,129 @@
+<title>Delicious History of Sweet Treats</title>
+                    <meta name="description" content="Explore the delightful world of sweet treats, tracing their origins from ancient confections to modern delights. Discover how these sugary creations have evolved to bring joy and celebration into our lives, making every occasion memorable and special.">
+                    <meta name="keywords" content="sweet treats background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sweet-treats-background">
+                            <span itemprop="name">sweet treats background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious History of Sweet Treats</h1>
+                <p>Sweet treats have a rich history, dating back to ancient civilizations that celebrated special occasions with sugary delights. From honey-based delicacies in Egypt to the elaborate pastries of France, these confections symbolize joy and celebration across cultures. Today, they continue to bring people together, making every moment sweeter.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Food Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/045/342/280/non_2x/variety-junk-food-products-on-the-top-view-background-photo.jpeg' alt='Cute Food Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/045/342/280/non_2x/variety-junk-food-products-on-the-top-view-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="239,400+ Dessert Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/592002266/vector/assorted-outlined-colorful-desserts-seamless-vector-pattern-with-polka-dots.jpg?s=612x612&w=0&k=20&c=-0znCxCoOo6Ik6fAsjC0R5DmAVhqzMLL8v4e82YLK_E=' alt='239,400+ Dessert Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/592002266/vector/assorted-outlined-colorful-desserts-seamless-vector-pattern-with-polka-dots.jpg?s=612x612&w=0&k=20&c=-0znCxCoOo6Ik6fAsjC0R5DmAVhqzMLL8v4e82YLK_E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Sweets Images – Browse 18,804,516 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/55/22/59/360_F_255225950_no0YgD2NWRm7UDhNuKDoOu0LiJ7bfT0J.jpg' alt='Background Sweets Images – Browse 18,804,516 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/55/22/59/360_F_255225950_no0YgD2NWRm7UDhNuKDoOu0LiJ7bfT0J.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Treats Stock Illustrations – 89,556 Sweet Treats Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/watercolour-tasty-desserts-seamless-pattern-pastel-colors-hand-painted-sweet-treats-white-background-watercolor-bakery-147736341.jpg' alt='Sweet Treats Stock Illustrations – 89,556 Sweet Treats Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/watercolour-tasty-desserts-seamless-pattern-pastel-colors-hand-painted-sweet-treats-white-background-watercolor-bakery-147736341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Treats Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7389478/p/f/m/9uW8AH25Fqm_58M-v-s3w8pmiK8HaZErsgjHcLnAyPUelASr3-neysTM/Sweet%20Sweet%20Sprinkles.jpg' alt='Sweet Treats Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7389478/p/f/m/9uW8AH25Fqm_58M-v-s3w8pmiK8HaZErsgjHcLnAyPUelASr3-neysTM/Sweet%20Sweet%20Sprinkles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet treats seamless pattern background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/99/26/sweet-treats-seamless-pattern-background-vector-25689926.jpg' alt='Sweet treats seamless pattern background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/99/26/sweet-treats-seamless-pattern-background-vector-25689926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Treats Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-world-chocolate-day-background-with-chocolate-sweets_23-2149439793.jpg' alt='Sweet Treats Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-world-chocolate-day-background-with-chocolate-sweets_23-2149439793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,733,300+ Sweet Treats Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1490797933/photo/tasty-colorful-jelly-candies-as-background-above-view.jpg?s=612x612&w=0&k=20&c=SARD1gFY86d3jSVQ97g7k0Ecr5GEISuLQ8MNwBOaIvM=' alt='5,733,300+ Sweet Treats Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1490797933/photo/tasty-colorful-jelly-candies-as-background-above-view.jpg?s=612x612&w=0&k=20&c=SARD1gFY86d3jSVQ97g7k0Ecr5GEISuLQ8MNwBOaIvM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Treats Wallpaper High-Res Vector Graphic - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/166079779/vector/sweet-treats-wallpaper.jpg?s=1024x1024&w=gi&k=20&c=thnMLFYm-Tpt1CGtpQ4bBgeouHzddViI5nkXbU0vTss=' alt='Sweet Treats Wallpaper High-Res Vector Graphic - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/166079779/vector/sweet-treats-wallpaper.jpg?s=1024x1024&w=gi&k=20&c=thnMLFYm-Tpt1CGtpQ4bBgeouHzddViI5nkXbU0vTss=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Treats Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/100/287/small/sweets-pattern-background-vector.jpg' alt='Sweet Treats Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/100/287/small/sweets-pattern-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transforming Messy Backgrounds into Artistic Masterpieces</title>
+                    <meta name="description" content="Discover how to turn messy backgrounds into captivating visuals. Learn tips and tricks to balance elements, ensuring your main subject stands out while embracing the beauty of chaos. Perfect for photographers, artists, and creative individuals looking to enhance their storytelling through imagery.">
+                    <meta name="keywords" content="messy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/messy-background">
+                            <span itemprop="name">messy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transforming Messy Backgrounds into Artistic Masterpieces</h1>
+                <p>A messy background can add character and depth to your visuals, telling a story without uttering a word. However, it can also distract from the main subject, causing your audience to lose focus. Balancing visual elements is key; embrace the chaos while ensuring the main message shines through in your content.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messy Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/151/874/non_2x/abstract-textured-backgound-free-photo.jpg' alt='Messy Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/151/874/non_2x/abstract-textured-backgound-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Gradient Messy Background Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/302890664/display_1500/stock-vector-abstract-gradient-messy-background-302890664.jpg' alt='Abstract Gradient Messy Background Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/302890664/display_1500/stock-vector-abstract-gradient-messy-background-302890664.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messy Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-gray-white-abstract-messy-background-picture-image_1448091.jpg' alt='Messy Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-gray-white-abstract-messy-background-picture-image_1448091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Messy Background Stock Vector by ©baavli 128289998">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1037178/12828/v/950/depositphotos_128289998-stock-illustration-abstract-messy-background.jpg' alt='Abstract Messy Background Stock Vector by ©baavli 128289998'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1037178/12828/v/950/depositphotos_128289998-stock-illustration-abstract-messy-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messy Background With Watercolor Splatter Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/abigail210986/abigail2109861603/abigail210986160300068/54795087-messy-background-with-watercolor-splatter.jpg' alt='Messy Background With Watercolor Splatter Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/abigail210986/abigail2109861603/abigail210986160300068/54795087-messy-background-with-watercolor-splatter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messy Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/052/402/075/small_2x/dust-scratches-overlay-old-film-effect-blue-distressed-faded-glass-with-smeared-dirt-stains-colorful-rainbow-lens-flare-design-photo.jpg' alt='Messy Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/052/402/075/small_2x/dust-scratches-overlay-old-film-effect-blue-distressed-faded-glass-with-smeared-dirt-stains-colorful-rainbow-lens-flare-design-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful messy abstract textured background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PRGBEK/colorful-messy-abstract-textured-background-PRGBEK.jpg' alt='Colorful messy abstract textured background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PRGBEK/colorful-messy-abstract-textured-background-PRGBEK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="239,688 Messy Background Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/distressed-black-grunge-dark-messy-background-dirty-crack-empty-cover-template-design-element-dirt-overlay-screen-effect-155222451.jpg' alt='239,688 Messy Background Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/distressed-black-grunge-dark-messy-background-dirty-crack-empty-cover-template-design-element-dirt-overlay-screen-effect-155222451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old messy background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/27/09/old-messy-background-vector-1282709.jpg' alt='Old messy background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/27/09/old-messy-background-vector-1282709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messy background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/HH2TJ0/abstract-wallpaper-background-of-messy-random-shards-of-color-widescreen-HH2TJ0.jpg' alt='Messy background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/HH2TJ0/abstract-wallpaper-background-of-messy-random-shards-of-color-widescreen-HH2TJ0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

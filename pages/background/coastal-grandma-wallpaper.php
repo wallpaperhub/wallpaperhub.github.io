@@ -1,0 +1,129 @@
+<title>Charming Coastal Grandma Wallpaper for Your Home</title>
+                    <meta name="description" content="Elevate your home with coastal grandma wallpaper. This stylish decor choice features soft colors and nautical themes, perfect for adding a serene coastal feel to any space. Ideal for accent walls and cozy corners, transform your home into a tranquil retreat today!">
+                    <meta name="keywords" content="coastal grandma wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coastal-grandma-wallpaper">
+                            <span itemprop="name">coastal grandma wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Coastal Grandma Wallpaper for Your Home</h1>
+                <p>Coastal grandma wallpaper brings a fresh, breezy vibe to your home decor. Featuring soft hues, nautical prints, and floral designs, this wallpaper style embodies the charm of coastal living. Perfect for creating a serene atmosphere, it's ideal for accent walls, nurseries, or cozy reading nooks, inviting the ocean's calm into your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13081242/p/f/m/dBslVzUKZZh88mrIjzyRCMOVD077aJ3Uh5sKMU5hrPbODclRTvRfQGY/Hydrangea%20blue%20and%20white%20Hamptons%20style%20-%20small%20.jpg' alt='Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13081242/p/f/m/dBslVzUKZZh88mrIjzyRCMOVD077aJ3Uh5sKMU5hrPbODclRTvRfQGY/Hydrangea%20blue%20and%20white%20Hamptons%20style%20-%20small%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16718507/p/f/m/0KuS4dpZtNiufnv4r7Pk7WE4oJNpZicN0wk7fo_nOV8M9gyDGZZS/Blue%20and%20white%20coastal%20chic%20seaweed%2C%20seashells%2C%20star%20fish%2C%20sand%20dollar%2C%20coral.jpg' alt='Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16718507/p/f/m/0KuS4dpZtNiufnv4r7Pk7WE4oJNpZicN0wk7fo_nOV8M9gyDGZZS/Blue%20and%20white%20coastal%20chic%20seaweed%2C%20seashells%2C%20star%20fish%2C%20sand%20dollar%2C%20coral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Beach House Nautical Damask Wallpaper - Coastal Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/MB30312.jpg?v=1606537637' alt='Seabrook Beach House Nautical Damask Wallpaper - Coastal Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/MB30312.jpg?v=1606537637' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Coastal Wallpaper Designs & Patterns - Cailini Coastal">
+                                <img itemprop="contentUrl url" src='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_1080x.jpg?v=1687300337' alt='Wallpaper - Coastal Wallpaper Designs & Patterns - Cailini Coastal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_1080x.jpg?v=1687300337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13527700/p/f/m/7XEUMypJ09gHvW2Qdvn0NcCfNnI7IIaGsSe191IBPmhWWZmUAaFgVZop4w/small%20scale%20dense%20watercolor%20leaves%20%2F%2F%20sage%20green%20on%20cream.jpg' alt='Coastal Grandmother Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13527700/p/f/m/7XEUMypJ09gHvW2Qdvn0NcCfNnI7IIaGsSe191IBPmhWWZmUAaFgVZop4w/small%20scale%20dense%20watercolor%20leaves%20%2F%2F%20sage%20green%20on%20cream.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Feminine Floral Large Scale ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IgOuIRM4L._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Feminine Floral Large Scale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IgOuIRM4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer ending does not mean #coastalgrandmother season is going anywhere!">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7272722290557717802&location=0&aid=1988' alt='Summer ending does not mean #coastalgrandmother season is going anywhere!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7272722290557717802&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dior, gray, coastal grandma, iphone wallpaper, christian dior ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/a7/b0/49a7b0df662256557e5ee728de3d1ed0.jpg' alt='dior, gray, coastal grandma, iphone wallpaper, christian dior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/a7/b0/49a7b0df662256557e5ee728de3d1ed0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Beach House Summer Fan Wallpaper - Coastal Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/MB31602.jpg?v=1606527205' alt='Seabrook Beach House Summer Fan Wallpaper - Coastal Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/MB31602.jpg?v=1606527205' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Grandma Style Story - A Blissful Nest">
+                                <img itemprop="contentUrl url" src='https://ablissfulnest.com/wp-content/uploads/2023/02/Coastal-grandmother-kitchen-design-gretchenblack.jpeg' alt='Coastal Grandma Style Story - A Blissful Nest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Blissful Nest" />
+                                </span>
+                                <a href='https://ablissfulnest.com/wp-content/uploads/2023/02/Coastal-grandmother-kitchen-design-gretchenblack.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

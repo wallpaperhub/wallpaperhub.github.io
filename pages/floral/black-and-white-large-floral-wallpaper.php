@@ -1,0 +1,129 @@
+<title>Stunning Black and White Floral Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of black and white large floral wallpaper, perfect for elevating your home decor. Create striking focal points with timeless designs that blend elegance and nature. Ideal for any room, this wallpaper adds depth and sophistication to your space. Shop now for a stylish transformation!">
+                    <meta name="keywords" content="black and white large floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/black-and-white-large-floral-wallpaper">
+                            <span itemprop="name">black and white large floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Floral Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning black and white large floral wallpaper. This bold design adds elegance and sophistication, effortlessly enhancing any room. Perfect for creating a striking statement wall or an inviting backdrop, it brings a touch of nature indoors while maintaining a modern edge. Explore versatile styles that harmonize beautifully with any décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Flower Wallpaper, Self Adhesive Wall Decor, Black and White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/a437cf/1737776190/il_fullxfull.1737776190_qdzf.jpg' alt='Peony Flower Wallpaper, Self Adhesive Wall Decor, Black and White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/a437cf/1737776190/il_fullxfull.1737776190_qdzf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C919">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C919_06.png?v=1731691193&width=1946' alt='Black and White Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C919'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C919_06.png?v=1731691193&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Black White Large Floral Outline  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 646a">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4671347648_odie.jpg' alt='Wallpaper Peel and Stick Wallpaper Black White Large Floral Outline  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 646a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4671347648_odie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' alt='Sketch Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' alt='Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="2950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper | Abstract to Floral | EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/collections/PeoniesBlackandWhite4.jpg?v=1679449609&width=1296' alt='Black and White Wallpaper | Abstract to Floral | EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/collections/PeoniesBlackandWhite4.jpg?v=1679449609&width=1296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Cream White Floral Wallpaper Peel and Stick Wallpaper 17.7  inch×118.1 inch Floral Contact Paper Removable Self Adhesive Wallpaper  Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' alt='Black and Cream White Floral Wallpaper Peel and Stick Wallpaper 17.7  inch×118.1 inch Floral Contact Paper Removable Self Adhesive Wallpaper  Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C919">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C919_08.png?v=1731691193&width=1946' alt='Black and White Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C919'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C919_08.png?v=1731691193&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/5/6554d5e227b53.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265' alt='Dark Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/5/6554d5e227b53.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Black and White Large Flowers Wallpaper Mural – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/vintage-black-and-white-large-flowers-wallpaper-mural-22642547753147_800x.jpg?v=1693431662' alt='Vintage Black and White Large Flowers Wallpaper Mural – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/vintage-black-and-white-large-flowers-wallpaper-mural-22642547753147_800x.jpg?v=1693431662' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

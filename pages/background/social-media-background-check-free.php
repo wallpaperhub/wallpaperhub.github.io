@@ -1,0 +1,129 @@
+<title>Free Social Media Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Learn how to perform free social media background checks effectively. Discover key tips, platforms to utilize, and the implications of your findings, all while respecting privacy concerns. Empower your decision-making process in hiring, dating, or networking with this essential guide.">
+                    <meta name="keywords" content="social media background check free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/social-media-background-check-free">
+                            <span itemprop="name">social media background check free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Social Media Background Checks: What You Need to Know</h1>
+                <p>Conducting a social media background check for free can help you uncover valuable insights about an individual. By simply searching platforms like Facebook, Twitter, and Instagram, you can assess their character, interests, and past interactions. Ensure you're aware of privacy concerns and always use this information responsibly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Background Checks: The Dos and Don'ts - AIHR">
+                                <img itemprop="contentUrl url" src='https://www.aihr.com/wp-content/uploads/Social-Media-Background-Checks-Pros-Cons-Blog-1024x1024.png' alt='Social Media Background Checks: The Dos and Don'ts - AIHR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIHR" />
+                                </span>
+                                <a href='https://www.aihr.com/wp-content/uploads/Social-Media-Background-Checks-Pros-Cons-Blog-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Background Checks - Santa Claus - Santa Claus School ...">
+                                <img itemprop="contentUrl url" src='https://worldwide-santa-claus-network.com/wp-content/uploads/2021/09/BackgroundCheckBlog.jpg' alt='Social Media Background Checks - Santa Claus - Santa Claus School ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worldwide Santa Claus Network" />
+                                </span>
+                                <a href='https://worldwide-santa-claus-network.com/wp-content/uploads/2021/09/BackgroundCheckBlog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Background Checks: What You Need to Know - StaffingSoft">
+                                <img itemprop="contentUrl url" src='https://www.staffingsoft.com/wp-content/uploads/2018/01/170713110525-social-media-recruitment-check-eu-780x439.jpg' alt='Social Media Background Checks: What You Need to Know - StaffingSoft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StaffingSoft" />
+                                </span>
+                                <a href='https://www.staffingsoft.com/wp-content/uploads/2018/01/170713110525-social-media-recruitment-check-eu-780x439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Include Social Media in Background Checks?">
+                                <img itemprop="contentUrl url" src='https://screen.verifirst.com/hubfs/Blog_Images/Social%20Media%20Background%20Check%20for%20New%20Hires.png' alt='Can You Include Social Media in Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Screening Blog - VeriFirst" />
+                                </span>
+                                <a href='https://screen.verifirst.com/hubfs/Blog_Images/Social%20Media%20Background%20Check%20for%20New%20Hires.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Background Checks: Screening Beyond the Resume">
+                                <img itemprop="contentUrl url" src='https://www.ismartrecruit.com/upload/blog/main_image/social_media_profile_checking_(1).webp' alt='Social Media Background Checks: Screening Beyond the Resume'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iSmartRecruit" />
+                                </span>
+                                <a href='https://www.ismartrecruit.com/upload/blog/main_image/social_media_profile_checking_(1).webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Background Check in 2025">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/free-background-check-1024x668.jpg' alt='Best Free Background Check in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/free-background-check-1024x668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Background Checks: Employers and Employees Full Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67442e2fd3c7bf5c901e3950_What%20is%20Social%20Media%20Background%20Screening.webp' alt='Social Media Background Checks: Employers and Employees Full Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3609">
+                                <meta itemprop="height" content="2406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67442e2fd3c7bf5c901e3950_What%20is%20Social%20Media%20Background%20Screening.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct a Social Media Background Check | Bulkly">
+                                <img itemprop="contentUrl url" src='https://bulk.ly/wp-content/uploads/2023/11/Social-Media-Background-Check-1024x536.png.webp' alt='How to Conduct a Social Media Background Check | Bulkly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bulkly" />
+                                </span>
+                                <a href='https://bulk.ly/wp-content/uploads/2023/11/Social-Media-Background-Check-1024x536.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Background Check in 2025">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/TruthFinder-4.png' alt='Best Free Background Check in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/TruthFinder-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to effectively (and legally) use social media to vet a ...">
+                                <img itemprop="contentUrl url" src='https://www.hrmorning.com/wp-content/uploads/2024/11/SocialMediaBackgroundChecks.png' alt='How to effectively (and legally) use social media to vet a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HR Morning" />
+                                </span>
+                                <a href='https://www.hrmorning.com/wp-content/uploads/2024/11/SocialMediaBackgroundChecks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

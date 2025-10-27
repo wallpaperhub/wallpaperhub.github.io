@@ -1,0 +1,129 @@
+<title>Epic Thanos iPhone Wallpapers for Marvel Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant Thanos iPhone wallpapers that showcase the Mad Titan in action. Perfect for Marvel enthusiasts, these HD backgrounds will give your phone a heroic touch. Browse, download, and personalize your device today with stunning designs that capture Thanos' essence!">
+                    <meta name="keywords" content="thanos iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/thanos-iphone-wallpaper">
+                            <span itemprop="name">thanos iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Thanos iPhone Wallpapers for Marvel Fans</h1>
+                <p>Transform your device with stunning Thanos iPhone wallpapers! Featuring the iconic Marvel villain in vivid colors and breathtaking designs, these wallpapers are perfect for any fan. Choose from epic battle scenes, powerful poses, and artistic interpretations that bring the Mad Titan to life on your screen. Download and elevate your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/c2/64/4cc2648eb14d86579e62851de66701cc.jpg' alt='Thanos 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/c2/64/4cc2648eb14d86579e62851de66701cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Thanos Snap iPhone Wallpaper Marvel on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/97/cb/c197cb27890d2110e252e4a90ac3b64d.jpg' alt='   Free download Thanos Snap iPhone Wallpaper Marvel on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/97/cb/c197cb27890d2110e252e4a90ac3b64d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos, hand, hands, infinity war, marvel, movie, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/129/231/HD-wallpaper-thanos-hand-hands-infinity-war-marvel-movie.jpg' alt='Thanos, hand, hands, infinity war, marvel, movie, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/129/231/HD-wallpaper-thanos-hand-hands-infinity-war-marvel-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos 4K iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/08/bd/0d08bd909a2acb68c9879691abca8039.jpg' alt='Thanos 4K iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/08/bd/0d08bd909a2acb68c9879691abca8039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found this Thanos wallpaper. Pretty sure it can be used on iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oxpcocn9qvw01.jpg' alt='Found this Thanos wallpaper. Pretty sure it can be used on iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oxpcocn9qvw01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos iPhone Wallpapers - iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/Thanos-iPhone-Wallpaper-scaled.jpg' alt='Thanos iPhone Wallpapers - iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/Thanos-iPhone-Wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Thanos iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/86/a4/a086a42d1ade21e65b782aab58544318.jpg' alt='Awesome Thanos iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/86/a4/a086a42d1ade21e65b782aab58544318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Thanos, avenger, man, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/676/195/HD-wallpaper-gangster-thanos-avenger-man.jpg' alt='Gangster Thanos, avenger, man, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/676/195/HD-wallpaper-gangster-thanos-avenger-man.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Thanos Wallpaper : r/thanosdidnothingwrong">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/U4Idfyos8139IukBOv8x9Uv4zQ_GS-0LKODf8Lc_W8k.jpg?auto=webp&s=02f6f024bab5aed3a67d4123db463ba7e82644b5' alt='iPhone Thanos Wallpaper : r/thanosdidnothingwrong'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/U4Idfyos8139IukBOv8x9Uv4zQ_GS-0LKODf8Lc_W8k.jpg?auto=webp&s=02f6f024bab5aed3a67d4123db463ba7e82644b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos Endgame Poster 4k Marvel Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/thanos-endgame-poster-4k-marvel-iphone-88n0lu7zbjf1shnj.jpg' alt='Thanos Endgame Poster 4k Marvel Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/thanos-endgame-poster-4k-marvel-iphone-88n0lu7zbjf1shnj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

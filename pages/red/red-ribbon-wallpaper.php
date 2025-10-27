@@ -1,0 +1,129 @@
+<title>Charming Red Ribbon Wallpaper for Festive Decor</title>
+                    <meta name="description" content="Add a stylish flair to your home with red ribbon wallpaper. Perfect for holidays or everyday use, it enhances any space with warmth and cheer. Explore a variety of designs to find the perfect match for your decor style. Make your rooms stand out with this vibrant and festive touch!">
+                    <meta name="keywords" content="red ribbon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-ribbon-wallpaper">
+                            <span itemprop="name">red ribbon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Red Ribbon Wallpaper for Festive Decor</h1>
+                <p>Red ribbon wallpaper adds a touch of elegance and vibrancy to any room. Ideal for festive occasions or as a year-round decor element, it brings a fresh, cheerful vibe. Whether in a bold red or detailed with patterns, this wallpaper can transform your space into a warm and welcoming haven. Perfect for living rooms, children's spaces, or holiday cheer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ribbon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661589327449-267c101f0291?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcmliYm9ufGVufDB8fDB8fHww' alt='Red Ribbon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661589327449-267c101f0291?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcmliYm9ufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red ribbon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f6/14/ec/f614ec62a726099ebd46b33d5c3383c0.jpg' alt='red ribbon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f6/14/ec/f614ec62a726099ebd46b33d5c3383c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red #aesthetic #bows">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/1e/f6/291ef6c5b50389263bb1bef6774c0d84.jpg' alt='red #aesthetic #bows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/1e/f6/291ef6c5b50389263bb1bef6774c0d84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ribbon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/realistic-red-ribbon-isolated_23-2150788950.jpg' alt='Red Ribbon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/realistic-red-ribbon-isolated_23-2150788950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6c/e2/27/6ce2278be8037c7ff22bffeade6fffaf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6c/e2/27/6ce2278be8037c7ff22bffeade6fffaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ribbon Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7014248/i/l/G3K2kHqPFiRQRANzIwtJcbVR-wKw4aJvSdkmDBW67Vw07_45i686/7014248-red-ribbon-by-anayawa.jpg' alt='Red Ribbon Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7014248/i/l/G3K2kHqPFiRQRANzIwtJcbVR-wKw4aJvSdkmDBW67Vw07_45i686/7014248-red-ribbon-by-anayawa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ribbon Wallpaper With Ornaments. Royalty Free SVG, Cliparts ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/limbi007/limbi0071803/limbi007180300012/96748786-red-ribbon-wallpaper-with-ornaments.jpg' alt='Red Ribbon Wallpaper With Ornaments. Royalty Free SVG, Cliparts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/limbi007/limbi0071803/limbi007180300012/96748786-red-ribbon-wallpaper-with-ornaments.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/d8/5c/c0d85c2155ee9b1c542d55a215495ee5.jpg' alt='bow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/d8/5c/c0d85c2155ee9b1c542d55a215495ee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful design of white background red ribbon and red bow Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/FDXT1Y/beautiful-design-of-white-background-red-ribbon-and-red-bow-FDXT1Y.jpg' alt='Beautiful design of white background red ribbon and red bow Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/FDXT1Y/beautiful-design-of-white-background-red-ribbon-and-red-bow-FDXT1Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ribbon Sparks Background Material, Red Background, Red Ribbon ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210711/original/pngtree-red-ribbon-sparks-background-material-picture-image_1135072.jpg' alt='Red Ribbon Sparks Background Material, Red Background, Red Ribbon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210711/original/pngtree-red-ribbon-sparks-background-material-picture-image_1135072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

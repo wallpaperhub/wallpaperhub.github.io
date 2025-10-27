@@ -1,0 +1,129 @@
+<title>Stunning Gold Sequin Background for Events & Photography</title>
+                    <meta name="description" content="Elevate your events and photography with a dazzling gold sequin background. Perfect for adding elegance, it creates a captivating sparkle that enhances any setting. Ideal for parties, fashion shoots, and social media, make your moments shine with this eye-catching backdrop!">
+                    <meta name="keywords" content="gold sequin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-sequin-background">
+                            <span itemprop="name">gold sequin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gold Sequin Background for Events & Photography</h1>
+                <p>A gold sequin background instantly adds glamour and sparkle to any setting. Perfect for events, parties, or photography, it creates a stunning visual impact. Use it to enhance your decor, fashion shoots, or video calls, making every moment more memorable. Its shimmering effect captures light beautifully, ensuring you shine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Sequins Backdrop, Sequin Background,multi Size Photo Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11285240/r/il/2591d4/2060489891/il_fullxfull.2060489891_dh4t.jpg' alt='Gold Sequins Backdrop, Sequin Background,multi Size Photo Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11285240/r/il/2591d4/2060489891/il_fullxfull.2060489891_dh4t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Poise3EHome 2Pcs 3Ft x 8Ft Gold Sequin Backdrop Curtain,  Glitter Photography Background, Sequence Xmas Thanksgiving Backdrop for  Wedding ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JcwBc-qbL.jpg' alt='Amazon.com : Poise3EHome 2Pcs 3Ft x 8Ft Gold Sequin Backdrop Curtain,  Glitter Photography Background, Sequence Xmas Thanksgiving Backdrop for  Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JcwBc-qbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 7ft x 7ft Gold Sequin Backdrop Curtain Glitter Photo Booth  Backdrop for Wedding Birthday Baby Shower Event Decorations : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Oz4WzU3zL.jpg' alt='Amazon.com : 7ft x 7ft Gold Sequin Backdrop Curtain Glitter Photo Booth  Backdrop for Wedding Birthday Baby Shower Event Decorations : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Oz4WzU3zL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="510+ Gold Sequin Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1191786620/photo/sequins-reflective-background-golden-sequins-wall-sparkling.jpg?s=612x612&w=0&k=20&c=XXp4bUxpuBjpNm1GrBtM-QoI7vvM5pfS3xKheqPdfac=' alt='510+ Gold Sequin Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1191786620/photo/sequins-reflective-background-golden-sequins-wall-sparkling.jpg?s=612x612&w=0&k=20&c=XXp4bUxpuBjpNm1GrBtM-QoI7vvM5pfS3xKheqPdfac=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66,036 Gold Sequin Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1513394940/photo/background-with-gold-sequins-festive-background-christmas-new-year.jpg?s=612x612&w=gi&k=20&c=hsGN5xe2ATdtiI9otyFMYEgX5RgWQ7LN2HQ-Mbf9gAc=' alt='66,036 Gold Sequin Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1513394940/photo/background-with-gold-sequins-festive-background-christmas-new-year.jpg?s=612x612&w=gi&k=20&c=hsGN5xe2ATdtiI9otyFMYEgX5RgWQ7LN2HQ-Mbf9gAc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Shimmer Sequin - Pillow Cover Backdrop Photobooth Tension ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42953935/r/il/780bae/6336318696/il_570xN.6336318696_mxme.jpg' alt='Gold Shimmer Sequin - Pillow Cover Backdrop Photobooth Tension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42953935/r/il/780bae/6336318696/il_570xN.6336318696_mxme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrops Prop Sequin Fabric Mermaid Sequin Fabric Stretchy Sequin ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/gold_sequins_backdrop_IBD-24143.jpg?v=1605693525' alt='Backdrops Prop Sequin Fabric Mermaid Sequin Fabric Stretchy Sequin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/gold_sequins_backdrop_IBD-24143.jpg?v=1605693525' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Curtain">
+                                <img itemprop="contentUrl url" src='https://backgroundtown.com/cdn/shop/files/glitter-curtain-5x68-fleece-60-x-80-inch-backdrop-779.webp?v=1707946347&width=1500' alt='Glitter Curtain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundTown" />
+                                </span>
+                                <a href='https://backgroundtown.com/cdn/shop/files/glitter-curtain-5x68-fleece-60-x-80-inch-backdrop-779.webp?v=1707946347&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pillow Cover Backdrop(Gold Sequin) - Single-sided(white back) /  8*7.5FT(2438*2280MM) / Yes">
+                                <img itemprop="contentUrl url" src='https://premiumonebackdrops.com/cdn/shop/files/Gold_Sequin-1_1024x.jpg?v=1722437484' alt='Pillow Cover Backdrop(Gold Sequin) - Single-sided(white back) /  8*7.5FT(2438*2280MM) / Yes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Premium One Backdrops" />
+                                </span>
+                                <a href='https://premiumonebackdrops.com/cdn/shop/files/Gold_Sequin-1_1024x.jpg?v=1722437484' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold glitter background with sparkling texture. Golden shimmering ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/11/39/67/1000_F_311396727_traKaQ7kufwEMp5It3EIu7xfzFtiW6wG.jpg' alt='Gold glitter background with sparkling texture. Golden shimmering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/11/39/67/1000_F_311396727_traKaQ7kufwEMp5It3EIu7xfzFtiW6wG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

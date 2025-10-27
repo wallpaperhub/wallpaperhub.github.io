@@ -1,0 +1,129 @@
+<title>Kirishima Aesthetic Wallpapers for Anime Lovers</title>
+                    <meta name="description" content="Explore a collection of Kirishima aesthetic wallpapers designed for true anime fans. Find high-quality, visually appealing backgrounds that showcase Kirishima's charm and energy, perfect for personalizing your devices. Immerse yourself in the anime world with striking, unique designs!">
+                    <meta name="keywords" content="kirishima wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/kirishima-wallpaper-aesthetic">
+                            <span itemprop="name">kirishima wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kirishima Aesthetic Wallpapers for Anime Lovers</h1>
+                <p>Discover stunning Kirishima wallpapers that embody the perfect aesthetic for fans of the vibrant world of anime. Elevate your device's look with these eye-catching designs featuring Kirishima's dynamic personality and vivid colors. Whether you prefer minimalist or bold styles, there's a wallpaper to match your vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d7/3d/01/d73d01af10e65d0e5241f39f2a416d47.jpg' alt='Kirishima Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d7/3d/01/d73d01af10e65d0e5241f39f2a416d47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima Aesthetic Wallpaper | My Hero Academia Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7680/69f77abaebf4d71471b3db9bb0e50a643534759cr1-750-1334v2_uhq.jpg' alt='Kirishima Aesthetic Wallpaper | My Hero Academia Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7680/69f77abaebf4d71471b3db9bb0e50a643534759cr1-750-1334v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/e0/1d/1fe01d92a5d5fd6631f0ac70e9622d33.jpg' alt='Kirishima wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/e0/1d/1fe01d92a5d5fd6631f0ac70e9622d33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima, aesthetic, anime, bnha, eijiro, my hero academia, red ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/350/90/HD-wallpaper-kirishima-aesthetic-anime-bnha-eijiro-my-hero-academia-red.jpg' alt='Kirishima, aesthetic, anime, bnha, eijiro, my hero academia, red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/350/90/HD-wallpaper-kirishima-aesthetic-anime-bnha-eijiro-my-hero-academia-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima Aesthetic wallpaper by Kartyana_ - Download on ZEDGE™ | 8131">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=q6sL4EoZzgC-LfL_v9Bw7zIqvIGurSBvhBUT_VZrUqqs7imaD6vIt6S4fqBi-T9_fJTyq24B5PSZuT7QCCcibUl9bvsN6gQWPvKPMuniCFLTM0SN4vg9qvZ7XxloQWm0X4kcXyz9C_U87UA1uGafVurDQVXTcDkXr6vtYilakdsPe2OOOHl6XjuMFAbAnttGUqiKIO5ueR52-ZhgBvdH0KG8RohyryGsklX45A' alt='Kirishima Aesthetic wallpaper by Kartyana_ - Download on ZEDGE™ | 8131'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=q6sL4EoZzgC-LfL_v9Bw7zIqvIGurSBvhBUT_VZrUqqs7imaD6vIt6S4fqBi-T9_fJTyq24B5PSZuT7QCCcibUl9bvsN6gQWPvKPMuniCFLTM0SN4vg9qvZ7XxloQWm0X4kcXyz9C_U87UA1uGafVurDQVXTcDkXr6vtYilakdsPe2OOOHl6XjuMFAbAnttGUqiKIO5ueR52-ZhgBvdH0KG8RohyryGsklX45A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="              on X: "Eijirou Kirishima (My Hero Academia ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E59eYAkXIAAqikM?format=jpg&name=4096x4096' alt='              on X: "Eijirou Kirishima (My Hero Academia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E59eYAkXIAAqikM?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima wallpaper ❤️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/b6/07/22b60725e26e80dc575fee40a1c91641.jpg' alt='Kirishima wallpaper ❤️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/b6/07/22b60725e26e80dc575fee40a1c91641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kirishima aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/851/916/HD-wallpaper-kirishima-eijirou-aesthetic-anime-husbando-kiri-manly-mha-red.jpg' alt='HD kirishima aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/851/916/HD-wallpaper-kirishima-eijirou-aesthetic-anime-husbando-kiri-manly-mha-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✦          ⁷✦ on X: "Kirishima wallpapers I made ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E_GymmOWUAEFYf3.jpg:large' alt='✦          ⁷✦ on X: "Kirishima wallpapers I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E_GymmOWUAEFYf3.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima Eijiro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b2/aa/8a/b2aa8a1d959d7030235c107ce2c9e378.jpg' alt='Kirishima Eijiro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b2/aa/8a/b2aa8a1d959d7030235c107ce2c9e378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

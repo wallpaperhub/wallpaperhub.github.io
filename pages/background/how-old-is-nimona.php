@@ -1,0 +1,129 @@
+<title>Nimona's Age: Uncovering the Mystery</title>
+                    <meta name="description" content="Discover the intriguing enigma of Nimona's age in Noelle Stevenson's graphic novel. Explore her youthful essence, character dynamics, and how her age shapes the story. Dive into the world of shapeshifting and adventure with Nimona!">
+                    <meta name="keywords" content="how old is nimona">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-old-is-nimona">
+                            <span itemprop="name">how old is nimona</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nimona's Age: Uncovering the Mystery</h1>
+                <p>In the graphic novel "Nimona" by Noelle Stevenson, Nimona is a shapeshifter with a youthful and mischievous personality. While her exact age isn't specified, she is often perceived as a teenager, navigating her identity and powers throughout the story. Her age plays a crucial role in her character development and relationship dynamics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/7/76/Nimona_cover.jpg' alt='Nimona - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="193">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/7/76/Nimona_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona (film) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/f/f5/Nimona_poster.png' alt='Nimona (film) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/f/f5/Nimona_poster.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona (Movie Character) | Nimona Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nimona/images/e/ef/Nimona_Concept_Art_Shapeshifts_6.webp/revision/latest/scale-to-width-down/1200?cb=20230702171123' alt='Nimona (Movie Character) | Nimona Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nimona Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nimona/images/e/ef/Nimona_Concept_Art_Shapeshifts_6.webp/revision/latest/scale-to-width-down/1200?cb=20230702171123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona (Movie Character) | Nimona Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nimona/images/7/76/Nimona_film_poster_with_credits.jpg/revision/latest/scale-to-width-down/250?cb=20230519211906' alt='Nimona (Movie Character) | Nimona Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nimona Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nimona/images/7/76/Nimona_film_poster_with_credits.jpg/revision/latest/scale-to-width-down/250?cb=20230519211906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Nimona: A Netflix Film: 9780062278227: Stevenson, ND ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51fnV3oHTWL._AC_SY200_QL15_.jpg' alt='Amazon.com: Nimona: A Netflix Film: 9780062278227: Stevenson, ND ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="135">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51fnV3oHTWL._AC_SY200_QL15_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona | Nimona Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nimona/images/b/ba/Nimona_standing.webp/revision/latest/scale-to-width-down/250?cb=20230702171215' alt='Nimona | Nimona Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nimona Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nimona/images/b/ba/Nimona_standing.webp/revision/latest/scale-to-width-down/250?cb=20230702171215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona - Cast, Ages, Trivia | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/group_images/medium/nimona-movie.jpg' alt='Nimona - Cast, Ages, Trivia | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/group_images/medium/nimona-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nimona | Nimona Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nimona/images/3/3c/Icon_of_Nimona_by_ND_Stevenson.jpg/revision/latest/thumbnail/width/360/height/360?cb=20140510235121' alt='Nimona | Nimona Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nimona Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nimona/images/3/3c/Icon_of_Nimona_by_ND_Stevenson.jpg/revision/latest/thumbnail/width/360/height/360?cb=20140510235121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix saves Nimona after Disney scrapped LGBTQ-friendly animated ...">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/U68FyxXOVBwf0X6d60V42C60UNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nimona-2614c2735f8b4ef09d68e7d270a0dd9e.jpg' alt='Netflix saves Nimona after Disney scrapped LGBTQ-friendly animated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/U68FyxXOVBwf0X6d60V42C60UNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nimona-2614c2735f8b4ef09d68e7d270a0dd9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Netflix's 'Nimona' shapeshifted its way to the screen - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/dd27dce/2147483647/strip/true/crop/2550x3300+0+0/resize/1200x1553!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fe7%2Fddfc1f2d4b3aaf695daec2eed41f%2Fnimona-sketches1.jpg' alt='How Netflix's 'Nimona' shapeshifted its way to the screen - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/dd27dce/2147483647/strip/true/crop/2550x3300+0+0/resize/1200x1553!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fe7%2Fddfc1f2d4b3aaf695daec2eed41f%2Fnimona-sketches1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

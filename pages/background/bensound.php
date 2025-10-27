@@ -1,0 +1,129 @@
+<title>Discover Bensound: Royalty-Free Music for Your Projects</title>
+                    <meta name="description" content="Explore Bensound’s extensive library of royalty-free music, perfect for videos, presentations, and podcasts. With genres ranging from acoustic to cinematic, find the ideal soundtrack to enhance your creative projects. Easy licensing makes it accessible for all creators!">
+                    <meta name="keywords" content="bensound">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bensound">
+                            <span itemprop="name">bensound</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Bensound: Royalty-Free Music for Your Projects</h1>
+                <p>Bensound is a popular royalty-free music platform that offers a wide range of high-quality tracks for various projects. Whether for videos, podcasts, or presentations, Bensound provides music across genres like acoustic, cinematic, and corporate. With easy licensing options, it’s perfect for creators seeking engaging soundscapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound - Royalty Free Music for Videos - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/fUSrVKe8ykXAuXJFJLNx_n70K3sT7h5HXqrnNX80iMMTVZAs0ygbS0o1oF5mVsUxKA2tvZnz=s900-c-k-c0x00ffffff-no-rj' alt='Bensound - Royalty Free Music for Videos - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/fUSrVKe8ykXAuXJFJLNx_n70K3sT7h5HXqrnNX80iMMTVZAs0ygbS0o1oF5mVsUxKA2tvZnz=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound: "Endless Motion"">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0IGZmEELwcM/maxresdefault.jpg' alt='Bensound: "Endless Motion"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0IGZmEELwcM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/637693ec89260e4b7dde98df/639744ecc35fe637fd3cfd13_BenSound.png' alt='Bensound'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motionimo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/637693ec89260e4b7dde98df/639744ecc35fe637fd3cfd13_BenSound.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound Reviews 2025: Details, Pricing, & Features | G2">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b600588990ac430000e65618174d3b/bensound.png' alt='Bensound Reviews 2025: Details, Pricing, & Features | G2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b600588990ac430000e65618174d3b/bensound.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound - Evernote.Design">
+                                <img itemprop="contentUrl url" src='https://www.evernote.design/assets/images/bensound.jpg' alt='Bensound - Evernote.Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evernote.Design" />
+                                </span>
+                                <a href='https://www.evernote.design/assets/images/bensound.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound - Royalty Free Music for Videos - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0oH9zS6Lufw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDsc8sNOVrnzuSDfETeBDeVUHiYTA' alt='Bensound - Royalty Free Music for Videos - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0oH9zS6Lufw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDsc8sNOVrnzuSDfETeBDeVUHiYTA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound - Crunchbase Company Profile & Funding">
+                                <img itemprop="contentUrl url" src='https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wnw5wcu1lzvh0ooz8czv' alt='Bensound - Crunchbase Company Profile & Funding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchbase" />
+                                </span>
+                                <a href='https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wnw5wcu1lzvh0ooz8czv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bensound - Funny Song: listen with lyrics | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/cover/66aa1ee8489b709a28b7d1e475c2ff70/1900x1900-000000-80-0-0.jpg' alt='Bensound - Funny Song: listen with lyrics | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/cover/66aa1ee8489b709a28b7d1e475c2ff70/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bensound album songs: Endless Motion | Boomplay Music">
+                                <img itemprop="contentUrl url" src='https://source.boomplaymusic.com/group10/M00/01/07/b9a6dfe0a6404d5e9f131dab8f522000_464_464.jpg' alt='Download Bensound album songs: Endless Motion | Boomplay Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boomplay" />
+                                </span>
+                                <a href='https://source.boomplaymusic.com/group10/M00/01/07/b9a6dfe0a6404d5e9f131dab8f522000_464_464.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer - song and lyrics by Bensound | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273dd8d62c7250a00d592cbcf25' alt='Summer - song and lyrics by Bensound | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273dd8d62c7250a00d592cbcf25' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Brighten Your Device: Cute Sunshine Wallpaper Collection</title>
+                    <meta name="description" content="Discover the perfect cute sunshine wallpaper to liven up your device! Explore our vibrant collection of cheerful designs featuring sunny illustrations and joyful landscapes ideal for any mood. Make your screen shine with positivity and warmth, and transform your digital experience today!">
+                    <meta name="keywords" content="cute sunshine wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-sunshine-wallpaper">
+                            <span itemprop="name">cute sunshine wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Device: Cute Sunshine Wallpaper Collection</h1>
+                <p>Transform your device with cute sunshine wallpaper that brings warmth and joy to your screen! These vibrant, cheerful designs radiate positivity and are perfect for brightening up your day. Whether you prefer adorable sun illustrations or scenic sunny landscapes, our collection offers something special to enhance your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sun Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_pattern.jpg' alt='Cute Sun Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/04/cute_sun_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sunshine background wallpaper yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/dc/28/9bdc2822e87ccbb89f3b647fa47da4e1.jpg' alt='sunshine background wallpaper yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/dc/28/9bdc2822e87ccbb89f3b647fa47da4e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shine Bright Like A Cute Sun! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shine-bright-like-a-cute-sun-kbo2g5g5kuzh6b8m.jpg' alt='Shine Bright Like A Cute Sun! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="1646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shine-bright-like-a-cute-sun-kbo2g5g5kuzh6b8m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spread some sunshine! Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sunshine-w4l5f32b7shmukw4.jpg' alt='Download Spread some sunshine! Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sunshine-w4l5f32b7shmukw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brighten Up Your Day With A Cute Sun Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/brighten-up-your-day-with-a-cute-sun-63bvdekp9cxwtgsi.jpg' alt='Brighten Up Your Day With A Cute Sun Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/brighten-up-your-day-with-a-cute-sun-63bvdekp9cxwtgsi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33,000+ Cute Sun Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1155722386/vector/vector-seamless-pattern-with-cute-smiling-sun-kawaii-icons-sky-background-for-kids-fashion.jpg?s=612x612&w=0&k=20&c=P1RTL77RpVHnTDWfxa0cIbOHd3pt7VkpXCtq7MJe8EY=' alt='33,000+ Cute Sun Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1155722386/vector/vector-seamless-pattern-with-cute-smiling-sun-kawaii-icons-sky-background-for-kids-fashion.jpg?s=612x612&w=0&k=20&c=P1RTL77RpVHnTDWfxa0cIbOHd3pt7VkpXCtq7MJe8EY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Feel the joy of the sunshine! Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sunshine-iuq3gv9chk0rju1v.jpg' alt='Download Feel the joy of the sunshine! Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sunshine-iuq3gv9chk0rju1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/89/52/0389524b453d6c3453e997845a56c3f7.jpg' alt='cute sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/89/52/0389524b453d6c3453e997845a56c3f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute seamless pattern of sun icons. Funny happy ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-seamless-pattern-sun-icons-funny-happy-smiley-suns-bright-beautiful-cartoon-background_217204-1277.jpg' alt='Premium Vector | Cute seamless pattern of sun icons. Funny happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-seamless-pattern-sun-icons-funny-happy-smiley-suns-bright-beautiful-cartoon-background_217204-1277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunshine Desktop Wallpaper by AmyThornRose on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/784188cd-8a5d-4938-9737-85445a02517a/d1wut1q-2953fe20-5200-4c9c-97e9-9bef5b9d4100.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4NDE4OGNkLThhNWQtNDkzOC05NzM3LTg1NDQ1YTAyNTE3YVwvZDF3dXQxcS0yOTUzZmUyMC01MjAwLTRjOWMtOTdlOS05YmVmNWI5ZDQxMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lqjCuRN5U24El5Fv-ozP6RqOVn-6-FWYHDdusPa9yGk' alt='Sunshine Desktop Wallpaper by AmyThornRose on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/784188cd-8a5d-4938-9737-85445a02517a/d1wut1q-2953fe20-5200-4c9c-97e9-9bef5b9d4100.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4NDE4OGNkLThhNWQtNDkzOC05NzM3LTg1NDQ1YTAyNTE3YVwvZDF3dXQxcS0yOTUzZmUyMC01MjAwLTRjOWMtOTdlOS05YmVmNWI5ZDQxMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lqjCuRN5U24El5Fv-ozP6RqOVn-6-FWYHDdusPa9yGk' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

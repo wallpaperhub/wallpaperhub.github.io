@@ -1,0 +1,129 @@
+<title>Patriotic Wallpaper: Transform Your Space with National Pride</title>
+                    <meta name="description" content="Enhance your decor with stunning patriotic wallpaper that showcases your love for your country. Featuring vibrant designs and iconic symbols, our collection offers the perfect way to express your national pride in any room. Explore a variety of styles that inspire and uplift your home environment today!">
+                    <meta name="keywords" content="patriotic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/patriotic-wallpaper">
+                            <span itemprop="name">patriotic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Patriotic Wallpaper: Transform Your Space with National Pride</h1>
+                <p>Patriotic wallpaper brings a vibrant touch of national pride to your space. With designs featuring flags, landmarks, and symbolic colors, it exudes a sense of unity and celebration. Whether decorating a room or planning for a national holiday, these wallpapers inspire feelings of love and honor for your country while enhancing your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD American Flag Wallpaper – Patriotic Background by patrika">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/133/1338583.png' alt='HD American Flag Wallpaper – Patriotic Background by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/133/1338583.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Patriotic Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1464660756002-dd9f9a92b01b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGF0cmlvdGljfGVufDB8fDB8fHww' alt='500+ Patriotic Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1464660756002-dd9f9a92b01b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGF0cmlvdGljfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faded American Patriotic Background | Wallpaper Designs and ...">
+                                <img itemprop="contentUrl url" src='https://vfwauxiliary.org/wp-content/uploads/GettyImages-175482414-scaled.jpg' alt='Faded American Patriotic Background | Wallpaper Designs and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VFW Auxiliary" />
+                                </span>
+                                <a href='https://vfwauxiliary.org/wp-content/uploads/GettyImages-175482414-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Patriotic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lovely-patriotic-freedom-qojcrmc6biyo44jm.jpg' alt='100+] Patriotic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lovely-patriotic-freedom-qojcrmc6biyo44jm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="840 Patriotic iPhone Wallpaper ideas in 2025 | american flag ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/43/8c/d3/438cd3698e4035a1a0585b195dec8df8.jpg' alt='840 Patriotic iPhone Wallpaper ideas in 2025 | american flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/43/8c/d3/438cd3698e4035a1a0585b195dec8df8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patriotic Background Photos, Download The BEST Free Patriotic ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/973049/pexels-photo-973049.jpeg?cs=srgb&dl=pexels-sawyersutton-973049.jpg&fm=jpg' alt='Patriotic Background Photos, Download The BEST Free Patriotic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/973049/pexels-photo-973049.jpeg?cs=srgb&dl=pexels-sawyersutton-973049.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patriotic Backgrounds Images – Browse 1,831,257 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/55/24/05/360_F_355240513_ZKLZ90NU7lq1eaOA3fg27unhZnrgVmrv.jpg' alt='Patriotic Backgrounds Images – Browse 1,831,257 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/55/24/05/360_F_355240513_ZKLZ90NU7lq1eaOA3fg27unhZnrgVmrv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/7a/ee/7e7aee2f730e6b92da6437c6e9677902.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/7a/ee/7e7aee2f730e6b92da6437c6e9677902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patriotic Backgrounds Images – Browse 1,831,257 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/20/88/30/360_F_320883069_VT7OJSF7Cy9B8g0hoZNspWTSD4cItlrF.jpg' alt='Patriotic Backgrounds Images – Browse 1,831,257 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/20/88/30/360_F_320883069_VT7OJSF7Cy9B8g0hoZNspWTSD4cItlrF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Wallpaper – 1776 United">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0290/8845/files/dangerous-freedom-mobile-wallpaper.jpg?4208289267006476542' alt='Mobile Phone Wallpaper – 1776 United'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1776 United" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0290/8845/files/dangerous-freedom-mobile-wallpaper.jpg?4208289267006476542' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

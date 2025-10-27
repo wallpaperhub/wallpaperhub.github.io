@@ -1,0 +1,129 @@
+<title>Epic iPhone Groot Wallpapers: Elevate Your Screen!</title>
+                    <meta name="description" content="Explore a collection of unique iPhone Groot wallpapers that perfectly capture the charm of your favorite character. Download high-quality designs for an eye-catching look on your device. Perfect for fans looking to personalize their screens with Groot's iconic presence!">
+                    <meta name="keywords" content="iphone groot wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-groot-wallpaper">
+                            <span itemprop="name">iphone groot wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic iPhone Groot Wallpapers: Elevate Your Screen!</h1>
+                <p>Discover stunning iPhone Groot wallpapers that bring the beloved character to life on your screen! From vibrant illustrations to minimalist designs, find the perfect background to showcase your love for Guardians of the Galaxy. Customize your device with these eye-catching wallpapers and celebrate Groot in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot iPhone Wallpapers - Top Free Groot iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/9b/cb/c39bcb086e066211f74704747d450c29.jpg' alt='Groot iPhone Wallpapers - Top Free Groot iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/9b/cb/c39bcb086e066211f74704747d450c29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/d/3/461204-2160x3840-samsung-4k-groot-wallpaper-image.jpg' alt='Groot Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/d/3/461204-2160x3840-samsung-4k-groot-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Baby Groot 4k Marvel Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baby-groot-4k-marvel-iphone-lpzm2296sdun4c15.jpg' alt='Download Baby Groot 4k Marvel Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baby-groot-4k-marvel-iphone-lpzm2296sdun4c15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone baby groot wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/23/cc/5323cc648f9ae5e9de9eda2e693c1b98.jpg' alt='Iphone baby groot wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/23/cc/5323cc648f9ae5e9de9eda2e693c1b98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone x, edge, groot, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/937/960/HD-wallpaper-iphone-x-edge-groot.jpg' alt='Iphone x, edge, groot, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/937/960/HD-wallpaper-iphone-x-edge-groot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Groot iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-111115/Baby-Groot-Samsung-Galaxy-Note-9-8-S9-S8-S8-QHD-HD.jpg' alt='Best Groot iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-111115/Baby-Groot-Samsung-Galaxy-Note-9-8-S9-S8-S8-QHD-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Groot Wallpaper 4K, Flower crown, Cute art, Aesthetic">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/baby-groot-cute-art-640x1136-11964.jpg' alt='Baby Groot Wallpaper 4K, Flower crown, Cute art, Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/baby-groot-cute-art-640x1136-11964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot Artwork Marvel Iphone Xr Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/groot-artwork-marvel-iphone-xr-95mbi1oq63u1x3t9.jpg' alt='Groot Artwork Marvel Iphone Xr Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/groot-artwork-marvel-iphone-xr-95mbi1oq63u1x3t9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 840x1336 cute baby groot, adorable eyes, 2023 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/840x1336/17bb17/cute-baby-groot-2023.jpg' alt='Download wallpaper 840x1336 cute baby groot, adorable eyes, 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/840x1336/17bb17/cute-baby-groot-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Am Groot Series 4K Wallpaper iPhone HD Phone #8250i">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/i-am-groot-series-825@0@i-phone-4k.jpg' alt='I Am Groot Series 4K Wallpaper iPhone HD Phone #8250i'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/i-am-groot-series-825@0@i-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

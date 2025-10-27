@@ -1,0 +1,129 @@
+<title>Embrace Autumn with Stunning Fall Flower Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of fall flower wallpaper that captures the essence of autumn. Transform your space with vibrant colors and floral designs that create a warm, inviting atmosphere. Perfectly designed for mobile display, enhance your décor effortlessly and celebrate the seasonal charm.">
+                    <meta name="keywords" content="fall flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-flower-wallpaper">
+                            <span itemprop="name">fall flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Autumn with Stunning Fall Flower Wallpaper</h1>
+                <p>Fall flower wallpaper brings the vibrant hues of autumn indoors, transforming your space with seasonal charm. Featuring rich oranges, deep reds, and soft yellows, these floral designs evoke warmth and a cozy atmosphere. Perfect for any room, they celebrate the beauty of nature while adding a touch of elegance to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Flowers Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1666899829236-0fc4e8ac0116?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFsbCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' alt='Fall Flowers Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1666899829236-0fc4e8ac0116?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFsbCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Dark Fall Wild Flower Wallpaper Peel and Stick Vintage Butterfly  Floral Wallpaper for Bedroom Bathroom Removable 17.7''x118'' Dark Botanical  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yYUS9ySOL.jpg' alt='VEELIKE Dark Fall Wild Flower Wallpaper Peel and Stick Vintage Butterfly  Floral Wallpaper for Bedroom Bathroom Removable 17.7''x118'' Dark Botanical  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yYUS9ySOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Flowers Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1603983856087-c175061451de?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFsbCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' alt='Fall Flowers Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1603983856087-c175061451de?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFsbCUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Vintage Fall Floral Wallpaper Peel and Stick Daisy Peony Floral  Removable Wallpaper for Bedroom 17.7''x354'' Dark Floral Wall Mural  Prepasted ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91P3wMHBnjL.jpg' alt='VEELIKE Vintage Fall Floral Wallpaper Peel and Stick Daisy Peony Floral  Removable Wallpaper for Bedroom 17.7''x354'' Dark Floral Wall Mural  Prepasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91P3wMHBnjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Fall Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/280/1435/fall_dark_flowers_wallpaper__86110.1720034506.jpg?c=2' alt='Dark Fall Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/280/1435/fall_dark_flowers_wallpaper__86110.1720034506.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="974,700+ Fall Flowers Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332195735/photo/red-chrysanthemums-autumn-garden-bright-sunlight-through-the-flower-petals.jpg?s=612x612&w=0&k=20&c=4hkZjdmPGgfYrH4XvK5wpF1kNenUPQXDzmSGATlgvSI=' alt='974,700+ Fall Flowers Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332195735/photo/red-chrysanthemums-autumn-garden-bright-sunlight-through-the-flower-petals.jpg?s=612x612&w=0&k=20&c=4hkZjdmPGgfYrH4XvK5wpF1kNenUPQXDzmSGATlgvSI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Fall iPhone Wallpapers To Get You In The Spirit – Floral And ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/df/a1/c0dfa10932e4bb71f5f73e6a10d98f7c.jpg' alt='20 Fall iPhone Wallpapers To Get You In The Spirit – Floral And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/df/a1/c0dfa10932e4bb71f5f73e6a10d98f7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Flowers Images – Browse 1,739,329 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/17/83/40/360_F_217834055_rFkElWBi4TkF7InAa4M4txQ2WCAfGHpy.jpg' alt='Fall Flowers Images – Browse 1,739,329 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/17/83/40/360_F_217834055_rFkElWBi4TkF7InAa4M4txQ2WCAfGHpy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral autumn screensaver: screenshot to use on your phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/14/44/991444338800ed7c41708c437520e4de.jpg' alt='Floral autumn screensaver: screenshot to use on your phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/14/44/991444338800ed7c41708c437520e4de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Flowers Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-autumn-background_23-2149107172.jpg' alt='Fall Flowers Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-autumn-background_23-2149107172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

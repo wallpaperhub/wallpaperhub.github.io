@@ -1,0 +1,129 @@
+<title>Trust in the Lord: Uplifting Wallpaper Designs</title>
+                    <meta name="description" content="Discover inspiring wallpaper designs featuring "Trust in the Lord with all your heart." Elevate your home decor with faith-driven aesthetics that manifest positivity and resilience daily. Perfect for any room, these wallpapers encourage a deeper connection to your beliefs while beautifying your space.">
+                    <meta name="keywords" content="wallpaper trust in the lord with all your heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/wallpaper-trust-in-the-lord-with-all-your-heart">
+                            <span itemprop="name">wallpaper trust in the lord with all your heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trust in the Lord: Uplifting Wallpaper Designs</h1>
+                <p>Transform your space with uplifting wallpaper designs centered around the phrase "Trust in the Lord with all your heart." These inspiring visuals not only beautify your home but also serve as daily reminders to embrace faith and resilience. Let your walls reflect hope and positivity, encouraging you to stay connected to your beliefs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust In The Lord With All Your Heart And Lean Not On Your Own ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/trust-in-the-lord-with-all-your-heart-and-lean-not-on-your-own-understanding-proverbs-3-5-etbs52vn8zwsdh8x.jpg' alt='Trust In The Lord With All Your Heart And Lean Not On Your Own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/trust-in-the-lord-with-all-your-heart-and-lean-not-on-your-own-understanding-proverbs-3-5-etbs52vn8zwsdh8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise Proverbs 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Paradise_Prov_3-5-6_Web-1.png' alt='Paradise Proverbs 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Paradise_Prov_3-5-6_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord With All Your Heart Proverbs 3:5 Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8716072/r/il/73529a/5770871113/il_1080xN.5770871113_d6a8.jpg' alt='Trust in the Lord With All Your Heart Proverbs 3:5 Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8716072/r/il/73529a/5770871113/il_1080xN.5770871113_d6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Proverbs 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Purple_Prov_3-5-6_Web-1.jpg' alt='Purple Proverbs 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Purple_Prov_3-5-6_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 3:5 Bibleverse wallpaper - Trust in the Lord with all ...">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623266279/quotes/en/t6gyh8vhq1ezitgmv0ih.jpg' alt='Proverbs 3:5 Bibleverse wallpaper - Trust in the Lord with all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623266279/quotes/en/t6gyh8vhq1ezitgmv0ih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Wallpaper ideas | proverbs 3 5 6, proverbs 3, proverbs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/9d/99/b0/9d99b0da871494d49ba763affb5aaf2c.jpg' alt='7 Wallpaper ideas | proverbs 3 5 6, proverbs 3, proverbs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/9d/99/b0/9d99b0da871494d49ba763affb5aaf2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download “Trust in the Lord with all your heart” Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-bible-verse-1242-x-2208-wallpaper-oablytm6acq6hbqj.jpg' alt='Download “Trust in the Lord with all your heart” Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-bible-verse-1242-x-2208-wallpaper-oablytm6acq6hbqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord With All Your Heart Wall Art Sign Canvas Print ...">
+                                <img itemprop="contentUrl url" src='https://christfollowerlife.com/cdn/shop/products/trust-in-the-lord-with-all-your-heart-proverbs-35-canvas-print-bible-verse-wall-art-138_1200x.jpg?v=1644812774' alt='Trust in the Lord With All Your Heart Wall Art Sign Canvas Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christ Follower Life" />
+                                </span>
+                                <a href='https://christfollowerlife.com/cdn/shop/products/trust-in-the-lord-with-all-your-heart-proverbs-35-canvas-print-bible-verse-wall-art-138_1200x.jpg?v=1644812774' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Encouraging Wednesdays ... Proverbs 3:5">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/99/45/999945b00d9441d9f2ee0260aee47acd.jpg' alt='Encouraging Wednesdays ... Proverbs 3:5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/99/45/999945b00d9441d9f2ee0260aee47acd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Heart Prov 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Sun_Heart_Prov_3-5-6_Web-1.png' alt='Sun Heart Prov 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Sun_Heart_Prov_3-5-6_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

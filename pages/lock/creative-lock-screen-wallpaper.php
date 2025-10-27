@@ -1,0 +1,129 @@
+<title>Creative Lock Screen Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Explore a stunning collection of creative lock screen wallpapers to elevate your mobile experience. Discover unique designs that reflect your personality and enhance your device's aesthetics, making every unlock a delightful moment.">
+                    <meta name="keywords" content="creative lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/creative-lock-screen-wallpaper">
+                            <span itemprop="name">creative lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Lock Screen Wallpapers: Personalize Your Device</h1>
+                <p>Transform your device with creative lock screen wallpapers that express your unique style! From mesmerizing landscapes to abstract art, there's a wallpaper for every mood. Discover designs that inspire and energize you every time you unlock your phone. Elevate your screen aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='100+] Cool Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' alt='100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unlock Your Creative Potential Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-iphone-lock-screen-1242-x-2208-4g44ivo5ehnljt3c.jpg' alt='Download Unlock Your Creative Potential Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-iphone-lock-screen-1242-x-2208-4g44ivo5ehnljt3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drain Battery Funny Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/drain-battery-funny-lock-screen-i05cyf6d0aa1nse5.jpg' alt='Drain Battery Funny Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/drain-battery-funny-lock-screen-i05cyf6d0aa1nse5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530 Best Lock screen wallpaper ideas in 2025 | wallpaper, screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/cf/b3/a7/cfb3a7905b6ae1c5f1c7297d5143dd3a.jpg' alt='530 Best Lock screen wallpaper ideas in 2025 | wallpaper, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/cf/b3/a7/cfb3a7905b6ae1c5f1c7297d5143dd3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Your Own Lock Screen Wallpapers for FREE | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-09-06/a04f2dc0-3c4e-4894-81a6-104341b595b6.gif' alt='How To Make Your Own Lock Screen Wallpapers for FREE | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-09-06/a04f2dc0-3c4e-4894-81a6-104341b595b6.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Lock Screen Mobile Wallpapers ideas | screen wallpaper, lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cb/46/f2/cb46f2ae892cc264514e5c51c81cd2be.jpg' alt='95 Lock Screen Mobile Wallpapers ideas | screen wallpaper, lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cb/46/f2/cb46f2ae892cc264514e5c51c81cd2be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intricate Abstract Logo Design On Cool Lock Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/intricate-abstract-logo-design-on-cool-lock-screen-1un3m21nmpas9a9y.jpg' alt='Intricate Abstract Logo Design On Cool Lock Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/intricate-abstract-logo-design-on-cool-lock-screen-1un3m21nmpas9a9y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get creative with your secure lock screens Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tricky-lock-screen-640-x-1422-u1di52x8m2b9kgyz.jpg' alt='Download Get creative with your secure lock screens Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tricky-lock-screen-640-x-1422-u1di52x8m2b9kgyz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

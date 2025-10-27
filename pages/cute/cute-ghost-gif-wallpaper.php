@@ -1,0 +1,129 @@
+<title>Charming Cute Ghost GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover adorable cute ghost GIF wallpapers that bring a playful spirit to your screen! Perfect for Halloween or year-round fun, these charming designs add a whimsical touch to any device. Download now to give your background a delightful upgrade!">
+                    <meta name="keywords" content="cute ghost gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-ghost-gif-wallpaper">
+                            <span itemprop="name">cute ghost gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Cute Ghost GIF Wallpapers for Your Device</h1>
+                <p>Embrace the spooky season with adorable cute ghost GIF wallpapers! Whether you're decorating for Halloween or simply love playful specters, these lively wallpapers add a whimsical touch to your device. From mischievous little ghosts to friendly phantoms, elevate your screens with charm and delight. Ideal for all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Ghost Gifs - If It's Hip, It's Here">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/80/98/a6/8098a6f6c9c2b6fec05b08d237c1c668.gif' alt='Animated Ghost Gifs - If It's Hip, It's Here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/80/98/a6/8098a6f6c9c2b6fec05b08d237c1c668.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/iSpHfcsb-xEAAAAM/cute-ghost.gif' alt='Cute Ghost GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/iSpHfcsb-xEAAAAM/cute-ghost.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/sReLN5WDshcAAAAM/ghost-peaches.gif' alt='Cute Ghost GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/sReLN5WDshcAAAAM/ghost-peaches.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute halloween ghost">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/05/97/b1/0597b171925ff0f2f009785b14bb9d44.gif' alt='Cute halloween ghost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/05/97/b1/0597b171925ff0f2f009785b14bb9d44.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghostly Wink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/85/1d/be/851dbe77a8be7a094def034f1e8103d3.gif' alt='Ghostly Wink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/85/1d/be/851dbe77a8be7a094def034f1e8103d3.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute ghost fying by Diana Maftei on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/29249850/file/original-e073c00c6e239dcbbf419386343f7bd0.gif' alt='Cute ghost fying by Diana Maftei on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/29249850/file/original-e073c00c6e239dcbbf419386343f7bd0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boo Ghost Image GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/l4pMdRYrYUKI6I2ZO/200w.gif?cid=6c09b9521vkfksr8eeu7t6c7tpro6e0t2fe09mm4g33hb0gs&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Boo Ghost Image GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/l4pMdRYrYUKI6I2ZO/200w.gif?cid=6c09b9521vkfksr8eeu7t6c7tpro6e0t2fe09mm4g33hb0gs&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Halloween Scary - Free GIF on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/animation/2023/10/23/13/49/13-49-38-946_512.gif' alt='Ghost Halloween Scary - Free GIF on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/animation/2023/10/23/13/49/13-49-38-946_512.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If It's Hip It's Here | The latest in global design and creativity">
+                                <img itemprop="contentUrl url" src='https://www.ifitshipitshere.com/wp-content/uploads/2016/10/ghost-trio.gif' alt='If It's Hip It's Here | The latest in global design and creativity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="If It's Hip It's Here | The latest in global design and creativity" />
+                                </span>
+                                <a href='https://www.ifitshipitshere.com/wp-content/uploads/2016/10/ghost-trio.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/FNE4fz2cIwkAAAAM/ghost-night-dance.gif' alt='Cute Ghost GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/FNE4fz2cIwkAAAAM/ghost-night-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

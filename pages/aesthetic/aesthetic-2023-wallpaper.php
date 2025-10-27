@@ -1,0 +1,129 @@
+<title>Aesthetic Wallpaper Trends 2023 for Your Devices</title>
+                    <meta name="description" content="Discover the top aesthetic wallpaper trends for 2023! Elevate your devices with stunning visuals, from dreamy landscapes to abstract designs. Perfect for expressing your unique style and staying trendy. Explore chic options that cater to all tastes and transform your screen today!">
+                    <meta name="keywords" content="aesthetic 2023 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-2023-wallpaper">
+                            <span itemprop="name">aesthetic 2023 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Wallpaper Trends 2023 for Your Devices</h1>
+                <p>Aesthetic 2023 wallpapers are set to transform your devices with their unique blend of color, pattern, and style. Featuring dreamy landscapes, abstract shapes, and vintage vibes, these wallpapers cater to every personality. Elevate your screens and express your individuality with stunning visuals that resonate with the latest trends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Aesthetic Pastel Happy New Year 2023 Organizer Desktop ...">
+                                <img itemprop="contentUrl url" src='https://iili.io/HcUBs3u.png' alt='Brown Aesthetic Pastel Happy New Year 2023 Organizer Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freeimage.host" />
+                                </span>
+                                <a href='https://iili.io/HcUBs3u.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello 2023 - 80 Best 2023 Wallpapers - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/11/Hello-2023-Aesthetic-Wallpaper-38-300x650.jpg' alt='Hello 2023 - 80 Best 2023 Wallpapers - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/11/Hello-2023-Aesthetic-Wallpaper-38-300x650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Phone 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11337217.jpg' alt='Aesthetic Phone 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11337217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Goals: How to Make Aesthetic Wallpaper Tutorial">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7181918266191809798&location=0&aid=1988' alt='2023 Goals: How to Make Aesthetic Wallpaper Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7181918266191809798&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello 2023 - 80 Best 2023 Wallpapers - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/11/Hello-2023-Aesthetic-Wallpaper-23-300x650.jpg' alt='Hello 2023 - 80 Best 2023 Wallpapers - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/11/Hello-2023-Aesthetic-Wallpaper-23-300x650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11813002.jpg' alt='2023 Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11813002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 New year Wallpaper 4K, Happy New Year">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/2023-new-year-happy-new-year-christmas-decoration-christmas-2048x2048-8838.jpg' alt='2023 New year Wallpaper 4K, Happy New Year'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/2023-new-year-happy-new-year-christmas-decoration-christmas-2048x2048-8838.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2023 on Paper Aesthetic beauty memphis background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/161/008/non_2x/happy-new-year-2023-on-paper-aesthetic-beauty-memphis-background-vector.jpg' alt='Happy New Year 2023 on Paper Aesthetic beauty memphis background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/161/008/non_2x/happy-new-year-2023-on-paper-aesthetic-beauty-memphis-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Desktop Wallpaper Calendar Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/02/Floral-Watercolor-Desktop-Calendar-2023-Designed-By-EntheosWeb-7.png' alt='2023 Desktop Wallpaper Calendar Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/02/Floral-Watercolor-Desktop-Calendar-2023-Designed-By-EntheosWeb-7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan">
+                                <img itemprop="contentUrl url" src='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' alt='Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki Vegan" />
+                                </span>
+                                <a href='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

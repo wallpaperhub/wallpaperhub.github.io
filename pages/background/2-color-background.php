@@ -1,0 +1,129 @@
+<title>Stunning Two-Color Backgrounds for Every Design</title>
+                    <meta name="description" content="Discover the magic of two-color backgrounds! Perfect for enhancing your designs, these dynamic color combinations bring depth and style to any project. Whether for websites or graphics, explore creative pairings and elevate your aesthetics effortlessly.">
+                    <meta name="keywords" content="2 color background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/2-color-background">
+                            <span itemprop="name">2 color background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Two-Color Backgrounds for Every Design</h1>
+                <p>Two-color backgrounds are a popular design choice that can create visually striking effects. By combining contrasting hues, you can enhance the depth and appeal of any project, whether it’s for a website, graphic design, or even interior spaces. Experimenting with various color pairings can yield unique aesthetics and cater to different moods.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blue-red-geometric-background_23-2147668463.jpg' alt='Two Color Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blue-red-geometric-background_23-2147668463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Color Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/175/855/non_2x/colorful-geometric-background-liquid-color-background-design-2-fluid-shapes-composition-eps10-editable-vector.jpg' alt='2 Color Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/175/855/non_2x/colorful-geometric-background-liquid-color-background-design-2-fluid-shapes-composition-eps10-editable-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Vintage Two Color Images – Browse 23,504 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/19/00/58/360_F_319005824_sS4Tzx2QZ7WXqn8BP9yz0sFTyUnFEqbw.jpg' alt='Wallpaper Vintage Two Color Images – Browse 23,504 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/19/00/58/360_F_319005824_sS4Tzx2QZ7WXqn8BP9yz0sFTyUnFEqbw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Color Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/009/631/non_2x/flat-comic-style-versus-fight-background-design-template-vector.jpg' alt='2 Color Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/009/631/non_2x/flat-comic-style-versus-fight-background-design-template-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/clean-blank-backdrop-design-mockup-background_1017-42665.jpg' alt='Two Color Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/clean-blank-backdrop-design-mockup-background_1017-42665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210709/original/pngtree-simple-blue-and-white-two-color-background-material-picture-image_915757.jpg' alt='Two Color Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210709/original/pngtree-simple-blue-and-white-two-color-background-material-picture-image_915757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Background Images – Browse 1,113,979 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/48/30/32/360_F_248303283_LEJuZAKZVSsM5dnMhUSPLIIp0BpB2kfE.jpg' alt='Two Color Background Images – Browse 1,113,979 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/48/30/32/360_F_248303283_LEJuZAKZVSsM5dnMhUSPLIIp0BpB2kfE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/943/938/small_2x/paper-style-background-liquid-shape-abstract-two-color-background-vector.jpg' alt='Two Color Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/943/938/small_2x/paper-style-background-liquid-shape-abstract-two-color-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Two Color Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/898222264/vector/red-and-yellow-diagonal-halftone-background.jpg?s=612x612&w=0&k=20&c=pasESjKKR5Szsh6UL3lqbgVqk_-L-ToYsi0PYZuy7Jc=' alt='2,300+ Two Color Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/898222264/vector/red-and-yellow-diagonal-halftone-background.jpg?s=612x612&w=0&k=20&c=pasESjKKR5Szsh6UL3lqbgVqk_-L-ToYsi0PYZuy7Jc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Two Color Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1133531965/vector/vector-empty-blue-gredient-to-vivid-pink-color-3d-studio-table-room-background-product.jpg?s=612x612&w=0&k=20&c=ecOyD9bn-E-GEjRlG6X2pd86pVh-rRG7cmMFABcmW3c=' alt='2,300+ Two Color Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1133531965/vector/vector-empty-blue-gredient-to-vivid-pink-color-3d-studio-table-room-background-product.jpg?s=612x612&w=0&k=20&c=ecOyD9bn-E-GEjRlG6X2pd86pVh-rRG7cmMFABcmW3c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

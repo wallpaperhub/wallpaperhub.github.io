@@ -1,0 +1,129 @@
+<title>Get Dodgers Phone Wallpaper: Show Your Team Spirit!</title>
+                    <meta name="description" content="Explore a collection of Dodgers phone wallpapers and showcase your team pride! Perfect for fans who want to add a sporty touch to their devices. Download stunning designs featuring the Dodgers' logo and colors now, and elevate your phone's style while celebrating your favorite team!">
+                    <meta name="keywords" content="dodgers wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dodgers-wallpaper-phone">
+                            <span itemprop="name">dodgers wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Get Dodgers Phone Wallpaper: Show Your Team Spirit!</h1>
+                <p>Transform your phone's appearance with stylish Dodgers wallpaper! Celebrate your favorite baseball team with vibrant designs featuring their iconic logo and colors. Whether you're a die-hard fan or just appreciate great design, these wallpapers will keep the spirit of the Dodgers alive on your screen. Update your device now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My World Homs — wallpapers-okay: LA Dodgers logo /requested by...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/d2/7f/0dd27f71560d520d08b76de28b2a2c1c.jpg' alt='My World Homs — wallpapers-okay: LA Dodgers logo /requested by...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/d2/7f/0dd27f71560d520d08b76de28b2a2c1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waiting for the official champions phone wallpaper : r/Dodgers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/waiting-for-the-official-champions-phone-wallpaper-v0-1gmrtkd66byd1.jpeg?auto=webp&s=9ff2f2a022e139682fc208a594a3e1d275fc20f6' alt='Waiting for the official champions phone wallpaper : r/Dodgers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/waiting-for-the-official-champions-phone-wallpaper-v0-1gmrtkd66byd1.jpeg?auto=webp&s=9ff2f2a022e139682fc208a594a3e1d275fc20f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="minimal dodger iPhone wallpaper I made! The time and date fit ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/c8vlqvM.jpg' alt='minimal dodger iPhone wallpaper I made! The time and date fit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/c8vlqvM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/aa/c1/16aac18cf99d6563fbae46d10d71460f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/aa/c1/16aac18cf99d6563fbae46d10d71460f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dodgers Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dodgers-iphone-xk91zndj99t5shta.jpg' alt='100+] Dodgers Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dodgers-iphone-xk91zndj99t5shta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oklahoma City Dodgers Wallpapers (14 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/c/a/1792931-2160x3840-samsung-4k-oklahoma-city-dodgers-wallpaper.jpg' alt='Oklahoma City Dodgers Wallpapers (14 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/c/a/1792931-2160x3840-samsung-4k-oklahoma-city-dodgers-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just thought I'd share the best phone wallpaper ever. : r/Dodgers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-thought-id-share-the-best-phone-wallpaper-ever-v0-0tb6ztr0h6zd1.jpeg?width=1242&format=pjpg&auto=webp&s=81535cadb07f10cc47952f10c055695f98d35cbf' alt='Just thought I'd share the best phone wallpaper ever. : r/Dodgers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-thought-id-share-the-best-phone-wallpaper-ever-v0-0tb6ztr0h6zd1.jpeg?width=1242&format=pjpg&auto=webp&s=81535cadb07f10cc47952f10c055695f98d35cbf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers Rising Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/los-angeles-dodgers-rising-logo-ihr13k9c46qetj6n.jpg' alt='Los Angeles Dodgers Rising Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/los-angeles-dodgers-rising-logo-ihr13k9c46qetj6n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/aa/62/ecaa621d5842f5c252cf4125fb7231e8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/aa/62/ecaa621d5842f5c252cf4125fb7231e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dodgers stadium wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/795/406/HD-wallpaper-dodgers-stadium-baseball-dodgers-la-park-stadium-thumbnail.jpg' alt='HD dodgers stadium wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/795/406/HD-wallpaper-dodgers-stadium-baseball-dodgers-la-park-stadium-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

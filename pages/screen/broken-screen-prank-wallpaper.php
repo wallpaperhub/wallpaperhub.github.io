@@ -1,0 +1,129 @@
+<title>Realistic Broken Screen Prank Wallpaper</title>
+                    <meta name="description" content="Get ready to prank your friends with our realistic broken screen wallpapers! Perfect for a laugh, these wallpapers create the illusion of a shattered phone display while keeping your device safe. Browse and download today for a fun surprise that will leave everyone wondering! Ideal for any prankster!">
+                    <meta name="keywords" content="broken screen prank wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/broken-screen-prank-wallpaper">
+                            <span itemprop="name">broken screen prank wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Realistic Broken Screen Prank Wallpaper</h1>
+                <p>Looking to pull a harmless prank? A broken screen prank wallpaper could be the perfect choice! These fun and realistic wallpapers create the illusion of a shattered display, making friends and family do a double-take. Choose from various designs to fit your style and get ready for some laughs while keeping your real screen safe and sound!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken computer screen 2025 prank">
+                                <img itemprop="contentUrl url" src='https://cdn.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-04.jpg' alt='Broken computer screen 2025 prank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/17/2e/95172e3f22dded944ddf76b9c30451ef.jpg' alt='24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/17/2e/95172e3f22dded944ddf76b9c30451ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun (and harmless) Broken Screen Wallpapers for April Fool's Day ...">
+                                <img itemprop="contentUrl url" src='https://www.networksunlimited.com/wp-content/uploads/2014/03/cracked-screen3-300x193.jpg' alt='Fun (and harmless) Broken Screen Wallpapers for April Fool's Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Networks Unlimited" />
+                                </span>
+                                <a href='https://www.networksunlimited.com/wp-content/uploads/2014/03/cracked-screen3-300x193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Wallpaper 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' alt='Broken Screen Wallpaper 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken screen prank wallpaper by nino2005nino - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/fd/65/f3fd656234f711fb6bc25d8d9c735320.jpg' alt='Broken screen prank wallpaper by nino2005nino - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/fd/65/f3fd656234f711fb6bc25d8d9c735320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 HOURS! BEST 4K UHD Cracked Broken Screen Effect Prank - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/J3Bo7HVZ1xA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDs5PPNbX6kPwC-8PVVmbfVhZkBVQ' alt='10 HOURS! BEST 4K UHD Cracked Broken Screen Effect Prank - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/J3Bo7HVZ1xA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDs5PPNbX6kPwC-8PVVmbfVhZkBVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs">
+                                <img itemprop="contentUrl url" src='https://cdn4.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-01.jpg' alt='11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geckoandfly" />
+                                </span>
+                                <a href='https://cdn4.geckoandfly.com/wp-content/uploads/2023/10/windows-macos-broken-screen-prank-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fake Broken Screen | Cracked Screen Prank Tool">
+                                <img itemprop="contentUrl url" src='https://allcolorscreen.com/wp-content/uploads/2024/11/broken-screen2.jpg' alt='Fake Broken Screen | Cracked Screen Prank Tool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Color Screen" />
+                                </span>
+                                <a href='https://allcolorscreen.com/wp-content/uploads/2024/11/broken-screen2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prank Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8f/e4/7d/8fe47dde3e4e79e06ab5fe9ad1c2e1d3.jpg' alt='Prank Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8f/e4/7d/8fe47dde3e4e79e06ab5fe9ad1c2e1d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prank Broken Screen Wallpaper for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f50f33af-f0b5-4ece-98b4-c062c69aa37b/3127040918/prank-broken-screen-wallpaper-screenshot.png' alt='Prank Broken Screen Wallpaper for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="2185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="prank-broken-screen-wallpaper.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f50f33af-f0b5-4ece-98b4-c062c69aa37b/3127040918/prank-broken-screen-wallpaper-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

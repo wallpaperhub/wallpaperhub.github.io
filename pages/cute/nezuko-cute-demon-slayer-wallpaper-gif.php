@@ -1,0 +1,129 @@
+<title>Adorable Nezuko Demon Slayer Wallpapers & GIFs</title>
+                    <meta name="description" content="Explore charming Nezuko Kamado wallpapers and GIFs from Demon Slayer. Perfect for fans looking to personalize their screens with cute designs showcasing her spirit. Optimize your device's look with these enchanting visuals that make every glance delightful!">
+                    <meta name="keywords" content="nezuko cute demon slayer wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/nezuko-cute-demon-slayer-wallpaper-gif">
+                            <span itemprop="name">nezuko cute demon slayer wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Nezuko Demon Slayer Wallpapers & GIFs</h1>
+                <p>Discover the charm of Nezuko Kamado from Demon Slayer with our adorable wallpapers and captivating GIFs! Perfect for fans, these visuals showcase her cute moments and fierce spirit. Customize your screens with these enchanting designs that bring Nezuko's character to life, making your device truly unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko GIF - Nezuko - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/07/1e/0e071ecbaf0ce9a4d9e118be2f67c303.gif' alt='Nezuko GIF - Nezuko - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/07/1e/0e071ecbaf0ce9a4d9e118be2f67c303.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Demon Slayer GIF - Nezuko Demon Slayer Bunny - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/29/58/21/295821d5098ffcab7414ece2aa5e8cfc.gif' alt='Nezuko Demon Slayer GIF - Nezuko Demon Slayer Bunny - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/29/58/21/295821d5098ffcab7414ece2aa5e8cfc.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Glowing Eyes Demon Slayer GIF Wallpaper 4K - Anime HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/03/nezuko-glowing-eyes-demon-slayer-gif-desktop-wallpaper-preview.gif' alt='Nezuko Glowing Eyes Demon Slayer GIF Wallpaper 4K - Anime HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/03/nezuko-glowing-eyes-demon-slayer-gif-desktop-wallpaper-preview.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Demon Slayer : Nezuko Kamado 4k">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1770453400336022848/1E9A22EBF305D99D4191EBD8C329BFA487075697/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Demon Slayer : Nezuko Kamado 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1770453400336022848/1E9A22EBF305D99D4191EBD8C329BFA487075697/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/11/icegif-1378.gif' alt='Nezuko Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/11/icegif-1378.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kamadonezuko Anime GIF - Kamadonezuko Nezuko Kamado - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/51/d1/94/51d19426b7a5fd86d188a77f13b92ba2.gif' alt='Kamadonezuko Anime GIF - Kamadonezuko Nezuko Kamado - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/51/d1/94/51d19426b7a5fd86d188a77f13b92ba2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Kamado: Animated Moments from Demon Slayer - Kimetsu no ...">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/219/219466.gif' alt='Nezuko Kamado: Animated Moments from Demon Slayer - Kimetsu no ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/219/219466.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Demon Slayer | Nezuko Kamado Awakened 4k {Artwork ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2038485431567706682/2111EC87EE201DE74FFE46CB829659D9F08CCDF9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Demon Slayer | Nezuko Kamado Awakened 4k {Artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2038485431567706682/2111EC87EE201DE74FFE46CB829659D9F08CCDF9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Animated by xPastelHime on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8db7cbe4-5797-4ea4-805e-c781a6f6d90a/delmi5e-b8c5ccf5-6fcc-416f-9041-d4decf2ee429.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYjdjYmU0LTU3OTctNGVhNC04MDVlLWM3ODFhNmY2ZDkwYVwvZGVsbWk1ZS1iOGM1Y2NmNS02ZmNjLTQxNmYtOTA0MS1kNGRlY2YyZWU0MjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sFntXecC3X-hNdEqGJNubPtpsPUz5WXehhKyqC-pPa0' alt='Nezuko Animated by xPastelHime on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8db7cbe4-5797-4ea4-805e-c781a6f6d90a/delmi5e-b8c5ccf5-6fcc-416f-9041-d4decf2ee429.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYjdjYmU0LTU3OTctNGVhNC04MDVlLWM3ODFhNmY2ZDkwYVwvZGVsbWk1ZS1iOGM1Y2NmNS02ZmNjLTQxNmYtOTA0MS1kNGRlY2YyZWU0MjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sFntXecC3X-hNdEqGJNubPtpsPUz5WXehhKyqC-pPa0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kimetsu No Yaiba Demon Slayer GIF - Kimetsu No Yaiba Demon Slayer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1d/80/69/1d8069e87986701c6a0f835b6b74e522.gif' alt='Kimetsu No Yaiba Demon Slayer GIF - Kimetsu No Yaiba Demon Slayer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1d/80/69/1d8069e87986701c6a0f835b6b74e522.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

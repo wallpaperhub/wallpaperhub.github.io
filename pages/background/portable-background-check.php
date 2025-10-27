@@ -1,0 +1,129 @@
+<title>Quick and Reliable Portable Background Checks</title>
+                    <meta name="description" content="Discover the ease of portable background checks! Get fast, accurate information on individuals for employment, tenancy, or safety—all from your mobile device. Stay informed and make confident choices with our reliable background screening solutions.">
+                    <meta name="keywords" content="portable background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/portable-background-check">
+                            <span itemprop="name">portable background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick and Reliable Portable Background Checks</h1>
+                <p>Portable background checks provide a quick and efficient way to verify someone's history, whether for employment, renting, or personal safety. Utilizing mobile technology, these checks can be done on-the-go, allowing users to access vital information instantly. Ensure peace of mind with reliable portable background screening today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overview of Portable Background Check in MERIT - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Nz8cEsCsQ2A/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGUgXyhaMA8=&rs=AOn4CLCjF2vSRgtAubNUDdf2f0lqh4Cdxw' alt='Overview of Portable Background Check in MERIT - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Nz8cEsCsQ2A/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGUgXyhaMA8=&rs=AOn4CLCjF2vSRgtAubNUDdf2f0lqh4Cdxw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overview of Portable Background Check in MERIT">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Nz8cEsCsQ2A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgXyhaMA8=&rs=AOn4CLA5DKYYyS6P7ivsGAuAiEm5F8UG2g' alt='Overview of Portable Background Check in MERIT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Nz8cEsCsQ2A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgXyhaMA8=&rs=AOn4CLA5DKYYyS6P7ivsGAuAiEm5F8UG2g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sterling Volunteers | Portable Background Checks">
+                                <img itemprop="contentUrl url" src='https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P3A00000jo5EiUAI' alt='Sterling Volunteers | Portable Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Salesforce AppExchange" />
+                                </span>
+                                <a href='https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P3A00000jo5EiUAI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCYF Form 09-165 Download Fillable PDF or Fill Online Portable ...">
+                                <img itemprop="contentUrl url" src='https://data.templateroller.com/pdf_docs_html/2438/24389/2438959/page_1_thumb_950.png' alt='DCYF Form 09-165 Download Fillable PDF or Fill Online Portable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateRoller" />
+                                </span>
+                                <a href='https://data.templateroller.com/pdf_docs_html/2438/24389/2438959/page_1_thumb_950.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STARS ID/DEL Portable Background Check (PBC) Procedures: 1. Visit ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e5ffcd290af4d1da6d95151f95684e2395bf953e153264294ce7332476edc5ee' alt='STARS ID/DEL Portable Background Check (PBC) Procedures: 1. Visit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wce.wwu.edu" />
+                                </span>
+                                <a href='x-raw-image:///e5ffcd290af4d1da6d95151f95684e2395bf953e153264294ce7332476edc5ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Application - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/80/683/80683307.png' alt='Background Check Application - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/80/683/80683307.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background check for tenants Archives - JDP">
+                                <img itemprop="contentUrl url" src='https://www.jdp.com/wp-content/uploads/2024/07/Discussing-Portable-Background-Checks-for-Tenants-in-Colorado.jpg' alt='background check for tenants Archives - JDP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JDP" />
+                                </span>
+                                <a href='https://www.jdp.com/wp-content/uploads/2024/07/Discussing-Portable-Background-Checks-for-Tenants-in-Colorado.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply for FBI Criminal Background Check?">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2021/11/FDLE-Approved-Live-Scan-Service-min.jpg' alt='How to Apply for FBI Criminal Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2021/11/FDLE-Approved-Live-Scan-Service-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington State Department of Early Learning (DEL) is now called ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e4255456bebccc7c4d2a13b3f72b17855f54596eb63b8a2fd208987dc61a8aff' alt='Washington State Department of Early Learning (DEL) is now called ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1208">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olympic Educational Service District 114" />
+                                </span>
+                                <a href='x-raw-image:///e4255456bebccc7c4d2a13b3f72b17855f54596eb63b8a2fd208987dc61a8aff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STARS ID/DEL Portable Background Check (PBC) Procedures: 1. Visit ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d5904ea782ebc3cd0c2d17601ce80c106010fb2bd628ca33ed0953dfbfd49d15' alt='STARS ID/DEL Portable Background Check (PBC) Procedures: 1. Visit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wce.wwu.edu" />
+                                </span>
+                                <a href='x-raw-image:///d5904ea782ebc3cd0c2d17601ce80c106010fb2bd628ca33ed0953dfbfd49d15' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

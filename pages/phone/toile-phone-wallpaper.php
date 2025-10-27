@@ -1,0 +1,129 @@
+<title>Elegant Toile Phone Wallpapers for Stylish Screens</title>
+                    <meta name="description" content="Discover exquisite toile phone wallpaper designs that elevate your device aesthetics. Perfect for lovers of vintage charm and modern style, our collection features beautiful patterns and motifs that transform your screen. Explore your style with beautiful, high-quality wallpapers optimized for any mobile device!">
+                    <meta name="keywords" content="toile phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/toile-phone-wallpaper">
+                            <span itemprop="name">toile phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Toile Phone Wallpapers for Stylish Screens</h1>
+                <p>Toile phone wallpaper offers a charming blend of vintage elegance and modern style. With intricate patterns and classic designs, these wallpapers transform your mobile screen into a work of art. Whether you prefer floral motifs, scenic landscapes, or traditional prints, toile wallpapers add a touch of sophistication to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Gorgeous Free January Wallpaper For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/44/f3/06/44f306f16dbbf94b9c9742d2a7d07af9.jpg' alt='40+ Gorgeous Free January Wallpaper For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/44/f3/06/44f306f16dbbf94b9c9742d2a7d07af9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Toile Wallpapers (43 Wallpapers) – Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/57/9a/6d579a32c5ec8017b2b36ac7efb50a49.jpg' alt='French Toile Wallpapers (43 Wallpapers) – Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/57/9a/6d579a32c5ec8017b2b36ac7efb50a49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Wallpaper Green Grandeco A69801 - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91HL-uqHlhL.jpg' alt='Toile Wallpaper Green Grandeco A69801 - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91HL-uqHlhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake 311512543 Spinney Blue Toile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210039.jpg' alt='Chesapeake 311512543 Spinney Blue Toile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOILE DU TYROL Evergreen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/3/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/t/o/toile_du_tyrol_evergreen_52x52cm_wp30146_2.jpg' alt='TOILE DU TYROL Evergreen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/3/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/t/o/toile_du_tyrol_evergreen_52x52cm_wp30146_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall AB27656 Toile Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/222446.jpg' alt='Patton Norwall AB27656 Toile Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/222446.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlanta Toile Traditional Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0665/3515/files/atlanta-toile-wallpaper-wallpaper-double-roll-pink-navy-katie-kime-33532582690913.jpg?v=1708623502' alt='Atlanta Toile Traditional Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katie Kime" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0665/3515/files/atlanta-toile-wallpaper-wallpaper-double-roll-pink-navy-katie-kime-33532582690913.jpg?v=1708623502' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Bird Toile - Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' alt='Floral Bird Toile - Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE TOILE WALLPAPER | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3252487380.9442/flat,750x1000,075,t.jpg' alt='BLUE TOILE WALLPAPER | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3252487380.9442/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anemone Toile Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/RT7873.jpg?v=1703778683&width=2400' alt='Anemone Toile Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/RT7873.jpg?v=1703778683&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

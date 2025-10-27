@@ -1,0 +1,129 @@
+<title>Rest in Peace: Celebrate an Angel's Journey to Heaven</title>
+                    <meta name="description" content="Join us in honoring the memory of a beloved angel who has transitioned to heaven. Explore heartfelt tributes and comforting imagery that celebrate their journey, offering peace and solace to those left behind. Perfect for anyone seeking to remember and cherish the legacy of a lost loved one.">
+                    <meta name="keywords" content="rest in peace angel heaven background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rest-in-peace-angel-heaven-background">
+                            <span itemprop="name">rest in peace angel heaven background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rest in Peace: Celebrate an Angel's Journey to Heaven</h1>
+                <p>Rest in peace, dear angel. You now soar through the heavenly skies, embraced by eternal light and serenity. Your spirit dances among the stars, bringing comfort and hope to those you left behind. In this celestial realm, may you find peace and joy, forever cherished in the hearts of your loved ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky Gold Heavens Gate Angel Wings Memorial PNG Add Photo Rest in Peace  Template for Funeral RIP Memorial - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35316071/r/il/6d7d9e/4261128292/il_1080xN.4261128292_3p07.jpg' alt='Blue Sky Gold Heavens Gate Angel Wings Memorial PNG Add Photo Rest in Peace  Template for Funeral RIP Memorial - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35316071/r/il/6d7d9e/4261128292/il_1080xN.4261128292_3p07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Heavens Stairway Rest in Heaven Angel Wings Memorial Background PNG Add  Photo Rest in Peace Template for Funeral RIP Memorial - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35316071/r/il/0cdc85/4909187249/il_1080xN.4909187249_p4kz.jpg' alt='Red Heavens Stairway Rest in Heaven Angel Wings Memorial Background PNG Add  Photo Rest in Peace Template for Funeral RIP Memorial - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35316071/r/il/0cdc85/4909187249/il_1080xN.4909187249_p4kz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky in Loving Memory of Angel Wings Memorial PNG Add Photo Rest in ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35316071/r/il/9f46b0/4107218350/il_fullxfull.4107218350_oksj.jpg' alt='Sky in Loving Memory of Angel Wings Memorial PNG Add Photo Rest in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35316071/r/il/9f46b0/4107218350/il_fullxfull.4107218350_oksj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rest In Peace Heaven Gained An Angel Today Quotes">
+                                <img itemprop="contentUrl url" src='https://tse1.mm.bing.net/th?id=OIP.xoM6__YV_tpY7B2-JnzPXgHaJl&pid=15.1' alt='Rest In Peace Heaven Gained An Angel Today Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Web Dqinstitute" />
+                                </span>
+                                <a href='https://tse1.mm.bing.net/th?id=OIP.xoM6__YV_tpY7B2-JnzPXgHaJl&pid=15.1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 in Loving Memory PNG, 5 Memorial Background , Stairs to Heaven ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/61/0c/ee610c14cb40e3b81a25b7f99ec812aa.jpg' alt='5 in Loving Memory PNG, 5 Memorial Background , Stairs to Heaven ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/61/0c/ee610c14cb40e3b81a25b7f99ec812aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rest in Peace Background/in Loving Memory Heaven Set of 9 PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40922438/r/il/0aef8b/4604238056/il_570xN.4604238056_b68e.jpg' alt='Rest in Peace Background/in Loving Memory Heaven Set of 9 PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40922438/r/il/0aef8b/4604238056/il_570xN.4604238056_b68e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CSFOTO Polyester 4x4ft Heaven Backdrop Golden Heaven Sent  Theme Decorations Banner Kingdom Backdrop Stairs to Paradise Sunlight Cloud  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/611pqBLOW8L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : CSFOTO Polyester 4x4ft Heaven Backdrop Golden Heaven Sent  Theme Decorations Banner Kingdom Backdrop Stairs to Paradise Sunlight Cloud  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/611pqBLOW8L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Heavens Stairway In Loving Memory Angel Wings Memorial ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/0d/cc/020dcc4d94ea59caa62c676b9b2a576b.jpg' alt='Black Heavens Stairway In Loving Memory Angel Wings Memorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/0d/cc/020dcc4d94ea59caa62c676b9b2a576b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heavens Stairway Angel Wings Memorial Background PNG add photo rest in  peace template for funeral RIP Memorial">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35316071/r/il/a334a0/4817555935/il_fullxfull.4817555935_brel.jpg' alt='Blue Heavens Stairway Angel Wings Memorial Background PNG add photo rest in  peace template for funeral RIP Memorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35316071/r/il/a334a0/4817555935/il_fullxfull.4817555935_brel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RIP Memorial Angel Wings Photo Template (1981888)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/rainbow-01-1fa986e79604619dbbf096a47593d6925e6ccb2d5e358a12bfd5b9e416af4ec9.jpg' alt='RIP Memorial Angel Wings Photo Template (1981888)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/rainbow-01-1fa986e79604619dbbf096a47593d6925e6ccb2d5e358a12bfd5b9e416af4ec9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

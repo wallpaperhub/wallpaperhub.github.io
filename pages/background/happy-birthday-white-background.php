@@ -1,0 +1,129 @@
+<title>Bright Birthday Wishes on a White Background</title>
+                    <meta name="description" content="Celebrate special moments with our happy birthday content! Perfect for social media posts or greetings, this cheerful message on a bright white background helps spread joy and love. Share your birthday blessings and make every celebration unforgettable!">
+                    <meta name="keywords" content="happy birthday white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-birthday-white-background">
+                            <span itemprop="name">happy birthday white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright Birthday Wishes on a White Background</h1>
+                <p>Wishing you a fabulous birthday filled with joy and laughter! Celebrate your special day with friends and family, creating unforgettable memories. May this year bring you new adventures, happiness, and dreams come true. Enjoy every moment of your birthday surrounded by love and positivity against a cheerful white backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A colorful and festive Happy Birthday greeting ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/colorful-festive-happy-birthday-greeting-with-white-background_123891-101911.jpg' alt='Premium Vector | A colorful and festive Happy Birthday greeting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/colorful-festive-happy-birthday-greeting-with-white-background_123891-101911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Happy Birthday white background lettering ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/happy-birthday-white-background-lettering-calligraphy-vector-card-text_9692-377.jpg' alt='Premium Vector | Happy Birthday white background lettering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/happy-birthday-white-background-lettering-calligraphy-vector-card-text_9692-377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday balloon ribbon white background vec">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/64/51/happy-birthday-balloon-ribbon-white-background-vec-vector-20536451.jpg' alt='Happy birthday balloon ribbon white background vec'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/64/51/happy-birthday-balloon-ribbon-white-background-vec-vector-20536451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Happy birthday full color white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/happy-birthday-full-color-white-background_579179-341.jpg' alt='Premium Vector | Happy birthday full color white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/happy-birthday-full-color-white-background_579179-341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lettering Happy birthday with the stars. Isolated on a white ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BTXJEW/lettering-happy-birthday-with-the-stars-isolated-on-a-white-background-2BTXJEW.jpg' alt='Lettering Happy birthday with the stars. Isolated on a white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BTXJEW/lettering-happy-birthday-with-the-stars-isolated-on-a-white-background-2BTXJEW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday banner. Birthday party flags with confetti on white ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/37/84/45/1000_F_237844508_ik3hePWc9rM3URKkr76Opt1VJWGf6kMf.jpg' alt='Happy birthday banner. Birthday party flags with confetti on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/37/84/45/1000_F_237844508_ik3hePWc9rM3URKkr76Opt1VJWGf6kMf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="193 Happy Birthday Banner White Background High Res Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1291288057/vector/happy-birthday-balloons-background.jpg?s=612x612&w=gi&k=20&c=tZJpd13FtndLcl3wh_KRaSmEjy5o09hxR9Gjt3BI-xE=' alt='193 Happy Birthday Banner White Background High Res Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1291288057/vector/happy-birthday-balloons-background.jpg?s=612x612&w=gi&k=20&c=tZJpd13FtndLcl3wh_KRaSmEjy5o09hxR9Gjt3BI-xE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday to you with green ribbon and balloons colorful ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2CTF3CC/happy-birthday-to-you-with-green-ribbon-and-balloons-colorful-party-typography-isolated-on-white-background-vector-illustration-2CTF3CC.jpg' alt='Happy birthday to you with green ribbon and balloons colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2CTF3CC/happy-birthday-to-you-with-green-ribbon-and-balloons-colorful-party-typography-isolated-on-white-background-vector-illustration-2CTF3CC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Cake White Background Vector Image Royalty Free SVG ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/pisanku/pisanku1809/pisanku180900041/107532897-happy-birthday-cake-white-background-vector-image.jpg' alt='Happy Birthday Cake White Background Vector Image Royalty Free SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/pisanku/pisanku1809/pisanku180900041/107532897-happy-birthday-cake-white-background-vector-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday White Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/702/297/non_2x/hand-drawn-birthday-party-doodle-elements-illustration-isolated-on-white-background-vector.jpg' alt='Birthday White Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/702/297/non_2x/hand-drawn-birthday-party-doodle-elements-illustration-isolated-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

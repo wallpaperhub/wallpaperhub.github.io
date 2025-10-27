@@ -1,0 +1,129 @@
+<title>AEW Dynamite: The Revolution in Wrestling</title>
+                    <meta name="description" content="Explore AEW Dynamite, a groundbreaking wrestling show featuring thrilling matches and captivating storylines. Discover how this weekly event reshapes the wrestling landscape with its dynamic roster and high-energy performances, appealing to both hardcore fans and newcomers alike.">
+                    <meta name="keywords" content="aew dynamite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aew-dynamite-background">
+                            <span itemprop="name">aew dynamite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AEW Dynamite: The Revolution in Wrestling</h1>
+                <p>AEW Dynamite is a weekly professional wrestling television show produced by All Elite Wrestling (AEW). Premiering on October 2, 2019, it quickly gained popularity for its engaging storylines, high-quality matches, and diverse roster. The show showcases a blend of seasoned veterans and newcomers, emphasizing competition and athleticism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Dynamite Preview for July 17, 2024">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/815952_fc137f3485104dc5a595fcb224884a78~mv2.jpg/v1/fill/w_1920,h_1080,al_c/815952_fc137f3485104dc5a595fcb224884a78~mv2.jpg' alt='AEW Dynamite Preview for July 17, 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AEW" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/815952_fc137f3485104dc5a595fcb224884a78~mv2.jpg/v1/fill/w_1920,h_1080,al_c/815952_fc137f3485104dc5a595fcb224884a78~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="POP (Instrumental) AEW Dynamite Theme | AEW Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MwTV9El-kXk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGCwgEyh_MA8=&rs=AOn4CLDu8gMTH7la8tJ7T8lPFbFm1kC11Q' alt='POP (Instrumental) AEW Dynamite Theme | AEW Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MwTV9El-kXk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGCwgEyh_MA8=&rs=AOn4CLDu8gMTH7la8tJ7T8lPFbFm1kC11Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolski's Wrestling Ramblings: Thoughts on AEW Dynamite From a ...">
+                                <img itemprop="contentUrl url" src='https://www.sinclairclarion.com/home/wp-content/uploads/2019/11/Screenshot-212.png' alt='Wolski's Wrestling Ramblings: Thoughts on AEW Dynamite From a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Clarion" />
+                                </span>
+                                <a href='https://www.sinclairclarion.com/home/wp-content/uploads/2019/11/Screenshot-212.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW have officially confirmed new changes to Dynamite beginning ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jh0w1moegt7a1.jpg' alt='AEW have officially confirmed new changes to Dynamite beginning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jh0w1moegt7a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Dynamite: Blood and Guts 2024 Wallpaper by CarWashDumpsterBoy ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6aeefbde-f49e-4efc-99dc-d1ac0c1a3213/dhqz89b-7a079534-5498-40d9-a263-2cff7c7468d9.png/v1/fill/w_1195,h_669,q_70,strp/aew_dynamite__blood_and_guts_2024_wallpaper_by_carwashdumpsterboy_dhqz89b-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE3IiwicGF0aCI6IlwvZlwvNmFlZWZiZGUtZjQ5ZS00ZWZjLTk5ZGMtZDFhYzBjMWEzMjEzXC9kaHF6ODliLTdhMDc5NTM0LTU0OTgtNDBkOS1hMjYzLTJjZmY3Yzc0NjhkOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Jnz52slp5ae6rM6iq9Ih55F3Hc6EJstfFX0Dev5JyX8' alt='AEW Dynamite: Blood and Guts 2024 Wallpaper by CarWashDumpsterBoy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1195">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6aeefbde-f49e-4efc-99dc-d1ac0c1a3213/dhqz89b-7a079534-5498-40d9-a263-2cff7c7468d9.png/v1/fill/w_1195,h_669,q_70,strp/aew_dynamite__blood_and_guts_2024_wallpaper_by_carwashdumpsterboy_dhqz89b-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE3IiwicGF0aCI6IlwvZlwvNmFlZWZiZGUtZjQ5ZS00ZWZjLTk5ZGMtZDFhYzBjMWEzMjEzXC9kaHF6ODliLTdhMDc5NTM0LTU0OTgtNDBkOS1hMjYzLTJjZmY3Yzc0NjhkOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Jnz52slp5ae6rM6iq9Ih55F3Hc6EJstfFX0Dev5JyX8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: First Look at AEW Dynamite's New Entrance Stage ...">
+                                <img itemprop="contentUrl url" src='https://comicbook.com/wp-content/uploads/sites/4/2022/12/bd004e3b-31a0-4be5-a148-04dfacbe5d02.jpg' alt='Photos: First Look at AEW Dynamite's New Entrance Stage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ComicBook.com" />
+                                </span>
+                                <a href='https://comicbook.com/wp-content/uploads/sites/4/2022/12/bd004e3b-31a0-4be5-a148-04dfacbe5d02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRÉ! on X: "I love this splash of colors, always have since day ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GHYdzMaWYAAJ_sz?format=jpg&name=large' alt='DRÉ! on X: "I love this splash of colors, always have since day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GHYdzMaWYAAJ_sz?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aew Wrestling Dynamite - All Elite Wrestling Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aew-wgwv06psu25d1sn6.jpg' alt='Download Aew Wrestling Dynamite - All Elite Wrestling Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aew-wgwv06psu25d1sn6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Dynamite Results - 9/7/22 (Fallout from AEW All Out, big ...">
+                                <img itemprop="contentUrl url" src='https://www.wrestleview.com/wp-content/uploads/2022/09/aew-dynamite-logo-1200x675-1.jpg' alt='AEW Dynamite Results - 9/7/22 (Fallout from AEW All Out, big ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wrestleview.com" />
+                                </span>
+                                <a href='https://www.wrestleview.com/wp-content/uploads/2022/09/aew-dynamite-logo-1200x675-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Dynamite \'24 Show GFX | ProWrestlingMods.io">
+                                <img itemprop="contentUrl url" src='https://prowrestlingmods.io/uploads/user_76561198084163876/5779a363dae44db46fa22dba6d13c793/preview1_5779a363dae44db46fa22dba6d13c793.jpg' alt='AEW Dynamite \'24 Show GFX | ProWrestlingMods.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProWrestlingMods.io" />
+                                </span>
+                                <a href='https://prowrestlingmods.io/uploads/user_76561198084163876/5779a363dae44db46fa22dba6d13c793/preview1_5779a363dae44db46fa22dba6d13c793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

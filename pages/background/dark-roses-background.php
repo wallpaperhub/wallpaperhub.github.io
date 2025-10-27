@@ -1,0 +1,129 @@
+<title>Dark Roses: Unveiling Beauty and Mystery</title>
+                    <meta name="description" content="Explore the allure of dark roses with stunning backgrounds that evoke mystery and elegance. Perfect for designs and themes, these captivating floral visuals add a touch of sophistication to any project. Discover creative ways to incorporate dark roses into your aesthetic today!">
+                    <meta name="keywords" content="dark roses background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-roses-background">
+                            <span itemprop="name">dark roses background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Roses: Unveiling Beauty and Mystery</h1>
+                <p>Dark roses embody a mysterious and enchanting beauty, often associated with romanticism and deep emotions. Their rich, velvety petals contrasted against a dark background create a dramatic effect, making them a captivating choice for designs. Whether used in wallpapers, art, or themes, dark roses evoke allure and sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses Background Images – Browse 460,130 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/00/64/21/360_F_100642129_C8uIFzo2B4ppTzsYxf0uGwmpNPI760T8.jpg' alt='Dark Roses Background Images – Browse 460,130 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/00/64/21/360_F_100642129_C8uIFzo2B4ppTzsYxf0uGwmpNPI760T8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody Nature  Photography, Instant Download, Desktop and Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_1080xN.5906782601_o7h4.jpg' alt='Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody Nature  Photography, Instant Download, Desktop and Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_1080xN.5906782601_o7h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark roses background greeting card with a luxury roses | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/dark-roses-background-greeting-card-with-luxury-roses_1168123-29886.jpg' alt='Dark roses background greeting card with a luxury roses | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/dark-roses-background-greeting-card-with-luxury-roses_1168123-29886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses Background Images – Browse 460,130 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/15/02/55/360_F_315025553_Vt0vN1KDcBzlruCijiRy3AZgnQIc0PmM.jpg' alt='Dark Roses Background Images – Browse 460,130 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/15/02/55/360_F_315025553_Vt0vN1KDcBzlruCijiRy3AZgnQIc0PmM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1516565349308-c76fe36a115c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRhcmslMjByb3Nlc3xlbnwwfHwwfHx8MA%3D%3D' alt='Dark Roses Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1516565349308-c76fe36a115c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRhcmslMjByb3Nlc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46,800+ Dark Rose Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1404711495/photo/red-rose-flowers-background.jpg?s=612x612&w=0&k=20&c=UgyNgqHwMAC6DMi6JPCK4JkF_nsu1Jc9jGcooWDAkmE=' alt='46,800+ Dark Rose Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1404711495/photo/red-rose-flowers-background.jpg?s=612x612&w=0&k=20&c=UgyNgqHwMAC6DMi6JPCK4JkF_nsu1Jc9jGcooWDAkmE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black rose wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2e/07/a5/2e07a5a8190b1cf18e12cdc11a884957.jpg' alt='Black rose wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2e/07/a5/2e07a5a8190b1cf18e12cdc11a884957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Dark Rose Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/elegant-dark-rose-wallpaper-48.webp' alt='Elegant Dark Rose Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/elegant-dark-rose-wallpaper-48.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roses Background Images – Browse 460,130 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/01/03/65/360_F_601036526_0e2ESOz7xtZUJDWEG6H14OkBiy8yqDTQ.jpg' alt='Dark Roses Background Images – Browse 460,130 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/01/03/65/360_F_601036526_0e2ESOz7xtZUJDWEG6H14OkBiy8yqDTQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Rose iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/03/b8/9303b8f1c8576babeb50208746641f4d.jpg' alt='Dark Rose iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/03/b8/9303b8f1c8576babeb50208746641f4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

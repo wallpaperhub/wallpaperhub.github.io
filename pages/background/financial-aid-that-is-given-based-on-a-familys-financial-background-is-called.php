@@ -1,0 +1,129 @@
+<title>Understanding Need-Based Financial Aid</title>
+                    <meta name="description" content="Explore the essentials of need-based financial aid, designed to support students based on their family's financial circumstances. Learn about different types of assistance available to ensure educational opportunities for all, regardless of economic background.">
+                    <meta name="keywords" content="financial aid that is given based on a family's financial background is called">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/financial-aid-that-is-given-based-on-a-familys-financial-background-is-called">
+                            <span itemprop="name">financial aid that is given based on a family's financial background is called</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Need-Based Financial Aid</h1>
+                <p>Financial aid based on a family's financial background is known as need-based aid. This type of financial assistance helps students who have demonstrated financial need, ensuring they can access education regardless of their economic situation. It often includes grants, scholarships, work-study programs, and loans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Financial Aid?– Napkin Finance">
+                                <img itemprop="contentUrl url" src='https://napkinfinance.com/wp-content/uploads/2020/11/NapkinFinance-FinancialAid-Napkin-10-28-20-v03.jpg' alt='What is Financial Aid?– Napkin Finance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Napkin Finance" />
+                                </span>
+                                <a href='https://napkinfinance.com/wp-content/uploads/2020/11/NapkinFinance-FinancialAid-Napkin-10-28-20-v03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding FAFSA & How To Qualify For More College Financial ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/601c437c854ffc4d9f0aead9/1614005542397-Y4BKY733FRBJ861233TH/EFC-Formula-Illustration.jpg' alt='Understanding FAFSA & How To Qualify For More College Financial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenbush Financial Group" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/601c437c854ffc4d9f0aead9/1614005542397-Y4BKY733FRBJ861233TH/EFC-Formula-Illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Private vs. Federal College Loans: What's the Difference?">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/IV7zngWosUrN-xzDOs84eIYfDOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Private-vs-Federal-College-Loans-Whats-the-Difference-31c92251f6b243e3b1e4bba3b5612791.jpg' alt='Private vs. Federal College Loans: What's the Difference?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/IV7zngWosUrN-xzDOs84eIYfDOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Private-vs-Federal-College-Loans-Whats-the-Difference-31c92251f6b243e3b1e4bba3b5612791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Counseling / Financial Aid">
+                                <img itemprop="contentUrl url" src='https://www.fjuhsd.org/cms/lib/CA02000098/Centricity/Domain/199/4%20types%20of%20financial%20aid.png' alt='Counseling / Financial Aid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fullerton Joint Union High School District" />
+                                </span>
+                                <a href='https://www.fjuhsd.org/cms/lib/CA02000098/Centricity/Domain/199/4%20types%20of%20financial%20aid.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Quick Guide to How the FAFSA Works">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/fK5t_QRoCTcCCUQaFN5KmjJH9uQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quick-guide-how-fafsa-loans-work.aspfinal-095c438b775f49488e405992d7f8feba.jpg' alt='A Quick Guide to How the FAFSA Works'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/fK5t_QRoCTcCCUQaFN5KmjJH9uQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quick-guide-how-fafsa-loans-work.aspfinal-095c438b775f49488e405992d7f8feba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Financial Aid Options 2025 | Your College Funding Guide">
+                                <img itemprop="contentUrl url" src='https://www.educationconnection.com/wp-content/uploads/2023/07/ec-financial-aid.jpg' alt='Financial Aid Options 2025 | Your College Funding Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Education Connection" />
+                                </span>
+                                <a href='https://www.educationconnection.com/wp-content/uploads/2023/07/ec-financial-aid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is The Expected Family Contribution (EFC) for Financial Aid ...">
+                                <img itemprop="contentUrl url" src='https://bautisfinancial.com/wp-content/uploads/2019/09/FinancialAidConsiderations_Page_1-1024x768.png' alt='What is The Expected Family Contribution (EFC) for Financial Aid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bautis Financial" />
+                                </span>
+                                <a href='https://bautisfinancial.com/wp-content/uploads/2019/09/FinancialAidConsiderations_Page_1-1024x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does Financial Aid Cover? 4 Types to Pay for College">
+                                <img itemprop="contentUrl url" src='https://online.champlain.edu/sites/online/files/styles/width_1600/public/2020-12/online-colleges-paying-for-school-degree-blog4-1900x900.jpg?itok=bT5OiVnc' alt='What Does Financial Aid Cover? 4 Types to Pay for College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Champlain College Online" />
+                                </span>
+                                <a href='https://online.champlain.edu/sites/online/files/styles/width_1600/public/2020-12/online-colleges-paying-for-school-degree-blog4-1900x900.jpg?itok=bT5OiVnc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Financial Aid - Nelson University">
+                                <img itemprop="contentUrl url" src='https://www.nelson.edu/images/page-content/financial-aid/3-types.png' alt='Financial Aid - Nelson University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1321">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nelson University" />
+                                </span>
+                                <a href='https://www.nelson.edu/images/page-content/financial-aid/3-types.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding FAFSA & How To Qualify For More College Financial ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/601c437c854ffc4d9f0aead9/1614005548466-6PM9U8GKTJIG6U3T9E0T/Sudent-income-and-assets-counted-against-financial-aid.jpg' alt='Understanding FAFSA & How To Qualify For More College Financial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenbush Financial Group" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/601c437c854ffc4d9f0aead9/1614005548466-6PM9U8GKTJIG6U3T9E0T/Sudent-income-and-assets-counted-against-financial-aid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

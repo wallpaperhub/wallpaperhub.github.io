@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stylish Banana Leaves Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of banana leaves wallpaper for your home. This eco-friendly decor choice brings a refreshing, tropical vibe to any room, enhancing your space with vibrant colors and a calming ambiance. Perfect for those seeking to uplift their interiors with nature-inspired design.">
+                    <meta name="keywords" content="banana leaves wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/banana-leaves-wallpaper">
+                            <span itemprop="name">banana leaves wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stylish Banana Leaves Wallpaper</h1>
+                <p>Banana leaves wallpaper adds a touch of tropical elegance to any space. Its vibrant green hues create a refreshing ambiance, making it perfect for living rooms, bedrooms, or dining areas. This sustainable decor choice embodies nature's beauty while enhancing mood and providing a serene backdrop for your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BANANA LEAVES">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20111_-_banana_leaves.jpg' alt='BANANA LEAVES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20111_-_banana_leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meihodan Tropical Palm Leaf Peel and Stick Wallpaper Green Banana Leaves  Self Adhesive Wall Paper Removable Contact Paper for Living Room 17.7in x  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81amQEcEkPL.jpg' alt='Meihodan Tropical Palm Leaf Peel and Stick Wallpaper Green Banana Leaves  Self Adhesive Wall Paper Removable Contact Paper for Living Room 17.7in x  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81amQEcEkPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Palm Wallpaper • Banana Leaf • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/09/Wallpaper-KH-Kingdom-Palm-Del-Rio-1-1100x1320.jpg' alt='Kingdom Palm Wallpaper • Banana Leaf • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/09/Wallpaper-KH-Kingdom-Palm-Del-Rio-1-1100x1320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaves Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/224/1090/banana_leaf_peel_and_stick_wallpaper__97463.1719944514.jpg?c=2' alt='Banana Leaves Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/224/1090/banana_leaf_peel_and_stick_wallpaper__97463.1719944514.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/at7067ex_1_1eec6dbe-dd04-4168-916d-c5b9fd00f30f.jpg?v=1703779912&width=1024' alt='Banana Leaf Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/at7067ex_1_1eec6dbe-dd04-4168-916d-c5b9fd00f30f.jpg?v=1703779912&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Banana Leaf Wallpaper Peel and Stick and Traditional Wallpaper -  C160">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C160_12.png?v=1735310428&width=1946' alt='Tropical Banana Leaf Wallpaper Peel and Stick and Traditional Wallpaper -  C160'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C160_12.png?v=1735310428&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf - Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/BananaLeaf_Green.jpg?v=1706491783&width=1080' alt='Banana Leaf - Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/BananaLeaf_Green.jpg?v=1706491783&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murwall Leaf Wallpaper Banana Leaf Wall Mural ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51LMmkgTgZL.jpg' alt='Murwall Leaf Wallpaper Banana Leaf Wall Mural ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51LMmkgTgZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martinique® Wallpaper - CW Stockwell">
+                                <img itemprop="contentUrl url" src='https://cwstockwell.com/cdn/shop/products/CWStockwell_Martinique_PC1_1200x.jpg?v=1683841546' alt='Martinique® Wallpaper - CW Stockwell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CW Stockwell" />
+                                </span>
+                                <a href='https://cwstockwell.com/cdn/shop/products/CWStockwell_Martinique_PC1_1200x.jpg?v=1683841546' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_195.jpg?v=1565254747' alt='FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_195.jpg?v=1565254747' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 3D Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a vast collection of captivating 3D anime wallpapers to enhance your digital devices. Perfectly designed for desktops and mobiles, these wallpapers showcase your favorite anime characters in breathtaking detail. Engage with art that adds flair and personality to your screens!">
+                    <meta name="keywords" content="3d anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-anime-wallpaper">
+                            <span itemprop="name">3d anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Anime Wallpapers for Your Device</h1>
+                <p>Immerse yourself in a vibrant world with stunning 3D anime wallpapers that bring your favorite characters to life! Perfect for desktop and mobile backgrounds, these artworks feature intricate designs and striking colors. Discover a diverse range of styles and themes, adding a personal touch to your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d wallpaper anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/07/3e/e9073ec012646f1861368b1777e25e74.jpg' alt='3d wallpaper anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/07/3e/e9073ec012646f1861368b1777e25e74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto's 3d animated wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' alt='Naruto's 3d animated wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8k 3d Anime Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-anime-the-legend-of-qin-8k-v5vrpvfrrpzc5yp1.jpg' alt='8k 3d Anime Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-anime-the-legend-of-qin-8k-v5vrpvfrrpzc5yp1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d anime hotsell wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4901965.jpg' alt='3d anime hotsell wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ticketdrop.co.uk" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4901965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime wallpaper 3d">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=332942966524848' alt='Anime wallpaper 3d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=332942966524848' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Stunning 3D Anime Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7459416593315925255&location=0&aid=1988' alt='Explore Stunning 3D Anime Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7459416593315925255&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Animated Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/98/3b/2c983b21649bd729201579019d3a1056.jpg' alt='3D Animated Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/98/3b/2c983b21649bd729201579019d3a1056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Eyes Anime Eye Wallpaper 3d Backgrounds | JPG Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230421/46bb159ae1cb72ddf76743006649ed8d.jpg!sw800' alt='Animal Eyes Anime Eye Wallpaper 3d Backgrounds | JPG Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230421/46bb159ae1cb72ddf76743006649ed8d.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D 4k Anime Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3339411.jpg' alt='3D 4k Anime Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3339411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "Anime Wallpaper iPhone https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EMfOYwkWwAAxnPx.jpg:large' alt='3D iPhone Wallpaper on X: "Anime Wallpaper iPhone https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EMfOYwkWwAAxnPx.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

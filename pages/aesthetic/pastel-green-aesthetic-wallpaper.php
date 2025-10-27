@@ -1,0 +1,129 @@
+<title>Dreamy Pastel Green Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Elevate your home decor with pastel green aesthetic wallpaper. This soothing shade enhances any room, infusing it with a tranquil vibe perfect for relaxation and creativity. Explore our collection for stylish, serene designs that transform your space effortlessly.">
+                    <meta name="keywords" content="pastel green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastel-green-aesthetic-wallpaper">
+                            <span itemprop="name">pastel green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dreamy Pastel Green Aesthetic Wallpaper for Your Space</h1>
+                <p>Pastel green aesthetic wallpaper brings a refreshing and calming vibe to your space. This soft, muted hue complements various decor styles, creating a serene backdrop perfect for relaxation. Whether you're designing a cozy bedroom or a chic living area, pastel green wallpaper adds a gentle touch of nature that soothes the senses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green , green light green aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/db/ec/07dbecf8aa156976a4442037d0a06ed6.jpg' alt='Pastel green , green light green aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/db/ec/07dbecf8aa156976a4442037d0a06ed6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-pastel-green-watercolour-background_1048-20233.jpg' alt='Sage Green Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-pastel-green-watercolour-background_1048-20233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper green light green , pastel green ,aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/9d/74/789d74b1e1dfd2aa92c5d4e6588f0ed7.jpg' alt='Aesthetic wallpaper green light green , pastel green ,aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/9d/74/789d74b1e1dfd2aa92c5d4e6588f0ed7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scallops Design In Pastel Green Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-sun-pastel-green-1wmo8wl0cipndwf7.webp' alt='Scallops Design In Pastel Green Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-sun-pastel-green-1wmo8wl0cipndwf7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green, light green ,pastel green aesthetic wallpaper for android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/22/52/242252126d1c476dc69f55035c6cfabd.jpg' alt='Green, light green ,pastel green aesthetic wallpaper for android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/22/52/242252126d1c476dc69f55035c6cfabd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pinterest Cute Pastel Green Desktop Wallpaper Themed ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43876470/r/il/a0099b/5438221488/il_570xN.5438221488_px4d.jpg' alt='Aesthetic Pinterest Cute Pastel Green Desktop Wallpaper Themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43876470/r/il/a0099b/5438221488/il_570xN.5438221488_px4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Succulent Pastel Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/succulent-pastel-green-aesthetic-630seuopqok46cm3.jpg' alt='Succulent Pastel Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/succulent-pastel-green-aesthetic-630seuopqok46cm3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Pastel Green Aesthetic Laptop for the Ultimate Home ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-green-aesthetic-laptop-736-x-1340-jdw7mvlwvk0iijy8.jpg' alt='Download A Pastel Green Aesthetic Laptop for the Ultimate Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-green-aesthetic-laptop-736-x-1340-jdw7mvlwvk0iijy8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green Aesthetic Iphone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTAxL3Jhd3BpeGVsX29mZmljZV8zM19ncmVlbl9jb2x2ZXJfbGVhdmVzX25hdHVyZV93YWxscGFwZXJfYWVzdGhldF8yZjc4Y2JkMi00MDg3LTQ1OWItODIwYy05ODJiYmY2MjlkYjRfMS5qcGc.jpg' alt='Pastel Green Aesthetic Iphone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTAxL3Jhd3BpeGVsX29mZmljZV8zM19ncmVlbl9jb2x2ZXJfbGVhdmVzX25hdHVyZV93YWxscGFwZXJfYWVzdGhldF8yZjc4Y2JkMi00MDg3LTQ1OWItODIwYy05ODJiYmY2MjlkYjRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Destiny 2 4K Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover amazing 4K Destiny 2 wallpapers to enhance your gaming device. Explore vivid images featuring iconic characters, epic battles, and stunning landscapes. Perfect for gamers looking to customize their screens with high-quality visuals that capture the essence of the Destiny universe. Download your favorites now!">
+                    <meta name="keywords" content="destiny 2 wallpapers 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/destiny-2-wallpapers-4k">
+                            <span itemprop="name">destiny 2 wallpapers 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Destiny 2 4K Wallpapers for Gamers</h1>
+                <p>Elevate your gaming experience with stunning 4K wallpapers from Destiny 2! Immerse yourself in the vibrant visuals of your favorite characters, battles, and breathtaking landscapes. Perfect for any device, our collection brings the captivating universe of Destiny 2 right to your screen. Customize your setup and showcase your passion for this iconic game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2: The Final Shape - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/136/1364600.jpeg' alt='Destiny 2: The Final Shape - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/136/1364600.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warmind (DLC II) Wallpaper - 4K (No watermark) - Enjoy! : r/destiny2">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/02hcqRdf1hDqRh--njoyBgJzB5vYJeGIUUwUfIKooLU.jpg?auto=webp&s=daa4ed4638d54f17323bc3170b13b7501f73fc48' alt='Warmind (DLC II) Wallpaper - 4K (No watermark) - Enjoy! : r/destiny2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/02hcqRdf1hDqRh--njoyBgJzB5vYJeGIUUwUfIKooLU.jpg?auto=webp&s=daa4ed4638d54f17323bc3170b13b7501f73fc48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2 The Final Shape Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/destiny-2-the-final-shape_bmZpZmeUmZqaraWkpJRnamtlrWZpaWU.jpg' alt='Destiny 2 The Final Shape Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/destiny-2-the-final-shape_bmZpZmeUmZqaraWkpJRnamtlrWZpaWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2 on X: "Refresh your display's look with new wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GRqWjfmW8AAFsJ9?format=jpg&name=4096x4096' alt='Destiny 2 on X: "Refresh your display's look with new wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GRqWjfmW8AAFsJ9?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Destiny 2 Wallpapers: Official from Bungie">
+                                <img itemprop="contentUrl url" src='https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt0ca4a52619b8ac84/61f311d15874d7278297a83f/media-wallpaper-full2.jpg' alt='Best Destiny 2 Wallpapers: Official from Bungie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blueberries GG" />
+                                </span>
+                                <a href='https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt0ca4a52619b8ac84/61f311d15874d7278297a83f/media-wallpaper-full2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420+] Destiny 2 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/134/1343533.png' alt='420+] Destiny 2 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/134/1343533.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Game Scene Destiny 2 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/end-game-scene-destiny-2-lpj7i86ffea8c40l.jpg' alt='End Game Scene Destiny 2 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/end-game-scene-destiny-2-lpj7i86ffea8c40l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny Wallpapers (60 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/1/a/2174-3840x2160-desktop-4k-destiny-game-background-image.jpg' alt='Destiny Wallpapers (60 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/1/a/2174-3840x2160-desktop-4k-destiny-game-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traveler Wallpaper 4K Upscale : r/DestinyTheGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n4futnleiuia1.png' alt='Traveler Wallpaper 4K Upscale : r/DestinyTheGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n4futnleiuia1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2: The Witch Queen Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/4/e/1272979-3840x2160-desktop-4k-destiny-2-the-witch-queen-wallpaper-photo.jpg' alt='Destiny 2: The Witch Queen Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/4/e/1272979-3840x2160-desktop-4k-destiny-2-the-witch-queen-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

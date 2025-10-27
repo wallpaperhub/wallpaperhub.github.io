@@ -1,0 +1,129 @@
+<title>Vibrant Pink Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore our curated collection of pink wallpapers that elevate your interior design. From soft hues to bold shades, find the perfect match for your aesthetic. Give your walls a fresh and stylish look with our high-quality pink wallpaper selections!">
+                    <meta name="keywords" content="pink:gdxr6qp7qy0= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pinkgdxr6qp7qy0-wallpaper">
+                            <span itemprop="name">pink:gdxr6qp7qy0= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Wallpapers for Every Style</h1>
+                <p>Transform your space with stunning pink wallpapers! Whether you prefer soft pastel shades or vibrant fuchsia tones, pink wallpaper adds a touch of elegance and warmth to any room. Perfect for creating a cozy atmosphere, our collection offers patterns ranging from floral to geometric. Brighten up your walls with pink today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink:gdxr6qp7qy0= Wallpaper: Home Decor - Digi Fanzine">
+                                <img itemprop="contentUrl url" src='https://digifanzine.co.uk/wp-content/uploads/2024/08/Pinkgdxr6qp7qy0-Wallpaper.jpg' alt='Pink:gdxr6qp7qy0= Wallpaper: Home Decor - Digi Fanzine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digi Fanzine" />
+                                </span>
+                                <a href='https://digifanzine.co.uk/wp-content/uploads/2024/08/Pinkgdxr6qp7qy0-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink:gdxr6qp7qy0= wallpaper | thepizzaedition.co.uk">
+                                <img itemprop="contentUrl url" src='https://thepizzaedition.co.uk/wp-content/uploads/2024/07/Pink-gdxr6qp7qy0-wallpaper.jpg' alt='Pink:gdxr6qp7qy0= wallpaper | thepizzaedition.co.uk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pizza Edition" />
+                                </span>
+                                <a href='https://thepizzaedition.co.uk/wp-content/uploads/2024/07/Pink-gdxr6qp7qy0-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink:gdxr6qp7qy0= wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.cnvrtool.com/wp-content/uploads/2024/07/pink-wallpaper-930x620.png' alt='pink:gdxr6qp7qy0= wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cnvrTool" />
+                                </span>
+                                <a href='https://www.cnvrtool.com/wp-content/uploads/2024/07/pink-wallpaper-930x620.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink:gdxr6qp7qy0= Wallpaper: Free Online - Web Online Studio">
+                                <img itemprop="contentUrl url" src='https://webonlinestudio.com/blog/wp-content/uploads/2024/08/Pink-Gdxr6qp7qy0-Wallpaper.jpg' alt='Pink:gdxr6qp7qy0= Wallpaper: Free Online - Web Online Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Web Online Studio" />
+                                </span>
+                                <a href='https://webonlinestudio.com/blog/wp-content/uploads/2024/08/Pink-Gdxr6qp7qy0-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper (Pastel, Hue) #26018">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_h/26018.jpg' alt='Pink Wallpaper (Pastel, Hue) #26018'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_h/26018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Grey Floral Wallpaper, Hot Pink Decor, Designer ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17581569/r/il/588bfd/4531819597/il_1080xN.4531819597_pj6r.jpg' alt='Pink and Grey Floral Wallpaper, Hot Pink Decor, Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17581569/r/il/588bfd/4531819597/il_1080xN.4531819597_pj6r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/09/58/55/11/1000_F_958551120_AEqW2MRRs5TA3i03XqiVOqzShDFPbKFp.jpg' alt='Pink Wallpaper Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/09/58/55/11/1000_F_958551120_AEqW2MRRs5TA3i03XqiVOqzShDFPbKFp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Gradient Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pink-gradient-fsjslksudbjs665y.jpg' alt='Cute Pink Gradient Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pink-gradient-fsjslksudbjs665y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Gradient Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-pink-and-orange-smoke-isoztzadne51cl47.webp' alt='Cute Pink Gradient Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-pink-and-orange-smoke-isoztzadne51cl47.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink graph paper white grid #ffb6c1 1440x2560 wallpaper 4K HD">
+                                <img itemprop="contentUrl url" src='https://xmple.com/wallpaper/pink-graph-paper-white-grid-1440x2560-c2-ffb6c1-faf0e6-l2-2-66-a-60-f-20.svg' alt='Pink graph paper white grid #ffb6c1 1440x2560 wallpaper 4K HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xmple" />
+                                </span>
+                                <a href='https://xmple.com/wallpaper/pink-graph-paper-white-grid-1440x2560-c2-ffb6c1-faf0e6-l2-2-66-a-60-f-20.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

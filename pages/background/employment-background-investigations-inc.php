@@ -1,0 +1,129 @@
+<title>Essential Guide to Employment Background Investigations</title>
+                    <meta name="description" content="Discover the importance of employment background investigations to ensure secure hiring practices. Learn how these checks verify candidates' credentials, enhancing workplace safety and trust. Optimize your hiring process with reliable background verification services.">
+                    <meta name="keywords" content="employment background investigations inc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/employment-background-investigations-inc">
+                            <span itemprop="name">employment background investigations inc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Employment Background Investigations</h1>
+                <p>Employment background investigations are essential for employers to verify candidates' credentials, ensuring a safe and trustworthy workplace. These investigations include checks on criminal records, credit history, employment history, and education verification. By conducting thorough background checks, businesses can mitigate risks and maintain high hiring standards, ultimately fostering a secure environment for employees and clients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EBI Reviews 2025: Details, Pricing, & Features | G2">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ffd0eefbdadd53437b8157b68a0f876d/ebi.png' alt='EBI Reviews 2025: Details, Pricing, & Features | G2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ffd0eefbdadd53437b8157b68a0f876d/ebi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Investigations Reviews: What Is It Like to ...">
+                                <img itemprop="contentUrl url" src='https://media.glassdoor.com/sqll/994622/employment-background-investigations-squarelogo-1498223048319.png' alt='Employment Background Investigations Reviews: What Is It Like to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glassdoor" />
+                                </span>
+                                <a href='https://media.glassdoor.com/sqll/994622/employment-background-investigations-squarelogo-1498223048319.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EBI, a Sterling company | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D0BAQFxRDnoIcVpEw/company-logo_200_200/company-logo_200_200/0/1641313831105/employment_background_investigations_logo?e=2147483647&v=beta&t=piJRgHSkXfqrxUDcxVqWwW80V84DqjRYSRhbCBJVwGk' alt='EBI, a Sterling company | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D0BAQFxRDnoIcVpEw/company-logo_200_200/company-logo_200_200/0/1641313831105/employment_background_investigations_logo?e=2147483647&v=beta&t=piJRgHSkXfqrxUDcxVqWwW80V84DqjRYSRhbCBJVwGk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Investigations, Inc. (EBI) Vector Logo ...">
+                                <img itemprop="contentUrl url" src='https://findvectorlogo.com/wp-content/uploads/2019/08/employment-background-investigations-inc-ebi-vector-logo.png' alt='Employment Background Investigations, Inc. (EBI) Vector Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Find Vector Logo" />
+                                </span>
+                                <a href='https://findvectorlogo.com/wp-content/uploads/2019/08/employment-background-investigations-inc-ebi-vector-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find a Background Screening Company: Employment Background ...">
+                                <img itemprop="contentUrl url" src='https://preemploymentdirectory.com/wp-content/uploads/2013/05/ebifullplat.gif' alt='Find a Background Screening Company: Employment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='https://preemploymentdirectory.com/wp-content/uploads/2013/05/ebifullplat.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Investigations, Inc. (EBI) Logo PNG Vector ...">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/39/1/employment-background-investigations-inc-ebi-logo-png_seeklogo-397450.png' alt='Employment Background Investigations, Inc. (EBI) Logo PNG Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/39/1/employment-background-investigations-inc-ebi-logo-png_seeklogo-397450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Investigations, Inc. (EBI) Logo PNG Vector ...">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/39/2/employment-background-investigations-inc-ebi-logo-png_seeklogo-397450.png' alt='Employment Background Investigations, Inc. (EBI) Logo PNG Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/39/2/employment-background-investigations-inc-ebi-logo-png_seeklogo-397450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Star Acts as Exclusive Advisor to Employment Background ...">
+                                <img itemprop="contentUrl url" src='https://www.drakestar.com/hubfs/EBI%20news.png' alt='Drake Star Acts as Exclusive Advisor to Employment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2648">
+                                <meta itemprop="height" content="1346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DrakeStar" />
+                                </span>
+                                <a href='https://www.drakestar.com/hubfs/EBI%20news.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for National Background Investigations, Inc.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054273831106' alt='Profile for National Background Investigations, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054273831106' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

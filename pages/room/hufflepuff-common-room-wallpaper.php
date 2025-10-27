@@ -1,0 +1,129 @@
+<title>Cozy Hufflepuff Common Room Wallpaper for Your Space</title>
+                    <meta name="description" content="Explore our beautiful Hufflepuff common room wallpaper to bring the spirit of Hogwarts to your home. Perfect for fans seeking comfort, it blends earthy tones and patterns. Transform your living space into a cozy, welcoming retreat inspired by Hufflepuff's charm! Shop now for a magical touch!">
+                    <meta name="keywords" content="hufflepuff common room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/hufflepuff-common-room-wallpaper">
+                            <span itemprop="name">hufflepuff common room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Hufflepuff Common Room Wallpaper for Your Space</h1>
+                <p>Step into the cozy embrace of the Hufflepuff common room with stunning wallpaper that captures its warmth and charm. Featuring earthy tones and intricate patterns, this wallpaper exudes a welcoming vibe, perfect for fans of the Hogwarts house known for loyalty and hard work. Transform your space into a haven of comfort and friendship!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hufflepuff Video Game Hogwarts Legacy 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/130/1301376.jpg' alt='Download Hufflepuff Video Game Hogwarts Legacy 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/130/1301376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff common room">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/a4/e7/fca4e7f8bdacfd92efe9f314935b9915.jpg' alt='Hufflepuff common room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/a4/e7/fca4e7f8bdacfd92efe9f314935b9915.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hufflepuff common room phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/64/59/fd64593cb23f40a27083f91719a8f066.jpg' alt='hufflepuff common room phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/64/59/fd64593cb23f40a27083f91719a8f066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Step inside the magical Hufflepuff Common Room Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hufflepuff-common-room-zj62bb5s2v67kp3d.jpg' alt='Download Step inside the magical Hufflepuff Common Room Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1355">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hufflepuff-common-room-zj62bb5s2v67kp3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Images of Hufflepuff Common Room : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-images-of-hufflepuff-common-room-v0-cn88yo3hcal91.png?width=640&crop=smart&auto=webp&s=25b74d42eebd86543eb2e529c41d60bbe9324547' alt='New Images of Hufflepuff Common Room : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-images-of-hufflepuff-common-room-v0-cn88yo3hcal91.png?width=640&crop=smart&auto=webp&s=25b74d42eebd86543eb2e529c41d60bbe9324547' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pottermore Background: Hufflepuff Common Room by xxtayce on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e740078-f753-4701-a779-c7124d72087f/d6wp662-bcfe2d0a-6d2a-4511-a504-6988813752c6.jpg/v1/fill/w_1024,h_576,q_75,strp/pottermore_background__hufflepuff_common_room_by_xxtayce_d6wp662-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2U3NDAwNzgtZjc1My00NzAxLWE3NzktYzcxMjRkNzIwODdmXC9kNndwNjYyLWJjZmUyZDBhLTZkMmEtNDUxMS1hNTA0LTY5ODg4MTM3NTJjNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1yqCGq2aVw2c3FzxV6oVflFGK6dKO7_XslK7cnBx7fU' alt='Pottermore Background: Hufflepuff Common Room by xxtayce on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e740078-f753-4701-a779-c7124d72087f/d6wp662-bcfe2d0a-6d2a-4511-a504-6988813752c6.jpg/v1/fill/w_1024,h_576,q_75,strp/pottermore_background__hufflepuff_common_room_by_xxtayce_d6wp662-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2U3NDAwNzgtZjc1My00NzAxLWE3NzktYzcxMjRkNzIwODdmXC9kNndwNjYyLWJjZmUyZDBhLTZkMmEtNDUxMS1hNTA0LTY5ODg4MTM3NTJjNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1yqCGq2aVw2c3FzxV6oVflFGK6dKO7_XslK7cnBx7fU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff Common Room, Samuel Fernandez">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/76/85/94768503a590b5ed36bc908bd4b8a2ca.jpg' alt='Hufflepuff Common Room, Samuel Fernandez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/76/85/94768503a590b5ed36bc908bd4b8a2ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Welcome to the Hufflepuff Common Room Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cartoon-hufflepuff-room-nytaz9n1g9eb71oj.jpg' alt='Download Welcome to the Hufflepuff Common Room Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1355">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cartoon-hufflepuff-room-nytaz9n1g9eb71oj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Images of Hufflepuff Common Room : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/new-images-of-hufflepuff-common-room-v0-354fzc3hcal91.png?width=2838&format=png&auto=webp&s=9b089982d6d94c5c2ee4c0d1308adc7633a0d68c' alt='New Images of Hufflepuff Common Room : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2838">
+                                <meta itemprop="height" content="1509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/new-images-of-hufflepuff-common-room-v0-354fzc3hcal91.png?width=2838&format=png&auto=webp&s=9b089982d6d94c5c2ee4c0d1308adc7633a0d68c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HUFFLEPUFF Common Room (POTTERMORE)">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2533230290285757' alt='HUFFLEPUFF Common Room (POTTERMORE)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2533230290285757' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

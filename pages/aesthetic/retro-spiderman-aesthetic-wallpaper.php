@@ -1,0 +1,129 @@
+<title>Retro Spider-Man Aesthetic Wallpaper: Capture the Classic Style</title>
+                    <meta name="description" content="Discover stunning retro Spider-Man aesthetic wallpapers that bring a nostalgic touch to your device. Perfect for fans of the iconic superhero, our collection features vibrant colors and classic comic art. Elevate your screen with captivating designs that celebrate Spider-Man's timeless appeal.">
+                    <meta name="keywords" content="retro spiderman aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/retro-spiderman-aesthetic-wallpaper">
+                            <span itemprop="name">retro spiderman aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Spider-Man Aesthetic Wallpaper: Capture the Classic Style</h1>
+                <p>Dive into the vibrant world of retro Spider-Man aesthetic wallpaper, where classic comic art meets nostalgic vibes. Explore a collection of colorful designs featuring Spider-Man in iconic poses, vibrant cityscapes, and vintage typography. Perfect for fans who appreciate a blend of nostalgia and pop culture in their digital spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    #spiderman #spidermanaesthetic #fyp #aesthetic #movie ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/e0/e3/a9e0e36a0b7c061c61bbe503b2e01cba.jpg' alt='    #spiderman #spidermanaesthetic #fyp #aesthetic #movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/e0/e3/a9e0e36a0b7c061c61bbe503b2e01cba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Spider-Man">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/34/b6/a834b68bdeb3d791e90ae63eeacf2e9d.jpg' alt='Retro Spider-Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/34/b6/a834b68bdeb3d791e90ae63eeacf2e9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spider Man Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spiderman-1366x768-2etcydvaqkcv74ix.jpg' alt='100+] Spider Man Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spiderman-1366x768-2etcydvaqkcv74ix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spiderman #aesthetic #comics #vintage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/48/8f/07488f45b3934d23e35a6a58b68566df.jpg' alt='spiderman #aesthetic #comics #vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/48/8f/07488f45b3934d23e35a6a58b68566df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Retrowave And Spider Man Vaporwave, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/947/35/HD-wallpaper-aesthetic-retrowave-and-spider-man-vaporwave.jpg' alt='Aesthetic Retrowave And Spider Man Vaporwave, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/947/35/HD-wallpaper-aesthetic-retrowave-and-spider-man-vaporwave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out autumn_malonesky's Shuffles #tv #movies #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/82/84/22/8284224a9ce565a30a261d435ff317b9.jpg' alt='Check out autumn_malonesky's Shuffles #tv #movies #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/82/84/22/8284224a9ce565a30a261d435ff317b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Spider Man Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4805425.jpg' alt='Vintage Spider Man Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4805425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spiderman comics wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCwKSJTor47/1/image.jpg' alt='spiderman comics wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCwKSJTor47/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-man PS4 wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cxu8seoivjf31.jpg?width=640&crop=smart&auto=webp&s=b79e91404c8c983f2ab85ac8766800bab91d568f' alt='Spider-man PS4 wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cxu8seoivjf31.jpg?width=640&crop=smart&auto=webp&s=b79e91404c8c983f2ab85ac8766800bab91d568f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spiderman #vintage #comic #moodboard #aesthetic #shuffles #marvel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/21/11/6f2111435446cb5c0117944c4694ad8e.jpg' alt='spiderman #vintage #comic #moodboard #aesthetic #shuffles #marvel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/21/11/6f2111435446cb5c0117944c4694ad8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

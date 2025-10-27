@@ -1,0 +1,129 @@
+<title>Revamp Your Office with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the simplicity of peel and stick wallpaper for your office. Quick to apply and easy to remove, it offers a stylish, customizable solution for any workspace. Perfect for creating an inspiring environment or refreshing your existing decor. Transform your office today!">
+                    <meta name="keywords" content="peel and stick wallpaper office">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-office">
+                            <span itemprop="name">peel and stick wallpaper office</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Office with Peel and Stick Wallpaper</h1>
+                <p>Transform your office space effortlessly with peel and stick wallpaper. Ideal for renters and those who love versatility, this wallpaper is easy to apply and remove, allowing for a quick style refresh. Choose from a variety of designs to match your workspace aesthetics while keeping your environment inspiring and productive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Home Office Makeover With Threshold Removable Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_04-scaled.jpg' alt='A Home Office Makeover With Threshold Removable Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily Henderson" />
+                                </span>
+                                <a href='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_04-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home Office Makeover with Peel and Stick Wallpaper – JANUARY HART">
+                                <img itemprop="contentUrl url" src='https://januaryhart.com/wp-content/uploads/2022/07/wallpaper-1b.jpg' alt='Home Office Makeover with Peel and Stick Wallpaper – JANUARY HART'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JANUARY HART" />
+                                </span>
+                                <a href='https://januaryhart.com/wp-content/uploads/2022/07/wallpaper-1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swell Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/SW16018-black-swell-peel-stick-wallpaper-home-office_1800x1800.jpg?v=1724442602' alt='Swell Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/SW16018-black-swell-peel-stick-wallpaper-home-office_1800x1800.jpg?v=1724442602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Transform Your Space with Peel and Stick Wallpaper - Emmy ...">
+                                <img itemprop="contentUrl url" src='https://emmyloustyles.com/wp-content/uploads/2020/04/Peel-and-stick-wallpaper-in-a-home-office.jpg' alt='How to Transform Your Space with Peel and Stick Wallpaper - Emmy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emmy Lou Styles" />
+                                </span>
+                                <a href='https://emmyloustyles.com/wp-content/uploads/2020/04/Peel-and-stick-wallpaper-in-a-home-office.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Home Office Makeover With Threshold Removable Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_09.jpg' alt='A Home Office Makeover With Threshold Removable Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily Henderson" />
+                                </span>
+                                <a href='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...">
+                                <img itemprop="contentUrl url" src='https://modernfarmhouseglam.com/wp-content/uploads/img-4997.jpg' alt='Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Farmhouse Glam" />
+                                </span>
+                                <a href='https://modernfarmhouseglam.com/wp-content/uploads/img-4997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brush Strokes | Removable Wallpaper /peel and Stick/wallpaper/self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/41bf29/4701817604/il_570xN.4701817604_m2j4.jpg' alt='Brush Strokes | Removable Wallpaper /peel and Stick/wallpaper/self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/41bf29/4701817604/il_570xN.4701817604_m2j4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/striped-square-removable-wallpaper-in-modern-eclectic-style-office-683x1024.jpg' alt='Office wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/striped-square-removable-wallpaper-in-modern-eclectic-style-office-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...">
+                                <img itemprop="contentUrl url" src='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' alt='Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Farmhouse Glam" />
+                                </span>
+                                <a href='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Your Home with Peel and Stick Wallpaper - The Design Twins">
+                                <img itemprop="contentUrl url" src='https://thedesigntwins.com/wp-content/uploads/2020/04/feature-wall.jpg' alt='Transform Your Home with Peel and Stick Wallpaper - The Design Twins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Design Twins" />
+                                </span>
+                                <a href='https://thedesigntwins.com/wp-content/uploads/2020/04/feature-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pink Sakura Backgrounds for Spring Vibes</title>
+                    <meta name="description" content="Explore beautiful pink sakura backgrounds that bring the charm of cherry blossoms to life. Perfect for enhancing your projects, these serene images evoke spring's tranquility and beauty, making them ideal for any creative endeavor. Elevate your space with captivating floral aesthetics today!">
+                    <meta name="keywords" content="pink sakura background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-sakura-background">
+                            <span itemprop="name">pink sakura background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Sakura Backgrounds for Spring Vibes</h1>
+                <p>Delight in the enchanting beauty of a pink sakura background, where delicate cherry blossoms bloom in shades of soft pink. This stunning backdrop evokes feelings of tranquility and renewal. Perfect for creating a serene and picturesque atmosphere, it captures the essence of spring and celebrates nature's artistry, inviting peace and inspiration into any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakura Background Images – Browse 1,005,596 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/44/53/87/360_F_644538701_rNdyFE54hkPQSjzp8GQKP58YOjOwHRFa.jpg' alt='Sakura Background Images – Browse 1,005,596 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/44/53/87/360_F_644538701_rNdyFE54hkPQSjzp8GQKP58YOjOwHRFa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background with Blooming Sakura Japan Pink Sakura Spring Nature ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-blooming-sakura-japan-pink-sakura-spring-nature-background-pink-blossom-cherry-trees-springtime-nature-294013940.jpg' alt='Background with Blooming Sakura Japan Pink Sakura Spring Nature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-blooming-sakura-japan-pink-sakura-spring-nature-background-pink-blossom-cherry-trees-springtime-nature-294013940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakura Background Images – Browse 1,005,596 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/04/83/93/360_F_704839353_huAelv6rIJeOrLeUzWTe1arwwEXH3hOD.jpg' alt='Sakura Background Images – Browse 1,005,596 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/04/83/93/360_F_704839353_huAelv6rIJeOrLeUzWTe1arwwEXH3hOD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Spring background vector with pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/7c/d1/c07cd142a9e0d6663fd651be1e0ad418.jpg' alt='Download premium vector of Spring background vector with pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/7c/d1/c07cd142a9e0d6663fd651be1e0ad418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/421/775/small_2x/beautifull-cherry-blossom-background-free-vector.jpg' alt='Cherry Blossom Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/421/775/small_2x/beautifull-cherry-blossom-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sakura Petals Background, Desktop Wallpaper, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-pink-sakura-petals-background-picture-image_1330930.jpg' alt='Pink Sakura Petals Background, Desktop Wallpaper, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-pink-sakura-petals-background-picture-image_1330930.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cherry Blossom Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-with-cherry-blossoms-full-bloom-pink_8130-710.jpg' alt='Pink Cherry Blossom Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-with-cherry-blossoms-full-bloom-pink_8130-710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Pink Vector Illustration Cherry Blossom Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/spring-pink-vector-illustration-cherry-260nw-1255416775.jpg' alt='Spring Pink Vector Illustration Cherry Blossom Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/spring-pink-vector-illustration-cherry-260nw-1255416775.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Background With Pink Sakura Branches, Cherry ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220718/original/pngtree-watercolor-floral-background-with-pink-sakura-branches-picture-image_1661790.jpg' alt='Watercolor Floral Background With Pink Sakura Branches, Cherry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220718/original/pngtree-watercolor-floral-background-with-pink-sakura-branches-picture-image_1661790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakura with blooming pink flowers on pink background · Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/7155157/pexels-photo-7155157.jpeg' alt='Sakura with blooming pink flowers on pink background · Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3800">
+                                <meta itemprop="height" content="5700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/7155157/pexels-photo-7155157.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

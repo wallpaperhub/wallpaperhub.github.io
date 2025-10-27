@@ -1,0 +1,129 @@
+<title>Stunning Initial D Phone Wallpapers for Anime Fans</title>
+                    <meta name="description" content="Discover an amazing selection of Initial D phone wallpapers! Perfect for anime enthusiasts, our vivid images capture the essence of racing and adventure. Personalize your mobile device with dynamic visuals that showcase your love for this iconic series. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="initial d phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/initial-d-phone-wallpaper">
+                            <span itemprop="name">initial d phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Initial D Phone Wallpapers for Anime Fans</h1>
+                <p>Looking for the perfect Initial D phone wallpaper? Explore our collection of high-energy images featuring iconic cars and thrilling racing scenes. Whether you're a fan of Takumi Fujiwara, the AE86, or the intense street racing atmosphere, we have diverse visuals to express your passion for this legendary anime on your mobile screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ae/4c/18/ae4c18fe30b2a00ab5daa28cd276ccdc.jpg' alt='Initial D Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ae/4c/18/ae4c18fe30b2a00ab5daa28cd276ccdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="As promised, here's some wallpapers of my initial D art - Enjoy ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z0fdjchxg0m31.jpg' alt='As promised, here's some wallpapers of my initial D art - Enjoy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z0fdjchxg0m31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/9/a/750964-1080x1920-samsung-full-hd-initial-d-wallpaper-image.jpg' alt='Initial D Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/9/a/750964-1080x1920-samsung-full-hd-initial-d-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82624125be8932a1dede258b13589b ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/62/41/82624125be8932a1dede258b13589bed.jpg' alt='82624125be8932a1dede258b13589b ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/62/41/82624125be8932a1dede258b13589bed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You guys might enjoy this as a phone wallpaper too : r/initiald">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4sama4nkzwp01.jpg' alt='You guys might enjoy this as a phone wallpaper too : r/initiald'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4sama4nkzwp01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Make your phone your home for Initial D Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/initial-d-phone-4l062smexirb57qg.jpg' alt='Download Make your phone your home for Initial D Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1091">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/initial-d-phone-4l062smexirb57qg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D - Mobile Phone Wallpaper by untouchvbles on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/718374b6-6206-413f-b0c6-500f97cb3ecf/de7nz1j-1f4fe6d0-9f64-4187-96cf-c67f53c894a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxODM3NGI2LTYyMDYtNDEzZi1iMGM2LTUwMGY5N2NiM2VjZlwvZGU3bnoxai0xZjRmZTZkMC05ZjY0LTQxODctOTZjZi1jNjdmNTNjODk0YTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ec4NQ2N6ltPJTwJHJ90hpjSmhvnXGvOQZH5dQKBXyGM' alt='Initial D - Mobile Phone Wallpaper by untouchvbles on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/718374b6-6206-413f-b0c6-500f97cb3ecf/de7nz1j-1f4fe6d0-9f64-4187-96cf-c67f53c894a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxODM3NGI2LTYyMDYtNDEzZi1iMGM2LTUwMGY5N2NiM2VjZlwvZGU3bnoxai0xZjRmZTZkMC05ZjY0LTQxODctOTZjZi1jNjdmNTNjODk0YTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ec4NQ2N6ltPJTwJHJ90hpjSmhvnXGvOQZH5dQKBXyGM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D AE86, initiald, takumi, toyota, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/519/42/HD-wallpaper-initial-d-ae86-initiald-takumi-toyota.jpg' alt='Initial D AE86, initiald, takumi, toyota, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/519/42/HD-wallpaper-initial-d-ae86-initiald-takumi-toyota.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/3/9/751014-1440x2560-samsung-hd-initial-d-wallpaper-image.jpg' alt='Initial D Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/3/9/751014-1440x2560-samsung-hd-initial-d-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Initial D Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/initial-d-phone-0kw9crzenhwubk63.jpg' alt='100+] Initial D Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/initial-d-phone-0kw9crzenhwubk63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

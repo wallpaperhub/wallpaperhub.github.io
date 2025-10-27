@@ -1,0 +1,129 @@
+<title>Vibrant Pink Anime Wallpaper for Your Screens</title>
+                    <meta name="description" content="Explore a delightful collection of pink anime wallpaper! Perfect for adding a splash of color and personality to your devices, these wallpapers feature enchanting characters and beautiful designs. Find your perfect background today and enjoy the artistic charm of anime with a lovely pink twist!">
+                    <meta name="keywords" content="pink anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-anime-wallpaper">
+                            <span itemprop="name">pink anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Anime Wallpaper for Your Screens</h1>
+                <p>Discover stunning pink anime wallpaper to brighten your screens! From cute characters to breathtaking landscapes, our curated collection offers a variety of styles that suit every anime lover's taste. Perfect for personalizing your devices and showcasing your passion, these wallpapers bring a soft, dreamy aesthetic to any background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="278 Pastel Pink Anime Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dreamy-anime-world-pink-pastel-wallpaper-fantasy-high-detailed-featuring-plain-background-soft-colors-image-330645033.jpg' alt='278 Pastel Pink Anime Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dreamy-anime-world-pink-pastel-wallpaper-fantasy-high-detailed-featuring-plain-background-soft-colors-image-330645033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Anime Aesthetic Sailor City Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-anime-aesthetic-sailor-city-2ajbln0421ankzxe.jpg' alt='Download Pink Anime Aesthetic Sailor City Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-anime-aesthetic-sailor-city-2ajbln0421ankzxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/44/77/5044778b60996c8772da482fcbd8181e.jpg' alt='pink aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/44/77/5044778b60996c8772da482fcbd8181e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Kawaii Pink Anime Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/8b/7a/f68b7a1385624faa92f868a133fbc894.jpg' alt='Awesome Kawaii Pink Anime Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/8b/7a/f68b7a1385624faa92f868a133fbc894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Anime Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-background_670382-283240.jpg?semt=ais_hybrid' alt='Pink Anime Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-background_670382-283240.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper —        - edited by me I don't own any of the...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/14a263fe3db0a1ccb940d53f9575dd39/77a539880f2294df-64/s640x960/772f8fead56138be95f2dcbe62becad4410608fb.jpg' alt='Wallpaper —        - edited by me I don't own any of the...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wallpaperequest Wallpaper - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/14a263fe3db0a1ccb940d53f9575dd39/77a539880f2294df-64/s640x960/772f8fead56138be95f2dcbe62becad4410608fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="486 Anime Pink Wallpaper Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dreamy-pink-anime-world-high-detail-manga-illustration-serene-whimsical-wallpaper-featuring-color-palette-intricate-330645039.jpg' alt='486 Anime Pink Wallpaper Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dreamy-pink-anime-world-high-detail-manga-illustration-serene-whimsical-wallpaper-featuring-color-palette-intricate-330645039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Anime Aesthetic Lolita Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-anime-aesthetic-lolita-e65vy4n9chddu08m.jpg' alt='Pink Anime Aesthetic Lolita Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-anime-aesthetic-lolita-e65vy4n9chddu08m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lo-fi Pastel Train Pink Wallpapers Anime Cute Kawaii Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49656304/r/il/2be1fc/5987657241/il_570xN.5987657241_5nkb.jpg' alt='Lo-fi Pastel Train Pink Wallpapers Anime Cute Kawaii Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49656304/r/il/2be1fc/5987657241/il_570xN.5987657241_5nkb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Hair Pink Anime Woman Pink Anime HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/209/thumb-1920-209037.jpg' alt='Download Pink Hair Pink Anime Woman Pink Anime HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/209/thumb-1920-209037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

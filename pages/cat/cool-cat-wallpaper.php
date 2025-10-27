@@ -1,0 +1,129 @@
+<title>Cool Cat Wallpaper: Purr-fect Designs for Your Space</title>
+                    <meta name="description" content="Discover enchanting cool cat wallpaper that adds personality to your interiors. Choose from playful patterns and vibrant designs that capture the charm of our feline friends. Perfect for any room, bring a touch of whimsy and warmth with cat-themed wallpapers that elevate your decor effortlessly!">
+                    <meta name="keywords" content="cool cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/cool-cat-wallpaper">
+                            <span itemprop="name">cool cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Cat Wallpaper: Purr-fect Designs for Your Space</h1>
+                <p>Transform your space with cool cat wallpaper! Perfect for feline lovers, these designs showcase adorable cats in vibrant colors and patterns. Whether you prefer whimsical, artistic, or realistic styles, there's a wallpaper to suit every personality. Update your home decor with charming cat motifs that bring joy and warmth to your walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Cool cat ideas | cool cats, cat art, cats">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/88/44/5c/88445c4b1292baae2bc4eb47425ca09d.jpg' alt='130 Cool cat ideas | cool cats, cat art, cats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/88/44/5c/88445c4b1292baae2bc4eb47425ca09d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="223 Cool Cat Art Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cool-cat-lounging-patriotic-style-under-sun-ai-generative-design-background-instagram-facebook-wall-painting-wallpaper-323857529.jpg' alt='223 Cool Cat Art Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cool-cat-lounging-patriotic-style-under-sun-ai-generative-design-background-instagram-facebook-wall-painting-wallpaper-323857529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Cat, cute, galaxy, glasses, hipster, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/934/305/HD-wallpaper-cool-cat-cute-galaxy-glasses-hipster.jpg' alt='Cool Cat, cute, galaxy, glasses, hipster, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/934/305/HD-wallpaper-cool-cat-cute-galaxy-glasses-hipster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Cat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/67/d8/cd67d8a64c5c19b4cbe9f664bcead603.jpg' alt='Cool Cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/67/d8/cd67d8a64c5c19b4cbe9f664bcead603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080] Cool Cat : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mphoqu32zps71.png?width=1080&crop=smart&auto=webp&s=ad4ae405ca4af3bfb027739414b43811be0f70ea' alt='1920x1080] Cool Cat : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mphoqu32zps71.png?width=1080&crop=smart&auto=webp&s=ad4ae405ca4af3bfb027739414b43811be0f70ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/celestial-cool-cat-in-aviators-ix0i7ugd5av6d6mb.jpg' alt='100+] Cool Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/celestial-cool-cat-in-aviators-ix0i7ugd5av6d6mb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fractal Cool Cat Blue Eyes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fractal-cool-cat-blue-eyes-ybjtz2l53pibkagv.jpg' alt='Fractal Cool Cat Blue Eyes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fractal-cool-cat-blue-eyes-ybjtz2l53pibkagv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Cats, cool, Art, Misic, Cats, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/822/283/HD-wallpaper-cool-cats-cool-art-misic-cats.jpg' alt='Cool Cats, cool, Art, Misic, Cats, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/822/283/HD-wallpaper-cool-cats-cool-art-misic-cats.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Cat HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/190/thumb-1920-190694.jpg' alt='Cool Cat HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/190/thumb-1920-190694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It ain't easy being cheesy cool cat wallpaper by saitoukazuma on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13fac97e-2a21-4fa7-b2d7-1af5c1681231/daiuufu-3d08cae7-ef03-4eef-8266-4babb0263ea1.png/v1/fill/w_1192,h_670/it_ain_t_easy_being_cheesy_cool_cat_wallpaper_by_saitoukazuma_daiuufu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzEzZmFjOTdlLTJhMjEtNGZhNy1iMmQ3LTFhZjVjMTY4MTIzMVwvZGFpdXVmdS0zZDA4Y2FlNy1lZjAzLTRlZWYtODI2Ni00YmFiYjAyNjNlYTEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6-GeM-WGXxjFGPV9eB6IzYohZ_G2nPSY4zNmafepSEQ' alt='It ain't easy being cheesy cool cat wallpaper by saitoukazuma on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13fac97e-2a21-4fa7-b2d7-1af5c1681231/daiuufu-3d08cae7-ef03-4eef-8266-4babb0263ea1.png/v1/fill/w_1192,h_670/it_ain_t_easy_being_cheesy_cool_cat_wallpaper_by_saitoukazuma_daiuufu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzEzZmFjOTdlLTJhMjEtNGZhNy1iMmQ3LTFhZjVjMTY4MTIzMVwvZGFpdXVmdS0zZDA4Y2FlNy1lZjAzLTRlZWYtODI2Ni00YmFiYjAyNjNlYTEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6-GeM-WGXxjFGPV9eB6IzYohZ_G2nPSY4zNmafepSEQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Violet Evergarden Phone Wallpapers</title>
+                    <meta name="description" content="Explore a collection of beautiful violet evergarden wallpapers for your phone. Showcase your love for this emotional series with stunning characters and artwork. Perfect for enthusiasts looking to personalize their device with vivid imagery!">
+                    <meta name="keywords" content="violet evergarden wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/violet-evergarden-wallpaper-phone">
+                            <span itemprop="name">violet evergarden wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Violet Evergarden Phone Wallpapers</h1>
+                <p>Discover stunning violet evergarden wallpapers for your phone that perfectly capture the beauty and emotion of the series. With various designs featuring your favorite characters and breathtaking landscapes, these wallpapers will personalize your device. Transform your phone with vibrant colors and heartwarming visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Violet Evergarden Wallpaper | High Res Upscaled : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zft6p1teey7b1.jpg' alt='Official Violet Evergarden Wallpaper | High Res Upscaled : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2813">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zft6p1teey7b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Evergarden mobile wallpaper (original creds to haalhady on ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/violet-evergarden-mobile-wallpaper-original-creds-to-v0-i0ot6v8zssu91.png?width=1080&crop=smart&auto=webp&s=448f71be1ab0d2a0e041d91c0ea8721f5580ed0e' alt='Violet Evergarden mobile wallpaper (original creds to haalhady on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/violet-evergarden-mobile-wallpaper-original-creds-to-v0-i0ot6v8zssu91.png?width=1080&crop=smart&auto=webp&s=448f71be1ab0d2a0e041d91c0ea8721f5580ed0e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Evergarden Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/23/3b/d3233bbeb01867e4bb8355e8c1ae56cd.jpg' alt='Violet Evergarden Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/23/3b/d3233bbeb01867e4bb8355e8c1ae56cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet evergarden, anime, girl, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/509/508/HD-wallpaper-violet-evergarden-anime-girl.jpg' alt='Violet evergarden, anime, girl, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/509/508/HD-wallpaper-violet-evergarden-anime-girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Evergarden">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/a2/c9/16a2c95cd7a8a8d056a902bf3e960ace.jpg' alt='Violet Evergarden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/a2/c9/16a2c95cd7a8a8d056a902bf3e960ace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Experience the World of Violet Evergarden on Your Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/violet-evergarden-iphone-1024-x-1792-cyng7xux5lp02ksv.jpg' alt='Download Experience the World of Violet Evergarden on Your Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/violet-evergarden-iphone-1024-x-1792-cyng7xux5lp02ksv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for your phone! hope you like it : r/VioletEvergarden">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lrxcy0ctkbo71.jpg' alt='wallpaper for your phone! hope you like it : r/VioletEvergarden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lrxcy0ctkbo71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Evergarden Wallpaper Hd Phone 2025 | www.alhudapk.com">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-111803/Violet-Evergarden-VioletEvergarden.jpg' alt='Violet Evergarden Wallpaper Hd Phone 2025 | www.alhudapk.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="alhudapk.com" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-111803/Violet-Evergarden-VioletEvergarden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/03/68/8e03680eafc787c52a7b3056f6eb5575.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/03/68/8e03680eafc787c52a7b3056f6eb5575.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OKJB Violet Evergarden Wallpaper Phone Poster Pintura Decorativa ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61hsmewOrXL._AC_UF894,1000_QL80_.jpg' alt='OKJB Violet Evergarden Wallpaper Phone Poster Pintura Decorativa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.es" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61hsmewOrXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Do Companies Drug Test After a Background Check?</title>
+                    <meta name="description" content="Discover whether companies conduct drug tests following background checks. Learn about workplace safety practices and how drug testing can influence hiring decisions to maintain a drug-free environment. Stay informed about what to expect in the hiring process when applying for jobs.">
+                    <meta name="keywords" content="do companies drug test after background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-companies-drug-test-after-background-check">
+                            <span itemprop="name">do companies drug test after background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Companies Drug Test After a Background Check?</h1>
+                <p>Many companies implement drug testing as a final step after conducting a background check. This practice helps to ensure workplace safety and maintain a drug-free environment. While not mandatory, organizations often use drug tests to assess candidates for potential risks associated with substance abuse prior to employment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should You Drug Test or Background Check First?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/Should-You-Drug-Test-or-Background-Check-First-img@2x.jpg' alt='Should You Drug Test or Background Check First?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/Should-You-Drug-Test-or-Background-Check-First-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug test or Background check: What comes first?">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D12AQFVe68y9kiE2A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684855739146?e=2147483647&v=beta&t=9mHdnwdcN9PUsHaFnRF5qhEMFy5kocgkoM9pn6B71KU' alt='Drug test or Background check: What comes first?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D12AQFVe68y9kiE2A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684855739146?e=2147483647&v=beta&t=9mHdnwdcN9PUsHaFnRF5qhEMFy5kocgkoM9pn6B71KU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug test or Background check: What comes first? - SecureCheck360">
+                                <img itemprop="contentUrl url" src='https://www.securecheck360.com/wp-content/uploads/2023/05/Drug-test-or-Background-check-What-comes-first.webp' alt='Drug test or Background check: What comes first? - SecureCheck360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecureCheck360" />
+                                </span>
+                                <a href='https://www.securecheck360.com/wp-content/uploads/2023/05/Drug-test-or-Background-check-What-comes-first.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post-Hire Drug Tests are Important">
+                                <img itemprop="contentUrl url" src='https://drugtestsinbulk.com/blog/wp-content/uploads/2016/10/background-check-drug-testing-5-728.jpg' alt='Post-Hire Drug Tests are Important'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drug Tests in Bulk" />
+                                </span>
+                                <a href='https://drugtestsinbulk.com/blog/wp-content/uploads/2016/10/background-check-drug-testing-5-728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Testing & Background Checks for Hiring | ASAP Payroll">
+                                <img itemprop="contentUrl url" src='https://asappayroll.com/wp-content/uploads/2022/02/ASAP-Payroll-Blog_76.jpg' alt='Drug Testing & Background Checks for Hiring | ASAP Payroll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASAP Payroll Service" />
+                                </span>
+                                <a href='https://asappayroll.com/wp-content/uploads/2022/02/ASAP-Payroll-Blog_76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' alt='How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Test Results | Pre Employment Background Checks by HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2016/01/drug-test-results.jpg' alt='Drug Test Results | Pre Employment Background Checks by HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2016/01/drug-test-results.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does Drug Test Screening Help You With Hiring?">
+                                <img itemprop="contentUrl url" src='https://blog.in.springverify.com/wp-content/uploads/2022/04/Twt-post-31-1.png' alt='How Does Drug Test Screening Help You With Hiring?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpringVerify" />
+                                </span>
+                                <a href='https://blog.in.springverify.com/wp-content/uploads/2022/04/Twt-post-31-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does The Williams Companies drug test or do a background check ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/the-williams-companies/questions/3819081/does-the-williams-companies-drug-test-or-do-a-background-check' alt='Does The Williams Companies drug test or do a background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/the-williams-companies/questions/3819081/does-the-williams-companies-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

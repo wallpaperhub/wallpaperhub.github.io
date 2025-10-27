@@ -1,0 +1,129 @@
+<title>Spooktacular Halloweentown Wallpaper for Any Room</title>
+                    <meta name="description" content="Discover enchanting Halloweentown wallpaper that captures the spirit of Halloween all year round! Perfect for decorating your home, these designs bring a whimsical charm to your space. Explore our collection today and transform your walls into a festive masterpiece!">
+                    <meta name="keywords" content="halloweentown wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloweentown-wallpaper">
+                            <span itemprop="name">halloweentown wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloweentown Wallpaper for Any Room</h1>
+                <p>Transform your space with Halloweentown wallpaper! Perfect for fans of the iconic Halloween movie, these vibrant designs bring the whimsy and spookiness of Halloweentown to your walls. Whether you're decorating for the season or just want a touch of magic year-round, these wallpapers create an enchanting atmosphere in any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/06/29/250629aee6d2450a537d0bb0261757e3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/06/29/250629aee6d2450a537d0bb0261757e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween and Autumn    on Instagram: “Who's favorite #Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/60/26/8360263579990ef9d1e90274f23f6361.jpg' alt='Halloween and Autumn    on Instagram: “Who's favorite #Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/60/26/8360263579990ef9d1e90274f23f6361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloweentown Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloweentown-1600-x-900-wallpaper-z31tsdib4bf00a0y.jpg' alt='100+] Halloweentown Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloweentown-1600-x-900-wallpaper-z31tsdib4bf00a0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320 Best Halloweentown Movies ideas | halloween town movie ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b0/2f/10/b02f1045d7eaa8f7f70ecfde073e3eb9.jpg' alt='320 Best Halloweentown Movies ideas | halloween town movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b0/2f/10/b02f1045d7eaa8f7f70ecfde073e3eb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloweentown Disney collage background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/54/0e/b0540e2a80105025cfaf1475d24695c5.jpg' alt='Halloweentown Disney collage background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/54/0e/b0540e2a80105025cfaf1475d24695c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wp9540067-halloweentown-wallpapers by sillyjellybeans on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95c2b3a3-a1cd-4a18-9229-a637a0ab0076/dgbyl4x-05e4a4a8-e33d-49b4-b9f9-68089953068d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1YzJiM2EzLWExY2QtNGExOC05MjI5LWE2MzdhMGFiMDA3NlwvZGdieWw0eC0wNWU0YTRhOC1lMzNkLTQ5YjQtYjlmOS02ODA4OTk1MzA2OGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ysi4Deud1VQE5QSNQEn2eQbaDUO27zlbu8PVGkBXAg8' alt='Wp9540067-halloweentown-wallpapers by sillyjellybeans on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95c2b3a3-a1cd-4a18-9229-a637a0ab0076/dgbyl4x-05e4a4a8-e33d-49b4-b9f9-68089953068d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1YzJiM2EzLWExY2QtNGExOC05MjI5LWE2MzdhMGFiMDA3NlwvZGdieWw0eC0wNWU0YTRhOC1lMzNkLTQ5YjQtYjlmOS02ODA4OTk1MzA2OGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ysi4Deud1VQE5QSNQEn2eQbaDUO27zlbu8PVGkBXAg8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/fb/78/cffb78c3bae1a132602257b232d966b8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/fb/78/cffb78c3bae1a132602257b232d966b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Excited for Epic 'Halloweentown' Celebration With Your ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/Entertainment/HT_2013_Spirit_of_Halloweentown_Plaza_MEM_161005_16x9_992.jpg' alt='Get Excited for Epic 'Halloweentown' Celebration With Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/Entertainment/HT_2013_Spirit_of_Halloweentown_Plaza_MEM_161005_16x9_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloweentown Images – Browse 402 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/54/97/52/360_F_954975280_Cn6qeQQhpt3k1cnt2mRQaOuKqgSjAlwz.jpg' alt='Halloweentown Images – Browse 402 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/54/97/52/360_F_954975280_Cn6qeQQhpt3k1cnt2mRQaOuKqgSjAlwz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bianca☕️ on X: "The inspo The recreation ——— #acnh ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E9pEVdLXIAAbKOQ.jpg' alt='Bianca☕️ on X: "The inspo The recreation ——— #acnh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E9pEVdLXIAAbKOQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

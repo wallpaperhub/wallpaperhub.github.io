@@ -1,0 +1,129 @@
+<title>Wild West Cartoon Backgrounds: Fun & Adventure Awaits!</title>
+                    <meta name="description" content="Discover captivating Wild West cartoon backgrounds that bring a touch of fun and adventure to your projects. Ideal for animations or creative designs, these colorful scenes capture the essence of the frontier in a playful style. Perfect for kids and the young at heart!">
+                    <meta name="keywords" content="wild west cartoon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wild-west-cartoon-background">
+                            <span itemprop="name">wild west cartoon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wild West Cartoon Backgrounds: Fun & Adventure Awaits!</h1>
+                <p>Explore the vibrant and whimsical world of the Wild West with our colorful cartoon backgrounds. Imagine endless dusty trails, quirky cowboys, smiling cacti, and playful sunsets. Perfect for children's animations or playful projects, these backgrounds capture the spirit of adventure and fun in the heart of the frontier!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Background Cartoon Images – Browse 29,810 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/18/32/81/360_F_218328182_YsUSmpkKv9rmlyBFlPXTHY0W6xVdwxXK.jpg' alt='Cowboy Background Cartoon Images – Browse 29,810 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/18/32/81/360_F_218328182_YsUSmpkKv9rmlyBFlPXTHY0W6xVdwxXK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,600+ Wild West Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/990635528/vector/vector-illustration-of-western-texas-desert-silhouette-wild-west-america-scene-with-sunset-in.jpg?s=612x612&w=0&k=20&c=RKZuWN0EyVYKUT8y-Dhuljtaa7td-DrgetvHLz_OnGk=' alt='7,600+ Wild West Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/990635528/vector/vector-illustration-of-western-texas-desert-silhouette-wild-west-america-scene-with-sunset-in.jpg?s=612x612&w=0&k=20&c=RKZuWN0EyVYKUT8y-Dhuljtaa7td-DrgetvHLz_OnGk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280+ Old West Towns Cartoon Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1151849238/vector/west-town2.jpg?s=612x612&w=0&k=20&c=liDGtw0Di0U7BKmkibKxDYHnNnAEVCmItew4Q82Pvd4=' alt='280+ Old West Towns Cartoon Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1151849238/vector/west-town2.jpg?s=612x612&w=0&k=20&c=liDGtw0Di0U7BKmkibKxDYHnNnAEVCmItew4Q82Pvd4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild West Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/wild-west-cartoon-composition-with-outdoor-scenery-cacti-trees-wooden-gate-with-signboard-skull-vector-illustration_1284-78597.jpg' alt='Wild West Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/wild-west-cartoon-composition-with-outdoor-scenery-cacti-trees-wooden-gate-with-signboard-skull-vector-illustration_1284-78597.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild West Cartoon Stock Illustrations – 19,203 Wild West Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/desert-cactus-wild-west-cartoon-background-illustration-featuring-arid-landscape-iconic-cacti-vibrant-colors-western-341943596.jpg' alt='Wild West Cartoon Stock Illustrations – 19,203 Wild West Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/desert-cactus-wild-west-cartoon-background-illustration-featuring-arid-landscape-iconic-cacti-vibrant-colors-western-341943596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild West Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/western-saloon-background_1308-29053.jpg' alt='Wild West Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/western-saloon-background_1308-29053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8x5ft Cartoon Wild West Photography Backdrop Wild West Rodeo Cowboy Theme  Birthday Party Background Desert Landscape Cactus Party Banner Kids Adults  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Cv09zf04L._AC_UF894,1000_QL80_.jpg' alt='8x5ft Cartoon Wild West Photography Backdrop Wild West Rodeo Cowboy Theme  Birthday Party Background Desert Landscape Cactus Party Banner Kids Adults  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Cv09zf04L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K animated wild west landscape with beautiful western heat waves sunset  view featuring a cowboy character with his horse and soaring eagle, 2d  western desert with signboard and saguaro cactus">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/045/342/790/small_2x/4k-animated-wild-west-landscape-with-beautiful-western-heat-waves-sunset-view-featuring-a-cowboy-character-with-his-horse-and-soaring-eagle-2d-western-desert-with-signboard-and-saguaro-cactus-free-video.jpg' alt='4K animated wild west landscape with beautiful western heat waves sunset  view featuring a cowboy character with his horse and soaring eagle, 2d  western desert with signboard and saguaro cactus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/045/342/790/small_2x/4k-animated-wild-west-landscape-with-beautiful-western-heat-waves-sunset-view-featuring-a-cowboy-character-with-his-horse-and-soaring-eagle-2d-western-desert-with-signboard-and-saguaro-cactus-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild West Town Background Stock Illustrations – 1,486 Wild West ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wild-west-seamless-pattern-mountains-cacti-retro-western-background-games-ui-posters-etc-vector-illustration-144224362.jpg' alt='Wild West Town Background Stock Illustrations – 1,486 Wild West ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wild-west-seamless-pattern-mountains-cacti-retro-western-background-games-ui-posters-etc-vector-illustration-144224362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Wild West West Backgrounds Cartoon Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1148994364/vector/fiery-desert-sunset.jpg?s=612x612&w=0&k=20&c=hPi__rB1x66cEkKULEFojBbyLf1FZO6LjK6bAQifgq4=' alt='2,600+ Wild West West Backgrounds Cartoon Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1148994364/vector/fiery-desert-sunset.jpg?s=612x612&w=0&k=20&c=hPi__rB1x66cEkKULEFojBbyLf1FZO6LjK6bAQifgq4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Hu Tao Wallpapers for Genshin Impact Fans</title>
+                    <meta name="description" content="Explore a collection of beautiful Hu Tao wallpapers perfect for Genshin Impact enthusiasts. Elevate your device's aesthetic with captivating designs featuring this beloved character. Download now for a vibrant touch to your screens!">
+                    <meta name="keywords" content="hu tao wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hu-tao-wallpaper">
+                            <span itemprop="name">hu tao wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hu Tao Wallpapers for Genshin Impact Fans</h1>
+                <p>Discover the enchanting world of Hu Tao with stunning wallpapers featuring this popular Genshin Impact character. Showcase your love for Hu Tao and her playful spirit by adorning your devices with vibrant and captivating designs. From her signature ghostly motifs to charming poses, find the perfect wallpaper that reflects your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hu Tao pc lockscreen/wallpaper! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fxe4dd4ugqv71.png?auto=webp&s=a8ceb0193099b9e818f99471a88393fc7126ad2d' alt='Hu Tao pc lockscreen/wallpaper! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fxe4dd4ugqv71.png?auto=webp&s=a8ceb0193099b9e818f99471a88393fc7126ad2d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I (Finally) Made Hu Tao Wallpapers! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g0ksh8pf63k61.jpg' alt='I (Finally) Made Hu Tao Wallpapers! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g0ksh8pf63k61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin impact hu tao aesthetic wallpaper phone by Gaaraa24 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/deedc362-dcf0-4845-900f-ffdcf777df42/dfpq0wl-b8bf2d31-1fb0-4582-ba87-c227638671fc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlZWRjMzYyLWRjZjAtNDg0NS05MDBmLWZmZGNmNzc3ZGY0MlwvZGZwcTB3bC1iOGJmMmQzMS0xZmIwLTQ1ODItYmE4Ny1jMjI3NjM4NjcxZmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Flxw0cWKqJP1I8ntalZ_Mgck8NJ3duQFhWPKYjzFg7w' alt='Genshin impact hu tao aesthetic wallpaper phone by Gaaraa24 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/deedc362-dcf0-4845-900f-ffdcf777df42/dfpq0wl-b8bf2d31-1fb0-4582-ba87-c227638671fc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlZWRjMzYyLWRjZjAtNDg0NS05MDBmLWZmZGNmNzc3ZGY0MlwvZGZwcTB3bC1iOGJmMmQzMS0xZmIwLTQ1ODItYmE4Ny1jMjI3NjM4NjcxZmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Flxw0cWKqJP1I8ntalZ_Mgck8NJ3duQFhWPKYjzFg7w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saw OnePlus x Genshin Hu Tao wallpaper post was for android only ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jt1031lua5z91.png' alt='Saw OnePlus x Genshin Hu Tao wallpaper post was for android only ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jt1031lua5z91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hu Tao Wallpapers [4k] (from teaser) Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2021/02/27/5481824/46a2f5dddc4af2634767faf0ec26dda6_5658113033267366738.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Hu Tao Wallpapers [4k] (from teaser) Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2021/02/27/5481824/46a2f5dddc4af2634767faf0ec26dda6_5658113033267366738.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Xiao (Genshin Impact) Hu Tao Yelan (Genshin Impact) Video ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/129/1296894.jpg' alt='Download Xiao (Genshin Impact) Hu Tao Yelan (Genshin Impact) Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/129/1296894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hu Tao Wallpapers [4k] (from teaser) Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2021/02/27/5481824/b02b9d894b641738fa898d8abeee4bc3_7966102716863153249.png' alt='Hu Tao Wallpapers [4k] (from teaser) Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2021/02/27/5481824/b02b9d894b641738fa898d8abeee4bc3_7966102716863153249.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commission Wallpaper - Hutao of Genshin Impact by AKASeven on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/002c7b76-1fe5-4ee3-bcca-a7865673ca59/depy5hm-ecbac551-d258-4c0d-9766-5b7e98f705e9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMmM3Yjc2LTFmZTUtNGVlMy1iY2NhLWE3ODY1NjczY2E1OVwvZGVweTVobS1lY2JhYzU1MS1kMjU4LTRjMGQtOTc2Ni01YjdlOThmNzA1ZTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e1KKlVcDsPlT5WYTmOZECwp5RrkKqpEfSHa-AFdD-U0' alt='Commission Wallpaper - Hutao of Genshin Impact by AKASeven on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/002c7b76-1fe5-4ee3-bcca-a7865673ca59/depy5hm-ecbac551-d258-4c0d-9766-5b7e98f705e9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMmM3Yjc2LTFmZTUtNGVlMy1iY2NhLWE3ODY1NjczY2E1OVwvZGVweTVobS1lY2JhYzU1MS1kMjU4LTRjMGQtOTc2Ni01YjdlOThmNzA1ZTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e1KKlVcDsPlT5WYTmOZECwp5RrkKqpEfSHa-AFdD-U0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hu Tao Video Game Genshin Impact 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/113/1130376.jpg' alt='Download Hu Tao Video Game Genshin Impact 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4176">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/113/1130376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hu Tao wallpaper !! Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/11/04/241247387/b5665b16e8fe31266309256f8e8643b9_2490190217516502527.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Hu Tao wallpaper !! Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/11/04/241247387/b5665b16e8fe31266309256f8e8643b9_2490190217516502527.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pictures of Gold Coins: A Visual Showcase</title>
+                    <meta name="description" content="Discover captivating pictures of gold coins that highlight their beauty and unique designs. Explore our curated gallery featuring coins from various eras, perfect for collectors and enthusiasts. Dive into the mesmerizing world of gold coins today!">
+                    <meta name="keywords" content="pictures of gold coins">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-gold-coins">
+                            <span itemprop="name">pictures of gold coins</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pictures of Gold Coins: A Visual Showcase</h1>
+                <p>Gold coins have a timeless allure that captivates collectors and enthusiasts alike. Pictures of these stunning coins showcase their intricate designs and gleaming surfaces, highlighting their historical significance and value. Explore a gallery of gold coins, from ancient relics to modern issues, and marvel at their beauty and craftsmanship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="241,100+ Pile Of Gold Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165418688/photo/gold-coins.jpg?s=612x612&w=0&k=20&c=W_iDMU-vEDHzl-B6Gh1HeVuEhfloV7RD6SzwW6JOMw0=' alt='241,100+ Pile Of Gold Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165418688/photo/gold-coins.jpg?s=612x612&w=0&k=20&c=W_iDMU-vEDHzl-B6Gh1HeVuEhfloV7RD6SzwW6JOMw0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Coins Clipart - PNG format">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46367071/r/il/b53cc3/5497892747/il_fullxfull.5497892747_q7gx.jpg' alt='Gold Coins Clipart - PNG format'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46367071/r/il/b53cc3/5497892747/il_fullxfull.5497892747_q7gx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic U.S. Gold Coins | PCS Stamps & Coins">
+                                <img itemprop="contentUrl url" src='https://www.pcscoins.com/dw/image/v2/BDZH_PRD/on/demandware.static/-/Sites-full-catalog/default/dw2dddffa7/images/hi-res/Historic-US-Gold-Coins-GLS-1.jpg?sw=1000&sh=1000&q=70' alt='Historic U.S. Gold Coins | PCS Stamps & Coins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCS Stamps & Coins" />
+                                </span>
+                                <a href='https://www.pcscoins.com/dw/image/v2/BDZH_PRD/on/demandware.static/-/Sites-full-catalog/default/dw2dddffa7/images/hi-res/Historic-US-Gold-Coins-GLS-1.jpg?sw=1000&sh=1000&q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Beistle Plastic Gold Coins 100 Count : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Q7vEOeJFL.jpg' alt='Amazon.com: Beistle Plastic Gold Coins 100 Count : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Q7vEOeJFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Gold Coins Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1624365168785-c65be9114821?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMGNvaW5zfGVufDB8fDB8fHww' alt='1000+ Gold Coins Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1624365168785-c65be9114821?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMGNvaW5zfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold coins hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H7J14E/gold-coinsmoney-reserve-cash-currency-pile-of-money-wealth-management-savings-american-gold-coin-collection-usa-2H7J14E.jpg' alt='Gold coins hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H7J14E/gold-coinsmoney-reserve-cash-currency-pile-of-money-wealth-management-savings-american-gold-coin-collection-usa-2H7J14E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold coins hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/D81PD6/pile-of-chocolate-gold-coins-cut-out-onto-a-white-background-D81PD6.jpg' alt='Gold coins hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/D81PD6/pile-of-chocolate-gold-coins-cut-out-onto-a-white-background-D81PD6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete Guide to Collecting Vintage Gold Coins | GovMint">
+                                <img itemprop="contentUrl url" src='https://www.govmint.com/media/magefan_blog/guide_collecting_vintage_gold_coins_featured_image.jpg' alt='Complete Guide to Collecting Vintage Gold Coins | GovMint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GovMint" />
+                                </span>
+                                <a href='https://www.govmint.com/media/magefan_blog/guide_collecting_vintage_gold_coins_featured_image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Gold Coins Vector Clipart Image - FriendlyStock">
+                                <img itemprop="contentUrl url" src='https://friendlystock.com/wp-content/uploads/2022/11/1-cartoon-gold-coins-vector-clipart.jpg' alt='Cartoon Gold Coins Vector Clipart Image - FriendlyStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FriendlyStock" />
+                                </span>
+                                <a href='https://friendlystock.com/wp-content/uploads/2022/11/1-cartoon-gold-coins-vector-clipart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold coins found hidden in wall shed light on Byzantine Empire">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-10/221004-israel-coins-mb-1002-07f533.jpg' alt='Gold coins found hidden in wall shed light on Byzantine Empire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-10/221004-israel-coins-mb-1002-07f533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

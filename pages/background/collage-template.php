@@ -1,0 +1,129 @@
+<title>Customizable Collage Templates for Stunning Designs</title>
+                    <meta name="description" content="Discover easy-to-use collage templates that let you create beautiful designs effortlessly. Perfect for any occasion, our customizable options help you showcase your memories or art creatively. Start crafting the perfect collage today!">
+                    <meta name="keywords" content="collage template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/collage-template">
+                            <span itemprop="name">collage template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customizable Collage Templates for Stunning Designs</h1>
+                <p>Creating a stunning collage has never been easier with our versatile collage templates! Whether it's for a memorable occasion or a captivating artwork, you can customize layouts, colors, and themes to suit your style. Perfect for both beginners and pros, these templates make crafting beautiful visuals a breeze!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collage Template Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/028/685/365/non_2x/photo-book-template-on-a-blue-background-in-scrapbooking-style-and-collage-vintage-chamomile-herbal-stamp-vector.jpg' alt='Collage Template Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/028/685/365/non_2x/photo-book-template-on-a-blue-background-in-scrapbooking-style-and-collage-vintage-chamomile-herbal-stamp-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable photo collage templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFIK2WUUIU/1/0/1067w/canva-beige-aesthetic-pastel-collage-memories-moodboard-portrait-photo-collage-Hj8AYIFBM_o.jpg' alt='Free and customizable photo collage templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFIK2WUUIU/1/0/1067w/canva-beige-aesthetic-pastel-collage-memories-moodboard-portrait-photo-collage-Hj8AYIFBM_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Moodboard Photo Collage Template in Illustrator ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/a9/92/c7a9920c3113d53f073efc2063a2aee4.jpg' alt='Aesthetic Moodboard Photo Collage Template in Illustrator ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/a9/92/c7a9920c3113d53f073efc2063a2aee4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Best Photo Collage Templates for Photoshop | Design Shack">
+                                <img itemprop="contentUrl url" src='https://designshack.net/wp-content/uploads/Photo-Collage-Template-with-Torn-Effect.jpg' alt='30+ Best Photo Collage Templates for Photoshop | Design Shack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Shack" />
+                                </span>
+                                <a href='https://designshack.net/wp-content/uploads/Photo-Collage-Template-with-Torn-Effect.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | 6 photo collage template vector illustration new ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/6-photo-collage-template-vector-illustration-new-collections_305919-26.jpg' alt='Premium Vector | 6 photo collage template vector illustration new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/6-photo-collage-template-vector-illustration-new-collections_305919-26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,200+ Vertical Photo Collage Template Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1387943814/vector/empty-photo-collage-template-frames-for-photo-collage-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=x1yYBOAldn4nRsrZU9rPscVnvEFJ5r2iA7xINlQuQjc=' alt='7,200+ Vertical Photo Collage Template Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1387943814/vector/empty-photo-collage-template-frames-for-photo-collage-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=x1yYBOAldn4nRsrZU9rPscVnvEFJ5r2iA7xINlQuQjc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Collage template Photoshop 28 photos mothers love">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16340747/r/il/ba6eec/2310388199/il_570xN.2310388199_1t7q.jpg' alt='Heart Collage template Photoshop 28 photos mothers love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16340747/r/il/ba6eec/2310388199/il_570xN.2310388199_1t7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Customizable Collage Templates - Venngage">
+                                <img itemprop="contentUrl url" src='https://cdn.venngage.com/template/thumbnail/310/7231f073-42cb-4372-bb2f-caa7dc75dbed.webp' alt='Free Customizable Collage Templates - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://cdn.venngage.com/template/thumbnail/310/7231f073-42cb-4372-bb2f-caa7dc75dbed.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Square Collage Template Images – Browse 63,036 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/34/47/80/360_F_334478020_EVmSEulvGRtc56haBW6kNcOMhZmVZHne.jpg' alt='Square Collage Template Images – Browse 63,036 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/34/47/80/360_F_334478020_EVmSEulvGRtc56haBW6kNcOMhZmVZHne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Photo Collage Template Mood Board Graphic by CutePik ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/27/Simple-Photo-collage-template-mood-board-Graphics-59082141-1-1-580x387.jpg' alt='Simple Photo Collage Template Mood Board Graphic by CutePik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/27/Simple-Photo-collage-template-mood-board-Graphics-59082141-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Incredible Base Goku Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of vibrant Base Goku wallpapers perfect for fans of Dragon Ball Z. Enhance your devices with stunning visuals that showcase Goku's power and charisma. Download your favorite designs today and express your love for this legendary character!">
+                    <meta name="keywords" content="base goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/base-goku-wallpaper">
+                            <span itemprop="name">base goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Incredible Base Goku Wallpapers for Your Devices</h1>
+                <p>Transform your phone or desktop with stunning Base Goku wallpapers that capture the essence of this iconic Dragon Ball Z character. With vibrant colors and dynamic poses, these wallpapers bring Goku's strength and spirit to life. Perfect for fans who want to celebrate their love for anime and add a touch of adventure to their screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Base Goku wallpaper by @KNEW_SKY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/03/ee/e103ee3b23b79d4b55d93f2dea59579e.jpg' alt='Base Goku wallpaper by @KNEW_SKY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/03/ee/e103ee3b23b79d4b55d93f2dea59579e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD base goku wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/59/38/HD-wallpaper-goku-db-dbs-dbz-dragon-ball-goku-base-super-vegeta.jpg' alt='HD base goku wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/59/38/HD-wallpaper-goku-db-dbs-dbz-dragon-ball-goku-base-super-vegeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Base Goku Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2559730.png' alt='Base Goku Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2559730.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Base Form, dragonball, dragonballz, legends, vegeta, anime ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/674/421/HD-wallpaper-goku-base-form-dragonball-dragonballz-legends-vegeta-anime-orange.jpg' alt='Goku Base Form, dragonball, dragonballz, legends, vegeta, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/674/421/HD-wallpaper-goku-base-form-dragonball-dragonballz-legends-vegeta-anime-orange.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper | Dragon Ball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/77/88/0c778890e63ff635ac11d44d91110040.jpg' alt='Goku Wallpaper | Dragon Ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/77/88/0c778890e63ff635ac11d44d91110040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAeNcSA on X: "237° #wallpaper de SON GOKU base en ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/D35aG5LWwAA4qjY.jpg:large' alt='SAeNcSA on X: "237° #wallpaper de SON GOKU base en ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/D35aG5LWwAA4qjY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Base Form Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7275614.jpg' alt='Goku Base Form Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7275614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Base Goku wallpaper by Joncea - Download on ZEDGE™ | 805a">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=F7W6K9isFHrEITn4CzMhwj2x7EH6TuQw9Ldsqc2NA5uDHINAOhGq3z0tcv3GlPKYA-4ObCGVPToMc8nM5bYzcPqkxD5-tutkvuTCqMaHtmO3WeSaC01AA8-fncjhcsKvrB6yLj4eCHrCagSNvdUaK9JrYNhyt6D_kQPNyylWT2TL5_iSC3xwRCC0S9KuLO5GxxCGHyZeUoeSzkwDwb7AIwd1a-RC6-an3KSq7UUOsD5prRCSGMttURXHEqM' alt='Base Goku wallpaper by Joncea - Download on ZEDGE™ | 805a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=F7W6K9isFHrEITn4CzMhwj2x7EH6TuQw9Ldsqc2NA5uDHINAOhGq3z0tcv3GlPKYA-4ObCGVPToMc8nM5bYzcPqkxD5-tutkvuTCqMaHtmO3WeSaC01AA8-fncjhcsKvrB6yLj4eCHrCagSNvdUaK9JrYNhyt6D_kQPNyylWT2TL5_iSC3xwRCC0S9KuLO5GxxCGHyZeUoeSzkwDwb7AIwd1a-RC6-an3KSq7UUOsD5prRCSGMttURXHEqM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball FighterZ Adds Base Goku and Vegeta to the Roster">
+                                <img itemprop="contentUrl url" src='https://sm.pcmag.com/t/pcmag_me/photo/default/dragonballfighterz_vcjq.1920.jpg' alt='Dragon Ball FighterZ Adds Base Goku and Vegeta to the Roster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag Middle East" />
+                                </span>
+                                <a href='https://sm.pcmag.com/t/pcmag_me/photo/default/dragonballfighterz_vcjq.1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball, anime, dragon ball, goku, manga, theme, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/77/177/HD-wallpaper-dragon-ball-anime-dragon-ball-goku-manga-theme.jpg' alt='Dragon ball, anime, dragon ball, goku, manga, theme, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/77/177/HD-wallpaper-dragon-ball-anime-dragon-ball-goku-manga-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

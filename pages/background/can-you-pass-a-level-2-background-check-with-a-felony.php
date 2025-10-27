@@ -1,0 +1,129 @@
+<title>Can You Pass a Level 2 Background Check with a Felony?</title>
+                    <meta name="description" content="Explore whether it's possible to pass a level 2 background check with a felony on your record. Learn about the influencing factors and employer perspectives that can impact your chances. Make informed decisions about your job search with this essential guide.">
+                    <meta name="keywords" content="can you pass a level 2 background check with a felony">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-you-pass-a-level-2-background-check-with-a-felony">
+                            <span itemprop="name">can you pass a level 2 background check with a felony</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Pass a Level 2 Background Check with a Felony?</h1>
+                <p>Passing a level 2 background check with a felony is challenging, but not impossible. Factors like the nature of the felony, time since the conviction, and any rehabilitation efforts can influence outcomes. Some employers may be willing to overlook past offenses for qualified candidates, especially if years have passed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Needs to Go Through a Level 2 Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.bayometric.com/wp-content/uploads/2022/12/who-needs-background-check.jpg' alt='Who Needs to Go Through a Level 2 Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bayometric" />
+                                </span>
+                                <a href='https://www.bayometric.com/wp-content/uploads/2022/12/who-needs-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Role of Background Checks in Medical Licensing">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/docsz/AD_4nXdov84yQ0-u6TWTdDD0e96h8DUCRtdVvUVV2egJaqiFFTe26EqmNfXWK4iYarYrkYn8uJwKcQx7PGWCCfEDMipI9K8qLLF9YOhRyJECq7kNsJr0rxsDSu1jWoyxJ-RpNh3Nz8v0Cr5E7xlNGD9w_4rL6z9m?key=ahro8C63W14fyjOWzt_a3w' alt='The Role of Background Checks in Medical Licensing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medical Licensing" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/docsz/AD_4nXdov84yQ0-u6TWTdDD0e96h8DUCRtdVvUVV2egJaqiFFTe26EqmNfXWK4iYarYrkYn8uJwKcQx7PGWCCfEDMipI9K8qLLF9YOhRyJECq7kNsJr0rxsDSu1jWoyxJ-RpNh3Nz8v0Cr5E7xlNGD9w_4rL6z9m?key=ahro8C63W14fyjOWzt_a3w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 Background Screening: Healthcare Essentials">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Level%202%201.png?width=650&height=285&name=Level%202%201.png' alt='Level 2 Background Screening: Healthcare Essentials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Level%202%201.png?width=650&height=285&name=Level%202%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Level 2 Background Check? - USA Mobile Drug Testing">
+                                <img itemprop="contentUrl url" src='https://usamdt.com/wp-content/uploads/2022/12/level-2-background-check-1.jpg' alt='What is a Level 2 Background Check? - USA Mobile Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Mobile Drug Testing" />
+                                </span>
+                                <a href='https://usamdt.com/wp-content/uploads/2022/12/level-2-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check | Consumer Attorneys">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/ndojrg75svf.webp' alt='What Is a Level 2 Background Check | Consumer Attorneys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/ndojrg75svf.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Youth Sports Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Types-2.png?width=600&height=600&name=Blog-BackgroundChecks-Types-2.png' alt='The Ultimate Guide to Youth Sports Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Types-2.png?width=600&height=600&name=Blog-BackgroundChecks-Types-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 Background Screening: Healthcare Essentials">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Level%202%202.png?width=650&height=261&name=Level%202%202.png' alt='Level 2 Background Screening: Healthcare Essentials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Level%202%202.png?width=650&height=261&name=Level%202%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 Background Check in Florida | Andrew Buda - Buda Law">
+                                <img itemprop="contentUrl url" src='https://budalaw.com/wp-content/uploads/2024/12/What-is-a-Level-2-Background-Check.jpg' alt='Level 2 Background Check in Florida | Andrew Buda - Buda Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buda Law" />
+                                </span>
+                                <a href='https://budalaw.com/wp-content/uploads/2024/12/What-is-a-Level-2-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

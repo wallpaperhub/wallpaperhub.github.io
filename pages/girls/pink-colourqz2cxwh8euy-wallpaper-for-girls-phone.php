@@ -1,0 +1,129 @@
+<title>Pretty in Pink: Stunning Wallpapers for Girls' Phones</title>
+                    <meta name="description" content="Discover beautiful pink wallpapers perfect for girls' phones! Explore vibrant designs that reflect your style and personality. Customize your device and bring a dash of charm to your screen. Upgrade your phone aesthetics today with our amazing collection!">
+                    <meta name="keywords" content="pink colour:qz2cxwh8euy= wallpaper for girls phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/pink-colourqz2cxwh8euy-wallpaper-for-girls-phone">
+                            <span itemprop="name">pink colour:qz2cxwh8euy= wallpaper for girls phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pretty in Pink: Stunning Wallpapers for Girls' Phones</h1>
+                <p>Transform your phone with charming pink wallpapers designed for girls! From vibrant florals to soft pastels, these wallpapers add a touch of femininity and fun to your device. Express your style and personality with stunning visuals that make every unlock a delight. Perfect for any girl who loves the color pink!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/ae/34/ecae34a95b25548e0954fcd328131ce8.jpg' alt='WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/ae/34/ecae34a95b25548e0954fcd328131ce8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Charming Pink Cute Wallpaper For The Girly You - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/1c/57/021c576ea4bf3732200fb8434a8635d8.jpg' alt='10 Charming Pink Cute Wallpaper For The Girly You - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/1c/57/021c576ea4bf3732200fb8434a8635d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f1/a3/f0/f1a3f02ae1b583ae4e0086e02d0e12b7.jpg' alt='10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f1/a3/f0/f1a3f02ae1b583ae4e0086e02d0e12b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5e/0d/c3/5e0dc359010bde59f5e1e03c75028bda.jpg' alt='10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5e/0d/c3/5e0dc359010bde59f5e1e03c75028bda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMGb8GFkE/1/0/900w/canva-pink-modern-butterfly-phone-wallpaper-2roIelIvw_s.jpg' alt='Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMGb8GFkE/1/0/900w/canva-pink-modern-butterfly-phone-wallpaper-2roIelIvw_s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1001 + amazingly cute backgrounds to grace your screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/a6/8b/74a68b1f223664911f7facb5f6ff3aa0.jpg' alt='▷ 1001 + amazingly cute backgrounds to grace your screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/a6/8b/74a68b1f223664911f7facb5f6ff3aa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7EnT6s4w/1/0/900w/canva-pink-cloudy-phone-wallpaper-0qSQfBcakFc.jpg' alt='Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7EnT6s4w/1/0/900w/canva-pink-cloudy-phone-wallpaper-0qSQfBcakFc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/33/b0/2b33b087925207d9376816922eefb61d.jpg' alt='Pink Aesthetic Phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/33/b0/2b33b087925207d9376816922eefb61d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF_1wsxLDg/1/0/900w/canva-pink-gradient-motivational-phone-wallpaper-DqXPDGLB8AQ.jpg' alt='Customize 6,095+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF_1wsxLDg/1/0/900w/canva-pink-gradient-motivational-phone-wallpaper-DqXPDGLB8AQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Girl Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7800327.jpg' alt='Cute Pink Girl Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7800327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

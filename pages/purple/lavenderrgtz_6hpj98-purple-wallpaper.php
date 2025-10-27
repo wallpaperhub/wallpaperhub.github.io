@@ -1,0 +1,129 @@
+<title>Lavender Purple Wallpaper: Elegance for Every Room</title>
+                    <meta name="description" content="Discover the beauty of lavender purple wallpaper! Ideal for creating a calming atmosphere in your home, this elegant design complements any decor style, making your space feel inviting and serene. Perfect for bedrooms, living rooms, and more. Transform your home with this stunning wallpaper today!">
+                    <meta name="keywords" content="lavender:rgtz_6hpj98= purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/lavenderrgtz_6hpj98-purple-wallpaper">
+                            <span itemprop="name">lavender:rgtz_6hpj98= purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lavender Purple Wallpaper: Elegance for Every Room</h1>
+                <p>Transform your space with lavender purple wallpaper, adding a touch of elegance and serenity to any room. This soothing hue not only enhances the ambiance but also promotes relaxation. Perfect for bedrooms or living areas, lavender wallpaper creates a dreamy, inviting atmosphere that complements various interior styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lavender Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lavender-purple-lmsgc5llb46ic1ku.jpg' alt='100+] Lavender Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lavender-purple-lmsgc5llb46ic1ku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49   lavender ideas | purple wallpaper, purple aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/e7/01/afe701c98837b1a346e9440cc3e9c153.jpg' alt='49   lavender ideas | purple wallpaper, purple aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/e7/01/afe701c98837b1a346e9440cc3e9c153.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lavender Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lavender-purple-wallpaper-ulset13akheai409.jpg' alt='100+] Lavender Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lavender-purple-wallpaper-ulset13akheai409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/25788/purple_lavender_limited.jpg' alt='Purple Lavender Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/25788/purple_lavender_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scenic Lavender Field TV Wallpaper - Purple Floral Wall Mural for Living  Room">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/88/8F/rBVaVlzcuu6AK9PEAAGleu9y_pA539.jpg' alt='Scenic Lavender Field TV Wallpaper - Purple Floral Wall Mural for Living  Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/88/8F/rBVaVlzcuu6AK9PEAAGleu9y_pA539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Lavender Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' alt='Daisy Lavender Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lavender Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lavender-purple-wallpaper-1y35sr4pmb3z7wud.jpg' alt='100+] Lavender Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lavender-purple-wallpaper-1y35sr4pmb3z7wud.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender High Res Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/purple-lavender.png' alt='Purple Lavender High Res Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/purple-lavender.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Purple Aesthetic Flower Message H5 Background Material ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/43/a1/f643a1be6a3a285a99c5c273daa255e1.jpg' alt='Lavender Purple Aesthetic Flower Message H5 Background Material ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/43/a1/f643a1be6a3a285a99c5c273daa255e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Wallpapers for Phone | Download Free images ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/727db308b23f700be41829a8e38c5a21/eddea0eec286197e7019e2f84bbb267e.jpg?q=70&w=500' alt='Purple Lavender Wallpapers for Phone | Download Free images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/727db308b23f700be41829a8e38c5a21/eddea0eec286197e7019e2f84bbb267e.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

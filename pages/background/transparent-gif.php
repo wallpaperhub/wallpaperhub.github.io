@@ -1,0 +1,129 @@
+<title>“Create Stunning Transparent GIFs for Your Projects”</title>
+                    <meta name="description" content="Discover the power of transparent GIFs for your design needs. Learn how to use this versatile format to create eye-catching graphics that blend seamlessly into any background. Perfect for logos, icons, and overlays — enhance your visuals today!">
+                    <meta name="keywords" content="transparent gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-gif">
+                            <span itemprop="name">transparent gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Create Stunning Transparent GIFs for Your Projects”</h1>
+                <p>Transparent GIFs are versatile image formats that allow for seamless blending with various backgrounds. Ideal for logos, icons, or overlays, they maintain quality while providing flexibility in design. Their transparency feature enhances visual appeal and offers creative freedom, making them popular in web design and social media use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Transparent GIF – Online GIF Tools">
+                                <img itemprop="contentUrl url" src='https://onlinegiftools.com/images/examples-onlinegiftools/fire-flames-transparent.gif' alt='Create a Transparent GIF – Online GIF Tools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online GIF Tools" />
+                                </span>
+                                <a href='https://onlinegiftools.com/images/examples-onlinegiftools/fire-flames-transparent.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can I make this GIF's BG transparent in GIMP? I feel like I've ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/022Fl.gif' alt='How can I make this GIF's BG transparent in GIMP? I feel like I've ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/022Fl.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/18/a9/2c/18a92c66af69580997b965ed719cfb89.gif' alt='Transparent GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/18/a9/2c/18a92c66af69580997b965ed719cfb89.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Transparent GIF – Online GIF Tools">
+                                <img itemprop="contentUrl url" src='https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif' alt='Create a Transparent GIF – Online GIF Tools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online GIF Tools" />
+                                </span>
+                                <a href='https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can I make this GIF's BG transparent in GIMP? I feel like I've ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/TsA97.gif' alt='How can I make this GIF's BG transparent in GIMP? I feel like I've ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/TsA97.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="java - Problem with gif with transparent background - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/1dpmw.gif' alt='java - Problem with gif with transparent background - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/1dpmw.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif images with transparent background converted incorrectly after ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif' alt='Gif images with transparent background converted incorrectly after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libreoffice Impress problem with transparent gifs - English - Ask ...">
+                                <img itemprop="contentUrl url" src='https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif' alt='Libreoffice Impress problem with transparent gifs - English - Ask ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask LibreOffice" />
+                                </span>
+                                <a href='https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Few more cute transparent gifs .. they look so awsome on the cover ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fa7yzfkz14u71.gif' alt='Few more cute transparent gifs .. they look so awsome on the cover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fa7yzfkz14u71.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute transparent gif | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1a/1d/60/1a1d60873c76396879e0fdeae186415b.gif' alt='cute transparent gif | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1a/1d/60/1a1d60873c76396879e0fdeae186415b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

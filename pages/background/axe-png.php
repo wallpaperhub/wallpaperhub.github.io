@@ -1,0 +1,129 @@
+<title>High-Quality Axe PNG Images for Your Design Projects</title>
+                    <meta name="description" content="Discover a vast collection of high-quality axe PNG images perfect for graphic design, woodworking themes, and more. These transparent background images are ideal for creating standout visuals in your projects. Explore our selection and elevate your designs today!">
+                    <meta name="keywords" content="axe png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/axe-png">
+                            <span itemprop="name">axe png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Axe PNG Images for Your Design Projects</h1>
+                <p>Axe PNG images are essential for graphic design, offering transparent backgrounds that blend seamlessly into various projects. These high-quality files are perfect for illustrating woodworking, outdoor activities, or mythical themes. Whether you need a realistic or stylized axe image, you'll find a wide selection of vibrant, eye-catching PNGs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240203/ourmid/pngtree-wooden-classic-axe-png-image_11591854.png' alt='Axe PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240203/ourmid/pngtree-wooden-classic-axe-png-image_11591854.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190528/ourmid/pngtree-a-metal-axe-image_1161001.jpg' alt='Axe PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190528/ourmid/pngtree-a-metal-axe-image_1161001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe PNG Image for Free Download">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-axeaxpole-axeaxegentlemade-od-ironwood-handle-17015278340269ha6x.png' alt='Axe PNG Image for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3057">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-axeaxpole-axeaxegentlemade-od-ironwood-handle-17015278340269ha6x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Axe PNG Image for Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/3d/aa/073daa670769745c7696b3606764fb0a.jpg' alt='Download Axe PNG Image for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/3d/aa/073daa670769745c7696b3606764fb0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/classic-woodhandled-axe-illustration_1308-168776.jpg' alt='Axe Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/classic-woodhandled-axe-illustration_1308-168776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/58bf22fce443f41d77c734dd.png' alt='Axe transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/58bf22fce443f41d77c734dd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/540/934/png-clipart-fireman-axe-red-axe.png' alt='Axe png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/540/934/png-clipart-fireman-axe-red-axe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNi0xOTAtcC5wbmc.png' alt='Axe Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNi0xOTAtcC5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axe PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-axeaxpole-axeaxegentlemade-od-ironwood-handle-1701527834109ykdw7.png' alt='Axe PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1499">
+                                <meta itemprop="height" content="1169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-axeaxpole-axeaxegentlemade-od-ironwood-handle-1701527834109ykdw7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ax PNG transparent image download, size: 8638x7220px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/ax_PNG92214.png' alt='Ax PNG transparent image download, size: 8638x7220px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8638">
+                                <meta itemprop="height" content="7220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/ax_PNG92214.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

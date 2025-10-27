@@ -1,0 +1,129 @@
+<title>Stunning Moving Praise & Worship Background GIFs</title>
+                    <meta name="description" content="Discover beautiful moving praise and worship background GIFs to enhance your spiritual gatherings. Perfect for church services, virtual worship, or personal reflection, our animated visuals create a vibrant atmosphere of praise and connection. Elevate your worship experience with these stunning backgrounds today!">
+                    <meta name="keywords" content="moving praise and worship background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moving-praise-and-worship-background-gif">
+                            <span itemprop="name">moving praise and worship background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moving Praise & Worship Background GIFs</h1>
+                <p>Enhance your worship experience with captivating moving praise and worship background GIFs. These animated visuals create an immersive atmosphere, uplifting spirits and focusing hearts on the divine. Perfect for church services, Bible studies, or personal meditation, these dynamic backgrounds help elevate your praise, making every worship moment memorable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worship GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/7LyW.gif' alt='Worship GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/7LyW.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46, Christian video background, video loop, easy worship">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dd/b3/4b/ddb34b8bfef8153671c6b1a80936cb12.gif' alt='46, Christian video background, video loop, easy worship'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dd/b3/4b/ddb34b8bfef8153671c6b1a80936cb12.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7, Christian video background, video loop, easy worship on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/5-28-2016/f0Roky.gif' alt='7, Christian video background, video loop, easy worship on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/5-28-2016/f0Roky.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Video Loop Background - Worship 2 on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-24-2017/dDntoe.gif' alt='Christian Video Loop Background - Worship 2 on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-24-2017/dDntoe.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35, Christian video background, video loop, easy worship on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6d/7a/c9/6d7ac9cc1355e3e976f556caa9ba3b40.gif' alt='35, Christian video background, video loop, easy worship on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6d/7a/c9/6d7ac9cc1355e3e976f556caa9ba3b40.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let us praise God for his glorious grace - video background loop ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/4-18-2018/mTV2mN.gif' alt='Let us praise God for his glorious grace - video background loop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/4-18-2018/mTV2mN.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praise GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/EfWq.gif' alt='Praise GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/EfWq.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waving Particles Mesh with sunlight heavenly space worship background video">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/426/824/large/waving-particles-mesh-with-sunlight-heavenly-space-worship-background-free-video.jpg' alt='Waving Particles Mesh with sunlight heavenly space worship background video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/426/824/large/waving-particles-mesh-with-sunlight-heavenly-space-worship-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worship GIF - Worship - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Up2wuiOEc2kAAAAM/worship.gif' alt='Worship GIF - Worship - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Up2wuiOEc2kAAAAM/worship.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Worship Background Gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/78/a7/b2/78a7b2253e250a3e8aaca38da939abc5.gif' alt='Easy Worship Background Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/78/a7/b2/78a7b2253e250a3e8aaca38da939abc5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

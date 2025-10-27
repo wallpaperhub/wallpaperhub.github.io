@@ -1,0 +1,129 @@
+<title>Unleash Your Inner Rebel: Rage Against the Machine</title>
+                    <meta name="description" content="Explore the revolutionary sound and messages of Rage Against the Machine, a band that merges rock, punk, and hip-hop to challenge social injustices. Discover their impact and legacy through powerful lyrics and electrifying performances that continue to resonate today.">
+                    <meta name="keywords" content="rage against the machine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rage-against-the-machine">
+                            <span itemprop="name">rage against the machine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Your Inner Rebel: Rage Against the Machine</h1>
+                <p>Rage Against the Machine is a groundbreaking rock band that combines aggressive sound with powerful political messages. Formed in 1991, they fuse hard rock, punk, and hip-hop while addressing social injustices, corporate greed, and governmental oppression. Their passionate performances and iconic albums continue to inspire generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against the Machine - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rage_Against_The_Machine_%28cropped%29.jpg/1200px-Rage_Against_The_Machine_%28cropped%29.jpg' alt='Rage Against the Machine - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rage_Against_The_Machine_%28cropped%29.jpg/1200px-Rage_Against_The_Machine_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - Rage Against The Machine Official Site">
+                                <img itemprop="contentUrl url" src='https://cdn-p.smehost.net/sites/cf12164f913d49c2a55e7ee092b1ed48/wp-content/uploads/2019/01/0P2A0252Crop-scaled.jpg' alt='Home - Rage Against The Machine Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.ratm.com" />
+                                </span>
+                                <a href='https://cdn-p.smehost.net/sites/cf12164f913d49c2a55e7ee092b1ed48/wp-content/uploads/2019/01/0P2A0252Crop-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against the Machine - Rage Against The Machine Official Site">
+                                <img itemprop="contentUrl url" src='https://cdn-p.smehost.net/sites/cf12164f913d49c2a55e7ee092b1ed48/wp-content/uploads/2019/02/ratm_rageagainst_cd.jpg' alt='Rage Against the Machine - Rage Against The Machine Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rage Against the Machine" />
+                                </span>
+                                <a href='https://cdn-p.smehost.net/sites/cf12164f913d49c2a55e7ee092b1ed48/wp-content/uploads/2019/02/ratm_rageagainst_cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against The Machine Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1fXGqk-default.jpg' alt='Rage Against The Machine Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1fXGqk-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against the Machine 'will not be touring or playing live ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/c8e2d7dc-99c0-47db-a7e8-962241907153/rage-against-machine-gty-jef-240104_1704381597537_hpMain.jpg' alt='Rage Against the Machine 'will not be touring or playing live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/c8e2d7dc-99c0-47db-a7e8-962241907153/rage-against-machine-gty-jef-240104_1704381597537_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against The Machine All Songs - playlist by LiquiCorn | Spotify">
+                                <img itemprop="contentUrl url" src='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84307d84d66cfd8184ad980666' alt='Rage Against The Machine All Songs - playlist by LiquiCorn | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84307d84d66cfd8184ad980666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Rage Against the Machine Keeps Breaking Up: A History of the ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/v1738278252/679c056c9c30da001c4475d9.jpg' alt='Why Rage Against the Machine Keeps Breaking Up: A History of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2197">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/v1738278252/679c056c9c30da001c4475d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against The Machine Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebda4bd2b213cae330e2a4a901' alt='Rage Against The Machine Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebda4bd2b213cae330e2a4a901' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rage Against the Machine Take a Test Run Through 'Freedom' - Premiere">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-8024-20121108-rage-against-the-machine-624x420-1352413011.jpg?w=624&h=420&crop=1' alt='Rage Against the Machine Take a Test Run Through 'Freedom' - Premiere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-8024-20121108-rage-against-the-machine-624x420-1352413011.jpg?w=624&h=420&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Rage Against The Machine">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044284276874' alt='Profile for Rage Against The Machine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044284276874' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

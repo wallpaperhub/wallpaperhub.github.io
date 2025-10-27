@@ -1,0 +1,129 @@
+<title>Carnival History: A Colorful Celebration of Culture</title>
+                    <meta name="description" content="Explore the vibrant history of carnivals, where ancient traditions meet modern festivities. Discover how these lively celebrations unite communities through music, dance, and colorful parades. Join the fun and embrace the cultural richness of carnivals around the world!">
+                    <meta name="keywords" content="carnival background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carnival-background">
+                            <span itemprop="name">carnival background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Carnival History: A Colorful Celebration of Culture</h1>
+                <p>Carnivals have a rich history, originating from ancient festivals celebrating seasonal changes and religious traditions. Over time, they evolved into vibrant public celebrations characterized by parades, music, dancing, and colorful costumes. Today, carnivals attract millions, offering a unique blend of culture, joy, and entertainment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background Images – Browse 1,441,444 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/82/30/48/360_F_682304847_PKfkCtVS3Yei2soaFiLgCUmKwiu1y5mU.jpg' alt='Carnival Background Images – Browse 1,441,444 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/82/30/48/360_F_682304847_PKfkCtVS3Yei2soaFiLgCUmKwiu1y5mU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazilian Carnival Background Stock Illustrations – 12,165 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-carnival-extravaganza-background-bold-design-showcasing-iconic-elements-brazilian-bright-feathers-masks-341643155.jpg' alt='Brazilian Carnival Background Stock Illustrations – 12,165 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-carnival-extravaganza-background-bold-design-showcasing-iconic-elements-brazilian-bright-feathers-masks-341643155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baocicco 10x8ft Amusement Park Backdrop Photography Background Carnival  Background Circus Tent Ferris Wheel Merry-Go-Round Blue Sky White Cloud ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZMBoOmWyL._AC_UF894,1000_QL80_.jpg' alt='Baocicco 10x8ft Amusement Park Backdrop Photography Background Carnival  Background Circus Tent Ferris Wheel Merry-Go-Round Blue Sky White Cloud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZMBoOmWyL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-mardi-gras-photocall-template_52683-153371.jpg' alt='Carnival Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-mardi-gras-photocall-template_52683-153371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fa/48/55/fa4855f7e84fe3ebe63fb54acf5299ba.jpg' alt='Carnival Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fa/48/55/fa4855f7e84fe3ebe63fb54acf5299ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33,700+ Carnival Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370684120/vector/retro-circus-stripe-background-vintage-circus-stripes-background-starburst-poster-carnival.jpg?s=612x612&w=0&k=20&c=gBrnzzEvSVqQuLOJ1UAILtE4opQ83frTNO4492L5A9k=' alt='33,700+ Carnival Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370684120/vector/retro-circus-stripe-background-vintage-circus-stripes-background-starburst-poster-carnival.jpg?s=612x612&w=0&k=20&c=gBrnzzEvSVqQuLOJ1UAILtE4opQ83frTNO4492L5A9k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazilian Carnival Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240229/pngtree-cartoon-illustration-colorful-gradient-feather-mask-brazilian-carnival-festival-party-image_15632820.jpg' alt='Brazilian Carnival Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240229/pngtree-cartoon-illustration-colorful-gradient-feather-mask-brazilian-carnival-festival-party-image_15632820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/599/479/small/mardi-gras-carnival-background-free-vector.jpg' alt='Carnival Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/599/479/small/mardi-gras-carnival-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background Images – Browse 1,441,444 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/66/79/24/360_F_466792416_W7VPPBxFuTqxxqglQj6BjyG4HR1dG9uo.jpg' alt='Carnival Background Images – Browse 1,441,444 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/66/79/24/360_F_466792416_W7VPPBxFuTqxxqglQj6BjyG4HR1dG9uo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-background-carnival-party_23-2151166713.jpg' alt='Carnival Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-background-carnival-party_23-2151166713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

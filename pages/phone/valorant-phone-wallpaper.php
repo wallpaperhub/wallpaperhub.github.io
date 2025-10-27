@@ -1,0 +1,129 @@
+<title>Stunning Valorant Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Your ultimate collection of Valorant phone wallpapers is here! Discover eye-catching designs featuring your favorite agents and unleash your gaming spirit. Perfect for mobile screens, these wallpapers are designed to inspire and elevate your device's look. Download now and represent your Valorant fandom!">
+                    <meta name="keywords" content="valorant phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/valorant-phone-wallpaper">
+                            <span itemprop="name">valorant phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Valorant Phone Wallpapers for Every Fan</h1>
+                <p>Looking for the perfect Valorant phone wallpaper? Dive into a world of vibrant characters and stunning game art that brings your favorite agents to life on your screen. From dynamic action shots to minimalist designs, our collection offers something for every fan. Customize your mobile experience and show off your Valorant passion today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VALORANT PHONE WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/79/9f/26799f739d39fa99a7b5847a8f999706.jpg' alt='VALORANT PHONE WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/79/9f/26799f739d39fa99a7b5847a8f999706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Video Game 2020 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/8e/ba/7e8eba8818971329dd1fdbaa8480b869.jpg' alt='Valorant Video Game 2020 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/8e/ba/7e8eba8818971329dd1fdbaa8480b869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Phone Valorant Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/phone-valorant-u002519d7orq6kog.jpg' alt='100+] Phone Valorant Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/phone-valorant-u002519d7orq6kog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Omen Mobile Wallpaper - Critics are welcomed! : r/VALORANT">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/WFXyoBKNbKEU_tcLYL8jBfN8c_JAkA0B-aUaXm7r47U.jpg?auto=webp&s=d4eefc59917e74e44daaaf77d38d3523001bb3cf' alt='Valorant Omen Mobile Wallpaper - Critics are welcomed! : r/VALORANT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/WFXyoBKNbKEU_tcLYL8jBfN8c_JAkA0B-aUaXm7r47U.jpg?auto=webp&s=d4eefc59917e74e44daaaf77d38d3523001bb3cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Valorant Wallpaper iPhone Phone 4K #31f">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/neon-valorant-3@1@f-phone-4k.jpg' alt='Neon Valorant Wallpaper iPhone Phone 4K #31f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/neon-valorant-3@1@f-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sage (Valorant) Video Game Valorant Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/963/963238.jpg' alt='Download Sage (Valorant) Video Game Valorant Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/963/963238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Phone Wallpapers | Custom Wallpapers at Valorantstrike.com">
+                                <img itemprop="contentUrl url" src='https://valorantstrike.com/wp-content/uploads/2020/08/Valorant-Wallpaper-Boys-Dark-Example.jpg' alt='Valorant Phone Wallpapers | Custom Wallpapers at Valorantstrike.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valorant Strike" />
+                                </span>
+                                <a href='https://valorantstrike.com/wp-content/uploads/2020/08/Valorant-Wallpaper-Boys-Dark-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/109/954/HD-wallpaper-valorant-purple.jpg' alt='Valorant, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/109/954/HD-wallpaper-valorant-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yoru (Valorant) Video Game Valorant Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/965/965907.jpg' alt='Download Yoru (Valorant) Video Game Valorant Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/965/965907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant, gamer, gaming, all agents, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/893/591/HD-wallpaper-valorant-gamer-gaming-all-agents.jpg' alt='Valorant, gamer, gaming, all agents, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/893/591/HD-wallpaper-valorant-gamer-gaming-all-agents.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

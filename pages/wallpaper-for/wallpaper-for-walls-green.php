@@ -1,0 +1,129 @@
+<title>Green Wallpaper: Elevate Your Walls with Nature's Touch</title>
+                    <meta name="description" content="Discover the beauty of green wallpaper for walls! Enhance your living space with nature-inspired hues for a calming atmosphere. Explore various designs to find the perfect match for your style. Ideal for any room, green wallpaper rejuvenates your home with freshness and elegance.">
+                    <meta name="keywords" content="wallpaper for walls green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wallpaper-for-walls-green">
+                            <span itemprop="name">wallpaper for walls green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green Wallpaper: Elevate Your Walls with Nature's Touch</h1>
+                <p>Transform your space with stunning green wallpaper that brings a touch of nature indoors. From soft pastel shades to vibrant emeralds, green wallpaper creates a calming, refreshing ambiance. Perfect for any room, it complements various decor styles. Choose patterns or textures that reflect your personality and inspire tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper green wall texture Nr. u95105 | Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/81000/81690/u95105pih2_1200.webp' alt='Wall Mural Photo Wallpaper green wall texture Nr. u95105 | Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/81000/81690/u95105pih2_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Wallpaper, Gold Marble Wallpaper, Malachite Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/0d8781/4338765778/il_fullxfull.4338765778_652h.jpg' alt='Dark Green Wallpaper, Gold Marble Wallpaper, Malachite Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/0d8781/4338765778/il_fullxfull.4338765778_652h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GLWYHY - Vision 3D Forest Wallpaper Bedroom Beautiful  Landscapes Mural Green Trees Nature Plants Large Living roo TV Background  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81-t8FF4gUL.jpg' alt='Amazon.com: GLWYHY - Vision 3D Forest Wallpaper Bedroom Beautiful  Landscapes Mural Green Trees Nature Plants Large Living roo TV Background  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81-t8FF4gUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/Emerald_mockup.jpg?v=1717014597&width=2048' alt='Emerald Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/Emerald_mockup.jpg?v=1717014597&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forever and Always Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/ForeverandAlwaysWallpaperMoodyWatercolorFloralPrint_2.png?v=1715205026&width=2048' alt='Forever and Always Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/ForeverandAlwaysWallpaperMoodyWatercolorFloralPrint_2.png?v=1715205026&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper – Gorgeous Color and Prints for Your Home – BURKE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0153/0623/products/NW43604-C_540x.jpg?v=1658955551' alt='Green Wallpaper – Gorgeous Color and Prints for Your Home – BURKE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0153/0623/products/NW43604-C_540x.jpg?v=1658955551' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpapers, Green Colour Wallpaper for Walls – Life n Colors">
+                                <img itemprop="contentUrl url" src='https://lifencolors.in/cdn/shop/files/1_11bd7076-d120-48d8-bba5-2f1db2597e46.jpg?v=1705667256&width=533' alt='Green Wallpapers, Green Colour Wallpaper for Walls – Life n Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lifencolors" />
+                                </span>
+                                <a href='https://lifencolors.in/cdn/shop/files/1_11bd7076-d120-48d8-bba5-2f1db2597e46.jpg?v=1705667256&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Swirl, Dark Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1688472566/articles/R19869_interior1.jpg' alt='Gold Swirl, Dark Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1799">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1688472566/articles/R19869_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' alt='Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2759">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Feminine Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/05/sage_green_feminine_wallpaper_3.jpg' alt='Sage Green Feminine Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/05/sage_green_feminine_wallpaper_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

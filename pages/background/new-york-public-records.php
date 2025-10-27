@@ -1,0 +1,129 @@
+<title>Accessing New York Public Records: A Complete Guide</title>
+                    <meta name="description" content="Discover how to access New York public records, including vital documents and court filings. This concise guide provides essential information on where to find and request records for personal, legal, or research purposes, ensuring seamless access to vital information. Perfect for mobile users!">
+                    <meta name="keywords" content="new york public records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-york-public-records">
+                            <span itemprop="name">new york public records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Accessing New York Public Records: A Complete Guide</h1>
+                <p>New York public records provide access to a variety of documents, including birth and death certificates, property deeds, and court records. These records are essential for personal, legal, or genealogical research. To access them, individuals can visit official state and county websites or request copies through designated offices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="public records, New York City · Upcoming Events & Tickets">
+                                <img itemprop="contentUrl url" src='https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL3ItcmVzdGF1cmFudC1jbHViLWJyb29rbHluLW5ldy15b3JrLXVzYV9kZXplZW5fMjM2NF9jb2xfNy5qcGVnP2RhdGVVcGRhdGVkPTE3MzIwNTM4MzE3Mzc=' alt='public records, New York City · Upcoming Events & Tickets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="1577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resident Advisor" />
+                                </span>
+                                <a href='https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL3ItcmVzdGF1cmFudC1jbHViLWJyb29rbHluLW5ldy15b3JrLXVzYV9kZXplZW5fMjM2NF9jb2xfNy5qcGVnP2RhdGVVcGRhdGVkPTE3MzIwNTM4MzE3Mzc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sound Room - Public Records">
+                                <img itemprop="contentUrl url" src='https://publicrecords.nyc/wp-content/uploads/2024/07/wide-stacks.jpg' alt='Sound Room - Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Records" />
+                                </span>
+                                <a href='https://publicrecords.nyc/wp-content/uploads/2024/07/wide-stacks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Records in historic Brooklyn building pairs vegan cafe with ...">
+                                <img itemprop="contentUrl url" src='https://static.dezeen.com/uploads/2019/10/public-records-interiors-renovation-bar-restaurant-club-brooklyn-new-york-usa_dezeen_2364_sq2.jpg' alt='Public Records in historic Brooklyn building pairs vegan cafe with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="2364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dezeen" />
+                                </span>
+                                <a href='https://static.dezeen.com/uploads/2019/10/public-records-interiors-renovation-bar-restaurant-club-brooklyn-new-york-usa_dezeen_2364_sq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Department of Records">
+                                <img itemprop="contentUrl url" src='https://www.nyc.gov/assets/records/images/content/hero/open-saturdays.jpg' alt='Department of Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYC.gov" />
+                                </span>
+                                <a href='https://www.nyc.gov/assets/records/images/content/hero/open-saturdays.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Experimental Music Scene Grows in Gowanus - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/04/04/arts/03gowanus1/merlin_151937769_fbcddf8e-41c4-49bb-9de8-40963d0dd53b-superJumbo.jpg' alt='An Experimental Music Scene Grows in Gowanus - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/04/04/arts/03gowanus1/merlin_151937769_fbcddf8e-41c4-49bb-9de8-40963d0dd53b-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York venue Public Records finally reopens Sound Room after ...">
+                                <img itemprop="contentUrl url" src='https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL25ld3MvMjAyMS9wdWJsaWNyZWNvcmRzLXJlb3BlbnNzb3VuZHJvb20uanBn' alt='New York venue Public Records finally reopens Sound Room after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resident Advisor" />
+                                </span>
+                                <a href='https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL25ld3MvMjAyMS9wdWJsaWNyZWNvcmRzLXJlb3BlbnNzb3VuZHJvb20uanBn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PUBLIC RECORDS - Updated March 2025 - 248 Photos & 175 Reviews ...">
+                                <img itemprop="contentUrl url" src='https://s3-media0.fl.yelpcdn.com/bphoto/end_wy6pYFbEYFH3Y3DSmQ/348s.jpg' alt='PUBLIC RECORDS - Updated March 2025 - 248 Photos & 175 Reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yelp" />
+                                </span>
+                                <a href='https://s3-media0.fl.yelpcdn.com/bphoto/end_wy6pYFbEYFH3Y3DSmQ/348s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Records">
+                                <img itemprop="contentUrl url" src='https://publicrecords.nyc/wp-content/uploads/2024/11/letizia-cigliutti-03-settembre-2024-dscf4757-1024x683.jpg' alt='Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="publicrecords.nyc" />
+                                </span>
+                                <a href='https://publicrecords.nyc/wp-content/uploads/2024/11/letizia-cigliutti-03-settembre-2024-dscf4757-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Records Upstairs Bar Lounge Photos | Hypebeast">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fpublic-records-upstairs-bar-lounge-08.jpg?q=75&w=800&cbr=1&fit=max' alt='Public Records Upstairs Bar Lounge Photos | Hypebeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fpublic-records-upstairs-bar-lounge-08.jpg?q=75&w=800&cbr=1&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Records | Vibemap">
+                                <img itemprop="contentUrl url" src='https://ik.imagekit.io/vibemap/original_images_image_vu94lkwGm.jpg' alt='Public Records | Vibemap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vibemap" />
+                                </span>
+                                <a href='https://ik.imagekit.io/vibemap/original_images_image_vu94lkwGm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

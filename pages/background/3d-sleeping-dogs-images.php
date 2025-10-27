@@ -1,0 +1,129 @@
+<title>Adorable 3D Sleeping Dogs: Captivating Images</title>
+                    <meta name="description" content="Discover a collection of captivating 3D images featuring sleeping dogs. Perfect for dog enthusiasts and artists, these visuals showcase the charm and tranquility of our furry friends in serene moments of rest. Explore the beauty of sleep with these delightful and heartwarming representations.">
+                    <meta name="keywords" content="3d sleeping dogs images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-sleeping-dogs-images">
+                            <span itemprop="name">3d sleeping dogs images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable 3D Sleeping Dogs: Captivating Images</h1>
+                <p>Explore stunning 3D images of sleeping dogs that capture the essence of canine tranquility and charm. These whimsical visuals showcase various breeds in peaceful slumbers, evoking a sense of serenity and warmth. Perfect for dog lovers and artists alike, these 3D representations highlight the beauty of our furry friends during their most adorable moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping dog 01 - Download Free 3D model by thuberchs (@thuberchs ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/91e169740c91489bbd9cec755c4fdcca/thumbnails/518c29f5d3a9419ca9cb96086d624c55/91a2acddf53548e483958d2320afdfc8.jpeg' alt='Sleeping dog 01 - Download Free 3D model by thuberchs (@thuberchs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/91e169740c91489bbd9cec755c4fdcca/thumbnails/518c29f5d3a9419ca9cb96086d624c55/91a2acddf53548e483958d2320afdfc8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let sleeping dogs lie - Download Free 3D model by eecarrie ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/e981eeb9b53440b7afda1f4d16232b06/thumbnails/6b5b36bbe1e54f2bb0ea70511e488ad4/168978738e8342b282d75e56961a5f0a.jpeg' alt='Let sleeping dogs lie - Download Free 3D model by eecarrie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/e981eeb9b53440b7afda1f4d16232b06/thumbnails/6b5b36bbe1e54f2bb0ea70511e488ad4/168978738e8342b282d75e56961a5f0a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping Dogs On Intel HD 3000 How 3D and none 3D resolutions halve or  double FPS">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TrAsWD_hf10/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4Ro7Iutcusi4qQvic6cnnBthc1A' alt='Sleeping Dogs On Intel HD 3000 How 3D and none 3D resolutions halve or  double FPS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TrAsWD_hf10/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4Ro7Iutcusi4qQvic6cnnBthc1A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sleeping dog - Download Free 3D model by hcwiley (@hcwiley) [4b7fff5]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/4b7fff53282542fbac14b5d0519a9253/thumbnails/8503e8309add465996a9ffe655e89887/32fda2cd97ed47d8b548a2ae3fc2226a.jpeg' alt='sleeping dog - Download Free 3D model by hcwiley (@hcwiley) [4b7fff5]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/4b7fff53282542fbac14b5d0519a9253/thumbnails/8503e8309add465996a9ffe655e89887/32fda2cd97ed47d8b548a2ae3fc2226a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping dog 02 - Download Free 3D model by thuberchs (@thuberchs ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/faa9f521b7eb4e02b2bd6701a42318d9/thumbnails/91d2e121b3aa4af99f9c098b14b75f0c/86395b5144de4a12bd0744b568146bf5.jpeg' alt='Sleeping dog 02 - Download Free 3D model by thuberchs (@thuberchs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/faa9f521b7eb4e02b2bd6701a42318d9/thumbnails/91d2e121b3aa4af99f9c098b14b75f0c/86395b5144de4a12bd0744b568146bf5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sleeping Dog - Japanese cute dog 3D model 3D printable | CGTrader">
+                                <img itemprop="contentUrl url" src='https://img-new.cgtrader.com/items/4336779/0ab9ab1137/large/the-sleeping-dog-japanese-cute-dog-3d-model-0ab9ab1137.jpg' alt='The Sleeping Dog - Japanese cute dog 3D model 3D printable | CGTrader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CGTrader" />
+                                </span>
+                                <a href='https://img-new.cgtrader.com/items/4336779/0ab9ab1137/large/the-sleeping-dog-japanese-cute-dog-3d-model-0ab9ab1137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Sculpture Sleeping Dog 1m - TurboSquid 1189059">
+                                <img itemprop="contentUrl url" src='https://p.turbosquid.com/ts-thumb/L0/Oo0FDa/geSpE9Hz/screenshot005/jpg/1501768622/1920x1080/fit_q87/1089b5a8d93a73791b56ffe470f26ad91a2844d5/screenshot005.jpg' alt='3D Sculpture Sleeping Dog 1m - TurboSquid 1189059'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TurboSquid" />
+                                </span>
+                                <a href='https://p.turbosquid.com/ts-thumb/L0/Oo0FDa/geSpE9Hz/screenshot005/jpg/1501768622/1920x1080/fit_q87/1089b5a8d93a73791b56ffe470f26ad91a2844d5/screenshot005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping dog - 3D model by geek_dad (@geek_dad) [7fc3d24]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/7fc3d24594054a7b8a09082a340afdf3/thumbnails/1d86baa0bdc744baa8845fc555228a56/3970fa693b9b4d01a436b2463b7be959.jpeg' alt='Sleeping dog - 3D model by geek_dad (@geek_dad) [7fc3d24]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/7fc3d24594054a7b8a09082a340afdf3/thumbnails/1d86baa0bdc744baa8845fc555228a56/3970fa693b9b4d01a436b2463b7be959.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Retriever sleeping dog puppy | 3D model">
+                                <img itemprop="contentUrl url" src='https://img-new.cgtrader.com/items/2911628/31e219c0a6/large/golden-retriever-sleeping-dog-puppy-3d-model-31e219c0a6.jpg' alt='Golden Retriever sleeping dog puppy | 3D model'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CGTrader" />
+                                </span>
+                                <a href='https://img-new.cgtrader.com/items/2911628/31e219c0a6/large/golden-retriever-sleeping-dog-puppy-3d-model-31e219c0a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping Dog - Free 3D Model by Shredder">
+                                <img itemprop="contentUrl url" src='https://www.renderhub.com/shredder/sleeping-dog/sleeping-dog-01.jpg' alt='Sleeping Dog - Free 3D Model by Shredder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RenderHub 3D Models" />
+                                </span>
+                                <a href='https://www.renderhub.com/shredder/sleeping-dog/sleeping-dog-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

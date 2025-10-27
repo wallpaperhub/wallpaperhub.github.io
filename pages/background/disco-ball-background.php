@@ -1,0 +1,129 @@
+<title>"Shimmering Disco Ball Background for Events and Designs"</title>
+                    <meta name="description" content=""Elevate your space with a dazzling disco ball background! Perfect for events, parties, or creative projects, this captivating design captures the essence of celebration and nostalgia. Get ready to dance under the sparkling lights!"">
+                    <meta name="keywords" content="disco ball background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/disco-ball-background">
+                            <span itemprop="name">disco ball background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Shimmering Disco Ball Background for Events and Designs"</h1>
+                <p>A disco ball background adds a touch of retro glamour to any event, instantly transforming spaces into vibrant, dance-filled atmospheres. Its reflective surfaces scatter light, creating a kaleidoscope of colors that energize the room. Perfect for parties, photo shoots, or digital designs, a disco ball background inspires nostalgia and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 12x8ft Fabric Disco Ball Backdrops Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Zo6DArRdL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Loccor 12x8ft Fabric Disco Ball Backdrops Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Zo6DArRdL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Backgrounds Images – Browse 1,378,695 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/06/73/65/360_F_106736595_huwD52dN8VFRIVGncIRbW2WWM0rBpGLN.jpg' alt='Disco Backgrounds Images – Browse 1,378,695 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/06/73/65/360_F_106736595_huwD52dN8VFRIVGncIRbW2WWM0rBpGLN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco ball vivid background 26915547 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/368/374/non_2x/disco-ball-in-night-club-a-disco-ball-is-on-top-of-a-wooden-floor-photo.jpg' alt='Disco ball vivid background 26915547 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/368/374/non_2x/disco-ball-in-night-club-a-disco-ball-is-on-top-of-a-wooden-floor-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ Disco Ball Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1058874496/vector/disco-ball-disco-ball-on-open-space-background.jpg?s=612x612&w=0&k=20&c=LU6T-2iD1GOlNEZrwiiD4azdhEFAz1Ba-Qr-Tw_tnyc=' alt='3,300+ Disco Ball Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1058874496/vector/disco-ball-disco-ball-on-open-space-background.jpg?s=612x612&w=0&k=20&c=LU6T-2iD1GOlNEZrwiiD4azdhEFAz1Ba-Qr-Tw_tnyc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver disco balls background hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2ADPW1F/silver-disco-balls-background-2ADPW1F.jpg' alt='Silver disco balls background hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2ADPW1F/silver-disco-balls-background-2ADPW1F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x3ft Disco Backdrop Disco Ball Colorful Sparkling Neon Rock Roll Night  Club Music Patchwork Color Photography Background Happy Birthday Dance  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hKIhcLuFL._AC_UF894,1000_QL80_.jpg' alt='5x3ft Disco Backdrop Disco Ball Colorful Sparkling Neon Rock Roll Night  Club Music Patchwork Color Photography Background Happy Birthday Dance  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hKIhcLuFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,617 Background Ball Close Disco Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/disco-balls-different-sizes-close-600nw-1038940627.jpg' alt='2,617 Background Ball Close Disco Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/disco-balls-different-sizes-close-600nw-1038940627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Disco Ball Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1560987617-6de57e3d0574?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlzY28lMjBiYWxsfGVufDB8fDB8fHww' alt='500+ Disco Ball Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1560987617-6de57e3d0574?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlzY28lMjBiYWxsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ Disco Ball Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/593332390/vector/disco-ball-with-rays.jpg?s=612x612&w=0&k=20&c=o2Wi-LuKzJ6lQdoo3a_EENPhzXResW5GJj9JdHeW5MI=' alt='3,300+ Disco Ball Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/593332390/vector/disco-ball-with-rays.jpg?s=612x612&w=0&k=20&c=o2Wi-LuKzJ6lQdoo3a_EENPhzXResW5GJj9JdHeW5MI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Ball Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/arrangement-disco-globes-with-copy-space_23-2148346381.jpg' alt='Pink Disco Ball Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/arrangement-disco-globes-with-copy-space_23-2148346381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

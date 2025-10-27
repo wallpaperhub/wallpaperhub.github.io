@@ -1,0 +1,129 @@
+<title>Unique iPhone Schematic Wallpapers for Tech Lovers</title>
+                    <meta name="description" content="Discover stunning iPhone schematic wallpapers that blend technology and style. Perfect for tech enthusiasts, these designs will make your device stand out. Explore an array of unique styles and personalize your phone effortlessly!">
+                    <meta name="keywords" content="iphone schematic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-schematic-wallpaper">
+                            <span itemprop="name">iphone schematic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unique iPhone Schematic Wallpapers for Tech Lovers</h1>
+                <p>Transform your iPhone with unique schematic wallpapers that showcase technical elegance and precision. These designs, inspired by blueprints and circuit diagrams, not only elevate your device's aesthetic but also reflect a love for technology. Upgrade your phone's look with these stylish, gadget-themed backgrounds today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Raw-Pro-Max.png' alt='iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Raw-Pro-Max.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/M1Pro.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/M1Pro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro & 15 Pro Max Internal Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/WhiteTi_iPhone15P.png' alt='iPhone 15 Pro & 15 Pro Max Internal Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/WhiteTi_iPhone15P.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FE4wXHBWUAUAPSo.jpg:large' alt='Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FE4wXHBWUAUAPSo.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Pacific-Blue-Pro-Max.png' alt='iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Pacific-Blue-Pro-Max.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro & 15 Pro Max Internal Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/695c0961-eaf5-4a0e-93ef-519bc4f375e0/iPhone15Schematic1x1.png' alt='iPhone 15 Pro & 15 Pro Max Internal Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/695c0961-eaf5-4a0e-93ef-519bc4f375e0/iPhone15Schematic1x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Schematic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/c5/5d/dac55d5d832eab9d9d1f00cbdfaa4d2f.jpg' alt='iPhone Schematic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/c5/5d/dac55d5d832eab9d9d1f00cbdfaa4d2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD schematic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/56/861/HD-wallpaper-iphone-abej-beograd-board-diagram-mobil-schematic-tech-technology-thumbnail.jpg' alt='HD schematic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/56/861/HD-wallpaper-iphone-abej-beograd-board-diagram-mobil-schematic-tech-technology-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These stunning wallpapers show the inside of your iPhone with ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Original8.png' alt='These stunning wallpapers show the inside of your iPhone with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Original8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Electric-Orange-Pro-Max.png' alt='iPhone 12, 12 Pro, & 12 Pro Max Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Electric-Orange-Pro-Max.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

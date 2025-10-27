@@ -1,0 +1,129 @@
+<title>Elegant Dark Blue Aesthetic Wallpapers for iPad</title>
+                    <meta name="description" content="Discover captivating dark blue aesthetic wallpapers for your iPad. Elevate your device's look with deep colors and artistic designs perfect for a sleek, modern vibe. Explore our collection now for stunning backgrounds that enhance your iPad experience! Ideal for aesthetic lovers seeking style and simplicity.">
+                    <meta name="keywords" content="dark blue aesthetic wallpaper ipad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dark-blue-aesthetic-wallpaper-ipad">
+                            <span itemprop="name">dark blue aesthetic wallpaper ipad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Blue Aesthetic Wallpapers for iPad</h1>
+                <p>Transform your iPad with stunning dark blue aesthetic wallpaper that adds depth and style. Explore a curated collection of wallpapers featuring deep navy shades, celestial designs, and moody gradients. Perfect for those who love a minimalistic yet striking background that enhances your device's elegance while providing an ideal canvas for icons.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Aesthetic Quarter Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-blue-aesthetic-quarter-moon-wl0xe812930d4txu.jpg' alt='Dark Blue Aesthetic Quarter Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-blue-aesthetic-quarter-moon-wl0xe812930d4txu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Dark Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-aesthetic-city-gsij37skzbw3pgd2.jpg' alt='300+] Dark Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-aesthetic-city-gsij37skzbw3pgd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic dark blue collage macbook pro wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/23/04/6423048a4bcc567eae90d6ac6e5e931f.jpg' alt='aesthetic dark blue collage macbook pro wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/23/04/6423048a4bcc567eae90d6ac6e5e931f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Aesthetic Forest Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-blue-aesthetic-forest-objipbggm1bl0xjg.jpg' alt='Dark Blue Aesthetic Forest Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-blue-aesthetic-forest-objipbggm1bl0xjg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJ-6rl9Q8/1/0/1600w/canva-blue-chalk-inspirational-quotes-desktop-wallpaper-_W9QJokBsD0.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJ-6rl9Q8/1/0/1600w/canva-blue-chalk-inspirational-quotes-desktop-wallpaper-_W9QJokBsD0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/4f/87/3c4f8708132bfa9c8566e6066c5bd046.jpg' alt='Blue Aesthetic   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/4f/87/3c4f8708132bfa9c8566e6066c5bd046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Aesthetic Wallpaper in JPG - Download | Template.net">
+                                <img itemprop="contentUrl url" src='https://images.template.net/94830/dark-blue-aesthetic-wallpaper-hrvvq.jpeg' alt='Dark Blue Aesthetic Wallpaper in JPG - Download | Template.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/94830/dark-blue-aesthetic-wallpaper-hrvvq.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Ipad Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-ipad-y4uywe4uaxrm7p0x.jpg' alt='100+] Blue Ipad Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-ipad-y4uywe4uaxrm7p0x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Monterey Wallpaper 4K, Blue aesthetic, Stock, Dark Mode">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macos-monterey-stock-blue-dark-mode-layers-5k-2732x2732-5895.jpg' alt='macOS Monterey Wallpaper 4K, Blue aesthetic, Stock, Dark Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macos-monterey-stock-blue-dark-mode-layers-5k-2732x2732-5895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPadOS 14 Wallpaper 4K, Blue, iPad Air 2020, Dark, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipados-14-ipad-air-2020-blue-dark-stock-3840x3840-2909.jpg' alt='iPadOS 14 Wallpaper 4K, Blue, iPad Air 2020, Dark, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipados-14-ipad-air-2020-blue-dark-stock-3840x3840-2909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

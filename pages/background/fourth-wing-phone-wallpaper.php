@@ -1,0 +1,129 @@
+<title>Stunning Fourth Wing Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the ultimate collection of Fourth Wing phone wallpapers! Elevate your device's style with captivating designs inspired by fantasy and adventure. Perfect for fans seeking a unique aesthetic, our wallpapers are optimized for mobile display and ready to enhance your phone's appearance.">
+                    <meta name="keywords" content="fourth wing phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fourth-wing-phone-wallpaper">
+                            <span itemprop="name">fourth wing phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fourth Wing Phone Wallpapers for Your Device</h1>
+                <p>Transform your device's aesthetic with stunning Fourth Wing phone wallpapers! Featuring vibrant colors and captivating designs inspired by the enchanting world of fantasy and adventure, these wallpapers will elevate your phone's look. Choose from a variety of themes that resonate with your style and personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i feel like i'm always sharing my new phone wallpaper purchases ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2648362652037682' alt='i feel like i'm always sharing my new phone wallpaper purchases ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2648362652037682' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="more phone wallpapers :) : r/fourthwing">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-phone-wallpapers-v0-xoe0efqifa3e1.png?width=1350&format=png&auto=webp&s=e0f44ee2b1f241064dde83ae518bbdf0c30cce18' alt='more phone wallpapers :) : r/fourthwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-phone-wallpapers-v0-xoe0efqifa3e1.png?width=1350&format=png&auto=webp&s=e0f44ee2b1f241064dde83ae518bbdf0c30cce18' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/d5/f5/64d5f5e911f14816a973bb75bcc6da25.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/d5/f5/64d5f5e911f14816a973bb75bcc6da25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fourth wing quote iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a7/7c/cc/a77ccc685ced1e8ddb878760425dfaaa.jpg' alt='fourth wing quote iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a7/7c/cc/a77ccc685ced1e8ddb878760425dfaaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fourth Wing Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-silhouette-against-text-background-4zz037jj1oqlvbpn.jpg' alt='100+] Fourth Wing Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-silhouette-against-text-background-4zz037jj1oqlvbpn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i feel like i'm always sharing my new phone wallpaper purchases ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2648362732037674' alt='i feel like i'm always sharing my new phone wallpaper purchases ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2648362732037674' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth Wing (Onyx Storm) inspired Wallpaper | iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48268342/r/il/043f1e/5516650858/il_fullxfull.5516650858_4izq.jpg' alt='Fourth Wing (Onyx Storm) inspired Wallpaper | iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48268342/r/il/043f1e/5516650858/il_fullxfull.5516650858_4izq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth Wing lockscreen ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/c6/a0/c8c6a026958b002e2f35d7ba5a515485.jpg' alt='Fourth Wing lockscreen ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/c6/a0/c8c6a026958b002e2f35d7ba5a515485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Fourth Wing Wallpaper: Fan Art for For Your Phone">
+                                <img itemprop="contentUrl url" src='https://theliterarylifestyle.com/wp-content/uploads/2023/12/fourth-wing-wallpaper-1.jpg' alt='10 Best Fourth Wing Wallpaper: Fan Art for For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Literary Lifestyle" />
+                                </span>
+                                <a href='https://theliterarylifestyle.com/wp-content/uploads/2023/12/fourth-wing-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth Wing Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/5c/8d/3c5c8db087dc0dbda58b59547916b9d5.jpg' alt='Fourth Wing Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/5c/8d/3c5c8db087dc0dbda58b59547916b9d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

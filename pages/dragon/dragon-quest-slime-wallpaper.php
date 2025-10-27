@@ -1,0 +1,129 @@
+<title>Vibrant Dragon Quest Slime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant Dragon Quest slime wallpapers to personalize your device. Perfect for fans, these colorful designs add a playful touch while celebrating the beloved game. Explore and download your favorites to brighten up your screens today!">
+                    <meta name="keywords" content="dragon quest slime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-quest-slime-wallpaper">
+                            <span itemprop="name">dragon quest slime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Dragon Quest Slime Wallpapers for Your Device</h1>
+                <p>Transform your device with vibrant Dragon Quest slime wallpapers! These adorable slimes come in various colors and designs, adding a playful touch to your screens. Perfect for fans of the iconic game, these wallpapers bring a blend of nostalgia and cuteness. Download your favorites and showcase your love for Dragon Quest today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Phone Wallpaper : r/dragonquest">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/slime-phone-wallpaper-v0-gt3tbnd9z89c1.jpeg?auto=webp&s=60bf824e0f1e93e1b7e46befc9f4471e08bab38e' alt='Slime Phone Wallpaper : r/dragonquest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5375">
+                                <meta itemprop="height" content="11650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/slime-phone-wallpaper-v0-gt3tbnd9z89c1.jpeg?auto=webp&s=60bf824e0f1e93e1b7e46befc9f4471e08bab38e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a slime Android theme & wallpaper! : r/dragonquest">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mfzrw0svb2d61.jpg' alt='I made a slime Android theme & wallpaper! : r/dragonquest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mfzrw0svb2d61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Dragon Quest Slime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/339/thumb-1920-339047.jpg' alt='Download Free Dragon Quest Slime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/339/thumb-1920-339047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest: Slime Background by Missa567 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1bda86c9-6d9b-45bf-918f-f94c0927e308/d46b615-aad4ba8f-9e39-437a-a677-6e1e9832ded1.jpg/v1/fill/w_400,h_400,q_75,strp/dragon_quest__slime_background_by_missa567_d46b615-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAwIiwicGF0aCI6IlwvZlwvMWJkYTg2YzktNmQ5Yi00NWJmLTkxOGYtZjk0YzA5MjdlMzA4XC9kNDZiNjE1LWFhZDRiYThmLTllMzktNDM3YS1hNjc3LTZlMWU5ODMyZGVkMS5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8kKXncGlc4Igi4OzIA_glYqSndxIjeakgc74w57AjJw' alt='Dragon Quest: Slime Background by Missa567 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1bda86c9-6d9b-45bf-918f-f94c0927e308/d46b615-aad4ba8f-9e39-437a-a677-6e1e9832ded1.jpg/v1/fill/w_400,h_400,q_75,strp/dragon_quest__slime_background_by_missa567_d46b615-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAwIiwicGF0aCI6IlwvZlwvMWJkYTg2YzktNmQ5Yi00NWJmLTkxOGYtZjk0YzA5MjdlMzA4XC9kNDZiNjE1LWFhZDRiYThmLTllMzktNDM3YS1hNjc3LTZlMWU5ODMyZGVkMS5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8kKXncGlc4Igi4OzIA_glYqSndxIjeakgc74w57AjJw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest Slime Pattern - Free HD Wallpaper Download">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/339/thumb-1920-339048.jpg' alt='Dragon Quest Slime Pattern - Free HD Wallpaper Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/339/thumb-1920-339048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Quest slimes wallpaper [2160x1080] by IkarosOwO on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a3388c2-3e36-4aab-8cb3-7e260e8c594e/devek17-1edd3f33-4f93-42c1-a88e-9764f9ab04ba.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhMzM4OGMyLTNlMzYtNGFhYi04Y2IzLTdlMjYwZThjNTk0ZVwvZGV2ZWsxNy0xZWRkM2YzMy00ZjkzLTQyYzEtYTg4ZS05NzY0ZjlhYjA0YmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IqJu23ab1CqJYhtrtz93gBZvWEfqCSHc10YUo0K-FwI' alt='Dragon Quest slimes wallpaper [2160x1080] by IkarosOwO on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a3388c2-3e36-4aab-8cb3-7e260e8c594e/devek17-1edd3f33-4f93-42c1-a88e-9764f9ab04ba.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhMzM4OGMyLTNlMzYtNGFhYi04Y2IzLTdlMjYwZThjNTk0ZVwvZGV2ZWsxNy0xZWRkM2YzMy00ZjkzLTQyYzEtYTg4ZS05NzY0ZjlhYjA0YmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IqJu23ab1CqJYhtrtz93gBZvWEfqCSHc10YUo0K-FwI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="god is real and his name is jugish — dragon quest wallpaper (sized ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ea5f6c1758538104d29a8b4566e28d31/tumblr_ou28k86W3s1sqkgzso1_1280.png' alt='god is real and his name is jugish — dragon quest wallpaper (sized ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@tanixtonics on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ea5f6c1758538104d29a8b4566e28d31/tumblr_ou28k86W3s1sqkgzso1_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Dragon Quest ideas | dragon quest, dragon, dragon warrior">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/52/11/6b5211fb5d2a6396cd45193c484c6ea8.jpg' alt='140 Dragon Quest ideas | dragon quest, dragon, dragon warrior'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/52/11/6b5211fb5d2a6396cd45193c484c6ea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper] Now in multiple colors and their tiny little ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iphone-wallpaper-now-in-multiple-colors-and-their-tiny-v0-kq609n06bfac1.jpg?width=5375&format=pjpg&auto=webp&s=1e67cc4c6f392f2d229f818756abb4338c959907' alt='iPhone Wallpaper] Now in multiple colors and their tiny little ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5375">
+                                <meta itemprop="height" content="11650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iphone-wallpaper-now-in-multiple-colors-and-their-tiny-v0-kq609n06bfac1.jpg?width=5375&format=pjpg&auto=webp&s=1e67cc4c6f392f2d229f818756abb4338c959907' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Party!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/7e/73/8e7e73eef4c47f67cdaa12a148b18ccf.jpg' alt='Slime Party!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/7e/73/8e7e73eef4c47f67cdaa12a148b18ccf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

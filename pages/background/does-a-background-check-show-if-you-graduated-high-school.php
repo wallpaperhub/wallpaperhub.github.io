@@ -1,0 +1,129 @@
+<title>Do Background Checks Verify High School Graduation?</title>
+                    <meta name="description" content="Discover whether a background check can confirm if you've graduated high school. Learn what information is typically included and how employers verify educational credentials. Get insights on background checks and their processes now!">
+                    <meta name="keywords" content="does a background check show if you graduated high school">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-background-check-show-if-you-graduated-high-school">
+                            <span itemprop="name">does a background check show if you graduated high school</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Background Checks Verify High School Graduation?</h1>
+                <p>A background check may reveal if you graduated high school, depending on the extent of the background check. Employers often verify educational credentials, including high school diplomas, through direct contact with educational institutions. However, not all checks will include this information; it varies by the company's policies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do High School Diplomas Show Up on Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-High-School-Diplomas-Show-Up-on-Background-Checks.png' alt='Do High School Diplomas Show Up on Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-High-School-Diplomas-Show-Up-on-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification verifies information provided by the applicant">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Education%20Verification%20Sample.jpg' alt='Education Verification verifies information provided by the applicant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1662">
+                                <meta itemprop="height" content="2327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Education%20Verification%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/education.jpg' alt='Education Verification – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1993">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/education.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Show High School Diploma">
+                                <img itemprop="contentUrl url" src='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/0.jpg' alt='Do Background Checks Show High School Diploma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Show High School Diploma">
+                                <img itemprop="contentUrl url" src='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/1.jpg' alt='Do Background Checks Show High School Diploma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Show High School Diploma">
+                                <img itemprop="contentUrl url" src='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/2.jpg' alt='Do Background Checks Show High School Diploma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Show High School Diploma">
+                                <img itemprop="contentUrl url" src='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/3.jpg' alt='Do Background Checks Show High School Diploma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-background-checks-show-high-school-diploma.govbackgroundchecks.com/screenshots/do-background-checks-show-high-school-diploma/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High School Diploma Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/7c3e0e90ee/checkr-web-article-high-school-diploma-bgc-2.webp/m/' alt='High School Diploma Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/7c3e0e90ee/checkr-web-article-high-school-diploma-bgc-2.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct Background Checks for High School Diplomas | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/0d71a9f3a2222c0efbd35f8b6b8fe5b6/Article-High-School-Diploma-Checks-963x413-1.png' alt='How to Conduct Background Checks for High School Diplomas | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/0d71a9f3a2222c0efbd35f8b6b8fe5b6/Article-High-School-Diploma-Checks-963x413-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do High School Diplomas Show Up on Background Checks?">
+                                <img itemprop="contentUrl url" src='https://gcheck.com/wp-content/uploads/2024/06/What-is-an-Education-Verification_-visual-selection.webp' alt='Do High School Diplomas Show Up on Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCheck" />
+                                </span>
+                                <a href='https://gcheck.com/wp-content/uploads/2024/06/What-is-an-Education-Verification_-visual-selection.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

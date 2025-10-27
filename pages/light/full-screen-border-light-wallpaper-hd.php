@@ -1,0 +1,129 @@
+<title>HD Full Screen Border Light Wallpapers - Stunning Visuals for Your Device</title>
+                    <meta name="description" content="Discover breathtaking HD full screen border light wallpapers that enhance your device's aesthetic. Perfect for mobile and desktop, these high-quality images provide vibrant designs that captivate and inspire. Transform your screen today with stunning visuals that truly shine!">
+                    <meta name="keywords" content="full screen border light wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/full-screen-border-light-wallpaper-hd">
+                            <span itemprop="name">full screen border light wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>HD Full Screen Border Light Wallpapers - Stunning Visuals for Your Device</h1>
+                <p>Transform your device with stunning full screen border light wallpapers in HD! Elevate your visual experience with vibrant colors and captivating designs that bring your screen to life. Perfect for enhancing your desktop or mobile, these wallpapers create a mesmerizing atmosphere, making every glance at your device feel like art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Border Light Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/36/dc/8e36dc6b83d9f1dfe525f1eea027bf5c.jpg' alt='Rainbow Border Light Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/36/dc/8e36dc6b83d9f1dfe525f1eea027bf5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon 3D Frame, amoled, border, edge, glow, green, oled, star, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/412/683/HD-wallpaper-long-star-frame-1-amoled-blue-border-dark-fire-light-oneplus-samsung-stars-xiaomi.jpg' alt='Neon 3D Frame, amoled, border, edge, glow, green, oled, star, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/412/683/HD-wallpaper-long-star-frame-1-amoled-blue-border-dark-fire-light-oneplus-samsung-stars-xiaomi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD border light wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/959/25/HD-wallpaper-color-edge-oneplus-oneplus6t-notch-edges-border-led-black-light-thumbnail.jpg' alt='HD border light wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/959/25/HD-wallpaper-color-edge-oneplus-oneplus6t-notch-edges-border-led-black-light-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Blue Neon border light">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/d0/c3/a9d0c3794db65d50fdc01d9a11050a64.jpg' alt='Pink & Blue Neon border light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/d0/c3/a9d0c3794db65d50fdc01d9a11050a64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Long Frame, amoled, border, dark, iphone, light, oneplus ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/313/79/HD-wallpaper-opposite-long-frame-1-amoled-black-border-dark-iphone-light-neon-oneplus-samsung-smoke.jpg' alt='Magic Long Frame, amoled, border, dark, iphone, light, oneplus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/313/79/HD-wallpaper-opposite-long-frame-1-amoled-black-border-dark-iphone-light-neon-oneplus-samsung-smoke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Edge Lighting Wallpaper for Homescreen & Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/f9/b6/79f9b6ba3999704bce26c4636365bd5b.jpg' alt='60 Edge Lighting Wallpaper for Homescreen & Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/f9/b6/79f9b6ba3999704bce26c4636365bd5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Borderlight Wallpaper- Live border light... Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/borderlight-wallpaper-live-border-light-wallpaper/00/00/0H/DU/00000HDUTD/pad_screenshot.jpg' alt='Borderlight Wallpaper- Live border light... Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/borderlight-wallpaper-live-border-light-wallpaper/00/00/0H/DU/00000HDUTD/pad_screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Double Long Frame, amoled, black, blue, border, fire, light, neon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/790/822/HD-wallpaper-double-long-frame-amoled-black-blue-border-fire-light-neon-oneplus-samsung-xiaomi.jpg' alt='Double Long Frame, amoled, black, blue, border, fire, light, neon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/790/822/HD-wallpaper-double-long-frame-amoled-black-blue-border-fire-light-neon-oneplus-samsung-xiaomi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border wallpaper wallpaper by Nitishk001 - Download on ZEDGE™ | 9539">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/bc/4f/d1bc4fe8f76f80547e7cfa59bf4cdd50.jpg' alt='Border wallpaper wallpaper by Nitishk001 - Download on ZEDGE™ | 9539'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/bc/4f/d1bc4fe8f76f80547e7cfa59bf4cdd50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edge Lighting: LED Borderlight - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/1DZ7JDySv_k7CurIRFXe0PcTqRHispH83iWCF6OByydoWrfeZkQc0XFEv_lZLzzt1w' alt='Edge Lighting: LED Borderlight - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/1DZ7JDySv_k7CurIRFXe0PcTqRHispH83iWCF6OByydoWrfeZkQc0XFEv_lZLzzt1w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

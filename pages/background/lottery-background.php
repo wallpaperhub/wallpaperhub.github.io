@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History of Lotteries</title>
+                    <meta name="description" content="Explore the intriguing background of lotteries, tracing their origins from ancient customs to modern-day excitement. Learn how these games of chance fund public projects and captivate millions worldwide with the allure of winning big.">
+                    <meta name="keywords" content="lottery background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lottery-background">
+                            <span itemprop="name">lottery background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History of Lotteries</h1>
+                <p>Lottery has a rich history, dating back to ancient times when selections were made by chance for various purposes, including funding infrastructure. Modern lotteries emerged in the 15th century, enhancing public services by generating revenue. Today, they are a popular form of entertainment, offering players the chance to win substantial prizes through random draws.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO 5x3ft Fabric Lottery Balls Backdrop Lotto Keno  Gambling Games Background of Lottery Raffle, Colourful Spheres with Lucky  Numbers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71NrbVsuwEL.jpg' alt='Amazon.com : CORFOTO 5x3ft Fabric Lottery Balls Backdrop Lotto Keno  Gambling Games Background of Lottery Raffle, Colourful Spheres with Lucky  Numbers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71NrbVsuwEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1252590477/vector/vector-illustration-background-material-of-overflowing-coins.jpg?s=612x612&w=0&k=20&c=r7dQL0WpGjnk81CKAPiJlZj9QuP-1y_nbPOr_lMHL7o=' alt='6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1252590477/vector/vector-illustration-background-material-of-overflowing-coins.jpg?s=612x612&w=0&k=20&c=r7dQL0WpGjnk81CKAPiJlZj9QuP-1y_nbPOr_lMHL7o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1053139034/vector/vector-illustration-confetti-background.jpg?s=612x612&w=0&k=20&c=iVZ52KTERSBbvkjMEa5qjBsAK8fIaKABomG3jOJTL_c=' alt='6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1053139034/vector/vector-illustration-confetti-background.jpg?s=612x612&w=0&k=20&c=iVZ52KTERSBbvkjMEa5qjBsAK8fIaKABomG3jOJTL_c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lottery Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/363/755/small/realistic-lotto-balls-with-lucky-winning-combination-numbers-colourful-round-spheres-falling-with-gold-confetti-bingo-or-lottery-gambling-games-gaming-leisure-activity-jackpot-or-raffle-concept-vector.jpg' alt='Lottery Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/363/755/small/realistic-lotto-balls-with-lucky-winning-combination-numbers-colourful-round-spheres-falling-with-gold-confetti-bingo-or-lottery-gambling-games-gaming-leisure-activity-jackpot-or-raffle-concept-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lottery Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/realistic-lottery-symbol-isolated_23-2151177259.jpg' alt='Lottery Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/realistic-lottery-symbol-isolated_23-2151177259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1367581899/vector/lucky-winner-celebration-illustration-rich-violet-background-with-text-you-won-and-fireworks.jpg?s=612x612&w=0&k=20&c=KI_Gjvz4kWmPu5Op4Vin84oC16atYw-AFPcclhya_MA=' alt='6,500+ Lottery Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1367581899/vector/lucky-winner-celebration-illustration-rich-violet-background-with-text-you-won-and-fireworks.jpg?s=612x612&w=0&k=20&c=KI_Gjvz4kWmPu5Op4Vin84oC16atYw-AFPcclhya_MA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,026 Banner Lottery Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2418119881/display_1500/stock-vector-bingo-balls-splash-background-floating-lotto-game-ball-golden-coins-and-confetti-lucky-gambling-2418119881.jpg' alt='18,026 Banner Lottery Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2418119881/display_1500/stock-vector-bingo-balls-splash-background-floating-lotto-game-ball-golden-coins-and-confetti-lucky-gambling-2418119881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lottery Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/924/174/small/jackpot-casino-podium-golden-coins-banner-vector.jpg' alt='Lottery Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/924/174/small/jackpot-casino-podium-golden-coins-banner-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lottery Background Colorful Balls Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/418443139/display_1500/stock-vector-lottery-background-with-colorful-balls-418443139.jpg' alt='Lottery Background Colorful Balls Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/418443139/display_1500/stock-vector-lottery-background-with-colorful-balls-418443139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lottery ball background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/53/49/lottery-ball-background-vector-55349.jpg' alt='Lottery ball background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/53/49/lottery-ball-background-vector-55349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

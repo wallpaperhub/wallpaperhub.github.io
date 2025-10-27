@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Background Portraits: Unleash the Festive Spirit</title>
+                    <meta name="description" content="Explore stunning Halloween background portraits that embody the spooky season! Perfect for social media and events, these enchanting designs merge creativity with festive allure. Get ready to celebrate Halloween in style with our captivating portrait options that are guaranteed to impress!">
+                    <meta name="keywords" content="halloween background portrait">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-background-portrait">
+                            <span itemprop="name">halloween background portrait</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Background Portraits: Unleash the Festive Spirit</h1>
+                <p>Capture the essence of Halloween with a captivating background portrait that brings your spookiest visions to life. Whether you're showcasing ghostly landscapes, autumnal colors, or playful creatures, these portraits set an enchanting mood. Perfect for events, social media, and personal collections, they evoke festive spirit and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOFOTO 5x7ft Halloween Background Grimace Pumpkin Black Cat Bats  Photography Backdrop Night Sky Full Moon and Stars Kid Baby Child Boy Girl  Portrait ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51TWINZL8bL._AC_UF894,1000_QL80_.jpg' alt='AOFOTO 5x7ft Halloween Background Grimace Pumpkin Black Cat Bats  Photography Backdrop Night Sky Full Moon and Stars Kid Baby Child Boy Girl  Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51TWINZL8bL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/177415910/vector/halloween-design-spooky-graveyard.jpg?s=612x612&w=0&k=20&c=I6rQ05RNcYvCdKfIk5_SSZuFwfRLeHdrYlJlVhf4Snc=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/177415910/vector/halloween-design-spooky-graveyard.jpg?s=612x612&w=0&k=20&c=I6rQ05RNcYvCdKfIk5_SSZuFwfRLeHdrYlJlVhf4Snc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1409209291/vector/happy-halloween-silhouette-vector-illustration-for-poster-template-etc.jpg?s=612x612&w=0&k=20&c=mOtmqHbj4jozcjqmT67RKv2LOlJLy9lEr3mW6x2NbcM=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1409209291/vector/happy-halloween-silhouette-vector-illustration-for-poster-template-etc.jpg?s=612x612&w=0&k=20&c=mOtmqHbj4jozcjqmT67RKv2LOlJLy9lEr3mW6x2NbcM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Theme Photography Backdrop Attractive Bat Pumpkin Lantern Photo  Background Fashion Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.buy-backdrop.com/images/halloween/halloween_32480900629.jpg' alt='Halloween Theme Photography Backdrop Attractive Bat Pumpkin Lantern Photo  Background Fashion Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buy Backdrops" />
+                                </span>
+                                <a href='https://www.buy-backdrop.com/images/halloween/halloween_32480900629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Halloween background halloween concept 3D rendering">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/halloween-background-halloween-concept-3d-rendering_521621-62.jpg' alt='Premium Photo | Halloween background halloween concept 3D rendering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/halloween-background-halloween-concept-3d-rendering_521621-62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Fabric Halloween Themed Photography Backdrop Horror Forest Pumpkins  Spooky Trees Background Party Birthday Banner Baby Shower Decorations for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jieZBXnDL._AC_UF894,1000_QL80_.jpg' alt='7x5ft Fabric Halloween Themed Photography Backdrop Horror Forest Pumpkins  Spooky Trees Background Party Birthday Banner Baby Shower Decorations for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jieZBXnDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="552,815 Halloween Background Image Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/artificial-intelligence-halloween-background-jack-o-lantern-bats-dark-thicket-ai-generated-artificial-intelligence-333589876.jpg' alt='552,815 Halloween Background Image Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/artificial-intelligence-halloween-background-jack-o-lantern-bats-dark-thicket-ai-generated-artificial-intelligence-333589876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/59/93/f7599315d29842d0c09ab4c1a536cd35.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1087">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/59/93/f7599315d29842d0c09ab4c1a536cd35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Photography Backdrop Attractive Brick Wall Pumpkin Lantern Photo  Background Fashion Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.buy-backdrop.com/images/halloween/halloween_32479283355.jpg' alt='Halloween Photography Backdrop Attractive Brick Wall Pumpkin Lantern Photo  Background Fashion Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buy Backdrops" />
+                                </span>
+                                <a href='https://www.buy-backdrop.com/images/halloween/halloween_32479283355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175083503/vector/halloween-smiling-card-drawn-greeting-cat-style-vintage-abstract-background-calligraphy.jpg?s=612x612&w=0&k=20&c=r8grt92mYEF1GFrSr6j63jW2HGN6zM0gUU-tBX8judM=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175083503/vector/halloween-smiling-card-drawn-greeting-cat-style-vintage-abstract-background-calligraphy.jpg?s=612x612&w=0&k=20&c=r8grt92mYEF1GFrSr6j63jW2HGN6zM0gUU-tBX8judM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

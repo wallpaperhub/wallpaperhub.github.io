@@ -1,0 +1,129 @@
+<title>Explore the Rich History of Kaizen: Continuous Improvement Unveiled</title>
+                    <meta name="description" content="Discover the evolution of Kaizen, the Japanese philosophy of continuous improvement. Learn how this transformative strategy reshaped industries by enhancing efficiency and fostering a culture of ongoing development. Join us in exploring its profound impact on global business practices.">
+                    <meta name="keywords" content="history of kaizen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-kaizen">
+                            <span itemprop="name">history of kaizen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of Kaizen: Continuous Improvement Unveiled</h1>
+                <p>Kaizen, originating from Japan, means "continuous improvement" and emerged post-World War II as a pivotal business strategy. It focuses on enhancing processes, efficiency, and employee involvement. The concept gained global prominence in manufacturing, particularly in the automotive industry, transforming companies by fostering a culture of incremental change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Kaizen evolved from total quality management to enabling growth">
+                                <img itemprop="contentUrl url" src='https://eco-cdn.iqpc.com/eco/images/channel_content/images/evolution_of_kaizen.png' alt='How Kaizen evolved from total quality management to enabling growth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="902">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Process Excellence Network" />
+                                </span>
+                                <a href='https://eco-cdn.iqpc.com/eco/images/channel_content/images/evolution_of_kaizen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Kaizen - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ga9zRZofk80/mqdefault.jpg' alt='History of Kaizen - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ga9zRZofk80/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaizen History">
+                                <img itemprop="contentUrl url" src='https://www.kaizen.com.sg/wp-content/uploads/2016/07/kaizen-history.jpg' alt='Kaizen History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaizen Training and Consulting" />
+                                </span>
+                                <a href='https://www.kaizen.com.sg/wp-content/uploads/2016/07/kaizen-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Kaizen – Kaizen News">
+                                <img itemprop="contentUrl url" src='https://www.kaizen-news.com/wp-content/uploads/sites/52/2021/09/Kaizen.png' alt='Introduction to Kaizen – Kaizen News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="977">
+                                <meta itemprop="height" content="931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaizen News" />
+                                </span>
+                                <a href='https://www.kaizen-news.com/wp-content/uploads/sites/52/2021/09/Kaizen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kaizen? - Kanbanchi">
+                                <img itemprop="contentUrl url" src='https://www.kanbanchi.com/wp-content/uploads/2015/05/Kaizen_umbrella.png' alt='What is Kaizen? - Kanbanchi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kanbanchi" />
+                                </span>
+                                <a href='https://www.kanbanchi.com/wp-content/uploads/2015/05/Kaizen_umbrella.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Kaizen: History of Kaizen and Basics of 5s (Paperback ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/607/301/9781806301607.jpg' alt='What Is Kaizen: History of Kaizen and Basics of 5s (Paperback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avid Bookshop" />
+                                </span>
+                                <a href='https://images.booksense.com/images/607/301/9781806301607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is KAIZEN™ | Meaning Of Kaizen">
+                                <img itemprop="contentUrl url" src='https://kaizen.com/wp-content/uploads/2022/10/01_KAI_Core_Infographic1-1-e1666715650717.png' alt='What is KAIZEN™ | Meaning Of Kaizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="935">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaizen Institute" />
+                                </span>
+                                <a href='https://kaizen.com/wp-content/uploads/2022/10/01_KAI_Core_Infographic1-1-e1666715650717.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Continuous Improvement (Kaizen): Putting it into Practice ...">
+                                <img itemprop="contentUrl url" src='https://rollformingmagazine.com/wp-content/uploads/2022/11/AdobeStock_472315641-scaled.jpg' alt='Continuous Improvement (Kaizen): Putting it into Practice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rollforming Magazine" />
+                                </span>
+                                <a href='https://rollformingmagazine.com/wp-content/uploads/2022/11/AdobeStock_472315641-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaizen: Understanding the Japanese Business Philosophy">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/X_mBQgIeX9fcGaEoyn499XqSTFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kaizen.asp-ADD-Source-51522de6c889423a87ae1b0bee396d22.jpg' alt='Kaizen: Understanding the Japanese Business Philosophy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/X_mBQgIeX9fcGaEoyn499XqSTFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kaizen.asp-ADD-Source-51522de6c889423a87ae1b0bee396d22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kaizen? A Complete Introduction to Kaizen">
+                                <img itemprop="contentUrl url" src='https://7579659.fs1.hubspotusercontent-na1.net/hubfs/7579659/Imported_Blog_Media/Kaizen-steps-process.jpg' alt='What is Kaizen? A Complete Introduction to Kaizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Knowledge Academy" />
+                                </span>
+                                <a href='https://7579659.fs1.hubspotusercontent-na1.net/hubfs/7579659/Imported_Blog_Media/Kaizen-steps-process.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

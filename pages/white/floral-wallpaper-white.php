@@ -1,0 +1,129 @@
+<title>White Floral Wallpaper: Elegant & Versatile Decor</title>
+                    <meta name="description" content="Transform your space with beautiful white floral wallpaper. Its delicate designs bring a touch of nature indoors, creating an airy and welcoming atmosphere. Ideal for any room, this wallpaper complements various decor styles, providing an elegant, timeless look for your home. Explore the perfect blend of style and serenity!">
+                    <meta name="keywords" content="floral wallpaper white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/floral-wallpaper-white">
+                            <span itemprop="name">floral wallpaper white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Floral Wallpaper: Elegant & Versatile Decor</h1>
+                <p>Floral wallpaper in white offers a fresh, elegant aesthetic for any room. Its soft, pastel designs create a tranquil and inviting atmosphere, perfect for bedrooms, living spaces, or offices. This wallpaper style combines beauty and versatility, easily complementing various decor styles from modern to vintage, making it a timeless choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Black and Cream White Floral Wallpaper Peel and Stick Wallpaper  17.7in×118.1in Vintage Floral Contact Paper Flowers Birds Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' alt='Froluya Black and Cream White Floral Wallpaper Peel and Stick Wallpaper  17.7in×118.1in Vintage Floral Contact Paper Flowers Birds Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nami White Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' alt='Nami White Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Medley 56.4-Sq. Feet White Paper Floral Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/1d56d80f-d04c-4208-94ce-bc7518017451/16719520.jpg' alt='Fine Decor Medley 56.4-Sq. Feet White Paper Floral Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="983">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/1d56d80f-d04c-4208-94ce-bc7518017451/16719520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Wallpaper, Floral Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/db10b6/3972927546/il_570xN.3972927546_nhmi.jpg' alt='Black and White Floral Wallpaper, Floral Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/db10b6/3972927546/il_570xN.3972927546_nhmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peonies & Anemones Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-1.jpg' alt='Peonies & Anemones Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395214 Floral Texture White Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247142.jpg' alt='Galerie EN3395214 Floral Texture White Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Delicate Floral Trail Pink/Green on White Matte Finish Non-Woven  Paper Non-Pasted Wallpaper Roll G56649">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/acf51b36-84fe-4c7c-b283-fcad3eab14c7/svn/wallpaper-rolls-g56649-64_600.jpg' alt='Unbranded Delicate Floral Trail Pink/Green on White Matte Finish Non-Woven  Paper Non-Pasted Wallpaper Roll G56649'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/acf51b36-84fe-4c7c-b283-fcad3eab14c7/svn/wallpaper-rolls-g56649-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wildflower Sprigs Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/black-white-wildflower-sprigs-floral-wa-camq-l.jpg' alt='Black & White Wildflower Sprigs Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/black-white-wildflower-sprigs-floral-wa-camq-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>CT State Police Fingerprinting Appointment Made Easy</title>
+                    <meta name="description" content="Schedule your CT State Police fingerprinting appointment effortlessly! Learn about requirements, locations, and how to prepare for a smooth experience. Perfect for background checks, firearm permits, or employment needs. Get started today!">
+                    <meta name="keywords" content="ct state police fingerprinting appointment">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ct-state-police-fingerprinting-appointment">
+                            <span itemprop="name">ct state police fingerprinting appointment</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CT State Police Fingerprinting Appointment Made Easy</h1>
+                <p>For a CT State Police fingerprinting appointment, individuals must schedule their fingerprinting at designated locations. It’s essential to bring valid identification and any necessary documents. Appointments can often be made online or through direct contact with police services, ensuring a smooth process for background checks or licensing requirements.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got fingerprints? Hours for... - Connecticut State Police | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2779086632320670' alt='Got fingerprints? Hours for... - Connecticut State Police | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="834">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2779086632320670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting | East Haven, CT Police Department">
+                                <img itemprop="contentUrl url" src='https://www.easthavenpolice.com/sites/g/files/vyhlif8866/files/styles/full_node_primary_extra_wide/public/media/fingerprinting/image/1276/ehpd_fingerprint.png?itok=oNxJ_L5E' alt='Fingerprinting | East Haven, CT Police Department'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Haven Police Department" />
+                                </span>
+                                <a href='https://www.easthavenpolice.com/sites/g/files/vyhlif8866/files/styles/full_node_primary_extra_wide/public/media/fingerprinting/image/1276/ehpd_fingerprint.png?itok=oNxJ_L5E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprints | Brookfield CT">
+                                <img itemprop="contentUrl url" src='https://www.brookfieldct.gov/sites/g/files/vyhlif341/f/styles/news_image/public/pages/382012_91124_2.jpg?itok=3p1Nro6V' alt='Fingerprints | Brookfield CT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brookfield CT |" />
+                                </span>
+                                <a href='https://www.brookfieldct.gov/sites/g/files/vyhlif341/f/styles/news_image/public/pages/382012_91124_2.jpg?itok=3p1Nro6V' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FINGERPRI... - Connecticut State Police - Troop E Montville | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=908024288158218' alt='FINGERPRI... - Connecticut State Police - Troop E Montville | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=908024288158218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CTDPH FingerprintForm">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d4063c7c9877544e540de638ac3b17096bd8a26ceb8b0853d6fe8c0b61452cfd' alt='CTDPH FingerprintForm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CT.gov" />
+                                </span>
+                                <a href='x-raw-image:///d4063c7c9877544e540de638ac3b17096bd8a26ceb8b0853d6fe8c0b61452cfd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting | East Haven, CT Police Department">
+                                <img itemprop="contentUrl url" src='https://www.easthavenpolice.com/sites/g/files/vyhlif8866/files/styles/full_node_primary_extra_wide/public/media/fingerprinting/image/1286/screenshot_2023-01-12_154225.png?itok=TlJwKTFO' alt='Fingerprinting | East Haven, CT Police Department'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Haven Police Department" />
+                                </span>
+                                <a href='https://www.easthavenpolice.com/sites/g/files/vyhlif8866/files/styles/full_node_primary_extra_wide/public/media/fingerprinting/image/1286/screenshot_2023-01-12_154225.png?itok=TlJwKTFO' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Police Bureau of Identification">
+                                <img itemprop="contentUrl url" src='https://portal.ct.gov/-/media/despp/img/despp-150.png?rev=de4f06e3fd3e4ab4a782aca14fe0f35f&sc_lang=en&h=148&w=150&la=en&hash=E7829A0D49252B857FC4A0FCC509D2D2' alt='State Police Bureau of Identification'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="150">
+                                <meta itemprop="height" content="148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CT.gov" />
+                                </span>
+                                <a href='https://portal.ct.gov/-/media/despp/img/despp-150.png?rev=de4f06e3fd3e4ab4a782aca14fe0f35f&sc_lang=en&h=148&w=150&la=en&hash=E7829A0D49252B857FC4A0FCC509D2D2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting | Danbury, CT">
+                                <img itemprop="contentUrl url" src='https://www.danbury-ct.gov/ImageRepository/Document?documentID=882' alt='Fingerprinting | Danbury, CT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2080">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danbury, CT" />
+                                </span>
+                                <a href='https://www.danbury-ct.gov/ImageRepository/Document?documentID=882' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connecticut State Police Records">
+                                <img itemprop="contentUrl url" src='https://connecticut-state-police-records.govbackgroundchecks.com/screenshots/connecticut-state-police-records/7.jpg' alt='Connecticut State Police Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://connecticut-state-police-records.govbackgroundchecks.com/screenshots/connecticut-state-police-records/7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Putnam Police Dept | RESOURCES: Fingerprinting Services">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/c83495_18114e037d104e2b81c16815e6d440a5~mv2_d_5269_5854_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/c83495_18114e037d104e2b81c16815e6d440a5~mv2_d_5269_5854_s_4_2.jpg' alt='Putnam Police Dept | RESOURCES: Fingerprinting Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Putnam Police Department" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/c83495_18114e037d104e2b81c16815e6d440a5~mv2_d_5269_5854_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/c83495_18114e037d104e2b81c16815e6d440a5~mv2_d_5269_5854_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

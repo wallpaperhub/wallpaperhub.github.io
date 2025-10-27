@@ -1,0 +1,129 @@
+<title>Loki iPhone Wallpapers: Unleash the God of Mischief</title>
+                    <meta name="description" content="Discover an array of Loki iPhone wallpapers to elevate your device's look. Choose from captivating designs that highlight the charm and chaos of Marvel's God of Mischief. Perfect for fans wanting a unique touch! Download now for a stylish transformation!">
+                    <meta name="keywords" content="loki iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/loki-iphone-wallpaper">
+                            <span itemprop="name">loki iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Loki iPhone Wallpapers: Unleash the God of Mischief</h1>
+                <p>Transform your iPhone with stunning Loki wallpapers! Dive into the mischievous world of Marvel's God of Mischief, featuring iconic scenes and characters. Whether you prefer vibrant action shots or minimalist designs, these wallpapers offer a perfect blend of style and personality. Download your favorite and showcase your love for Loki now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A cool Loki wallpaper I found : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iyea7ub0vo871.jpg' alt='A cool Loki wallpaper I found : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iyea7ub0vo871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="President Loki Minimalist Marvel Iphone Xr Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/president-loki-minimalist-marvel-iphone-xr-sjl58007k6atoktt.jpg' alt='President Loki Minimalist Marvel Iphone Xr Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/president-loki-minimalist-marvel-iphone-xr-sjl58007k6atoktt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unlock the Power of the Loki Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/loki-iphone-1280-x-2120-c7jno7pn4vzl7tg9.jpg' alt='Download Unlock the Power of the Loki Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1159">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/loki-iphone-1280-x-2120-c7jno7pn4vzl7tg9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loki, comic, marvel, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/250/194/HD-wallpaper-loki-comic-marvel.jpg' alt='Loki, comic, marvel, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/250/194/HD-wallpaper-loki-comic-marvel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loki iphone Wallpaper Discover more full hd, home screen, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/b3/8b/62b38bac4fb8bb01bead8c86e3d57d4e.jpg' alt='Loki iphone Wallpaper Discover more full hd, home screen, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/b3/8b/62b38bac4fb8bb01bead8c86e3d57d4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loki Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/d/2/185191-1125x2436-phone-hd-loki-wallpaper-photo.jpg' alt='Loki Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/d/2/185191-1125x2436-phone-hd-loki-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loki Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/90/b4/ae/90b4ae7a99b92bbd410f6e0ebbe7ea9b.jpg' alt='Loki Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/90/b4/ae/90b4ae7a99b92bbd410f6e0ebbe7ea9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOKI WALLPAPER FOR PHONE : r/loki">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/9Zbo83jCejWJ4bvZ6tBbh64VYeyTnQW-_HjMzfgmnCg.jpg?width=1080&crop=smart&auto=webp&s=bd66b12b0f2e7a1b28613040a80c4a2040781469' alt='LOKI WALLPAPER FOR PHONE : r/loki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/9Zbo83jCejWJ4bvZ6tBbh64VYeyTnQW-_HjMzfgmnCg.jpg?width=1080&crop=smart&auto=webp&s=bd66b12b0f2e7a1b28613040a80c4a2040781469' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loki | Depth Effect - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/11/Loki-Depth-Effect-iPhone-wallpaper.jpg' alt='Loki | Depth Effect - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/11/Loki-Depth-Effect-iPhone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Hiddleston as Loki in Season 2 5K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/tom-hiddleston-loki-1080x2340-13479.jpg' alt='Tom Hiddleston as Loki in Season 2 5K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/tom-hiddleston-loki-1080x2340-13479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

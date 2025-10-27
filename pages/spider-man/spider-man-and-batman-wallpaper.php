@@ -1,0 +1,129 @@
+<title>Epic Spider-Man & Batman Wallpaper Collection</title>
+                    <meta name="description" content="Discover our incredible Spider-Man and Batman wallpapers! Perfect for superhero enthusiasts, these designs enhance any room's ambiance with creativity and color. Transform your walls and showcase your love for these iconic characters today!">
+                    <meta name="keywords" content="spider man and batman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-and-batman-wallpaper">
+                            <span itemprop="name">spider man and batman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Spider-Man & Batman Wallpaper Collection</h1>
+                <p>Transform your space with stunning Spider-Man and Batman wallpapers! Featuring iconic artwork and vibrant colors, these wallpapers celebrate the epic clash of two beloved superheroes. Perfect for fans of all ages, they bring a dynamic energy to any room, making your walls a canvas of heroic adventures. Upgrade your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Comic Spider-Man And Batman HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/551/thumb-1920-551076.png' alt='Download Comic Spider-Man And Batman HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/551/thumb-1920-551076.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman and Spider-Man Mobile/Tablet Wallpaper by animeaful on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b17f7a7-5948-4d55-a2bd-55fb328b2bea/dcw0s83-9f5cafd1-8ea5-483b-af43-995c04a649c9.jpg/v1/fill/w_1024,h_1499,q_75,strp/batman_and_spider_man_mobile_tablet_wallpaper_by_animeaful_dcw0s83-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ5OSIsInBhdGgiOiJcL2ZcLzRiMTdmN2E3LTU5NDgtNGQ1NS1hMmJkLTU1ZmIzMjhiMmJlYVwvZGN3MHM4My05ZjVjYWZkMS04ZWE1LTQ4M2ItYWY0My05OTVjMDRhNjQ5YzkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.b-q6o4paaladNiHAzvUtUhENnJUuoWB2b_zIOBEybuc' alt='Batman and Spider-Man Mobile/Tablet Wallpaper by animeaful on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b17f7a7-5948-4d55-a2bd-55fb328b2bea/dcw0s83-9f5cafd1-8ea5-483b-af43-995c04a649c9.jpg/v1/fill/w_1024,h_1499,q_75,strp/batman_and_spider_man_mobile_tablet_wallpaper_by_animeaful_dcw0s83-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ5OSIsInBhdGgiOiJcL2ZcLzRiMTdmN2E3LTU5NDgtNGQ1NS1hMmJkLTU1ZmIzMjhiMmJlYVwvZGN3MHM4My05ZjVjYWZkMS04ZWE1LTQ4M2ItYWY0My05OTVjMDRhNjQ5YzkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.b-q6o4paaladNiHAzvUtUhENnJUuoWB2b_zIOBEybuc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: batman, spiderman, superheroes, hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/20/e6/2a20e660fbc3f4e9b0f95ba32f6d3d3b.jpg' alt='HD wallpaper: batman, spiderman, superheroes, hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/20/e6/2a20e660fbc3f4e9b0f95ba32f6d3d3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom) Spider-Man Batman Wallpaper by DiggorDoggo99 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d9cf7a4-f234-4289-96fb-97ef9c861ae0/ddlg28q-ee491a99-0375-42d7-9461-0522cb431076.jpg/v1/fill/w_1192,h_670,q_70,strp/_custom__spider_man_batman_wallpaper_by_diggordoggo99_ddlg28q-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvM2Q5Y2Y3YTQtZjIzNC00Mjg5LTk2ZmItOTdlZjljODYxYWUwXC9kZGxnMjhxLWVlNDkxYTk5LTAzNzUtNDJkNy05NDYxLTA1MjJjYjQzMTA3Ni5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5qRA-a76Rj9ZToWF-8i2N5nWSVNyZ2eiEcYVachL4kM' alt='Custom) Spider-Man Batman Wallpaper by DiggorDoggo99 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d9cf7a4-f234-4289-96fb-97ef9c861ae0/ddlg28q-ee491a99-0375-42d7-9461-0522cb431076.jpg/v1/fill/w_1192,h_670,q_70,strp/_custom__spider_man_batman_wallpaper_by_diggordoggo99_ddlg28q-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvM2Q5Y2Y3YTQtZjIzNC00Mjg5LTk2ZmItOTdlZjljODYxYWUwXC9kZGxnMjhxLWVlNDkxYTk5LTAzNzUtNDJkNy05NDYxLTA1MjJjYjQzMTA3Ni5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5qRA-a76Rj9ZToWF-8i2N5nWSVNyZ2eiEcYVachL4kM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Julie Trottier on I ❤ It 2 | Spiderman cute, Batman comic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/ca/7e/06ca7e3de2970a6b0ce6d023dae621c1.jpg' alt='Pin by Julie Trottier on I ❤ It 2 | Spiderman cute, Batman comic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/ca/7e/06ca7e3de2970a6b0ce6d023dae621c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superheros Flying Action Spiderman Batman Wallpaper | Evershine Wall">
+                                <img itemprop="contentUrl url" src='https://evershinewalls.com.au/wp-content/uploads/2021/06/Superhero-Flying-Action.jpeg' alt='Superheros Flying Action Spiderman Batman Wallpaper | Evershine Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evershine Walls" />
+                                </span>
+                                <a href='https://evershinewalls.com.au/wp-content/uploads/2021/06/Superhero-Flying-Action.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Batman And Spiderman Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/batman-spiderman-nighttime-rooftop-encounter-eth93at8jppfmxk5.jpg' alt='100+] Batman And Spiderman Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/batman-spiderman-nighttime-rooftop-encounter-eth93at8jppfmxk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BATMAN AND SPIDERMAN by arfel1989 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/4a/1e/e54a1e5fb128692f1805586148668406.jpg' alt='BATMAN AND SPIDERMAN by arfel1989 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/4a/1e/e54a1e5fb128692f1805586148668406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Photo Wallpaper Batman Iron Man Spider Man Wall Picture for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61r+pVvCGLL._AC_UF894,1000_QL80_.jpg' alt='3D Photo Wallpaper Batman Iron Man Spider Man Wall Picture for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61r+pVvCGLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman and Spider-Man Wallpaper 2 by animeaful on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b17f7a7-5948-4d55-a2bd-55fb328b2bea/dcn9rmb-b0146d25-ae06-4987-90e3-47a25db7aba9.jpg/v1/fill/w_1024,h_620,q_75,strp/batman_and_spider_man_wallpaper_2_by_animeaful_dcn9rmb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIwIiwicGF0aCI6IlwvZlwvNGIxN2Y3YTctNTk0OC00ZDU1LWEyYmQtNTVmYjMyOGIyYmVhXC9kY245cm1iLWIwMTQ2ZDI1LWFlMDYtNDk4Ny05MGUzLTQ3YTI1ZGI3YWJhOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DSWOd2Lf2LXcZqGlfoWPLn2JuXH5fBV-LFZBmOg5tWQ' alt='Batman and Spider-Man Wallpaper 2 by animeaful on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b17f7a7-5948-4d55-a2bd-55fb328b2bea/dcn9rmb-b0146d25-ae06-4987-90e3-47a25db7aba9.jpg/v1/fill/w_1024,h_620,q_75,strp/batman_and_spider_man_wallpaper_2_by_animeaful_dcn9rmb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjIwIiwicGF0aCI6IlwvZlwvNGIxN2Y3YTctNTk0OC00ZDU1LWEyYmQtNTVmYjMyOGIyYmVhXC9kY245cm1iLWIwMTQ2ZDI1LWFlMDYtNDk4Ny05MGUzLTQ3YTI1ZGI3YWJhOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DSWOd2Lf2LXcZqGlfoWPLn2JuXH5fBV-LFZBmOg5tWQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

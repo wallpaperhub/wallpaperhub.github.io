@@ -1,0 +1,129 @@
+<title>Stunning Sea Turtle Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful sea turtle lock screen wallpapers for your iPhone! Enhance your device with nature-inspired designs that celebrate marine life. Ideal for turtle lovers, these wallpapers are vibrant, mesmerizing, and perfect for showcasing your passion for the ocean. Dive in now!">
+                    <meta name="keywords" content="lock screen sea turtle wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-sea-turtle-wallpaper-iphone">
+                            <span itemprop="name">lock screen sea turtle wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sea Turtle Lock Screen Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with a captivating lock screen sea turtle wallpaper! Dive into the serene underwater world and showcase your love for marine life. Featuring vibrant colors and stunning details, these wallpapers not only beautify your device but also inspire ocean conservation. Perfect for turtle enthusiasts and nature lovers alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Turtle Phone Wallpaper, iPhone and Android, Lock Screen, 4 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38314142/r/il/28f4bb/5518059075/il_570xN.5518059075_9j2k.jpg' alt='Sea Turtle Phone Wallpaper, iPhone and Android, Lock Screen, 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38314142/r/il/28f4bb/5518059075/il_570xN.5518059075_9j2k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/49/51/e9/4951e9d774e0365ff814c3b569d18ee5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/49/51/e9/4951e9d774e0365ff814c3b569d18ee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Turtles">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/31/c2/02/31c202973eccf700c39fa6903ecb646f.jpg' alt='Sea Turtles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/31/c2/02/31c202973eccf700c39fa6903ecb646f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Turtle on the Bottom of the Sea · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/17450728/pexels-photo-17450728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Sea Turtle on the Bottom of the Sea · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/17450728/pexels-photo-17450728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turtle Lockscreen Iphone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5b/db/ae/5bdbae32cebbbb7ddd7e2f254b657860.jpg' alt='Turtle Lockscreen Iphone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5b/db/ae/5bdbae32cebbbb7ddd7e2f254b657860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea turtle Wallpaper (Marine ecosystem, Ocean wildlife) #26469">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/sea-turtle-720x1280-marine-ecosystem-underwater-world-26469.jpg' alt='Sea turtle Wallpaper (Marine ecosystem, Ocean wildlife) #26469'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/sea-turtle-720x1280-marine-ecosystem-underwater-world-26469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turtle Phone Wallpaper, iPhone and Android, Lock Screen, 4 Images ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38314142/r/il/ac12b6/5470029362/il_fullxfull.5470029362_b44j.jpg' alt='Turtle Phone Wallpaper, iPhone and Android, Lock Screen, 4 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38314142/r/il/ac12b6/5470029362/il_fullxfull.5470029362_b44j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Turtle Galaxy Wallpaper #androidwallpaper #iphonewallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/a1/4a/84a14a520eef4b0275bc6e088f240943.jpg' alt='Sea Turtle Galaxy Wallpaper #androidwallpaper #iphonewallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/a1/4a/84a14a520eef4b0275bc6e088f240943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sea Turtle Purple iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sea-turtle-iphone-q3i9u36tshz0cu1g.jpg' alt='Download Sea Turtle Purple iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sea-turtle-iphone-q3i9u36tshz0cu1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea turtle Wallpaper (Marine ecosystem, Ocean habitat) #26475">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/sea-turtle-1440x2560-marine-ecosystem-underwater-life-26475.jpg' alt='Sea turtle Wallpaper (Marine ecosystem, Ocean habitat) #26475'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/sea-turtle-1440x2560-marine-ecosystem-underwater-life-26475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

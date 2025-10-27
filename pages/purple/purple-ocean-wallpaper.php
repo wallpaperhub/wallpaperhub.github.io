@@ -1,0 +1,129 @@
+<title>Purple Ocean Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of purple ocean wallpaper that brings a wave of tranquility to your interiors. Ideal for any room, its serene design enriches your decor, providing an escape into nature. Perfect for accent walls or complete transformations, this wallpaper is a must-see for style enthusiasts.">
+                    <meta name="keywords" content="purple ocean wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-ocean-wallpaper">
+                            <span itemprop="name">purple ocean wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Ocean Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with stunning purple ocean wallpaper. This vibrant design brings the calming essence of the sea into your home, featuring deep hues of lavender and ocean blue that evoke tranquility. Perfect for accent walls or entire rooms, it elevates your decor and creates a serene atmosphere. Make every day feel like a seaside escape!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Purple Ocean Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533371452382-d45a9da51ad9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwb2NlYW58ZW58MHx8MHx8fDA%3D' alt='50,000+ Purple Ocean Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533371452382-d45a9da51ad9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwb2NlYW58ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ocean" Images – Browse 247 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/42/99/31/360_F_1142993124_aJQGFFnI8HYS8evLGLoxpBPyQaRwnT3o.jpg' alt='Purple Ocean" Images – Browse 247 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/42/99/31/360_F_1142993124_aJQGFFnI8HYS8evLGLoxpBPyQaRwnT3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ocean wallpaper by NerdyDragon101 - Download on ZEDGE™ | 64f7">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/ed/ac/45edac0503dc4a620206f75859ec8468.jpg' alt='Purple Ocean wallpaper by NerdyDragon101 - Download on ZEDGE™ | 64f7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/ed/ac/45edac0503dc4a620206f75859ec8468.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ocean Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/635/561/non_2x/colorful-romantic-sunset-sky-in-summer-twilight-photo.jpg' alt='Purple Ocean Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/635/561/non_2x/colorful-romantic-sunset-sky-in-summer-twilight-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ocean Sunset: HD Wallpaper of Nature's Serenity">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/680/680667.jpg' alt='Purple Ocean Sunset: HD Wallpaper of Nature's Serenity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/680/680667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Purple Sky Ocean 06">
+                                <img itemprop="contentUrl url" src='https://www.ajwallpaper.com/cdn/shop/products/314_00e13d89-4a77-4f3f-9459-23853213a092.jpg?v=1575937133' alt='3D Purple Sky Ocean 06'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AJ Wallpaper" />
+                                </span>
+                                <a href='https://www.ajwallpaper.com/cdn/shop/products/314_00e13d89-4a77-4f3f-9459-23853213a092.jpg?v=1575937133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ocean Images – Browse 417,448 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/99/28/14/360_F_899281452_xJRlVAtU88RsET7Y90VtXD1sXv1IdXMS.jpg' alt='Purple Ocean Images – Browse 417,448 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/99/28/14/360_F_899281452_xJRlVAtU88RsET7Y90VtXD1sXv1IdXMS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Purple Ocean Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511113897571-447d6bc7b6b1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHB1cnBsZSUyMG9jZWFufGVufDB8fDB8fHww' alt='50,000+ Purple Ocean Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511113897571-447d6bc7b6b1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHB1cnBsZSUyMG9jZWFufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender beach wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/7e/3d/4a7e3d8ce0084328c922d4b34730e9c5.jpg' alt='Lavender beach wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/7e/3d/4a7e3d8ce0084328c922d4b34730e9c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Horizon Purple Sea Ocean Beach Nature Sunset HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/727/727287.jpg' alt='Download Horizon Purple Sea Ocean Beach Nature Sunset HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/727/727287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

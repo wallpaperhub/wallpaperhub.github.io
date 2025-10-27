@@ -1,0 +1,129 @@
+<title>Pet Simulator 99: A Virtual Adventure Awaits</title>
+                    <meta name="description" content="Explore the charming world of Pet Simulator 99, where you can adopt, nurture, and grow your collection of unique pets. With engaging gameplay and stunning visuals, this simulator promises endless fun for players of all ages. Join the adventure and create unforgettable moments with adorable pets today!">
+                    <meta name="keywords" content="pet simulator 99 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pet-simulator-99-background">
+                            <span itemprop="name">pet simulator 99 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pet Simulator 99: A Virtual Adventure Awaits</h1>
+                <p>Pet Simulator 99 offers an exciting virtual experience where players care for a variety of adorable pets. Dive into a vibrant world filled with colorful landscapes, engaging challenges, and delightful interactions. Build your dream pet collection, explore new realms, and make lasting memories with your furry companions in this captivating simulator.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 - First Update!">
+                                <img itemprop="contentUrl url" src='https://bigblog-storage.s3.us-east-1.amazonaws.com/xmat_V_Lv_N_60d162cb4a.png' alt='Pet Simulator 99 - First Update!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games" />
+                                </span>
+                                <a href='https://bigblog-storage.s3.us-east-1.amazonaws.com/xmat_V_Lv_N_60d162cb4a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 - Backrooms Event!">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/b4f3eb329b52b3eb90185b651867471b/768/432/Image/Png' alt='Pet Simulator 99 - Backrooms Event!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/b4f3eb329b52b3eb90185b651867471b/768/432/Image/Png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 - Tech World!">
+                                <img itemprop="contentUrl url" src='https://bigblog-storage.s3.us-east-1.amazonaws.com/3_83a8b6c942.png' alt='Pet Simulator 99 - Tech World!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games" />
+                                </span>
+                                <a href='https://bigblog-storage.s3.us-east-1.amazonaws.com/3_83a8b6c942.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 | BIG Games Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bigames/images/2/22/PS99Icon.png/revision/latest?cb=20240128052720' alt='Pet Simulator 99 | BIG Games Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bigames/images/2/22/PS99Icon.png/revision/latest?cb=20240128052720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamien в X: „Just a small taste of the World of #PetSimulator99 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GAR-6FTbcAEfE2g?format=jpg&name=4096x4096' alt='Jamien в X: „Just a small taste of the World of #PetSimulator99 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GAR-6FTbcAEfE2g?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14267704.png' alt='Pet Simulator 99 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14267704.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 - Prison Update!">
+                                <img itemprop="contentUrl url" src='https://bigblog-storage.s3.us-east-1.amazonaws.com/ps99_prison_map_12801337e5.png' alt='Pet Simulator 99 - Prison Update!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games" />
+                                </span>
+                                <a href='https://bigblog-storage.s3.us-east-1.amazonaws.com/ps99_prison_map_12801337e5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Enchant Ranked In Pet Simulator 99 - Roblox">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/12/roblox-ps99-vending-machine.jpg' alt='Every Enchant Ranked In Pet Simulator 99 - Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/12/roblox-ps99-vending-machine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Simulator 99 - Color War Event!">
+                                <img itemprop="contentUrl url" src='https://bigblog-storage.s3.us-east-1.amazonaws.com/thumbnail_PS_99_paintcat_d8700aaae8.png' alt='Pet Simulator 99 - Color War Event!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Games" />
+                                </span>
+                                <a href='https://bigblog-storage.s3.us-east-1.amazonaws.com/thumbnail_PS_99_paintcat_d8700aaae8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Castle (Pet Simulator 99) | Pet Simulator Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pet-simulator/images/1/1f/Castle.png/revision/latest?cb=20231205120126' alt='The Castle (Pet Simulator 99) | Pet Simulator Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pet Simulator Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pet-simulator/images/1/1f/Castle.png/revision/latest?cb=20231205120126' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

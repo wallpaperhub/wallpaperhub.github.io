@@ -1,0 +1,129 @@
+<title>Do Unfounded CPS Cases Impact Your Record?</title>
+                    <meta name="description" content="Discover the truth about unfounded CPS cases and their impact on your record. Learn how these cases are handled and what steps to take if you've been involved in one. Stay informed to protect your rights and future opportunities.">
+                    <meta name="keywords" content="does an unfounded cps case stay on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-an-unfounded-cps-case-stay-on-your-record">
+                            <span itemprop="name">does an unfounded cps case stay on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Unfounded CPS Cases Impact Your Record?</h1>
+                <p>An unfounded Child Protective Services (CPS) case typically does not result in a permanent record on your criminal history. However, it may still be accessible in certain situations, such as during background checks for employment or custody hearings. It's essential to understand your rights and seek legal advice for the best course of action.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a CPS Case Stay on Your Record? (Trick to See Yours)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/10/How-Long-Does-A-CPS-Case-Stay-On-Your-Record.png' alt='How Long Does a CPS Case Stay on Your Record? (Trick to See Yours)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/10/How-Long-Does-A-CPS-Case-Stay-On-Your-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California “Child Welfare” Investigations 101 | ACLU of Southern ...">
+                                <img itemprop="contentUrl url" src='https://www.aclusocal.org/sites/default/files/styles/content_area_full_width/public/wysiwyg/cps_investigations_flowchart.png?itok=unXgzj2N' alt='California “Child Welfare” Investigations 101 | ACLU of Southern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACLU of Southern California" />
+                                </span>
+                                <a href='https://www.aclusocal.org/sites/default/files/styles/content_area_full_width/public/wysiwyg/cps_investigations_flowchart.png?itok=unXgzj2N' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Cps Cases Show Up On Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/6.jpg' alt='Do Cps Cases Show Up On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do CPS Cases Work in California? Important Information 2024">
+                                <img itemprop="contentUrl url" src='https://alltriallawyers.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-10.37.25-PM-1024x513.png' alt='How Do CPS Cases Work in California? Important Information 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trial Lawyers" />
+                                </span>
+                                <a href='https://alltriallawyers.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-10.37.25-PM-1024x513.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NCCPR Child Welfare Blog: Mandatory child abuse reporting laws: An ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtghD8lnF9WHkjMAXLW0cVRwdc8oneko6hxEwJeHghzajW96wm3MIDbNUpGSUrR5VTOghP8JOgK-YPsBvuSqIevCes8U6XExGmWqWsIUR6kIVtBMCZTpXQdfqqqceY62HDwXK8eJiT6p2e/s1600/Dentistletter.jpg' alt='NCCPR Child Welfare Blog: Mandatory child abuse reporting laws: An ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NCCPR Child Welfare Blog" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtghD8lnF9WHkjMAXLW0cVRwdc8oneko6hxEwJeHghzajW96wm3MIDbNUpGSUrR5VTOghP8JOgK-YPsBvuSqIevCes8U6XExGmWqWsIUR6kIVtBMCZTpXQdfqqqceY62HDwXK8eJiT6p2e/s1600/Dentistletter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expungement of CPS Records | Proto, Sachs & Brown, LLP">
+                                <img itemprop="contentUrl url" src='https://www.psbnylaw.com/cms/thumbnails/00/540x303/images/blog/pexels-andrea-piacquadio-3772618.2105031029550.jpg' alt='Expungement of CPS Records | Proto, Sachs & Brown, LLP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Proto, Sachs & Brown, LLP" />
+                                </span>
+                                <a href='https://www.psbnylaw.com/cms/thumbnails/00/540x303/images/blog/pexels-andrea-piacquadio-3772618.2105031029550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GO TO ACSATTORNEY.COM #reallawtalk #cpscorruption #acs | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7455727517995945259&location=0&aid=1988' alt='GO TO ACSATTORNEY.COM #reallawtalk #cpscorruption #acs | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7455727517995945259&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CPS Case Laws: How long does a CPS (Child Protective Services ...">
+                                <img itemprop="contentUrl url" src='https://k4z5v7a7.rocketcdn.me/wp-content/uploads/2022/01/Child-Support.jpg' alt='CPS Case Laws: How long does a CPS (Child Protective Services ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recording Law" />
+                                </span>
+                                <a href='https://k4z5v7a7.rocketcdn.me/wp-content/uploads/2022/01/Child-Support.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Rights When CPS Comes to My House | Comprehensive Guide">
+                                <img itemprop="contentUrl url" src='https://www.bryanfagan.com/wp-content/uploads/2024/01/What-are-my-rights-when-CPS-comes-to-my-House.webp' alt='My Rights When CPS Comes to My House | Comprehensive Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office of Bryan Fagan" />
+                                </span>
+                                <a href='https://www.bryanfagan.com/wp-content/uploads/2024/01/What-are-my-rights-when-CPS-comes-to-my-House.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to New York's Child Protective Services System">
+                                <img itemprop="contentUrl url" src='https://www.nyassembly.gov/comm/Children/20011016/flowch1.jpg' alt='A Guide to New York's Child Protective Services System'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York State Assembly" />
+                                </span>
+                                <a href='https://www.nyassembly.gov/comm/Children/20011016/flowch1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

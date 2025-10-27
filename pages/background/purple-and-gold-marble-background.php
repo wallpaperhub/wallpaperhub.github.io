@@ -1,0 +1,129 @@
+<title>Stunning Purple and Gold Marble Backgrounds</title>
+                    <meta name="description" content="Elevate your visuals with our stunning purple and gold marble backgrounds. Perfect for websites and social media, these luxurious designs blend elegance and creativity to transform any digital project. Discover the ideal backdrop to showcase your style today!">
+                    <meta name="keywords" content="purple and gold marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-and-gold-marble-background">
+                            <span itemprop="name">purple and gold marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple and Gold Marble Backgrounds</h1>
+                <p>Discover the beauty of a purple and gold marble background, where elegant swirls of rich purple coexist with stunning gold veins. This luxurious design adds a touch of sophistication and creativity to any digital project, making it perfect for website backdrops, social media posts, or as a phone wallpaper. Transform your space with upscale aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Gold Marble Images – Browse 77,889 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/67/47/86/360_F_467478656_rsPfmWmrAuUEtfU8rrG4mZl3nVrq6uNl.jpg' alt='Purple And Gold Marble Images – Browse 77,889 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/67/47/86/360_F_467478656_rsPfmWmrAuUEtfU8rrG4mZl3nVrq6uNl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Purple Marble Gold Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/124Marbre-violet-et-or.webp?v=1657614734' alt='Luxurious Purple Marble Gold Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/124Marbre-violet-et-or.webp?v=1657614734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Purple And Gold Marble Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' alt='3,900+ Purple And Gold Marble Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Marble Images – Browse 1,037,846 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/32/78/37/360_F_932783721_XQG5sgDdQgpoZCpHaRjP9A4LAHtue4b4.jpg' alt='Gold Marble Images – Browse 1,037,846 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/32/78/37/360_F_932783721_XQG5sgDdQgpoZCpHaRjP9A4LAHtue4b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Purple Gold Marble Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_32288613-4c64-4dfa-81a6-90a43b200d55.jpg?v=1710130438' alt='Luxurious Purple Gold Marble Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_32288613-4c64-4dfa-81a6-90a43b200d55.jpg?v=1710130438' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple and gold marble background with golden ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-gold-marble-background-with-golden-veins-running-through-purple-marble_1127023-2943.jpg?w=360' alt='Premium Photo | Purple and gold marble background with golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-gold-marble-background-with-golden-veins-running-through-purple-marble_1127023-2943.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Agate Gold Glitter Glam #1 Faux Glitter #decor #art by Anitas  and Bellas Art">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/purple-marble-agate-gold-glitter-glam-1-faux-glitter-decor-art-anitas-and-bellas-art.jpg' alt='Purple Marble Agate Gold Glitter Glam #1 Faux Glitter #decor #art by Anitas  and Bellas Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anita Bella Jantz - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/purple-marble-agate-gold-glitter-glam-1-faux-glitter-decor-art-anitas-and-bellas-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Purple Gold Marble Wallpaper Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_d9842206-484b-4146-b541-305e6b7c831b.jpg?v=1665558641' alt='Luxurious Purple Gold Marble Wallpaper Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_d9842206-484b-4146-b541-305e6b7c831b.jpg?v=1665558641' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Purple And Gold Marble Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1327146127/vector/gradient-rose-violet-liquid-marble-or-watercolor-background-with-glitter-foil-textured.jpg?s=612x612&w=0&k=20&c=qiJP57NWL58x2Dw0gCB3AgIcLn16biZKfqclxfGHi1s=' alt='3,900+ Purple And Gold Marble Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1327146127/vector/gradient-rose-violet-liquid-marble-or-watercolor-background-with-glitter-foil-textured.jpg?s=612x612&w=0&k=20&c=qiJP57NWL58x2Dw0gCB3AgIcLn16biZKfqclxfGHi1s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Purple Gold Marble Wallpaper">
+                                <img itemprop="contentUrl url" src='https://maiahomes.com/cdn/shop/products/abstract-purple-gold-marble-wallpaper-maia-homes-2.jpg?v=1739968133' alt='Abstract Purple Gold Marble Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1264">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maia Homes" />
+                                </span>
+                                <a href='https://maiahomes.com/cdn/shop/products/abstract-purple-gold-marble-wallpaper-maia-homes-2.jpg?v=1739968133' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

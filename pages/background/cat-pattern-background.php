@@ -1,0 +1,129 @@
+<title>Purrfect Cat Pattern Backgrounds for Every Space</title>
+                    <meta name="description" content="Discover unique cat pattern backgrounds that celebrate your love for our feline friends! Perfect for wallpapers, crafts, and home decor, these designs bring charm and warmth. Explore various styles that fit your aesthetic and show off your passion for cats in any setting.">
+                    <meta name="keywords" content="cat pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cat-pattern-background">
+                            <span itemprop="name">cat pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purrfect Cat Pattern Backgrounds for Every Space</h1>
+                <p>Cat pattern backgrounds are a delightful way to showcase your love for felines. These charming designs can feature various cat breeds, playful kittens, or whimsical silhouettes. Whether for wallpapers, fabrics, or digital art, a cat-themed backdrop adds personality and warmth to any space, perfect for cat enthusiasts and designers alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repeating Cat Pattern for Backgrounds — Lucy Knisley">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/542c0343e4b0ecfba8ea01d5/1593084940861-568N0259EK7D0OMVTBL8/Screen+Shot+2020-06-25+at+7.34.09+AM.png?format=1000w' alt='Repeating Cat Pattern for Backgrounds — Lucy Knisley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucy Knisley" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/542c0343e4b0ecfba8ea01d5/1593084940861-568N0259EK7D0OMVTBL8/Screen+Shot+2020-06-25+at+7.34.09+AM.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seamless cat pattern. cat background, texture, pattern, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BTT5W3/seamless-cat-pattern-cat-background-texture-pattern-wallpaper-textile-2BTT5W3.jpg' alt='seamless cat pattern. cat background, texture, pattern, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1267">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BTT5W3/seamless-cat-pattern-cat-background-texture-pattern-wallpaper-textile-2BTT5W3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repeating Blue Cats Pattern For Backgrounds — Lucy Knisley">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/542c0343e4b0ecfba8ea01d5/1593085036473-RXLZXI4BXBFP5EM9U7TN/Screen+Shot+2020-06-25+at+7.34.29+AM.png?format=1000w' alt='Repeating Blue Cats Pattern For Backgrounds — Lucy Knisley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucy Knisley" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/542c0343e4b0ecfba8ea01d5/1593085036473-RXLZXI4BXBFP5EM9U7TN/Screen+Shot+2020-06-25+at+7.34.29+AM.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Palette">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/4f/1f/bf4f1f7ff1bbf4ab3d8fe8ecf5f67303.jpg' alt='Pattern Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/4f/1f/bf4f1f7ff1bbf4ab3d8fe8ecf5f67303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="342,992 Cat Design Pattern Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-black-cat-face-big-600nw-2305297839.jpg' alt='342,992 Cat Design Pattern Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-black-cat-face-big-600nw-2305297839.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Pattern Images – Browse 607,291 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/49/06/06/360_F_149060624_65brtN946O76JahJrbqukA9tpCD33MTz.jpg' alt='Cat Pattern Images – Browse 607,291 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/49/06/06/360_F_149060624_65brtN946O76JahJrbqukA9tpCD33MTz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/890/188/small/set-silhouettes-of-the-cat-different-poses-standing-jumping-and-sitting-black-and-white-cat-seamless-pattern-on-black-background-graphic-design-for-decorating-wallpaper-fabric-and-etc-free-vector.jpg' alt='Cat Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/890/188/small/set-silhouettes-of-the-cat-different-poses-standing-jumping-and-sitting-black-and-white-cat-seamless-pattern-on-black-background-graphic-design-for-decorating-wallpaper-fabric-and-etc-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute Cats Pattern Background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-cats-pattern-background_35322-323.jpg' alt='Premium Vector | Cute Cats Pattern Background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-cats-pattern-background_35322-323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Seamless cute cats pattern. Vector background with watercolor cat  heads">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/download(s3:700/FO/13/86/92/91/1/700_FO138692911_087ac100a2937e2dcf7272d9350a33bd.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-seamless-cute-cats-pattern-vector-background-with-watercolor-cat-heads.jpg.jpg' alt='Wallpaper Seamless cute cats pattern. Vector background with watercolor cat  heads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/download(s3:700/FO/13/86/92/91/1/700_FO138692911_087ac100a2937e2dcf7272d9350a33bd.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-seamless-cute-cats-pattern-vector-background-with-watercolor-cat-heads.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Cat Pattern With Purple Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cat-pattern-f52pyd5y7y9wk46z.jpg' alt='Download Cute Cat Pattern With Purple Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cat-pattern-f52pyd5y7y9wk46z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

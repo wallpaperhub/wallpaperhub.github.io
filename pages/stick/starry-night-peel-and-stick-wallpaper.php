@@ -1,0 +1,129 @@
+<title>Starry Night Peel and Stick Wallpaper: A Celestial Dream!</title>
+                    <meta name="description" content="Create a captivating ambiance with Starry Night peel and stick wallpaper. Perfect for bedrooms or living spaces, it offers an easy, removable solution to elevate your decor. Enjoy the beauty of star-filled skies in your home effortlessly. Redefine your space today!">
+                    <meta name="keywords" content="starry night peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/starry-night-peel-and-stick-wallpaper">
+                            <span itemprop="name">starry night peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Starry Night Peel and Stick Wallpaper: A Celestial Dream!</h1>
+                <p>Transform your space with the enchanting Starry Night peel and stick wallpaper. This stunning design captures the beauty of a night sky filled with swirling stars and hues of blue and yellow. Easy to apply and remove, it’s perfect for renters or anyone wanting to refresh their decor without commitment. Create a dreamy atmosphere today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Peel and Stick Wallpaper, Navy Blue Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/ace212/5646438718/il_fullxfull.5646438718_mc9w.jpg' alt='Starry Night Peel and Stick Wallpaper, Navy Blue Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/ace212/5646438718/il_fullxfull.5646438718_mc9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Myphotostation Starry Night Peel and Stick Wallpaper Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1HJgEm92qL._AC_UF894,1000_QL80_.jpg' alt='Myphotostation Starry Night Peel and Stick Wallpaper Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1HJgEm92qL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Peel and Stick Wallpaper Removable Self Adhesive Galaxy  Wallpaper 17.7 x 118.1 Inches">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81K3h4ONHRL._AC_UF894,1000_QL80_.jpg' alt='Starry Night Peel and Stick Wallpaper Removable Self Adhesive Galaxy  Wallpaper 17.7 x 118.1 Inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81K3h4ONHRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Starry Sky Wallpaper, Self Adhesive, Peel and Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/172537/2251072897/il_fullxfull.2251072897_e411.jpg' alt='Dark Blue Starry Sky Wallpaper, Self Adhesive, Peel and Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/172537/2251072897/il_fullxfull.2251072897_e411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable wallpaper starry night peel and stick space wall mural">
+                                <img itemprop="contentUrl url" src='https://www.scandihomedeco.com/cdn/shop/products/removable-wallpaper-starry-night-peel-and-stick-space-wall-muralwp439-908636.jpg?v=1696706416&width=576' alt='Removable wallpaper starry night peel and stick space wall mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='https://www.scandihomedeco.com/cdn/shop/products/removable-wallpaper-starry-night-peel-and-stick-space-wall-muralwp439-908636.jpg?v=1696706416&width=576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Wallpaper - Black Nursery Mural - Dark Clouds and Golden Stars  Wallpaper - Peel and Stick Black Starry Mural - Custom Size">
+                                <img itemprop="contentUrl url" src='http://chicandkiddo.com/cdn/shop/files/5-KW026-black-sky-with-gold-stars-peel-and-stick-mural.jpg?v=1698847267&width=2048' alt='Starry Night Wallpaper - Black Nursery Mural - Dark Clouds and Golden Stars  Wallpaper - Peel and Stick Black Starry Mural - Custom Size'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='http://chicandkiddo.com/cdn/shop/files/5-KW026-black-sky-with-gold-stars-peel-and-stick-mural.jpg?v=1698847267&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Starry Night Painting Wallpaper Self-Adhesive Wall Art Mural Decal  M247">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/4hwAAOSwXTBkdwWd/s-l1200.jpg' alt='Van Gogh Starry Night Painting Wallpaper Self-Adhesive Wall Art Mural Decal  M247'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/4hwAAOSwXTBkdwWd/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Starry Night Peel and Stick Wallpaper, Navy Blue Space ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53183650/r/il/ee4a3e/6126742463/il_570xN.6126742463_lukn.jpg' alt='Dark Starry Night Peel and Stick Wallpaper, Navy Blue Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53183650/r/il/ee4a3e/6126742463/il_570xN.6126742463_lukn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Peel and Stick Wallpaper, Stars, Night Sky, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11768524/r/il/628d72/4795248828/il_570xN.4795248828_a7nb.jpg' alt='Starry Night Peel and Stick Wallpaper, Stars, Night Sky, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11768524/r/il/628d72/4795248828/il_570xN.4795248828_a7nb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Sky Pattern Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/Goldonblackstarrypattern2.jpg?v=1739232269&width=1500' alt='Starry Sky Pattern Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/Goldonblackstarrypattern2.jpg?v=1739232269&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

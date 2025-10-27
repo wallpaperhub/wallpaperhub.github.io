@@ -1,0 +1,129 @@
+<title>Stunning Aura Gradient Designs for Impactful Visuals</title>
+                    <meta name="description" content="Discover the magic of aura gradients! Enhance your designs with smooth, captivating color blends that evoke emotion and add depth. Perfect for digital art and branding, these gradients create a contemporary flair that captivates and engages. Transform your visuals today!">
+                    <meta name="keywords" content="aura gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aura-gradient">
+                            <span itemprop="name">aura gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aura Gradient Designs for Impactful Visuals</h1>
+                <p>Aura gradients are captivating visual effects that blend colors smoothly, creating a sense of depth and harmony. This gradient technique enhances designs, providing a dynamic and ethereal quality. Commonly used in digital art and branding, aura gradients evoke emotions and add a contemporary flair, making any piece visually compelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura – Gradient Cover Photo Pack | Gridfiti">
+                                <img itemprop="contentUrl url" src='https://shop.gridfiti.com/cdn/shop/products/Gridfiti_NotionCovers_Aura_ProductPic_v02_1200x1200.jpg?v=1633375495' alt='Aura – Gradient Cover Photo Pack | Gridfiti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gridfiti Shop" />
+                                </span>
+                                <a href='https://shop.gridfiti.com/cdn/shop/products/Gridfiti_NotionCovers_Aura_ProductPic_v02_1200x1200.jpg?v=1633375495' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Gradient: Over 149,559 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/aesthetic-y2k-grain-gradient-background-600nw-2479841565.jpg' alt='Aura Gradient: Over 149,559 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/aesthetic-y2k-grain-gradient-background-600nw-2479841565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Gradient Aesthetic | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3815483714.5457/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Aura Gradient Aesthetic | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3815483714.5457/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura gradient color background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7b/13/43/7b1343dad72f22ebbcd99d0f6bd678c8.jpg' alt='aura gradient color background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="451">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7b/13/43/7b1343dad72f22ebbcd99d0f6bd678c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="color gradient aura">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/d2/d8/42d2d88ae687aafa4208da6dfd1b1cdf.jpg' alt='color gradient aura'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/d2/d8/42d2d88ae687aafa4208da6dfd1b1cdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Wallpaper for 2 Hours | Pink Orange Aura | 4K">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f2ZEs-ZSPvI/maxresdefault.jpg' alt='Gradient Wallpaper for 2 Hours | Pink Orange Aura | 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f2ZEs-ZSPvI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Aura Gradient Aesthetic Print | Trendy Art Poster | Digital Download  | Aura Poster | Manifest | Wall Art Print | Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32335375/r/il/85ee7d/4585444723/il_570xN.4585444723_fwsi.jpg' alt='Orange Aura Gradient Aesthetic Print | Trendy Art Poster | Digital Download  | Aura Poster | Manifest | Wall Art Print | Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32335375/r/il/85ee7d/4585444723/il_570xN.4585444723_fwsi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Radial Gradient Aura Painting · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/03/26/Radial-Gradient-Aura-Painting-65336130-1.png' alt='Radial Gradient Aura Painting · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/03/26/Radial-Gradient-Aura-Painting-65336130-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Gradient Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3JtNTk5LWJhY2tncm91bmQtMDFiLmpwZw.jpg' alt='Aura Gradient Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3JtNTk5LWJhY2tncm91bmQtMDFiLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Wallpaper for 1 Hour | Mix Colors | Blue Pink Gradient">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TKFEAu8_mg4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVyhlMA8=&rs=AOn4CLBg8dU38hh17yRbLoydTR-sdl16Bg' alt='Aura Wallpaper for 1 Hour | Mix Colors | Blue Pink Gradient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TKFEAu8_mg4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVyhlMA8=&rs=AOn4CLBg8dU38hh17yRbLoydTR-sdl16Bg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

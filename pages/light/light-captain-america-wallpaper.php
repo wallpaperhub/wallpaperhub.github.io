@@ -1,0 +1,129 @@
+<title>Light Captain America Wallpaper: Heroic Designs for Your Device</title>
+                    <meta name="description" content="Discover vibrant light Captain America wallpapers to elevate your devices! Perfect for fans, these stunning designs bring the spirit of your favorite hero to life. Download now for a fresh, dynamic look that embodies the essence of Captain America!">
+                    <meta name="keywords" content="light captain america wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-captain-america-wallpaper">
+                            <span itemprop="name">light captain america wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Captain America Wallpaper: Heroic Designs for Your Device</h1>
+                <p>Transform your screens with stunning light Captain America wallpapers! Featuring vibrant colors and iconic imagery, these designs showcase the heroic spirit of Cap like never before. Perfect for fans and collectors alike, these wallpapers will bring a touch of superhero energy to your devices. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America with shield, blue neon lights, superheroes, Marvel ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/835/621/HD-wallpaper-captain-america-with-shield-blue-neon-lights-superheroes-marvel-comics-captain-america-steven-rogers-captain-america-cartoon-captain-america.jpg' alt='Captain America with shield, blue neon lights, superheroes, Marvel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/835/621/HD-wallpaper-captain-america-with-shield-blue-neon-lights-superheroes-marvel-comics-captain-america-steven-rogers-captain-america-cartoon-captain-america.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America, neon, shield, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/930/575/HD-wallpaper-captain-america-neon-shield.jpg' alt='Captain America, neon, shield, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/930/575/HD-wallpaper-captain-america-neon-shield.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Shield Iphone Mjolnir Lightning Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/captain-america-shield-iphone-mjolnir-lightning-1kojzc8gfhgbe2lt.jpg' alt='Captain America Shield Iphone Mjolnir Lightning Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/captain-america-shield-iphone-mjolnir-lightning-1kojzc8gfhgbe2lt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Best Captain America Lightning Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-captain-america-y74bmaanacy4qh29.jpg' alt='Download Best Captain America Lightning Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-captain-america-y74bmaanacy4qh29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Android Wallpaper by NikitaMonday on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/06/49/2f06495bfb2a0dafc14d8654afe37b14.jpg' alt='Captain America Android Wallpaper by NikitaMonday on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/06/49/2f06495bfb2a0dafc14d8654afe37b14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America, gray neon lights superheroes, Avengers Infinity ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/147/646/HD-wallpaper-captain-america-gray-neon-lights-superheroes-avengers-infinity-war-steven-rogers-captain-america-captain-america-infinity-war.jpg' alt='Captain America, gray neon lights superheroes, Avengers Infinity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/147/646/HD-wallpaper-captain-america-gray-neon-lights-superheroes-avengers-infinity-war-steven-rogers-captain-america-captain-america-infinity-war.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/f4/d8/03f4d89b35dd2f3c08db308e3889a153.jpg' alt='Cool wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/f4/d8/03f4d89b35dd2f3c08db308e3889a153.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decorative wall Led Lamp Marvel Captain Shield 3D Avengers wall light gift  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/0rEAAOSw829cl8Nd/s-l400.jpg' alt='Decorative wall Led Lamp Marvel Captain Shield 3D Avengers wall light gift  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/0rEAAOSw829cl8Nd/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Of Captain America Shield Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-lights-of-captain-america-shield-o4xbyibzx2z72hzx.jpg' alt='Neon Lights Of Captain America Shield Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-lights-of-captain-america-shield-o4xbyibzx2z72hzx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America, blue, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/332/908/HD-wallpaper-captain-america-blue.jpg' alt='Captain America, blue, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/332/908/HD-wallpaper-captain-america-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

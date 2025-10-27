@@ -1,0 +1,129 @@
+<title>Unveiling Facts About Stephen Curry: The 3-Point King</title>
+                    <meta name="description" content="Discover intriguing facts about Stephen Curry, the NBA's 3-point legend. Learn about his rise to fame, record-breaking achievements, and impact on basketball. Perfect for fans and newcomers alike! Stay tuned for stats that highlight his journey to becoming one of the greatest players of all time.">
+                    <meta name="keywords" content="facts about stephen curry">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-stephen-curry">
+                            <span itemprop="name">facts about stephen curry</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling Facts About Stephen Curry: The 3-Point King</h1>
+                <p>Stephen Curry, born March 14, 1988, in Akron, Ohio, is a professional basketball player for the Golden State Warriors. Known for revolutionizing the game with his exceptional three-point shooting, Curry has won three NBA championships and two MVP awards. He is also the all-time leader in three-pointers made in NBA history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Facts: Stephen Curry is one of the NBA's most unstoppable players">
+                                <img itemprop="contentUrl url" src='https://images.summitmedia-digital.com/sap/images/2018/04/24/spin-rexona-infographic.jpg' alt='5 Facts: Stephen Curry is one of the NBA's most unstoppable players'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spin.ph" />
+                                </span>
+                                <a href='https://images.summitmedia-digital.com/sap/images/2018/04/24/spin-rexona-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/21/233921-050-69BE4DB8/Stephen-Curry-Golden-State-Warriors-Dillon-Brooks-Memphis-Grizzlies-NBA-action-2022.jpg' alt='Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/21/233921-050-69BE4DB8/Stephen-Curry-Golden-State-Warriors-Dillon-Brooks-Memphis-Grizzlies-NBA-action-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry: Biography, NBA Legend, Golden State Warriors Guard">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/stephen-curry-gettyimages-1398745379.jpg' alt='Stephen Curry: Biography, NBA Legend, Golden State Warriors Guard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2135">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/stephen-curry-gettyimages-1398745379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/12/261212-050-9E757432/basketball-players-stephen-curry-of-united-states-and-guerschon-yabusele-of-france-during-mens-basketball-gold-medal-game-at-paris-summer-olympics-2024.jpg' alt='Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/12/261212-050-9E757432/basketball-players-stephen-curry-of-united-states-and-guerschon-yabusele-of-france-during-mens-basketball-gold-medal-game-at-paris-summer-olympics-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 facts that you might not know about Stephen Curry">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/3cc04d2ef14fa91700469abb79ac5856f7d99ffa/c=0-119-2025-1263/local/-/media/2016/03/14/USATODAY/USATODAY/635935568094311208-USATSI-8611213.jpg' alt='28 facts that you might not know about Stephen Curry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/3cc04d2ef14fa91700469abb79ac5856f7d99ffa/c=0-119-2025-1263/local/-/media/2016/03/14/USATODAY/USATODAY/635935568094311208-USATSI-8611213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry: Biography, NBA Legend, Golden State Warriors Guard">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/stephen-curry-of-the-golden-state-warriors-reacts-to-a-play-news-photo-1698171148.jpg' alt='Stephen Curry: Biography, NBA Legend, Golden State Warriors Guard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/stephen-curry-of-the-golden-state-warriors-reacts-to-a-play-news-photo-1698171148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/11/261211-050-F39207C3/american-basketball-player-stephen-curry-celebrates-winning-the-olympic-gold-medal-on-the-podium-after-match-with-france-paris-olympics-2024.jpg' alt='Stephen Curry | Height, Age, Wife, Stats, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/11/261211-050-F39207C3/american-basketball-player-stephen-curry-celebrates-winning-the-olympic-gold-medal-on-the-podium-after-match-with-france-paris-olympics-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Fun Facts about Steph Curry | by Paul Dughi | SportsRaid | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:640/0*PAKzpCDSxe40_Vxt.jpg' alt='30 Fun Facts about Steph Curry | by Paul Dughi | SportsRaid | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1109">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:640/0*PAKzpCDSxe40_Vxt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry: 20 Facts You Probably Didn't Know">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hkDSdenVdo4/maxresdefault.jpg' alt='Stephen Curry: 20 Facts You Probably Didn't Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hkDSdenVdo4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Facts About Stephen Curry">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IajAlz_AR1A/sddefault.jpg' alt='Top 10 Facts About Stephen Curry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IajAlz_AR1A/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

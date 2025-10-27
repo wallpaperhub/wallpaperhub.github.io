@@ -1,0 +1,129 @@
+<title>King Von Black and White Wallpaper: Bold Tribute for Hip-Hop Fans</title>
+                    <meta name="description" content="Discover stylish King Von black and white wallpaper, celebrating the iconic rapper’s legacy. Transform your space with this eye-catching design that's perfect for any hip-hop enthusiast. Shop now for a bold statement that combines art and culture in one exquisite wallpaper!">
+                    <meta name="keywords" content="king von black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/king-von-black-and-white-wallpaper">
+                            <span itemprop="name">king von black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>King Von Black and White Wallpaper: Bold Tribute for Hip-Hop Fans</h1>
+                <p>Elevate your space with King Von black and white wallpaper, a striking tribute to the legendary rapper. This unique design captures his essence, featuring bold contrasts and intricate details that reflect his powerful impact on hip-hop culture. Perfect for fans and home decor enthusiasts, it adds a stylish edge to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/a/4/2261692-1184x2048-iphone-hd-king-von-background-photo.jpg' alt='King Von Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/a/4/2261692-1184x2048-iphone-hd-king-von-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von Black And White Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/king-von-black-and-white-poster-xurbirfz0wc0s2hp.jpg' alt='King Von Black And White Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/king-von-black-and-white-poster-xurbirfz0wc0s2hp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download King Von posing confidently in a black and white setting ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/king-von-1280-x-1920-background-xbky55nepwy7n7gf.jpg' alt='Download King Von posing confidently in a black and white setting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/king-von-1280-x-1920-background-xbky55nepwy7n7gf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/857x1200/displate/2021-01-15/a951a384c090c6fd0359a18232da9268_132195c48fca67569d0c858acf0c6bd6.jpg' alt='King Von'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/857x1200/displate/2021-01-15/a951a384c090c6fd0359a18232da9268_132195c48fca67569d0c858acf0c6bd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/99/17/b699170b0fac769d7e5b718a3fe8b2b2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/99/17/b699170b0fac769d7e5b718a3fe8b2b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a1/28/9a/a1289a1fe77c367d0dbf6655be224796.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a1/28/9a/a1289a1fe77c367d0dbf6655be224796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von Rapper Black and White Wallpapers - Awesome Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/08/king-von-rapper-black-and-white-background.jpg' alt='King Von Rapper Black and White Wallpapers - Awesome Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/08/king-von-rapper-black-and-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/81/a6/8481a60152d79eecf4ef4b5f74728c10.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/81/a6/8481a60152d79eecf4ef4b5f74728c10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 King von ideas | vons, lil durk, king pic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/75/73/157573cee4547cd8fe30e3bff8d39f27.jpg' alt='170 King von ideas | vons, lil durk, king pic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="882">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/75/73/157573cee4547cd8fe30e3bff8d39f27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/857x1200/displate/2021-08-24/f0f451edda0ffc24f92a5dd4d3c8d827_e3519a013d3aa07b18b1ca1b98e5955a.jpg' alt='King Von'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/857x1200/displate/2021-08-24/f0f451edda0ffc24f92a5dd4d3c8d827_e3519a013d3aa07b18b1ca1b98e5955a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

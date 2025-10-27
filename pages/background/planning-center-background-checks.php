@@ -1,0 +1,129 @@
+<title>Essential Guide to Planning Center Background Checks</title>
+                    <meta name="description" content="Discover the importance of planning center background checks for safety and trust. Learn how effective screening processes can protect your organization by verifying individual histories and enhancing accountability. Optimize your hiring for a secure environment today!">
+                    <meta name="keywords" content="planning center background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/planning-center-background-checks">
+                            <span itemprop="name">planning center background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Planning Center Background Checks</h1>
+                <p>Planning center background checks are crucial for ensuring safety and trust within organizations. These checks help verify an individual's history, including criminal records and employment verification, thus maintaining a secure environment. Implementing thorough screening processes enhances accountability and streamlines organizational integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Your Church with Background Checks">
+                                <img itemprop="contentUrl url" src='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/order.png' alt='Secure Your Church with Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/order.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Your Church with Background Checks">
+                                <img itemprop="contentUrl url" src='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/services.png' alt='Secure Your Church with Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/services.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks.mp4">
+                                <img itemprop="contentUrl url" src='https://www.planningcenter.com/_next/image?url=https%3A%2F%2Fplanning-center-blog.ghost.io%2Fcontent%2Fimages%2F2024%2F04%2Fthumbnail1920x1080.png&w=2048&q=75' alt='Background Checks.mp4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://www.planningcenter.com/_next/image?url=https%3A%2F%2Fplanning-center-blog.ghost.io%2Fcontent%2Fimages%2F2024%2F04%2Fthumbnail1920x1080.png&w=2048&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order Background Checks | Planning Center Integrations">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1002845/1756x2106/c628e190ef/checkr-pricing.png' alt='Order Background Checks | Planning Center Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1756">
+                                <meta itemprop="height" content="2106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1002845/1756x2106/c628e190ef/checkr-pricing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Background Checks">
+                                <img itemprop="contentUrl url" src='http://planningcenterassets.s3.amazonaws.com/blog_images/2017/05-31-better-background-checks/overview.png' alt='Better Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='http://planningcenterassets.s3.amazonaws.com/blog_images/2017/05-31-better-background-checks/overview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Your Church with Background Checks">
+                                <img itemprop="contentUrl url" src='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/manual-entry.png' alt='Secure Your Church with Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://planningcenterassets.s3.amazonaws.com/blog_images/2017/02-23-background-checks/manual-entry.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Teams – Services">
+                                <img itemprop="contentUrl url" src='https://pcoservices.zendesk.com/hc/article_attachments/29157055153051' alt='Secure Teams – Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Services - Zendesk" />
+                                </span>
+                                <a href='https://pcoservices.zendesk.com/hc/article_attachments/29157055153051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planning Center / Checkr Integration User Guide">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002VHf&feoid=00NQr000002fF8Q&refid=0EMQr000009638D' alt='Planning Center / Checkr Integration User Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002VHf&feoid=00NQr000002fF8Q&refid=0EMQr000009638D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secure Teams – Services">
+                                <img itemprop="contentUrl url" src='https://pcoservices.zendesk.com/hc/article_attachments/29157095066779' alt='Secure Teams – Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1996">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Services - Zendesk" />
+                                </span>
+                                <a href='https://pcoservices.zendesk.com/hc/article_attachments/29157095066779' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planning Center Background Checks: A Guide for Churches">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61b903007d9f301da20c8d24/a3aae9de-61b1-4be5-a856-a6cfbd61a7c4/Screenshot+2023-12-13+at+11.01.36%E2%80%AFPM.png' alt='Planning Center Background Checks: A Guide for Churches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threefold Solutions" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61b903007d9f301da20c8d24/a3aae9de-61b1-4be5-a856-a6cfbd61a7c4/Screenshot+2023-12-13+at+11.01.36%E2%80%AFPM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

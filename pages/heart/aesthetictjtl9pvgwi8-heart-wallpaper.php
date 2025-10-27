@@ -1,0 +1,129 @@
+<title>Aesthetic Heart Wallpapers: Love Your Screens!</title>
+                    <meta name="description" content="Discover stunning aesthetic heart wallpapers that will elevate your device's look. Perfect for art lovers and those who crave a touch of romance, our collection features vibrant designs and soothing colors. Transform your screens and express your style with our unique heart-themed backgrounds!">
+                    <meta name="keywords" content="aesthetic:tjtl9pvgwi8= heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/aesthetictjtl9pvgwi8-heart-wallpaper">
+                            <span itemprop="name">aesthetic:tjtl9pvgwi8= heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Heart Wallpapers: Love Your Screens!</h1>
+                <p>Aesthetic heart wallpapers add a romantic and stylish touch to your digital devices. Featuring soft colors, artistic designs, and expressive patterns, these wallpapers transform ordinary screens into beautiful canvases. Perfect for anyone wanting to showcase their love for art, nature, or sweetness, these backgrounds inspire joy and positivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Aesthetic Phone Wallpaper Kit Multiheart Background Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33848372/r/il/752d6c/3637250407/il_fullxfull.3637250407_418x.jpg' alt='Heart Aesthetic Phone Wallpaper Kit Multiheart Background Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33848372/r/il/752d6c/3637250407/il_fullxfull.3637250407_418x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' alt='67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/77/e0/dc77e01307c8164ba4250e627cd02b70.jpg' alt='Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/77/e0/dc77e01307c8164ba4250e627cd02b70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/4a/f7/3e4af71209b3a5b828dce830ce21ad8a.jpg' alt='Heart Tunnel Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/4a/f7/3e4af71209b3a5b828dce830ce21ad8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Trend Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a2/b9/85/a2b9852c000c35f203390777ce638b7f.jpg' alt='Heart Trend Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a2/b9/85/a2b9852c000c35f203390777ce638b7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Hearts ideas | wall collage, heart wallpaper, aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7e/bf/e8/7ebfe8ca779b9cefa5f928dab9773f6d.jpg' alt='170 Hearts ideas | wall collage, heart wallpaper, aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7e/bf/e8/7ebfe8ca779b9cefa5f928dab9773f6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper [8a85e3fc5fe843319c74] by Wallpaper HD | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/bd7d4ef9192b056736f3f10ac206c420/Of8hPxv53027bTJaXjcQ.jpg?q=50&w=720' alt='Heart Wallpaper [8a85e3fc5fe843319c74] by Wallpaper HD | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/bd7d4ef9192b056736f3f10ac206c420/Of8hPxv53027bTJaXjcQ.jpg?q=50&w=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/b7/bd/3cb7bd3a90a9fe7442f9e43866d93e5d.jpg' alt='Aesthetic Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/b7/bd/3cb7bd3a90a9fe7442f9e43866d93e5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Heart Wallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7116290685182954794&location=0&aid=1988' alt='Aesthetic Heart Wallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7116290685182954794&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Heart Aesthetic Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7337265727738580256&location=0&aid=1988' alt='Love Heart Aesthetic Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7337265727738580256&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

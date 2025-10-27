@@ -1,0 +1,129 @@
+<title>Discover Royalty Free Jazz Music for Creative Projects</title>
+                    <meta name="description" content="Find the perfect royalty free jazz tracks to enhance your creative projects! Enjoy high-quality, diverse music without licensing headaches. Perfect for videos, podcasts, and more. Start creating today!">
+                    <meta name="keywords" content="royalty free jazz">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royalty-free-jazz">
+                            <span itemprop="name">royalty free jazz</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Royalty Free Jazz Music for Creative Projects</h1>
+                <p>Royalty free jazz music offers a vibrant and versatile backdrop for any project, from videos to podcasts. With a wide range of styles, from smooth and mellow to upbeat and lively, it's perfect for creators seeking high-quality audio without the hassle of licensing fees. Explore and elevate your content today with royalty free jazz!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Jazz Music | Royalty Free Music">
+                                <img itemprop="contentUrl url" src='https://f4.bcbits.com/img/a2880645961_10.jpg' alt='Royalty Free Jazz Music | Royalty Free Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royalty Free Music - Bandcamp" />
+                                </span>
+                                <a href='https://f4.bcbits.com/img/a2880645961_10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Copyright Free Jazz Music - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/e_ItIBfaqXA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6Q0LZfS0AigvnWb0wLAeiuj77fw' alt='   Copyright Free Jazz Music - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/e_ItIBfaqXA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6Q0LZfS0AigvnWb0wLAeiuj77fw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smoothness - 33 Royalty Free Jazz Instrumental Songs, NO COPYRIGHT ...">
+                                <img itemprop="contentUrl url" src='https://f4.bcbits.com/img/a2572516836_65' alt='Smoothness - 33 Royalty Free Jazz Instrumental Songs, NO COPYRIGHT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hari's Ambient Music & Nature Sounds, NO COPYRIGHT ROYALTY FREE ..." />
+                                </span>
+                                <a href='https://f4.bcbits.com/img/a2572516836_65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Jazz Music: 13 Tracks for Classy Videos - Motion Array">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2019/05/29225524/royalty-free-music-Jazz.jpg' alt='Royalty Free Jazz Music: 13 Tracks for Classy Videos - Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2019/05/29225524/royalty-free-music-Jazz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore 405+ Free Jazz Illustrations: Download Now - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/09/24/17/30/abstract-7476909_640.png' alt='Explore 405+ Free Jazz Illustrations: Download Now - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/09/24/17/30/abstract-7476909_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free Jazz Music Collection for Your Projects — LegisMusic">
+                                <img itemprop="contentUrl url" src='https://legismusic.com/_vercel/image?url=_astro%2Fjazz.BEA3e9T5.webp&w=640&q=100' alt='Royalty-Free Jazz Music Collection for Your Projects — LegisMusic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legis Music" />
+                                </span>
+                                <a href='https://legismusic.com/_vercel/image?url=_astro%2Fjazz.BEA3e9T5.webp&w=640&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Music: Jazz - Album by Royalty Free Music Maker | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273b706205aef85e0b7f88d7580' alt='Royalty Free Music: Jazz - Album by Royalty Free Music Maker | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273b706205aef85e0b7f88d7580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty free Jazz music">
+                                <img itemprop="contentUrl url" src='https://www.musicscreen.org/img/dummies/Jazz-Music.jpg' alt='Royalty free Jazz music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Music Screen" />
+                                </span>
+                                <a href='https://www.musicscreen.org/img/dummies/Jazz-Music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Jazz Background Music Downloads | FStudios">
+                                <img itemprop="contentUrl url" src='https://www.fesliyanstudios.com/tagpictures/20.jpg' alt='Royalty Free Jazz Background Music Downloads | FStudios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fesliyan Studios" />
+                                </span>
+                                <a href='https://www.fesliyanstudios.com/tagpictures/20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="royalty free jazz by Freesound Music, no copyright jazz for ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FtVtHMxtmdw/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDyTB57I1UDtfN4Z8PuJiXGsHF4OA' alt='royalty free jazz by Freesound Music, no copyright jazz for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FtVtHMxtmdw/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDyTB57I1UDtfN4Z8PuJiXGsHF4OA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Top Team Fortress 2 Phone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Discover an array of amazing Team Fortress 2 wallpapers for your phone. Customize your device with high-quality images of your favorite characters and scenes from the game. Perfect for every fan looking to showcase their passion for TF2. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="team fortress 2 wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/team-fortress-2-wallpaper-phone">
+                            <span itemprop="name">team fortress 2 wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Team Fortress 2 Phone Wallpapers: Download Now!</h1>
+                <p>Transform your phone's appearance with stunning Team Fortress 2 wallpapers! Featuring your favorite characters like Scout, Sniper, and Pyro, these vibrant images bring the game's unique art style to life on your screen. Download the perfect TF2 wallpaper now and show your love for this iconic game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys I made a cool tf2 mobile wallpaper(Actually I mixed 2 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kd6p9cndc7i31.jpg' alt='Hey guys I made a cool tf2 mobile wallpaper(Actually I mixed 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2172">
+                                <meta itemprop="height" content="3862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kd6p9cndc7i31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best TF2 Wallpapers For Your Phone And Desktop » Updated List">
+                                <img itemprop="contentUrl url" src='https://skinsmonkey.com/blog/wp-content/uploads/sites/2/tf2-mobile-wallpaper-5.jpg?_t=1667576222' alt='Best TF2 Wallpapers For Your Phone And Desktop » Updated List'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkinsMonkey" />
+                                </span>
+                                <a href='https://skinsmonkey.com/blog/wp-content/uploads/sites/2/tf2-mobile-wallpaper-5.jpg?_t=1667576222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Banner Design Iphone Xs Max Team Fortress 2 Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-xyffg4vq31kzwova.jpg' alt='Download Banner Design Iphone Xs Max Team Fortress 2 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-xyffg4vq31kzwova.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Xs Max Team Fortress 2 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-xs-max-team-fortress-2-background-5m2gbu0409axnem8.jpg' alt='100+] Iphone Xs Max Team Fortress 2 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-xs-max-team-fortress-2-background-5m2gbu0409axnem8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TF2 phone lock screen.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/b5/f4/bcb5f4dfbc452306692acce4ebd19136.jpg' alt='TF2 phone lock screen.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/b5/f4/bcb5f4dfbc452306692acce4ebd19136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a Team Fortress 2 wallpaper for y'all tf2 fans out there ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/udr8qbd4xro61.jpg' alt='Here is a Team Fortress 2 wallpaper for y'all tf2 fans out there ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/udr8qbd4xro61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Red Team Characters Iphone Xs Max Team Fortress 2 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-c7q81wuf1nnf0sdc.jpg' alt='Download Red Team Characters Iphone Xs Max Team Fortress 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-c7q81wuf1nnf0sdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tf2 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/271/HD-wallpaper-tf2-pyro.jpg' alt='HD tf2 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/271/HD-wallpaper-tf2-pyro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Team Fortress 2 iPhone Wallpaper. http://alliphone5cases.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/48/b5/61/48b5610635ee659990db489d8100b7db.jpg' alt='Team Fortress 2 iPhone Wallpaper. http://alliphone5cases.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/48/b5/61/48b5610635ee659990db489d8100b7db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TF2 Phone Wallpapers (Offense Classes) | Team Fortress 2 Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6681/36613e1f675cb9f90fdf0f84e0557432c9ae5daf_hq.jpg' alt='TF2 Phone Wallpapers (Offense Classes) | Team Fortress 2 Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6681/36613e1f675cb9f90fdf0f84e0557432c9ae5daf_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

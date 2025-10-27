@@ -1,0 +1,129 @@
+<title>Xenomorph Wallpaper: Dark Sci-Fi Art for Your Device</title>
+                    <meta name="description" content="Discover the ultimate xenomorph wallpaper collection, featuring stunning visuals from the Alien universe. Perfect for fans of sci-fi and horror, these wallpapers enhance your device's aesthetics with iconic imagery. Download now to give your screen a captivating and eerie vibe!">
+                    <meta name="keywords" content="xenomorph wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/xenomorph-wallpaper">
+                            <span itemprop="name">xenomorph wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Xenomorph Wallpaper: Dark Sci-Fi Art for Your Device</h1>
+                <p>Transform your device with stunning xenomorph wallpaper that brings the otherworldly and iconic creatures from the Alien franchise to life. Whether you're a fan of the horror-science fiction genre, or simply appreciate striking visuals, these wallpapers will enhance your screen with dark, gripping imagery that captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenomorph, alien, aliens, horror, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/a4/83/daa483ca0fede8fe5395fa547ee3c63a.jpg' alt='Xenomorph, alien, aliens, horror, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/a4/83/daa483ca0fede8fe5395fa547ee3c63a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien (Movie) Wallpapers (26 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/3/b/39271-2560x1600-desktop-hd-alien-movie-background-image.jpg' alt='Alien (Movie) Wallpapers (26 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/3/b/39271-2560x1600-desktop-hd-alien-movie-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Alien Ellen Ripley Xenomorph Movie HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/136/thumb-1920-1365785.jpeg' alt='Download Alien Ellen Ripley Xenomorph Movie HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/136/thumb-1920-1365785.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenomorph Wallpapers - Movies & Entertainment Background ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2396/2396507-bigthumbnail.jpg' alt='Xenomorph Wallpapers - Movies & Entertainment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2396/2396507-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris McDonald (Writer of Daikaiju Rumble) على X: "The ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GVULZj9W4AAetEC.jpg:large' alt='Chris McDonald (Writer of Daikaiju Rumble) على X: "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GVULZj9W4AAetEC.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Xenomorph Movie Alien HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/439/439418.jpg' alt='Download Xenomorph Movie Alien HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/439/439418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/12/31/6312319ed7b6e72cc934377085935485.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/12/31/6312319ed7b6e72cc934377085935485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien Wallpaper 4K, Xenomorph, Green, Dark background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/alien-xenomorph-2560x1440-18665.jpg' alt='Alien Wallpaper 4K, Xenomorph, Green, Dark background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/alien-xenomorph-2560x1440-18665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD xenomorph wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/391/985/HD-wallpaper-death-head-xenomorph-alien-avp-movie-thumbnail.jpg' alt='HD xenomorph wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/391/985/HD-wallpaper-death-head-xenomorph-alien-avp-movie-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenomorph wallpaper I've had in my collection for a while : r/LV426">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pf3kow3recfy.jpg' alt='Xenomorph wallpaper I've had in my collection for a while : r/LV426'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pf3kow3recfy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

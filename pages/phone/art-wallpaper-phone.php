@@ -1,0 +1,129 @@
+<title>Stunning Art Wallpapers for Your Phone: Elevate Your Style</title>
+                    <meta name="description" content="Discover a vibrant collection of art wallpapers for your phone! Find unique designs that reflect your style, enhance your device’s look, and inspire creativity. Transform your screen with eye-catching visuals that stand out and make a statement. Perfect for every art lover!">
+                    <meta name="keywords" content="art wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/art-wallpaper-phone">
+                            <span itemprop="name">art wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Art Wallpapers for Your Phone: Elevate Your Style</h1>
+                <p>Transform your phone with stunning art wallpapers! Explore a variety of designs that express your unique style, from abstract patterns to serene landscapes. Elevate your device's aesthetic and enjoy a fresh look every day. Discover the perfect backdrop for your screen and showcase your personality through art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530 Phone art ideas in 2025 | phone art, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/24/e7/b0/24e7b04b15678a1a9c1f559ca034c425.png' alt='530 Phone art ideas in 2025 | phone art, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/24/e7/b0/24e7b04b15678a1a9c1f559ca034c425.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper I made from tweaking the art from the pole site ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p1f1c7c409731.jpg' alt='Phone wallpaper I made from tweaking the art from the pole site ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p1f1c7c409731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 195+ Art Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE2cY5Yo20/1/0/900w/canva-pink-create-motivational-quote-phone-wallpaper-Ovqu4qsnOy4.jpg' alt='Customize 195+ Art Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE2cY5Yo20/1/0/900w/canva-pink-create-motivational-quote-phone-wallpaper-Ovqu4qsnOy4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post- Hillary Butler Fine Art">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/579f870fe4fcb57c8589a1c4/t/5c998224c8302589f7aef44b/1553564277755/free.phone.Wallpaper.hillary.butler.abstract.art.jpg?format=1500w' alt='Post- Hillary Butler Fine Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Post- Hillary Butler Fine Art" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/579f870fe4fcb57c8589a1c4/t/5c998224c8302589f7aef44b/1553564277755/free.phone.Wallpaper.hillary.butler.abstract.art.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530 Phone art ideas in 2025 | phone art, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3d/fc/15/3dfc15c7be8b99e83a887da8f9f39375.jpg' alt='530 Phone art ideas in 2025 | phone art, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3d/fc/15/3dfc15c7be8b99e83a887da8f9f39375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 195+ Art Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE5WPs75lw/1/0/900w/canva-red-black-illustration-sunset-phone-wallpaper-pFMmfM_sTSc.jpg' alt='Customize 195+ Art Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE5WPs75lw/1/0/900w/canva-red-black-illustration-sunset-phone-wallpaper-pFMmfM_sTSc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/74/6d/95746d5eb3f9e387e9530257e7604b1c.jpg' alt='Art phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/74/6d/95746d5eb3f9e387e9530257e7604b1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Nature Phone Digital Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/hd-nature-phone-digital-art-nfre7qxi39mglfoa.jpg' alt='Hd Nature Phone Digital Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/hd-nature-phone-digital-art-nfre7qxi39mglfoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone - Japanese style neon shallows in 2022. Japanese iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/211/935/HD-wallpaper-phone-japanese-style-neon-shallows-in-2022-japanese-iphone-chill-neon-chill-art.jpg' alt='Phone - Japanese style neon shallows in 2022. Japanese iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/211/935/HD-wallpaper-phone-japanese-style-neon-shallows-in-2022-japanese-iphone-chill-neon-chill-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' alt='Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

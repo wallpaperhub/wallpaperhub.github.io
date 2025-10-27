@@ -1,0 +1,129 @@
+<title>Festive Christmas Wallpapers for Android Phones</title>
+                    <meta name="description" content="Discover beautiful Christmas wallpapers for your Android phone. Elevate your holiday spirit with a selection of stunning designs that perfectly capture the magic of Christmas. Perfect for any festive enthusiast! Download and enjoy a festive look for your device this season!">
+                    <meta name="keywords" content="christmas wallpaper for android phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-for-android-phone">
+                            <span itemprop="name">christmas wallpaper for android phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Wallpapers for Android Phones</h1>
+                <p>Get into the festive spirit this holiday season with stunning Christmas wallpaper for your Android phone! Choose from a variety of captivating designs, including snowflakes, Christmas trees, and Santa Claus. Transform your screen into a winter wonderland and spread joy every time you unlock your device. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Christmas phone wallpaper ideas | christmas phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' alt='180 Best Christmas phone wallpaper ideas | christmas phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Stunning Christmas Wallpapers for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/bd/5f/56bd5f739f8ad1b0e4ad4fc32a36be44.jpg' alt='7 Stunning Christmas Wallpapers for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/bd/5f/56bd5f739f8ad1b0e4ad4fc32a36be44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9jaHJpc3RtYXNfbW9iaWxlX3dhbGxwYXBlcl9iNzZhZGNkZS1mYWRmLTQ3MDktOTNhMy02ZTJkYmM4Yjc5NTRfMS5qcGc.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9jaHJpc3RtYXNfbW9iaWxlX3dhbGxwYXBlcl9iNzZhZGNkZS1mYWRmLTQ3MDktOTNhMy02ZTJkYmM4Yjc5NTRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9jb29sX2NocmlzdG1hc193YWxscGFwZXJfYWUxMjMwMjAtYWQwZS00NjgxLTg1YjAtZDRkMDQxZmVmOWZjXzEuanBn.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9jb29sX2NocmlzdG1hc193YWxscGFwZXJfYWUxMjMwMjAtYWQwZS00NjgxLTg1YjAtZDRkMDQxZmVmOWZjXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpaper Backgrounds - Free To Download">
+                                <img itemprop="contentUrl url" src='https://www.houseofhawthornes.com/wp-content/uploads/2023/11/christmas-phone-wallpaper-background-santa-night-sky.jpg' alt='Christmas Phone Wallpaper Backgrounds - Free To Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Hawthornes" />
+                                </span>
+                                <a href='https://www.houseofhawthornes.com/wp-content/uploads/2023/11/christmas-phone-wallpaper-background-santa-night-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL2FuZ3VzdGVvd19waG90b19vZl9iZWF1dGlmdWxfd2hpdGVfc25vd3lfd2l0aF9jaHJpc3RtYXNfdHJlZV9hbl9lYmYzZGIxYS04YTFiLTRhODMtYTFlZi03NzdiMTYzNDAxNjYtYi5qcGc.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL2FuZ3VzdGVvd19waG90b19vZl9iZWF1dGlmdWxfd2hpdGVfc25vd3lfd2l0aF9jaHJpc3RtYXNfdHJlZV9hbl9lYmYzZGIxYS04YTFiLTRhODMtYTFlZi03NzdiMTYzNDAxNjYtYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/f2/3a/0ff23a9a4cbac34f107f99862a4aa055.jpg' alt='Merry Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/f2/3a/0ff23a9a4cbac34f107f99862a4aa055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Phone Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/481/merry-christmas-wallpapers-for-phone-736x1271.jpg' alt='Merry Christmas Phone Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/481/merry-christmas-wallpapers-for-phone-736x1271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190 CHRISTMAS PHONE WALLPAPERS ideas | christmas phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/da/8f/81da8f40a1a92bccc75f90c0ddc9031c.jpg' alt='190 CHRISTMAS PHONE WALLPAPERS ideas | christmas phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/da/8f/81da8f40a1a92bccc75f90c0ddc9031c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus Christmas Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/santa-claus-christmas-phone-jsx01ofl17fs6rv3.jpg' alt='Santa Claus Christmas Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/santa-claus-christmas-phone-jsx01ofl17fs6rv3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

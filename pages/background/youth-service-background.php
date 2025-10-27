@@ -1,0 +1,129 @@
+<title>Youth Service Programs: Empowering Future Leaders</title>
+                    <meta name="description" content="Explore the impact of youth service programs designed to empower young people. Discover how these initiatives foster leadership skills, community involvement, and personal growth, helping to shape responsible and engaged future leaders. Join the movement to inspire youth today!">
+                    <meta name="keywords" content="youth service background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/youth-service-background">
+                            <span itemprop="name">youth service background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Youth Service Programs: Empowering Future Leaders</h1>
+                <p>Youth service background encompasses various programs and initiatives aimed at empowering young individuals. This includes community service, leadership training, and skill development, fostering personal growth and social responsibility. Engaging youth in constructive activities cultivates a sense of belonging and encourages positive contributions to society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service Gradient Shape Background | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate-1.imgix.net/sermon-graphics/3d39e260-ec79-04cc-7915-e4f1f9b81319/preview1.jpg?q=25&w=635&s=b0d1cb34925013182ab3ba1a2bd4f32d' alt='Youth Service Gradient Shape Background | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate-1.imgix.net/sermon-graphics/3d39e260-ec79-04cc-7915-e4f1f9b81319/preview1.jpg?q=25&w=635&s=b0d1cb34925013182ab3ba1a2bd4f32d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/3419d66f91984df1a0dd1a4c2e18c335.jpg' alt='Youth Service - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/3419d66f91984df1a0dd1a4c2e18c335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Youth Service Color Background – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1346091384494_1622.jpg' alt='ShareFaith Media » Youth Service Color Background – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1346091384494_1622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YOUTH SERVICE">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/pow/mo/youthservice.jpg' alt='YOUTH SERVICE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorshipHouse Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/pow/mo/youthservice.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service Gradient Shape Background Story | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate.imgix.net/social/c7bfc7fa-8815-47b6-ba59-35ca4cb152f0/title.jpg?auto=format&h=600&q=40&w=400&s=611fc2224696a9f7dd3b79980caa6cd2' alt='Youth Service Gradient Shape Background Story | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate.imgix.net/social/c7bfc7fa-8815-47b6-ba59-35ca4cb152f0/title.jpg?auto=format&h=600&q=40&w=400&s=611fc2224696a9f7dd3b79980caa6cd2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service Gradient Shape Background | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate.imgix.net/social/2c84d5bd-097a-902a-f67f-2c367ad12eb0/title.jpg?auto=format&fit=crop&h=225&q=40&transparency=grid&w=400&s=6a095e8999a985432f4fb263b9405f07' alt='Youth Service Gradient Shape Background | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate.imgix.net/social/2c84d5bd-097a-902a-f67f-2c367ad12eb0/title.jpg?auto=format&fit=crop&h=225&q=40&transparency=grid&w=400&s=6a095e8999a985432f4fb263b9405f07' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youth-service-design-template-ec64794fb9e226d87a1ad9f612a1a92b_screen.jpg?ts=1561478068' alt='Youth Service Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youth-service-design-template-ec64794fb9e226d87a1ad9f612a1a92b_screen.jpg?ts=1561478068' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/96d7261b6dfb972c4d87eebaa395835f.jpg' alt='Youth Service - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/96d7261b6dfb972c4d87eebaa395835f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YOUTH SERVICE WORSHIP INTRO BACKGROUND LOOP | WORSHIP BACKGROUND FOR CHURCH">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/g3KJ5wzboCA/hqdefault.jpg' alt='YOUTH SERVICE WORSHIP INTRO BACKGROUND LOOP | WORSHIP BACKGROUND FOR CHURCH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/g3KJ5wzboCA/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Service Letter on the Dice on the Blue Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/youth-service-letter-dice-blue-background-youth-service-white-dice-blue-background-d-rendered-241079288.jpg' alt='Youth Service Letter on the Dice on the Blue Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/youth-service-letter-dice-blue-background-youth-service-white-dice-blue-background-d-rendered-241079288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kehinde Wiley: A Modern Perspective on Self-Portraiture</title>
+                    <meta name="description" content="Explore Kehinde Wiley's captivating self-portrait that fuses cultural narratives with vibrant artistry. Discover how his work redefines identity and challenges traditional art forms while celebrating diversity for today's viewers. Perfect for art enthusiasts and cultural explorers!">
+                    <meta name="keywords" content="kehinde wiley self portrait">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kehinde-wiley-self-portrait">
+                            <span itemprop="name">kehinde wiley self portrait</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kehinde Wiley: A Modern Perspective on Self-Portraiture</h1>
+                <p>Kehinde Wiley's self-portrait redefines portraiture through a rich blend of color and cultural narrative. Known for his modern approach to classical styles, Wiley showcases his identity and experiences. His work challenges traditional artistic representations, inviting viewers to embrace diversity and explore the intersection of art and identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Lesson w/ Ms. Jennifer: Create a collage portrait in the style ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e84b12d6785422decf08f21/1593444679785-PN1UV6GT86VDA9JSVFS1/Kehinde+Wiley.jpg' alt='Art Lesson w/ Ms. Jennifer: Create a collage portrait in the style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blowing Rock Art & History Museum" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e84b12d6785422decf08f21/1593444679785-PN1UV6GT86VDA9JSVFS1/Kehinde+Wiley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley – Talk Easy with Sam Fragoso">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/talkeasypod.com/wp-content/uploads/2023/01/Kehinde-Wiley-Clean.jpg?fit=1920%2C1920&ssl=1' alt='Kehinde Wiley – Talk Easy with Sam Fragoso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Talk Easy with Sam Fragoso" />
+                                </span>
+                                <a href='https://i0.wp.com/talkeasypod.com/wp-content/uploads/2023/01/Kehinde-Wiley-Clean.jpg?fit=1920%2C1920&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversations with Kehinde Wiley “A New Republic” at Phoenix Art ...">
+                                <img itemprop="contentUrl url" src='https://javamagaz.com/wp-content/uploads/2016/11/Java.NOV_.2016-Kehinde-759x500.jpg' alt='Conversations with Kehinde Wiley “A New Republic” at Phoenix Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JAVA" />
+                                </span>
+                                <a href='https://javamagaz.com/wp-content/uploads/2016/11/Java.NOV_.2016-Kehinde-759x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley on Painting President Obama, Michael Jackson, and ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5bbfdcda1e40b62d6cc418ec/4:3/w_1991,h_1493,c_limit/FestTranscript-Kehinde-Wiley.jpg' alt='Kehinde Wiley on Painting President Obama, Michael Jackson, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1991">
+                                <meta itemprop="height" content="1493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5bbfdcda1e40b62d6cc418ec/4:3/w_1991,h_1493,c_limit/FestTranscript-Kehinde-Wiley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a painting of my favorite artist Kehinde Wiley! : r/painting">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eeg8iz7x3h241.jpg' alt='I made a painting of my favorite artist Kehinde Wiley! : r/painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2846">
+                                <meta itemprop="height" content="3624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/eeg8iz7x3h241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley ❤️ One of my first ever styling projects I did in ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3044158302351837924' alt='Kehinde Wiley ❤️ One of my first ever styling projects I did in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3044158302351837924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley Inspired Portraits - ART ED GURU">
+                                <img itemprop="contentUrl url" src='https://www.artedguru.com/uploads/3/0/6/1/30613521/2015-kehinde-wiley-el137-39-2797w-600-748_orig.jpg' alt='Kehinde Wiley Inspired Portraits - ART ED GURU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ART ED GURU" />
+                                </span>
+                                <a href='https://www.artedguru.com/uploads/3/0/6/1/30613521/2015-kehinde-wiley-el137-39-2797w-600-748_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Artist Kehinde Wiley. Showing Representation Matters | by Rae ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*NISuQxeGEbpQ5PkYNvpMIg.jpeg' alt='The Artist Kehinde Wiley. Showing Representation Matters | by Rae ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*NISuQxeGEbpQ5PkYNvpMIg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley | Portrait of Rahsaan Gandy (2013) | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FO3cuAMgmsPbsrRw-_91QEg%2Fnormalized.jpg&width=596' alt='Kehinde Wiley | Portrait of Rahsaan Gandy (2013) | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FO3cuAMgmsPbsrRw-_91QEg%2Fnormalized.jpg&width=596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Portraits After Kehinde Wiley">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/70/11/02/70110234b1fe7e7736f87f5bf0d9b137.jpg' alt='Self Portraits After Kehinde Wiley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/70/11/02/70110234b1fe7e7736f87f5bf0d9b137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

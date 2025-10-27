@@ -1,0 +1,129 @@
+<title>Avery Backgrounds: Enhance Your Designs with Style</title>
+                    <meta name="description" content="Discover the versatility of Avery backgrounds for your creative projects. Perfect for labels, invitations, and presentations, these backgrounds add style and flair, ensuring your designs capture attention. Explore a variety of colors, patterns, and textures to elevate your work and make a lasting impression.">
+                    <meta name="keywords" content="avery backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/avery-backgrounds">
+                            <span itemprop="name">avery backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Avery Backgrounds: Enhance Your Designs with Style</h1>
+                <p>Avery backgrounds are versatile design elements perfect for various projects, including labels, invitations, and presentations. They come in a range of colors, patterns, and textures to enhance your creative work. Whether for business or personal use, Avery backgrounds can elevate your designs, ensuring they stand out and make an impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with avery name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/937/510/HD-wallpaper-happy-birtay-avery-pink-neon-lights-avery-name-creative-avery-happy-birtay-avery-birtay-popular-american-female-names-with-avery-name-avery-thumbnail.jpg' alt='HD with avery name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/937/510/HD-wallpaper-happy-birtay-avery-pink-neon-lights-avery-name-creative-avery-happy-birtay-avery-birtay-popular-american-female-names-with-avery-name-avery-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name wallpaper #2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/cf/5b/5dcf5b5373084b07716e81d2c76b8f0a.jpg' alt='Name wallpaper #2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/cf/5b/5dcf5b5373084b07716e81d2c76b8f0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name Avery Stock Illustrations – 287 Name Avery Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/avery-name-text-word-love-heart-hand-written-logo-typography-design-template-can-be-used-business-logotype-171903534.jpg' alt='Name Avery Stock Illustrations – 287 Name Avery Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/avery-name-text-word-love-heart-hand-written-logo-typography-design-template-can-be-used-business-logotype-171903534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD avery birtay wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/535/93/HD-wallpaper-happy-birtay-avery-blue-neon-lights-avery-name-creative-avery-happy-birtay-avery-birtay-popular-american-male-names-with-avery-name-avery-thumbnail.jpg' alt='HD avery birtay wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/535/93/HD-wallpaper-happy-birtay-avery-blue-neon-lights-avery-name-creative-avery-happy-birtay-avery-birtay-popular-american-male-names-with-avery-name-avery-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avery Images – Browse 1,059 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/12/58/23/360_F_312582398_QfAyRPnE39DVR65tbRtsBatqXus5E32U.jpg' alt='Avery Images – Browse 1,059 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/12/58/23/360_F_312582398_QfAyRPnE39DVR65tbRtsBatqXus5E32U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avery Name Merch & Gifts for Sale | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1028029129.7379/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='Avery Name Merch & Gifts for Sale | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1028029129.7379/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with avery name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/546/92/HD-wallpaper-avery-with-names-horizontal-text-avery-name-blue-neon-lights-with-avery-name.jpg' alt='HD with avery name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/546/92/HD-wallpaper-avery-with-names-horizontal-text-avery-name-blue-neon-lights-with-avery-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avery, blue lines background, with names, Avery name, male names ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/389/652/HD-wallpaper-avery-blue-lines-background-with-names-avery-name-male-names-avery-greeting-card-line-art-with-avery-name.jpg' alt='Avery, blue lines background, with names, Avery name, male names ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/389/652/HD-wallpaper-avery-blue-lines-background-with-names-avery-name-male-names-avery-greeting-card-line-art-with-avery-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avery Name Merch & Gifts for Sale | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2526334157.3038/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='Avery Name Merch & Gifts for Sale | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2526334157.3038/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with avery name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/306/981/HD-wallpaper-avery-with-names-female-names-avery-name-purple-neon-lights-horizontal-text-with-avery-name.jpg' alt='HD with avery name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/306/981/HD-wallpaper-avery-with-names-female-names-avery-name-purple-neon-lights-horizontal-text-with-avery-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

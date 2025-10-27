@@ -1,0 +1,129 @@
+<title>Stunning Purple Clouds Background: Dreamy Skies for Your Designs</title>
+                    <meta name="description" content="Discover the allure of purple clouds background, a perfect blend of tranquility and creativity. Ideal for wallpapers and artistic projects, these dreamy skies are designed to captivate and inspire. Transform your visuals with the enchanting hues of purple clouds!">
+                    <meta name="keywords" content="purple clouds background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-clouds-background">
+                            <span itemprop="name">purple clouds background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Clouds Background: Dreamy Skies for Your Designs</h1>
+                <p>Experience the enchanting beauty of purple clouds background, where soft lavender hues blend with deep violet tones. This captivating sky transforms ordinary landscapes into dreamlike scenes, evoking feelings of serenity and wonder. Perfect for wallpapers, designs, or simply as a window to nature's artistry, purple clouds inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Purple Sky Clouds Background, Purple Clouds ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/64/59/14/1000_F_664591427_bk91j9v9lRmmM37UOJKtbX9YlWGVHBi2.jpg' alt='Photo & Art Print Purple Sky Clouds Background, Purple Clouds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/64/59/14/1000_F_664591427_bk91j9v9lRmmM37UOJKtbX9YlWGVHBi2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Clouds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_79603-2380.jpg' alt='Purple Clouds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_79603-2380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Clouds Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/482/660/small_2x/surreal-fantasy-dreamscape-of-pink-and-purple-cloud-formation-under-starlit-night-sky-photo.jpg' alt='Purple Clouds Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/482/660/small_2x/surreal-fantasy-dreamscape-of-pink-and-purple-cloud-formation-under-starlit-night-sky-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE AESTHETIC CLOUD WALLPAPER ☁️✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/10/2b/40102bafe020f85553d8dd7acc7998c9.jpg' alt='PURPLE AESTHETIC CLOUD WALLPAPER ☁️✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/10/2b/40102bafe020f85553d8dd7acc7998c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Cloud Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/fantasy-sky-sugar-cotton-purple-260nw-2482744217.jpg' alt='Purple Cloud Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/fantasy-sky-sugar-cotton-purple-260nw-2482744217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sky Images – Browse 2,095,364 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/73/95/42/360_F_873954270_1HmRoEQoZ5nZPyLOVQlY2Np9Zas3FsgC.jpg' alt='Purple Sky Images – Browse 2,095,364 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/73/95/42/360_F_873954270_1HmRoEQoZ5nZPyLOVQlY2Np9Zas3FsgC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="167,900+ Purple Clouds Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/510740375/photo/colorful-clouds.jpg?s=612x612&w=0&k=20&c=j-ZR8H-PoVTXIUZ_JzWSgtZkutXfAd7u8nv0Ku-i8DI=' alt='167,900+ Purple Clouds Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/510740375/photo/colorful-clouds.jpg?s=612x612&w=0&k=20&c=j-ZR8H-PoVTXIUZ_JzWSgtZkutXfAd7u8nv0Ku-i8DI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Clouds Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/black-dark-deep-purple-violet-600nw-2436409861.jpg' alt='Dark Purple Clouds Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/black-dark-deep-purple-violet-600nw-2436409861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Cloud Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/016/073/371/non_2x/abstract-watercolor-background-with-purple-blots-purple-sky-white-clouds-vector.jpg' alt='Purple Cloud Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1573">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/016/073/371/non_2x/abstract-watercolor-background-with-purple-blots-purple-sky-white-clouds-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft purple clouds on sunset sky background. Pastel colored ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/54/42/05/1000_F_354420586_GewZO4guNO5l95D22VTXw0ebE4x4KZxR.jpg' alt='Soft purple clouds on sunset sky background. Pastel colored ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/54/42/05/1000_F_354420586_GewZO4guNO5l95D22VTXw0ebE4x4KZxR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Customizable Peel and Stick Wallpaper: Revamp Your Space</title>
+                    <meta name="description" content="Discover the freedom of customizable peel and stick wallpaper. Easily personalize your walls with unique designs that reflect your style. Ideal for renters, our wallpaper is simple to apply and remove, making home transformation effortless and fun. Refresh your space today!">
+                    <meta name="keywords" content="customizable peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/customizable-peel-and-stick-wallpaper">
+                            <span itemprop="name">customizable peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customizable Peel and Stick Wallpaper: Revamp Your Space</h1>
+                <p>Transform your space with customizable peel and stick wallpaper! Perfect for renters and DIY enthusiasts, this innovative wall covering allows you to personalize your home without the commitment. Choose from a variety of designs, colors, and sizes to create a unique atmosphere that reflects your style. Easy to install and remove, it’s a hassle-free way to refresh any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' alt='Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="peelandpaper.com" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper | Removable & Easy To Install">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' alt='Peel and Stick Wallpaper | Removable & Easy To Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1525">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Wallpaper Designs - Over 100 colors to pick from">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' alt='Customizable Wallpaper Designs - Over 100 colors to pick from'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1156">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Removable Wallpaper | Personalize Your Space | Tempaper ...">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp.jpg?v=1738345312&width=1080' alt='Custom Removable Wallpaper | Personalize Your Space | Tempaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp.jpg?v=1738345312&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZYMECH Wallpaper Peel and Stick Modern Floral Customize Headboard ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71r93W0VNkL._AC_UF894,1000_QL80_.jpg' alt='ZYMECH Wallpaper Peel and Stick Modern Floral Customize Headboard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71r93W0VNkL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Size Floral Wallpaper Murals - Customizable Peel and Stick Wallpaper  Mural, Vintage Eiffel Tower Mural, Self-Adhesive Removable, Bathroom Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ATr3aIivL._AC_UF894,1000_QL80_.jpg' alt='Custom Size Floral Wallpaper Murals - Customizable Peel and Stick Wallpaper  Mural, Vintage Eiffel Tower Mural, Self-Adhesive Removable, Bathroom Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ATr3aIivL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print Your Own Design on Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' alt='Print Your Own Design on Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Wallpaper Designs - Over 100 colors to pick from">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?crop=center&height=825&v=1718902434&width=825' alt='Customizable Wallpaper Designs - Over 100 colors to pick from'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?crop=center&height=825&v=1718902434&width=825' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Mid Century Modern Abstract and Tropical Details Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30286277/r/il/3c50f0/4108715105/il_570xN.4108715105_e5at.jpg' alt='Customizable Mid Century Modern Abstract and Tropical Details Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30286277/r/il/3c50f0/4108715105/il_570xN.4108715105_e5at.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customized 3D Self Adhesive Wall Mural Wallpaper, Large Peel and Stick  Landscape Mural, Removable Wallpaper for Bedroom Living Room Office Study  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712YrfxvYyL._AC_UF894,1000_QL80_.jpg' alt='Customized 3D Self Adhesive Wall Mural Wallpaper, Large Peel and Stick  Landscape Mural, Removable Wallpaper for Bedroom Living Room Office Study  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712YrfxvYyL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

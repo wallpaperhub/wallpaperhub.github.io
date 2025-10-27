@@ -1,0 +1,129 @@
+<title>“Dynamic Basketball GIF Wallpapers for Every Fan”</title>
+                    <meta name="description" content="Discover the ultimate collection of basketball GIF wallpapers! Perfectly designed for fans on the go, these eye-catching backgrounds bring the excitement of the court right to your screen. Ideal for any basketball lover looking to showcase their passion with vibrant, animated visuals. Download now!">
+                    <meta name="keywords" content="basketball gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/basketball-gif-wallpaper">
+                            <span itemprop="name">basketball gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Dynamic Basketball GIF Wallpapers for Every Fan”</h1>
+                <p>Enhance your device's aesthetics with captivating basketball GIF wallpapers! Perfect for fans and players alike, these dynamic backgrounds showcase stunning moments from the court. Whether you prefer classic dunks, slam dunks, or intense gameplay, our collection offers a range of vibrant and energetic graphics to inspire your love for the game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Basketball Gif On Itl.cat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b1/12/50/b1125059a947f10e298dc458c88ee97f.gif' alt='Download Basketball Gif On Itl.cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b1/12/50/b1125059a947f10e298dc458c88ee97f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/BINp.gif' alt='Basketball GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/BINp.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by 수현 이 on NBA | Basketball live wallpaper, Motion design ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/38/7c/b3/387cb361366e76bd3fc20270f07ba963.gif' alt='Pin by 수현 이 on NBA | Basketball live wallpaper, Motion design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/38/7c/b3/387cb361366e76bd3fc20270f07ba963.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball nba GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/ZIio.gif' alt='Basketball nba GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/ZIio.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Animations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/af/c3/2f/afc32f9251af35791593f1c31f7c814c.gif' alt='Best Animations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/af/c3/2f/afc32f9251af35791593f1c31f7c814c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Phoenix Suns Kevin Durant NBA Sports Gif">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/218/218727.gif' alt='Download Phoenix Suns Kevin Durant NBA Sports Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/218/218727.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lets go basketball GIF by NBA - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/WRRPYjw6VicnRMXlyG/giphy.gif?cid=6c09b952vg8kw4j5msopto06ujbehos3sta7d3d2l05xrvbq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='lets go basketball GIF by NBA - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/WRRPYjw6VicnRMXlyG/giphy.gif?cid=6c09b952vg8kw4j5msopto06ujbehos3sta7d3d2l05xrvbq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damian Lillard Infographics (1) | GIFs :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/d5bae461456759.5a6f73cf381a1.gif' alt='Damian Lillard Infographics (1) | GIFs :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/d5bae461456759.5a6f73cf381a1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="boston celtics basketball GIF by NBC Sports Boston - Find & Share ...">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/3ohhwx5sPgF8rktvt6/giphy.gif?cid=6c09b9525vsvdvpndylk66v877axxmk2icmgmnf6qotb3430&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='boston celtics basketball GIF by NBC Sports Boston - Find & Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/3ohhwx5sPgF8rktvt6/giphy.gif?cid=6c09b9525vsvdvpndylk66v877axxmk2icmgmnf6qotb3430&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Basketball Sports Gif">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/561/5618.gif' alt='Download Basketball Sports Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/561/5618.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

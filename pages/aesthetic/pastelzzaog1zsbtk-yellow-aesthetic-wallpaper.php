@@ -1,0 +1,129 @@
+<title>Brighten Your Screen with Yellow Pastel Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of yellow pastel aesthetic wallpaper! Perfect for adding a cheerful touch to your devices, our collection features vibrant designs that uplift and inspire. Enhance your digital experience with sunny hues that create a warm and inviting atmosphere. Ideal for any modern aesthetic!">
+                    <meta name="keywords" content="pastel:zzaog1zsbtk= yellow aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastelzzaog1zsbtk-yellow-aesthetic-wallpaper">
+                            <span itemprop="name">pastel:zzaog1zsbtk= yellow aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Screen with Yellow Pastel Aesthetic Wallpaper</h1>
+                <p>Transform your device with stunning yellow aesthetic wallpaper! Featuring soft pastel tones, these wallpapers evoke warmth and brightness, perfect for uplifting your mood. Whether it’s for your phone or computer, this collection brings a splash of sunshine to your digital space, enhancing your aesthetic with calm and cheerful vibes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/61/2d/85612d30c6fcb3ae89d00a531c1294c6.jpg' alt='Yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/61/2d/85612d30c6fcb3ae89d00a531c1294c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Aesthetic Wallpaper    | Yellow aesthetic pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/0b/0d/b60b0d285ca1aba9b8f0027d9fbfafed.jpg' alt='Pastel Yellow Aesthetic Wallpaper    | Yellow aesthetic pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/0b/0d/b60b0d285ca1aba9b8f0027d9fbfafed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YELLOW #WALLPAPERS #VSCO">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/23/79/4d/23794def41855b52f2ae98bfcba61cbb.jpg' alt='YELLOW #WALLPAPERS #VSCO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/23/79/4d/23794def41855b52f2ae98bfcba61cbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wobbly Pastel Yellow And White Grid Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/wobbly-pastel-yellow-and-white-grid-aesthetic-d8umr265xt1070lt.webp' alt='Wobbly Pastel Yellow And White Grid Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/wobbly-pastel-yellow-and-white-grid-aesthetic-d8umr265xt1070lt.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amarillo pastel ZKT, aesthetic, stickers, yellow, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/266/829/HD-wallpaper-amarillo-pastel-zkt-aesthetic-stickers-yellow.jpg' alt='Amarillo pastel ZKT, aesthetic, stickers, yellow, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/266/829/HD-wallpaper-amarillo-pastel-zkt-aesthetic-stickers-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collage Pastel Yellow Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/collage-pastel-yellow-aesthetic-0f7y61fax41oeb5a.jpg' alt='Collage Pastel Yellow Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/collage-pastel-yellow-aesthetic-0f7y61fax41oeb5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/1b/e2/351be2c313acf103e2ed781ccb82463c.jpg' alt='Yellow aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/1b/e2/351be2c313acf103e2ed781ccb82463c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel light yellow collage wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/be/dc/d1bedcc958bce90ca013e32c20667c68.jpg' alt='Pastel light yellow collage wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/be/dc/d1bedcc958bce90ca013e32c20667c68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/starry-cute-pastel-yellow-aesthetic-134vwyi95f9o104p.jpg' alt='Cute Pastel Yellow Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/starry-cute-pastel-yellow-aesthetic-134vwyi95f9o104p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cute Pastel Golden Yellow Waves Art Wallpaper/Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8e/ee/b6/8eeeb6be67ab1a5d0a0a3e651eb75f89.jpg' alt='Aesthetic Cute Pastel Golden Yellow Waves Art Wallpaper/Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8e/ee/b6/8eeeb6be67ab1a5d0a0a3e651eb75f89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

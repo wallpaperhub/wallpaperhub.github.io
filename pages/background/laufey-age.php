@@ -1,0 +1,129 @@
+<title>Laufey Age: Discover the Rising Star's Journey</title>
+                    <meta name="description" content="Explore Laufey's age and her incredible rise in the music scene. Born in 2000, this Icelandic singer-songwriter fuses jazz and indie influences, captivating fans with her distinctive sound. Dive into her journey as she continues to make waves in the industry!">
+                    <meta name="keywords" content="laufey age">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/laufey-age">
+                            <span itemprop="name">laufey age</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Laufey Age: Discover the Rising Star's Journey</h1>
+                <p>Laufey, the talented Icelandic musician, was born on June 23, 2000, making her currently 23 years old. With a unique blend of jazz and indie sounds, she has captivated audiences worldwide. As a rising star, her youthful age reflects her fresh approach to music and artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/faces/laufey-image.jpg' alt='Laufey - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/faces/laufey-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey (singer) - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Laufey_Lin.jpg/1200px-Laufey_Lin.jpg' alt='Laufey (singer) - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Laufey_Lin.jpg/1200px-Laufey_Lin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2024/02/laufey-grammys.jpg?fit=3445%2C2296&quality=86&strip=all' alt='Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3445">
+                                <meta itemprop="height" content="2296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2024/02/laufey-grammys.jpg?fit=3445%2C2296&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2024/02/laufey-2.jpg?fit=800%2C544&quality=86&strip=all' alt='Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2024/02/laufey-2.jpg?fit=800%2C544&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey Now 2024: Age, Birthday, Australian + Asian 'The Goddess ...">
+                                <img itemprop="contentUrl url" src='https://d.musictimes.com/en/full/90987/laufey-now-2024-25th-birthday-goddess-tour-dates.jpg?w=1600&h=1600&q=88&f=19884065c5c6e9e4ebb75befb2facb73' alt='Laufey Now 2024: Age, Birthday, Australian + Asian 'The Goddess ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Music Times" />
+                                </span>
+                                <a href='https://d.musictimes.com/en/full/90987/laufey-now-2024-25th-birthday-goddess-tour-dates.jpg?w=1600&h=1600&q=88&f=19884065c5c6e9e4ebb75befb2facb73' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/headshots/laufey-1.jpg' alt='Laufey - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/headshots/laufey-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Laufey_performing_at_La_Madeleine_in_Brussels%2C_Belgium_on_February_21st_2024_-_1.jpg/640px-Laufey_performing_at_La_Madeleine_in_Brussels%2C_Belgium_on_February_21st_2024_-_1.jpg' alt='Laufey (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Laufey_performing_at_La_Madeleine_in_Brussels%2C_Belgium_on_February_21st_2024_-_1.jpg/640px-Laufey_performing_at_La_Madeleine_in_Brussels%2C_Belgium_on_February_21st_2024_-_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laufey - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/headshots/laufey-2.jpg' alt='Laufey - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/headshots/laufey-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2024/02/laufey-and-junia.jpg?resize=1200%2C1200&quality=86&strip=all' alt='Who Is Laufey? Meet Gen Z Jazz Singer: Age, Where She's From | J-14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2024/02/laufey-and-junia.jpg?resize=1200%2C1200&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About | Laufey">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60300340d27ffb2c6946ccbe/6b750f6e-050c-486f-a61d-dadb4b204ba9/Screenshot+2023-09-22+at+3.23.41+PM.png' alt='About | Laufey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2014">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laufey" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60300340d27ffb2c6946ccbe/6b750f6e-050c-486f-a61d-dadb4b204ba9/Screenshot+2023-09-22+at+3.23.41+PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

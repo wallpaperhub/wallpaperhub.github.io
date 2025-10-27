@@ -1,0 +1,129 @@
+<title>Cozy Pumpkin Aesthetic Wallpaper for Fall Vibes</title>
+                    <meta name="description" content="Explore our collection of pumpkin aesthetic wallpaper, perfect for embracing the fall season. Download vibrant, cozy designs that bring warmth and charm to your screens. Ideal for anyone wanting to infuse their digital space with seasonal beauty. Find your perfect autumn backdrop today!">
+                    <meta name="keywords" content="pumpkin aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pumpkin-aesthetic-wallpaper">
+                            <span itemprop="name">pumpkin aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Pumpkin Aesthetic Wallpaper for Fall Vibes</h1>
+                <p>Transform your digital space with pumpkin aesthetic wallpaper, blending warm autumn hues and charming designs. These wallpapers evoke a cozy seasonal vibe, perfect for adding a touch of fall to your device. Whether you prefer minimalist pumpkin illustrations or vibrant harvest scenes, find the ideal backdrop that resonates with your autumn spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Downloadable Pumpkin Wallpaper — Lily Morello">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5c5b6d69c2ff61712d6f1c8c/t/5f88c598a331cb588b1b939b/1660860234115/LilyMorello_Wallpaper003_PumpkinPatch.JPG?format=1500w' alt='Downloadable Pumpkin Wallpaper — Lily Morello'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lily Morello" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5c5b6d69c2ff61712d6f1c8c/t/5f88c598a331cb588b1b939b/1660860234115/LilyMorello_Wallpaper003_PumpkinPatch.JPG?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin patch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/02/00/480200e20ee0356f3c07749ed90c9583.jpg' alt='Pumpkin patch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/02/00/480200e20ee0356f3c07749ed90c9583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Aesthetic Fall Iphone Wallpapers You Need for Spooky Season ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/c5/d8/7ac5d81b79658ad7f5ce9e2042a83f97.jpg' alt='21 Aesthetic Fall Iphone Wallpapers You Need for Spooky Season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/c5/d8/7ac5d81b79658ad7f5ce9e2042a83f97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Halloween Aesthetic Pumpkins Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-aesthetic-pumpkins-8va6umhidb89r2ds.jpg' alt='Download Halloween Aesthetic Pumpkins Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1538">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-aesthetic-pumpkins-8va6umhidb89r2ds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Round brown and white decor lot photo – Free Fall Image on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1506805259407-9569fa21ccd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Round brown and white decor lot photo – Free Fall Image on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1506805259407-9569fa21ccd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fall Aesthetic October Pumpkins Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-aesthetic-october-pumpkins-e7l2l1hbo62tpvjn.jpg' alt='Download Fall Aesthetic October Pumpkins Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-aesthetic-october-pumpkins-e7l2l1hbo62tpvjn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkin Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7325353.jpg' alt='Halloween Pumpkin Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7325353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cute Autumn Wallpaper Ideas : Pumpkin Background 1 - Fab Mood ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/09/autumn-wallpaper-12.jpg' alt='20 Cute Autumn Wallpaper Ideas : Pumpkin Background 1 - Fab Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/09/autumn-wallpaper-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You’re welcome my Pumpkin Queens! Wear that crown with one of these  wallpapers on your phone all season long      If you havent figured out  yet, fall season is the best season   ✌   Which wallpaper is ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7267966481135176966&location=0&aid=1988' alt='You’re welcome my Pumpkin Queens! Wear that crown with one of these  wallpapers on your phone all season long      If you havent figured out  yet, fall season is the best season   ✌   Which wallpaper is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7267966481135176966&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Pumpkin iPad Digital Wallpaper Neutral Aesthetic Instant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22145127/r/il/5c7712/5252110021/il_fullxfull.5252110021_3rz6.jpg' alt='Autumn Pumpkin iPad Digital Wallpaper Neutral Aesthetic Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22145127/r/il/5c7712/5252110021/il_fullxfull.5252110021_3rz6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

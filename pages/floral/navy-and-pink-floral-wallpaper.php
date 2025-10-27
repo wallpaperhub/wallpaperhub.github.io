@@ -1,0 +1,129 @@
+<title>Navy & Pink Floral Wallpaper: A Stylish Touch for Your Home</title>
+                    <meta name="description" content="Discover the perfect blend of elegance and style with navy and pink floral wallpaper. Ideal for various rooms, this chic design enhances decor while providing a fresh, inviting atmosphere. Refresh your space effortlessly with this on-trend wallpaper choice.">
+                    <meta name="keywords" content="navy and pink floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/navy-and-pink-floral-wallpaper">
+                            <span itemprop="name">navy and pink floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy & Pink Floral Wallpaper: A Stylish Touch for Your Home</h1>
+                <p>Navy and pink floral wallpaper combines elegance and charm, perfect for adding a touch of sophistication to any room. The deep navy background contrasts beautifully with soft pink blooms, creating a stunning visual effect. Ideal for bedrooms or living spaces, this wallpaper brings a fresh, modern look while maintaining a cozy ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy and Pink Floral Rose Wallpaper, Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5788962/r/il/80c8a7/5535772237/il_fullxfull.5535772237_k1hf.jpg' alt='Navy and Pink Floral Rose Wallpaper, Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5788962/r/il/80c8a7/5535772237/il_fullxfull.5535772237_k1hf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy and Pink Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/245/1238/navypeachbloomsc__50691.1642098954.jpg?c=2' alt='Navy and Pink Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/245/1238/navypeachbloomsc__50691.1642098954.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Bloom (Navy) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/bloomnavy3.jpg?v=1717013610&width=2048' alt='In Bloom (Navy) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/bloomnavy3.jpg?v=1717013610&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' alt='Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and dark blue floral">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-and-dark-blue-floral-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink and dark blue floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-and-dark-blue-floral-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FABRIC Wallpaper Removable NAVY BLUSH Floral Pink Blue Peel ...">
+                                <img itemprop="contentUrl url" src='https://sonoluna.com/cdn/shop/products/wallpaper-navy-blush-01_2048x.jpg?v=1613485538' alt='FABRIC Wallpaper Removable NAVY BLUSH Floral Pink Blue Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sono Luna" />
+                                </span>
+                                <a href='https://sonoluna.com/cdn/shop/products/wallpaper-navy-blush-01_2048x.jpg?v=1613485538' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morrissey Pink Flower Peel and Stick Wallpaper MD41202">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/morrissey-pink-flower-peel-and-stick-wallpaper-md41202-164720.jpg?v=1682088718&width=700' alt='Morrissey Pink Flower Peel and Stick Wallpaper MD41202'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/morrissey-pink-flower-peel-and-stick-wallpaper-md41202-164720.jpg?v=1682088718&width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Wallpaper With Pink Flowers Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' alt='Dark Blue Wallpaper With Pink Flowers Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Navy Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3620">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602979230_9faw_c041299c-43da-4175-82ce-1d516c5d2a20.jpg?v=1644724078&width=3000' alt='Pink And Navy Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3620'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602979230_9faw_c041299c-43da-4175-82ce-1d516c5d2a20.jpg?v=1644724078&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Navy Pink Rose Floral Wallpaper/Peel and Stick Removable/Baby Girl  Nursery Decor/Large Print/Living Room Bedroom/Midnight">
+                                <img itemprop="contentUrl url" src='https://babymaes.com/cdn/shop/products/il_fullxfull.3655801909_hb40_78292fec-922c-4ae4-8ef5-ee7de78d1345.jpg?v=1663626597' alt='Maroon Navy Pink Rose Floral Wallpaper/Peel and Stick Removable/Baby Girl  Nursery Decor/Large Print/Living Room Bedroom/Midnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Maes" />
+                                </span>
+                                <a href='https://babymaes.com/cdn/shop/products/il_fullxfull.3655801909_hb40_78292fec-922c-4ae4-8ef5-ee7de78d1345.jpg?v=1663626597' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

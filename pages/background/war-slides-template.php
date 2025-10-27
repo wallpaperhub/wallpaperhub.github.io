@@ -1,0 +1,129 @@
+<title>Powerful War Slides Template for Engaging Presentations</title>
+                    <meta name="description" content="Present your insights on military history and strategies with our tailored war slides template. Perfectly designed for educators and professionals, these customizable slides will captivate your audience and enhance your presentations effortlessly. Get started today!">
+                    <meta name="keywords" content="war slides template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/war-slides-template">
+                            <span itemprop="name">war slides template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Powerful War Slides Template for Engaging Presentations</h1>
+                <p>Discover our unique war slides template, designed to present historical events, military strategies, or conflict analyses effectively. Each slide features customizable graphics, timelines, and bullet points, allowing you to deliver powerful presentations with ease. Perfect for educators, historians, and corporate trainers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="War Background Google Slides theme and PPT template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/13369506/conversions/0-war-background-thumb.jpg' alt='War Background Google Slides theme and PPT template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/13369506/conversions/0-war-background-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free War Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/19817164/world-war-ii-d-day-invasion1649837766.jpg' alt='Free War Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/19817164/world-war-ii-d-day-invasion1649837766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free - War Presentation Theme for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/c/b/cba70afed0e1ea651418b9a2e77f1f67033b5ac1cc6e7304ba399566e0bfab1f/war-theme-slide1.png' alt='Free - War Presentation Theme for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/c/b/cba70afed0e1ea651418b9a2e77f1f67033b5ac1cc6e7304ba399566e0bfab1f/war-theme-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free War Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/42348329/world-war-i-and-interwar-period-history-10th-grade1697031319.jpg' alt='Free War Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/42348329/world-war-i-and-interwar-period-history-10th-grade1697031319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Free War Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/23879706/vintage-style-war-invasion-lesson-for-middle-school1661258053.jpg' alt='Page 2 | Free War Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/23879706/vintage-style-war-invasion-lesson-for-middle-school1661258053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free War Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/23147414/social-studies-subject-for-middle-school-8th-grade-world-war-ii1658737804.jpg' alt='Free War Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/23147414/social-studies-subject-for-middle-school-8th-grade-world-war-ii1658737804.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first world war Free military powerpoint template">
+                                <img itemprop="contentUrl url" src='http://powerpoint-templates-free.com/image/cache/data/templates/military/The-first-world-war-650x500.jpg' alt='The first world war Free military powerpoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Power Point Templates" />
+                                </span>
+                                <a href='http://powerpoint-templates-free.com/image/cache/data/templates/military/The-first-world-war-650x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World War Presentation Theme for PowerPoint and Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://www.collidu.com/media/catalog/product/img1/b/5/b5a03db81b80633dfbf0ad7230670ba35025d4082ef0e96abe5f976bb997fb4d/world-war-theme-slide1.png' alt='World War Presentation Theme for PowerPoint and Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collidu" />
+                                </span>
+                                <a href='https://www.collidu.com/media/catalog/product/img1/b/5/b5a03db81b80633dfbf0ad7230670ba35025d4082ef0e96abe5f976bb997fb4d/world-war-theme-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free War Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/18536150/battle-of-vimy-ridge-thesis1647351543.jpg' alt='Free War Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/18536150/battle-of-vimy-ridge-thesis1647351543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro World War PowerPoint Templates and Google slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/88565-world-war-powerpoint-template.png' alt='Retro World War PowerPoint Templates and Google slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideEgg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/88565-world-war-powerpoint-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

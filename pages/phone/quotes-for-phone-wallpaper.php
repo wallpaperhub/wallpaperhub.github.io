@@ -1,0 +1,129 @@
+<title>Inspirational Quotes for Phone Wallpaper: Uplift Your Screen</title>
+                    <meta name="description" content="Discover the perfect quotes for your phone wallpaper! Elevate your mood and express your personality with inspiring, motivational, or funny quotes. Browse our collection today and turn your device into a source of daily inspiration. Perfect for anyone wanting to add positivity to their screen!">
+                    <meta name="keywords" content="quotes for phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/quotes-for-phone-wallpaper">
+                            <span itemprop="name">quotes for phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational Quotes for Phone Wallpaper: Uplift Your Screen</h1>
+                <p>Transform your phone with inspiring quotes for wallpaper! Quotes can motivate and uplift your spirits every time you unlock your device. Choose from daily affirmations, powerful sayings, or humorous lines. A well-chosen quote not only enhances your phone's aesthetic but also serves as a daily reminder of positivity and strength!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable Phone Wallpapers Inspirational Quotes | SheIn ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.allaboutgoodvibes.com/wp-content/uploads/2017/07/Wallpaper-Quotes-Dowload-All-About-Good-Vibes_5.jpg?fit=1066%2C1895&ssl=1' alt='Free Downloadable Phone Wallpapers Inspirational Quotes | SheIn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Good Vibes |" />
+                                </span>
+                                <a href='https://i0.wp.com/www.allaboutgoodvibes.com/wp-content/uploads/2017/07/Wallpaper-Quotes-Dowload-All-About-Good-Vibes_5.jpg?fit=1066%2C1895&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper 2025 quotes">
+                                <img itemprop="contentUrl url" src='https://viveconstyle.com/wp-content/uploads/2020/02/Lost-time-quote-mobile-wallpaper.jpg' alt='Phone wallpaper 2025 quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://viveconstyle.com/wp-content/uploads/2020/02/Lost-time-quote-mobile-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAExHBvuoCQ/1/0/900w/canva-nature-lake-mountains-balance-motivational-quote-phone-wallpaper-5y0rpIY2MOc.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAExHBvuoCQ/1/0/900w/canva-nature-lake-mountains-balance-motivational-quote-phone-wallpaper-5y0rpIY2MOc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Minimalist Quote Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/52/38/f952382c852651512fea91a052ab532a.jpg' alt='Colorful Minimalist Quote Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/52/38/f952382c852651512fea91a052ab532a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper 2025 quotes">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyNDYtaW5zdGFncmFtc3RvcnktMDIta3pkdHN5dnguanBn.jpg' alt='Phone wallpaper 2025 quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyNDYtaW5zdGFncmFtc3RvcnktMDIta3pkdHN5dnguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="480 Best Wallpaper quotes ideas | quotes, inspirational quotes, words">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9b/e2/0f/9be20fc5fd55d90d7646c96bc3ddf2bc.jpg' alt='480 Best Wallpaper quotes ideas | quotes, inspirational quotes, words'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9b/e2/0f/9be20fc5fd55d90d7646c96bc3ddf2bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your potential is endless inspirational quote wallpaper - VIVE CON ...">
+                                <img itemprop="contentUrl url" src='https://viveconstyle.com/wp-content/uploads/2021/11/Your-potential-is-endless.jpg' alt='Your potential is endless inspirational quote wallpaper - VIVE CON ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="vive con style" />
+                                </span>
+                                <a href='https://viveconstyle.com/wp-content/uploads/2021/11/Your-potential-is-endless.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspiring Quotes Phone Don't Worry Be Happy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/inspiring-quotes-phone-you-are-magic-0dmp535j00qj41x3.webp' alt='Inspiring Quotes Phone Don't Worry Be Happy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/inspiring-quotes-phone-you-are-magic-0dmp535j00qj41x3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFEkK-afAw/1/0/900w/canva-green-and-gray-minimalist-quote-phone-wallpaper-Kam0UR3xn4U.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFEkK-afAw/1/0/900w/canva-green-and-gray-minimalist-quote-phone-wallpaper-Kam0UR3xn4U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

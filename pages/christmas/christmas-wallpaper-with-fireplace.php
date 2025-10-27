@@ -1,0 +1,129 @@
+<title>Cozy Christmas Wallpaper: Fireplace Magic</title>
+                    <meta name="description" content="Discover the perfect Christmas wallpaper featuring a warm fireplace. Create a festive ambiance in your home, ideal for celebrating the holiday season. Transform your space with our beautiful designs, ensuring a cozy and inviting atmosphere for all your gatherings.">
+                    <meta name="keywords" content="christmas wallpaper with fireplace">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-with-fireplace">
+                            <span itemprop="name">christmas wallpaper with fireplace</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Christmas Wallpaper: Fireplace Magic</h1>
+                <p>Enhance your holiday spirit with our stunning Christmas wallpaper featuring a cozy fireplace. This festive backdrop brings warmth and cheer to any room, perfect for family gatherings or a peaceful night in. Embrace the joy of the season with crackling embers and twinkling lights, setting a magical ambiance for all your festivities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Christmas Tree Fireplace Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487756624/photo/christmas-glowing-fireplace-hearth-tree-red-stockings-gifts-and-decorations.jpg?s=612x612&w=0&k=20&c=G5q5C6R7YtyQLThxGC5GcZwazU1ut8MNL-b5tqkxInA=' alt='50,000+ Christmas Tree Fireplace Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487756624/photo/christmas-glowing-fireplace-hearth-tree-red-stockings-gifts-and-decorations.jpg?s=612x612&w=0&k=20&c=G5q5C6R7YtyQLThxGC5GcZwazU1ut8MNL-b5tqkxInA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Renaiss 10x7ft Christmas Fireplace Backdrop for Photography  Christmas Fireplace Decoration Background Xmas Trees Wreath Gifts Christmas  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Wme4-m9WL.jpg' alt='Amazon.com : Renaiss 10x7ft Christmas Fireplace Backdrop for Photography  Christmas Fireplace Decoration Background Xmas Trees Wreath Gifts Christmas  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Wme4-m9WL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Fireplace Background Images – Browse 306,294 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/01/00/57/360_F_301005745_eEiuVSkYf933954O2QRErPpHmiXODheh.jpg' alt='Christmas Fireplace Background Images – Browse 306,294 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/01/00/57/360_F_301005745_eEiuVSkYf933954O2QRErPpHmiXODheh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cozy Christmas Fireplace Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cozy-christmas-fireplace-dlg8cgse93s5lz4f.jpg' alt='100+] Cozy Christmas Fireplace Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DN Van Lines" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cozy-christmas-fireplace-dlg8cgse93s5lz4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Fireplace Wallpapers (32 images)">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/b/0/193567-1536x2048-samsung-hd-christmas-fireplace-background-photo.jpg' alt='Christmas Fireplace Wallpapers (32 images)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.newhopecreswell.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/b/0/193567-1536x2048-samsung-hd-christmas-fireplace-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Christmas Fireplace">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/84/d0/3f84d0c1d573f3c23ee2cec397b36088.jpg' alt='Warm Christmas Fireplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/84/d0/3f84d0c1d573f3c23ee2cec397b36088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="74,400+ Christmas Fireplace Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/520042571/photo/christmas-fireplace-tree-stockings-fire-hearth-lights-and-decorations.jpg?s=612x612&w=0&k=20&c=agzWg8vw0xS6kc-2WVzN0Rat21ohMdfI90nzD-8WXEc=' alt='74,400+ Christmas Fireplace Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/520042571/photo/christmas-fireplace-tree-stockings-fire-hearth-lights-and-decorations.jpg?s=612x612&w=0&k=20&c=agzWg8vw0xS6kc-2WVzN0Rat21ohMdfI90nzD-8WXEc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Fireplace - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/BxPGngY1_-H8v8AiZxq93vag3wOMnwe4iB5uYQA2gyqeFYh3-Qz5Ro-b0RH5ivADWA' alt='Christmas Fireplace - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/BxPGngY1_-H8v8AiZxq93vag3wOMnwe4iB5uYQA2gyqeFYh3-Qz5Ro-b0RH5ivADWA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy living room decorated for Christmas, with a warm fire burning and snow  falling outside, marking the cold winter season. Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2176485715/video/a-cozy-living-room-decorated-for-christmas-with-a-warm-fire-burning-and-snow-falling-outside.jpg?s=640x640&k=20&c=FDTrfPH8GYp6gGnPk6QdIkSjFEDoW8Cd__8bHffiFWc=' alt='Cozy living room decorated for Christmas, with a warm fire burning and snow  falling outside, marking the cold winter season. Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2176485715/video/a-cozy-living-room-decorated-for-christmas-with-a-warm-fire-burning-and-snow-falling-outside.jpg?s=640x640&k=20&c=FDTrfPH8GYp6gGnPk6QdIkSjFEDoW8Cd__8bHffiFWc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree And Fireplace - Wallpaper - FreeChristmasWallpapers.net">
+                                <img itemprop="contentUrl url" src='https://www.freechristmaswallpapers.net/web/wallpapers/thumbnail/Christmas-Tree-and-Fireplace_lg.jpeg' alt='Christmas Tree And Fireplace - Wallpaper - FreeChristmasWallpapers.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Christmas Wallpapers" />
+                                </span>
+                                <a href='https://www.freechristmaswallpapers.net/web/wallpapers/thumbnail/Christmas-Tree-and-Fireplace_lg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

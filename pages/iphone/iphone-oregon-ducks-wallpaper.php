@@ -1,0 +1,129 @@
+<title>Vibrant Oregon Ducks iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone oregon ducks wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-oregon-ducks-wallpaper">
+                            <span itemprop="name">iphone oregon ducks wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Oregon Ducks iPhone Wallpapers for Fans</h1>
+                <p>Enhance your iPhone's style with stunning Oregon Ducks wallpapers! Whether you're a die-hard fan or just love their colors, find a variety of designs that reflect your passion for sports. From the iconic logo to breathtaking landscapes, these wallpapers will make your iPhone stand out. Download now and show your Duck pride!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Ducks Background Iphone X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/dc/2e/6ddc2ec01af1cd48bf8ed588ffa13145.jpg' alt='Oregon Ducks Background Iphone X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/dc/2e/6ddc2ec01af1cd48bf8ed588ffa13145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Oregon Ducks Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/oregon-ducks-1080-x-1920-wallpaper-lcmak2jqoctaoebu.jpg' alt='100+] Oregon Ducks Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/oregon-ducks-1080-x-1920-wallpaper-lcmak2jqoctaoebu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Ducks Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/fb/a8/fcfba820019ad69c67084443bdc00447.jpg' alt='Oregon Ducks Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/fb/a8/fcfba820019ad69c67084443bdc00447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Football on X: "#WallpaperWednesday : throwback edition ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F8xUyFOawAACo6N.jpg:large' alt='Oregon Football on X: "#WallpaperWednesday : throwback edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F8xUyFOawAACo6N.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found this picture on Instagram, made it into a wallpaper for an ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/q44PG8_7CZxu8_-WUv2qOHdmT4ZDU9hwMdGpiZte7so.png?auto=webp&s=225fe36a629befeae67aad687b1ca4378d6e90bb' alt='Found this picture on Instagram, made it into a wallpaper for an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/q44PG8_7CZxu8_-WUv2qOHdmT4ZDU9hwMdGpiZte7so.png?auto=webp&s=225fe36a629befeae67aad687b1ca4378d6e90bb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Oregon ducks ideas | oregon ducks, oregon ducks football ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/55/09/48/55094894b9b27e1bac3d69b77e42da84.png' alt='95 Oregon ducks ideas | oregon ducks, oregon ducks football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/55/09/48/55094894b9b27e1bac3d69b77e42da84.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just a Simple Ducks iPhone 6 Wallpaper I created : r/ducks">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/wCQ2iG2uLbYlTxhiOHBpAj1tOyuuwSlmEJEDRJ2xYi8.jpg?width=640&crop=smart&auto=webp&s=c5c74d1141cb4f142eae0c0d7e0ede3c8858c938' alt='Just a Simple Ducks iPhone 6 Wallpaper I created : r/ducks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/wCQ2iG2uLbYlTxhiOHBpAj1tOyuuwSlmEJEDRJ2xYi8.jpg?width=640&crop=smart&auto=webp&s=c5c74d1141cb4f142eae0c0d7e0ede3c8858c938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Oregon Ducks wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Oregon-Ducks-wallpaper-logo-mobile-NCAA-2024.png' alt='2025 Oregon Ducks wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Oregon-Ducks-wallpaper-logo-mobile-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Oregon Ducks Football Team Logo Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/oregon-ducks-1080-x-1920-wallpaper-01cohrq1q1m8dcg1.jpg' alt='Download Oregon Ducks Football Team Logo Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/oregon-ducks-1080-x-1920-wallpaper-01cohrq1q1m8dcg1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Ducks Yellow, logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/636/147/HD-wallpaper-oregon-ducks-yellow-logo.jpg' alt='Oregon Ducks Yellow, logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/636/147/HD-wallpaper-oregon-ducks-yellow-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

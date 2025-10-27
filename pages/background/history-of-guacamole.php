@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Guacamole</title>
+                    <meta name="description" content="Explore the fascinating journey of guacamole from ancient Aztec origins to a modern culinary favorite. Learn about its ingredients, evolution, and cultural significance in this delicious dip loved worldwide.">
+                    <meta name="keywords" content="history of guacamole">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-guacamole">
+                            <span itemprop="name">history of guacamole</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Guacamole</h1>
+                <p>Guacamole has roots in ancient Mesoamerican cultures, dating back to the Aztecs, who made a delicious avocado-based dip called "ahuaca-molli." This creamy dish evolved over time, integrating flavors like lime and tomatoes. By the 20th century, guacamole gained popularity in the United States, becoming a beloved staple at parties and Mexican restaurants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn About the History of Guacamole | Avocados From Mexico">
+                                <img itemprop="contentUrl url" src='https://afm-6b83.kxcdn.com/wp-content/uploads/2019/09/guacamole-origin-and-history.png' alt='Learn About the History of Guacamole | Avocados From Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avocados From Mexico" />
+                                </span>
+                                <a href='https://afm-6b83.kxcdn.com/wp-content/uploads/2019/09/guacamole-origin-and-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guacamole: The Beloved Mexican Dip with a Spicy Ancient History">
+                                <img itemprop="contentUrl url" src='https://going-cms-strapi.s3.amazonaws.com/64d005b74741cb15adfdf4d4_guac1_256b87feec.webp' alt='Guacamole: The Beloved Mexican Dip with a Spicy Ancient History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott's Cheap Flights" />
+                                </span>
+                                <a href='https://going-cms-strapi.s3.amazonaws.com/64d005b74741cb15adfdf4d4_guac1_256b87feec.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ancient Origins Of Guacamole">
+                                <img itemprop="contentUrl url" src='https://www.thedailymeal.com/img/gallery/the-ancient-origins-of-guacamole/l-intro-1680412362.jpg' alt='The Ancient Origins Of Guacamole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Daily Meal" />
+                                </span>
+                                <a href='https://www.thedailymeal.com/img/gallery/the-ancient-origins-of-guacamole/l-intro-1680412362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brief History of Guacamole: Interesting Facts to Know - Casa Sensei">
+                                <img itemprop="contentUrl url" src='https://casasensei.com/wp-content/uploads/2019/05/Brief-History-of-Guacamole-Interesting-Facts-to-Know-1.jpg' alt='Brief History of Guacamole: Interesting Facts to Know - Casa Sensei'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casa Sensei" />
+                                </span>
+                                <a href='https://casasensei.com/wp-content/uploads/2019/05/Brief-History-of-Guacamole-Interesting-Facts-to-Know-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guacamole - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/64/Guacamole_IMGP1271.jpg' alt='Guacamole - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4672">
+                                <meta itemprop="height" content="3104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/64/Guacamole_IMGP1271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the history of guacamole? | Avocados From Mexico">
+                                <img itemprop="contentUrl url" src='https://avocadosfrommexico.com/wp-content/uploads/2020/01/FB.jpg' alt='What is the history of guacamole? | Avocados From Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avocados From Mexico" />
+                                </span>
+                                <a href='https://avocadosfrommexico.com/wp-content/uploads/2020/01/FB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Guacamole (And It's Not What You'd Expect!)">
+                                <img itemprop="contentUrl url" src='https://cdn.thecollector.com/wp-content/uploads/2024/01/history-guacamole.jpg?width=1400&quality=70' alt='A Brief History of Guacamole (And It's Not What You'd Expect!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheCollector" />
+                                </span>
+                                <a href='https://cdn.thecollector.com/wp-content/uploads/2024/01/history-guacamole.jpg?width=1400&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Guacamole Was Originally Prepared">
+                                <img itemprop="contentUrl url" src='https://www.tastingtable.com/img/gallery/how-guacamole-was-originally-prepared/l-intro-1655064276.jpg' alt='How Guacamole Was Originally Prepared'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tasting Table" />
+                                </span>
+                                <a href='https://www.tastingtable.com/img/gallery/how-guacamole-was-originally-prepared/l-intro-1655064276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyond the Guacamole: The true story of Mexico's green gold - The ...">
+                                <img itemprop="contentUrl url" src='https://thecookieproject.me/wp-content/uploads/2019/02/GUACAMOLE.jpg' alt='Beyond the Guacamole: The true story of Mexico's green gold - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cookie Project" />
+                                </span>
+                                <a href='https://thecookieproject.me/wp-content/uploads/2019/02/GUACAMOLE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Guacamole & All About the Avocado – Familia Kitchen">
+                                <img itemprop="contentUrl url" src='https://familiakitchen.com/wp-content/uploads/2021/04/MASTER-3-GUACAMOLE--1024x779.jpg' alt='The History of Guacamole & All About the Avocado – Familia Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Familia Kitchen" />
+                                </span>
+                                <a href='https://familiakitchen.com/wp-content/uploads/2021/04/MASTER-3-GUACAMOLE--1024x779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

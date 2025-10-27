@@ -1,0 +1,129 @@
+<title>Transform Your Space with Small Pattern Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add style to your home effortlessly with small pattern peel and stick wallpaper. Ideal for renters and DIY projects, these easy-to-apply designs let you refresh your space without the hassle. Explore a variety of charming patterns to create a unique ambiance that suits your style. Upgrade your decor today!">
+                    <meta name="keywords" content="small pattern peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/small-pattern-peel-and-stick-wallpaper">
+                            <span itemprop="name">small pattern peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Small Pattern Peel and Stick Wallpaper</h1>
+                <p>Small pattern peel and stick wallpaper is the perfect solution for adding charm and character to any room. Easy to apply and remove, it transforms your space without the commitment of traditional wallpaper. Ideal for renters or DIY enthusiasts, these designs enhance aesthetics while making a bold statement. Refresh your decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Print Peel and Stick Wallpaper / Abstract Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/2f18fb/2768365107/il_570xN.2768365107_sqmg.jpg' alt='Small Print Peel and Stick Wallpaper / Abstract Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/2f18fb/2768365107/il_570xN.2768365107_sqmg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 6ft x 2ft - Block Print Leaf,Farmhouse ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613IaWzPG4L._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 6ft x 2ft - Block Print Leaf,Farmhouse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613IaWzPG4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wallpaper With Elegant Small Black Leaf Pattern Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/1e03ab/2313373949/il_570xN.2313373949_j3qr.jpg' alt='White Wallpaper With Elegant Small Black Leaf Pattern Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/1e03ab/2313373949/il_570xN.2313373949_j3qr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Blue Floral Botanical Victorian Flower  Paisley Small Scale Daphne Block Print Tear Drop French Country Cottagecore  ...">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6917816447281320864.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Blue Floral Botanical Victorian Flower  Paisley Small Scale Daphne Block Print Tear Drop French Country Cottagecore  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6917816447281320864.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Print Peel and Stick Wallpaper / Minimalist Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/11a21a/2928598450/il_570xN.2928598450_dmvm.jpg' alt='Small Print Peel and Stick Wallpaper / Minimalist Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/11a21a/2928598450/il_570xN.2928598450_dmvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper | Removable & Easy To Install">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/33858/floral-medallion-wallpaper.jpg?q=1711546745' alt='Peel and Stick Wallpaper | Removable & Easy To Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/33858/floral-medallion-wallpaper.jpg?q=1711546745' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Pink Abstract Modern Hand Drawn Lines Waves  Moody Wonky Painted Textured Rustic Mark Making Small Scale Custom ...">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6918015560457835424.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Pink Abstract Modern Hand Drawn Lines Waves  Moody Wonky Painted Textured Rustic Mark Making Small Scale Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6918015560457835424.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Block Print Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/285/1462/block_print_peel_stick_wallpaper.jpg2__52042.1720034812.jpg?c=2' alt='Floral Block Print Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/285/1462/block_print_peel_stick_wallpaper.jpg2__52042.1720034812.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's the Little Things Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' alt='It's the Little Things Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper floral pattern small white flower Liberty style  Floral seamless for Wall Mural Modern Contact Paper Removable Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VM+hKkeuL.jpg' alt='Peel and Stick Wallpaper floral pattern small white flower Liberty style  Floral seamless for Wall Mural Modern Contact Paper Removable Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VM+hKkeuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

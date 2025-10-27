@@ -1,0 +1,129 @@
+<title>"Stylish Pink and Black Checkered Background Designs"</title>
+                    <meta name="description" content="Discover vibrant pink and black checkered backgrounds to elevate your designs. Perfect for graphics, events, or decor, these patterns add energy and modernity to any project. Explore various styles and bring your creative ideas to life with this trending aesthetic!">
+                    <meta name="keywords" content="pink and black checkered background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-black-checkered-background">
+                            <span itemprop="name">pink and black checkered background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stylish Pink and Black Checkered Background Designs"</h1>
+                <p>The pink and black checkered background is a striking visual element that combines bold colors and geometric patterns, perfect for adding a modern touch to any design. Ideal for events, graphic design, or interior decor, this eye-catching pattern conveys energy and style. Utilize it to create dynamic presentations, artwork, or social media graphics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered Pink and Black by lornakay | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/df/b0/a3dfb0eb18b6cbe7e89861bc086c8a11.jpg' alt='Checkered Pink and Black by lornakay | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/df/b0/a3dfb0eb18b6cbe7e89861bc086c8a11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink & Black Checkered Pattern, Repeat Digital File for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20350415/r/il/f8e644/5333636097/il_fullxfull.5333636097_lb6s.jpg' alt='Hot Pink & Black Checkered Pattern, Repeat Digital File for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20350415/r/il/f8e644/5333636097/il_fullxfull.5333636097_lb6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Backgrounds and Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/3d/77/9f/3d779f3192b56d33b1c1d039f286222c.jpg' alt='Pink Backgrounds and Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/3d/77/9f/3d779f3192b56d33b1c1d039f286222c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Black Checkerboard Stock Photo 1114173 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pink-black-checkerboard-260nw-1114173.jpg' alt='Pink Black Checkerboard Stock Photo 1114173 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pink-black-checkerboard-260nw-1114173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Black Check Pattern Wallpaper Image | ILLUSTLIVE">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/155.png' alt='Pink and Black Check Pattern Wallpaper Image | ILLUSTLIVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/155.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Black Checkered Seamless 12x12 Digital Background Pattern, Fabric  Tumbler Pattern JPG, Seamless Design File, Checkered Pattern">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24061939/r/il/6bde25/6009173570/il_570xN.6009173570_o5hb.jpg' alt='Pink and Black Checkered Seamless 12x12 Digital Background Pattern, Fabric  Tumbler Pattern JPG, Seamless Design File, Checkered Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24061939/r/il/6bde25/6009173570/il_570xN.6009173570_o5hb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and pink checkered pattern. Black and pink square background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/849/788/non_2x/black-and-pink-checkered-pattern-black-and-pink-square-background-checkered-wallpaper-free-vector.jpg' alt='Black and pink checkered pattern. Black and pink square background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/849/788/non_2x/black-and-pink-checkered-pattern-black-and-pink-square-background-checkered-wallpaper-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Black and pink distorted checkerboard background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/black-pink-distorted-checkerboard-background-retro-emo-psychedelic-checkered-wallpaper-wavy_497399-1501.jpg' alt='Premium Vector | Black and pink distorted checkerboard background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/black-pink-distorted-checkerboard-background-retro-emo-psychedelic-checkered-wallpaper-wavy_497399-1501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and pink distorted checkerboard background. Retro emo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2R1XA52/black-and-pink-distorted-checkerboard-background-retro-emo-psychedelic-checkered-wallpaper-wavy-groovy-chessboard-surface-trippy-twisted-geometric-pattern-abstract-vector-backdrop-2R1XA52.jpg' alt='Black and pink distorted checkerboard background. Retro emo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2R1XA52/black-and-pink-distorted-checkerboard-background-retro-emo-psychedelic-checkered-wallpaper-wavy-groovy-chessboard-surface-trippy-twisted-geometric-pattern-abstract-vector-backdrop-2R1XA52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Black Checkerboard Wallpaper with Stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/94/32/9b9432b3ef0428629de83f101cb125d8.jpg' alt='Pink and Black Checkerboard Wallpaper with Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/94/32/9b9432b3ef0428629de83f101cb125d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

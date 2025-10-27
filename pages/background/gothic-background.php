@@ -1,0 +1,129 @@
+<title>Explore the Allure of Gothic Backgrounds</title>
+                    <meta name="description" content="Discover captivating gothic backgrounds that blend dark aesthetics with atmospheric elements. Perfect for art, design, or storytelling, these backgrounds will transform your projects with a mysterious and intriguing flair. Dive into the world of gothic art and create an enchanting experience!">
+                    <meta name="keywords" content="gothic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gothic-background">
+                            <span itemprop="name">gothic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Allure of Gothic Backgrounds</h1>
+                <p>Gothic backgrounds evoke a sense of darkness and mystery, characterized by intricate architectural designs, eerie landscapes, and dramatic color palettes. They often include elements like towering cathedrals, fog-laden forests, and moonlit skies, creating an atmosphere perfect for storytelling, art, or enhancing any creative project with a touch of the macabre.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Gothic Wallpapers [+26 Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/157/gothic-victorian-wallpaper-2560x1440.jpg' alt='Victorian Gothic Wallpapers [+26 Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/157/gothic-victorian-wallpaper-2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Background STOCK by wyldraven on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28d76bd5-d854-4e2a-a4ca-9ee63cc9525c/d5ipdq3-efcbb883-a5ed-43c8-8cd3-143e07042ad0.jpg/v1/fill/w_800,h_808,q_75,strp/gothic_background_stock_by_wyldraven_d5ipdq3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA4IiwicGF0aCI6IlwvZlwvMjhkNzZiZDUtZDg1NC00ZTJhLWE0Y2EtOWVlNjNjYzk1MjVjXC9kNWlwZHEzLWVmY2JiODgzLWE1ZWQtNDNjOC04Y2QzLTE0M2UwNzA0MmFkMC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.T_Ytsakl57ddk610tDMBvjEhcYYi8IJU_K2034adG-k' alt='Gothic Background STOCK by wyldraven on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28d76bd5-d854-4e2a-a4ca-9ee63cc9525c/d5ipdq3-efcbb883-a5ed-43c8-8cd3-143e07042ad0.jpg/v1/fill/w_800,h_808,q_75,strp/gothic_background_stock_by_wyldraven_d5ipdq3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA4IiwicGF0aCI6IlwvZlwvMjhkNzZiZDUtZDg1NC00ZTJhLWE0Y2EtOWVlNjNjYzk1MjVjXC9kNWlwZHEzLWVmY2JiODgzLWE1ZWQtNDNjOC04Y2QzLTE0M2UwNzA0MmFkMC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.T_Ytsakl57ddk610tDMBvjEhcYYi8IJU_K2034adG-k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic background Stock Photos, Royalty Free Gothic background ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1909225/2646/i/450/depositphotos_26467175-stock-photo-fog-in-the-old-forest.jpg' alt='Gothic background Stock Photos, Royalty Free Gothic background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1909225/2646/i/450/depositphotos_26467175-stock-photo-fog-in-the-old-forest.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' alt='Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Goth Aesthetic Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/46/2b/ac/462bac4f84c7fff1022f294459f1d1e9.jpg' alt='Black Goth Aesthetic Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/46/2b/ac/462bac4f84c7fff1022f294459f1d1e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,300+ Gothic Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/134252830/vector/seamless-damask-wallpaper.jpg?s=612x612&w=0&k=20&c=XIkbW171dJbaiWzvwBlpaHFXXL2IpKAlwSOuxj704js=' alt='41,300+ Gothic Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/134252830/vector/seamless-damask-wallpaper.jpg?s=612x612&w=0&k=20&c=XIkbW171dJbaiWzvwBlpaHFXXL2IpKAlwSOuxj704js=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Gothic Background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/37/42/89/15/700_FO37428915_aea238797899fe9c61d18b7fbcd38a8c.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/wall-murals-gothic-background.jpg.jpg' alt='Wall Mural Gothic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/37/42/89/15/700_FO37428915_aea238797899fe9c61d18b7fbcd38a8c.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/wall-murals-gothic-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="719,400+ Gothic Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/481278500/vector/gothic-arch.jpg?s=612x612&w=0&k=20&c=onUdKebHxpyDUhNyC4YZsEGL5rffCjBBmQ7rHdgVT08=' alt='719,400+ Gothic Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/481278500/vector/gothic-arch.jpg?s=612x612&w=0&k=20&c=onUdKebHxpyDUhNyC4YZsEGL5rffCjBBmQ7rHdgVT08=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/959/922/non_2x/gothic-aesthetic-background-with-authentic-object-free-vector.jpg' alt='Gothic Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/959/922/non_2x/gothic-aesthetic-background-with-authentic-object-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLFK Peel and Stick Gothic Black Wallpaper, Vintage Floral Pattern, 16in x  64in, for Walls, Kitchen, Bathroom, Bedroom, Living Room, Dining Room, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vYmZMz6CL.jpg' alt='FLFK Peel and Stick Gothic Black Wallpaper, Vintage Floral Pattern, 16in x  64in, for Walls, Kitchen, Bathroom, Bedroom, Living Room, Dining Room, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vYmZMz6CL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

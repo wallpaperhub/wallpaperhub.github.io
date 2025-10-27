@@ -1,0 +1,129 @@
+<title>Aesthetic White Heart Wallpaper for a Serene Look</title>
+                    <meta name="description" content="Explore our collection of aesthetic white heart wallpapers, perfect for adding a touch of elegance to your screens. Ideal for minimalists, these designs create a calming and stylish atmosphere with soft tones and delicate motifs. Elevate your device's appearance effortlessly!">
+                    <meta name="keywords" content="aesthetic white heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-white-heart-wallpaper">
+                            <span itemprop="name">aesthetic white heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic White Heart Wallpaper for a Serene Look</h1>
+                <p>Aesthetic white heart wallpaper is perfect for those seeking a serene and romantic atmosphere. The soft, ethereal design brings a touch of elegance to any device, whether it's your phone or computer. Ideal for minimalists, these wallpapers showcase soothing white tones and delicate heart motifs, creating a calming yet stylish backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart wallpaper iPhone phone aesthetic white simple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/09/00/e5/0900e50606c36f5a15f9054f44730d6e.jpg' alt='Heart wallpaper iPhone phone aesthetic white simple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/09/00/e5/0900e50606c36f5a15f9054f44730d6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i couldnt find these white aesthetic hearts so i made one♥︎">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/aa/24/70/aa24704b0cfa5be391cc48b3da093bcc.jpg' alt='i couldnt find these white aesthetic hearts so i made one♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/aa/24/70/aa24704b0cfa5be391cc48b3da093bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic White Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-white-hearts-vwi5sv9xvizzwyrg.jpg' alt='Aesthetic White Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-white-hearts-vwi5sv9xvizzwyrg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/72/96/f872968404b53ef5f812d4adc93f5651.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/72/96/f872968404b53ef5f812d4adc93f5651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White heart wallpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d8/b8/b9/d8b8b92089fc681cda527e5eb36ef75b.jpg' alt='White heart wallpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d8/b8/b9/d8b8b92089fc681cda527e5eb36ef75b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist White Heart And Line Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minimalist-white-heart-and-line-2ak4zid6yhet7gt1.jpg' alt='Minimalist White Heart And Line Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minimalist-white-heart-and-line-2ak4zid6yhet7gt1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile-544x900.png' alt='Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkipToMyLou.org" />
+                                </span>
+                                <a href='https://i2.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile-544x900.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic White Heart Background in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74223/Free-Aesthetic-White-Heart-Background-Portrait-01-2.jpg' alt='Aesthetic White Heart Background in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74223/Free-Aesthetic-White-Heart-Background-Portrait-01-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Heart Paw Print Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-black-and-white-heart-pattern-0gyj7zimt4y1h6vg.webp' alt='Black And White Heart Paw Print Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-black-and-white-heart-pattern-0gyj7zimt4y1h6vg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white aesthetic heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' alt='Black and white aesthetic heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

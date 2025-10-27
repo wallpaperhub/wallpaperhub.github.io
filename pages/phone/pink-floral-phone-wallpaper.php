@@ -1,0 +1,129 @@
+<title>Stunning Pink Floral Phone Wallpaper for a Chic Look</title>
+                    <meta name="description" content="Discover beautiful pink floral phone wallpapers that enhance your device's style. These elegant designs bring a soft, feminine touch to your mobile screen, perfect for any floral lover. Choose your favorite floral pattern and give your phone a fresh, vibrant makeover today!">
+                    <meta name="keywords" content="pink floral phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/pink-floral-phone-wallpaper">
+                            <span itemprop="name">pink floral phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Floral Phone Wallpaper for a Chic Look</h1>
+                <p>Transform your phone with our stunning pink floral wallpaper! Perfect for adding a touch of elegance and femininity to your device, this delightful design features vibrant blooms set against soft, pastel hues. Enjoy a fresh and uplifting vibe every time you unlock your phone with our beautiful floral backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Заставка">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' alt='Pin on Заставка'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Pink Floral Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-pink-floral-iphone-n26vmbx8k3k0lw2b.jpg' alt='100+] Light Pink Floral Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-pink-floral-iphone-n26vmbx8k3k0lw2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pastel Pink Phone Wallpaper with Pink Flowers">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pastel-pink-phone-wallpaper-with-pink-flowers_635153-77.jpg?w=360' alt='Premium Vector | Pastel Pink Phone Wallpaper with Pink Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pastel-pink-phone-wallpaper-with-pink-flowers_635153-77.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Flowers | Pastel iphone wallpaper, Flower iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/9c/e3/2d9ce3beae7369eda0d613a20f420689.jpg' alt='Tiny Flowers | Pastel iphone wallpaper, Flower iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/9c/e3/2d9ce3beae7369eda0d613a20f420689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Flower Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-flower-phone-41wif22kt704lv9i.jpg' alt='100+] Pink Flower Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-flower-phone-41wif22kt704lv9i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Bliss Pink Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/floral-bliss-pink-wallpaper.webp' alt='Floral Bliss Pink Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/floral-bliss-pink-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral Phone Wallpapers • Summer Collection • Photo Backdrops ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1408378140236-A53PJ0IV6P3J8LP56LKW/floral+phone+wallpaper' alt='Free Floral Phone Wallpapers • Summer Collection • Photo Backdrops ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capture by Lucy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1408378140236-A53PJ0IV6P3J8LP56LKW/floral+phone+wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And White Floral Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-and-white-floral-iphone-sfguybjw2e7lcx34.jpg' alt='Pink And White Floral Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-and-white-floral-iphone-sfguybjw2e7lcx34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Pink Flowers Pattern Phone Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-watercolor-pink-flowers-pattern-phone-wallpaper-picture-image_1454747.jpg' alt='Watercolor Pink Flowers Pattern Phone Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-watercolor-pink-flowers-pattern-phone-wallpaper-picture-image_1454747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA1Yi0wMS5qcGc.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA1Yi0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

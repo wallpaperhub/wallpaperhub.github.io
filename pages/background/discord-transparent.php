@@ -1,0 +1,129 @@
+<title>Enhance Your Discord Experience with Transparent Themes</title>
+                    <meta name="description" content="Discover how to elevate your Discord setup with transparent themes! Create a visually appealing interface that minimizes distractions while enhancing your chats. Explore community-created themes and tips for optimal customization. Transform your Discord experience today!">
+                    <meta name="keywords" content="discord transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-transparent">
+                            <span itemprop="name">discord transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Discord Experience with Transparent Themes</h1>
+                <p>Discord transparent themes enable users to customize their experience by applying a sleek, see-through interface. This reduces visual clutter and enhances the overall aesthetic, making chats more engaging. To maximize functionality, users can explore various transparency options crafted by the community, creating a unique vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="discord logo png, discord icon transparent png 18930500 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/892/623/non_2x/discord-logo-icon-editorial-free-vector.jpg' alt='discord logo png, discord icon transparent png 18930500 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/892/623/non_2x/discord-logo-icon-editorial-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord app logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/62b2261f038aad4d3ed7ca48.png' alt='Discord app logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/62b2261f038aad4d3ed7ca48.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Logo PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180715/faz/aav06vw3u.webp' alt='Discord Logo PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180715/faz/aav06vw3u.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord logo png, Discord logo transparent png, Discord icon ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/986/998/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png' alt='Discord logo png, Discord logo transparent png, Discord icon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/986/998/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png' alt='Discord Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Black Icon PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/discord-black-icon-1.png' alt='Discord Black Icon PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/discord-black-icon-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Icon PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240209/evz/transparent-discord-icon-blue-face-with-wide-open-eyes-and-1710882578305.webp' alt='Discord Icon PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240209/evz/transparent-discord-icon-blue-face-with-wide-open-eyes-and-1710882578305.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord logo PNG transparent image download, size: 1600x1600px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/uploads/discord/small/discord_PNG16.png' alt='Discord logo PNG transparent image download, size: 1600x1600px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/uploads/discord/small/discord_PNG16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Logo Transparent image for Free Download">
+                                <img itemprop="contentUrl url" src='https://freepnglogo.com/images/all_img/1708701266discord-logo-transparent.png' alt='Discord Logo Transparent image for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepnglogo" />
+                                </span>
+                                <a href='https://freepnglogo.com/images/all_img/1708701266discord-logo-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord" Icon - Download for free – Iconduck">
+                                <img itemprop="contentUrl url" src='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' alt='Discord" Icon - Download for free – Iconduck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconduck" />
+                                </span>
+                                <a href='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Traumacore: A Distinctive Aesthetic</title>
+                    <meta name="description" content="Explore the unique world of traumacore, an aesthetic that confronts themes of trauma and emotional depth through art, music, and fashion. Discover how this movement challenges conventional beauty standards and expresses raw vulnerability. Join the conversation around trauma, mental health, and self-expression.">
+                    <meta name="keywords" content="traumacore background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/traumacore-background">
+                            <span itemprop="name">traumacore background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Traumacore: A Distinctive Aesthetic</h1>
+                <p>Traumacore is an aesthetic that explores themes of distress and trauma, often depicted through visual art, music, and fashion. It emphasizes raw emotions and personal narratives, showcasing imagery that evokes feelings of pain, mental health struggles, and vulnerability. This unique subculture challenges traditional beauty norms by embracing discomfort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traumacore | Aesthetics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aesthetics/images/7/7a/Pink_Traumacore.jpg/revision/latest?cb=20230724003020' alt='Traumacore | Aesthetics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aesthetics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aesthetics/images/7/7a/Pink_Traumacore.jpg/revision/latest?cb=20230724003020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="are these more liminal or traumacore? : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/are-these-more-liminal-or-traumacore-v0-hxae6tguapec1.jpg?width=1321&format=pjpg&auto=webp&s=963460af3a2083121754e04d0f30273d6f12c331' alt='are these more liminal or traumacore? : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1321">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/are-these-more-liminal-or-traumacore-v0-hxae6tguapec1.jpg?width=1321&format=pjpg&auto=webp&s=963460af3a2083121754e04d0f30273d6f12c331' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a background for y'all : r/traumacore">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/teavewjea9g61.png' alt='a background for y'all : r/traumacore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/teavewjea9g61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made these wallpapers before I had ever heard of traumacore. Obv ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-these-wallpapers-before-i-had-ever-heard-of-traumacore-v0-t3616qnjvbm91.jpg?width=640&crop=smart&auto=webp&s=307fc6fdc51e0d7649d0387da754442011c5d4a0' alt='Made these wallpapers before I had ever heard of traumacore. Obv ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-these-wallpapers-before-i-had-ever-heard-of-traumacore-v0-t3616qnjvbm91.jpg?width=640&crop=smart&auto=webp&s=307fc6fdc51e0d7649d0387da754442011c5d4a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD traumacore wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/802/387/HD-wallpaper-dreamy-dreamcore-kidcore-trauma-traumacore-thumbnail.jpg' alt='HD traumacore wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/802/387/HD-wallpaper-dreamy-dreamcore-kidcore-trauma-traumacore-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traumacore wallpaper by zer0inneedofhelp - Download on ZEDGE™ | 97cc">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=htlL18OFQBm2z7x_XUDg_IHErFxhh5wNX8QR8Pj1M8OUfe24uT8xjOX16bXQpjahrar3CtpuoDt2JAG7u5LAN8dsZSd0eqJJakKbxnUtHC3HlmcBUXT3zCquPwRLOwzaFFWB_VyizZXTDPjOHwAq1ifv4j8KEX9xoraCkm7sqwRMy_UdFAqe5vWJmELo4jP5bBBk-5RttFympVjpjEyLCd41tfWdo7rgdwA7zObqcVNEkGQNHfcgFGQdlW8' alt='Traumacore wallpaper by zer0inneedofhelp - Download on ZEDGE™ | 97cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=htlL18OFQBm2z7x_XUDg_IHErFxhh5wNX8QR8Pj1M8OUfe24uT8xjOX16bXQpjahrar3CtpuoDt2JAG7u5LAN8dsZSd0eqJJakKbxnUtHC3HlmcBUXT3zCquPwRLOwzaFFWB_VyizZXTDPjOHwAq1ifv4j8KEX9xoraCkm7sqwRMy_UdFAqe5vWJmELo4jP5bBBk-5RttFympVjpjEyLCd41tfWdo7rgdwA7zObqcVNEkGQNHfcgFGQdlW8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traumacore Background : r/traumacore">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/traumacore-background-v0-lyw12mrh9sxd1.jpg?width=640&crop=smart&auto=webp&s=123e6f08288ee9b1d097b932a46963c589c2c338' alt='Traumacore Background : r/traumacore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/traumacore-background-v0-lyw12mrh9sxd1.jpg?width=640&crop=smart&auto=webp&s=123e6f08288ee9b1d097b932a46963c589c2c338' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traumacore: Sadscape Aesthetics – Ahr Index">
+                                <img itemprop="contentUrl url" src='https://abighauntedhouse.wordpress.com/wp-content/uploads/2020/05/img_2545.jpg' alt='Traumacore: Sadscape Aesthetics – Ahr Index'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ahr Index - WordPress.com" />
+                                </span>
+                                <a href='https://abighauntedhouse.wordpress.com/wp-content/uploads/2020/05/img_2545.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discuss Everything About Aesthetics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aesthetics/images/7/7a/Pink_Traumacore.jpg/revision/latest/smart/width/400/height/225?cb=20230724003020' alt='Discuss Everything About Aesthetics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discuss Everything About Aesthetics Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aesthetics/images/7/7a/Pink_Traumacore.jpg/revision/latest/smart/width/400/height/225?cb=20230724003020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Traumacore Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/59/93/13/5993138806a9139ed50f36a94b5dcc59.jpg' alt='Awesome Traumacore Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="201">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/59/93/13/5993138806a9139ed50f36a94b5dcc59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

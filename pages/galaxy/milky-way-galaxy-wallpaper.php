@@ -1,0 +1,129 @@
+<title>Stunning Milky Way Galaxy Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover breathtaking Milky Way galaxy wallpapers that enhance your screen with cosmic beauty. Perfect for stargazers and space enthusiasts, these wallpapers offer a glimpse into the universe, making your device stand out. Download now for a celestial experience!">
+                    <meta name="keywords" content="milky way galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/milky-way-galaxy-wallpaper">
+                            <span itemprop="name">milky way galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Milky Way Galaxy Wallpaper for Your Device</h1>
+                <p>Transform your screen with stunning Milky Way galaxy wallpaper that captures the beauty and mystery of our universe. Each design features vibrant stars, cosmic clouds, and enchanting colors, bringing the vastness of space right to your device. Perfect for astronomy lovers and anyone who enjoys captivating visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Photos, Download The BEST Free Milky Way Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg' alt='Milky Way Photos, Download The BEST Free Milky Way Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3798">
+                                <meta itemprop="height" content="5689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The most awesome photo of the Milky Way I've seen yet. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/oluRUXCVMJCCK2Qyg_atG7_MoK5OZF6cKNS6huFsvDQ.jpg?width=640&crop=smart&auto=webp&s=5f85f8ada26a096b030323f8c0cd9a0ce982222b' alt='The most awesome photo of the Milky Way I've seen yet. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/oluRUXCVMJCCK2Qyg_atG7_MoK5OZF6cKNS6huFsvDQ.jpg?width=640&crop=smart&auto=webp&s=5f85f8ada26a096b030323f8c0cd9a0ce982222b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Galaxy" Images – Browse 590,355 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/98/64/17/360_F_498641728_eKk5sd3SLDF6JKNjHBavaFTbSKnOZ9fy.jpg' alt='Milky Way Galaxy" Images – Browse 590,355 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/98/64/17/360_F_498641728_eKk5sd3SLDF6JKNjHBavaFTbSKnOZ9fy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Best Milky Way Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533683083439-1a776a5653cb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWlsa3klMjB3YXl8ZW58MHx8MHx8fDA%3D' alt='500+ Best Milky Way Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533683083439-1a776a5653cb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWlsa3klMjB3YXl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Galaxy In Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/milky-way-galaxy-in-space-iphone-55n66r631hrsrbvy.jpg' alt='Milky Way Galaxy In Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/milky-way-galaxy-in-space-iphone-55n66r631hrsrbvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Photos, Download The BEST Free Milky Way Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1205301/pexels-photo-1205301.jpeg?cs=srgb&dl=pexels-felixmittermeier-1205301.jpg&fm=jpg' alt='Milky Way Photos, Download The BEST Free Milky Way Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6801">
+                                <meta itemprop="height" content="2921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1205301/pexels-photo-1205301.jpeg?cs=srgb&dl=pexels-felixmittermeier-1205301.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unique Views of the Milky Way Space Wallpaper | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/kfwqMYNPFCzaocyztB4wn5.jpg' alt='Unique Views of the Milky Way Space Wallpaper | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/kfwqMYNPFCzaocyztB4wn5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Milky Way Galaxy Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1515705576963-95cad62945b6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWlsa3klMjB3YXklMjBnYWxheHl8ZW58MHx8MHx8fDA%3D' alt='500+ Milky Way Galaxy Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1515705576963-95cad62945b6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWlsa3klMjB3YXklMjBnYWxheHl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Wallpaper - Space HD Wallpapers - HDwallpapers.net">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.net/previews/milky-way-696.jpg' alt='Milky Way Wallpaper - Space HD Wallpapers - HDwallpapers.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.net/previews/milky-way-696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Milky Way Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/milky-way-qm880qoivnph7k2b.jpg' alt='200+] Milky Way Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/milky-way-qm880qoivnph7k2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

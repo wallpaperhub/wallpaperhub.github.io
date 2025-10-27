@@ -1,0 +1,129 @@
+<title>Goth Spring Wallpapers: Dark Aesthetic Meets Blooming Beauty</title>
+                    <meta name="description" content="Discover captivating goth spring wallpapers that fuse dark elegance with vibrant blooms. Perfect for adding a unique touch to your device, these wallpapers celebrate the beauty of spring while embracing a gothic style. Download your favorites today for a fresh, edgy look!">
+                    <meta name="keywords" content="goth spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/goth-spring-wallpaper">
+                            <span itemprop="name">goth spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goth Spring Wallpapers: Dark Aesthetic Meets Blooming Beauty</h1>
+                <p>Transform your device with stunning goth spring wallpapers that embrace dark elegance and whimsical charm. Featuring motifs of blooming flowers intertwined with gothic elements, these wallpapers capture the essence of spring while showcasing a unique aesthetic. Perfect for those who love a blend of beauty and darkness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Dark Gothic Wallpaper Skulls Ferns Peel and Stick Wallpaper Floral  Wallpaper for Bedroom Bathroom Living Room 17.7''x118'' Removable Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/VEELIKE-Dark-Gothic-Wallpaper-Skulls-Ferns-Peel-and-Stick-Wallpaper-Floral-Wallpaper-for-Bedroom-Bathroom-Living-Room-17-7-x118_5fae97fc-729f-42f1-8e99-71bae5af96a4.e39ffccd1bd2935bf8eb5fe702c492fd.jpeg' alt='VEELIKE Dark Gothic Wallpaper Skulls Ferns Peel and Stick Wallpaper Floral  Wallpaper for Bedroom Bathroom Living Room 17.7''x118'' Removable Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/VEELIKE-Dark-Gothic-Wallpaper-Skulls-Ferns-Peel-and-Stick-Wallpaper-Floral-Wallpaper-for-Bedroom-Bathroom-Living-Room-17-7-x118_5fae97fc-729f-42f1-8e99-71bae5af96a4.e39ffccd1bd2935bf8eb5fe702c492fd.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Wallpaper, Gothic Wallpaper, Tropical Wallpaper, Goth ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/206459/3932484895/il_570xN.3932484895_tcok.jpg' alt='Skull Wallpaper, Gothic Wallpaper, Tropical Wallpaper, Goth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/206459/3932484895/il_570xN.3932484895_tcok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Raven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://deccoprint.com/cdn/shop/files/Gothic_Raven_Wallpaper_-_DeccoPrint-4137002_c368e5bf-51f1-4017-90a6-e5ecbe7fe006_2048x.jpg?v=1734706284' alt='Gothic Raven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeccoPrint" />
+                                </span>
+                                <a href='https://deccoprint.com/cdn/shop/files/Gothic_Raven_Wallpaper_-_DeccoPrint-4137002_c368e5bf-51f1-4017-90a6-e5ecbe7fe006_2048x.jpg?v=1734706284' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsi Gothic Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15624542/p/f/m/FXI7c4OPIXMMZakUqRorDXknKn5Y41dQ0qkmMXmokz2NynV5gjokOewErA/gothic%20garden.jpg' alt='Whimsi Gothic Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15624542/p/f/m/FXI7c4OPIXMMZakUqRorDXknKn5Y41dQ0qkmMXmokz2NynV5gjokOewErA/gothic%20garden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Spring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12189948.jpg' alt='Gothic Spring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12189948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses_dkpink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/43/92/2d4392cdf91d6aafbba9f5855d472490.jpg' alt='Roses_dkpink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/43/92/2d4392cdf91d6aafbba9f5855d472490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spring gothic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/516/659/HD-wallpaper-%E2%9C%B0brilliant-butterfly-dragonfly%E2%9C%B0-pretty-grass-clouds-sweet-sparkle-flutter-butterfly-splendor-gothic-love-bright-flowers-butterfly-designs-wings-lovely-creative-pre-made-sky.jpg' alt='HD spring gothic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/516/659/HD-wallpaper-%E2%9C%B0brilliant-butterfly-dragonfly%E2%9C%B0-pretty-grass-clouds-sweet-sparkle-flutter-butterfly-splendor-gothic-love-bright-flowers-butterfly-designs-wings-lovely-creative-pre-made-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40990538/r/il/42934a/4626164368/il_fullxfull.4626164368_rr86.jpg' alt='Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40990538/r/il/42934a/4626164368/il_fullxfull.4626164368_rr86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/7a/02/ca7a020f92776206a486123133eddd03.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/7a/02/ca7a020f92776206a486123133eddd03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Sunflower Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13708194/p/f/m/0_HnpuGWu5Qo3FboWrNbbTvSOcIPvK8rZSSBOTT_WfnEf-JnvwWzl2ukVTIc/Dark%20Cottagecore%20Fall%20Spooky%20Garden%20Halloween%20Goth%20Gardening%20Plague%20Doctor%20Pastel%20Goth%20Sage%20Green.jpg' alt='Goth Sunflower Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13708194/p/f/m/0_HnpuGWu5Qo3FboWrNbbTvSOcIPvK8rZSSBOTT_WfnEf-JnvwWzl2ukVTIc/Dark%20Cottagecore%20Fall%20Spooky%20Garden%20Halloween%20Goth%20Gardening%20Plague%20Doctor%20Pastel%20Goth%20Sage%20Green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

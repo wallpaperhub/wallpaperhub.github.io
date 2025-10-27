@@ -1,0 +1,129 @@
+<title>Stunning Tom and Jerry Background Art: Explore the Visual Magic</title>
+                    <meta name="description" content="Discover the captivating background art from Tom and Jerry, showcasing the artistry that enriches this beloved cartoon. Dive into vibrant scenes and detailed settings that complement the hilarious antics of this timeless duo. Experience the enchanting visuals that have made Tom and Jerry a classic for generations!">
+                    <meta name="keywords" content="tom and jerry background art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tom-and-jerry-background-art">
+                            <span itemprop="name">tom and jerry background art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tom and Jerry Background Art: Explore the Visual Magic</h1>
+                <p>Tom and Jerry, the iconic cat-and-mouse duo, is celebrated for its vibrant background art that enhances the comedic antics. Each scene is meticulously crafted, showcasing rich colors and detailed settings that transport viewers into their chaotic world. From suburban homes to whimsical landscapes, these backgrounds play a crucial role in the storytelling, making every chase unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom and Jerry | 8x10" Art | Skyline | New York | Tom & Jerry ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14501375/r/il/e81fa5/5134678931/il_fullxfull.5134678931_d1cx.jpg' alt='Tom and Jerry | 8x10" Art | Skyline | New York | Tom & Jerry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14501375/r/il/e81fa5/5134678931/il_fullxfull.5134678931_d1cx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recreating The Iconic 'Mouse in Manhattan' Scenery From Tom ...">
+                                <img itemprop="contentUrl url" src='https://icanbecreative.com/resources/files/articles/recreating-mouse-in-manhattan-scenery-tom-jerry-classic-cartoons/recreating-mouse-in-manhattan-scenery-tom-jerry-classic-cartoons-39.jpg' alt='Recreating The Iconic 'Mouse in Manhattan' Scenery From Tom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="icanbecreative" />
+                                </span>
+                                <a href='https://icanbecreative.com/resources/files/articles/recreating-mouse-in-manhattan-scenery-tom-jerry-classic-cartoons/recreating-mouse-in-manhattan-scenery-tom-jerry-classic-cartoons-39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/e4/da/69e4da5d103058a347d9e7bc70b1f509.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/e4/da/69e4da5d103058a347d9e7bc70b1f509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Even though Gene Deitch made the worst Tom and Jerry overall, the ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/M2PhFKPTPDxRElZ-siYYGZe9jObtG4wWeaf5BqtkR7Q.jpg?width=640&crop=smart&auto=webp&s=ee900701ca3b1a507a2c421957c681910f1a788d' alt='Even though Gene Deitch made the worst Tom and Jerry overall, the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/M2PhFKPTPDxRElZ-siYYGZe9jObtG4wWeaf5BqtkR7Q.jpg?width=640&crop=smart&auto=webp&s=ee900701ca3b1a507a2c421957c681910f1a788d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom & Jerry. Part Time Pal. Animation Backgrounds.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/78/c5/ba78c5dba42958ee3f0643d273cd23fe.jpg' alt='Tom & Jerry. Part Time Pal. Animation Backgrounds.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/78/c5/ba78c5dba42958ee3f0643d273cd23fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom and Jerry backgrounds : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1l0jg4se6el81.jpg' alt='Tom and Jerry backgrounds : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1l0jg4se6el81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tralfaz: Manhattan">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9hz_2BZ_5px4in2o_QUGKV4V0HMmoYuowDGI9nojmLk0aoXOVamXt4xsvqbvsuwQ3D_vdr6jpOaWGgCO7VFCSLEpy3O0kkfbO4wLnuHDZPh_9mvixPwvuAzVd-llocrjFWbdA4VbVzwH/s1600/MOUSE+IN+MANHATTAN+%252810%2529.png' alt='Tralfaz: Manhattan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tralfaz" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9hz_2BZ_5px4in2o_QUGKV4V0HMmoYuowDGI9nojmLk0aoXOVamXt4xsvqbvsuwQ3D_vdr6jpOaWGgCO7VFCSLEpy3O0kkfbO4wLnuHDZPh_9mvixPwvuAzVd-llocrjFWbdA4VbVzwH/s1600/MOUSE+IN+MANHATTAN+%252810%2529.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom & Jerry: The Slicked-Up Pup. Animation Backgrounds.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/88/e4/fb88e4dede928cb12f721d4b95feadad.jpg' alt='Tom & Jerry: The Slicked-Up Pup. Animation Backgrounds.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/88/e4/fb88e4dede928cb12f721d4b95feadad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom and Jerry- Mouse in Manhattan (1945) background art - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/m8DcOAB.jpeg' alt='Tom and Jerry- Mouse in Manhattan (1945) background art - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/m8DcOAB.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The scenes from Tom and Jerry look so liminal : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-scenes-from-tom-and-jerry-look-so-liminal-v0-r4gij2qiuk5b1.png?width=1080&format=png&auto=webp&s=d705ff0a5134471319eba52c76dce65a4cf2061a' alt='The scenes from Tom and Jerry look so liminal : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-scenes-from-tom-and-jerry-look-so-liminal-v0-r4gij2qiuk5b1.png?width=1080&format=png&auto=webp&s=d705ff0a5134471319eba52c76dce65a4cf2061a' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

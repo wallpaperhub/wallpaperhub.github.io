@@ -1,0 +1,129 @@
+<title>Stunning Artistic Backgrounds for Your Projects</title>
+                    <meta name="description" content="Explore creative artistic backgrounds to enrich your designs! Perfect for digital art, presentations, and more, these unique visuals add depth and engagement to your projects. Discover vibrant options that elevate your work today!">
+                    <meta name="keywords" content="astic backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/astic-backgrounds">
+                            <span itemprop="name">astic backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Artistic Backgrounds for Your Projects</h1>
+                <p>Artistic backgrounds can elevate any project, providing depth and character. From vibrant watercolors to intricate patterns, these unique designs serve as the perfect backdrop for visuals. Whether for digital art, presentations, or websites, incorporating artistic backgrounds enhances aesthetics and engages audiences effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Cute astic ideas | iphone wallpaper vintage, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/68/78/87/68788710853b9378091fbb57b80c9ccc.jpg' alt='27 Cute astic ideas | iphone wallpaper vintage, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/68/78/87/68788710853b9378091fbb57b80c9ccc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astatic, astic, cute, fun, happy, love, motivational, popular, sad ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/22/114/HD-wallpaper-astatic-astic-cute-fun-happy-love-motivational-popular-sad-trend-vsco.jpg' alt='Astatic, astic, cute, fun, happy, love, motivational, popular, sad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/22/114/HD-wallpaper-astatic-astic-cute-fun-happy-love-motivational-popular-sad-trend-vsco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Cute astic ideas | iphone wallpaper vintage, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2d/fd/35/2dfd35caa77e9e3db442748e8dc2984b.jpg' alt='27 Cute astic ideas | iphone wallpaper vintage, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2d/fd/35/2dfd35caa77e9e3db442748e8dc2984b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy your favorite cartoons on-the-go with the Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cartoon-aesthetic-iphone-bk5cw4vv42opaj5l.jpg' alt='Download Enjoy your favorite cartoons on-the-go with the Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cartoon-aesthetic-iphone-bk5cw4vv42opaj5l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Aesthetic Wallpapers ideas | aesthetic wallpapers, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fb/d6/1b/fbd61b493ab13406fe2567d987a13c9a.jpg' alt='53 Aesthetic Wallpapers ideas | aesthetic wallpapers, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fb/d6/1b/fbd61b493ab13406fe2567d987a13c9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic And Cute Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6488849.jpg' alt='Aesthetic And Cute Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1288">
+                                <meta itemprop="height" content="2289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6488849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Backgrounds ideas | iphone background wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/69/5a/b2/695ab2b7a9a41ac2d40e3890cd5efb80.jpg' alt='8 Backgrounds ideas | iphone background wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/69/5a/b2/695ab2b7a9a41ac2d40e3890cd5efb80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mirasdesignss">
+                                <img itemprop="contentUrl url" src='https://mirasdesigns.carrd.co/assets/images/gallery01/584a79d8_original.jpg?v35359871167951' alt='mirasdesignss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://mirasdesigns.carrd.co/assets/images/gallery01/584a79d8_original.jpg?v35359871167951' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51 Asthetic wallpaper ideas | aesthetic iphone wallpaper, asthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/50/88/70/50887056c94056c12c13b8beee23e6a8.jpg' alt='51 Asthetic wallpaper ideas | aesthetic iphone wallpaper, asthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="1717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/50/88/70/50887056c94056c12c13b8beee23e6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Summer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10976189.jpg' alt='Hawaiian Summer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1151">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10976189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

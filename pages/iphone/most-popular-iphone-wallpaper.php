@@ -1,0 +1,129 @@
+<title>Top Trending iPhone Wallpapers for 2023</title>
+                    <meta name="description" content="Discover the most popular iPhone wallpapers that elevate your device's look! From breathtaking nature scenes to chic minimalism and personal designs, find the perfect wallpaper that resonates with your style for 2023. Upgrade your phone's aesthetics effortlessly today!">
+                    <meta name="keywords" content="most popular iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/most-popular-iphone-wallpaper">
+                            <span itemprop="name">most popular iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Trending iPhone Wallpapers for 2023</h1>
+                <p>When it comes to the most popular iPhone wallpapers, users often seek vibrant landscapes, minimalistic designs, and stunning artwork. The trend leans towards nature-inspired themes like mountains and sunsets, as well as stylish geometric patterns. Personalized wallpapers featuring quotes or favorite images also add a unique touch to users' screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is your favorite iPhone and ios default wallpaper? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/49ltrh2d5v4c1.jpeg' alt='what is your favorite iPhone and ios default wallpaper? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/49ltrh2d5v4c1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' alt='Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Top Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/top-iphone-9ge3q93ide76it7q.jpg' alt='100+] Top Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/top-iphone-9ge3q93ide76it7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Most Popular IPhone Wallpapers Collection • Inspired Luv">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/60/7e/c8/607ec87e6dda1d301b1c20e613757a39.jpg' alt='30 Most Popular IPhone Wallpapers Collection • Inspired Luv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/60/7e/c8/607ec87e6dda1d301b1c20e613757a39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is your favorite iPhone and ios default wallpaper? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=1125&format=pjpg&auto=webp&s=56a742de7e08e1be0ead5f3699f82c3eff5ecfa7' alt='what is your favorite iPhone and ios default wallpaper? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=1125&format=pjpg&auto=webp&s=56a742de7e08e1be0ead5f3699f82c3eff5ecfa7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best iPhone Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/f/d/5820404-1080x1920-samsung-hd-best-iphone-wallpaper-photo.jpg' alt='Best iPhone Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/f/d/5820404-1080x1920-samsung-hd-best-iphone-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Most Popular IPhone Wallpapers Collection • Inspired Luv">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/ae/11/ccae119f2f12a319c5dac1353480766c.jpg' alt='30 Most Popular IPhone Wallpapers Collection • Inspired Luv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/ae/11/ccae119f2f12a319c5dac1353480766c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popular iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.digitaltrends.com/wp-content/uploads/2020/12/crop-4-php_.jpeg?fit=591,1280&p=1' alt='Popular iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.digitaltrends.com/wp-content/uploads/2020/12/crop-4-php_.jpeg?fit=591,1280&p=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular iPhone Wallpapers Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/dark-pink-blue-default-stock-best-high-resolution-iphone-16-pro-max-wallpaper-4k-hd-16pro-13-mini-17-air-27-10-2024-1730073653-hd-wallpaper.jpg' alt='Most Popular iPhone Wallpapers Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/dark-pink-blue-default-stock-best-high-resolution-iphone-16-pro-max-wallpaper-4k-hd-16pro-13-mini-17-air-27-10-2024-1730073653-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

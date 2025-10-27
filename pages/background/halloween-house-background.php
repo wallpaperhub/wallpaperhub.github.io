@@ -1,0 +1,129 @@
+<title>Spooky Halloween House Background Ideas for a Haunted Atmosphere</title>
+                    <meta name="description" content="Enhance your Halloween spirit with creative house background ideas! Discover tips for transforming your home into a spooky haven with haunted decorations, eerie lighting, and ghostly accents. Perfect for parties and festive gatherings, make your Halloween unforgettable with the right ambiance!">
+                    <meta name="keywords" content="halloween house background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-house-background">
+                            <span itemprop="name">halloween house background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween House Background Ideas for a Haunted Atmosphere</h1>
+                <p>Transform your home into a spooky sanctuary this Halloween! A haunted house background enhances your festive decor with eerie silhouettes, ghostly figures, and cobwebs. Perfect for parties or scary storytelling, consider incorporating elements like flickering lights, jack-o'-lanterns, and dramatic backdrops to create an unforgettable atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Haunted House Moon Night Backdrop RR7-422">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/files/RR7-422.jpg?v=1721358936' alt='Halloween Haunted House Moon Night Backdrop RR7-422'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/files/RR7-422.jpg?v=1721358936' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SADFA 10x8ft Halloween Haunted House Backdrop Old Abandoned  Horror House in The Night Misty Forest Photo Background Halloween Party  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fKr3-mleL.jpg' alt='Amazon.com : SADFA 10x8ft Halloween Haunted House Backdrop Old Abandoned  Horror House in The Night Misty Forest Photo Background Halloween Party  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fKr3-mleL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Halloween background with haunted house">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/halloween-background-with-haunted-house_113065-715.jpg' alt='Premium Vector | Halloween background with haunted house'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/halloween-background-with-haunted-house_113065-715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DORCEV 20x10ft Halloween Night Castle Backdrop Horrible  Thunderbolt Haunted House Wandering Ghost Wicked Pumpkin Lantern  Photography ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610J2iPayLL.jpg' alt='Amazon.com : DORCEV 20x10ft Halloween Night Castle Backdrop Horrible  Thunderbolt Haunted House Wandering Ghost Wicked Pumpkin Lantern  Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610J2iPayLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LYCGS 7X5FT Halloween Backdrop Halloween Horror Night Photography  Background Haunted House Pumpkin Lantern Photo Backdrop Children Kids  Halloween ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Z1DAFYA4L._AC_UF894,1000_QL80_.jpg' alt='LYCGS 7X5FT Halloween Backdrop Halloween Horror Night Photography  Background Haunted House Pumpkin Lantern Photo Backdrop Children Kids  Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Z1DAFYA4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,800+ Halloween House Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1058687260/photo/halloween-pumpkins-and-decorations-outside-a-house.jpg?s=170667a&w=is&k=20&c=V0b6vg-wNno3aP3tf09XqptZZf_E2uUTBzd84_D5udo=' alt='72,800+ Halloween House Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1058687260/photo/halloween-pumpkins-and-decorations-outside-a-house.jpg?s=170667a&w=is&k=20&c=V0b6vg-wNno3aP3tf09XqptZZf_E2uUTBzd84_D5udo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eerie House Halloween Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/happy-halloween-background_52683-44498.jpg' alt='Eerie House Halloween Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/happy-halloween-background_52683-44498.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted House Halloween Background 11001237 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/001/237/non_2x/haunted-house-halloween-background-free-vector.jpg' alt='Haunted House Halloween Background 11001237 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/001/237/non_2x/haunted-house-halloween-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted House Wallpaper      : r/halloween">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pkq56arfqyr11.jpg' alt='Haunted House Wallpaper      : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pkq56arfqyr11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,056 A Halloween House With Photos, Pictures And Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-halloween-house-wallpaper-image_2939179.jpg' alt='2,056 A Halloween House With Photos, Pictures And Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-halloween-house-wallpaper-image_2939179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

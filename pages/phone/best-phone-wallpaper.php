@@ -1,0 +1,129 @@
+<title>Stunning Phone Wallpapers to Personalize Your Device</title>
+                    <meta name="description" content="Explore a curated selection of the best phone wallpapers! From breathtaking landscapes to artistic designs, find the perfect backdrop for your screen. Elevate your mobile experience with high-quality images that match your style and personality. Refresh your phone's look today!">
+                    <meta name="keywords" content="best phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/best-phone-wallpaper">
+                            <span itemprop="name">best phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Phone Wallpapers to Personalize Your Device</h1>
+                <p>Discover the best phone wallpapers to personalize your device! Whether you prefer minimalistic art, stunning landscapes, or vibrant abstract designs, the right wallpaper can transform your phone. Browse through a curated collection of high-quality images that reflect your unique style and keep your screen fresh and exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71 Cool phone wallpaper ideas in 2025 | phone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/87/dd/a5/87dda5a38b14abe4e038701ce4e194dc.jpg' alt='71 Cool phone wallpaper ideas in 2025 | phone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/87/dd/a5/87dda5a38b14abe4e038701ce4e194dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Mobile Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg' alt='100,000+ Best Mobile Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3504">
+                                <meta itemprop="height" content="5256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+] Mobile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mobile-58g8gv3r23zg29kw.jpg' alt='900+] Mobile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mobile-58g8gv3r23zg29kw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Trending Phone Wallpaper for 2024 - HeroWall | Phone ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEi_Dt9HfJyjyBXYbALeyOnrld9Hed4sQ1-jE3LdDuyj1Yeutkf0F3WDTP0eM8WGcxxte1AQVXZHIfP1rv4badVrrbx-a3QsKmX4Q_npwvP0cydGn-Np0XnPYIcA027CcnSAAhtiEH2h9rY9UXhQQgckcp1xYSvJZodkqmFBu6p7qPGmKyjgZce8rIV4l-xQ' alt='Top Trending Phone Wallpaper for 2024 - HeroWall | Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEi_Dt9HfJyjyBXYbALeyOnrld9Hed4sQ1-jE3LdDuyj1Yeutkf0F3WDTP0eM8WGcxxte1AQVXZHIfP1rv4badVrrbx-a3QsKmX4Q_npwvP0cydGn-Np0XnPYIcA027CcnSAAhtiEH2h9rY9UXhQQgckcp1xYSvJZodkqmFBu6p7qPGmKyjgZce8rIV4l-xQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' alt='Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Phone Wallpaper Photos · 100% Free Download · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg' alt='100,000+ Best Phone Wallpaper Photos · 100% Free Download · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Mobile Wallpapers | Phone Wallpapers | Best Corner Wallpapers |  Wallpaper Photo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5oKUtBRlXzA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp1LsISotnoT_OID-lMq192WcqbA' alt='Beautiful Mobile Wallpapers | Phone Wallpapers | Best Corner Wallpapers |  Wallpaper Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5oKUtBRlXzA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp1LsISotnoT_OID-lMq192WcqbA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Best Phone Wallpapers ideas | cool wallpapers for phones, art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3b/63/d5/3b63d57bcc07447b063dd473782019cc.jpg' alt='160 Best Phone Wallpapers ideas | cool wallpapers for phones, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3b/63/d5/3b63d57bcc07447b063dd473782019cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Best Phone And Background Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/mobile-hd-best-iphone-background-photo-mountain-landscape-with-shooting-stars-png-jpg-vibrant-22-11-2024-1732302616-hd-wallpaper.jpg' alt='Most Popular Best Phone And Background Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/mobile-hd-best-iphone-background-photo-mountain-landscape-with-shooting-stars-png-jpg-vibrant-22-11-2024-1732302616-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get The Best In Mobile Device Technology With High Quality Phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/get-the-best-in-mobile-device-technology-with-high-quality-phone-sw40awiufwxkka9h-3.jpg' alt='Get The Best In Mobile Device Technology With High Quality Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/get-the-best-in-mobile-device-technology-with-high-quality-phone-sw40awiufwxkka9h-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Red Wine Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of red wine wallpaper to elevate your interior design. Perfect for creating a warm, inviting atmosphere, this wallpaper works well in dining rooms and bars. Shop now for stunning designs that blend elegance with comfort, and transform your space with a touch of sophistication.">
+                    <meta name="keywords" content="red wine wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-wine-wallpaper">
+                            <span itemprop="name">red wine wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Red Wine Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning red wine wallpaper, perfect for adding warmth and sophistication to any room. Whether you're a wine connoisseur or simply love the deep hues, this wallpaper creates a cozy ambiance. Ideal for dining areas, home bars, or as a feature wall, it brings elegance and style wherever it's placed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wall26 - Red Wine Glass Cheers with Wine Splash - Removable Wall Mural |  Self-Adhesive Large Wallpaper - 100x144 inches">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81OEbQ3LubL._AC_UF894,1000_QL80_.jpg' alt='wall26 - Red Wine Glass Cheers with Wine Splash - Removable Wall Mural |  Self-Adhesive Large Wallpaper - 100x144 inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81OEbQ3LubL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wine Glass Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1630369160812-26c7604cbd8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwd2luZSUyMGdsYXNzfGVufDB8fDB8fHww' alt='Red Wine Glass Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1630369160812-26c7604cbd8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwd2luZSUyMGdsYXNzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,500+ Red Wine Wine Glass Close Up Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/452113115/photo/red-wine.jpg?s=612x612&w=0&k=20&c=62bFg-BJ2wSku627eE2Z1UwDycUqTjTkMKY3RzsqJZY=' alt='42,500+ Red Wine Wine Glass Close Up Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/452113115/photo/red-wine.jpg?s=612x612&w=0&k=20&c=62bFg-BJ2wSku627eE2Z1UwDycUqTjTkMKY3RzsqJZY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Red Wine Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVkJTIwd2luZXxlbnwwfHwwfHx8MA%3D%3D' alt='450+ Red Wine Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVkJTIwd2luZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wine Pour">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/47209/red-wine-pour.jpg?h=699&q=85' alt='Red Wine Pour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/47209/red-wine-pour.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wine Glass Bottle And Corkscrew iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/43/9e/45439eb100b6d8a212f8a1ccfe67e787.jpg' alt='Red Wine Glass Bottle And Corkscrew iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/43/9e/45439eb100b6d8a212f8a1ccfe67e787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red wine filling glass 3d mural wallpaper">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/photomural/preview/41739.png' alt='Red wine filling glass 3d mural wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/photomural/preview/41739.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicious Red Wine Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210120/pngtree-red-delicious-red-wine-rose-background-image_533495.jpg' alt='Delicious Red Wine Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210120/pngtree-red-delicious-red-wine-rose-background-image_533495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wine – Print A Wallpaper">
+                                <img itemprop="contentUrl url" src='https://printawallpaper.com/wp-content/uploads/2020/07/red_wine_detail-1.jpg' alt='Red Wine – Print A Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Print A Wallpaper" />
+                                </span>
+                                <a href='https://printawallpaper.com/wp-content/uploads/2020/07/red_wine_detail-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,861 Chilled Red Wines Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/red-wine-glass-bottle-serving-600nw-2278638991.jpg' alt='5,861 Chilled Red Wines Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/red-wine-glass-bottle-serving-600nw-2278638991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

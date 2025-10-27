@@ -1,0 +1,129 @@
+<title>Illuminate Your Space: Glow in the Dark Backgrounds</title>
+                    <meta name="description" content="Discover the magic of glow in the dark backgrounds! Perfect for any setting, these luminous designs create a captivating atmosphere for parties, kids' rooms, or creative projects. Explore a variety of patterns and transform your space with a soft, enchanting glow that appears after dark.">
+                    <meta name="keywords" content="glow in the dark background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/glow-in-the-dark-background">
+                            <span itemprop="name">glow in the dark background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminate Your Space: Glow in the Dark Backgrounds</h1>
+                <p>Glow in the dark backgrounds are a captivating way to transform your spaces. Ideal for parties, children's rooms, or creative projects, these unique designs soak up light and emit a soft, luminous glow when the lights go out. Whether you choose stars, patterns, or abstract art, they add a magical element to any environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow in the Dark Wallpapers (92 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/d/7/1209987-3840x2160-desktop-4k-glow-in-the-dark-background-image.jpg' alt='Glow in the Dark Wallpapers (92 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/d/7/1209987-3840x2160-desktop-4k-glow-in-the-dark-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/35/90/97/360_F_335909719_l3a7sOo3iKmLMECsKa4fvu50GW82WG47.jpg' alt='Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/35/90/97/360_F_335909719_l3a7sOo3iKmLMECsKa4fvu50GW82WG47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Neon Glow in The Dark Backdrop Paint Splatter Graffiti Glow Party 80s  90s Themed Colorful Neon Birthday Party Background">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71d-m1BXsRL._AC_UF894,1000_QL80_.jpg' alt='7x5ft Neon Glow in The Dark Backdrop Paint Splatter Graffiti Glow Party 80s  90s Themed Colorful Neon Birthday Party Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71d-m1BXsRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/40/03/25/360_F_240032544_Y78B3hzVQZZLCB2nSNQaft2yl4IoeiC2.jpg' alt='Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/40/03/25/360_F_240032544_Y78B3hzVQZZLCB2nSNQaft2yl4IoeiC2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow in the Dark Wallpapers (92 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/a/9/1209998-3840x2160-desktop-4k-glow-in-the-dark-background-photo.jpg' alt='Glow in the Dark Wallpapers (92 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/a/9/1209998-3840x2160-desktop-4k-glow-in-the-dark-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow in the Dark Wallpapers (92 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/7/9/1209979-3840x2160-desktop-4k-glow-in-the-dark-background-image.jpg' alt='Glow in the Dark Wallpapers (92 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/7/9/1209979-3840x2160-desktop-4k-glow-in-the-dark-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Glow in the dark neon frame on a dark background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/glow-dark-neon-frame-dark-background_609989-1753.jpg' alt='Premium Photo | Glow in the dark neon frame on a dark background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/glow-dark-neon-frame-dark-background_609989-1753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow in the Dark Wallpapers (92 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/7/8/1209988-3840x2160-desktop-4k-glow-in-the-dark-background.jpg' alt='Glow in the Dark Wallpapers (92 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/7/8/1209988-3840x2160-desktop-4k-glow-in-the-dark-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Glow In Dark Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1674597598651-2dfc7937fbb6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z2xvdyUyMGluJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D' alt='100+ Glow In Dark Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1674597598651-2dfc7937fbb6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z2xvdyUyMGluJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/24/96/15/360_F_524961526_wK2IOCYhHTAdgqgfT7LBMuG8xPOAdX3l.jpg' alt='Glow In The Dark Images – Browse 11,258,294 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/24/96/15/360_F_524961526_wK2IOCYhHTAdgqgfT7LBMuG8xPOAdX3l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

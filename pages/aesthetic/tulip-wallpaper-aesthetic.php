@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Tulip Wallpaper Aesthetics</title>
+                    <meta name="description" content="Discover the charm of tulip wallpaper aesthetics! Transform your home with stunning floral patterns, adding a touch of spring to any room. Ideal for nature lovers, our collection combines vibrant colors and elegant designs to create a refreshing ambiance. Explore now and redefine your decor!">
+                    <meta name="keywords" content="tulip wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/tulip-wallpaper-aesthetic">
+                            <span itemprop="name">tulip wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Tulip Wallpaper Aesthetics</h1>
+                <p>Transform your space with tulip wallpaper aesthetics, capturing the essence of spring with vibrant colors and delicate floral patterns. Perfect for any room, this design brings a touch of nature indoors, creating a fresh and inviting ambiance. Embrace the beauty of tulips and elevate your home decor with stunning floral wallpapers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/e1/7e/bbe17e2a32c7a57798674636c9b61f0d.jpg' alt='Tulip wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/e1/7e/bbe17e2a32c7a57798674636c9b61f0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48 Tulip ideas | tulips, flower aesthetic, pretty flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/b8/ff/53b8ff5238b68e410dbfd150d3fdd754.jpg' alt='48 Tulip ideas | tulips, flower aesthetic, pretty flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/b8/ff/53b8ff5238b68e410dbfd150d3fdd754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/16/6a/c9166ac98458a12676f24820c7515067.jpg' alt='Tulip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/16/6a/c9166ac98458a12676f24820c7515067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Free HD Tulip Wallpapers for iPhone + Desktop Exclusive ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e9/7d/98/e97d98c3526612a58150baf7d42e31a7.jpg' alt='100 Free HD Tulip Wallpapers for iPhone + Desktop Exclusive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e9/7d/98/e97d98c3526612a58150baf7d42e31a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Mobile Tulips Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZXVwX3Bob3RvX29mX3Bhc3RlbF90dWxpcHNfaW5fZnJvbnRfdGhlX19kMGE0NjIwZC0wYjFiLTQxODEtYjMyMy0wNDVkZmMzNGQzNDZfMS5qcGc.jpg' alt='Wallpaper Mobile Tulips Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZXVwX3Bob3RvX29mX3Bhc3RlbF90dWxpcHNfaW5fZnJvbnRfdGhlX19kMGE0NjIwZC0wYjFiLTQxODEtYjMyMy0wNDVkZmMzNGQzNDZfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where are you Tulip lovers!     . Tulip Aesthetic Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_esBlGyUYi/2/image.jpg' alt='Where are you Tulip lovers!     . Tulip Aesthetic Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_esBlGyUYi/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulips Aesthetic iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13815818.jpg' alt='Tulips Aesthetic iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13815818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring iPhone Wallpaper Aesthetic: 20 Beautiful Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/04/2251868556740408-pin-image-683x1024.jpg' alt='Spring iPhone Wallpaper Aesthetic: 20 Beautiful Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/04/2251868556740408-pin-image-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Soft Pink Tulips Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soft-pink-tulips-aesthetic-8hk66sjpfqmlvueq.jpg' alt='Download Soft Pink Tulips Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1271">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soft-pink-tulips-aesthetic-8hk66sjpfqmlvueq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulips Flowers Desktop Wallpaper Pastel Tulip Flower Art Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/6517a3/5861786950/il_fullxfull.5861786950_fj7q.jpg' alt='Tulips Flowers Desktop Wallpaper Pastel Tulip Flower Art Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/6517a3/5861786950/il_fullxfull.5861786950_fj7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

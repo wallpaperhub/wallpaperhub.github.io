@@ -1,0 +1,129 @@
+<title>Thanksgiving Day Parade: Celebrate Tradition and Joy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="thanksgiving day parade">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thanksgiving-day-parade">
+                            <span itemprop="name">thanksgiving day parade</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thanksgiving Day Parade: Celebrate Tradition and Joy</h1>
+                <p>Thanksgiving Day Parade is a cherished annual tradition, showcasing vibrant floats, giant balloons, and talented performers marching through city streets. Families gather to enjoy this festive spectacle, filled with laughter and excitement. The parade embodies the spirit of gratitude and celebration, heralding the beginning of the holiday season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day Parade – The State Times">
+                                <img itemprop="contentUrl url" src='https://thestatetimes.com/wp-content/uploads/2024/12/bluey-thanksgiving-day-parade-678x381.jpg' alt='Macy's Thanksgiving Day Parade – The State Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The State Times" />
+                                </span>
+                                <a href='https://thestatetimes.com/wp-content/uploads/2024/12/bluey-thanksgiving-day-parade-678x381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Macy's Thanksgiving Day Parade">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_391,q_75,w_588/v1/clients/newyorkstate/e474f774_02fa_48f4_9cd0_693344f7f0dd_67856f2c-f0d0-476b-95fa-319615b045a9.jpg' alt='History of the Macy's Thanksgiving Day Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILoveNY.com" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_391,q_75,w_588/v1/clients/newyorkstate/e474f774_02fa_48f4_9cd0_693344f7f0dd_67856f2c-f0d0-476b-95fa-319615b045a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NYC street closures, 2024 Thanksgiving Day Parade route map | FOX ...">
+                                <img itemprop="contentUrl url" src='https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/932/524/macys-parade.jpg?ve=1&tl=1' alt='NYC street closures, 2024 Thanksgiving Day Parade route map | FOX ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 5 New York" />
+                                </span>
+                                <a href='https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/932/524/macys-parade.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 years of the Macy's Thanksgiving Day Parade - KTVZ">
+                                <img itemprop="contentUrl url" src='https://static.stacker.com/s3fs-public/styles/1280x720/s3/01LMQREW_0.png?token=nSfbMVXB' alt='100 years of the Macy's Thanksgiving Day Parade - KTVZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTVZ" />
+                                </span>
+                                <a href='https://static.stacker.com/s3fs-public/styles/1280x720/s3/01LMQREW_0.png?token=nSfbMVXB' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day parade balloons could be grounded due to ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/YG12HCmPimxN7QlwAEEn4NVs2ls=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13397245/877927806.jpg.jpg' alt='Macy's Thanksgiving Day parade balloons could be grounded due to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Curbed NY" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/YG12HCmPimxN7QlwAEEn4NVs2ls=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13397245/877927806.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day Parade 2023: Date, Time & How to Watch">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/macy-thanksgiving-day-parade-2023-65302a3ca0803.jpeg?crop=0.566xw:1.00xh;0.136xw,0&resize=980:*' alt='Macy's Thanksgiving Day Parade 2023: Date, Time & How to Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pioneer Woman" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/macy-thanksgiving-day-parade-2023-65302a3ca0803.jpeg?crop=0.566xw:1.00xh;0.136xw,0&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day Parade 2023: Start Time, Lineup and How to ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/11/16/multimedia/00macys-parade-htw-kgml/00macys-parade-htw-kgml-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Macy's Thanksgiving Day Parade 2023: Start Time, Lineup and How to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/11/16/multimedia/00macys-parade-htw-kgml/00macys-parade-htw-kgml-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day Parade - Go! NYC Tourism Guide">
+                                <img itemprop="contentUrl url" src='https://gotourismguides.com/nyc/wp-content/uploads/nyc-mays-thanksgiving-day-parade.jpg' alt='Macy's Thanksgiving Day Parade - Go! NYC Tourism Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Go! Tourism Guides" />
+                                </span>
+                                <a href='https://gotourismguides.com/nyc/wp-content/uploads/nyc-mays-thanksgiving-day-parade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to watch Macy's Thanksgiving Day Parade, a tradition 100 years ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/58367f7/2147483647/strip/true/crop/5504x4128+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5504x4128%20423%200%2Fresize%2F5504x4128%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F3f%2F465569374370b6d9cd3b0bd4bd22%2Fgettyimages-1818725313-1.jpg' alt='How to watch Macy's Thanksgiving Day Parade, a tradition 100 years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iowa Public Radio" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/58367f7/2147483647/strip/true/crop/5504x4128+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5504x4128%20423%200%2Fresize%2F5504x4128%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F3f%2F465569374370b6d9cd3b0bd4bd22%2Fgettyimages-1818725313-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macy's Thanksgiving Day parade: Marchers, floats, balloons step ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/11270114_112521-ap-macys-parade-baby-yoda-img.jpg' alt='Macy's Thanksgiving Day parade: Marchers, floats, balloons step ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7 New York" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/11270114_112521-ap-macys-parade-baby-yoda-img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

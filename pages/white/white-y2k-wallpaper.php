@@ -1,0 +1,129 @@
+<title>Elevate Your Space with White Y2K Wallpaper</title>
+                    <meta name="description" content="Add a touch of nostalgia to your home decor with White Y2K wallpaper. This minimalist design offers a serene backdrop for any room, blending retro elegance with modern aesthetics. Perfect for personalizing your space, it’s an effortless way to create a stylish and calming environment. Discover the charm today!">
+                    <meta name="keywords" content="white y2k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-y2k-wallpaper">
+                            <span itemprop="name">white y2k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with White Y2K Wallpaper</h1>
+                <p>White Y2K wallpaper brings a fresh, nostalgic aesthetic to modern spaces. With its clean, minimalist design, it combines simplicity with a touch of retro charm, perfect for creating a serene atmosphere. Ideal for bedrooms, living rooms, or home offices, this style captivates with its subtle elegance and timeless appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/9d/fd/d69dfdcb9940dea81dcb43094bf06502.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/9d/fd/d69dfdcb9940dea81dcb43094bf06502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K Wallpaper Collection for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7322052369460530437&location=0&aid=1988' alt='Y2K Wallpaper Collection for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7322052369460530437&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/fc/6a/e4fc6aa21cee7dd1966f4e81dff75399.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/fc/6a/e4fc6aa21cee7dd1966f4e81dff75399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/62/cb/fe62cbf6511ab9fd4ceb8c5ff04a4baa.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/62/cb/fe62cbf6511ab9fd4ceb8c5ff04a4baa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white and black stars y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' alt='white and black stars y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out asak1m's Shuffles #y2k #grunge #star #stargirlaesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/14/5d/75/145d75b5e0882d4aa6f9094041afc921.jpg' alt='Check out asak1m's Shuffles #y2k #grunge #star #stargirlaesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/14/5d/75/145d75b5e0882d4aa6f9094041afc921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Y2K Aesthetic Wallpapers in Black and White">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7226806458283724038&location=0&aid=1988' alt='Hello Kitty Y2K Aesthetic Wallpapers in Black and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7226806458283724038&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Background Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17719834/p/f/m/IVyz32L6pSGp1LWIlyoJgSHmQraejFrhCxWOdI5vrmOSTZ5Wlo0E/Y2K%20Aesthetic%20Y2K%20Wallpaper%20Cute%20Y2K%20Punk%20Rock%20Grunge%20Stars%20White.jpg' alt='Y2k Background Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17719834/p/f/m/IVyz32L6pSGp1LWIlyoJgSHmQraejFrhCxWOdI5vrmOSTZ5Wlo0E/Y2K%20Aesthetic%20Y2K%20Wallpaper%20Cute%20Y2K%20Punk%20Rock%20Grunge%20Stars%20White.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ʚɞ•°.*.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/34/c4/e7/34c4e789a43d0feee9ae4098aef56938.jpg' alt='ʚɞ•°.*.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/34/c4/e7/34c4e789a43d0feee9ae4098aef56938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable y2k aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvnmJDTLM/1/0/1600w/canva-white-and-black-aesthetic-vintage-y2k-streetwear-logo-qhBDsfW8K9o.jpg' alt='Page 2 - Free and customizable y2k aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvnmJDTLM/1/0/1600w/canva-white-and-black-aesthetic-vintage-y2k-streetwear-logo-qhBDsfW8K9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

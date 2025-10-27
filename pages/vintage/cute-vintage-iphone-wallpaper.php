@@ -1,0 +1,129 @@
+<title>Cute Vintage iPhone Wallpapers: A Retro Touch for Your Screen</title>
+                    <meta name="description" content="Discover a stunning selection of cute vintage iPhone wallpapers that bring a splash of charm to your device. From floral patterns to retro designs, find the perfect backdrop to express your unique style. Transform your iPhone today with nostalgic wallpapers that make every glance a joy!">
+                    <meta name="keywords" content="cute vintage iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/cute-vintage-iphone-wallpaper">
+                            <span itemprop="name">cute vintage iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Vintage iPhone Wallpapers: A Retro Touch for Your Screen</h1>
+                <p>Transform your phone with adorable vintage iPhone wallpapers! Explore a delightful collection featuring charming florals, retro patterns, and nostalgic motifs that evoke a sense of whimsy. Perfect for adding a personal touch to your device, these wallpapers combine style and nostalgia for a cute aesthetic you'll love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute vintage iphone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/d6/86/0ad686d484fbe22b8818fa82c4c5082a.jpg' alt='Cute vintage iphone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/d6/86/0ad686d484fbe22b8818fa82c4c5082a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best iphone wallpaper vintage ideas | iphone wallpaper vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/4c/87/53/4c87536e5a5fc186130af15901ed5c7f.jpg' alt='100 Best iphone wallpaper vintage ideas | iphone wallpaper vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/4c/87/53/4c87536e5a5fc186130af15901ed5c7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Best Retro Vintage iPhone Wallpapers to Download Now - atinydreamer">
+                                <img itemprop="contentUrl url" src='https://www.atinydreamer.com/wp-content/uploads/2022/06/vintage-wallpaper1-576x1024.png' alt='35 Best Retro Vintage iPhone Wallpapers to Download Now - atinydreamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="atinydreamer" />
+                                </span>
+                                <a href='https://www.atinydreamer.com/wp-content/uploads/2022/06/vintage-wallpaper1-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Aesthetic and Vintage iPhone Wallpaper Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/78/b1/fc78b1b9ad80632ff439a375bf79c944.jpg' alt='30 Aesthetic and Vintage iPhone Wallpaper Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/78/b1/fc78b1b9ad80632ff439a375bf79c944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Items Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-items-retro-aesthetic-iphone-9ghjm5j4jsaitggb.jpg' alt='Vintage Items Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-items-retro-aesthetic-iphone-9ghjm5j4jsaitggb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage aesthetic Lock Screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/6d/77/566d77a63e236b4b305f88038da70431.jpg' alt='Vintage aesthetic Lock Screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/6d/77/566d77a63e236b4b305f88038da70431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Aesthetic and Vintage iPhone Wallpaper Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/42/80/30/428030ca3e5308e82bb7af67dfd8f983.jpg' alt='30 Aesthetic and Vintage iPhone Wallpaper Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/42/80/30/428030ca3e5308e82bb7af67dfd8f983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/vintage-iphone-2o6fe1xs38yekwft.jpg' alt='100+] Vintage Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/vintage-iphone-2o6fe1xs38yekwft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Iphone Pink Rose Flower Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-iphone-pink-rose-flower-ia1qq606cr3mi2x4.jpg' alt='Vintage Iphone Pink Rose Flower Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-iphone-pink-rose-flower-ia1qq606cr3mi2x4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Aesthetic and Vintage iPhone Wallpaper Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c6/53/75/c653757bcb84c65de0ffc7bc5decc361.jpg' alt='30 Aesthetic and Vintage iPhone Wallpaper Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c6/53/75/c653757bcb84c65de0ffc7bc5decc361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

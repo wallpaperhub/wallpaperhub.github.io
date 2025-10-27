@@ -1,0 +1,129 @@
+<title>Jett Lawrence: Rising Motocross Star</title>
+                    <meta name="description" content="Discover the journey of Jett Lawrence, the Australian motocross sensation. With unmatched talent and charisma, Jett has become a standout in the racing world, thrilling fans and achieving significant milestones. Follow his ascent as he continues to dominate the motocross scene!">
+                    <meta name="keywords" content="jett lawrence">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jett-lawrence">
+                            <span itemprop="name">jett lawrence</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jett Lawrence: Rising Motocross Star</h1>
+                <p>Jett Lawrence is an Australian motocross prodigy known for his incredible skills and vibrant personality. Born in 2003, he quickly rose through the ranks, captivating fans with his style and speed on the track. Jett's dedication and talent have made him a prominent figure in the motocross community, earning numerous accolades and a loyal fanbase.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence's Ascent – Scaling New Heights - Motocross Feature ...">
+                                <img itemprop="contentUrl url" src='https://p.vitalmx.com/styles/ckeditor_fullscreen/s3/photos/stories/2024/01/03/Site-Jett%20Lawrence-2.jpg?VersionId=LyU_n4BRp.FoXS2OKZeP_etfq7TexCFP&itok=JYDJ6Sga' alt='Jett Lawrence's Ascent – Scaling New Heights - Motocross Feature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vital MX" />
+                                </span>
+                                <a href='https://p.vitalmx.com/styles/ckeditor_fullscreen/s3/photos/stories/2024/01/03/Site-Jett%20Lawrence-2.jpg?VersionId=LyU_n4BRp.FoXS2OKZeP_etfq7TexCFP&itok=JYDJ6Sga' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MX Large">
+                                <img itemprop="contentUrl url" src='https://www.mxlarge.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F8oyzogbt%2Fproduction%2Fb9e256b2867f38f0e00df409a5014811869a5a9a-1080x720.jpg&w=2048&q=75' alt='MX Large'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MX Large" />
+                                </span>
+                                <a href='https://www.mxlarge.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F8oyzogbt%2Fproduction%2Fb9e256b2867f38f0e00df409a5014811869a5a9a-1080x720.jpg&w=2048&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence, "For Supercross, Trying to Go Perfect" - Motocross">
+                                <img itemprop="contentUrl url" src='https://motocross.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjA5NDUzNzcwMTcyNTQwNTY2/jett-lawrence-supermotocross-world-championship-las-vegas-qualifying-2024.jpg' alt='Jett Lawrence, "For Supercross, Trying to Go Perfect" - Motocross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Transworld Motocross" />
+                                </span>
+                                <a href='https://motocross.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjA5NDUzNzcwMTcyNTQwNTY2/jett-lawrence-supermotocross-world-championship-las-vegas-qualifying-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One year ago I was fortunate enough to partner with @mvmt we have ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3157243619264742926' alt='One year ago I was fortunate enough to partner with @mvmt we have ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3157243619264742926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence | Alpinestars SpA">
+                                <img itemprop="contentUrl url" src='https://eu.alpinestars.com/cdn/shop/files/Wurx_Purp_Red_Lifestyle_Front.jpg?v=1725924557&width=960' alt='Jett Lawrence | Alpinestars SpA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpinestars" />
+                                </span>
+                                <a href='https://eu.alpinestars.com/cdn/shop/files/Wurx_Purp_Red_Lifestyle_Front.jpg?v=1725924557&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence | Monster Energy AMA Supercross">
+                                <img itemprop="contentUrl url" src='https://www.supercrosslive.com/wp-content/uploads/2023/04/2024-jett-1.jpg' alt='Jett Lawrence | Monster Energy AMA Supercross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Energy AMA Supercross" />
+                                </span>
+                                <a href='https://www.supercrosslive.com/wp-content/uploads/2023/04/2024-jett-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JETT LAWRENCE OUT FOR REMAINDER OF SUPERCROSS SEASON - Dirt Bike ...">
+                                <img itemprop="contentUrl url" src='https://dirtbikemagazine.com/wp-content/uploads/2025/02/25-honda-hrc-progressive_jett-lawrence-crf450rwe-static-37-scaled.jpg' alt='JETT LAWRENCE OUT FOR REMAINDER OF SUPERCROSS SEASON - Dirt Bike ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dirt Bike Magazine" />
+                                </span>
+                                <a href='https://dirtbikemagazine.com/wp-content/uploads/2025/02/25-honda-hrc-progressive_jett-lawrence-crf450rwe-static-37-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confidence built on a strong 2021 season has Jett Lawrence eying ...">
+                                <img itemprop="contentUrl url" src='https://nbcsports.brightspotcdn.com/dims4/default/c1acbff/2147483647/strip/true/crop/5006x2816+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2Fe1%2F3027c7f3d6a0a5487262d52bd493%2Fjett-lawrence-red-bull-e1640562137440.jpg' alt='Confidence built on a strong 2021 season has Jett Lawrence eying ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC Sports" />
+                                </span>
+                                <a href='https://nbcsports.brightspotcdn.com/dims4/default/c1acbff/2147483647/strip/true/crop/5006x2816+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2Fe1%2F3027c7f3d6a0a5487262d52bd493%2Fjett-lawrence-red-bull-e1640562137440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence | No words really guys!   I'll never settle for ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2224938646902291840' alt='Jett Lawrence | No words really guys!   I'll never settle for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2224938646902291840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jett Lawrence, RJ Hampshire, Cameron McAdoo talk 250SX East - Racer X">
+                                <img itemprop="contentUrl url" src='https://rxi.iscdn.net/2022/02/242650_2022-lawrencej_action-4.jpg' alt='Jett Lawrence, RJ Hampshire, Cameron McAdoo talk 250SX East - Racer X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Racer X" />
+                                </span>
+                                <a href='https://rxi.iscdn.net/2022/02/242650_2022-lawrencej_action-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

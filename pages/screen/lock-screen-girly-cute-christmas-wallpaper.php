@@ -1,0 +1,129 @@
+<title>Girly Cute Christmas Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover the cutest girly Christmas lock screen wallpapers! Perfect for adding a festive flair to your phone, our collection features vibrant and playful designs that capture the spirit of the season. Explore now and let your style shine through this holiday! Perfect for any girly aesthetic lover!">
+                    <meta name="keywords" content="lock screen girly cute christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-girly-cute-christmas-wallpaper">
+                            <span itemprop="name">lock screen girly cute christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Girly Cute Christmas Lock Screen Wallpapers</h1>
+                <p>Transform your device with adorable girly cute Christmas lock screen wallpapers! Featuring whimsical designs, playful colors, and festive themes, these wallpapers add a cheerful touch to your holiday season. Perfect for spreading joy wherever you go, choose a wallpaper that reflects your style and love for Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Christmas Wallpaper and December Wallpaper Downloads For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/b7/ec/dbb7ec30871f264d02cc877011f0530b.jpg' alt='50+ Free Christmas Wallpaper and December Wallpaper Downloads For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/b7/ec/dbb7ec30871f264d02cc877011f0530b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday ~ Lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/e1/19/a8e1193fa274d18732fbabcf0a3bda35.jpg' alt='Holiday ~ Lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/e1/19/a8e1193fa274d18732fbabcf0a3bda35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Wallpapers (90 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/3/0/5821561-1080x1920-phone-hd-cute-christmas-background-photo.jpg' alt='Cute Christmas Wallpapers (90 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/3/0/5821561-1080x1920-phone-hd-cute-christmas-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/62/e3/6362e32f82981e1c2f8f208a57f7814f.jpg' alt='Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/62/e3/6362e32f82981e1c2f8f208a57f7814f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreens">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/05/65/1b0565960d4dd41e637659f8c2edeb74.jpg' alt='lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/05/65/1b0565960d4dd41e637659f8c2edeb74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper 2022 for iPhone/android/Apple Watch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/41/eb/fe41ebdcc1f26a9a1d15e9a25187e21f.jpg' alt='Christmas wallpaper 2022 for iPhone/android/Apple Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/41/eb/fe41ebdcc1f26a9a1d15e9a25187e21f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas pink gingerbread and hot cocoa wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6f/28/d6/6f28d6de3840448d1a32485f0667c6ed.jpg' alt='christmas pink gingerbread and hot cocoa wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6f/28/d6/6f28d6de3840448d1a32485f0667c6ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cute Christmas iPhone Wallpaper Backgrounds (EASY DOWNLOAD)">
+                                <img itemprop="contentUrl url" src='http://www.nikkisplate.com/wp-content/uploads/2024/10/Christmas-iPhone-Wallpaper-Backgrounds-1.png' alt='30 Cute Christmas iPhone Wallpaper Backgrounds (EASY DOWNLOAD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki's Plate" />
+                                </span>
+                                <a href='http://www.nikkisplate.com/wp-content/uploads/2024/10/Christmas-iPhone-Wallpaper-Backgrounds-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Christmas Wallpaper: Glittery Christmas Tree Pink Fantasia">
+                                <img itemprop="contentUrl url" src='https://www.theboldabode.com/wp-content/uploads/2017/12/glitter-tree-pink-i-phone-lock-screen-1.jpg' alt='Digital Christmas Wallpaper: Glittery Christmas Tree Pink Fantasia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bold Abode" />
+                                </span>
+                                <a href='https://www.theboldabode.com/wp-content/uploads/2017/12/glitter-tree-pink-i-phone-lock-screen-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper iPhone Aesthetic Backgrounds - AnjaHome">
+                                <img itemprop="contentUrl url" src='https://anjahome.com/wp-content/uploads/2023/11/aesthetic-wallpaper-christmas.jpg' alt='Christmas Wallpaper iPhone Aesthetic Backgrounds - AnjaHome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AnjaHome" />
+                                </span>
+                                <a href='https://anjahome.com/wp-content/uploads/2023/11/aesthetic-wallpaper-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

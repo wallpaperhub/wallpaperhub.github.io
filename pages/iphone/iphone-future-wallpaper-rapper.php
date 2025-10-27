@@ -1,0 +1,129 @@
+<title>Future iPhone Wallpapers: Trendy Rapper Designs</title>
+                    <meta name="description" content="Discover the latest iPhone wallpaper trends featuring iconic rappers. Get inspired by vibrant designs that blend music and art, perfect for personalizing your device with style. Stay ahead in mobile aesthetics with unique visuals celebrating hip-hop culture!">
+                    <meta name="keywords" content="iphone future wallpaper rapper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-future-wallpaper-rapper">
+                            <span itemprop="name">iphone future wallpaper rapper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Future iPhone Wallpapers: Trendy Rapper Designs</h1>
+                <p>As smartphone aesthetics evolve, the future of iPhone wallpapers featuring rappers promises creativity and culture. Imagine vibrant visuals showcasing iconic hip-hop legends or emerging artists, blending street art influences with digital designs. These unique wallpapers not only express personal style but also pay homage to the dynamic world of rap.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some High Off Life iPhone 11/X Wallpapers : r/future">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/MzPmh02_FIk4IOGzKva4z_lyi7KptVmlSS5zci0R334.jpg?auto=webp&s=00cbb8113d34e59cc4bbcfa8537d89461d33f3c5' alt='Some High Off Life iPhone 11/X Wallpapers : r/future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/MzPmh02_FIk4IOGzKva4z_lyi7KptVmlSS5zci0R334.jpg?auto=webp&s=00cbb8113d34e59cc4bbcfa8537d89461d33f3c5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapper wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/dd/06/a5dd066fb7a9178fc5d3319522eb0ae7.jpg' alt='Rapper wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/dd/06/a5dd066fb7a9178fc5d3319522eb0ae7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/9d/30/ee9d30217d332e83940f43626dd897b9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/9d/30/ee9d30217d332e83940f43626dd897b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Future | Future rapper, Future wallpaper, Rap music hip hop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/be/05/f4be058956c5c97073e85d9aa11fb180.jpg' alt='Future | Future rapper, Future wallpaper, Rap music hip hop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/be/05/f4be058956c5c97073e85d9aa11fb180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k iPhone Future Hendrix Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4917108.jpg' alt='4k iPhone Future Hendrix Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4917108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made this wallpaper from his spotify avi : r/future">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iuxm02g692w71.jpg' alt='made this wallpaper from his spotify avi : r/future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iuxm02g692w71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FUTURE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/15/49/43154944345c89c8cc2fd0507a41e35a.jpg' alt='FUTURE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/15/49/43154944345c89c8cc2fd0507a41e35a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper] Future - HNDRXX : r/HipHopImages">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1fv4eiwawbqy.jpg' alt='Mobile Wallpaper] Future - HNDRXX : r/HipHopImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1fv4eiwawbqy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/4f/23/d54f23cac01466e5ecd4e29a4bfd1da0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/4f/23/d54f23cac01466e5ecd4e29a4bfd1da0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAVE ME- IPHONE XR, future, hip hop, iphone xr, music, save me, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/680/659/HD-wallpaper-save-me-iphone-xr-future-hip-hop-iphone-xr-music-save-me.jpg' alt='SAVE ME- IPHONE XR, future, hip hop, iphone xr, music, save me, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/680/659/HD-wallpaper-save-me-iphone-xr-future-hip-hop-iphone-xr-music-save-me.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

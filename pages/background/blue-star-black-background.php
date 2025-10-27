@@ -1,0 +1,129 @@
+<title>Blue Star on Black Background: A Celestial Contrast</title>
+                    <meta name="description" content="Discover the captivating beauty of a blue star set against a black background. This striking imagery embodies tranquility and mystery, perfect for art enthusiasts and stargazers alike. Explore the visual contrast and find inspiration in the serenity of the night sky.">
+                    <meta name="keywords" content="blue star black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-star-black-background">
+                            <span itemprop="name">blue star black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Star on Black Background: A Celestial Contrast</h1>
+                <p>In a world of colors, a blue star against a black background symbolizes tranquility and mystery. The deep navy contrasts sharply with the vibrant azure, creating a celestial effect reminiscent of the night sky. This enchanting visual invites contemplation and appreciation for the beauty that exists in the universe's vast expanse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark blue icon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/eb/b7/b3/ebb7b3c37fc969722af35691ce240723.jpg' alt='dark blue icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/eb/b7/b3/ebb7b3c37fc969722af35691ce240723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/03/9f/9f039f142daf3a55fd290f2fbe72164f.jpg' alt='Blue stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/03/9f/9f039f142daf3a55fd290f2fbe72164f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue star icon on a black background. Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/01/86/74/1000_F_201867441_PcttFLQ3ACNakyA48NQebsDtGEglKT4a.jpg' alt='Neon blue star icon on a black background. Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/01/86/74/1000_F_201867441_PcttFLQ3ACNakyA48NQebsDtGEglKT4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue star aura icon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/f6/d7/c1f6d76848b59111478fa0fc710d6639.jpg' alt='blue star aura icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/f6/d7/c1f6d76848b59111478fa0fc710d6639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiery Blue Star on a Black Background. Abstract Hot Bright ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fiery-blue-star-black-background-abstract-hot-bright-particle-star-shape-flame-frame-burning-outline-star-appeared-248030620.jpg' alt='Fiery Blue Star on a Black Background. Abstract Hot Bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fiery-blue-star-black-background-abstract-hot-bright-particle-star-shape-flame-frame-burning-outline-star-appeared-248030620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/df/fc/8edffcd4426604995b48c99d2c474ea8.jpg' alt='Blue Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/df/fc/8edffcd4426604995b48c99d2c474ea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ℂ    Ⓑ    R̥ͦ             ⌫">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/1f/a7/1e1fa78a56cf756cf37558057968421b.jpg' alt='ℂ    Ⓑ    R̥ͦ             ⌫'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/1f/a7/1e1fa78a56cf756cf37558057968421b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Stars, black, blue, clean, dark minimal, simple, star ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/696/592/HD-wallpaper-dark-blue-stars-black-blue-clean-dark-minimal-simple-star-stars-texture.jpg' alt='Dark Blue Stars, black, blue, clean, dark minimal, simple, star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/696/592/HD-wallpaper-dark-blue-stars-black-blue-clean-dark-minimal-simple-star-stars-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Star on Black Background Stock Illustration - Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/blue-star-black-background-11189193.jpg' alt='Blue Star on Black Background Stock Illustration - Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/blue-star-black-background-11189193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DARK BLUE, stars, swirls, blue, dark, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/530/990/HD-wallpaper-dark-blue-stars-swirls-blue-dark.jpg' alt='DARK BLUE, stars, swirls, blue, dark, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/530/990/HD-wallpaper-dark-blue-stars-swirls-blue-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

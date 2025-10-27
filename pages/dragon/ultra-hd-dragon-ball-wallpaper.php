@@ -1,0 +1,129 @@
+<title>Ultra HD Dragon Ball Wallpapers: Epic Visuals for Fans</title>
+                    <meta name="description" content="Discover the best Ultra HD Dragon Ball wallpapers that transform your screens with breathtaking visuals! Perfect for fans seeking high-resolution images of their favorite characters. Download now and experience vibrant energy and detail like never before!">
+                    <meta name="keywords" content="ultra hd dragon ball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/ultra-hd-dragon-ball-wallpaper">
+                            <span itemprop="name">ultra hd dragon ball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultra HD Dragon Ball Wallpapers: Epic Visuals for Fans</h1>
+                <p>Elevate your device's aesthetic with stunning Ultra HD Dragon Ball wallpapers. Featuring vibrant colors and intricate details, these wallpapers bring your favorite characters to life, enhancing your screens with dynamic energy. Perfect for fans, these high-resolution images will transform your phone or desktop into a visual masterpiece!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/JmrAs6G.jpg' alt='Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/JmrAs6G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegeta in 4K Ultra HD: A Dragon Ball Super Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/114/1143254.jpg' alt='Vegeta in 4K Ultra HD: A Dragon Ball Super Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/114/1143254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/132/1329226.jpeg' alt='Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/132/1329226.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160+ Dragon Ball Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/1405/goku-beast-mode.jpg' alt='160+ Dragon Ball Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/1405/goku-beast-mode.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/e/f/143566-3840x2160-desktop-4k-dragon-ball-z-wallpaper.jpg' alt='Dragon Ball Z Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/e/f/143566-3840x2160-desktop-4k-dragon-ball-z-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/409/730/HD-wallpaper-the-ultimate-fusion-dbz-dragon-ball-dragon-ball-super-dragon-ball-z-gogeta.jpg' alt='Dragon ball wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/409/730/HD-wallpaper-the-ultimate-fusion-dbz-dragon-ball-dragon-ball-super-dragon-ball-z-gogeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can't find a 4k Dragon Ball wallpaper that I like, so I quickly ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mu68s0xdv0961.jpg' alt='Can't find a 4k Dragon Ball wallpaper that I like, so I quickly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mu68s0xdv0961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonball Super Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-3840x2160.jpg' alt='Dragonball Super Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku New Dragon Ball Z Art Wallpaper, HD Anime 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/goku-new-dragon-ball-z-art_bGZqa26UmZqaraWkpJRnaWVlrWZoamU.jpg' alt='Goku New Dragon Ball Z Art Wallpaper, HD Anime 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/goku-new-dragon-ball-z-art_bGZqa26UmZqaraWkpJRnaWVlrWZoamU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3c/34/08/3c34080ec73ca563202762e1a290c036.jpg' alt='110 Dragon ball phone wallpapers ideas | dragon ball, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3c/34/08/3c34080ec73ca563202762e1a290c036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

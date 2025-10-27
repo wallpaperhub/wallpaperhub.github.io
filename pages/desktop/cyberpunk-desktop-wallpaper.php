@@ -1,0 +1,129 @@
+<title>Stunning Cyberpunk Desktop Wallpaper for Your Screen</title>
+                    <meta name="description" content="Discover captivating cyberpunk desktop wallpaper to enhance your digital space. Explore vibrant designs featuring neon cities and futuristic aesthetics, perfect for a tech-inspired look. Transform your workspace and express your unique style with our curated collection of stunning wallpapers.">
+                    <meta name="keywords" content="cyberpunk desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/cyberpunk-desktop-wallpaper">
+                            <span itemprop="name">cyberpunk desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cyberpunk Desktop Wallpaper for Your Screen</h1>
+                <p>Transform your screen with mesmerizing cyberpunk desktop wallpaper! Dive into a futuristic world filled with neon lights, dystopian cityscapes, and vibrant colors. Perfect for tech enthusiasts or anyone seeking a unique aesthetic. Upgrade your workspace and let your imagination roam in a cybernetic utopia. Explore endless designs now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2058741574591785827/2336691F8F4832C7E7C2BA1E8240DA78C07A9BCE/' alt='Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6400">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2058741574591785827/2336691F8F4832C7E7C2BA1E8240DA78C07A9BCE/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk wallpapers collection (1920x1080) : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/kFNiMZVltZJO8AafC3UUk0DnSeSkRl50lxLLylE2S9I.jpg?width=1080&crop=smart&auto=webp&s=0ba9e5f6aefc80c7c3275f25a6be48f20ad196cf' alt='Cyberpunk wallpapers collection (1920x1080) : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/kFNiMZVltZJO8AafC3UUk0DnSeSkRl50lxLLylE2S9I.jpg?width=1080&crop=smart&auto=webp&s=0ba9e5f6aefc80c7c3275f25a6be48f20ad196cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Have A City to Burn” Cyberpunk 2077 – Free Wallpaper : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e42jpx6a8az51.jpg?width=1080&crop=smart&auto=webp&s=7fbf17dd4472a8fa16a4b0e5f4c5b29591417027' alt='We Have A City to Burn” Cyberpunk 2077 – Free Wallpaper : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e42jpx6a8az51.jpg?width=1080&crop=smart&auto=webp&s=7fbf17dd4472a8fa16a4b0e5f4c5b29591417027' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Official Hi-Res Wallpaper Released by CD Projekt ...">
+                                <img itemprop="contentUrl url" src='https://assets1.ignimgs.com/2019/08/27/a-mercenary-on-the-rise-en-1566871767331.jpg' alt='Cyberpunk 2077 Official Hi-Res Wallpaper Released by CD Projekt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets1.ignimgs.com/2019/08/27/a-mercenary-on-the-rise-en-1566871767331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2058741574591784143/310818E5D3AE1CF90927AB9555326A88AECAA889/' alt='Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2058741574591784143/310818E5D3AE1CF90927AB9555326A88AECAA889/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite cyberpunk wallpaper: Cyberpunk City : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dxkfboy5zotz.jpg?width=640&crop=smart&auto=webp&s=fa6435bd0f8721b759ed977a21aaa7cd425732dd' alt='My favorite cyberpunk wallpaper: Cyberpunk City : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dxkfboy5zotz.jpg?width=640&crop=smart&auto=webp&s=fa6435bd0f8721b759ed977a21aaa7cd425732dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Cyberpunk Wallpapers [HD] | Download Free Images On Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1685148902854-9b9bb49fff08?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3liZXJwdW5rfGVufDB8fDB8fHww' alt='100+ Cyberpunk Wallpapers [HD] | Download Free Images On Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1685148902854-9b9bb49fff08?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3liZXJwdW5rfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2058741574591791248/94A4B6C553C90EAD5801FF97CCD64974E7F940D5/' alt='Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2058741574591791248/94A4B6C553C90EAD5801FF97CCD64974E7F940D5/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cyberpunk Neon City 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/135/1355218.jpg' alt='Download Cyberpunk Neon City 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/135/1355218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/d/f/2614-3840x2160-desktop-4k-cyberpunk-2077-wallpaper-photo.jpg' alt='Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/d/f/2614-3840x2160-desktop-4k-cyberpunk-2077-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

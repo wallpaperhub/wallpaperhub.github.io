@@ -1,0 +1,129 @@
+<title>Festive Thanksgiving Home Screen Wallpapers</title>
+                    <meta name="description" content="Discover stunning Thanksgiving home screen wallpapers to brighten your device. Celebrate the season with vibrant designs and cozy autumn themes, perfect for showcasing gratitude and warmth. Download now and give your screens a festive touch!">
+                    <meta name="keywords" content="thanksgiving home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving">
+                            <span itemprop="name">Thanksgiving</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving/thanksgiving-home-screen-wallpaper">
+                            <span itemprop="name">thanksgiving home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Thanksgiving Home Screen Wallpapers</h1>
+                <p>Transform your device with a festive Thanksgiving home screen wallpaper that brings warmth and joy to your daily routine. Featuring autumn hues, pumpkins, and cozy family scenes, these wallpapers will enhance your screens with a seasonal spirit. Celebrate gratitude and connection every time you unlock your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by MY OB on November Home Screen Savers | Thanksgiving iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/21/42/0721428976f816e6d474cd1eaa4f802b.jpg' alt='Pin by MY OB on November Home Screen Savers | Thanksgiving iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/21/42/0721428976f816e6d474cd1eaa4f802b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Thanksgiving desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' alt='Free to edit Thanksgiving desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Best Free Thanksgiving Wallpaper Downloads For Your iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c8/33/f9/c833f9a957c47aaa06f03bedbd437965.jpg' alt='30+ Best Free Thanksgiving Wallpaper Downloads For Your iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c8/33/f9/c833f9a957c47aaa06f03bedbd437965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400,000+ HD Thanksgiving Backgrounds for Free - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/09/22/08/09/halloween-7471880_1280.png' alt='400,000+ HD Thanksgiving Backgrounds for Free - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1219">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/09/22/08/09/halloween-7471880_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,600+ Thanksgiving Background Pattern Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1424278351/vector/happy-thanksgiving-card-with-autumn-leaves-background.jpg?s=612x612&w=0&k=20&c=mWMttq2GEFHDdZU63byYH_ChDECIO1voVzNM_LCFKxc=' alt='9,600+ Thanksgiving Background Pattern Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1424278351/vector/happy-thanksgiving-card-with-autumn-leaves-background.jpg?s=612x612&w=0&k=20&c=mWMttq2GEFHDdZU63byYH_ChDECIO1voVzNM_LCFKxc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Thanksgiving desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJbICKdWA/1/0/1600w/canva-autumn-hues-illustrated-pattern-desktop-wallpaper-GLs7iM8Vclo.jpg' alt='Free to edit Thanksgiving desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJbICKdWA/1/0/1600w/canva-autumn-hues-illustrated-pattern-desktop-wallpaper-GLs7iM8Vclo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Best Thanksgiving Wallpaper! ideas | thanksgiving wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/95/0d/2a/950d2ac85e3605e3355bc07e1544581e.jpg' alt='56 Best Thanksgiving Wallpaper! ideas | thanksgiving wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/95/0d/2a/950d2ac85e3605e3355bc07e1544581e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,300+ Thanksgiving Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1616188830/vector/thanksgiving-and-autumn-seamless-pattern-with-doodles.jpg?s=612x612&w=0&k=20&c=qiz1hNkP96vJXLBNNYcClPRX2Rul7Yo5vu4GBz-Z9I4=' alt='22,300+ Thanksgiving Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1616188830/vector/thanksgiving-and-autumn-seamless-pattern-with-doodles.jpg?s=612x612&w=0&k=20&c=qiz1hNkP96vJXLBNNYcClPRX2Rul7Yo5vu4GBz-Z9I4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Thanksgiving Minimalist Pumpkin Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-thanksgiving-minimalist-pumpkin-b4ps9i4yldnauaa7.jpg' alt='Cute Thanksgiving Minimalist Pumpkin Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-thanksgiving-minimalist-pumpkin-b4ps9i4yldnauaa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Wallpaper For Phone, Pumpkin Phone Background, Fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/60/6b/76606bd6556255829c90fe283e6cac93.jpg' alt='Thanksgiving Wallpaper For Phone, Pumpkin Phone Background, Fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/60/6b/76606bd6556255829c90fe283e6cac93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Dragon Ball Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Elevate your iPhone lock screen with stunning Dragon Ball wallpapers! Explore vibrant designs featuring your favorite characters and immerse yourself in the Dragon Ball universe every time you unlock your phone. Download the perfect wallpaper to showcase your fandom today!">
+                    <meta name="keywords" content="lock screen dragon ball wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/lock-screen-dragon-ball-wallpaper-iphone">
+                            <span itemprop="name">lock screen dragon ball wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dragon Ball Lock Screen Wallpapers for iPhone</h1>
+                <p>Unlock your iPhone with epic Dragon Ball wallpaper! Transform your lock screen into a vibrant showcase of iconic characters like Goku, Vegeta, and more. Perfect for fans of the series, these stunning wallpapers bring the world of Dragon Ball to life, adding a touch of adventure to your daily routine. Download now and power up your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I will never have a better lock screen than this. : r/dbz">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-will-never-have-a-better-lock-screen-than-this-v0-2nysqn5vygoa1.jpg?width=640&crop=smart&auto=webp&s=21d707dc616979cea7ab51626cac06e8280a5691' alt='I will never have a better lock screen than this. : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-will-never-have-a-better-lock-screen-than-this-v0-2nysqn5vygoa1.jpg?width=640&crop=smart&auto=webp&s=21d707dc616979cea7ab51626cac06e8280a5691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My iPhone lock screen wallpaper : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/il8chKoTBPrJ-Y5OuEeVCNofSJLyUpaUXJkOAw5RbsM.jpg?auto=webp&s=2d48bd4ea1d79e892c2ffeb64f0b1a04757f858f' alt='My iPhone lock screen wallpaper : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/il8chKoTBPrJ-Y5OuEeVCNofSJLyUpaUXJkOAw5RbsM.jpg?auto=webp&s=2d48bd4ea1d79e892c2ffeb64f0b1a04757f858f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Ball Z Phone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-z-phone-8wh8mzs156z9ajrs.jpg' alt='Download Dragon Ball Z Phone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-z-phone-8wh8mzs156z9ajrs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Ball Z Phone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-z-phone-gi7cf3alsyum5nkt.jpg' alt='Download Dragon Ball Z Phone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-z-phone-gi7cf3alsyum5nkt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' alt='100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/af/d6/6fafd601c3911fc43a85a4d379e06d05.jpg' alt='Goku Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/af/d6/6fafd601c3911fc43a85a4d379e06d05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Dragon Ball Wallpapers/Lock Screens ideas | dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/76/0d/c0/760dc0bd997a277b24f433921ad1d183.jpg' alt='69 Dragon Ball Wallpapers/Lock Screens ideas | dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/76/0d/c0/760dc0bd997a277b24f433921ad1d183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' alt='Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper 1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/44/4f/fb444fd8d7e4aa3e6581d62a42bf2ed0.jpg' alt='Lock Screen Wallpaper 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/44/4f/fb444fd8d7e4aa3e6581d62a42bf2ed0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Dragon Ball    Wallpaper Lock Screen : r/ios16walldeptheffect">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/btqpsgiviho91.jpg' alt='iOS 16 Dragon Ball    Wallpaper Lock Screen : r/ios16walldeptheffect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/btqpsgiviho91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

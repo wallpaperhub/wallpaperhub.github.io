@@ -1,0 +1,129 @@
+<title>Neon Blue Aesthetic: Embrace the Vivid Vibes!</title>
+                    <meta name="description" content="Explore the neon blue aesthetic, where electric tones meet modern style! Discover how this vibrant trend elevates art, fashion, and interiors, creating a sleek and energetic atmosphere. Perfect for lovers of bold visuals and futuristic designs. Dive into the world of neon blue now!">
+                    <meta name="keywords" content="neon blue aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-blue-aesthetic">
+                            <span itemprop="name">neon blue aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Neon Blue Aesthetic: Embrace the Vivid Vibes!</h1>
+                <p>Neon blue aesthetic captures a vibrant mix of electric hues and modern vibes. This visual trend blends deep blues with bold accents, creating an energetic atmosphere that resonates in art, fashion, and design. Ideal for those who appreciate a futuristic touch, it enhances spaces with a cool, luminous feel, making everyday environments feel extraordinary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Sign Aesthetic | Brighten Up Your Space">
+                                <img itemprop="contentUrl url" src='http://orantneon.com/cdn/shop/articles/animal-neon-sign.jpg_1.jpg?v=1666001361' alt='Blue Neon Sign Aesthetic | Brighten Up Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orant Neon" />
+                                </span>
+                                <a href='http://orantneon.com/cdn/shop/articles/animal-neon-sign.jpg_1.jpg?v=1666001361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Electric blue aesthetic ideas | blue aesthetic, feeling blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/36/c5/1a/36c51a34095762615aa860999f62e1b4.jpg' alt='42 Electric blue aesthetic ideas | blue aesthetic, feeling blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/36/c5/1a/36c51a34095762615aa860999f62e1b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8c/89/14/8c89144d870b430cbd6abefc6ca73d17.jpg' alt='Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8c/89/14/8c89144d870b430cbd6abefc6ca73d17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Electric Blue Neon Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/electric-blue-neon-cloud-mpw2jvz8uwj13zh0.jpg' alt='100+] Electric Blue Neon Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1277">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/electric-blue-neon-cloud-mpw2jvz8uwj13zh0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Sign Aesthetic | Brighten Up Your Space">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0600/6318/7116/files/blue_neon_sign_aesthetic_1_jpg_480x480.jpg?v=1673796443' alt='Blue Neon Sign Aesthetic | Brighten Up Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orant Neon" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0600/6318/7116/files/blue_neon_sign_aesthetic_1_jpg_480x480.jpg?v=1673796443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why electric blue neon signs are so aesthetic & trendy - Sign ...">
+                                <img itemprop="contentUrl url" src='https://www.signcustomiser.com/blog/uploads/electric-blue-neon-blue-aesthetic-2.gif' alt='Why electric blue neon signs are so aesthetic & trendy - Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3316">
+                                <meta itemprop="height" content="2388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sign Customiser" />
+                                </span>
+                                <a href='https://www.signcustomiser.com/blog/uploads/electric-blue-neon-blue-aesthetic-2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/blue-neon-aesthetic-collage-gplsz698mjued6so.jpg' alt='Blue Neon Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/blue-neon-aesthetic-collage-gplsz698mjued6so.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Best Rooms With Electric Blue Neon Blue Aesthetic – NeonGrand">
+                                <img itemprop="contentUrl url" src='http://neongrand.com/cdn/shop/articles/mk1-9-jpg.webp?v=1675400546' alt='20 Best Rooms With Electric Blue Neon Blue Aesthetic – NeonGrand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeonGrand" />
+                                </span>
+                                <a href='http://neongrand.com/cdn/shop/articles/mk1-9-jpg.webp?v=1675400546' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "The Power Of Neon Blue" | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-fk9mo5n7r5fm077r.jpg' alt='Download "The Power Of Neon Blue" | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-aesthetic-pictures-fk9mo5n7r5fm077r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Blue Aesthetic Digital Collage Kit - Dark Blue Wall Collage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' alt='100 Blue Aesthetic Digital Collage Kit - Dark Blue Wall Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1432">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35092126/r/il/a24915/3822494413/il_fullxfull.3822494413_o802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

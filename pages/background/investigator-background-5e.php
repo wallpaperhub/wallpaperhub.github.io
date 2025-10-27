@@ -1,0 +1,129 @@
+<title>Unveiling the Investigator Background in D&D 5e</title>
+                    <meta name="description" content="Explore the Investigator background in D&D 5e! Discover how this unique character choice enhances your gameplay with skills in deduction and mystery-solving. Perfect for players looking to add depth to their adventures while unraveling secrets and uncovering hidden truths.">
+                    <meta name="keywords" content="investigator background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/investigator-background-5e">
+                            <span itemprop="name">investigator background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Investigator Background in D&D 5e</h1>
+                <p>In Dungeons & Dragons 5e, the Investigator background offers players a unique blend of curiosity and deductive skills. Characters with this background are skilled in finding hidden clues and unraveling mysteries. They can interrogate suspects and notice details others might overlook, making them valuable allies in any campaign.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Investigator Background : r/DnDHomebrew">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/6FVmYHZNMAq5iGJZB7ysHhl6_eZtMJVGRtHCeSmZtII.jpg?auto=webp&s=7124c7456a4ca602f2500b0d35a74158e2eae355' alt='The Investigator Background : r/DnDHomebrew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/6FVmYHZNMAq5iGJZB7ysHhl6_eZtMJVGRtHCeSmZtII.jpg?auto=webp&s=7124c7456a4ca602f2500b0d35a74158e2eae355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paranormal Investigator Background for Dungeons & Dragons, 5e ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1ab50747f200ec38f9e3b2ea4622f97c/tumblr_pn6n9gXlFL1xlisyho1_640.pnj' alt='Paranormal Investigator Background for Dungeons & Dragons, 5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1ab50747f200ec38f9e3b2ea4622f97c/tumblr_pn6n9gXlFL1xlisyho1_640.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom D&D 5e Background: Detective - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2021/03/063020_Investigator.jpg' alt='Custom D&D 5e Background: Detective - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2021/03/063020_Investigator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigator (5e Class Adaptation from pf2e) - By SpaceWestern ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EvmguJAU8AMusxz?format=jpg&name=4096x4096' alt='Investigator (5e Class Adaptation from pf2e) - By SpaceWestern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2926">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EvmguJAU8AMusxz?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5E] [OC] The Detective - A Deductive Support Class - Feedback ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/laavj235vsk71.jpg' alt='5E] [OC] The Detective - A Deductive Support Class - Feedback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/laavj235vsk71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom D&D 5e Background: Detective - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2021/03/image0.jpg' alt='Custom D&D 5e Background: Detective - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="239">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2021/03/image0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom D&D 5e Background: Detective - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2021/03/image0-1.jpg' alt='Custom D&D 5e Background: Detective - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2021/03/image0-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 2024 Backgrounds Cook & Investigator : r/UnearthedArcana">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dnd-2024-backgrounds-cook-investigator-v0-x5wzxz806l8e1.png?width=640&crop=smart&auto=webp&s=500ab3b6d735ea4926826db18be1e7651a36a31c' alt='DnD 2024 Backgrounds Cook & Investigator : r/UnearthedArcana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dnd-2024-backgrounds-cook-investigator-v0-x5wzxz806l8e1.png?width=640&crop=smart&auto=webp&s=500ab3b6d735ea4926826db18be1e7651a36a31c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inquirer (5e Background) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='https://1.bp.blogspot.com/-OSobK4wloNE/U9vZJs9w-mI/AAAAAAAABmc/BBBB-D85M_k/s1600/377px-Master_inquisitive.jpg' alt='Inquirer (5e Background) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='https://1.bp.blogspot.com/-OSobK4wloNE/U9vZJs9w-mI/AAAAAAAABmc/BBBB-D85M_k/s1600/377px-Master_inquisitive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 2024 Backgrounds Cook & Investigator : r/UnearthedArcana">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dnd-2024-backgrounds-cook-investigator-v0-2wy9isb06l8e1.png?width=640&crop=smart&auto=webp&s=07608bcad43f48b425f489b32c6dc20ad598d6e3' alt='DnD 2024 Backgrounds Cook & Investigator : r/UnearthedArcana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dnd-2024-backgrounds-cook-investigator-v0-2wy9isb06l8e1.png?width=640&crop=smart&auto=webp&s=07608bcad43f48b425f489b32c6dc20ad598d6e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

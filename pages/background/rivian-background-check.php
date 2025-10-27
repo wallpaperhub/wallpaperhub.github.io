@@ -1,0 +1,129 @@
+<title>Rivian Background Check: What You Need to Know</title>
+                    <meta name="description" content="Discover everything about Rivian's background check process. Learn how they ensure a safe and reliable workforce through thorough screenings and why this matters for potential employees and the company's mission in the electric vehicle industry.">
+                    <meta name="keywords" content="rivian background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rivian-background-check">
+                            <span itemprop="name">rivian background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rivian Background Check: What You Need to Know</h1>
+                <p>Rivian conducts extensive background checks to ensure the integrity and safety of its workforce. These checks typically include employment history, criminal records, and education verification. As a company committed to innovation in the electric vehicle market, Rivian prioritizes hiring trustworthy individuals who align with its values and goals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Program Manager, Background Checks at Rivian Automotive">
+                                <img itemprop="contentUrl url" src='https://api.imagekit.co/screenshot?width=1200&height=630&unique=1621662294&dpr=1&url=https%3A%2F%2Fstartup.jobs%2Fprogram-manager-background-checks-rivian-automotive-2-2044576%2Fcard&hash=9ff7be04d0f9f56f107260d230b2bc41' alt='Program Manager, Background Checks at Rivian Automotive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Startup Jobs" />
+                                </span>
+                                <a href='https://api.imagekit.co/screenshot?width=1200&height=630&unique=1621662294&dpr=1&url=https%3A%2F%2Fstartup.jobs%2Fprogram-manager-background-checks-rivian-automotive-2-2044576%2Fcard&hash=9ff7be04d0f9f56f107260d230b2bc41' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rivian Upgrades R1S and R1T EV Models | Chase">
+                                <img itemprop="contentUrl url" src='https://autofinance.chase.com/K125-004/images/articles/articlePage/featured_image_rivian_new_m.jpg' alt='Rivian Upgrades R1S and R1T EV Models | Chase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="319">
+                                <meta itemprop="height" content="170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chase Auto - Chase Bank" />
+                                </span>
+                                <a href='https://autofinance.chase.com/K125-004/images/articles/articlePage/featured_image_rivian_new_m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Rivian drug test or do a background check? - Rivian Questions ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/rivian/questions/3837544/does-rivian-drug-test-or-do-a-background-check' alt='Does Rivian drug test or do a background check? - Rivian Questions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/rivian/questions/3837544/does-rivian-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rivian R1T review: 'the truck market's game-changer' Reviews 2025 ...">
+                                <img itemprop="contentUrl url" src='https://www.topgear.com/sites/default/files/2021/09/20%20Rivian%20R1T.jpg' alt='Rivian R1T review: 'the truck market's game-changer' Reviews 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3749">
+                                <meta itemprop="height" content="2108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TopGear" />
+                                </span>
+                                <a href='https://www.topgear.com/sites/default/files/2021/09/20%20Rivian%20R1T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rivian – Range Industries">
+                                <img itemprop="contentUrl url" src='https://range-industries.com/cdn/shop/files/IMG_6786.jpg?v=1712290147&width=3200' alt='Rivian – Range Industries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Range Industries" />
+                                </span>
+                                <a href='https://range-industries.com/cdn/shop/files/IMG_6786.jpg?v=1712290147&width=3200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glacier White Rivian R2 Photos | Rivian Forum – Rivian R1T & R1S ...">
+                                <img itemprop="contentUrl url" src='https://www.rivianownersforum.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.rivianownersforum.com/attachments/gw-jpg.13911/' alt='Glacier White Rivian R2 Photos | Rivian Forum – Rivian R1T & R1S ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rivian Owners Forum" />
+                                </span>
+                                <a href='https://www.rivianownersforum.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.rivianownersforum.com/attachments/gw-jpg.13911/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rivian Home Charging Installation by Qmerit">
+                                <img itemprop="contentUrl url" src='https://qmeritdev.com/wp-content/uploads/2024/07/Rivian-Qmerit-hero-scaled.jpg' alt='Rivian Home Charging Installation by Qmerit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Qmerit" />
+                                </span>
+                                <a href='https://qmeritdev.com/wp-content/uploads/2024/07/Rivian-Qmerit-hero-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone have a Rivian with no issues    : r/Rivian">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-anyone-have-a-rivian-with-no-issues-v0-0m23muzxw2cd1.jpeg?auto=webp&s=eabad9c826fb9afdb01c31afaea8087f6c0e2d6b' alt='Does anyone have a Rivian with no issues    : r/Rivian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2717">
+                                <meta itemprop="height" content="2717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-anyone-have-a-rivian-with-no-issues-v0-0m23muzxw2cd1.jpeg?auto=webp&s=eabad9c826fb9afdb01c31afaea8087f6c0e2d6b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Makes Rivian Trucks? - Kelley Blue Book">
+                                <img itemprop="contentUrl url" src='https://www.kbb.com/wp-content/uploads/2022/11/2022-rivian-r1t-rocks.jpeg' alt='Who Makes Rivian Trucks? - Kelley Blue Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelley Blue Book" />
+                                </span>
+                                <a href='https://www.kbb.com/wp-content/uploads/2022/11/2022-rivian-r1t-rocks.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: 2025 Rivian R1T and R1S gain efficiency, comfort, and a ...">
+                                <img itemprop="contentUrl url" src='https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/932/rivian_100932114.jpg' alt='Review: 2025 Rivian R1T and R1S gain efficiency, comfort, and a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Car Reports" />
+                                </span>
+                                <a href='https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/932/rivian_100932114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

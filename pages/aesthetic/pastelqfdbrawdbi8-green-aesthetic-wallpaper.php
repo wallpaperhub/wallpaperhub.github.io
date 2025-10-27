@@ -1,0 +1,129 @@
+<title>Stunning Pastel Green Aesthetic Wallpaper for Your Home</title>
+                    <meta name="description" content="Add a touch of tranquility to your interiors with our pastel green aesthetic wallpaper. Designed for style and serenity, it’s the ideal choice for modern spaces. Explore various patterns and textures that enhance your decor and create a soothing environment. Perfect for any room makeover!">
+                    <meta name="keywords" content="pastel:qfdbrawdbi8= green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastelqfdbrawdbi8-green-aesthetic-wallpaper">
+                            <span itemprop="name">pastel:qfdbrawdbi8= green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pastel Green Aesthetic Wallpaper for Your Home</h1>
+                <p>Transform your space with pastel green aesthetic wallpaper, perfect for creating a calming and serene atmosphere. Its soft hues offer a stylish backdrop for any room, from bedrooms to living areas. This wallpaper blends seamlessly with various decor styles, enhancing your home's aesthetic appeal effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green aesthetic ✨   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/a1/44/c3a144e171411ea8fde5747e24381f0c.jpg' alt='Pastel green aesthetic ✨   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/a1/44/c3a144e171411ea8fde5747e24381f0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper green light green , pastel green ,aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/2c/1a/6f2c1a5c4507130215cec724502a7f48.jpg' alt='Aesthetic wallpaper green light green , pastel green ,aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/2c/1a/6f2c1a5c4507130215cec724502a7f48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/75/55/da7555b1330d06af310240fa63cdfe02.jpg' alt='Pastel green aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/75/55/da7555b1330d06af310240fa63cdfe02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/ec/07/86ec074e19dbc42e3da7ccd81958089d.jpg' alt='Pastel Green Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/ec/07/86ec074e19dbc42e3da7ccd81958089d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/succulent-pastel-green-aesthetic-630seuopqok46cm3.jpg' alt='100+] Pastel Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/succulent-pastel-green-aesthetic-630seuopqok46cm3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green | Mint green aesthetic, Mint green wallpaper, Grid ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e4/e2/99/e4e299281ff7fd17b99bda0420da161c.jpg' alt='Pastel green | Mint green aesthetic, Mint green wallpaper, Grid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e4/e2/99/e4e299281ff7fd17b99bda0420da161c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Best Pastel Green aesthetic ideas | green aesthetic, mint green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c6/0f/d7/c60fd7eb2c2468512bc976e1b9260f5f.jpg' alt='47 Best Pastel Green aesthetic ideas | green aesthetic, mint green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c6/0f/d7/c60fd7eb2c2468512bc976e1b9260f5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green, light green ,pastel green aesthetic wallpaper for android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/22/52/242252126d1c476dc69f55035c6cfabd.jpg' alt='Green, light green ,pastel green aesthetic wallpaper for android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/22/52/242252126d1c476dc69f55035c6cfabd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green , green , light green aesthetic wallpaper for android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/5d/0b/215d0bfcd21059cc77874a06eab5bc7f.jpg' alt='Pastel green , green , light green aesthetic wallpaper for android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/5d/0b/215d0bfcd21059cc77874a06eab5bc7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pastel Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/73/00/a873009be57f9a337d74b3b56493d812.jpg' alt='Aesthetic Pastel Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/73/00/a873009be57f9a337d74b3b56493d812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

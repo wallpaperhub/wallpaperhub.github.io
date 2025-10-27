@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Eyes Photon Dragon Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover enchanting galaxy eyes photon dragon wallpaper that brings a cosmic twist to your screens. Perfectly crafted for fans of fantasy art, this wallpaper is vibrant, unique, and ideal for mobile devices. Download now to elevate your digital experience with mesmerizing visuals!">
+                    <meta name="keywords" content="galaxy eyes photon dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/galaxy-eyes-photon-dragon-wallpaper">
+                            <span itemprop="name">galaxy eyes photon dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Eyes Photon Dragon Wallpaper for Your Device</h1>
+                <p>Transform your device's look with stunning galaxy eyes photon dragon wallpaper! This vibrant artwork features mesmerizing shades of deep space, radiating otherworldly beauty. Perfect for fantasy lovers and anyone seeking a unique aesthetic, this wallpaper will set your screen apart, bringing life and imagination to your everyday digital experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="He)art of the Cards — Galaxy-Eyes Photon Dragon">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/tumblr_mbtcqj0jGA1rie4kjo1_640.png' alt='He)art of the Cards — Galaxy-Eyes Photon Dragon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="(He)art of the Cards - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/tumblr_mbtcqj0jGA1rie4kjo1_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Photon Dragon Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/47/69/8e476972a34b4e771c3092a3daba7ad1.jpg' alt='Awesome Photon Dragon Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/47/69/8e476972a34b4e771c3092a3daba7ad1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy-Eyes Photon Dragon Anime Yu-Gi-Oh! HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/126/1266321.jpg' alt='Download Galaxy-Eyes Photon Dragon Anime Yu-Gi-Oh! HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/126/1266321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy-Eyes Full Armor Photon Dragon (Duel Links) - Yugipedia">
+                                <img itemprop="contentUrl url" src='https://ms.yugipedia.com//3/38/GalaxyEyesFullArmorPhotonDragon-MADU-EN-VG-artwork.png' alt='Galaxy-Eyes Full Armor Photon Dragon (Duel Links) - Yugipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yugipedia" />
+                                </span>
+                                <a href='https://ms.yugipedia.com//3/38/GalaxyEyesFullArmorPhotonDragon-MADU-EN-VG-artwork.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy-Eyes Photon Dragon - Yu-Gi-Oh! ZEXAL - Mobile Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Galaxy-Eyes.Photon.Dragon.full.2094718.jpg' alt='Galaxy-Eyes Photon Dragon - Yu-Gi-Oh! ZEXAL - Mobile Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Galaxy-Eyes.Photon.Dragon.full.2094718.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy-Eyes Prime Photon Dragon by John-Itachi on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd0dcf21-fb55-4e3d-aed9-8ff02235fa30/dcqofxi-1efc50c4-c4e9-4578-a0e7-9548608b3c8e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMGRjZjIxLWZiNTUtNGUzZC1hZWQ5LThmZjAyMjM1ZmEzMFwvZGNxb2Z4aS0xZWZjNTBjNC1jNGU5LTQ1NzgtYTBlNy05NTQ4NjA4YjNjOGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ivkb-4BzGh-3MxUh4I7QYJBt0sFLbWwHFBC0r2Z5aZg' alt='Galaxy-Eyes Prime Photon Dragon by John-Itachi on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd0dcf21-fb55-4e3d-aed9-8ff02235fa30/dcqofxi-1efc50c4-c4e9-4578-a0e7-9548608b3c8e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMGRjZjIxLWZiNTUtNGUzZC1hZWQ5LThmZjAyMjM1ZmEzMFwvZGNxb2Z4aS0xZWZjNTBjNC1jNGU5LTQ1NzgtYTBlNy05NTQ4NjA4YjNjOGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ivkb-4BzGh-3MxUh4I7QYJBt0sFLbWwHFBC0r2Z5aZg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy-Eyes Photon Dragon Artwork 2 by Dino-master | Desenho yu gi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/03/2d/79032d977cc4d19fd1a48390dab2f925.jpg' alt='Galaxy-Eyes Photon Dragon Artwork 2 by Dino-master | Desenho yu gi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/03/2d/79032d977cc4d19fd1a48390dab2f925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugioh Galaxy-Eyes Photon Dragon deck profile - OVER 36,000 ATTACK!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mLRUbzLli3o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl9GSMENA_t5rKak5uBgRWSrSASg' alt='Yugioh Galaxy-Eyes Photon Dragon deck profile - OVER 36,000 ATTACK!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mLRUbzLli3o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl9GSMENA_t5rKak5uBgRWSrSASg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neo Galaxy Eyes Photon Dragon by Dusk-TheBlackroseGod on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35a85757-1206-4f13-a22f-5584c070e2d1/dfcwwnz-51b0cd85-6c42-47c2-a851-a52d21e10087.jpg/v1/fill/w_1250,h_631,q_75,strp/neo_galaxy_eyes_photon_dragon_by_dusk_theblackrosegod_dfcwwnz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMxIiwicGF0aCI6IlwvZlwvMzVhODU3NTctMTIwNi00ZjEzLWEyMmYtNTU4NGMwNzBlMmQxXC9kZmN3d256LTUxYjBjZDg1LTZjNDItNDdjMi1hODUxLWE1MmQyMWUxMDA4Ny5qcGciLCJ3aWR0aCI6Ijw9MTI1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TffqUMtBApEWRZbZ7XJKi2QHTC3dtuKgK9zd94Cx7GU' alt='Neo Galaxy Eyes Photon Dragon by Dusk-TheBlackroseGod on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35a85757-1206-4f13-a22f-5584c070e2d1/dfcwwnz-51b0cd85-6c42-47c2-a851-a52d21e10087.jpg/v1/fill/w_1250,h_631,q_75,strp/neo_galaxy_eyes_photon_dragon_by_dusk_theblackrosegod_dfcwwnz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMxIiwicGF0aCI6IlwvZlwvMzVhODU3NTctMTIwNi00ZjEzLWEyMmYtNTU4NGMwNzBlMmQxXC9kZmN3d256LTUxYjBjZDg1LTZjNDItNDdjMi1hODUxLWE1MmQyMWUxMDA4Ny5qcGciLCJ3aWR0aCI6Ijw9MTI1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TffqUMtBApEWRZbZ7XJKi2QHTC3dtuKgK9zd94Cx7GU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Number 62: Galaxy-Eyes Prime Photon Dragon [***] : r/yugioh">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/psel9fm4debb1.jpg' alt='Number 62: Galaxy-Eyes Prime Photon Dragon [***] : r/yugioh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/psel9fm4debb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

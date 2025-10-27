@@ -1,0 +1,129 @@
+<title>Ahsoka Tano: The Rise of a Star Wars Legend</title>
+                    <meta name="description" content="Explore the captivating journey of Ahsoka Tano, a key character in the Star Wars saga. Discover her evolution from Jedi apprentice to a powerful warrior, and why she resonates with fans worldwide. Dive into her legacy, struggles, and triumphs in this iconic universe.">
+                    <meta name="keywords" content="ahsoka">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ahsoka">
+                            <span itemprop="name">ahsoka</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ahsoka Tano: The Rise of a Star Wars Legend</h1>
+                <p>Ahsoka Tano, a beloved character from the Star Wars universe, is known for her journey from Jedi apprentice to a formidable warrior. Her story explores themes of loyalty, growth, and redemption. Fans are captivated by her unique dual lightsabers and strong, independent spirit, making her a powerful symbol in the franchise.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | Wookieepedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/starwars/images/2/27/Ahsoka-Tano-AG-2023.png/revision/latest/scale-to-width-down/1200?cb=20231009063143' alt='Ahsoka Tano | Wookieepedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wookieepedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/starwars/images/2/27/Ahsoka-Tano-AG-2023.png/revision/latest/scale-to-width-down/1200?cb=20231009063143' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/d/d7/Ahsoka_Tano.png' alt='Ahsoka Tano - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/d/d7/Ahsoka_Tano.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | Databank | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/ahsoka-main_88c206d7.jpeg?region=420%2C60%2C1500%2C843' alt='Ahsoka Tano | Databank | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/ahsoka-main_88c206d7.jpeg?region=420%2C60%2C1500%2C843' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka (TV Series 2023– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYWQ3NmQxZTEtNDc2MS00ODExLWE3ZDEtZTU2N2Y2NjAyNmY5XkEyXkFqcGc@._V1_.jpg' alt='Ahsoka (TV Series 2023– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYWQ3NmQxZTEtNDc2MS00ODExLWE3ZDEtZTU2N2Y2NjAyNmY5XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | The Clone Wars | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/theclonewiki/images/c/c4/Ahsoka_Tano_Clone_Wars_Season_7_Render.png/revision/latest?cb=20250101201139' alt='Ahsoka Tano | The Clone Wars | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Clone Wars | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/theclonewiki/images/c/c4/Ahsoka_Tano_Clone_Wars_Season_7_Render.png/revision/latest?cb=20250101201139' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/8/83/Profile_-_Ahsoka_Tano.png/revision/latest?cb=20230830181811' alt='Ahsoka Tano | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1158">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/8/83/Profile_-_Ahsoka_Tano.png/revision/latest?cb=20230830181811' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | Databank | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/star-tours-update-ahsoka-article-feature_72c44173.jpeg?region=200,0,1200,900' alt='Ahsoka Tano | Databank | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/star-tours-update-ahsoka-article-feature_72c44173.jpeg?region=200,0,1200,900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I edited the concept art for live action Ahsoka Tano, what do you ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x6dza1vda6p41.jpg' alt='I edited the concept art for live action Ahsoka Tano, what do you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3463">
+                                <meta itemprop="height" content="3463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x6dza1vda6p41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka Tano | Databank | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/ahsoka-main_88c206d7.jpeg?region=577%2C0%2C1343%2C1007' alt='Ahsoka Tano | Databank | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1343">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/ahsoka-main_88c206d7.jpeg?region=577%2C0%2C1343%2C1007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fan Art: Padawan Ahsoka Tano : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fan-art-padawan-ahsoka-tano-v0-9qa15j5lvo3e1.png?auto=webp&s=2142c84bae28f1ab7edbe05a78246f7634930d1e' alt='Fan Art: Padawan Ahsoka Tano : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2284">
+                                <meta itemprop="height" content="2020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fan-art-padawan-ahsoka-tano-v0-9qa15j5lvo3e1.png?auto=webp&s=2142c84bae28f1ab7edbe05a78246f7634930d1e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding My Background: A Journey Through Experiences</title>
+                    <meta name="description" content="Explore my background, a tapestry of experiences and skills shaped by a passion for growth. Discover how my unique journey has influenced my approach to challenges and connections, highlighting the importance of adaptability and creativity in today's world.">
+                    <meta name="keywords" content="what is my background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-my-background">
+                            <span itemprop="name">what is my background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding My Background: A Journey Through Experiences</h1>
+                <p>My background is a unique blend of experiences and skills shaped by my education and personal journey. I have a passion for learning and growth, which has led me through diverse roles in various industries. My rich history helps me approach challenges with creativity and resilience, allowing me to connect with others and adapt swiftly to new environments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Personal Background">
+                                <img itemprop="contentUrl url" src='http://infolab.stanford.edu/CHAIMS/Doc/Presentations/talk_hp_June98/img003.GIF' alt='My Personal Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford InfoLab" />
+                                </span>
+                                <a href='http://infolab.stanford.edu/CHAIMS/Doc/Presentations/talk_hp_June98/img003.GIF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write About Your Professional Background">
+                                <img itemprop="contentUrl url" src='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_6.webp?width=650&height=439&name=write-professional-bio_6.webp' alt='How to Write About Your Professional Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubSpot Blog" />
+                                </span>
+                                <a href='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_6.webp?width=650&height=439&name=write-professional-bio_6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write About Your Professional Background">
+                                <img itemprop="contentUrl url" src='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_9.webp?width=650&height=276&name=write-professional-bio_9.webp' alt='How to Write About Your Professional Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubSpot Blog" />
+                                </span>
+                                <a href='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_9.webp?width=650&height=276&name=write-professional-bio_9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write About Your Professional Background">
+                                <img itemprop="contentUrl url" src='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_8.webp?width=650&height=243&name=write-professional-bio_8.webp' alt='How to Write About Your Professional Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubSpot Blog" />
+                                </span>
+                                <a href='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_8.webp?width=650&height=243&name=write-professional-bio_8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's your background? - Byron Rodgers">
+                                <img itemprop="contentUrl url" src='https://byronrodgersmotivation.com/wp-content/uploads/2018/08/background-1.png' alt='What's your background? - Byron Rodgers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Byron Rodgers" />
+                                </span>
+                                <a href='https://byronrodgersmotivation.com/wp-content/uploads/2018/08/background-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Answer: Tell Me About Yourself | Career Advice & Interview ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Hoav5kj_IOc/maxresdefault.jpg' alt='How to Answer: Tell Me About Yourself | Career Advice & Interview ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WayUp" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Hoav5kj_IOc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write About Your Professional Background">
+                                <img itemprop="contentUrl url" src='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_10.webp?width=650&height=611&name=write-professional-bio_10.webp' alt='How to Write About Your Professional Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubSpot Blog" />
+                                </span>
+                                <a href='https://www.hubspot.com/hs-fs/hubfs/write-professional-bio_10.webp?width=650&height=611&name=write-professional-bio_10.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks Services by Prieyes">
+                                <img itemprop="contentUrl url" src='https://prieyes.com/wp-content/uploads/2020/03/background-checks.png' alt='Background Checks Services by Prieyes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Private Investigator - Private Eyes" />
+                                </span>
+                                <a href='https://prieyes.com/wp-content/uploads/2020/03/background-checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizing the background color or image of Modules and Sections ...">
+                                <img itemprop="contentUrl url" src='https://support.digication.com/hc/article_attachments/360013438892' alt='Customizing the background color or image of Modules and Sections ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digication Help Desk" />
+                                </span>
+                                <a href='https://support.digication.com/hc/article_attachments/360013438892' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

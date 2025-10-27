@@ -1,0 +1,129 @@
+<title>Chic Blue and White Stripes: Timeless Design Inspiration</title>
+                    <meta name="description" content="Explore the versatility of blue and white stripes in design. From fashion to decor, this classic pattern adds style and freshness to any aesthetic. Perfect for coastal themes and summer vibes, discover how to incorporate this timeless look into your projects for a vibrant, balanced appeal.">
+                    <meta name="keywords" content="blue and white stripes background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-white-stripes-background">
+                            <span itemprop="name">blue and white stripes background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Blue and White Stripes: Timeless Design Inspiration</h1>
+                <p>Blue and white stripes are a timeless pattern that adds a fresh and lively touch to any design. Whether used in fashion, home decor, or graphic design, this classic combination creates visual interest and a sense of balance. The clean lines and contrasting colors evoke a nautical theme, making it perfect for summer vibes and coastal inspirations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And White Stripes Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/719/015/non_2x/blue-stripe-pattern-stripe-seamless-pattern-seamless-pattern-tile-background-decorative-elements-floor-tiles-wall-tiles-gift-wrapping-decorating-paper-vector.jpg' alt='Blue And White Stripes Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/719/015/non_2x/blue-stripe-pattern-stripe-seamless-pattern-seamless-pattern-tile-background-decorative-elements-floor-tiles-wall-tiles-gift-wrapping-decorating-paper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripes Blue White Background Free Stock Photo - Public Domain ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/280000/nahled/stripes-blue-white-background-15459235273AF.jpg' alt='Stripes Blue White Background Free Stock Photo - Public Domain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/280000/nahled/stripes-blue-white-background-15459235273AF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Laeacco Navy Blue Background 5x7ft Vinyl Backdrop Blue and  White Stripes Photography Background Abstract Baby Kids Birthday Party Home  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61S5jZIXBcL.jpg' alt='Amazon.com : Laeacco Navy Blue Background 5x7ft Vinyl Backdrop Blue and  White Stripes Photography Background Abstract Baby Kids Birthday Party Home  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61S5jZIXBcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Stripe | FK34408 | Aqua & White Stripe Wallpapet">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0017517_sky-blue-white-stripe-m.jpeg' alt='Blue & White Stripe | FK34408 | Aqua & White Stripe Wallpapet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0017517_sky-blue-white-stripe-m.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light blue and white striped background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/43/05/light-blue-and-white-striped-background-vector-45734305.jpg' alt='Light blue and white striped background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/43/05/light-blue-and-white-striped-background-vector-45734305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripes Resource Library 3 inch Stripe Wallpaper - Blue & White">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SA9176-Stripes-Resource-Library-3-inch-Stripe-Wallpaper-Blue-White.jpg?v=1571709022&width=1946' alt='Stripes Resource Library 3 inch Stripe Wallpaper - Blue & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SA9176-Stripes-Resource-Library-3-inch-Stripe-Wallpaper-Blue-White.jpg?v=1571709022&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Striped Background in Any Color | Personal & commercial use">
+                                <img itemprop="contentUrl url" src='https://backgroundsandborders.com/wp-content/uploads/2016/09/blue-striped-background-2.jpg' alt='Free Striped Background in Any Color | Personal & commercial use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Borders and Backgrounds" />
+                                </span>
+                                <a href='https://backgroundsandborders.com/wp-content/uploads/2016/09/blue-striped-background-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vector diagonal striped pattern blue and white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-diagonal-striped-pattern-blue-white-seamless-background_921039-5593.jpg' alt='Premium Vector | Vector diagonal striped pattern blue and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-diagonal-striped-pattern-blue-white-seamless-background_921039-5593.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue White Stripes Seamless Pattern Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/navy-blue-white-stripes-seamless-260nw-1081886696.jpg' alt='Navy Blue White Stripes Seamless Pattern Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/navy-blue-white-stripes-seamless-260nw-1081886696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,210,236 Blue White Stripes Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/stripe-pattern-lines-light-blue-260nw-1699581193.jpg' alt='1,210,236 Blue White Stripes Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/stripe-pattern-lines-light-blue-260nw-1699581193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

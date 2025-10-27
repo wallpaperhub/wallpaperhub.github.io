@@ -1,0 +1,129 @@
+<title>Vibrant Strawberry Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a variety of vibrant strawberry wallpapers for your iPhone. Perfect for adding a touch of freshness to your device, these wallpapers combine style and charm. Explore our collection and find the perfect design to showcase your personality and love for fruity aesthetics!">
+                    <meta name="keywords" content="iphone:i26zuphdyr4= strawberry wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonei26zuphdyr4-strawberry-wallpaper">
+                            <span itemprop="name">iphone:i26zuphdyr4= strawberry wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Strawberry Wallpapers for iPhone</h1>
+                <p>Transform your device's aesthetic with stunning strawberry wallpapers for iPhone. Vibrant red hues and fresh designs bring a touch of sweetness to your screen. Perfect for fruit lovers and those wanting a unique, cheerful vibe. Update your wallpaper today and let the refreshing charm of strawberries brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b19vZl9mcmVzaF9zdHJhd2JlcnJpZXNfYXJyYW5nZWRfaW5fYV9wYV83NDA4ZjllOS1hNDY5LTRkYTctYWI2OS1kNzg1YWFkZTk4ZGJfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b19vZl9mcmVzaF9zdHJhd2JlcnJpZXNfYXJyYW5nZWRfaW5fYV9wYV83NDA4ZjllOS1hNDY5LTRkYTctYWI2OS1kNzg1YWFkZTk4ZGJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9zdHJhd2JlcnJ5X3BhdHRlcm5fY3V0ZV9yaXNvZ3JhcGhfcHJpbnRpbmdfbm9pc19hYmQ0MjYzYi1hYjNjLTRkNmItOTI4Ni0zYTY3ZTVmNWIxMDNfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9zdHJhd2JlcnJ5X3BhdHRlcm5fY3V0ZV9yaXNvZ3JhcGhfcHJpbnRpbmdfbm9pc19hYmQ0MjYzYi1hYjNjLTRkNmItOTI4Ni0zYTY3ZTVmNWIxMDNfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44791276/r/il/13854c/5116615187/il_fullxfull.5116615187_gmm8.jpg' alt='Strawberry Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44791276/r/il/13854c/5116615187/il_fullxfull.5116615187_gmm8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZXVwX3Bob3RvX29mX2xpZ2h0X3BpbmtfcGFzdGVsX2ZyZXNoX3N0cl9lN2ZkYThlNi05YmU2LTQzNzItYmY3Yy0yNzMyZDVmNTgzOTNfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8zNF9jbG9zZXVwX3Bob3RvX29mX2xpZ2h0X3BpbmtfcGFzdGVsX2ZyZXNoX3N0cl9lN2ZkYThlNi05YmU2LTQzNzItYmY3Yy0yNzMyZDVmNTgzOTNfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   strawberry wallpaper, strawberry wallpaper aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/9c/b4/849cb432135ba07b40bc37bf983a0f8c.jpg' alt='   strawberry wallpaper, strawberry wallpaper aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/9c/b4/849cb432135ba07b40bc37bf983a0f8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2FuZ3VzdGVvd193YXRlcmNvbG9yX29mX3N0cmF3YmVycmllc19maWxsZWRfcGF0dGVybnNfZ3JpZF9wYXR0ZV82ZTc3Mzg0NS0wOTZkLTRlYWUtODFkYi1hOWIyM2VlZGIzN2FfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2FuZ3VzdGVvd193YXRlcmNvbG9yX29mX3N0cmF3YmVycmllc19maWxsZWRfcGF0dGVybnNfZ3JpZF9wYXR0ZV82ZTc3Mzg0NS0wOTZkLTRlYWUtODFkYi1hOWIyM2VlZGIzN2FfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/11/d6/50/11d65095851b35cac6c824a48de521d4.jpg' alt='Strawberry iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/11/d6/50/11d65095851b35cac6c824a48de521d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2thdGV2NjQ0N19jdXRlX3dhbGxwYXBlcl9vZl8zZF9qZWxseV9zdHJhd2JlcnJpZXNfcGF0dGVybl9zb2Z0X19lNTIwZTYwNS0xOTE3LTRiYmYtOTU0NS05YTMxNDBhNjdhZjdfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2thdGV2NjQ0N19jdXRlX3dhbGxwYXBlcl9vZl8zZF9qZWxseV9zdHJhd2JlcnJpZXNfcGF0dGVybl9zb2Z0X19lNTIwZTYwNS0xOTE3LTRiYmYtOTU0NS05YTMxNDBhNjdhZjdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iPhone strawberry ⚪️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c8/e1/88/c8e1880532dc5f79dec1fa6e11b7be3f.jpg' alt='Wallpaper iPhone strawberry ⚪️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c8/e1/88/c8e1880532dc5f79dec1fa6e11b7be3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2thdGV2NjQ0N19jdXRlX3dhbGxwYXBlcl9vZl8zZF9qZWxseV9zdHJhd2JlcnJpZV9wYXR0ZXJuX2luX3N0eV9kZDk0YTg2ZC0xY2ZmLTQ0OGQtYTYzMS0yMzkxNmM3NTZkMDdfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2thdGV2NjQ0N19jdXRlX3dhbGxwYXBlcl9vZl8zZF9qZWxseV9zdHJhd2JlcnJpZV9wYXR0ZXJuX2luX3N0eV9kZDk0YTg2ZC0xY2ZmLTQ0OGQtYTYzMS0yMzkxNmM3NTZkMDdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

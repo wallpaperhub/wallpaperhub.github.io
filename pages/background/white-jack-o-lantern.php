@@ -1,0 +1,129 @@
+<title>Unique White Jack O' Lanterns for a Spooky Halloween</title>
+                    <meta name="description" content="Discover the enchanting allure of white jack o' lanterns this Halloween! These stunning decorations offer a fresh take on the traditional pumpkin, perfect for creating a spooky yet classy atmosphere. Explore ideas for carving and illuminating these ghostly gourds for your festive celebrations!">
+                    <meta name="keywords" content="white jack o lantern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-jack-o-lantern">
+                            <span itemprop="name">white jack o lantern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unique White Jack O' Lanterns for a Spooky Halloween</h1>
+                <p>White jack o' lanterns are a unique twist on the classic Halloween decoration. Instead of the traditional orange pumpkins, these white varieties create a spooky yet elegant ambiance. They can be carved into intricate designs or simply illuminated with candles for a haunting glow. Perfect for adding a ghostly charm to your Halloween festivities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Living 20-in LED White Jack-o-Lantern Pumpkin Decoration ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/640085f1-510b-4b19-a92e-271830d19ca6/16258130.jpg' alt='Haunted Living 20-in LED White Jack-o-Lantern Pumpkin Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/640085f1-510b-4b19-a92e-271830d19ca6/16258130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : TOYANDONA Halloween Decors Halloween Pumpkin Lantern 9 inch  Light Up Jack o Lantern Pumpkin Halloween Plastic Lighted Pumpkin Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ZxHQoz-bL.jpg' alt='Amazon.com : TOYANDONA Halloween Decors Halloween Pumpkin Lantern 9 inch  Light Up Jack o Lantern Pumpkin Halloween Plastic Lighted Pumpkin Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1604">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ZxHQoz-bL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Painted Jack O Lantern and Back Porch Update {YardWorkation 4}">
+                                <img itemprop="contentUrl url" src='https://stowandtellu.com/wp-content/uploads/2016/10/diy-white-jack-o-lantern-stowandtellu-812x1024.jpg' alt='White Painted Jack O Lantern and Back Porch Update {YardWorkation 4}'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="812">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stow&TellU" />
+                                </span>
+                                <a href='https://stowandtellu.com/wp-content/uploads/2016/10/diy-white-jack-o-lantern-stowandtellu-812x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large White Grinning Jack-O'-Lantern">
+                                <img itemprop="contentUrl url" src='https://christmastraditions.com/cdn/shop/files/large-white-grinning-jack-o-lantern-rj201w-363.jpg' alt='Large White Grinning Jack-O'-Lantern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Traditions Year-Round Holiday Store" />
+                                </span>
+                                <a href='https://christmastraditions.com/cdn/shop/files/large-white-grinning-jack-o-lantern-rj201w-363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Inch Swirly Light Up Jack O' Lantern Decoration">
+                                <img itemprop="contentUrl url" src='https://images.halloweencostumes.com/products/93247/1-1/5-inch-swirly-light-up-jack-o-lantern-decoration.jpg' alt='5 Inch Swirly Light Up Jack O' Lantern Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halloween Costumes" />
+                                </span>
+                                <a href='https://images.halloweencostumes.com/products/93247/1-1/5-inch-swirly-light-up-jack-o-lantern-decoration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Halloween Decor - Painted Jack-O-Lanterns - Liz Marie Blog">
+                                <img itemprop="contentUrl url" src='https://www.lizmarieblog.com/wp-content/uploads/2020/10/CWC_9500.jpg' alt='Neutral Halloween Decor - Painted Jack-O-Lanterns - Liz Marie Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liz Marie Blog -" />
+                                </span>
+                                <a href='https://www.lizmarieblog.com/wp-content/uploads/2020/10/CWC_9500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paint Your Own Large Jack O' Lantern Light-Up — The Pottery Piazza">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54d6dad5e4b0b788c0d96bfa/1598550897844-KVH97B31AKABQW51B05Y/6483.jpg?format=2500w' alt='Paint Your Own Large Jack O' Lantern Light-Up — The Pottery Piazza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pottery Piazza" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54d6dad5e4b0b788c0d96bfa/1598550897844-KVH97B31AKABQW51B05Y/6483.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Jack o' Lanterns, White is the New Orange | UNH Today">
+                                <img itemprop="contentUrl url" src='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2019/moonshine.jpg?itok=CG9cl55I' alt='For Jack o' Lanterns, White is the New Orange | UNH Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of New Hampshire" />
+                                </span>
+                                <a href='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2019/moonshine.jpg?itok=CG9cl55I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Living 20-in LED White Jack-o-Lantern Pumpkin Decoration ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/c6bf22ad-b342-415f-86ce-dfe3fa126c6b/65651469.jpg' alt='Haunted Living 20-in LED White Jack-o-Lantern Pumpkin Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/c6bf22ad-b342-415f-86ce-dfe3fa126c6b/65651469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Ceramic Scary Jack O' Lantern | Serving Up Southern">
+                                <img itemprop="contentUrl url" src='https://servingupsouthern.com/wp-content/uploads/2019/10/scary-pumpkin-basket-pin.jpg' alt='Faux Ceramic Scary Jack O' Lantern | Serving Up Southern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serving Up Southern -" />
+                                </span>
+                                <a href='https://servingupsouthern.com/wp-content/uploads/2019/10/scary-pumpkin-basket-pin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

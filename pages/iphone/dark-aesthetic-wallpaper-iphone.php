@@ -1,0 +1,129 @@
+<title>Discover Dark Aesthetic Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a curated collection of dark aesthetic wallpapers for your iPhone. Perfect for lovers of minimalism and mood, these visually striking designs will give your device a unique touch. Download now to express your style with dark elegance and sophistication!">
+                    <meta name="keywords" content="dark aesthetic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dark-aesthetic-wallpaper-iphone">
+                            <span itemprop="name">dark aesthetic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Dark Aesthetic Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning dark aesthetic wallpapers that evoke a sense of mystery and allure. From shadowy landscapes to abstract art, these wallpapers are perfect for those who appreciate contrast and emotion in their digital space. Elevate your device's look while expressing your unique style with these captivating designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Aesthetic Dark Wallpapers for iPhone That Set the Mood">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/57/fc/9757fc8e1470888ec138463ebe4f7170.jpg' alt='60 Aesthetic Dark Wallpapers for iPhone That Set the Mood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/57/fc/9757fc8e1470888ec138463ebe4f7170.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="230 Dark aesthetic ideas | black aesthetic wallpaper, dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/40/7b/f0/407bf0b7953c72d58fdcb0052bdb3f21.jpg' alt='230 Dark aesthetic ideas | black aesthetic wallpaper, dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/40/7b/f0/407bf0b7953c72d58fdcb0052bdb3f21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Iphone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/black-aesthetic-iphone-smoke-st377u6ebbth4tmq.jpg' alt='Black Aesthetic Iphone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/black-aesthetic-iphone-smoke-st377u6ebbth4tmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_570xN.5427944439_ahwv.jpg' alt='Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_570xN.5427944439_ahwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Iphone Paris Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-aesthetic-iphone-paris-9x5he5ckj6bj7tlq.jpg' alt='Black Aesthetic Iphone Paris Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-aesthetic-iphone-paris-9x5he5ckj6bj7tlq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Dark Aesthetic iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/97/86/a7/9786a740e790424c7d154b47822ddb49.jpg' alt='Awesome Dark Aesthetic iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/97/86/a7/9786a740e790424c7d154b47822ddb49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_570xN.5330152710_nxle.jpg' alt='Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_570xN.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Black | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA4LmpwZw.jpg' alt='Iphone Wallpaper Black | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA4LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy dark aesthetic wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2799921800.9409/flat,750x1000,075,t.jpg' alt='Trippy dark aesthetic wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2799921800.9409/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic black, aesthetic, black, cool, dark, edit, elegance ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/419/1024/HD-wallpaper-aesthetic-black-aesthetic-black-cool-dark-edit-elegance-night-sad.jpg' alt='Aesthetic black, aesthetic, black, cool, dark, edit, elegance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/419/1024/HD-wallpaper-aesthetic-black-aesthetic-black-cool-dark-edit-elegance-night-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

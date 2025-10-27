@@ -1,0 +1,129 @@
+<title>Stunning Anime Wallpapers for Your Lock Screen</title>
+                    <meta name="description" content="Discover a collection of eye-catching anime lock screen wallpapers that perfectly reflect your style. From classic to contemporary, find the ideal design to personalize your device and showcase your love for anime. Transform your phone into a canvas with unique wallpapers tailored just for you!">
+                    <meta name="keywords" content="lock screen anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-anime-wallpaper">
+                            <span itemprop="name">lock screen anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Wallpapers for Your Lock Screen</h1>
+                <p>Enhance your device's aesthetic with stunning lock screen anime wallpapers! Choose from a vast array of captivating designs featuring your favorite characters and series. Whether you prefer action, romance, or fantasy, there's a perfect wallpaper waiting for you. Personalize your lock screen and express your love for anime every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Anime Lockscreens ideas | anime, anime wallpaper, manga anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ce/b8/b8/ceb8b8ea39a028a621cd892493ef4a6c.jpg' alt='900+ Anime Lockscreens ideas | anime, anime wallpaper, manga anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ce/b8/b8/ceb8b8ea39a028a621cd892493ef4a6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Anime lock screen wallpapers ideas | anime lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d1/f9/d2/d1f9d2c2ba8be6c200072351d4738f0d.jpg' alt='10 Anime lock screen wallpapers ideas | anime lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d1/f9/d2/d1f9d2c2ba8be6c200072351d4738f0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD locked anime wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' alt='HD locked anime wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Lock Screen Tokyo Ghoul Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-lock-screen-tokyo-ghoul-lorfv6q77bbiryh2.jpg' alt='Download Anime Lock Screen Tokyo Ghoul Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-lock-screen-tokyo-ghoul-lorfv6q77bbiryh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Lock Screen Sword Art Online Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-lock-screen-sword-art-online-w8b51y4hce7hwa7f.jpg' alt='Download Anime Lock Screen Sword Art Online Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-lock-screen-sword-art-online-w8b51y4hce7hwa7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper lock screen anime aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/a2/9b/08a29bd8fabf1a4953e8ec654e374595.jpg' alt='wallpaper lock screen anime aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/a2/9b/08a29bd8fabf1a4953e8ec654e374595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime lockscreen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/123/371/HD-wallpaper-rem-lockscreen-anime-rezero.jpg' alt='HD anime lockscreen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/123/371/HD-wallpaper-rem-lockscreen-anime-rezero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lock Screen Izuku Midoriya Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-lock-screen-izuku-midoriya-tzzte27kr4i5lkq3.jpg' alt='Anime Lock Screen Izuku Midoriya Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-lock-screen-izuku-midoriya-tzzte27kr4i5lkq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lock Screen - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/VoLFT1KvUPXESikTm661JZM5dIpww3lxZsvcBW63cXqEb-UYpv3Vj4nsJN-Bhk07qKgX=w526-h296-rw' alt='Anime Lock Screen - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="182">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/VoLFT1KvUPXESikTm661JZM5dIpww3lxZsvcBW63cXqEb-UYpv3Vj4nsJN-Bhk07qKgX=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My current wallpaper for my phone lock screen. Finished the anime ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/arx11uqvpmn41.jpg' alt='My current wallpaper for my phone lock screen. Finished the anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/arx11uqvpmn41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

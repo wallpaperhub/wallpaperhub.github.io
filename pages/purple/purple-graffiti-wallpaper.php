@@ -1,0 +1,129 @@
+<title>Vibrant Purple Graffiti Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="purple graffiti wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-graffiti-wallpaper">
+                            <span itemprop="name">purple graffiti wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Graffiti Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with striking purple graffiti wallpaper. Perfect for adding an edgy, artistic flair to any room, it showcases vibrant shades of violet and bold designs. This unique wallpaper is ideal for accent walls, creating a modern vibe that energizes your environment. Make a statement with an unforgettable backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Street Art - Purple graffiti on a colorful background on a  white brick wall - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/61919/role/image/size/1500x2240/type/ft-osmr-wiz2/e63ee3367c88b0c957e575559a62b6f7.webp' alt='Photo Wallpaper Street Art - Purple graffiti on a colorful background on a  white brick wall - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/61919/role/image/size/1500x2240/type/ft-osmr-wiz2/e63ee3367c88b0c957e575559a62b6f7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Purple">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64850/graffiti-brick-wall-purple.jpg?h=699&q=85' alt='Graffiti Brick Wall - Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64850/graffiti-brick-wall-purple.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wallpaper Black-purple Peel and Stick, Street Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12000245/r/il/bf996e/5179715633/il_570xN.5179715633_dsoc.jpg' alt='Graffiti Wallpaper Black-purple Peel and Stick, Street Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12000245/r/il/bf996e/5179715633/il_570xN.5179715633_dsoc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Art Wallpaper Wall Mural - Purple Graffiti Groove ...">
+                                <img itemprop="contentUrl url" src='https://tiptophomedecor.com/cdn/shop/files/street-art-wallpaper-wall-mural-purple-graffiti-groove-tiptophomedecor-7_3360x3000_crop_center@2x.jpg?v=1719424829' alt='Street Art Wallpaper Wall Mural - Purple Graffiti Groove ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiptophomedecor" />
+                                </span>
+                                <a href='https://tiptophomedecor.com/cdn/shop/files/street-art-wallpaper-wall-mural-purple-graffiti-groove-tiptophomedecor-7_3360x3000_crop_center@2x.jpg?v=1719424829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Graffiti background on the wall abstract color ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/graffiti-background-wall-abstract-color-subcultural-vector-pink-purple_657891-64.jpg' alt='Premium Vector | Graffiti background on the wall abstract color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/graffiti-background-wall-abstract-color-subcultural-vector-pink-purple_657891-64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Street art purple - colourful graffiti with ...">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/92257/role/image/size/1500x2240/type/ft-osmr-wiz2/2ab77a1f35bfc8c8b7f9bcd73d4a7a4d.webp' alt='Photo Wallpaper Street art purple - colourful graffiti with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/92257/role/image/size/1500x2240/type/ft-osmr-wiz2/2ab77a1f35bfc8c8b7f9bcd73d4a7a4d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy modern wallpaper 'Purple Graffiti' | KunstLoft">
+                                <img itemprop="contentUrl url" src='https://i.kunstloft.de/media/image/3e/58/64/kl14300-graffiti-tapeten-gruen-lila-tapete-wandtapete-designtapete-3d-tapete-fototapete-02.jpg?class=thumbmiddle' alt='Buy modern wallpaper 'Purple Graffiti' | KunstLoft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KunstLoft" />
+                                </span>
+                                <a href='https://i.kunstloft.de/media/image/3e/58/64/kl14300-graffiti-tapeten-gruen-lila-tapete-wandtapete-designtapete-3d-tapete-fototapete-02.jpg?class=thumbmiddle' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Graffiti background on the wall abstract color ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/graffiti-background-wall-abstract-color-subcultural-vector-purple-black-jrange-blue_657891-126.jpg' alt='Premium Vector | Graffiti background on the wall abstract color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/graffiti-background-wall-abstract-color-subcultural-vector-purple-black-jrange-blue_657891-126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Graffiti Wall Mural Modern Teen Boy Bedroom, Creepy Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12000245/r/il/eb5b2b/5179715485/il_fullxfull.5179715485_dzwe.jpg' alt='Purple Graffiti Wall Mural Modern Teen Boy Bedroom, Creepy Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12000245/r/il/eb5b2b/5179715485/il_fullxfull.5179715485_dzwe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Love Graffiti, made by me #purple #sparkly #wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/f3/f9/01f3f99777aa787357443ab981b4e93a.jpg' alt='Galaxy Love Graffiti, made by me #purple #sparkly #wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/f3/f9/01f3f99777aa787357443ab981b4e93a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Notre Dame Football Wallpaper 2023 - Stunning Backgrounds for Fans</title>
+                    <meta name="description" content="Discover the best Notre Dame football wallpapers for 2023! Enhance your screens with vibrant images celebrating the Fighting Irish. Perfect for fans wanting to showcase their team pride. Explore now for high-quality backgrounds that inspire and motivate throughout the season!">
+                    <meta name="keywords" content="notre dame football wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/notre-dame-football-wallpaper-2023">
+                            <span itemprop="name">notre dame football wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Notre Dame Football Wallpaper 2023 - Stunning Backgrounds for Fans</h1>
+                <p>Elevate your device with stunning Notre Dame football wallpaper for 2023! Celebrate your love for the Fighting Irish with vibrant images showcasing their iconic gold and blue colors, team spirit, and legendary players. Perfect for fans who want to show off their allegiance every time they unlock their screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Notre Dame Fighting Irish Football Schedule:Smartphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://fightingirishwire.usatoday.com/wp-content/uploads/sites/2/2023/08/FightingIrishWire_WP_23.png' alt='2023 Notre Dame Fighting Irish Football Schedule:Smartphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fighting Irish Wire" />
+                                </span>
+                                <a href='https://fightingirishwire.usatoday.com/wp-content/uploads/sites/2/2023/08/FightingIrishWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Notre Dame Fighting Irish Football Schedule:Smartphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://fightingirishwire.usatoday.com/wp-content/uploads/sites/2/2023/08/FightingIrishWire_WP_23.png?w=1000&h=600&crop=1' alt='2023 Notre Dame Fighting Irish Football Schedule:Smartphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fighting Irish Wire" />
+                                </span>
+                                <a href='https://fightingirishwire.usatoday.com/wp-content/uploads/sites/2/2023/08/FightingIrishWire_WP_23.png?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Football on X: "GO TIME   Can't wait to see you this ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fz0oMTPXwAMgwkB.jpg:large' alt='Notre Dame Football on X: "GO TIME   Can't wait to see you this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fz0oMTPXwAMgwkB.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Notre Dame Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/notre-dame-football-rz2g1kujaxjq5433.jpg' alt='100+] Notre Dame Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/notre-dame-football-rz2g1kujaxjq5433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Football on X: "Count 'em up 8️⃣ different players ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5EE-qYW8AAjBpf.jpg:large' alt='Notre Dame Football on X: "Count 'em up 8️⃣ different players ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5EE-qYW8AAjBpf.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Notre Dame Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/notre-dame-football-m2tmy02u7rp0xgeg.jpg' alt='100+] Notre Dame Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/notre-dame-football-m2tmy02u7rp0xgeg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Football on X: "It's                for ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FnkThBXWQAIZ96m.jpg:large' alt='Notre Dame Football on X: "It's                for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FnkThBXWQAIZ96m.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Notre Dame Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/notre-dame-football-7w3ytcftefmyhhqy.jpg' alt='100+] Notre Dame Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/notre-dame-football-7w3ytcftefmyhhqy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper for the 2023 Schedule : r/notredamefootball">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/desktop-wallpaper-for-the-2023-schedule-v0-jdo7c9jcqvkb1.png?auto=webp&s=3525b060d40ff75bf6ce079899fe426a2d6daf5b' alt='Desktop Wallpaper for the 2023 Schedule : r/notredamefootball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/desktop-wallpaper-for-the-2023-schedule-v0-jdo7c9jcqvkb1.png?auto=webp&s=3525b060d40ff75bf6ce079899fe426a2d6daf5b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame has released its 2023 football schedule.">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3018524752763384125' alt='Notre Dame has released its 2023 football schedule.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3018524752763384125' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

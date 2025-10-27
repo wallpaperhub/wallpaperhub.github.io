@@ -1,0 +1,129 @@
+<title>Magic: The Gathering Phone Wallpapers: Enchant Your Screen</title>
+                    <meta name="description" content="Discover mesmerizing Magic: The Gathering wallpapers designed for your phone. From fantasy landscapes to iconic characters, elevate your device's look with unique designs that reflect your passion for MTG. Perfect for fans wanting to showcase their love in style! Download now and transform your screen!">
+                    <meta name="keywords" content="magic the gathering wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/magic-the-gathering-wallpaper-phone">
+                            <span itemprop="name">magic the gathering wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magic: The Gathering Phone Wallpapers: Enchant Your Screen</h1>
+                <p>Enhance your phone's aesthetic with stunning Magic: The Gathering wallpapers! Dive into mystical landscapes, powerful planeswalkers, and iconic cards that bring the game to life on your screen. Perfect for fans and collectors alike, these wallpapers capture the essence of the Magic universe. Showcase your love for MTG with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MtG Vertical Wallpapers 5 [1440x3088] : r/magicTCG">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/89gzlegeanp91.png' alt='MtG Vertical Wallpapers 5 [1440x3088] : r/magicTCG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/89gzlegeanp91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found this dope phone wallpaper for MTG : r/mtg">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yrd4vgh33v151.jpg' alt='Found this dope phone wallpaper for MTG : r/mtg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yrd4vgh33v151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MtG Vertical Wallpapers [1440x3088] : r/magicTCG">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ubqkn88bsv81.png' alt='MtG Vertical Wallpapers [1440x3088] : r/magicTCG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ubqkn88bsv81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic: The Gathering Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/998/thumb-1920-998549.jpg' alt='Magic: The Gathering Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/998/thumb-1920-998549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MtG Vertical Wallpapers 4 DMU Vol 2 [1440x3088] : r/magicTCG">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xjoyvfraeum91.png?width=640&crop=smart&auto=webp&s=46fb772aa0a214dd2f2ae4b7e095a6f3df6ae92c' alt='MtG Vertical Wallpapers 4 DMU Vol 2 [1440x3088] : r/magicTCG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xjoyvfraeum91.png?width=640&crop=smart&auto=webp&s=46fb772aa0a214dd2f2ae4b7e095a6f3df6ae92c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic The Gathering iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4790425.jpg' alt='Magic The Gathering iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4790425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MtG Vertical Wallpapers [1440x3088] : r/magicTCG">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qo0yr578bsv81.png' alt='MtG Vertical Wallpapers [1440x3088] : r/magicTCG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qo0yr578bsv81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone MTG Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4790428.jpg' alt='Phone MTG Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4790428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://draftsim.com/wp-content/uploads/2021/03/The-Mirari-Conjecture-Illustration-by-James-Arnold-437x1024.jpg' alt='80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Draftsim" />
+                                </span>
+                                <a href='https://draftsim.com/wp-content/uploads/2021/03/The-Mirari-Conjecture-Illustration-by-James-Arnold-437x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Ritual, magic, the, mystical, archive, gathering, card ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/938/610/HD-wallpaper-dark-ritual-magic-the-mystical-archive-gathering-card-instant.jpg' alt='Dark Ritual, magic, the, mystical, archive, gathering, card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/938/610/HD-wallpaper-dark-ritual-magic-the-mystical-archive-gathering-card-instant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

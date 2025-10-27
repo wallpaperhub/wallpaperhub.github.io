@@ -1,0 +1,129 @@
+<title>Stunning Home & Lock Screen Wallpapers</title>
+                    <meta name="description" content="Explore a collection of captivating home screen and lock screen wallpapers that elevate your device's look. From serene nature to bold graphics, find your perfect match to showcase your unique style in every swipe. Refresh your screen today and make your phone truly yours!">
+                    <meta name="keywords" content="home screen and lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/home-screen-and-lock-screen-wallpaper">
+                            <span itemprop="name">home screen and lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Home & Lock Screen Wallpapers</h1>
+                <p>Transform your device with stunning home screen and lock screen wallpapers! Choose from vibrant landscapes, abstract art, or calming nature scenes to express your style. Personalize your daily tech experience and make every glance a delight. Discover the perfect backdrop to enhance your smartphone's aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light wallpapers and lock screen : r/NOTHING">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/light-wallpapers-and-lock-screen-v0-7tppf4yz2svc1.png?auto=webp&s=617f32879f264f37272ae52bf1ffcc43c444b49e' alt='Light wallpapers and lock screen : r/NOTHING'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/light-wallpapers-and-lock-screen-v0-7tppf4yz2svc1.png?auto=webp&s=617f32879f264f37272ae52bf1ffcc43c444b49e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine Heart Love Pink Ice Cream Cute Fun iPhone Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5805937/r/il/cf2189/4155673332/il_570xN.4155673332_tnwd.jpg' alt='Valentine Heart Love Pink Ice Cream Cute Fun iPhone Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5805937/r/il/cf2189/4155673332/il_570xN.4155673332_tnwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set different Home and Lock Screen wallpapers on iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/08/Different-wallpapers-for-iPhone-Home-Screen-and-Lock-Screen-1.jpg' alt='How to set different Home and Lock Screen wallpapers on iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1510">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/08/Different-wallpapers-for-iPhone-Home-Screen-and-Lock-Screen-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' alt='900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="6212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='100+] Cool Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="770 Matching lock screens & wallpapers ideas | screen wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/be/eb/c1/beebc18b58eae39efc46041746d095c9.jpg' alt='770 Matching lock screens & wallpapers ideas | screen wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/be/eb/c1/beebc18b58eae39efc46041746d095c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lock screen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/214/187/HD-wallpaper-lock-screen-emoji-binod-emoji-emotional-lock-screen-minions-orange.jpg' alt='HD lock screen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/214/187/HD-wallpaper-lock-screen-emoji-binod-emoji-emotional-lock-screen-minions-orange.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' alt='4,380 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' alt='100+] Cute Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/7c/02/667c02dcd337f8190b4c4c3a6a81d0bc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/7c/02/667c02dcd337f8190b4c4c3a6a81d0bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

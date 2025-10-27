@@ -1,0 +1,129 @@
+<title>Vibrant Easter Watercolor Art Ideas</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="easter watercolor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/easter-watercolor">
+                            <span itemprop="name">easter watercolor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Easter Watercolor Art Ideas</h1>
+                <p>Discover the charm of Easter watercolor art! Create vibrant and whimsical pieces featuring bunnies, eggs, and spring blossoms. Watercolor techniques allow for soft blending and cheerful colors that perfectly capture the joy of the season. Embrace your creativity and bring the spirit of Easter to life with this delightful art form!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter Watercolor Egg Greeting Card, Vintage Easter Card, Vintage Easter  Bunny, Easter Eggs card, Watercolor Easter Card, Easter Willow Card">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18019038/r/il/4da076/2962815487/il_fullxfull.2962815487_9ny2.jpg' alt='Easter Watercolor Egg Greeting Card, Vintage Easter Card, Vintage Easter  Bunny, Easter Eggs card, Watercolor Easter Card, Easter Willow Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2003">
+                                <meta itemprop="height" content="2041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18019038/r/il/4da076/2962815487/il_fullxfull.2962815487_9ny2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Easter Eggs By artsy-fartsy | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4237972_rvfe90q7hlfh2nzxw1ox3gktki3b3x0p7vrryodt_watercolor-easter-eggs.jpg' alt='Watercolor Easter Eggs By artsy-fartsy | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4237972_rvfe90q7hlfh2nzxw1ox3gktki3b3x0p7vrryodt_watercolor-easter-eggs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy easter watercolor hand painted vector image on VectorStock">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/f5/1e/56f51ef92149f3a56f54b5d490d2a093.jpg' alt='Happy easter watercolor hand painted vector image on VectorStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/f5/1e/56f51ef92149f3a56f54b5d490d2a093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Watercolor Easter Card with Bunny and Eggs for Beginners">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Nx3hhHWAu4I/maxresdefault.jpg' alt='Easy Watercolor Easter Card with Bunny and Eggs for Beginners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Nx3hhHWAu4I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Easter Eggs (with video) - Finding Silver Pennies">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.findingsilverpennies.com/wp-content/uploads/2021/04/Watercolor-Eggs-in-Carton-2.jpg?resize=1200%2C800&ssl=1' alt='Watercolor Easter Eggs (with video) - Finding Silver Pennies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Finding Silver Pennies" />
+                                </span>
+                                <a href='https://i0.wp.com/www.findingsilverpennies.com/wp-content/uploads/2021/04/Watercolor-Eggs-in-Carton-2.jpg?resize=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Easter Bunny Images – Browse 100,703 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/60/82/35/360_F_560823561_T7RegAwzs51ZFno36tGzuWYabLb9rBQx.jpg' alt='Watercolor Easter Bunny Images – Browse 100,703 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/60/82/35/360_F_560823561_T7RegAwzs51ZFno36tGzuWYabLb9rBQx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Watercolor Easter Printable - 2 Bees in a Pod">
+                                <img itemprop="contentUrl url" src='https://2beesinapod.com/wp-content/uploads/2021/03/Free-Watercolor-Easter-Printable-2-Designs-Floral-Frame-1024x1024.png' alt='Free Watercolor Easter Printable - 2 Bees in a Pod'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="2 Bees in a Pod" />
+                                </span>
+                                <a href='https://2beesinapod.com/wp-content/uploads/2021/03/Free-Watercolor-Easter-Printable-2-Designs-Floral-Frame-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to paint an EASTER BUNNY painting tutorial in watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lJK88G2C4uI/sddefault.jpg' alt='How to paint an EASTER BUNNY painting tutorial in watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lJK88G2C4uI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,200+ Watercolor Easter Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1462943053/vector/happy-easter-watercolor-card-banner-border-with-cute-easter-rabbit-eggs-spring-flowers-and.jpg?s=612x612&w=0&k=20&c=eA7xNUw7Du7skoYeyscKdSRsX5PR9AoQR8_29EGpOq0=' alt='7,200+ Watercolor Easter Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1462943053/vector/happy-easter-watercolor-card-banner-border-with-cute-easter-rabbit-eggs-spring-flowers-and.jpg?s=612x612&w=0&k=20&c=eA7xNUw7Du7skoYeyscKdSRsX5PR9AoQR8_29EGpOq0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Easter Eggs - A Pumpkin And A Princess">
+                                <img itemprop="contentUrl url" src='https://apumpkinandaprincess.com/wp-content/uploads/2014/03/Watercolor-Eggs.jpg' alt='Watercolor Easter Eggs - A Pumpkin And A Princess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Pumpkin And A Princess" />
+                                </span>
+                                <a href='https://apumpkinandaprincess.com/wp-content/uploads/2014/03/Watercolor-Eggs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

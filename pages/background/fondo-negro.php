@@ -1,0 +1,129 @@
+<title>Fondo Negro: Elegancia y Contraste en Diseño</title>
+                    <meta name="description" content="Descubre el impacto del fondo negro en el diseño visual. Resalta colores y formas con elegancia, creando un contraste dramático. Perfecto para fotografía, arte y diseños gráficos sofisticados. Aprende cómo su uso puede transformar tu creatividad.">
+                    <meta name="keywords" content="fondo negro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fondo-negro">
+                            <span itemprop="name">fondo negro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fondo Negro: Elegancia y Contraste en Diseño</h1>
+                <p>El "fondo negro" es un concepto visual que destaca la elegancia y el contraste en el diseño. Utilizado en diversas disciplinas como la fotografía, el arte y el diseño gráfico, este fondo resalta los colores y formas, creando un efecto dramático. Es ideal para atraer la atención y dar un aire sofisticado. Explora sus aplicaciones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondos de pantalla negros: Descarga HD gratuita [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1652175083753-1fbb5f793dc9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvbmRvJTIwZGUlMjBwYW50YWxsYSUyMG5lZ3JvfGVufDB8fDB8fHww' alt='Fondos de pantalla negros: Descarga HD gratuita [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1652175083753-1fbb5f793dc9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvbmRvJTIwZGUlMjBwYW50YWxsYSUyMG5lZ3JvfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 19 | Negro Fondo Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-geometric-background-shapes-texture_1194-301824.jpg' alt='Page 19 | Negro Fondo Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-geometric-background-shapes-texture_1194-301824.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo negro sin nada dentro.: ilustración de stock 1754746742 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/black-background-without-anything-inside-260nw-1754746742.jpg' alt='Fondo negro sin nada dentro.: ilustración de stock 1754746742 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/black-background-without-anything-inside-260nw-1754746742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textura De Fondo Negro Simple de Pantalla Imagen para Descarga ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/4f/3e/4e4f3e3dd16bc08db85531b0294138b7.jpg' alt='Textura De Fondo Negro Simple de Pantalla Imagen para Descarga ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/4f/3e/4e4f3e3dd16bc08db85531b0294138b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imágenes de Fondo De Pantalla Negro De Todo | Descarga imágenes ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1569470451072-68314f596aec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9uZG8lMjBkZSUyMHBhbnRhbGxhJTIwbmVncm8lMjBkZSUyMHRvZG98ZW58MHx8MHx8fDA%3D' alt='Imágenes de Fondo De Pantalla Negro De Todo | Descarga imágenes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1569470451072-68314f596aec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9uZG8lMjBkZSUyMHBhbnRhbGxhJTIwbmVncm8lMjBkZSUyMHRvZG98ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo negro Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1175677/12327/v/450/depositphotos_123277816-stock-illustration-black-wood-background-wallpaper-backdrop.jpg' alt='Fondo negro Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1175677/12327/v/450/depositphotos_123277816-stock-illustration-black-wood-background-wallpaper-backdrop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Fondos de Pantalla Negro HD para Celular">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6b/51/b4/6b51b4b5870731aebdfb014efbb374ca.jpg' alt='28 Fondos de Pantalla Negro HD para Celular'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6b/51/b4/6b51b4b5870731aebdfb014efbb374ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Fondo Negro | Listen to music tracks and songs online for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000188509722-d50ce4-t240x240.jpg' alt='Stream Fondo Negro | Listen to music tracks and songs online for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000188509722-d50ce4-t240x240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fondos Todo Negro | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/all-black-background-4v4wbfwz2riuiuhy.jpg' alt='100+] Fondos Todo Negro | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/all-black-background-4v4wbfwz2riuiuhy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superficie De Textura De Fondo Negro Abstracto Elegante Y ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/sleek-and-mysterious-abstract-black-background-texture-surface_9931240.jpg!w700wp' alt='Superficie De Textura De Fondo Negro Abstracto Elegante Y ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/sleek-and-mysterious-abstract-black-background-texture-surface_9931240.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

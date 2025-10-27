@@ -1,0 +1,129 @@
+<title>Pastel Heart Wallpaper Aesthetic: Soft & Charming Decor</title>
+                    <meta name="description" content="Discover the enchanting pastel heart wallpaper aesthetic, blending soft colors and whimsical designs for a tranquil ambiance. Perfect for any cozy space, these wallpapers bring love and charm to your decor. Transform your environment today with playful, dreamy heart patterns!">
+                    <meta name="keywords" content="pastel heart wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/pastel-heart-wallpaper-aesthetic">
+                            <span itemprop="name">pastel heart wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Heart Wallpaper Aesthetic: Soft & Charming Decor</h1>
+                <p>Pastel heart wallpaper aesthetic is a charming blend of soft colors and whimsical designs, perfect for creating a dreamy atmosphere in your space. Ideal for bedrooms, nurseries, or any cozy nook, these wallpapers feature delicate hearts in pastel hues, evoking feelings of love and tranquility while adding a touch of modern flair to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-heart-aesthetic-ey06no9pb9rrhvgs.jpg' alt='Pastel Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-heart-aesthetic-ey06no9pb9rrhvgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'pastel purple heart' (2)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' alt='Phone wallpaper, background. 'pastel purple heart' (2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pastel Aesthetic Black Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-pastel-aesthetic-black-heart-wqmvyfwfqcdvnv8y.jpg' alt='Purple Pastel Aesthetic Black Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-pastel-aesthetic-black-heart-wqmvyfwfqcdvnv8y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background, lock screen. ' mixed pastel heart ' (4)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/1c/4f/5e1c4fb7169f0f49c0b5d00cddfd895a.jpg' alt='Phone wallpaper, background, lock screen. ' mixed pastel heart ' (4)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/1c/4f/5e1c4fb7169f0f49c0b5d00cddfd895a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/pastel-heart-aesthetic-wallpaper-1.webp' alt='Pastel Heart Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/pastel-heart-aesthetic-wallpaper-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Paint Hearts Wallpaper, Pastel Hearts iPad Wallpaper Aesthetic  Background, Heart Pattern Pink Background Tablet, Digital Wallpaper">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/ART_20230131-214425_AdobeExpress_AdobeExpress_zudvoa.jpg' alt='Oil Paint Hearts Wallpaper, Pastel Hearts iPad Wallpaper Aesthetic  Background, Heart Pattern Pink Background Tablet, Digital Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/ART_20230131-214425_AdobeExpress_AdobeExpress_zudvoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel colours Layered heart aesthetic ❤️‍      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/72/f6/2c72f6bec6906056b9849d16dc85a267.jpg' alt='Pastel colours Layered heart aesthetic ❤️‍      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/72/f6/2c72f6bec6906056b9849d16dc85a267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Heart, NR, Pastel, abstract, aesthetic, background, iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/794/231/HD-wallpaper-paper-heart-nr-pastel-abstract-aesthetic-background-iphone-local-screen-pink-rose.jpg' alt='Paper Heart, NR, Pastel, abstract, aesthetic, background, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/794/231/HD-wallpaper-paper-heart-nr-pastel-abstract-aesthetic-background-iphone-local-screen-pink-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Heart Background in Illustrator, EPS, JPG, SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/73932/Free-Pastel-Pink-Heart-Background-Mobile-1.jpg' alt='Pastel Pink Heart Background in Illustrator, EPS, JPG, SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/73932/Free-Pastel-Pink-Heart-Background-Mobile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L3Jhd3BpeGVsb2ZmaWNlMTJfaWxsdXN0cmF0aW9uX29mX2JsdXJyZWRfZ3JhZGllbnRfcmFpbmJvd19iYWNrZ18xNTQ4MjU2MS0yNWIyLTRjNTUtODljOS0wMzViZGMxMWQ2NDYuanBn.jpg' alt='Pastel Heart Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L3Jhd3BpeGVsb2ZmaWNlMTJfaWxsdXN0cmF0aW9uX29mX2JsdXJyZWRfZ3JhZGllbnRfcmFpbmJvd19iYWNrZ18xNTQ4MjU2MS0yNWIyLTRjNTUtODljOS0wMzViZGMxMWQ2NDYuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

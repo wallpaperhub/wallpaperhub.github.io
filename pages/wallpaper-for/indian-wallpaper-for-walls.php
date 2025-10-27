@@ -1,0 +1,129 @@
+<title>Vibrant Indian Wallpapers for Stylish Walls</title>
+                    <meta name="description" content="Discover exquisite Indian wallpaper designs that bring elegance and culture to your interiors. Our curated collection features vibrant patterns and traditional motifs, perfect for enhancing any room. Elevate your decor effortlessly with stunning options tailored for every taste. Shop now for a transformative look!">
+                    <meta name="keywords" content="indian wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/indian-wallpaper-for-walls">
+                            <span itemprop="name">indian wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Indian Wallpapers for Stylish Walls</h1>
+                <p>Transform your space with stunning Indian wallpaper for walls. Rich in cultural heritage, these wallpapers showcase intricate designs, vibrant colors, and traditional motifs that elevate your interiors. Perfect for homes and offices, they add a unique flair while offering easy maintenance and lasting beauty. Explore diverse patterns today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Inspired Wallpaper - Ethnic Wall Mural - Landscape Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/aef3b9/3469475140/il_fullxfull.3469475140_3e4e.jpg' alt='Indian Inspired Wallpaper - Ethnic Wall Mural - Landscape Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/aef3b9/3469475140/il_fullxfull.3469475140_3e4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Jaisalmer Wall Wallpaper by Life N Colors, Inspired by the ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39029303/r/il/93c4a8/4690977617/il_fullxfull.4690977617_nk5c.jpg' alt='Indian Jaisalmer Wall Wallpaper by Life N Colors, Inspired by the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39029303/r/il/93c4a8/4690977617/il_fullxfull.4690977617_nk5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exotic Indian Wallpaper for Your Interiors | Marble Lotus">
+                                <img itemprop="contentUrl url" src='https://www.marble-lotus.com/cdn/shop/files/gardens-of-jaipur-marble-lotus-507861.jpg?v=1738630575&width=1280' alt='Exotic Indian Wallpaper for Your Interiors | Marble Lotus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marble Lotus" />
+                                </span>
+                                <a href='https://www.marble-lotus.com/cdn/shop/files/gardens-of-jaipur-marble-lotus-507861.jpg?v=1738630575&width=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INDIAN PALACE Wallpaper - Wallpaper - Products">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/i/n/indian_palace_wallpaper_156x100cm_wp20651_1.jpg' alt='INDIAN PALACE Wallpaper - Wallpaper - Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/i/n/indian_palace_wallpaper_156x100cm_wp20651_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wall Mural Traditional Indian food Holi colours powder ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vENUd55rL.jpg' alt='Amazon.com: Wall Mural Traditional Indian food Holi colours powder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vENUd55rL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Pattern">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/725958/pr22/1/1280/indian-pattern-teal-wallpaper.jpg' alt='Indian Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/725958/pr22/1/1280/indian-pattern-teal-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raj Trellis Indian Wall Stencil">
+                                <img itemprop="contentUrl url" src='http://www.royaldesignstudio.com/cdn/shop/products/allover-pattern-wall-stencil-shape.jpg?v=1553284629' alt='Raj Trellis Indian Wall Stencil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Design Studio Stencils" />
+                                </span>
+                                <a href='http://www.royaldesignstudio.com/cdn/shop/products/allover-pattern-wall-stencil-shape.jpg?v=1553284629' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wall Mural indian door indian door stock pictures ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71K9OR0GX+L.jpg' alt='Amazon.com: Wall Mural indian door indian door stock pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71K9OR0GX+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Indian Naive">
+                                <img itemprop="contentUrl url" src='http://wallpaperdream.com/cdn/shop/files/CP0759_1.jpg?v=1691479308' alt='Wall Mural Indian Naive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperDream" />
+                                </span>
+                                <a href='http://wallpaperdream.com/cdn/shop/files/CP0759_1.jpg?v=1691479308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Indian Garden Mural Wallpaper M1447">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/NeutralIndianGardenMuralWallpaper.jpg?v=1704912340&width=1200' alt='Neutral Indian Garden Mural Wallpaper M1447'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/NeutralIndianGardenMuralWallpaper.jpg?v=1704912340&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

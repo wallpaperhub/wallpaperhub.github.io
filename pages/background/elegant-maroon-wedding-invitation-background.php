@@ -1,0 +1,129 @@
+<title>Elegant Maroon Wedding Invitations: Set the Perfect Tone</title>
+                    <meta name="description" content="Explore stunning maroon wedding invitation backgrounds that exude elegance and sophistication. Perfect for setting the romantic tone of your wedding, these designs blend beautifully with gold or ivory accents, captivating your guests with every detail. Make your invitation as memorable as your love story!">
+                    <meta name="keywords" content="elegant maroon wedding invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elegant-maroon-wedding-invitation-background">
+                            <span itemprop="name">elegant maroon wedding invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Maroon Wedding Invitations: Set the Perfect Tone</h1>
+                <p>Discover the timeless charm of an elegant maroon wedding invitation background. The rich hue symbolizes love and passion, creating an exquisite canvas that enhances your wedding theme. Paired with delicate gold or ivory accents, maroon backgrounds can beautifully set the stage for your special day, captivating your guests from the very first glance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22+ Burgundy Vintage Autumn Flower Canva Wedding Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/48/82/7b48820d6582e1d203cbd55569da74f2.jpg' alt='22+ Burgundy Vintage Autumn Flower Canva Wedding Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/48/82/7b48820d6582e1d203cbd55569da74f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Invitation Maroon Images – Browse 6,783 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/14/19/86/360_F_414198653_MNsyotsPeJldBnocAR02KLIwxcaCSODe.jpg' alt='Wedding Invitation Maroon Images – Browse 6,783 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/14/19/86/360_F_414198653_MNsyotsPeJldBnocAR02KLIwxcaCSODe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14+ Burgundy Hand Drawn Maroon Leaves Canva Wedding Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/e3/4d/e2e34d35ac5a306de690949dae2ce12c.jpg' alt='14+ Burgundy Hand Drawn Maroon Leaves Canva Wedding Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/e3/4d/e2e34d35ac5a306de690949dae2ce12c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Wedding Invitation Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMzE2LXNhc2ktaW52aXRhdGlvbmNhcmQtMDFfMS5qcGc.jpg' alt='Burgundy Wedding Invitation Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMzE2LXNhc2ktaW52aXRhdGlvbmNhcmQtMDFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,736 Maroon Wedding Invitations Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/romantic-maroon-wedding-invitation-card-260nw-1658671012.jpg' alt='5,736 Maroon Wedding Invitations Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/romantic-maroon-wedding-invitation-card-260nw-1658671012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Invitation Maroon Images – Browse 6,783 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/25/22/99/360_F_325229997_PWh6hudB3Jle0GKJRnWkw2rbTgxXZjYp.jpg' alt='Wedding Invitation Maroon Images – Browse 6,783 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/25/22/99/360_F_325229997_PWh6hudB3Jle0GKJRnWkw2rbTgxXZjYp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Wedding Invitation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/elegant-red-maroon-floral-wedding-invitation-card-template_44538-13375.jpg' alt='Maroon Wedding Invitation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/elegant-red-maroon-floral-wedding-invitation-card-template_44538-13375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14+ Watercolor Burgundy Bouquet Canva Wedding Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/be/a8/c4bea853b7267b39b4590d3eea501f46.jpg' alt='14+ Watercolor Burgundy Bouquet Canva Wedding Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/be/a8/c4bea853b7267b39b4590d3eea501f46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Elegant burgundy wedding invitation template double ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/elegant-burgundy-wedding-invitation-template-double-sided_658266-28.jpg' alt='Premium PSD | Elegant burgundy wedding invitation template double ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/elegant-burgundy-wedding-invitation-template-double-sided_658266-28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Floral Wedding Invitation Template Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/elegant-burgundy-ivory-floral-wedding-invitation-template-bold-aesthetic-340498202.jpg' alt='Burgundy Floral Wedding Invitation Template Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/elegant-burgundy-ivory-floral-wedding-invitation-template-bold-aesthetic-340498202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

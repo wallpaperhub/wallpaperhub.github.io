@@ -1,0 +1,129 @@
+<title>Stunning White and Gold Marble Wallpaper for Luxurious Interiors</title>
+                    <meta name="description" content="Add elegance to your home with our white and gold marble wallpaper. Perfect for any room, it combines style and sophistication while being easy to install and maintain. Revamp your space effortlessly and enjoy a timeless aesthetic that elevates your decor.">
+                    <meta name="keywords" content="white and gold marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-and-gold-marble-wallpaper">
+                            <span itemprop="name">white and gold marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White and Gold Marble Wallpaper for Luxurious Interiors</h1>
+                <p>Transform your space with stunning white and gold marble wallpaper. This luxurious design brings a timeless elegance to any room, creating an atmosphere of sophistication and style. Easy to apply and maintain, it’s perfect for accent walls or complete makeovers. Elevate your home decor with the beauty of marble today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Pattern Wallpaper, Wallpaper in White Colors With Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/a66acd/4642975667/il_1080xN.4642975667_cro6.jpg' alt='Marble Pattern Wallpaper, Wallpaper in White Colors With Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/a66acd/4642975667/il_1080xN.4642975667_cro6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Gold Marble Texture Wall Mural CCM030">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/products/zoom_9424ac8a-26e1-4441-9e07-f8294bd2a897.jpg?v=1676514465' alt='White & Gold Marble Texture Wall Mural CCM030'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/products/zoom_9424ac8a-26e1-4441-9e07-f8294bd2a897.jpg?v=1676514465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Modern Marble Wallpaper in White with Gold Effect">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_WhitewithGoldEffect_ILW50312_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420074&width=1024' alt='Sample of Modern Marble Wallpaper in White with Gold Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_WhitewithGoldEffect_ILW50312_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420074&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Marble Wallpaper | Modern Abstract Gold Marble Mural | Luxury  Stone Texture | Ceramic Art Wall | Preppy Removable Wall Print #622 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36380131/r/il/53ee75/5778051378/il_1080xN.5778051378_sg11.jpg' alt='White Gold Marble Wallpaper | Modern Abstract Gold Marble Mural | Luxury  Stone Texture | Ceramic Art Wall | Preppy Removable Wall Print #622 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36380131/r/il/53ee75/5778051378/il_1080xN.5778051378_sg11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Marble Design Wallpaper A4 Sized Edible Wafer Paper / Icing Sheet">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMTMx/z/8B0AAOSwhDRfUiQC/$_57.JPG?set_id=8800005007' alt='White Gold Marble Design Wallpaper A4 Sized Edible Wafer Paper / Icing Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMTMx/z/8B0AAOSwhDRfUiQC/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A gold and white marble wallpaper with gold and white marbles ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/gold-white-marble-wallpaper-with-gold-white-marbles_546377-6813.jpg?w=360' alt='A gold and white marble wallpaper with gold and white marbles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/gold-white-marble-wallpaper-with-gold-white-marbles_546377-6813.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xMjAta2VuLTM1LWNyb3BwZWRiYWNrZ3JvdW5kLmpwZw.jpg' alt='White Gold Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xMjAta2VuLTM1LWNyb3BwZWRiYWNrZ3JvdW5kLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLACK AND WHITE Marble With Gold Details- Adhesive Marble ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/664444/4400218677/il_fullxfull.4400218677_5amq.jpg' alt='BLACK AND WHITE Marble With Gold Details- Adhesive Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/664444/4400218677/il_fullxfull.4400218677_5amq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Marble Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/c9/6d/3fc96da2ac5cb133e1f9e10eb6e36ef4.jpg' alt='Gold Marble Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/c9/6d/3fc96da2ac5cb133e1f9e10eb6e36ef4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Gold and White Marble Wallpaper Mural, Custom Sizes ...">
+                                <img itemprop="contentUrl url" src='http://maughons.com/cdn/shop/products/beautiful-gold-and-white-marble-wallpaper-mural-custom-sizes-available-wall-murals-maughons-waterproof-canvas-298434_600x600.jpg?v=1662556703' alt='Beautiful Gold and White Marble Wallpaper Mural, Custom Sizes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='http://maughons.com/cdn/shop/products/beautiful-gold-and-white-marble-wallpaper-mural-custom-sizes-available-wall-murals-maughons-waterproof-canvas-298434_600x600.jpg?v=1662556703' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

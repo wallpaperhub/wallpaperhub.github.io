@@ -1,0 +1,129 @@
+<title>Manga Heaven: Stunning 4K Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore an amazing selection of ultra-high-definition manga wallpapers. Perfectly designed for your mobile and desktop screens, these vibrant images will enhance your device's look while showcasing your favorite manga characters and art styles. Download now for a fresh, stylish upgrade!">
+                    <meta name="keywords" content="manga wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/manga-wallpaper-4k">
+                            <span itemprop="name">manga wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Manga Heaven: Stunning 4K Wallpapers for Your Devices</h1>
+                <p>Elevate your screen with stunning 4K manga wallpapers! Discover a vast collection showcasing your favorite characters and breathtaking scenes. Whether you're a long-time fan or new to the world of manga, these high-resolution images will bring your devices to life. Perfect for desktops and mobile devices alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found 50+ manga panels and upscaled them to 4K. [3840x2160] : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/VLU8xdKevUQTommmOtJV-Bn3oUpjMKCqHjYoXFFNCeE.jpg?auto=webp&s=fdaa86b8da7158c8f2b331faf7db44eb32c195f8' alt='I found 50+ manga panels and upscaled them to 4K. [3840x2160] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/VLU8xdKevUQTommmOtJV-Bn3oUpjMKCqHjYoXFFNCeE.jpg?auto=webp&s=fdaa86b8da7158c8f2b331faf7db44eb32c195f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Manga Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-manga-ph8wcqa5nwxlup32.jpg' alt='100+] 4k Manga Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-manga-ph8wcqa5nwxlup32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+] Manga Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/136/1367999.jpeg' alt='270+] Manga Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/136/1367999.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manga Ghost of Tsushima Style Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/manga-ghost-of-tsushima-style_bmZla2mUmZqaraWkpJRobWllrWdma2U.jpg' alt='Manga Ghost of Tsushima Style Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/manga-ghost-of-tsushima-style_bmZla2mUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k) couldn't find any wallpapers of this panel with japanese text ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lklft848moxa1.png' alt='4k) couldn't find any wallpapers of this panel with japanese text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lklft848moxa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4k Manga Evangelion Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-manga-6zob71zc3aonc7q1.jpg' alt='Download 4k Manga Evangelion Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-manga-6zob71zc3aonc7q1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manga Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/5/a/939932-3840x2160-desktop-4k-manga-wallpaper-image.jpg' alt='Manga Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/5/a/939932-3840x2160-desktop-4k-manga-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Manga panel wallpapers pc ideas | manga, wallpaper pc, manga art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/09/c4/e0/09c4e073091275ff1bf6d074774c5188.jpg' alt='9 Manga panel wallpapers pc ideas | manga, wallpaper pc, manga art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/09/c4/e0/09c4e073091275ff1bf6d074774c5188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manga Panels ⚫️⚪️ 4K WALLPAPERS IN TELEGRAM    linktr.ee ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3350232709383431094' alt='Manga Panels ⚫️⚪️ 4K WALLPAPERS IN TELEGRAM    linktr.ee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3350232709383431094' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21+ Popular Manga HD Wallpapers in 1200P, 1920x1200 Resolution Images">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-monkey-d-luffy-manga_74729.jpg' alt='21+ Popular Manga HD Wallpapers in 1200P, 1920x1200 Resolution Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-monkey-d-luffy-manga_74729.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

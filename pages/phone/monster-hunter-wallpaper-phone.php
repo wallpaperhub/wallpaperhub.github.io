@@ -1,0 +1,129 @@
+<title>Stunning Monster Hunter Phone Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the best Monster Hunter wallpapers for your phone! Enhance your device's look with high-quality images of iconic characters and breathtaking landscapes from the game. Perfect for true fans, these wallpapers are designed for easy downloading and seamless fitting on mobile displays. Turn your phone into a hunt-ready masterpiece!">
+                    <meta name="keywords" content="monster hunter wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/monster-hunter-wallpaper-phone">
+                            <span itemprop="name">monster hunter wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Monster Hunter Phone Wallpapers for Gamers</h1>
+                <p>Elevate your phone's aesthetic with stunning Monster Hunter wallpapers! Immerse yourself in the epic world of Monster Hunter, featuring majestic creatures and fierce hunters. Perfect for fans, these mesmerizing wallpapers bring your favorite game to life right on your device. Download and personalize your phone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter World - Mobile Wallpaper By D3Hell UHD 1969X3500 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/59pqqyic3id61.jpg' alt='Monster Hunter World - Mobile Wallpaper By D3Hell UHD 1969X3500 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1969">
+                                <meta itemprop="height" content="3500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/59pqqyic3id61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter Asia | CAPCOM">
+                                <img itemprop="contentUrl url" src='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_2_gl.jpg' alt='Monster Hunter Asia | CAPCOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Hunter Asia | CAPCOM" />
+                                </span>
+                                <a href='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_2_gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awsome Background for every hunters phone!!! : r/MonsterHunter">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ofn0faglrng01.jpg' alt='Awsome Background for every hunters phone!!! : r/MonsterHunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ofn0faglrng01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter Asia | CAPCOM">
+                                <img itemprop="contentUrl url" src='https://www.monsterhunter.com/wp-content/uploads/sites/3/2021/07/wallpaper_stories2_4_gl.jpg' alt='Monster Hunter Asia | CAPCOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Hunter Asia | CAPCOM" />
+                                </span>
+                                <a href='https://www.monsterhunter.com/wp-content/uploads/sites/3/2021/07/wallpaper_stories2_4_gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter - World 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/a6/dd/f5a6ddfc389a9a344ccc739a3bb73898.jpg' alt='Monster Hunter - World 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/a6/dd/f5a6ddfc389a9a344ccc739a3bb73898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter Asia | CAPCOM">
+                                <img itemprop="contentUrl url" src='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_1_gl.jpg' alt='Monster Hunter Asia | CAPCOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Hunter Asia | CAPCOM" />
+                                </span>
+                                <a href='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_1_gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter Wilds Mobile Wallpaper (9:19.3) : r/MonsterHunter">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/monster-hunter-wilds-mobile-wallpaper-9-19-3-v0-e8xuvip4p66d1.png?auto=webp&s=78bfe4c473ed2c8709d43d7ebe881f3277b67988' alt='Monster Hunter Wilds Mobile Wallpaper (9:19.3) : r/MonsterHunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1312">
+                                <meta itemprop="height" content="2776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/monster-hunter-wilds-mobile-wallpaper-9-19-3-v0-e8xuvip4p66d1.png?auto=webp&s=78bfe4c473ed2c8709d43d7ebe881f3277b67988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter Asia | CAPCOM">
+                                <img itemprop="contentUrl url" src='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_3_gl.jpg' alt='Monster Hunter Asia | CAPCOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Hunter Asia | CAPCOM" />
+                                </span>
+                                <a href='https://www.monsterhunter.com/wp-content/uploads/sites/3/2023/06/wallpaper_rise-sunbreak11_3_gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Hunter World Mobile Wallpaper Light Theme by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03fd00f0-9496-4594-9f2a-8316ab111905/de0cqsq-0fb50824-b7a4-4bfc-a2d6-aa35f775f941.jpg/v1/fill/w_1280,h_2400,q_75,strp/monster_hunter_world_mobile_wallpaper_light_theme_by_todeushlinkovski_de0cqsq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwMCIsInBhdGgiOiJcL2ZcLzAzZmQwMGYwLTk0OTYtNDU5NC05ZjJhLTgzMTZhYjExMTkwNVwvZGUwY3FzcS0wZmI1MDgyNC1iN2E0LTRiZmMtYTJkNi1hYTM1Zjc3NWY5NDEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xC6zGaLzKJbA8-8xJ8ThjQri-3zZcSx5SL2K8-8Ekmk' alt='Monster Hunter World Mobile Wallpaper Light Theme by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03fd00f0-9496-4594-9f2a-8316ab111905/de0cqsq-0fb50824-b7a4-4bfc-a2d6-aa35f775f941.jpg/v1/fill/w_1280,h_2400,q_75,strp/monster_hunter_world_mobile_wallpaper_light_theme_by_todeushlinkovski_de0cqsq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwMCIsInBhdGgiOiJcL2ZcLzAzZmQwMGYwLTk0OTYtNDU5NC05ZjJhLTgzMTZhYjExMTkwNVwvZGUwY3FzcS0wZmI1MDgyNC1iN2E0LTRiZmMtYTJkNi1hYTM1Zjc3NWY5NDEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xC6zGaLzKJbA8-8xJ8ThjQri-3zZcSx5SL2K8-8Ekmk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rathalos Mobile Phone Wallpaper, Credit Yuri Araujo : r/MonsterHunter">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ahLcYbg0C3jR_vtURlu9CQIdNRvpV5eRSojYMv3kVZk.jpg?auto=webp&s=205f99329b6e9c15624c27e61b389f6e82dbbec4' alt='Rathalos Mobile Phone Wallpaper, Credit Yuri Araujo : r/MonsterHunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="834">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ahLcYbg0C3jR_vtURlu9CQIdNRvpV5eRSojYMv3kVZk.jpg?auto=webp&s=205f99329b6e9c15624c27e61b389f6e82dbbec4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Peel and Stick Accent Wallpaper</title>
+                    <meta name="description" content="Discover the ease of accent wallpaper peel and stick! Quickly refresh your home decor with stylish, removable designs ideal for any room. Perfect for renters, our wallpaper adds personality without the commitment. Explore vibrant options today and elevate your space effortlessly!">
+                    <meta name="keywords" content="accent wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/accent-wallpaper-peel-and-stick">
+                            <span itemprop="name">accent wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Peel and Stick Accent Wallpaper</h1>
+                <p>Accent wallpaper peel and stick offers a quick and affordable way to transform any room. With a variety of vibrant patterns, textures, and colors, it allows for easy application and removal without damaging walls. Perfect for renters or DIY enthusiasts, this stylish solution brings personality and flair to your space effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Fairies Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/forest-fairies-removable-wallpaper-peel-stick-861096.png?v=1666799073' alt='Forest Fairies Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/forest-fairies-removable-wallpaper-peel-stick-861096.png?v=1666799073' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_fullxfull.3576068430_62az.jpg' alt='Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1454">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_fullxfull.3576068430_62az.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flroalplus Black and White Wallpaper Removable Wallpaper Peel and Stick  Modern Wallpaper for Accent Wall Home Decor Self Adhesive Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CS-vmvhjL.jpg' alt='Flroalplus Black and White Wallpaper Removable Wallpaper Peel and Stick  Modern Wallpaper for Accent Wall Home Decor Self Adhesive Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CS-vmvhjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' alt='RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-adhesive Accent Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/e1b466/1658732079/il_570xN.1658732079_5sv9.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-adhesive Accent Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/e1b466/1658732079/il_570xN.1658732079_5sv9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 3D Brick Wallpaper Peel and Stick 16"X200" Removable Wallpaper  for Living Room Accent Wall Bedroom Decorative Contact Paper for Walls ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Livelynine 3D Brick Wallpaper Peel and Stick 16"X200" Removable Wallpaper  for Living Room Accent Wall Bedroom Decorative Contact Paper for Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Boho Herringbone Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C750">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C750_01.png?v=1728937466&width=1445' alt='Black Boho Herringbone Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C750'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C750_01.png?v=1728937466&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Floral Wall Mural, Leather Textured Vinyl Self-Adhesive  Wallpaper for Bedroom Living Room Accent Wall Decor, Urban Tropical Plants,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81duRe6xnrL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Floral Wall Mural, Leather Textured Vinyl Self-Adhesive  Wallpaper for Bedroom Living Room Accent Wall Decor, Urban Tropical Plants,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81duRe6xnrL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' alt='Moody Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

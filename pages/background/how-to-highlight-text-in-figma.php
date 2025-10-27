@@ -1,0 +1,129 @@
+<title>Highlight Text in Figma: A Quick Guide</title>
+                    <meta name="description" content="Learn how to effectively highlight text in Figma with this concise guide. Discover tips to enhance visibility and style, ensuring your design stands out. Perfect for beginners and pros alike! Optimize your Figma designs today!">
+                    <meta name="keywords" content="how to highlight text in figma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-highlight-text-in-figma">
+                            <span itemprop="name">how to highlight text in figma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Highlight Text in Figma: A Quick Guide</h1>
+                <p>To highlight text in Figma, use the Text tool to select your desired text. Next, go to the ‘Fill’ section in the right panel and choose a color for your highlight. You can also adjust the opacity for a more subtle effect. For added emphasis, consider using a contrasting color for the text itself. Experiment with styles to enhance clarity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highlight text - easy way | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/f7e9959f-35a5-43f4-af30-e4cc23c5e4af/thumbnail' alt='Highlight text - easy way | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/f7e9959f-35a5-43f4-af30-e4cc23c5e4af/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text Highlighter | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/0e27e5da-e2f3-448f-b40a-36cbc0d6c50c/thumbnail' alt='Text Highlighter | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/0e27e5da-e2f3-448f-b40a-36cbc0d6c50c/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highlighter | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/4744873e-681a-4d62-b45b-7ce9384bbea3/thumbnail' alt='Highlighter | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/4744873e-681a-4d62-b45b-7ce9384bbea3/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Trick Autolayout Highlight Text | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/125326ae-ee5b-4900-9cc4-c65de6abaf21/thumbnail' alt='4 Trick Autolayout Highlight Text | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/125326ae-ee5b-4900-9cc4-c65de6abaf21/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Substrate for text | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/028642e0-3f6a-4902-8a7a-fc85e2b1f4bf/thumbnail' alt='Substrate for text | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/028642e0-3f6a-4902-8a7a-fc85e2b1f4bf/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is it possible to highlight specific words in figma like on this ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r927o1kw4c181.png' alt='Is it possible to highlight specific words in figma like on this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r927o1kw4c181.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Highlight Text in Figma - Easy (2025) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RdxNd4Q0UTg/maxresdefault.jpg' alt='How to Highlight Text in Figma - Easy (2025) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RdxNd4Q0UTg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Highlight Text in Figma (Step-by-Step)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VsazDhDhCdw/maxresdefault.jpg' alt='How to Highlight Text in Figma (Step-by-Step)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VsazDhDhCdw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Trick Autolayout Highlight Text | Figma">
+                                <img itemprop="contentUrl url" src='https://s3-alpha.figma.com/hub/file/309856004/6edb3d9a-db26-4ed8-8157-60258df28311-cover' alt='4 Trick Autolayout Highlight Text | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://s3-alpha.figma.com/hub/file/309856004/6edb3d9a-db26-4ed8-8157-60258df28311-cover' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doodle and highlight in FigJam with drawing tools – Figma Learn ...">
+                                <img itemprop="contentUrl url" src='https://help.figma.com/hc/article_attachments/26276082997527' alt='Doodle and highlight in FigJam with drawing tools – Figma Learn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2084">
+                                <meta itemprop="height" content="1563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma Help Center" />
+                                </span>
+                                <a href='https://help.figma.com/hc/article_attachments/26276082997527' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

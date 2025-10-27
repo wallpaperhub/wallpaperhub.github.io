@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Orange Yellow Wallpaper</title>
+                    <meta name="description" content="Explore the vibrant charm of orange yellow wallpaper! Perfect for adding warmth and cheer to your interiors. Discover ideas to enhance your home decor with lively patterns and shades that brighten any room. Perfect for kitchens and living spaces, embrace the energy of orange yellow today!">
+                    <meta name="keywords" content="orange yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/orange-yellow-wallpaper">
+                            <span itemprop="name">orange yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Orange Yellow Wallpaper</h1>
+                <p>Orange yellow wallpaper provides a vibrant and lively atmosphere in any room. It evokes warmth and cheerfulness, transforming spaces into inviting havens. Ideal for kitchens and living areas, these hues blend well with various decor styles. Whether you prefer a bold statement or subtle accents, orange yellow wallpaper can brighten your home effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colorful orange and yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/a5/5a/daa55a7dc83771330a2038bb302f92a3.jpg' alt='colorful orange and yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/a5/5a/daa55a7dc83771330a2038bb302f92a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Yellow Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1566247466203-2251470a5a22?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlJTIweWVsbG93fGVufDB8fDB8fHww' alt='Orange Yellow Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1566247466203-2251470a5a22?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlJTIweWVsbG93fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Orange Abstract Background Images – Browse 3,801,470 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/96/03/10/360_F_196031001_01Ec24ShKTzDzby3gwk497PGK3VWw80n.jpg' alt='Yellow Orange Abstract Background Images – Browse 3,801,470 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/96/03/10/360_F_196031001_01Ec24ShKTzDzby3gwk497PGK3VWw80n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,000+ Red Orange Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1170025322/vector/orange-vector-background-with-stripes-can-be-used-for-cover-design-poster-advertising.jpg?s=612x612&w=0&k=20&c=MC6QBoVeyi-NnMZQCVO_qbKzW05Jz2M2UdTb1bMy1Ow=' alt='15,000+ Red Orange Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1170025322/vector/orange-vector-background-with-stripes-can-be-used-for-cover-design-poster-advertising.jpg?s=612x612&w=0&k=20&c=MC6QBoVeyi-NnMZQCVO_qbKzW05Jz2M2UdTb1bMy1Ow=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Watercolor Background Material Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/1d/cb/9e1dcb03fce4fe69d6e9590c0726a7f7.jpg' alt='Yellow Watercolor Background Material Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/1d/cb/9e1dcb03fce4fe69d6e9590c0726a7f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Yellow Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1671729424499-0969b0150c0c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3JhbmdlJTIweWVsbG93fGVufDB8fDB8fHww' alt='Orange Yellow Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1671729424499-0969b0150c0c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3JhbmdlJTIweWVsbG93fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="va38-orange-yellow-patterns - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-va38-orange-yellow-patterns-41-iphone-wallpaper.jpg' alt='va38-orange-yellow-patterns - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-va38-orange-yellow-patterns-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange And Yellow Circle Abstract Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/orange-and-yellow-circle-abstract-1im9u1h9ve0bl74y.jpg' alt='Orange And Yellow Circle Abstract Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/orange-and-yellow-circle-abstract-1im9u1h9ve0bl74y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="447,700+ Yellow Orange Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1463675630/vector/beautiful-watercolor-style-background-illustration.jpg?s=612x612&w=0&k=20&c=8IDG1nO0My9yg8n4bbM7fSK1n52nt1kD5eP-3oH2e7U=' alt='447,700+ Yellow Orange Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1463675630/vector/beautiful-watercolor-style-background-illustration.jpg?s=612x612&w=0&k=20&c=8IDG1nO0My9yg8n4bbM7fSK1n52nt1kD5eP-3oH2e7U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/shades-orange-bright-scale_23-2147734160.jpg' alt='Orange Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/shades-orange-bright-scale_23-2147734160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

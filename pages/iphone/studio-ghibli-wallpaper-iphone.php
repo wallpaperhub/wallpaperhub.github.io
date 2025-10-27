@@ -1,0 +1,129 @@
+<title>Enchant Your iPhone: Studio Ghibli Wallpapers</title>
+                    <meta name="description" content="Explore a collection of mesmerizing Studio Ghibli wallpapers for your iPhone. Perfectly crafted to capture the essence of your favorite characters and movies, these wallpapers will transform your device with artistry and nostalgia. Download yours now and celebrate the magic of Ghibli wherever you go!">
+                    <meta name="keywords" content="studio ghibli wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/studio-ghibli-wallpaper-iphone">
+                            <span itemprop="name">studio ghibli wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchant Your iPhone: Studio Ghibli Wallpapers</h1>
+                <p>Transform your iPhone with stunning Studio Ghibli wallpapers! Capture the magic of beloved films like "My Neighbor Totoro," "Spirited Away," and "Princess Mononoke" right on your home screen. Choose from a variety of designs and illustrations that bring the enchanting world of Ghibli to life on your device, adding a touch of whimsy and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghibli HD phone wallpaper collection : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/9iA5WyxjR5RVoDosQ1X8UMa1T0ztDcvhLPRDJm7mcQc.jpg?auto=webp&s=3bc08393c9bcf282131ac2a5439b0b08691f7193' alt='Ghibli HD phone wallpaper collection : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/9iA5WyxjR5RVoDosQ1X8UMa1T0ztDcvhLPRDJm7mcQc.jpg?auto=webp&s=3bc08393c9bcf282131ac2a5439b0b08691f7193' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have some Ghibli phone wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/3c/56/3a3c564aa715450a4b4448eed8df3963.jpg' alt='Have some Ghibli phone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/3c/56/3a3c564aa715450a4b4448eed8df3963.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great phone wallpaper I found : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mskaifqlszi01.jpg' alt='Great phone wallpaper I found : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mskaifqlszi01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Imagery from Studio Ghibli brings your iPhone to life ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/studio-ghibli-iphone-0hqvskduxcfj8tjr.jpg' alt='Download Imagery from Studio Ghibli brings your iPhone to life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/studio-ghibli-iphone-0hqvskduxcfj8tjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61 Phone wallpapers ideas | phone wallpaper, aesthetic wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f8/04/61/f8046193d0ca0e745d052e7110445bac.jpg' alt='61 Phone wallpapers ideas | phone wallpaper, aesthetic wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f8/04/61/f8046193d0ca0e745d052e7110445bac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD studio ghibli iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/708/HD-wallpaper-get-easy-anime-iphone-7-plus-in-2020-studio-ghibli-background-ghibli-artwork-anime-iphone-cute-ghibli.jpg' alt='HD studio ghibli iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/708/HD-wallpaper-get-easy-anime-iphone-7-plus-in-2020-studio-ghibli-background-ghibli-artwork-anime-iphone-cute-ghibli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Studio Ghibli Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/studio-ghibli-phone-80dw8lmhlr03op08.jpg' alt='100+] Studio Ghibli Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/studio-ghibli-phone-80dw8lmhlr03op08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Studio Ghibli Phone Wallpapers - Days Inspired">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2023/06/studio-ghibli-aesthetic-wallpaper-26.jpg' alt='50+ Free Studio Ghibli Phone Wallpapers - Days Inspired'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2023/06/studio-ghibli-aesthetic-wallpaper-26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41 Best Ghibli Phone images iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/e3/57/8de35736bf32afbef4fb36ed96a9b303.jpg' alt='41 Best Ghibli Phone images iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/e3/57/8de35736bf32afbef4fb36ed96a9b303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli phone wallpapers : r/anime">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/YK3fnBKVJrEPanklT0jHq4NeQiCGVkxUYNflzhXFjP4.jpg?auto=webp&s=ea11da0472d34812a1ba28b70de9b91540899052' alt='Studio Ghibli phone wallpapers : r/anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/YK3fnBKVJrEPanklT0jHq4NeQiCGVkxUYNflzhXFjP4.jpg?auto=webp&s=ea11da0472d34812a1ba28b70de9b91540899052' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

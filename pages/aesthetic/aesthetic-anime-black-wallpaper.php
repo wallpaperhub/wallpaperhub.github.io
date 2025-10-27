@@ -1,0 +1,129 @@
+<title>Aesthetic Black Anime Wallpapers: Dark & Beautiful</title>
+                    <meta name="description" content="Discover aesthetic anime black wallpapers that elevate your device's style. Explore unique designs that blend stunning anime art with bold black backgrounds for a sophisticated look. Perfect for personalizing your screens while expressing your love for anime. Download your favorites today!">
+                    <meta name="keywords" content="aesthetic anime black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-anime-black-wallpaper">
+                            <span itemprop="name">aesthetic anime black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Black Anime Wallpapers: Dark & Beautiful</h1>
+                <p>Aesthetic anime black wallpaper offers a stunning visual experience that combines the beauty of anime artistry with deep black backgrounds. Perfect for enhancing your device’s appearance, these wallpapers evoke a sense of mystery and elegance, making your screen pop. Transform your aesthetic with striking designs and vibrant colors against a dark canvas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Manga Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/f1/9b/a4f19b262f245581b7c84a5337a1e317.jpg' alt='Black Aesthetic Manga Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/f1/9b/a4f19b262f245581b7c84a5337a1e317.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Anime Aesthetic Save Me Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-anime-aesthetic-save-me-973i2mopytih55kr.jpg' alt='Dark Anime Aesthetic Save Me Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="871">
+                                <meta itemprop="height" content="1555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-anime-aesthetic-save-me-973i2mopytih55kr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Aesthetic Anime Ghoul Katakana Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-aesthetic-anime-ghoul-katakana-owag8rlufla7ni3a.jpg' alt='Download Black Aesthetic Anime Ghoul Katakana Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-aesthetic-anime-ghoul-katakana-owag8rlufla7ni3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime aesthetic wallpaper | Anime wallpaper iphone, Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/55/53/3e55536fc3d76737b916359dc2109d8c.jpg' alt='Anime aesthetic wallpaper | Anime wallpaper iphone, Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/55/53/3e55536fc3d76737b916359dc2109d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, aesthetic, black, anume, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/360/471/HD-wallpaper-anime-aesthetic-black-anume.jpg' alt='Anime, aesthetic, black, anume, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/360/471/HD-wallpaper-anime-aesthetic-black-anume.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Aesthetic Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-aesthetic-anime-black-soul-golden-heart-v4gjjbsaqh6ux0fw.jpg' alt='100+] Black Aesthetic Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-aesthetic-anime-black-soul-golden-heart-v4gjjbsaqh6ux0fw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Anime Aesthetic Weird Man Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dark-anime-aesthetic-sketch-drawing-zcfqxo8np9a1hl4v.webp' alt='Dark Anime Aesthetic Weird Man Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dark-anime-aesthetic-sketch-drawing-zcfqxo8np9a1hl4v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Anime Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/dark-anime-aesthetic-wallpaper-10.webp' alt='Dark Anime Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/dark-anime-aesthetic-wallpaper-10.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hunter x Hunter Wallpaper 4K, Aesthetic anime, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hunter-x-hunter-2880x1800-10303.jpg' alt='Hunter x Hunter Wallpaper 4K, Aesthetic anime, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hunter-x-hunter-2880x1800-10303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Arif Faeeq on Edgy wallpaper | Anime wallpaper, Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/ab/91/4eab91a2eef06c886b61cc91631704db.jpg' alt='Pin by Arif Faeeq on Edgy wallpaper | Anime wallpaper, Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/ab/91/4eab91a2eef06c886b61cc91631704db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

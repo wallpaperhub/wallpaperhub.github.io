@@ -1,0 +1,129 @@
+<title>Scary Mouth PNGs for Spooky Designs</title>
+                    <meta name="description" content="Explore a stunning collection of scary mouth PNG images perfect for Halloween and horror projects. These transparent graphics add a chilling touch to your designs, ensuring your work stands out with eerie charm. Download now and elevate your creative projects with these frightful images!">
+                    <meta name="keywords" content="scary mouth png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scary-mouth-png">
+                            <span itemprop="name">scary mouth png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scary Mouth PNGs for Spooky Designs</h1>
+                <p>Discover the spookiest collection of scary mouth PNG images that will send shivers down your spine! Perfect for Halloween designs, horror-themed projects, or adding a frightening touch to your creative work. These transparent PNGs feature ghoulish grins, eerie smiles, and other chilling expressions. Unleash your creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Mouth PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240714/original/pngtree-vector-image-of-scary-mouth-with-teeth-and-tongue-png-image_15554762.png' alt='Scary Mouth PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240714/original/pngtree-vector-image-of-scary-mouth-with-teeth-and-tongue-png-image_15554762.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Teeth Mouth Lips Scary Monster Halloween Blade Teeth ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/762-7620613_teeth-mouth-lips-scary-monster-halloween-blade-teeth.png' alt='Download Teeth Mouth Lips Scary Monster Halloween Blade Teeth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/762-7620613_teeth-mouth-lips-scary-monster-halloween-blade-teeth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Face PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/051/960/802/non_2x/terrifying-close-up-of-a-monstrous-mouth-with-sharp-bloodied-teeth-perfect-for-horror-and-halloween-themes-png.png' alt='Horror Face PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/051/960/802/non_2x/terrifying-close-up-of-a-monstrous-mouth-with-sharp-bloodied-teeth-perfect-for-horror-and-halloween-themes-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Mouth GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/kSGbxKns3scAAAAe/mouth.png' alt='Scary Mouth GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/kSGbxKns3scAAAAe/mouth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Mouth Png Vector Freeuse Download - Creepy Mouth Png - Free ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/8-81347_scary-mouth-png-vector-freeuse-download-creepy-mouth.png' alt='Scary Mouth Png Vector Freeuse Download - Creepy Mouth Png - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/8-81347_scary-mouth-png-vector-freeuse-download-creepy-mouth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Mouth PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210522/ourmid/pngtree-fierce-monster-cartoon-style-monster-mouth-png-image_3304121.jpg' alt='Scary Mouth PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210522/ourmid/pngtree-fierce-monster-cartoon-style-monster-mouth-png-image_3304121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Teeth - Horror Illustration of Bloody Teeth - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190224/frb/kisspng-portable-network-graphics-image-desktop-wallpaper-2-blood-mouth-png-for-free-download-on-ya-webdesi-1713905385665.webp' alt='Bloody Teeth - Horror Illustration of Bloody Teeth - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190224/frb/kisspng-portable-network-graphics-image-desktop-wallpaper-2-blood-mouth-png-for-free-download-on-ya-webdesi-1713905385665.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katie killerson's mouth 7 *bloody* (PNG) by gavin53zan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32eb0cb8-99bd-4638-b0ea-c46a1eb6a650/dih8up6-ee778e52-c436-4cb0-815e-064b262c4f68.png/v1/fill/w_1280,h_1280/katie_killerson_s_mouth_7__bloody___png__by_gavin53zan_dih8up6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzMyZWIwY2I4LTk5YmQtNDYzOC1iMGVhLWM0NmExZWI2YTY1MFwvZGloOHVwNi1lZTc3OGU1Mi1jNDM2LTRjYjAtODE1ZS0wNjRiMjYyYzRmNjgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sNu3RCYSjPbyTglkd3Tv5_mcMjcVPkMwJpZUx9_vBXw' alt='Katie killerson's mouth 7 *bloody* (PNG) by gavin53zan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32eb0cb8-99bd-4638-b0ea-c46a1eb6a650/dih8up6-ee778e52-c436-4cb0-815e-064b262c4f68.png/v1/fill/w_1280,h_1280/katie_killerson_s_mouth_7__bloody___png__by_gavin53zan_dih8up6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzMyZWIwY2I4LTk5YmQtNDYzOC1iMGVhLWM0NmExZWI2YTY1MFwvZGloOHVwNi1lZTc3OGU1Mi1jNDM2LTRjYjAtODE1ZS0wNjRiMjYyYzRmNjgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sNu3RCYSjPbyTglkd3Tv5_mcMjcVPkMwJpZUx9_vBXw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween svg, scary teeth svg cut file, mouth clipart, svg cut file for  cricut, cut file for silhouette, spooky dxf, scary png, horror eps">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26672643/r/il/5e5bdb/4064652218/il_570xN.4064652218_c2bi.jpg' alt='Halloween svg, scary teeth svg cut file, mouth clipart, svg cut file for  cricut, cut file for silhouette, spooky dxf, scary png, horror eps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26672643/r/il/5e5bdb/4064652218/il_570xN.4064652218_c2bi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Mouth PNG - Download Free & Premium Transparent Evil Mouth ...">
+                                <img itemprop="contentUrl url" src='https://images.creativefabrica.com/products/previews/2024/03/27/tRdU6ms3j/2eHNaP10tm5xwelYUBofD0RrggZ-mobile.jpg' alt='Evil Mouth PNG - Download Free & Premium Transparent Evil Mouth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://images.creativefabrica.com/products/previews/2024/03/27/tRdU6ms3j/2eHNaP10tm5xwelYUBofD0RrggZ-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

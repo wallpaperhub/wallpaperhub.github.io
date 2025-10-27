@@ -1,0 +1,129 @@
+<title>Chic Pastel Aesthetic iPhone Wallpapers</title>
+                    <meta name="description" content="Discover beautiful pastel aesthetic wallpapers for your iPhone! Our curated collection features serene designs that enhance your device's look while keeping it stylish and personalized. Perfect for anyone seeking a calm and artistic vibe right at their fingertips. Explore now!">
+                    <meta name="keywords" content="aesthetic:4madkshskd4= pastel:r_z5nvi2gcm= iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic4madkshskd4-pastelr_z5nvi2gcm-iphone-wallpaper">
+                            <span itemprop="name">aesthetic:4madkshskd4= pastel:r_z5nvi2gcm= iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pastel Aesthetic iPhone Wallpapers</h1>
+                <p>Transform your iPhone with our stunning pastel aesthetic wallpapers! Dive into a world of soft hues and calming designs, perfect for personalizing your device. From dreamy clouds to minimalistic art, our collection offers something for everyone looking to elevate their home screen with a touch of elegance. Perfect for any mood!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/da/29/80da292d74bce9b64ea1c672377a7bd3.jpg' alt='Pastel Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/da/29/80da292d74bce9b64ea1c672377a7bd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/8e/36/378e366f5f8c0dd4198b1a9f3d230be9.jpg' alt='Pastel aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/8e/36/378e366f5f8c0dd4198b1a9f3d230be9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/1c/eb/541cebb985a062133db54f4b1df91946.jpg' alt='4K Aesthetic Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/1c/eb/541cebb985a062133db54f4b1df91946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Pastel Aesthetic Wallpapers (2022 Guide)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/7f/20/7b7f20c2e0dac3fa7ec2356374b4b82c.jpg' alt='56 Pastel Aesthetic Wallpapers (2022 Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/7f/20/7b7f20c2e0dac3fa7ec2356374b4b82c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise Pastel Clouds iPhone Wallpaper | Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39426941/r/il/4ffb40/5647389626/il_fullxfull.5647389626_hpdc.jpg' alt='Sunrise Pastel Clouds iPhone Wallpaper | Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39426941/r/il/4ffb40/5647389626/il_fullxfull.5647389626_hpdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆ #pastel #aesthetic #wallpaper #android #iphone ☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4b/99/1c/4b991c93368d6fd04732229fcf624028.jpg' alt='☆ #pastel #aesthetic #wallpaper #android #iphone ☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4b/99/1c/4b991c93368d6fd04732229fcf624028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/1e/7d/7b1e7d70da86128613efcdfead934b6a.jpg' alt='Pastel Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/1e/7d/7b1e7d70da86128613efcdfead934b6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/91/8f/1e/918f1e1120f94177132da3e63c2cc55c.jpg' alt='280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/91/8f/1e/918f1e1120f94177132da3e63c2cc55c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517639493569-5666a7b2f494?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA==' alt='Pastel wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517639493569-5666a7b2f494?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA==' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone IOS 14 aesthetic pastel wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/89/63/eb/8963ebbf0f551d8e894357fac4234b03.jpg' alt='Iphone IOS 14 aesthetic pastel wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/89/63/eb/8963ebbf0f551d8e894357fac4234b03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

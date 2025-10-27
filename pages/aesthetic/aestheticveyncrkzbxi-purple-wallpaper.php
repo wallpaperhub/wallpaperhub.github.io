@@ -1,0 +1,129 @@
+<title>Purple Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover stunning purple wallpaper to enhance your home decor. From chic designs to vibrant shades, find the perfect match for your style and create a serene and stylish atmosphere in any room. Explore our collection today!">
+                    <meta name="keywords" content="aesthetic:veyncrkzbxi= purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticveyncrkzbxi-purple-wallpaper">
+                            <span itemprop="name">aesthetic:veyncrkzbxi= purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with enchanting purple wallpaper that blends elegance and creativity. Perfect for bedrooms, living rooms, or accent walls, these designs evoke tranquility and style. Explore a range of textures and patterns to create a personalized aesthetic that captivates the senses, making any room a visual delight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/e5/a0/b5e5a099b746203687b0e490c027a3a5.jpg' alt='purple aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/e5/a0/b5e5a099b746203687b0e490c027a3a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black And Purple Aesthetic Bird's-eye View Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-purple-aesthetic-bird-s-eye-view-7oxu2uko6xmbzxyi.jpg' alt='Download Black And Purple Aesthetic Bird's-eye View Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-purple-aesthetic-bird-s-eye-view-7oxu2uko6xmbzxyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/c5/15/ecc515617d06379a8c7e0281671a06c5.jpg' alt='Purple aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/c5/15/ecc515617d06379a8c7e0281671a06c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE AESTHETIC WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/cb/c1/21cbc1c1f74559cb652dd0b1fd7ca2ff.jpg' alt='PURPLE AESTHETIC WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/cb/c1/21cbc1c1f74559cb652dd0b1fd7ca2ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aestheticmagik (aestheticmagik) - Profile | Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/31/95/aa/3195aa7eba5e67fe0515ec8beced481d.jpg' alt='aestheticmagik (aestheticmagik) - Profile | Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/31/95/aa/3195aa7eba5e67fe0515ec8beced481d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper (No glitter)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/6f/2d/7c6f2de2f95042861416a5f4b9b46202.jpg' alt='Purple Aesthetic Wallpaper (No glitter)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/6f/2d/7c6f2de2f95042861416a5f4b9b46202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Best Aesthetic Purple ideas | purple aesthetic, purple, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/45/57/7b/45577bce69e81725a91f93ba38bb3bc6.jpg' alt='310 Best Aesthetic Purple ideas | purple aesthetic, purple, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/45/57/7b/45577bce69e81725a91f93ba38bb3bc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/7e/1c/3c7e1c9e521191318fa97b39b1971e90.jpg' alt='Purple Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/7e/1c/3c7e1c9e521191318fa97b39b1971e90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Save=follow :3 #sinnyanh | Purple wallpaper phone, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/b1/2f/6fb12f0c32e4288daf438cdfe474d792.jpg' alt='Save=follow :3 #sinnyanh | Purple wallpaper phone, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/b1/2f/6fb12f0c32e4288daf438cdfe474d792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/7c/a7/ae7ca75d7f6f0415730034256fbff0b1.jpg' alt='Purple Aesthetic Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/7c/a7/ae7ca75d7f6f0415730034256fbff0b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

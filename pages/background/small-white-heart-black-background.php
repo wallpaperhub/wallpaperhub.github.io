@@ -1,0 +1,129 @@
+<title>Small White Heart on Black Background: A Contrast of Love</title>
+                    <meta name="description" content="Explore the beauty of a small white heart on a black background. This striking visual captures love's essence while providing a minimalist aesthetic. Perfect for art enthusiasts and social media, it adds elegance to any design. Discover the emotional power of this simple yet impactful imagery today!">
+                    <meta name="keywords" content="small white heart black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/small-white-heart-black-background">
+                            <span itemprop="name">small white heart black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Small White Heart on Black Background: A Contrast of Love</h1>
+                <p>In the realm of minimalist design, a small white heart against a black background speaks volumes. This striking contrast embodies love and elegance, making it perfect for digital artwork, social media posts, or as a symbol of affection. A simple yet profound visual that resonates with viewers, evoking emotions in a profound way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Black And White Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/small-black-and-white-heart-7yntv0y51q4mveeb.jpg' alt='Small Black And White Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/small-black-and-white-heart-7yntv0y51q4mveeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart On Black Background Stock Illustration 1313545424 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/white-heart-on-black-background-260nw-1313545424.jpg' alt='White Heart On Black Background Stock Illustration 1313545424 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/white-heart-on-black-background-260nw-1313545424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple black & white, small heart phone wallpaper/background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/71/bf/02/71bf02d1964aabb4ec88239a55fb4d38.jpg' alt='Simple black & white, small heart phone wallpaper/background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/71/bf/02/71bf02d1964aabb4ec88239a55fb4d38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Eight White Hearts Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/eight-white-hearts-55pc42suuq478226.jpg' alt='Download Eight White Hearts Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/eight-white-hearts-55pc42suuq478226.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD white heart black backgrounds wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/493/985/HD-wallpaper-white-heart-black-black-background-fantasy-flying-moon-phoenix-star.jpg' alt='HD white heart black backgrounds wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/493/985/HD-wallpaper-white-heart-black-black-background-fantasy-flying-moon-phoenix-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/e6/67/d8e66787ad85e1a2be11f29eff20451d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/e6/67/d8e66787ad85e1a2be11f29eff20451d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Hearts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8345518/p/f/m/t9S9pLU2ow2vSC-iM9d6E9DFFWJvHutfKX8lFWOeyV7NabfdPPp0aLlT-rw/Tiny%20sketched%20Bone%20hearts%20-%20on%20blackest%20black%20and%20white.jpg' alt='Black And White Hearts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8345518/p/f/m/t9S9pLU2ow2vSC-iM9d6E9DFFWJvHutfKX8lFWOeyV7NabfdPPp0aLlT-rw/Tiny%20sketched%20Bone%20hearts%20-%20on%20blackest%20black%20and%20white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts black white">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a9/fc/cf/a9fccf8d29ab34aaaee43a74c7853440.jpg' alt='Hearts black white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a9/fc/cf/a9fccf8d29ab34aaaee43a74c7853440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines seamless pattern design. Simple black and white heart ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2DE6DH6/valentines-seamless-pattern-design-simple-black-and-white-heart-background-heart-shape-vector-wallpaper-2DE6DH6.jpg' alt='Valentines seamless pattern design. Simple black and white heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2DE6DH6/valentines-seamless-pattern-design-simple-black-and-white-heart-background-heart-shape-vector-wallpaper-2DE6DH6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download White Heart With Yellow Crown Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-heart-with-yellow-crown-2w8r5kb7ek8xf5q2.jpg' alt='Download White Heart With Yellow Crown Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-heart-with-yellow-crown-2w8r5kb7ek8xf5q2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

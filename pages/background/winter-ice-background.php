@@ -1,0 +1,129 @@
+<title>Stunning Winter Ice Background for Your Designs</title>
+                    <meta name="description" content="Explore our breathtaking winter ice background that showcases the tranquil beauty of ice-covered landscapes. Perfect for winter graphics, this serene backdrop enhances your projects with shimmering surfaces and frosty charm, bringing a touch of seasonal magic to your designs. Perfect for all your winter needs!">
+                    <meta name="keywords" content="winter ice background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/winter-ice-background">
+                            <span itemprop="name">winter ice background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Winter Ice Background for Your Designs</h1>
+                <p>Capture the serenity of winter with a mesmerizing ice background. Glimmering surfaces, frosted branches, and delicate icicles create a magical atmosphere. Perfect for winter-themed designs or as a peaceful backdrop, this enchanting icy landscape encapsulates the beauty and tranquility of the cold season, inviting warmth and wonder.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : LYWYGG 10X8FT Ice and Snow White World Photography Backdrops  Background Christmas Winter Snow Ice Backdrops for Children Photo Studio ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71mABJOwQBL.jpg' alt='Amazon.com : LYWYGG 10X8FT Ice and Snow White World Photography Backdrops  Background Christmas Winter Snow Ice Backdrops for Children Photo Studio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71mABJOwQBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice frost frame - Winter background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/66/16/26/1000_F_166162642_oZnfWCxjo7dWdNaCZ1XS9btQ2zjPyxIc.jpg' alt='Ice frost frame - Winter background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/66/16/26/1000_F_166162642_oZnfWCxjo7dWdNaCZ1XS9btQ2zjPyxIc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Ice Background Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/90/56/86/1000_F_390568664_wEVzZtjlJvbWpHzZvXILYwQOQ5KIk5kW.jpg' alt='Winter Ice Background Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/90/56/86/1000_F_390568664_wEVzZtjlJvbWpHzZvXILYwQOQ5KIk5kW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Beauty of Winter | The Nature Conservancy">
+                                <img itemprop="contentUrl url" src='https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/y/i/YingHanAL.jpg?crop=0%2C25%2C4000%2C2200&wid=4000&hei=2200&scl=1.0' alt='The Beauty of Winter | The Nature Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nature Conservancy" />
+                                </span>
+                                <a href='https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/y/i/YingHanAL.jpg?crop=0%2C25%2C4000%2C2200&wid=4000&hei=2200&scl=1.0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Winter Ice Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-winter-background-with-snow-icicles_1048-17036.jpg' alt='Page 3 | Winter Ice Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-winter-background-with-snow-icicles_1048-17036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,841,100+ Ice Snow Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/853844276/photo/blue-ice-and-cracks-on-the-surface-of-the-ice-frozen-lake-under-a-blue-sky-in-the-winter-the.jpg?s=612x612&w=0&k=20&c=gtWZP3TFa9ALn597BTe5atl3GkEsafs6B8bedSo6tvU=' alt='1,841,100+ Ice Snow Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/853844276/photo/blue-ice-and-cracks-on-the-surface-of-the-ice-frozen-lake-under-a-blue-sky-in-the-winter-the.jpg?s=612x612&w=0&k=20&c=gtWZP3TFa9ALn597BTe5atl3GkEsafs6B8bedSo6tvU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Winter Ice World Frost Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/files/BH1046948DKateWinterIceWorldFrostBackdropforPhotography.jpg?v=1693881684' alt='Kate Winter Ice World Frost Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/files/BH1046948DKateWinterIceWorldFrostBackdropforPhotography.jpg?v=1693881684' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Ice Frost Frozen Background Frosted Stock Photo 362529629 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/362529629/display_1500/stock-photo-winter-ice-frost-frozen-background-frosted-window-glass-texture-cold-cool-icicles-background-362529629.jpg' alt='Winter Ice Frost Frozen Background Frosted Stock Photo 362529629 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/362529629/display_1500/stock-photo-winter-ice-frost-frozen-background-frosted-window-glass-texture-cold-cool-icicles-background-362529629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Snow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-background-with-snowy-ice-texture_1048-19584.jpg?semt=ais_hybrid' alt='Ice Snow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-background-with-snowy-ice-texture_1048-19584.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Ice Abstract Blurred Background Of Blue Textures On Glass ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202408/winter-ice-abstract-blurred-background-of-blue-textures-on-glass_9904142.jpg!w700wp' alt='Winter Ice Abstract Blurred Background Of Blue Textures On Glass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202408/winter-ice-abstract-blurred-background-of-blue-textures-on-glass_9904142.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

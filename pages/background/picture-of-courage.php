@@ -1,0 +1,129 @@
+<title>"The Essence of Courage: Capturing Brave Moments"</title>
+                    <meta name="description" content="Discover the powerful images that embody courage. From everyday heroes to extraordinary feats, explore how these moments of bravery inspire resilience in us all. Join us as we celebrate the visual stories that reflect the spirit of courage in action.">
+                    <meta name="keywords" content="picture of courage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-courage">
+                            <span itemprop="name">picture of courage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Essence of Courage: Capturing Brave Moments"</h1>
+                <p>A picture of courage captures the essence of bravery in the face of adversity. It showcases individuals overcoming fears, standing firm during challenges, and inspiring others to be resilient. From a firefighter rescuing a child from flames to a soldier's unwavering stance, these images evoke profound emotions and heroism, widely resonating with audiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courage Images – Browse 1,217,084 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/39/65/10/360_F_139651013_YESEXMoP8nUo2MDhQtm9xkN7BMdrweYK.jpg' alt='Courage Images – Browse 1,217,084 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/39/65/10/360_F_139651013_YESEXMoP8nUo2MDhQtm9xkN7BMdrweYK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,300+ Courage Word Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/153070738/photo/courage-written-on-a-big-smooth-rock-with-jagged-rocks.jpg?s=612x612&w=0&k=20&c=LXcFTaAknWu-9M5usxKbywyne2qrRxCD-cuIFaYWhMI=' alt='5,300+ Courage Word Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/153070738/photo/courage-written-on-a-big-smooth-rock-with-jagged-rocks.jpg?s=612x612&w=0&k=20&c=LXcFTaAknWu-9M5usxKbywyne2qrRxCD-cuIFaYWhMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="359,600+ Courage Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/927775738/photo/woman-jumping-over-abyss.jpg?s=612x612&w=0&k=20&c=DbvQjsNA5TdR_iL5UKbYqAAoX9oN8i8czRLX-2UPbUg=' alt='359,600+ Courage Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/927775738/photo/woman-jumping-over-abyss.jpg?s=612x612&w=0&k=20&c=DbvQjsNA5TdR_iL5UKbYqAAoX9oN8i8czRLX-2UPbUg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courage is not a Decision... - Thought Field Therapy Center of San ...">
+                                <img itemprop="contentUrl url" src='https://rlbray.com/wp-content/uploads/2018/10/Organizational-Courage-.jpg' alt='Courage is not a Decision... - Thought Field Therapy Center of San ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thought Field Therapy Center of San Diego" />
+                                </span>
+                                <a href='https://rlbray.com/wp-content/uploads/2018/10/Organizational-Courage-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Ways To Show Courage Every Day - Congressional Medal of Honor ...">
+                                <img itemprop="contentUrl url" src='https://www.cmohs.org/news-events/wp-content/uploads/2020/04/87095576_l-scaled-1.jpg' alt='5 Ways To Show Courage Every Day - Congressional Medal of Honor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Congressional Medal of Honor Society" />
+                                </span>
+                                <a href='https://www.cmohs.org/news-events/wp-content/uploads/2020/04/87095576_l-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courage Images – Browse 1,217,084 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/28/63/04/360_F_328630448_QgPkqytJQnzWUjElsceRzxQkIkRJJLhZ.jpg' alt='Courage Images – Browse 1,217,084 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/28/63/04/360_F_328630448_QgPkqytJQnzWUjElsceRzxQkIkRJJLhZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Free Courage & Motivation Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/01/05/07/16/balance-3062272_640.jpg' alt='1,000+ Free Courage & Motivation Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/01/05/07/16/balance-3062272_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courage Stock Illustrations – 105,103 Courage Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/courage-risk-27212430.jpg' alt='Courage Stock Illustrations – 105,103 Courage Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/courage-risk-27212430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Courage to do the Right Thing | University of Central Florida News">
+                                <img itemprop="contentUrl url" src='https://www.ucf.edu/wp-content/blogs.dir/20/files/2021/06/ucf-forum-courage.jpg' alt='The Courage to do the Right Thing | University of Central Florida News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCF" />
+                                </span>
+                                <a href='https://www.ucf.edu/wp-content/blogs.dir/20/files/2021/06/ucf-forum-courage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courage Stock Photos, Royalty Free Courage Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1307373/6557/i/450/depositphotos_65576019-stock-photo-silhouette-the-girl-jumping-over.jpg' alt='Courage Stock Photos, Royalty Free Courage Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1307373/6557/i/450/depositphotos_65576019-stock-photo-silhouette-the-girl-jumping-over.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

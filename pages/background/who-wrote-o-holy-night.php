@@ -1,0 +1,129 @@
+<title>Who Wrote "O Holy Night"? A Deep Dive</title>
+                    <meta name="description" content="Discover the origins of "O Holy Night," the beloved Christmas carol. Learn about its creator Placide Cappeau and the composer Adolphe Adam. Explore its journey from a French poem to an English classic sung around the world during the holiday season.">
+                    <meta name="keywords" content="who wrote o holy night">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-wrote-o-holy-night">
+                            <span itemprop="name">who wrote o holy night</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Wrote "O Holy Night"? A Deep Dive</h1>
+                <p>"O Holy Night" was originally a French poem titled "Minuit, chrétiens" written by Placide Cappeau in 1847. The music was composed by Adolphe Adam the same year. The hymn gained popularity and was later translated into English, becoming a beloved carol performed worldwide during the Christmas season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How "O Holy Night" became a popular Christmas carol">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0832/7545/files/adolphe-adam-placide-cappeau.jpg?v=1570681089' alt='How "O Holy Night" became a popular Christmas carol'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2191">
+                                <meta itemprop="height" content="1614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Galaxy Music Notes" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0832/7545/files/adolphe-adam-placide-cappeau.jpg?v=1570681089' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adolphe_Adam.jpg/152px-Adolphe_Adam.jpg' alt='O Holy Night - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="152">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adolphe_Adam.jpg/152px-Adolphe_Adam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of 'O Holy Night,' the rousing Christmas hymn that ...">
+                                <img itemprop="contentUrl url" src='https://www.americamagazine.org/sites/default/files/main_image/2020/11/17/CMR46Y.jpg.jpg' alt='A brief history of 'O Holy Night,' the rousing Christmas hymn that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5913">
+                                <meta itemprop="height" content="4662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="America Magazine" />
+                                </span>
+                                <a href='https://www.americamagazine.org/sites/default/files/main_image/2020/11/17/CMR46Y.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night | hymnstudiesblog">
+                                <img itemprop="contentUrl url" src='https://hymnstudiesblog.wordpress.com/wp-content/uploads/2024/01/o-holy-night1.jpg' alt='O Holy Night | hymnstudiesblog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymn Studies Blog - WordPress.com" />
+                                </span>
+                                <a href='https://hymnstudiesblog.wordpress.com/wp-content/uploads/2024/01/o-holy-night1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Partition_originale_de_Minuit_Chr%C3%A9tiens.jpg/220px-Partition_originale_de_Minuit_Chr%C3%A9tiens.jpg' alt='O Holy Night - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Partition_originale_de_Minuit_Chr%C3%A9tiens.jpg/220px-Partition_originale_de_Minuit_Chr%C3%A9tiens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night Beth's Notes Songs & Resources">
+                                <img itemprop="contentUrl url" src='https://www.bethsnotesplus.com/wp-content/uploads/2014/09/O-Holy-Night-1.png' alt='O Holy Night Beth's Notes Songs & Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beth's Notes" />
+                                </span>
+                                <a href='https://www.bethsnotesplus.com/wp-content/uploads/2014/09/O-Holy-Night-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night Printable Lyrics, Origins, and Video">
+                                <img itemprop="contentUrl url" src='https://playtivities.com/wp-content/uploads/2022/11/O-Holy-Night-1200-x-1200.png' alt='O Holy Night Printable Lyrics, Origins, and Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playtivities" />
+                                </span>
+                                <a href='https://playtivities.com/wp-content/uploads/2022/11/O-Holy-Night-1200-x-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fascinating Story of "O Holy Night" - Tara Johnson">
+                                <img itemprop="contentUrl url" src='https://tarajohnsonstories.com/wp-content/uploads/2018/12/o-holy-night-300x251.png' alt='The Fascinating Story of "O Holy Night" - Tara Johnson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tara Johnson" />
+                                </span>
+                                <a href='https://tarajohnsonstories.com/wp-content/uploads/2018/12/o-holy-night-300x251.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night">
+                                <img itemprop="contentUrl url" src='https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Library_Of_Congress/O_Holy_Night/Schirmer-1884/002.jpg' alt='O Holy Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hymns and Carols of Christmas" />
+                                </span>
+                                <a href='https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Library_Of_Congress/O_Holy_Night/Schirmer-1884/002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Holy Night - Lyrics, Hymn Meaning and Story">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/godtube/resource/popular-hymns/image/o-holy-night-lyrics-story-behind-carol.jpg' alt='O Holy Night - Lyrics, Hymn Meaning and Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodTube.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/godtube/resource/popular-hymns/image/o-holy-night-lyrics-story-behind-carol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

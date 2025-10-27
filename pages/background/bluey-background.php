@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Bluey: Background Insights</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="bluey background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bluey-background">
+                            <span itemprop="name">bluey background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Bluey: Background Insights</h1>
+                <p>Bluey is an Australian animated series that follows the adventures of a lovable Blue Heeler puppy and her family. Set against the vibrant backdrop of Brisbane, the show captures the essence of childhood through imaginative play, family bonding, and everyday life experiences. It's a delightful ode to parenting and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love the Bluey backgrounds : r/bluey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-love-the-bluey-backgrounds-v0-aaxw0t7nuryb1.jpg?width=2556&format=pjpg&auto=webp&s=bd29d631cae1b030bd64cef4cd1bb97294f13d6d' alt='I love the Bluey backgrounds : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2556">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-love-the-bluey-backgrounds-v0-aaxw0t7nuryb1.jpg?width=2556&format=pjpg&auto=webp&s=bd29d631cae1b030bd64cef4cd1bb97294f13d6d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/03/Tablet-1.png' alt='Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/03/Tablet-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey style background number 3 is done! (thank you all soooo much ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/amezctx22egb1.jpg' alt='Bluey style background number 3 is done! (thank you all soooo much ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7552">
+                                <meta itemprop="height" content="4686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/amezctx22egb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - Here's some Bluey home screens for your phone   ... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452809325533197' alt='Bluey - Here's some Bluey home screens for your phone   ... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452809325533197' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's Backyard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/35/f4/cc35f433c89433b776f494c4160b634d.jpg' alt='Bluey's Backyard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/35/f4/cc35f433c89433b776f494c4160b634d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey and Bingo wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/fa/16/05fa1606415a6529ebf4db6bafe8b50c.jpg' alt='Bluey and Bingo wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/fa/16/05fa1606415a6529ebf4db6bafe8b50c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My attempt at drawing a background in a bluey art style : r/bluey">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-attempt-at-drawing-a-background-in-a-bluey-art-style-v0-cyj8bdo5fwfb1.jpg?auto=webp&s=6ce2735a5f9ab8d9f9d4d23ebfb31ab89a7c98bb' alt='My attempt at drawing a background in a bluey art style : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3756">
+                                <meta itemprop="height" content="4535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-attempt-at-drawing-a-background-in-a-bluey-art-style-v0-cyj8bdo5fwfb1.jpg?auto=webp&s=6ce2735a5f9ab8d9f9d4d23ebfb31ab89a7c98bb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Junior Bluey & Bingo">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/10822/Bluey_and_Bingo_Disney_Fabric.jpg' alt='Disney Junior Bluey & Bingo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Quilted Nursery Fabric Store" />
+                                </span>
+                                <a href='https://media.rainpos.com/10822/Bluey_and_Bingo_Disney_Fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey / Backdrop & Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32100880/r/il/8ce0e5/4703334195/il_570xN.4703334195_lbh5.jpg' alt='Bluey / Backdrop & Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32100880/r/il/8ce0e5/4703334195/il_570xN.4703334195_lbh5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Bluey Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/01/Fancy-Ladies.png' alt='New Bluey Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/01/Fancy-Ladies.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

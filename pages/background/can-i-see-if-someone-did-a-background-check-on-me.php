@@ -1,0 +1,129 @@
+<title>Can You See If Someone Background Checked You?</title>
+                    <meta name="description" content="Wondering if someone has conducted a background check on you? Discover how to stay informed by monitoring your credit report and social media. Learn the best practices for self-checks and understand what information can be accessed by potential employers or others. Stay proactive in managing your personal data.">
+                    <meta name="keywords" content="can i see if someone did a background check on me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-i-see-if-someone-did-a-background-check-on-me">
+                            <span itemprop="name">can i see if someone did a background check on me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You See If Someone Background Checked You?</h1>
+                <p>While you cannot directly see if someone has conducted a background check on you, you can stay informed by monitoring your credit report and social media accounts. Some background check services may notify you of inquiries, but it’s best to perform regular self-checks through services that allow you to review your background information.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Do A Background Check On Someone">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/how-to-do-bckground-check-02.png' alt='How To Do A Background Check On Someone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/how-to-do-bckground-check-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advanced Background Checks And Screenings: Must-Know Insights">
+                                <img itemprop="contentUrl url" src='https://lawrenceryaninvestigations.com/wp-content/uploads/2017/05/what-is-needed-for-a-background-check.png' alt='Advanced Background Checks And Screenings: Must-Know Insights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lawrence Ryan Investigations" />
+                                </span>
+                                <a href='https://lawrenceryaninvestigations.com/wp-content/uploads/2017/05/what-is-needed-for-a-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Employers Need to Do When They Find a Criminal Record ...">
+                                <img itemprop="contentUrl url" src='https://nsshire.com/wp-content/uploads/2023/10/AdobeStock_189732707.jpeg' alt='What Employers Need to Do When They Find a Criminal Record ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8688">
+                                <meta itemprop="height" content="5792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nationwide Screening Services" />
+                                </span>
+                                <a href='https://nsshire.com/wp-content/uploads/2023/10/AdobeStock_189732707.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was a Background Check Run on You and Your Personal History?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/Was-a-Background-Check-Run-on-You-and-Your-Personal-History-img@2x.jpg?width=546&name=Was-a-Background-Check-Run-on-You-and-Your-Personal-History-img@2x.jpg' alt='Was a Background Check Run on You and Your Personal History?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/Was-a-Background-Check-Run-on-You-and-Your-Personal-History-img@2x.jpg?width=546&name=Was-a-Background-Check-Run-on-You-and-Your-Personal-History-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Do A Background Check On Someone">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/how-to-do-background-check-someone/_jcr_content/root/pagesection/image_89834946.coreimg.png/1720549903326/shareable-claims-update.png' alt='How To Do A Background Check On Someone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/how-to-do-background-check-someone/_jcr_content/root/pagesection/image_89834946.coreimg.png/1720549903326/shareable-claims-update.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AIO? Girl I'm talking to Ran a background check on me on : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/aio-girl-im-talking-to-ran-a-background-check-on-me-on-v0-uod7k5q2dlyd1.jpeg?width=1080&crop=smart&auto=webp&s=e9c390e1f708089dde2b992baee2b80904970542' alt='AIO? Girl I'm talking to Ran a background check on me on : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/aio-girl-im-talking-to-ran-a-background-check-on-me-on-v0-uod7k5q2dlyd1.jpeg?width=1080&crop=smart&auto=webp&s=e9c390e1f708089dde2b992baee2b80904970542' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

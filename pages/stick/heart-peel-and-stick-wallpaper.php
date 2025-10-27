@@ -1,0 +1,129 @@
+<title>Charming Heart Peel and Stick Wallpaper - Easy Decor Solution</title>
+                    <meta name="description" content="Discover the beauty of heart peel and stick wallpaper! Perfect for quick makeovers and rentals, it offers a delightful design with easy application and removal. Elevate your space effortlessly with our stylish patterns today!">
+                    <meta name="keywords" content="heart peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/heart-peel-and-stick-wallpaper">
+                            <span itemprop="name">heart peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Heart Peel and Stick Wallpaper - Easy Decor Solution</h1>
+                <p>Transform your space with heart peel and stick wallpaper! This stylish and easy-to-apply decor solution adds a charming touch to any room. Perfect for accent walls, nurseries, or rental spaces, it comes off cleanly without damaging surfaces. Choose from various heart patterns to match your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper With a Heart Pattern, Wallpaper With ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22296004/r/il/717a0a/2303953027/il_570xN.2303953027_9htz.jpg' alt='Peel and Stick Wallpaper With a Heart Pattern, Wallpaper With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22296004/r/il/717a0a/2303953027/il_570xN.2303953027_9htz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeet Modern Heart Wallpaper Peel and Stick Wallpaper Self Adhesive  Wallpaper 17.7"x78.7" Black White Contact Paper Vinyl Removable Wallpaper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91PK+gUBizL.jpg' alt='Timeet Modern Heart Wallpaper Peel and Stick Wallpaper Self Adhesive  Wallpaper 17.7"x78.7" Black White Contact Paper Vinyl Removable Wallpaper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91PK+gUBizL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Cute Hand Drawn Valentines Hearts  Seamless Decorative Doodle Love Self Adhesive Removable and Contact Paper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KffcTx+PL.jpg' alt='Amazon.com: Peel and Stick Wallpaper Cute Hand Drawn Valentines Hearts  Seamless Decorative Doodle Love Self Adhesive Removable and Contact Paper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KffcTx+PL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Heart Flutter" Wallpaper | Oversized Wall Mural Design By Vivian Ferne -  Peel & Stick / Sample 8" x 11"">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/products/BestHeartThemeInteriorDecor-BestInteriorDesignWallArt-HeartThemedDesigns-AbstractWallArt-BestAbstractArt.jpg?v=1679689065&width=1214' alt='"Heart Flutter" Wallpaper | Oversized Wall Mural Design By Vivian Ferne -  Peel & Stick / Sample 8" x 11"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/products/BestHeartThemeInteriorDecor-BestInteriorDesignWallArt-HeartThemedDesigns-AbstractWallArt-BestAbstractArt.jpg?v=1679689065&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Heart Spot Gold Geometric Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK3525WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/db3cd22b-792f-4e1c-9c7e-0f55b26a7d87/svn/roommates-wallpaper-rolls-rmk3525wp-31_600.jpg' alt='RoomMates Heart Spot Gold Geometric Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK3525WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/db3cd22b-792f-4e1c-9c7e-0f55b26a7d87/svn/roommates-wallpaper-rolls-rmk3525wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Game Room Hearts Pattern Print for Girls Play Room, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/2e5dca/6041984414/il_570xN.6041984414_g803.jpg' alt='Wallpaper Game Room Hearts Pattern Print for Girls Play Room, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/2e5dca/6041984414/il_570xN.6041984414_g803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Peel and Stick Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK3525WP_peel_f36146db-0898-443a-90e7-125ba3ddae48.jpg?v=1703792471&width=200' alt='Heart Peel and Stick Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK3525WP_peel_f36146db-0898-443a-90e7-125ba3ddae48.jpg?v=1703792471&width=200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/00656_heart_main_800x.jpg?v=1667387099' alt='Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/00656_heart_main_800x.jpg?v=1667387099' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Love Heart Seamless A White Pink Heart Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lFk3v6DoL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Love Heart Seamless A White Pink Heart Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lFk3v6DoL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK3525WP_RS1_45760a4c-a6c8-476a-9dd7-daed75dacaac.jpg?v=1703792471&width=800' alt='Heart Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK3525WP_RS1_45760a4c-a6c8-476a-9dd7-daed75dacaac.jpg?v=1703792471&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

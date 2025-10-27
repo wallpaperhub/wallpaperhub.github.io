@@ -1,0 +1,129 @@
+<title>Sully Sullenberger: Hero of the Hudson</title>
+                    <meta name="description" content="Discover the remarkable story of Sully Sullenberger, the pilot who saved over 150 lives by landing Flight 1549 on the Hudson River. Learn about his incredible journey and legacy of heroism and leadership in aviation. Join us as we explore the life of this aviation icon.">
+                    <meta name="keywords" content="sully sullenberger">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sully-sullenberger">
+                            <span itemprop="name">sully sullenberger</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sully Sullenberger: Hero of the Hudson</h1>
+                <p>Sully Sullenberger, an American hero and retired airline pilot, gained worldwide fame for successfully landing US Airways Flight 1549 on the Hudson River in 2009 after both engines failed. His quick thinking and professionalism prevented a catastrophe, earning him accolades and making him a symbol of leadership and calm under pressure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sully Sullenberger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C.B._Sullenberger%2C_U.S._Representative_%28cropped%29.jpg/1200px-C.B._Sullenberger%2C_U.S._Representative_%28cropped%29.jpg' alt='Sully Sullenberger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C.B._Sullenberger%2C_U.S._Representative_%28cropped%29.jpg/1200px-C.B._Sullenberger%2C_U.S._Representative_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q and A: Capt. Chesley "Sully" Sullenberger | Smithsonian">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/Q0bEzL-DgbAQd2Y-ceEbEITQ4Uw=/800x600/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/QA-Sully-Sullenberger-631.jpg' alt='Q and A: Capt. Chesley "Sully" Sullenberger | Smithsonian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/Q0bEzL-DgbAQd2Y-ceEbEITQ4Uw=/800x600/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/QA-Sully-Sullenberger-631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sully' Sullenberger: We saved 155 lives in the Miracle on the ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/JFM4WPGETMI6TKTRIBWI6S7HAY.jpg' alt='Sully' Sullenberger: We saved 155 lives in the Miracle on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tampa Bay Times" />
+                                </span>
+                                <a href='https://arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/JFM4WPGETMI6TKTRIBWI6S7HAY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sully Talks Leadership, Bird Strikes, and the One Thing He'd Like ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/53d9c6a8dcd5888e1459c874/master/pass/chesley-sullenberger-pilot-sully.jpg' alt='Sully Talks Leadership, Bird Strikes, and the One Thing He'd Like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/53d9c6a8dcd5888e1459c874/master/pass/chesley-sullenberger-pilot-sully.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capt. Chesley 'Sully' Sullenberger reunites with passengers on ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/US/miracle-on-hudson-ap-ml-190111_hpMain.jpg' alt='Capt. Chesley 'Sully' Sullenberger reunites with passengers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/US/miracle-on-hudson-ap-ml-190111_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pilot's life prepared him for 'miracle' flight">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/ap/64cad85a-ce82-47dc-b7eb-5902fc8c6f46.jpg' alt='Pilot's life prepared him for 'miracle' flight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/ap/64cad85a-ce82-47dc-b7eb-5902fc8c6f46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Captain C.B. Sully Sullenberger">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044501856702' alt='Profile for Captain C.B. Sully Sullenberger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044501856702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Interview With Capt. Sully Sullenberger: On Aviation, Medicine ...">
+                                <img itemprop="contentUrl url" src='https://blog.hospitalmedicine.org/wp-content/uploads/2015/02/Screen-Shot-2015-02-23-at-12.48.06-AM.png' alt='My Interview With Capt. Sully Sullenberger: On Aviation, Medicine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hospital Leader - Society of Hospital Medicine" />
+                                </span>
+                                <a href='https://blog.hospitalmedicine.org/wp-content/uploads/2015/02/Screen-Shot-2015-02-23-at-12.48.06-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sully Sullenberger Implores Americans to Vote Trump Out of Office">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2020/09/split-1601401602.jpg?w=1296&h=730&crop=1' alt='Sully Sullenberger Implores Americans to Vote Trump Out of Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2020/09/split-1601401602.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesley 'Sully' Sullenberger Flies Again">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/-rmDn0sNfsdNaLiMF4MtVobBKJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(159x0:161x2)/chesley_sullenberger2-6bdcb8205583496f85c4da2b9a30cd87.jpg' alt='Chesley 'Sully' Sullenberger Flies Again'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/-rmDn0sNfsdNaLiMF4MtVobBKJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(159x0:161x2)/chesley_sullenberger2-6bdcb8205583496f85c4da2b9a30cd87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

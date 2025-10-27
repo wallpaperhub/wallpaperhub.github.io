@@ -1,0 +1,129 @@
+<title>Stunning MW2 iPhone Wallpapers for Gamers</title>
+                    <meta name="description" content="Enhance your iPhone with exclusive MW2 wallpapers! Explore a vibrant selection of themes based on Modern Warfare 2, designed to bring your favorite gaming moments to your screen. Download now and make your device stand out with these captivating designs tailored for gamers!">
+                    <meta name="keywords" content="mw2 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mw2-wallpaper-iphone">
+                            <span itemprop="name">mw2 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning MW2 iPhone Wallpapers for Gamers</h1>
+                <p>Looking for stunning MW2 wallpapers for your iPhone? Discover a collection of high-quality, immersive backgrounds featuring your favorite characters, action-packed scenes, and iconic moments from Modern Warfare 2. Elevate your device's aesthetic with these wallpapers that bring the battlefield right to your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Modern Warfare 2 iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e5/0f/39/e50f39b03dd1e6b83cb074952f74e8b5.jpg' alt='Call of Duty Modern Warfare 2 iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e5/0f/39/e50f39b03dd1e6b83cb074952f74e8b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="call of duty modern warfare 2 hd iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/9f/a6/199fa62eb8656c6bbe64c0d35cac2b0f.jpg' alt='call of duty modern warfare 2 hd iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/9f/a6/199fa62eb8656c6bbe64c0d35cac2b0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MW2 Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/d4/58/6dd45891416afc7463223f55624a19eb.jpg' alt='MW2 Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/d4/58/6dd45891416afc7463223f55624a19eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost 4K Call of Duty: Modern Warfare 2 Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-447@1@h-phone-4k.jpg' alt='Ghost 4K Call of Duty: Modern Warfare 2 Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-447@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Warfare 2 4k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11708915.jpg' alt='Modern Warfare 2 4k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11708915.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of duty deals wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/call-of-duty-modern-1242x2208-11658.jpg' alt='Call of duty deals wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.tvg.co.za" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/call-of-duty-modern-1242x2208-11658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cod] rate wallpaper : r/CallOfDuty">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cod-rate-wallpaper-v0-a7l8g8imp3zd1.jpeg?auto=webp&s=93f1ee00a7d699b112a6c120c0a9fbc3cff91447' alt='cod] rate wallpaper : r/CallOfDuty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cod-rate-wallpaper-v0-a7l8g8imp3zd1.jpeg?auto=webp&s=93f1ee00a7d699b112a6c120c0a9fbc3cff91447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost MW2 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13962926.jpg' alt='Ghost MW2 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13962926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Call of duty modern warfare 2 hd iPhone HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-116006/call-of-duty-modern-warfare-2-hd.jpg' alt='Best Call of duty modern warfare 2 hd iPhone HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-116006/call-of-duty-modern-warfare-2-hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Call of Duty: Modern Warfare 2 2022 4K Wallpaper iPhone HD ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-456@1@h-phone-4k.jpg' alt='Ghost Call of Duty: Modern Warfare 2 2022 4K Wallpaper iPhone HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/ghost-call-of-duty-modern-warfare-2-2022-456@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

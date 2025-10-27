@@ -1,0 +1,129 @@
+<title>Vibrant Pink and Blue Aura Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the magic of pink and blue aura wallpaper to elevate your home decor. Perfect for creating a serene ambiance, this wallpaper combines soothing colors that inspire creativity and relaxation. Transform any room effortlessly with this stunning design!">
+                    <meta name="keywords" content="pink and blue aura wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-blue-aura-wallpaper">
+                            <span itemprop="name">pink and blue aura wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink and Blue Aura Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with a stunning pink and blue aura wallpaper that radiates tranquility and creativity. Ideal for bedrooms, offices, or any area needing a splash of color, this wallpaper creates an enchanting atmosphere. Its harmonious hues complement various decor styles, bringing elegance and serenity to your environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink On Blue Radial Aura Color Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aura-color-ysucj7izb16pqv3i.jpg' alt='Download Pink On Blue Radial Aura Color Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aura-color-ysucj7izb16pqv3i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/4b/47/034b4793ad013441f10c1b1d4e33ea0d.jpg' alt='aura phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/4b/47/034b4793ad013441f10c1b1d4e33ea0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and blue aura wallpaper, preppy, trendy aura wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/5a/45/ca/5a45ca5665591a49a21b5505ffe5d886.jpg' alt='Pink and blue aura wallpaper, preppy, trendy aura wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/5a/45/ca/5a45ca5665591a49a21b5505ffe5d886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unlock the beauty of your aura with Aura Color Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aura-color-r7ivevghyvfymbmi.jpg' alt='Download Unlock the beauty of your aura with Aura Color Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aura-color-r7ivevghyvfymbmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura (gradient)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dc/4c/e3/dc4ce37c428664d1b1004894c525fc04.jpg' alt='aura (gradient)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dc/4c/e3/dc4ce37c428664d1b1004894c525fc04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Wallpaper for 1 Hour | Mix Colors | Blue Pink Gradient">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TKFEAu8_mg4/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEYgVyhlMA8=&rs=AOn4CLDQZrwSgAZrwWoxAzsguC7oI0Tp1Q' alt='Aura Wallpaper for 1 Hour | Mix Colors | Blue Pink Gradient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TKFEAu8_mg4/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEYgVyhlMA8=&rs=AOn4CLDQZrwSgAZrwWoxAzsguC7oI0Tp1Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue and purple aura color">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/59/a1/0f59a1c4d83b398a2d398ed6ddef11b4.jpg' alt='blue and purple aura color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/59/a1/0f59a1c4d83b398a2d398ed6ddef11b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink and Blue Gradient Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/7b6fbd4c592d356e087a0f1053751007/SOnRw5v83Dl7K9LW4VmM.jpg?q=70&w=500' alt='Soft Pink and Blue Gradient Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/7b6fbd4c592d356e087a0f1053751007/SOnRw5v83Dl7K9LW4VmM.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Law Of Attraction Blue Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/law-of-attraction-blue-aura-aesthetic-8qepcxmxrynxuct1.jpg' alt='Law Of Attraction Blue Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/law-of-attraction-blue-aura-aesthetic-8qepcxmxrynxuct1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/32/64/03/326403258fa79072cf8136c32a258497.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/32/64/03/326403258fa79072cf8136c32a258497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

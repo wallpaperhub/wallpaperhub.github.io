@@ -1,0 +1,129 @@
+<title>Stunning Umbreon Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover beautiful Umbreon phone wallpapers that enhance your device's look! Browse our collection of high-quality images, perfect for true Pokémon fans. Customize your phone today with these eye-catching designs that bring Umbreon to life on your screen!">
+                    <meta name="keywords" content="umbreon phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/umbreon-phone-wallpaper">
+                            <span itemprop="name">umbreon phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Umbreon Phone Wallpapers for Every Fan</h1>
+                <p>Enhance your smartphone's look with stunning Umbreon phone wallpapers! Our collection features vivid, high-resolution images showcasing Umbreon in dynamic poses and beautiful backgrounds. Perfect for Pokémon fans, these wallpapers will reflect your love for this beloved Dark-type Pokémon. Elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon Phone's Wallpaper : r/Pokemonart">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/umbreon-phones-wallpaper-v0-usf023dn0fud1.jpeg?auto=webp&s=c21ae851d0e150d5cea753f0c84d89a592997e23' alt='Umbreon Phone's Wallpaper : r/Pokemonart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/umbreon-phones-wallpaper-v0-usf023dn0fud1.jpeg?auto=webp&s=c21ae851d0e150d5cea753f0c84d89a592997e23' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Espeon and Umbreon free phone wallpaper (art by me!) : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0d292wg3i67e1.jpeg' alt='Espeon and Umbreon free phone wallpaper (art by me!) : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0d292wg3i67e1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon - Pokemon Mobile Wallpaper by Jotasso on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0c00d76-93b7-48b1-a483-bc1ac13f747b/derijkq-70467c53-c285-48f7-862a-13d138deebeb.jpg/v1/fill/w_1280,h_2090,q_75,strp/umbreon___pokemon_mobile_wallpaper_by_jotasso_derijkq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA5MCIsInBhdGgiOiJcL2ZcL2UwYzAwZDc2LTkzYjctNDhiMS1hNDgzLWJjMWFjMTNmNzQ3YlwvZGVyaWprcS03MDQ2N2M1My1jMjg1LTQ4ZjctODYyYS0xM2QxMzhkZWViZWIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6am59OkWJiav7BoGunZ0FsLIGzszCWb13jYakC6yGDU' alt='Umbreon - Pokemon Mobile Wallpaper by Jotasso on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0c00d76-93b7-48b1-a483-bc1ac13f747b/derijkq-70467c53-c285-48f7-862a-13d138deebeb.jpg/v1/fill/w_1280,h_2090,q_75,strp/umbreon___pokemon_mobile_wallpaper_by_jotasso_derijkq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA5MCIsInBhdGgiOiJcL2ZcL2UwYzAwZDc2LTkzYjctNDhiMS1hNDgzLWJjMWFjMTNmNzQ3YlwvZGVyaWprcS03MDQ2N2M1My1jMjg1LTQ4ZjctODYyYS0xM2QxMzhkZWViZWIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6am59OkWJiav7BoGunZ0FsLIGzszCWb13jYakC6yGDU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4d/48/f9/4d48f99a3b0790039583fb1cc4ed071f.jpg' alt='Umbreon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4d/48/f9/4d48f99a3b0790039583fb1cc4ed071f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon Mobile Wallpaper : r/Eevee">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/umbreon-mobile-wallpaper-v0-afa3olkdz8aa1.jpg?width=640&crop=smart&auto=webp&s=4d0068d2ec52b4f2c676a60fcd3cdbe0ee5b1f91' alt='Umbreon Mobile Wallpaper : r/Eevee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/umbreon-mobile-wallpaper-v0-afa3olkdz8aa1.jpg?width=640&crop=smart&auto=webp&s=4d0068d2ec52b4f2c676a60fcd3cdbe0ee5b1f91' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon Pattern Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/umbreon-pattern-wallpaper.webp' alt='Umbreon Pattern Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/umbreon-pattern-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Umbreon Wallpaper :) : r/PokemonSwordAndShield">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/do8hrcahc8161.jpg' alt='Regular Umbreon Wallpaper :) : r/PokemonSwordAndShield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/do8hrcahc8161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon Hd Wallpapers - Wallpaper Cave C61">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/57/9a/e7/579ae7f669acb18705cbc44ec0e86c5d.jpg' alt='Umbreon Hd Wallpapers - Wallpaper Cave C61'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/57/9a/e7/579ae7f669acb18705cbc44ec0e86c5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbreon, android, black, drawing, ios, iphone, moon, oled, pokemon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/600/179/HD-wallpaper-umbreon-android-black-drawing-ios-iphone-moon-oled-pokemon.jpg' alt='Umbreon, android, black, drawing, ios, iphone, moon, oled, pokemon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/600/179/HD-wallpaper-umbreon-android-black-drawing-ios-iphone-moon-oled-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD umbreon pokemon dark wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/193/433/HD-wallpaper-moonlight-pokemon-anime-darkness-pikachu-stars-umbreon-thumbnail.jpg' alt='HD umbreon pokemon dark wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/193/433/HD-wallpaper-moonlight-pokemon-anime-darkness-pikachu-stars-umbreon-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

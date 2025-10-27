@@ -1,0 +1,129 @@
+<title>Stunning Metal Plate Backgrounds for Your Design Projects</title>
+                    <meta name="description" content="Discover the versatility of metal plate backgrounds for your design needs. Perfect for web and graphic projects, these striking textures add an industrial flair while enhancing visual appeal. Ideal for modern presentations, posters, and more. Transform your visuals with our curated collection of metal plate backgrounds today!">
+                    <meta name="keywords" content="metal plate background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metal-plate-background">
+                            <span itemprop="name">metal plate background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Metal Plate Backgrounds for Your Design Projects</h1>
+                <p>Metal plate backgrounds offer a rugged and industrial aesthetic, perfect for various design projects. Their textured surfaces and cool metallic tones create depth, making them ideal for websites, posters, and presentations. These backgrounds enhance the visual appeal, adding a modern touch to any creative endeavor while emphasizing strength and durability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="199,600+ Steel Plate Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/486407276/photo/scratched-metal-plate.jpg?s=612x612&w=0&k=20&c=287P038f_s7l46bNz5DOCOJckPD8VaM0V_A4c7boPIQ=' alt='199,600+ Steel Plate Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/486407276/photo/scratched-metal-plate.jpg?s=612x612&w=0&k=20&c=287P038f_s7l46bNz5DOCOJckPD8VaM0V_A4c7boPIQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Plate Images – Browse 1,394,320 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/82/29/10/360_F_82291062_Fn4rcArjQpwNj1Vrx6wkA0PgC4pitYzz.jpg' alt='Metal Plate Images – Browse 1,394,320 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/82/29/10/360_F_82291062_Fn4rcArjQpwNj1Vrx6wkA0PgC4pitYzz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural metal plate background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/32/47/43/05/700_FO32474305_eeac912f62c55fdbf48a87509392f88f.jpg,700,565,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,515,jpg)/wall-murals-metal-plate-background.jpg.jpg' alt='Wall Mural metal plate background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/32/47/43/05/700_FO32474305_eeac912f62c55fdbf48a87509392f88f.jpg,700,565,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,515,jpg)/wall-murals-metal-plate-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Metal plate | Download Free Images and Free ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/36351/metal-plate.jpg' alt='Free Stock Photo of Metal plate | Download Free Images and Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/36351/metal-plate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="869 Steel Plate Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/620377910/vector/background-of-metal-diamond-plate-in-silver-color.jpg?s=612x612&w=gi&k=20&c=f3w2SFkkq1ZpLJ8AUXRut2wJaGY70EURVog2XXXAlvI=' alt='869 Steel Plate Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/620377910/vector/background-of-metal-diamond-plate-in-silver-color.jpg?s=612x612&w=gi&k=20&c=f3w2SFkkq1ZpLJ8AUXRut2wJaGY70EURVog2XXXAlvI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal plate grid with circular background texture. 2909735 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/909/735/non_2x/metal-plate-grid-with-circular-background-texture-free-vector.jpg' alt='Metal plate grid with circular background texture. 2909735 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1386">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/909/735/non_2x/metal-plate-grid-with-circular-background-texture-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Plate Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/metallic-background-design_1048-1941.jpg' alt='Metal Plate Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/metallic-background-design_1048-1941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Metal steel plate texture background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/metal-steel-plate-texture-background_293060-5312.jpg' alt='Premium Photo | Metal steel plate texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/metal-steel-plate-texture-background_293060-5312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="630+ Metal Diamond Plate Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/164454376/vector/a-metallic-surface-with-engraved-patterns-for-friction.jpg?s=612x612&w=0&k=20&c=ldN3SkFAmWRmVzG9-C8MwPIwIupiSDVboEqlDFmOE88=' alt='630+ Metal Diamond Plate Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/164454376/vector/a-metallic-surface-with-engraved-patterns-for-friction.jpg?s=612x612&w=0&k=20&c=ldN3SkFAmWRmVzG9-C8MwPIwIupiSDVboEqlDFmOE88=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal plate background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/51/34/metal-plate-background-vector-14925134.jpg' alt='Metal plate background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/51/34/metal-plate-background-vector-14925134.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

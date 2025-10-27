@@ -1,0 +1,129 @@
+<title>Elegant Purple Flower Funeral Backgrounds for Remembrance</title>
+                    <meta name="description" content="Explore beautiful purple flower funeral backgrounds, perfect for honoring loved ones. These serene designs bring elegance and dignity to memorials, creating a comforting atmosphere during times of grief. Discover the beauty and symbolism of purple flowers to celebrate cherished memories.">
+                    <meta name="keywords" content="purple flower funeral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-flower-funeral-background">
+                            <span itemprop="name">purple flower funeral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Flower Funeral Backgrounds for Remembrance</h1>
+                <p>A purple flower funeral background evokes a sense of calm, beauty, and remembrance during a difficult time. The rich, vibrant hues of purple symbolize dignity and respect, making them a fitting choice for commemorating a loved one. These floral arrangements can create a serene atmosphere, honoring memories with elegance and grace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Memorial Background Memorial Button Funeral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50406905/r/il/f07c93/5965768059/il_570xN.5965768059_h9yu.jpg' alt='In Loving Memory Memorial Background Memorial Button Funeral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50406905/r/il/f07c93/5965768059/il_570xN.5965768059_h9yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Background Purple Images – Browse 4,092 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/58/74/45/360_F_658744536_NOsXheGJuEsyHx4OG2kjimvlScOkEP61.jpg' alt='Funeral Background Purple Images – Browse 4,092 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/58/74/45/360_F_658744536_NOsXheGJuEsyHx4OG2kjimvlScOkEP61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Png-purple Flowers Butterfly Memorial Template ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40124995/r/il/0ae378/5165913809/il_570xN.5165913809_rdbr.jpg' alt='In Loving Memory Png-purple Flowers Butterfly Memorial Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40124995/r/il/0ae378/5165913809/il_570xN.5165913809_rdbr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Floral frame pink and purple flowers Memorial Background Heaven  Backdrop Memorial Template Printable digital download png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44964562/r/il/fc2614/5200063224/il_fullxfull.5200063224_co9b.jpg' alt='Pink Purple Floral frame pink and purple flowers Memorial Background Heaven  Backdrop Memorial Template Printable digital download png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44964562/r/il/fc2614/5200063224/il_fullxfull.5200063224_co9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Funeral Flowers Images – Browse 4,862 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/92/87/04/360_F_292870472_5ugse9XOlI9Qcp37NymfRWtoTEVeX3aT.jpg' alt='Purple Funeral Flowers Images – Browse 4,862 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/92/87/04/360_F_292870472_5ugse9XOlI9Qcp37NymfRWtoTEVeX3aT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Funeral Background Images – Browse 4,284 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/77/68/93/360_F_477689387_ScF7wbvJk2UtiwIBeVxaNEZNO8xGIQWr.jpg' alt='Purple Funeral Background Images – Browse 4,284 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/77/68/93/360_F_477689387_ScF7wbvJk2UtiwIBeVxaNEZNO8xGIQWr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Funeral Backgrounds Pictures on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/2f/b0/362fb05251daa982b47d6eb1e90a6c59.jpg' alt='   Funeral Backgrounds Pictures on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/2f/b0/362fb05251daa982b47d6eb1e90a6c59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Background Purple Images – Browse 4,092 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/52/81/70/360_F_352817053_9BxRZKASKzSmuEDzofo666GGQFUcwK5v.jpg' alt='Funeral Background Purple Images – Browse 4,092 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/52/81/70/360_F_352817053_9BxRZKASKzSmuEDzofo666GGQFUcwK5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Purple Funeral Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1218394419/photo/arrangement-of-white-and-pink-chrysanthemum-with-tulle-fabric.jpg?s=612x612&w=0&k=20&c=k4QaVXh9UlovXA9ExVhYeNyN2PX3mlV7eoY387NnNgY=' alt='1,400+ Purple Funeral Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1218394419/photo/arrangement-of-white-and-pink-chrysanthemum-with-tulle-fabric.jpg?s=612x612&w=0&k=20&c=k4QaVXh9UlovXA9ExVhYeNyN2PX3mlV7eoY387NnNgY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Funeral Flowers Images – Browse 4,862 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/88/97/52/360_F_788975243_qn1x90AkZbsv1gA1MX14ObRm2sqw0Iem.jpg' alt='Purple Funeral Flowers Images – Browse 4,862 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/88/97/52/360_F_788975243_qn1x90AkZbsv1gA1MX14ObRm2sqw0Iem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

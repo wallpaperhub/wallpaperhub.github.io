@@ -1,0 +1,129 @@
+<title>Tranquil Blue and White Aesthetic Wallpapers</title>
+                    <meta name="description" content="Explore stunning blue and white aesthetic wallpaper designs that elevate your home decor. Perfect for any room, these gorgeous wallpapers offer a blend of tranquility and style, making it easy to transform your space into a serene retreat. Ideal for creating a calming atmosphere.">
+                    <meta name="keywords" content="blue and white aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/blue-and-white-aesthetic-wallpaper">
+                            <span itemprop="name">blue and white aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tranquil Blue and White Aesthetic Wallpapers</h1>
+                <p>Discover the calming charm of blue and white aesthetic wallpaper. Perfect for adding a serene touch to your space, these designs blend classic elegance with modern appeal. From delicate floral patterns to geometric prints, create a soothing atmosphere that inspires creativity and relaxation in any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Beautiful Abstract Flower Wallpaper - Feathr Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/W19702-Blue-White-Beautiful-Abstract-Flower-Wallpaper-PatternImageLo.jpg' alt='Blue & White Beautiful Abstract Flower Wallpaper - Feathr Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/W19702-Blue-White-Beautiful-Abstract-Flower-Wallpaper-PatternImageLo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Light blue aesthetic ideas | light blue aesthetic, blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ac/e1/f4/ace1f45da205d667ce85923c965cb7e4.jpg' alt='15 Light blue aesthetic ideas | light blue aesthetic, blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2598">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ac/e1/f4/ace1f45da205d667ce85923c965cb7e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue White Floral Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-white-floral-aesthetic-4jpeyeurh5enqqjb.jpg' alt='Download Blue White Floral Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-white-floral-aesthetic-4jpeyeurh5enqqjb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiOOv5lZw/1/0/900w/canva-blue-aesthetic-quotes-phone-wallpaper-Bl-HASWJ5oo.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiOOv5lZw/1/0/900w/canva-blue-aesthetic-quotes-phone-wallpaper-Bl-HASWJ5oo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Aesthetic Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_1080xN.2797031334_6o7a.jpg' alt='Baby Blue Aesthetic Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/9e71de/2797031334/il_1080xN.2797031334_6o7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue wallpaper blue aesthetic blue background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/85/db/cf85dbd8e3e69cd1871afd5002c13187.jpg' alt='Blue wallpaper blue aesthetic blue background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/85/db/cf85dbd8e3e69cd1871afd5002c13187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Blue Aesthetic White Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-pastel-blue-aesthetic-white-flowers-um852x9laaxlsloe.jpg' alt='Cute Pastel Blue Aesthetic White Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-pastel-blue-aesthetic-white-flowers-um852x9laaxlsloe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Aesthetic Background With White Clouds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-aesthetic-background-ccws91q2q0yiu187.jpg' alt='Download Blue Aesthetic Background With White Clouds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-aesthetic-background-ccws91q2q0yiu187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light blue aesthetic wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c7/f6/05/c7f6050d98b4e5b2d5b30ae1e935a552.jpg' alt='Light blue aesthetic wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c7/f6/05/c7f6050d98b4e5b2d5b30ae1e935a552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

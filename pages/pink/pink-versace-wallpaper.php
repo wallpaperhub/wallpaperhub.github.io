@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Pink Versace Wallpaper Inspiration</title>
+                    <meta name="description" content="Discover the luxurious charm of pink Versace wallpaper, perfect for adding a touch of elegance to any room. Explore stunning designs that transform your space into a stylish haven. Ideal for fashion-forward interiors, this wallpaper combines sophistication with vibrant aesthetics. Upgrade your decor today!">
+                    <meta name="keywords" content="pink versace wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-versace-wallpaper">
+                            <span itemprop="name">pink versace wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Pink Versace Wallpaper Inspiration</h1>
+                <p>Transform your space with stunning pink Versace wallpaper, blending luxury and style. Ideal for modern interiors, this wallpaper captures the essence of elegance while adding a vibrant touch. Whether in a bedroom, living room, or boutique, its intricate patterns make a bold statement, ensuring your walls become a reflection of your chic taste.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barocco Metallics by Versace - Rose Pink - Wallpaper - 36692-2">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/159920/main/versace-barocco-metallics-rose-pink-wallpaper-1@lg.webp' alt='Barocco Metallics by Versace - Rose Pink - Wallpaper - 36692-2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/159920/main/versace-barocco-metallics-rose-pink-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versace Rosa">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/49/06/9449060659833eb3ad1ef278e3700050.jpg' alt='Versace Rosa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/49/06/9449060659833eb3ad1ef278e3700050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VERSACE Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/4f/c9/894fc9415c81bd40654fc520c44149a2.jpg' alt='VERSACE Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/4f/c9/894fc9415c81bd40654fc520c44149a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybird Trail by Versace - Pink - Wallpaper - 34325-4">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/143366/tiled/versace-ladybird-trail-pink-wallpaper-tiled-143366.jpg' alt='Ladybird Trail by Versace - Pink - Wallpaper - 34325-4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/143366/tiled/versace-ladybird-trail-pink-wallpaper-tiled-143366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versace's Pink Rose Look For A Fashionable Vibe Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/versace-s-pink-rose-look-for-a-fashionable-vibe-cv76z31y2hc30k37.jpg' alt='Versace's Pink Rose Look For A Fashionable Vibe Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1313">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/versace-s-pink-rose-look-for-a-fashionable-vibe-cv76z31y2hc30k37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="370556 - Versace 4 Ornamental Baroque Pink White AS Creation Wallpaper |  eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/xJMAAOSwccFdTJKg/s-l400.jpg' alt='370556 - Versace 4 Ornamental Baroque Pink White AS Creation Wallpaper |  eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/xJMAAOSwccFdTJKg/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34325-5 Barocco Fuchsia Silver Gray Pink Butterfly Versace Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/343255.jpg?v=1607876580' alt='34325-5 Barocco Fuchsia Silver Gray Pink Butterfly Versace Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/343255.jpg?v=1607876580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baroque Circle Textured Wallpaper in Cream/Multi from the Versace V  Collection">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/387052_800x.jpg?v=1674073375' alt='Baroque Circle Textured Wallpaper in Cream/Multi from the Versace V  Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/387052_800x.jpg?v=1674073375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download “Feel luxurious with Versace” | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/versace-background-zyxxsp5nspzgbpm9.jpg' alt='Download “Feel luxurious with Versace” | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/versace-background-zyxxsp5nspzgbpm9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versace - Virtus Heritage Multi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/387062_orig.jpg' alt='Versace - Virtus Heritage Multi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/387062_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

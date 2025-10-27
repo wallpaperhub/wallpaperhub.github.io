@@ -1,0 +1,129 @@
+<title>Kawaii Blue Wallpaper: Adorable & Playful Designs</title>
+                    <meta name="description" content="Enhance your device with our kawaii blue wallpaper collection! Perfect for those who adore cute designs. Browse playful visuals that brighten your screen and bring joy to your day. Get the cutest wallpapers today!">
+                    <meta name="keywords" content="kawaii cute blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-cute-blue-wallpaper">
+                            <span itemprop="name">kawaii cute blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Blue Wallpaper: Adorable & Playful Designs</h1>
+                <p>Discover the cutest kawaii blue wallpaper that brings a charming touch to your device! Perfect for adding a playful vibe, our collection features adorable characters, whimsical designs, and soothing shades of blue. Elevate your space with these delightful wallpapers, perfect for anyone who loves all things cute and cheerful!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/be/e8/67bee835133389f4ba91a87a314e8aad.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/be/e8/67bee835133389f4ba91a87a314e8aad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii wallpapers page | Hello kitty iphone wallpaper, Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/16/4a/c2164a9dd379b58e01230afd38c17d8c.jpg' alt='Kawaii wallpapers page | Hello kitty iphone wallpaper, Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/16/4a/c2164a9dd379b58e01230afd38c17d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Blue Phone Cat And Fish Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-blue-phone-cat-and-fish-a9uxjccpepmxp7ke.jpg' alt='Cute Blue Phone Cat And Fish Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-blue-phone-cat-and-fish-a9uxjccpepmxp7ke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Check out this cute blue phone that's perfect for every ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/57/2d/a8/572da880cf8a0db6586cc3ea7dc82025.jpg' alt='Download Check out this cute blue phone that's perfect for every ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/57/2d/a8/572da880cf8a0db6586cc3ea7dc82025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 5 | Cute Dark Blue Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-astronaut-cat-kawaii-seamless-pattern_513640-2473.jpg?semt=ais_hybrid' alt='Page 5 | Cute Dark Blue Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-astronaut-cat-kawaii-seamless-pattern_513640-2473.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Transparent Kawaii Toaster Aesthetic Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-transparent-kawaii-toaster-aesthetic-phone-dqe0cdd86glylwih.jpg' alt='Cute Transparent Kawaii Toaster Aesthetic Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-transparent-kawaii-toaster-aesthetic-phone-dqe0cdd86glylwih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFNxmF7M4/1/0/900w/canva-white-blue-soft-cute-clouds-motivational-quote-phone-wallpaper-dQSvLrMIkEs.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFNxmF7M4/1/0/900w/canva-white-blue-soft-cute-clouds-motivational-quote-phone-wallpaper-dQSvLrMIkEs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46 IOS THEME BLUE PASTEL    ideas | baby blue aesthetic, light ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/18/ff/8318ffcbe282d6263b4240b92aaf296d.jpg' alt='46 IOS THEME BLUE PASTEL    ideas | baby blue aesthetic, light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/18/ff/8318ffcbe282d6263b4240b92aaf296d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFHmUyqD_I/1/0/900w/canva-blue-illustrated-blueberries-phone-wallpaper-G_jzQcgJhEs.jpg' alt='Page 2 - Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFHmUyqD_I/1/0/900w/canva-blue-illustrated-blueberries-phone-wallpaper-G_jzQcgJhEs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Aesthetic Blue Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9580983.jpg' alt='Kawaii Aesthetic Blue Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9580983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

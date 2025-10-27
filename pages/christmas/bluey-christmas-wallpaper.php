@@ -1,0 +1,129 @@
+<title>“Festive Bluey Christmas Wallpapers for Your Devices”</title>
+                    <meta name="description" content="Explore a collection of cheerful Bluey Christmas wallpapers to brighten your devices this holiday season. Perfect for fans of all ages, these festive designs bring the magic of Christmas to your screens. Download your favorites and share the joy with your loved ones!">
+                    <meta name="keywords" content="bluey christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/bluey-christmas-wallpaper">
+                            <span itemprop="name">bluey christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Festive Bluey Christmas Wallpapers for Your Devices”</h1>
+                <p>Transform your devices this holiday season with delightful "Bluey" Christmas wallpaper! Celebrate the joy and warmth of the festive season with vibrant designs featuring your favorite characters. Whether you’re decorating your phone, tablet, or computer, these wallpapers are perfect for bringing cheerful vibes to your screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's Christmas Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/11/wallpaper4.jpg' alt='Bluey's Christmas Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/11/wallpaper4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Bluey Christmas Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/12/Group-2.jpg' alt='More Bluey Christmas Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/12/Group-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its a Bluey Christmas Bluey Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/54/6a/8b546aa156c81999d9b130d46196e58d.jpg' alt='Its a Bluey Christmas Bluey Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/54/6a/8b546aa156c81999d9b130d46196e58d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Bluey Christmas Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/12/BB.jpg' alt='More Bluey Christmas Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/12/BB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Christmas backgrounds I found online.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10221085798855029' alt='Bluey Christmas backgrounds I found online.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10221085798855029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some christmas wallpapers I found online for anyone who wants them ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-christmas-wallpapers-i-found-online-for-anyone-who-v0-ce1pzozo643c1.jpg?width=701&format=pjpg&auto=webp&s=6bc844178b934a2bad16094fb0922dde1dedb031' alt='Some christmas wallpapers I found online for anyone who wants them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-christmas-wallpapers-i-found-online-for-anyone-who-v0-ce1pzozo643c1.jpg?width=701&format=pjpg&auto=webp&s=6bc844178b934a2bad16094fb0922dde1dedb031' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's Christmas Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/11/Header.jpg' alt='Bluey's Christmas Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/11/Header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bluey #christmas #bingo #blueyandbingo #bandit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/78/fb/b078fb405e56d356edc3f5202a149cb9.jpg' alt='bluey #christmas #bingo #blueyandbingo #bandit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/78/fb/b078fb405e56d356edc3f5202a149cb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Christmas wallpapers : r/bluey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/official-christmas-wallpapers-v0-lwrbq20so54c1.jpg?width=1080&format=pjpg&auto=webp&s=085b8e1105d3ef5c7e7591a28ab1623a6aec9e3c' alt='Official Christmas wallpapers : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/official-christmas-wallpapers-v0-lwrbq20so54c1.jpg?width=1080&format=pjpg&auto=webp&s=085b8e1105d3ef5c7e7591a28ab1623a6aec9e3c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Christmas backgrounds I found online.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10221085796494970' alt='Bluey Christmas backgrounds I found online.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10221085796494970' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

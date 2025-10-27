@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="where does the yellow wallpaper take place">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/where-does-the-yellow-wallpaper-take-place">
+                            <span itemprop="name">where does the yellow wallpaper take place</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' alt='The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary & Plot Diagram Activity">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.webp' alt='The Yellow Wallpaper Summary & Plot Diagram Activity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/40/The_Yellow_Wall_Paper_pg_1.jpg' alt='The Yellow Wallpaper - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2627">
+                                <meta itemprop="height" content="3959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/40/The_Yellow_Wall_Paper_pg_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:470/1*n6Dbw8pJQNPt_SvjoayF2Q@2x.jpeg' alt='The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:470/1*n6Dbw8pJQNPt_SvjoayF2Q@2x.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Literawiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/literature/images/7/74/YesserinaYellowWallpaper.jpg/revision/latest?cb=20160120074246' alt='The Yellow Wallpaper | Literawiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Literawiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/literature/images/7/74/YesserinaYellowWallpaper.jpg/revision/latest?cb=20160120074246' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Character Evolution Analysis">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/character-evolution-in--the-yellow-wall-paper-.png' alt='The Yellow Wallpaper | Character Evolution Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2058">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/character-evolution-in--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper By Charlotte Perkins Gilman">
+                                <img itemprop="contentUrl url" src='https://soothingstoriespodcast.com/wp-content/uploads/2021/03/Yellow-Wallpaper-1024x683.jpg' alt='The Yellow Wallpaper By Charlotte Perkins Gilman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soothing Stories Podcast" />
+                                </span>
+                                <a href='https://soothingstoriespodcast.com/wp-content/uploads/2021/03/Yellow-Wallpaper-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary and Analysis - College Transitions">
+                                <img itemprop="contentUrl url" src='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' alt='The Yellow Wallpaper Summary and Analysis - College Transitions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Transitions" />
+                                </span>
+                                <a href='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes, Symbols & Motifs Activity for The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' alt='Themes, Symbols & Motifs Activity for The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hysterical Dissociation and The Yellow Wallpaper – Shelly ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/20158/files/2021/12/the-yellow-wallpaper-wallpaper.jpeg' alt='Hysterical Dissociation and The Yellow Wallpaper – Shelly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelly Astudillos Portfolio - CUNY" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/20158/files/2021/12/the-yellow-wallpaper-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

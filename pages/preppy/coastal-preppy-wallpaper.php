@@ -1,0 +1,129 @@
+<title>Coastal Preppy Wallpaper: Nautical Style for Every Room</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="coastal preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/coastal-preppy-wallpaper">
+                            <span itemprop="name">coastal preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coastal Preppy Wallpaper: Nautical Style for Every Room</h1>
+                <p>Coastal preppy wallpaper brings a fresh, nautical vibe to your space, combining vibrant colors and classic patterns. Ideal for beach houses or casual dining rooms, these wallpapers often feature designs like stripes, anchors, and seashells. Transform your home into a chic coastal getaway with this stylish decor option!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy beach aesthetic photo collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/15/eb/6215ebbfad96673448a1a9293a1f93d7.jpg' alt='preppy beach aesthetic photo collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/15/eb/6215ebbfad96673448a1a9293a1f93d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-beach-aesthetic-collage-jpg-hjoaoaf5uqyxadda.jpg' alt='100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-beach-aesthetic-collage-jpg-hjoaoaf5uqyxadda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/94/14/ff941466e3ef1e1bfd9c834b4faa8c8b.jpg' alt='Backgrounds!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/94/14/ff941466e3ef1e1bfd9c834b4faa8c8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-beach-aesthetic-collage-jpg-are6yswk44qcevlf.jpg' alt='100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-beach-aesthetic-collage-jpg-are6yswk44qcevlf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper *beach vibes*       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/75/61/b47561b3843f33bcc3389a3e7d947375.jpg' alt='Preppy wallpaper *beach vibes*       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/75/61/b47561b3843f33bcc3389a3e7d947375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Lobster Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16682512/p/f/m/_Jx2GezpOn35VJRMy1KWqQf5288pg6eORH8YecHbBW8832gIpab0/Large%20Under%20the%20sea%20-%20Blue%20and%20white%20-%20Beach%20life%20-%20Seahorses%20seahorse%20Sea%20Horse%20starfish%20shells%20seashells%20Seaweed%20lobster%20crab%20-%20Nautical%20Preppy%20-%20Coastal%20Sealife%20Sea%20Ocean%20Maritime%20-%20kids%20childrens%20nursery%20baby%20boy%20painterly%20shellfish.jpg' alt='Preppy Lobster Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16682512/p/f/m/_Jx2GezpOn35VJRMy1KWqQf5288pg6eORH8YecHbBW8832gIpab0/Large%20Under%20the%20sea%20-%20Blue%20and%20white%20-%20Beach%20life%20-%20Seahorses%20seahorse%20Sea%20Horse%20starfish%20shells%20seashells%20Seaweed%20lobster%20crab%20-%20Nautical%20Preppy%20-%20Coastal%20Sealife%20Sea%20Ocean%20Maritime%20-%20kids%20childrens%20nursery%20baby%20boy%20painterly%20shellfish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-beach-aesthetic-palm-shade-jpg-jhugy13ua60ujong.jpg' alt='100+] Aesthetic Preppy Beach Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-beach-aesthetic-palm-shade-jpg-jhugy13ua60ujong.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy summer wallpapers | Gallery posted by   Nikki   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-lemon8-sign-va.tiktokcdn-us.com/user-avatar-musically/02eeed5dad22d4f85951ec4678cdc9eb~tplv-tej9nj120t-shrink:1200:0:q75.webp?lk3s=d32e6450&source=ui_avatar&x-expires=1743336000&x-signature=NMpu80BYutDkNd02KH%2BduH9gfX8%3D' alt='Preppy summer wallpapers | Gallery posted by   Nikki   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1163">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-lemon8-sign-va.tiktokcdn-us.com/user-avatar-musically/02eeed5dad22d4f85951ec4678cdc9eb~tplv-tej9nj120t-shrink:1200:0:q75.webp?lk3s=d32e6450&source=ui_avatar&x-expires=1743336000&x-signature=NMpu80BYutDkNd02KH%2BduH9gfX8%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy beach wallpaper    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/77/9e/08779ed2713819533b165ac146fb5e3f.jpg' alt='Preppy beach wallpaper    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/77/9e/08779ed2713819533b165ac146fb5e3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I’m Backkkk | ~ | #fyp #preppy #beachthemed #beachy #wallpapers #foryou  #blowthisup #foryoupage #aesthetic #blue #ocean #newvideo">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7245662770153278762&location=0&aid=1988' alt='I’m Backkkk | ~ | #fyp #preppy #beachthemed #beachy #wallpapers #foryou  #blowthisup #foryoupage #aesthetic #blue #ocean #newvideo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7245662770153278762&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

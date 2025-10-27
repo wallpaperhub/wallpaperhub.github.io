@@ -1,0 +1,129 @@
+<title>Gulati Printografix: Premium Flex Printing Solutions</title>
+                    <meta name="description" content="Discover Gulati Printografix for top-notch flex printing that enhances your brand visibility. We offer customized, durable prints for banners and signage, ensuring vibrant colors and exceptional quality. Contact us today for unmatched printing solutions that elevate your business presence!">
+                    <meta name="keywords" content="gulati printografix - flex printing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/gulati-printografix---flex-printing">
+                            <span itemprop="name">gulati printografix - flex printing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gulati Printografix: Premium Flex Printing Solutions</h1>
+                <p>Gulati Printografix specializes in high-quality flex printing solutions tailored to meet diverse client needs. With state-of-the-art technology and a dedicated team, we ensure vibrant, durable prints suitable for banners, signage, and more. Elevate your brand visibility with our unbeatable flex printing services today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulati Printografix">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064109290202' alt='Gulati Printografix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064109290202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...">
+                                <img itemprop="contentUrl url" src='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-ozls581tx9.jpg' alt='Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1234">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Justdial" />
+                                </span>
+                                <a href='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-ozls581tx9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulatiprintografix – We Print What You Think">
+                                <img itemprop="contentUrl url" src='https://gulatiprintografix.com/wp-content/uploads/2024/01/cropped-Logo.png' alt='Gulatiprintografix – We Print What You Think'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="881">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gulatiprintografix.com" />
+                                </span>
+                                <a href='https://gulatiprintografix.com/wp-content/uploads/2024/01/cropped-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#instagram #design #flexprinting #flexprinting #instavlog">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3553273144087735382' alt='#instagram #design #flexprinting #flexprinting #instavlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3553273144087735382' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#flexprinting #ledboards #ledletters #design | Gulati Printografix |  Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=405390059134244&get_thumbnail=1' alt='#flexprinting #ledboards #ledletters #design | Gulati Printografix |  Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=405390059134244&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitesh Gulati (@gulatiprintografix) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3536502992319267226' alt='Hitesh Gulati (@gulatiprintografix) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3536502992319267226' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...">
+                                <img itemprop="contentUrl url" src='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-qk5d6j771m.jpg' alt='Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Justdial" />
+                                </span>
+                                <a href='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-qk5d6j771m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulatiprintografix – We Print What You Think">
+                                <img itemprop="contentUrl url" src='https://gulatiprintografix.com/wp-content/uploads/2024/02/imgpsh_fullsize_anim.png' alt='Gulatiprintografix – We Print What You Think'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="2740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gulatiprintografix.com" />
+                                </span>
+                                <a href='https://gulatiprintografix.com/wp-content/uploads/2024/02/imgpsh_fullsize_anim.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Wishing you a Diwali filled with successful ventures, joyous moments, and  an abundance of wealth.", #diwali #happydiwali #festival #india  #diwalidecorations #diwaligifts #love #instagram #diwalivibes ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3490849068789878316' alt='"Wishing you a Diwali filled with successful ventures, joyous moments, and  an abundance of wealth.", #diwali #happydiwali #festival #india  #diwalidecorations #diwaligifts #love #instagram #diwalivibes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3490849068789878316' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...">
+                                <img itemprop="contentUrl url" src='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-rngu45lzo1.jpg' alt='Gulati Printografix in Jalandhar City, Jalandhar - Best Flex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Justdial" />
+                                </span>
+                                <a href='https://images.jdmagicbox.com/comp/jalandhar/b1/0181px181.x181.210814175724.g9b1/catalogue/gulati-printografix-jalandhar-city-jalandhar-flex-printing-services-rngu45lzo1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

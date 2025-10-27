@@ -1,0 +1,129 @@
+<title>MTV’s First Song: The Impact of “Video Killed the Radio Star”</title>
+                    <meta name="description" content="Discover the groundbreaking moment when MTV launched with "Video Killed the Radio Star" by The Buggles. Explore how this landmark song transformed the music industry and defined a generation, shaping the way artists connect with fans through video. A must-read for music enthusiasts!">
+                    <meta name="keywords" content="first song on mtv">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/first-song-on-mtv">
+                            <span itemprop="name">first song on mtv</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>MTV’s First Song: The Impact of “Video Killed the Radio Star”</h1>
+                <p>The first song aired on MTV was "Video Killed the Radio Star" by The Buggles on August 1, 1981. This iconic moment marked the beginning of a new era in music, where video became a crucial medium for artists to showcase their work. The song's catchy tune and the revolutionary concept of a music video captivated audiences, setting the stage for MT's cultural impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Killed the Radio Star': 34th Anniversary of Music Video on ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/55bb92c2ecad048d03b90fe0?width=700' alt='Video Killed the Radio Star': 34th Anniversary of Music Video on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/55bb92c2ecad048d03b90fe0?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Buggles - Video Killed The Radio Stars (First video clip ever played on  MTV) #mtv">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/N09Mp0C5qtI/sddefault.jpg?v=643839d7' alt='The Buggles - Video Killed The Radio Stars (First video clip ever played on  MTV) #mtv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/N09Mp0C5qtI/sddefault.jpg?v=643839d7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first music video to be aired on MTV">
+                                <img itemprop="contentUrl url" src='https://faroutmagazine.co.uk/static/uploads/1/2022/11/The-first-music-video-to-be-aired-on-MTV.jpg' alt='The first music video to be aired on MTV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Far Out Magazine" />
+                                </span>
+                                <a href='https://faroutmagazine.co.uk/static/uploads/1/2022/11/The-first-music-video-to-be-aired-on-MTV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Killed the Radio Star - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Buggles_Video_Killed_the_Radio_Star.png/310px-Buggles_Video_Killed_the_Radio_Star.png' alt='Video Killed the Radio Star - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Buggles_Video_Killed_the_Radio_Star.png/310px-Buggles_Video_Killed_the_Radio_Star.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First 100 Videos Played On MTV - JME - The Jacksonville Music ...">
+                                <img itemprop="contentUrl url" src='https://jaxmusic.org/wp-content/uploads/2021/07/20210729_mtv_stillframe_v1_wide-bece2f2878b158248e3a9f186ee028e3dedc7f8c.jpg' alt='The First 100 Videos Played On MTV - JME - The Jacksonville Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1917">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Jacksonville Music Experience" />
+                                </span>
+                                <a href='https://jaxmusic.org/wp-content/uploads/2021/07/20210729_mtv_stillframe_v1_wide-bece2f2878b158248e3a9f186ee028e3dedc7f8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First 90 Seconds of MTV | August 1, 1981   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/G3SVhb48MUc/sddefault.jpg' alt='The First 90 Seconds of MTV | August 1, 1981   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/G3SVhb48MUc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy 35th Birthday, MTV: Here's the First Music Video You Ever ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/Video-Killed-the-Radio-Star-still-billboard-1548.jpg?w=942&h=623&crop=1' alt='Happy 35th Birthday, MTV: Here's the First Music Video You Ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/Video-Killed-the-Radio-Star-still-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of First 25 Videos Played on MTV - HubPages">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk4Mjc3MzAyNjU4ODAzMjQ2/list-of-first-25-videos-played-on-mtv.jpg' alt='List of First 25 Videos Played on MTV - HubPages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk4Mjc3MzAyNjU4ODAzMjQ2/list-of-first-25-videos-played-on-mtv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When MTV Was Still Finding Its Footing">
+                                <img itemprop="contentUrl url" src='https://sydurbanek.ghost.io/content/images/size/w960/2021/08/mtv-astronaut.jpg' alt='When MTV Was Still Finding Its Footing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mononym Mythology - Ghost" />
+                                </span>
+                                <a href='https://sydurbanek.ghost.io/content/images/size/w960/2021/08/mtv-astronaut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Buggles - Video Killed The Radio Star (Official Music Video)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W8r-tXRLazs/mqdefault.jpg' alt='The Buggles - Video Killed The Radio Star (Official Music Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W8r-tXRLazs/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

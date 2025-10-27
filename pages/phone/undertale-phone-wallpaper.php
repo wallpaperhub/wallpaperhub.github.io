@@ -1,0 +1,129 @@
+<title>Cool Undertale Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover amazing Undertale phone wallpapers featuring your favorite characters. Perfect for fans looking to personalize their devices with unique, high-quality designs. Download now and bring the essence of Undertale to your screen!">
+                    <meta name="keywords" content="undertale phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/undertale-phone-wallpaper">
+                            <span itemprop="name">undertale phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Undertale Phone Wallpapers for Fans</h1>
+                <p>Transform your phone's screen with stunning Undertale wallpapers! Featuring your favorite characters like Sans, Papyrus, and Frisk, these wallpapers capture the game's unique art style and emotional depth. Ideal for fans, each design brings the magic of Undertale to your device. Customize your experience and show off your fandom today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I tried making a phone wallpaper, hope it turned out nice! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aktikewaw0r21.jpg' alt='I tried making a phone wallpaper, hope it turned out nice! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aktikewaw0r21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some mobile wallpapers. Enjoy! : r/Undertale">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ifk415i9thx71.png' alt='Here are some mobile wallpapers. Enjoy! : r/Undertale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="3345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ifk415i9thx71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 Best Undertale phone backgrounds ideas | undertale, undertale ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/3f/5c/1e3f5c1e2991cec750db570ba271d178.jpg' alt='260 Best Undertale phone backgrounds ideas | undertale, undertale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/3f/5c/1e3f5c1e2991cec750db570ba271d178.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD undertale wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/559/218/HD-wallpaper-undertale-undertale-thumbnail.jpg' alt='HD undertale wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/559/218/HD-wallpaper-undertale-undertale-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Determined! - Phone Wallpaper : r/Undertale">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Dok5KEQKSmT2dV5ac2ZnSUJwYxv8SHWgibCQh9oX2kM.jpg?auto=webp&s=e5893baa90d47133a4f9ff521839c37c0134d20b' alt='Stay Determined! - Phone Wallpaper : r/Undertale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Dok5KEQKSmT2dV5ac2ZnSUJwYxv8SHWgibCQh9oX2kM.jpg?auto=webp&s=e5893baa90d47133a4f9ff521839c37c0134d20b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Phone Cave iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/45/af/7d45af56220b07b43df55d02ce5dc88d.jpg' alt='Undertale Phone Cave iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/45/af/7d45af56220b07b43df55d02ce5dc88d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale phone Wallpaper by Dismoralus on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836ebfba-9435-4758-a4ea-8685cdddf5da/ddyues6-ec5b4a48-b41f-4a44-9504-761365cc46be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmViZmJhLTk0MzUtNDc1OC1hNGVhLTg2ODVjZGRkZjVkYVwvZGR5dWVzNi1lYzViNGE0OC1iNDFmLTRhNDQtOTUwNC03NjEzNjVjYzQ2YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0x80ZAoBNknkVtCD_gc7dsfFfd0Q9aIAhhHgkzEVVP0' alt='Undertale phone Wallpaper by Dismoralus on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836ebfba-9435-4758-a4ea-8685cdddf5da/ddyues6-ec5b4a48-b41f-4a44-9504-761365cc46be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmViZmJhLTk0MzUtNDc1OC1hNGVhLTg2ODVjZGRkZjVkYVwvZGR5dWVzNi1lYzViNGE0OC1iNDFmLTRhNDQtOTUwNC03NjEzNjVjYzQ2YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0x80ZAoBNknkVtCD_gc7dsfFfd0Q9aIAhhHgkzEVVP0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sans (Undertale) Video Game Undertale Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/757/757232.jpg' alt='Download Sans (Undertale) Video Game Undertale Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/757/757232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5189306.jpg' alt='Undertale Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5189306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 Best Undertale phone backgrounds ideas | undertale, undertale ...">
+                                <img itemprop="contentUrl url" src='https://68.media.tumblr.com/bb725090f193be7347020afc901512f8/tumblr_o02t9zN7hG1u4xw8io1_1280.jpg' alt='260 Best Undertale phone backgrounds ideas | undertale, undertale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://68.media.tumblr.com/bb725090f193be7347020afc901512f8/tumblr_o02t9zN7hG1u4xw8io1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

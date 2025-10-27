@@ -1,0 +1,129 @@
+<title>Discover the Enchanting World of Magical Girls</title>
+                    <meta name="description" content="Dive into the captivating universe of magical girls! Explore their origins, powers, and the themes of friendship, hope, and courage that inspire countless fans. Perfect for both newcomers and long-time enthusiasts, this guide unravels the charm and magic behind your favorite heroines!">
+                    <meta name="keywords" content="magical girl background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/magical-girl-background">
+                            <span itemprop="name">magical girl background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchanting World of Magical Girls</h1>
+                <p>Magical girls often originate from ordinary lives, where a moment of enchantment transforms them into heroines. They gain powers through mystical artifacts, embodying hope and friendship while fighting dark forces. This genre captivates audiences by blending fantasy with relatable themes of growth, camaraderie, and self-discovery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girl Background | Infinite Closet: Neopets customization ...">
+                                <img itemprop="contentUrl url" src='https://impress-2020.openneo.net/api/assetImage?libraryUrl=https%3A%2F%2Fimages.neopets.com%2Fcp%2Fitems%2Fdata%2F000%2F000%2F753%2F753590%2Fall-background.js%3Fv%3D5d7cbb09a7&size=600' alt='Magical Girl Background | Infinite Closet: Neopets customization ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dress to Impress" />
+                                </span>
+                                <a href='https://impress-2020.openneo.net/api/assetImage?libraryUrl=https%3A%2F%2Fimages.neopets.com%2Fcp%2Fitems%2Fdata%2F000%2F000%2F753%2F753590%2Fall-background.js%3Fv%3D5d7cbb09a7&size=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Magical Girl Background by Yuni-Naoki on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2aa5a8b8-67eb-4aec-ba55-cfba0e4ef9cd/dd1yzdd-6250c5e0-7512-4e34-8272-85f4389ea9db.jpg/v1/fill/w_900,h_660,q_75,strp/pink_magical_girl_background_by_yuni_naoki_dd1yzdd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYwIiwicGF0aCI6IlwvZlwvMmFhNWE4YjgtNjdlYi00YWVjLWJhNTUtY2ZiYTBlNGVmOWNkXC9kZDF5emRkLTYyNTBjNWUwLTc1MTItNGUzNC04MjcyLTg1ZjQzODllYTlkYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uHu4mys-xVStcd5z63VQfDDOJ5-XZ6jw5FAI4aaH--w' alt='Pink Magical Girl Background by Yuni-Naoki on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2aa5a8b8-67eb-4aec-ba55-cfba0e4ef9cd/dd1yzdd-6250c5e0-7512-4e34-8272-85f4389ea9db.jpg/v1/fill/w_900,h_660,q_75,strp/pink_magical_girl_background_by_yuni_naoki_dd1yzdd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYwIiwicGF0aCI6IlwvZlwvMmFhNWE4YjgtNjdlYi00YWVjLWJhNTUtY2ZiYTBlNGVmOWNkXC9kZDF5emRkLTYyNTBjNWUwLTc1MTItNGUzNC04MjcyLTg1ZjQzODllYTlkYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uHu4mys-xVStcd5z63VQfDDOJ5-XZ6jw5FAI4aaH--w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical girl transformation 2 by kryscolour | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/71/35/e4/7135e4bd17c3f43f376433f68d0f7e8d.jpg' alt='Magical girl transformation 2 by kryscolour | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/71/35/e4/7135e4bd17c3f43f376433f68d0f7e8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girl Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148902686.jpg' alt='Magical Girl Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148902686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madd .❀。• *₊ on X: "drawing a magical girl transformation ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GOyoqO0WwAArZEY.jpg:large' alt='Madd .❀。• *₊ on X: "drawing a magical girl transformation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GOyoqO0WwAArZEY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girl Background | Backgrounds list | Gallery | Girls Band ...">
+                                <img itemprop="contentUrl url" src='https://i.bandori.party/u/asset/gUcvfQMagical-Girl-Background-Q8NCKD.png' alt='Magical Girl Background | Backgrounds list | Gallery | Girls Band ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandori Party" />
+                                </span>
+                                <a href='https://i.bandori.party/u/asset/gUcvfQMagical-Girl-Background-Q8NCKD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girl Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220716/original/pngtree-girl-lovely-magic-background-picture-image_1635821.jpg' alt='Magical Girl Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220716/original/pngtree-girl-lovely-magic-background-picture-image_1635821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="573,906 Magic Girl Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/rainbow-unicorn-background-clouds-stars-260nw-2185485125.jpg' alt='573,906 Magic Girl Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/rainbow-unicorn-background-clouds-stars-260nw-2185485125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girls Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11298943/p/f/m/-l9tnDnEHiT-3Z4pjKHMyVLwyKlwR-7RyHWHipbypFVjk7seCHNdzc7oSQ/Magical%20Girl.jpg' alt='Magical Girls Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11298943/p/f/m/-l9tnDnEHiT-3Z4pjKHMyVLwyKlwR-7RyHWHipbypFVjk7seCHNdzc7oSQ/Magical%20Girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Girl Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/124/791/small/free-vector-pixie-dust-background.jpg' alt='Magical Girl Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/124/791/small/free-vector-pixie-dust-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

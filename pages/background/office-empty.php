@@ -1,0 +1,129 @@
+<title>Finding Insights in an Empty Office</title>
+                    <meta name="description" content="Discover the potential of an empty office setting. Explore how stillness can foster creativity and allow for introspection, providing a unique opportunity to rethink office dynamics and cultivate inspiration in a serene environment.">
+                    <meta name="keywords" content="office empty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/office-empty">
+                            <span itemprop="name">office empty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Finding Insights in an Empty Office</h1>
+                <p>An empty office can evoke various feelings, from loneliness to a peaceful ambiance. It signifies a pause in daily hustle, offering a chance to reflect and recharge. With chairs unoccupied and desks bare, the space transforms into a canvas, waiting for ideas and collaborations to fill it. Embrace the quiet; inspiration often thrives in stillness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Offices Are Empty. What's Next? | Nasdaq">
+                                <img itemprop="contentUrl url" src='https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2022/04/08/empty-office-sergey-nivens-adobe.jpeg?h=8165685c&itok=H9VggmrH' alt='Offices Are Empty. What's Next? | Nasdaq'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nasdaq" />
+                                </span>
+                                <a href='https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2022/04/08/empty-office-sergey-nivens-adobe.jpeg?h=8165685c&itok=H9VggmrH' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty office buildings litter U.S. cities. What happens next is up ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2024/02/13/gettyimages-91524125_custom-5be113d64599152d8b3dff2f530ab5fb7d4d5f11.jpg' alt='Empty office buildings litter U.S. cities. What happens next is up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4915">
+                                <meta itemprop="height" content="3690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2024/02/13/gettyimages-91524125_custom-5be113d64599152d8b3dff2f530ab5fb7d4d5f11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five ideas to make use of empty office space">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6071145c72cc4375f77ec6fe/608a5d6837f88e9f4fa87c57_60823ab713ca2e84b5b03f5e_smart-building-28-dec.jpeg' alt='Five ideas to make use of empty office space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Booqed" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6071145c72cc4375f77ec6fe/608a5d6837f88e9f4fa87c57_60823ab713ca2e84b5b03f5e_smart-building-28-dec.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty Office Images – Browse 3,015,369 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/44/67/92/360_F_444679273_dLQHT4Gn2cXtf76hHi0kHGpfiAU0cbSf.jpg' alt='Empty Office Images – Browse 3,015,369 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/44/67/92/360_F_444679273_dLQHT4Gn2cXtf76hHi0kHGpfiAU0cbSf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Agencies Maintain Millions of Square Feet of Unused Office ...">
+                                <img itemprop="contentUrl url" src='https://reason.com/wp-content/uploads/2023/10/dreamstime_xl_103919715-scaled.jpg' alt='Federal Agencies Maintain Millions of Square Feet of Unused Office ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reason Magazine" />
+                                </span>
+                                <a href='https://reason.com/wp-content/uploads/2023/10/dreamstime_xl_103919715-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happens to all the empty office space? - Edmond Business">
+                                <img itemprop="contentUrl url" src='https://edmondbusiness.com/wp-content/uploads/2020/01/Empty-office-space.jpg' alt='What happens to all the empty office space? - Edmond Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edmond Business" />
+                                </span>
+                                <a href='https://edmondbusiness.com/wp-content/uploads/2020/01/Empty-office-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty Offices? Here's How to Fill Them Without Mandates | Robin">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/632a1c3a87ee2760b99c5b3c/64ecebbd2bd7140df514db40_empty-office.jpeg' alt='Empty Offices? Here's How to Fill Them Without Mandates | Robin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robin Powered" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/632a1c3a87ee2760b99c5b3c/64ecebbd2bd7140df514db40_empty-office.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My office has been empty since March 2020. I am the only person ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nf564t8h9ig91.jpg' alt='My office has been empty since March 2020. I am the only person ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nf564t8h9ig91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty offices do not need to mean empty office culture | Campaign US">
+                                <img itemprop="contentUrl url" src='https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/OMC/GettyImages-170244210.jpg' alt='Empty offices do not need to mean empty office culture | Campaign US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1222">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campaign US" />
+                                </span>
+                                <a href='https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/OMC/GettyImages-170244210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Creative Ways to Recoup Costs of Empty Office Space">
+                                <img itemprop="contentUrl url" src='https://adforminteriors.com/wp-content/uploads/2022/06/Repurposing-Empty-Office-Space-scaled.jpeg' alt='Five Creative Ways to Recoup Costs of Empty Office Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adform Interiors" />
+                                </span>
+                                <a href='https://adforminteriors.com/wp-content/uploads/2022/06/Repurposing-Empty-Office-Space-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

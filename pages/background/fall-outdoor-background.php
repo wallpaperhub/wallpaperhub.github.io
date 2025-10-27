@@ -1,0 +1,129 @@
+<title>Stunning Fall Outdoor Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover breathtaking fall outdoor backgrounds, perfect for photography and autumn adventures. Embrace nature’s vibrant hues and enjoy the beauty of the season with stunning landscapes that enhance any outdoor experience.">
+                    <meta name="keywords" content="fall outdoor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-outdoor-background">
+                            <span itemprop="name">fall outdoor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall Outdoor Backgrounds for Every Occasion</h1>
+                <p>As autumn arrives, outdoor backgrounds transform with vibrant hues of red, orange, and gold. Trees shed their leaves, creating a picturesque scene perfect for photography or relaxation. Crisp air and the sound of rustling foliage add to the charm. Enjoy this seasonal beauty with nature walks, picnics, or simply soaking in the stunning views.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CSFOTO Polyester 5x3ft Autumn Backdrop Fall Leaves Water Lake  Sunset Fall Background Autumn Outdoors Holiday Vacation Tourism Photo ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rlJmT4ZnL.jpg' alt='Amazon.com : CSFOTO Polyester 5x3ft Autumn Backdrop Fall Leaves Water Lake  Sunset Fall Background Autumn Outdoors Holiday Vacation Tourism Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rlJmT4ZnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Outdoor Road Scene Photo Backdrop D817">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/D817-1.jpg?v=1654935165' alt='Fall Outdoor Road Scene Photo Backdrop D817'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/D817-1.jpg?v=1654935165' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="246,100+ Outdoor Fall Decor Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1029169532/photo/wooden-table-with-orange-leaves-autumn-background.jpg?s=612x612&w=0&k=20&c=yeuVz-qvQh1Q5o8ezY8doGqvalEwDoNTvwE6w150I68=' alt='246,100+ Outdoor Fall Decor Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1029169532/photo/wooden-table-with-orange-leaves-autumn-background.jpg?s=612x612&w=0&k=20&c=yeuVz-qvQh1Q5o8ezY8doGqvalEwDoNTvwE6w150I68=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SJOLOON Fall Photography Backdrop Autumn Backdrop Fallen Leaves Real  Natural Landscape Photography Background for Party Decoration Banner Baby  Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813M1HFyy9L._AC_UF894,1000_QL80_.jpg' alt='SJOLOON Fall Photography Backdrop Autumn Backdrop Fallen Leaves Real  Natural Landscape Photography Background for Party Decoration Banner Baby  Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813M1HFyy9L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scenic Autumn Outdoor Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2198009967/display_1500/stock-photo-autumn-forest-path-orange-color-tree-red-brown-maple-leaves-in-fall-city-park-nature-scene-in-2198009967.jpg' alt='Scenic Autumn Outdoor Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2198009967/display_1500/stock-photo-autumn-forest-path-orange-color-tree-red-brown-maple-leaves-in-fall-city-park-nature-scene-in-2198009967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeele 10x6.5ft Autumn Background for Photography Outdoor Natural Fall  Forest Trees Fallen Leaves Landscape Photo Backdrop Kid Girl Boy Adult  Portrait ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61hLM2Tg8GL._AC_UF894,1000_QL80_.jpg' alt='Yeele 10x6.5ft Autumn Background for Photography Outdoor Natural Fall  Forest Trees Fallen Leaves Landscape Photo Backdrop Kid Girl Boy Adult  Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61hLM2Tg8GL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,100+ Fall Outdoor Table Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/822623640/photo/empty-wooden-table-over-the-autumn-landscape.jpg?s=612x612&w=0&k=20&c=ANGgVCKidU4uhLgCXuSlHlUrNl2bQ7L-uhJx2WNZiEk=' alt='4,100+ Fall Outdoor Table Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/822623640/photo/empty-wooden-table-over-the-autumn-landscape.jpg?s=612x612&w=0&k=20&c=ANGgVCKidU4uhLgCXuSlHlUrNl2bQ7L-uhJx2WNZiEk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves In Frame Outdoor With Blurred Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/seenad/seenad1609/seenad160900192/64143380-autumn-leaves-in-frame-outdoor-with-blurred-background.jpg' alt='Autumn Leaves In Frame Outdoor With Blurred Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/seenad/seenad1609/seenad160900192/64143380-autumn-leaves-in-frame-outdoor-with-blurred-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeele 10x6.5ft Autumn Background for Photography Outdoor Natural Fall  Forest Trees Park Landscape Photo Backdrop Kid Girl Boy Adult Portrait  Photo ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/611HU6l38TL._AC_UF894,1000_QL80_.jpg' alt='Yeele 10x6.5ft Autumn Background for Photography Outdoor Natural Fall  Forest Trees Park Landscape Photo Backdrop Kid Girl Boy Adult Portrait  Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/611HU6l38TL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall outside Stock Photos, Royalty Free Fall outside Images ...">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1177973/9529/i/450/depositphotos_95292698-stock-photo-beautiful-autumnal-park.jpg' alt='Fall outside Stock Photos, Royalty Free Fall outside Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1177973/9529/i/450/depositphotos_95292698-stock-photo-beautiful-autumnal-park.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

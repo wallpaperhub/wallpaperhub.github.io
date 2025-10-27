@@ -1,0 +1,129 @@
+<title>Fondos Navideños Elegantes para Celebraciones con Estilo</title>
+                    <meta name="description" content="Descubre los fondos navideños elegantes que transformarán tu hogar estas fiestas. Con colores sofisticados y un diseño minimalista, crea un ambiente acogedor y festivo. Ideal para momentos inolvidables con tus seres queridos. ¡Haz de tu celebración algo especial!">
+                    <meta name="keywords" content="fondos navideos elegantes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fondos-navideos-elegantes">
+                            <span itemprop="name">fondos navideos elegantes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fondos Navideños Elegantes para Celebraciones con Estilo</h1>
+                <p>Los fondos navideños elegantes son la clave para transformar cualquier espacio durante las festividades. Opta por tonos dorados y plateados, combinaciones de texturas suaves y elementos decorativos minimalistas. Estos fondos brindan un ambiente acogedor y refinado, perfectos para celebrar con estilo y crear momentos memorables en familia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagen de Elegante fondo de Navidad con bolas de oro y blanco noche">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/b1/f8/b2b1f85d95def66b2c28a0ad6759ed20.jpg' alt='Imagen de Elegante fondo de Navidad con bolas de oro y blanco noche'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/b1/f8/b2b1f85d95def66b2c28a0ad6759ed20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imágenes de fondos de Navidad | Photoroom">
+                                <img itemprop="contentUrl url" src='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/christmas/35_-_christmas.jpg' alt='Imágenes de fondos de Navidad | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/christmas/35_-_christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondos Navideños 4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/0e/43/9c0e431b829cfabf75990d0e13b8afb2.jpg' alt='Fondos Navideños 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/0e/43/9c0e431b829cfabf75990d0e13b8afb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegante Fondo Navideño Con Decoración De Bolas Doradas, Copos De ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/photoguns/photoguns2109/photoguns210900210/176331700-elegante-fondo-navide%C3%B1o-con-decoraci%C3%B3n-de-bolas-doradas-copos-de-nieve-dise%C3%B1o-elegante-de-tarjetas.jpg' alt='Elegante Fondo Navideño Con Decoración De Bolas Doradas, Copos De ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/photoguns/photoguns2109/photoguns210900210/176331700-elegante-fondo-navide%C3%B1o-con-decoraci%C3%B3n-de-bolas-doradas-copos-de-nieve-dise%C3%B1o-elegante-de-tarjetas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Página 38 | Imágenes de Fondos Navidenos Elegantes - Descarga ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/psd-gratis/fondo-navidad-feliz-decoracion-dorada_1361-4688.jpg' alt='Página 38 | Imágenes de Fondos Navidenos Elegantes - Descarga ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/psd-gratis/fondo-navidad-feliz-decoracion-dorada_1361-4688.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45000+ HD Navidad Fondos de escritorio Gratis Para Descargar en ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-christmas-creative-promotion-red-and-green-color-background-picture-image_1276448.jpg' alt='45000+ HD Navidad Fondos de escritorio Gratis Para Descargar en ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-christmas-creative-promotion-red-and-green-color-background-picture-image_1276448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Descarga Vector De Elegante Fondo Dorado De Navidad">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/152963/raw/1a5c1c7d892c9f2f15feda1246c8acb3-elegante-fondo-dorado-de-navidad.jpg' alt='Descarga Vector De Elegante Fondo Dorado De Navidad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/152963/raw/1a5c1c7d892c9f2f15feda1246c8acb3-elegante-fondo-dorado-de-navidad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fondos de Navidad dorados | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-christmas-background-1lyvviyjrg20ajw5.jpg' alt='100+] Fondos de Navidad dorados | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-christmas-background-1lyvviyjrg20ajw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo De Navidad Imágenes, Fotos y Fondos de pantalla para ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/808/612/small_2x/merry-christmas-and-happy-new-year-white-background-with-space-for-text-christmas-greeting-card-photo.jpeg' alt='Fondo De Navidad Imágenes, Fotos y Fondos de pantalla para ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/808/612/small_2x/merry-christmas-and-happy-new-year-white-background-with-space-for-text-christmas-greeting-card-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/a6/7f/a7a67f849e9e3e9033deece634686d32.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/a6/7f/a7a67f849e9e3e9033deece634686d32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Light Volleyball Wallpaper: Brighten Your Device</title>
+                    <meta name="description" content="Explore stunning light volleyball wallpapers that add energy and style to your device. Perfect for fans of the sport, our collection features dynamic designs and vibrant images. Download now to energize your screen with your favorite game!">
+                    <meta name="keywords" content="light volleyball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-volleyball-wallpaper">
+                            <span itemprop="name">light volleyball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Volleyball Wallpaper: Brighten Your Device</h1>
+                <p>Discover a vibrant collection of light volleyball wallpapers to brighten up your devices! Perfect for sports enthusiasts and beach lovers, these wallpapers showcase dynamic action shots, colorful court designs, and motivational quotes that inspire athleticism. Choose from a variety of styles and bring your passion for volleyball to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL BACKGROUND - VOLLEYBALL STADIUM">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-jdhnct1/products/417/images/1139/volleyball_stadium__37691.1460762049.500.625.jpg?c=2' alt='DIGITAL BACKGROUND - VOLLEYBALL STADIUM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Photo Borders" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-jdhnct1/products/417/images/1139/volleyball_stadium__37691.1460762049.500.625.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Volleyball Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1146996863/vector/volleyball-ball-in-sport-arena-with-net-and-lights.jpg?s=612x612&w=0&k=20&c=RRlrtGWcC1tVxHlFc7sJPoUnk5CaLTYJyoDvovZJmGI=' alt='2,700+ Volleyball Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1146996863/vector/volleyball-ball-in-sport-arena-with-net-and-lights.jpg?s=612x612&w=0&k=20&c=RRlrtGWcC1tVxHlFc7sJPoUnk5CaLTYJyoDvovZJmGI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,935 Volleyball Background Court Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/close-up-volleyball-resting-sports-court-net-background-under-bright-stadium-lights-close-up-352462138.jpg' alt='3,935 Volleyball Background Court Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/close-up-volleyball-resting-sports-court-net-background-under-bright-stadium-lights-close-up-352462138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Background Images – Browse 119,872 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/52/36/29/360_F_52362936_ug2VnU1Xm2BWtoELlACQyCIcmQdHijCS.jpg' alt='Volleyball Background Images – Browse 119,872 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/52/36/29/360_F_52362936_ug2VnU1Xm2BWtoELlACQyCIcmQdHijCS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Background Images – Browse 115,341 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/11/82/71/360_F_211827190_SYtnwYmxeHEghZxKtCP3coVyXbbLZGzr.jpg' alt='Volleyball Background Images – Browse 115,341 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/11/82/71/360_F_211827190_SYtnwYmxeHEghZxKtCP3coVyXbbLZGzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Seamless Pattern Of Volleyball Balls On Blue Background ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/462052087/vector/vector-seamless-pattern-of-volleyball-balls-on-blue-background.jpg?s=612x612&w=0&k=20&c=D-t51mZfzXRnV4tI2_ZGIvCtrQhfhhfQRv_tD6zynHA=' alt='Vector Seamless Pattern Of Volleyball Balls On Blue Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/462052087/vector/vector-seamless-pattern-of-volleyball-balls-on-blue-background.jpg?s=612x612&w=0&k=20&c=D-t51mZfzXRnV4tI2_ZGIvCtrQhfhhfQRv_tD6zynHA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Wallpaper Blue Stock Illustrations – 365 Volleyball ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/blue-white-volleyball-shown-motion-against-backdrop-stadium-lights-conveying-excitement-energy-game-ball-339379872.jpg' alt='Volleyball Wallpaper Blue Stock Illustrations – 365 Volleyball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/blue-white-volleyball-shown-motion-against-backdrop-stadium-lights-conveying-excitement-energy-game-ball-339379872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Net, Volleyball Photo, Volleyball Background, Sports ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13644400/r/il/e1bc48/2282558284/il_570xN.2282558284_ttjr.jpg' alt='Volleyball Net, Volleyball Photo, Volleyball Background, Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13644400/r/il/e1bc48/2282558284/il_570xN.2282558284_ttjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue 3D Volleyball Tournament Background. Vertical ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/F1KR8D/light-blue-3d-volleyball-tournament-background-vertical-volleyball-F1KR8D.jpg' alt='Light Blue 3D Volleyball Tournament Background. Vertical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/F1KR8D/light-blue-3d-volleyball-tournament-background-vertical-volleyball-F1KR8D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute volleyball background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ce/0c/ec/ce0cec7326bc59c5e3af0a85f617f271.jpg' alt='Cute volleyball background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ce/0c/ec/ce0cec7326bc59c5e3af0a85f617f271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

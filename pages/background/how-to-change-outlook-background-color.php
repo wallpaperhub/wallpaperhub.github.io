@@ -1,0 +1,129 @@
+<title>Change Your Outlook Background Color Effortlessly</title>
+                    <meta name="description" content="Learn how to easily change the background color in Outlook. Follow simple steps to customize your email experience for a more personalized and vibrant interface. Perfect for enhancing your workspace on mobile!">
+                    <meta name="keywords" content="how to change outlook background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-change-outlook-background-color">
+                            <span itemprop="name">how to change outlook background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Change Your Outlook Background Color Effortlessly</h1>
+                <p>Changing the Outlook background color is simple! Go to File > Options, then select "General." Click on "Office Theme" to choose your preferred background color. You can customize it further by going to the "View" tab, selecting "View Settings," then "Conditional Formatting" to apply specific color settings to emails. Enjoy your personalized Outlook!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Color in Outlook Email: Simple Guide">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/228452/787x613/befdbe2abe/background-color-outlook.png' alt='Change Background Color in Outlook Email: Simple Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exclaimer" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/228452/787x613/befdbe2abe/background-color-outlook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007">
+                                <img itemprop="contentUrl url" src='https://www.codetwo.com/blog/wp-content/uploads/Change-color-scheme-Outlook_OG.png' alt='How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeTwo" />
+                                </span>
+                                <a href='https://www.codetwo.com/blog/wp-content/uploads/Change-color-scheme-Outlook_OG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Color in Outlook Email: Simple Guide">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/228452/792x736/250d900ac5/fill-effects-outlook.png' alt='Change Background Color in Outlook Email: Simple Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exclaimer" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/228452/792x736/250d900ac5/fill-effects-outlook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changing background color of Inbox messages in Outlook 365 on PC ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/3429f890-7203-46e6-85af-03a6f237ef13?upload=true&fud_access=URrJDiCKrlVTfPmzopGSim24%2BvtIcV8eSt7ufdEfARNvqUacvglLLfcjAzAWdmciZSADMfPLpy4fswAeuyC9WybuQpysFZxj%2FR8TQ6sfG7uv1S9n3sCWiAuNkH7vJOlAdUdycRrafm3M5MdpK9KSfLoVM5zecC1uZkWSunu7jJJicvM%2FfSCKSkdamxQ2f73TgpXYAkVlaeJkNPOVKMXKtcH76SAWGDENky17EIYztxfRfIA3WYAEWP1nl3rUiHlKMUUY%2FAs%2FmTZ50r41kVYnc6621%2FAY3H8nIRdk2kY4VJPitZLdidAw8QVicy4FCgW7uS4qzj9BR2q8yYp1eyzcuwybVvKC0SCllvtkJUBoQjGK7ClmCDMLyoPIu%2FvSBguzKjBh5LJE%2BSJnuXdTP8fQEbGLjVw0ykvllNZ0V9xNSiY%3D' alt='Changing background color of Inbox messages in Outlook 365 on PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1517">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/3429f890-7203-46e6-85af-03a6f237ef13?upload=true&fud_access=URrJDiCKrlVTfPmzopGSim24%2BvtIcV8eSt7ufdEfARNvqUacvglLLfcjAzAWdmciZSADMfPLpy4fswAeuyC9WybuQpysFZxj%2FR8TQ6sfG7uv1S9n3sCWiAuNkH7vJOlAdUdycRrafm3M5MdpK9KSfLoVM5zecC1uZkWSunu7jJJicvM%2FfSCKSkdamxQ2f73TgpXYAkVlaeJkNPOVKMXKtcH76SAWGDENky17EIYztxfRfIA3WYAEWP1nl3rUiHlKMUUY%2FAs%2FmTZ50r41kVYnc6621%2FAY3H8nIRdk2kY4VJPitZLdidAw8QVicy4FCgW7uS4qzj9BR2q8yYp1eyzcuwybVvKC0SCllvtkJUBoQjGK7ClmCDMLyoPIu%2FvSBguzKjBh5LJE%2BSJnuXdTP8fQEbGLjVw0ykvllNZ0V9xNSiY%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changing background color of Inbox messages in Outlook 365 on PC ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/64aef090-b4a9-4aa1-a112-bbc722f6a81b?upload=true&fud_access=URrJDiCKrlVTfPmzopGSim24%2BvtIcV8eSt7ufdEfARNvqUacvglLLfcjAzAWdmciZSADMfPLpy4fswAeuyC9WybuQpysFZxj%2FR8TQ6sfG7uv1S9n3sCWiAuNkH7vJOlAdUdycRrafm3M5MdpK9KSfLoVM5zecC1uZkWSunu7jJJicvM%2FfSCKSkdamxQ2f73TgpXYAkVlaeJkNPOVKMXKtcH76SAWGDENky17EIYztxc4tZuT6vBzPtGlk%2FLlsgX%2F7F7l%2BKqr7Ogx7rmeoDIXLgNAkWCgxJLhLIjVUEQTXS0OZxfNp4QE1fx9WniwUVJMX%2FoSof6xWsk%2B2yBUs6h%2Fi92MgBq0QUdyXdpnRVytE9byQ3W0Yqj%2BbSpZdVJggo%2B5o2ldH1DQztk9NW39IRNxwgL%2FsBgJvHFxxwhuUS2KdvI%3D' alt='Changing background color of Inbox messages in Outlook 365 on PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/64aef090-b4a9-4aa1-a112-bbc722f6a81b?upload=true&fud_access=URrJDiCKrlVTfPmzopGSim24%2BvtIcV8eSt7ufdEfARNvqUacvglLLfcjAzAWdmciZSADMfPLpy4fswAeuyC9WybuQpysFZxj%2FR8TQ6sfG7uv1S9n3sCWiAuNkH7vJOlAdUdycRrafm3M5MdpK9KSfLoVM5zecC1uZkWSunu7jJJicvM%2FfSCKSkdamxQ2f73TgpXYAkVlaeJkNPOVKMXKtcH76SAWGDENky17EIYztxc4tZuT6vBzPtGlk%2FLlsgX%2F7F7l%2BKqr7Ogx7rmeoDIXLgNAkWCgxJLhLIjVUEQTXS0OZxfNp4QE1fx9WniwUVJMX%2FoSof6xWsk%2B2yBUs6h%2Fi92MgBq0QUdyXdpnRVytE9byQ3W0Yqj%2BbSpZdVJggo%2B5o2ldH1DQztk9NW39IRNxwgL%2FsBgJvHFxxwhuUS2KdvI%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Improved Dark Mode in Outlook for Windows - SuperTekBoy">
+                                <img itemprop="contentUrl url" src='https://cdn.supertekboy.com/wp-content/uploads/2019/07/Outlook-on-Windows-Black-Theme-Read-Email.jpg' alt='Improved Dark Mode in Outlook for Windows - SuperTekBoy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1371">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SuperTekBoy" />
+                                </span>
+                                <a href='https://cdn.supertekboy.com/wp-content/uploads/2019/07/Outlook-on-Windows-Black-Theme-Read-Email.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color of an email in Outlook - Office 365">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ESHaIMArhlM/maxresdefault.jpg' alt='How to Change Background Color of an email in Outlook - Office 365'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ESHaIMArhlM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007">
+                                <img itemprop="contentUrl url" src='https://www.codetwo.com/blog/wp-content/uploads/Office-theme.png' alt='How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeTwo" />
+                                </span>
+                                <a href='https://www.codetwo.com/blog/wp-content/uploads/Office-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Outlook Background Color?     ✨">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Y_fd3JPbprI/sddefault.jpg' alt='How to Change Outlook Background Color?     ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Y_fd3JPbprI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlook Email Message Change Background Color Font and More ...">
+                                <img itemprop="contentUrl url" src='https://itproguru.com/wp-content/uploads/2012/05/Outlook-Email-Message-Change-Background-Color.png' alt='Outlook Email Message Change Background Color Font and More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ITProGuru Blog" />
+                                </span>
+                                <a href='https://itproguru.com/wp-content/uploads/2012/05/Outlook-Email-Message-Change-Background-Color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

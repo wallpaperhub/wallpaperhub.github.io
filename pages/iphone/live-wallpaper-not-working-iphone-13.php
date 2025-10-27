@@ -1,0 +1,129 @@
+<title>Fix Live Wallpaper Issues on iPhone 13</title>
+                    <meta name="description" content="Discover quick solutions to fix live wallpaper issues on your iPhone 13. Learn how to select, update, and troubleshoot your live wallpapers for a vibrant home screen experience. Get your device looking its best with our easy-to-follow tips!">
+                    <meta name="keywords" content="live wallpaper not working iphone 13">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/live-wallpaper-not-working-iphone-13">
+                            <span itemprop="name">live wallpaper not working iphone 13</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fix Live Wallpaper Issues on iPhone 13</h1>
+                <p>Is your live wallpaper not working on your iPhone 13? This can be frustrating, but there are several fixes you can try. First, ensure your wallpaper settings are correctly selected: go to Settings > Wallpaper > Choose a New Wallpaper. If that doesn’t help, try restarting your device or updating iOS to the latest version. If live wallpapers still won’t work, consider resetting your settings, as this may resolve any underlying issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13, 13 Mini, 13 Pro, 13 Pro Max Live Wallpaper Not Working ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Kk9t5vjX_1I/maxresdefault.jpg' alt='iPhone 13, 13 Mini, 13 Pro, 13 Pro Max Live Wallpaper Not Working ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Kk9t5vjX_1I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why can't I use this Live Photo as a live wallpaper : r/ios">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-cant-i-use-this-live-photo-as-a-live-wallpaper-v0-v5so8b8cdhnb1.jpg?width=640&crop=smart&auto=webp&s=8ba8c5113eb953c5609e52d314f38ef1b6743035' alt='Why can't I use this Live Photo as a live wallpaper : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-cant-i-use-this-live-photo-as-a-live-wallpaper-v0-v5so8b8cdhnb1.jpg?width=640&crop=smart&auto=webp&s=8ba8c5113eb953c5609e52d314f38ef1b6743035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17.1.1 Live Wallpapers not working on iPhone 13 - Fixed">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3_OVcCPc4bQ/maxresdefault.jpg' alt='iOS 17.1.1 Live Wallpapers not working on iPhone 13 - Fixed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3_OVcCPc4bQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 7 Ways to Fix Live Wallpaper Not Working on iPhone 14/13">
+                                <img itemprop="contentUrl url" src='https://itoolab.com/wp-content/uploads/ios-16-live-wallpaper.jpg' alt='Top 7 Ways to Fix Live Wallpaper Not Working on iPhone 14/13'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iToolab" />
+                                </span>
+                                <a href='https://itoolab.com/wp-content/uploads/ios-16-live-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix Live Wallpapers Not working in ios 17| How to Enable Live Wallpapers in  iOS 17">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GbhnGx1FiI4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrAN_fTSfOukGGYvFPT2wRIfI0fQ' alt='Fix Live Wallpapers Not working in ios 17| How to Enable Live Wallpapers in  iOS 17'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GbhnGx1FiI4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrAN_fTSfOukGGYvFPT2wRIfI0fQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Photo motion not supported : r/ios">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/live-photo-motion-not-supported-v0-ofbrvjrqfkqb1.jpg?width=640&crop=smart&auto=webp&s=05d27bb571dcab5680dade61db9ca4a063ebb882' alt='Live Photo motion not supported : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/live-photo-motion-not-supported-v0-ofbrvjrqfkqb1.jpg?width=640&crop=smart&auto=webp&s=05d27bb571dcab5680dade61db9ca4a063ebb882' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Not Working on iPhone iOS 18? (SOLVED)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IqRXuKTkCPE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRL_TChWjxLj7J9YqU0PO0S0uV-A' alt='Live Wallpaper Not Working on iPhone iOS 18? (SOLVED)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IqRXuKTkCPE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRL_TChWjxLj7J9YqU0PO0S0uV-A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I just got iphone 13 pro max and then realise I can't get this ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-just-got-iphone-13-pro-max-and-then-realise-i-cant-get-v0-td2gw6a9hrwb1.jpg?width=640&crop=smart&auto=webp&s=9e760b13657f4a3ef6dcf16f59965dca331ef8da' alt='I just got iphone 13 pro max and then realise I can't get this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-just-got-iphone-13-pro-max-and-then-realise-i-cant-get-v0-td2gw6a9hrwb1.jpg?width=640&crop=smart&auto=webp&s=9e760b13657f4a3ef6dcf16f59965dca331ef8da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To FIX Live Wallpapers Not Working On iPhone! (2024)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/X2e-8VTorFE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFIyfw2_oQNnoOlR0vc8-AqV0oRA' alt='How To FIX Live Wallpapers Not Working On iPhone! (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/X2e-8VTorFE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFIyfw2_oQNnoOlR0vc8-AqV0oRA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New iPhone 13 pro missing wallpapers - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/ed31e6fa-4cfd-4491-a643-701acd87682e' alt='New iPhone 13 pro missing wallpapers - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="2079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/ed31e6fa-4cfd-4491-a643-701acd87682e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

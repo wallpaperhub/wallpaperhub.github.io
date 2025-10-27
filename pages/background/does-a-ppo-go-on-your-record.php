@@ -1,0 +1,129 @@
+<title>PPO Impact on Your Record: Key Insights</title>
+                    <meta name="description" content="Discover how a Personal Protection Order (PPO) affects your record. Learn about its visibility in background checks and implications for employment. Stay informed to safeguard your future and navigate legal complexities effectively.">
+                    <meta name="keywords" content="does a ppo go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-ppo-go-on-your-record">
+                            <span itemprop="name">does a ppo go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>PPO Impact on Your Record: Key Insights</h1>
+                <p>When considering if a PPO (Personal Protection Order) goes on your record, it’s essential to understand that it is typically public record. While a PPO may not appear on a standard criminal record, it can affect background checks, employment opportunities, and various aspects of life. Always consult legal counsel for clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What To Do if You Have a Personal Protection Order Against You?">
+                                <img itemprop="contentUrl url" src='https://www.notafraidtowin.com/wp-content/uploads/2017/06/personal-protection-order.jpg' alt='What To Do if You Have a Personal Protection Order Against You?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lewis & dickstein, p.l.l.c." />
+                                </span>
+                                <a href='https://www.notafraidtowin.com/wp-content/uploads/2017/06/personal-protection-order.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/smush-webp/2024/01/Restraining-orders-and-criminal-records-00006-1024x683.jpg.webp' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/smush-webp/2024/01/Restraining-orders-and-criminal-records-00006-1024x683.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Serve a PPO">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Uy4Q0UqFy9o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5Jheo58UA5g8UAW6Z0H8FC3Y4sg' alt='How to Serve a PPO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Uy4Q0UqFy9o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5Jheo58UA5g8UAW6Z0H8FC3Y4sg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00003.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to know your improved MESSA card - MESSA">
+                                <img itemprop="contentUrl url" src='https://www.messa.org/wp-content/uploads/2022/03/NewMESSACard.jpg' alt='Get to know your improved MESSA card - MESSA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MESSA" />
+                                </span>
+                                <a href='https://www.messa.org/wp-content/uploads/2022/03/NewMESSACard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00005.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get your Blue Shield member ID card | Blue Shield of CA">
+                                <img itemprop="contentUrl url" src='https://s7d9.scene7.com/is/image/blueshieldca/id-card-front?ts=1671540065347&dpr=off' alt='Get your Blue Shield member ID card | Blue Shield of CA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Shield of California" />
+                                </span>
+                                <a href='https://s7d9.scene7.com/is/image/blueshieldca/id-card-front?ts=1671540065347&dpr=off' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What To Do if You Have a Personal Protection Order Against You?">
+                                <img itemprop="contentUrl url" src='https://www.notafraidtowin.com/wp-content/uploads/2019/11/Personal-Protection-Order.png' alt='What To Do if You Have a Personal Protection Order Against You?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1711">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lewis & dickstein, p.l.l.c." />
+                                </span>
+                                <a href='https://www.notafraidtowin.com/wp-content/uploads/2019/11/Personal-Protection-Order.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/a-lease-agrreement-with-a-pen.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/a-lease-agrreement-with-a-pen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HMO vs. PPO: Understanding the key differences | Kaiser Permanente">
+                                <img itemprop="contentUrl url" src='https://healthy.kaiserpermanente.org/content/dam/kp/chub/images/hmo-ppo-comparison-chart.jpg' alt='HMO vs. PPO: Understanding the key differences | Kaiser Permanente'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaiser Permanente" />
+                                </span>
+                                <a href='https://healthy.kaiserpermanente.org/content/dam/kp/chub/images/hmo-ppo-comparison-chart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

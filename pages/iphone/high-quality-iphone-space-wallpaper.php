@@ -1,0 +1,129 @@
+<title>Stunning High-Quality iPhone Space Wallpapers</title>
+                    <meta name="description" content="Discover breathtaking high-quality space wallpapers for your iPhone! Elevate your home screen with stunning cosmic imagery, from galaxies to starry nights. Perfect for a unique and inspiring phone aesthetic. Download the best space backgrounds now!">
+                    <meta name="keywords" content="high quality iphone space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/high-quality-iphone-space-wallpaper">
+                            <span itemprop="name">high quality iphone space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning High-Quality iPhone Space Wallpapers</h1>
+                <p>Enhance your device's aesthetic with high-quality iPhone space wallpapers. Explore stunning images of galaxies, nebulae, and starry skies that bring the beauty of the universe to your screen. Perfect for space enthusiasts and anyone looking to add a cosmic touch to their phone. Download now for a mesmerizing experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space wallpaper hotsell iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/96/d4/89/96d48969e43351864afe4f420d877e44.png' alt='Space wallpaper hotsell iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="calarestaurante.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/96/d4/89/96d48969e43351864afe4f420d877e44.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/29zh4v56mo951.jpg' alt='Space : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/29zh4v56mo951.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: Deep Space iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.mactrast.com/wp-content/uploads/2018/05/deep_space_iPhone_wallpaper_7.jpg' alt='Wallpaper Weekends: Deep Space iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='https://www.mactrast.com/wp-content/uploads/2018/05/deep_space_iPhone_wallpaper_7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Clouds Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-galaxy-clouds-space-iphone-0wm09fycuvgwetdb.jpg' alt='Purple Galaxy Clouds Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-galaxy-clouds-space-iphone-0wm09fycuvgwetdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Best Space iphone wallpaper ideas | space iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/5d/7f/7d5d7fce6a5c8965f31a1a38e8947c60.jpg' alt='150 Best Space iphone wallpaper ideas | space iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/5d/7f/7d5d7fce6a5c8965f31a1a38e8947c60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange And Blue Clouds Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/orange-and-blue-clouds-space-iphone-qfviu4yt1zzdvsob.jpg' alt='Orange And Blue Clouds Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/orange-and-blue-clouds-space-iphone-qfviu4yt1zzdvsob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/08/purple-pink-nebula-iphone-background-scaled.jpg' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1097">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/08/purple-pink-nebula-iphone-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Space High Resolution iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/deep-space.png' alt='Deep Space High Resolution iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/deep-space.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

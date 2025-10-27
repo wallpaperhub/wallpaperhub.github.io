@@ -1,0 +1,129 @@
+<title>Discover Accenture: Your Partner in Digital Transformation</title>
+                    <meta name="description" content="Explore how Accenture empowers organizations through cutting-edge consulting and technology solutions. Join us in transforming your business for the digital age and driving sustainable growth.">
+                    <meta name="keywords" content="accenture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accenture">
+                            <span itemprop="name">accenture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Accenture: Your Partner in Digital Transformation</h1>
+                <p>Accenture is a global professional services company specializing in consulting, digital transformation, technology, and operations management. With a presence in over 120 countries, Accenture leverages innovative technologies to deliver high-quality solutions, enhancing efficiency and driving growth for businesses across various industries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Icertis Customer Story - Accenture | Icertis">
+                                <img itemprop="contentUrl url" src='https://www.icertis.com/globalassets/1.-sections/customers/customer-stories/accenture/web-customer-story-logo-header-accenture.png' alt='Icertis Customer Story - Accenture | Icertis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icertis" />
+                                </span>
+                                <a href='https://www.icertis.com/globalassets/1.-sections/customers/customer-stories/accenture/web-customer-story-logo-header-accenture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Accenture.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/2560px-Accenture.svg.png' alt='File:Accenture.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/2560px-Accenture.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture invests $1 bn in learning platform, to buy edtech firm ...">
+                                <img itemprop="contentUrl url" src='https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/06/full/1709709656-7487.jpg?im=FitAndFill=(826,465)' alt='Accenture invests $1 bn in learning platform, to buy edtech firm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Standard" />
+                                </span>
+                                <a href='https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/06/full/1709709656-7487.jpg?im=FitAndFill=(826,465)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture | World Economic Forum">
+                                <img itemprop="contentUrl url" src='https://assets.weforum.org/organization/image/jA8oUAbtmKEZxzoC3Bs2Tp0YgzXwEJsJBuK4ITYtjFw.jpeg' alt='Accenture | World Economic Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The World Economic Forum" />
+                                </span>
+                                <a href='https://assets.weforum.org/organization/image/jA8oUAbtmKEZxzoC3Bs2Tp0YgzXwEJsJBuK4ITYtjFw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture Chicago Headquarters | Projects | Gensler">
+                                <img itemprop="contentUrl url" src='https://static1.gensler.com/uploads/hero_element/22287/thumb_desktop/thumbs/project-accenture-chicago-08-2000x1125_1689788590_1024x576.jpg' alt='Accenture Chicago Headquarters | Projects | Gensler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gensler" />
+                                </span>
+                                <a href='https://static1.gensler.com/uploads/hero_element/22287/thumb_desktop/thumbs/project-accenture-chicago-08-2000x1125_1689788590_1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Project profile: Accenture Headquarters | Consulting - Specifying ...">
+                                <img itemprop="contentUrl url" src='https://www.csemag.com/wp-content/uploads/sites/5/2022/08/Accenture_01.jpg' alt='Project profile: Accenture Headquarters | Consulting - Specifying ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consulting - Specifying Engineer" />
+                                </span>
+                                <a href='https://www.csemag.com/wp-content/uploads/sites/5/2022/08/Accenture_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LobbyMap Accenture">
+                                <img itemprop="contentUrl url" src='https://lobbymap.org/site//data/001/361/1361822.png' alt='LobbyMap Accenture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australia" />
+                                </span>
+                                <a href='https://lobbymap.org/site//data/001/361/1361822.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture Chicago Headquarters | Projects | Gensler">
+                                <img itemprop="contentUrl url" src='https://static1.gensler.com/uploads/hero_element/22285/thumb_desktop/thumbs/project-accenture-chicago-06-2000x1125_1689788502_1024x576.jpg' alt='Accenture Chicago Headquarters | Projects | Gensler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gensler" />
+                                </span>
+                                <a href='https://static1.gensler.com/uploads/hero_element/22285/thumb_desktop/thumbs/project-accenture-chicago-06-2000x1125_1689788502_1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture to Acquire CLIMB to Expand Technology Capabilities">
+                                <img itemprop="contentUrl url" src='https://newsroom.accenture.com/news/2024/media_1617fc3debf36b861b8068fc7bbd2190bc19e15a4.png?width=750&format=png&optimize=medium' alt='Accenture to Acquire CLIMB to Expand Technology Capabilities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsroom | Accenture" />
+                                </span>
+                                <a href='https://newsroom.accenture.com/news/2024/media_1617fc3debf36b861b8068fc7bbd2190bc19e15a4.png?width=750&format=png&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accenture - DCA">
+                                <img itemprop="contentUrl url" src='https://dca.cat/wp-content/uploads/2023/04/Accenture_Transparent.png' alt='Accenture - DCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6251">
+                                <meta itemprop="height" content="1648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Catalonia Alliance" />
+                                </span>
+                                <a href='https://dca.cat/wp-content/uploads/2023/04/Accenture_Transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

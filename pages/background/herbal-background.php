@@ -1,0 +1,129 @@
+<title>Discover the Power of Herbal Remedies</title>
+                    <meta name="description" content="Explore the world of herbal remedies—an ancient approach to healing that's gaining popularity. Learn how these natural solutions can enhance your well-being, boost immunity, and alleviate stress, all rooted in traditional practices. Embrace the herbal path to a healthier life!">
+                    <meta name="keywords" content="herbal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/herbal-background">
+                            <span itemprop="name">herbal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Power of Herbal Remedies</h1>
+                <p>Herbal remedies have been used for centuries, rooted in traditions across various cultures. They harness the power of plants to promote health and wellness. With a growing interest in natural healing, herbal medicine is gaining recognition for its potential benefits, from alleviating stress to enhancing immunity. Explore the rich history and efficacy of these time-honored practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/94/84/42/360_F_194844284_VLk82z8KnehVhd5EkxfY1zchvas2YUSu.jpg' alt='Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/94/84/42/360_F_194844284_VLk82z8KnehVhd5EkxfY1zchvas2YUSu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | herbal background">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/d9/d9b099c4282f818e19e6242c1bc1c15a_t.jpeg' alt='Free Photos | herbal background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/d9/d9b099c4282f818e19e6242c1bc1c15a_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/102/744/small_2x/cannabis-oil-gold-bubbles-on-green-blurred-background-with-cannabis-leafs-realistic-effect-vector.jpg' alt='Herbal Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/102/744/small_2x/cannabis-oil-gold-bubbles-on-green-blurred-background-with-cannabis-leafs-realistic-effect-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background With Grunge Effects Stock Photo - Download ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/459094701/photo/herbal-background-with-grunge-effects.jpg?s=612x612&w=0&k=20&c=fVXOoc90bkSohjGyc58e57MIS335uva4WNKDT5HRPxc=' alt='Herbal Background With Grunge Effects Stock Photo - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/459094701/photo/herbal-background-with-grunge-effects.jpg?s=612x612&w=0&k=20&c=fVXOoc90bkSohjGyc58e57MIS335uva4WNKDT5HRPxc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/28/20/62/360_F_528206287_tWIbqt0zwBTDwzxGlC1i3uDHtQeg3Hnn.jpg' alt='Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/28/20/62/360_F_528206287_tWIbqt0zwBTDwzxGlC1i3uDHtQeg3Hnn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,400+ Herbal Medicine Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1189407772/vector/3d-realistic-vector-horizontal-banner-nature-green-tea-garden-background-with-flying-leaves.jpg?s=612x612&w=0&k=20&c=329xYXrTQfdTvvP2-MxVZcYEoG0bCAX10lYoxuiBqF8=' alt='31,400+ Herbal Medicine Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1189407772/vector/3d-realistic-vector-horizontal-banner-nature-green-tea-garden-background-with-flying-leaves.jpg?s=612x612&w=0&k=20&c=329xYXrTQfdTvvP2-MxVZcYEoG0bCAX10lYoxuiBqF8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Photos, Download The BEST Free Herbal Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?cs=srgb&dl=pexels-pixabay-461428.jpg&fm=jpg' alt='Herbal Photos, Download The BEST Free Herbal Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5607">
+                                <meta itemprop="height" content="3738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?cs=srgb&dl=pexels-pixabay-461428.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background: Over 2,436,739 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/elder-blossom-on-light-background-260nw-285217031.jpg' alt='Herbal Background: Over 2,436,739 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/elder-blossom-on-light-background-260nw-285217031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/91/20/38/360_F_291203831_8B7j1scDrUsMsWkgWfquUptYXq4oHfpG.jpg' alt='Herbal Background Images – Browse 2,735,793 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/91/20/38/360_F_291203831_8B7j1scDrUsMsWkgWfquUptYXq4oHfpG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-oak-leaf-beige-background_53876-112917.jpg' alt='Herbal Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-oak-leaf-beige-background_53876-112917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

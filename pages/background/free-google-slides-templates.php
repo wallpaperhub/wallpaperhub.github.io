@@ -1,0 +1,129 @@
+<title>Free Google Slides Templates for Stunning Presentations</title>
+                    <meta name="description" content="Discover a collection of free Google Slides templates perfect for your presentations. Customize easily and achieve a professional look for any occasion—business, education, or personal projects. Download now and elevate your presentation game!">
+                    <meta name="keywords" content="free google slides templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-google-slides-templates">
+                            <span itemprop="name">free google slides templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Google Slides Templates for Stunning Presentations</h1>
+                <p>Enhance your presentations with free Google Slides templates! These customizable designs save time and offer a professional look for any project. Ideal for business, education, or personal use, the templates cater to various themes and styles. Download and start impressing your audience today with a stunning presentation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SlidesMania | Free Google Slides themes and PowerPoint templates.">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2024/02/Slide1-1.jpg' alt='SlidesMania | Free Google Slides themes and PowerPoint templates.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slidesmania.com" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2024/02/Slide1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Education Presentation Templates for PowerPoint & Google ...">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2021/10/Free-Google-Slides-Interactive-Education-Template.jpg' alt='Free Education Presentation Templates for PowerPoint & Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2021/10/Free-Google-Slides-Interactive-Education-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best free Google Slides templates | BrightCarbon">
+                                <img itemprop="contentUrl url" src='https://www.brightcarbon.com/wp/wp-content/uploads/2023/08/GS-tem-Slide-1.jpg' alt='The best free Google Slides templates | BrightCarbon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2285">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrightCarbon" />
+                                </span>
+                                <a href='https://www.brightcarbon.com/wp/wp-content/uploads/2023/08/GS-tem-Slide-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Back to School Google Slides themes and PPT templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39125072/meet-our-professors1691679312.jpg' alt='Free Back to School Google Slides themes and PPT templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39125072/meet-our-professors1691679312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Google Slides Themes - SlideModel.com">
+                                <img itemprop="contentUrl url" src='https://cdn2.slidemodel.com/wp-content/uploads/free-google-slides-templates.png' alt='Free Google Slides Themes - SlideModel.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://cdn2.slidemodel.com/wp-content/uploads/free-google-slides-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Education Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39129727/notebook-lesson1691686801.jpg' alt='Free Education Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39129727/notebook-lesson1691686801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Free Google Slides Presentation Template - SlideSalad">
+                                <img itemprop="contentUrl url" src='https://www.slidesalad.com/wp-content/uploads/2019/04/Simple-Free-Google-Slides-Presentation-Template.jpg' alt='Simple Free Google Slides Presentation Template - SlideSalad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideSalad" />
+                                </span>
+                                <a href='https://www.slidesalad.com/wp-content/uploads/2019/04/Simple-Free-Google-Slides-Presentation-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free White Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/53880944/0-colorful-theme.jpg' alt='Free White Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/53880944/0-colorful-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cool Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/20606234/our-creative-company1651644814.jpg' alt='Free Cool Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/20606234/our-creative-company1651644814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Business. Free PPT & Google Slides Template ...">
+                                <img itemprop="contentUrl url" src='https://www.slidescarnival.com/wp-content/uploads/free-business-powerpoint-template-or-google-slides-theme.jpg' alt='Professional Business. Free PPT & Google Slides Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCarnival" />
+                                </span>
+                                <a href='https://www.slidescarnival.com/wp-content/uploads/free-business-powerpoint-template-or-google-slides-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

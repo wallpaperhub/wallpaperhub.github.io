@@ -1,0 +1,129 @@
+<title>Streamline Your Hiring: The Importance of Background Adjudication</title>
+                    <meta name="description" content="Discover the critical role of background adjudication in the hiring process. Learn how this thorough vetting ensures candidate safety and organizational integrity. Optimize your recruitment strategy today!">
+                    <meta name="keywords" content="background adjudication">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-adjudication">
+                            <span itemprop="name">background adjudication</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Your Hiring: The Importance of Background Adjudication</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Adjudication and Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/6c70805059a7f7043f2c2afa05882deb/Article-background-check-adjudication-963x418-1.png' alt='The Ultimate Guide to Adjudication and Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/6c70805059a7f7043f2c2afa05882deb/Article-background-check-adjudication-963x418-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New HUD Guidelines and Best Practices for Criminal Background ...">
+                                <img itemprop="contentUrl url" src='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' alt='New HUD Guidelines and Best Practices for Criminal Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelley, Grant, & Tanis, P.A." />
+                                </span>
+                                <a href='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the Essence of Adjudication in Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.factsuite.com/assets/uploads/blog-thumbnail/662201807f0cd20240419114000.png' alt='Understanding the Essence of Adjudication in Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FactSuite" />
+                                </span>
+                                <a href='https://www.factsuite.com/assets/uploads/blog-thumbnail/662201807f0cd20240419114000.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Adjudication: Definition, Guide, and Best Practices">
+                                <img itemprop="contentUrl url" src='https://yardstik.com/wp-content/uploads/2024/08/Blog_Adjudication.png' alt='Background Check Adjudication: Definition, Guide, and Best Practices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1373">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yardstik" />
+                                </span>
+                                <a href='https://yardstik.com/wp-content/uploads/2024/08/Blog_Adjudication.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigations and Adjudication Process">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E12AQH4SnPr_JX--w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1533996314798?e=2147483647&v=beta&t=-w8BvCpsmCN7nxgbfaU_jss2xI1PjQ7OdauRXTGAr9o' alt='Background Investigations and Adjudication Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E12AQH4SnPr_JX--w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1533996314798?e=2147483647&v=beta&t=-w8BvCpsmCN7nxgbfaU_jss2xI1PjQ7OdauRXTGAr9o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Adjudication: All You Need to Know | SoftwareWorld">
+                                <img itemprop="contentUrl url" src='https://www.softwareworld.co/blogimage/-37.png' alt='Background Check Adjudication: All You Need to Know | SoftwareWorld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoftwareWorld" />
+                                </span>
+                                <a href='https://www.softwareworld.co/blogimage/-37.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Basics: 10 Key Terms | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/4ad18d6acf/background-check-terms-to-know.png/m/' alt='Background Check Basics: 10 Key Terms | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/4ad18d6acf/background-check-terms-to-know.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adjudicating Background Investigations - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2013/08/bigstock-Judge-sitting-at-table-header.jpg' alt='Adjudicating Background Investigations - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2013/08/bigstock-Judge-sitting-at-table-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employer's guide to background check adjudication">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/652fdf622044a94bb5f8ca06_christina-wocintechchat-com-vzfgh3RAPzM-unsplash.webp' alt='Employer's guide to background check adjudication'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/652fdf622044a94bb5f8ca06_christina-wocintechchat-com-vzfgh3RAPzM-unsplash.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigation Adjudication Types and Criteria Used ...">
+                                <img itemprop="contentUrl url" src='https://www.clearancejobsblog.com/wp-content/uploads/2020/04/background-investigate-interview-818x300-1-710x260.jpg' alt='Background Investigation Adjudication Types and Criteria Used ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearanceJobs Blog" />
+                                </span>
+                                <a href='https://www.clearancejobsblog.com/wp-content/uploads/2020/04/background-investigate-interview-818x300-1-710x260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

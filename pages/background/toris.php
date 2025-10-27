@@ -1,0 +1,129 @@
+<title>Discover the Delicious World of Tori: A Japanese Culinary Delight</title>
+                    <meta name="description" content="Explore the rich flavors and textures of Tori, a classic Japanese dish featuring grilled or fried chicken. Perfect for casual dining or festivals, discover why Tori is a must-try for any food enthusiast!">
+                    <meta name="keywords" content="toris">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toris">
+                            <span itemprop="name">toris</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Delicious World of Tori: A Japanese Culinary Delight</h1>
+                <p>Tori is a traditional Japanese dish that typically features grilled or fried chicken, often marinated in a flavorful sauce. It's known for its juicy texture, smoky taste, and delightful aroma. Tori is commonly enjoyed with rice or in skewers at festivals, making it a popular choice for casual dining and celebrations across Japan.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris Turns Himself Into a Accurate And Gets Grounded - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0d33QvU-D4I/maxresdefault.jpg' alt='Toris Turns Himself Into a Accurate And Gets Grounded - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0d33QvU-D4I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris | Legendary Journeys | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hercxena/images/7/78/Toris.jpg/revision/latest?cb=20100917134039' alt='Toris | Legendary Journeys | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hercules and Xena Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hercxena/images/7/78/Toris.jpg/revision/latest?cb=20100917134039' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris by LukeO15 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63913c04-64cf-4d3e-a587-17c289aabf77/deo5mcp-b86150d0-fcd8-4f4d-97ad-3e29563302bf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzOTEzYzA0LTY0Y2YtNGQzZS1hNTg3LTE3YzI4OWFhYmY3N1wvZGVvNW1jcC1iODYxNTBkMC1mY2Q4LTRmNGQtOTdhZC0zZTI5NTYzMzAyYmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7cNGI5WlY22xmQOcrlp5esPbSsN4zTTEp1p0wIrhaCU' alt='Toris by LukeO15 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63913c04-64cf-4d3e-a587-17c289aabf77/deo5mcp-b86150d0-fcd8-4f4d-97ad-3e29563302bf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzOTEzYzA0LTY0Y2YtNGQzZS1hNTg3LTE3YzI4OWFhYmY3N1wvZGVvNW1jcC1iODYxNTBkMC1mY2Q4LTRmNGQtOTdhZC0zZTI5NTYzMzAyYmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7cNGI5WlY22xmQOcrlp5esPbSsN4zTTEp1p0wIrhaCU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,102 Toris Kyoto Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1386294235/photo/main-gate-at-fushimi-inari-taisha.jpg?s=612x612&w=gi&k=20&c=sLKnrH2ilRmvMtLYaFtCfOr4Wt3ATOIsKxVYxEjS0WM=' alt='3,102 Toris Kyoto Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1386294235/photo/main-gate-at-fushimi-inari-taisha.jpg?s=612x612&w=gi&k=20&c=sLKnrH2ilRmvMtLYaFtCfOr4Wt3ATOIsKxVYxEjS0WM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris Forces Classic Caillou To Be His Friends/Kidnap Him/Grounded ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pxh1LQR4xFk/maxresdefault.jpg' alt='Toris Forces Classic Caillou To Be His Friends/Kidnap Him/Grounded ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pxh1LQR4xFk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,919 Toris Stock Photos, High-Res Pictures, and Images - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/157396562/photo/torii-gate.jpg?s=612x612&w=gi&k=20&c=9Syxg6BEp_rVdavkVnY_cY7ppvVeTkQtiWV7NN80bQE=' alt='8,919 Toris Stock Photos, High-Res Pictures, and Images - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/157396562/photo/torii-gate.jpg?s=612x612&w=gi&k=20&c=9Syxg6BEp_rVdavkVnY_cY7ppvVeTkQtiWV7NN80bQE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris (Comedy World) (PNG by Campher4h on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/565dbfbb-1656-432b-8bcf-922ba8936fda/dfmfoc2-445d54ba-5cef-4eff-8ac9-f94becfbd1bb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NWRiZmJiLTE2NTYtNDMyYi04YmNmLTkyMmJhODkzNmZkYVwvZGZtZm9jMi00NDVkNTRiYS01Y2VmLTRlZmYtOGFjOS1mOTRiZWNmYmQxYmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y-FbdY_IVuGRk2oF82az3XWwKQzwV5A-5UKvqvANm88' alt='Toris (Comedy World) (PNG by Campher4h on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/565dbfbb-1656-432b-8bcf-922ba8936fda/dfmfoc2-445d54ba-5cef-4eff-8ac9-f94becfbd1bb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NWRiZmJiLTE2NTYtNDMyYi04YmNmLTkyMmJhODkzNmZkYVwvZGZtZm9jMi00NDVkNTRiYS01Y2VmLTRlZmYtOGFjOS1mOTRiZWNmYmQxYmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y-FbdY_IVuGRk2oF82az3XWwKQzwV5A-5UKvqvANm88' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fushimi Inari Shrine, path of red toris Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TAD0GX/the-fushimi-inari-shrine-path-of-red-toris-TAD0GX.jpg' alt='The Fushimi Inari Shrine, path of red toris Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TAD0GX/the-fushimi-inari-shrine-path-of-red-toris-TAD0GX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toris And His Family (Remastered) by kitoloks on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80698ea3-4786-48b3-821f-257bf5442a70/die5h38-6e775f69-1bbf-47ff-b25c-4f0066201264.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgwNjk4ZWEzLTQ3ODYtNDhiMy04MjFmLTI1N2JmNTQ0MmE3MFwvZGllNWgzOC02ZTc3NWY2OS0xYmJmLTQ3ZmYtYjI1Yy00ZjAwNjYyMDEyNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jHtFNNGBLxWsQmYVvfU0knKrUtSmUkVK8gL2_qoK-hs' alt='Toris And His Family (Remastered) by kitoloks on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80698ea3-4786-48b3-821f-257bf5442a70/die5h38-6e775f69-1bbf-47ff-b25c-4f0066201264.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgwNjk4ZWEzLTQ3ODYtNDhiMy04MjFmLTI1N2JmNTQ0MmE3MFwvZGllNWgzOC02ZTc3NWY2OS0xYmJmLTQ3ZmYtYjI1Yy00ZjAwNjYyMDEyNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jHtFNNGBLxWsQmYVvfU0knKrUtSmUkVK8gL2_qoK-hs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,102 Toris Kyoto Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1341729201/photo/senbon-torii-kyoto-japan-thousand-torii-gates-at-fushimi-inari-shrine.jpg?s=612x612&w=gi&k=20&c=LAiPGvw9QU-RfsvydJVuOEoDHo8zSkGpNml9PPNfzJ4=' alt='3,102 Toris Kyoto Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1341729201/photo/senbon-torii-kyoto-japan-thousand-torii-gates-at-fushimi-inari-shrine.jpg?s=612x612&w=gi&k=20&c=LAiPGvw9QU-RfsvydJVuOEoDHo8zSkGpNml9PPNfzJ4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

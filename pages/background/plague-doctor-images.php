@@ -1,0 +1,129 @@
+<title>Fascinating Plague Doctor Images: A Look into Medical History</title>
+                    <meta name="description" content="Explore captivating plague doctor images that reflect a pivotal time in medical history. Discover the iconic beaked masks and learn about their role in combating disease. Perfect for history buffs and those intrigued by unique medical practices!">
+                    <meta name="keywords" content="plague doctor images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/plague-doctor-images">
+                            <span itemprop="name">plague doctor images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fascinating Plague Doctor Images: A Look into Medical History</h1>
+                <p>Plague doctor images evoke a haunting era of medical history, showcasing the distinctive beaked masks worn to protect against sickness. These striking visuals represent a time when fear of disease led to unique protective measures. Today, they serve as a reminder of resilience and the evolution of medicine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plague doctor - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28Holl%C3%A4nder_version%29.png/1200px-Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28Holl%C3%A4nder_version%29.png' alt='Plague doctor - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28Holl%C3%A4nder_version%29.png/1200px-Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28Holl%C3%A4nder_version%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plague doctor | Plague, Middle Ages, Facts, & Description | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/25/240125-050-D64FA37D/Plague-doctor-costume-17th-century-Europe.jpg' alt='Plague doctor | Plague, Middle Ages, Facts, & Description | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1202">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/25/240125-050-D64FA37D/Plague-doctor-costume-17th-century-Europe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plague Doctor Costumes — The Public Domain Review">
+                                <img itemprop="contentUrl url" src='https://the-public-domain-review.imgix.net/collections/plague-doctor-costumes/Paul_Fu%CC%88rst%2C_Der_Doctor_Schnabel_von_Rom_(coloured_version).png?fit=max&w=800&h=850&auto=format,compress' alt='Plague Doctor Costumes — The Public Domain Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Public Domain Review" />
+                                </span>
+                                <a href='https://the-public-domain-review.imgix.net/collections/plague-doctor-costumes/Paul_Fu%CC%88rst%2C_Der_Doctor_Schnabel_von_Rom_(coloured_version).png?fit=max&w=800&h=850&auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="223,800+ Plague Doctor Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/899297240/vector/plague-doctor-hand-drawing-vintage-engraving-isolate-on-white-background.jpg?s=612x612&w=0&k=20&c=s2ka7hLIbzo6f1QOtDzjp-vmghU29c_sQYV7hOxqAPQ=' alt='223,800+ Plague Doctor Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/899297240/vector/plague-doctor-hand-drawing-vintage-engraving-isolate-on-white-background.jpg?s=612x612&w=0&k=20&c=s2ka7hLIbzo6f1QOtDzjp-vmghU29c_sQYV7hOxqAPQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historical Plague Doctors — Newcastle Castle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e271471e410453315a44e1a/1660736756537-9FH0XWIGHBJ4CAESSR5A/plague-doctor-mask_400x333.jpg' alt='Historical Plague Doctors — Newcastle Castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newcastle Castle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e271471e410453315a44e1a/1660736756537-9FH0XWIGHBJ4CAESSR5A/plague-doctor-mask_400x333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Plague Doctor Art Print v.16 Instant Download Printable Home Decor,  Poster Wall Art Gift, Downloadable plague doctor Art Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14156377/r/il/7a1530/4263311781/il_570xN.4263311781_2ze5.jpg' alt='Vintage Plague Doctor Art Print v.16 Instant Download Printable Home Decor,  Poster Wall Art Gift, Downloadable plague doctor Art Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14156377/r/il/7a1530/4263311781/il_570xN.4263311781_2ze5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why plague doctors wore those strange beaked masks">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/d2ed0170-7dc3-4ff9-bd04-83e72070dd0b/plague-doctors-reference-01_2x1.jpg' alt='Why plague doctors wore those strange beaked masks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/d2ed0170-7dc3-4ff9-bd04-83e72070dd0b/plague-doctors-reference-01_2x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Plague Doctor" Sticker by Holly Hutchinson">
+                                <img itemprop="contentUrl url" src='http://kaartist.com/cdn/shop/files/il_794xN.4276857951_5lnm.jpg?v=1694116985' alt='"Plague Doctor" Sticker by Holly Hutchinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="K. A. Artist Shop" />
+                                </span>
+                                <a href='http://kaartist.com/cdn/shop/files/il_794xN.4276857951_5lnm.jpg?v=1694116985' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historical Plague Doctors — Newcastle Castle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e271471e410453315a44e1a/1660736773673-W79QRPOGLNCLQX4WJWDW/real-plague-doctor.jpg' alt='Historical Plague Doctors — Newcastle Castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newcastle Castle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e271471e410453315a44e1a/1660736773673-W79QRPOGLNCLQX4WJWDW/real-plague-doctor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plague doctor hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2Y4HW5X/plague-mask-a-17th-century-illustration-of-a-plague-doctor-in-rome-dr-schnabel-wearing-a-mask-engraving-by-paulus-frst-1656-2Y4HW5X.jpg' alt='Plague doctor hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2Y4HW5X/plague-mask-a-17th-century-illustration-of-a-plague-doctor-in-rome-dr-schnabel-wearing-a-mask-engraving-by-paulus-frst-1656-2Y4HW5X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

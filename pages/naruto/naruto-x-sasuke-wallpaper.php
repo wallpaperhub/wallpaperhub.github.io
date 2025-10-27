@@ -1,0 +1,129 @@
+<title>Naruto x Sasuke Wallpaper: Epic Designs for Your Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of Naruto x Sasuke wallpapers! Perfect for fans, our vibrant designs enhance your device's look with stunning visuals that capture their iconic bond. Explore now and find the perfect backdrop for your screen!">
+                    <meta name="keywords" content="naruto x sasuke wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/naruto-x-sasuke-wallpaper">
+                            <span itemprop="name">naruto x sasuke wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Naruto x Sasuke Wallpaper: Epic Designs for Your Screen</h1>
+                <p>Transform your screen with stunning Naruto x Sasuke wallpapers! These dynamic visuals capture the essence of their legendary rivalry and deep friendship, offering fans a perfect blend of action and emotion. Whether you prefer epic battles or serene moments, our collection has something for every Naruto enthusiast. Download now and elevate your backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Sasuke and Naruto Wallpaper for mobile : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7oe01izp22541.png?auto=webp&s=5112a81fc137164a20a3f7cc087190f54834171f' alt='I made a Sasuke and Naruto Wallpaper for mobile : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7oe01izp22541.png?auto=webp&s=5112a81fc137164a20a3f7cc087190f54834171f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Sasuke Wallpapers - Top Free Naruto Sasuke Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/04/97/8d04971705bd1e6ebce1ca7f3b8b8a3d.jpg' alt='Naruto Sasuke Wallpapers - Top Free Naruto Sasuke Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/04/97/8d04971705bd1e6ebce1ca7f3b8b8a3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendship Sasuke Naruto Iphone Anime Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/friendship-sasuke-naruto-iphone-anime-03poenv63nmtx1im.jpg' alt='Friendship Sasuke Naruto Iphone Anime Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/friendship-sasuke-naruto-iphone-anime-03poenv63nmtx1im.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto vs Sasuke Wallpaper [NxB Ninja Tribes] by Maxiuchiha22 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dei5u6d-4da4fd33-f73b-4c5b-afc0-c4095688d472.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVpNXU2ZC00ZGE0ZmQzMy1mNzNiLTRjNWItYWZjMC1jNDA5NTY4OGQ0NzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s0oM6RGmi9fX3Nw_PMS72XSXQLVVIDgthycu9WpzO2I' alt='Naruto vs Sasuke Wallpaper [NxB Ninja Tribes] by Maxiuchiha22 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2431">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dei5u6d-4da4fd33-f73b-4c5b-afc0-c4095688d472.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVpNXU2ZC00ZGE0ZmQzMy1mNzNiLTRjNWItYWZjMC1jNDA5NTY4OGQ0NzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s0oM6RGmi9fX3Nw_PMS72XSXQLVVIDgthycu9WpzO2I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Naruto and Sasuke, Anime, Naruto Uzumaki, Sasuke ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/33/fc/1333fcb480d630274e380d9ea6f3d117.jpg' alt='HD wallpaper: Naruto and Sasuke, Anime, Naruto Uzumaki, Sasuke ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/33/fc/1333fcb480d630274e380d9ea6f3d117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto and Sasuke Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/naruto-and-sasuke-chromebook-wallpaper.jpg' alt='Naruto and Sasuke Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/naruto-and-sasuke-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto and Sasuke, legends, powers, super, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/773/676/HD-wallpaper-naruto-and-sasuke-legends-powers-super.jpg' alt='Naruto and Sasuke, legends, powers, super, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/773/676/HD-wallpaper-naruto-and-sasuke-legends-powers-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To Back Sasuke And Naruto Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/back-to-back-sasuke-and-naruto-black-kya5qwmw93uzsvrp.jpg' alt='Back To Back Sasuke And Naruto Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/back-to-back-sasuke-and-naruto-black-kya5qwmw93uzsvrp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Naruto Vs Sasuke Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/naruto-vs-sasuke-bum1g0dwgkvbjff4.jpg' alt='100+] Naruto Vs Sasuke Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/naruto-vs-sasuke-bum1g0dwgkvbjff4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Naruto Sasuke Uchiha 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/137/1371045.png' alt='Download Naruto Sasuke Uchiha 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/137/1371045.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

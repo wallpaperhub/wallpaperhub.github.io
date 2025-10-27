@@ -1,0 +1,129 @@
+<title>"Inspire Your Day: Random Quote Generator"</title>
+                    <meta name="description" content="Discover the power of words with our quote generator! Get inspired with random quotes for motivation, creativity, and positivity. Perfect for daily uplift or project ideas, our tool offers a diverse collection of quotes tailored to your needs. Explore now and spark inspiration with just one click!">
+                    <meta name="keywords" content="quote generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/quote-generator">
+                            <span itemprop="name">quote generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Inspire Your Day: Random Quote Generator"</h1>
+                <p>A quote generator is a creative tool that provides users with random quotes for inspiration, motivation, or entertainment. Whether you need a daily boost of positivity or an impactful saying for a project, these generators can deliver a wide variety of quotes from famous figures to unique original lines, tailored to any theme or emotion you seek.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Quote Generator: Generate quotes in just a click | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/b9058eef-310a-4122-8ab8-69f72149a8b4/quote-generator_promo-showcase_012x.png' alt='AI Quote Generator: Generate quotes in just a click | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/b9058eef-310a-4122-8ab8-69f72149a8b4/quote-generator_promo-showcase_012x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Quote Generator | Kittl">
+                                <img itemprop="contentUrl url" src='https://cms-cdn.kittl.com/quote_generator_4_3bd57d5c74.png' alt='Free AI Quote Generator | Kittl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kittl" />
+                                </span>
+                                <a href='https://cms-cdn.kittl.com/quote_generator_4_3bd57d5c74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Generator Print">
+                                <img itemprop="contentUrl url" src='https://i.postergen.com/custom-poster-creator/preview-images/450x330/quote-generator-poster.jpg' alt='Quote Generator Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterGen.com" />
+                                </span>
+                                <a href='https://i.postergen.com/custom-poster-creator/preview-images/450x330/quote-generator-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Build A Random Quote Generator in HTML CSS & JavaScript | Step-By-Step  Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/I0v9ZOY3_0k/maxresdefault.jpg' alt='Build A Random Quote Generator in HTML CSS & JavaScript | Step-By-Step  Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/I0v9ZOY3_0k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make a Simple Quote Generator in JavaScript!">
+                                <img itemprop="contentUrl url" src='https://cdn.hashnode.com/res/hashnode/image/upload/v1590756776862/nPZE-pz6S.png' alt='Make a Simple Quote Generator in JavaScript!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Victoria Lo" />
+                                </span>
+                                <a href='https://cdn.hashnode.com/res/hashnode/image/upload/v1590756776862/nPZE-pz6S.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How I built my Random Quote Generator | by Jay Smith | codeburst">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:707/1*EsMCCubA6sFpsQt3h-Pq3Q.jpeg' alt='How I built my Random Quote Generator | by Jay Smith | codeburst'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="codeburst" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:707/1*EsMCCubA6sFpsQt3h-Pq3Q.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Quote Generator - QuotesCover.com">
+                                <img itemprop="contentUrl url" src='https://quotescover.com/wp-content/themes/qc2019/images/quote-generator.jpg' alt='Random Quote Generator - QuotesCover.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QuotesCover" />
+                                </span>
+                                <a href='https://quotescover.com/wp-content/themes/qc2019/images/quote-generator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Quote Generator: Generate quotes in just a click | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/3121af7a-3bb5-4ea7-9142-c753b3185ee6/quote-generator_promo-showcase_022x.png' alt='AI Quote Generator: Generate quotes in just a click | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/3121af7a-3bb5-4ea7-9142-c753b3185ee6/quote-generator_promo-showcase_022x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Quote Generator Using HTML, CSS and JavaScript - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210220191848/RandomQuoteGenerator.jpg' alt='Random Quote Generator Using HTML, CSS and JavaScript - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210220191848/RandomQuoteGenerator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quote generator — BLOG — Trey Speegle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/506910b184ae5a723be4b21f/1445279316646-ZI8XRBST9MFF1KWHBF1A/image-asset.jpeg' alt='quote generator — BLOG — Trey Speegle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trey Speegle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/506910b184ae5a723be4b21f/1445279316646-ZI8XRBST9MFF1KWHBF1A/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

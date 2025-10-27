@@ -1,0 +1,129 @@
+<title>Stunning Rug PNGs for Your Design Projects</title>
+                    <meta name="description" content="Discover a collection of high-quality rug PNG images. Perfect for designers and creatives, these transparent-background images enhance any project. Add vibrant colors and unique patterns with ease. Ideal for websites, graphics, and more!">
+                    <meta name="keywords" content="rug png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rug-png">
+                            <span itemprop="name">rug png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rug PNGs for Your Design Projects</h1>
+                <p>Rug PNG images are perfect for enhancing your design projects with vivid colors and intricate patterns. Whether you're designing a website, creating graphics, or looking for decorative elements, these high-quality images can add texture and warmth to any space. Enjoy the flexibility of transparent backgrounds for seamless integration into your work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classical Area Rug PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/classical-area-rug-y1vxA04-600.jpg' alt='Classical Area Rug PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/classical-area-rug-y1vxA04-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rug 5, Png Overlay. by lewis4721 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/dehqi4y-bf8b61e7-0e0c-4de2-b7a1-fdf595e07bf3.png/v1/fill/w_1280,h_366/rug_5__png_overlay__by_lewis4721_dehqi4y-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVocWk0eS1iZjhiNjFlNy0wZTBjLTRkZTItYjdhMS1mZGY1OTVlMDdiZjMucG5nIiwiaGVpZ2h0IjoiPD0zNjYiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9jZGJhOTU0Zi1hN2Y1LTQxN2EtOTMzNy04YjcxOTMyNmY2YmVcL2xld2lzNDcyMS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.9eFOYFk2fiJwGU2eaAasw2wwbRMip0Af5pXiz2Mg0ow' alt='Rug 5, Png Overlay. by lewis4721 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/dehqi4y-bf8b61e7-0e0c-4de2-b7a1-fdf595e07bf3.png/v1/fill/w_1280,h_366/rug_5__png_overlay__by_lewis4721_dehqi4y-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVocWk0eS1iZjhiNjFlNy0wZTBjLTRkZTItYjdhMS1mZGY1OTVlMDdiZjMucG5nIiwiaGVpZ2h0IjoiPD0zNjYiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9jZGJhOTU0Zi1hN2Y1LTQxN2EtOTMzNy04YjcxOTMyNmY2YmVcL2xld2lzNDcyMS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.9eFOYFk2fiJwGU2eaAasw2wwbRMip0Af5pXiz2Mg0ow' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Area Rug PNG Images & PSDs for Download | PixelSquid - S11115788D">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/area-rug-y1vk9lD-600.jpg' alt='Area Rug PNG Images & PSDs for Download | PixelSquid - S11115788D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/area-rug-y1vk9lD-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian carpet Oriental rug Couch Tapestry, carpet, carpet ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/70/477/png-clipart-persian-carpet-oriental-rug-couch-tapestry-carpet-carpet-oriental-rug.png' alt='Persian carpet Oriental rug Couch Tapestry, carpet, carpet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/70/477/png-clipart-persian-carpet-oriental-rug-couch-tapestry-carpet-carpet-oriental-rug.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rug Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-icon-with-black-white-ornamental-carpet-floor-vector-illustration_1284-66915.jpg' alt='Rug Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-icon-with-black-white-ornamental-carpet-floor-vector-illustration_1284-66915.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carpet, rug PNG transparent image download, size: 4162x1443px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/carpet_PNG57676.png' alt='Carpet, rug PNG transparent image download, size: 4162x1443px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4162">
+                                <meta itemprop="height" content="1443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/carpet_PNG57676.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carpet, rug PNG transparent image download, size: 3600x2700px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/carpet_PNG57665.png' alt='Carpet, rug PNG transparent image download, size: 3600x2700px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/carpet_PNG57665.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buffington Diamond Eye Trellis Tassel Rug PNG Images & PSDs for ...">
+                                <img itemprop="contentUrl url" src='https://atlas-content-cdn.pixelsquid.com/assets_v2/195/1951565408196630403/jpeg-600/G03.jpg?modifiedAt=1' alt='Buffington Diamond Eye Trellis Tassel Rug PNG Images & PSDs for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='https://atlas-content-cdn.pixelsquid.com/assets_v2/195/1951565408196630403/jpeg-600/G03.jpg?modifiedAt=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rug PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230516/ourmid/pngtree-carpet-background-png-image_7098803.png' alt='Rug PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230516/ourmid/pngtree-carpet-background-png-image_7098803.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carpet PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/378/433/small/a-3d-rendering-image-of-product-display-on-white-fur-png.png' alt='Carpet PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/378/433/small/a-3d-rendering-image-of-product-display-on-white-fur-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

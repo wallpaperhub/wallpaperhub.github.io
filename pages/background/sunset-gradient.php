@@ -1,0 +1,129 @@
+<title>Stunning Sunset Gradients: Nature's Colorful Canvas</title>
+                    <meta name="description" content="Discover the beauty of sunset gradients, where vibrant colors blend in mesmerizing hues. Explore how these breathtaking displays of nature inspire creativity and evoke emotions. Perfect for photography enthusiasts and nature lovers alike! Embrace the tranquility of sunsets today!">
+                    <meta name="keywords" content="sunset gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunset-gradient">
+                            <span itemprop="name">sunset gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sunset Gradients: Nature's Colorful Canvas</h1>
+                <p>Sunset gradients transform the sky into a breathtaking canvas of color as the sun dips below the horizon. Shades of orange, pink, and purple blend seamlessly, creating a mesmerizing display. Each sunset is unique, evoking emotions and inspiring creativity. Capture these fleeting moments to appreciate nature's beauty and find tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/50/06/93/360_F_250069352_PitJVkjli6V2SHg1iebombLyuKDbjV3y.jpg' alt='Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/50/06/93/360_F_250069352_PitJVkjli6V2SHg1iebombLyuKDbjV3y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Sunset Gradient Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1618576980905-8b704806a39b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwZ3JhZGllbnR8ZW58MHx8MHx8fDA%3D' alt='30k+ Sunset Gradient Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1618576980905-8b704806a39b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwZ3JhZGllbnR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/01/77/84/360_F_201778447_Xp9HDcVD2x3tBdg8QFbsc9xBKs3g3QnR.jpg' alt='Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/01/77/84/360_F_201778447_Xp9HDcVD2x3tBdg8QFbsc9xBKs3g3QnR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,800+ Sunset Gradient Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/534539387/vector/abstract-blurred-sunset-background.jpg?s=612x612&w=0&k=20&c=8jDmPU-4wprMtQeQ3-TbTVrV5EgoiFPFiwW-VQypAVU=' alt='41,800+ Sunset Gradient Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/534539387/vector/abstract-blurred-sunset-background.jpg?s=612x612&w=0&k=20&c=8jDmPU-4wprMtQeQ3-TbTVrV5EgoiFPFiwW-VQypAVU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Beach Colors as Gradient Art Print, Sunset Photograph">
+                                <img itemprop="contentUrl url" src='http://helenmakadiafineart.com/cdn/shop/products/Makadia_200616_8784.jpg?v=1648651991' alt='Sunset Beach Colors as Gradient Art Print, Sunset Photograph'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Helen Makadia Fine Art" />
+                                </span>
+                                <a href='http://helenmakadiafineart.com/cdn/shop/products/Makadia_200616_8784.jpg?v=1648651991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/soft-color-gradient-background_23-2147734149.jpg' alt='Sunset Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/soft-color-gradient-background_23-2147734149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,800+ Sunset Gradient Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365132896/vector/subtle-smooth-gradient-sunset-background.jpg?s=612x612&w=0&k=20&c=rNJ0PmwxjiDjFsQMOf3XpseZS8rjusdtVgdajdtZtu4=' alt='41,800+ Sunset Gradient Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365132896/vector/subtle-smooth-gradient-sunset-background.jpg?s=612x612&w=0&k=20&c=rNJ0PmwxjiDjFsQMOf3XpseZS8rjusdtVgdajdtZtu4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/43/49/29/360_F_443492987_gmwPnOTwF2dMSVUDq4ZmDE5KjR4swH7d.jpg' alt='Sunset Gradient Images – Browse 588,434 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/43/49/29/360_F_443492987_gmwPnOTwF2dMSVUDq4ZmDE5KjR4swH7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-blurred-background_1393-113.jpg' alt='Sunset Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-blurred-background_1393-113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Gradient Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/sunset-gradient.png' alt='Sunset Gradient Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/sunset-gradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

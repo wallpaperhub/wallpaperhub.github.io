@@ -1,0 +1,129 @@
+<title>Fun Mario Zoom Backgrounds for Gamers</title>
+                    <meta name="description" content="Explore exciting Mario Zoom backgrounds that bring a playful touch to your video calls. Perfect for gamers, these vibrant scenes create a lively atmosphere, making meetings more enjoyable. Discover your favorite Mario backdrop today and showcase your love for this iconic franchise!">
+                    <meta name="keywords" content="mario zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-zoom-background">
+                            <span itemprop="name">mario zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun Mario Zoom Backgrounds for Gamers</h1>
+                <p>Transform your virtual meetings with a fun Mario Zoom background! Choose from vibrant scenes like the Mushroom Kingdom or battle it out in Rainbow Road. Express your love for gaming while keeping your video calls lively and engaging. Whether for work or play, a Mario-themed backdrop adds personality and joy to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Bros | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Mario-Bros-Pipes-and-flags-scene-347.jpg' alt='Mario Bros | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Mario-Bros-Pipes-and-flags-scene-347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/super-mario-virtual-background-for-zoom.jpeg' alt='Super Mario Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/super-mario-virtual-background-for-zoom.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD funny mario wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/12/616/HD-wallpaper-de-mario-bros-mario-cartoon-green-fictional-character-play-super-mario-funny.jpg' alt='HD funny mario wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/12/616/HD-wallpaper-de-mario-bros-mario-cartoon-green-fictional-character-play-super-mario-funny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Wallpaper - Modern Learners">
+                                <img itemprop="contentUrl url" src='https://modernlearners.com/wp-content/uploads/2014/07/5169154193_4b8a5a7a80_z.jpg' alt='Super Mario Wallpaper - Modern Learners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Learners" />
+                                </span>
+                                <a href='https://modernlearners.com/wp-content/uploads/2014/07/5169154193_4b8a5a7a80_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Giving Away Free Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/super-mario-odyssey-luncheon-kingdom-zoom-background.jpg' alt='Nintendo Giving Away Free Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/super-mario-odyssey-luncheon-kingdom-zoom-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Backdrop Super Mario suprise land">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24888682/r/il/b5936e/3605085304/il_fullxfull.3605085304_d5ub.jpg' alt='Digital Backdrop Super Mario suprise land'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24888682/r/il/b5936e/3605085304/il_fullxfull.3605085304_d5ub.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros - Blue Screen Animation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MDAuUGP_Myw/hqdefault.jpg' alt='Super Mario Bros - Blue Screen Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MDAuUGP_Myw/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Do Super Mario Bros Level Ending Fireworks Display">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/z6025MxRX-A/maxresdefault.jpg' alt='How To Do Super Mario Bros Level Ending Fireworks Display'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/z6025MxRX-A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros. Wallpaper | How Do You Like Those Apples? ">
+                                <img itemprop="contentUrl url" src='https://applegeektreehouse.wordpress.com/wp-content/uploads/2011/05/11051611b.jpg' alt='Super Mario Bros. Wallpaper | How Do You Like Those Apples? '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="796">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How Do You Like Those Apples?  - WordPress.com" />
+                                </span>
+                                <a href='https://applegeektreehouse.wordpress.com/wp-content/uploads/2011/05/11051611b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario 1-1 Animated Wallpaper Gif - HD 1080p by ColinPlox on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da033e72-0c02-4f60-a051-5fbf5205e7e8/d2uolv5-34388794-cda3-4698-a432-327f020d3e49.gif/v1/fill/w_1192,h_670,q_85,strp/super_mario_1_1_animated_wallpaper_gif___hd_1080p_by_colinplox_d2uolv5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RhMDMzZTcyLTBjMDItNGY2MC1hMDUxLTVmYmY1MjA1ZTdlOFwvZDJ1b2x2NS0zNDM4ODc5NC1jZGEzLTQ2OTgtYTQzMi0zMjdmMDIwZDNlNDkuZ2lmIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9TtVtjyIw_NWwpjMgaulSCpOzZ6qXnkraH1Fi0MlB5g' alt='Super Mario 1-1 Animated Wallpaper Gif - HD 1080p by ColinPlox on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da033e72-0c02-4f60-a051-5fbf5205e7e8/d2uolv5-34388794-cda3-4698-a432-327f020d3e49.gif/v1/fill/w_1192,h_670,q_85,strp/super_mario_1_1_animated_wallpaper_gif___hd_1080p_by_colinplox_d2uolv5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RhMDMzZTcyLTBjMDItNGY2MC1hMDUxLTVmYmY1MjA1ZTdlOFwvZDJ1b2x2NS0zNDM4ODc5NC1jZGEzLTQ2OTgtYTQzMi0zMjdmMDIwZDNlNDkuZ2lmIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9TtVtjyIw_NWwpjMgaulSCpOzZ6qXnkraH1Fi0MlB5g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

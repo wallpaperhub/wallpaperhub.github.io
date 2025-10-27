@@ -1,0 +1,129 @@
+<title>Stunning Blue Liquid Backgrounds for Your Designs</title>
+                    <meta name="description" content="Discover beautiful blue liquid backgrounds perfect for enhancing your designs. Ideal for websites, graphics, or art projects, these dynamic visuals add a touch of serenity and style. Explore our collection and elevate your creative work with captivating blue tones!">
+                    <meta name="keywords" content="blue liquid background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-liquid-background">
+                            <span itemprop="name">blue liquid background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Liquid Backgrounds for Your Designs</h1>
+                <p>A blue liquid background creates a serene and calming atmosphere, making it a popular choice for digital designs and artistic expressions. This vibrant hue enhances visual appeal, often used in website themes, wallpapers, or social media graphics. Its versatility complements various styles, embodying freshness and tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Images – Browse 5,509,168 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/53/36/04/360_F_753360460_5oficI5lmOhGkYbizb6lWDIJX04n26Bp.jpg' alt='Blue Liquid Images – Browse 5,509,168 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/53/36/04/360_F_753360460_5oficI5lmOhGkYbizb6lWDIJX04n26Bp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Abstract Background, Backgrounds Motion Graphics ft ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/ee80e673-497b-4ed5-80ab-e9df5ec012f6/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=9032f09e4f6cefa95ef08c87da4826f582c5583e1ede7abf78f4c6c184a2a1ec' alt='Blue Liquid Abstract Background, Backgrounds Motion Graphics ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/ee80e673-497b-4ed5-80ab-e9df5ec012f6/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=9032f09e4f6cefa95ef08c87da4826f582c5583e1ede7abf78f4c6c184a2a1ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Abstract Background Artwork Graphic by TiveCreate ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/01/01/Blue-liquid-abstract-background-artwork-Graphics-22743000-1.jpg' alt='Blue Liquid Abstract Background Artwork Graphic by TiveCreate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4936">
+                                <meta itemprop="height" content="3319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/01/01/Blue-liquid-abstract-background-artwork-Graphics-22743000-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/marbled-blue-abstract-background-liquid-marble-pattern_1258-103570.jpg?semt=ais_hybrid' alt='Blue Liquid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/marbled-blue-abstract-background-liquid-marble-pattern_1258-103570.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1597773150796-e5c14ebecbf5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGxpcXVpZHxlbnwwfHwwfHx8MA%3D%3D' alt='Blue Liquid Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1597773150796-e5c14ebecbf5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGxpcXVpZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Liquid Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-1272841-T0mRJTHfHl-high_0004.jpg?w=660&q=60&fit=max&auto=format' alt='Blue Liquid Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-1272841-T0mRJTHfHl-high_0004.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Blue Abstract Ocean Background video | Footage | Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kNXf5YV4w_w/sddefault.jpg' alt='Liquid Blue Abstract Ocean Background video | Footage | Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kNXf5YV4w_w/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract liquid blue background. Liquid color waves background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/940/816/large_2x/abstract-liquid-blue-background-liquid-color-waves-background-marbled-blue-abstract-background-liquid-marble-pattern-colorful-fancy-liquify-background-glossy-liquid-acrylic-paint-texture-photo.jpg' alt='Abstract liquid blue background. Liquid color waves background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3920">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/940/816/large_2x/abstract-liquid-blue-background-liquid-color-waves-background-marbled-blue-abstract-background-liquid-marble-pattern-colorful-fancy-liquify-background-glossy-liquid-acrylic-paint-texture-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Background Blue Liquid Stock Photo, Picture and Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nouskrabs/nouskrabs1706/nouskrabs170600007/80001025-abstract-background-blue-liquid.jpg' alt='Abstract Background Blue Liquid Stock Photo, Picture and Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nouskrabs/nouskrabs1706/nouskrabs170600007/80001025-abstract-background-blue-liquid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Fluid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-99514.jpg' alt='Blue Fluid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-99514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

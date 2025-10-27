@@ -1,0 +1,129 @@
+<title>Stunning Lock Screen Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the perfect lock screen wallpaper for your iPhone! Browse through a wide selection of beautiful images that will personalize your device and express your style. Make your iPhone truly yours with unique and eye-catching wallpapers today!">
+                    <meta name="keywords" content="lock screen iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screen-iphone-wallpaper">
+                            <span itemprop="name">lock screen iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lock Screen Wallpapers for Your iPhone</h1>
+                <p>Unlock your iPhone's potential with stunning lock screen wallpapers! Whether you prefer serene landscapes, vibrant abstract art, or your favorite characters, the right wallpaper can transform your device's look. Change it up regularly to reflect your mood and style. Elevate your iPhone experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' alt='100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Aesthetic Lock Screen for iPhone / iOS 16">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/a0/11/baa011cadeb032b9b99c40951359cc0f.jpg' alt='Minimalist Aesthetic Lock Screen for iPhone / iOS 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/a0/11/baa011cadeb032b9b99c40951359cc0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="99+ Ocean Lock Screen ideas for iPhone - Download all | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' alt='99+ Ocean Lock Screen ideas for iPhone - Download all | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS wallpaper, lock screen, growth, plant, IPhone wallpaper, quotes,  sunshine">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25870992/r/il/77c714/3628021163/il_570xN.3628021163_juc8.jpg' alt='IOS wallpaper, lock screen, growth, plant, IPhone wallpaper, quotes,  sunshine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25870992/r/il/77c714/3628021163/il_570xN.3628021163_juc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Quote Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-aesthetic-quote-iphone-lock-screen-i8e60hp2qiykfetl.jpg' alt='Blue Aesthetic Quote Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-aesthetic-quote-iphone-lock-screen-i8e60hp2qiykfetl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper] My phone's Lock Screen Setups : r/iOSthemes">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-my-phones-lock-screen-setups-v0-5xdcmk8rfxxb1.jpg?width=640&crop=smart&auto=webp&s=23de009a0b9c44fa119a70562d8a9eff8915a3ad' alt='Wallpaper] My phone's Lock Screen Setups : r/iOSthemes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-my-phones-lock-screen-setups-v0-5xdcmk8rfxxb1.jpg?width=640&crop=smart&auto=webp&s=23de009a0b9c44fa119a70562d8a9eff8915a3ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/c7/6b/4ac76b85a79c8112b097cb2be4285de0.jpg' alt='31 Best Lock screen wallpaper iphone ideas | apple logo wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/c7/6b/4ac76b85a79c8112b097cb2be4285de0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Lock Screen Fingerprint Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-lock-screen-fingerprint-9ftsxkszhqlyce90.webp' alt='Cool Lock Screen Fingerprint Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-lock-screen-fingerprint-9ftsxkszhqlyce90.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' alt='Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen, Sun And Moon, black background, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/850/332/HD-wallpaper-iphone-lock-screen-sun-and-moon-black-background.jpg' alt='Iphone Lock Screen, Sun And Moon, black background, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/850/332/HD-wallpaper-iphone-lock-screen-sun-and-moon-black-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

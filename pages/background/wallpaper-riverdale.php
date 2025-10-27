@@ -1,0 +1,129 @@
+<title>Riverdale Wallpaper: Transform Your Space with Style</title>
+                    <meta name="description" content="Discover the perfect Riverdale wallpaper to elevate your home decor. Explore a variety of designs that feature your favorite characters and scenes. Ideal for fans looking to add a unique touch, our selection is sure to inspire and invigorate any room in your house!">
+                    <meta name="keywords" content="wallpaper riverdale">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wallpaper-riverdale">
+                            <span itemprop="name">wallpaper riverdale</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Riverdale Wallpaper: Transform Your Space with Style</h1>
+                <p>Transform your space with stunning Riverdale-themed wallpaper! Perfect for fans of the show, these wallpapers feature iconic characters and vibrant designs. Whether you're redecorating your bedroom or a creative corner, Riverdale wallpaper brings a touch of drama and nostalgia to your walls. Dive into your favorite scenes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Riverdale">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/06/b0/1106b0eacf035bd68209c34f4ef37696.jpg' alt='Lockscreen Wallpaper Riverdale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/06/b0/1106b0eacf035bd68209c34f4ef37696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Seasons Posters Wallpaper I made months ago. : r/riverdale">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lx9ix7ouggb71.jpg' alt='All Seasons Posters Wallpaper I made months ago. : r/riverdale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lx9ix7ouggb71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riverdale wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/0e/ab/0e0eabc89192232483665cb3dddaae56.jpg' alt='Riverdale wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/0e/ab/0e0eabc89192232483665cb3dddaae56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riverdale Girls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/riverdale-girls-8c874sd2autx127n.jpg' alt='Riverdale Girls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/riverdale-girls-8c874sd2autx127n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Riverdale Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/riverdale-nxnsotd3ztakjf7i.jpg' alt='100+] Riverdale Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/riverdale-nxnsotd3ztakjf7i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riverdale Die Diner Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/riverdale-die-diner-oytt2f0eis9azo0n.jpg' alt='Riverdale Die Diner Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/riverdale-die-diner-oytt2f0eis9azo0n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riverdale wallpaper 1 by HappinessIsMusic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c442f8f5-9c91-49ce-9995-6bf93305c73f/ddidbdz-d126e1f4-d1b6-4403-9f06-30abbbbcf9cd.jpg/v1/fill/w_1280,h_720,q_75,strp/riverdale_wallpaper_1_by_happinessismusic_ddidbdz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzQ0MmY4ZjUtOWM5MS00OWNlLTk5OTUtNmJmOTMzMDVjNzNmXC9kZGlkYmR6LWQxMjZlMWY0LWQxYjYtNDQwMy05ZjA2LTMwYWJiYmJjZjljZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jroZ4d6jLSekPl_VErqyoO4GSolhqoI7hI1-PIJ_W4g' alt='Riverdale wallpaper 1 by HappinessIsMusic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c442f8f5-9c91-49ce-9995-6bf93305c73f/ddidbdz-d126e1f4-d1b6-4403-9f06-30abbbbcf9cd.jpg/v1/fill/w_1280,h_720,q_75,strp/riverdale_wallpaper_1_by_happinessismusic_ddidbdz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzQ0MmY4ZjUtOWM5MS00OWNlLTk5OTUtNmJmOTMzMDVjNzNmXC9kZGlkYmR6LWQxMjZlMWY0LWQxYjYtNDQwMy05ZjA2LTMwYWJiYmJjZjljZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jroZ4d6jLSekPl_VErqyoO4GSolhqoI7hI1-PIJ_W4g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/d9/91/17d991d50d27b5642656c63021602fb5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/d9/91/17d991d50d27b5642656c63021602fb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Riverdale (TV Show) TV Show Riverdale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/108/1082031.jpg' alt='Download Riverdale (TV Show) TV Show Riverdale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/108/1082031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Riverdale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/112/1129307.jpg' alt='Download TV Show Riverdale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3158">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/112/1129307.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for The Last of Us 2</title>
+                    <meta name="description" content="Discover breathtaking 4K wallpapers for The Last of Us 2. Elevate your devices with stunning visuals that capture the game's memorable moments and landscapes, perfect for fans seeking to showcase their love for this iconic title. Download now and immerse yourself in the haunting beauty of the world!">
+                    <meta name="keywords" content="the last of us 2 wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/the-last-of-us-2-wallpaper-4k">
+                            <span itemprop="name">the last of us 2 wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for The Last of Us 2</h1>
+                <p>The Last of Us 2 has captivated gamers with its stunning visuals and gripping narrative. Enhance your device with 4K wallpapers that showcase the breathtaking landscapes and character artistry. Each wallpaper immerses you in the game's post-apocalyptic world, making it perfect for fans wanting to relive their favorite moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New The Last of Us Part II Key Daylight Artwork As a 4k Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6mp2dh37lyg41.jpg' alt='New The Last of Us Part II Key Daylight Artwork As a 4k Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6mp2dh37lyg41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Of Us Part II [3840 x 2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ebmyt82afuc51.png' alt='The Last Of Us Part II [3840 x 2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ebmyt82afuc51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Part II Remastered - Official Wallpaper without ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/24qzdk20hf4c1.png' alt='The Last of Us Part II Remastered - Official Wallpaper without ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/24qzdk20hf4c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Part 2 Ellie 4K Wallpaper - Download Free 4K ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/the-last-of-us-part-2-ellie-4k-wallpaper/?download-img=4k' alt='The Last of Us Part 2 Ellie 4K Wallpaper - Download Free 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/the-last-of-us-part-2-ellie-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tlou 2 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/the-last-of-us-part-ii-ellie-playstation-4-2020-games-3840x2160-1877.jpg' alt='Tlou 2 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/the-last-of-us-part-ii-ellie-playstation-4-2020-games-3840x2160-1877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The last of us store 2 4k wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/788/788051.jpg' alt='The last of us store 2 4k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/788/788051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The last of us store 2 4k wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-last-of-us-2-wallpaper-1mx18aw1fc2ie4pj.jpg' alt='The last of us store 2 4k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-last-of-us-2-wallpaper-1mx18aw1fc2ie4pj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the last of us 2025 2">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1023/618/HD-wallpaper-the-last-of-us-2-ellie-guitar-instrument-torches-games.jpg' alt='Wallpaper the last of us 2025 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1023/618/HD-wallpaper-the-last-of-us-2-ellie-guitar-instrument-torches-games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Last Of Us Video Game The Last Of Us Part II 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/133/1333867.jpeg' alt='Download The Last Of Us Video Game The Last Of Us Part II 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/133/1333867.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game, The Last of Us Part II, Ellie (The Last of Us), Joel ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/289/986/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-joel-the-last-of-us-the-last-of-us.jpg' alt='Video Game, The Last of Us Part II, Ellie (The Last of Us), Joel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/289/986/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-joel-the-last-of-us-the-last-of-us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

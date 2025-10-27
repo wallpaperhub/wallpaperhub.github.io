@@ -1,0 +1,129 @@
+<title>Goku vs Vegeta 4K Wallpapers: Epic Battle Designs!</title>
+                    <meta name="description" content="Explore a collection of breathtaking 4K wallpapers of Goku and Vegeta battling! Perfect for fans of Dragon Ball, these high-resolution images bring your favorite characters to life. Download now and enhance your device with stunning visuals that showcase their legendary rivalry!">
+                    <meta name="keywords" content="goku vs vegeta wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/goku-vs-vegeta-wallpaper-4k">
+                            <span itemprop="name">goku vs vegeta wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goku vs Vegeta 4K Wallpapers: Epic Battle Designs!</h1>
+                <p>Discover stunning 4K wallpapers featuring the epic rivalry between Goku and Vegeta! Transform your device's screen with vibrant, high-resolution images that capture the intensity of their battles and transformations. Whether you're a fan of Dragon Ball Z or Super, these wallpapers will breathe life into your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku vs Vegeta Dragon Ball Super 8K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-vegeta-dragon-ball-super-5k-8k-2880x1800-5093.jpg' alt='Goku vs Vegeta Dragon Ball Super 8K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-vegeta-dragon-ball-super-5k-8k-2880x1800-5093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goku And Vegeta Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-and-vegeta-wnx3xrdlwg1e0r0m.jpg' alt='100+] Goku And Vegeta Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-and-vegeta-wnx3xrdlwg1e0r0m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku vs Majin Vegeta, dragonballs, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/906/722/HD-wallpaper-goku-vs-majin-vegeta-dragonballs-anime.jpg' alt='Goku vs Majin Vegeta, dragonballs, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/906/722/HD-wallpaper-goku-vs-majin-vegeta-dragonballs-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Clash: Goku vs Vegeta in 4K Ultra HD - Dragon Ball Sparking! ZERO">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/137/1379067.jpg' alt='Epic Clash: Goku vs Vegeta in 4K Ultra HD - Dragon Ball Sparking! ZERO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/137/1379067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball Wallpaper , Goku vs Majin vegeta and Piccolo : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dragon-ball-wallpaper-goku-vs-majin-vegeta-and-piccolo-v0-2ignggzfrgz91.jpg?width=1843&format=pjpg&auto=webp&s=6d282b929e2fad89a10e2b03a4b2dd6a001dacc4' alt='Dragon ball Wallpaper , Goku vs Majin vegeta and Piccolo : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1843">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dragon-ball-wallpaper-goku-vs-majin-vegeta-and-piccolo-v0-2ignggzfrgz91.jpg?width=1843&format=pjpg&auto=webp&s=6d282b929e2fad89a10e2b03a4b2dd6a001dacc4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Kai - Goku vs Vegeta / op frame 4k by Heracles-VIII on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39e9fa99-2e6d-4993-8cb0-8c357916e71c/dfhxldt-0fa15b5a-2349-4474-b579-397e13160d2e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZTlmYTk5LTJlNmQtNDk5My04Y2IwLThjMzU3OTE2ZTcxY1wvZGZoeGxkdC0wZmExNWI1YS0yMzQ5LTQ0NzQtYjU3OS0zOTdlMTMxNjBkMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4smmZvaeKGFXwMuDJSJrs-UMXkrXxEQ7we5doW0xooI' alt='Dragon Ball Kai - Goku vs Vegeta / op frame 4k by Heracles-VIII on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39e9fa99-2e6d-4993-8cb0-8c357916e71c/dfhxldt-0fa15b5a-2349-4474-b579-397e13160d2e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZTlmYTk5LTJlNmQtNDk5My04Y2IwLThjMzU3OTE2ZTcxY1wvZGZoeGxkdC0wZmExNWI1YS0yMzQ5LTQ0NzQtYjU3OS0zOTdlMTMxNjBkMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4smmZvaeKGFXwMuDJSJrs-UMXkrXxEQ7we5doW0xooI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan God SS Goku & Super Saiyan God SS Vegeta 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/super-saiyan-goku-2048x2048-17119.jpeg' alt='Super Saiyan God SS Goku & Super Saiyan God SS Vegeta 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/super-saiyan-goku-2048x2048-17119.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Battle - Goku vs Vegeta HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/197/thumb-1920-197836.jpg' alt='Super Saiyan Battle - Goku vs Vegeta HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/197/thumb-1920-197836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD goku vs vegeta wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/851/786/HD-wallpaper-goku-vs-vegeta-goku-vegeta-thumbnail.jpg' alt='HD goku vs vegeta wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/851/786/HD-wallpaper-goku-vs-vegeta-goku-vegeta-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku vs Vegeta">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/99/ab/2b99ab4b15afc8cc27e351d7e7231edf.jpg' alt='Goku vs Vegeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/99/ab/2b99ab4b15afc8cc27e351d7e7231edf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

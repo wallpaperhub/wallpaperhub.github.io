@@ -1,0 +1,129 @@
+<title>"Embrace Positivity: The Black Smiley Face Icon"</title>
+                    <meta name="description" content="Discover the charm of the black smiley face! This simple yet powerful icon symbolizes joy and positivity in digital communication. Perfect for adding a cheerful touch to your messages. Explore why this visual staple continues to resonate with users worldwide!">
+                    <meta name="keywords" content="black.smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blacksmiley-face">
+                            <span itemprop="name">black.smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Embrace Positivity: The Black Smiley Face Icon"</h1>
+                <p>The black smiley face, a symbol of joy and positivity, stands out in a world of colors. Its simplicity conveys happiness universally. Often used in text messages and social media, it adds a playful touch to conversations. Whether expressing humor or friendship, the black smiley face remains a favorite icon of modern communication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Smiley Face Emoji SVG, Basic Smile Clipart SVG Instant ...">
+                                <img itemprop="contentUrl url" src='https://www.premiumsvg.com/wimg1/black-smiley-face-emoji.webp' alt='Black Smiley Face Emoji SVG, Basic Smile Clipart SVG Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Premium Svg" />
+                                </span>
+                                <a href='https://www.premiumsvg.com/wimg1/black-smiley-face-emoji.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAUS AND HUES Black Wall Art, Smiley Face Art,Black and White Poster Smiley  Face Picture, Smiley Face Poster, Black Aesthetic Room Decor (Black Frame,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eTI3bCCXL._AC_UF894,1000_QL80_.jpg' alt='HAUS AND HUES Black Wall Art, Smiley Face Art,Black and White Poster Smiley  Face Picture, Smiley Face Poster, Black Aesthetic Room Decor (Black Frame,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eTI3bCCXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Black Smiley Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/contemporary-black-smiley-face-mp5wm9iuaiw2oinx.jpg' alt='Contemporary Black Smiley Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/contemporary-black-smiley-face-mp5wm9iuaiw2oinx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Black And White Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/623/005/non_2x/simple-line-drawing-of-a-smiley-face-icon-vector.jpg' alt='Smiley Face Black And White Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/623/005/non_2x/simple-line-drawing-of-a-smiley-face-icon-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black smiling face" Emoji - Download for free – Iconduck">
+                                <img itemprop="contentUrl url" src='https://static-00.iconduck.com/assets.00/black-smiling-face-emoji-2048x2048-vmfi1gk5.png' alt='black smiling face" Emoji - Download for free – Iconduck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconduck" />
+                                </span>
+                                <a href='https://static-00.iconduck.com/assets.00/black-smiling-face-emoji-2048x2048-vmfi1gk5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Outline - Black, Happy, Face, Emoji, Vector Art, Instant Digital  Download; Svg Cut Files, Png, Jpg, Ai, Printing, Cricut, Silhouette!">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21320294/r/il/236416/5348459624/il_fullxfull.5348459624_46qm.jpg' alt='Smiley Outline - Black, Happy, Face, Emoji, Vector Art, Instant Digital  Download; Svg Cut Files, Png, Jpg, Ai, Printing, Cricut, Silhouette!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21320294/r/il/236416/5348459624/il_fullxfull.5348459624_46qm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Smiley Face In Black Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minimalist-smiley-face-in-black-background-e7l0binib2xnxy35.jpg' alt='Minimalist Smiley Face In Black Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minimalist-smiley-face-in-black-background-e7l0binib2xnxy35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji black smiley crazy face Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/00/95/emoji-black-smiley-crazy-face-vector-31720095.jpg' alt='Emoji black smiley crazy face Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/00/95/emoji-black-smiley-crazy-face-vector-31720095.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Smiley face black boho 70's retro smile fun embroidered  applique iron-on patch new : Arts, Crafts & Sewing">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91IeDDlbBhL.jpg' alt='Amazon.com: Smiley face black boho 70's retro smile fun embroidered  applique iron-on patch new : Arts, Crafts & Sewing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1489">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91IeDDlbBhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enigmatic Black Smile On Grunge Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/enigmatic-black-smile-on-grunge-background-jeq4hs19ftg2fk21.webp' alt='Enigmatic Black Smile On Grunge Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/enigmatic-black-smile-on-grunge-background-jeq4hs19ftg2fk21.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

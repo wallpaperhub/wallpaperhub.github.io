@@ -1,0 +1,129 @@
+<title>Stunning Dark Purple Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover a collection of striking dark purple lock screen wallpapers to elevate your device's look. Perfect for adding a touch of sophistication and creativity, these vibrant wallpapers are designed to enhance your mobile experience. Download your favorite shades today and personalize your device effortlessly!">
+                    <meta name="keywords" content="dark purple purple lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/dark-purple-purple-lock-screen-wallpaper">
+                            <span itemprop="name">dark purple purple lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Purple Lock Screen Wallpapers</h1>
+                <p>Transform your device with stunning dark purple lock screen wallpapers that exude elegance and mystery. Perfect for those who appreciate depth, these wallpapers offer a rich, velvety backdrop that enhances your device's aesthetics. Choose from various shades of dark purple to find the perfect match for your personal style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple 3d stars on black color IPhone wallpaper lock screen background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5d/df/a3/5ddfa35f1c775a09c66f5a1236fa6811.jpg' alt='purple 3d stars on black color IPhone wallpaper lock screen background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5d/df/a3/5ddfa35f1c775a09c66f5a1236fa6811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple sky iPhone wallpaper HD Dark lockscreen cute 4k images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/68/e0/6f68e05fce3812f1efe9ff7d481febe4.jpg' alt='Purple sky iPhone wallpaper HD Dark lockscreen cute 4k images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/68/e0/6f68e05fce3812f1efe9ff7d481febe4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nice Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/nice-purple-aesthetic-iphone-lockscreen-tu5c2jikjvqh3wwj.jpg' alt='Nice Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/nice-purple-aesthetic-iphone-lockscreen-tu5c2jikjvqh3wwj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/91/24/7791248519c7c9f06b6f7ba2b3f8bc66.jpg' alt='Lockscreens   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/91/24/7791248519c7c9f06b6f7ba2b3f8bc66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ink, aesthetic, cool, ink, lockscreen, purple, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/124/277/HD-wallpaper-purple-ink-aesthetic-cool-ink-lockscreen-purple.jpg' alt='Purple Ink, aesthetic, cool, ink, lockscreen, purple, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/124/277/HD-wallpaper-purple-ink-aesthetic-cool-ink-lockscreen-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic, circles, lock screen, simple, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/256/200/HD-wallpaper-purple-aesthetic-circles-lock-screen-simple-thumbnail.jpg' alt='Purple Aesthetic, circles, lock screen, simple, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/256/200/HD-wallpaper-purple-aesthetic-circles-lock-screen-simple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e6/4b/16/e64b16ed2f67ea034c3ebd4eb00d5e54.jpg' alt='Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e6/4b/16/e64b16ed2f67ea034c3ebd4eb00d5e54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovely Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lovely-purple-aesthetic-iphone-lockscreen-cv4tspbg2p655u41.jpg' alt='Lovely Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lovely-purple-aesthetic-iphone-lockscreen-cv4tspbg2p655u41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Mysterious Purple Aesthetic Wallpapers - Art Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/11/cool-mysterious-purple-aesthetic-wallpaper.jpg' alt='Cool Mysterious Purple Aesthetic Wallpapers - Art Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="3171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/11/cool-mysterious-purple-aesthetic-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper on X: "4k #wallpaper for your #smartphone lockscreen and ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FWXccJxWQAkErGJ.jpg:large' alt='Wallpaper on X: "4k #wallpaper for your #smartphone lockscreen and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FWXccJxWQAkErGJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

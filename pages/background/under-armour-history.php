@@ -1,0 +1,129 @@
+<title>Discover the Inspiring History of Under Armour</title>
+                    <meta name="description" content="Explore the journey of Under Armour, from its innovative beginnings in 1996 to becoming a leading sportswear brand. Learn about its groundbreaking moisture-wicking technology and how it revolutionized athletic apparel for millions worldwide.">
+                    <meta name="keywords" content="under armour history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/under-armour-history">
+                            <span itemprop="name">under armour history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Inspiring History of Under Armour</h1>
+                <p>Under Armour was founded in 1996 by Kevin Plank, a former University of Maryland football player. The brand started with the innovative idea of moisture-wicking fabric, designed to keep athletes dry. Over the years, it grew into a global sportswear powerhouse, offering a wide range of performance apparel, footwear, and accessories for athletes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating 25 Years of Under Armour">
+                                <img itemprop="contentUrl url" src='https://about.underarmour.com/content/ua/about/na/us/en/stories/2021/07/celebrating-25-years-of-under-armour/_jcr_content/root/container/image.coreimg.jpg' alt='Celebrating 25 Years of Under Armour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under Armour" />
+                                </span>
+                                <a href='https://about.underarmour.com/content/ua/about/na/us/en/stories/2021/07/celebrating-25-years-of-under-armour/_jcr_content/root/container/image.coreimg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under Armour Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-Logo-history.jpg' alt='Under Armour Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-Logo-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History">
+                                <img itemprop="contentUrl url" src='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/promo_copy.coreimg.jpg' alt='History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under Armour" />
+                                </span>
+                                <a href='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/promo_copy.coreimg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History">
+                                <img itemprop="contentUrl url" src='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/multipromo_copy_1766_101142795/links/links2_6852228.coreimg.jpg' alt='History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under Armour" />
+                                </span>
+                                <a href='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/multipromo_copy_1766_101142795/links/links2_6852228.coreimg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under Armour Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2020/05/Under-Armour-Logo-History.jpg' alt='Under Armour Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2020/05/Under-Armour-Logo-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History">
+                                <img itemprop="contentUrl url" src='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/container_335944257/video_184052147.coreimg.jpg' alt='History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under Armour" />
+                                </span>
+                                <a href='https://about.underarmour.com/content/ua/about/na/us/en/our-company/history/_jcr_content/root/container/container_335944257/video_184052147.coreimg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Evolution of the Under Armour Logo - Famous ...">
+                                <img itemprop="contentUrl url" src='https://companylogos.org/wp-content/uploads/2024/12/Under-Armour-logo-history-1.jpg' alt='The History and Evolution of the Under Armour Logo - Famous ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company Logos" />
+                                </span>
+                                <a href='https://companylogos.org/wp-content/uploads/2024/12/Under-Armour-logo-history-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Under Armour - Mainline Menswear Blog (UK)">
+                                <img itemprop="contentUrl url" src='https://cdn.mainlinemenswear.co.uk/f_auto,q_auto/blogapi/2016/11/UNDER-ARMOUR-1.jpg' alt='History of Under Armour - Mainline Menswear Blog (UK)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mainline Menswear" />
+                                </span>
+                                <a href='https://cdn.mainlinemenswear.co.uk/f_auto,q_auto/blogapi/2016/11/UNDER-ARMOUR-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of The Under Armour Logo - Hatchwise">
+                                <img itemprop="contentUrl url" src='https://www.hatchwise.com/wp-content/uploads/2024/04/image-12.png' alt='The Complete History Of The Under Armour Logo - Hatchwise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hatchwise" />
+                                </span>
+                                <a href='https://www.hatchwise.com/wp-content/uploads/2024/04/image-12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of The Under Armour Logo - Hatchwise">
+                                <img itemprop="contentUrl url" src='https://www.hatchwise.com/wp-content/uploads/2024/04/image-11.png' alt='The Complete History Of The Under Armour Logo - Hatchwise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hatchwise" />
+                                </span>
+                                <a href='https://www.hatchwise.com/wp-content/uploads/2024/04/image-11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

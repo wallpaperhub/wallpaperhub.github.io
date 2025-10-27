@@ -1,0 +1,129 @@
+<title>Epic Miles Morales Wallpapers for iPhone 7</title>
+                    <meta name="description" content="Discover the best Miles Morales wallpapers for your iPhone 7. Enhance your device with stunning visuals from Spider-Man: Into the Spider-Verse. Explore unique designs that celebrate this beloved character, perfect for any fan! Download your favorite now for an upgrade that stands out.">
+                    <meta name="keywords" content="iphone 7 miles morales wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-7-miles-morales-wallpaper">
+                            <span itemprop="name">iphone 7 miles morales wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Miles Morales Wallpapers for iPhone 7</h1>
+                <p>Transform your iPhone 7 with stunning Miles Morales wallpapers! Embrace the dynamic energy of Spider-Man: Into the Spider-Verse with vibrant designs featuring the iconic superhero. Explore a variety of artistic styles that capture Miles' adventures. Elevate your device's look and get ready to swing into action!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Light Marvel Superhero Miles Morales iPhone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/miles-morales-iphone-gsw7vzkqajpwubyz.jpg' alt='Download Neon Light Marvel Superhero Miles Morales iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/miles-morales-iphone-gsw7vzkqajpwubyz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Miles Morales 4K IPhone Wallpaper (Source in Comments ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/19chn2b784a51.jpg' alt='Spider-Man: Miles Morales 4K IPhone Wallpaper (Source in Comments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/19chn2b784a51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles morales, amoled, black, colourful, galaxy, red, sneakers ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/582/759/HD-wallpaper-miles-morales-amoled-black-colourful-galaxy-red-sneakers-spiderman-star.jpg' alt='Miles morales, amoled, black, colourful, galaxy, red, sneakers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/582/759/HD-wallpaper-miles-morales-amoled-black-colourful-galaxy-red-sneakers-spiderman-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hanging Spider Man Miles Morales iPhone Digital ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/miles-morales-iphone-7zrgv4pvdrzlkmns.jpg' alt='Download Hanging Spider Man Miles Morales iPhone Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/miles-morales-iphone-7zrgv4pvdrzlkmns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Wallpaper 4K, Spider-Man, Dark">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/miles-morales-spider-man-dark-black-background-artwork-5k-8k-1080x2340-1902.png' alt='Miles Morales Wallpaper 4K, Spider-Man, Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/miles-morales-spider-man-dark-black-background-artwork-5k-8k-1080x2340-1902.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Miles Morales Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/miles-morales-iphone-2h7rowyeh0jxzc2q.jpg' alt='100+] Miles Morales Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1295">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/miles-morales-iphone-2h7rowyeh0jxzc2q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Spiderman iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/5d/f1/4f5df1d97e32d96a909c74c480785c32.jpg' alt='Miles Morales Spiderman iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/5d/f1/4f5df1d97e32d96a909c74c480785c32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/998/998076.jpeg' alt='Miles Morales iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/998/998076.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man, marvel, miles morales, ps5, spider-man, spiderman, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/374/545/HD-wallpaper-spider-man-marvel-miles-morales-ps5-spider-man-spiderman.jpg' alt='Spider-Man, marvel, miles morales, ps5, spider-man, spiderman, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/374/545/HD-wallpaper-spider-man-marvel-miles-morales-ps5-spider-man-spiderman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 750x1334 miles morales, video game, 2020, ps5 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/750x1334/0fdc92/miles-morales-4k-ps5.jpeg' alt='Download wallpaper 750x1334 miles morales, video game, 2020, ps5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/750x1334/0fdc92/miles-morales-4k-ps5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

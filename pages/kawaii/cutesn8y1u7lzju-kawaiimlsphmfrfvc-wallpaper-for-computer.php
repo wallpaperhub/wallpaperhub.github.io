@@ -1,0 +1,129 @@
+<title>Kawaii Wallpapers: Cute Designs for Your Computer</title>
+                    <meta name="description" content="Enhance your screen with our kawaii-themed wallpapers! Perfect for lovers of all things cute, these delightful backgrounds will brighten up your computer. Explore now for a collection of adorable designs that fit your style and bring happiness to your workspace!">
+                    <meta name="keywords" content="cute:sn8y1u7lzju= kawaii:mlsphmfrfvc= wallpaper for computer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cutesn8y1u7lzju-kawaiimlsphmfrfvc-wallpaper-for-computer">
+                            <span itemprop="name">cute:sn8y1u7lzju= kawaii:mlsphmfrfvc= wallpaper for computer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Wallpapers: Cute Designs for Your Computer</h1>
+                <p>Discover the charm of cute kawaii wallpapers for your computer! Transform your workspace with adorable designs that bring a smile to your face. From whimsical characters to pastel colors, our collection is perfect for adding a touch of joy to your screen. Explore the cutest backgrounds today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kawaii-laptop-894wz52djgyylsau.jpg' alt='100+] Kawaii Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kawaii-laptop-894wz52djgyylsau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Desktop Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cartoon-style-summer-scene-with-cute-animals_23-2151068431.jpg' alt='Kawaii Desktop Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cartoon-style-summer-scene-with-cute-animals_23-2151068431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/04/peach-goma-spring-picnic-desktop-wallpaper-kawaii-hoshi-438x299.jpg' alt='Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kawaiihoshi.com" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/04/peach-goma-spring-picnic-desktop-wallpaper-kawaii-hoshi-438x299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Desktop Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/there-are-many-small-cartoon-animals-field-flowers-generative-ai_958192-57823.jpg?semt=ais_hybrid' alt='Kawaii Desktop Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/there-are-many-small-cartoon-animals-field-flowers-generative-ai_958192-57823.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 ʚ♡Kawaii Wallpaper For Pc♡ɞ ideas | kawaii wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/51/82/83/518283202ffb2e7370d61931a265fb85.jpg' alt='24 ʚ♡Kawaii Wallpaper For Pc♡ɞ ideas | kawaii wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/51/82/83/518283202ffb2e7370d61931a265fb85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-laptop-uikiidtffycoc9fy.jpg' alt='100+] Kawaii Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-laptop-uikiidtffycoc9fy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-laptop-y2tpz52w9s4ps3li.jpg' alt='100+] Kawaii Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-laptop-y2tpz52w9s4ps3li.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/03/peach-goma-seaside-cafe-desktop-wallpaper-kawaii-hoshi-438x299.jpg' alt='Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kawaiihoshi.com" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/03/peach-goma-seaside-cafe-desktop-wallpaper-kawaii-hoshi-438x299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/07/peach-goma-july-swimming-bubbles-desktop-wallpaper-kawaii-hoshi-438x299.jpg' alt='Kawaii Hoshi ♥︎ Cute Wallpapers & Kawaii Backgrounds ♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kawaiihoshi.com" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/07/peach-goma-july-swimming-bubbles-desktop-wallpaper-kawaii-hoshi-438x299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Desktop Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/hand-drawn-cartoon-illustration-cute-rabbit-eating-dessert-cake_561641-8161.jpg?semt=ais_hybrid' alt='Kawaii Desktop Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/hand-drawn-cartoon-illustration-cute-rabbit-eating-dessert-cake_561641-8161.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

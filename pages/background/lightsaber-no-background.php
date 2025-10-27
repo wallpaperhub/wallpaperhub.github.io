@@ -1,0 +1,129 @@
+<title>Lightsaber: The Ultimate Guide to Power and Myth</title>
+                    <meta name="description" content="Explore the captivating world of lightsabers! Discover their history, colors, and significance in the Star Wars universe. From Jedi teachings to Sith lore, immerse yourself in this iconic symbol of adventure. Perfect for fans and newcomers alike, learn what makes each lightsaber special!">
+                    <meta name="keywords" content="lightsaber no background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lightsaber-no-background">
+                            <span itemprop="name">lightsaber no background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lightsaber: The Ultimate Guide to Power and Myth</h1>
+                <p>Lightsabers, the iconic weapons from the Star Wars universe, are symbols of power and skill. These vibrant energy swords come in various colors, each representing different characteristics and affiliations of their wielders. Their unique design and sound effects make them a favorite among fans, showcasing a blend of mythology and technological wonder.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Star Wars Blue Lightsaber Transparent PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-star-wars-blue-lightsaber-transparent-png-733961695034176vxyuavstxo.png' alt='HD Star Wars Blue Lightsaber Transparent PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-star-wars-blue-lightsaber-transparent-png-733961695034176vxyuavstxo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Green lightsaber transparent.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f8/Green_lightsaber_transparent.png' alt='File:Green lightsaber transparent.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f8/Green_lightsaber_transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber PNG transparent image download, size: 883x904px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lightsaber_PNG17.png' alt='Lightsaber PNG transparent image download, size: 883x904px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lightsaber_PNG17.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lightsaber Png Clipart Obi-wan Kenobi Luke Skywalker - Star ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/ce/70/4f/ce704f8fdf04fcd0e4645820c8ae3148.jpg' alt='Blue Lightsaber Png Clipart Obi-wan Kenobi Luke Skywalker - Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/ce/70/4f/ce704f8fdf04fcd0e4645820c8ae3148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a bunch of Lightsaber images/icons for your usage. [more ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/uut7YoiDMCVTwWZ0h6UdhK5KES8W-ZuXrL_MyT_sh8I.jpg?auto=webp&s=6aa5f4402fc15124b5e227bfa9e565e86242ef1f' alt='I made a bunch of Lightsaber images/icons for your usage. [more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/uut7YoiDMCVTwWZ0h6UdhK5KES8W-ZuXrL_MyT_sh8I.jpg?auto=webp&s=6aa5f4402fc15124b5e227bfa9e565e86242ef1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Star Wars Lightsaber PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/blue-star-wars-lightsaber-png-733961695034249nkcl9smt73.png' alt='Blue Star Wars Lightsaber PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/blue-star-wars-lightsaber-png-733961695034249nkcl9smt73.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber PNG transparent image download, size: 1024x763px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lightsaber_PNG26.png' alt='Lightsaber PNG transparent image download, size: 1024x763px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lightsaber_PNG26.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber PNG transparent image download, size: 512x512px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lightsaber_PNG18.png' alt='Lightsaber PNG transparent image download, size: 512x512px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lightsaber_PNG18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightsaber PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210606/original/pngtree-lightsaber-png-image_6389084.jpg' alt='Lightsaber PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210606/original/pngtree-lightsaber-png-image_6389084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IMGBIN.com - Download Transparent PNG Images, For Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/54/d2/27/54d227b279f216403dc71e124bf5ce67.jpg' alt='IMGBIN.com - Download Transparent PNG Images, For Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/54/d2/27/54d227b279f216403dc71e124bf5ce67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

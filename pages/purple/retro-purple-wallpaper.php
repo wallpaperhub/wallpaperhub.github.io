@@ -1,0 +1,129 @@
+<title>Retro Purple Wallpaper: Vintage Vibes for Modern Spaces</title>
+                    <meta name="description" content="Add a splash of nostalgia to your home with retro purple wallpaper. Ideal for creating a unique atmosphere, this stylish decor choice offers vintage patterns that blend seamlessly into modern interiors. Transform your space effortlessly while adding character and charm. Perfect for any room!">
+                    <meta name="keywords" content="retro purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/retro-purple-wallpaper">
+                            <span itemprop="name">retro purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Purple Wallpaper: Vintage Vibes for Modern Spaces</h1>
+                <p>Retro purple wallpaper adds a nostalgic touch to any space, beautifully blending vintage vibes with modern decor. Featuring bold patterns and rich hues, it transforms walls into eye-catching statement pieces. Perfect for bedrooms, living rooms, or accent walls, this wallpaper infuses personality and creativity into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/e3/ff/7ce3ffef8231526180a4e86914e67cc9.jpg' alt='Purple Retro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/e3/ff/7ce3ffef8231526180a4e86914e67cc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Neon Sunset: Artistic HD Wallpaper in Retrowave Style">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/737/thumb-1920-737638.jpg' alt='Purple Neon Sunset: Artistic HD Wallpaper in Retrowave Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/737/thumb-1920-737638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Removable or Traditional Wallpaper – La Grand Classique">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/01254_purple_retro_wave_main_800x.jpg?v=1690803101' alt='Purple Retro Removable or Traditional Wallpaper – La Grand Classique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/01254_purple_retro_wave_main_800x.jpg?v=1690803101' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple retro phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/50/0e/50500efc4418150537b6c7af59417128.jpg' alt='Purple retro phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/50/0e/50500efc4418150537b6c7af59417128.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1495371518/display_1500/stock-photo-retro-sci-fi-background-futuristic-grid-landscape-of-the-s-digital-cyber-surface-suitable-for-1495371518.jpg' alt='Purple Retro Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1495371518/display_1500/stock-photo-retro-sci-fi-background-futuristic-grid-landscape-of-the-s-digital-cyber-surface-suitable-for-1495371518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retrowave Full Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-retrowave-full-moon-qxtjwtjtmz9qjd60.jpg' alt='Purple Retrowave Full Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-retrowave-full-moon-qxtjwtjtmz9qjd60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Style City Purple Background Wallpaper, HD Artist 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/retro-style-city-purple-background_a2hnbmWUmZqaraWkpJRpZ2tprWdpZWU.jpg' alt='Retro Style City Purple Background Wallpaper, HD Artist 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4264">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/retro-style-city-purple-background_a2hnbmWUmZqaraWkpJRpZ2tprWdpZWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract horizontal background with colorful purple and pink waves ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2NHD9HJ/abstract-horizontal-background-with-colorful-purple-and-pink-waves-trendy-wallpaper-in-style-retro-60s-70s-80s-2NHD9HJ.jpg' alt='Abstract horizontal background with colorful purple and pink waves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2NHD9HJ/abstract-horizontal-background-with-colorful-purple-and-pink-waves-trendy-wallpaper-in-style-retro-60s-70s-80s-2NHD9HJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5842177.jpg' alt='Purple Retro Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5842177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Vintage Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-vintage-purple-4p2nwavk3nfcrxi9.jpg' alt='100+] Aesthetic Vintage Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-vintage-purple-4p2nwavk3nfcrxi9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

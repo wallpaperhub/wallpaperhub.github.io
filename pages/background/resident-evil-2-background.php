@@ -1,0 +1,129 @@
+<title>Resident Evil 2: Unraveling Raccoon City's Horror</title>
+                    <meta name="description" content="Explore the chilling world of Resident Evil 2, where survival against a zombie apocalypse tests your courage. Join Leon and Claire in an unforgettable quest through Raccoon City, filled with suspense and danger. Discover the legacy of this classic survival horror game that captivated millions worldwide.">
+                    <meta name="keywords" content="resident evil 2 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/resident-evil-2-background">
+                            <span itemprop="name">resident evil 2 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Resident Evil 2: Unraveling Raccoon City's Horror</h1>
+                <p>Resident Evil 2, released by Capcom in 1998, is a survival horror game set in the fictional Raccoon City. Players control Leon S. Kennedy and Claire Redfield as they navigate a city infested with zombies and other grotesque creatures due to a viral outbreak. The game is renowned for its gripping atmosphere, compelling narrative, and innovative gameplay mechanics, establishing itself as a cornerstone of the franchise.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080p Resident Evil 2 REmake Wallpapers : r/residentevil">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jkX7KoisMWrvlsOcNXNrmHOXum9gMxeuvaOIlgfFzLo.jpg?auto=webp&s=34341142d8841b029efe7db59bc45bdb15bcfbf8' alt='1080p Resident Evil 2 REmake Wallpapers : r/residentevil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jkX7KoisMWrvlsOcNXNrmHOXum9gMxeuvaOIlgfFzLo.jpg?auto=webp&s=34341142d8841b029efe7db59bc45bdb15bcfbf8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2: Claire & Leon 8K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/942/942590.jpg' alt='Resident Evil 2: Claire & Leon 8K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="9691">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/942/942590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Review">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/ign_ap/review/r/resident-e/resident-evil-2-review_23mg.jpg' alt='Resident Evil 2 Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://sm.ign.com/ign_ap/review/r/resident-e/resident-evil-2-review_23mg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Remake Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/ResidentEvil2-Remake-PS4-Wallpapers-18.jpg' alt='Resident Evil 2 Remake Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/ResidentEvil2-Remake-PS4-Wallpapers-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A few Resident Evil 2 Remake wallpapers I made (Desktop and phone ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/kvmb6fU.png' alt='A few Resident Evil 2 Remake wallpapers I made (Desktop and phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/kvmb6fU.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2: Heroes Unite 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/985/985249.png' alt='Resident Evil 2: Heroes Unite 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/985/985249.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Andy Kelly on X: "Resident Evil 2 pre-rendered background art ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DxneMSCXgAUD-AX.jpg:large' alt='Andy Kelly on X: "Resident Evil 2 pre-rendered background art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DxneMSCXgAUD-AX.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Remake Wallpaper by Lai Yufen : r/residentevil">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lj4pof2wsss61.jpg?auto=webp&s=6d892c366cc1290a1b4465d510277b7837f060c0' alt='Resident Evil 2 Remake Wallpaper by Lai Yufen : r/residentevil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lj4pof2wsss61.jpg?auto=webp&s=6d892c366cc1290a1b4465d510277b7837f060c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_resident_evil_2_01_2560x1080.jpg&height=506&sharpen' alt='Resident Evil 2 UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_resident_evil_2_01_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Resident Evil 2 Remake HUNK Main Menu Cinematic ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1020572831169804634/DCBD0E95B9F9C92F3D5EBD8DD25F972A8FD466F8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Resident Evil 2 Remake HUNK Main Menu Cinematic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1020572831169804634/DCBD0E95B9F9C92F3D5EBD8DD25F972A8FD466F8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

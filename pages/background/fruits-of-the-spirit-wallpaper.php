@@ -1,0 +1,129 @@
+<title>Fruits of the Spirit Wallpaper: Decorate with Purpose</title>
+                    <meta name="description" content="Discover our Fruits of the Spirit wallpaper collection! Beautiful and inspiring designs that enhance your space while reminding you of love, joy, peace, and other virtues. Perfect for any room, it combines aesthetic appeal with spiritual significance for a meaningful environment. Shop now!">
+                    <meta name="keywords" content="fruits of the spirit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fruits-of-the-spirit-wallpaper">
+                            <span itemprop="name">fruits of the spirit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fruits of the Spirit Wallpaper: Decorate with Purpose</h1>
+                <p>Transform your space with our "Fruits of the Spirit" wallpaper! Featuring vibrant designs that embody love, joy, peace, and more, this wallpaper inspires positivity and tranquility. Perfect for homes, offices, or spiritual spaces, it's a beautiful reminder of these virtues in daily life. Elevate your decor with meaning!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit of the Spirit - Radiant">
+                                <img itemprop="contentUrl url" src='https://thinkradiant.com/ri_images/x137_1024.jpg' alt='Fruit of the Spirit - Radiant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radiant" />
+                                </span>
+                                <a href='https://thinkradiant.com/ri_images/x137_1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fruit Of Spirit Motivational Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fruit-of-spirit-motivational-iphone-emspf9nx07qt0mak.jpg' alt='Download Fruit Of Spirit Motivational Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fruit-of-spirit-motivational-iphone-emspf9nx07qt0mak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Of The Spirit">
+                                <img itemprop="contentUrl url" src='https://www.joyfullysaid.com/cdn/shop/products/Fruit-of-the-Spirit-Preview_1080x.jpg?v=1718290770' alt='Fruit Of The Spirit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joyfully Said" />
+                                </span>
+                                <a href='https://www.joyfullysaid.com/cdn/shop/products/Fruit-of-the-Spirit-Preview_1080x.jpg?v=1718290770' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruits of the Spirit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/3f/e8/743fe8b0a39a8531c8d49c7f218f1ed0.jpg' alt='Fruits of the Spirit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/3f/e8/743fe8b0a39a8531c8d49c7f218f1ed0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fruits of the spirit wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/57/838/HD-wallpaper-fruit-of-the-spirit-him-jesus-joy-kindness-love-patience-peace-quotes-verses.jpg' alt='HD fruits of the spirit wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/57/838/HD-wallpaper-fruit-of-the-spirit-him-jesus-joy-kindness-love-patience-peace-quotes-verses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fruits of the spirit aesthetic phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/25/85/e72585993deb636c4c3639eb3fe68556.jpg' alt='fruits of the spirit aesthetic phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/25/85/e72585993deb636c4c3639eb3fe68556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bibleverse wallpaper - The fruit of the Spirit is the fruit of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_600,w_600,g_center/v1623344147/quotes/en/fkyfdbtmlcqpo8vfih5n.jpg' alt='Bibleverse wallpaper - The fruit of the Spirit is the fruit of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_600,w_600,g_center/v1623344147/quotes/en/fkyfdbtmlcqpo8vfih5n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit of the Spirit Print - Sincerely, Sara D. | Home Decor & DIY ...">
+                                <img itemprop="contentUrl url" src='https://sincerelysarad.com/wp-content/uploads/2014/07/Fruit-of-the-Spirit3-scaled.jpg' alt='Fruit of the Spirit Print - Sincerely, Sara D. | Home Decor & DIY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sincerely, Sara D." />
+                                </span>
+                                <a href='https://sincerelysarad.com/wp-content/uploads/2014/07/Fruit-of-the-Spirit3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit of the Spirit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/28/17/b12817f48e74511b71d758deb9ff0349.jpg' alt='Fruit of the Spirit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/28/17/b12817f48e74511b71d758deb9ff0349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Hamilton - Here's the graphic I mentioned Sunday of the Fruit ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158683471428966' alt='Adam Hamilton - Here's the graphic I mentioned Sunday of the Fruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158683471428966' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

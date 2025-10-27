@@ -1,0 +1,129 @@
+<title>Lucas Botkin: Gun Industry's Rising Star</title>
+                    <meta name="description" content="Discover the background of Lucas Botkin, an influential figure in the firearms industry known for his engaging YouTube content on gun culture and safety. Explore his journey and contributions to responsible firearm use in a compact, mobile-friendly format.">
+                    <meta name="keywords" content="lucas botkin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lucas-botkin-background">
+                            <span itemprop="name">lucas botkin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lucas Botkin: Gun Industry's Rising Star</h1>
+                <p>Lucas Botkin is an entrepreneur and social media personality known for his work in the firearms industry. He gained popularity through his YouTube channel, where he shares engaging content on gun culture and safety. With a keen interest in technology and outdoor activities, Lucas also focuses on promoting responsible firearm usage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUCAS BOTKIN | Building a Firearms Empire - Order of Man">
+                                <img itemprop="contentUrl url" src='https://orderofman.com/wp-content/uploads/2021/12/botkin2-300x271.png' alt='LUCAS BOTKIN | Building a Firearms Empire - Order of Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Order of Man" />
+                                </span>
+                                <a href='https://orderofman.com/wp-content/uploads/2021/12/botkin2-300x271.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUCAS BOTKIN | Building a Firearms Empire - Order of Man">
+                                <img itemprop="contentUrl url" src='https://orderofman.com/wp-content/uploads/2021/12/Wordpress-Template-3581.jpg' alt='LUCAS BOTKIN | Building a Firearms Empire - Order of Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Order of Man" />
+                                </span>
+                                <a href='https://orderofman.com/wp-content/uploads/2021/12/Wordpress-Template-3581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie">
+                                <img itemprop="contentUrl url" src='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/lucascover.jpg.optimal.jpg' alt='T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AR Build Junkie" />
+                                </span>
+                                <a href='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/lucascover.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie">
+                                <img itemprop="contentUrl url" src='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/48376516_2272076989695640_1558626928590585856_o.jpg.optimal.jpg' alt='T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AR Build Junkie" />
+                                </span>
+                                <a href='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/48376516_2272076989695640_1558626928590585856_o.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="They Make Viral Gun Videos—With Hardline Christian Values – Mother ...">
+                                <img itemprop="contentUrl url" src='https://www.motherjones.com/wp-content/uploads/2024/01/492_OF-T-REX_1000.jpg?w=1000&h=1124&crop=1' alt='They Make Viral Gun Videos—With Hardline Christian Values – Mother ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mother Jones" />
+                                </span>
+                                <a href='https://www.motherjones.com/wp-content/uploads/2024/01/492_OF-T-REX_1000.jpg?w=1000&h=1124&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie">
+                                <img itemprop="contentUrl url" src='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/lucas.jpg.optimal.jpg' alt='T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AR Build Junkie" />
+                                </span>
+                                <a href='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/lucas.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In midst of all the negativity about Spec Ops, I just wanna day ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cb4by2t3nno31.jpg' alt='In midst of all the negativity about Spec Ops, I just wanna day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cb4by2t3nno31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0GrwiHJv3iw/maxresdefault.jpg' alt='T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AR Build Junkie" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0GrwiHJv3iw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie">
+                                <img itemprop="contentUrl url" src='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/46470026_2250207971882542_2670325620558266368_o.jpg.optimal.jpg' alt='T.REX ARMS - A Conversation with Lucas Botkin - AR Build Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AR Build Junkie" />
+                                </span>
+                                <a href='https://www.arbuildjunkie.com/wp-content/uploads/2019/02/46470026_2250207971882542_2670325620558266368_o.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An interview with the man behind T.REX ARMS | Lucas Botkin | The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/bc/61/fbbc610ccd7561b61dded8f328a36d75.jpg' alt='An interview with the man behind T.REX ARMS | Lucas Botkin | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/bc/61/fbbc610ccd7561b61dded8f328a36d75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

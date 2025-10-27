@@ -1,0 +1,129 @@
+<title>Transform Broken iPhone Screens: Green Lines Wallpaper Ideas</title>
+                    <meta name="description" content="Discover creative green lines wallpaper options for your broken iPhone screen. These stylish backgrounds not only hide damage but also bring a modern flair to your device. Perfect for those looking for a quick fix while waiting for repairs. Explore now for trendy and unique designs!">
+                    <meta name="keywords" content="broken iphone screen green lines wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/broken-iphone-screen-green-lines-wallpaper">
+                            <span itemprop="name">broken iphone screen green lines wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Broken iPhone Screens: Green Lines Wallpaper Ideas</h1>
+                <p>Experiencing a broken iPhone screen can be frustrating, especially when green lines disrupt the display. However, you can turn this into a unique aesthetic by using a green lines wallpaper. Not only does it mask the damage, but it also adds a trendy touch. Choose a design that complements your style while you plan for repairs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11- green lines - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/87beb4d6-09e1-4837-ae78-e6d94e4f8556' alt='iPhone 11- green lines - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="902">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/87beb4d6-09e1-4837-ae78-e6d94e4f8556' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got the green line of death after changing the battery. All cables ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nuij6121w8o81.jpg' alt='Got the green line of death after changing the battery. All cables ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2736">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nuij6121w8o81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aero Colorful iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/57/01/7c57010e359b9b08ccc5fba1b12fd2cd.jpg' alt='Aero Colorful iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/57/01/7c57010e359b9b08ccc5fba1b12fd2cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Fix Green Lines on iPhone Screen: Troubleshooting and ...">
+                                <img itemprop="contentUrl url" src='https://www.simplymac.com/wp-content/uploads/iphone-lines-on-screen1.webp' alt='How to Fix Green Lines on iPhone Screen: Troubleshooting and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyMac" />
+                                </span>
+                                <a href='https://www.simplymac.com/wp-content/uploads/iphone-lines-on-screen1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/6e/13/3a6e13f2e998e1afe1029410b425f24a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/6e/13/3a6e13f2e998e1afe1029410b425f24a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken screen, abstract, black, colorful, colors, green, leaves ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/586/625/HD-wallpaper-broken-screen-abstract-black-colorful-colors-green-leaves.jpg' alt='Broken screen, abstract, black, colorful, colors, green, leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/586/625/HD-wallpaper-broken-screen-abstract-black-colorful-colors-green-leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 13 broken screen (green line on the right side) from overwork ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tkkhg5w4om731.jpg' alt='iOS 13 broken screen (green line on the right side) from overwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tkkhg5w4om731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Yellow Green Broken Screen Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/yellow-green-broken-screen-bqjm01movb0jsvjj.jpg' alt='Download free Yellow Green Broken Screen Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/yellow-green-broken-screen-bqjm01movb0jsvjj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FAKE MOBILE WALLPAPER FAKE GREEN COLOR LINE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/bb/5a/29bb5aa3b126a8d390bfc096f3de9246.jpg' alt='FAKE MOBILE WALLPAPER FAKE GREEN COLOR LINE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/bb/5a/29bb5aa3b126a8d390bfc096f3de9246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Broken Phone Screen Wallpaper Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/green-light-lines-colored-spots-from-fiber-optic-wires-computer-communications-idea-selective-focus-blur-dark-background-vertical-frame_166373-1653.jpg' alt='Page 3 | Broken Phone Screen Wallpaper Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/green-light-lines-colored-spots-from-fiber-optic-wires-computer-communications-idea-selective-focus-blur-dark-background-vertical-frame_166373-1653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

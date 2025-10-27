@@ -1,0 +1,129 @@
+<title>Dive into Tiki Culture: A Tropical Escape</title>
+                    <meta name="description" content="Explore the vibrant world of tiki culture! Discover its origins, iconic decor, and exotic cocktails that transport you to tropical paradises. Perfect for party themes, tiki brings a sense of adventure and celebration to any gathering. Join the fun and embrace the tiki lifestyle!">
+                    <meta name="keywords" content="tiki background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tiki-background">
+                            <span itemprop="name">tiki background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dive into Tiki Culture: A Tropical Escape</h1>
+                <p>Tiki culture originated in the mid-20th century, inspired by Polynesian art and the allure of tropical islands. It gained popularity through tiki bars, decor, and cocktails, evoking a sense of escape and adventure. The vibrant carvings, lush motifs, and exotic drinks celebrate a carefree lifestyle, making tiki a beloved theme for parties and gatherings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiki Background Images – Browse 17,756 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/03/88/70/360_F_203887001_rNwzsePekSXtKQbMTNQws4Vu4FibsB3Z.jpg' alt='Tiki Background Images – Browse 17,756 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/03/88/70/360_F_203887001_rNwzsePekSXtKQbMTNQws4Vu4FibsB3Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Tiki Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/108544932/vector/seamless-tiki-tapa-pattern.jpg?s=612x612&w=0&k=20&c=qrYZQRZYibClP00_xBUiolp1MkdGDWwZdEyp5MeERlA=' alt='2,400+ Tiki Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/108544932/vector/seamless-tiki-tapa-pattern.jpg?s=612x612&w=0&k=20&c=qrYZQRZYibClP00_xBUiolp1MkdGDWwZdEyp5MeERlA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Tiki Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1305080032/vector/tropical-hawaiian-vintage-seamless-pattern.jpg?s=612x612&w=0&k=20&c=oRWplg5KAPW0MmFNmgjOYfqvExyWOTdI1-RAuq0YGQQ=' alt='2,400+ Tiki Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1305080032/vector/tropical-hawaiian-vintage-seamless-pattern.jpg?s=612x612&w=0&k=20&c=oRWplg5KAPW0MmFNmgjOYfqvExyWOTdI1-RAuq0YGQQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiki Background Images – Browse 17,756 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/53/17/30/360_F_453173014_ZdcRXCjBDWFv5FkBZGJ26XdMbF5ORA96.jpg' alt='Tiki Background Images – Browse 17,756 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/53/17/30/360_F_453173014_ZdcRXCjBDWFv5FkBZGJ26XdMbF5ORA96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Tiki Background Images – Browse 6,931 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/66/80/00/360_F_566800028_k5EOGDs61vP5oHHEOijmhNAeR02ziyMK.jpg' alt='Hawaiian Tiki Background Images – Browse 6,931 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/66/80/00/360_F_566800028_k5EOGDs61vP5oHHEOijmhNAeR02ziyMK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiki Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-hawaiian-aesthetic-background_52683-155310.jpg' alt='Tiki Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-hawaiian-aesthetic-background_52683-155310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="769 Green Tiki Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1924371944/display_1500/stock-vector-hawaiian-tropical-colorful-seamless-pattern-with-tribal-tiki-mask-hibiscus-flowers-monstera-and-1924371944.jpg' alt='769 Green Tiki Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1924371944/display_1500/stock-vector-hawaiian-tropical-colorful-seamless-pattern-with-tribal-tiki-mask-hibiscus-flowers-monstera-and-1924371944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Msocio 8x6ft Polyester Summer Tiki Bar Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Q+zt56pCL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Msocio 8x6ft Polyester Summer Tiki Bar Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Q+zt56pCL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiki Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-two-tiki-heads-and-some-animals-in-the-background-image_2972039.jpg' alt='Tiki Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-two-tiki-heads-and-some-animals-in-the-background-image_2972039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tiki Banner Summer Backdrop Photography Background Luau Party  Decoration for Tropical Hawaiian Rustic Wooden Floral Birthday Baby Shower  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81c9wlpyQiL.jpg' alt='Amazon.com: Tiki Banner Summer Backdrop Photography Background Luau Party  Decoration for Tropical Hawaiian Rustic Wooden Floral Birthday Baby Shower  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81c9wlpyQiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

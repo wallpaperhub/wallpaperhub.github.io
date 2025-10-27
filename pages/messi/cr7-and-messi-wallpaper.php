@@ -1,0 +1,129 @@
+<title>Epic CR7 & Messi Wallpapers for Football Fans</title>
+                    <meta name="description" content="Explore amazing CR7 and Messi wallpapers designed for true football enthusiasts. Get high-resolution images perfect for your mobile device, showcasing the brilliance of these two legends. Upgrade your screen with their iconic moments and let your passion for the game shine!">
+                    <meta name="keywords" content="cr7 and messi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/cr7-and-messi-wallpaper">
+                            <span itemprop="name">cr7 and messi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic CR7 & Messi Wallpapers for Football Fans</h1>
+                <p>Discover stunning CR7 and Messi wallpapers that celebrate the greatness of these football legends. Transform your device's look with high-quality images showcasing their iconic moments, skills, and rivalry. Perfect for fans, these wallpapers capture their essence, bringing the world of football closer to you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Ronaldo & Messi ideas | messi, ronaldo, messi and ronaldo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/55/58/c85558c6e890f52fba8a77a7a73cf874.jpg' alt='32 Ronaldo & Messi ideas | messi, ronaldo, messi and ronaldo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/55/58/c85558c6e890f52fba8a77a7a73cf874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo & Messi Wallpaper HD | Messi vs ronaldo, Messi vs, Messi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/d7/61/83d7618ec0eab395ed447d92a537bc45.jpg' alt='Ronaldo & Messi Wallpaper HD | Messi vs ronaldo, Messi vs, Messi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/d7/61/83d7618ec0eab395ed447d92a537bc45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo and messi 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/18/e9/a418e94ec8f6c212b0dbba267aaaa748.jpg' alt='Ronaldo and messi 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/18/e9/a418e94ec8f6c212b0dbba267aaaa748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Ronaldo & Messi ideas | messi, ronaldo, messi and ronaldo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/8b/a9/ba8ba9db66bd0f6c1d915b8e4442e5d9.jpg' alt='32 Ronaldo & Messi ideas | messi, ronaldo, messi and ronaldo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/8b/a9/ba8ba9db66bd0f6c1d915b8e4442e5d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo and Lionel Messi blue neon lights, football ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/575/45/HD-wallpaper-cristiano-ronaldo-and-lionel-messi-blue-neon-lights-football-stars-soccer-cr7-lionel-messi-cristiano-ronaldo.jpg' alt='Cristiano Ronaldo and Lionel Messi blue neon lights, football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/575/45/HD-wallpaper-cristiano-ronaldo-and-lionel-messi-blue-neon-lights-football-stars-soccer-cr7-lionel-messi-cristiano-ronaldo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lionel Messi Cristiano Ronaldo Soccer Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/115/1159549.png' alt='Download Lionel Messi Cristiano Ronaldo Soccer Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/115/1159549.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Vs Messi Wallpaper By Rams DSGN by VRENDERSWWE ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad15a6b-7ff6-4256-a6fd-2cfbf0d83cb0/dflx1xl-1f1ecc2b-2b74-4267-bf82-9e99044db53b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhZDE1YTZiLTdmZjYtNDI1Ni1hNmZkLTJjZmJmMGQ4M2NiMFwvZGZseDF4bC0xZjFlY2MyYi0yYjc0LTQyNjctYmY4Mi05ZTk5MDQ0ZGI1M2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NLwm8oCegFmDImQztMjfLJ1iZe9N14gG_dcDEPmUv04' alt='Cristiano Ronaldo Vs Messi Wallpaper By Rams DSGN by VRENDERSWWE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad15a6b-7ff6-4256-a6fd-2cfbf0d83cb0/dflx1xl-1f1ecc2b-2b74-4267-bf82-9e99044db53b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhZDE1YTZiLTdmZjYtNDI1Ni1hNmZkLTJjZmJmMGQ4M2NiMFwvZGZseDF4bC0xZjFlY2MyYi0yYjc0LTQyNjctYmY4Mi05ZTk5MDQ0ZGI1M2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NLwm8oCegFmDImQztMjfLJ1iZe9N14gG_dcDEPmUv04' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo and Messi 2023 Wallpaper Collection | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7191187619810872622&location=0&aid=1988' alt='Ronaldo and Messi 2023 Wallpaper Collection | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7191187619810872622&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo and Leo Messi by Ali-Khateeb-gfx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0fb791ab-9e22-469b-8dd8-56e29c457a47/d8idf77-be43db02-d027-45db-9625-ff9f27026a2f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBmYjc5MWFiLTllMjItNDY5Yi04ZGQ4LTU2ZTI5YzQ1N2E0N1wvZDhpZGY3Ny1iZTQzZGIwMi1kMDI3LTQ1ZGItOTYyNS1mZjlmMjcwMjZhMmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fLtmBWplzuGjSY4Sdc4fnoIjf28oeIvCCkRsQuwQm8o' alt='Cristiano Ronaldo and Leo Messi by Ali-Khateeb-gfx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0fb791ab-9e22-469b-8dd8-56e29c457a47/d8idf77-be43db02-d027-45db-9625-ff9f27026a2f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBmYjc5MWFiLTllMjItNDY5Yi04ZGQ4LTU2ZTI5YzQ1N2E0N1wvZDhpZGY3Ny1iZTQzZGIwMi1kMDI3LTQ1ZGItOTYyNS1mZjlmMjcwMjZhMmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fLtmBWplzuGjSY4Sdc4fnoIjf28oeIvCCkRsQuwQm8o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper ronaldo, messi, neymar, cr7, lm10, leo messi for mobile ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/ec/leo-messi-messi-lm10-cr7-ronaldo-neymar.webp' alt='Wallpaper ronaldo, messi, neymar, cr7, lm10, leo messi for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/ec/leo-messi-messi-lm10-cr7-ronaldo-neymar.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

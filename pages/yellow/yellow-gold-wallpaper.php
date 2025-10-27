@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Stunning Yellow Gold Wallpaper</title>
+                    <meta name="description" content="Add elegance and charm to your home with our exquisite yellow gold wallpaper. This luxurious design is perfect for enhancing your decor, creating warm, inviting spaces. Explore a variety of styles to transform your interiors effortlessly. Discover your perfect design today!">
+                    <meta name="keywords" content="yellow gold wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-gold-wallpaper">
+                            <span itemprop="name">yellow gold wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Stunning Yellow Gold Wallpaper</h1>
+                <p>Yellow gold wallpaper adds a touch of luxury and warmth to any space. Its rich hue not only brightens the room but also creates an inviting atmosphere. Perfect for accent walls or entire rooms, yellow gold wallpaper pairs beautifully with various decor styles. Embrace elegance and elevate your interiors with this chic choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Gold Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-backgroundlayoutbanner-product-presentation_1258-101952.jpg' alt='Yellow Gold Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-backgroundlayoutbanner-product-presentation_1258-101952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="380 Yellow/gold ideas | gold wallpaper, phone wallpaper, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a7/7b/20/a77b203caff1c990e6e43f3d7c0f5eeb.jpg' alt='380 Yellow/gold ideas | gold wallpaper, phone wallpaper, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a7/7b/20/a77b203caff1c990e6e43f3d7c0f5eeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Wallpaper | 40% Off - Free Shipping (Samples)">
+                                <img itemprop="contentUrl url" src='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/gold-wallpaper-banner-mobile.jpg' alt='Gold Wallpaper | 40% Off - Free Shipping (Samples)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/gold-wallpaper-banner-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cc/ac/84/ccac848daa107d848f0e4d032b3dfab8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cc/ac/84/ccac848daa107d848f0e4d032b3dfab8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Plain Yellow Gold Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/textured-plain-yellow-gold-phone-53l29v08y45sxn8j.webp' alt='Textured Plain Yellow Gold Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/textured-plain-yellow-gold-phone-53l29v08y45sxn8j.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Gold Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/449/735/small/yellow-gold-luxury-abstract-background-free-vector.jpg' alt='Yellow Gold Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/449/735/small/yellow-gold-luxury-abstract-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Retro Vintage Wallpaper Yellow Gold Damask">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3727/13795/vintage-wallpaper-60__52864.1679248764.jpg?c=2' alt='1970s Retro Vintage Wallpaper Yellow Gold Damask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3727/13795/vintage-wallpaper-60__52864.1679248764.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Gold Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/plain-gold-xltjzlz7df80i9ai.jpg' alt='100+] Plain Gold Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/plain-gold-xltjzlz7df80i9ai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Gold Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220206/pngtree-yellow-gold-light-image_985702.jpg' alt='Yellow Gold Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220206/pngtree-yellow-gold-light-image_985702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract gold gradient spotlight room texture background. Yellow ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/18/28/27/1000_F_418282728_5xPf4oFQEXRSa3YMwbqFaDrDc9xPsTVo.jpg' alt='abstract gold gradient spotlight room texture background. Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/18/28/27/1000_F_418282728_5xPf4oFQEXRSa3YMwbqFaDrDc9xPsTVo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

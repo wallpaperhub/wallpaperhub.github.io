@@ -1,0 +1,129 @@
+<title>Original iPhone 4 Wallpapers: Nostalgic Designs for Your Device</title>
+                    <meta name="description" content="Explore a collection of original iPhone 4 wallpapers that blend nostalgia with modern aesthetics. Perfect for adding a touch of classic style to your device, these wallpapers capture the essence of one of Apple's most iconic phones. Download your favorites today!">
+                    <meta name="keywords" content="original iphone 4 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/original-iphone-4-wallpaper">
+                            <span itemprop="name">original iphone 4 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Original iPhone 4 Wallpapers: Nostalgic Designs for Your Device</h1>
+                <p>Discover the charm of the original iPhone 4 wallpaper, featuring stunning designs that defined a generation. From minimalist aesthetics to vibrant landscapes, these wallpapers enhance your device's look while evoking a sense of nostalgia. Relive the magic of the iPhone 4 with wallpapers that showcase its iconic style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 4/4S stock (retina) wallpapers? | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/ios6_wallpaper_droidviews_4-jpeg.434561/' alt='iPhone 4/4S stock (retina) wallpapers? | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/ios6_wallpaper_droidviews_4-jpeg.434561/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accidental iOS 4 Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/487d1ce5-3042-4978-b8af-c8994f1d445e/AccidentaliOS1x1.png' alt='Accidental iOS 4 Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/487d1ce5-3042-4978-b8af-c8994f1d445e/AccidentaliOS1x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accidental iOS 4 Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Accidental_iOS4_iPad.png' alt='Accidental iOS 4 Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Accidental_iOS4_iPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Original Iphone 4 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/starry-night-sky-original-iphone-4-apsgq2jj64kw04ey.jpg' alt='100+] Original Iphone 4 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1026">
+                                <meta itemprop="height" content="1824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/starry-night-sky-original-iphone-4-apsgq2jj64kw04ey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accidental iOS 4 Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/07f9ad67-ecc9-4dc7-acac-12804c5d62cc/Untitled+45+2.png' alt='Accidental iOS 4 Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/07f9ad67-ecc9-4dc7-acac-12804c5d62cc/Untitled+45+2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Art Original Iphone 4 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/abstract-blue-art-original-iphone-4-2dtir263fnwhizox.jpg' alt='Abstract Blue Art Original Iphone 4 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/abstract-blue-art-original-iphone-4-2dtir263fnwhizox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone OS 4.0 Wallpapers [Official New Set] | Redmond Pie">
+                                <img itemprop="contentUrl url" src='https://cdn.redmondpie.com/wp-content/uploads/2010/05/OS4Wallpapers1.png' alt='Download iPhone OS 4.0 Wallpapers [Official New Set] | Redmond Pie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmond Pie" />
+                                </span>
+                                <a href='https://cdn.redmondpie.com/wp-content/uploads/2010/05/OS4Wallpapers1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unveiling the iOS 4 platform Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ios-4-8s3bus6kmgoimyh9.jpg' alt='Download Unveiling the iOS 4 platform Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ios-4-8s3bus6kmgoimyh9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-9-for-iPhone-X.png' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-9-for-iPhone-X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foamy Ocean Waves Original Iphone 4 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/foamy-ocean-waves-original-iphone-4-lwt67o54jv9eafr7.jpg' alt='Foamy Ocean Waves Original Iphone 4 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/foamy-ocean-waves-original-iphone-4-lwt67o54jv9eafr7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

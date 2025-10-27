@@ -1,0 +1,129 @@
+<title>Stylish Brown Bandana Backgrounds for Every Project</title>
+                    <meta name="description" content="Discover the charm of brown bandana backgrounds, ideal for enhancing your creative projects. Perfect for branding, decor, or artwork, these versatile backgrounds combine rustic appeal with trendy patterns to elevate your designs. Explore now for unique, eye-catching visuals!">
+                    <meta name="keywords" content="brown bandana background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-bandana-background">
+                            <span itemprop="name">brown bandana background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Brown Bandana Backgrounds for Every Project</h1>
+                <p>Brown bandana backgrounds are versatile and stylish, perfect for adding a rustic or trendy touch to various designs. Their rich brown hue and distinct paisley patterns make them ideal for both digital projects and print. Use a brown bandana background to create an inviting atmosphere in branding, decor, or artwork.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bandana - Classic Brown - Paisley - Southwestern">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/31dd1c0399b246fcaa168e31c8b7a665.jpg?v=1725103357' alt='Bandana - Classic Brown - Paisley - Southwestern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society6" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/31dd1c0399b246fcaa168e31c8b7a665.jpg?v=1725103357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paisley Western Cotton Bandana in Brown">
+                                <img itemprop="contentUrl url" src='http://rockmount.com/cdn/shop/products/4130-BRN_TOP.png?v=1618945261&width=1024' alt='Paisley Western Cotton Bandana in Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rockmount Ranch Wear" />
+                                </span>
+                                <a href='http://rockmount.com/cdn/shop/products/4130-BRN_TOP.png?v=1618945261&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bandana Classic Paisley Double-Sided Print 100% Cotton Bandana Brown">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Brown-Paisley-Bandana-Single-Piece-22x22_2a7e3b27-1c9e-4dc5-a2b2-aecb45c4b1d5_1.fffbbe0a18bf76ac3701b63ad8c2fda0.gif' alt='Bandana Classic Paisley Double-Sided Print 100% Cotton Bandana Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Brown-Paisley-Bandana-Single-Piece-22x22_2a7e3b27-1c9e-4dc5-a2b2-aecb45c4b1d5_1.fffbbe0a18bf76ac3701b63ad8c2fda0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bandana Paisley White on Brown Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8814530/r/l/d-i-21/yG6jrTSHcxL5afOsN9k9xMxBy6LFDSv5794/Bandana_Paisley_White_on_Brown.jpg' alt='Bandana Paisley White on Brown Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8814530/r/l/d-i-21/yG6jrTSHcxL5afOsN9k9xMxBy6LFDSv5794/Bandana_Paisley_White_on_Brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Bandana Gang">
+                                <img itemprop="contentUrl url" src='http://silky-durag.com/cdn/shop/files/brown-bandana-gang.png?v=1699119062' alt='Brown Bandana Gang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SilkyDurag" />
+                                </span>
+                                <a href='http://silky-durag.com/cdn/shop/files/brown-bandana-gang.png?v=1699119062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown bandana paisley design | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1280648850.5570/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Brown bandana paisley design | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1280648850.5570/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bandana Brown - 811105039891">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/Checker/446403.jpg' alt='Bandana Brown - 811105039891'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sew Much Fun" />
+                                </span>
+                                <a href='https://media.rainpos.com/Checker/446403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Value Classic Open Center Paisley Imported 100% Cotton, 22" x  22", 1 piece">
+                                <img itemprop="contentUrl url" src='https://wholesaleforeveryone.com/wp-content/uploads/nc/customers/images/bnsc0100_22_0477_0001.gif' alt='Dark Brown Value Classic Open Center Paisley Imported 100% Cotton, 22" x  22", 1 piece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wholesaleforeveryone" />
+                                </span>
+                                <a href='https://wholesaleforeveryone.com/wp-content/uploads/nc/customers/images/bnsc0100_22_0477_0001.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paisley | Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.astekhome.com/cdn/shop/files/PSAD650-3_paisley_HANDKERCHIEF_400x400.jpg?v=1731443574' alt='Paisley | Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Home" />
+                                </span>
+                                <a href='https://www.astekhome.com/cdn/shop/files/PSAD650-3_paisley_HANDKERCHIEF_400x400.jpg?v=1731443574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown PAISLEY Bandana BANDANNA Cotton Wrap SCARVE SCARF Head ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ftoAAOSwfsNlBcrc/s-l400.jpg' alt='Dark Brown PAISLEY Bandana BANDANNA Cotton Wrap SCARVE SCARF Head ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="395">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ftoAAOSwfsNlBcrc/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

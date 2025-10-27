@@ -1,0 +1,129 @@
+<title>Purple Preppy Wallpaper Trends for 2022</title>
+                    <meta name="description" content="Explore the latest in purple preppy wallpaper for 2022! Transform your space with trendy designs that add a pop of color and style. Ideal for any room, these wallpapers bring a youthful, sophisticated flair to your decor. Perfect for creating a chic and vibrant atmosphere in your home!">
+                    <meta name="keywords" content="purple preppy wallpaper 2022">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-preppy-wallpaper-2022">
+                            <span itemprop="name">purple preppy wallpaper 2022</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Preppy Wallpaper Trends for 2022</h1>
+                <p>Discover the charm of purple preppy wallpaper in 2022! This stylish design combines elegance and vibrant hues, adding a fresh, youthful vibe to any room. Perfect for dorms, bedrooms, or home offices, these wallpapers blend sophistication with a playful twist. Elevate your space with trendy patterns that make a statement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my wallpaper in 2022 | Iphone wallpaper preppy, Preppy wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/70/11/8c/70118ccdbb1286651fe38e82d185d25d.jpg' alt='my wallpaper in 2022 | Iphone wallpaper preppy, Preppy wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/70/11/8c/70118ccdbb1286651fe38e82d185d25d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' alt='Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-abstract-waves-background-a8nt5ri3lh3aeu4p.jpg' alt='100+] Purple Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-abstract-waves-background-a8nt5ri3lh3aeu4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    Purple pastel preppy wallpaper     in 2022 | Preppy wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/9d/61/049d6171e28db6c5a8918941d1cf5044.jpg' alt='    Purple pastel preppy wallpaper     in 2022 | Preppy wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/9d/61/049d6171e28db6c5a8918941d1cf5044.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Preppy purple pics ideas | purple wallpaper, purple aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/61/09/1b/61091b3c4647e998f7276d6a7f5ffa7e.jpg' alt='20 Preppy purple pics ideas | purple wallpaper, purple aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/61/09/1b/61091b3c4647e998f7276d6a7f5ffa7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Preppy Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-preppy-aesthetic-collage-oocat0o63o0w2as6.jpg' alt='Download Purple Preppy Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-preppy-aesthetic-collage-oocat0o63o0w2as6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Retro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/e3/ff/7ce3ffef8231526180a4e86914e67cc9.jpg' alt='Purple Retro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/e3/ff/7ce3ffef8231526180a4e86914e67cc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel purple iPhone wallpaper | Sfondi iphone, Sfondi carini ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b7/46/9a/b7469a2739ae5e820a1b8f048a4005fd.jpg' alt='Pastel purple iPhone wallpaper | Sfondi iphone, Sfondi carini ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b7/46/9a/b7469a2739ae5e820a1b8f048a4005fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-heart-pattern-szs1d491qubqhu37.jpg' alt='100+] Purple Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-heart-pattern-szs1d491qubqhu37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple wallpaper preppy<3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/a0/10/20a010f5e5cadc2679cd30526851a9b0.jpg' alt='purple wallpaper preppy<3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/a0/10/20a010f5e5cadc2679cd30526851a9b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

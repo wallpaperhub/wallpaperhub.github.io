@@ -1,0 +1,129 @@
+<title>Elegant Dark Blue Background for Design</title>
+                    <meta name="description" content="Discover the timeless elegance of a plain dark blue background. Perfect for enhancing designs and boosting readability, this rich color adds sophistication to any project, from websites to presentations. Elevate your visuals with a serene and versatile backdrop that captures attention effortlessly.">
+                    <meta name="keywords" content="plain dark blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/plain-dark-blue-background">
+                            <span itemprop="name">plain dark blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Blue Background for Design</h1>
+                <p>A plain dark blue background offers a serene and sophisticated visual appeal, creating a perfect backdrop for various design projects. Its deep hue evokes feelings of calmness and stability while adding a touch of elegance. Ideal for graphics, websites, or presentations, this versatile color enhances text readability and emphasizes key elements.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Navy Blue Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2736960/p/f/m/xiMUydilMWT-uxve8hRfOyg8Nhra8jjphbLJLq9clhyi-imK0R8ZQQ/Navy%20Blue%20Solid%20.jpg' alt='Solid Navy Blue Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2736960/p/f/m/xiMUydilMWT-uxve8hRfOyg8Nhra8jjphbLJLq9clhyi-imK0R8ZQQ/Navy%20Blue%20Solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Dark Blue Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b2/56/7a/b2567a1f14db6263f2b162ef28df7496.jpg' alt='640x1136 Dark Blue Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b2/56/7a/b2567a1f14db6263f2b162ef28df7496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Dark Blue Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-dark-blue-pattern-i5bttqc942pygw46.jpg' alt='Plain Dark Blue Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-dark-blue-pattern-i5bttqc942pygw46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Blue Plain Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-plain-0ynuj666cdl9fne9.jpg' alt='100+] Dark Blue Plain Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-plain-0ynuj666cdl9fne9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Navy Blue Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjQ2LWJhY2tncm91bmQtZS0wNWItaC5qcGc.jpg' alt='Plain Navy Blue Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjQ2LWJhY2tncm91bmQtZS0wNWItaC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain navy blue 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/420/258/HD-wallpaper-plain-dark-navy-blue-navy-blue.jpg' alt='Plain navy blue 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/420/258/HD-wallpaper-plain-dark-navy-blue-navy-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,250 Plain Dark Blue Background High Res Illustrations - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1218925113/vector/midnight-blue-coloured-wall-textured-empty-vector-backgrounds.jpg?s=612x612&w=gi&k=20&c=9txGxYZef5QO7m4GcSCj9gbn2stfnWv-8OuHI0BDyT0=' alt='14,250 Plain Dark Blue Background High Res Illustrations - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1218925113/vector/midnight-blue-coloured-wall-textured-empty-vector-backgrounds.jpg?s=612x612&w=gi&k=20&c=9txGxYZef5QO7m4GcSCj9gbn2stfnWv-8OuHI0BDyT0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Dark Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-blue-gradient-background_78370-2078.jpg' alt='Plain Dark Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-blue-gradient-background_78370-2078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zM19uYXZ5X2JsdWVfY29sb3JzX2NhcmRzdG9ja190ZXh0dXJlX3BhcGVyX3RleF83MWMwYzM2OS04YThmLTQ0MjQtOWM5NS0wMTQ2ZjQ2MjU5MDFfMS5qcGc.jpg' alt='Dark Blue Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zM19uYXZ5X2JsdWVfY29sb3JzX2NhcmRzdG9ja190ZXh0dXJlX3BhcGVyX3RleF83MWMwYzM2OS04YThmLTQ0MjQtOWM5NS0wMTQ2ZjQ2MjU5MDFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Navy Blue Background Simple Navy Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/solid-navy-blue-background-simple-260nw-2089479046.jpg' alt='Solid Navy Blue Background Simple Navy Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/solid-navy-blue-background-simple-260nw-2089479046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

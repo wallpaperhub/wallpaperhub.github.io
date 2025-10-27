@@ -1,0 +1,129 @@
+<title>Easy Access to VCU Zoom Login</title>
+                    <meta name="description" content="Login to VCU Zoom seamlessly using your VCU credentials for accessible online meetings and collaboration. Join classes, participate in discussions, and connect with peers—all from one platform designed for Virginia Commonwealth University students and faculty. Optimize your virtual experience today!">
+                    <meta name="keywords" content="vcu zoom login">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vcu-zoom-login">
+                            <span itemprop="name">vcu zoom login</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easy Access to VCU Zoom Login</h1>
+                <p>To access VCU Zoom, visit the official VCU website and click on the Zoom login link. Enter your VCU credentials (username and password) to gain access to your account. This platform enables virtual meetings, video conferencing, and collaborative tools essential for students and faculty at Virginia Commonwealth University. Stay connected!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Conferencing, Web Conferencing, Online Meetings, Screen ...">
+                                <img itemprop="contentUrl url" src='https://zoom.us/account/branding/p/71e49ee0-25f9-443b-878f-f9c30f935cce.png' alt='Video Conferencing, Web Conferencing, Online Meetings, Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zoom" />
+                                </span>
+                                <a href='https://zoom.us/account/branding/p/71e49ee0-25f9-443b-878f-f9c30f935cce.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU Zoom User's Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///72f3e0033d20578d4ff28da928d628a4a27e614ecb9074e913dd7032069d206b' alt='VCU Zoom User's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mssvideo.vcu.edu" />
+                                </span>
+                                <a href='x-raw-image:///72f3e0033d20578d4ff28da928d628a4a27e614ecb9074e913dd7032069d206b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Note To Users of Zoom's Chrome Extension – The VCU Zoom Blog">
+                                <img itemprop="contentUrl url" src='https://blogs.vcu.edu/zoom/wp-content/uploads/sites/665/2022/11/chrome_login_2.png' alt='A Note To Users of Zoom's Chrome Extension – The VCU Zoom Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VCU Blogs - Virginia Commonwealth University" />
+                                </span>
+                                <a href='https://blogs.vcu.edu/zoom/wp-content/uploads/sites/665/2022/11/chrome_login_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Note To Users of Zoom's Chrome Extension – The VCU Zoom Blog">
+                                <img itemprop="contentUrl url" src='https://blogs.vcu.edu/zoom/wp-content/uploads/sites/665/2022/11/sign_in_to_chrome.png' alt='A Note To Users of Zoom's Chrome Extension – The VCU Zoom Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VCU Blogs - Virginia Commonwealth University" />
+                                </span>
+                                <a href='https://blogs.vcu.edu/zoom/wp-content/uploads/sites/665/2022/11/sign_in_to_chrome.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU ZOOM BACKGROUNDS - Virginia Commonwealth University">
+                                <img itemprop="contentUrl url" src='https://vcuathletics.com/images/2020/4/2/SiegelZoom3.jpg' alt='VCU ZOOM BACKGROUNDS - Virginia Commonwealth University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VCU Athletics" />
+                                </span>
+                                <a href='https://vcuathletics.com/images/2020/4/2/SiegelZoom3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU Zoom User's Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///f947d768e0dbe1d96a375156994f0a6ed1935973adaca4fe70b66201a7fc6d1a' alt='VCU Zoom User's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mssvideo.vcu.edu" />
+                                </span>
+                                <a href='x-raw-image:///f947d768e0dbe1d96a375156994f0a6ed1935973adaca4fe70b66201a7fc6d1a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU ZOOM BACKGROUNDS - Virginia Commonwealth University">
+                                <img itemprop="contentUrl url" src='https://vcuathletics.com/images/2020/4/2/HavocFlagZooom.jpg' alt='VCU ZOOM BACKGROUNDS - Virginia Commonwealth University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VCU Athletics" />
+                                </span>
+                                <a href='https://vcuathletics.com/images/2020/4/2/HavocFlagZooom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU Zoom User's Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1cb3b4d3b17f5bc831460043637360073c7cb7751da8d61ff77335e972c20809' alt='VCU Zoom User's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mssvideo.vcu.edu" />
+                                </span>
+                                <a href='x-raw-image:///1cb3b4d3b17f5bc831460043637360073c7cb7751da8d61ff77335e972c20809' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zooming at VCU | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2619054801556420&get_thumbnail=1' alt='Zooming at VCU | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2619054801556420&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VCU ZOOM BACKGROUNDS - Virginia Commonwealth University">
+                                <img itemprop="contentUrl url" src='https://vcuathletics.com/images/2020/4/2/RowdyRamsZoom.jpg' alt='VCU ZOOM BACKGROUNDS - Virginia Commonwealth University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VCU Athletics" />
+                                </span>
+                                <a href='https://vcuathletics.com/images/2020/4/2/RowdyRamsZoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

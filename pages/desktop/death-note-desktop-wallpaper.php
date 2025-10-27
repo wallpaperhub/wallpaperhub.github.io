@@ -1,0 +1,129 @@
+<title>Stunning Death Note Desktop Wallpapers for Anime Fans</title>
+                    <meta name="description" content="Discover a collection of breathtaking Death Note desktop wallpapers! Perfect for anime enthusiasts, these visuals bring the gripping narrative and iconic characters right to your screen. Elevate your workspace with captivating art that resonates with your passion for Death Note.">
+                    <meta name="keywords" content="death note desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/death-note-desktop-wallpaper">
+                            <span itemprop="name">death note desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Death Note Desktop Wallpapers for Anime Fans</h1>
+                <p>Transform your desktop with stunning Death Note wallpaper that captures the dark and thrilling essence of the anime. From captivating imagery of Light Yagami and L to the iconic notebook itself, these wallpapers let fans immerse in the world of Death Note every time they work or browse. Upgrade your screen now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Note Anime HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/661/thumb-1920-661083.jpg' alt='Death Note Anime HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/661/thumb-1920-661083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Note desktop wallpaper I made using the art on the volume 12 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/death-note-desktop-wallpaper-i-made-using-the-art-on-the-v0-ttkvfrpr0aad1.jpeg?width=1080&crop=smart&auto=webp&s=c464759801b7f37a9a68cc498c2f963a64c96169' alt='Death Note desktop wallpaper I made using the art on the volume 12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/death-note-desktop-wallpaper-i-made-using-the-art-on-the-v0-ttkvfrpr0aad1.jpeg?width=1080&crop=smart&auto=webp&s=c464759801b7f37a9a68cc498c2f963a64c96169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Note HD Anime Wallpaper by ForMyAnime">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/332/332761.jpg' alt='Death Note HD Anime Wallpaper by ForMyAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/332/332761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shinigami Wallpaper - PC : r/deathnote">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/utikadp8onl41.jpg' alt='Shinigami Wallpaper - PC : r/deathnote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/utikadp8onl41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Death Note 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/death-note-4k-mlgweb0fw8tqocbm.jpg' alt='100+] Death Note 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/death-note-4k-mlgweb0fw8tqocbm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Death Note Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/death-note-characters-xfvyor3o8kw8ftq2.jpg' alt='300+] Death Note Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/death-note-characters-xfvyor3o8kw8ftq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Note HD Wallpapers (300++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/never-to-become-god-hbq46euqmvijgngb.jpg' alt='Death Note HD Wallpapers (300++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/never-to-become-god-hbq46euqmvijgngb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Death Note Anime Masterpiece by Heavens Dragon">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/722/thumb-1920-722181.png' alt='HD Wallpaper: Death Note Anime Masterpiece by Heavens Dragon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/722/thumb-1920-722181.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Note L. - Desktop Wallpaper by Trinexz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb89700e-36e2-43be-a163-58f09df5511f/d88muhm-ae581ec0-0fd1-4ab8-a153-624220578766.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiODk3MDBlLTM2ZTItNDNiZS1hMTYzLTU4ZjA5ZGY1NTExZlwvZDg4bXVobS1hZTU4MWVjMC0wZmQxLTRhYjgtYTE1My02MjQyMjA1Nzg3NjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pAfQeH8ZDaUglXXQ7q-Cs90wQ7iw_ftXGyY0ACbEkZE' alt='Death Note L. - Desktop Wallpaper by Trinexz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb89700e-36e2-43be-a163-58f09df5511f/d88muhm-ae581ec0-0fd1-4ab8-a153-624220578766.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiODk3MDBlLTM2ZTItNDNiZS1hMTYzLTU4ZjA5ZGY1NTExZlwvZDg4bXVobS1hZTU4MWVjMC0wZmQxLTRhYjgtYTE1My02MjQyMjA1Nzg3NjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pAfQeH8ZDaUglXXQ7q-Cs90wQ7iw_ftXGyY0ACbEkZE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Anime Death Note Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/best-anime-death-note-qibhy0gqd4qh3s6w.jpg' alt='Best Anime Death Note Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/best-anime-death-note-qibhy0gqd4qh3s6w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

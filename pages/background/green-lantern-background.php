@@ -1,0 +1,129 @@
+<title>Exploring the Rich Legacy of Green Lantern</title>
+                    <meta name="description" content="Discover the fascinating history and key characters of Green Lantern in the DC Comics universe. From Hal Jordan's fearless adventures to the diverse members of the Green Lantern Corps, explore the legacies and challenges that define this iconic hero.">
+                    <meta name="keywords" content="green lantern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-lantern-background">
+                            <span itemprop="name">green lantern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich Legacy of Green Lantern</h1>
+                <p>Green Lantern is a hero within the DC Comics universe, first appearing in 1940. The character is part of an intergalactic police force known as the Green Lantern Corps, wielding a power ring that can create anything the wearer imagines. The legacy includes several individuals, such as Hal Jordan and John Stewart, each facing unique challenges and villains.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/1/7/10798-3840x2160-desktop-4k-green-lantern-background-photo.jpg' alt='Green Lantern Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/1/7/10798-3840x2160-desktop-4k-green-lantern-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hal Jordan: Epic Green Lantern HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/397/397333.jpg' alt='Hal Jordan: Epic Green Lantern HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/397/397333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Corps Wallpapers by Laffler on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/66a83b6c-e211-4afb-b88a-5f4700f49d57/da6dfqj-d92d9f74-331a-4a8a-b286-df8b3748e7f4.jpg' alt='Green Lantern Corps Wallpapers by Laffler on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/66a83b6c-e211-4afb-b88a-5f4700f49d57/da6dfqj-d92d9f74-331a-4a8a-b286-df8b3748e7f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Lantern Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-lantern-ahwdoghr9b3gybpm.jpg' alt='100+] Green Lantern Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-lantern-ahwdoghr9b3gybpm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Wallpaper [OC] [HD] : r/Greenlantern">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/u_A4eCr_QKT6hzGcJ0peaxphRmx5GVdZkKJckUPZhys.jpg?auto=webp&s=8d837b1f5a9d44b183abbcaa38996b485705e7b8' alt='Green Lantern Wallpaper [OC] [HD] : r/Greenlantern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/u_A4eCr_QKT6hzGcJ0peaxphRmx5GVdZkKJckUPZhys.jpg?auto=webp&s=8d837b1f5a9d44b183abbcaa38996b485705e7b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stary Green Lantern Sphere Background 2 by KalEl7 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f899b52-daf8-4098-83fe-5c5e27b69915/d4j9ij4-6fe3f2f4-e4b5-4073-a21f-35a6978a7ee7.jpg/v1/fill/w_640,h_960,q_75,strp/stary_green_lantern_sphere_background_2_by_kalel7_d4j9ij4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvMmY4OTliNTItZGFmOC00MDk4LTgzZmUtNWM1ZTI3YjY5OTE1XC9kNGo5aWo0LTZmZTNmMmY0LWU0YjUtNDA3My1hMjFmLTM1YTY5NzhhN2VlNy5qcGciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MTNqMyBjWE2E4Plk01ywMhUDDKW7Fp1BVDEutICJeCM' alt='Stary Green Lantern Sphere Background 2 by KalEl7 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f899b52-daf8-4098-83fe-5c5e27b69915/d4j9ij4-6fe3f2f4-e4b5-4073-a21f-35a6978a7ee7.jpg/v1/fill/w_640,h_960,q_75,strp/stary_green_lantern_sphere_background_2_by_kalel7_d4j9ij4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvMmY4OTliNTItZGFmOC00MDk4LTgzZmUtNWM1ZTI3YjY5OTE1XC9kNGo5aWo0LTZmZTNmMmY0LWU0YjUtNDA3My1hMjFmLTM1YTY5NzhhN2VlNy5qcGciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MTNqMyBjWE2E4Plk01ywMhUDDKW7Fp1BVDEutICJeCM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Corps in 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/804/804558.jpg' alt='Green Lantern Corps in 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3975">
+                                <meta itemprop="height" content="3056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/804/804558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Green lantern ideas | green lantern, green lantern corps, green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/07/45/a4/0745a45bfc51fcf350ccced638b36430.jpg' alt='8 Green lantern ideas | green lantern, green lantern corps, green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/07/45/a4/0745a45bfc51fcf350ccced638b36430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/3/1/10711-1920x1080-desktop-full-hd-green-lantern-background-image.jpg' alt='Green Lantern Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/3/1/10711-1920x1080-desktop-full-hd-green-lantern-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lantern Minimal Wallpaper, HD Minimalist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/green-lantern-minimal_a2tra2iUmZqaraWkpJRnbWVlrWZnbWs.jpg' alt='Green Lantern Minimal Wallpaper, HD Minimalist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/green-lantern-minimal_a2tra2iUmZqaraWkpJRnbWVlrWZnbWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

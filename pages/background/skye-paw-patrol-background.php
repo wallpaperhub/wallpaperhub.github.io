@@ -1,0 +1,129 @@
+<title>Paw Patrol Skye: The Fearless Flying Pup</title>
+                    <meta name="description" content="Discover Skye from Paw Patrol, the adventurous flying pup! Learn about her bravery, teamwork values, and her role as the team's air support. Perfect for fans seeking to explore Skye's exciting adventures and her contributions to the Paw Patrol team. Join the fun and flight today!">
+                    <meta name="keywords" content="skye paw patrol background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skye-paw-patrol-background">
+                            <span itemprop="name">skye paw patrol background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Paw Patrol Skye: The Fearless Flying Pup</h1>
+                <p>Skye, the fearless pup from Paw Patrol, embodies bravery and adventure. With her bright pink aviator outfit and helicopter, she soars through the skies, always ready to help friends in need. As the team's air support specialist, Skye teaches kids the importance of teamwork and courage, making her a beloved character in the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Skye Paw Patrol Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/skye-paw-patrol-2749-x-1850-alv7589tu1cix8dj.jpg' alt='100+] Skye Paw Patrol Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/skye-paw-patrol-2749-x-1850-alv7589tu1cix8dj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Skye Paw Patrol Pink Pupss Mobile Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/skye-paw-patrol-6tx9al495tvmo5tv.jpg' alt='Download Skye Paw Patrol Pink Pupss Mobile Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/skye-paw-patrol-6tx9al495tvmo5tv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12129BD Paw Patrol Skye & Everest Peel & Stick Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71o+QupojwL._AC_UF894,1000_QL80_.jpg' alt='RoomMates RMK12129BD Paw Patrol Skye & Everest Peel & Stick Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71o+QupojwL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skye Paw Patrol Png , Png Download, Transparent Png(727x840) - PngFind">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/f2/b2/1df2b26cadbeba4fe16143d385f00de2.jpg' alt='Skye Paw Patrol Png , Png Download, Transparent Png(727x840) - PngFind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/f2/b2/1df2b26cadbeba4fe16143d385f00de2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Everest Liberty Pink Background">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/IBB59.jpg?v=1652591080' alt='Paw Patrol Skye Everest Liberty Pink Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/IBB59.jpg?v=1652591080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/paw-patrol-skye-vnk9squuc01on450.jpg' alt='Paw Patrol Skye Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="802">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/paw-patrol-skye-vnk9squuc01on450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4954919.jpg' alt='Paw Patrol Skye Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1266">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4954919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Paw Pups Patrol Birthday Backdrop - Girls Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71HDwKnQc8L._AC_UF350,350_QL80_.jpg' alt='Amazon.com : Paw Pups Patrol Birthday Backdrop - Girls Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71HDwKnQc8L._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Skye Paw Patrol Pink Hearts Canvas Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/skye-paw-patrol-ujvd8wzvpwiob75h.jpg' alt='Download Skye Paw Patrol Pink Hearts Canvas Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/skye-paw-patrol-ujvd8wzvpwiob75h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Wallpapers - Wallpaper Cave 0C">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/5b/b0/c45bb0ee82cc5b5a18a3f130092eba6f.jpg' alt='Paw Patrol Skye Wallpapers - Wallpaper Cave 0C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/5b/b0/c45bb0ee82cc5b5a18a3f130092eba6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

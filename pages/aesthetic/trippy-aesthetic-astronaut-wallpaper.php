@@ -1,0 +1,129 @@
+<title>Trippy Aesthetic Astronaut Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover stunning trippy aesthetic astronaut wallpaper that adds an imaginative touch to your space. Perfect for creating a dreamy atmosphere, our wallpapers feature vibrant colors and surreal themes. Ideal for bedrooms and creative workspaces. Transform your walls today!">
+                    <meta name="keywords" content="trippy aesthetic astronaut wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/trippy-aesthetic-astronaut-wallpaper">
+                            <span itemprop="name">trippy aesthetic astronaut wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Aesthetic Astronaut Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with mesmerizing trippy aesthetic astronaut wallpaper! Featuring vibrant colors and surreal designs, this wallpaper transports you to outer realms where imagination knows no bounds. Perfect for bedroom or creative office decor, it inspires wonder and exploration. Elevate your walls into a cosmic dreamscape!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Astronaut Dope Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/trippy-astronaut-dope-iphone-sc6dgm4g55ihrjgd.jpg' alt='Trippy Astronaut Dope Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/trippy-astronaut-dope-iphone-sc6dgm4g55ihrjgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Trippy Astronaut ideas | astronaut art, space art, astronaut ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/1b/64/441b6446c9cf258a468af1c158d8ec34.jpg' alt='29 Trippy Astronaut ideas | astronaut art, space art, astronaut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/1b/64/441b6446c9cf258a468af1c158d8ec34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trippy Astronaut In Space Blowing Blue Planet Bubbles ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trippy-astronaut-in-space-s5sb5zsse8ydx9aq.jpg' alt='Download Trippy Astronaut In Space Blowing Blue Planet Bubbles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trippy-astronaut-in-space-s5sb5zsse8ydx9aq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surreal psychedelic trippy retro astronaut floating in space ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/surreal-psychedelic-trippy-retro-astronaut-floating-space-background-copy-space-neon-orange-cyan-purple-colors-modern-aesthetic-wallpaper_860215-5195.jpg' alt='Surreal psychedelic trippy retro astronaut floating in space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/surreal-psychedelic-trippy-retro-astronaut-floating-space-background-copy-space-neon-orange-cyan-purple-colors-modern-aesthetic-wallpaper_860215-5195.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy, astronaut, floating, graphics, hip, neon, pink, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/36/02/323602a3f063edf43b8019b7cab0c656.jpg' alt='Trippy, astronaut, floating, graphics, hip, neon, pink, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/36/02/323602a3f063edf43b8019b7cab0c656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Aesthetic Astronaut Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/trippy-aesthetic-astronaut-3wy5ucvwy3bp26xc.jpg' alt='Trippy Aesthetic Astronaut Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/trippy-aesthetic-astronaut-3wy5ucvwy3bp26xc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A day in space, psychedelic, nasa, astronauts, trippy, galaxy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/348/184/HD-wallpaper-a-day-in-space-psychedelic-nasa-astronauts-trippy-galaxy-colorful.jpg' alt='A day in space, psychedelic, nasa, astronauts, trippy, galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/348/184/HD-wallpaper-a-day-in-space-psychedelic-nasa-astronauts-trippy-galaxy-colorful.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Trippy Astronaut ideas | astronaut art, space art, astronaut ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/222x/ae/92/64/ae9264ad140781cd7e62ee15b8b8ca79.jpg' alt='29 Trippy Astronaut ideas | astronaut art, space art, astronaut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/222x/ae/92/64/ae9264ad140781cd7e62ee15b8b8ca79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trippy Astronaut In Space With Broken Helmet Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trippy-astronaut-in-space-n06y86fxnbvdijbx.jpg' alt='Download Trippy Astronaut In Space With Broken Helmet Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trippy-astronaut-in-space-n06y86fxnbvdijbx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dark Astronaut With Butterflies In Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/trippy-dark-astronaut-with-butterflies-in-space-qirun8pixwybui7c.jpg' alt='Trippy Dark Astronaut With Butterflies In Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/trippy-dark-astronaut-with-butterflies-in-space-qirun8pixwybui7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

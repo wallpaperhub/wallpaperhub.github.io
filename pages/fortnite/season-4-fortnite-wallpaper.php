@@ -1,0 +1,129 @@
+<title>Epic Fortnite Season 4 Wallpapers: Download Now!</title>
+                    <meta name="description" content="Discover stunning Fortnite Season 4 wallpapers featuring iconic characters and vibrant landscapes. Perfect for gamers looking to personalize their devices with the latest epic visuals. Download your favorites today and make your screen shine with the excitement of Fortnite!">
+                    <meta name="keywords" content="season 4 fortnite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/season-4-fortnite-wallpaper">
+                            <span itemprop="name">season 4 fortnite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Season 4 Wallpapers: Download Now!</h1>
+                <p>Season 4 of Fortnite ushers in an era of cosmic battles, vibrant graphics, and epic characters. Capture the excitement with captivating wallpapers featuring the latest skins and dynamic landscapes. Whether you’re a fan of superheroes or unique new environments, these wallpapers will elevate your gaming experience and showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chapter 4 Season 4 Keyart : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ck3q4e95h2kb1.jpg' alt='Chapter 4 Season 4 Keyart : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ck3q4e95h2kb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpaper 4K, Season 4, Nexus War">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/fortnite-season-4-nexus-war-marvel-superheroes-crossover-2560x1440-2642.jpg' alt='Fortnite Wallpaper 4K, Season 4, Nexus War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/fortnite-season-4-nexus-war-marvel-superheroes-crossover-2560x1440-2642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FORTNITE | Chapter 2 / Season 4 (Wallpaper) by GumballFan333 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86f59bed-a212-4942-a2f2-a49f76c1cede/dgzan88-d4812f21-4160-48ae-9ed6-963ba70ed0de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2ZjU5YmVkLWEyMTItNDk0Mi1hMmYyLWE0OWY3NmMxY2VkZVwvZGd6YW44OC1kNDgxMmYyMS00MTYwLTQ4YWUtOWVkNi05NjNiYTcwZWQwZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OnL_8vwWjCTpIRM2Bf4s6vNmrUIMcHE45OpwvANMuGs' alt='FORTNITE | Chapter 2 / Season 4 (Wallpaper) by GumballFan333 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86f59bed-a212-4942-a2f2-a49f76c1cede/dgzan88-d4812f21-4160-48ae-9ed6-963ba70ed0de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2ZjU5YmVkLWEyMTItNDk0Mi1hMmYyLWE0OWY3NmMxY2VkZVwvZGd6YW44OC1kNDgxMmYyMS00MTYwLTQ4YWUtOWVkNi05NjNiYTcwZWQwZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OnL_8vwWjCTpIRM2Bf4s6vNmrUIMcHE45OpwvANMuGs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneak peek into Fortnite Chapter 5, Season 4 - photos">
+                                <img itemprop="contentUrl url" src='https://www.northjersey.com/gcdn/authoring/authoring-images/2024/08/14/PNJM/74804492007-absolute-doom.jpg?width=700&height=394&fit=crop&format=pjpg&auto=webp' alt='Sneak peek into Fortnite Chapter 5, Season 4 - photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.northjersey.com" />
+                                </span>
+                                <a href='https://www.northjersey.com/gcdn/authoring/authoring-images/2024/08/14/PNJM/74804492007-absolute-doom.jpg?width=700&height=394&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download New Adventures Await in Fortnite Season 4 Chapter 2 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-season-4-chapter-2-kt0q1bo3g0y7acs9.jpg' alt='Download New Adventures Await in Fortnite Season 4 Chapter 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-season-4-chapter-2-kt0q1bo3g0y7acs9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AXON] Fortnite Battle Royale Chapter 4 Season 4: Last Resort ...">
+                                <img itemprop="contentUrl url" src='https://uploads-us-west-2.insided.com/razer-us/attachment/62d0c388-6e3f-4bb7-ae78-263d3f783121_thumb.jpg' alt='AXON] Fortnite Battle Royale Chapter 4 Season 4: Last Resort ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer Insider" />
+                                </span>
+                                <a href='https://uploads-us-west-2.insided.com/razer-us/attachment/62d0c388-6e3f-4bb7-ae78-263d3f783121_thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneak peek into Fortnite Chapter 5, Season 4 - photos">
+                                <img itemprop="contentUrl url" src='https://www.northjersey.com/gcdn/authoring/authoring-images/2024/08/16/PNJM/74822972007-c-5-s-4-battle-pass-lineup-en.jpg?width=700&height=394&fit=crop&format=pjpg&auto=webp' alt='Sneak peek into Fortnite Chapter 5, Season 4 - photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.northjersey.com" />
+                                </span>
+                                <a href='https://www.northjersey.com/gcdn/authoring/authoring-images/2024/08/16/PNJM/74822972007-c-5-s-4-battle-pass-lineup-en.jpg?width=700&height=394&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chapter 3 Season 4 Seasonal Wallpapers, I make these every new ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6bqulc1sbqo91.jpg?width=750&format=pjpg&auto=webp&s=8ddc4550dd9f6c5a23a419ed4c48b2123b25df4c' alt='Chapter 3 Season 4 Seasonal Wallpapers, I make these every new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6bqulc1sbqo91.jpg?width=750&format=pjpg&auto=webp&s=8ddc4550dd9f6c5a23a419ed4c48b2123b25df4c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite season 4 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/10/17/HD-wallpaper-fortnite-season-4.jpg' alt='HD fortnite season 4 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/10/17/HD-wallpaper-fortnite-season-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Fortnite Chapter 4 Season 4 Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/new-fortnite-chapter-4-season-4_bmZnbWiUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='New Fortnite Chapter 4 Season 4 Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/new-fortnite-chapter-4-season-4_bmZnbWiUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

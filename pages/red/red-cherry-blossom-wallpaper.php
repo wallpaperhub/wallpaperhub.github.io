@@ -1,0 +1,129 @@
+<title>Stunning Red Cherry Blossom Wallpaper for Elegant Spaces</title>
+                    <meta name="description" content="Add elegance to your home with our stunning red cherry blossom wallpaper. Perfect for creating a serene atmosphere, this wallpaper transforms your walls into a beautiful floral landscape. Ideal for any room, enjoy nature's charm indoors with this exquisite decor choice!">
+                    <meta name="keywords" content="red cherry blossom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-cherry-blossom-wallpaper">
+                            <span itemprop="name">red cherry blossom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Cherry Blossom Wallpaper for Elegant Spaces</h1>
+                <p>Red cherry blossom wallpaper adds a touch of elegance and tranquility to any space. With its vibrant hues and intricate floral designs, it transforms walls into serene landscapes. Perfect for living rooms, bedrooms, or offices, this wallpaper brings the beauty of nature indoors. Embrace the charm and serenity of cherry blossoms in your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/054/784/206/small_2x/elegant-cherry-blossom-branch-against-vibrant-red-background-for-nature-art-photo.jpg' alt='Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/054/784/206/small_2x/elegant-cherry-blossom-branch-against-vibrant-red-background-for-nature-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Cherry Blossom Floral Peel & Stick Wallpaper - Red">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW38301_e3476606-50c7-4d02-964a-22a5e39760d1.jpg?v=1636740619' alt='NextWall Cherry Blossom Floral Peel & Stick Wallpaper - Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW38301_e3476606-50c7-4d02-964a-22a5e39760d1.jpg?v=1636740619' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Red Cherry Blossom Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-red-cherry-blossom-s4uqrzhnck51erp1.jpg' alt='Cool Red Cherry Blossom Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-red-cherry-blossom-s4uqrzhnck51erp1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Watercolour – Mod Design Shop">
+                                <img itemprop="contentUrl url" src='https://moddesignshop.com/cdn/shop/products/1236_ed23d0be-988a-4a67-8e97-5916273bd864_1024x1024@2x.jpg?v=1614018458' alt='Cherry Blossom Watercolour – Mod Design Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod Design Shop" />
+                                </span>
+                                <a href='https://moddesignshop.com/cdn/shop/products/1236_ed23d0be-988a-4a67-8e97-5916273bd864_1024x1024@2x.jpg?v=1614018458' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom Loft Murals for TV and Sofa Background, Wall Art  Decor WallpaperRed 3d Mural Wallpaper for Bedroom Living Room Office Room  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jR-iuBJFL._AC_UF894,1000_QL80_.jpg' alt='Japanese Cherry Blossom Loft Murals for TV and Sofa Background, Wall Art  Decor WallpaperRed 3d Mural Wallpaper for Bedroom Living Room Office Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jR-iuBJFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Images – Browse 375,060 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/57/28/10/360_F_1057281019_oFEQKI74WX7y0FXGL0nvWXCE9x0btruS.jpg' alt='Red Cherry Blossom Images – Browse 375,060 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/57/28/10/360_F_1057281019_oFEQKI74WX7y0FXGL0nvWXCE9x0btruS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/052/339/697/small_2x/vibrant-red-cherry-blossom-flowers-in-full-bloom-photo.jpg' alt='Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/052/339/697/small_2x/vibrant-red-cherry-blossom-flowers-in-full-bloom-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Red Cherry Blossom Tree by RumourHasIt | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/d0/13/6dd013050a5e1eda29553371d142e9d3.jpg' alt='Whimsical Red Cherry Blossom Tree by RumourHasIt | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/d0/13/6dd013050a5e1eda29553371d142e9d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Images – Browse 375,060 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/26/73/80/360_F_1126738058_4Q1aYtoWLAf9c0ssTZ5yusa5CDsLA6lY.jpg' alt='Red Cherry Blossom Images – Browse 375,060 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/26/73/80/360_F_1126738058_4Q1aYtoWLAf9c0ssTZ5yusa5CDsLA6lY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom Pattern Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715855892/articles/FL5021NE02W_interior1.jpg' alt='Japanese Cherry Blossom Pattern Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715855892/articles/FL5021NE02W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

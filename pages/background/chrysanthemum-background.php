@@ -1,0 +1,129 @@
+<title>Chrysanthemum: A Bloom of Joy and Color</title>
+                    <meta name="description" content="Discover the beauty of chrysanthemums! Learn about their vibrant colors, cultural significance, and gardening tips to grow these charming flowers. Perfect for gardens and celebrations, chrysanthemums are a symbol of joy that brightens any space. Explore their history and care for these enduring blooms today!">
+                    <meta name="keywords" content="chrysanthemum background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chrysanthemum-background">
+                            <span itemprop="name">chrysanthemum background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chrysanthemum: A Bloom of Joy and Color</h1>
+                <p>Chrysanthemums, often called "mums," are beloved flowers known for their vibrant colors and diverse forms. Native to Asia and northeastern Europe, they symbolize joy and optimism. These hardy blooms thrive in various climates, making them popular in gardens worldwide. With a rich cultural history, chrysanthemums hold significance in celebrations like the Japanese festival of Kiku.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Chrysanthemum Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/chrysanthemum-zsg8omkcs3j8rm2h.jpg' alt='100+] Chrysanthemum Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/chrysanthemum-zsg8omkcs3j8rm2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful bright chrysanthemum background picture. Chrysanthemum ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2AH6F7F/beautiful-bright-chrysanthemum-background-picture-chrysanthemum-wallpaper-color-of-the-year-2020-classic-blue-2AH6F7F.jpg' alt='Beautiful bright chrysanthemum background picture. Chrysanthemum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2AH6F7F/beautiful-bright-chrysanthemum-background-picture-chrysanthemum-wallpaper-color-of-the-year-2020-classic-blue-2AH6F7F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,786 Orange Chrysanthemum Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/471112733/photo/multicolored-chrysanthemums-background.jpg?s=612x612&w=gi&k=20&c=VlgKa-H8OSQ5ziCXgAl1BxSWtEIDUq9uyQ0JTCViQMc=' alt='1,786 Orange Chrysanthemum Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/471112733/photo/multicolored-chrysanthemums-background.jpg?s=612x612&w=gi&k=20&c=VlgKa-H8OSQ5ziCXgAl1BxSWtEIDUq9uyQ0JTCViQMc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Chrysanthemum Images – Browse 365,527 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/23/17/83/360_F_123178325_KbrtQFpKNGSpXP5q0aWJpt5RDwoT6TnG.jpg' alt='Yellow Chrysanthemum Images – Browse 365,527 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/23/17/83/360_F_123178325_KbrtQFpKNGSpXP5q0aWJpt5RDwoT6TnG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chrysanthemum, flower, pink, 720x1280 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a5/8e/26/a58e26cb599743ba1bfcbdf63fa50753.jpg' alt='Chrysanthemum, flower, pink, 720x1280 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a5/8e/26/a58e26cb599743ba1bfcbdf63fa50753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Chrysanthemum On A Dark Background Bright Flower, Flower ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-yellow-chrysanthemum-on-a-dark-background-bright-flower-image_15927004.jpg' alt='Yellow Chrysanthemum On A Dark Background Bright Flower, Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20240726/pngtree-yellow-chrysanthemum-on-a-dark-background-bright-flower-image_15927004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flowers. chrysanthemum. wallpaper. white. aesthetics. phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/4d/a6/594da6de104f560f345e2e3c59696cbe.jpg' alt='flowers. chrysanthemum. wallpaper. white. aesthetics. phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/4d/a6/594da6de104f560f345e2e3c59696cbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chrysanthemums Wallpaper by MINDTHEGAP – Vertigo Home">
+                                <img itemprop="contentUrl url" src='https://www.vertigohome.us/cdn/shop/products/CHRYSANTHEMUMS-1-mindthegapwww.vertigohome.us_960x.jpg?v=1612291498' alt='Chrysanthemums Wallpaper by MINDTHEGAP – Vertigo Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vertigo Home" />
+                                </span>
+                                <a href='https://www.vertigohome.us/cdn/shop/products/CHRYSANTHEMUMS-1-mindthegapwww.vertigohome.us_960x.jpg?v=1612291498' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chrysanthemum Wallpapers (81 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/d/7/114972-1080x1921-phone-hd-chrysanthemum-wallpaper-image.jpg' alt='Chrysanthemum Wallpapers (81 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/d/7/114972-1080x1921-phone-hd-chrysanthemum-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chrysanthemum background White background showing close up ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/chrysanthemum-background-white-background-showing-close-up-detail-white-chrysanthemum-flower-white-white-copy-space-perfect-funeral-message_1028938-299685.jpg?w=360' alt='Chrysanthemum background White background showing close up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/chrysanthemum-background-white-background-showing-close-up-detail-white-chrysanthemum-flower-white-white-copy-space-perfect-funeral-message_1028938-299685.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

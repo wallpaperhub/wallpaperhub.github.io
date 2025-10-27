@@ -1,0 +1,129 @@
+<title>Cute Yellow Preppy Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover the charm of cute yellow preppy wallpaper! Perfect for any room, this vibrant decor adds a cheerful touch. Ideal for young and stylish spaces, it combines playful patterns with a warm color palette. Redefine your aesthetic and create a lively ambiance that brightens your day!">
+                    <meta name="keywords" content="cute yellow preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/cute-yellow-preppy-wallpaper">
+                            <span itemprop="name">cute yellow preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Yellow Preppy Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with charming cute yellow preppy wallpaper! Perfect for adding a sunny touch to any room, this wallpaper brings a fresh, cheerful vibe. With playful patterns and bright hues, it complements various aesthetics, making it ideal for bedrooms, living areas, or even an office. Embrace a fun and stylish atmosphere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow preppy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/07/24/650724afe15852d2ccb521d7df6d958b.jpg' alt='yellow preppy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/07/24/650724afe15852d2ccb521d7df6d958b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Yellow Preppy Monogram Desktop Wallpaper Collage">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/1b703a/3366052153/il_fullxfull.3366052153_k0im.jpg' alt='Custom Yellow Preppy Monogram Desktop Wallpaper Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/1b703a/3366052153/il_fullxfull.3366052153_k0im.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨Yellow preppy✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/cf/a9/5dcfa93db332b5117f44af9868e40692.jpg' alt='✨Yellow preppy✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/cf/a9/5dcfa93db332b5117f44af9868e40692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Smiley Face Warped Yellow Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-smiley-face-warped-yellow-ptdq39e8ihvk038g.jpg' alt='Download Preppy Smiley Face Warped Yellow Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-smiley-face-warped-yellow-ptdq39e8ihvk038g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy yellow background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/01/8d/f6018d2c7240793409d369ba0ab9c2a7.jpg' alt='preppy yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/01/8d/f6018d2c7240793409d369ba0ab9c2a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Smiley Face Yellow Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/preppy-smiley-face-yellow-pattern-5evn7pl9p4hk4e4q.jpg' alt='Preppy Smiley Face Yellow Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/preppy-smiley-face-yellow-pattern-5evn7pl9p4hk4e4q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Yellow Wallpaper Stock Illustrations – 233 Preppy Yellow ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/shutterstock-jpg-264756537.jpg' alt='Preppy Yellow Wallpaper Stock Illustrations – 233 Preppy Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/shutterstock-jpg-264756537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All smiles wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bd/3f/e5/bd3fe54b4a253b44148067f2c25468ac.jpg' alt='All smiles wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bd/3f/e5/bd3fe54b4a253b44148067f2c25468ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Wallpaper Collage - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18363275/c/2228/2228/281/0/il/6da3da/2781443254/il_300x300.2781443254_c7oj.jpg' alt='Yellow Aesthetic Wallpaper Collage - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18363275/c/2228/2228/281/0/il/6da3da/2781443254/il_300x300.2781443254_c7oj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD yellow preppy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/483/738/HD-wallpaper-aesthetic-cow-yellow-preppy-aesthetic-cow.jpg' alt='HD yellow preppy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/483/738/HD-wallpaper-aesthetic-cow-yellow-preppy-aesthetic-cow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Homies Wallpaper: Elevate Your Space with Style</title>
+                    <meta name="description" content="Discover the perfect homies wallpaper to express your unique style and enhance your living space. Explore a variety of fun designs and colors that celebrate friendship and individuality, making your home a reflection of you. Shop now for wallpapers that inspire and uplift your decor!">
+                    <meta name="keywords" content="homies wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/homies-wallpaper">
+                            <span itemprop="name">homies wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Homies Wallpaper: Elevate Your Space with Style</h1>
+                <p>Transform your space with unique homies wallpaper, showcasing vibrant designs that celebrate friendship and individuality. Our collection ranges from bold patterns to subtle textures, perfect for any room. Elevate your home decor and express your personality with wallpapers that bring a sense of fun and warmth to your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Homies Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/15/45/761545b3ffe147fab3d28713d79f2c4f.jpg' alt='   Homies Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="579">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/15/45/761545b3ffe147fab3d28713d79f2c4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Homies Old School#4 | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4048471358.4156/flat,750x1000,075,t.u3.jpg' alt='Lil Homies Old School#4 | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4048471358.4156/flat,750x1000,075,t.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Image Result for https://www.wallpapertip.com/wmimgs/35 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/7c/ec/ba7cec7cb85adb6c8b5debbd82064e53.jpg' alt='Google Image Result for https://www.wallpapertip.com/wmimgs/35 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/7c/ec/ba7cec7cb85adb6c8b5debbd82064e53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arbinger The Homies Tapestry Flag Aesthetic Home Decoration 4 * 4ft Banner  Wall Art Poster Rapper Wall Hanging Background Decoration">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713z82Ex19L._AC_UF1000,1000_QL80_.jpg' alt='Arbinger The Homies Tapestry Flag Aesthetic Home Decoration 4 * 4ft Banner  Wall Art Poster Rapper Wall Hanging Background Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="996">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713z82Ex19L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Homies Old School#5 | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4048490308.4653/flat,750x1000,075,t.u3.webp' alt='Lil Homies Old School#5 | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4048490308.4653/flat,750x1000,075,t.u3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOMIES">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/3b/9c/ca/3b9cca5420003c7993f2558ff1c50cd4.jpg' alt='HOMIES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/3b/9c/ca/3b9cca5420003c7993f2558ff1c50cd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lil homies 2000s crew PNG DIGITAL sublimation tumbler WRAP">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38110193/r/il/0439b8/4539712066/il_fullxfull.4539712066_lob7.jpg' alt='lil homies 2000s crew PNG DIGITAL sublimation tumbler WRAP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38110193/r/il/0439b8/4539712066/il_fullxfull.4539712066_lob7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Homies Shirts | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4528057727.0736/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' alt='Lil Homies Shirts | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4528057727.0736/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Homies Background Findgraphics Image For on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8f/b4/8b/8fb48bdd9dcf1445d6cec72a510f826d.jpg' alt='   Free download Homies Background Findgraphics Image For on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8f/b4/8b/8fb48bdd9dcf1445d6cec72a510f826d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homies Thug Life Halloween Png - Free Download">
+                                <img itemprop="contentUrl url" src='https://oladino.com/wp-content/uploads/2024/09/homies-thug-life-halloween-png-1909241019.jpg' alt='Homies Thug Life Halloween Png - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oladino" />
+                                </span>
+                                <a href='https://oladino.com/wp-content/uploads/2024/09/homies-thug-life-halloween-png-1909241019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

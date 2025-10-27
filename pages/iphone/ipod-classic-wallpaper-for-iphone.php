@@ -1,0 +1,129 @@
+<title>Stylish iPod Classic Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the best iPod Classic wallpapers to personalize your iPhone. Relive the retro charm of the classic music player with stunning designs that fit your mobile perfectly. Download now and give your device a timeless look!">
+                    <meta name="keywords" content="ipod classic wallpaper for iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/ipod-classic-wallpaper-for-iphone">
+                            <span itemprop="name">ipod classic wallpaper for iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish iPod Classic Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with nostalgic iPod Classic wallpapers! Dive into a collection that brings back the retro vibes of the iconic device. Choose from vibrant color schemes and classic designs to customize your home screen and lock screen, making your iPhone a tribute to the beloved music player.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPod wallpapers for iPhone: Download these now - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2023/12/ipod-wallpaper-for-iphone-download.jpg?quality=82&strip=all&w=1600' alt='iPod wallpapers for iPhone: Download these now - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2023/12/ipod-wallpaper-for-iphone-download.jpg?quality=82&strip=all&w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPod Wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ipod-wallpaper-v0-s1uq9lloqa7c1.jpg?width=640&crop=smart&auto=webp&s=4df79c4a95ef1e83e9e0c36b970cc683f3451983' alt='IPod Wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ipod-wallpaper-v0-s1uq9lloqa7c1.jpg?width=640&crop=smart&auto=webp&s=4df79c4a95ef1e83e9e0c36b970cc683f3451983' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPod Wallpapers Collection for iPhone - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/12/ispazio-52.jpg' alt='iPod Wallpapers Collection for iPhone - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/12/ispazio-52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turn your iPhone into a retro iPod with these colorful wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2024/08/iPod-Wallpaper-byPapers-White-White.png' alt='Turn your iPhone into a retro iPod with these colorful wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2358">
+                                <meta itemprop="height" content="5112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2024/08/iPod-Wallpaper-byPapers-White-White.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="As per request, I made an iOS 16-in-mind Lock Screen wallpaper of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ofj8a6pe8jd91.jpg' alt='As per request, I made an iOS 16-in-mind Lock Screen wallpaper of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ofj8a6pe8jd91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPod wallpapers for iPhone✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/46/24/634624bb23265833b9df3757d4e2f873.jpg' alt='iPod wallpapers for iPhone✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/46/24/634624bb23265833b9df3757d4e2f873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular iPod Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/21403617644946844-41719968530051511.jpg' alt='Most Popular iPod Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/21403617644946844-41719968530051511.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ipod Classical iPhone Wallpapers, Whimsical Wallpapers Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45212839/r/il/f2d471/5673313354/il_570xN.5673313354_s1c3.jpg' alt='Ipod Classical iPhone Wallpapers, Whimsical Wallpapers Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45212839/r/il/f2d471/5673313354/il_570xN.5673313354_s1c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="With this wallpaper, the iconic iPod design vibes are beautifully ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C7CfpndyCWl/0/image.jpg' alt='With this wallpaper, the iconic iPod design vibes are beautifully ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C7CfpndyCWl/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPod iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/65/31/fe/6531fe4d0702a80544ea99c01cf7fd05.jpg' alt='iPod iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/65/31/fe/6531fe4d0702a80544ea99c01cf7fd05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

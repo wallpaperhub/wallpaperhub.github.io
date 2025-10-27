@@ -1,0 +1,129 @@
+<title>Stunning Black and White Simple Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover elegant black and white simple wallpaper that complements any decor style. Enjoy a timeless look with minimalistic designs perfect for homes or offices. Transform your space effortlessly with this chic wallpaper option, combining sophistication and simplicity for a refreshing ambiance.">
+                    <meta name="keywords" content="black and white simple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-simple-wallpaper">
+                            <span itemprop="name">black and white simple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Simple Wallpaper for Modern Spaces</h1>
+                <p>Black and white simple wallpaper brings a timeless elegance to any space. Its minimalist design offers a perfect backdrop for modern decor, enhancing aesthetics without overwhelming your surroundings. Ideal for both home and office, these wallpapers create a calm, sophisticated atmosphere, making them a popular choice for various interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black white wallpaper iphone simple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/b6/f6/1db6f6d992d11e199cf40681986fadb5.jpg' alt='Black white wallpaper iphone simple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/b6/f6/1db6f6d992d11e199cf40681986fadb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Black And White Simple Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/99457087912862651-28250097911582064.jpg' alt='Most Popular Black And White Simple Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/99457087912862651-28250097911582064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Black Background With A White Wave On It Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-black-and-white-qsa4hh3qfnxyuvks.jpg' alt='Download A Black Background With A White Wave On It Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-black-and-white-qsa4hh3qfnxyuvks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White | Black and white wallpaper iphone, Black and white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/4f/f0/c94ff0cb567d817326e7b613d04a2ead.jpg' alt='Black & White | Black and white wallpaper iphone, Black and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/4f/f0/c94ff0cb567d817326e7b613d04a2ead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white, outline, simple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/205/763/HD-wallpaper-black-and-white-outline-simple.jpg' alt='Black and white, outline, simple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/205/763/HD-wallpaper-black-and-white-outline-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Simple Black and White Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-black-and-white-efuf9nnydobsc0ar.jpg' alt='Download Simple Black and White Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-black-and-white-efuf9nnydobsc0ar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Black Barbed Wire Close-up Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/simple-black-swimming-fish-n9mxrqaxc229kta3.webp' alt='Simple Black Barbed Wire Close-up Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/simple-black-swimming-fish-n9mxrqaxc229kta3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper black templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4zByjCKI/1/0/900w/canva-black-and-white-simple-motivation-phone-wallpaper-OKXDbZ05FS0.jpg' alt='Free and customizable wallpaper black templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4zByjCKI/1/0/900w/canva-black-and-white-simple-motivation-phone-wallpaper-OKXDbZ05FS0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white, boring, outline, simple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/67/686/HD-wallpaper-black-and-white-boring-outline-simple.jpg' alt='Black and white, boring, outline, simple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/67/686/HD-wallpaper-black-and-white-boring-outline-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Favor Doodle">
+                                <img itemprop="contentUrl url" src='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-color-me-party-favor-black-white-doodle-removable-wallpaper-party-favor-doodle-wallpaper-8682581655652_1200x630.png?v=1619785361' alt='Party Favor Doodle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-color-me-party-favor-black-white-doodle-removable-wallpaper-party-favor-doodle-wallpaper-8682581655652_1200x630.png?v=1619785361' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

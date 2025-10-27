@@ -1,0 +1,129 @@
+<title>Elevate Your LinkedIn with a Mental Health Banner</title>
+                    <meta name="description" content="Discover how a mental health LinkedIn banner can transform your profile. Learn tips for creating an impactful and visually appealing design that promotes mental wellness while attracting professional connections. Invest in your online presence and make a statement about your commitment to mental health awareness.">
+                    <meta name="keywords" content="mental health linkedin banner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mental-health-linkedin-banner">
+                            <span itemprop="name">mental health linkedin banner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your LinkedIn with a Mental Health Banner</h1>
+                <p>Enhance your LinkedIn profile with a mental health banner that promotes awareness and positivity. Choose calming colors, inspirational quotes, or imagery that reflects mental wellness. A well-designed banner not only makes your profile stand out but also shows your commitment to mental health, attracting like-minded professionals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental Health Banner Linkedin Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/mental-health-social-media-cover-template_23-2149049728.jpg' alt='Mental Health Banner Linkedin Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/mental-health-social-media-cover-template_23-2149049728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From the Founders' Desk: thoughts on mental health | 1Password">
+                                <img itemprop="contentUrl url" src='https://blog.1password.com/posts/2019/mental-health-week/header.png' alt='From the Founders' Desk: thoughts on mental health | 1Password'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3362">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1Password Blog" />
+                                </span>
+                                <a href='https://blog.1password.com/posts/2019/mental-health-week/header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn mental health social media cover template">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/67/d0/f467d05d5517fb9c737a70d759f918b0.jpg' alt='Free Vector | Hand drawn mental health social media cover template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/67/d0/f467d05d5517fb9c737a70d759f918b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does mental health significant to your well-being?">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQGk7OqF9lpr0Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674955047440?e=2147483647&v=beta&t=9xNjOhxK74J2_nKU3YL0jVZS0-xBeVRiKGetQyA5UKQ' alt='Does mental health significant to your well-being?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQGk7OqF9lpr0Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674955047440?e=2147483647&v=beta&t=9xNjOhxK74J2_nKU3YL0jVZS0-xBeVRiKGetQyA5UKQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Action Mental Health | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D1BAQH3-RvxsogM_Q/company-background_10000/company-background_10000/0/1583614663323/amh_action_mental_health_cover?e=2147483647&v=beta&t=aI2mt5EWWuZsew7tyvz0XVtS4Tu5Dunu9lleQSurYy8' alt='Action Mental Health | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D1BAQH3-RvxsogM_Q/company-background_10000/company-background_10000/0/1583614663323/amh_action_mental_health_cover?e=2147483647&v=beta&t=aI2mt5EWWuZsew7tyvz0XVtS4Tu5Dunu9lleQSurYy8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental Health Banner Linkedin Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-mental-health-twitter-header_23-2149171278.jpg' alt='Mental Health Banner Linkedin Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-mental-health-twitter-header_23-2149171278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental Health Banner Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/433/369/small/mental-health-word-concepts-pink-banner-psychologist-support-infographics-with-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg' alt='Mental Health Banner Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/433/369/small/mental-health-word-concepts-pink-banner-psychologist-support-infographics-with-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mental-health-banner | Calm and Sense Therapy">
+                                <img itemprop="contentUrl url" src='https://calmandsense.org/wp-content/uploads/2018/11/mental-health-banner.jpg' alt='mental-health-banner | Calm and Sense Therapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calm and Sense Therapy" />
+                                </span>
+                                <a href='https://calmandsense.org/wp-content/uploads/2018/11/mental-health-banner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44,936 Mental Health Banner Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/mental-health-banner-card-place-260nw-2155187849.jpg' alt='44,936 Mental Health Banner Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/mental-health-banner-card-place-260nw-2155187849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Mental health social media cover template">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/mental-health-social-media-cover-template_23-2149054814.jpg' alt='Free Vector | Mental health social media cover template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/mental-health-social-media-cover-template_23-2149054814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

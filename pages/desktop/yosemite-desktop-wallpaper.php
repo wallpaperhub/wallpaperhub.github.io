@@ -1,0 +1,129 @@
+<title>Stunning Yosemite Desktop Wallpaper for Nature Lovers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="yosemite desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/yosemite-desktop-wallpaper">
+                            <span itemprop="name">yosemite desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Yosemite Desktop Wallpaper for Nature Lovers</h1>
+                <p>Your desktop deserves the beauty of nature! Explore stunning Yosemite desktop wallpaper options that capture the park's majestic landscapes, from towering granite cliffs to serene valleys. Transform your workspace into a motivational retreat with high-resolution images that inspire adventure and tranquility every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite | 100+ best free mountain range, outdoor, united state ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1691394790591-b1ce2093b045?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnw5MzU1Mjd8fGVufDB8fHx8fA%3D%3D' alt='Yosemite | 100+ best free mountain range, outdoor, united state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1691394790591-b1ce2093b045?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnw5MzU1Mjd8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Yosemite Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1498429089284-41f8cf3ffd39?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8eW9zZW1pdGV8ZW58MHx8MHx8fDA%3D' alt='100+ Yosemite Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1498429089284-41f8cf3ffd39?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8eW9zZW1pdGV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite Wallpapers for Backgrounds — Yosemite Conservancy">
+                                <img itemprop="contentUrl url" src='https://yosemite.org/wp-content/uploads/2019/08/yosemite_conservancy_1440x900_scot_miller_tunnel_view_0-360x240.jpg' alt='Yosemite Wallpapers for Backgrounds — Yosemite Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yosemite Conservancy" />
+                                </span>
+                                <a href='https://yosemite.org/wp-content/uploads/2019/08/yosemite_conservancy_1440x900_scot_miller_tunnel_view_0-360x240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite National Park Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/6/9/679659-3840x2160-desktop-4k-yosemite-national-park-wallpaper-photo.jpg' alt='Yosemite National Park Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/6/9/679659-3840x2160-desktop-4k-yosemite-national-park-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSX Yosemite Wallpaper : r/apple">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/lZzBon2UJdq2hgoQHXM2nxHo0YD4XhHihsfNY2N5GWc.jpg?width=640&crop=smart&auto=webp&s=42676db24bc2d04636f01b79b4e702510b9ab95b' alt='OSX Yosemite Wallpaper : r/apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/lZzBon2UJdq2hgoQHXM2nxHo0YD4XhHihsfNY2N5GWc.jpg?width=640&crop=smart&auto=webp&s=42676db24bc2d04636f01b79b4e702510b9ab95b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yosemite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yosemite-sunny-day-bb4oa6je9eyzmpzy.jpg' alt='100+] Yosemite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yosemite-sunny-day-bb4oa6je9eyzmpzy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite | 100+ best free mountain range, outdoor, united state ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1631029266314-18309c825e83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTd8OTM1NTI3fHxlbnwwfHx8fHw%3D' alt='Yosemite | 100+ best free mountain range, outdoor, united state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1631029266314-18309c825e83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTd8OTM1NTI3fHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite | 100+ best free mountain range, outdoor, united state ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1645611868479-c5aa51b8e77f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTB8OTM1NTI3fHxlbnwwfHx8fHw%3D' alt='Yosemite | 100+ best free mountain range, outdoor, united state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1645611868479-c5aa51b8e77f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTB8OTM1NTI3fHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite National Park Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/7/1/679746-3840x2160-desktop-4k-yosemite-national-park-background.jpg' alt='Yosemite National Park Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/7/1/679746-3840x2160-desktop-4k-yosemite-national-park-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yosemite Wallpapers for Backgrounds — Yosemite Conservancy">
+                                <img itemprop="contentUrl url" src='https://yosemite.org/wp-content/uploads/2020/05/bridalveil-fall-leaning-tower_may20203_kylie-chappell.jpeg' alt='Yosemite Wallpapers for Backgrounds — Yosemite Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yosemite Conservancy" />
+                                </span>
+                                <a href='https://yosemite.org/wp-content/uploads/2020/05/bridalveil-fall-leaning-tower_may20203_kylie-chappell.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

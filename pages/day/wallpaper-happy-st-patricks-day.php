@@ -1,0 +1,129 @@
+<title>St. Patrick's Day Wallpaper: Celebrate with Irish Charm</title>
+                    <meta name="description" content="Download cheerful St. Patrick's Day wallpapers to brighten up your devices! Featuring festive designs and vibrant colors, these wallpapers add a touch of Irish luck and joy to your screens. Celebrate the spirit of St. Patrick's Day with stunning visuals that will make you smile!">
+                    <meta name="keywords" content="wallpaper happy st. patrick's day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/wallpaper-happy-st-patricks-day">
+                            <span itemprop="name">wallpaper happy st. patrick's day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>St. Patrick's Day Wallpaper: Celebrate with Irish Charm</h1>
+                <p>Decorate your devices with vibrant wallpapers to celebrate St. Patrick's Day! Featuring lush green landscapes, cheerful leprechauns, and festive symbols, these wallpapers will fill your screens with the spirit of luck and joy. Perfect for bringing a touch of Irish charm to your smartphone or computer this holiday!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] St Patrick's Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/st-patricks-day-tbivohjjy3pgtbu9.jpg' alt='100+] St Patrick's Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/st-patricks-day-tbivohjjy3pgtbu9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Background Of The Cute St Patricks Day Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370517281/vector/st-patricks-day-greeting-card-poster-print.jpg?s=612x612&w=0&k=20&c=2BlJEIHsLMWyz26B7uiSVyUsljS6pMVQcAKNhBj5HGQ=' alt='1,900+ Background Of The Cute St Patricks Day Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370517281/vector/st-patricks-day-greeting-card-poster-print.jpg?s=612x612&w=0&k=20&c=2BlJEIHsLMWyz26B7uiSVyUsljS6pMVQcAKNhBj5HGQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy St Patricks Day Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-background-st-patrick-s-day-celebration_23-2151191320.jpg?semt=ais_hybrid' alt='Happy St Patricks Day Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-background-st-patrick-s-day-celebration_23-2151191320.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Background Images – Browse 282,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/43/20/86/360_F_943208614_4oQG7xKLwwQNOfM1SSU7RxoZjHBedqeQ.jpg' alt='St Patricks Day Background Images – Browse 282,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/43/20/86/360_F_943208614_4oQG7xKLwwQNOfM1SSU7RxoZjHBedqeQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/43/bc/b543bc1df9bef63addd06450996ee678.jpg' alt='St Patricks Day Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/43/bc/b543bc1df9bef63addd06450996ee678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - St. Patrick's Day tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/a1/3f/23a13fee51450f2d332001a7c170b0d7.jpg' alt='iPhone Wallpaper - St. Patrick's Day tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/a1/3f/23a13fee51450f2d332001a7c170b0d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy St.patrick's Day Wallpaper Free Vector and graphic 53049186.">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/captainvector/captainvector1602/captainvector160263908/53049186-happy-st-patrick-s-day-wallpaper.jpg' alt='Happy St.patrick's Day Wallpaper Free Vector and graphic 53049186.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/captainvector/captainvector1602/captainvector160263908/53049186-happy-st-patrick-s-day-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 15 | Happy St Patrick S Day Text Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-st-patrick-s-day-illustration-with-hat_23-2148867240.jpg' alt='Page 15 | Happy St Patrick S Day Text Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-st-patrick-s-day-illustration-with-hat_23-2148867240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy St Patrick's Day Wallpaper by Kunoichi-Bunny on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72452254-9faa-4a46-aad2-7045d5be45bc/dfqnx2u-501b1f50-ceba-4cea-aedc-2e2e636b750c.jpg/v1/fill/w_1920,h_1200,q_75,strp/happy_st_patrick_s_day_wallpaper_by_kunoichi_bunny_dfqnx2u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzcyNDUyMjU0LTlmYWEtNGE0Ni1hYWQyLTcwNDVkNWJlNDViY1wvZGZxbngydS01MDFiMWY1MC1jZWJhLTRjZWEtYWVkYy0yZTJlNjM2Yjc1MGMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3MqzGOTFEsd9NbDJ-kyt0WgUKWRWfStWvJOZTEc9Wk4' alt='Happy St Patrick's Day Wallpaper by Kunoichi-Bunny on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72452254-9faa-4a46-aad2-7045d5be45bc/dfqnx2u-501b1f50-ceba-4cea-aedc-2e2e636b750c.jpg/v1/fill/w_1920,h_1200,q_75,strp/happy_st_patrick_s_day_wallpaper_by_kunoichi_bunny_dfqnx2u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzcyNDUyMjU0LTlmYWEtNGE0Ni1hYWQyLTcwNDVkNWJlNDViY1wvZGZxbngydS01MDFiMWY1MC1jZWJhLTRjZWEtYWVkYy0yZTJlNjM2Yjc1MGMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3MqzGOTFEsd9NbDJ-kyt0WgUKWRWfStWvJOZTEc9Wk4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Saint Patrick's Day Background Images - Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.fg-a.com/wallpapers/2020-st-patricks-day-clover.jpg' alt='Free Saint Patrick's Day Background Images - Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Animations - Clipart - Animated Gifs" />
+                                </span>
+                                <a href='https://www.fg-a.com/wallpapers/2020-st-patricks-day-clover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

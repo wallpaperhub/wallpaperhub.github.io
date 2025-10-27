@@ -1,0 +1,129 @@
+<title>Elegant Bird Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover beautiful bird aesthetic wallpaper that enhances any room. Featuring vibrant designs and calming themes, our collection offers the perfect backdrop for relaxation and style. Transform your interiors effortlessly with unique patterns that reflect your love for nature.">
+                    <meta name="keywords" content="bird aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/bird-aesthetic-wallpaper">
+                            <span itemprop="name">bird aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Bird Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning bird aesthetic wallpaper. Featuring colorful feathers and serene landscapes, these designs bring nature's beauty indoors. Ideal for bedrooms or living areas, our wallpapers evoke tranquility and style. Explore a variety of patterns, from vintage to modern, and find the perfect fit for your personal aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Vintage bird iPhone wallpaper, beige ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/29/29/da/2929da6464bb2804a9384e7921b197a9.jpg' alt='Download premium image of Vintage bird iPhone wallpaper, beige ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/29/29/da/2929da6464bb2804a9384e7921b197a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper colorful | wallpaper ideas | wallpaper vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5e/66/5c/5e665c9ed42b08028b6f3fc19c9a854d.jpg' alt='wallpaper colorful | wallpaper ideas | wallpaper vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5e/66/5c/5e665c9ed42b08028b6f3fc19c9a854d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bird wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFcJCpHDVA/1/0/900w/canva-bird-phone-wallpaper-u3pelSAA3kQ.jpg' alt='Free and customizable bird wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFcJCpHDVA/1/0/900w/canva-bird-phone-wallpaper-u3pelSAA3kQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Bird Silhouette And Clouds Hand Drawn For Mobile Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b8/5b/bb/b85bbb342d03f6d387d464e4fe036c93.jpg' alt='Simple Bird Silhouette And Clouds Hand Drawn For Mobile Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b8/5b/bb/b85bbb342d03f6d387d464e4fe036c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic birds wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/133/152/HD-wallpaper-moon-and-bird-aesthetic-black-bird-crow-dusk-fields-nature-night-starry-surreal-village-thumbnail.jpg' alt='HD aesthetic birds wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/133/152/HD-wallpaper-moon-and-bird-aesthetic-black-bird-crow-dusk-fields-nature-night-starry-surreal-village-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bird wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFYY44VmBA/1/0/900w/canva-free-as-a-bird-phone-wallpaper-mcEUd1KCC0Y.jpg' alt='Free and customizable bird wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFYY44VmBA/1/0/900w/canva-free-as-a-bird-phone-wallpaper-mcEUd1KCC0Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds Beige Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/DEKO.TAP_.079_50x280-ptaszki-jasny-bez-950x950-1_4be566c5-340b-4f90-8a1f-7a788d4a436a.jpg?v=1705876908' alt='Birds Beige Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/DEKO.TAP_.079_50x280-ptaszki-jasny-bez-950x950-1_4be566c5-340b-4f90-8a1f-7a788d4a436a.jpg?v=1705876908' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/c5/ab/90c5ab3db0b0c2f6d9c5d7bf12bbed60.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/c5/ab/90c5ab3db0b0c2f6d9c5d7bf12bbed60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Bird Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-black-bird-aesthetic-0f35xe4kvt1gcmut.jpg' alt='Cute Black Bird Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-black-bird-aesthetic-0f35xe4kvt1gcmut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Birds Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10461713.jpg' alt='Aesthetic Birds Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="2744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10461713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

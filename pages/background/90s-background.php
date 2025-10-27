@@ -1,0 +1,129 @@
+<title>Nostalgic 90s Backgrounds: Vibrant Vibes & Iconic Aesthetics</title>
+                    <meta name="description" content="Discover the captivating world of 90s backgrounds! Explore vibrant designs, iconic styles, and the cultural impact of this unforgettable decade. Perfect for nostalgic enthusiasts and those looking to add a pop of retro flair to their projects.">
+                    <meta name="keywords" content="90s background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/90s-background">
+                            <span itemprop="name">90s background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nostalgic 90s Backgrounds: Vibrant Vibes & Iconic Aesthetics</h1>
+                <p>The 90s was a vibrant decade marked by bold colors, iconic fashion, and unforgettable music. Backgrounds featured grunge, neon, and eclectic designs, making every space feel alive. From the rise of pop culture icons to technological advancements like the internet, the 90s left a lasting legacy that continues to influence today’s aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' alt='51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laeacco Back to The 90's Backdrop Polyester 7x5FT 90s Background for  Photography Hip Hop Graffiti Brick Wall Retro Radio Back to The 90's Theme  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71iwZfglgtL._AC_UF894,1000_QL80_.jpg' alt='Laeacco Back to The 90's Backdrop Polyester 7x5FT 90s Background for  Photography Hip Hop Graffiti Brick Wall Retro Radio Back to The 90's Theme  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71iwZfglgtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White 90s Background | 90s Aesthetic | 90s Style | 90s Patterns | 90s  Colors | 90s Digital Paper | 90s Patterns | Nineties Digital">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41669220/r/il/4ae62a/4686234232/il_fullxfull.4686234232_4o0k.jpg' alt='White 90s Background | 90s Aesthetic | 90s Style | 90s Patterns | 90s  Colors | 90s Digital Paper | 90s Patterns | Nineties Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41669220/r/il/4ae62a/4686234232/il_fullxfull.4686234232_4o0k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,335 90s Background High Res Illustrations - Getty Images | Retro ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/665702344/vector/abstract-retro-brush-background.jpg?s=612x612&w=gi&k=20&c=FLBngrp3PXLIQ1nHKPhuvTnQs3Sf7UpjZj4GXHvrP1c=' alt='2,335 90s Background High Res Illustrations - Getty Images | Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/665702344/vector/abstract-retro-brush-background.jpg?s=612x612&w=gi&k=20&c=FLBngrp3PXLIQ1nHKPhuvTnQs3Sf7UpjZj4GXHvrP1c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Back to The 90s Backdrop for Photography 8x6ft Hip ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71v9FnFBuFL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Back to The 90s Backdrop for Photography 8x6ft Hip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71v9FnFBuFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90S Background Images – Browse 531,228 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/97/31/76/360_F_297317658_xSuhvArgAS0g8AugQSvi0OJCQEv2WxjK.jpg' alt='90S Background Images – Browse 531,228 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/97/31/76/360_F_297317658_xSuhvArgAS0g8AugQSvi0OJCQEv2WxjK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-background-80s-style_23-2148242342.jpg' alt='90s Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-background-80s-style_23-2148242342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink 90s Background | 90s Aesthetic | 90s Style | 90s Patterns | 90s  Colors | 90s Digital Paper | 90s Patterns | Nineties Digital - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41669220/r/il/b01b46/4686237652/il_1080xN.4686237652_2oh2.jpg' alt='Soft Pink 90s Background | 90s Aesthetic | 90s Style | 90s Patterns | 90s  Colors | 90s Digital Paper | 90s Patterns | Nineties Digital - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41669220/r/il/b01b46/4686237652/il_1080xN.4686237652_2oh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/80-style-background-with-geometric-shapes_23-2148216130.jpg' alt='90s Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/80-style-background-with-geometric-shapes_23-2148216130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/070/896/small/abstract-90s-retro-style-technology-futuristic-concept-grid-perspective-on-black-background-vector.jpg' alt='90s Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/070/896/small/abstract-90s-retro-style-technology-futuristic-concept-grid-perspective-on-black-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

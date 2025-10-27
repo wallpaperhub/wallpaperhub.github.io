@@ -1,0 +1,129 @@
+<title>Spookify Your Style: Best Halloween Apple Watch Faces</title>
+                    <meta name="description" content="Discover the top Halloween Apple Watch faces to elevate your festive spirit! Choose from spooky designs that match your style and celebrate the season. Explore vibrant colors and animations for a fun, personalized touch. Perfect for showing off your Halloween vibe on the go!">
+                    <meta name="keywords" content="halloween apple watch faces">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-apple-watch-faces">
+                            <span itemprop="name">halloween apple watch faces</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spookify Your Style: Best Halloween Apple Watch Faces</h1>
+                <p>Get into the spooky spirit this Halloween with themed Apple Watch faces! Choose from a variety of designs featuring pumpkins, ghosts, witches, and eerie landscapes. Personalize your watch by selecting vibrant colors and playful animations that capture the essence of Halloween. Transform your wrist into a festive accessory!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Watch Face Wallpaper HALLOWEEN, Apple Watch Face Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/b5a038/5184090321/il_570xN.5184090321_tccv.jpg' alt='Apple Watch Face Wallpaper HALLOWEEN, Apple Watch Face Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/b5a038/5184090321/il_570xN.5184090321_tccv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of 2 Halloween Apple Watch Faces Wallpapers | Skeleton Cat Witchy Vibe  and candy | pumpkins | jack o lanterns">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8776731/r/il/33ebfc/3347744647/il_fullxfull.3347744647_fx70.jpg' alt='Set of 2 Halloween Apple Watch Faces Wallpapers | Skeleton Cat Witchy Vibe  and candy | pumpkins | jack o lanterns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2257">
+                                <meta itemprop="height" content="1807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8776731/r/il/33ebfc/3347744647/il_fullxfull.3347744647_fx70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watchfaces">
+                                <img itemprop="contentUrl url" src='https://assets.watchfacely.com/watchfaces/Tg4y1j5NwxQZgPLztWZMqQCF3n63/1604017261057239/snapshot.png' alt='Watchfaces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Watchfaces" />
+                                </span>
+                                <a href='https://assets.watchfacely.com/watchfaces/Tg4y1j5NwxQZgPLztWZMqQCF3n63/1604017261057239/snapshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watchfaces">
+                                <img itemprop="contentUrl url" src='https://assets.watchfacely.com/watchfaces/cfSRR41eplhkVHhyGytNj6evJ383/1603666054989472/snapshot.png' alt='Watchfaces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Watchfaces" />
+                                </span>
+                                <a href='https://assets.watchfacely.com/watchfaces/cfSRR41eplhkVHhyGytNj6evJ383/1603666054989472/snapshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Apple Watch Faces">
+                                <img itemprop="contentUrl url" src='https://masterbundles.com/wp-content/uploads/2022/07/halloween-apple-watch-faces-1500x1500-2.jpg' alt='Halloween Apple Watch Faces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MasterBundles" />
+                                </span>
+                                <a href='https://masterbundles.com/wp-content/uploads/2022/07/halloween-apple-watch-faces-1500x1500-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Apple Watch Face | Halloween 2021 - 2 by PHON - Clock File ...">
+                                <img itemprop="contentUrl url" src='http://amband.com/cdn/shop/products/1.jpg?v=1635141672' alt='FREE Apple Watch Face | Halloween 2021 - 2 by PHON - Clock File ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amband" />
+                                </span>
+                                <a href='http://amband.com/cdn/shop/products/1.jpg?v=1635141672' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Spooky Cute Apple Watch Wallpaper Fall Autumn Watch Face ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/fb/68/ccfb6889e7858fc56ead4b41f82469d0.jpg' alt='Halloween Spooky Cute Apple Watch Wallpaper Fall Autumn Watch Face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/fb/68/ccfb6889e7858fc56ead4b41f82469d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Apple Watch Face Wallpaper Funny Ghost, Apple Watch ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/af4e35/5358904977/il_570xN.5358904977_51ve.jpg' alt='Halloween Apple Watch Face Wallpaper Funny Ghost, Apple Watch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/af4e35/5358904977/il_570xN.5358904977_51ve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watchfaces">
+                                <img itemprop="contentUrl url" src='https://assets.watchfacely.com/watchfaces/cfSRR41eplhkVHhyGytNj6evJ383/1603666134160753/snapshot.png' alt='Watchfaces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Watchfaces" />
+                                </span>
+                                <a href='https://assets.watchfacely.com/watchfaces/cfSRR41eplhkVHhyGytNj6evJ383/1603666134160753/snapshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get the Halloween Custom Apple Watch Face & more">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tdrxn5PTcLA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCH7GJlLCWTYtXVoPRdSfm0MEmU0w' alt='How to get the Halloween Custom Apple Watch Face & more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tdrxn5PTcLA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCH7GJlLCWTYtXVoPRdSfm0MEmU0w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

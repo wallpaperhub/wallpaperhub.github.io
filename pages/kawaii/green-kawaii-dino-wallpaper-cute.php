@@ -1,0 +1,129 @@
+<title>Green Kawaii Dino Wallpaper: Cute & Playful Decor</title>
+                    <meta name="description" content="Discover the charm of green kawaii dino wallpaper! Perfect for kids' rooms and nurseries, this cute design adds a playful vibe to your space. Easy to apply and remove, it's a fun way to express your love for adorable dinosaurs. Transform your room with this delightful decor today!">
+                    <meta name="keywords" content="green kawaii dino wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/green-kawaii-dino-wallpaper-cute">
+                            <span itemprop="name">green kawaii dino wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green Kawaii Dino Wallpaper: Cute & Playful Decor</h1>
+                <p>Brighten up your space with our adorable green kawaii dino wallpaper! Perfect for dino lovers, this cute design features endearing dinosaurs in vibrant hues, adding a playful vibe to any room. Ideal for nurseries, kids' rooms, or anyone who loves a whimsical touch. Transform your walls into a delightful dino paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sitting On A Cloud Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sitting-on-a-cloud-dino-kawaii-iphone-rf51ec9vk0oiejaf.jpg' alt='Sitting On A Cloud Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sitting-on-a-cloud-dino-kawaii-iphone-rf51ec9vk0oiejaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Dino Wallpaper 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/EZ1vJCwP7Y86u1guBdzVd4dr9a0fdcljeSlCLK3fjhqIFI5ttW8sn29aL895J_IVVbc' alt='Kawaii Dino Wallpaper 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/EZ1vJCwP7Y86u1guBdzVd4dr9a0fdcljeSlCLK3fjhqIFI5ttW8sn29aL895J_IVVbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper dino">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/f0/30/83f030f63c83bcc544c3905cf773dd62.jpg' alt='wallpaper dino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/f0/30/83f030f63c83bcc544c3905cf773dd62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Green Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/one-green-dino-kawaii-iphone-2yolpfvytx5gw7zk.jpg' alt='One Green Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/one-green-dino-kawaii-iphone-2yolpfvytx5gw7zk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download All Green Dino Kawaii iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/all-green-dino-kawaii-iphone-4xbnx7c9ktk5u0dy.jpg' alt='Download All Green Dino Kawaii iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/all-green-dino-kawaii-iphone-4xbnx7c9ktk5u0dy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Green Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/two-green-dino-kawaii-iphone-37w5l3k206l7xwu0.jpg' alt='Two Green Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/two-green-dino-kawaii-iphone-37w5l3k206l7xwu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Dino Wallpaper 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/D6mggjP8uja_S9GNg4EymjTutGfZtmhTHm_D9Eggcgj4-sgMhy6y4A1HVV12AUtdfQ=w526-h296-rw' alt='Kawaii Dino Wallpaper 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="133">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/D6mggjP8uja_S9GNg4EymjTutGfZtmhTHm_D9Eggcgj4-sgMhy6y4A1HVV12AUtdfQ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/ac/b4/79acb444c4af34ca93a011900c32a147.jpg' alt='Dino 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/ac/b4/79acb444c4af34ca93a011900c32a147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute kawaii dinosaur seamless pattern for baby ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-kawaii-dinosaur-seamless-pattern-baby-pattern-wallpaper_513640-1925.jpg?w=360' alt='Premium Vector | Cute kawaii dinosaur seamless pattern for baby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-kawaii-dinosaur-seamless-pattern-baby-pattern-wallpaper_513640-1925.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Strawberry Dino Kawaii iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/strawberry-dino-kawaii-iphone-m3vjpc0af81jbxcf.jpg' alt='Download Strawberry Dino Kawaii iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/strawberry-dino-kawaii-iphone-m3vjpc0af81jbxcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

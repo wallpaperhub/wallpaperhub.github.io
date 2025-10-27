@@ -1,0 +1,129 @@
+<title>Free Background Checks with Social Security Number</title>
+                    <meta name="description" content="Discover how to perform a free background check using a Social Security Number. Uncover essential identity information and criminal histories while staying compliant with privacy regulations. Get the facts you need efficiently and safely!">
+                    <meta name="keywords" content="free background check with social security number">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-background-check-with-social-security-number">
+                            <span itemprop="name">free background check with social security number</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Background Checks with Social Security Number</h1>
+                <p>A free background check using a Social Security Number (SSN) can help you verify someone's identity, check criminal history, and confidential records. However, while completely free options exist, they may not provide comprehensive results. It's essential to comply with privacy laws and use legitimate sources for accurate information.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/06/i09_forms-NEW-June-2013-picture.png' alt='Social Security – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/06/i09_forms-NEW-June-2013-picture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Public Records Search Social Security Number">
+                                <img itemprop="contentUrl url" src='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/4.jpg' alt='Free Public Records Search Social Security Number'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ssn Background Check Free">
+                                <img itemprop="contentUrl url" src='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/0.jpg' alt='Ssn Background Check Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Public Records Search Social Security Number">
+                                <img itemprop="contentUrl url" src='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/2.jpg' alt='Free Public Records Search Social Security Number'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/shutterstock_91547126.jpg' alt='Social Security – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2937">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/shutterstock_91547126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Public Records Search Social Security Number">
+                                <img itemprop="contentUrl url" src='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/0.jpg' alt='Free Public Records Search Social Security Number'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://free-public-records-search-social-security-number.govbackgroundchecks.com/screenshots/free-public-records-search-social-security-number/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I complete a background check without providing my SSN?">
+                                <img itemprop="contentUrl url" src='https://help.sterlingvolunteers.com/hs-fs/hubfs/VV%20CX-%20Knowledge%20Base/SV%20Rebrand/no%20SSN.png?width=634&name=no%20SSN.png' alt='Can I complete a background check without providing my SSN?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Center - Sterling Volunteers" />
+                                </span>
+                                <a href='https://help.sterlingvolunteers.com/hs-fs/hubfs/VV%20CX-%20Knowledge%20Base/SV%20Rebrand/no%20SSN.png?width=634&name=no%20SSN.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Request for NSA Social Security for Background Check! - PSAs and ...">
+                                <img itemprop="contentUrl url" src='https://forum.notarycafe.com/uploads/default/original/2X/f/f0746ba38e34e9e5b99af5d46f5390d423fc9c45.jpeg' alt='Request for NSA Social Security for Background Check! - PSAs and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Notary Cafe Forums" />
+                                </span>
+                                <a href='https://forum.notarycafe.com/uploads/default/original/2X/f/f0746ba38e34e9e5b99af5d46f5390d423fc9c45.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Trial Background Check by usatrace on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43654968-6d62-46d0-bbf6-87f495a52dbd/db7vkes-382ae943-8a41-43de-94e0-e03ad0f84622.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzNjU0OTY4LTZkNjItNDZkMC1iYmY2LTg3ZjQ5NWE1MmRiZFwvZGI3dmtlcy0zODJhZTk0My04YTQxLTQzZGUtOTRlMC1lMDNhZDBmODQ2MjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IgDh6hdgXJNgVFu5JxhtG__lpglKmqkiqii5TYz-1TQ' alt='Free Trial Background Check by usatrace on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43654968-6d62-46d0-bbf6-87f495a52dbd/db7vkes-382ae943-8a41-43de-94e0-e03ad0f84622.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzNjU0OTY4LTZkNjItNDZkMC1iYmY2LTg3ZjQ5NWE1MmRiZFwvZGI3dmtlcy0zODJhZTk0My04YTQxLTQzZGUtOTRlMC1lMDNhZDBmODQ2MjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IgDh6hdgXJNgVFu5JxhtG__lpglKmqkiqii5TYz-1TQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Nationwide Background Check - SSN Trace & Natl Criminal Records">
+                                <img itemprop="contentUrl url" src='https://b2286612.smushcdn.com/2286612/wp-content/uploads/SSN-Trace-View.png?lossy=2&strip=1&webp=1' alt='Basic Nationwide Background Check - SSN Trace & Natl Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BCS Background Screening, LLC" />
+                                </span>
+                                <a href='https://b2286612.smushcdn.com/2286612/wp-content/uploads/SSN-Trace-View.png?lossy=2&strip=1&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

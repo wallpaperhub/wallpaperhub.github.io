@@ -1,0 +1,129 @@
+<title>Ronaldo & Pelé Wallpapers: Icons of Football</title>
+                    <meta name="description" content="Explore remarkable Ronaldo and Pelé wallpapers that celebrate two of football's greatest legends. Perfect for any device, these stunning images will enhance your screens and showcase your admiration for these iconic players. Download your favorite wallpaper now!">
+                    <meta name="keywords" content="ronaldo and pele wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/ronaldo-and-pele-wallpaper">
+                            <span itemprop="name">ronaldo and pele wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ronaldo & Pelé Wallpapers: Icons of Football</h1>
+                <p>Discover stunning wallpapers featuring the legendary football icons, Ronaldo and Pelé. Celebrate their incredible careers and achievements with high-quality images perfect for your desktop or mobile device. These wallpapers capture the essence of their playing style, charisma, and passion for the beautiful game. Download now and showcase your love for football!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="116 Cristiano Ronaldo Pele Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/84259759/photo/portuguese-football-player-cristiano-ronaldo-is-congratulated-by-brazilian-football-legend-pele.jpg?s=612x612&w=gi&k=20&c=54ZeRQ47oE8PaNAvoZlMynmr8hmcc9YIDRcrJv95Su8=' alt='116 Cristiano Ronaldo Pele Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/84259759/photo/portuguese-football-player-cristiano-ronaldo-is-congratulated-by-brazilian-football-legend-pele.jpg?s=612x612&w=gi&k=20&c=54ZeRQ47oE8PaNAvoZlMynmr8hmcc9YIDRcrJv95Su8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="289 Ronaldo Pele Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/78515485/photo/zurich-switzerland-cristiano-ronaldo-of-manchester-united-and-portugal-receives-the-third.jpg?s=612x612&w=gi&k=20&c=JtmTI7icExQ4x94JcOQZNOE9dLOvxs5VFwqaunhsGyc=' alt='289 Ronaldo Pele Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/78515485/photo/zurich-switzerland-cristiano-ronaldo-of-manchester-united-and-portugal-receives-the-third.jpg?s=612x612&w=gi&k=20&c=JtmTI7icExQ4x94JcOQZNOE9dLOvxs5VFwqaunhsGyc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo R9 Pele wallpaper hd football wallpaper World Cup">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/89/bf/3889bf6a8e5d21fc45b495a1ebfddd58.jpg' alt='Ronaldo R9 Pele wallpaper hd football wallpaper World Cup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/89/bf/3889bf6a8e5d21fc45b495a1ebfddd58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pele ronaldo hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DPPN6K/zurich-switzerland-13th-jan-2014-l-r-pele-cristiano-ronaldo-football-DPPN6K.jpg' alt='Pele ronaldo hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="865">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DPPN6K/zurich-switzerland-13th-jan-2014-l-r-pele-cristiano-ronaldo-football-DPPN6K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo & Pele">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e3/17/5d/e3175d38993694a6e0a39234a9e26fe8.jpg' alt='Cristiano Ronaldo & Pele'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e3/17/5d/e3175d38993694a6e0a39234a9e26fe8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italian Football TV on X: "Cristiano Ronaldo has just equaled Pele ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EpoHGYjXIAEzX-3.jpg:large' alt='Italian Football TV on X: "Cristiano Ronaldo has just equaled Pele ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EpoHGYjXIAEzX-3.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="116 Cristiano Ronaldo Pele Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/663314786/photo/manchester-uniteds-cristiano-ronaldo-accepts-his-fifa-world-player-of-the-year-award-from.jpg?s=612x612&w=gi&k=20&c=jn9Rp1XyDvM8jgAxXrOviEgk8BidtCt1w4YCtqeX7cs=' alt='116 Cristiano Ronaldo Pele Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/663314786/photo/manchester-uniteds-cristiano-ronaldo-accepts-his-fifa-world-player-of-the-year-award-from.jpg?s=612x612&w=gi&k=20&c=jn9Rp1XyDvM8jgAxXrOviEgk8BidtCt1w4YCtqeX7cs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italian Football TV on X: "RONALDO HAS NOW BEATEN PELE'S ALL TIME ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EpoOvbTXMAIJmrE.jpg' alt='Italian Football TV on X: "RONALDO HAS NOW BEATEN PELE'S ALL TIME ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EpoOvbTXMAIJmrE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S Madridista - Cristiano Ronaldo scored 767 goals reaching Pele ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1062444947599005' alt='U.S Madridista - Cristiano Ronaldo scored 767 goals reaching Pele ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1062444947599005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo's emotional goodbye to "eternal king" Pele ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/t_share/MTk0NzkyNzM5NTg4NTQ3NzQ2/imago0004215052h.jpg' alt='Cristiano Ronaldo's emotional goodbye to "eternal king" Pele ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/t_share/MTk0NzkyNzM5NTg4NTQ3NzQ2/imago0004215052h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

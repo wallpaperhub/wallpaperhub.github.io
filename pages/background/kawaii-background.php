@@ -1,0 +1,129 @@
+<title>Kawaii Backgrounds: Adorable Aesthetic for All!</title>
+                    <meta name="description" content="Discover the cutest kawaii backgrounds to elevate your digital aesthetic! Perfect for wallpapers and social media, our collection features charming designs that bring joy and whimsy to your screens. Explore now and add a playful touch that's sure to delight!">
+                    <meta name="keywords" content="kawaii background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kawaii-background">
+                            <span itemprop="name">kawaii background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Backgrounds: Adorable Aesthetic for All!</h1>
+                <p>Immerse yourself in the charming world of kawaii backgrounds! Filled with cute characters, pastel colors, and playful designs, these backgrounds are perfect for wallpapers, social media, or any project needing a touch of whimsy. Explore a variety of themes that celebrate all things adorable and brighten your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Background Images – Browse 1,106,852 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/80/11/57/360_F_280115769_QI9ejEG6w7EpFica5kvbpfaGHsK321UI.jpg' alt='Kawaii Background Images – Browse 1,106,852 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/80/11/57/360_F_280115769_QI9ejEG6w7EpFica5kvbpfaGHsK321UI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' alt='Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/036/012/710/non_2x/ai-generated-fantasy-sky-rainbow-fairy-skies-rainbows-colors-magic-landscape-and-dream-sky-generate-ai-photo.jpg' alt='Kawaii Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/036/012/710/non_2x/ai-generated-fantasy-sky-rainbow-fairy-skies-rainbows-colors-magic-landscape-and-dream-sky-generate-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-pink-checkered-background-with-rilakkuma-and-friends-7isqivwt16wy4gs6.jpg' alt='100+] Kawaii Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-pink-checkered-background-with-rilakkuma-and-friends-7isqivwt16wy4gs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/b2/f2/9fb2f2d375dddbaaa0889e24c192dd88.jpg' alt='Kawaii background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/b2/f2/9fb2f2d375dddbaaa0889e24c192dd88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE31HZz2bE/1/0/900w/canva-aesthetic-pink-and-yellow-and-green-kawaii-cutephone-wallpaper-EpWJMDWo9uE.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE31HZz2bE/1/0/900w/canva-aesthetic-pink-and-yellow-and-green-kawaii-cutephone-wallpaper-EpWJMDWo9uE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii background 2025">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cute-adorable-kawaii-fluffy-cat-lying-down-wearing-headphone-note-sign-arounds-smiling-face-cartoon-wallpaper-cute-299654940.jpg' alt='Kawaii background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cute-adorable-kawaii-fluffy-cat-lying-down-wearing-headphone-note-sign-arounds-smiling-face-cartoon-wallpaper-cute-299654940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some cute kawaii wallpapers     : r/Kawaii">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/exm2mor8aa491.jpg' alt='some cute kawaii wallpapers     : r/Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/exm2mor8aa491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Background Images – Browse 1,106,852 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/75/77/96/360_F_275779670_y4RIQ4UeDSwVJjZXdgzuX5B2DJaLJmd7.jpg' alt='Kawaii Background Images – Browse 1,106,852 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/75/77/96/360_F_275779670_y4RIQ4UeDSwVJjZXdgzuX5B2DJaLJmd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpaper Stock Illustrations – 41,434 Kawaii Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/adorable-pastel-pink-blue-purple-kawaii-wallpapers-download-free-desktop-laptop-backgrounds-cute-dive-world-350845197.jpg' alt='Kawaii Wallpaper Stock Illustrations – 41,434 Kawaii Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/adorable-pastel-pink-blue-purple-kawaii-wallpapers-download-free-desktop-laptop-backgrounds-cute-dive-world-350845197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

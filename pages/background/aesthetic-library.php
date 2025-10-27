@@ -1,0 +1,129 @@
+<title>Aesthetic Library: A Haven for Book Lovers</title>
+                    <meta name="description" content="Discover the charm of an aesthetic library, a perfect fusion of style and comfort. Dive into a world of beautifully designed reading spaces that inspire creativity and relaxation. Ideal for book lovers seeking an enchanting environment, explore how these libraries transform reading into a delightful experience.">
+                    <meta name="keywords" content="aesthetic library">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-library">
+                            <span itemprop="name">aesthetic library</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Library: A Haven for Book Lovers</h1>
+                <p>Step into an aesthetic library where every corner invites creativity and tranquility. Imagine bookshelves adorned with elegant decor, cozy reading nooks, and warm lighting harmonizing with the scent of aged pages. Such spaces inspire a love for literature, offering a haven to escape, learn, and grow amidst captivating surroundings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A guide to NYC for book-lovers - C'est Christine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.cestchristine.com/wp-content/uploads/2015/04/IMG_76121.jpg?resize=700%2C700' alt='A guide to NYC for book-lovers - C'est Christine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cest Christine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.cestchristine.com/wp-content/uploads/2015/04/IMG_76121.jpg?resize=700%2C700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Academia Aesthetic: Dark and Light — Foxtail Books & Library ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56edcd4727d4bd3b884627e2/3b0cacb3-8808-4ae8-aef4-98bf33f53836/tudor-home-library.jpg' alt='The Academia Aesthetic: Dark and Light — Foxtail Books & Library ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foxtail Books & Library Services" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56edcd4727d4bd3b884627e2/3b0cacb3-8808-4ae8-aef4-98bf33f53836/tudor-home-library.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A guide to NYC for book-lovers - C'est Christine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.cestchristine.com/wp-content/uploads/2018/01/IGHT9588.jpg?resize=700%2C933' alt='A guide to NYC for book-lovers - C'est Christine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cest Christine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.cestchristine.com/wp-content/uploads/2018/01/IGHT9588.jpg?resize=700%2C933' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Gorgeous Libraries in NYC for Sightseeing Architecture">
+                                <img itemprop="contentUrl url" src='https://media.timeout.com/images/105618788/750/562/image.jpg' alt='Most Gorgeous Libraries in NYC for Sightseeing Architecture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time Out" />
+                                </span>
+                                <a href='https://media.timeout.com/images/105618788/750/562/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Atrippy Vintage Bookshelf Tapestry Wall Hanging, Hippie Library  Aesthetic Tapestry for Bedroom, Bohemian Retro Old Books Picture Wall Art  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81z5QA+1AuL.jpg' alt='Amazon.com: Atrippy Vintage Bookshelf Tapestry Wall Hanging, Hippie Library  Aesthetic Tapestry for Bedroom, Bohemian Retro Old Books Picture Wall Art  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81z5QA+1AuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Allure of a Library. There is something enchanting about a ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*STEQpfsjo3aqURbMyCaD6Q.jpeg' alt='The Allure of a Library. There is something enchanting about a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*STEQpfsjo3aqURbMyCaD6Q.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These Libraries In NYC Are An Aesthetic Treat For Bibliophiles!">
+                                <img itemprop="contentUrl url" src='https://media.assettype.com/outlookindia/2024-05/ad6f5802-a06a-4549-9024-e0100f35e062/1ea2fabf453a5714b7eae04e863c9c01.jpg?w=640&h=360&fit=crop&crop=smart' alt='These Libraries In NYC Are An Aesthetic Treat For Bibliophiles!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outlook India" />
+                                </span>
+                                <a href='https://media.assettype.com/outlookindia/2024-05/ad6f5802-a06a-4549-9024-e0100f35e062/1ea2fabf453a5714b7eae04e863c9c01.jpg?w=640&h=360&fit=crop&crop=smart' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Libraries Around the World">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/9F77hDCz6uj3cJIBW4f4kGdfbn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/admont-abbey-library-admont-austria-LIBRARY0319-2aa89cccb89d4f44b71181e64b54fbfb.jpg' alt='Beautiful Libraries Around the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/9F77hDCz6uj3cJIBW4f4kGdfbn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/admont-abbey-library-admont-austria-LIBRARY0319-2aa89cccb89d4f44b71181e64b54fbfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old, new and beautiful libraries with locations.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/e1/31/5de13175ca29d1bf7bf30ed8c1acf8d8.jpg' alt='Old, new and beautiful libraries with locations.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/e1/31/5de13175ca29d1bf7bf30ed8c1acf8d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cozy library atmosphere Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/c/8/e/c8e31d1f-fffe-483c-a7ce-dc69e044de53_large/cozy-library-atmosphere-stockcake.jpg' alt='Free Cozy library atmosphere Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/c/8/e/c8e31d1f-fffe-483c-a7ce-dc69e044de53_large/cozy-library-atmosphere-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Festive Christmas Wallpapers for iPhone 11"</title>
+                    <meta name="description" content="Discover the perfect Christmas iPhone 11 wallpapers to celebrate the holiday season! Choose from a wide variety of festive designs that bring joy and warmth to your device's screen. Download now and embrace the spirit of Christmas with every glance at your phone!">
+                    <meta name="keywords" content="christmas iphone 11 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/christmas-iphone-11-wallpaper">
+                            <span itemprop="name">christmas iphone 11 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Festive Christmas Wallpapers for iPhone 11"</h1>
+                <p>Transform your iPhone 11 into a festive masterpiece with enchanting Christmas wallpapers! Whether you prefer cozy winter scenes, sparkling ornaments, or cheerful holiday icons, these wallpapers set the mood for the season. Download your favorites now and let the Christmas spirit shine through your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpapers for iPhone - Best Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/b9/63/c3b963817df192ebb9dc82135800f02f.jpg' alt='Christmas Wallpapers for iPhone - Best Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/b9/63/c3b963817df192ebb9dc82135800f02f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Beautiful iPhone 11 Pro Max Christmas Wallpapers & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://www.designbolts.com/wp-content/uploads/2019/10/Snowflakes-iPhone-11-Pro-Max-Wallpaper-1.jpg' alt='40 Beautiful iPhone 11 Pro Max Christmas Wallpapers & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designbolts" />
+                                </span>
+                                <a href='https://www.designbolts.com/wp-content/uploads/2019/10/Snowflakes-iPhone-11-Pro-Max-Wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas iPhone Wallpaper: 50+ Free Xmas Backgrounds to Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/11/b3/3411b3d247bd9322a0837881400cef9a.jpg' alt='Christmas iPhone Wallpaper: 50+ Free Xmas Backgrounds to Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/11/b3/3411b3d247bd9322a0837881400cef9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 Pro Max Christmas Flare Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-11-pro-max-christmas-flare-ocza8bskjw0numv0.jpg' alt='Iphone 11 Pro Max Christmas Flare Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-11-pro-max-christmas-flare-ocza8bskjw0numv0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7881536.jpg' alt='iPhone 11 Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7881536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone 11 Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-vertical-christmas-background-with-candies_1361-1816.jpg' alt='Christmas Wallpaper Iphone 11 Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-vertical-christmas-background-with-candies_1361-1816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lifestyle Blog Cozy Christmas iPhone Wallpaper Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/8d/ee/718deebd9a8b5a995359d9a05a652fbb.jpg' alt='Lifestyle Blog Cozy Christmas iPhone Wallpaper Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/8d/ee/718deebd9a8b5a995359d9a05a652fbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Christmas iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/christmas-decor-iphone-13-plus-or-13-pro-max-21-11-2024-1732178817-hd-wallpaper.jpg' alt='Most Popular Christmas iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/christmas-decor-iphone-13-plus-or-13-pro-max-21-11-2024-1732178817-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Christmas Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/red-christmas-iphone-cf2rwjcd9uw18fht.webp' alt='White Christmas Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/red-christmas-iphone-cf2rwjcd9uw18fht.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpapers Xmas 2024 — Download Free iPhone ...">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/aesthetic-christmas-wallpapers-xmas-2024-21-11-2024-1732178814-hd-wallpaper.jpg' alt='Aesthetic Christmas Wallpapers Xmas 2024 — Download Free iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/aesthetic-christmas-wallpapers-xmas-2024-21-11-2024-1732178814-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

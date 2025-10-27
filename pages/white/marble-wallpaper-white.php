@@ -1,0 +1,129 @@
+<title>Elegant White Marble Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Discover the beauty of white marble wallpaper! Perfect for adding a touch of elegance to any room, this stylish decor choice is easy to apply and maintain. Ideal for both contemporary and classic styles, transform your space effortlessly with our premium marble wallpaper collection.">
+                    <meta name="keywords" content="marble wallpaper white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/marble-wallpaper-white">
+                            <span itemprop="name">marble wallpaper white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Marble Wallpaper for Modern Decor</h1>
+                <p>Transform your space with stunning white marble wallpaper. This elegant decor choice offers a luxurious touch, making any room feel sophisticated. Ideal for modern and classic designs alike, it brightens spaces while adding texture. Easy to install and maintain, white marble wallpaper is perfect for accent walls, rentals, or a fresh makeover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Marble Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat82304012-48.jpg' alt='Black and White Marble Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat82304012-48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Marble-1.jpg' alt='Marble Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Marble-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Innuendo White Marble White Wallpaper Sample 2716-23870SAM  - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/44ad15b1-1282-4d33-b6c4-f47cdbae9b90/svn/a-street-prints-wallpaper-samples-2716-23870sam-64_1000.jpg' alt='A-Street Prints Innuendo White Marble White Wallpaper Sample 2716-23870SAM  - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/44ad15b1-1282-4d33-b6c4-f47cdbae9b90/svn/a-street-prints-wallpaper-samples-2716-23870sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Texture Peel-and-Stick Wallpaper in Grey and White">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Marble_Texture_Peel-and-Stick_Wallpaper_in_Grey_and_White_by_NextWall_6e81ed80-b282-4909-b90a-c1c7a3f2fc7e.jpg?v=1571711369' alt='Marble Texture Peel-and-Stick Wallpaper in Grey and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1018">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Marble_Texture_Peel-and-Stick_Wallpaper_in_Grey_and_White_by_NextWall_6e81ed80-b282-4909-b90a-c1c7a3f2fc7e.jpg?v=1571711369' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D White Marble Wallpaper Mural Bedroom Living Room Sofa TV ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51OkM5S7IfL.jpg' alt='3D White Marble Wallpaper Mural Bedroom Living Room Sofa TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51OkM5S7IfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Grey and White Marble Wallpaper | Minimalistic & Timeless ...">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/marblewallpaper.jpg?v=1599257283' alt='Modern Grey and White Marble Wallpaper | Minimalistic & Timeless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/marblewallpaper.jpg?v=1599257283' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Marble With Grey Veins Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236365-825-auto?width=825&height=auto&aspect=true' alt='White Marble With Grey Veins Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236365-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Marble Wallpaper in Black and White – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ModernMarble_BlackandWhite_ILW50114_Roomset_WEB.webp?crop=center&height=850&v=1706004306&width=850' alt='Modern Marble Wallpaper in Black and White – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ModernMarble_BlackandWhite_ILW50114_Roomset_WEB.webp?crop=center&height=850&v=1706004306&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the Beauty And Elegance Of White Marble" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-beauty-and-elegance-of-white-marble-j1uarzflifoao4wr-3.jpg' alt='the Beauty And Elegance Of White Marble" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-beauty-and-elegance-of-white-marble-j1uarzflifoao4wr-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Marble Wallpaper Peel and Stick,white and Gold Marble Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44246718/r/il/52f6ea/5406560473/il_fullxfull.5406560473_gql4.jpg' alt='White Marble Wallpaper Peel and Stick,white and Gold Marble Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44246718/r/il/52f6ea/5406560473/il_fullxfull.5406560473_gql4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

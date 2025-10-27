@@ -1,0 +1,129 @@
+<title>Understanding Cosmic Background Radiation: The Universe's Echo</title>
+                    <meta name="description" content="Explore the mysteries of cosmic background radiation, a crucial remnant from the Big Bang that shapes our understanding of the universe. Discover its significance, how it influences cosmology, and its implications for the cosmos' evolution in this concise guide.">
+                    <meta name="keywords" content="cosmic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cosmic-background">
+                            <span itemprop="name">cosmic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Cosmic Background Radiation: The Universe's Echo</h1>
+                <p>Cosmic background radiation, a remnant of the Big Bang, fills the universe with a faint glow. Detected as the Cosmic Microwave Background (CMB), this radiation offers crucial insights into the cosmos' infancy, age, and expansion. Its uniformity hints at a highly homogeneous early universe, laying the foundation for modern cosmology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-colorful-galaxy-background_23-2148965681.jpg?semt=ais_hybrid' alt='Cosmic Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-colorful-galaxy-background_23-2148965681.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic microwave background - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ed/WMAP_2012.png' alt='Cosmic microwave background - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ed/WMAP_2012.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cosmic Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cosmic-background-tr6ptidf81on0l2b.jpg' alt='100+] Cosmic Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cosmic-background-tr6ptidf81on0l2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background with Galaxy and Stars Universe Deep Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cosmic-background-galaxy-stars-universe-deep-279655718.jpg' alt='Cosmic Background with Galaxy and Stars Universe Deep Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cosmic-background-galaxy-stars-universe-deep-279655718.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic background light confirms the age of the universe- The Week">
+                                <img itemprop="contentUrl url" src='https://img.theweek.in/content/dam/week/news/health/images/2019/2/13/Big-Bang-in-Space-the-Birth-of-the-Universe-3d-illus-shut.jpg' alt='Cosmic background light confirms the age of the universe- The Week'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Week" />
+                                </span>
+                                <a href='https://img.theweek.in/content/dam/week/news/health/images/2019/2/13/Big-Bang-in-Space-the-Birth-of-the-Universe-3d-illus-shut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New method to measure the cosmic microwave background's temperature">
+                                <img itemprop="contentUrl url" src='https://www.techexplorist.com/wp-content/uploads/2022/02/earlyuniverse.jpg' alt='New method to measure the cosmic microwave background's temperature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Explorist" />
+                                </span>
+                                <a href='https://www.techexplorist.com/wp-content/uploads/2022/02/earlyuniverse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cosmic Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cosmic-background-ksnslwk66ktjcmet.jpg' alt='Download Cosmic Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cosmic-background-ksnslwk66ktjcmet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg' alt='Cosmic Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/189/559/small_2x/abstract-futuristic-background-with-blue-and-purple-multi-colored-energy-magic-lines-and-waves-of-cosmic-patterns-photo.jpg' alt='Cosmic Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/189/559/small_2x/abstract-futuristic-background-with-blue-and-purple-multi-colored-energy-magic-lines-and-waves-of-cosmic-patterns-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESA - Planck's view of the cosmic microwave background">
+                                <img itemprop="contentUrl url" src='https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/07/planck_s_view_of_the_cosmic_microwave_background2/17601831-1-eng-GB/Planck_s_view_of_the_cosmic_microwave_background_pillars.jpg' alt='ESA - Planck's view of the cosmic microwave background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="European Space Agency" />
+                                </span>
+                                <a href='https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/07/planck_s_view_of_the_cosmic_microwave_background2/17601831-1-eng-GB/Planck_s_view_of_the_cosmic_microwave_background_pillars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

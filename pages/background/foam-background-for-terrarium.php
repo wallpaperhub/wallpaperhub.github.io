@@ -1,0 +1,129 @@
+<title>Enhance Your Terrarium with Foam Backgrounds</title>
+                    <meta name="description" content="Discover how foam backgrounds can transform your terrarium into a captivating ecosystem. Lightweight, customizable, and moisture-resistant, they provide the perfect natural backdrop for your plants. Explore creative ideas for adding depth and beauty to your green space today!">
+                    <meta name="keywords" content="foam background for terrarium">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/foam-background-for-terrarium">
+                            <span itemprop="name">foam background for terrarium</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Terrarium with Foam Backgrounds</h1>
+                <p>Foam backgrounds for terrariums offer an innovative way to enhance the aesthetic appeal of your green space. Lightweight and easy to customize, foam can mimic natural landscapes like rocks or forest floors, providing a stunning backdrop for plants and décor. They are also moisture-resistant and promote healthy air circulation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What background mixture is best to use on a foam background? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-background-mixture-is-best-to-use-on-a-foam-background-v0-3b35r4xdszha1.jpg?width=640&crop=smart&auto=webp&s=237e99add47e0c8a35f4147eb30053d8f066625f' alt='What background mixture is best to use on a foam background? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-background-mixture-is-best-to-use-on-a-foam-background-v0-3b35r4xdszha1.jpg?width=640&crop=smart&auto=webp&s=237e99add47e0c8a35f4147eb30053d8f066625f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Naturalistic Expanding Foam Vivarium Background (Aquarium to Viv  Conversion pt.2A)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/svEB0eTe5Cg/maxresdefault.jpg' alt='DIY Naturalistic Expanding Foam Vivarium Background (Aquarium to Viv  Conversion pt.2A)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/svEB0eTe5Cg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First background build…thoughts so far? still carving! : r/Vivarium">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9bbhxu6zyboa1.jpg' alt='First background build…thoughts so far? still carving! : r/Vivarium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9bbhxu6zyboa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEHERP - Custom Vivarium Background Tutorial">
+                                <img itemprop="contentUrl url" src='https://www.neherpetoculture.com/artimg/custombackgrounddiy3.jpg' alt='NEHERP - Custom Vivarium Background Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEHERP" />
+                                </span>
+                                <a href='https://www.neherpetoculture.com/artimg/custombackgrounddiy3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Vivarium Backgrounds - Hot Wire Foam Factory">
+                                <img itemprop="contentUrl url" src='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich09.jpg' alt='Custom Vivarium Backgrounds - Hot Wire Foam Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foam Art Gallery! - Hot Wire Foam Factory" />
+                                </span>
+                                <a href='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terrarium Foam 2025 | thundermountainline.com">
+                                <img itemprop="contentUrl url" src='http://bamboozoo.weebly.com/uploads/6/4/5/2/645227/2988016_orig.jpg' alt='Terrarium Foam 2025 | thundermountainline.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thunder Mountain Line" />
+                                </span>
+                                <a href='http://bamboozoo.weebly.com/uploads/6/4/5/2/645227/2988016_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEHERP - Custom Vivarium Background Tutorial">
+                                <img itemprop="contentUrl url" src='https://www.neherpetoculture.com/artimg/custombackgrounddiy4.jpg' alt='NEHERP - Custom Vivarium Background Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEHERP" />
+                                </span>
+                                <a href='https://www.neherpetoculture.com/artimg/custombackgrounddiy4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advice on spray foam, silicone, coco coir as background : r/Vivarium">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/advice-on-spray-foam-silicone-coco-coir-as-background-v0-4r3np3vtzf7a1.jpg?width=3024&format=pjpg&auto=webp&s=25213dcc90a4e5984b8808509e8d96c8f3374d60' alt='Advice on spray foam, silicone, coco coir as background : r/Vivarium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/advice-on-spray-foam-silicone-coco-coir-as-background-v0-4r3np3vtzf7a1.jpg?width=3024&format=pjpg&auto=webp&s=25213dcc90a4e5984b8808509e8d96c8f3374d60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Tutorials">
+                                <img itemprop="contentUrl url" src='http://www.vivariumworks.com/images/IMG_1985_836x534.jpg' alt='DIY Tutorials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DIY Tutorials" />
+                                </span>
+                                <a href='http://www.vivariumworks.com/images/IMG_1985_836x534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Vivarium Backgrounds - Hot Wire Foam Factory">
+                                <img itemprop="contentUrl url" src='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich05.jpg' alt='Custom Vivarium Backgrounds - Hot Wire Foam Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foam Art Gallery! - Hot Wire Foam Factory" />
+                                </span>
+                                <a href='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

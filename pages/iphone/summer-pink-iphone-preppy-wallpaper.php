@@ -1,0 +1,129 @@
+<title>Trendy Summer Pink iPhone Preppy Wallpapers</title>
+                    <meta name="description" content="Discover vibrant and stylish summer pink iPhone preppy wallpapers! Perfect for a fresh look, these designs bring a fun, seasonal vibe to your device. Upgrade your smartphone's style effortlessly with our curated collection, ideal for expressing your personality this summer!">
+                    <meta name="keywords" content="summer pink iphone preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/summer-pink-iphone-preppy-wallpaper">
+                            <span itemprop="name">summer pink iphone preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Summer Pink iPhone Preppy Wallpapers</h1>
+                <p>Transform your summer vibe with a chic pink iPhone preppy wallpaper! This trendy design embraces vibrant hues and playful patterns, perfect for enhancing your smartphone's aesthetic. Ideal for those who love a stylish summer touch, our wallpapers add a fresh pop of color to your device, making it as fun and lively as the season itself!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink preppy wallpaper!     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/68/df/3968dfab3ba9d666a0d56983b90551c5.jpg' alt='pink preppy wallpaper!     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/68/df/3968dfab3ba9d666a0d56983b90551c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/b0/27/abb027a02c1c1ec95ddd092472691377.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/b0/27/abb027a02c1c1ec95ddd092472691377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper | preppy iPhone wallpaper | pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/a1/52/16a15278cc32df245ad230fb9a41ac2f.jpg' alt='Preppy wallpaper | preppy iPhone wallpaper | pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/a1/52/16a15278cc32df245ad230fb9a41ac2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 25 Most Popular Preppy iPhone Wallpapers of 2019 | Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/c8/fc/fcc8fc9b52e29ec4fe0dcda082bb99a1.jpg' alt='Top 25 Most Popular Preppy iPhone Wallpapers of 2019 | Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/c8/fc/fcc8fc9b52e29ec4fe0dcda082bb99a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Preppy pink background ideas | wallpaper quotes, preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4b/de/cd/4bdecdd8a9307e6d3c213ec59355230c.png' alt='13 Preppy pink background ideas | wallpaper quotes, preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="987">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4b/de/cd/4bdecdd8a9307e6d3c213ec59355230c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PREPPY PINK WALLPAPER    | Preppy wallpaper, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/85/25/148525868a92871e26d1032fd928d658.jpg' alt='PREPPY PINK WALLPAPER    | Preppy wallpaper, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/85/25/148525868a92871e26d1032fd928d658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaiya_daisy | preppy summer pink aesthetic collage wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/83/9f/1d839f51c76d364d8219fdbaeb5a7a32.jpg' alt='Kaiya_daisy | preppy summer pink aesthetic collage wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/83/9f/1d839f51c76d364d8219fdbaeb5a7a32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy pink iphone wallpaper!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/98/ef/e598efc0e366146af0f8ef5097fe1285.jpg' alt='preppy pink iphone wallpaper!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/98/ef/e598efc0e366146af0f8ef5097fe1285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Aesthetic Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/17/be/6e17be9a4881dc75e5c8c448d315d648.jpg' alt='Preppy Aesthetic Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/17/be/6e17be9a4881dc75e5c8c448d315d648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Preppy pink background ideas | wallpaper quotes, preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e3/d2/0c/e3d20cd68624fdf3be8f46ce20fb72b4.jpg' alt='13 Preppy pink background ideas | wallpaper quotes, preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e3/d2/0c/e3d20cd68624fdf3be8f46ce20fb72b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Design with Blue and Teal Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of blue and teal backgrounds! Enhance your creative projects with these calming colors that inspire tranquility and creativity. Perfect for digital designs, websites, and social media, blue and teal backgrounds create a refreshing and serene environment for any content.">
+                    <meta name="keywords" content="blue and teal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-teal-background">
+                            <span itemprop="name">blue and teal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Design with Blue and Teal Backgrounds</h1>
+                <p>Blue and teal backgrounds offer a soothing and refreshing aesthetic, ideal for various design projects. These colors blend harmoniously, providing a cool and tranquil vibe that enhances creativity and calmness. Perfect for websites, presentations, or social media graphics, they evoke feelings of serenity and inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,200+ Teal Gradient Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=612x612&w=0&k=20&c=yK4vAgo8Z88iB45M_ZB756rxuss0OkBU9J4XCyEBrUQ=' alt='4,200+ Teal Gradient Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=612x612&w=0&k=20&c=yK4vAgo8Z88iB45M_ZB756rxuss0OkBU9J4XCyEBrUQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Blue and teal brush stroke textured background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blue-teal-brush-stroke-textured-background_53876-89420.jpg' alt='Free Photo | Blue and teal brush stroke textured background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blue-teal-brush-stroke-textured-background_53876-89420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Backgrounds Images – Browse 1,496,811 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/56/49/29/360_F_656492950_FhrW4C3q2j1wgoqrjrvGciuvvzvtBSRs.jpg' alt='Teal Backgrounds Images – Browse 1,496,811 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/56/49/29/360_F_656492950_FhrW4C3q2j1wgoqrjrvGciuvvzvtBSRs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85,300+ Color Teal Blue Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391171928/vector/abstract-shapes-concept-design-background-abstract-square-shapes-background-abstract.jpg?s=612x612&w=0&k=20&c=ViTlukVWoMp_bHG1m4EEuJbJBZ-yADcJFfn3Km7P7FU=' alt='85,300+ Color Teal Blue Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391171928/vector/abstract-shapes-concept-design-background-abstract-square-shapes-background-abstract.jpg?s=612x612&w=0&k=20&c=ViTlukVWoMp_bHG1m4EEuJbJBZ-yADcJFfn3Km7P7FU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Blue Background Images – Browse 1,492,044 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/75/66/64/360_F_375666468_AeM9SXojKpwtBEdckFCT3ULcEyotj8ck.jpg' alt='Teal Blue Background Images – Browse 1,492,044 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/75/66/64/360_F_375666468_AeM9SXojKpwtBEdckFCT3ULcEyotj8ck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,900+ Teal Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1447621847/vector/technology-striped-pattern-background.jpg?s=612x612&w=0&k=20&c=L98uzk45PMIgitt4XYNv5peEE-yHYXt9KHoQ_z9Hq_A=' alt='25,900+ Teal Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1447621847/vector/technology-striped-pattern-background.jpg?s=612x612&w=0&k=20&c=L98uzk45PMIgitt4XYNv5peEE-yHYXt9KHoQ_z9Hq_A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Backgrounds Images – Browse 1,496,811 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/72/55/11/360_F_272551189_hw04ECmTG2qXPbA0sDMuiGz9XA9yUIX2.jpg' alt='Teal Backgrounds Images – Browse 1,496,811 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/72/55/11/360_F_272551189_hw04ECmTG2qXPbA0sDMuiGz9XA9yUIX2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="239,281 Blue Teal Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/324660335/display_1500/stock-photo-a-teal-blue-background-with-marbled-texture-and-bright-center-324660335.jpg' alt='239,281 Blue Teal Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/324660335/display_1500/stock-photo-a-teal-blue-background-with-marbled-texture-and-bright-center-324660335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Blue Background - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/2000px/329507' alt='Teal Blue Background - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/2000px/329507' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blue-teal-sand-paper_53876-92791.jpg' alt='Teal Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blue-teal-sand-paper_53876-92791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

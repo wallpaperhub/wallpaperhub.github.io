@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="news backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/news-backdrop">
+                            <span itemprop="name">news backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 20x10ft Breaking News Studio Backdrop Blue ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81g867YDKwL.jpg' alt='Amazon.com : CHNYWORK 20x10ft Breaking News Studio Backdrop Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81g867YDKwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News Backdrop Studio TV News Broadcast ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7173GsXm-JL._AC_UF894,1000_QL80_.jpg' alt='Breaking News Backdrop Studio TV News Broadcast ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7173GsXm-JL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 10x6.5ft Fabric News Broadcast Hall Backdrop Studio TV Breaking News  Backdrop News Room Broadcasting Background Program Record News Report ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81O7lTBBcJL._AC_UF894,1000_QL80_.jpg' alt='BELECO 10x6.5ft Fabric News Broadcast Hall Backdrop Studio TV Breaking News  Backdrop News Room Broadcasting Background Program Record News Report ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81O7lTBBcJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO Breaking News Backdrop Fabric 15x10ft News ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hSx369TbL.jpg' alt='Amazon.com : CORFOTO Breaking News Backdrop Fabric 15x10ft News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hSx369TbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/654/649/original/3d-virtual-tv-studio-news-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-loop-free-video.jpg' alt='3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/654/649/original/3d-virtual-tv-studio-news-backdrop-for-tv-shows-tv-on-wall-3d-virtual-news-studio-background-loop-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsroom Background Images – Browse 14,080 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/37/08/02/360_F_437080273_Zs3S00Z0t3kZfaDMZkV6z2riMJDx5iVV.jpg' alt='Newsroom Background Images – Browse 14,080 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/37/08/02/360_F_437080273_Zs3S00Z0t3kZfaDMZkV6z2riMJDx5iVV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABC News 24 updates backdrop - NewscastStudio">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/uploads/2014/03/abc24_lightwell.jpg' alt='ABC News 24 updates backdrop - NewscastStudio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/uploads/2014/03/abc24_lightwell.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual News Studio Backdrop Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-virtual-tv-studio-news-backdrop-tv-shows-tv-wall-news-studio-background-d-virtual-tv-studio-news-backdrop-tv-shows-tv-337474060.jpg' alt='Virtual News Studio Backdrop Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-virtual-tv-studio-news-backdrop-tv-shows-tv-wall-news-studio-background-d-virtual-tv-studio-news-backdrop-tv-shows-tv-337474060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO 17x10ft Breaking Live News Backdrop News Live ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71H6ibYF7+L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : CORFOTO 17x10ft Breaking Live News Backdrop News Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71H6ibYF7+L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,156 City Backdrop News Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/futuristic-virtual-tv-show-background-600nw-2090090515.jpg' alt='1,156 City Backdrop News Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/futuristic-virtual-tv-show-background-600nw-2090090515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

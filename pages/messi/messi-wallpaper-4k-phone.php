@@ -1,0 +1,129 @@
+<title>Stunning 4K Messi Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the perfect 4K Messi wallpapers for your phone! Transform your device with vibrant images of the football superstar. Ideal for fans wanting to add a touch of passion to their screens. Download now for a unique 4K experience!">
+                    <meta name="keywords" content="messi wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-wallpaper-4k-phone">
+                            <span itemprop="name">messi wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Messi Wallpapers for Your Phone</h1>
+                <p>Elevate your phone's aesthetics with stunning 4K Messi wallpapers! Featuring vibrant colors and dynamic imagery of the football legend, these wallpapers bring your screen to life. Perfect for true fans looking to showcase their passion for the game. Download your favorite Messi 4K wallpaper today for a personalized touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free download the Lionel Messi HD Sports wallpaper ,beaty your ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/f9/bd/65f9bdbb19ed76412bd88d3fa93f3e45.jpg' alt='Free download the Lionel Messi HD Sports wallpaper ,beaty your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/f9/bd/65f9bdbb19ed76412bd88d3fa93f3e45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi, blood, young, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/115/855/HD-wallpaper-messi-football.jpg' alt='Messi, blood, young, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/115/855/HD-wallpaper-messi-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/165/430/HD-wallpaper-messi-world-cup.jpg' alt='Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/165/430/HD-wallpaper-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Lionel Messi Wallpapers (4k Quality) : r/Barca">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/beautiful-lionel-messi-wallpapers-4k-quality-v0-3etfaect7r4e1.jpg?width=1536&format=pjpg&auto=webp&s=91cb8c9fc189e67a8ec789769a30f0102cf43fb2' alt='Beautiful Lionel Messi Wallpapers (4k Quality) : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/beautiful-lionel-messi-wallpapers-4k-quality-v0-3etfaect7r4e1.jpg?width=1536&format=pjpg&auto=webp&s=91cb8c9fc189e67a8ec789769a30f0102cf43fb2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lionel Messi wallpaper mobile phone 2018|17 by 10mohamedmahmoud on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/1d/3c/b51d3c3fdf478f19bb0889a9c9defc1c.jpg' alt='lionel Messi wallpaper mobile phone 2018|17 by 10mohamedmahmoud on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/1d/3c/b51d3c3fdf478f19bb0889a9c9defc1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Messi Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/messi-iphone-7hweyqai3pnhhewt.jpg' alt='100+] Messi Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/messi-iphone-7hweyqai3pnhhewt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Phone 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9284724.jpg' alt='Messi Phone 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9284724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Wallpaper 4K, FCB, Soccer Player, FC Barcelona">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lionel-messi-fcb-1080x1920-13180.jpg' alt='Lionel Messi Wallpaper 4K, FCB, Soccer Player, FC Barcelona'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lionel-messi-fcb-1080x1920-13180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi victory, barca, barcelona, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/64/HD-wallpaper-messi-victory-barca-barcelona.jpg' alt='Messi victory, barca, barcelona, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/64/HD-wallpaper-messi-victory-barca-barcelona.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Wallpaper HD 4K for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/b2690375-b47c-46a0-83ab-4cb39abe95cd/1651496268/lionel-messi-wallpaper-hd-4k-rov-screenshot.png' alt='Lionel Messi Wallpaper HD 4K for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lionel Messi Wallpaper HD 4K for Android" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/b2690375-b47c-46a0-83ab-4cb39abe95cd/1651496268/lionel-messi-wallpaper-hd-4k-rov-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

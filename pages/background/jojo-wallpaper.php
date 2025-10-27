@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="jojo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jojo-wallpaper">
+                            <span itemprop="name">jojo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 5 Styled JoJo Part 5 wallpaper [OC] : r/TwoBestFriendsPlay">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kevj9k2mnt511.png?width=1080&crop=smart&auto=webp&s=33031ef1542f0e0ef9eb2aca3686ec32f9692402' alt='Persona 5 Styled JoJo Part 5 wallpaper [OC] : r/TwoBestFriendsPlay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kevj9k2mnt511.png?width=1080&crop=smart&auto=webp&s=33031ef1542f0e0ef9eb2aca3686ec32f9692402' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jojo's Bizarre Adventure HD Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/755/755323.jpg' alt='Jojo's Bizarre Adventure HD Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/755/755323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JoJo Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/eb/e9/32ebe9a90e3a0f4963547e80512f8774.jpg' alt='JoJo Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/eb/e9/32ebe9a90e3a0f4963547e80512f8774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jojo bizarre adventure: Jotaro Kujo / wallpaper by Denwii on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/490978f0-a9b8-4f06-af58-2522b3727632/dfrohy3-5f12ff02-f76d-4b85-ba6b-bf0bea020c52.jpg/v1/fill/w_1192,h_670,q_70,strp/jojo_bizarre_adventure__jotaro_kujo___wallpaper__by_denwii_dfrohy3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzQ5MDk3OGYwLWE5YjgtNGYwNi1hZjU4LTI1MjJiMzcyNzYzMlwvZGZyb2h5My01ZjEyZmYwMi1mNzZkLTRiODUtYmE2Yi1iZjBiZWEwMjBjNTIuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YQ2ViPqjwBoc1WKhPqRel3RD0N84ZGlhr_lnMT_tdno' alt='jojo bizarre adventure: Jotaro Kujo / wallpaper by Denwii on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/490978f0-a9b8-4f06-af58-2522b3727632/dfrohy3-5f12ff02-f76d-4b85-ba6b-bf0bea020c52.jpg/v1/fill/w_1192,h_670,q_70,strp/jojo_bizarre_adventure__jotaro_kujo___wallpaper__by_denwii_dfrohy3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzQ5MDk3OGYwLWE5YjgtNGYwNi1hZjU4LTI1MjJiMzcyNzYzMlwvZGZyb2h5My01ZjEyZmYwMi1mNzZkLTRiODUtYmE2Yi1iZjBiZWEwMjBjNTIuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YQ2ViPqjwBoc1WKhPqRel3RD0N84ZGlhr_lnMT_tdno' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Anime JoJo's Bizarre Adventure Colour 3D Large Theme ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810qmlFHXXL._AC_UF894,1000_QL80_.jpg' alt='Wallpaper Anime JoJo's Bizarre Adventure Colour 3D Large Theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810qmlFHXXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JoJo phone wallpapers I made, with different versions and aspect ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nv1wxojgr5i71.jpg' alt='JoJo phone wallpapers I made, with different versions and aspect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nv1wxojgr5i71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jojolion, anime, jojo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/236/42/HD-wallpaper-jojolion-anime-jojo.jpg' alt='Jojolion, anime, jojo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/236/42/HD-wallpaper-jojolion-anime-jojo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jojo's Bizarre HD Adventure: Dynamic Wallpaper by Hirohiko Araki">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/966/966117.jpg' alt='Jojo's Bizarre HD Adventure: Dynamic Wallpaper by Hirohiko Araki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/966/966117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jojos bizarre adventure iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/3c/2c/e93c2cc2aac18cc015a456c22c389302.jpg' alt='jojos bizarre adventure iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/3c/2c/e93c2cc2aac18cc015a456c22c389302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jojo's Bizarre Adventure All Characters Wallpaper, HD Anime 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/jojo-s-bizarre-adventure-all-characters_bGhrZmaUmZqaraWkpJRobWllrWdma2U.jpg' alt='Jojo's Bizarre Adventure All Characters Wallpaper, HD Anime 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/jojo-s-bizarre-adventure-all-characters_bGhrZmaUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Rich History of Basketball Cards</title>
+                    <meta name="description" content="Discover the fascinating world of basketball cards. From classic designs to modern collectibles, learn about their history, significance, and the excitement they bring to fans and collectors alike. Dive into the culture of basketball memorabilia and find out why these cards are treasures for enthusiasts everywhere.">
+                    <meta name="keywords" content="basketball card background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/basketball-card-background">
+                            <span itemprop="name">basketball card background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of Basketball Cards</h1>
+                <p>Basketball cards have a rich and vibrant background, reflecting the history and passion of the sport. From vintage designs showcasing legendary players to modern cards featuring autographs and limited editions, each card tells a story. They capture not just moments on the court but also the spirit of basketball culture, making them cherished collectibles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1344093228/vector/basketball-poster-with-backboard-and-ball.jpg?s=612x612&w=0&k=20&c=o2wm6UVnPkJG0F-vIxxTn8OEtBsrhkxVJUTL-5V8Hx8=' alt='2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1344093228/vector/basketball-poster-with-backboard-and-ball.jpg?s=612x612&w=0&k=20&c=o2wm6UVnPkJG0F-vIxxTn8OEtBsrhkxVJUTL-5V8Hx8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1157120277/photo/3d-rendering-of-futuristic-neon-basketball-sitting-in-darkness.jpg?s=612x612&w=0&k=20&c=AEnYA0taZC9PLUMyEHyutjNABtP8ijWbJeWvu_xZBBY=' alt='2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1157120277/photo/3d-rendering-of-futuristic-neon-basketball-sitting-in-darkness.jpg?s=612x612&w=0&k=20&c=AEnYA0taZC9PLUMyEHyutjNABtP8ijWbJeWvu_xZBBY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,100+ Basketball Card Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/529124804/vector/basketball-poster.jpg?s=612x612&w=0&k=20&c=otlD-vKt3daoqt06e9guGemJJc6XGFhfyGNn9ll_zrs=' alt='2,100+ Basketball Card Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/529124804/vector/basketball-poster.jpg?s=612x612&w=0&k=20&c=otlD-vKt3daoqt06e9guGemJJc6XGFhfyGNn9ll_zrs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Player Card: Over 2,972 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/sport-player-trading-card-frame-600nw-2325104991.jpg' alt='Basketball Player Card: Over 2,972 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/sport-player-trading-card-frame-600nw-2325104991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Nba card background ideas | nba, custom cards, basketball cards">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/dd/90/a4/dd90a411aa34529a86dbb4ad35837c20.jpg' alt='12 Nba card background ideas | nba, custom cards, basketball cards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/dd/90/a4/dd90a411aa34529a86dbb4ad35837c20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1345964937/vector/collection-of-basketball-banners.jpg?s=612x612&w=0&k=20&c=ZmRp8RRkaT9kaCHIuaTS9dfkbk9yy2Sjk438Oh6TVyk=' alt='2,600+ Basketball Card Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1345964937/vector/collection-of-basketball-banners.jpg?s=612x612&w=0&k=20&c=ZmRp8RRkaT9kaCHIuaTS9dfkbk9yy2Sjk438Oh6TVyk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Nba card background ideas | nba, custom cards, basketball cards">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9c/28/bb/9c28bbf348b2280422a3aa1824867214.jpg' alt='12 Nba card background ideas | nba, custom cards, basketball cards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9c/28/bb/9c28bbf348b2280422a3aa1824867214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Basketball Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a7/c2/29/a7c229db14a03bdd7dba784a1967cdd9.jpg' alt='Free Printable Basketball Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a7/c2/29/a7c229db14a03bdd7dba784a1967cdd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Card: Over 13,045 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/sport-trading-card-template-isolated-600nw-2455448587.jpg' alt='Basketball Card: Over 13,045 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/sport-trading-card-template-isolated-600nw-2455448587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Gradient basketball trading cards illustration">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/gradient-basketball-trading-cards-illustration_52683-95336.jpg' alt='Premium Vector | Gradient basketball trading cards illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/gradient-basketball-trading-cards-illustration_52683-95336.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

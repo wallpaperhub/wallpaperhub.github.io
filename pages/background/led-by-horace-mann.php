@@ -1,0 +1,129 @@
+<title>Horace Mann: The Father of Public Education</title>
+                    <meta name="description" content="Discover the legacy of Horace Mann, a pioneer of public education. Learn how his advocacy for free and universal schooling transformed the education system, emphasizing the need for trained teachers and equal access to education for every child. Explore his impactful reforms and enduring influence today.">
+                    <meta name="keywords" content="led by horace mann">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/led-by-horace-mann">
+                            <span itemprop="name">led by horace mann</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Horace Mann: The Father of Public Education</h1>
+                <p>Horace Mann, an American educational reformer, championed public education in the 19th century. He believed in free, universal schooling and emphasized the importance of trained teachers. Mann's reforms laid the foundation for the modern education system, advocating for civic responsibility, moral instruction, and equal access to education for all children.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann | Biography & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/09/36209-050-66343901/Horace-Mann.jpg' alt='Horace Mann | Biography & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/09/36209-050-66343901/Horace-Mann.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg/800px-Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg' alt='Horace Mann - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg/800px-Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Welfare History Project Horace Mann And The Creation Of The ...">
+                                <img itemprop="contentUrl url" src='https://socialwelfare.library.vcu.edu/wp-content/uploads/2014/02/Horace-Mann-9397522-1-402.jpg' alt='Social Welfare History Project Horace Mann And The Creation Of The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Welfare History Project - Virginia Commonwealth University" />
+                                </span>
+                                <a href='https://socialwelfare.library.vcu.edu/wp-content/uploads/2014/02/Horace-Mann-9397522-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Educational Reformer Horace Mann — The Father of American Public ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*9ZeESmfYkWZRfauF0hfrnA.jpeg' alt='Educational Reformer Horace Mann — The Father of American Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KrishNick - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*9ZeESmfYkWZRfauF0hfrnA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mann Right to Free Public School - Dedham Museum & Archive">
+                                <img itemprop="contentUrl url" src='https://www.dedhammuseum.org/wp-content/uploads/2022/07/Horace-Mann.png' alt='Mann Right to Free Public School - Dedham Museum & Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dedham Museum & Archive" />
+                                </span>
+                                <a href='https://www.dedhammuseum.org/wp-content/uploads/2022/07/Horace-Mann.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann | Philosophy, Education Reform & Significance Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/videopreview-full/horace-mann--education-reform-contributions--philosophy-v2_117813.jpg' alt='Horace Mann | Philosophy, Education Reform & Significance Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/videopreview-full/horace-mann--education-reform-contributions--philosophy-v2_117813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The civil rights legacy of Horace Mann Bond, Lincoln University's ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/billypenn.com/wp-content/uploads/2022/07/horacemannbond-lincolnuniversity-uncf.jpg?fit=1980%2C1559&ssl=1' alt='The civil rights legacy of Horace Mann Bond, Lincoln University's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billy Penn" />
+                                </span>
+                                <a href='https://i0.wp.com/billypenn.com/wp-content/uploads/2022/07/horacemannbond-lincolnuniversity-uncf.jpg?fit=1980%2C1559&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann and the Educational Reform - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GnUkZOwJ8Fs/sddefault.jpg' alt='Horace Mann and the Educational Reform - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GnUkZOwJ8Fs/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann summary | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/09/36209-050-66343901/Horace-Mann.jpg?w=740&h=416&c=crop' alt='Horace Mann summary | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/09/36209-050-66343901/Horace-Mann.jpg?w=740&h=416&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horace Mann, “Father of American Education” | SweetSearch2Day">
+                                <img itemprop="contentUrl url" src='http://2day.sweetsearch.com/wp-content/uploads/Horace-Mann-Metropolitan-Museum-of-Art.jpg' alt='Horace Mann, “Father of American Education” | SweetSearch2Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SweetSearch2Day" />
+                                </span>
+                                <a href='http://2day.sweetsearch.com/wp-content/uploads/Horace-Mann-Metropolitan-Museum-of-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

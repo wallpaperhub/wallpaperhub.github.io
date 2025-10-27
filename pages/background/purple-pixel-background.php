@@ -1,0 +1,129 @@
+<title>Stunning Purple Pixel Backgrounds for Creative Designs</title>
+                    <meta name="description" content="Discover the allure of purple pixel backgrounds! Ideal for digital art, websites, and branding, these designs bring creativity and elegance to any project. Explore a variety of vibrant hues that enhance your work and make your content memorable. Perfect for designers and artists alike!">
+                    <meta name="keywords" content="purple pixel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-pixel-background">
+                            <span itemprop="name">purple pixel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Pixel Backgrounds for Creative Designs</h1>
+                <p>A purple pixel background creates a captivating visual effect, perfect for digital designs and websites. The vibrant hues of purple lend a sense of creativity and elegance, making it an ideal choice for artistic projects, gaming backgrounds, or branding elements. Its versatility adapts seamlessly to various styles, ensuring your content stands out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer space *purple theme* | This is my second pixel art that I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a3ftzqi7ide71.png?width=640&crop=smart&auto=webp&s=fde780201d4b3e62951d6530805a614e9efebedd' alt='Outer space *purple theme* | This is my second pixel art that I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a3ftzqi7ide71.png?width=640&crop=smart&auto=webp&s=fde780201d4b3e62951d6530805a614e9efebedd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract geometric background of squares. Purple pixel background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/383/711/non_2x/abstract-geometric-background-of-squares-purple-pixel-background-with-empty-space-illustration-vector.jpg' alt='Abstract geometric background of squares. Purple pixel background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/383/711/non_2x/abstract-geometric-background-of-squares-purple-pixel-background-with-empty-space-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelart Background - "Outcasts"">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/38/cf/ff38cf56ca281ee4726bc7d40e3050a7.jpg' alt='Pixelart Background - "Outcasts"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/38/cf/ff38cf56ca281ee4726bc7d40e3050a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Purple Pixel Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1091835818/vector/pixel-art-gradient-color-dithering-vector-background.jpg?s=612x612&w=0&k=20&c=gB6moAxnZ34P3baya8aS4jpKTSw831lgbTkW4dvuwpM=' alt='9,200+ Purple Pixel Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1091835818/vector/pixel-art-gradient-color-dithering-vector-background.jpg?s=612x612&w=0&k=20&c=gB6moAxnZ34P3baya8aS4jpKTSw831lgbTkW4dvuwpM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr. Pixelor on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/62/bb/7862bb3aa69a428d80f87bf208beb43e.jpg' alt='Mr. Pixelor on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/62/bb/7862bb3aa69a428d80f87bf208beb43e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pixel Background Wallpaper by simonesheri1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ddc88-4dff-40c5-9d7d-bb11ac481953/df0et14-9d241707-a31e-4efd-999c-bc5d7408b224.png/v1/fill/w_1280,h_720,q_80,strp/purple_pixel_background_wallpaper_by_simonesheri1_df0et14-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjQzZGRjODgtNGRmZi00MGM1LTlkN2QtYmIxMWFjNDgxOTUzXC9kZjBldDE0LTlkMjQxNzA3LWEzMWUtNGVmZC05OTljLWJjNWQ3NDA4YjIyNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UiykxGU_O8m6fv11ch8hbtwfg_d-Rl_Avwsw1spmt6c' alt='Purple Pixel Background Wallpaper by simonesheri1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ddc88-4dff-40c5-9d7d-bb11ac481953/df0et14-9d241707-a31e-4efd-999c-bc5d7408b224.png/v1/fill/w_1280,h_720,q_80,strp/purple_pixel_background_wallpaper_by_simonesheri1_df0et14-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjQzZGRjODgtNGRmZi00MGM1LTlkN2QtYmIxMWFjNDgxOTUzXC9kZjBldDE0LTlkMjQxNzA3LWEzMWUtNGVmZC05OTljLWJjNWQ3NDA4YjIyNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UiykxGU_O8m6fv11ch8hbtwfg_d-Rl_Avwsw1spmt6c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Purple Pixel Sky Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/5/8/b/58b4895a-05b6-4ea5-aaf7-d527caf17c6e_large/purple-pixel-sky-stockcake.jpg' alt='Free Purple Pixel Sky Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/5/8/b/58b4895a-05b6-4ea5-aaf7-d527caf17c6e_large/purple-pixel-sky-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 8-bit Artistic Pixel Art City Skyline Night HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/966/thumb-1920-966310.jpg' alt='Download 8-bit Artistic Pixel Art City Skyline Night HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/966/thumb-1920-966310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pixel Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/bright-purple-square-mosaic-textural-background_1258-72240.jpg' alt='Purple Pixel Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/bright-purple-square-mosaic-textural-background_1258-72240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,800 Purple Pixel Background Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-sunset-dawn-dark-260nw-2365799353.jpg' alt='26,800 Purple Pixel Background Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-sunset-dawn-dark-260nw-2365799353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Effective Background and Text Color Combinations for Impactful Design</title>
+                    <meta name="description" content="Discover the best background and text color combinations to enhance readability and aesthetics. Learn the principles of contrast, accessibility, and design harmony for effective content presentation. Optimize your visuals for all users with our expert tips!">
+                    <meta name="keywords" content="background and text color combinations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-and-text-color-combinations">
+                            <span itemprop="name">background and text color combinations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Effective Background and Text Color Combinations for Impactful Design</h1>
+                <p>Choosing the right background and text color combinations is crucial for visual appeal and readability. High contrast pairs, like dark text on light backgrounds, improve legibility, while complementary colors can create a pleasing aesthetic. Consider accessibility guidelines to ensure all users can enjoy content without strain.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Contrast Background and Foreground Colors in Web Design">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' alt='How to Contrast Background and Foreground Colors in Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Logo Color Combinations to Inspire Your Design | Looka">
+                                <img itemprop="contentUrl url" src='https://cdn.logojoy.com/wp-content/uploads/20231005150216/logo-color-combinations-header-1.jpg' alt='50 Logo Color Combinations to Inspire Your Design | Looka'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looka" />
+                                </span>
+                                <a href='https://cdn.logojoy.com/wp-content/uploads/20231005150216/logo-color-combinations-header-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette Documentation for Living Style Guides | by Brent ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/0*Gs7lmT8omjkmzT14.jpg' alt='Color Palette Documentation for Living Style Guides | by Brent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/0*Gs7lmT8omjkmzT14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What colour combination should I use between text and these ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/YsKZ6-UXAhg14zf75sQ52tfKTvU-4vgYgWcc4nnTEp4.jpg?auto=webp&s=edb6954f35b7c2d495723562b87cabfb9b451ac5' alt='What colour combination should I use between text and these ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/YsKZ6-UXAhg14zf75sQ52tfKTvU-4vgYgWcc4nnTEp4.jpg?auto=webp&s=edb6954f35b7c2d495723562b87cabfb9b451ac5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Accessibility - HBS Identity Guidelines | HBS Identity ...">
+                                <img itemprop="contentUrl url" src='https://identity.hbs.edu/wp-content/uploads/2022/10/HBS-styleguide-color-accessibility-10-2021.jpg' alt='Color Accessibility - HBS Identity Guidelines | HBS Identity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Identity Guidelines - Harvard Business School" />
+                                </span>
+                                <a href='https://identity.hbs.edu/wp-content/uploads/2022/10/HBS-styleguide-color-accessibility-10-2021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Logo Color Combinations to Inspire Your Design | Looka">
+                                <img itemprop="contentUrl url" src='https://cdn.logojoy.com/wp-content/uploads/20200117144035/logocombinations-mercat-1-600x294.png' alt='50 Logo Color Combinations to Inspire Your Design | Looka'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looka" />
+                                </span>
+                                <a href='https://cdn.logojoy.com/wp-content/uploads/20200117144035/logocombinations-mercat-1-600x294.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Color Schemes for Your Website - Tech Fry">
+                                <img itemprop="contentUrl url" src='https://www.techfry.com/images/webmaster/color-schemes.png' alt='Top Color Schemes for Your Website - Tech Fry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Fry" />
+                                </span>
+                                <a href='https://www.techfry.com/images/webmaster/color-schemes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signs and color contrast">
+                                <img itemprop="contentUrl url" src='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' alt='Signs and color contrast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Work Plan" />
+                                </span>
+                                <a href='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selecting Contrasting Text Color Based On Background Color">
+                                <img itemprop="contentUrl url" src='https://bennadel-cdn.com/resources/uploads/2007/text_color_by_background.gif' alt='Selecting Contrasting Text Color Based On Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ben Nadel" />
+                                </span>
+                                <a href='https://bennadel-cdn.com/resources/uploads/2007/text_color_by_background.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text-background color combination of digital media for legibility ...">
+                                <img itemprop="contentUrl url" src='https://figures.semanticscholar.org/31b1c6b541201ee1560446bff013fac45e8f14f0/2-Figure1-1.png' alt='Text-background color combination of digital media for legibility ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="804">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semantic Scholar" />
+                                </span>
+                                <a href='https://figures.semanticscholar.org/31b1c6b541201ee1560446bff013fac45e8f14f0/2-Figure1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

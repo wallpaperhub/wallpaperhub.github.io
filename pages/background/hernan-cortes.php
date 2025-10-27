@@ -1,0 +1,129 @@
+<title>Discover Hernán Cortés: Conquistador of the Aztec Empire</title>
+                    <meta name="description" content="Explore the life of Hernán Cortés, the Spanish conquistador who conquered the Aztecs and changed the course of history in the Americas. Uncover his legacy, motivations, and the lasting effects of his expedition. Perfect for history enthusiasts and learners!">
+                    <meta name="keywords" content="hernan cortes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hernan-cortes">
+                            <span itemprop="name">hernan cortes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Hernán Cortés: Conquistador of the Aztec Empire</h1>
+                <p>Hernán Cortés was a Spanish conquistador known for leading the expedition that resulted in the fall of the Aztec Empire in the early 16th century. Born in 1485, he played a crucial role in the Spanish colonization of the Americas, driven by ambitions of wealth and power. Cortés' actions had lasting impacts on indigenous cultures and European expansion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernán Cortés - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg' alt='Hernán Cortés - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes | Expeditions, Biography, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/46/133946-050-D1F82066/Hernan-Cortes.jpg' alt='Hernan Cortes | Expeditions, Biography, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/46/133946-050-D1F82066/Hernan-Cortes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernán Cortés - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1600x900/16014.png' alt='Hernán Cortés - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1600x900/16014.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes | MY HERO">
+                                <img itemprop="contentUrl url" src='https://myhero.com/content/images/thumbs/0160802_hernan-cortes.jpeg' alt='Hernan Cortes | MY HERO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MY HERO" />
+                                </span>
+                                <a href='https://myhero.com/content/images/thumbs/0160802_hernan-cortes.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernán Cortés - Students | Britannica Kids | Homework Help">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/133942-004-57172F89.jpg' alt='Hernán Cortés - Students | Britannica Kids | Homework Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica Kids" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/133942-004-57172F89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes - HISTORY CRUNCH - History Articles, Biographies ...">
+                                <img itemprop="contentUrl url" src='https://www.historycrunch.com/uploads/4/1/1/6/41169839/editor/1_1.jpeg?1510966997' alt='Hernan Cortes - HISTORY CRUNCH - History Articles, Biographies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HISTORY CRUNCH" />
+                                </span>
+                                <a href='https://www.historycrunch.com/uploads/4/1/1/6/41169839/editor/1_1.jpeg?1510966997' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes, 16th Century Spanish by Print Collector">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/hernan-cortes-16th-century-spanish-print-collector.jpg' alt='Hernan Cortes, 16th Century Spanish by Print Collector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/hernan-cortes-16th-century-spanish-print-collector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernán Cortés - Facts, Quotes & Route">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-905612136.jpg' alt='Hernán Cortés - Facts, Quotes & Route'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-905612136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes. Spanish conquistador. by Ken Welsh">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1432-untitled--ken-welsh.jpg' alt='Hernan Cortes. Spanish conquistador. by Ken Welsh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1432-untitled--ken-welsh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hernan Cortes: Over 60 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/hernan-cortez-spanish-conquistador-who-260nw-2455892573.jpg' alt='Hernan Cortes: Over 60 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/hernan-cortez-spanish-conquistador-who-260nw-2455892573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

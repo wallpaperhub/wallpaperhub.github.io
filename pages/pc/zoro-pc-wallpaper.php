@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="zoro pc wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/zoro-pc-wallpaper">
+                            <span itemprop="name">zoro pc wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roronoa Zoro One Piece HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/790/thumb-1920-790626.jpg' alt='Roronoa Zoro One Piece HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/790/thumb-1920-790626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roronoa Zoro Wallpaper 4K, Purple aesthetic, 5K, AI art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/8e/ce/c38eced4723ec2cb55ed87ee6138caa2.jpg' alt='Roronoa Zoro Wallpaper 4K, Purple aesthetic, 5K, AI art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/8e/ce/c38eced4723ec2cb55ed87ee6138caa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roronoa Zoro Anime HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/851/thumb-1920-851039.jpg' alt='Roronoa Zoro Anime HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/851/thumb-1920-851039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoro 4K Wallpaper For PC">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/zoro-3840x2160.jpg' alt='Zoro 4K Wallpaper For PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/zoro-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Zoro Live Wallpaper by livewallpaperspc on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35a3029d-3ad6-4378-a76a-7c88e3fc52c7/dfye391-1ee11ff1-49e7-4169-8a5f-bceb3a17919d.jpg/v1/fill/w_1280,h_720,q_75,strp/one_piece_zoro_live_wallpaper_by_livewallpaperspc_dfye391-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzVhMzAyOWQtM2FkNi00Mzc4LWE3NmEtN2M4OGUzZmM1MmM3XC9kZnllMzkxLTFlZTExZmYxLTQ5ZTctNDE2OS04YTVmLWJjZWIzYTE3OTE5ZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ebDLSKUbavB_snJ3g6LqIVBRTUxfPOvsA_JALNb5Lyc' alt='One Piece Zoro Live Wallpaper by livewallpaperspc on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35a3029d-3ad6-4378-a76a-7c88e3fc52c7/dfye391-1ee11ff1-49e7-4169-8a5f-bceb3a17919d.jpg/v1/fill/w_1280,h_720,q_75,strp/one_piece_zoro_live_wallpaper_by_livewallpaperspc_dfye391-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzVhMzAyOWQtM2FkNi00Mzc4LWE3NmEtN2M4OGUzZmM1MmM3XC9kZnllMzkxLTFlZTExZmYxLTQ5ZTctNDE2OS04YTVmLWJjZWIzYTE3OTE5ZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ebDLSKUbavB_snJ3g6LqIVBRTUxfPOvsA_JALNb5Lyc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoro Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/59/68/e55968559cdade666a1409e4a62685b5.jpg' alt='Zoro Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/59/68/e55968559cdade666a1409e4a62685b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my desktop background : r/OnePiece">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-desktop-background-v0-qelszrpnm5fb1.png?auto=webp&s=26efd803fa0cfa0b8ddb10ecad76de39588a4115' alt='my desktop background : r/OnePiece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-desktop-background-v0-qelszrpnm5fb1.png?auto=webp&s=26efd803fa0cfa0b8ddb10ecad76de39588a4115' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Zoro With Green Smoke Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-zoro-with-green-smoke-t8aej1gobl9jxcsd.jpg' alt='Dark Zoro With Green Smoke Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-zoro-with-green-smoke-t8aej1gobl9jxcsd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Roronoa Zoro Anime One Piece HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/121/1219952.jpg' alt='Download Roronoa Zoro Anime One Piece HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/121/1219952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece 4K Wallpaper of Luffy and Zoro">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7361778705678732550&location=0&aid=1988' alt='One Piece 4K Wallpaper of Luffy and Zoro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7361778705678732550&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Bible Verse Wallpapers: Simple & Inspiring</title>
+                    <meta name="description" content="Discover a collection of aesthetic simple Bible verse wallpapers that inspire faith and tranquility. Perfect for your phone or desktop, these minimalist designs combine elegance with spirituality, providing daily motivation through beautifully crafted scripture. Transform your screens with peace and positivity.">
+                    <meta name="keywords" content="aesthetic simple bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-simple-bible-verse-wallpaper">
+                            <span itemprop="name">aesthetic simple bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Bible Verse Wallpapers: Simple & Inspiring</h1>
+                <p>Aesthetic simple Bible verse wallpapers are a beautiful way to inspire and uplift your spirit daily. Featuring minimalist designs, these wallpapers blend modern aesthetics with timeless truths, allowing you to carry your faith wherever you go. Choose calming colors and elegant typography to create a serene environment on your devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neutral aesthetic wallpaper bible verse">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/84/fc/cd84fc47e2e99c566fe5453c7ac3e369.jpg' alt='neutral aesthetic wallpaper bible verse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/84/fc/cd84fc47e2e99c566fe5453c7ac3e369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Bible Verses Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6327154.jpg' alt='Aesthetic Bible Verses Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1973">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6327154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute bible verse wallpapers! | Gallery posted by brooklyn | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osR1BFevXInTnJADDqAQbNDVk5Qetn8BJAcNoC~tplv-tej9nj120t-origin.webp' alt='cute bible verse wallpapers! | Gallery posted by brooklyn | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osR1BFevXInTnJADDqAQbNDVk5Qetn8BJAcNoC~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Petroleum jelly. al Twitter: aesthetic bible verse : a thread ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/570/603/HD-wallpaper-petroleum-jelly-al-twitter-aesthetic-bible-verse-a-thread-simple-bible-verse.jpg' alt='Petroleum jelly. al Twitter: aesthetic bible verse : a thread ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/570/603/HD-wallpaper-petroleum-jelly-al-twitter-aesthetic-bible-verse-a-thread-simple-bible-verse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Bible Verse Psalms 143:10 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-bible-verse-psalms-143-10-enou37jpdenno962.jpg' alt='Aesthetic Bible Verse Psalms 143:10 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-bible-verse-psalms-143-10-enou37jpdenno962.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 12:12 Cross Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/86/eb/fd86eba4f4e48215b9e372c318b73bb3.jpg' alt='Romans 12:12 Cross Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/86/eb/fd86eba4f4e48215b9e372c318b73bb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Aesthetic John Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bible-verse-aesthetic-john-5vxycerfiyjphznn.jpg' alt='Bible Verse Aesthetic John Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bible-verse-aesthetic-john-5vxycerfiyjphznn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Christian Phone Wallpapers With A Summer Glowup">
+                                <img itemprop="contentUrl url" src='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-6.png' alt='10 Beautiful Christian Phone Wallpapers With A Summer Glowup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="single christian blog" />
+                                </span>
+                                <a href='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute bible verse wallpapers! | Gallery posted by brooklyn | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7258902859352539654&index=1&sign=a5e730b7f600b8c795d480c9c36490b1' alt='cute bible verse wallpapers! | Gallery posted by brooklyn | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7258902859352539654&index=1&sign=a5e730b7f600b8c795d480c9c36490b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Jasmine on Bible Verse Wallpapers for you | Bible verse ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/d8/b9/0ed8b98315cba0bcf9acbd7f44a746e3.jpg' alt='Pin by Jasmine on Bible Verse Wallpapers for you | Bible verse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/d8/b9/0ed8b98315cba0bcf9acbd7f44a746e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

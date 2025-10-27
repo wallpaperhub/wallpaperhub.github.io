@@ -1,0 +1,129 @@
+<title>Stunning Light Blue Gradient Designs</title>
+                    <meta name="description" content="Discover the beauty of light blue gradients in design. Explore how these calming hues can enhance visual appeal in digital art, websites, and branding, creating a serene and inviting atmosphere for your audience.">
+                    <meta name="keywords" content="light blue gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-blue-gradient">
+                            <span itemprop="name">light blue gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Blue Gradient Designs</h1>
+                <p>Light blue gradients evoke feelings of tranquility and serenity, making them perfect for design elements ranging from backgrounds to branding. Whether used in web design, social media graphics, or print media, gentle transitions from lighter to darker shades can enhance the aesthetic appeal and create a calm atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky Gradient - ColorKit">
+                                <img itemprop="contentUrl url" src='https://preview.colorkit.co/gradient/62cff4-2c67f2.png?size=wallpaper&scale=0.25&static=true' alt='Blue Sky Gradient - ColorKit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorKit" />
+                                </span>
+                                <a href='https://preview.colorkit.co/gradient/62cff4-2c67f2.png?size=wallpaper&scale=0.25&static=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Background Graphic by davidzydd · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/04/18/Light-Blue-Gradient-Background-Graphics-3899476-1.jpg' alt='Light Blue Gradient Background Graphic by davidzydd · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/04/18/Light-Blue-Gradient-Background-Graphics-3899476-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Images – Browse 4,431,719 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/84/01/67/360_F_1084016717_WKvxIu5devPI2Pbt7BzKawvllgcO9buZ.jpg' alt='Light Blue Gradient Images – Browse 4,431,719 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/84/01/67/360_F_1084016717_WKvxIu5devPI2Pbt7BzKawvllgcO9buZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Images – Browse 4,431,719 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/34/93/11/360_F_834931192_nDErzjkvAhjXxxYeH4gZYJHpbPWOQrqB.jpg' alt='Light Blue Gradient Images – Browse 4,431,719 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/34/93/11/360_F_834931192_nDErzjkvAhjXxxYeH4gZYJHpbPWOQrqB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/861/154/small_2x/light-blue-background-gradient-illustration-eps10-vector.jpg' alt='Light Blue Gradient Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/861/154/small_2x/light-blue-background-gradient-illustration-eps10-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Wallpaper Image | ILLUSTLIVE">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/47.png' alt='Light Blue Gradient Wallpaper Image | ILLUSTLIVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/47.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,400+ Light Blue Background Gradient Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1371310881/vector/light-blue-turquoise-color-gradient-defocused-blurred-motion-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=zBkkyu7Jjmjkvnc1AmUDJekeP_yv2Q_dY2cESoqWcQ0=' alt='14,400+ Light Blue Background Gradient Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1371310881/vector/light-blue-turquoise-color-gradient-defocused-blurred-motion-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=zBkkyu7Jjmjkvnc1AmUDJekeP_yv2Q_dY2cESoqWcQ0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gradient Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/light-blue-gradient-color-scheme.png' alt='Light Blue Gradient Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/light-blue-gradient-color-scheme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,400+ Light Blue Gradient Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1138440263/photo/graduated-blue-summer-sky-genuine-photograph.jpg?s=612x612&w=0&k=20&c=3ZfuXlcBMjpjuYnxdy09lJiL1XMdbW5e8lTaw1cxin0=' alt='19,400+ Light Blue Gradient Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1138440263/photo/graduated-blue-summer-sky-genuine-photograph.jpg?s=612x612&w=0&k=20&c=3ZfuXlcBMjpjuYnxdy09lJiL1XMdbW5e8lTaw1cxin0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light blue gradient background / can be used for background or ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/3930503/12616/i/450/depositphotos_126163052-stock-photo-light-blue-gradient-background-can.jpg' alt='Light blue gradient background / can be used for background or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/3930503/12616/i/450/depositphotos_126163052-stock-photo-light-blue-gradient-background-can.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

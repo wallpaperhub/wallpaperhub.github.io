@@ -1,0 +1,129 @@
+<title>Trendy Burn Book Wallpaper for a Sassy Touch</title>
+                    <meta name="description" content="Discover our unique burn book wallpaper, inspired by the iconic "Mean Girls." Add a fun and edgy vibe to your space with stylish designs perfect for any room. Shop now for the ultimate expression of teenage spirit and bring a playful accent to your home decor!">
+                    <meta name="keywords" content="burn book wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/burn-book-wallpaper">
+                            <span itemprop="name">burn book wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Burn Book Wallpaper for a Sassy Touch</h1>
+                <p>Burn book wallpaper adds a playful and edgy touch to your decor. Inspired by the iconic film "Mean Girls," these wallpapers feature quotes, doodles, and heart designs that capture the drama and fun of teen life. Perfect for bedrooms, dorms, or any space needing a sassy flair. Elevate your style with this trendy decor choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book - Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/jcQSlfkByiUuGr0xlfktEAbUnKc8fwe4WZldgjjq3Hd6rKaua14d0XWgP0CZhNrjVQ' alt='Burn Book - Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/jcQSlfkByiUuGr0xlfktEAbUnKc8fwe4WZldgjjq3Hd6rKaua14d0XWgP0CZhNrjVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/14/11/301411fd7240385b3bceb331058790f0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/14/11/301411fd7240385b3bceb331058790f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Trends International Mean Girls - Burn Book Wall Poster,  14.725" x 22.375", Premium Unframed Version: Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71g1VJ5miKL.jpg' alt='Amazon.com: Trends International Mean Girls - Burn Book Wall Poster,  14.725" x 22.375", Premium Unframed Version: Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71g1VJ5miKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book - Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/UsJSQbmC--no7Mh4pPG3k3xkU4_kV4EdoN7tLr30ZQwgbnA2BaFJN05hJi-wV8URQys=w526-h296-rw' alt='Burn Book - Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/UsJSQbmC--no7Mh4pPG3k3xkU4_kV4EdoN7tLr30ZQwgbnA2BaFJN05hJi-wV8URQys=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e5/a2/23/e5a22361dc3acb59f1abbb5f9ca3561d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e5/a2/23/e5a22361dc3acb59f1abbb5f9ca3561d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13502364/p/f/m/r_tKAWhTU1lZiEMf5ZwBmUciYG4ra_H0qEIu9oEggA8-WGf6nr7GKTHe-g/Burn%20Book%20Mean%20Girls%20Pink%20Kiss%20Cady%20Regina%20George%20Boo%20You%20Whore%20Cheese%20Fries%20Pop%20Culture%20Broadway%20Tina%20Fey%20Musical%20Theatre%20Fugly%20Slut%20Karen%20Gretchen%20Weiners%20Wieners%20Go%20Glen%20Coco%20Damien%20She%20Doesn't%20Even%20Go%20Here.jpg' alt='Burn Book Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13502364/p/f/m/r_tKAWhTU1lZiEMf5ZwBmUciYG4ra_H0qEIu9oEggA8-WGf6nr7GKTHe-g/Burn%20Book%20Mean%20Girls%20Pink%20Kiss%20Cady%20Regina%20George%20Boo%20You%20Whore%20Cheese%20Fries%20Pop%20Culture%20Broadway%20Tina%20Fey%20Musical%20Theatre%20Fugly%20Slut%20Karen%20Gretchen%20Weiners%20Wieners%20Go%20Glen%20Coco%20Damien%20She%20Doesn't%20Even%20Go%20Here.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/2a/12/682a125baa026ea9dbe1851da9b30d64.jpg' alt='Burn Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/2a/12/682a125baa026ea9dbe1851da9b30d64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD burn book wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/214/351/HD-wallpaper-pink-burn-book-burn-book-mean-girls-thumbnail.jpg' alt='HD burn book wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/214/351/HD-wallpaper-pink-burn-book-burn-book-mean-girls-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book Art Print by Disobey | Society6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/5a/ec/a9/5aeca92c59143c5f41e7c6de1c20aa06.jpg' alt='Burn Book Art Print by Disobey | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/5a/ec/a9/5aeca92c59143c5f41e7c6de1c20aa06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burn Book">
+                                <img itemprop="contentUrl url" src='https://teefury.com/cdn/shop/files/108459-art-file-color-blk_3aafe711-4727-4a8f-90cd-7438582f0150_571x432_crop_center.jpg?v=1705340987' alt='Burn Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeeFury" />
+                                </span>
+                                <a href='https://teefury.com/cdn/shop/files/108459-art-file-color-blk_3aafe711-4727-4a8f-90cd-7438582f0150_571x432_crop_center.jpg?v=1705340987' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

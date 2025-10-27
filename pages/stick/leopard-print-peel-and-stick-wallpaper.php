@@ -1,0 +1,129 @@
+<title>Transform Your Space with Leopard Print Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the perfect way to enhance your interiors with leopard print peel and stick wallpaper. Easy to install and remove, this stylish choice is ideal for renters or quick decor updates. Elevate your home style effortlessly with this chic and versatile wallpaper today!">
+                    <meta name="keywords" content="leopard print peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/leopard-print-peel-and-stick-wallpaper">
+                            <span itemprop="name">leopard print peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Leopard Print Peel and Stick Wallpaper</h1>
+                <p>Revamp your space with leopard print peel and stick wallpaper! Easy to apply and remove, this trendy design adds a touch of wild elegance to any room. Perfect for renters or those looking for a quick style update, it brings sophistication and a playful vibe. Transform your walls effortlessly with this eye-catching decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HueBurst Leopard Peel and Stick Wallpaper 17.3"x120" Cheetah Contact Paper  Self Adhesive Brown Wallpaper Removable Waterproof Art DIY Wall Decor for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91bBIiNOcQL.jpg' alt='HueBurst Leopard Peel and Stick Wallpaper 17.3"x120" Cheetah Contact Paper  Self Adhesive Brown Wallpaper Removable Waterproof Art DIY Wall Decor for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91bBIiNOcQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Removable Peel and Stick Wall paper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/leopard-removable-peel-and-stick-wallpaper-206885.png?v=1670992118' alt='Leopard Removable Peel and Stick Wall paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1578">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/leopard-removable-peel-and-stick-wallpaper-206885.png?v=1670992118' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard | Peel n Stick or Traditional Wallpaper | Made in the USA! •  Vinyl-Free • Non-toxic">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9696664/r/il/755e4e/1674851339/il_fullxfull.1674851339_m9gv.jpg' alt='Leopard | Peel n Stick or Traditional Wallpaper | Made in the USA! •  Vinyl-Free • Non-toxic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9696664/r/il/755e4e/1674851339/il_fullxfull.1674851339_m9gv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Print Removable Peel And Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://littlechickadeeshop.com/cdn/shop/products/LazyLeopard_room17_37ab5ada-e231-4998-8beb-e40aa29e9ea8.jpg?v=1677620134&width=1946' alt='Leopard Print Removable Peel And Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Chickadee Walls" />
+                                </span>
+                                <a href='https://littlechickadeeshop.com/cdn/shop/products/LazyLeopard_room17_37ab5ada-e231-4998-8beb-e40aa29e9ea8.jpg?v=1677620134&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ismoon 16.1"X118" Leopard Peel and Stick Wallpaper - Leopard Print Contact  Paper, Dark Brown and Khaki, Thickened Removable Vinyl Film Roll - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81OumX7yfTL.jpg' alt='Ismoon 16.1"X118" Leopard Peel and Stick Wallpaper - Leopard Print Contact  Paper, Dark Brown and Khaki, Thickened Removable Vinyl Film Roll - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81OumX7yfTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Leopard Print Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-black-white-leopard-print-peel-stick-wallpaper-leopard-like-you-7232110919780.jpg?v=1619795663' alt='Black & White Leopard Print Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-black-white-leopard-print-peel-stick-wallpaper-leopard-like-you-7232110919780.jpg?v=1619795663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Wallpaper | Shop The Peel & Stick Collection Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_leopard_main-view.jpg' alt='Leopard Wallpaper | Shop The Peel & Stick Collection Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_leopard_main-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Spots Wallpaper">
+                                <img itemprop="contentUrl url" src='https://claire-bella.com/cdn/shop/products/leopardspotsgreen1080_2b7498ab-cb70-4ff7-a23d-9f1e4282dbc0.jpg?v=1668115822' alt='Leopard Spots Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clairebella" />
+                                </span>
+                                <a href='https://claire-bella.com/cdn/shop/products/leopardspotsgreen1080_2b7498ab-cb70-4ff7-a23d-9f1e4282dbc0.jpg?v=1668115822' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Peel and Stick Wallpaper Waterproof Removable Textured Decor  17.3"X118"">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/RUkAAOSw2Y1mapSw/s-l1200.jpg' alt='Leopard Peel and Stick Wallpaper Waterproof Removable Textured Decor  17.3"X118"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/RUkAAOSw2Y1mapSw/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Print Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/files/HG11405-D_2000x2000.jpg?v=1711218877' alt='Leopard Print Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/files/HG11405-D_2000x2000.jpg?v=1711218877' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

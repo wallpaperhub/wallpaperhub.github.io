@@ -1,0 +1,129 @@
+<title>Discover Stunning Self-Love Aesthetic Wallpapers for Daily Inspiration</title>
+                    <meta name="description" content="Explore a collection of self-love aesthetic wallpapers that inspire positivity and self-acceptance. Perfect for your devices, these wallpapers blend beautiful designs with empowering messages, ideal for daily motivation and a touch of beauty in your life.">
+                    <meta name="keywords" content="self love aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/self-love-aesthetic-wallpaper">
+                            <span itemprop="name">self love aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Self-Love Aesthetic Wallpapers for Daily Inspiration</h1>
+                <p>Self-love aesthetic wallpapers are the perfect blend of beauty and positivity. Featuring calming colors, inspiring quotes, and serene imagery, these designs serve as daily reminders to embrace and celebrate yourself. Transform your device’s background into a source of motivation and self-acceptance, elevating your mood every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self love wallpaper<3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/c2/bb/78c2bb7a34df8312b869745e0d56f3a1.jpg' alt='Self love wallpaper<3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/c2/bb/78c2bb7a34df8312b869745e0d56f3a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Self Love Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/self-love-skeleton-floral-aesthetic-yo47x0066q5stqdu.jpg' alt='100+] Self Love Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/self-love-skeleton-floral-aesthetic-yo47x0066q5stqdu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Love Aesthetic IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/53/60/1853608ba03408b7681842adbe6897f4.jpg' alt='Self Love Aesthetic IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/53/60/1853608ba03408b7681842adbe6897f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embracing Self-love Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/embracing-self-love-tysez87yc8tyksiw.jpg' alt='Embracing Self-love Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/embracing-self-love-tysez87yc8tyksiw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-love Reminder Beige Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/self-love-reminder-beige-aesthetic-t80i1msh9doogdht.jpg' alt='Self-love Reminder Beige Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/self-love-reminder-beige-aesthetic-t80i1msh9doogdht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self love & self care wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/35/45/ef/3545ef2a8cc73447efdf05a7144f3c7c.jpg' alt='Self love & self care wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/35/45/ef/3545ef2a8cc73447efdf05a7144f3c7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic iPhone wallpaper template, self-love, | Premium Vector ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDYtaW5zdGFncmFtc3RvcnktNDAta3lvNHdlZjAuanBn.jpg' alt='Aesthetic iPhone wallpaper template, self-love, | Premium Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDYtaW5zdGFncmFtc3RvcnktNDAta3lvNHdlZjAuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing, aesthetic, blue, hate, love, love yourself, rose, self ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/505/917/HD-wallpaper-amazing-aesthetic-blue-hate-love-love-yourself-rose-self-love-wave-white-you.jpg' alt='Amazing, aesthetic, blue, hate, love, love yourself, rose, self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/505/917/HD-wallpaper-amazing-aesthetic-blue-hate-love-love-yourself-rose-self-love-wave-white-you.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Self Love Aesthetic_ Line Art.jpg Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/self-love-aesthetic-line-art-jpg-8tdo3ymvr8k5qx3b.jpg' alt='Download Self Love Aesthetic_ Line Art.jpg Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/self-love-aesthetic-line-art-jpg-8tdo3ymvr8k5qx3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-love [wallpaper] Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/embrace-yourself-a-journey-of-self-love-x0s4lmue7pssfv46.webp' alt='Self-love [wallpaper] Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/embrace-yourself-a-journey-of-self-love-x0s4lmue7pssfv46.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

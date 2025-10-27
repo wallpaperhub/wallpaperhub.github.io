@@ -1,0 +1,129 @@
+<title>Stunning Heart Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover gorgeous heart wallpapers for your iPhone that add a touch of love and elegance to your screen. Perfect for expressing your personality, these designs brighten your device with beauty and inspiration. Explore our collection and find the ideal heart wallpaper to reflect your style!">
+                    <meta name="keywords" content="iphone beautiful heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-beautiful-heart-wallpaper">
+                            <span itemprop="name">iphone beautiful heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Heart Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone screen with beautiful heart wallpapers that radiate love and positivity. From elegant designs to vibrant colors, these stunning wallpapers provide a perfect backdrop for your device. Express your personality and passion with heart-themed images that evoke emotions and inspire you every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Two Hearts For Heart Iphone Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/two-hearts-for-heart-iphone-screen-q4z2gdjxx5vec69u.jpg' alt='Download Two Hearts For Heart Iphone Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/two-hearts-for-heart-iphone-screen-q4z2gdjxx5vec69u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/0f/98/660f9878f35959f707df603a0fe539bf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/0f/98/660f9878f35959f707df603a0fe539bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Heart Wallpaper iPhone High Quality Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/d7/35/efd735f7422b5558d9921fa10c3e259a.jpg' alt='17 Heart Wallpaper iPhone High Quality Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/d7/35/efd735f7422b5558d9921fa10c3e259a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpapers iPhone 6S Plus by mrjok2016 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c1a12f6-4205-496d-835f-b44199f058c1/da70msr-710672ca-c5bc-4169-9864-462d38cca371.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjMWExMmY2LTQyMDUtNDk2ZC04MzVmLWI0NDE5OWYwNThjMVwvZGE3MG1zci03MTA2NzJjYS1jNWJjLTQxNjktOTg2NC00NjJkMzhjY2EzNzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x8b2whOeoO5bMviq24xoVjcIqHuK1K2eclStbNlPFPs' alt='Heart Wallpapers iPhone 6S Plus by mrjok2016 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c1a12f6-4205-496d-835f-b44199f058c1/da70msr-710672ca-c5bc-4169-9864-462d38cca371.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjMWExMmY2LTQyMDUtNDk2ZC04MzVmLWI0NDE5OWYwNThjMVwvZGE3MG1zci03MTA2NzJjYS1jNWJjLTQxNjktOTg2NC00NjJkMzhjY2EzNzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x8b2whOeoO5bMviq24xoVjcIqHuK1K2eclStbNlPFPs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Heart Iphone Design Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/beautiful-heart-iphone-design-eebuxr9fadyx0hk6.webp' alt='Beautiful Heart Iphone Design Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/beautiful-heart-iphone-design-eebuxr9fadyx0hk6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Background Explore more Heart, Love, Muscular, Organ, Pumps ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/4d/ca/424dca76826985d0a4c7d58e251ed840.jpg' alt='Heart Background Explore more Heart, Love, Muscular, Organ, Pumps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/4d/ca/424dca76826985d0a4c7d58e251ed840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa Carico on Background in 2022. Pretty iphone, Cute love ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/392/647/HD-wallpaper-melissa-carico-on-background-in-2022-pretty-iphone-cute-love-heart-beautiful-neon-heart.jpg' alt='Melissa Carico on Background in 2022. Pretty iphone, Cute love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/392/647/HD-wallpaper-melissa-carico-on-background-in-2022-pretty-iphone-cute-love-heart-beautiful-neon-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Blue Heart Iphone Display Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/gorgeous-blue-heart-iphone-display-ulqusgjxwwfxzx24.jpg' alt='Gorgeous Blue Heart Iphone Display Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/gorgeous-blue-heart-iphone-display-ulqusgjxwwfxzx24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MetalHearts, bonito, blue, heart, corazones, hearts, metal ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/142/229/HD-wallpaper-metalhearts-beautiful-blue-heart-hearts-hearts-metal-metallic-pink-pretty-real.jpg' alt='MetalHearts, bonito, blue, heart, corazones, hearts, metal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/142/229/HD-wallpaper-metalhearts-beautiful-blue-heart-hearts-hearts-metal-metallic-pink-pretty-real.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Heart Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/sparkling-heart-wallpaper-6.webp' alt='Sparkling Heart Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/sparkling-heart-wallpaper-6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

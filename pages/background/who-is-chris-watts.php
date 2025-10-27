@@ -1,0 +1,129 @@
+<title>Who is Chris Watts? The Infamous Family Murderer</title>
+                    <meta name="description" content="Explore the chilling story of Chris Watts, the man who murdered his wife and daughters in 2018. Uncover the details of this shocking case, his confession, and the broader implications on domestic violence awareness. Dive into a haunting narrative that captivated the nation.">
+                    <meta name="keywords" content="who is chris watts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-is-chris-watts">
+                            <span itemprop="name">who is chris watts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who is Chris Watts? The Infamous Family Murderer</h1>
+                <p>Chris Watts is a Colorado man infamous for the tragic murder of his wife, Shanann, and their two daughters in August 2018. After initially denying involvement, Watts confessed to the crimes, citing personal issues and infidelity. His case drew widespread media attention and sparked discussions on domestic violence and psychological manipulation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watts family murders - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/b/bf/Watts_family_colorado_murder.jpg' alt='Watts family murders - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="329">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/b/bf/Watts_family_colorado_murder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorado man jailed for wife and daughters' murders">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/9CD0/production/_103044104_2f2a7ed4-d137-449d-b6fa-81db188e6fa7.png.webp' alt='Colorado man jailed for wife and daughters' murders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/9CD0/production/_103044104_2f2a7ed4-d137-449d-b6fa-81db188e6fa7.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christopher Watts sentenced to life in prison for killing his ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_09/2651816/181119-christopher-wtats-mn-1350.jpg' alt='Christopher Watts sentenced to life in prison for killing his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_09/2651816/181119-christopher-wtats-mn-1350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Watts gets life in prison for killing pregnant wife, kids">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/180817123553-chris-and-shanann-watts-1.jpg?q=w_2822,h_1580,x_0,y_0,c_fill' alt='Chris Watts gets life in prison for killing pregnant wife, kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2822">
+                                <meta itemprop="height" content="1580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/180817123553-chris-and-shanann-watts-1.jpg?q=w_2822,h_1580,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Watts: Colorado man who killed pregnant wife, 2 daughters ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/4633438_110618-wtvd-chris-watts-plea-5p-vid.jpg?w=1600' alt='Chris Watts: Colorado man who killed pregnant wife, 2 daughters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC30" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/4633438_110618-wtvd-chris-watts-plea-5p-vid.jpg?w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Watts: Inside Case of Man Who Killed Pregnant Wife, 2 Daughters">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/oumupko0g3K7FRrxLpr7GObhNBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x0:752x2)/chris-watts-shannen-2000-ae889a4677eb46cf9ed1d10756922946.jpg' alt='Chris Watts: Inside Case of Man Who Killed Pregnant Wife, 2 Daughters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/oumupko0g3K7FRrxLpr7GObhNBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x0:752x2)/chris-watts-shannen-2000-ae889a4677eb46cf9ed1d10756922946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Watts movie will air on Lifetime in January, featuring Chris ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/5709059_112019-wtvd-chris-watts-lifetime-movie-vid.jpg?w=1600' alt='Chris Watts movie will air on Lifetime in January, featuring Chris ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7 New York" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/5709059_112019-wtvd-chris-watts-lifetime-movie-vid.jpg?w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happened To Chris Watts In Prison">
+                                <img itemprop="contentUrl url" src='https://tse4.mm.bing.net/th?id=OIP.90vNO5UfTjmA909Bav96WAHaE-&pid=15.1' alt='What Happened To Chris Watts In Prison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Web Dqinstitute" />
+                                </span>
+                                <a href='https://tse4.mm.bing.net/th?id=OIP.90vNO5UfTjmA909Bav96WAHaE-&pid=15.1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Watts: Inside the Family Murderer's Double Life">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/LLg8eHfF7VKh4RrNwDgAsVjIag0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/chris-watts-1-2000-9b317468db1a4a6d8a4c837765ffc0c3.jpg' alt='Chris Watts: Inside the Family Murderer's Double Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/LLg8eHfF7VKh4RrNwDgAsVjIag0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/chris-watts-1-2000-9b317468db1a4a6d8a4c837765ffc0c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cops: Bodies of pregnant mom and daughters found">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/180816143432-01-shannan-watts-and-children.jpg?q=w_1600,h_1600,x_0,y_0,c_fill' alt='Cops: Bodies of pregnant mom and daughters found'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/180816143432-01-shannan-watts-and-children.jpg?q=w_1600,h_1600,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

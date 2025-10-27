@@ -1,0 +1,129 @@
+<title>Enchanting Forest Paintings: Nature's Beauty on Canvas</title>
+                    <meta name="description" content="Discover the mesmerizing beauty of forest painting. Explore vibrant landscapes and serene wildlife depictions that inspire a connection to nature. Perfect for art lovers looking to enhance their space with tranquility and color.">
+                    <meta name="keywords" content="forest painting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/forest-painting">
+                            <span itemprop="name">forest painting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Forest Paintings: Nature's Beauty on Canvas</h1>
+                <p>Forest painting captures the essence of nature's beauty, showcasing vibrant greens, earthy browns, and the interplay of light through leaves. Artists often depict serene landscapes, rich wildlife, and seasonal changes, inviting viewers into a tranquil escape. These works evoke a sense of peace, inspiring a connection to the natural world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Summer Forest Oil Painting Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/243272-825-auto?width=825&height=auto&aspect=true' alt='Colorful Summer Forest Oil Painting Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/243272-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Painting - Acrylic Painting Tutorial For Beginners">
+                                <img itemprop="contentUrl url" src='https://stepbysteppainting.net/wp-content/uploads/2022/07/IMG_3442.jpg' alt='Forest Painting - Acrylic Painting Tutorial For Beginners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Step By Step Painting" />
+                                </span>
+                                <a href='https://stepbysteppainting.net/wp-content/uploads/2022/07/IMG_3442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint a Forest / Easy Acrylic Painting Technique #488">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sZrazXWiwLQ/maxresdefault.jpg' alt='How to Paint a Forest / Easy Acrylic Painting Technique #488'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sZrazXWiwLQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evergreen Forest">
+                                <img itemprop="contentUrl url" src='http://www.paintingtogogh.com/cdn/shop/products/EvergreenForest_product.jpg?v=1635277227' alt='Evergreen Forest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painting to Gogh" />
+                                </span>
+                                <a href='http://www.paintingtogogh.com/cdn/shop/products/EvergreenForest_product.jpg?v=1635277227' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Paint A Forest In The Summertime - Happy Family Art">
+                                <img itemprop="contentUrl url" src='https://www.happyfamilyart.com/wp-content/uploads/2014/10/step18.jpg' alt='How To Paint A Forest In The Summertime - Happy Family Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happy Family Art" />
+                                </span>
+                                <a href='https://www.happyfamilyart.com/wp-content/uploads/2014/10/step18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest pathway painting/ easy acrylic painting for beginners/#57 ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/v8Gh_VNPFzM/hqdefault.jpg' alt='Forest pathway painting/ easy acrylic painting for beginners/#57 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/v8Gh_VNPFzM/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Wall Decor Green Tree Wall Art Rainforest Canvas Natural Landscape  Pictures Plants Wall Decor Canvas Prints Painting Framed Artwork for Living  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xCYDf31aL._AC_UF894,1000_QL80_.jpg' alt='Forest Wall Decor Green Tree Wall Art Rainforest Canvas Natural Landscape  Pictures Plants Wall Decor Canvas Prints Painting Framed Artwork for Living  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xCYDf31aL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Create an Enchanting Green Forest Path: A Step-by-Step Guide to ...">
+                                <img itemprop="contentUrl url" src='https://urartstudio.com/wp-content/uploads/2022/03/green-forest-path-step-by-step-painting-technique-10.jpg' alt='   Create an Enchanting Green Forest Path: A Step-by-Step Guide to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1726">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UrArtStudio" />
+                                </span>
+                                <a href='https://urartstudio.com/wp-content/uploads/2022/03/green-forest-path-step-by-step-painting-technique-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland ORIGINAL Painting Oil, Green Forest Light Artwork ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30972341/r/il/894302/4562852332/il_fullxfull.4562852332_2kni.jpg' alt='Woodland ORIGINAL Painting Oil, Green Forest Light Artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30972341/r/il/894302/4562852332/il_fullxfull.4562852332_2kni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creek in forest. Landscape. Oil painting. Original painting ...">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/981650/art/6176677/5246461-HSC00001-32.jpg' alt='Creek in forest. Landscape. Oil painting. Original painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/981650/art/6176677/5246461-HSC00001-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

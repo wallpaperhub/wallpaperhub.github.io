@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Indianapolis</title>
+                    <meta name="description" content="Explore the fascinating history of Indianapolis, from its establishment in 1821 to its rise as a major industrial hub and cultural center. Learn about key events and landmarks like the Indianapolis Motor Speedway that shaped this vibrant city. Perfect for history buffs and curious travelers alike!">
+                    <meta name="keywords" content="history of indianapolis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-indianapolis">
+                            <span itemprop="name">history of indianapolis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Indianapolis</h1>
+                <p>Indianapolis, founded in 1821, became the state capital of Indiana. Its strategic location at the crossroads of major railroads fueled rapid growth. The city thrived in the 20th century with industries like automotive and pharmaceuticals. Notable events include the construction of the iconic Indianapolis Motor Speedway in 1909.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indianapolis history: Photos dating back to 1900s show Indy's past">
+                                <img itemprop="contentUrl url" src='https://www.indystar.com/gcdn/-mm-/bdcf1bbae63a3c4f200badcdafe4d6722a992a4f/c=0-177-1945-1276/local/-/media/2018/06/06/INGroup/Indianapolis/636638705961090828-globo-5kexskp5sc08j0zl9ej-original.jpg' alt='Indianapolis history: Photos dating back to 1900s show Indy's past'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1945">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndyStar" />
+                                </span>
+                                <a href='https://www.indystar.com/gcdn/-mm-/bdcf1bbae63a3c4f200badcdafe4d6722a992a4f/c=0-177-1945-1276/local/-/media/2018/06/06/INGroup/Indianapolis/636638705961090828-globo-5kexskp5sc08j0zl9ej-original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Histories of Indianapolis - Encyclopedia of Indianapolis">
+                                <img itemprop="contentUrl url" src='https://indyencyclopedia.org/wp-content/uploads/2023/11/histories-of-indianapolis-0-cropped.jpg' alt='Histories of Indianapolis - Encyclopedia of Indianapolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia of Indianapolis" />
+                                </span>
+                                <a href='https://indyencyclopedia.org/wp-content/uploads/2023/11/histories-of-indianapolis-0-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indianapolis | City Guide & Attractions | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/134042-050-40EF48EA/Indianapolis-Washington-Street-oil-canvas-Dusk-Theodor.jpg' alt='Indianapolis | City Guide & Attractions | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/134042-050-40EF48EA/Indianapolis-Washington-Street-oil-canvas-Dusk-Theodor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Indianapolis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Downtown_Indianapolis_aerial%2C_2016.png' alt='History of Indianapolis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5312">
+                                <meta itemprop="height" content="2988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/cc/Downtown_Indianapolis_aerial%2C_2016.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Indianapolis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Illinois_and_Washington_Sts.%2C_Indianapolis_cph.3a00173.jpg/220px-Illinois_and_Washington_Sts.%2C_Indianapolis_cph.3a00173.jpg' alt='History of Indianapolis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Illinois_and_Washington_Sts.%2C_Indianapolis_cph.3a00173.jpg/220px-Illinois_and_Washington_Sts.%2C_Indianapolis_cph.3a00173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Things You Should Know About Indiana History">
+                                <img itemprop="contentUrl url" src='https://indianahistory.org/wp-content/uploads/legacyblog/13-things-you-should-know-about-indiana-history_4bdee9f0c1c4e7a438109d5766bf3ab9.jpg' alt='13 Things You Should Know About Indiana History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana Historical Society" />
+                                </span>
+                                <a href='https://indianahistory.org/wp-content/uploads/legacyblog/13-things-you-should-know-about-indiana-history_4bdee9f0c1c4e7a438109d5766bf3ab9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Indianapolis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Plat_of_the_Town_of_Indianapolis.jpg/220px-Plat_of_the_Town_of_Indianapolis.jpg' alt='History of Indianapolis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Plat_of_the_Town_of_Indianapolis.jpg/220px-Plat_of_the_Town_of_Indianapolis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indianapolis in the 1910s">
+                                <img itemprop="contentUrl url" src='https://www.indystar.com/gcdn/presto/2018/12/07/PIND/fb0d0cc3-8506-4c08-8f69-a930c8772eba-1910s_0.JPG?width=700&height=495&fit=crop&format=pjpg&auto=webp' alt='Indianapolis in the 1910s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndyStar" />
+                                </span>
+                                <a href='https://www.indystar.com/gcdn/presto/2018/12/07/PIND/fb0d0cc3-8506-4c08-8f69-a930c8772eba-1910s_0.JPG?width=700&height=495&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic Indianapolis | All Things Indianapolis">
+                                <img itemprop="contentUrl url" src='https://historicindianapolis.com/wp-content/uploads/2017/02/historic-indianapolis-website.jpg' alt='Historic Indianapolis | All Things Indianapolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="historicindianapolis.com" />
+                                </span>
+                                <a href='https://historicindianapolis.com/wp-content/uploads/2017/02/historic-indianapolis-website.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indianapolis Then and Now: SE Corner of Ohio Street and Capitol ...">
+                                <img itemprop="contentUrl url" src='http://historicindianapolis.com/wp-content/uploads/2013/10/Ohio-W-at-Capitol-IHSBass211650ca1895.jpg' alt='Indianapolis Then and Now: SE Corner of Ohio Street and Capitol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Historic Indianapolis" />
+                                </span>
+                                <a href='http://historicindianapolis.com/wp-content/uploads/2013/10/Ohio-W-at-Capitol-IHSBass211650ca1895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

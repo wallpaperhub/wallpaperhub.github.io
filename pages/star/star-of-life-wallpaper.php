@@ -1,0 +1,129 @@
+<title>Star of Life Wallpaper: Enhance Your Space</title>
+                    <meta name="description" content="Discover unique Star of Life wallpaper designs that honor emergency services. Perfect for healthcare settings or personal spaces, these wallpapers add meaning and style to your decor. Elevate your environment today with inspiring and visually appealing options!">
+                    <meta name="keywords" content="star of life wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-of-life-wallpaper">
+                            <span itemprop="name">star of life wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star of Life Wallpaper: Enhance Your Space</h1>
+                <p>Transform your space with stunning Star of Life wallpaper, symbolizing emergency services and healthcare. These striking designs not only enhance your decor but also pay homage to those who protect and save lives. Ideal for hospitals, clinics, or home offices, these wallpapers merge style and meaning beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paramedic Wallpapers - Top Free Paramedic Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/93/46/659346e5b21b7e38b07089b8ea0cd781.jpg' alt='Paramedic Wallpapers - Top Free Paramedic Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/93/46/659346e5b21b7e38b07089b8ea0cd781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Of Life Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9902621/p/f/m/fKhK8JfvD_YTSRrp4BLdTDadyhhKBETaZX0Lv8jOa2kUcQYw9HWMyAim/Star%20of%20Life%20-%20EMS%20EMT%20emergency%20medical%20-%20LAD20.jpg' alt='Star Of Life Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9902621/p/f/m/fKhK8JfvD_YTSRrp4BLdTDadyhhKBETaZX0Lv8jOa2kUcQYw9HWMyAim/Star%20of%20Life%20-%20EMS%20EMT%20emergency%20medical%20-%20LAD20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free STAR of Life with Paramedic Prayer phone wallpaper by miguel777">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/c8/58/ecc858713e856da3d42be88c97e7a040.jpg' alt='Free STAR of Life with Paramedic Prayer phone wallpaper by miguel777'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/c8/58/ecc858713e856da3d42be88c97e7a040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Of Life" Images – Browse 1,051 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/61/76/77/360_F_1061767785_suQNCbSfovzs5yRPkg9XH4clHcTLZpkS.jpg' alt='Star Of Life" Images – Browse 1,051 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/61/76/77/360_F_1061767785_suQNCbSfovzs5yRPkg9XH4clHcTLZpkS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD star of life wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/372/728/HD-wallpaper-ems-eagle-star-of-life.jpg' alt='HD star of life wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/372/728/HD-wallpaper-ems-eagle-star-of-life.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Of Life" Images – Browse 1,051 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/48/52/20/360_F_48522082_w6vZK4W6c5dcieAGipVTGvYt9TpokpHW.jpg' alt='Star Of Life" Images – Browse 1,051 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/48/52/20/360_F_48522082_w6vZK4W6c5dcieAGipVTGvYt9TpokpHW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ems Snake Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/national-first-responders-flagi-support-260nw-2437298347.jpg' alt='Best Ems Snake Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/national-first-responders-flagi-support-260nw-2437298347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star of Life EMT, search.myway.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/01/54/ef/0154efd181e7ad5c88ac849f50e19e3d.jpg' alt='Star of Life EMT, search.myway.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/01/54/ef/0154efd181e7ad5c88ac849f50e19e3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ems Star Of Life Images – Browse 1,684 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/09/74/06/360_F_509740656_PdaaHF2NgivABuL9lQtkGFXML6zO9hkS.jpg' alt='Ems Star Of Life Images – Browse 1,684 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="363">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/09/74/06/360_F_509740656_PdaaHF2NgivABuL9lQtkGFXML6zO9hkS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EMS201701, ems, emt, star of life, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/391/186/HD-wallpaper-ems201701-ems-emt-star-of-life.jpg' alt='EMS201701, ems, emt, star of life, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/391/186/HD-wallpaper-ems201701-ems-emt-star-of-life.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

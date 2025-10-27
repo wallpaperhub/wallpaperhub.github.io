@@ -1,0 +1,129 @@
+<title>George Soros: Investor, Philanthropist, and Activist</title>
+                    <meta name="description" content="Explore the life of George Soros, a renowned investor and philanthropist. Discover his influence in finance and commitment to social change through the Open Society Foundations. Learn about his impactful career and advocacy for democracy worldwide.">
+                    <meta name="keywords" content="george soros">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/george-soros">
+                            <span itemprop="name">george soros</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>George Soros: Investor, Philanthropist, and Activist</h1>
+                <p>George Soros is a billionaire investor and philanthropist known for his significant impact on global finance and political activism. Born in Hungary, he escaped the Nazi occupation and later emigrated to the United States. Soros is famous for "breaking the Bank of England" in 1992 and actively supports democratic ideals through the Open Society Foundations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d4/George_Soros_-_Festival_Economia_2018_1.jpg' alt='George Soros - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="961">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d4/George_Soros_-_Festival_Economia_2018_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5f4e72bdd82a882a3012a595/0x0.jpg?format=jpg&crop=2149,2149,x886,y515,safe&height=416&width=416&fit=bounds' alt='George Soros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5f4e72bdd82a882a3012a595/0x0.jpg?format=jpg&crop=2149,2149,x886,y515,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billionaire Philanthropist George Soros 'In Defense Of Open ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2019/10/25/gettyimages-693700256_custom-cfa39b0b4839e64e4717502f2b0188a627c332c2.jpg' alt='Billionaire Philanthropist George Soros 'In Defense Of Open ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5008">
+                                <meta itemprop="height" content="3413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2019/10/25/gettyimages-693700256_custom-cfa39b0b4839e64e4717502f2b0188a627c332c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190530071031-01-george-soros-file.jpg?q=w_3000,h_1688,x_0,y_0,c_fill' alt='George Soros Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190530071031-01-george-soros-file.jpg?q=w_3000,h_1688,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros - Agenda Contributor | World Economic Forum">
+                                <img itemprop="contentUrl url" src='https://assets.weforum.org/author/image/QabeJcbYuCDURNYijY6MmW69AKE8U4f7ltmbNW2naIw.jpg' alt='George Soros - Agenda Contributor | World Economic Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2904">
+                                <meta itemprop="height" content="3658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The World Economic Forum" />
+                                </span>
+                                <a href='https://assets.weforum.org/author/image/QabeJcbYuCDURNYijY6MmW69AKE8U4f7ltmbNW2naIw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros to pass control of his empire to son Alexander ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2023/06/AP23162852256654-1686541599.jpg?resize=1800%2C1800' alt='George Soros to pass control of his empire to son Alexander ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2023/06/AP23162852256654-1686541599.jpg?resize=1800%2C1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why George Soros Is Shifting Away From Europe and Hardening His ...">
+                                <img itemprop="contentUrl url" src='https://foreignpolicy.com/wp-content/uploads/2023/09/GettyImages-1240879563-e1694187410161.jpeg?w=800?quality=90' alt='Why George Soros Is Shifting Away From Europe and Hardening His ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foreign Policy" />
+                                </span>
+                                <a href='https://foreignpolicy.com/wp-content/uploads/2023/09/GettyImages-1240879563-e1694187410161.jpeg?w=800?quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros, founder of Open Society Foundations, invests in the ...">
+                                <img itemprop="contentUrl url" src='https://wikimediafoundation.org/wp-content/uploads/2018/10/1024px-George_Soros_-_Festival_Economia_2012_02.jpg' alt='George Soros, founder of Open Society Foundations, invests in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Foundation" />
+                                </span>
+                                <a href='https://wikimediafoundation.org/wp-content/uploads/2018/10/1024px-George_Soros_-_Festival_Economia_2012_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros - Open Society Foundations">
+                                <img itemprop="contentUrl url" src='https://opensocietyfoundations.imgix.net/uploads/74c28c43-c2e9-48ce-87b0-7a69c1a98f84/2013-0510-steinz-romania-frumusani-roma-118-3000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&h=430&q=80&rect=0%2C250%2C3000%2C1688&w=760' alt='George Soros - Open Society Foundations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Open Society Foundations" />
+                                </span>
+                                <a href='https://opensocietyfoundations.imgix.net/uploads/74c28c43-c2e9-48ce-87b0-7a69c1a98f84/2013-0510-steinz-romania-frumusani-roma-118-3000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&h=430&q=80&rect=0%2C250%2C3000%2C1688&w=760' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Soros | Biography & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/58/188758-050-8C74688F/George-Soros-2008.jpg?w=385' alt='George Soros | Biography & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/58/188758-050-8C74688F/George-Soros-2008.jpg?w=385' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

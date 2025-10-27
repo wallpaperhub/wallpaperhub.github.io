@@ -1,0 +1,129 @@
+<title>Stunning Gojo Satoru Wallpaper GIFs for Your Devices</title>
+                    <meta name="description" content="Explore a collection of eye-catching Gojo Satoru wallpaper GIFs! Perfect for fans of Jujutsu Kaisen, these animated backgrounds will elevate your device's look. Download your favorites to showcase your love for Gojo in a fun and stylish way!">
+                    <meta name="keywords" content="gojo satoru wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo">
+                            <span itemprop="name">Gojo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo/gojo-satoru-wallpaper-gif">
+                            <span itemprop="name">gojo satoru wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gojo Satoru Wallpaper GIFs for Your Devices</h1>
+                <p>Discover dynamic Gojo Satoru wallpaper GIFs that bring your favorite Jujutsu Kaisen character to life! These stunning animated backgrounds capture Gojo's essence, perfect for personalizing your devices. Whether you're a die-hard fan or just love stylish wallpapers, find the ideal GIF to showcase your passion for this iconic sorcerer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Jujutsu Kaisen GIF - Gojo Jujutsu Kaisen - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2a/cd/b9/2acdb9192f82fc1726058bb37e7a88aa.gif' alt='Gojo Jujutsu Kaisen GIF - Gojo Jujutsu Kaisen - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2a/cd/b9/2acdb9192f82fc1726058bb37e7a88aa.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Domain Expansion GIF - Satoru gojo Domain expansion ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/14/fc/7d/14fc7d1120735dd8e2064a38913ea339.gif' alt='Satoru Gojo Domain Expansion GIF - Satoru gojo Domain expansion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/14/fc/7d/14fc7d1120735dd8e2064a38913ea339.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/cruO3FTeoAxjiTVxPW/giphy.gif?cid=6c09b9529a6y2d8rt3qn0xjpi6f87djylscm0r7dexcsxc5s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Gojo Satoru GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/cruO3FTeoAxjiTVxPW/giphy.gif?cid=6c09b9529a6y2d8rt3qn0xjpi6f87djylscm0r7dexcsxc5s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/10/icegif-509.gif' alt='Satoru Gojo Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/10/icegif-509.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-29-2023/76DG7i.gif' alt='Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-29-2023/76DG7i.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Gifs">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/220/220764.gif' alt='Satoru Gojo Gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/220/220764.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Gojo Satoru (Jujutsu Kaisen) by dopexix on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a316fbd1-2049-4726-9384-69cfa8496041/dgj8l8d-d7eb31a6-d024-4efc-b43e-e62782abd04c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzMTZmYmQxLTIwNDktNDcyNi05Mzg0LTY5Y2ZhODQ5NjA0MVwvZGdqOGw4ZC1kN2ViMzFhNi1kMDI0LTRlZmMtYjQzZS1lNjI3ODJhYmQwNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BqAeze7keJs7Qz9tWA1d7ydrT3_OfBcPM7DblCzOWyc' alt='Live Wallpaper Gojo Satoru (Jujutsu Kaisen) by dopexix on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a316fbd1-2049-4726-9384-69cfa8496041/dgj8l8d-d7eb31a6-d024-4efc-b43e-e62782abd04c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzMTZmYmQxLTIwNDktNDcyNi05Mzg0LTY5Y2ZhODQ5NjA0MVwvZGdqOGw4ZC1kN2ViMzFhNi1kMDI0LTRlZmMtYjQzZS1lNjI3ODJhYmQwNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BqAeze7keJs7Qz9tWA1d7ydrT3_OfBcPM7DblCzOWyc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="https://media.tenor.com/6cB00Fl1QXYAAAAC/gojo-satoru-gojo.gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif' alt='https://media.tenor.com/6cB00Fl1QXYAAAAC/gojo-satoru-gojo.gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Jujutsu Kaisen : Satoru Gojo 4k {Artwork by Pear}">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1771572324904068867/28AAF4FFB8153E4A70A850338FD0F289DD27E40D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Jujutsu Kaisen : Satoru Gojo 4k {Artwork by Pear}'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1771572324904068867/28AAF4FFB8153E4A70A850338FD0F289DD27E40D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/02/icegif-334.gif' alt='Satoru Gojo Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/02/icegif-334.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

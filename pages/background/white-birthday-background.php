@@ -1,0 +1,129 @@
+<title>White Birthday Background: Elegance for Every Celebration</title>
+                    <meta name="description" content="Discover the charm of a white birthday background! Perfect for all ages, it enhances your celebration with a touch of elegance and versatility, making vibrant colors stand out. Ideal for decorations, photo backdrops, and invitations. Elevate your party style with this timeless choice!">
+                    <meta name="keywords" content="white birthday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-birthday-background">
+                            <span itemprop="name">white birthday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Birthday Background: Elegance for Every Celebration</h1>
+                <p>A white birthday background sets an elegant and joyful tone for any celebration. It provides a clean canvas for decorations, making vibrant colors pop. Perfect for photo backdrops, invitations, and party themes, a white background symbolizes purity and new beginnings, making it an ideal choice for commemorating another year of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple outline birthday white background 27680082 Stock Photo at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/680/082/large_2x/simple-outline-birthday-white-background-photo.jpg' alt='Simple outline birthday white background 27680082 Stock Photo at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/680/082/large_2x/simple-outline-birthday-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,400+ White Birthday Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1193607702/vector/festive-background-with-helium-balloons-celebrate-a-birthday-poster-banner-happy-anniversary.jpg?s=612x612&w=0&k=20&c=Tts8Ltl-BLNFmpWXQpepwKoC1_oS1Ck9VhOnO-Xm3uw=' alt='21,400+ White Birthday Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1193607702/vector/festive-background-with-helium-balloons-celebrate-a-birthday-poster-banner-happy-anniversary.jpg?s=612x612&w=0&k=20&c=Tts8Ltl-BLNFmpWXQpepwKoC1_oS1Ck9VhOnO-Xm3uw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday White Gold Blank Wall Background, JPG Digital Background, Digital  Backdrop, Background Mockup, Party Backdrop with Balloons">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9790739/r/il/e2a89a/5154265068/il_570xN.5154265068_473y.jpg' alt='Birthday White Gold Blank Wall Background, JPG Digital Background, Digital  Backdrop, Background Mockup, Party Backdrop with Balloons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9790739/r/il/e2a89a/5154265068/il_570xN.5154265068_473y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of White festive background template ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/df/9f/ebdf9fa6825eae28e38f57f5566960f6.jpg' alt='Download premium vector of White festive background template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/df/9f/ebdf9fa6825eae28e38f57f5566960f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday White Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/040/826/069/non_2x/ai-generated-flat-lay-birthday-card-mockup-white-sheet-on-a-pink-background-with-gold-sparkles-and-balloons-space-for-text-photo.jpg' alt='Birthday White Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/040/826/069/non_2x/ai-generated-flat-lay-birthday-card-mockup-white-sheet-on-a-pink-background-with-gold-sparkles-and-balloons-space-for-text-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Birthday Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/online-birthday-greeting-template-psd-with-white-gold-balloon-illustration_53876-140051.jpg' alt='White Birthday Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/online-birthday-greeting-template-psd-with-white-gold-balloon-illustration_53876-140051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free White and Gold Happy Birthday Card Background Image">
+                                <img itemprop="contentUrl url" src='https://files.123freevectors.com/wp-content/original/511149-white-and-gold-happy-birthday-card-background-image.jpg' alt='Free White and Gold Happy Birthday Card Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123FreeVectors" />
+                                </span>
+                                <a href='https://files.123freevectors.com/wp-content/original/511149-white-and-gold-happy-birthday-card-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant retro white ballon and godlen ribbon Happy Birthday ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GGPJGG/elegant-retro-white-ballon-and-godlen-ribbon-happy-birthday-celebration-card-banner-template-background-2GGPJGG.jpg' alt='Elegant retro white ballon and godlen ribbon Happy Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GGPJGG/elegant-retro-white-ballon-and-godlen-ribbon-happy-birthday-celebration-card-banner-template-background-2GGPJGG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Birthday Background White Vectors & Illustrations for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-balloons-frame-white-gray-background-design-vector_53876-170927.jpg' alt='Page 2 | Birthday Background White Vectors & Illustrations for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-balloons-frame-white-gray-background-design-vector_53876-170927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,400+ White Birthday Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360465071/vector/birthday-celebration-frame-illustration.jpg?s=612x612&w=0&k=20&c=1zaIory-IuKPMG3jInTALbTHTyH7YaDe4nRfHqGljgQ=' alt='21,400+ White Birthday Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360465071/vector/birthday-celebration-frame-illustration.jpg?s=612x612&w=0&k=20&c=1zaIory-IuKPMG3jInTALbTHTyH7YaDe4nRfHqGljgQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Galaxy Peel and Stick Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of galaxy peel and stick wallpaper. Effortlessly elevate your home decor with cosmic designs that are easy to apply and remove. Perfect for any room, it offers a stylish and innovative way to personalize your space without the mess of traditional wallpaper. Ideal for renters and DIY enthusiasts!">
+                    <meta name="keywords" content="galaxy peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/galaxy-peel-and-stick-wallpaper">
+                            <span itemprop="name">galaxy peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galaxy Peel and Stick Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with stunning galaxy peel and stick wallpaper! Ideal for renters or homeowners, this easy-to-apply wallpaper features mesmerizing cosmic designs that bring a touch of the universe right into your home. It's removable, repositionable, and perfect for any room—turn your ordinary walls into extraordinary celestial views!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula Wallpaper Galaxy Planet Earth Space Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/f9ec3f/3091820547/il_570xN.3091820547_903m.jpg' alt='Nebula Wallpaper Galaxy Planet Earth Space Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/f9ec3f/3091820547/il_570xN.3091820547_903m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/StarrySky1.jpg?v=1739232063&width=600' alt='Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/StarrySky1.jpg?v=1739232063&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milk Way Wallpaper Space Wall Mural Galaxy Wallpaper Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/05e3c8/4217246898/il_570xN.4217246898_p9r4.jpg' alt='Milk Way Wallpaper Space Wall Mural Galaxy Wallpaper Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/05e3c8/4217246898/il_570xN.4217246898_p9r4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Cosmic Galaxy Wall Mural, Blue and Purple Peel and Stick  Self-Adhesive Wallpaper, Removable Large Art Wall Decor Painting for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IhqrjYZFL.jpg' alt='Amazon.com: Cosmic Galaxy Wall Mural, Blue and Purple Peel and Stick  Self-Adhesive Wallpaper, Removable Large Art Wall Decor Painting for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IhqrjYZFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' alt='Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Galaxy Kids Wallpaper - B538">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/B538_02.png?v=1719088511&width=1445' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Galaxy Kids Wallpaper - B538'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/B538_02.png?v=1719088511&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KOMNNI Custom 3D Mural, Purple Nebula in The Sky Peel and Stick  Wallpaper, Galaxy Space Self-Adhesive Wall Mural, Suitable for Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wL1CAHjOL.jpg' alt='Amazon.com: KOMNNI Custom 3D Mural, Purple Nebula in The Sky Peel and Stick  Wallpaper, Galaxy Space Self-Adhesive Wall Mural, Suitable for Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wL1CAHjOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nessa Peel & Stick Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/72349428/compr-r85/7678/76782716/nessa-peel-stick-roll.jpg' alt='Nessa Peel & Stick Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/72349428/compr-r85/7678/76782716/nessa-peel-stick-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Space Wall Mural - Galaxy - Removable Wall Decals ...">
+                                <img itemprop="contentUrl url" src='http://tiptophomedecor.com/cdn/shop/files/tiptophomedecor-peel-and-stick-space-wallpaper-wall-mural-galaxy-removable-wall-decals-2_f346a733-c270-473d-96e1-05d39419b4a8_1200x1200.jpg?v=1686496785' alt='Peel & Stick Space Wall Mural - Galaxy - Removable Wall Decals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiptophomedecor" />
+                                </span>
+                                <a href='http://tiptophomedecor.com/cdn/shop/files/tiptophomedecor-peel-and-stick-space-wallpaper-wall-mural-galaxy-removable-wall-decals-2_f346a733-c270-473d-96e1-05d39419b4a8_1200x1200.jpg?v=1686496785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/StarrySky2.jpg?v=1739232064&width=160' alt='Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="160">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/StarrySky2.jpg?v=1739232064&width=160' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

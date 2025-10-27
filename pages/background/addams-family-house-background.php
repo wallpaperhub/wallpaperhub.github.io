@@ -1,0 +1,129 @@
+<title>Exploring the Addams Family House: A Spooky Icon</title>
+                    <meta name="description" content="Discover the enchanting and eerie background of the Addams Family house. Dive into its gothic architecture, spooky charm, and the quirky lifestyle of its inhabitants. Perfect for fans and curious minds alike!">
+                    <meta name="keywords" content="addams family house background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/addams-family-house-background">
+                            <span itemprop="name">addams family house background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Addams Family House: A Spooky Icon</h1>
+                <p>The Addams Family house is an iconic symbol of spooky charm and gothic architecture. Nestled in an eerie, atmospheric setting, it features dark colors and peculiar designs, reflecting the quirky personality of its residents. With a haunted history and a whimsical aesthetic, the house perfectly encapsulates the bizarre yet endearing essence of the Addams Family.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Model Addams Family Mansion with Lighting Effects – Tinker Cara">
+                                <img itemprop="contentUrl url" src='https://tinkercara.wordpress.com/wp-content/uploads/2021/09/addams-thumb-5.jpg' alt='Model Addams Family Mansion with Lighting Effects – Tinker Cara'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tinker Cara - WordPress.com" />
+                                </span>
+                                <a href='https://tinkercara.wordpress.com/wp-content/uploads/2021/09/addams-thumb-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family. Movie Sets And Backgrounds.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/d5/3f/17d53f2b696d10cfc7b99e88768a4809.jpg' alt='The Addams Family. Movie Sets And Backgrounds.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/d5/3f/17d53f2b696d10cfc7b99e88768a4809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family Aesthetic Has Been Done and Redone. How Do You ...">
+                                <img itemprop="contentUrl url" src='https://images2.dwell.com/photos/6063391372700811264/7003088086312095744/original.jpg?ar=16:9&fit=crop' alt='The Addams Family Aesthetic Has Been Done and Redone. How Do You ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dwell Magazine" />
+                                </span>
+                                <a href='https://images2.dwell.com/photos/6063391372700811264/7003088086312095744/original.jpg?ar=16:9&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family' Mansion Is Inviting You to Stay Over This Halloween">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/-Fn5ncMu2sUM988HoEIURbPwTWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/living-room-ADDAMS1019-7d81c9ca47634c7e9cf729eb30907765.jpg' alt='The Addams Family' Mansion Is Inviting You to Stay Over This Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/-Fn5ncMu2sUM988HoEIURbPwTWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/living-room-ADDAMS1019-7d81c9ca47634c7e9cf729eb30907765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View Backdrop - Kenmark Theatrical Backdrops">
+                                <img itemprop="contentUrl url" src='https://www.kenmarkbackdrops.com/data/sites/1/media/backdrops/1064%20AddamsFamilyHouse%20Light%2020x50.jpg' alt='View Backdrop - Kenmark Theatrical Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kenmark Backdrops" />
+                                </span>
+                                <a href='https://www.kenmarkbackdrops.com/data/sites/1/media/backdrops/1064%20AddamsFamilyHouse%20Light%2020x50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c5/50/4b/c5504b394cb542c79c3a6a38bcb26a65.jpg' alt='Photo Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c5/50/4b/c5504b394cb542c79c3a6a38bcb26a65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Addams Family Mansion | Heroism Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/heroism/images/3/35/The_Addams_Family_Mansion.jpg/revision/latest?cb=20190924000020' alt='Addams Family Mansion | Heroism Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroism Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/heroism/images/3/35/The_Addams_Family_Mansion.jpg/revision/latest?cb=20190924000020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abandoned Addams Family House | Check The Photos | Urbex Travel">
+                                <img itemprop="contentUrl url" src='https://www.urbex-travel.com/wp-content/uploads/2022/12/DSC_0033-kopia.jpg' alt='Abandoned Addams Family House | Check The Photos | Urbex Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbex Travel" />
+                                </span>
+                                <a href='https://www.urbex-travel.com/wp-content/uploads/2022/12/DSC_0033-kopia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Addams Family 2 House - 1313 Cemetery Lane, New Jersey | Realtor.com®">
+                                <img itemprop="contentUrl url" src='https://b2cdata.marketing.moveaws.com/mk/images/addamsfamily/slider01.jpg' alt='Addams Family 2 House - 1313 Cemetery Lane, New Jersey | Realtor.com®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Realtor.com" />
+                                </span>
+                                <a href='https://b2cdata.marketing.moveaws.com/mk/images/addamsfamily/slider01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Addams Family Production Backgrounds Group of 4 (Hanna-Barbera ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F0%2F9%2F1%2F2%2F20912144%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='The Addams Family Production Backgrounds Group of 4 (Hanna-Barbera ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F0%2F9%2F1%2F2%2F20912144%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

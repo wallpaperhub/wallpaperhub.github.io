@@ -1,0 +1,129 @@
+<title>Enhance Your Angular App with Stunning Background Images</title>
+                    <meta name="description" content="Discover how to easily implement beautiful background images in your Angular applications. Follow our guide for tips on using CSS and property binding for a dynamic, visually appealing user experience that captivates your audience.">
+                    <meta name="keywords" content="angular background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/angular-background-image">
+                            <span itemprop="name">angular background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Angular App with Stunning Background Images</h1>
+                <p>Angular allows for a seamless integration of background images in your web applications. By leveraging CSS and Angular's component architecture, you can easily set background images for various elements. Use Angular's property binding to dynamically change images based on user interactions or application states, enhancing your app's visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Angular Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/angular-paint-splash-logo-85vhooptaw06gumk.jpg' alt='100+] Angular Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/angular-paint-splash-logo-85vhooptaw06gumk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract angular background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/70/58/abstract-angular-background-vector-6257058.jpg' alt='Abstract angular background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/70/58/abstract-angular-background-vector-6257058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angular Basics: Style Binding in Angular with ngStyle">
+                                <img itemprop="contentUrl url" src='https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart2-dark_1200x303.png?sfvrsn=b936a75a_0' alt='Angular Basics: Style Binding in Angular with ngStyle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Telerik.com" />
+                                </span>
+                                <a href='https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart2-dark_1200x303.png?sfvrsn=b936a75a_0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a simple Angular wallpaper. Feel free to use it as you like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3splx63nx8c01.png?width=640&crop=smart&auto=webp&s=4c99d11ef85ca231a0008c2d70a33cc36aaf2ac2' alt='I made a simple Angular wallpaper. Feel free to use it as you like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3splx63nx8c01.png?width=640&crop=smart&auto=webp&s=4c99d11ef85ca231a0008c2d70a33cc36aaf2ac2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angular Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-gradient-background-modern-design_361591-4692.jpg' alt='Angular Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-gradient-background-modern-design_361591-4692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the body background color of different components in ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:750/1*YPSX0nSww0SsNGCQyBNOpA.jpeg' alt='How to change the body background color of different components in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:750/1*YPSX0nSww0SsNGCQyBNOpA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set background image in Angular 16?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kv_kiQbvYDo/maxresdefault.jpg' alt='How to set background image in Angular 16?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kv_kiQbvYDo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Angular Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1275326600/vector/angular-vector-pattern-design-abstract-background.jpg?s=612x612&w=0&k=20&c=9tFSv-z3sWnVCV2WhYjV0vOdqrw4w8PC0l4z3q21lng=' alt='60+ Angular Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1275326600/vector/angular-vector-pattern-design-abstract-background.jpg?s=612x612&w=0&k=20&c=9tFSv-z3sWnVCV2WhYjV0vOdqrw4w8PC0l4z3q21lng=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ngStyle Background">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/wVBKD.png' alt='ngStyle Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jake Trent" />
+                                </span>
+                                <a href='https://i.imgur.com/wVBKD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angular Image Component">
+                                <img itemprop="contentUrl url" src='https://coreui.io/angular/docs/4.x/assets/img/angular.jpg' alt='Angular Image Component'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CoreUI" />
+                                </span>
+                                <a href='https://coreui.io/angular/docs/4.x/assets/img/angular.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

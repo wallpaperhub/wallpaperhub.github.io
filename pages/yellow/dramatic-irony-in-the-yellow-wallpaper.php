@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dramatic irony in the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/dramatic-irony-in-the-yellow-wallpaper">
+                            <span itemprop="name">dramatic irony in the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Irony Lesson">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/The-Yellow-Wallpaper-Irony-Lesson-2802652-1539474218/original-2802652-2.jpg' alt='The Yellow Wallpaper: Irony Lesson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/The-Yellow-Wallpaper-Irony-Lesson-2802652-1539474218/original-2802652-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Take out books, printouts, and paper for ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/17591104/104/images/25/Dramatic+Irony.jpg' alt='The Yellow Wallpaper Take out books, printouts, and paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/17591104/104/images/25/Dramatic+Irony.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irony in "The Yellow Wallpaper" by Charlotte Perkins Gilman ...">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc0MjUwOTQ3MTcyNjQwNjM2/notions-of-irony-in-charlotte-perkins-gilmans-the-yellow-wallpaper.jpg' alt='Irony in "The Yellow Wallpaper" by Charlotte Perkins Gilman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="809">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owlcation" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc0MjUwOTQ3MTcyNjQwNjM2/notions-of-irony-in-charlotte-perkins-gilmans-the-yellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Analysis - eNotes.com">
+                                <img itemprop="contentUrl url" src='https://static.enotescdn.net/images/covers%2Fyellow-wallpaper.jpg' alt='The Yellow Wallpaper Analysis - eNotes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eNotes" />
+                                </span>
+                                <a href='https://static.enotescdn.net/images/covers%2Fyellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discussion/Comprehension Questions - The Yellow Wall Paper Short ...">
+                                <img itemprop="contentUrl url" src='http://yellowwallpapershortstory.weebly.com/uploads/4/1/1/3/41133307/1175183.png?747' alt='Discussion/Comprehension Questions - The Yellow Wall Paper Short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wall Paper Short Story Project - Weebly" />
+                                </span>
+                                <a href='http://yellowwallpapershortstory.weebly.com/uploads/4/1/1/3/41133307/1175183.png?747' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Literary Devices | LitCharts">
+                                <img itemprop="contentUrl url" src='https://assets.litcharts.com/pdf-fans/3-page/the-yellow-wallpaper.pdf.large.png' alt='The Yellow Wallpaper Literary Devices | LitCharts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wallpaper Literary Devices | LitCharts" />
+                                </span>
+                                <a href='https://assets.litcharts.com/pdf-fans/3-page/the-yellow-wallpaper.pdf.large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Irony Lesson">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/The-Yellow-Wallpaper-Irony-Lesson-2802652-1539474218/original-2802652-1.jpg' alt='The Yellow Wallpaper: Irony Lesson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/The-Yellow-Wallpaper-Irony-Lesson-2802652-1539474218/original-2802652-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper'' By Charlotte Perkins Gilman Historical ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/31/9709993/slides/slide_8.jpg' alt='The Yellow Wallpaper'' By Charlotte Perkins Gilman Historical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/31/9709993/slides/slide_8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Literary Devices & Examples Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/sqikbhp4j1.jpg' alt='The Yellow Wallpaper | Literary Devices & Examples Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/sqikbhp4j1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Themes & Symbols: Gender Roles, Freedom, etc ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' alt='The Yellow Wallpaper Themes & Symbols: Gender Roles, Freedom, etc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

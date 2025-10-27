@@ -1,0 +1,129 @@
+<title>Stunning Spiderman Logo Wallpaper for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wallpaper spiderman logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman">
+                            <span itemprop="name">Spiderman</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman/wallpaper-spiderman-logo">
+                            <span itemprop="name">wallpaper spiderman logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Spiderman Logo Wallpaper for Fans</h1>
+                <p>Transform your space with stylish Spiderman logo wallpaper! Ideal for fans of all ages, this vibrant design brings a heroic vibe to any room. Perfect for bedrooms, playrooms, or home offices, it adds personality and flair. Easy to apply and remove, it’s a great choice for a quick room refresh. Swing into action today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spider man">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/82/96/18829682cd3a6277a245fd5a4c87ca62.jpg' alt='spider man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/82/96/18829682cd3a6277a245fd5a4c87ca62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Spiderman Logo Wallpaper : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z6blqxt5adg11.jpg' alt='iPhone X Spiderman Logo Wallpaper : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z6blqxt5adg11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spider Man Logo Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spider-man-logo-mjk7drs4tshkgqrc.jpg' alt='100+] Spider Man Logo Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spider-man-logo-mjk7drs4tshkgqrc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderlogo, marvel, spiderman, spiderman logo, superhero, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/55/86/HD-wallpaper-spiderlogo-marvel-spiderman-spiderman-logo-superhero.jpg' alt='Spiderlogo, marvel, spiderman, spiderman logo, superhero, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/55/86/HD-wallpaper-spiderlogo-marvel-spiderman-spiderman-logo-superhero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man PS4: HD Logo Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/931/931977.png' alt='Spider-Man PS4: HD Logo Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/931/931977.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man Logo Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brand-logo-for-marvel-s-spider-man-ldqqd6zm2ugb2xkt.jpg' alt='Spider Man Logo Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brand-logo-for-marvel-s-spider-man-ldqqd6zm2ugb2xkt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman-phone-wallpaper by Balsavor on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4430159a-24ce-4291-8254-173eb8dbfebb/d99wphk-e890501c-e460-4184-bcf7-1ccfac9d68c2.jpg/v1/fill/w_1024,h_1821,q_75,strp/spiderman_phone_wallpaper_by_balsavor_d99wphk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzQ0MzAxNTlhLTI0Y2UtNDI5MS04MjU0LTE3M2ViOGRiZmViYlwvZDk5d3Boay1lODkwNTAxYy1lNDYwLTQxODQtYmNmNy0xY2NmYWM5ZDY4YzIuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Sc6JWVBGvnlHRATaWV7mRjVfnJii4I_Ur34gRpJkpF4' alt='Spiderman-phone-wallpaper by Balsavor on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4430159a-24ce-4291-8254-173eb8dbfebb/d99wphk-e890501c-e460-4184-bcf7-1ccfac9d68c2.jpg/v1/fill/w_1024,h_1821,q_75,strp/spiderman_phone_wallpaper_by_balsavor_d99wphk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzQ0MzAxNTlhLTI0Y2UtNDI5MS04MjU0LTE3M2ViOGRiZmViYlwvZDk5d3Boay1lODkwNTAxYy1lNDYwLTQxODQtYmNmNy0xY2NmYWM5ZDY4YzIuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Sc6JWVBGvnlHRATaWV7mRjVfnJii4I_Ur34gRpJkpF4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Iconic Spider Man Logo Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spider-man-logo-imekoi70xlgpnf9x.jpg' alt='Download The Iconic Spider Man Logo Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spider-man-logo-imekoi70xlgpnf9x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo, gray, spider-man, minimal, dark, 1080x2160 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/92/30/ea92309d7be15e0640d3b49aba36341c.jpg' alt='Logo, gray, spider-man, minimal, dark, 1080x2160 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/92/30/ea92309d7be15e0640d3b49aba36341c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Logo Wallpaper #4 by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw2ss-c54f3ac2-da17-41b1-a04a-6d5254522e19.png/v1/fill/w_632,h_1264,q_70,strp/spider_man_logo_wallpaper__4_by_jpninja426_debw2ss-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzJzcy1jNTRmM2FjMi1kYTE3LTQxYjEtYTA0YS02ZDUyNTQ1MjJlMTkucG5nIiwid2lkdGgiOiI8PTcyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5KdnRx68W901QYl4x7WWV7a_slKzOB-yDICWWBQtPNs' alt='Spider-Man Logo Wallpaper #4 by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw2ss-c54f3ac2-da17-41b1-a04a-6d5254522e19.png/v1/fill/w_632,h_1264,q_70,strp/spider_man_logo_wallpaper__4_by_jpninja426_debw2ss-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzJzcy1jNTRmM2FjMi1kYTE3LTQxYjEtYTA0YS02ZDUyNTQ1MjJlMTkucG5nIiwid2lkdGgiOiI8PTcyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5KdnRx68W901QYl4x7WWV7a_slKzOB-yDICWWBQtPNs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

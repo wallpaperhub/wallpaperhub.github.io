@@ -1,0 +1,129 @@
+<title>Essential Tenant Screening: Secure Reliable Renters</title>
+                    <meta name="description" content="Discover how effective tenant screening can help landlords find trustworthy renters. From credit checks to rental history, ensure your property is in safe hands. Protect your investment and reduce rental risks with reliable screening services. Start your due diligence today!">
+                    <meta name="keywords" content="avail tenant screening">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/avail-tenant-screening">
+                            <span itemprop="name">avail tenant screening</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Tenant Screening: Secure Reliable Renters</h1>
+                <p>Tenant screening is essential for landlords looking to secure reliable and responsible renters. By conducting thorough background checks, including credit history, criminal records, and rental history, landlords can reduce risks of late payments and property damage. Ensure peace of mind and protect your investment with comprehensive tenant screening solutions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Tenant Screening | Avail">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/wp-content/uploads/2016/10/2-Tenant-screening-with-rentalutions-infographic-727x1024.png' alt='The Complete Guide to Tenant Screening | Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/wp-content/uploads/2016/10/2-Tenant-screening-with-rentalutions-infographic-727x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Services: Tenant Background Checks & Screening ...">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Favail-marketing-core%2F89850a38-c03f-4bf8-8a46-52500f42740f_Avail-Landlord-Software-product_landlord-tenant-screening_600x800.png%3Fauto%3Dcompress%2Cformat&w=1440&q=75' alt='Tenant Screening Services: Tenant Background Checks & Screening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Favail-marketing-core%2F89850a38-c03f-4bf8-8a46-52500f42740f_Avail-Landlord-Software-product_landlord-tenant-screening_600x800.png%3Fauto%3Dcompress%2Cformat&w=1440&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Services: Tenant Background Checks & Screening ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/avail-marketing-core/59fb0e36-cd50-4a0b-9285-5862f01a7366_Product+Example_Tenant+Screening+overview.png?auto=compress,format' alt='Tenant Screening Services: Tenant Background Checks & Screening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://images.prismic.io/avail-marketing-core/59fb0e36-cd50-4a0b-9285-5862f01a7366_Product+Example_Tenant+Screening+overview.png?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Tenant Screening | Avail">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/wp-content/uploads/2022/07/The-Complete-Guide-to-Tenant-Screening-E-book-min.jpg' alt='The Complete Guide to Tenant Screening | Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/wp-content/uploads/2022/07/The-Complete-Guide-to-Tenant-Screening-E-book-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add or Remove Screening Reports Requested for an Application – Avail">
+                                <img itemprop="contentUrl url" src='https://support.avail.co/hc/article_attachments/4401990569883/Screen_Shot_2021-06-08_at_2.55.32_PM.png' alt='Add or Remove Screening Reports Requested for an Application – Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2968">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://support.avail.co/hc/article_attachments/4401990569883/Screen_Shot_2021-06-08_at_2.55.32_PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Checklist for Landlords [Free PDF] | Avail">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/wp-content/uploads/2024/10/avail-sample-application-443x1024.png' alt='Tenant Screening Checklist for Landlords [Free PDF] | Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/wp-content/uploads/2024/10/avail-sample-application-443x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find an Application – Avail">
+                                <img itemprop="contentUrl url" src='https://support.avail.co/hc/article_attachments/360045034913' alt='Find an Application – Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://support.avail.co/hc/article_attachments/360045034913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avail Reviews: Pricing, Features, and Alternatives">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5f18a24d02bace2ac2d05bac/62ed581edf1bb868420381ab_avail-features.png' alt='Avail Reviews: Pricing, Features, and Alternatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DoorLoop" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5f18a24d02bace2ac2d05bac/62ed581edf1bb868420381ab_avail-features.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's New to Your Avail Tenant Dashboard | Avail">
+                                <img itemprop="contentUrl url" src='https://www.avail.co/wp-content/uploads/2020/12/whats-new-to-your-avail-tenant-dashboard--1024x499.png' alt='What's New to Your Avail Tenant Dashboard | Avail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://www.avail.co/wp-content/uploads/2020/12/whats-new-to-your-avail-tenant-dashboard--1024x499.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Resources for Landlords: Articles, Templates ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/avail-marketing-core/35d91337-f88d-45c9-b7ef-1d7f0bb257dc_Avail-Prescreening+Questions+Checklist.png?auto=compress,format' alt='Tenant Screening Resources for Landlords: Articles, Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avail" />
+                                </span>
+                                <a href='https://images.prismic.io/avail-marketing-core/35d91337-f88d-45c9-b7ef-1d7f0bb257dc_Avail-Prescreening+Questions+Checklist.png?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

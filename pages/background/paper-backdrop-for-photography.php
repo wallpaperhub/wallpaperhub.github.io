@@ -1,0 +1,129 @@
+<title>Top Paper Backdrops for Stunning Photography</title>
+                    <meta name="description" content="Discover the best paper backdrops for photography! Affordable, versatile, and easy to use, these backdrops elevate your shoots with vibrant colors and textures. Perfect for any style, from portraits to products. Explore our guide for tips on choosing the right backdrop for your photography needs!">
+                    <meta name="keywords" content="paper backdrop for photography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/paper-backdrop-for-photography">
+                            <span itemprop="name">paper backdrop for photography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Paper Backdrops for Stunning Photography</h1>
+                <p>Paper backdrops are a versatile and cost-effective solution for photography. Available in various colors and textures, they create stunning backgrounds for portraits, product shots, and creative projects. Easy to set up and use, they provide a seamless look that enhances your images while minimizing distractions. Perfect for studios and at-home shoots!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savage Seamless Paper Photography Backdrop - Color #9 Stone Gray, Size 107  Inches Wide x 36 Feet Long, Backdrop for YouTube Videos, Streaming, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/31jgUBf8c4L.jpg' alt='Savage Seamless Paper Photography Backdrop - Color #9 Stone Gray, Size 107  Inches Wide x 36 Feet Long, Backdrop for YouTube Videos, Streaming, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/31jgUBf8c4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Paper Photography Backdrops: A Beginner's Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2303/2711/files/seamless-paper-photography-backdrops-a-guide-12.jpg?v=1578891232' alt='Seamless Paper Photography Backdrops: A Beginner's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spectrum" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2303/2711/files/seamless-paper-photography-backdrops-a-guide-12.jpg?v=1578891232' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RTS Kate Black Seamless Paper Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/DSC03000.jpg?v=1688719025&width=1000' alt='RTS Kate Black Seamless Paper Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/DSC03000.jpg?v=1688719025&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savage Seamless Background Paper - #1 Super White (53 in x 36 ft)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/31-oDvnFlJL._AC_UF894,1000_QL80_.jpg' alt='Savage Seamless Background Paper - #1 Super White (53 in x 36 ft)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/31-oDvnFlJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Warm Yellow Seamless Paper Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/DSC03001.jpg?v=1688719034&width=1000' alt='Kate Warm Yellow Seamless Paper Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/DSC03001.jpg?v=1688719034&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Paper Size Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0750/1017/files/Ballerina-on-pink-paper.jpg?v=1643924643' alt='Seamless Paper Size Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictureline" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0750/1017/files/Ballerina-on-pink-paper.jpg?v=1643924643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Paper Size Guide">
+                                <img itemprop="contentUrl url" src='https://www.pictureline.com/cdn/shop/articles/Green-paper-background_600x600_crop_center.jpg?v=1643913106' alt='Seamless Paper Size Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictureline" />
+                                </span>
+                                <a href='https://www.pictureline.com/cdn/shop/articles/Green-paper-background_600x600_crop_center.jpg?v=1643913106' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Photography Backdrops Small Product Background: Flat Lay  Seamless Paper Props - Tabletop Photo Shoot for Jewelry Cosmetics Food ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51nPv7ZgyTL.jpg' alt='Amazon.com : Photography Backdrops Small Product Background: Flat Lay  Seamless Paper Props - Tabletop Photo Shoot for Jewelry Cosmetics Food ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51nPv7ZgyTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Backgrounds | Lighting and Studio | Wex Photo Video">
+                                <img itemprop="contentUrl url" src='https://www.wexphotovideo.com/globalassets/category-pages/navigations/calumet-brown.jpg' alt='Paper Backgrounds | Lighting and Studio | Wex Photo Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wex" />
+                                </span>
+                                <a href='https://www.wexphotovideo.com/globalassets/category-pages/navigations/calumet-brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Paper Photography Backdrops: A Beginner's Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2303/2711/files/seamless-paper-photography-backdrops-a-guide-5.jpg?v=1578891156' alt='Seamless Paper Photography Backdrops: A Beginner's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spectrum" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2303/2711/files/seamless-paper-photography-backdrops-a-guide-5.jpg?v=1578891156' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

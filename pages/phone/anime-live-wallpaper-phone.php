@@ -1,0 +1,129 @@
+<title>Vibrant Anime Live Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover stunning anime live wallpapers to personalize your phone! Elevate your device with captivating animations featuring beloved characters and scenes. Perfect for anime fans seeking vibrant designs that reflect their style. Explore and download your favorites now for an animated upgrade!">
+                    <meta name="keywords" content="anime live wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/anime-live-wallpaper-phone">
+                            <span itemprop="name">anime live wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Anime Live Wallpapers for Your Phone</h1>
+                <p>An anime live wallpaper for your phone adds a unique and vibrant touch to your screen! Choose from a variety of animated scenes featuring your favorite characters and shows. Transform your device into a dynamic canvas that reflects your personality and interests. Keep your phone fresh and exciting with stunning visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Anime live wallpaper ideas in 2025 | live wallpapers, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/56/17/ff5617f17737848616d217f3226a425a.jpg' alt='23 Anime live wallpaper ideas in 2025 | live wallpapers, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/56/17/ff5617f17737848616d217f3226a425a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime live wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' alt='anime live wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spirited Away Anime Phone Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/a0u5EPLHv4cTCufa3osj8YNR2OXiV6qa86ys_lyShl0.png?width=640&crop=smart&format=pjpg&auto=webp&s=dce00d4c4ad23ad9a11a8dc02a61da7163826fbf' alt='Spirited Away Anime Phone Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/a0u5EPLHv4cTCufa3osj8YNR2OXiV6qa86ys_lyShl0.png?width=640&crop=smart&format=pjpg&auto=webp&s=dce00d4c4ad23ad9a11a8dc02a61da7163826fbf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asuka Anime Live Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/RiNi5jBD0BiPzktWslNp6jm5ETNWNZxAgorhZtkH-4A.png?width=640&crop=smart&format=pjpg&auto=webp&s=a22fb734faae69506ced766c09d5341a9c7ab7e5' alt='Asuka Anime Live Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/RiNi5jBD0BiPzktWslNp6jm5ETNWNZxAgorhZtkH-4A.png?width=640&crop=smart&format=pjpg&auto=webp&s=a22fb734faae69506ced766c09d5341a9c7ab7e5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Live, Hatake Kakashi, anime, animation, grass, pink clouds ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/755/390/HD-wallpaper-naruto-live-hatake-kakashi-anime-animation-grass-pink-clouds.jpg' alt='Naruto Live, Hatake Kakashi, anime, animation, grass, pink clouds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/755/390/HD-wallpaper-naruto-live-hatake-kakashi-anime-animation-grass-pink-clouds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Animated Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/6L9IjkFsLrcAAAAM/trollface.gif' alt='Anime Animated Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/6L9IjkFsLrcAAAAM/trollface.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' alt='100+] Anime Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Anime Live Wallpaper for iPhone - Gojo Satoru">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7286081436543700230&location=0&aid=1988' alt='4K Anime Live Wallpaper for iPhone - Gojo Satoru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7286081436543700230&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Anime live wallpaper ideas | live wallpapers, anime, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/de/db/50/dedb50bf6afae010d08b83c3163b746e.jpg' alt='50 Anime live wallpaper ideas | live wallpapers, anime, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/de/db/50/dedb50bf6afae010d08b83c3163b746e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

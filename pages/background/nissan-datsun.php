@@ -1,0 +1,129 @@
+<title>Nissan Datsun: Affordable Cars for Every Journey</title>
+                    <meta name="description" content="Explore the legacy of Nissan Datsun, where affordability meets reliability. Discover a range of innovative vehicles designed for every journey. Join the community of satisfied Datsun owners who trust the brand for quality and performance. Perfect for your budget and lifestyle!">
+                    <meta name="keywords" content="nissan datsun">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nissan-datsun">
+                            <span itemprop="name">nissan datsun</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nissan Datsun: Affordable Cars for Every Journey</h1>
+                <p>Nissan Datsun, a historic name in the automotive industry, has evolved from a budget-friendly vehicle to a symbol of reliability and innovation. Originally launched in the 1930s, Datsun made a global impact with its affordable models. Today, Nissan embraces the legacy, blending modern technology with timeless design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970-1973 Datsun 240Z: All About Nissan's Seminal Z Car">
+                                <img itemprop="contentUrl url" src='https://www.motortrend.com/uploads/sites/5/2020/09/Datsun-240Z-3.jpg' alt='1970-1973 Datsun 240Z: All About Nissan's Seminal Z Car'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotorTrend" />
+                                </span>
+                                <a href='https://www.motortrend.com/uploads/sites/5/2020/09/Datsun-240Z-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1972 Datsun 510">
+                                <img itemprop="contentUrl url" src='https://wieck-nissanao-production.s3.amazonaws.com/photos/ebbe9340d37d1233a96fa6d673725b63b4540f38/preview-928x522.jpg' alt='1972 Datsun 510'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nissan USA Newsroom" />
+                                </span>
+                                <a href='https://wieck-nissanao-production.s3.amazonaws.com/photos/ebbe9340d37d1233a96fa6d673725b63b4540f38/preview-928x522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1972 Nissan Datsun 240Z quick drive review: Meet your heroes - CNET">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/0819fbad8d36db1083552feec09b2645bb35f6f3/hub/2021/10/13/ab5a7134-65af-42c6-bff9-ca20ad3dc657/1972-datsun-240z-4.jpg?auto=webp&fit=crop&height=675&width=1200' alt='1972 Nissan Datsun 240Z quick drive review: Meet your heroes - CNET'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/0819fbad8d36db1083552feec09b2645bb35f6f3/hub/2021/10/13/ab5a7134-65af-42c6-bff9-ca20ad3dc657/1972-datsun-240z-4.jpg?auto=webp&fit=crop&height=675&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan History: The Path from Datsun's Inception to Today">
+                                <img itemprop="contentUrl url" src='https://www.nissanusa.com/content/dam/Nissan/us/AboutNissan/heritage/site-simplification/carousel-3/1971-datsun-1200-coupe.jpg' alt='Nissan History: The Path from Datsun's Inception to Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nissan USA" />
+                                </span>
+                                <a href='https://www.nissanusa.com/content/dam/Nissan/us/AboutNissan/heritage/site-simplification/carousel-3/1971-datsun-1200-coupe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Fairlady Z (S30) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1970-1973_Nissan_Fairlady_Z.jpg/1200px-1970-1973_Nissan_Fairlady_Z.jpg' alt='Nissan Fairlady Z (S30) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1970-1973_Nissan_Fairlady_Z.jpg/1200px-1970-1973_Nissan_Fairlady_Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan History: The Path from Datsun's Inception to Today">
+                                <img itemprop="contentUrl url" src='https://www.nissanusa.com/content/dam/Nissan/us/AboutNissan/heritage/site-simplification/carousel-2/1967-american-inspired.jpg' alt='Nissan History: The Path from Datsun's Inception to Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nissan USA" />
+                                </span>
+                                <a href='https://www.nissanusa.com/content/dam/Nissan/us/AboutNissan/heritage/site-simplification/carousel-2/1967-american-inspired.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Datsun 240Z 1973 for sale - Gallery Aaldering">
+                                <img itemprop="contentUrl url" src='https://www.gallery-aaldering.com/wp-content/uploads/2024/12/nissan-datsun-240z-1973.jpg' alt='Nissan Datsun 240Z 1973 for sale - Gallery Aaldering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Aaldering" />
+                                </span>
+                                <a href='https://www.gallery-aaldering.com/wp-content/uploads/2024/12/nissan-datsun-240z-1973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nissan Z: History, Generations, Specifications">
+                                <img itemprop="contentUrl url" src='https://www.motortrend.com/uploads/sites/11/2020/09/1970-Nissan-Fairlady-Z432-front-three-quarter.jpg' alt='The Nissan Z: History, Generations, Specifications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotorTrend" />
+                                </span>
+                                <a href='https://www.motortrend.com/uploads/sites/11/2020/09/1970-Nissan-Fairlady-Z432-front-three-quarter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan | Heritage Collection | Datsun Sunny 1200 4-door Deluxe">
+                                <img itemprop="contentUrl url" src='https://www.nissan-global.com/EN/HERITAGE_COLLECTION/img/modelDetail/058/image01.jpg' alt='Nissan | Heritage Collection | Datsun Sunny 1200 4-door Deluxe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nissan Global" />
+                                </span>
+                                <a href='https://www.nissan-global.com/EN/HERITAGE_COLLECTION/img/modelDetail/058/image01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Datsun 240Z With Supra Engine Is Aftermarket Perfection">
+                                <img itemprop="contentUrl url" src='https://cdn.motor1.com/images/mgl/kJAqQ/s1/datsun-240z-with-2jz-engine-by-ccw-wheels.webp' alt='Datsun 240Z With Supra Engine Is Aftermarket Perfection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motor1.com" />
+                                </span>
+                                <a href='https://cdn.motor1.com/images/mgl/kJAqQ/s1/datsun-240z-with-2jz-engine-by-ccw-wheels.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

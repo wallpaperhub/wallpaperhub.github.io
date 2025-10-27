@@ -1,0 +1,129 @@
+<title>Sneaker Ball: Where Style Meets Sole</title>
+                    <meta name="description" content="Discover the ultimate fusion of fun and fashion at the Sneaker Ball! Celebrate sneaker culture while enjoying a stylish evening. Perfect for sneaker enthusiasts and a great way to connect with like-minded individuals. Join us for a night filled with creativity and self-expression!">
+                    <meta name="keywords" content="sneaker ball background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sneaker-ball-background">
+                            <span itemprop="name">sneaker ball background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sneaker Ball: Where Style Meets Sole</h1>
+                <p>The sneaker ball, a lively fusion of athleticism and glamor, originated as a social event celebrating the culture of sneakers. It uniquely combines a formal atmosphere with casual footwear, allowing attendees to showcase their favorite kicks. This event promotes self-expression, creativity, and community, making it a stylish and fun gathering.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball - Backdrop - Background - Custom - Step and Repeat">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27944827/r/il/be9c0c/3767014252/il_340x270.3767014252_975b.jpg' alt='Sneaker Ball - Backdrop - Background - Custom - Step and Repeat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27944827/r/il/be9c0c/3767014252/il_340x270.3767014252_975b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Backdrop Personalized Step & Repeat- Printed & Shipped!">
+                                <img itemprop="contentUrl url" src='http://bannersbyroz.com/cdn/shop/products/SneakerBallredcarpetbackdrop_1200x1200.jpg?v=1679497025' alt='Sneaker Ball Backdrop Personalized Step & Repeat- Printed & Shipped!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banners by Roz" />
+                                </span>
+                                <a href='http://bannersbyroz.com/cdn/shop/products/SneakerBallredcarpetbackdrop_1200x1200.jpg?v=1679497025' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, Gold & White Sneaker Ball Backdrop - 10ft Wide X 8ft High ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11512356/r/il/2b5b82/3753741977/il_570xN.3753741977_4t7g.jpg' alt='Black, Gold & White Sneaker Ball Backdrop - 10ft Wide X 8ft High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11512356/r/il/2b5b82/3753741977/il_570xN.3753741977_4t7g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Backdrop - The Brat Shack Party Store">
+                                <img itemprop="contentUrl url" src='https://thebratshack.com/wp-content/uploads/2022/04/backdrop-888.jpg' alt='Sneaker Ball Backdrop - The Brat Shack Party Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1423">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brat Shack" />
+                                </span>
+                                <a href='https://thebratshack.com/wp-content/uploads/2022/04/backdrop-888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Backdrop for Girls Personalized Step & Repeat , Printed &  Shipped!">
+                                <img itemprop="contentUrl url" src='http://bannersbyroz.com/cdn/shop/products/Sneakerballpinkandpurplebackdrop_1200x1200.jpg?v=1679497136' alt='Sneaker Ball Backdrop for Girls Personalized Step & Repeat , Printed &  Shipped!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banners by Roz" />
+                                </span>
+                                <a href='http://bannersbyroz.com/cdn/shop/products/Sneakerballpinkandpurplebackdrop_1200x1200.jpg?v=1679497136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Sneaker Ball Backdrop">
+                                <img itemprop="contentUrl url" src='http://richgirlgraphics.com/cdn/shop/products/GoldenSneakerBall_Proof_2_5087ee14-1408-4e6a-b1ca-56ebcdb1354f.jpg?v=1645376023' alt='Golden Sneaker Ball Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rich Girl Graphics" />
+                                </span>
+                                <a href='http://richgirlgraphics.com/cdn/shop/products/GoldenSneakerBall_Proof_2_5087ee14-1408-4e6a-b1ca-56ebcdb1354f.jpg?v=1645376023' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Narikuto Retro Basketball Tapestry Wall Hanging Party  Decorations Sport Shoes Poster Sneaker Ball Sneaker Head Backdrops Banner  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81S4j7+ZXnL.jpg' alt='Amazon.com: Narikuto Retro Basketball Tapestry Wall Hanging Party  Decorations Sport Shoes Poster Sneaker Ball Sneaker Head Backdrops Banner  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81S4j7+ZXnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball - Backdrop - Background - Custom - Step and Repeat ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27944827/r/il/1d1165/3995424316/il_570xN.3995424316_byzj.jpg' alt='Sneaker Ball - Backdrop - Background - Custom - Step and Repeat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27944827/r/il/1d1165/3995424316/il_570xN.3995424316_byzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Sneaker Ball Backdrop">
+                                <img itemprop="contentUrl url" src='https://richgirlgraphics.com/cdn/shop/products/GoldenSneakerBall_Proof_1.jpg?v=1645376023' alt='Golden Sneaker Ball Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rich Girl Graphics" />
+                                </span>
+                                <a href='https://richgirlgraphics.com/cdn/shop/products/GoldenSneakerBall_Proof_1.jpg?v=1645376023' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sneaker Ball Backdrop - The Brat Shack Party Store">
+                                <img itemprop="contentUrl url" src='https://thebratshack.com/wp-content/uploads/2022/04/sneakerbackdrop.jpg' alt='Sneaker Ball Backdrop - The Brat Shack Party Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brat Shack" />
+                                </span>
+                                <a href='https://thebratshack.com/wp-content/uploads/2022/04/sneakerbackdrop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

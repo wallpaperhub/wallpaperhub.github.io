@@ -1,0 +1,129 @@
+<title>Stunning Microsoft Live Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover the best Microsoft live wallpapers to customize your desktop! Explore vibrant animations and breathtaking landscapes that bring your screen to life. Perfect for enhancing your workspace and expressing your style. Change it up with fresh, dynamic visuals that make every glance at your desktop a delight!">
+                    <meta name="keywords" content="desktop live wallpaper microsoft">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktop-live-wallpaper-microsoft">
+                            <span itemprop="name">desktop live wallpaper microsoft</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Microsoft Live Wallpapers for Your Desktop</h1>
+                <p>Enhance your Windows experience with dynamic desktop live wallpapers! Microsoft offers various live wallpapers that transform your screen into a captivating visual playground. From serene landscapes to engaging animations, these wallpapers not only beautify your workspace but also reflect your personality. Real-time updates keep your desktop fresh and lively!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.52053.14483901389527103.e77d8c31-70bb-4bb0-9390-c549e507bce9.b69873ca-0e01-41b9-8453-cc8175dcec57' alt='Desktop Live Wallpapers - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.52053.14483901389527103.e77d8c31-70bb-4bb0-9390-c549e507bce9.b69873ca-0e01-41b9-8453-cc8175dcec57' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.28293.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.0dbed0c5-75f5-4c15-9b43-ea96f1670b4f' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.28293.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.0dbed0c5-75f5-4c15-9b43-ea96f1670b4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.4085.14483901389527103.1c093e8f-be6f-4659-8c3e-d8aee55dee4e.9e1ea175-521d-4504-8073-9e738adace92' alt='Desktop Live Wallpapers - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3839">
+                                <meta itemprop="height" content="2159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.4085.14483901389527103.1c093e8f-be6f-4659-8c3e-d8aee55dee4e.9e1ea175-521d-4504-8073-9e738adace92' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.1512.14483901389527103.b436799b-036f-496c-a777-8ea05d012dd2.492fda37-8b9b-45d4-a6e3-ef87b1bbd862?h=253' alt='Desktop Live Wallpapers - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.1512.14483901389527103.b436799b-036f-496c-a777-8ea05d012dd2.492fda37-8b9b-45d4-a6e3-ef87b1bbd862?h=253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.29414.14483901389527103.3de15601-a7af-4868-8a5a-36f81fb2a9c0.7dcf7994-ebe3-4e2b-860e-51ad5f76b286' alt='Desktop Live Wallpapers - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.29414.14483901389527103.3de15601-a7af-4868-8a5a-36f81fb2a9c0.7dcf7994-ebe3-4e2b-860e-51ad5f76b286' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7f914f17-381b-4e7c-bd6a-ecbfd5deb9be/2727654880/desktop-live-wallpapers-screenshot.jpg' alt='Desktop Live Wallpapers - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7f914f17-381b-4e7c-bd6a-ecbfd5deb9be/2727654880/desktop-live-wallpapers-screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7f914f17-381b-4e7c-bd6a-ecbfd5deb9be/3818201004/desktop-live-wallpapers-screenshot.jpg' alt='Desktop Live Wallpapers - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7f914f17-381b-4e7c-bd6a-ecbfd5deb9be/3818201004/desktop-live-wallpapers-screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpaper+ - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.55069.14085093166647799.abe30074-bb43-41f9-abe1-940ab4ba74c3.9fc836e7-f51c-4287-bd20-220848c5a999' alt='Desktop Live Wallpaper+ - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.55069.14085093166647799.abe30074-bb43-41f9-abe1-940ab4ba74c3.9fc836e7-f51c-4287-bd20-220848c5a999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Live Wallpapers - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.19247.14483901389527103.e77d8c31-70bb-4bb0-9390-c549e507bce9.b7613480-0fbb-46a9-84b3-e0a44a73ac5b?h=210' alt='Desktop Live Wallpapers - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.19247.14483901389527103.e77d8c31-70bb-4bb0-9390-c549e507bce9.b7613480-0fbb-46a9-84b3-e0a44a73ac5b?h=210' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Sociology: Its Purpose and Impact</title>
+                    <meta name="description" content="Explore the purpose of sociology, the study of human interaction and society. Learn how sociology addresses social issues and enhances community engagement through its insights into behavior and culture.">
+                    <meta name="keywords" content="what is the purpose of sociology">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-purpose-of-sociology">
+                            <span itemprop="name">what is the purpose of sociology</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Sociology: Its Purpose and Impact</h1>
+                <p>The purpose of sociology is to study human society, social behavior, and social change. It examines how individuals interact within groups, the influence of culture, and the structures of institutions. By understanding these dynamics, sociology aims to address social issues, promote equality, and enhance community engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome: Intro to Sociology - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/13534359/82/images/22/The+Purpose+of+Sociology.jpg' alt='Welcome: Intro to Sociology - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/13534359/82/images/22/The+Purpose+of+Sociology.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Study of Sociology Michael Burawoy “Public sociologies ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/4545412/15/images/2/Purpose+of+Sociology+Provide+abstract+analytical+models+of+society.jpg' alt='The Study of Sociology Michael Burawoy “Public sociologies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/4545412/15/images/2/Purpose+of+Sociology+Provide+abstract+analytical+models+of+society.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Sociology?. Nature of Sociology Def: The social science ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/15/4545289/slides/slide_4.jpg' alt='What is Sociology?. Nature of Sociology Def: The social science ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/15/4545289/slides/slide_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Sociology - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/6299780/21/images/3/Purpose+of+Sociology+C.+Wright+Mills+the+sociological+imagination.jpg' alt='Introduction to Sociology - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/6299780/21/images/3/Purpose+of+Sociology+C.+Wright+Mills+the+sociological+imagination.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JaypeeDigital | eBook Reader">
+                                <img itemprop="contentUrl url" src='https://d45jl3w9libvn.cloudfront.net/jaypee/static/books/9789356961098/Chapters/images/10-1.jpg' alt='JaypeeDigital | eBook Reader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JaypeeDigital | eBook Reader" />
+                                </span>
+                                <a href='https://d45jl3w9libvn.cloudfront.net/jaypee/static/books/9789356961098/Chapters/images/10-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Sociology - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/14288255/89/images/2/Sociological+Perspective.jpg' alt='Introduction to Sociology - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/14288255/89/images/2/Sociological+Perspective.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is Sociology Important? 6 Reasons You Must Know">
+                                <img itemprop="contentUrl url" src='https://www.calltutors.com/blog/wp-content/uploads/2023/02/importance-of-sociology-819x1024.webp' alt='Why Is Sociology Important? 6 Reasons You Must Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CallTutors" />
+                                </span>
+                                <a href='https://www.calltutors.com/blog/wp-content/uploads/2023/02/importance-of-sociology-819x1024.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chapter 1: Sociology: Theory and Method - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/4056130/13/images/5/Social+Structure+Goal+of+sociology%3A+to+understand+the+connections+between+what+society+makes+of+us+and+what+we+make+of+ourselves..jpg' alt='Chapter 1: Sociology: Theory and Method - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/4056130/13/images/5/Social+Structure+Goal+of+sociology%3A+to+understand+the+connections+between+what+society+makes+of+us+and+what+we+make+of+ourselves..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Sociology Examples (2025)">
+                                <img itemprop="contentUrl url" src='https://helpfulprofessor.com/wp-content/uploads/2023/07/sociology-examples-and-definition.jpg' alt='25 Sociology Examples (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Helpful Professor" />
+                                </span>
+                                <a href='https://helpfulprofessor.com/wp-content/uploads/2023/07/sociology-examples-and-definition.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Sociology? Part One: Intro to Sociology and Development of the  Sociological Imagination Agenda Objective: 1. To develop a preliminary  understanding.">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/255744/1/images/slide_1.jpg' alt='What is Sociology? Part One: Intro to Sociology and Development of the  Sociological Imagination Agenda Objective: 1. To develop a preliminary  understanding.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/255744/1/images/slide_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

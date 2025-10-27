@@ -1,0 +1,129 @@
+<title>Transform Your Event with Custom Backgrounds</title>
+                    <meta name="description" content="Discover Background Inc., your go-to source for custom backdrops for any occasion. Enhance your events and photography with high-quality, personalized designs that leave a lasting impression. Explore our diverse options and create the perfect atmosphere today!">
+                    <meta name="keywords" content="background inc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-inc">
+                            <span itemprop="name">background inc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Event with Custom Backgrounds</h1>
+                <p>Background Inc. specializes in creating unique and personalized backdrops for events, photography, and stages. Their range includes everything from digital prints to fabric designs, offering endless possibilities for customization. With a keen eye for detail and a focus on quality, Background Inc. transforms spaces and elevates experiences for clients, ensuring memorable moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Background, Inc">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100043336284970' alt='Profile for Background, Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100043336284970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background, Inc.">
+                                <img itemprop="contentUrl url" src='http://bgroundinc.com/images/image1.jpg' alt='Background, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="295">
+                                <meta itemprop="height" content="187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bgroundinc.com" />
+                                </span>
+                                <a href='http://bgroundinc.com/images/image1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background, Inc.">
+                                <img itemprop="contentUrl url" src='http://bgroundinc.com/WOB_Signature.jpg' alt='Background, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bgroundinc.com" />
+                                </span>
+                                <a href='http://bgroundinc.com/WOB_Signature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Screening - Backgrounds Online">
+                                <img itemprop="contentUrl url" src='https://content.backgroundsonline.com/images/sites/bgo/report.png' alt='Employment Background Screening - Backgrounds Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.backgroundsonline.com" />
+                                </span>
+                                <a href='https://content.backgroundsonline.com/images/sites/bgo/report.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Screening - Backgrounds Online">
+                                <img itemprop="contentUrl url" src='https://content.backgroundsonline.com/images/sites/bgo/appss-email.png' alt='Employment Background Screening - Backgrounds Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.backgroundsonline.com" />
+                                </span>
+                                <a href='https://content.backgroundsonline.com/images/sites/bgo/appss-email.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Difference between Level 1 and Level 2 Background ...">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' alt='What is the Difference between Level 1 and Level 2 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Complete Inc | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQGLmo9l29Hc5w/company-logo_200_200/company-logo_200_200/0/1639497244654/background_complete_inc_logo?e=2147483647&v=beta&t=kShTPB8NlQUR9rEuV7xGN-n4mlZL1oL0syq82QekCaM' alt='Background Complete Inc | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQGLmo9l29Hc5w/company-logo_200_200/company-logo_200_200/0/1639497244654/background_complete_inc_logo?e=2147483647&v=beta&t=kShTPB8NlQUR9rEuV7xGN-n4mlZL1oL0syq82QekCaM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Background Check in 2025">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/free-background-check-1024x668.jpg' alt='Best Free Background Check in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/free-background-check-1024x668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home | Whiting Background, INC">
+                                <img itemprop="contentUrl url" src='https://www.whitingbackgroundinc.com/sites/default/files/styles/slider/public/2017-04/homepage.jpg?itok=6lHOqqnb' alt='Home | Whiting Background, INC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.whitingbackgroundinc.com" />
+                                </span>
+                                <a href='https://www.whitingbackgroundinc.com/sites/default/files/styles/slider/public/2017-04/homepage.jpg?itok=6lHOqqnb' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

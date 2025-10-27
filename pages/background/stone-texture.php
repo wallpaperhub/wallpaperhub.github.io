@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Stone Textures</title>
+                    <meta name="description" content="Discover the beauty of stone texture in design! Explore how natural stone can enhance your home, garden, or workspace. Learn to incorporate unique patterns and finishes for a timeless, elegant look that's perfect for any application. Elevate your style with the charm of stone!">
+                    <meta name="keywords" content="stone texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stone-texture">
+                            <span itemprop="name">stone texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Stone Textures</h1>
+                <p>Stone texture is a captivating element in design that evokes a sense of nature's artistry. From the rugged surfaces of granite to the smoothness of marble, stone textures add depth and character to various applications, including architecture, landscaping, and interior decor. Embracing these natural patterns can enhance aesthetics and create timeless beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczEyNC1hay01MzQ3XzMuanBn.jpg' alt='Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczEyNC1hay01MzQ3XzMuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Stone Images – Browse 607,799 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/26/27/71/360_F_526277100_1ks4W124suwBkUZyY21Z3w9sDiSmAszv.jpg' alt='Seamless Stone Images – Browse 607,799 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/26/27/71/360_F_526277100_1ks4W124suwBkUZyY21Z3w9sDiSmAszv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Texture Photo (33371) - YouWorkForThem">
+                                <img itemprop="contentUrl url" src='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/33371/33371_00_2x.jpg?20150621093857' alt='Stone Texture Photo (33371) - YouWorkForThem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouWorkForThem" />
+                                </span>
+                                <a href='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/33371/33371_00_2x.jpg?20150621093857' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Texture Images – Browse 7,925,975 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/92/73/13/360_F_292731351_p4objwWzlIieS2Kh7kbWVWmOhNrNE5Ft.jpg' alt='Stone Texture Images – Browse 7,925,975 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/92/73/13/360_F_292731351_p4objwWzlIieS2Kh7kbWVWmOhNrNE5Ft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Stone Wall Texture - Free, Seamless and High Resolution –">
+                                <img itemprop="contentUrl url" src='https://www.tilingtextures.com/wp-content/uploads/2017/02/0012-scaled.jpg' alt='16 Stone Wall Texture - Free, Seamless and High Resolution –'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiling Textures" />
+                                </span>
+                                <a href='https://www.tilingtextures.com/wp-content/uploads/2017/02/0012-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Stone Texture Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/068/171/non_2x/dark-grey-stone-texture-background-photo.jpg' alt='Dark Stone Texture Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2222">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/068/171/non_2x/dark-grey-stone-texture-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough stone texture 3711473 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/711/473/large_2x/rough-stone-texture-photo.jpg' alt='Rough stone texture 3711473 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/711/473/large_2x/rough-stone-texture-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cement-concrete-texture-copy-space_1194-607439.jpg' alt='Stone Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cement-concrete-texture-copy-space_1194-607439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="406,200+ Grey Stone Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/471060950/photo/black-stone-wall-texture.jpg?s=612x612&w=0&k=20&c=JQYKNG3MgA1LjgHGoYJxg_fexmA_5BsHtNLP89Y1r3o=' alt='406,200+ Grey Stone Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/471060950/photo/black-stone-wall-texture.jpg?s=612x612&w=0&k=20&c=JQYKNG3MgA1LjgHGoYJxg_fexmA_5BsHtNLP89Y1r3o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlMTJfYV9oaWdoLXJlc29sdXRpb25fdGV4dHVyZV9vZl9kYXJrX3NsYXRlX3dpdGhfc18zMjBiM2U0ZC00N2YwLTRiYWQtOGI1MC0xYTM3ZjliNjY0OTlfMS5qcGc.jpg' alt='Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlMTJfYV9oaWdoLXJlc29sdXRpb25fdGV4dHVyZV9vZl9kYXJrX3NsYXRlX3dpdGhfc18zMjBiM2U0ZC00N2YwLTRiYWQtOGI1MC0xYTM3ZjliNjY0OTlfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

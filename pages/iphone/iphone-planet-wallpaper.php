@@ -1,0 +1,129 @@
+<title>Stunning iPhone Planet Wallpapers for Cosmic Vibes</title>
+                    <meta name="description" content="Discover breathtaking planet wallpapers for your iPhone! Customize your device with beautiful cosmic designs that inspire. Explore vibrant and minimalist options, perfect for every style. Enhance your screen with the wonders of the universe today!">
+                    <meta name="keywords" content="iphone planet wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-planet-wallpaper">
+                            <span itemprop="name">iphone planet wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Planet Wallpapers for Cosmic Vibes</h1>
+                <p>Transform your iPhone with stunning planet wallpapers that bring the beauty of the cosmos to your fingertips. Whether you prefer vibrant colors or serene, minimalist designs, there's a wallpaper to match your style. Elevate your device's aesthetic and explore the universe from the comfort of your palm with these celestial backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave 343">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f5/1b/03/f51b03f083deb86a9c6c26ffcc7faed7.jpg' alt='Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave 343'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f5/1b/03/f51b03f083deb86a9c6c26ffcc7faed7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Wallpaper For iPhone | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/sRLzol0zuPYrWs7v7aBIZa8eOyk=/0x600:2401x3001/2401x3600/filters:format_auto():quality(85):extract_cover()/2022/01/04/686/n/1922507/6023a31161d467cac500f9.25034761_.jpg' alt='Planet Wallpaper For iPhone | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2401">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/sRLzol0zuPYrWs7v7aBIZa8eOyk=/0x600:2401x3001/2401x3600/filters:format_auto():quality(85):extract_cover()/2022/01/04/686/n/1922507/6023a31161d467cac500f9.25034761_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Planet Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31898485/r/il/96f645/3328796422/il_fullxfull.3328796422_dm0s.jpg' alt='IPhone Planet Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31898485/r/il/96f645/3328796422/il_fullxfull.3328796422_dm0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Xs Planet Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-planet-750-x-1492-ms6atpq2eza13n1w.jpg' alt='100+] Iphone Xs Planet Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-planet-750-x-1492-ms6atpq2eza13n1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 12 Pro Planet Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-12-pro-planet-5e484zlk4eyevva4.jpg' alt='Iphone 12 Pro Planet Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-12-pro-planet-5e484zlk4eyevva4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Planet iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/95827520329663536-99528999525825288.jpg' alt='Most Popular Planet iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/95827520329663536-99528999525825288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMOLED Iphone X Planet Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/6e/44/ac6e44c1281146fac7cbced026f8584f.jpg' alt='AMOLED Iphone X Planet Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/6e/44/ac6e44c1281146fac7cbced026f8584f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Wallpapers (49 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/1/f/187931-1440x2560-samsung-hd-planet-wallpaper.jpg' alt='Planet Wallpapers (49 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/1/f/187931-1440x2560-samsung-hd-planet-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone planet wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/343/852/HD-wallpaper-iphone-planet-amoled-apple-galaxy-gold-life-space-strange-ultra-thumbnail.jpg' alt='HD iphone planet wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/343/852/HD-wallpaper-iphone-planet-amoled-apple-galaxy-gold-life-space-strange-ultra-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="planet wallpaper for iphone - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhQtHprbsxyoU53PXVxqbZKCSyJMKZHwHNL8OevhCLYGBcu8PpCAbC40Hlh48yYUTLC_uEbIuXxA75EepdogRuQabPS1z4AQxN060-AVAisiQMHx6HPyasppZ-vJXF_RoZ4KYheK3Yd18pGQkF2Fvc2i3Xkqdd8Y-XVJhevefv5HNVQrAjV2Vf_V2cijQ=w1600' alt='planet wallpaper for iphone - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhQtHprbsxyoU53PXVxqbZKCSyJMKZHwHNL8OevhCLYGBcu8PpCAbC40Hlh48yYUTLC_uEbIuXxA75EepdogRuQabPS1z4AQxN060-AVAisiQMHx6HPyasppZ-vJXF_RoZ4KYheK3Yd18pGQkF2Fvc2i3Xkqdd8Y-XVJhevefv5HNVQrAjV2Vf_V2cijQ=w1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

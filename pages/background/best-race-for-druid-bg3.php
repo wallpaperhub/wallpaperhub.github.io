@@ -1,0 +1,129 @@
+<title>Top Races for Druid in Baldur's Gate 3</title>
+                    <meta name="description" content="Discover the best races for Druids in Baldur's Gate 3! Explore top choices like Wood Elves and Hill Dwarves to enhance your gameplay with robust stats and unique abilities. Find the perfect fit for your playstyle and dominate the battlefield!">
+                    <meta name="keywords" content="best race for druid bg3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-race-for-druid-bg3">
+                            <span itemprop="name">best race for druid bg3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Races for Druid in Baldur's Gate 3</h1>
+                <p>When choosing the best race for a Druid in Baldur's Gate 3 (BG3), consider the Wood Elf for its Dexterity and Wisdom bonuses, enhancing both combat and spellcasting. Alternatively, the Hill Dwarf is great for its Constitution boost and resistance to certain effects, making it a sturdy choice. Choose based on your playstyle!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Druid Class's Best Race Choices In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-23-am-2898.jpg' alt='A Druid Class's Best Race Choices In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-23-am-2898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Races and Ability Scores for Druids in Baldur's Gate 3 (BG3)">
+                                <img itemprop="contentUrl url" src='https://www.escapistmagazine.com/wp-content/uploads/2023/07/Druid-e1690851519518.jpg' alt='Best Races and Ability Scores for Druids in Baldur's Gate 3 (BG3)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Escapist Magazine" />
+                                </span>
+                                <a href='https://www.escapistmagazine.com/wp-content/uploads/2023/07/Druid-e1690851519518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Druid build in Baldur's Gate 3: Race, skills, subclass & more ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/24/Baldurs-Gate-3-druid-build.jpg' alt='Best Druid build in Baldur's Gate 3: Race, skills, subclass & more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/24/Baldurs-Gate-3-druid-build.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Druid Class's Best Race Choices In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-22-am-2583.jpg' alt='A Druid Class's Best Race Choices In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-22-am-2583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best races and ability scores for Druid class in BG3">
+                                <img itemprop="contentUrl url" src='https://dotesports.com/wp-content/uploads/2023/08/bg3newdruid.png?resize=768,432' alt='Baldur's Gate 3: Best races and ability scores for Druid class in BG3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dot Esports" />
+                                </span>
+                                <a href='https://dotesports.com/wp-content/uploads/2023/08/bg3newdruid.png?resize=768,432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Race for Every Class - Baldur's Gate III Guide - IGN">
+                                <img itemprop="contentUrl url" src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/d/db/Strongheart_Halfling_Druid.jpg?width=1280' alt='Best Race for Every Class - Baldur's Gate III Guide - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/d/db/Strongheart_Halfling_Druid.jpg?width=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Druid Class's Best Race Choices In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-21-am-5412.jpg' alt='A Druid Class's Best Race Choices In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-04-feb-2024-02-21-am-5412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: The Best Class For Every Race">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/baldur-s-gate-3-half-orc-as-a-fighter-in-character-creation.jpg' alt='Baldur's Gate 3: The Best Class For Every Race'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/baldur-s-gate-3-half-orc-as-a-fighter-in-character-creation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 - Top 6 Best Sub-Races for the Druid Class">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GBRCVLDCWlY/maxresdefault.jpg' alt='Baldur's Gate 3 - Top 6 Best Sub-Races for the Druid Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GBRCVLDCWlY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Druid Circle of the Moon Build - Deltia's Gaming">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/08/Best-Baldurs-Gate-3-Druid-Skills.jpg' alt='Best Baldur's Gate 3 Druid Circle of the Moon Build - Deltia's Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1380">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/08/Best-Baldurs-Gate-3-Druid-Skills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Elegant Gris Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of gris wallpaper! Perfect for elevating your home's aesthetics with its calming colors and stylish patterns. Ideal for any room, gris wallpaper seamlessly blends sophistication with versatility. Explore designs that enhance your living space today!">
+                    <meta name="keywords" content="gris wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gris-wallpaper">
+                            <span itemprop="name">gris wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Elegant Gris Wallpaper</h1>
+                <p>Gris wallpaper is a stunning choice for any home, offering a blend of sophistication and tranquility. With its soft hues and elegant designs, it creates a serene atmosphere that can brighten any room. Perfect for modern and classic spaces alike, gris wallpaper adds a touch of luxury while remaining versatile enough to match various décor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wanted to share my collection of over 50 1440p wallpapers I ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/FOAN0bFQNjUs4zEkrtBJmhvyZ0wYTCZ-bZVDAWANoow.jpg?auto=webp&s=47eb475ae5152a52cb302d3e2ef70b562d24a0bd' alt='I wanted to share my collection of over 50 1440p wallpapers I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/FOAN0bFQNjUs4zEkrtBJmhvyZ0wYTCZ-bZVDAWANoow.jpg?auto=webp&s=47eb475ae5152a52cb302d3e2ef70b562d24a0bd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gris Artistic Illustration HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/979/thumb-1920-979696.jpg' alt='Gris Artistic Illustration HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/979/thumb-1920-979696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gris [4K]. : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/s7b3eozxl2651.png' alt='Gris [4K]. : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3837">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/s7b3eozxl2651.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRIS Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/2b/2a/dc2b2aea51b05b53ca97147284a0601b.jpg' alt='GRIS Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/2b/2a/dc2b2aea51b05b53ca97147284a0601b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gris Artwork #6 Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2020/05/gris-art-06-1920x1200-1.jpg' alt='Gris Artwork #6 Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2020/05/gris-art-06-1920x1200-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Gris HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/112/1129057.jpg' alt='Download Video Game Gris HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/112/1129057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gris Cover Art Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2020/05/gris-cover-art-1080x1920-1.jpg' alt='Gris Cover Art Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2020/05/gris-cover-art-1080x1920-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::GRIS Wallpaper 1080p">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/951846889656103677/2C88407DCFEF00FDB426C5DE22831711A522CF07/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::GRIS Wallpaper 1080p'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/951846889656103677/2C88407DCFEF00FDB426C5DE22831711A522CF07/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gris could be the most beautiful game you'll play this year ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/gris-is-an-artful-graceful-delight-1533822958419.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Gris could be the most beautiful game you'll play this year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/gris-is-an-artful-graceful-delight-1533822958419.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::GRIS - Wallpaper + (Soundtrack)">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/768363798480384273/6CFFDFC7179DE5018FB53FA0CB9CD403BA5F63A0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::GRIS - Wallpaper + (Soundtrack)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/768363798480384273/6CFFDFC7179DE5018FB53FA0CB9CD403BA5F63A0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

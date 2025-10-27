@@ -1,0 +1,129 @@
+<title>Doom 4K Wallpapers: Epic Gaming Backgrounds</title>
+                    <meta name="description" content="Discover stunning 4K Doom wallpapers that elevate your devices. Perfect for gamers and fans, each wallpaper captures the essence of intense battles and thrilling visuals. Upgrade your screen's appearance with high-quality backgrounds today!">
+                    <meta name="keywords" content="doom wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/doom-wallpaper-4k">
+                            <span itemprop="name">doom wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Doom 4K Wallpapers: Epic Gaming Backgrounds</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wanted a Doom Eternal wallpaper that would look good spanning my ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/gmEHGrZdNN1MAh5jkVU-XjU6mobRbaI14mgGGdaoFXQ.jpg?auto=webp&s=9adc960b7902c9f298f02e8315fb23ed56b4caaa' alt='I wanted a Doom Eternal wallpaper that would look good spanning my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6912">
+                                <meta itemprop="height" content="3888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/gmEHGrZdNN1MAh5jkVU-XjU6mobRbaI14mgGGdaoFXQ.jpg?auto=webp&s=9adc960b7902c9f298f02e8315fb23ed56b4caaa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New key art for Doom: The Dark Ages : r/Doom">
+                                <img itemprop="contentUrl url" src='https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/9cce1948120d31351ecd5d9715fffe9ffc0041be81767b45.jpg' alt='New key art for Doom: The Dark Ages : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/9cce1948120d31351ecd5d9715fffe9ffc0041be81767b45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game DOOM Eternal 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/112/1126862.jpg' alt='Download Video Game DOOM Eternal 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/112/1126862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="doom eternal 5k game iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/41/73/c741736a9fdd7b58928748979dbd50d7.jpg' alt='doom eternal 5k game iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/41/73/c741736a9fdd7b58928748979dbd50d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Doom (2016) 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/130/1303818.png' alt='Download Video Game Doom (2016) 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/130/1303818.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a 4K Doom wallpaper using Photoshop and various game ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fj09xw7xkzr51.png' alt='I made a 4K Doom wallpaper using Photoshop and various game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fj09xw7xkzr51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="doom eternal the ancient gods 4k iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/8a/bf/c48abf8585f35ec3690672c2acd2f02c.jpg' alt='doom eternal the ancient gods 4k iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/8a/bf/c48abf8585f35ec3690672c2acd2f02c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom Eternal art as 1080p wallpaper : r/Doom">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/q5kub8xusv331.jpg?width=640&crop=smart&auto=webp&s=6e3ddd6f6dddecc9cfd5a86b4073edf96ff2df3f' alt='Doom Eternal art as 1080p wallpaper : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/q5kub8xusv331.jpg?width=640&crop=smart&auto=webp&s=6e3ddd6f6dddecc9cfd5a86b4073edf96ff2df3f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Doomguy Video Game DOOM Eternal 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/107/1077617.jpg' alt='Download Doomguy Video Game DOOM Eternal 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4389">
+                                <meta itemprop="height" content="3417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/107/1077617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom – PlayStation Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/03/Doom-4K-Main.jpg?ssl=1' alt='Doom – PlayStation Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Wallpapers" />
+                                </span>
+                                <a href='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/03/Doom-4K-Main.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Phone Wallpapers to Personalize Your Device</title>
+                    <meta name="description" content="Discover a wide selection of beautiful and unique wallpapers for your phone. From nature scenes to artistic designs, find the perfect backdrop to enhance your device's look. Explore our curated collection and personalize your phone effortlessly!">
+                    <meta name="keywords" content="wallpaper for my phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wallpaper-for-my-phone">
+                            <span itemprop="name">wallpaper for my phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Phone Wallpapers to Personalize Your Device</h1>
+                <p>Looking for the perfect wallpaper for your phone? Choose from various styles, colors, and themes that reflect your personality and interests. Whether you prefer nature, abstract art, or minimalistic designs, there's something for everyone. Personalize your phone today and make every glance at the screen a joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my phone wallpaper. I can't remember who the oc is but I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9eqy5o91stf61.jpg' alt='This is my phone wallpaper. I can't remember who the oc is but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9eqy5o91stf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Easy Wallpaper Ideas for Your Phone">
+                                <img itemprop="contentUrl url" src='https://instasize.com/content/pattern-phone-wallpaper-1.jpg' alt='5 Easy Wallpaper Ideas for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instasize" />
+                                </span>
+                                <a href='https://instasize.com/content/pattern-phone-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A really cool phone wallpaper I have on my phone : r/Mobpsycho100">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dso88e303oj51.jpg?width=640&crop=smart&auto=webp&s=ea098b86054452de30a59eedabd570b86745fa41' alt='A really cool phone wallpaper I have on my phone : r/Mobpsycho100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dso88e303oj51.jpg?width=640&crop=smart&auto=webp&s=ea098b86054452de30a59eedabd570b86745fa41' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3NoV0pm0/1/0/900w/canva-live-in-the-moment-quote-sunset-floral-phone-wallpaper-mg3EIAS3gP0.jpg' alt='Page 2 - Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3NoV0pm0/1/0/900w/canva-live-in-the-moment-quote-sunset-floral-phone-wallpaper-mg3EIAS3gP0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't Touch My Phone Wallpapers for Girls. Tap to see more iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/17/c5/c217c5f913bd62c59891b76f059b78f7.jpg' alt='Don't Touch My Phone Wallpapers for Girls. Tap to see more iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/17/c5/c217c5f913bd62c59891b76f059b78f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' alt='Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+] Mobile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mobile-58g8gv3r23zg29kw.jpg' alt='900+] Mobile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mobile-58g8gv3r23zg29kw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Easy Wallpaper Ideas for Your Phone">
+                                <img itemprop="contentUrl url" src='https://instasize.com/content/pattern-phone-wallpaper-5.jpg' alt='5 Easy Wallpaper Ideas for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instasize" />
+                                </span>
+                                <a href='https://instasize.com/content/pattern-phone-wallpaper-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DONT TOUCH MY PHONE, calm, normal, lock, screen, devil, ha, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/784/821/HD-wallpaper-dont-touch-my-phone-calm-normal-lock-screen-devil-ha.jpg' alt='DONT TOUCH MY PHONE, calm, normal, lock, screen, devil, ha, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/784/821/HD-wallpaper-dont-touch-my-phone-calm-normal-lock-screen-devil-ha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't Touch My Phone Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1SD96+hQyL.png' alt='Don't Touch My Phone Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1SD96+hQyL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

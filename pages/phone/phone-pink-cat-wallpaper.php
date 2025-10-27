@@ -1,0 +1,129 @@
+<title>Charming Pink Cat Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore our delightful collection of pink cat wallpapers, perfect for adding a cute flair to your phone. Easy to download and set up, these wallpapers are designed to bring joy and vibrancy to your screen. Perfect for cat lovers of all ages! Discover your favorite design now!">
+                    <meta name="keywords" content="phone pink cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-pink-cat-wallpaper">
+                            <span itemprop="name">phone pink cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Cat Wallpapers for Your Phone</h1>
+                <p>Transform your phone's look with adorable pink cat wallpapers! These cute designs add a playful touch to your device, featuring charming illustrations and fun patterns. Perfect for cat lovers, our collection is vibrant and eye-catching, ensuring your phone stands out. Discover the cutest pink cat wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Cute cat pink   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/18/da/d718da88fec4c572715d16ed69026254.jpg' alt='  Cute cat pink   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/18/da/d718da88fec4c572715d16ed69026254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pink Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-pink-cat-smsxmwmnzc2k0vhe.jpg' alt='100+] Cute Pink Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-pink-cat-smsxmwmnzc2k0vhe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cat wallpaper by thejanove - Download on ZEDGE™ | f911">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/c5/a8/28c5a81a843c080594f72669bef4c614.jpg' alt='Pink Cat wallpaper by thejanove - Download on ZEDGE™ | f911'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/c5/a8/28c5a81a843c080594f72669bef4c614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Cat Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-445.webp' alt='Cute Pink Cat Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-445.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cat Phone Wallpaper | Cat phone wallpaper, Cute cat wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/99/97/9399972b389a56e287c561ee50941b07.jpg' alt='Pink Cat Phone Wallpaper | Cat phone wallpaper, Cute cat wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/99/97/9399972b389a56e287c561ee50941b07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cat Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-white-kitten-pink-watercolor-background_1150025-16174.jpg?semt=ais_hybrid' alt='Pink Cat Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-white-kitten-pink-watercolor-background_1150025-16174.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pink Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/adorable-pink-cat-illustration-5qwfs68yemhlgn6h.jpg' alt='100+] Cute Pink Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/adorable-pink-cat-illustration-5qwfs68yemhlgn6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cat 3D Phone Wallpaper | iPhone Wallpaper | Android Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42566779/r/il/4ec823/4962936389/il_570xN.4962936389_kzlx.jpg' alt='Pink Cat 3D Phone Wallpaper | iPhone Wallpaper | Android Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42566779/r/il/4ec823/4962936389/il_570xN.4962936389_kzlx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Cat Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-kawaii-cat-pink-47pipfrrsc986t2l.webp' alt='Cute Kawaii Cat Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-kawaii-cat-pink-47pipfrrsc986t2l.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute cats, cat, cute, kawaii, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/551/966/HD-wallpaper-cute-cats-cat-cute-kawaii-pink.jpg' alt='Cute cats, cat, cute, kawaii, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/551/966/HD-wallpaper-cute-cats-cat-cute-kawaii-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

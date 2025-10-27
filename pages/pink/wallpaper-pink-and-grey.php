@@ -1,0 +1,129 @@
+<title>Stylish Pink and Grey Wallpaper Ideas for Every Room</title>
+                    <meta name="description" content="Explore stunning pink and grey wallpaper designs that elevate your home's decor. From soft pastels to bold patterns, find the perfect match for your style and create a serene ambiance in any room. Unleash your creativity with these versatile wallpaper options!">
+                    <meta name="keywords" content="wallpaper pink and grey">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/wallpaper-pink-and-grey">
+                            <span itemprop="name">wallpaper pink and grey</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pink and Grey Wallpaper Ideas for Every Room</h1>
+                <p>Discover the elegance of pink and grey wallpaper, perfect for enhancing your space. This chic combination adds a feminine touch while maintaining a modern, sophisticated vibe. Ideal for living rooms, bedrooms, or accent walls, pink and grey wallpaper creates a soothing atmosphere. Choose patterns that suit your style to transform your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' alt='Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2510">
+                                <meta itemprop="height" content="2510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_fullxfull.3330493341_e432.jpg' alt='Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_fullxfull.3330493341_e432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' alt='Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Brush Strokes Pink & Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/watercolor-brush-strokes-pink-grey-wall-drqk.jpg' alt='Watercolor Brush Strokes Pink & Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/watercolor-brush-strokes-pink-grey-wall-drqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phoebe Floral Wallpaper Pink / Grey Belgravia 59001">
+                                <img itemprop="contentUrl url" src='https://img.fruugo.com/product/1/30/1268473301_max.jpg' alt='Phoebe Floral Wallpaper Pink / Grey Belgravia 59001'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fruugo" />
+                                </span>
+                                <a href='https://img.fruugo.com/product/1/30/1268473301_max.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Grey Wallpaper Sample, Hot Pink Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17581569/r/il/f38bb5/2589408132/il_fullxfull.2589408132_2oym.jpg' alt='Pink and Grey Wallpaper Sample, Hot Pink Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2938">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17581569/r/il/f38bb5/2589408132/il_fullxfull.2589408132_2oym.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Pink & Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/watercolor-floral-pink-grey-wallpaper-olde-l.jpg' alt='Watercolor Floral Pink & Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/watercolor-floral-pink-grey-wallpaper-olde-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belgravia Grey Blush Pink Floral Roses Textured Wallpaper Linen Effect 9766">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTIwOFgxMDAw/z/lJIAAOSwk2JctGW9/$_57.JPG?set_id=8800005007' alt='Belgravia Grey Blush Pink Floral Roses Textured Wallpaper Linen Effect 9766'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTIwOFgxMDAw/z/lJIAAOSwk2JctGW9/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazonia Sarasota Gray Pink Wallpaper Holden 91261 World of ...">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/9/1/91261-sarasota-grey-pink-product_ae.jpg' alt='Amazonia Sarasota Gray Pink Wallpaper Holden 91261 World of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/9/1/91261-sarasota-grey-pink-product_ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Grey Wallpaper with Pink Flowers – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/s0X0GS_2400x.jpg?v=1693313530' alt='Contemporary Grey Wallpaper with Pink Flowers – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/s0X0GS_2400x.jpg?v=1693313530' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Jessie Murph: Rising Star in Music</title>
+                    <meta name="description" content="Explore Jessie Murph's journey as a talented musician, blending pop and indie styles. With powerful lyrics and a unique sound, she is quickly becoming a favorite in the music scene. Stay updated on her latest releases and see why she's a rising star!">
+                    <meta name="keywords" content="jessie murph">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jessie-murph">
+                            <span itemprop="name">jessie murph</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Jessie Murph: Rising Star in Music</h1>
+                <p>Jessie Murph is a rising star in the music industry, known for her emotive voice and relatable lyrics. Blending pop and indie influences, she captivates audiences with her heartfelt storytelling. With viral hits and a growing fanbase, Jessie is set to make waves in the industry, showcasing her unique sound and personal journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INTERVIEW: Jessie Murph talks her career, touring and latest ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/572731df1bbee0567229919e/1701651393917-ANK961BJK6GBIODQFI7O/Jessie+Murph+-+Press+Image.jpg?format=1000w' alt='INTERVIEW: Jessie Murph talks her career, touring and latest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women In Pop" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/572731df1bbee0567229919e/1701651393917-ANK961BJK6GBIODQFI7O/Jessie+Murph+-+Press+Image.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessie Murph | Gratitude, Sound Evolution, and Dreams">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/6579ee085a4f6ae074fdec4f_FLAUNT%20MAGAZINE%20-%20FLAUNT.COM%20-%20JESSIE%20MURPH1.jpg' alt='Jessie Murph | Gratitude, Sound Evolution, and Dreams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4388">
+                                <meta itemprop="height" content="6582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaunt Magazine" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/6579ee085a4f6ae074fdec4f_FLAUNT%20MAGAZINE%20-%20FLAUNT.COM%20-%20JESSIE%20MURPH1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nashville-born, Alabama raised: Jessie Murph on fans, festivals ...">
+                                <img itemprop="contentUrl url" src='https://www.al.com/resizer/54qlEk_dJd7QgMe1JU1sVuMYMks=/arc-anglerfish-arc2-prod-advancelocal/public/CCKOZUYEDFHHNO7ZJSZI6V5WOE.jpg' alt='Nashville-born, Alabama raised: Jessie Murph on fans, festivals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AL.com" />
+                                </span>
+                                <a href='https://www.al.com/resizer/54qlEk_dJd7QgMe1JU1sVuMYMks=/arc-anglerfish-arc2-prod-advancelocal/public/CCKOZUYEDFHHNO7ZJSZI6V5WOE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessie Murph Shares New Track – Sony Music Canada">
+                                <img itemprop="contentUrl url" src='https://cdn-p.smehost.net/sites/a6700d2fbaf642099802a57af8b10fe6/wp-content/uploads/2022/11/Murphjessie.png' alt='Jessie Murph Shares New Track – Sony Music Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sony Music Canada" />
+                                </span>
+                                <a href='https://cdn-p.smehost.net/sites/a6700d2fbaf642099802a57af8b10fe6/wp-content/uploads/2022/11/Murphjessie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Jessie Murph wallpaper ideas | jessie, female musicians, very ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d5/30/fa/d530fa83741a0d85bd889621f680e059.jpg' alt='13 Jessie Murph wallpaper ideas | jessie, female musicians, very ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d5/30/fa/d530fa83741a0d85bd889621f680e059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive Booking Agency for Jessie Murph - Wasserman Music">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-1.amazonaws.com/wass-media-library/music_artists/jessie-murph-20241117.jpg' alt='Exclusive Booking Agency for Jessie Murph - Wasserman Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wasserman" />
+                                </span>
+                                <a href='https://s3-us-west-1.amazonaws.com/wass-media-library/music_artists/jessie-murph-20241117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JESSIE MURPH: INTERVIEW — Unclear Magazine">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/574f3465746fb9ccc22d890f/1630609044814-YON5KSHDY4WDWBY901RN/20030008.jpg' alt='JESSIE MURPH: INTERVIEW — Unclear Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unclear Magazine" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/574f3465746fb9ccc22d890f/1630609044814-YON5KSHDY4WDWBY901RN/20030008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessie Murph — SOMETHING IN THE WATER | Virginia Beach, VA">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5db204ad4bd6373558e04457/1678824869697-WSM3XXTI13QXTXE15WNI/Jessie_Murph.png' alt='Jessie Murph — SOMETHING IN THE WATER | Virginia Beach, VA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Something in the Water" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5db204ad4bd6373558e04457/1678824869697-WSM3XXTI13QXTXE15WNI/Jessie_Murph.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessie Murph | iHeart">
+                                <img itemprop="contentUrl url" src='https://iscale.iheart.com/catalog/artist/35612881' alt='Jessie Murph | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://iscale.iheart.com/catalog/artist/35612881' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessie Murph Interview - Album, High Road, Wild Ones, Songs">
+                                <img itemprop="contentUrl url" src='https://www.songwriteruniverse.com/wp-content/uploads/2024/09/jessie-murph-391-1200x900.jpg' alt='Jessie Murph Interview - Album, High Road, Wild Ones, Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Songwriter Universe" />
+                                </span>
+                                <a href='https://www.songwriteruniverse.com/wp-content/uploads/2024/09/jessie-murph-391-1200x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

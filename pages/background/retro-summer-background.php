@@ -1,0 +1,129 @@
+<title>Retro Summer Vibes: Bring Back the Nostalgia</title>
+                    <meta name="description" content="Explore lively retro summer backgrounds that evoke nostalgia and warmth. Perfect for events, social media, or home decor, embrace the essence of sun-soaked days with vibrant colors and patterns that capture the joy of summer. Redefine your space and enjoy a blast from the past!">
+                    <meta name="keywords" content="retro summer background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-summer-background">
+                            <span itemprop="name">retro summer background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Summer Vibes: Bring Back the Nostalgia</h1>
+                <p>Transform your space with a vibrant retro summer background that radiates nostalgic vibes. Picture palm trees swaying in the sun, colorful geometric patterns, and a palette of warm hues that encapsulate summer fun. Perfect for parties, social media posts, or a refreshing decor change, this design will transport you to sun-drenched days and carefree moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="532,200+ Retro Summer Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1363332456/vector/vintage-sun-background.jpg?s=612x612&w=0&k=20&c=2s58cuL7qSh95nnqburvyNiUCOBGqA02UZQ9fI0c_9k=' alt='532,200+ Retro Summer Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1363332456/vector/vintage-sun-background.jpg?s=612x612&w=0&k=20&c=2s58cuL7qSh95nnqburvyNiUCOBGqA02UZQ9fI0c_9k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro summer sun background groovy Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/02/18/retro-summer-sun-background-groovy-vector-50850218.jpg' alt='Retro summer sun background groovy Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/02/18/retro-summer-sun-background-groovy-vector-50850218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="532,200+ Retro Summer Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1388148275/vector/retro-banner-with-sun-and-rays-in-style-of-70s.jpg?s=612x612&w=0&k=20&c=EtLs_EGw6c5QyI8uAJujgnYIu6exyrndmdPgF0C0mtU=' alt='532,200+ Retro Summer Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1388148275/vector/retro-banner-with-sun-and-rays-in-style-of-70s.jpg?s=612x612&w=0&k=20&c=EtLs_EGw6c5QyI8uAJujgnYIu6exyrndmdPgF0C0mtU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Retro Summer Background Royalty-Free Stock Image - Storyblocks">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/vector-retro-summer-background_M1k4r6H__SB_PM.jpg' alt='Vector Retro Summer Background Royalty-Free Stock Image - Storyblocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/vector-retro-summer-background_M1k4r6H__SB_PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colourful grunge retro burst vector. Vintage summer, circus and ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/36/37/56/1000_F_436375606_gdtR0Dm6X82Em50hbNkUL24Bi0KrSHtz.jpg' alt='Colourful grunge retro burst vector. Vintage summer, circus and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/36/37/56/1000_F_436375606_gdtR0Dm6X82Em50hbNkUL24Bi0KrSHtz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Summer Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/818/275/non_2x/retro-summer-vibes-banner-exotic-silhouette-palm-and-beach-background-vector.jpg' alt='Retro Summer Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/818/275/non_2x/retro-summer-vibes-banner-exotic-silhouette-palm-and-beach-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Background With Sea And Sun. Summer Retro Poster. EPS10 ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/mrvander/mrvander1805/mrvander180500031/101903846-vintage-background-with-sea-and-sun-summer-retro-poster-eps10.jpg' alt='Vintage Background With Sea And Sun. Summer Retro Poster. EPS10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/mrvander/mrvander1805/mrvander180500031/101903846-vintage-background-with-sea-and-sun-summer-retro-poster-eps10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage summer retro burst background 4945579 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/945/579/non_2x/vintage-summer-retro-burst-background-vector.jpg' alt='Vintage summer retro burst background 4945579 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/945/579/non_2x/vintage-summer-retro-burst-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Summer Background Stock Illustrations – 849,967 Retro Summer ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/silhouettes-tropical-summer-palm-trees-surfer-beach-background-gradient-sunset-retro-vector-illustration-138992400.jpg' alt='Retro Summer Background Stock Illustrations – 849,967 Retro Summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/silhouettes-tropical-summer-palm-trees-surfer-beach-background-gradient-sunset-retro-vector-illustration-138992400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Summer colourful groovy retro burst background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/summer-colourful-groovy-retro-burst-background_92086-672.jpg' alt='Premium Vector | Summer colourful groovy retro burst background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/summer-colourful-groovy-retro-burst-background_92086-672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

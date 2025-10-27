@@ -1,0 +1,129 @@
+<title>Stunning Locked Wallpaper Aesthetic Ideas for Your Phone</title>
+                    <meta name="description" content="Discover the vibrant world of locked wallpaper aesthetics, enhancing your phone's look with artistic styles and personal flair. From nature to abstract themes, make your lock screen a stunning showcase of your personality. Perfect for anyone looking to elevate their mobile experience!">
+                    <meta name="keywords" content="its locked wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/its-locked-wallpaper-aesthetic">
+                            <span itemprop="name">its locked wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Locked Wallpaper Aesthetic Ideas for Your Phone</h1>
+                <p>Unlock your creativity with a locked wallpaper aesthetic! This trend beautifully combines vibrant colors, artistic patterns, and personal touches, transforming your phone's lock screen into a canvas of inspiration. Explore themes from nature to abstract art, making it not just a barrier, but a statement of style every time you check your notifications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen wallpaper Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/c2/69/50c269006aac1a50eaac142ca9d2cd34.jpg' alt='Lock screen wallpaper Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/c2/69/50c269006aac1a50eaac142ca9d2cd34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/cc/22/c0cc22d5143025e3711a80e703ec71fc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/cc/22/c0cc22d5143025e3711a80e703ec71fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/32/ba/4632ba4e612a578a6ca6418a64281f54.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/32/ba/4632ba4e612a578a6ca6418a64281f54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd wallpaper for lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/cc/79/2fcc795e7856da0266f199fda4bf927c.jpg' alt='Hd wallpaper for lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/cc/79/2fcc795e7856da0266f199fda4bf927c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Background in 2022 | Ipad wallpaper quotes, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7a/7e/ee/7a7eeea9ddb39f6005226928607d1d68.jpg' alt='Cute Lock Screen Background in 2022 | Ipad wallpaper quotes, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7a/7e/ee/7a7eeea9ddb39f6005226928607d1d68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its locked | Iphone wallpaper quotes funny, Funny lockscreen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/86/02/c186023cdc538d60509cbca083486c12.jpg' alt='Its locked | Iphone wallpaper quotes funny, Funny lockscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/86/02/c186023cdc538d60509cbca083486c12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Phone It's Locked Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-aesthetic-phone-it-s-locked-uzr0lk2550aid1v7.jpg' alt='Black Aesthetic Phone It's Locked Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-aesthetic-phone-it-s-locked-uzr0lk2550aid1v7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its Locked For A Reason Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/its-locked-for-a-reason-on-grid-design-7spjb2hk2ndoig03.jpg' alt='Its Locked For A Reason Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/its-locked-for-a-reason-on-grid-design-7spjb2hk2ndoig03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Lockscreen Aesthetic Ideas — It's Locked">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/f8/56/ebf856a6e5569a79b611093fad53a966.jpg' alt='19 Lockscreen Aesthetic Ideas — It's Locked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/f8/56/ebf856a6e5569a79b611093fad53a966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD funny locked wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/298/HD-wallpaper-lock-screen-black-funny-locked-oops.jpg' alt='HD funny locked wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/298/HD-wallpaper-lock-screen-black-funny-locked-oops.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

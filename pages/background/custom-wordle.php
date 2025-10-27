@@ -1,0 +1,129 @@
+<title>Custom Wordle: Create Your Own Word Game Challenges</title>
+                    <meta name="description" content="Discover the joy of Custom Wordle! Create personalized word puzzles to play with friends and family. Enjoy endless themes and word selections for a unique gaming experience. Perfect for all ages, Custom Wordle adds a fun twist to the classic game!">
+                    <meta name="keywords" content="custom wordle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/custom-wordle">
+                            <span itemprop="name">custom wordle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Custom Wordle: Create Your Own Word Game Challenges</h1>
+                <p>Custom Wordle is a fun and engaging twist on the popular word puzzle game! Players can create their own personalized Wordle challenges, selecting specific words or themes. This interactive experience allows for creativity and can be enjoyed with friends or family. With endless possibilities, custom Wordle keeps the game fresh and exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Custom WORDLE in Seconds with MyWordle">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4YRx88KbeBc/maxresdefault.jpg' alt='Create a Custom WORDLE in Seconds with MyWordle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4YRx88KbeBc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own Wordles With 'Custom Wordle'">
+                                <img itemprop="contentUrl url" src='https://sm.lifehacker.com/lifehacker_au/news/m/make-your-/make-your-own-wordles-with-custom-wordle_qrt6.jpg' alt='Make Your Own Wordles With 'Custom Wordle''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2491">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker Australia" />
+                                </span>
+                                <a href='https://sm.lifehacker.com/lifehacker_au/news/m/make-your-/make-your-own-wordles-with-custom-wordle_qrt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Time to Talk Tech : How to create your own custom Wordle">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEgJtjO9RNYt09OTDiIWMXYc-3m0_q03S_tNgbIyzUiQXx3b8MZTl2KJuZo4k8kNpKcAgB37qfN0HlMzDNyVHyMBoT4R2WSKV2NasVvPTdSuJ2THb6aBBS7blYvMwyA0S8Ujv4OCGRUCRQB2rg1S8MDVnOeqPqLmHpYtS0AKEfTEC9XSfP1enSZk7aRV=w1200-h630-p-k-no-nu' alt='Time to Talk Tech : How to create your own custom Wordle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time to Talk Tech" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEgJtjO9RNYt09OTDiIWMXYc-3m0_q03S_tNgbIyzUiQXx3b8MZTl2KJuZo4k8kNpKcAgB37qfN0HlMzDNyVHyMBoT4R2WSKV2NasVvPTdSuJ2THb6aBBS7blYvMwyA0S8Ujv4OCGRUCRQB2rg1S8MDVnOeqPqLmHpYtS0AKEfTEC9XSfP1enSZk7aRV=w1200-h630-p-k-no-nu' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wordle SVG, Make Your Own Wordle Grid, Create Any Message, Perfect ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32826793/r/il/822ccb/3986519145/il_fullxfull.3986519145_h4l2.jpg' alt='Wordle SVG, Make Your Own Wordle Grid, Create Any Message, Perfect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32826793/r/il/822ccb/3986519145/il_fullxfull.3986519145_h4l2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wordle - MarketJS">
+                                <img itemprop="contentUrl url" src='https://www.marketjs.com/shell/custom-wordle/case-studies/custom-wordle-kings-hawaiian-wordler-screenshot4.jpg' alt='Custom Wordle - MarketJS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MarketJS" />
+                                </span>
+                                <a href='https://www.marketjs.com/shell/custom-wordle/case-studies/custom-wordle-kings-hawaiian-wordler-screenshot4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own Wordle">
+                                <img itemprop="contentUrl url" src='https://mywordle.strivemath.com/socialshare.jpg' alt='Make Your Own Wordle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mywordle.strivemath.com" />
+                                </span>
+                                <a href='https://mywordle.strivemath.com/socialshare.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wordle">
+                                <img itemprop="contentUrl url" src='https://food-le.com/data/image/mywordle-8-2.png' alt='Custom Wordle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foodle" />
+                                </span>
+                                <a href='https://food-le.com/data/image/mywordle-8-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Wordle Collection - Cube For Teachers">
+                                <img itemprop="contentUrl url" src='https://cubeforteachersimageforposts.s3.us-west-2.amazonaws.com/5bfba60337a209801147cca4cdb7db63.jpg' alt='The Ultimate Wordle Collection - Cube For Teachers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cube For Teachers" />
+                                </span>
+                                <a href='https://cubeforteachersimageforposts.s3.us-west-2.amazonaws.com/5bfba60337a209801147cca4cdb7db63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own Wordle (And What Is Wordle)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uDRF3NR8MEA/mqdefault.jpg' alt='Make Your Own Wordle (And What Is Wordle)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uDRF3NR8MEA/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I sent my girlfriend a customised Wordle...and now we are engaged ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nmglw2y17oi81.jpg' alt='I sent my girlfriend a customised Wordle...and now we are engaged ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nmglw2y17oi81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

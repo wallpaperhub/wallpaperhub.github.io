@@ -1,0 +1,129 @@
+<title>Stunning Portraits Against a White Background</title>
+                    <meta name="description" content="Discover the beauty of portraits with white backgrounds. This photography style highlights your features with a clean aesthetic, perfect for any occasion—professional profiles, family memories, and artistic expressions. Capture timeless moments that stand out beautifully!">
+                    <meta name="keywords" content="portraits with white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/portraits-with-white-background">
+                            <span itemprop="name">portraits with white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Portraits Against a White Background</h1>
+                <p>Portraits with white backgrounds offer a clean, minimalist approach that enhances the subject’s features, drawing attention to their expressions and personality. This style is ideal for professional headshots, family portraits, and artistic photography, creating a timeless and versatile aesthetic that suits any occasion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the quickest ways to get white background travel portraits — JAYNE ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/581aae8fd482e9494baaaf15/1590285338393-64BYGHD8AMIXUUPZHDXC/ethiopia+omo+Valley+tribes+photos' alt='the quickest ways to get white background travel portraits — JAYNE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JAYNE MCLEAN PHOTOGRAPHER" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/581aae8fd482e9494baaaf15/1590285338393-64BYGHD8AMIXUUPZHDXC/ethiopia+omo+Valley+tribes+photos' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Pure White Background in Camera | Fstoppers">
+                                <img itemprop="contentUrl url" src='https://cdn.fstoppers.com/styles/full/s3/media/2022/01/13/theatrical-headshot.jpg' alt='How to Create a Pure White Background in Camera | Fstoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fstoppers" />
+                                </span>
+                                <a href='https://cdn.fstoppers.com/styles/full/s3/media/2022/01/13/theatrical-headshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Shoot Varied Portrait Looks on a White Backdrop | Rangefinder">
+                                <img itemprop="contentUrl url" src='https://rangefinderonline.com/wp-content/uploads/2021/04/Bright-White-Example-1-1.jpg' alt='How to Shoot Varied Portrait Looks on a White Backdrop | Rangefinder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="rangefinderonline.com" />
+                                </span>
+                                <a href='https://rangefinderonline.com/wp-content/uploads/2021/04/Bright-White-Example-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Portrait with White Background with Two Lights. — Kevin ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/572f75e77c65e4a1135a3266/1500056102581-ADJ2N02B6CHC1ZPII51K/image-asset.jpeg' alt='Studio Portrait with White Background with Two Lights. — Kevin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kevin Fiscus Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/572f75e77c65e4a1135a3266/1500056102581-ADJ2N02B6CHC1ZPII51K/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get a white background in photography">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.alijohnson.com/wp-content/uploads/2020/02/How-to-Light-a-White-Background-2.gif?resize=740%2C493&ssl=1' alt='How to get a white background in photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ali Johnson Photography" />
+                                </span>
+                                <a href='https://i0.wp.com/www.alijohnson.com/wp-content/uploads/2020/02/How-to-Light-a-White-Background-2.gif?resize=740%2C493&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Background Photography: Step-by-Step Guide for Portraits">
+                                <img itemprop="contentUrl url" src='https://media.greatbigphotographyworld.com/wp-content/uploads/2022/09/white-background-portrait-e1662418017315.jpg' alt='White Background Photography: Step-by-Step Guide for Portraits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Big Photography World" />
+                                </span>
+                                <a href='https://media.greatbigphotographyworld.com/wp-content/uploads/2022/09/white-background-portrait-e1662418017315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the quickest ways to get white background travel portraits — JAYNE ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/581aae8fd482e9494baaaf15/1590285371065-1V2PI0GLDE3E0MO3LO50/ethiopia+omo+Valley+tribes+photos' alt='the quickest ways to get white background travel portraits — JAYNE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JAYNE MCLEAN PHOTOGRAPHER" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/581aae8fd482e9494baaaf15/1590285371065-1V2PI0GLDE3E0MO3LO50/ethiopia+omo+Valley+tribes+photos' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get a white background in photography">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.alijohnson.com/wp-content/uploads/2020/02/how-to-light-a-white-backdrop-3.png?resize=740%2C493&ssl=1' alt='How to get a white background in photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ali Johnson Photography" />
+                                </span>
+                                <a href='https://i0.wp.com/www.alijohnson.com/wp-content/uploads/2020/02/how-to-light-a-white-backdrop-3.png?resize=740%2C493&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lens Rentals | Blog">
+                                <img itemprop="contentUrl url" src='https://www.lensrentals.com/blog/media/2021/03/Bounce-White-Example.jpg' alt='Lens Rentals | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lens Rentals | Blog" />
+                                </span>
+                                <a href='https://www.lensrentals.com/blog/media/2021/03/Bounce-White-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The White Background - NYFA">
+                                <img itemprop="contentUrl url" src='https://www.nyfa.edu/wp-content/uploads/2022/11/Richardson1.jpg' alt='The White Background - NYFA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Film Academy" />
+                                </span>
+                                <a href='https://www.nyfa.edu/wp-content/uploads/2022/11/Richardson1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

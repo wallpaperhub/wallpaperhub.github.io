@@ -1,0 +1,129 @@
+<title>Vote Inspired: Engaging Voting Wallpaper Designs</title>
+                    <meta name="description" content="Discover vibrant and motivational voting wallpaper designs that inspire civic engagement. Transform your space with unique styles featuring ballot boxes and patriotic themes, encouraging discussions on the importance of participating in elections. Perfect for homes and offices!">
+                    <meta name="keywords" content="voting wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/voting-wallpaper">
+                            <span itemprop="name">voting wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vote Inspired: Engaging Voting Wallpaper Designs</h1>
+                <p>Voting wallpaper adds a unique touch to your space, inspiring civic engagement and a love for democracy. With vibrant designs showcasing ballot boxes, national flags, and motivational quotes about voting, these wallpapers create an atmosphere that encourages discussion about participation in elections and civic responsibility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Vote Pictures [HD] | Download Free Images for Election Day on ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1705317716147-9d8f7ab2ad69?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dm90ZXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Vote Pictures [HD] | Download Free Images for Election Day on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1705317716147-9d8f7ab2ad69?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dm90ZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,680 Vote Wallpaper Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2508042423/display_1500/stock-vector-seamless-patten-with-vote-word-presidential-elections-in-the-united-states-of-america-repeating-2508042423.jpg' alt='20,680 Vote Wallpaper Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2508042423/display_1500/stock-vector-seamless-patten-with-vote-word-presidential-elections-in-the-united-states-of-america-repeating-2508042423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DVIDS - Images - Voting Infographic [Image 1 of 12]">
+                                <img itemprop="contentUrl url" src='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2009/6373697/2000w_q95.jpg' alt='DVIDS - Images - Voting Infographic [Image 1 of 12]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVIDS" />
+                                </span>
+                                <a href='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2009/6373697/2000w_q95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="89,700+ Democracy Voting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/611606520/photo/usa-presidential-election-day-voting-concept.jpg?s=612x612&w=0&k=20&c=ZFNgSHKryGlHxDyRAnoULG7PgOPdOuIxJJNoNhqZ4oY=' alt='89,700+ Democracy Voting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/611606520/photo/usa-presidential-election-day-voting-concept.jpg?s=612x612&w=0&k=20&c=ZFNgSHKryGlHxDyRAnoULG7PgOPdOuIxJJNoNhqZ4oY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Voting Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1708598525588-eae2b2d05a9e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dm90aW5nfGVufDB8fDB8fHww' alt='1000+ Voting Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1708598525588-eae2b2d05a9e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dm90aW5nfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Power of Voting: Why Every Vote Counts — Children of Promise, NYC">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d26068ced44a60001544046/e053dcf9-5b54-4d70-8a0c-6de9668fdd33/Capture.PNG' alt='The Power of Voting: Why Every Vote Counts — Children of Promise, NYC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Children of Promise, NYC" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d26068ced44a60001544046/e053dcf9-5b54-4d70-8a0c-6de9668fdd33/Capture.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democrats use "vote-shaming" to increase turnout - Axios San Francisco">
+                                <img itemprop="contentUrl url" src='https://images.axios.com/E8OJ3ck0OHpza1EvEbkzlMWNrpA=/0x0:1920x1080/1920x1080/2022/09/02/1662147619546.jpg' alt='Democrats use "vote-shaming" to increase turnout - Axios San Francisco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Axios" />
+                                </span>
+                                <a href='https://images.axios.com/E8OJ3ck0OHpza1EvEbkzlMWNrpA=/0x0:1920x1080/1920x1080/2022/09/02/1662147619546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vote Background Images – Browse 677,286 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/25/14/36/360_F_125143621_PeyQ9V9HmFNO8Rwmqxojv4Ki6QyU0snF.jpg' alt='Vote Background Images – Browse 677,286 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/25/14/36/360_F_125143621_PeyQ9V9HmFNO8Rwmqxojv4Ki6QyU0snF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greater Longfellow Voting Information - Longfellow Community Council">
+                                <img itemprop="contentUrl url" src='https://longfellow.org/wp-content/uploads/2022/10/Creative-Vote-Yard-Sign-1024x768.jpg' alt='Greater Longfellow Voting Information - Longfellow Community Council'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Longfellow Community Council" />
+                                </span>
+                                <a href='https://longfellow.org/wp-content/uploads/2022/10/Creative-Vote-Yard-Sign-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virginia Elections | Virginia Politics | Local election headquarters">
+                                <img itemprop="contentUrl url" src='https://www.wric.com/wp-content/uploads/sites/74/2022/11/GettyImages-1395867025-e1667920581826.jpg?w=2560&h=1440&crop=1' alt='Virginia Elections | Virginia Politics | Local election headquarters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRIC" />
+                                </span>
+                                <a href='https://www.wric.com/wp-content/uploads/sites/74/2022/11/GettyImages-1395867025-e1667920581826.jpg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

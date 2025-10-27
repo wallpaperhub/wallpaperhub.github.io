@@ -1,0 +1,129 @@
+<title>Adorable Kawaii Core Wallpaper for a Cute Aesthetic</title>
+                    <meta name="description" content="Explore our collection of kawaii core wallpaper, perfect for adding a touch of cuteness to your devices. Dive into pastel shades, playful designs, and whimsical characters that brighten your day. Transform your space with the ultimate kawaii aesthetic—sweet, fun, and utterly charming!">
+                    <meta name="keywords" content="kawaii core wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-core-wallpaper">
+                            <span itemprop="name">kawaii core wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii Core Wallpaper for a Cute Aesthetic</h1>
+                <p>Kawaii core wallpaper embodies the adorable aesthetics of cuteness and whimsy. Featuring pastel colors, playful characters, and cartoonish designs, these wallpapers transform your space into a joyful haven. Perfect for anyone who loves a pop of sweetness in their digital or physical surroundings, they spread smiles and positivity daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaiicore wallpaper || no repost">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/47/7f/d3477f9fa4e38dc9aefd133ec6f8d743.jpg' alt='kawaiicore wallpaper || no repost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/47/7f/d3477f9fa4e38dc9aefd133ec6f8d743.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaiicore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/07/22/6b07228dcd990bfd428541efc9b61bb1.jpg' alt='kawaiicore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/07/22/6b07228dcd990bfd428541efc9b61bb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaiicore Pink Aesthetic Collection Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaiicore-pink-aesthetic-collection-jxl5jexuvlyrsubt.jpg' alt='Download Kawaiicore Pink Aesthetic Collection Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaiicore-pink-aesthetic-collection-jxl5jexuvlyrsubt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KAWAIICORE BANNER! Feel fwee 2 use">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/e1/e4/22e1e497fe4eefe15cf72a25ab8fd3e2.jpg' alt='KAWAIICORE BANNER! Feel fwee 2 use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/e1/e4/22e1e497fe4eefe15cf72a25ab8fd3e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaiicore Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-collage-pink-overload-bskbo4qh00e5rkbq.jpg' alt='100+] Kawaiicore Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-collage-pink-overload-bskbo4qh00e5rkbq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaiicore PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12901057.jpg' alt='Kawaiicore PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12901057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaiicore Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-pattern-pink-background-9b8em5atpq4if6on.jpg' alt='100+] Kawaiicore Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-pattern-pink-background-9b8em5atpq4if6on.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaiicore bg (not mine)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/ab/7e/a9ab7e66568472629b93dbd7b75da9e4.jpg' alt='kawaiicore bg (not mine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/ab/7e/a9ab7e66568472629b93dbd7b75da9e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaiicore Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kawaiicore-jiykb8jwzovlt7g2.jpg' alt='100+] Kawaiicore Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kawaiicore-jiykb8jwzovlt7g2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out nia_9k's Shuffles #miku #vocaloid #kawaii #kawaiicore ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/52/a7/fd/52a7fdd2ba30dfc1e18f5766a5bd80e1.jpg' alt='Check out nia_9k's Shuffles #miku #vocaloid #kawaii #kawaiicore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/52/a7/fd/52a7fdd2ba30dfc1e18f5766a5bd80e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

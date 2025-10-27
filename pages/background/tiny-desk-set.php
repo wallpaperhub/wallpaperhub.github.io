@@ -1,0 +1,129 @@
+<title>Maximize Space with Stylish Tiny Desk Sets</title>
+                    <meta name="description" content="Discover the ideal tiny desk set for your small space! Perfect for home offices or dorms, these compact workstations combine style and functionality. Organize your workspace efficiently and boost productivity without cluttering your home. Explore our top picks for the best tiny desk sets today!">
+                    <meta name="keywords" content="tiny desk set">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tiny-desk-set">
+                            <span itemprop="name">tiny desk set</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maximize Space with Stylish Tiny Desk Sets</h1>
+                <p>Tiny desk sets are the perfect solution for optimizing small spaces while maintaining functionality and style. These compact workstations often include a desk, shelves, and organizers to enhance productivity without overwhelming your room. Ideal for home offices, dorms, or minimalist living, a tiny desk set helps you stay organized and focused.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wilco In 360: Behind The Scenes At NPR Music's Tiny Desk : All ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/02/25/360wilco_poster-image_wide-e92a8eb920ca5d5b0b2651b9c617c3660575682e.jpg' alt='Wilco In 360: Behind The Scenes At NPR Music's Tiny Desk : All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1917">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/02/25/360wilco_poster-image_wide-e92a8eb920ca5d5b0b2651b9c617c3660575682e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind The Scenes At The Tiny Desk in 360˚: Wilco - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/R2osJjSNxTE/sddefault.jpg' alt='Behind The Scenes At The Tiny Desk in 360˚: Wilco - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/R2osJjSNxTE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Desk Concerts: A Cultural Phenomenon for Black Artists - The ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.washingtoninformer.com/wp-content/uploads/2023/09/image-116.jpg?fit=1200%2C900&ssl=1' alt='Tiny Desk Concerts: A Cultural Phenomenon for Black Artists - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Informer" />
+                                </span>
+                                <a href='https://i0.wp.com/www.washingtoninformer.com/wp-content/uploads/2023/09/image-116.jpg?fit=1200%2C900&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A self-proclaimed music nerd shares his favorite Tiny Desk ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/b6/e5/904d28464cdc8afda9249280cee1/tinydesk-dsc0968-custom-abcf1684322940196215fd7880f34d831258d163.jpg' alt='A self-proclaimed music nerd shares his favorite Tiny Desk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WUWF" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/b6/e5/904d28464cdc8afda9249280cee1/tinydesk-dsc0968-custom-abcf1684322940196215fd7880f34d831258d163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How NPR's Tiny Desk Concerts became a pop culture phenomenon | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/bb7ee82/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F95%2F9bcba6c958a60a9d549fee5a69fc%2Fcd60492e342c4f7ab870ceb14eec1b8b' alt='How NPR's Tiny Desk Concerts became a pop culture phenomenon | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/bb7ee82/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F95%2F9bcba6c958a60a9d549fee5a69fc%2Fcd60492e342c4f7ab870ceb14eec1b8b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind The Scenes At The Tiny Desk in 360˚: Wilco">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/R2osJjSNxTE/mqdefault.jpg' alt='Behind The Scenes At The Tiny Desk in 360˚: Wilco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/R2osJjSNxTE/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ensemble Signal Plays Jonny Greenwood: Tiny Desk Concert ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/67f1dc7/2147483647/strip/true/crop/1476x830+0+0/resize/880x495!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fimages%2Fnews%2Fnpr%2F2019%2F05%2F723980796_1087191052.jpg' alt='Ensemble Signal Plays Jonny Greenwood: Tiny Desk Concert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ideastream" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/67f1dc7/2147483647/strip/true/crop/1476x830+0+0/resize/880x495!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fimages%2Fnews%2Fnpr%2F2019%2F05%2F723980796_1087191052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomy Of The Tiny Desk : NPR Extra : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2012/11/26/0_tinydesk_desk_custom-2e976959d43a1b01a8bea45b7d3f1c3ab4efa640.jpg' alt='Anatomy Of The Tiny Desk : NPR Extra : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2012/11/26/0_tinydesk_desk_custom-2e976959d43a1b01a8bea45b7d3f1c3ab4efa640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="they really gave ya boy a tiny desk :,). full set on youtube now ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3302782934917940646' alt='they really gave ya boy a tiny desk :,). full set on youtube now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3302782934917940646' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The magic of tiny desk concerts | Varsity">
+                                <img itemprop="contentUrl url" src='https://www.varsity.co.uk/images/dyn/store/1500/0/36742.jpeg' alt='The magic of tiny desk concerts | Varsity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Varsity" />
+                                </span>
+                                <a href='https://www.varsity.co.uk/images/dyn/store/1500/0/36742.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

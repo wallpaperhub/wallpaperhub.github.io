@@ -1,0 +1,129 @@
+<title>Discover the Origin of Hennessy: The French Cognac Leader</title>
+                    <meta name="description" content="Explore the rich heritage of Hennessy, the iconic French cognac from Cognac, France. Learn about its history, production methods, and the unique flavors that make it a global favorite. Perfect for enthusiasts and those new to the world of cognac!">
+                    <meta name="keywords" content="where is hennessy from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-hennessy-from">
+                            <span itemprop="name">where is hennessy from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Origin of Hennessy: The French Cognac Leader</h1>
+                <p>Hennessy is a prominent cognac brand originating from the Charente region of France, specifically in the town of Cognac. Established in 1765, it has become a global leader in the production of high-quality cognac. The brand is renowned for its craftsmanship and rich heritage, creating distinct flavors enjoyed worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hennessy - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/de/Cognac_Hennessy_XO.jpg' alt='Hennessy - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3396">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/de/Cognac_Hennessy_XO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Hennessy Cognac?">
+                                <img itemprop="contentUrl url" src='https://www.thespruceeats.com/thmb/ShkLembN8MXMb_g13B7TMXKAHII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/HennessyVSCognac-56a174e43df78cf7726ace75.jpg' alt='What Is Hennessy Cognac?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Eats" />
+                                </span>
+                                <a href='https://www.thespruceeats.com/thmb/ShkLembN8MXMb_g13B7TMXKAHII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/HennessyVSCognac-56a174e43df78cf7726ace75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cognac production: from grapes to bottle - Hennessy">
+                                <img itemprop="contentUrl url" src='https://www.hennessy.com/sites/hennessy_us/files/styles/landscape_2880x1540/public/2020-01/01_header_2880x1540.jpg?itok=ZZrI0H_9' alt='Cognac production: from grapes to bottle - Hennessy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hennessy" />
+                                </span>
+                                <a href='https://www.hennessy.com/sites/hennessy_us/files/styles/landscape_2880x1540/public/2020-01/01_header_2880x1540.jpg?itok=ZZrI0H_9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hennessy V.S – The finest cognac | Hennessy">
+                                <img itemprop="contentUrl url" src='https://www.hennessy.com/sites/hennessy_us/files/2024-08/hny_vs_packshot_2000x2000.jpg' alt='Hennessy V.S – The finest cognac | Hennessy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hennessy" />
+                                </span>
+                                <a href='https://www.hennessy.com/sites/hennessy_us/files/2024-08/hny_vs_packshot_2000x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surprising Facts About Hennessy Cognac">
+                                <img itemprop="contentUrl url" src='https://www.hennessy.com/sites/hennessy/files/styles/landscape_2880x1540/public/2022-12/hennessy-article-things-you-didnt-know-about-hennessy-photo-only-landscape-2880x1540-5.jpg?itok=2Iu7fQlK' alt='Surprising Facts About Hennessy Cognac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hennessy" />
+                                </span>
+                                <a href='https://www.hennessy.com/sites/hennessy/files/styles/landscape_2880x1540/public/2022-12/hennessy-article-things-you-didnt-know-about-hennessy-photo-only-landscape-2880x1540-5.jpg?itok=2Iu7fQlK' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All about the Irish surname Hennessy, in Ireland, GB, USA & Australia">
+                                <img itemprop="contentUrl url" src='https://www.irish-genealogy-toolkit.com/images/Hennessy_V_S_cognac.png' alt='All about the Irish surname Hennessy, in Ireland, GB, USA & Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Irish Genealogy Toolkit" />
+                                </span>
+                                <a href='https://www.irish-genealogy-toolkit.com/images/Hennessy_V_S_cognac.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Maison Hennessy Became the World's Most Popular Cognac ...">
+                                <img itemprop="contentUrl url" src='https://cityhive-prod-cdn.cityhive.net/media_gallery/merchant/5eea24de2157b828af6ac17a/image/65d5a300139de42c0520813d.png?1708499712' alt='How Maison Hennessy Became the World's Most Popular Cognac ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Liquor Store NYC" />
+                                </span>
+                                <a href='https://cityhive-prod-cdn.cityhive.net/media_gallery/merchant/5eea24de2157b828af6ac17a/image/65d5a300139de42c0520813d.png?1708499712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surprising Facts About Hennessy Cognac">
+                                <img itemprop="contentUrl url" src='https://www.hennessy.com/sites/hennessy/files/2023-04/HENNESSY-VSOP-BOTTLE-PACK.png' alt='Surprising Facts About Hennessy Cognac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hennessy" />
+                                </span>
+                                <a href='https://www.hennessy.com/sites/hennessy/files/2023-04/HENNESSY-VSOP-BOTTLE-PACK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things You Should Know About Hennessy Cognac | VinePair">
+                                <img itemprop="contentUrl url" src='https://vinepair.com/wp-content/uploads/2018/03/hennessey-internal.jpg' alt='10 Things You Should Know About Hennessy Cognac | VinePair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VinePair" />
+                                </span>
+                                <a href='https://vinepair.com/wp-content/uploads/2018/03/hennessey-internal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of cognac: a legacy - Hennessy">
+                                <img itemprop="contentUrl url" src='https://www.hennessy.com/sites/hennessy_us/files/2020-01/01_10_octobre_2019-hennessy-2015.02.2531-1-jpg_impression_2880x1540.jpg' alt='The history of cognac: a legacy - Hennessy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hennessy" />
+                                </span>
+                                <a href='https://www.hennessy.com/sites/hennessy_us/files/2020-01/01_10_octobre_2019-hennessy-2015.02.2531-1-jpg_impression_2880x1540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

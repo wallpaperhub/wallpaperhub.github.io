@@ -1,0 +1,129 @@
+<title>Serene Phone Wallpapers for Ultimate Peace</title>
+                    <meta name="description" content="Discover a stunning array of peaceful phone wallpapers designed to inspire calm and relaxation. Perfect for any device, these wallpapers enhance your phone's appearance while providing a soothing visual experience. Explore our collection today for your perfect backdrop!">
+                    <meta name="keywords" content="peaceful phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/peaceful-phone-wallpaper">
+                            <span itemprop="name">peaceful phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Phone Wallpapers for Ultimate Peace</h1>
+                <p>Transform your device's aesthetic with our collection of peaceful phone wallpapers. Featuring serene landscapes, calming colors, and minimalist designs, these wallpapers promote tranquility and relaxation. Whether you're at home or on the go, find the perfect backdrop to create a serene atmosphere for your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peaceful Photos, Download The BEST Free Peaceful Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg?cs=srgb&dl=pexels-packermann-1666021.jpg&fm=jpg' alt='Peaceful Photos, Download The BEST Free Peaceful Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg?cs=srgb&dl=pexels-packermann-1666021.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 30 Calming iPhone Wallpaper To Relax Your Mind">
+                                <img itemprop="contentUrl url" src='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' alt='Top 30 Calming iPhone Wallpaper To Relax Your Mind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calm Sage" />
+                                </span>
+                                <a href='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="calm body of water iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/37/0c/6d370cc352ba9436cc7a862e83d4fb6f.jpg' alt='calm body of water iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/37/0c/6d370cc352ba9436cc7a862e83d4fb6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peaceful nature, mountain, boat, scenery, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/664/252/HD-wallpaper-peaceful-nature-mountain-boat-scenery.jpg' alt='Peaceful nature, mountain, boat, scenery, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/664/252/HD-wallpaper-peaceful-nature-mountain-boat-scenery.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Best peaceful backgrounds ideas | aesthetic wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/45/76/c4/4576c445a5f1e49e40a9e3cdd606bb9b.jpg' alt='170 Best peaceful backgrounds ideas | aesthetic wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/45/76/c4/4576c445a5f1e49e40a9e3cdd606bb9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peaceful Turquoise Lake Near Mountains 4K phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/peaceful-turquoise-lake-near-mountains-4k-phone-wallpaper-v0-sZvmYB3LP4uGJRRPVkb5cey_bU0mM244hjaiN3tfwxM.jpg?width=640&crop=smart&auto=webp&s=ae51f33757f7e61bcbf66f7db08b794367534c24' alt='Peaceful Turquoise Lake Near Mountains 4K phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/peaceful-turquoise-lake-near-mountains-4k-phone-wallpaper-v0-sZvmYB3LP4uGJRRPVkb5cey_bU0mM244hjaiN3tfwxM.jpg?width=640&crop=smart&auto=webp&s=ae51f33757f7e61bcbf66f7db08b794367534c24' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun & Sanctuary | 10 Gorgeous Phone Wallpapers for Summer Vibes">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/133378/1725410051-sun-and-sanctuary-tropical-flowers-phone-wallpaper.jpg' alt='Sun & Sanctuary | 10 Gorgeous Phone Wallpapers for Summer Vibes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="439">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sun & Sanctuary | Women's Boho Fashion & Vacation Wear" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/133378/1725410051-sun-and-sanctuary-tropical-flowers-phone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Calming Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/calming-iphone-7xmolu0q19n1ybg0.jpg' alt='100+] Calming Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/calming-iphone-7xmolu0q19n1ybg0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 NATURAL IPHONE WALLPAPERS FOR THE NATURE LOVERS ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/8c/37/e28c371f59e5d2e667c9ae2a44a8e172.jpg' alt='65 NATURAL IPHONE WALLPAPERS FOR THE NATURE LOVERS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/8c/37/e28c371f59e5d2e667c9ae2a44a8e172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calming Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/digital-art-style-sky-landscape-with-moon_23-2151120793.jpg' alt='Calming Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/digital-art-style-sky-landscape-with-moon_23-2151120793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

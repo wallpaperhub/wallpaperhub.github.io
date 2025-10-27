@@ -1,0 +1,129 @@
+<title>Customize CSS Table Row Background Colors</title>
+                    <meta name="description" content="Learn how to enhance your website's design by customizing CSS table row background colors. Discover tips for improving readability and user interaction with easy-to-implement code examples, perfect for both beginners and experienced developers.">
+                    <meta name="keywords" content="css table row background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-table-row-background-color">
+                            <span itemprop="name">css table row background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customize CSS Table Row Background Colors</h1>
+                <p>CSS allows you to customize the appearance of table rows easily. To change a row's background color, use the `background-color` property within the `tr` selector. For example, `tr:hover { background-color: #f2f2f2; }` changes the color on hover. This enhances readability and user experience on your webpage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - how to change the background color of first row in html ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/DfRhR.jpg' alt='css - how to change the background color of first row in html ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/DfRhR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - CSS background color of individual rows - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/veR5R.png' alt='html - CSS background color of individual rows - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/veR5R.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Set Alternate Table Row Color Using CSS? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/2019-02-16.png' alt='How To Set Alternate Table Row Color Using CSS? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/2019-02-16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change background color of table rows or individual cells ...">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210806171910/alltableclass.png' alt='How to change background color of table rows or individual cells ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210806171910/alltableclass.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Different background-color for each cell of the first row ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/pRYEO.png' alt='html - Different background-color for each cell of the first row ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/pRYEO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change background color of table rows or individual cells ...">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210806172555/allcell.png' alt='How to change background color of table rows or individual cells ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210806172555/allcell.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change table background color for selected rows - Queries and ...">
+                                <img itemprop="contentUrl url" src='https://community.retool.com/uploads/default/original/1X/94e2e0c47fc2dabae6b41db26a076af8dbbe2e04.jpeg' alt='Change table background color for selected rows - Queries and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2656">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retool Forum" />
+                                </span>
+                                <a href='https://community.retool.com/uploads/default/original/1X/94e2e0c47fc2dabae6b41db26a076af8dbbe2e04.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="python - How can I get the background color of an HTML table's row ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/0ygvs.jpg' alt='python - How can I get the background color of an HTML table's row ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1251">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/0ygvs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Responsive Table with alternate color rows - Super Dev Resources">
+                                <img itemprop="contentUrl url" src='https://superdevresources.com/wp-content/uploads/2014/11/responsive-table-zebra-stripe.png' alt='Responsive Table with alternate color rows - Super Dev Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Dev Resources" />
+                                </span>
+                                <a href='https://superdevresources.com/wp-content/uploads/2014/11/responsive-table-zebra-stripe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Table Row Color Based on Value — CodeHim">
+                                <img itemprop="contentUrl url" src='https://codehim.com/wp-content/uploads/2023/11/HTML-Table-Row-Color-Based-on-Value-1.png' alt='HTML Table Row Color Based on Value — CodeHim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeHim" />
+                                </span>
+                                <a href='https://codehim.com/wp-content/uploads/2023/11/HTML-Table-Row-Color-Based-on-Value-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

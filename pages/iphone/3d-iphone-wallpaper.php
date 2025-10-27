@@ -1,0 +1,129 @@
+<title>Stunning 3D Wallpapers for iPhone: Elevate Your Screen</title>
+                    <meta name="description" content="Discover an exclusive collection of mesmerizing 3D iPhone wallpapers that enhance your device's look. Choose from vibrant designs that add depth and style, perfect for making your phone truly yours. Browse now and find the ideal wallpaper to transform your iPhone experience!">
+                    <meta name="keywords" content="3d iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/3d-iphone-wallpaper">
+                            <span itemprop="name">3d iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Wallpapers for iPhone: Elevate Your Screen</h1>
+                <p>Transform your iPhone with stunning 3D wallpapers that bring depth and vibrancy to your screen. Explore a variety of designs, from abstract art to nature scenes, perfect for any mood. Elevate your device’s aesthetics and enjoy a new visual experience every time you unlock your phone. Discover your favorite 3D iPhone wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Iphone Black And Gold Triangles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-iphone-black-and-gold-triangles-zsw0q1vro568shy1.jpg' alt='3d Iphone Black And Gold Triangles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-iphone-black-and-gold-triangles-zsw0q1vro568shy1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Iphone Neon Mushrooms Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-iphone-neon-mushrooms-g68rr64gkfm0llcu.jpg' alt='3d Iphone Neon Mushrooms Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-iphone-neon-mushrooms-g68rr64gkfm0llcu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Quality 3D iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/09/94/ef/0994ef7e96e464536b6228464836150e.jpg' alt='High Quality 3D iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/09/94/ef/0994ef7e96e464536b6228464836150e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 3d Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/3d-iphone-2ixg37h2yk059rog.jpg' alt='200+] 3d Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/3d-iphone-2ixg37h2yk059rog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Iphone Black Hexagons Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-iphone-black-hexagons-xoiidw21s7y85nng.jpg' alt='3d Iphone Black Hexagons Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-iphone-black-hexagons-xoiidw21s7y85nng.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Cute 3D Fruit Wallpapper 3d wallpaper cute iphone ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-3d-fruit-wallpapper-3d-wallpaper-cute-iphone-wallpapers_921039-8479.jpg' alt='Premium Photo | Cute 3D Fruit Wallpapper 3d wallpaper cute iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="314">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-3d-fruit-wallpapper-3d-wallpaper-cute-iphone-wallpapers_921039-8479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Aesthetic Cute Wallpaper Ideas">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7381917209913855238&location=0&aid=1988' alt='3D Aesthetic Cute Wallpaper Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7381917209913855238&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/04/10123606/Rabbit-Hole-iPhone-7-Wallpaper.jpg' alt='3d iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/04/10123606/Rabbit-Hole-iPhone-7-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebies: 80 Really Cute 3d Aesthetic Wallpapers For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/5a/71/8a5a716aa6e86e09eda8ee9fae5b1ea6.jpg' alt='Freebies: 80 Really Cute 3d Aesthetic Wallpapers For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/5a/71/8a5a716aa6e86e09eda8ee9fae5b1ea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Eye, iphone 6, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/381/260/HD-wallpaper-3d-eye-iphone-6.jpg' alt='3D Eye, iphone 6, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/381/260/HD-wallpaper-3d-eye-iphone-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

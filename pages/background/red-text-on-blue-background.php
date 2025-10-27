@@ -1,0 +1,129 @@
+<title>Red on Blue: Eye-Catching Color Contrast</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="red text on blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-text-on-blue-background">
+                            <span itemprop="name">red text on blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red on Blue: Eye-Catching Color Contrast</h1>
+                <p>Red text on a blue background creates a striking visual contrast that captures attention. This color combination can be used effectively in design, advertising, and presentations to emphasize key messages. Choosing the right shades of red and blue can enhance readability and make any content pop, making it memorable for viewers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Things You Should Know About People: #9 — Blue and Red ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:600/0*lQtohuxiOHKxX-Qc.jpg' alt='100 Things You Should Know About People: #9 — Blue and Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:600/0*lQtohuxiOHKxX-Qc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Principle: Chromostereopsis (Or Why Blue on Red Doesn't ...">
+                                <img itemprop="contentUrl url" src='https://thevisualcommunicationguy.com/wp-content/uploads/2014/01/Chromostereopsis_BlueOnRed.png' alt='Design Principle: Chromostereopsis (Or Why Blue on Red Doesn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Visual Communication Guy" />
+                                </span>
+                                <a href='https://thevisualcommunicationguy.com/wp-content/uploads/2014/01/Chromostereopsis_BlueOnRed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chromostereopsis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Blue_red.svg/800px-Blue_red.svg.png' alt='Chromostereopsis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Blue_red.svg/800px-Blue_red.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="website design - How do I make this color combination more ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/Kc58o.png' alt='website design - How do I make this color combination more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/Kc58o.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue red text - Get My Graphics">
+                                <img itemprop="contentUrl url" src='https://getmygraphics.com/files/2015/07/Blue-red-text.jpg' alt='Blue red text - Get My Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Get My Graphics" />
+                                </span>
+                                <a href='https://getmygraphics.com/files/2015/07/Blue-red-text.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | A red background with a blue background and the word ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/red-background-with-blue-background-word-red-red_427798-482.jpg' alt='Premium PSD | A red background with a blue background and the word ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/red-background-with-blue-background-word-red-red_427798-482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Red and blue text effect">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-blue-text-effect_11469-184.jpg' alt='Premium Vector | Red and blue text effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-blue-text-effect_11469-184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue lettering on red background hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2EDJ5HG/red-running-sneakers-and-lettering-run-made-of-a-shoelace-on-a-blue-background-creative-flat-lay-studio-shot-2EDJ5HG.jpg' alt='Blue lettering on red background hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2EDJ5HG/red-running-sneakers-and-lettering-run-made-of-a-shoelace-on-a-blue-background-creative-flat-lay-studio-shot-2EDJ5HG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Version 1.67 + Crafting | Page 2 | Forum - Elvenar International">
+                                <img itemprop="contentUrl url" src='https://en.forum.elvenar.com/index.php?attachments/redblue-png.3127/' alt='Version 1.67 + Crafting | Page 2 | Forum - Elvenar International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forum - Elvenar International" />
+                                </span>
+                                <a href='https://en.forum.elvenar.com/index.php?attachments/redblue-png.3127/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="design - Best error color on blue color? - User Experience Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/87A3d.png' alt='design - Best error color on blue color? - User Experience Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/87A3d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

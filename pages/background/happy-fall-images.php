@@ -1,0 +1,129 @@
+<title>Delightful Happy Fall Images to Celebrate Autumn</title>
+                    <meta name="description" content="Discover a collection of happy fall images that highlight the beauty of autumn's vibrant colors and cozy moments. Perfect for capturing the essence of the season, these visuals evoke joy and nostalgia, making them ideal for your fall-themed projects. Celebrate the charm of fall with us!">
+                    <meta name="keywords" content="happy fall images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-fall-images">
+                            <span itemprop="name">happy fall images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Happy Fall Images to Celebrate Autumn</h1>
+                <p>Happy fall images capture the essence of autumn with vibrant foliage, pumpkin patches, cozy sweaters, and warm sunsets. These visuals evoke a sense of nostalgia and peace, celebrating harvest festivals and moments spent with loved ones. Let these pictures inspire you to enjoy the beauty and tranquility of the fall season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Happy Fall Yall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1325901152/vector/happy-fall-yall-autumnal-greeting-calligraphy-with-leaves.jpg?s=612x612&w=0&k=20&c=9T6jvIlh07ycWJOJ9ae_fERizeoT90iZrJc4zXvBU6Y=' alt='150+ Happy Fall Yall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1325901152/vector/happy-fall-yall-autumnal-greeting-calligraphy-with-leaves.jpg?s=612x612&w=0&k=20&c=9T6jvIlh07ycWJOJ9ae_fERizeoT90iZrJc4zXvBU6Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Happy Fall Party Decorations Banner, Happy Fall Y'all Banner  Backdrop Thanksgiving Autumn Harvest Banner, Fall Maple Leaves Pumpkin ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81F+U-3RHUL.jpg' alt='Amazon.com: Happy Fall Party Decorations Banner, Happy Fall Y'all Banner  Backdrop Thanksgiving Autumn Harvest Banner, Fall Maple Leaves Pumpkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81F+U-3RHUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall">
+                                <img itemprop="contentUrl url" src='https://llerrah.com/images2/fallgraphic.gif' alt='Happy Fall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="llerrah.com" />
+                                </span>
+                                <a href='https://llerrah.com/images2/fallgraphic.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Whaline 100Pcs Happy Fall Bulletin Board Decorations Fall Tree  Maple Leaf Pumpkin Scarecrow Cutouts Thanksgiving Autumn Classroom Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iG54854vL.jpg' alt='Amazon.com: Whaline 100Pcs Happy Fall Bulletin Board Decorations Fall Tree  Maple Leaf Pumpkin Scarecrow Cutouts Thanksgiving Autumn Classroom Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iG54854vL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/870/722/small_2x/autumn-background-set-of-abstract-backgrounds-with-leave-frame-autumn-sale-banner-posters-cover-design-templates-social-media-wallpaper-stories-happy-fall-yall-vector.jpg' alt='Happy Fall Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/870/722/small_2x/autumn-background-set-of-abstract-backgrounds-with-leave-frame-autumn-sale-banner-posters-cover-design-templates-social-media-wallpaper-stories-happy-fall-yall-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall Digital Download">
+                                <img itemprop="contentUrl url" src='https://westmaincreations.com/cdn/shop/files/HappyFall_1545x.png?v=1695161407' alt='Happy Fall Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="West Main Creations" />
+                                </span>
+                                <a href='https://westmaincreations.com/cdn/shop/files/HappyFall_1545x.png?v=1695161407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall Y'all | Key Lime Crops: Advice for Scrapbookers">
+                                <img itemprop="contentUrl url" src='https://keylimecrops.wordpress.com/wp-content/uploads/2011/09/happy-fall-yall-invite-watermarked.jpg' alt='Happy Fall Y'all | Key Lime Crops: Advice for Scrapbookers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Key Lime Crops - WordPress.com" />
+                                </span>
+                                <a href='https://keylimecrops.wordpress.com/wp-content/uploads/2011/09/happy-fall-yall-invite-watermarked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall eCard - Free Autumn Cards Online">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/34304-cc_fall14.1100w.tn.jpg' alt='Happy Fall eCard - Free Autumn Cards Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/34304-cc_fall14.1100w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Happy Fall Yall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1344937382/vector/happy-fall-yall-sign-typography-with-autumn-leaves-berries-and-hedgehog-illustrations.jpg?s=612x612&w=0&k=20&c=26FXixSK2MJxgQV3AUO6PE1zCgEhX-7uCeP2d3JIZjA=' alt='150+ Happy Fall Yall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1344937382/vector/happy-fall-yall-sign-typography-with-autumn-leaves-berries-and-hedgehog-illustrations.jpg?s=612x612&w=0&k=20&c=26FXixSK2MJxgQV3AUO6PE1zCgEhX-7uCeP2d3JIZjA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fall Design Printable Poster">
+                                <img itemprop="contentUrl url" src='https://falconembroidery.com/image/wkseller/8330/My-E-Book-Owl/MEBF04-Happy-Fall-Printable-Poster.jpg' alt='Happy Fall Design Printable Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Falcon Embroidery" />
+                                </span>
+                                <a href='https://falconembroidery.com/image/wkseller/8330/My-E-Book-Owl/MEBF04-Happy-Fall-Printable-Poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

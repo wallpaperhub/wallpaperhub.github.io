@@ -1,0 +1,129 @@
+<title>Creative Clay Backgrounds: Unleash Your Artistic Potential</title>
+                    <meta name="description" content="Discover the beauty of clay backgrounds in art and design. Learn how to use this versatile medium to enhance your creative projects, from sculpting to pottery. Explore tips, techniques, and inspiration for incorporating clay into your artwork today!">
+                    <meta name="keywords" content="clay background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/clay-background">
+                            <span itemprop="name">clay background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Clay Backgrounds: Unleash Your Artistic Potential</h1>
+                <p>Clay background refers to the foundational layer in art and design that utilizes clay as a versatile medium. It serves as a canvas for sculpting, pottery, and decorative projects. The texture, color, and malleability of clay provide endless possibilities for creativity. Artists and crafters often leverage its unique properties to achieve stunning results.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Texture Images – Browse 457,721 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/11/94/06/360_F_311940620_D8HlrtSwLvGuiTwhVXuYRRRsZ3brMIuQ.jpg' alt='Clay Texture Images – Browse 457,721 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/11/94/06/360_F_311940620_D8HlrtSwLvGuiTwhVXuYRRRsZ3brMIuQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/orange-wall-paint-textured-background_53876-134183.jpg?semt=ais_hybrid' alt='Clay Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/orange-wall-paint-textured-background_53876-134183.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Clay Background Texture Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2073889313/vector/ochre-plasticine-texture-orange-coloured-playdough-textured-background.jpg?s=612x612&w=0&k=20&c=uxjksIRRhUJykwHoog7HtdY_qNxonAtbaHBl3aDVUnI=' alt='2,800+ Clay Background Texture Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2073889313/vector/ochre-plasticine-texture-orange-coloured-playdough-textured-background.jpg?s=612x612&w=0&k=20&c=uxjksIRRhUJykwHoog7HtdY_qNxonAtbaHBl3aDVUnI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/copy-space-wall-texture-backgrounds_23-2148742519.jpg' alt='Clay Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/copy-space-wall-texture-backgrounds_23-2148742519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Background" Images – Browse 241 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/09/99/87/360_F_309998788_xmkIpmbjrKgF302XOiLT9dEmPGS73Otr.jpg' alt='Clay Background" Images – Browse 241 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/09/99/87/360_F_309998788_xmkIpmbjrKgF302XOiLT9dEmPGS73Otr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Clay Fan Background | Download Free Images and ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/22347/clay-fan-background.jpg' alt='Free Stock Photo of Clay Fan Background | Download Free Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/22347/clay-fan-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLXMxMDQta3QtMDE3NS1rcWc4aDR2Zy5qcGc.jpg' alt='Clay Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLXMxMDQta3QtMDE3NS1rcWc4aDR2Zy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101,300+ Clay Texture Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/520420178/photo/abstract-red-cement-wall-texture.jpg?s=612x612&w=0&k=20&c=1gmrtTvYFoBeIH3rdPFEOPHkXHyYsIsoo27-UremqF0=' alt='101,300+ Clay Texture Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/520420178/photo/abstract-red-cement-wall-texture.jpg?s=612x612&w=0&k=20&c=1gmrtTvYFoBeIH3rdPFEOPHkXHyYsIsoo27-UremqF0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diy Art Creative Rainbow Clay Textured Background With A Colorful ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/diy-art-creative-rainbow-clay-textured-background-with-a-colorful-gray-border_9977069.jpg!w700wp' alt='Diy Art Creative Rainbow Clay Textured Background With A Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/diy-art-creative-rainbow-clay-textured-background-with-a-colorful-gray-border_9977069.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/stucco-texture-light-color_1194-7686.jpg' alt='Clay Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/stucco-texture-light-color_1194-7686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

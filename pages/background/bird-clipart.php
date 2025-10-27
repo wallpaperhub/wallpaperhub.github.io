@@ -1,0 +1,129 @@
+<title>Stunning Bird Clipart for Every Project</title>
+                    <meta name="description" content="Explore delightful bird clipart for your creative needs! Perfect for education, crafts, and social media, our collection offers various styles and colors to bring your projects to life. Enhance your designs with beautiful avian illustrations today!">
+                    <meta name="keywords" content="bird clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bird-clipart">
+                            <span itemprop="name">bird clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bird Clipart for Every Project</h1>
+                <p>Bird clipart adds a charming touch to any project, making it perfect for educational materials, websites, and graphic design. With various styles and colors, it enhances your creativity, whether it’s for kids' activities, social media graphics, or DIY crafts. Discover the beauty of feathered friends through versatile bird illustrations!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying Bird Clipart Stock Illustrations – 9,136 Flying Bird ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flying-bird-22013977.jpg' alt='Flying Bird Clipart Stock Illustrations – 9,136 Flying Bird ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flying-bird-22013977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,300+ Bird Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1439960943/vector/little-bird.jpg?s=612x612&w=0&k=20&c=nxcW-uQgnN1MHP3x1UJwTBlUxb33h1HY2733ir6L1mQ=' alt='112,300+ Bird Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1439960943/vector/little-bird.jpg?s=612x612&w=0&k=20&c=nxcW-uQgnN1MHP3x1UJwTBlUxb33h1HY2733ir6L1mQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Clipart Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/019/943/372/non_2x/bird-cartoon-colored-clipart-illustration-free-vector.jpg' alt='Bird Clipart Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/019/943/372/non_2x/bird-cartoon-colored-clipart-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Clipart, Download Free Transparent PNG Format Clipart Images ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201208/original/pngtree-chubby-bird-cartoon-clipart-png-image_5540557.jpg' alt='Bird Clipart, Download Free Transparent PNG Format Clipart Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201208/original/pngtree-chubby-bird-cartoon-clipart-png-image_5540557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clip Art Colorable Bird Drawing A - Cute Bird Clip Art, HD Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/de/f9/c9def908550920155cb9b972ca0c6f79.jpg' alt='Clip Art Colorable Bird Drawing A - Cute Bird Clip Art, HD Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/de/f9/c9def908550920155cb9b972ca0c6f79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Birds Digital Clipart">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8107444/r/il/317a5e/1590814427/il_570xN.1590814427_r7g8.jpg' alt='Cute Birds Digital Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8107444/r/il/317a5e/1590814427/il_570xN.1590814427_r7g8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute little bird clipart design illustration 46339613 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/339/613/non_2x/cute-little-bird-clipart-design-illustration-free-png.png' alt='Cute little bird clipart design illustration 46339613 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="973">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/339/613/non_2x/cute-little-bird-clipart-design-illustration-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/67500/bird-clipart-md.png' alt='Bird - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/67500/bird-clipart-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/blue-bird-with-yellow-orange-wing-blue-beak_1126821-13410.jpg?semt=ais_hybrid' alt='Bird Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/blue-bird-with-yellow-orange-wing-blue-beak_1126821-13410.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Cute Yellow Bird Clipart | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2024/04/FREE-Cute-Yellow-Bird-Clipart-with-outline-WM.png' alt='FREE Cute Yellow Bird Clipart | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2024/04/FREE-Cute-Yellow-Bird-Clipart-with-outline-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

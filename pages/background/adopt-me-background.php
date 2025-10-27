@@ -1,0 +1,129 @@
+<title>Adopt Me Backgrounds: Dive Into Whimsy and Fun</title>
+                    <meta name="description" content="Explore the enchanting backgrounds of Adopt Me, the beloved Roblox game. Discover vibrant settings, customize your experience, and embark on exciting adventures with virtual pets. Perfect for gamers looking to immerse themselves in a playful, colorful world! Join the fun today!">
+                    <meta name="keywords" content="adopt me background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adopt-me-background">
+                            <span itemprop="name">adopt me background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adopt Me Backgrounds: Dive Into Whimsy and Fun</h1>
+                <p>Adopt Me is a popular Roblox game where players can raise and trade virtual pets. The vibrant backgrounds of the game enhance the immersive experience, showcasing a whimsical world filled with playful elements. Players can customize their homes and explore diverse settings like lush parks and bustling cities, making every adventure unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Roblox Adopt Me Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/17/24/ef17243e390255a2e624b18e1a8c2af1.jpg' alt='Awesome Roblox Adopt Me Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/17/24/ef17243e390255a2e624b18e1a8c2af1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Roblox Adopt Me Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/roblox-adopt-me-bsphktmy39iqqewx.jpg' alt='100+] Roblox Adopt Me Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/roblox-adopt-me-bsphktmy39iqqewx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="evellaynecoelhinh's Photos, Drawings and Gif adopt me">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d8/36/d5/d836d562aae9ade8856c599d4c34242a.jpg' alt='evellaynecoelhinh's Photos, Drawings and Gif adopt me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d8/36/d5/d836d562aae9ade8856c599d4c34242a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Adopt Me Dogs Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/roblox-adopt-me-dogs-ucvig5dlbu4azsi5.jpg' alt='Roblox Adopt Me Dogs Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/roblox-adopt-me-dogs-ucvig5dlbu4azsi5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Adopt Me Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/adopt-me-background-r2fa0g7qap0177br.jpg' alt='100+] Adopt Me Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/adopt-me-background-r2fa0g7qap0177br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Spring Adopt Me wallpapers   - Adopt Me!">
+                                <img itemprop="contentUrl url" src='https://sharedmedia.playadopt.me/wallpapers/thumb/spring.png' alt='  Spring Adopt Me wallpapers   - Adopt Me!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adopt Me!" />
+                                </span>
+                                <a href='https://sharedmedia.playadopt.me/wallpapers/thumb/spring.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="adopt me pictures background - Google Search | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/4a1ffa2e-664d-4f46-a4d2-83a0297103aa.jpeg' alt='adopt me pictures background - Google Search | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/4a1ffa2e-664d-4f46-a4d2-83a0297103aa.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Adopt Me!">
+                                <img itemprop="contentUrl url" src='https://cdn.playadopt.me/wallpapers/WINTER_2023_Wallpaper_Candy-Hare_V.png' alt='Wallpapers - Adopt Me!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adopt Me!" />
+                                </span>
+                                <a href='https://cdn.playadopt.me/wallpapers/WINTER_2023_Wallpaper_Candy-Hare_V.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE WIKI BACKGROUND | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ceceb3e1-64c7-4122-a154-cc7b918e2128' alt='THE WIKI BACKGROUND | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1550">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adopt Me! Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ceceb3e1-64c7-4122-a154-cc7b918e2128' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Easter Wallpapers & Coloring Pages! - Adopt Me!">
+                                <img itemprop="contentUrl url" src='https://sharedmedia.playadopt.me/wallpapers/Banner-HD-Horizontal_1920x1080_EASTER_2022.png' alt='   Easter Wallpapers & Coloring Pages! - Adopt Me!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adopt Me!" />
+                                </span>
+                                <a href='https://sharedmedia.playadopt.me/wallpapers/Banner-HD-Horizontal_1920x1080_EASTER_2022.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Rustic Country Wallpaper Ideas for Your Walls</title>
+                    <meta name="description" content="Discover the beauty of country wallpaper for your walls! Explore a variety of designs that bring rustic charm and a cozy feel to your space. Ideal for creating a warm atmosphere, our wallpaper options are easy to apply and perfect for any room in your home. Transform your décor today!">
+                    <meta name="keywords" content="country wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/country-wallpaper-for-walls">
+                            <span itemprop="name">country wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rustic Country Wallpaper Ideas for Your Walls</h1>
+                <p>Transform your space with stunning country wallpaper for walls! Perfect for adding a rustic touch or a cozy, farmhouse vibe to any room, these wallpapers come in various designs, from floral patterns to scenic landscapes. Easy to apply and maintain, they bring warmth and charm to your environment, creating a welcoming atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low Country">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/785/482/Updated_Roomset_-_Low_Country__32286.1710169011.jpg?c=1' alt='Low Country'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Source" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/785/482/Updated_Roomset_-_Low_Country__32286.1710169011.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Folk Art Faith Love Live Signs Easy Walls Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://all4wallswallpaper.com/cdn/shop/products/ffr65401b_2_400x.jpg?v=1588672379' alt='Country Folk Art Faith Love Live Signs Easy Walls Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All 4 Walls Wallpaper" />
+                                </span>
+                                <a href='https://all4wallswallpaper.com/cdn/shop/products/ffr65401b_2_400x.jpg?v=1588672379' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile de Jouy Peel and Stick Wallpaper (Removable)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?v=1718902434' alt='Toile de Jouy Peel and Stick Wallpaper (Removable)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Music">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/17974/pr22/1/1280/country-music-music-wallpaper.jpg' alt='Country Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/17974/pr22/1/1280/country-music-music-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Style Wallpaper | English, French & Italian styles ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/90/05/0c/Patricia-A_452021_518x389.jpg' alt='Country Style Wallpaper | English, French & Italian styles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/90/05/0c/Patricia-A_452021_518x389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Map - Old Country">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/74401/landscape/wallpaper/room103.jpg?w=2000&q=80' alt='USA Map - Old Country'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/74401/landscape/wallpaper/room103.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Style Poster Wooden Wall With Hat And Black Beer Sign Art Wall  Murals Wallpaper Decals Prints Decor IDCWP-JB-000370">
+                                <img itemprop="contentUrl url" src='https://www.idecoroom.com/cdn/shop/products/IDCWP-JB-000370-1_1024x1024.jpg?v=1509191707' alt='Country Style Poster Wooden Wall With Hat And Black Beer Sign Art Wall  Murals Wallpaper Decals Prints Decor IDCWP-JB-000370'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDecoRoom" />
+                                </span>
+                                <a href='https://www.idecoroom.com/cdn/shop/products/IDCWP-JB-000370-1_1024x1024.jpg?v=1509191707' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Wallpaper - On Sale Today - Wallpapers To Go">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/category/medium/802.jpg' alt='Country Wallpaper - On Sale Today - Wallpapers To Go'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/category/medium/802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Country Rustic Peel and Stick Wallpaper Roll Vintage Floral  Non-Woven Self Ahesive Butterfly Birds Shelf Liner Wall Paper for Bedroom  Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71yaiJqWxGL._AC_UF894,1000_QL80_.jpg' alt='American Country Rustic Peel and Stick Wallpaper Roll Vintage Floral  Non-Woven Self Ahesive Butterfly Birds Shelf Liner Wall Paper for Bedroom  Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71yaiJqWxGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q QIHANG American Country Pastoral Style Non-Woven Wallpaper Retro European  Flower Bedroom Living Room TV Background Wall 20.87" Wx393.7 L Non-Pasted  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Y6B3DZ4yL._AC_UF894,1000_QL80_.jpg' alt='Q QIHANG American Country Pastoral Style Non-Woven Wallpaper Retro European  Flower Bedroom Living Room TV Background Wall 20.87" Wx393.7 L Non-Pasted  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Y6B3DZ4yL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

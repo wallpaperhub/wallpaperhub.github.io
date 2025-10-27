@@ -1,0 +1,129 @@
+<title>Drake: The Evolution of Hip-Hop and R&B Icon</title>
+                    <meta name="description" content="Explore the journey of Drake, the groundbreaking Canadian artist reshaping hip-hop and R&B with his chart-topping hits, innovative style, and compelling storytelling. Discover his influence, collaborations, and impact on the music scene today!">
+                    <meta name="keywords" content="drake">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/drake">
+                            <span itemprop="name">drake</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Drake: The Evolution of Hip-Hop and R&B Icon</h1>
+                <p>Drake, the Canadian rapper and singer, has transformed the music industry with his unique blend of hip-hop and R&B. Rising to fame with hits like "Hotline Bling" and "God's Plan," he captivates audiences with personal lyrics and catchy beats. Known for his distinctive style, collaborations, and chart-topping albums, Drake continues to influence and innovate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake (musician) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/67/AJ_DONUTS_meeting_Drake_in_2023_%28cropped%29.jpg' alt='Drake (musician) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="237">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/67/AJ_DONUTS_meeting_Drake_in_2023_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5ed578988b3c370006234c35/0x0.jpg?format=jpg&crop=1031,1031,x43,y49,safe&height=416&width=416&fit=bounds' alt='Drake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5ed578988b3c370006234c35/0x0.jpg?format=jpg&crop=1031,1031,x43,y49,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/34/258834-050-9E9EF435/rapper-drake-performs-on-stage-during-lil-baby-and-friends-birthday-celebration-2022.jpg' alt='Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/34/258834-050-9E9EF435/rapper-drake-performs-on-stage-during-lil-baby-and-friends-birthday-celebration-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg' alt='Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1144">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Settles with iHeartMedia Amid 'Not Like Us' Payola Probe">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2025/03/Drake-Settles-with-iHeartMedia.jpg?w=1581&h=1054&crop=1' alt='Drake Settles with iHeartMedia Amid 'Not Like Us' Payola Probe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2025/03/Drake-Settles-with-iHeartMedia.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake gets his revenge — on the charts, anyway : NPR">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Ffec9fb8444f990d424de14aa4d33%2Fgettyimages-1448234892.jpg' alt='Drake gets his revenge — on the charts, anyway : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Ffec9fb8444f990d424de14aa4d33%2Fgettyimages-1448234892.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Antonio-based iHeartMedia says legal dispute with Drake was ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/d_https:::cloudfront-us-east-1.images.arcpublishing.com:gmg:PCSHFAWDC5AOXK4LA5R5FYA2C4.png/c_scale,w_640/v1/media/gmg/NUTBTQSE2VGOLOVKA222SUHK3I.jpg?_a=DAJAUVWIZAAA' alt='San Antonio-based iHeartMedia says legal dispute with Drake was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSAT" />
+                                </span>
+                                <a href='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/d_https:::cloudfront-us-east-1.images.arcpublishing.com:gmg:PCSHFAWDC5AOXK4LA5R5FYA2C4.png/c_scale,w_640/v1/media/gmg/NUTBTQSE2VGOLOVKA222SUHK3I.jpg?_a=DAJAUVWIZAAA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are we sure Drake is going to recover?">
+                                <img itemprop="contentUrl url" src='https://andscape.com/wp-content/uploads/2024/12/GettyImages-2182712179-e1733417329801.jpg?w=800' alt='Are we sure Drake is going to recover?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andscape" />
+                                </span>
+                                <a href='https://andscape.com/wp-content/uploads/2024/12/GettyImages-2182712179-e1733417329801.jpg?w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Is First Act to 100 Streaming Songs Chart Top 10s">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2025/02/drake-ovo-2025-billboard-1548.jpg?w=942&h=623&crop=1' alt='Drake Is First Act to 100 Streaming Songs Chart Top 10s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2025/02/drake-ovo-2025-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake Postpones Rest of Down Under Tour Dates Due to 'Scheduling ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/CfabtD2kJQzB3YYQDfYfsze_MG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x298:705x300)/drake-top-boy-uk-premiere-2019-022125-bfcbfe18c7b042f6941cbb7b837ff0d7.jpg' alt='Drake Postpones Rest of Down Under Tour Dates Due to 'Scheduling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/CfabtD2kJQzB3YYQDfYfsze_MG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(703x298:705x300)/drake-top-boy-uk-premiere-2019-022125-bfcbfe18c7b042f6941cbb7b837ff0d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

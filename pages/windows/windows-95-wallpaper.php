@@ -1,0 +1,129 @@
+<title>Discover the Iconic Windows 95 Wallpaper</title>
+                    <meta name="description" content="Explore the nostalgic world of Windows 95 wallpaper! From the iconic "Bliss" to various vibrant designs, these graphics defined a generation. Perfect for retro enthusiasts, discover how these wallpapers transformed personal computing. Revisit your childhood memories with our curated collection today!">
+                    <meta name="keywords" content="windows 95 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-95-wallpaper">
+                            <span itemprop="name">windows 95 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Iconic Windows 95 Wallpaper</h1>
+                <p>Windows 95 wallpaper holds a nostalgic charm for many who grew up in the 90s. Featuring iconic images like the famous "Bliss" landscape, these wallpapers evoke memories of the early digital era. They symbolize the dawn of personal computing and creativity, inviting users to customize their screens with vibrant graphics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was tired of looking for a highres windows 95 wallpaper so I made ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zge85fc9j0g11.jpg' alt='Was tired of looking for a highres windows 95 wallpaper so I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zge85fc9j0g11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows '95 default. (1920x1080) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/e7L-hY0gBzi7A6HWknGZtXuOL29OzKDxZqWfiXHjh2o.png?auto=webp&s=fc2e705ccee6546a50ac2f06df3adb05248ff710' alt='Windows '95 default. (1920x1080) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/e7L-hY0gBzi7A6HWknGZtXuOL29OzKDxZqWfiXHjh2o.png?auto=webp&s=fc2e705ccee6546a50ac2f06df3adb05248ff710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83 Best Windows 95 aesthetic ideas | windows 95, windows, vaporwave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e2/aa/b6/e2aab62ec63ef9c49e3a4650bfca1a80.png' alt='83 Best Windows 95 aesthetic ideas | windows 95, windows, vaporwave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e2/aa/b6/e2aab62ec63ef9c49e3a4650bfca1a80.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows '95 default. (1920x1080) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/hKOGoex.jpg' alt='Windows '95 default. (1920x1080) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/hKOGoex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 95 background by PotassiumMCR on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7bc6b0d6-cdf9-4480-ae29-c330fadd2e6d/d8gb1uk-c456adcb-8204-4833-9492-5dc28d16646b.jpg/v1/fill/w_1024,h_820,q_75,strp/windows_95_background_by_potassiummcr_d8gb1uk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvN2JjNmIwZDYtY2RmOS00NDgwLWFlMjktYzMzMGZhZGQyZTZkXC9kOGdiMXVrLWM0NTZhZGNiLTgyMDQtNDgzMy05NDkyLTVkYzI4ZDE2NjQ2Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4jomwEZ0O1WRv9UjDAQEVRtmqyQdKe2wsVNOLGDjQSk' alt='Windows 95 background by PotassiumMCR on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7bc6b0d6-cdf9-4480-ae29-c330fadd2e6d/d8gb1uk-c456adcb-8204-4833-9492-5dc28d16646b.jpg/v1/fill/w_1024,h_820,q_75,strp/windows_95_background_by_potassiummcr_d8gb1uk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvN2JjNmIwZDYtY2RmOS00NDgwLWFlMjktYzMzMGZhZGQyZTZkXC9kOGdiMXVrLWM0NTZhZGNiLTgyMDQtNDgzMy05NDkyLTVkYzI4ZDE2NjQ2Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4jomwEZ0O1WRv9UjDAQEVRtmqyQdKe2wsVNOLGDjQSk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 95 Classic Elm Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/windows-95-classic-elm-desktop-baan3r7ghkz9otx6.jpg' alt='Windows 95 Classic Elm Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/windows-95-classic-elm-desktop-baan3r7ghkz9otx6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 95, earlymicrosoft, windows95, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/520/781/HD-wallpaper-windows-95-earlymicrosoft-windows95.jpg' alt='Windows 95, earlymicrosoft, windows95, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/520/781/HD-wallpaper-windows-95-earlymicrosoft-windows95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background image from the windows 95 setup window : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/m0zhfbiq61v21.png?auto=webp&s=a33df442f3a83d062e777faba8dcf9466a438b77' alt='Background image from the windows 95 setup window : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/m0zhfbiq61v21.png?auto=webp&s=a33df442f3a83d062e777faba8dcf9466a438b77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 95 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/original-windows-95-portrait-hyhd9ds5nf86v8x0.jpg' alt='100+] Windows 95 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/original-windows-95-portrait-hyhd9ds5nf86v8x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WIndows 95 Plus! Wallpapers : Microsoft : Free Download, Borrow ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/download/sc-wall/01-win95plus.jpg' alt='WIndows 95 Plus! Wallpapers : Microsoft : Free Download, Borrow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/download/sc-wall/01-win95plus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

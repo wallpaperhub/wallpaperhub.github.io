@@ -1,0 +1,129 @@
+<title>Comprehensive DC Background Check Guide</title>
+                    <meta name="description" content="Discover everything you need to know about DC background checks. From procedures to essential information, ensure safety and compliance for your workplace. Get insights into how to navigate this crucial process effectively and efficiently.">
+                    <meta name="keywords" content="dc background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dc-background-check">
+                            <span itemprop="name">dc background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comprehensive DC Background Check Guide</h1>
+                <p>A DC background check is an essential process for employers and organizations to ensure the safety and security of their workplace. It involves a thorough review of an individual's criminal history, credit reports, and other relevant information. Conducting a background check helps mitigate risks and maintain a trustworthy environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Screening and Employment: Resources for Job ...">
+                                <img itemprop="contentUrl url" src='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/ApplicationTypeAQuestionnaire_FINAL_120914.png' alt='Criminal Background Screening and Employment: Resources for Job ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Office of Human Rights - DC.gov" />
+                                </span>
+                                <a href='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/ApplicationTypeAQuestionnaire_FINAL_120914.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Screening and Employment: Resources for Job ...">
+                                <img itemprop="contentUrl url" src='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/RequestforRecords_120914.png' alt='Criminal Background Screening and Employment: Resources for Job ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Office of Human Rights - DC.gov" />
+                                </span>
+                                <a href='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/RequestforRecords_120914.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington DC Background Checks - Health Street">
+                                <img itemprop="contentUrl url" src='https://cdn.dev.glasspress.io/health-street.net/state-background-check/washington-dc-background-checks-image-state-background-check-featured-image.jpg' alt='Washington DC Background Checks - Health Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health Street" />
+                                </span>
+                                <a href='https://cdn.dev.glasspress.io/health-street.net/state-background-check/washington-dc-background-checks-image-state-background-check-featured-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Screening and Employment: Resources for Job ...">
+                                <img itemprop="contentUrl url" src='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/ApplicantFAQ_FINAL_120914_Page_1.png' alt='Criminal Background Screening and Employment: Resources for Job ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="255">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Office of Human Rights - DC.gov" />
+                                </span>
+                                <a href='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/ApplicantFAQ_FINAL_120914_Page_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, D.C. Background Checks: Guide for Employers [2025 ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2023/08/washington-background-checks.jpg' alt='Washington, D.C. Background Checks: Guide for Employers [2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2023/08/washington-background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Dc">
+                                <img itemprop="contentUrl url" src='https://background-check-dc.govbackgroundchecks.com/screenshots/background-check-dc/0.jpg' alt='Background Check Dc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://background-check-dc.govbackgroundchecks.com/screenshots/background-check-dc/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, D.C. Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1a4de2b403551d9d68fdc7d2ef47ca3b/66ab1/DC-background-checks-1.png' alt='Washington, D.C. Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1232">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1a4de2b403551d9d68fdc7d2ef47ca3b/66ab1/DC-background-checks-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington DC Criminal Background Checks - Employment">
+                                <img itemprop="contentUrl url" src='https://www.instantcriminalchecks.com/images/states/dc-washington-criminal-background-check.jpg' alt='Washington DC Criminal Background Checks - Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant Criminal Background Checks" />
+                                </span>
+                                <a href='https://www.instantcriminalchecks.com/images/states/dc-washington-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Screening and Employment: Resources for Job ...">
+                                <img itemprop="contentUrl url" src='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/Fair%20Criminal%20Record%20Screening%20Amendment%20Act_Page_1.png' alt='Criminal Background Screening and Employment: Resources for Job ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Office of Human Rights - DC.gov" />
+                                </span>
+                                <a href='https://ohr.dc.gov/sites/default/files/dc/sites/ohr/page_content/images/Fair%20Criminal%20Record%20Screening%20Amendment%20Act_Page_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of Columbia State Background Check Laws | DC | DISA ...">
+                                <img itemprop="contentUrl url" src='http://crimcheck.net/wp-content/uploads/2020/06/51.DC_-300x300.webp' alt='District of Columbia State Background Check Laws | DC | DISA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='http://crimcheck.net/wp-content/uploads/2020/06/51.DC_-300x300.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

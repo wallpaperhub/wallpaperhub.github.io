@@ -1,0 +1,129 @@
+<title>Ultimate Legend of Zelda Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a collection of high-quality Legend of Zelda wallpapers tailor-made for your iPhone. Elevate your device's aesthetic with iconic scenes and characters from this beloved game series. Perfect for any fan looking to personalize their screen with captivating art. Download your favorite today!">
+                    <meta name="keywords" content="legend of zelda wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/legend-of-zelda-wallpaper-iphone">
+                            <span itemprop="name">legend of zelda wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Legend of Zelda Wallpapers for iPhone</h1>
+                <p>Discover stunning Legend of Zelda wallpapers for your iPhone that showcase your love for this iconic franchise. From breathtaking landscapes of Hyrule to detailed character art featuring Link and Princess Zelda, personalize your device with vibrant designs. Transform your screen with these enchanting wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do you guys like this iPhone wallpaper I made? : r/zelda">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/983Qt.jpg' alt='How do you guys like this iPhone wallpaper I made? : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2897">
+                                <meta itemprop="height" content="4346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/983Qt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda: Breath of the Wild / Link!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ef/ab/e1/efabe10f4cd342078e7650cc43a0c359.jpg' alt='The Legend of Zelda: Breath of the Wild / Link!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ef/ab/e1/efabe10f4cd342078e7650cc43a0c359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda - Phone Wallpaper [1080x1920] : r/zelda">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/UpGKX3j.jpg' alt='The Legend of Zelda - Phone Wallpaper [1080x1920] : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/UpGKX3j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the legend of zelda breath of wild game 4k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/53/34/01533468ed4dd596125914126b69f612.jpg' alt='the legend of zelda breath of wild game 4k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/53/34/01533468ed4dd596125914126b69f612.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legend of Zelda: Breath of the Wild iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/05/Legend-of-Zelda-Breath-of-the-Wild-iPhone-Plus-2.jpg' alt='Legend of Zelda: Breath of the Wild iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/05/Legend-of-Zelda-Breath-of-the-Wild-iPhone-Plus-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love My iPhone Wallpaper #gaming #fyp #thelegendofzelda #zelda #link  #gamer #tearsofthekingdom #thelegendofzeldatearsofthekingdom">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311800944797158699&location=0&aid=1988' alt='I Love My iPhone Wallpaper #gaming #fyp #thelegendofzelda #zelda #link  #gamer #tearsofthekingdom #thelegendofzeldatearsofthekingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311800944797158699&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some Zelda wallpapers I (digitally) painted : r/zelda">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/fUl-gmhP_AGQCgInZaD0LqGZUBX7SOpEl6fe2pSy4FA.jpg?width=640&crop=smart&auto=webp&s=08697a1778922fb28d10a629841df2e32105e409' alt='Here are some Zelda wallpapers I (digitally) painted : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/fUl-gmhP_AGQCgInZaD0LqGZUBX7SOpEl6fe2pSy4FA.jpg?width=640&crop=smart&auto=webp&s=08697a1778922fb28d10a629841df2e32105e409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Legend Of Zelda Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-legend-of-zelda-iphone-02diihlvcwcpr7x9.jpg' alt='100+] The Legend Of Zelda Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-legend-of-zelda-iphone-02diihlvcwcpr7x9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/24/f7/b324f72d5330cff3e662589c960de38c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/24/f7/b324f72d5330cff3e662589c960de38c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the legend of zelda: breath of the wild, master sword (japanese ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/357740d3d1c29e2dc814e97f0d2f48c6/tumblr_pu12fsSoOa1yrvxnko1_1280.jpg' alt='the legend of zelda: breath of the wild, master sword (japanese ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/357740d3d1c29e2dc814e97f0d2f48c6/tumblr_pu12fsSoOa1yrvxnko1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Streamline Hiring with ClearStar Background Checks</title>
+                    <meta name="description" content="Discover ClearStar Background Checks for efficient, accurate employee screening. Ensure a safe workplace with fast and reliable criminal history checks, employment verification, and more. Boost your hiring process today with ClearStar’s innovative solutions.">
+                    <meta name="keywords" content="clearstar background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/clearstar-background-checks">
+                            <span itemprop="name">clearstar background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Hiring with ClearStar Background Checks</h1>
+                <p>ClearStar Background Checks provide comprehensive screening solutions for employers. Leveraging advanced technology, ClearStar ensures fast, accurate, and reliable background checks, including criminal history, employment verification, and credit checks. Enhance your hiring process and promote a safe workplace with ClearStar's efficient services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Software & Screening Services - ClearStar">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2020/07/clearstar.png' alt='Background Check Software & Screening Services - ClearStar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.clearstar.net" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2020/07/clearstar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ScreenMeNow Background Check Tool | Electronic Signature ...">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2020/08/screenmenow-background-screening.png' alt='ScreenMeNow Background Check Tool | Electronic Signature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1298">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearStar" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2020/08/screenmenow-background-screening.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ClearStar Background Screening">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2018/01/clearstarbackgroundscreeningpostimage-1.jpg' alt='ClearStar Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearStar" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2018/01/clearstarbackgroundscreeningpostimage-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Software & Screening Services - ClearStar">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2020/08/clearmd.png' alt='Background Check Software & Screening Services - ClearStar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1218">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.clearstar.net" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2020/08/clearmd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Software & Screening Services - ClearStar">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2020/08/screenmenow.png' alt='Background Check Software & Screening Services - ClearStar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1218">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.clearstar.net" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2020/08/screenmenow.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ClearStar Background Check User Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///f2d77874ea7c8fbe02ca34179cb3dbc2c4907b11fc8200881f5107a3a3779a49' alt='ClearStar Background Check User Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1454">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearStar" />
+                                </span>
+                                <a href='x-raw-image:///f2d77874ea7c8fbe02ca34179cb3dbc2c4907b11fc8200881f5107a3a3779a49' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for ClearStar, Inc.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100048133518090' alt='Profile for ClearStar, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100048133518090' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enabling and using the ClearStar integration – Lever Support">
+                                <img itemprop="contentUrl url" src='https://help.lever.co/hc/article_attachments/20520100157341' alt='Enabling and using the ClearStar integration – Lever Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1958">
+                                <meta itemprop="height" content="1458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lever Support" />
+                                </span>
+                                <a href='https://help.lever.co/hc/article_attachments/20520100157341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Software & Screening Services - ClearStar">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2020/08/clearid.png' alt='Background Check Software & Screening Services - ClearStar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1218">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.clearstar.net" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2020/08/clearid.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ClearStar | Greenhouse">
+                                <img itemprop="contentUrl url" src='https://sharp.services.greenhouse.io/production/resources/Greenhouse-Partner-Product-Image_2023-02-17-221240_exlb.jpg?auto=format&fit=max&lossless=true&q=90&w=1440&s=e6d4463863cd2eed8ff6d75fe682963151f3bc06b64a238574fb4e59ba394f8b' alt='ClearStar | Greenhouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenhouse" />
+                                </span>
+                                <a href='https://sharp.services.greenhouse.io/production/resources/Greenhouse-Partner-Product-Image_2023-02-17-221240_exlb.jpg?auto=format&fit=max&lossless=true&q=90&w=1440&s=e6d4463863cd2eed8ff6d75fe682963151f3bc06b64a238574fb4e59ba394f8b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

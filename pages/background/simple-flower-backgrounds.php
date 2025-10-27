@@ -1,0 +1,129 @@
+<title>Blossom Bliss: Stunning Simple Flower Backgrounds for Every Project</title>
+                    <meta name="description" content="Discover a collection of simple flower backgrounds that bring elegance and tranquility to your projects. Perfect for personal or professional use, these designs enhance your visuals with a touch of nature. Easily browse and find the ideal background to elevate your digital experience!">
+                    <meta name="keywords" content="simple flower backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/simple-flower-backgrounds">
+                            <span itemprop="name">simple flower backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blossom Bliss: Stunning Simple Flower Backgrounds for Every Project</h1>
+                <p>Simple flower backgrounds are perfect for adding a touch of nature's beauty to your digital spaces. These delicate designs can enhance your projects, offering a calming aesthetic that complements any theme. From soft pastels to vibrant colors, simple flower backgrounds create a peaceful atmosphere, ideal for both personal and professional use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Flower Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-botanical-copy-space-mobile-wallpaper-vector_53876-170876.jpg' alt='Simple Flower Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-botanical-copy-space-mobile-wallpaper-vector_53876-170876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 24 | Minimalist Flowers Background Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_23-2150744306.jpg' alt='Page 24 | Minimalist Flowers Background Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_23-2150744306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Flower Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/635/516/small_2x/pretty-background-with-simple-flowers-and-pastel-blue-colors-vector.jpg' alt='Simple Flower Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/635/516/small_2x/pretty-background-with-simple-flowers-and-pastel-blue-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple, Colorful, and Floral">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/5a/28/cb5a28bd8df0e5e7229d2f71d6e9e88f.jpg' alt='Simple, Colorful, and Floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/5a/28/cb5a28bd8df0e5e7229d2f71d6e9e88f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Flower Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/126/682/non_2x/a-single-white-flower-on-a-white-background-free-photo.jpeg' alt='Simple Flower Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1515">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/126/682/non_2x/a-single-white-flower-on-a-white-background-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600,800+ Flower Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393912497/vector/pink-watercolor-splash-background-with-line-art-rose.jpg?s=612x612&w=0&k=20&c=hl_I2tAWeoJKjTesDRzterx4h6EIDy8THPWeGoJzTjE=' alt='1,600,800+ Flower Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393912497/vector/pink-watercolor-splash-background-with-line-art-rose.jpg?s=612x612&w=0&k=20&c=hl_I2tAWeoJKjTesDRzterx4h6EIDy8THPWeGoJzTjE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Flower Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-background-with-plants-lineart-style_53876-93541.jpg' alt='Simple Flower Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-background-with-plants-lineart-style_53876-93541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Simple flower background (green)">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/a9/a92415d0513ef18288686870aaa99b66_t.jpeg' alt='Free Vectors | Simple flower background (green)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/a9/a92415d0513ef18288686870aaa99b66_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGDh7Nq_YY/1/0/900w/canva-beige-white-cute-simple-floral-blank-background-instagram-story-G1YV2qOCSlc.jpg' alt='Page 2 - Free and customizable floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGDh7Nq_YY/1/0/900w/canva-beige-white-cute-simple-floral-blank-background-instagram-story-G1YV2qOCSlc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Simple Flower Background | Download Free ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/115796/simple-flower-background-.jpg' alt='Free Stock Photo of Simple Flower Background | Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/115796/simple-flower-background-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

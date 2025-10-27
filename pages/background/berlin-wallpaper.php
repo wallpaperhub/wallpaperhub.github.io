@@ -1,0 +1,129 @@
+<title>"Transform Your Space with Unique Berlin Wallpaper"</title>
+                    <meta name="description" content="Enhance your home with stunning Berlin wallpaper! Explore unique designs that capture the essence of the city, perfect for adding a vibrant touch to any room. Ideal for art lovers and design enthusiasts looking to create an atmosphere filled with culture and style.">
+                    <meta name="keywords" content="berlin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/berlin-wallpaper">
+                            <span itemprop="name">berlin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Transform Your Space with Unique Berlin Wallpaper"</h1>
+                <p>Berlin wallpaper brings the vibrant essence of the city into your space. With intricate designs inspired by Berlin's rich history and modern art scene, these wallpapers transform any room into an urban oasis. Perfect for enthusiasts of culture and design, they provide a stunning backdrop that reflects the spirit of this iconic city.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexanderplatz Berlin">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/60690/alexanderplatz-berlin.jpg?h=699&q=85' alt='Alexanderplatz Berlin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/60690/alexanderplatz-berlin.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brandenburg Gate Wallpaper (Berlin, Landmarks) #4633">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/pic_h/4633.jpg' alt='Brandenburg Gate Wallpaper (Berlin, Landmarks) #4633'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/pic_h/4633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic Architecture Evening Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/Berlin-wallpaper-mural-room.jpg?v=1651225680' alt='Historic Architecture Evening Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/Berlin-wallpaper-mural-room.jpg?v=1651225680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Berlin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/berlin-uju0wyyf23ct9bu5.jpg' alt='200+] Berlin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/berlin-uju0wyyf23ct9bu5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="196,900+ Berlin Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/489776362/photo/berlin-skyline-panorama-with-tv-tower-at-sunset-germany.jpg?s=612x612&w=0&k=20&c=Ng6cNc_9FEtoA1Go3P86ltVsy_-yoAZWcANCQr2ftGs=' alt='196,900+ Berlin Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/489776362/photo/berlin-skyline-panorama-with-tv-tower-at-sunset-germany.jpg?s=612x612&w=0&k=20&c=Ng6cNc_9FEtoA1Go3P86ltVsy_-yoAZWcANCQr2ftGs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berlin Skyline Panorama">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/48099/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='Berlin Skyline Panorama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/48099/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berlin Skyline Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/7/0/1413378-2160x3840-samsung-4k-berlin-skyline-background-photo.jpg' alt='Berlin Skyline Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/7/0/1413378-2160x3840-samsung-4k-berlin-skyline-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berlin Brandenburg Gate Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/berlin-brandenburg-gate-mrka9m8k1pr28f4r.jpg' alt='Berlin Brandenburg Gate Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/berlin-brandenburg-gate-mrka9m8k1pr28f4r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berlin Night City Landmarks Wall Murals | Ever Wallpaper US">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/Berlin-night-wallpaper-mural-room.jpg?v=1651225103' alt='Berlin Night City Landmarks Wall Murals | Ever Wallpaper US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/Berlin-night-wallpaper-mural-room.jpg?v=1651225103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berlin Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42798_WP.jpg' alt='Berlin Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42798_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

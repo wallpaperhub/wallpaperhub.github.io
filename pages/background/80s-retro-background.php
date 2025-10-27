@@ -1,0 +1,129 @@
+<title>Vibrant 80s Retro Backgrounds: Elevate Your Space</title>
+                    <meta name="description" content="Discover the essence of the 80s with vibrant retro backgrounds! Perfect for events, digital art, or nostalgic vibes, these designs feature bold colors and geometric shapes that capture the playful spirit of the decade. Transform your space and relive the magic of the 80s effortlessly!">
+                    <meta name="keywords" content="80s retro background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/80s-retro-background">
+                            <span itemprop="name">80s retro background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 80s Retro Backgrounds: Elevate Your Space</h1>
+                <p>Step back in time with a vibrant 80s retro background! Embrace bold colors, geometric shapes, and nostalgic designs that evoke the spirit of the decade. Perfect for parties, digital art, or themed events, this backdrop captures the essence of the 80s with its playful aesthetics and iconic motifs that resonate with all generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/266/448/small/retro-futuristic-background-free-vector.jpg' alt='80s Retro Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/266/448/small/retro-futuristic-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 80S Computer Art Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/22763/retro_80s_computer_art_limited.jpg' alt='Retro 80S Computer Art Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/22763/retro_80s_computer_art_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/571/795/non_2x/retro-80s-sci-fi-futuristic-style-background-retro-futuristic-synth-wave-illustration-in-1980s-posters-style-retro-nostalgic-vaporwave-cyberpunk-artwork-with-vibrant-neon-colors-free-vector.jpg' alt='80s Retro Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/571/795/non_2x/retro-80s-sci-fi-futuristic-style-background-retro-futuristic-synth-wave-illustration-in-1980s-posters-style-retro-nostalgic-vaporwave-cyberpunk-artwork-with-vibrant-neon-colors-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80S Background Images – Browse 685,720 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/77/99/06/360_F_277990656_yaQ85EN20Wx3WUH2pJD57yHJOe5kluOa.jpg' alt='80S Background Images – Browse 685,720 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/77/99/06/360_F_277990656_yaQ85EN20Wx3WUH2pJD57yHJOe5kluOa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46,500+ 80s Retro Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1407650461/vector/memphis-pattern-colorful-and-pop-geometric-background.jpg?s=612x612&w=0&k=20&c=EE4wNTJPalbfBsaCGKiLPyf2WqJF8wyVly3Rf5Ldm9A=' alt='46,500+ 80s Retro Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1407650461/vector/memphis-pattern-colorful-and-pop-geometric-background.jpg?s=612x612&w=0&k=20&c=EE4wNTJPalbfBsaCGKiLPyf2WqJF8wyVly3Rf5Ldm9A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Background 80s Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/80s-abstract-glowing-retrowave-neon-background_119686-17.jpg?semt=ais_hybrid' alt='Retro Background 80s Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/80s-abstract-glowing-retrowave-neon-background_119686-17.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46,500+ 80s Retro Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/468881510/vector/80s-retro-sci-fi-background.jpg?s=612x612&w=0&k=20&c=X5eDGLmlX_YM4ApBPHREBz_dcck8hyj6jJXP9ddOqdw=' alt='46,500+ 80s Retro Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/468881510/vector/80s-retro-sci-fi-background.jpg?s=612x612&w=0&k=20&c=X5eDGLmlX_YM4ApBPHREBz_dcck8hyj6jJXP9ddOqdw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Background 80s Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/retrowave-rainbow-backgrounds-abstract-purple_53876-313069.jpg?semt=ais_hybrid' alt='Retro Background 80s Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/retrowave-rainbow-backgrounds-abstract-purple_53876-313069.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Background 01, Backgrounds Motion Graphics ft. 80s ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/250447808/preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=fef9b6447b561a1c63561c4b8ef88115ce0fae89565108f45cf5f9fd8c44fac3' alt='80s Retro Background 01, Backgrounds Motion Graphics ft. 80s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/250447808/preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=fef9b6447b561a1c63561c4b8ef88115ce0fae89565108f45cf5f9fd8c44fac3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro background">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/9e897947-f1ed-4263-b841-055092058eea/inline_image_preview.jpg' alt='80s Retro background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VideoHive" />
+                                </span>
+                                <a href='https://s3.envato.com/files/9e897947-f1ed-4263-b841-055092058eea/inline_image_preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

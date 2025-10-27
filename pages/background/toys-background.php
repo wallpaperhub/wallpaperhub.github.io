@@ -1,0 +1,129 @@
+<title>Explore the Fascinating World of Toys</title>
+                    <meta name="description" content="Dive into the enchanting journey of toys, their evolution, and impact on childhood. Discover how toys foster creativity and cultural connections, making playtime a vital part of growing up. Experience the magic behind every toy, from traditional favorites to innovative designs. Explore more today!">
+                    <meta name="keywords" content="toys background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toys-background">
+                            <span itemprop="name">toys background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fascinating World of Toys</h1>
+                <p>Toys have been an integral part of childhood, serving both as entertainment and tools for learning. From ancient wooden dolls to modern high-tech robots, toys evolve with society. They foster creativity, social skills, and cognitive development, while also reflecting cultural values across generations. Each type connects children to adventure and imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,668 Baby Toys Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/group-baby-toys-wooden-background-copy-space-top-vie-brown-view-97584351.jpg' alt='49,668 Baby Toys Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/group-baby-toys-wooden-background-copy-space-top-vie-brown-view-97584351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background" Images – Browse 2,921 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/74/18/24/360_F_674182406_zN2itPLKqTaDovwlvBQO3qleqO6eJVrt.jpg' alt='Toys Background" Images – Browse 2,921 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/74/18/24/360_F_674182406_zN2itPLKqTaDovwlvBQO3qleqO6eJVrt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wooden-car-toys-blue-background-car-toys-background_423236-194.jpg?w=360' alt='Toys Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wooden-car-toys-blue-background-car-toys-background_423236-194.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/399/492/non_2x/kids-toys-frame-concept-free-vector.jpg' alt='Toys Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/399/492/non_2x/kids-toys-frame-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background" Images – Browse 2,921 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/23/24/82/360_F_323248211_HNMfkovpijljYs15WasG0XPCTYY2TKrb.jpg' alt='Toys Background" Images – Browse 2,921 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/23/24/82/360_F_323248211_HNMfkovpijljYs15WasG0XPCTYY2TKrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="181,300+ Toys Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/509175470/vector/background-for-little-boys-hand-drawn-children-drawings.jpg?s=612x612&w=0&k=20&c=bcYTNBS6F0eRUBk6eYuQh8ZxHtViREqIi0qfDmpDQB4=' alt='181,300+ Toys Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/509175470/vector/background-for-little-boys-hand-drawn-children-drawings.jpg?s=612x612&w=0&k=20&c=bcYTNBS6F0eRUBk6eYuQh8ZxHtViREqIi0qfDmpDQB4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Baby kids toy background with teddy bear, wooden and musical  toys, abacus, plane, pop it fidget toys and colorful blocks on yellow ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/04/40/78/42/1000_F_440784239_HiojFnHCwKX9N4gZAGuwAq1hCN63tDpL.jpg' alt='Poster, Print Baby kids toy background with teddy bear, wooden and musical  toys, abacus, plane, pop it fidget toys and colorful blocks on yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/04/40/78/42/1000_F_440784239_HiojFnHCwKX9N4gZAGuwAq1hCN63tDpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-christmas-toys-background_23-2148758008.jpg' alt='Toys Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-christmas-toys-background_23-2148758008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/367/673/non_2x/vector-paper-template-with-toys-in-background.jpg' alt='Toys Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="746">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/367/673/non_2x/vector-paper-template-with-toys-in-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cute Doodles Hand Drawn Kids Toys Illustration Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220729/original/pngtree-cartoon-cute-doodles-hand-drawn-kids-toys-illustration-picture-image_1856321.jpg' alt='Cartoon Cute Doodles Hand Drawn Kids Toys Illustration Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220729/original/pngtree-cartoon-cute-doodles-hand-drawn-kids-toys-illustration-picture-image_1856321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

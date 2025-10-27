@@ -1,0 +1,129 @@
+<title>Explore the Dark Themes of Shakespeare's Macbeth</title>
+                    <meta name="description" content="Discover the intriguing background of Shakespeare's Macbeth, a tragic tale of ambition, supernatural influence, and moral conflict. Delve into the themes and historical context that make this classic play a profound reflection on power and human nature.">
+                    <meta name="keywords" content="macbeth background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/macbeth-background">
+                            <span itemprop="name">macbeth background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Dark Themes of Shakespeare's Macbeth</h1>
+                <p>Macbeth is a tragedy by William Shakespeare, believed to have been written around 1606. Set in Scotland, it follows the rise and fall of Macbeth, a nobleman driven by ambition and manipulation from supernatural forces. Themes of power, guilt, and fate permeate the play, making it a timeless exploration of the darker sides of human nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth Background | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/macbethbackground-181123130031-thumbnail.jpg?width=640&height=640&fit=bounds' alt='Macbeth Background | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/macbethbackground-181123130031-thumbnail.jpg?width=640&height=640&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth-Background-Splats-Entertainment.jpg ⋆ Splats Entertainment">
+                                <img itemprop="contentUrl url" src='https://splatsentertainment.com/wp-content/uploads/2020/08/Macbeth-Background-Splats-Entertainment.jpg.jpg' alt='Macbeth-Background-Splats-Entertainment.jpg ⋆ Splats Entertainment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="⋆ Splats Entertainment" />
+                                </span>
+                                <a href='https://splatsentertainment.com/wp-content/uploads/2020/08/Macbeth-Background-Splats-Entertainment.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shakespeare's Horror Story: The Foul and Fair of 'Macbeth' | Part ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*RNnafvV6HXGUiJCvTj9MaA.jpeg' alt='Shakespeare's Horror Story: The Foul and Fair of 'Macbeth' | Part ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manor Vellum - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*RNnafvV6HXGUiJCvTj9MaA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth – 2019 - Opera Western Reserve">
+                                <img itemprop="contentUrl url" src='https://www.operawesternreserve.org/wp-content/uploads/2021/02/macbeth-2019.jpg' alt='Macbeth – 2019 - Opera Western Reserve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opera Western Reserve" />
+                                </span>
+                                <a href='https://www.operawesternreserve.org/wp-content/uploads/2021/02/macbeth-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the Scenes with Macbeth Cast Members - Hanover Theatre and ...">
+                                <img itemprop="contentUrl url" src='https://thehanovertheatre.org/wp-content/uploads/2022/02/YAC-Mac_1200-x-675-Twitter.jpg' alt='Behind the Scenes with Macbeth Cast Members - Hanover Theatre and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hanover Theatre" />
+                                </span>
+                                <a href='https://thehanovertheatre.org/wp-content/uploads/2022/02/YAC-Mac_1200-x-675-Twitter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth Poster | Theatre Artwork & Promotional Material by Subplot ...">
+                                <img itemprop="contentUrl url" src='https://www.subplotstudio.com/resources/images/products/1444/product.437.jpg' alt='Macbeth Poster | Theatre Artwork & Promotional Material by Subplot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Subplot Studio" />
+                                </span>
+                                <a href='https://www.subplotstudio.com/resources/images/products/1444/product.437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="03. Macbeth background - Google Slides">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/docs/AHkbwyIfg9tGGSf8MJpbKmsbK37Va73b02JIz7C4HTw2-W-8bepfNxblgXV7U8rq5FVJnZkU55_D7meb1XYzIV4IynEMV56oc8kQSIlMsTDEGOOjDQjGsYG9=w1200-h630-p' alt='03. Macbeth background - Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Docs" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/docs/AHkbwyIfg9tGGSf8MJpbKmsbK37Va73b02JIz7C4HTw2-W-8bepfNxblgXV7U8rq5FVJnZkU55_D7meb1XYzIV4IynEMV56oc8kQSIlMsTDEGOOjDQjGsYG9=w1200-h630-p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth">
+                                <img itemprop="contentUrl url" src='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/understanding-opera/macbeth-169.jpg' alt='Macbeth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kennedy Center" />
+                                </span>
+                                <a href='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/understanding-opera/macbeth-169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth: Context (Part One)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0zqAU7s-f8w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWLjDnxhUOd3lziiV7ViF7UYGmMw' alt='Macbeth: Context (Part One)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0zqAU7s-f8w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWLjDnxhUOd3lziiV7ViF7UYGmMw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbeth - Gainesville Theatre Alliance | Explore Gainesville">
+                                <img itemprop="contentUrl url" src='https://www.exploregainesville.org/wp-content/uploads/2024/08/macbeth-fb.jpg' alt='Macbeth - Gainesville Theatre Alliance | Explore Gainesville'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Explore Gainesville" />
+                                </span>
+                                <a href='https://www.exploregainesville.org/wp-content/uploads/2024/08/macbeth-fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

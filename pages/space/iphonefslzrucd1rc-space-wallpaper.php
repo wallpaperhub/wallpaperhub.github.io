@@ -1,0 +1,129 @@
+<title>Stunning Space Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover breathtaking space wallpapers for your iPhone! Elevate your device's aesthetic with cosmic scenes that inspire wonder. Perfect for space enthusiasts, these wallpapers provide a stunning touch of the universe right on your screen. Download now to personalize your iPhone in style!">
+                    <meta name="keywords" content="iphone:fslzrucd1rc= space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/iphonefslzrucd1rc-space-wallpaper">
+                            <span itemprop="name">iphone:fslzrucd1rc= space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning space wallpapers that captivate the cosmos! Explore a range of breathtaking designs, featuring galaxies, stars, and celestial wonders that make your screen feel like an adventure across the universe. Perfect for astronomy lovers and anyone seeking an ethereal touch to their device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Space Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-pink-clouds-space-iphone-mha2dxg3fyx0loqp.jpg' alt='200+] Space Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-pink-clouds-space-iphone-mha2dxg3fyx0loqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/29zh4v56mo951.jpg' alt='Space : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/29zh4v56mo951.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Space Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-iphone-ajvn48g89j7wesx7.jpg' alt='200+] Space Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-iphone-ajvn48g89j7wesx7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nasa space wallpaper enhanced twice – AR72014 and zollotech ...">
+                                <img itemprop="contentUrl url" src='https://www.zollotech.com/wp-content/uploads/2022/08/Nasa-space-wallpaper-enhanced-twice-AR72014-and-zollotech.png' alt='Nasa space wallpaper enhanced twice – AR72014 and zollotech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zollotech" />
+                                </span>
+                                <a href='https://www.zollotech.com/wp-content/uploads/2022/08/Nasa-space-wallpaper-enhanced-twice-AR72014-and-zollotech.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlM19waG90b19vZl9ibGFja19nYWxheHlfc2ltcGxlX2JsYWNrX2JhY2tncm91bmRfYjQ5ODc5NTUtYjBiYy00ZjU3LTgyNDMtN2QyOTY3NWJkMmFkXzEuanBn.jpg' alt='Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlM19waG90b19vZl9ibGFja19nYWxheHlfc2ltcGxlX2JsYWNrX2JhY2tncm91bmRfYjQ5ODc5NTUtYjBiYy00ZjU3LTgyNDMtN2QyOTY3NWJkMmFkXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Space Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-galaxy-and-planet-in-space-iphone-cxd5jgfgsogs2z6q.jpg' alt='200+] Space Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-galaxy-and-planet-in-space-iphone-cxd5jgfgsogs2z6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Space Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-space-iphone-xl2658zjuus3xpfg.jpg' alt='200+] Space Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-space-iphone-xl2658zjuus3xpfg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space iPhone wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/37/a6/76/37a676d6dd6dc1e3c6d8ce0f5dba718e.jpg' alt='Space iPhone wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/37/a6/76/37a676d6dd6dc1e3c6d8ce0f5dba718e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e9/1a/fb/e91afb9f27377e6e740e3e7a87d67477.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e9/1a/fb/e91afb9f27377e6e740e3e7a87d67477.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlMTlfdGhlX3BpY3R1cmVfb2ZfZ2FsYXh5X3N5bWV0cmljX3N1cmVhbGlzdGljX3BzeV81YTI4MjZkNi1lNGM4LTQ4MWEtYmRiMS00YzE0ZTE4ZjYyNDAuanBn.jpg' alt='Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlMTlfdGhlX3BpY3R1cmVfb2ZfZ2FsYXh5X3N5bWV0cmljX3N1cmVhbGlzdGljX3BzeV81YTI4MjZkNi1lNGM4LTQ4MWEtYmRiMS00YzE0ZTE4ZjYyNDAuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

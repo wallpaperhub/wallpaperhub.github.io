@@ -1,0 +1,129 @@
+<title>How Tall is Woody? Discover His Exact Height!</title>
+                    <meta name="description" content="Curious about Woody's height? Find out how tall this beloved Toy Story character really is. Learn more about Woody’s dimensions, his role in the franchise, and why his height matters in playtime adventures. Get the insights you need in just a few lines!">
+                    <meta name="keywords" content="how tall is woody">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-tall-is-woody">
+                            <span itemprop="name">how tall is woody</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Tall is Woody? Discover His Exact Height!</h1>
+                <p>Woody, the iconic cowboy doll from Pixar's Toy Story franchise, stands at approximately 15 inches tall. His height makes him a perfect companion for kids, fitting comfortably in their hands for imaginative play. Woody's stature reflects his personality: tall, brave, and a natural leader among his friends in the toy world!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Story Gets 6 Foot Tall Statues with Beast Kingdom">
+                                <img itemprop="contentUrl url" src='https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/07/115981913_195266038625686_4463931284231684966_o.jpg' alt='Toy Story Gets 6 Foot Tall Statues with Beast Kingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1241">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/07/115981913_195266038625686_4463931284231684966_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Story Gets 6 Foot Tall Statues with Beast Kingdom">
+                                <img itemprop="contentUrl url" src='https://bleedingcool.com/wp-content/uploads/2020/07/109508902_195266058625684_878113414497619471_o-1200x900.jpg' alt='Toy Story Gets 6 Foot Tall Statues with Beast Kingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://bleedingcool.com/wp-content/uploads/2020/07/109508902_195266058625684_878113414497619471_o-1200x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How big/tall is Woody supposed to be in the films? : r/toystory">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r4duj5flin631.jpg' alt='How big/tall is Woody supposed to be in the films? : r/toystory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="1772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r4duj5flin631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Story - Fun Fact: Woody is 15.18 inches tall without his hat ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153743219304130' alt='Toy Story - Fun Fact: Woody is 15.18 inches tall without his hat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2008">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153743219304130' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woody (A Toy Story)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-36f0xn7qz3/images/stencil/original/products/436/687/976_Woody_23_BFDimensions__34947.1735829594.jpg?c=1' alt='Woody (A Toy Story)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cardboard Cutouts" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-36f0xn7qz3/images/stencil/original/products/436/687/976_Woody_23_BFDimensions__34947.1735829594.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Toy Story 3 gang's heights according to a Pixar panel from ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z6hywx63edld1.png' alt='The Toy Story 3 gang's heights according to a Pixar panel from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z6hywx63edld1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Pixar Toy Story Signature Collection Woody Action Figure ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/d3df7cca-69a0-42af-b8e3-25d20fb44815.8501737fa8c22ac30254240d1a826783.jpeg' alt='Disney Pixar Toy Story Signature Collection Woody Action Figure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/d3df7cca-69a0-42af-b8e3-25d20fb44815.8501737fa8c22ac30254240d1a826783.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Release Versions of the 4ft Tall Woody and 3ft Tall Buzz ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/toystorymerchandise/images/b/ba/Disney_Store_catalog.jpg/revision/latest?cb=20210531091347' alt='Public Release Versions of the 4ft Tall Woody and 3ft Tall Buzz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toy Story Merchandise Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/toystorymerchandise/images/b/ba/Disney_Store_catalog.jpg/revision/latest?cb=20210531091347' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Story Gets 6 Foot Tall Statues with Beast Kingdom">
+                                <img itemprop="contentUrl url" src='https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/07/115913514_195266068625683_562477829862982039_o.jpg' alt='Toy Story Gets 6 Foot Tall Statues with Beast Kingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/07/115913514_195266068625683_562477829862982039_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Pixar Toy Story 16 inch Tall SHERIFF WOODY Deluxe Pull-String  Talking Action Figure">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/87df6824-dcf9-49a6-8079-e2dc8720e649.11a44d2e3008ae2ea84144c7a4e35514.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF' alt='Disney Pixar Toy Story 16 inch Tall SHERIFF WOODY Deluxe Pull-String  Talking Action Figure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="264">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/87df6824-dcf9-49a6-8079-e2dc8720e649.11a44d2e3008ae2ea84144c7a4e35514.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

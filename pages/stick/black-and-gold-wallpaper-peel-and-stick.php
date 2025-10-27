@@ -1,0 +1,129 @@
+<title>Elegant Black and Gold Peel and Stick Wallpaper for Effortless Decor</title>
+                    <meta name="description" content="Discover the beauty of black and gold peel and stick wallpaper. Easy to apply and remove, this chic design will elevate any room. Perfect for quick home makeovers without the mess of traditional wallpaper. Ideal for renters and DIY lovers! Explore our collection today!">
+                    <meta name="keywords" content="black and gold wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/black-and-gold-wallpaper-peel-and-stick">
+                            <span itemprop="name">black and gold wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Gold Peel and Stick Wallpaper for Effortless Decor</h1>
+                <p>Transform your space effortlessly with black and gold peel and stick wallpaper. This stylish option offers a luxurious touch while being easy to apply and remove, perfect for renters and DIY enthusiasts alike. Update any room instantly without the mess of traditional wallpaper, making it an ideal choice for a chic home makeover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroad Peel and Stick Wallpaper Black and Gold Wallpaper Geometric  Wallpaper Black and Gold Contact Paper Self Adhesive Removable Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ibCIqB3cL.jpg' alt='Heroad Peel and Stick Wallpaper Black and Gold Wallpaper Geometric  Wallpaper Black and Gold Contact Paper Self Adhesive Removable Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ibCIqB3cL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yasinet Peel and Stick Wallpaper Modern Black and Gold Wallpaper Peel and  Stick Geometric Stripe Removable Wallpaper for Bedroom Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91s7AWwC-JL.jpg' alt='Yasinet Peel and Stick Wallpaper Modern Black and Gold Wallpaper Peel and  Stick Geometric Stripe Removable Wallpaper for Bedroom Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91s7AWwC-JL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Geometric Wallpaper - Art Deco Grid Design, Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19529219/r/il/45154a/5506890744/il_570xN.5506890744_4lvr.jpg' alt='Black and Gold Geometric Wallpaper - Art Deco Grid Design, Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19529219/r/il/45154a/5506890744/il_570xN.5506890744_4lvr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Gold Honeycomb Wallpaper CC043">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/04_62951aba-d201-4ee9-be03-f93c1734877f_1024x1024.jpg?v=1679959113' alt='Black Gold Honeycomb Wallpaper CC043'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/04_62951aba-d201-4ee9-be03-f93c1734877f_1024x1024.jpg?v=1679959113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Gold Removable Wallpaper, Art Deco Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10668883/r/il/e0d47e/6069348046/il_570xN.6069348046_or47.jpg' alt='Black Gold Removable Wallpaper, Art Deco Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10668883/r/il/e0d47e/6069348046/il_570xN.6069348046_or47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Cynthia Rowley for Tempaper 60-sq ft Black and Gold Vinyl  Chinoiserie Self-adhesive Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/c721516b-f72f-44cd-9798-ed4eea34ddd0/12183031.jpg' alt='Tempaper Cynthia Rowley for Tempaper 60-sq ft Black and Gold Vinyl  Chinoiserie Self-adhesive Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/c721516b-f72f-44cd-9798-ed4eea34ddd0/12183031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Aviary Peel & Stick Wallpaper - Black & Gold">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1310RL_fcf6bdaf-ad55-4cab-be2b-c82763825f62.jpg?v=1621892133' alt='Rifle Paper Co. Aviary Peel & Stick Wallpaper - Black & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1310RL_fcf6bdaf-ad55-4cab-be2b-c82763825f62.jpg?v=1621892133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LiKiLiKi Black and Gold Wallpaper Modern Geometric Peel and Stick Wallpaper  17.3''×197'' Self Adhesive Boho Contact Paper Removable Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Kiao+AVqL.jpg' alt='LiKiLiKi Black and Gold Wallpaper Modern Geometric Peel and Stick Wallpaper  17.3''×197'' Self Adhesive Boho Contact Paper Removable Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Kiao+AVqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York PSW1070RL Double Diamonds Black Gold Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/220342.jpg' alt='York PSW1070RL Double Diamonds Black Gold Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/220342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly 17.7" x 511.8" Peel and Stick Wallpaper Self Adhesive Removable  Vinyl Wallpaper Black Gold Geometric Paper for Living Room Drawer Liner">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/7fca44a0-85a4-4fc2-9137-c48fb0bcf427.cbdfd651ef7c5925282621eea95da92f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Abyssaly 17.7" x 511.8" Peel and Stick Wallpaper Self Adhesive Removable  Vinyl Wallpaper Black Gold Geometric Paper for Living Room Drawer Liner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/7fca44a0-85a4-4fc2-9137-c48fb0bcf427.cbdfd651ef7c5925282621eea95da92f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

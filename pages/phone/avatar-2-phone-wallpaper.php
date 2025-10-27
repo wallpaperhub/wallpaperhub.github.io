@@ -1,0 +1,129 @@
+<title>Stunning Avatar 2 Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover mesmerizing "Avatar 2" phone wallpapers that enhance your mobile screen. Explore vibrant scenes and iconic characters, perfect for every fan. Easily browse and download your favorites for an enchanting look that showcases the magic of Pandora. Transform your phone today!">
+                    <meta name="keywords" content="avatar 2 phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/avatar-2-phone-wallpaper">
+                            <span itemprop="name">avatar 2 phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Avatar 2 Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning "Avatar 2" phone wallpapers! Dive into the vibrant world of Pandora, featuring breathtaking landscapes and beloved characters. Perfect for fans of the epic sequel, these wallpapers bring the magic of "Avatar 2" right to your screen. Download now to elevate your mobile experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/91/73/499173243871030c56724b17ba07ca8a.jpg' alt='Avatar 2 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/91/73/499173243871030c56724b17ba07ca8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2: TWOW 4K Wallpaper : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-4z013dklpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=162eb15adf11cba4e4a57185b6c1922c74955d3b' alt='Avatar 2: TWOW 4K Wallpaper : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-4z013dklpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=162eb15adf11cba4e4a57185b6c1922c74955d3b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar the way of water wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/82/af/5d82afebae0e8e8e8e21b0a48e418c4b.jpg' alt='Avatar the way of water wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/82/af/5d82afebae0e8e8e8e21b0a48e418c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar The Way of Water 2, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/771/901/HD-wallpaper-avatar-the-way-of-water-2.jpg' alt='Avatar The Way of Water 2, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/771/901/HD-wallpaper-avatar-the-way-of-water-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Avatar wallpaper setup : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=640&crop=smart&auto=webp&s=aeb3077f63cd5a4fa8b533bbf3191c1b3ca68147' alt='My Avatar wallpaper setup : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=640&crop=smart&auto=webp&s=aeb3077f63cd5a4fa8b533bbf3191c1b3ca68147' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Avatar 2 The Way Of Water Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/avatar-2-the-way-of-water-wallpaper-d6jcnej4x10q1fkg.jpg' alt='100+] Avatar 2 The Way Of Water Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/avatar-2-the-way-of-water-wallpaper-d6jcnej4x10q1fkg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2: TWOW 4K Wallpaper : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-bwrvx5ugpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=b57a00895c9b45710cfd354353b4ef310de91fe9' alt='Avatar 2: TWOW 4K Wallpaper : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-bwrvx5ugpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=b57a00895c9b45710cfd354353b4ef310de91fe9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2 The Way of Water - Top 35 Best Avatar 2 Background, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/609/869/HD-wallpaper-avatar-2-the-way-of-water-top-35-best-avatar-2-background.jpg' alt='Avatar 2 The Way of Water - Top 35 Best Avatar 2 Background, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/609/869/HD-wallpaper-avatar-2-the-way-of-water-top-35-best-avatar-2-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar: The Way of Water Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/7/7/1590009-2160x3840-iphone-4k-avatar-the-way-of-water-background-photo.jpg' alt='Avatar: The Way of Water Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/7/7/1590009-2160x3840-iphone-4k-avatar-the-way-of-water-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar: The Way Of Water (2022) Phone Wallpaper | Wallcinemania">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/e3/cb/20e3cbf7bc064b04cee9f40ad7231d4a.jpg' alt='Avatar: The Way Of Water (2022) Phone Wallpaper | Wallcinemania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/e3/cb/20e3cbf7bc064b04cee9f40ad7231d4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

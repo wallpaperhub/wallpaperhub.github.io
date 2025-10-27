@@ -1,0 +1,129 @@
+<title>Stunning Red and Blue Abstract Background</title>
+                    <meta name="description" content="Discover an eye-catching red and blue abstract background that energizes any design project. Perfect for digital art, presentations, or as a unique wallpaper, its vibrant hues and dynamic patterns will captivate and inspire creativity. Transform your visuals with this stunning backdrop!">
+                    <meta name="keywords" content="red and blue abstract background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-and-blue-abstract-background">
+                            <span itemprop="name">red and blue abstract background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red and Blue Abstract Background</h1>
+                <p>A vibrant red and blue abstract background creates a dynamic visual experience. The interplay of warm and cool tones can evoke feelings of passion and tranquility simultaneously. This engaging backdrop is perfect for creative projects, presentations, or as a digital wallpaper, bringing energy and intrigue to any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Abstract Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/layout-design-with-dynamic-shapes-event-tournament-championship-sport-background_157027-1667.jpg?semt=ais_hybrid' alt='Red Blue Abstract Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/layout-design-with-dynamic-shapes-event-tournament-championship-sport-background_157027-1667.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Abstract Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-blue-red-background_569389-2625.jpg?semt=ais_hybrid' alt='Red Blue Abstract Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-blue-red-background_569389-2625.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Red Abstract Background">
+                                <img itemprop="contentUrl url" src='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/63263/vecteezyabstract-backgroundik0521_generated.jpg' alt='Blue and Red Abstract Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector4Free" />
+                                </span>
+                                <a href='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/63263/vecteezyabstract-backgroundik0521_generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Abstract Images – Browse 2,507,264 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/15/31/26/360_F_515312664_D0iIHa0YnNjyxiLd7UJxKqKoeQN3VNeC.jpg' alt='Red White And Blue Abstract Images – Browse 2,507,264 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/15/31/26/360_F_515312664_D0iIHa0YnNjyxiLd7UJxKqKoeQN3VNeC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Abstract Background Stock Photos, Images and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/002/520/non_2x/ai-generated-abstract-background-with-blue-orange-and-red-watercolor-paint-splashes-photo.jpg' alt='Red And Blue Abstract Background Stock Photos, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/002/520/non_2x/ai-generated-abstract-background-with-blue-orange-and-red-watercolor-paint-splashes-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract red and blue background - PSDgraphics">
+                                <img itemprop="contentUrl url" src='https://www.psdgraphics.com/wp-content/uploads/2020/04/abstract-red-blue-background.jpg' alt='Abstract red and blue background - PSDgraphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSDgraphics" />
+                                </span>
+                                <a href='https://www.psdgraphics.com/wp-content/uploads/2020/04/abstract-red-blue-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Abstract Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/421/220/small_2x/abstract-geometric-red-and-blue-background-free-vector.jpg' alt='Red Blue Abstract Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/421/220/small_2x/abstract-geometric-red-and-blue-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,200+ Red And Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410502468/vector/red-blue-abstract-angled-background.jpg?s=612x612&w=0&k=20&c=fOu0LgIpXUk01MSQq_xClxqMxMSt-TGBoxD04iDzlCw=' alt='22,200+ Red And Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410502468/vector/red-blue-abstract-angled-background.jpg?s=612x612&w=0&k=20&c=fOu0LgIpXUk01MSQq_xClxqMxMSt-TGBoxD04iDzlCw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Abstract Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149009236.jpg' alt='Red Blue Abstract Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149009236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract background red blue Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/22/63/abstract-background-red-blue-vector-7422263.jpg' alt='Abstract background red blue Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/22/63/abstract-background-red-blue-vector-7422263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

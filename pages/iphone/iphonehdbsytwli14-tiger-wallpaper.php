@@ -1,0 +1,129 @@
+<title>Stunning Tiger Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a vibrant collection of tiger wallpapers for your iPhone. Perfect for wildlife enthusiasts, these designs bring the beauty of nature right to your screen. Download now and personalize your device with fierce and majestic tiger imagery!">
+                    <meta name="keywords" content="iphone:hdbsytwli14= tiger wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonehdbsytwli14-tiger-wallpaper">
+                            <span itemprop="name">iphone:hdbsytwli14= tiger wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tiger Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning tiger wallpapers! Discover a collection that showcases the beauty and majesty of tigers in captivating designs. Elevate your device's aesthetic with these eye-catching images, perfect for wildlife lovers and anyone who appreciates the power of nature. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tiger Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tiger-iphone-9r2h5yekqva8tbka.jpg' alt='100+] Tiger Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tiger-iphone-9r2h5yekqva8tbka.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Best Tiger wallpaper iphone ideas | tiger wallpaper, tiger ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/222x/60/ab/70/60ab70bbd7f0ce05a87058a937dab958.jpg' alt='12 Best Tiger wallpaper iphone ideas | tiger wallpaper, tiger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/222x/60/ab/70/60ab70bbd7f0ce05a87058a937dab958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger Wallpapers iPhone 6S Plus by mrjok2016 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c1a12f6-4205-496d-835f-b44199f058c1/da6rwhh-745d5284-8b47-470e-8c09-30384c8df9dd.jpg/v1/fill/w_670,h_1192,q_70,strp/tiger_wallpapers_iphone_6s_plus_by_mrjok2016_da6rwhh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzJjMWExMmY2LTQyMDUtNDk2ZC04MzVmLWI0NDE5OWYwNThjMVwvZGE2cndoaC03NDVkNTI4NC04YjQ3LTQ3MGUtOGMwOS0zMDM4NGM4ZGY5ZGQuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.MlIOJu3F8lN4RCfaPH3pe-gzxPanMP5fUahNaiyiuEE' alt='Tiger Wallpapers iPhone 6S Plus by mrjok2016 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c1a12f6-4205-496d-835f-b44199f058c1/da6rwhh-745d5284-8b47-470e-8c09-30384c8df9dd.jpg/v1/fill/w_670,h_1192,q_70,strp/tiger_wallpapers_iphone_6s_plus_by_mrjok2016_da6rwhh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzJjMWExMmY2LTQyMDUtNDk2ZC04MzVmLWI0NDE5OWYwNThjMVwvZGE2cndoaC03NDVkNTI4NC04YjQ3LTQ3MGUtOGMwOS0zMDM4NGM4ZGY5ZGQuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.MlIOJu3F8lN4RCfaPH3pe-gzxPanMP5fUahNaiyiuEE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger Face iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/1c/ae/e81caedd237acb4bb1583f5e35c29c62.jpg' alt='Tiger Face iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/1c/ae/e81caedd237acb4bb1583f5e35c29c62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tiger Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/majestic-tiger-iphone-wallpaper-d17mgkwalfldlexg.jpg' alt='100+] Tiger Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/majestic-tiger-iphone-wallpaper-d17mgkwalfldlexg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White tiger Wallpaper 4K, Dark aesthetic, Bengal Tiger">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-1284x2778-1526.jpg' alt='White tiger Wallpaper 4K, Dark aesthetic, Bengal Tiger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-1284x2778-1526.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tiger Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/butterfly-tiger-iphone-imtq9hx5rxz6bsn4.jpg' alt='100+] Tiger Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/butterfly-tiger-iphone-imtq9hx5rxz6bsn4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/2c/3f/622c3fb91195bfd3ea2fe7deae11c962.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/2c/3f/622c3fb91195bfd3ea2fe7deae11c962.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tiger, animal, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/308/540/HD-wallpaper-white-tiger-animal.jpg' alt='White Tiger, animal, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/308/540/HD-wallpaper-white-tiger-animal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 4 Wallpaper- Tiger by SofiaERamirez on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad21e16-6cc5-41eb-9055-5cb0cb2c1dd0/d4cf8x1-1825379b-81fb-47bd-bd9a-48b8c5ceacba.jpg/v1/fill/w_643,h_960,q_75,strp/iphone_4_wallpaper__tiger_by_sofiaeramirez_d4cf8x1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvZGFkMjFlMTYtNmNjNS00MWViLTkwNTUtNWNiMGNiMmMxZGQwXC9kNGNmOHgxLTE4MjUzNzliLTgxZmItNDdiZC1iZDlhLTQ4YjhjNWNlYWNiYS5qcGciLCJ3aWR0aCI6Ijw9NjQzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eHZgM-lnhMuxq-f6KA70usR1Jb2r1XRqe-FvBRNwY-o' alt='iPhone 4 Wallpaper- Tiger by SofiaERamirez on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad21e16-6cc5-41eb-9055-5cb0cb2c1dd0/d4cf8x1-1825379b-81fb-47bd-bd9a-48b8c5ceacba.jpg/v1/fill/w_643,h_960,q_75,strp/iphone_4_wallpaper__tiger_by_sofiaeramirez_d4cf8x1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvZGFkMjFlMTYtNmNjNS00MWViLTkwNTUtNWNiMGNiMmMxZGQwXC9kNGNmOHgxLTE4MjUzNzliLTgxZmItNDdiZC1iZDlhLTQ4YjhjNWNlYWNiYS5qcGciLCJ3aWR0aCI6Ijw9NjQzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eHZgM-lnhMuxq-f6KA70usR1Jb2r1XRqe-FvBRNwY-o' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
